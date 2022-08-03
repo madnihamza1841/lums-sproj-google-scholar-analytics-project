@@ -1,0 +1,248 @@
+https://scholar.google.com/citations?hl=en&user=f8RkRagAAAAJ
+Total Citations = 1376
+
+1. Vanish: Increasing Data Privacy with Self-Destructing Data.
+Citations:419
+Authors: R Geambasu, T Kohno, AA Levy, HM Levy
+Publication: USENIX Security Symposium 316
+
+2. CleanOS: Limiting mobile data exposure with idle eviction
+Citations:120
+Authors: Y Tang, P Ames, S Bhamidipati, A Bijlani, R Geambasu, N Sarda
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+3. XRay: Increasing the Web's Transparency with Differential Correlation
+Citations:96
+Authors: M Lecuyer, G Ducoffe, F Lan, A Papancea, T Petsios, R Spahn, ...
+Publication: Proceedings of the USENIX Security Symposium
+
+4. Comet: An active distributed key-value store.
+Citations:88
+Authors: R Geambasu, AA Levy, T Kohno, A Krishnamurthy, HM Levy
+Publication: OSDI, 323-336
+
+5. Homeviews: peer-to-peer middleware for personal data sharing applications
+Citations:84
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+6. Keypad: An auditing file system for theft-prone devices
+Citations:60
+Authors: R Geambasu, JP John, SD Gribble, T Kohno, HM Levy
+Publication: Proceedings of the sixth conference on Computer systems, 1-16
+
+7. Organizing and sharing distributed personal web-service data
+Citations:58
+Authors: R Geambasu, C Cheung, A Moshchuk, SD Gribble, HM Levy
+Publication: Proceedings of the 17th international conference on World Wide Web, 755-764
+
+8. CloudViews: Communal Data Sharing in Public Clouds.
+Citations:49
+Authors: R Geambasu, SD Gribble, HM Levy
+Publication: HotCloud
+
+9. Sunlight: Fine-grained targeting detection at scale with statistical confidence
+Citations:46
+Authors: M Lecuyer, R Spahn, Y Spiliopolous, A Chaintreau, R Geambasu, D Hsu
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+10. Pebbles: Fine-grained data management abstractions for modern operating systems
+Citations:36
+Authors: R Spahn, J Bell, M Lee, S Bhamidipati, R Geambasu, G Kaiser
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+11. Certified robustness to adversarial examples with differential privacy
+Citations:32
+Authors: M Lecuyer, V Atlidakis, R Geambasu, D Hsu, S Jana
+Publication: arXiv preprint arXiv:1802.03471
+
+12. Synapse: a microservices architecture for heterogeneous-database web applications
+Citations:32
+Authors: N Viennot, M Lécuyer, J Bell, R Geambasu, J Nieh
+Publication: Proceedings of the Tenth European Conference on Computer Systems, 21
+
+13. The meerkats cloud security architecture
+Citations:29
+Authors: AD Keromytis, R Geambasu, S Sethumadhavan, SJ Stolfo, J Yang, ...
+Publication: 2012 32nd International Conference on Distributed Computing Systems …
+
+14. FairTest: Discovering Unwarranted Associations in Data-Driven Applications
+Citations:28
+Authors: F Tramer, V Atlidakis, R Geambasu, D Hsu, JP Hubaux, M Humbert, ...
+Publication: IEEE European Symposium on Security and Privacy (EuroS&P)
+
+15. POSIX abstractions in modern operating systems: The old, the new, and the missing
+Citations:26
+Authors: V Atlidakis, J Andrus, R Geambasu, D Mitropoulos, J Nieh
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 19
+
+16. Encapsulation and decapsulation for data disintegration
+Citations:25
+Authors: T Kohno, R Geambasu, HM Levy
+Publication: US Patent 8,520,855
+
+17. vTube: efficient streaming of virtual appliances over last-mile networks
+Citations:18
+Authors: Y Abe, R Geambasu, K Joshi, HA Lagar-Cavilla, M Satyanarayanan
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 16
+
+18. Discovering unwarranted associations in data-driven applications with the fairtest testing toolkit
+Citations:16
+Authors: F Tramèr, V Atlidakis, R Geambasu, DJ Hsu, JP Hubaux, M Humbert, ...
+Publication: CoRR, abs/1510.02377
+
+19. Urgent virtual machine eviction with enlightened post-copy
+Citations:13
+Authors: Y Abe, R Geambasu, K Joshi, M Satyanarayanan
+Publication: ACM SIGPLAN Notices 51 (7), 51-64
+
+20. New directions for self-destructing data systems
+Citations:12
+Authors: R Geambasu, T Kohno, A Krishnamurthy, A Levy, H Levy, P Gardner, ...
+Publication: University of Washington, Tech. Rep
+
+21. Experiences building security applications on DHTs
+Citations:12
+Authors: R Geambasu, J Falkner, P Gardner, T Kohno, A Krishnamurthy, HM Levy
+Publication: technical report, UW-CSE-09–09–01
+
+22. New directions for self-destructing data
+Citations:11
+Authors: R Geambasu, T Kohno, A Krishnamurthy, A Levy, HM Levy, P Gardner, ...
+Publication: University of Washington, Tech. Rep. UW-CSE-11-08-01
+
+23. On-Demand View Materialization and Indexing for Network Forensic Analysis.
+Citations:11
+Authors: R Geambasu, T Bragin, J Jung, M Balazinska
+Publication: NetDB
+
+24. Keypad: Auditing File System for Mobile Devices
+Citations:9
+Authors: R Geambasu, JP John, SD Gribble, T Kohno, HM Levy
+Publication: Proc. Sixth Conf. Computer Systems (EuroSys)
+
+25. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+26. Experiences with formal specification of fault-tolerant file systems
+Citations:7
+Authors: R Geambasu, A Birrell, J MacCormick
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+27. Pyramid: Enhancing selectivity in big data protection with count featurization
+Citations:6
+Authors: M Lecuyer, R Spahn, R Geambasu, TK Huang, S Sen
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 78-95
+
+28. Web transparency for complex targeting: Algorithms, limits, and tradeoffs
+Citations:4
+Authors: G Ducoffe, M Lécuyer, A Chaintreau, R Geambasu
+Publication: ACM SIGMETRICS Performance Evaluation Review 43 (1), 465-466
+
+29. Regaining control over cloud and mobile data
+Citations:4
+Authors: R Geambasu
+Publication: University of Washington
+
+30. The organization and sharing of web-service objects with menagerie
+Citations:4
+Authors: R Geambasu, C Cheung, A Moshchuk, SD Gribble, HM Levy
+Publication: Proceedings of the World Wide Web Conference (WWW)
+
+31. ‘On the connection between differential privacy and adversarial robustness in machine learning
+Citations:3
+Authors: M Lecuyer, V Atlidakis, R Geambasu, D Hsu, S Jana
+Publication: stat 1050, 9
+
+32. Capability-based access control for peer-to-peer data sharing
+Citations:3
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Tech report 2006-07-02. University of Washington
+
+33. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+34. Study of Virtual Machine Performance over Network File Systems
+Citations:2
+Authors: R Geambasu, JP John
+Publication: University of Washington Technical Report
+
+35. Enhancing selectivity in big data
+Citations:1
+Authors: M Lecuyer, R Spahn, R Geambasu, TK Huang, S Sen
+Publication: IEEE Security & Privacy 16 (1), 34-42
+
+36. Exploiting History in a network intrusion Detection Ststem
+Citations:1
+Authors: R Geambasu, T Bragin
+Publication: NDSI 2007, NetDB Workshop
+
+37. Privacy accounting and quality control in the sage differentially private ml platform
+Citations:
+Authors: M Lecuyer, R Spahn, K Vodrahalli, R Geambasu, D Hsu
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 75-84
+
+38. Systems and methods for file access auditing
+Citations:
+Authors: T Kohno, R Geambasu, H Levy, S Gribble
+Publication: US Patent 9,489,523
+
+39. Maintaining Enterprise Resiliency via Kaleidoscopic Adaption and Transformation of Software Services (MEERKATS)
+Citations:
+Authors: R Geambasu, D Mitropoulos, S Sethumadhavan, J Yang, A Stravrou, ...
+Publication: Columbia University New York United States
+
+40. POSIX Has Become Outdated
+Citations:
+Authors: V Atlidakis, J Andrus, R Geambasu, D Mitropoulos, J Nieh
+Publication: ; login: 41 (3)
+
+41. Vers une plus grande transparence du Web
+Citations:
+Authors: A Chaintreau, G Ducoffe, R Geambasu, M Lécuyer
+Publication: 
+
+42. Building Toward a More Transparent Web
+Citations:
+Authors: R Geambasu
+Publication: 
+
+43. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+44. Evangelos (Vaggelis) Atlidakis
+Citations:
+Authors: R Geambasu, J Nieh
+Publication: Journal of Parallel and Distributed Computing (JPDC) 74 (1), 1959-1970
+
+45. FairTest
+Citations:
+Authors: F Tramèr, V Atlidakis, R Geambasu, D Hsu, JP Hubaux, M Humbert, ...
+Publication: 
+
+46. Úlfar Erlingsson Google
+Citations:
+Authors: B Parno, M Backes, D Balzarotti, G Barthe, L Bauer, K Bhargavan, ...
+Publication: 
+
+47. Workshop on Technology and Consumer Protection (ConPro’17)
+Citations:
+Authors: J Calandrino, A Narayanan, A Acquisti, S Afroz, A Alva, L Banks, ...
+Publication: 
+
+48. Facilitating Communal Data Sharing in Public Clouds
+Citations:
+Authors: R Geambasu, S Gribble, H Levy
+Publication: 
+
+49. DIMACS Workshop on Secure Cloud Computing
+Citations:
+Authors: G Shannon, R Sion, R Wright, AR Sadeghi, M Reiter, P Manadhata, ...
+Publication: 
+

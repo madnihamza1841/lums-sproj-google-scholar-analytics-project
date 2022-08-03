@@ -1,0 +1,993 @@
+https://scholar.google.com/citations?hl=en&user=BEEuinQAAAAJ
+Total Citations = 17323
+
+1. McPAT: an integrated power, area, and timing modeling framework for multicore and manycore architectures
+Citations:2192
+Authors: S Li, JH Ahn, RD Strong, JB Brockman, DM Tullsen, NP Jouppi
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+2. Simultaneous multithreading: Maximizing on-chip parallelism
+Citations:2052
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: ACM SIGARCH computer architecture news 23 (2), 392-403
+
+3. Exploiting choice: Instruction fetch and issue on an implementable simultaneous multithreading processor
+Citations:1073
+Authors: DM Tullsen, SJ Eggers, JS Emer, HM Levy, JL Lo, RL Stamm
+Publication: ACM SIGARCH Computer Architecture News 24 (2), 191-202
+
+4. Symbiotic jobscheduling for a simultaneous mutlithreading processor
+Citations:943
+Authors: A Snavely, DM Tullsen
+Publication: ACM SIGPLAN Notices 35 (11), 234-244
+
+5. Single-ISA heterogeneous multi-core architectures: The potential for processor power reduction
+Citations:929
+Authors: R Kumar, KI Farkas, NP Jouppi, P Ranganathan, DM Tullsen
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+6. Single-ISA heterogeneous multi-core architectures for multithreaded workload performance
+Citations:722
+Authors: R Kumar, DM Tullsen, P Ranganathan, NP Jouppi, KI Farkas
+Publication: Proceedings. 31st Annual International Symposium on Computer Architecture …
+
+7. Simultaneous multithreading: A platform for next-generation processors
+Citations:606
+Authors: SJ Eggers, JS Emer, HM Levy, JL Lo, RL Stamm, DM Tullsen
+Publication: IEEE micro, 12-19
+
+8. Interconnections in multi-core architectures: Understanding mechanisms, overheads and scaling
+Citations:561
+Authors: R Kumar, V Zyuban, DM Tullsen
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 408-419
+
+9. Heterogeneous chip multiprocessors
+Citations:428
+Authors: R Kumar, DM Tullsen, NP Jouppi, P Ranganathan
+Publication: Computer 38 (11), 32-38
+
+10. Speculative precomputation: Long-range prefetching of delinquent loads
+Citations:423
+Authors: JD Collins, H Wang, DM Tullsen, C Hughes, YF Lee, D Lavery, JP Shen
+Publication: Proceedings 28th Annual International Symposium on Computer Architecture, 14-25
+
+11. Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading
+Citations:343
+Authors: JL Lo, JS Emer, HM Levy, RL Stamm, DM Tullsen, SJ Eggers
+Publication: ACM Transactions on Computer Systems (TOCS) 15 (3), 322-354
+
+12. Impulse: Building a smarter memory controller
+Citations:303
+Authors: J Carter, W Hsieh, L Stoller, M Swanson, L Zhang, E Brunvand, A Davis, ...
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+13. Selective value prediction
+Citations:282
+Authors: B Calder, G Reinman, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 27 (2), 64-74
+
+14. Handling long-latency loads in a simultaneous multithreading processor
+Citations:276
+Authors: DM Tullsen, JA Brown
+Publication: Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …
+
+15. Core architecture optimization for heterogeneous chip multiprocessors
+Citations:272
+Authors: R Kumar, DM Tullsen, NP Jouppi
+Publication: 2006 International Conference on Parallel Architectures and Compilation …
+
+16. Dynamic speculative precomputation
+Citations:248
+Authors: JD Collins, DM Tullsen, H Wang, JP Shen
+Publication: Proceedings of the 34th annual ACM/IEEE international symposium on …
+
+17. Symbiotic jobscheduling with priorities for a simultaneous multithreading processor
+Citations:217
+Authors: A Snavely, DM Tullsen, G Voelker
+Publication: ACM SIGMETRICS Performance Evaluation Review 30 (1), 66-76
+
+18. Symbiotic jobscheduling with priorities for a simultaneous multithreading processor
+Citations:217
+Authors: A Snavely, DM Tullsen, G Voelker
+Publication: ACM SIGMETRICS Performance Evaluation Review 30 (1), 66-76
+
+19. Simulation and modeling of a simultaneous multithreading processor
+Citations:210
+Authors: DM Tullsen
+Publication: The 1996 22 nd International Conference for the Resource Management …
+
+20. Mitosis compiler: an infrastructure for speculative threading based on pre-computation slices
+Citations:202
+Authors: CG Quiñones, C Madriles, J Sánchez, P Marcuello, A González, ...
+Publication: ACM Sigplan Notices 40 (6), 269-279
+
+21. Threaded multiple path execution
+Citations:192
+Authors: S Wallace, B Calder, DM Tullsen
+Publication: Proceedings. 25th Annual International Symposium on Computer Architecture …
+
+22. Managing distributed ups energy for effective power capping in data centers
+Citations:182
+Authors: V Kontorinis, LE Zhang, B Aksanli, J Sampson, H Homayoun, E Pettis, ...
+Publication: 2012 39th Annual International Symposium on Computer Architecture (ISCA …
+
+23. Dynamic prediction of critical path instructions
+Citations:178
+Authors: E Tune, D Liang, DM Tullsen, B Calder
+Publication: Proceedings HPCA Seventh International Symposium on High-Performance …
+
+24. The McPAT framework for multicore and manycore architectures: Simultaneously modeling power, area, and timing
+Citations:171
+Authors: S Li, JH Ahn, RD Strong, JB Brockman, DM Tullsen, NP Jouppi
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 10 (1), 5
+
+25. Supporting fine-grained synchronization on a simultaneous multithreading processor
+Citations:168
+Authors: DM Tullsen, JL Lo, SJ Eggers, HM Levy
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+26. Shared register storage mechanisms for multithreaded computer systems with out-of-order execution
+Citations:165
+Authors: HM Levy, SJ Eggers, J Lo, DM Tullsen
+Publication: US Patent 6,092,175
+
+27. Initial observations of the simultaneous multithreading Pentium 4 processor
+Citations:164
+Authors: N Tuck, DM Tullsen
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+28. Pointer cache assisted prefetching
+Citations:155
+Authors: J Collins, S Sair, B Calder, DM Tullsen
+Publication: Proceedings of the 35th annual ACM/IEEE international symposium on …
+
+29. Evaluating the impact of job scheduling and power management on processor lifetime for chip multiprocessors
+Citations:147
+Authors: AK Coskun, R Strong, DM Tullsen, T Simunic Rosing
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 169-180
+
+30. Conjoined-core chip multiprocessing
+Citations:122
+Authors: R Kumar, NP Jouppi, DM Tullsen
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+31. Power-sensitive multithreaded architecture
+Citations:108
+Authors: JS Seng, DM Tullsen, GZN Cai
+Publication: Proceedings 2000 International Conference on Computer Design, 199-206
+
+32. Reducing power with dynamic critical path information
+Citations:107
+Authors: JS Seng, ES Tune, DM Tullsen
+Publication: Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …
+
+33. A tree based router search engine architecture with single port memories
+Citations:103
+Authors: F Baboescu, DM Tullsen, G Rosu, S Singh
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 123-133
+
+34. Exploiting unbalanced thread scheduling for energy and performance on a CMP of SMT processors
+Citations:101
+Authors: M De Vuyst, R Kumar, DM Tullsen
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+35. Mechanism for freeing registers on processors that perform dynamic out-of-order execution of instructions using renaming registers
+Citations:101
+Authors: HM Levy, SJ Eggers, J Lo, DM Tullsen
+Publication: US Patent 6,314,511
+
+36. Storageless value prediction using prior register values
+Citations:96
+Authors: DM Tullsen, JS Seng
+Publication: ACM SIGARCH Computer Architecture News 27 (2), 270-279
+
+37. Thread properties attribute vector based thread selection in multithreading processor
+Citations:95
+Authors: JS Emer, R Stamm, T Fossum, RH Halstead Jr, GZ Chrysos, D Tullsen, ...
+Publication: US Patent 6,073,159
+
+38. Processor power reduction via single-ISA heterogeneous multi-core architectures
+Citations:94
+Authors: R Kumar, K Farkas, NP Jouppi, P Ranganathan, DM Tullsen
+Publication: IEEE Computer Architecture Letters 2 (1), 2-2
+
+39. Limitations of cache prefetching on a bus-based multiprocessor
+Citations:94
+Authors: DM Tullsen, SJ Eggers
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 278-288
+
+40. Inter-core prefetching for multicore processors using migrating helper threads
+Citations:93
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 393-404
+
+41. Proximity-aware directory-based coherence for multi-core processor architectures
+Citations:85
+Authors: JA Brown, R Kumar, D Tullsen
+Publication: Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …
+
+42. Tuning compiler optimizations for simultaneous multithreading
+Citations:85
+Authors: JL Lo, SJ Eggers, HM Levy, SS Parekh, DM Tullsen
+Publication: International Journal of Parallel Programming 27 (6), 477-503
+
+43. Software-directed register deallocation for simultaneous multithreaded processors
+Citations:83
+Authors: JL Lo, SS Parekh, SJ Eggers, HM Levy, DM Tullsen
+Publication: IEEE Transactions on Parallel and Distributed Systems 10 (9), 922-933
+
+44. An event-driven multithreaded dynamic optimization framework
+Citations:80
+Authors: W Zhang, B Calder, DM Tullsen
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+45. Execution migration in a heterogeneous-ISA chip multiprocessor
+Citations:76
+Authors: M DeVuyst, A Venkat, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 261-272
+
+46. Simultaneous multithreading: maximizing on-chip parallelism
+Citations:74
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE 25, 115-116
+
+47. The effect of compiler optimizations on Pentium 4 power consumption
+Citations:71
+Authors: JS Seng, DM Tullsen
+Publication: Seventh Workshop on Interaction Between Compilers and Computer Architectures …
+
+48. Harnessing ISA diversity: Design of a heterogeneous-ISA chip multiprocessor
+Citations:69
+Authors: A Venkat, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 121-132
+
+49. Dynamically heterogeneous cores through 3D resource pooling
+Citations:67
+Authors: H Homayoun, V Kontorinis, A Shayan, TW Lin, DM Tullsen
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+50. Effective cache prefetching on bus-based multiprocessors
+Citations:62
+Authors: DM Tullsen, SJ Eggers
+Publication: ACM Transactions on Computer Systems (TOCS) 13 (1), 57-88
+
+51. Reducing peak power with a table-driven adaptive processor core
+Citations:60
+Authors: V Kontorinis, A Shayan, DM Tullsen, R Kumar
+Publication: Proceedings of the 42nd annual IEEE/ACM international symposium on …
+
+52. Pipelined multi-thread processor selecting thread instruction in inter-stage buffer based on count information
+Citations:59
+Authors: JS Emer, R Stamm, T Fossum, RH Halstead Jr, GZ Chrysos, D Tullsen, ...
+Publication: US Patent 6,470,443
+
+53. Fast switching of threads between cores
+Citations:57
+Authors: R Strong, J Mudigonda, JC Mogul, N Binkert, D Tullsen
+Publication: ACM SIGOPS Operating Systems Review 43 (2), 35-45
+
+54. Accelerating and adapting precomputation threads for effcient prefetching
+Citations:57
+Authors: W Zhang, DM Tullsen, B Calder
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+55. Quantifying instruction criticality
+Citations:56
+Authors: ES Tune, DM Tullsen, B Calder
+Publication: Proceedings. International Conference on Parallel Architectures and …
+
+56. Redefining the Role of the CPU in the Era of CPU-GPU Integration
+Citations:55
+Authors: M Arora, S Nath, S Mazumdar, SB Baden, DM Tullsen
+Publication: IEEE Micro 32 (6), 4-16
+
+57. Mitosis: A speculative multithreaded processor based on precomputation slices
+Citations:55
+Authors: C Madriles, C García-Quiñones, J Sánchez, P Marcuello, A González, ...
+Publication: IEEE Transactions on parallel and distributed systems 19 (7), 914-925
+
+58. Application-specific customization of parameterized FPGA soft-core processors
+Citations:55
+Authors: D Sheldon, R Kumar, R Lysecky, F Vahid, D Tullsen
+Publication: 2006 IEEE/ACM International Conference on Computer Aided Design, 261-268
+
+59. Balanced multithreading: Increasing throughput via a low cost multithreading hierarchy
+Citations:53
+Authors: E Tune, R Kumar, DM Tullsen, B Calder
+Publication: 37th International Symposium on Microarchitecture (MICRO-37'04), 183-194
+
+60. Control flow optimization via dynamic reconvergence prediction
+Citations:51
+Authors: JD Collins, DM Tullsen, H Wang
+Publication: 37th International Symposium on Microarchitecture (MICRO-37'04), 129-140
+
+61. Fast thread migration via cache working set prediction
+Citations:49
+Authors: JA Brown, L Porter, DM Tullsen
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+62. Hardware identification of cache conflict misses
+Citations:48
+Authors: JD Collins, DM Tullsen
+Publication: Proceedings of the 32nd annual ACM/IEEE international symposium on …
+
+63. Clustered multithreaded architectures-pursuing both ipc and cycle time
+Citations:41
+Authors: JD Collins, DM Tullsen
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+64. The shared-thread multiprocessor.
+Citations:40
+Authors: JA Brown, DM Tullsen
+Publication: ICS, 73-82
+
+65. A multi-core approach to addressing the energy-complexity problem in microprocessors
+Citations:39
+Authors: R Kumar, K Farkas, P Ranganathan, DM Tullsen
+Publication: In Workshop on Complexity-Effective Design
+
+66. Ilp versus tlp on smt
+Citations:39
+Authors: N Mitchell, L Carter, J Ferrante, D Tullsen
+Publication: SC'99: Proceedings of the 1999 ACM/IEEE Conference on Supercomputing, 37-37
+
+67. Multithreaded value prediction
+Citations:35
+Authors: N Tuck, DM Tullsen
+Publication: 11th International Symposium on High-Performance Computer Architecture, 5-15
+
+68. Prime+ Abort: A Timer-Free High-Precision L3 Cache Attack using Intel {TSX}
+Citations:34
+Authors: C Disselkoen, D Kohlbrenner, L Porter, D Tullsen
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 51-67
+
+69. Runtime parallelization of legacy code on a transactional memory system
+Citations:34
+Authors: M DeVuyst, DM Tullsen, SW Kim
+Publication: Proceedings of the 6th International Conference on High Performance and …
+
+70. Experimental evaluation of emerging multi-core architectures
+Citations:34
+Authors: A Kayi, Y Yao, T El-Ghazawi, G Newby
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-6
+
+71. A self-repairing prefetcher in an event-driven dynamic optimization framework
+Citations:33
+Authors: W Zhang, B Calder, DM Tullsen
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+72. Thermal time shifting: Leveraging phase change materials to reduce cooling costs in warehouse-scale computers
+Citations:32
+Authors: M Skach, M Arora, CH Hsu, Q Li, D Tullsen, L Tang, J Mars
+Publication: ACM Sigarch Computer Architecture News 43 (3), 439-449
+
+73. Data-triggered threads: Eliminating redundant computation
+Citations:31
+Authors: HW Tseng, DM Tullsen
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+74. Mapping out a path from hardware transactional memory to speculative multithreading
+Citations:31
+Authors: L Porter, B Choi, DM Tullsen
+Publication: 2009 18th International Conference on Parallel Architectures and Compilation …
+
+75. Compiler techniques for reducing data cache miss rate on a multithreaded architecture
+Citations:31
+Authors: S Sarkar, DM Tullsen
+Publication: International Conference on High-Performance Embedded Architectures and …
+
+76. Explorations in symbiosis on two multithreaded architectures
+Citations:30
+Authors: A Snavely, N Mitchell, L Carter, J Ferrante, D Tullsen
+Publication: Workshop on Multi-Threaded Execution, Architecture, and Compilers
+
+77. Accurate branch prediction for short threads
+Citations:28
+Authors: B Choi, L Porter, DM Tullsen
+Publication: ACM Sigplan Notices 43 (3), 125-134
+
+78. Compiling for instruction cache performance on a multithreaded architecture
+Citations:27
+Authors: R Kumar, DM Tullsen
+Publication: Proceedings of the 35th annual ACM/IEEE international symposium on …
+
+79. Horton tables: Fast hash tables for in-memory data-intensive computing
+Citations:25
+Authors: AD Breslow, DP Zhang, JL Greathouse, N Jayasena, DM Tullsen
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 281-294
+
+80. Creating artificial global history to improve branch prediction accuracy
+Citations:25
+Authors: L Porter, DM Tullsen
+Publication: Proceedings of the 23rd international conference on Supercomputing, 266-275
+
+81. Conjoining soft-core FPGA processors
+Citations:24
+Authors: D Sheldon, R Kumar, F Vahid, D Tullsen, R Lysecky
+Publication: Proceedings of the 2006 IEEE/ACM international conference on Computer-aided …
+
+82. The case for colocation of high performance computing workloads
+Citations:23
+Authors: AD Breslow, L Porter, A Tiwari, M Laurenzano, L Carrington, DM Tullsen, ...
+Publication: Concurrency and Computation: Practice and Experience 28 (2), 232-251
+
+83. Software data spreading: leveraging distributed caches to improve single thread performance
+Citations:23
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: Acm Sigplan Notices 45 (6), 460-470
+
+84. Understanding idle behavior and power gating mechanisms in the context of modern benchmarks on cpu-gpu integrated systems
+Citations:21
+Authors: M Arora, S Manne, I Paul, N Jayasena, DM Tullsen
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+85. Runtime identification of cache conflict misses: The adaptive miss buffer
+Citations:20
+Authors: JD Collins, DM Tullsen
+Publication: ACM Transactions on Computer Systems (TOCS) 19 (4), 413-439
+
+86. Computing along the critical path
+Citations:20
+Authors: D Tullsen, B Calder
+Publication: Technical report, University of California, San Diego
+
+87. Instruction recycling on a multiple-path processor
+Citations:19
+Authors: S Wallace, DM Tullsen, B Calder
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+88. Modeling and analysis of phase change materials for efficient thermal management
+Citations:18
+Authors: F Kaplan, C De Vivero, S Howes, M Arora, H Homayoun, W Burleson, ...
+Publication: 2014 IEEE 32nd International Conference on Computer Design (ICCD), 256-263
+
+89. Software data-triggered threads
+Citations:18
+Authors: HW Tseng, DM Tullsen
+Publication: ACM SIGPLAN Notices 47 (10), 703-716
+
+90. The danger of interval-based power efficiency metrics: When worst is best
+Citations:18
+Authors: Y Sazeides, R Kumar, DM Tullsen, T Constantinou
+Publication: IEEE Computer Architecture Letters 4 (1), 1-1
+
+91. Multithreading architecture
+Citations:17
+Authors: M Nemirovsky, DM Tullsen
+Publication: Synthesis Lectures on Computer Architecture 8 (1), 1-109
+
+92. Low-current probabilistic writes for power-efficient STT-RAM caches
+Citations:15
+Authors: N Strikos, V Kontorinis, X Dong, H Homayoun, D Tullsen
+Publication: 2013 IEEE 31st International Conference on Computer Design (ICCD), 511-514
+
+93. Dynamic workload characterization for power efficient scheduling on CMP systems
+Citations:15
+Authors: G Dhiman, V Kontorinis, D Tullsen, T Rosing, E Saxe, J Chew
+Publication: Proceedings of the 16th ACM/IEEE international symposium on Low power …
+
+94. MemPod: A clustered architecture for efficient and scalable migration in flat address space multi-level memories
+Citations:14
+Authors: A Prodromou, M Meswani, N Jayasena, G Loh, DM Tullsen
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+95. Hipstr: Heterogeneous-isa program state relocation
+Citations:14
+Authors: A Venkat, S Shamasunder, H Shacham, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 727-741
+
+96. Enabling dynamic heterogeneity through core-on-core stacking
+Citations:14
+Authors: V Kontorinis, MK Tavana, MH Hajkazemi, DM Tullsen, H Homayoun
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+97. REMEDIATE: A scalable fault-tolerant architecture for low-power NUCA cache in tiled CMPs
+Citations:14
+Authors: A BanaiyanMofrad, H Homayoun, V Kontorinis, D Tullsen, N Dutt
+Publication: 2013 International Green Computing Conference Proceedings, 1-10
+
+98. Thread row buffers: Improving memory performance isolation and throughput in multiprogrammed environments
+Citations:14
+Authors: E Herrero, J Gonzalez, R Canal, D Tullsen
+Publication: IEEE Transactions on Computers 62 (9), 1879-1892
+
+99. Classifying load and store instructions for memory renaming
+Citations:14
+Authors: G Reinman, B Calder, D Tullsen, G Tyson, T Austin
+Publication: International Conference on Supercomputing, 399-407
+
+100. CDTT: Compiler-generated data-triggered threads
+Citations:13
+Authors: HW Tseng, DM Tullsen
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+101. Hot peripheral thermal management to mitigate cache temperature variation
+Citations:13
+Authors: H Homayoun, M Rahmatian, V Kontorinis, S Golshan, DM Tullsen
+Publication: Thirteenth International Symposium on Quality Electronic Design (ISQED), 755-763
+
+102. Nos leen en
+Citations:13
+Authors: H Collins
+Publication: 
+
+103. Context-sensitive fencing: Securing speculative execution via microcode customization
+Citations:12
+Authors: M Taram, A Venkat, D Tullsen
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+104. Compiler techniques to reduce the synchronization overhead of gpu redundant multithreading
+Citations:12
+Authors: M Gupta, D Lowell, J Kalamatianos, S Raasch, V Sridharan, D Tullsen, ...
+Publication: 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC), 1-6
+
+105. Resistive computation: A critique
+Citations:12
+Authors: H Mahmoodi, SS Lakshmipuram, M Arora, Y Asgarieh, H Homayoun, ...
+Publication: IEEE Computer Architecture Letters 13 (2), 89-92
+
+106. The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU
+Citations:11
+Authors: R Nath, D Tullsen
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 281-293
+
+107. A comparison of core power gating strategies implemented in modern hardware
+Citations:11
+Authors: M Arora, S Manne, Y Eckert, I Paul, N Jayasena, D Tullsen
+Publication: ACM SIGMETRICS Performance Evaluation Review 42 (1), 559-560
+
+108. Architecture-Level Power Optimization-What Are the Limits
+Citations:11
+Authors: JS Seng, DM Tullsen
+Publication: Journal of Instruction-Level Parallelism 7 (7), 3
+
+109. Profile guided load marking for memory renaming
+Citations:11
+Authors: G Reinman, B Calder, D Tullsen, G Tyson, T Austin
+Publication: University of California, San Diego, Technical Report UCSDCS98-T93
+
+110. Compilation issues for a simultaneous multithreading processor
+Citations:11
+Authors: J Lo, S Eggers, H Levy, D Tullsen
+Publication: Proceedings of the first SUIF compiler workshop, 146-147
+
+111. Reliability-aware data placement for heterogeneous memory architecture
+Citations:10
+Authors: M Gupta, V Sridharan, D Roberts, A Prodromou, A Venkat, D Tullsen, ...
+Publication: 2018 IEEE International Symposium on High Performance Computer Architecture …
+
+112. Eliminating redundant computation and exposing parallelism through data-triggered threads
+Citations:10
+Authors: HW Tseng, DM Tullsen
+Publication: IEEE Micro 32 (3), 38-47
+
+113. Mobilizing the micro-ops: Exploiting context sensitive decoding for security and energy efficiency
+Citations:9
+Authors: M Taram, A Venkat, D Tullsen
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+114. Load-balanced pipeline parallelism
+Citations:9
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: SC'13: Proceedings of the International Conference on High Performance …
+
+115. Battery provisioning and associated costs for data center power capping
+Citations:9
+Authors: V Kontorinis, J Sampson, LE Zhang, B Aksanli, H Homayoun, TS Rosing, ...
+Publication: Department of Computer Science and Engineering, University of California …
+
+116. Limits of task-based parallelism in irregular applications
+Citations:9
+Authors: B Kreaseck, D Tullsen, B Calder
+Publication: International Symposium on High Performance Computing, 43-58
+
+117. Simultaneous multithreading
+Citations:9
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: University of Washington
+
+118. Reliability and performance trade-off study of heterogeneous memories
+Citations:7
+Authors: M Gupta, D Roberts, M Meswani, V Sridharan, D Tullsen, R Gupta
+Publication: Proceedings of the Second International Symposium on Memory Systems, 395-401
+
+119. Underclocked software prefetching: More cores, less energy
+Citations:7
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: IEEE Micro 32 (4), 32-41
+
+120. ISCA ‘07: Proceedings of the 34th annual international symposium on Computer architecture
+Citations:7
+Authors: DE Shaw, MM Deneroff, RO Dror, JS Kuskin, RH Larson, JK Salmon, ...
+Publication: New York, NY, USA, 1-12
+
+121. Thermal time shifting: Decreasing datacenter cooling costs with phase change materials
+Citations:6
+Authors: M Skach, M Aurora, CH Hsu, Q Li, D Tullsen, L Tang, J Mars
+Publication: IEEE Internet Computing
+
+122. Heterogeneous computing
+Citations:6
+Authors: R Iyer, D Tullsen
+Publication: IEEE Micro, 4-5
+
+123. Exploring the potential of architecture-level power optimizations
+Citations:6
+Authors: JS Seng, DM Tullsen
+Publication: International Workshop on Power-Aware Computer Systems, 132-147
+
+124. Maximizing TLP with loop-parallelization on SMT
+Citations:6
+Authors: D Puppin, D Tullsen
+Publication: Proc. of the 5th Workshop on Multithreaded Execution, Architecture, and …
+
+125. Composite-isa cores: Enabling multi-isa heterogeneity using a single isa
+Citations:5
+Authors: A Venkat, H Basavaraj, DM Tullsen
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+126. Dynamic code value specialization using the trace cache fill unit
+Citations:5
+Authors: W Zhang, S Checkoway, B Calder, DM Tullsen
+Publication: 2006 International Conference on Computer Design, 10-16
+
+127. Co-Locating and concurrent fine-tuning MapReduce applications on microservers for energy efficiency
+Citations:4
+Authors: M Malik, DM Tullsen, H Homayoun
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 22-31
+
+128. Data-triggered multithreading for near data processing
+Citations:4
+Authors: HW Tseng, DM Tullsen
+Publication: Workshop on Near-Data Processing
+
+129. The case for colocation of hpc workloads
+Citations:4
+Authors: AD Breslow, L Porter, A Tiwari, M Laurenzano, L Carrington, DM Tullsen, ...
+Publication: Concurrency and Computation: Practice and Experience Preprint
+
+130. Asar: Application-specific approximate recovery to mitigate hardware variability
+Citations:3
+Authors: M Gupta, A Rahimi, D Lowell, J Kalamatianos, D Tullsen, R Gupta
+Publication: SELSE (Silicon Errors in Logic, System Effects)
+
+131. Themis: energy efficient management of workloads in virtualized data centers
+Citations:3
+Authors: G Dhiman, V Kontorinis, R Ayoub, L Zhang, C Sadler, D Tullsen, ...
+Publication: European Conference on Parallel Processing, 557-566
+
+132. Special Section on CMP Architectures
+Citations:3
+Authors: R Iyer, DM Tullsen
+Publication: IEEE Transactions on Parallel & Distributed Systems, 1025-1027
+
+133. Memory subsystem design for multithreaded processors
+Citations:3
+Authors: F Baboescu, DM Tullsen
+Publication: Technical report, University of California, San Diego, 1997. http://citeseer …
+
+134. Data layout for cache performance on a multithreaded architecture
+Citations:2
+Authors: S Sarkar, DM Tullsen
+Publication: Transactions on high-performance embedded architectures and compilers III, 43-68
+
+135. Inter-socket victim cacheing for platform power reduction
+Citations:2
+Authors: S Mazumdar, DM Tullsen, J Song
+Publication: 2010 IEEE International Conference on Computer Design, 509-514
+
+136. Exploring interconnections in multi-core architectures
+Citations:2
+Authors: R Kumar, V Zyuban, DM Tullsen
+Publication: 
+
+137. Retrospective: simultaneous multithreading: maximizing on-chip parallelism
+Citations:2
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: International Symposium on Computer Architecture: 25 years of the …
+
+138. A multi-core approach to addressing the energy-complexity problem
+Citations:2
+Authors: R Kumar, K Farkas, P Ranganathan, DM Tullsen
+Publication: in microprocessors, in: Workshop on ComplexityEffective Design, 2003
+
+139. Deciphering Predictive Schedulers for Heterogeneous-ISA Multicore Architectures
+Citations:1
+Authors: A Prodromou, A Venkat, DM Tullsen
+Publication: Proceedings of the 10th International Workshop on Programming Models and …
+
+140. Virtual melting temperature: managing server load to minimize cooling overhead with phase change materials
+Citations:1
+Authors: M Skach, M Arora, D Tullsen, L Tang, J Mars
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+141. A Multi-Core Approach to Addressing the Energy-Complexity Problem in Microprocessors
+Citations:1
+Authors: RKK Farkas, NP Jouppi, P Ranganathan, DM Tullsen
+Publication: Proceedings of Workshop on Complexity-Effective Design
+
+142. Efficient system design using the Statistical Analysis of Architectural Bottlenecks methodology
+Citations:1
+Authors: M Arora, F Wang, B Rychlik, M Tullsen
+Publication: 2012 International Conference on Embedded Computer Systems (SAMOS), 217-226
+
+143. Fast cost efficient designs by building upon the plackett and burman method
+Citations:1
+Authors: M Arora, F Wang, B Rychlik, D Tullsen
+Publication: ACM SIGMETRICS Performance Evaluation Review 40 (1), 419-420
+
+144. Holistic Design of Multiple-Core Architectures
+Citations:1
+Authors: DM Tullsen
+Publication: 2008 International Symposium on Parallel and Distributed Computing, 8-9
+
+145. Pointer-Cache Assisted Speculative Precomputation
+Citations:1
+Authors: J Collins, S Sair, B Calder, D Tullsen
+Publication: International Symposium on Microarchitecture
+
+146. Temperature-Aware DRAM Cache Management-Relaxing Thermal Constraints in 3D Systems
+Citations:
+Authors: M Zhou, A Prodromou, R Wang, H Yang, D Qian, D Tullsen
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
+147. Platform-Agnostic Learning-Based Scheduling
+Citations:
+Authors: A Prodromou, A Venkat, DM Tullsen
+Publication: International Conference on Embedded Computer Systems, 142-154
+
+148. Shredder: Learning Noise to Protect Privacy with Partial DNN Inference on the Edge
+Citations:
+Authors: F Mireshghallah, M Taram, P Ramrakhyani, D Tullsen, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1905.11814
+
+149. Context-Sensitive Decoding: On-Demand Microcode Customization for Security and Energy Management
+Citations:
+Authors: M Taram, A Venkat, DM Tullsen
+Publication: IEEE Micro 39 (3), 75-83
+
+150. Fast and Efficient Deployment of Security Defenses Via Context Sensitive Decoding
+Citations:
+Authors: M Taram, D Tullsen, A Venkat, H Sayadi, H Wang, S Manoj, H Homayoun
+Publication: University of California San Diego United States
+
+151. Understanding the Impact of Socket Density in Density Optimized Servers
+Citations:
+Authors: M Arora, M Skach, W Huang, X An, J Mars, L Tang, DM Tullsen
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+152. 2014 International Symposium on Computer Architecture Influential Paper Award; 2014 Maurice Wilkes Award Given to Ravi Rajwar
+Citations:
+Authors: SW Keckler, D Tullsen
+Publication: IEEE Micro 34 (6), 95-97
+
+153. 2014 Maurice Wilkes Award Given to Ravi Rajwar
+Citations:
+Authors: D Tullsen
+Publication: IEEE MICRO 34 (6), 95-96
+
+154. Important dates▪ Abstract deadline: August 30, 2012, 11: 59 PM EDT (firm deadline)▪ Paper deadline: September 7, 2012, 11: 59 PM EDT (firm deadline)
+Citations:
+Authors: L Zhang, DM Tullsen, T Aamodt, D Albonesi, R Canal, UPC Barcelona, ...
+Publication: Workshop and tutorial proposals due: September 7 (2012)
+
+155. Retrospective on “Power-Sensitive Multithreaded Architecture”
+Citations:
+Authors: JS Seng, DM Tullsen, GZN Cai
+Publication: 2012 IEEE 30th International Conference on Computer Design (ICCD), 15-16
+
+156. Coalition threading: combining traditional andnon-traditional parallelism to maximize scalability
+Citations:
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: Proceedings of the 21st international conference on Parallel architectures …
+
+157. 68 Awards
+Citations:
+Authors: DI August, S Campanoni, TM Jones, G Holloway, GY Wei, D Brooks, F Li, ...
+Publication: 
+
+158. 3 Guest Editors’ Introduction: Top Picks from the 2011 Computer Architecture Conferences Paolo Faraboschi and TN Vijaykumar 7 Kilo TM: Hardware Transactional Memory for GPU …
+Citations:
+Authors: WWL Fung, I Singh, A Brownsword, TM Aamodt, B Grot, J Hestness, ...
+Publication: 
+
+159. Introduction to the special issue on the 2008 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'08)
+Citations:
+Authors: NP Jouppi, R Kumar, D Tullsen
+Publication: ACM SIGARCH Computer Architecture News 37 (2), 1-1
+
+160. Top Picks from the 2008 Computer Architecture Conferences
+Citations:
+Authors: J Emer, D Tullsen
+Publication: IEEE micro 29 (1), 6-9
+
+161. Mitosis: A Speculative Multithreaded Processor Based on Pre-Computation Slices
+Citations:
+Authors: C García-Quiñones, A Gonzalez, C Madriles, P Marcuello, J Sánchez, ...
+Publication: 
+
+162. Introduction to the special issue on the 2007 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'07)
+Citations:
+Authors: NP Jouppi, R Kumar, D Tullsen
+Publication: ACM SIGARCH Computer Architecture News 36 (2), 1-1
+
+163. HCW Keynote Address Holistic Design of Multi-Core Architectures
+Citations:
+Authors: D Tullsen
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-1
+
+164. Introduction to the special issue on the 2006 workshop on design, analysis, and simulation of chip multiprocessors:(dasCMP'06)
+Citations:
+Authors: D Tullsen, R Kumar, NP Jouppi
+Publication: ACM SIGARCH Computer Architecture News 35 (1), 2-2
+
+165. The Architecture of Efficient Multi-Core Processors: A Holistic Approach
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 1-87
+
+166. The Architecture of Efficient Multi-Core Processors: A Holistic Approach-1 Introduction
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 3-4
+
+167. The Architecture of Efficient Multi-Core Processors: A Holistic 3 Holistic Design for Adaptability: Heterogeneous Architectures
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 9-44
+
+168. The Architecture of Efficient Multi-Core Processors: A Holistic 4 Amortizing Overprovisioning through Conjoined Core Architectures
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 45-61
+
+169. The Architecture of Efficient Multi-Core Processors: A Holistic 2 The Move to Multi-Core Processors
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 5-8
+
+170. The Architecture of Efficient Multi-Core Processors: A Holistic 5 Holistic Design of the Multi-Core Interconnect
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 62-80
+
+171. The Architecture of Efficient Multi-Core Processors: A Holistic 6 Summary and Conclusions
+Citations:
+Authors: R Kumar, DM Tullsen
+Publication: Advances in Computers 69, 81-81
+
+172. Houman Homayoun
+Citations:
+Authors: M GRANTS
+Publication: Computer Science (Advisors: Alex Veidenbaum, Jean-Luc Gaudiot and Fadi …
+
+173. The Architecture of Efficient Multi-Core Processors: A Holistic Approach
+Citations:
+Authors: R Kumar, M Tullsen
+Publication: ADVANCES IN COMPUTERS 69, 3
+
+174. Introduction to the special issue on the 2005 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'05)
+Citations:
+Authors: NP Jouppi, R Kumar, D Tullsen
+Publication: ACM SIGARCH Computer Architecture News 33 (4), 4-4
+
+175. dasCMP 2005 Workshop: Guests Editors' Introduction
+Citations:
+Authors: NP Jouppi, R Kumar, D Tullsen
+Publication: COMPUTER ARCHITECTURE NEWS 33 (4), 4-4
+
+176. Allan Edward Snavely
+Citations:
+Authors: A Snavely, L Carter, J Boisseau, A Majumdar, KS Gatlin, N Mitchell, J Feo, ...
+Publication: International Conference on Computational Science 2003, 926-935
+
+177. Multithreaded Execution Architecture and Compilation
+Citations:
+Authors: O Tullsen, M Dean, G Gao
+Publication: Proceedings of the 5th International Symposium on High Performance Computer …
+
+178. 30th Annual ACM/IEEE International Symposium on Microarchitecture, Part II-Tuning Compiler Optimizations for Simultaneous Multithreading
+Citations:
+Authors: JL Lo, SJ Eggers, HM Levy, SS Parekh, DM Tullsen
+Publication: International Journal of Parallel Programming 27 (6), 477
+
+179. Research perspectives in high-speed networks: Gigabit ATM, wireless ATM and Gigabit Ethernet
+Citations:
+Authors: K Eng
+Publication: 1997 2nd IEEE International Workshop on Broadband Switching Systems …
+
+180. Md Kamruzzaman
+Citations:
+Authors: M Kamruzzaman, S Swanson, D Tullsen
+Publication: 
+
+181. Holistic Design of Multi-Core Architectures
+Citations:
+Authors: D Tullsen
+Publication: 
+
+182. Academic history
+Citations:
+Authors: ID Number, C Province, CP Code
+Publication: 
+
+183. ISCA 2016 External Review Committee
+Citations:
+Authors: A Muzahid, A Agrawal, A Cristal, A Sampson, A Alameldeen, A Cohen, ...
+Publication: 
+
+184. ECE Distinguished Seminar
+Citations:
+Authors: D Tullsen
+Publication: 
+
+185. Underclocked Software Prefetching: More Cores, Less Energy
+Citations:
+Authors: L Jolla, DM Tullsen
+Publication: 
+
+186. ISCA 2014 program committee
+Citations:
+Authors: DI August, T Austin, D Brooks, D Carmean, J Carter, F Chong, AI Davis, ...
+Publication: 
+
+187. ISCA Advisory Committee
+Citations:
+Authors: S Eggers, JE Compaq, M Franklin, J Hennessy, Y Patt, D Patterson, ...
+Publication: 
+
+188. Keynote Papers
+Citations:
+Authors: V Salapura, J Torrellas, Y Kang, W Huang, SM Yoo, D Keen, Z Ge, V Lam, ...
+Publication: 
+
+189. Richard Johnson Teresa Johnson Roy Ju Hong-Seok Kim
+Citations:
+Authors: V Kiriansky, B Calder, DY Chen, B Cheng, B Childers, T Chilimbi, JD Choi, ...
+Publication: 
+
+190. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+191. Compiling Issues for the Simultaneous Multithreading Processor
+Citations:
+Authors: DM Tullsen, M Vanneschi, D Puppin
+Publication: 
+
+192. Critical Path Prediction and Profiling
+Citations:
+Authors: B Calder, D Tullsen
+Publication: 
+
+193. Program Estimation for Link Time Optimizations and Simultaneous Multithreading Memory Design
+Citations:
+Authors: B Calder, D Tullsen
+Publication: 
+
+194. A New Direction in Tree Based Search Engine Architectures Using Balanced Single Port Memories
+Citations:
+Authors: F Baboescu, D Tullsen
+Publication: 
+
+195. WRL Technical Note TN-52
+Citations:
+Authors: SJ Eggers, J Emer, HM Levy, JL Lo, R Stamm, DM Tullsen
+Publication: 
+
+196. Reducing Leakage Power in Cache Peripheral Circuits of Embedded Processors
+Citations:
+Authors: H HOMAYOUN, A VEIDENBAUM, A SASAN, D TULLSEN
+Publication: 
+
+197. A New Direction in Tree Based Router Search Engine Architectures Using Balanced Single Port Memories
+Citations:
+Authors: F Baboescu, D Tullsen
+Publication: 
+
+198. Increasing the Accuracy of Data Prefetching Streams
+Citations:
+Authors: B Calder, D Tullsen
+Publication: 
+

@@ -1,0 +1,15 @@
+
+10. E-store: Fine-grained elastic partitioning for distributed transaction processing systems
+Citations:91
+Authors: R Taft, E Mansour, M Serafini, J Duggan, AJ Elmore, A Aboulnaga, ...
+Publication: Proceedings of the VLDB Endowment 8 (3), 245-256
+
+14. S-Store: streaming meets transaction processing
+Citations:62
+Authors: J Meehan, N Tatbul, S Zdonik, C Aslantas, U Cetintemel, J Du, T Kraska, ...
+Publication: Proceedings of the VLDB Endowment 8 (13), 2134-2145
+
+50. MapReduce and parallel DBMSs
+Citations:2
+Authors: MSDADJ DeWitt; Sam Madden; Erik Paulson; Andrew Pavlo; Alexander Rasin
+Publication: Communications of the ACM

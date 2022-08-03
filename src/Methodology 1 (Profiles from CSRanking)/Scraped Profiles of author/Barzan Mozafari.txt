@@ -1,0 +1,308 @@
+https://scholar.google.com/citations?hl=en&user=HHd7uewAAAAJ
+Total Citations = 2087
+
+1. BlinkDB: queries with bounded errors and bounded response times on very large data
+Citations:570
+Authors: S Agarwal, B Mozafari, A Panda, H Milner, S Madden, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 29-42
+
+2. On the Evolution of Wikipedia
+Citations:145
+Authors: JC Rodrigo B. Almeida, Barzan Mozafari
+Publication: International Conference on Weblogs and Social Media (ICWSM)
+
+3. Knowing When You’re Wrong: Building Fast and Reliable Approximate Query Processing Systems
+Citations:142
+Authors: S Agarwal, H Milner, A Kleiner, A Talwalkar, M Jordan, S Madden, ...
+Publication: SIGMOD
+
+4. Scaling up crowd-sourcing to very large datasets: a case for active learning
+Citations:130
+Authors: B Mozafari, P Sarkar, M Franklin, M Jordan, S Madden
+Publication: Proceedings of the VLDB Endowment 8 (2), 125-136
+
+5. Verifying and mining frequent patterns from large windows over data streams
+Citations:106
+Authors: B Mozafari, H Thakkar, C Zaniolo
+Publication: ICDE, 179-188
+
+6. Blink and it's done: interactive queries on very large data
+Citations:98
+Authors: S Agarwal, AP Iyer, A Panda, S Madden, B Mozafari, I Stoica
+Publication: Proceedings of the VLDB Endowment 5 (12), 1902-1905
+
+7. Performance and resource modeling in highly-concurrent oltp workloads
+Citations:73
+Authors: B Mozafari, C Curino, S Madden
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+8. DBSeer: Resource and Performance Prediction for Building a Next Generation Database Cloud.
+Citations:69
+Authors: B Mozafari, C Curino, S Madden
+Publication: CIDR
+
+9. The analytical bootstrap: a new method for fast error estimation in approximate query processing
+Citations:68
+Authors: K Zeng, S Gao, B Mozafari, C Zaniolo
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+10. High-performance complex event processing over XML streams
+Citations:63
+Authors: B Mozafari, K Zeng, C Zaniolo
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+11. Visualization-aware sampling for very large databases
+Citations:51
+Authors: Y Park, M Cafarella, B Mozafari
+Publication: 2016 IEEE 32nd International Conference on Data Engineering (ICDE), 755-766
+
+12. Optimal load shedding with aggregates and mining queries
+Citations:43
+Authors: B Mozafari, C Zaniolo
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 76-88
+
+13. Active learning for crowd-sourced databases
+Citations:37
+Authors: B Mozafari, P Sarkar, MJ Franklin, MI Jordan, S Madden
+Publication: arXiv preprint arXiv:1209.3686
+
+14. A Handbook for Building an Approximate Query Engine.
+Citations:36
+Authors: B Mozafari, N Niu
+Publication: IEEE Data Eng. Bull. 38 (3), 3-29
+
+15. Database Learning: Toward a Database that Becomes Smarter Every Time
+Citations:34
+Authors: Y Park, AS Tajik, M Cafarella, B Mozafari
+Publication: ACM SIGMOD
+
+16. ABS: a system for scalable approximate queries with accuracy guarantees
+Citations:31
+Authors: K Zeng, S Gao, J Gu, B Mozafari, C Zaniolo
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+17. Snappydata: A hybrid transactional analytical store built on spark
+Citations:29
+Authors: J Ramnarayan, B Mozafari, S Wale, S Menon, N Kumar, H Bhanawat, ...
+Publication: Proceedings of the 2016 International Conference on Management of Data, 2153 …
+
+18. CliffGuard: A principled framework for finding robust database designs
+Citations:29
+Authors: B Mozafari, EZY Goh, DY Yoon
+Publication: Proceedings of the 2015 ACM SIGMOD international conference on management of …
+
+19. SMM: A data stream management system for knowledge discovery
+Citations:28
+Authors: H Thakkar, N Laptev, H Mousavi, B Mozafari, V Russo, C Zaniolo
+Publication: 2011 IEEE 27th International Conference on Data Engineering, 757-768
+
+20. Approximate query engines: Commercial challenges and research opportunities
+Citations:25
+Authors: B Mozafari
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+21. High-performance complex event processing over hierarchical data
+Citations:25
+Authors: B Mozafari, K Zeng, L D'antoni, C Zaniolo
+Publication: ACM Transactions on Database Systems (TODS) 38 (4), 21
+
+22. Designing an inductive data stream management system: the stream mill experience
+Citations:23
+Authors: H Thakkar, B Mozafari, C Zaniolo
+Publication: Proceedings of the 2nd international workshop on Scalable stream processing …
+
+23. SnappyData: A Unified Cluster for Streaming, Transactions and Interactice Analytics.
+Citations:20
+Authors: B Mozafari, J Ramnarayan, S Menon, Y Mahajan, S Chakraborty, ...
+Publication: CIDR
+
+24. Neighbor-sensitive hashing
+Citations:20
+Authors: Y Park, M Cafarella, B Mozafari
+Publication: Proceedings of the VLDB Endowment 9 (3), 144-155
+
+25. From regular expressions to nested words: Unifying languages and query execution for relational and xml sequences
+Citations:20
+Authors: B Mozafari, K Zeng, C Zaniolo
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 150-161
+
+26. VerdictDB: universalizing approximate query processing
+Citations:19
+Authors: Y Park, B Mozafari, J Sorenson, J Wang
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1461 …
+
+27. DBSherlock: A Performance Diagnostic Tool for Transactional Databases
+Citations:19
+Authors: DY Yoon, N Niu, B Mozafari
+Publication: SIGMOD
+
+28. K* sql: A unifying engine for sequence patterns and xml
+Citations:12
+Authors: B Mozafari, K Zeng, C Zaniolo
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+29. A top-down approach to achieving performance predictability in database systems
+Citations:11
+Authors: J Huang, B Mozafari, G Schoenebeck, TF Wenisch
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+30. A data stream mining system
+Citations:11
+Authors: H Thakkar, B Mozafari, C Zaniolo
+Publication: 2008 IEEE International Conference on Data Mining Workshops, 987-990
+
+31. Statistical analysis of latency through semantic profiling
+Citations:10
+Authors: J Huang, B Mozafari, TF Wenisch
+Publication: Proceedings of the Twelfth European Conference on Computer Systems, 64-79
+
+32. Verdict: A System for Stochastic Query Planning
+Citations:9
+Authors: B Mozafari
+Publication: Conference on Innovative Data Systems Research (CIDR)
+
+33. Distributed lock management with rdma: Decentralization without starvation
+Citations:8
+Authors: DY Yoon, M Chowdhury, B Mozafari
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1571 …
+
+34. DBSeer: pain-free database administration through workload intelligence
+Citations:8
+Authors: DY Yoon, B Mozafari, DP Brown
+Publication: Proceedings of the VLDB Endowment 8 (12), 2036-2039
+
+35. Publishing naive Bayesian classifiers: privacy without accuracy loss
+Citations:8
+Authors: B Mozafari, C Zaniolo
+Publication: Proceedings of the VLDB Endowment 2 (1), 1174-1185
+
+36. An efficient recursive algorithm and an explicit formula for calculating update vectors of running Walsh-Hadamard transform
+Citations:7
+Authors: B Mozafari, MH Savoji
+Publication: 2007 9th International Symposium on Signal Processing and Its Applications, 1-4
+
+37. Contention-aware lock scheduling for transactional databases
+Citations:6
+Authors: B Tian, J Huang, B Mozafari, G Schoenebeck
+Publication: Proceedings of the VLDB Endowment 11 (5), 648-662
+
+38. SnappyData: A Unified Cluster for Streaming
+Citations:5
+Authors: B Mozafari, J Ramnarayan, S Menon, Y Mahajan, S Chakraborty, ...
+Publication: Transactions and Interactice Analytics. In CIDR
+
+39. Continuous post-mining of association rules in a data stream management system
+Citations:5
+Authors: H Thakkar, B Mozafari, C Zaniolo
+Publication: Post-Mining of Association Rules: Techniques for Effective Knowledge …
+
+40. Quicksel: Quick selectivity learning with mixture models
+Citations:4
+Authors: Y Park, S Zhong, B Mozafari
+Publication: arXiv preprint arXiv:1812.10568
+
+41. Demonstration of VerdictDB, the platform-independent AQP system
+Citations:4
+Authors: W He, Y Park, I Hanafi, J Yatvitskiy, B Mozafari
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1665 …
+
+42. Cliffguard: An extended report
+Citations:4
+Authors: B Mozafari, EZY Goh, DY Yoon
+Publication: Technical report, University of Michigan, Ann Arbor
+
+43. A new collision resistant hash function based on optimum dimensionality reduction using Walsh-Hadamard transform
+Citations:4
+Authors: B Mozafari, MH Savoji
+Publication: 9th International Conference on Information Technology (ICIT'06), 149-154
+
+44. Peer-reviewed publications
+Citations:4
+Authors: RN Zare, Z Social
+Publication: J. Chem. Phys 49, 4252
+
+45. BlinkML: Approximate machine learning with probabilistic guarantees y
+Citations:3
+Authors: Y Park, J Qing, X Shen, B Mozafari
+Publication: Technical Report http://web. eecs. umich. edu/mozafari/php/data/uploads …
+
+46. Ensuring authorized updates in multi-user database-backed applications
+Citations:3
+Authors: K Eykholt, A Prakash, B Mozafari
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 1445-1462
+
+47. Complex pattern matching in complex structures: the xseq approach
+Citations:2
+Authors: K Zeng, M Yang, B Mozafari, C Zaniolo
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 1328-1331
+
+48. K* sql reference: Syntax, semantics and optimizations
+Citations:2
+Authors: B Mozafari, C Zaniolo
+Publication: Technical report, UCLA, http://cs. ucla. edu/barzan/reports/ksql. pdf
+
+49. BlinkML: Efficient maximum likelihood estimation with probabilistic guarantees
+Citations:1
+Authors: Y Park, J Qing, X Shen, B Mozafari
+Publication: arXiv preprint arXiv:1812.10564
+
+50. Identifying the Major Sources of Variance in Transaction Latencies: Towards More Predictable Databases
+Citations:1
+Authors: J Huang, B Mozafari, G Schoenebeck, T Wenisch
+Publication: arXiv preprint arXiv:1602.01871
+
+51. Extending relational query languages for data streams
+Citations:1
+Authors: N Laptev, B Mozafari, H Mousavi, H Thakkar, H Wang, K Zeng, C Zaniolo
+Publication: Data Stream Management, 361-386
+
+52. High-performance pattern detection and discovery for databases and data streams
+Citations:1
+Authors: B Mozafari
+Publication: University of California, Los Angeles
+
+53. A Bandit Approach to Maximum Inner Product Search
+Citations:
+Authors: R Liu, T Wu, B Mozafari
+Publication: Proceedings of the AAAI Conference on Artificial Intelligence 33, 4376-4383
+
+54. Revisiting projection-free optimization for strongly convex constraint sets
+Citations:
+Authors: J Rector-Brooks, JK Wang, B Mozafari
+Publication: Proceedings of the AAAI Conference on Artificial Intelligence 33, 1576-1583
+
+55. Huron: hybrid false sharing detection and repair
+Citations:
+Authors: TA Khan, Y Zhao, G Pokam, B Mozafari, B Kasikci
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+56. SnappyData.
+Citations:
+Authors: B Mozafari, J Ramnarayan, S Menon, Y Mahajan, S Chakraborty, ...
+Publication: Encyclopedia of Big Data Technologies
+
+57. University of Michigan, Ann Arbor, MI, USA
+Citations:
+Authors: B Mozafari
+Publication: 
+
+58. Approximate Query Engines
+Citations:
+Authors: B Mozafari
+Publication: 
+
+59. Workshop on cloud data management (CloudDM)-Front matter
+Citations:
+Authors: B Mozafari, I Pandis
+Publication: 2016 IEEE 32nd International Conference on Data Engineering Workshops (ICDEW …
+
+60. The First ACAIA Workshop: Approximate Computing for Affordable and Interactive Analytics
+Citations:
+Authors: Y Park, S Kandula, S Chaudhury, B Mozafari
+Publication: 
+
+61. CliffGuard: Towards Workload-Resilient Database Designs
+Citations:
+Authors: B Mozafari
+Publication: 
+

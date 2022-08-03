@@ -1,0 +1,320 @@
+
+5. RazorII: In situ error detection and correction for PVT and SER tolerance
+Citations:598
+Authors: S Das, C Tokunaga, S Pant, WH Ma, S Kalaiselvan, K Lai, DM Bull, ...
+Publication: IEEE Journal of Solid-State Circuits 44 (1), 32-48
+
+19. A 2.60 pJ/Inst subthreshold sensor processor for optimal energy efficiency
+Citations:230
+Authors: B Zhai, L Nazhandali, J Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers., 154-155
+
+21. Millimeter-scale nearly perpetual sensor system with stacked battery and solar cells
+Citations:217
+Authors: G Chen, M Fojtik, D Kim, D Fick, J Park, M Seok, MT Chen, Z Foo, ...
+Publication: 2010 IEEE International Solid-State Circuits Conference-(ISSCC), 288-289
+
+22. A cubic-millimeter energy-autonomous wireless intraocular pressure monitor
+Citations:216
+Authors: G Chen, H Ghaed, R Haque, M Wieckowski, Y Kim, G Kim, D Fick, D Kim, ...
+Publication: 2011 IEEE International Solid-State Circuits Conference, 310-312
+
+29. The Phoenix Processor: A 30pW platform for sensor applications
+Citations:191
+Authors: M Seok, S Hanson, YS Lin, Z Foo, D Kim, Y Lee, N Liu, D Sylvester, ...
+Publication: IEEE Symposium on VLSI Circuits, 188-189
+
+32. Energy-efficient subthreshold processor design
+Citations:187
+Authors: B Zhai, S Pant, L Nazhandali, S Hanson, J Olson, A Reeves, M Minuth, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 17 (8 …
+
+33. Stand-by power minimization through simultaneous threshold voltage selection and circuit sizing
+Citations:180
+Authors: S Sirichotiyakul, T Edwards, C Oh, J Zuo, A Dharchoudhury, R Panda, ...
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 436-441
+
+39. Exploring variability and performance in a sub-200-mV processor
+Citations:163
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: IEEE Journal of Solid-State Circuits 43 (4), 881-891
+
+40. A low-voltage processor for sensing applications with picowatt standby mode
+Citations:161
+Authors: S Hanson, M Seok, YS Lin, ZY Foo, D Kim, Y Lee, N Liu, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 44 (4), 1145-1155
+
+46. A Modular 1 mm Die-Stacked Sensing Platform With Low Power IC Inter-Die Communication and Multi-Modal Energy Harvesting
+Citations:148
+Authors: Y Lee, S Bang, I Lee, Y Kim, G Kim, MH Ghaed, P Pannuto, P Dutta, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 229-243
+
+63. Energy optimization of subthreshold-voltage sensor network processors
+Citations:113
+Authors: L Nazhandali, B Zhai, A Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 197-207
+
+65. Centip3De: A 3930DMIPS/W configurable near-threshold 3D stacked system with 64 ARM Cortex-M3 cores
+Citations:107
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: 2012 IEEE International Solid-State Circuits Conference, 190-192
+
+77. An ultra-low power fully integrated energy harvester based on self-oscillating switched-capacitor voltage doubler
+Citations:93
+Authors: W Jung, S Oh, S Bang, Y Lee, Z Foo, G Kim, Y Zhang, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 49 (12), 2800-2811
+
+82. The swarm at the edge of the cloud
+Citations:87
+Authors: EA Lee, B Hartmann, J Kubiatowicz, TS Rosing, J Wawrzynek, D Wessel, ...
+Publication: IEEE Design & Test 31 (3), 8-20
+
+84. A millimeter-scale energy-autonomous sensor system with stacked battery and solar cells
+Citations:85
+Authors: M Fojtik, D Kim, G Chen, YS Lin, D Fick, J Park, M Seok, MT Chen, Z Foo, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (3), 801-813
+
+86. Performance and variability optimization strategies in a sub-200mV, 3.5 pJ/inst, 11nW subthreshold processor
+Citations:82
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: 2007 IEEE Symposium on VLSI Circuits, 152-153
+
+88. Circuits for a cubic-millimeter energy-autonomous wireless intraocular pressure monitor
+Citations:80
+Authors: MH Ghaed, G Chen, R Haque, M Wieckowski, Y Kim, G Kim, Y Lee, I Lee, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 60 (12), 3152-3162
+
+91. An injectable 64 nW ECG mixed-signal SoC in 65 nm for arrhythmia monitoring
+Citations:79
+Authors: YP Chen, D Jeon, Y Lee, Y Kim, Z Foo, I Lee, NB Langhals, G Kruger, ...
+Publication: IEEE Journal of Solid-State Circuits 50 (1), 375-390
+
+115. A millimeter-scale wireless imaging system with continuous motion detection and energy harvesting
+Citations:63
+Authors: G Kim, Y Lee, Z Foo, P Pannuto, YS Kuo, B Kempke, MH Ghaed, S Bang, ...
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+121. Exploring DRAM organizations for energy-efficient and resilient exascale memories
+Citations:61
+Authors: B Giridhar, M Cieslak, D Duggal, R Dreslinski, HM Chen, R Patti, B Hold, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+126. International scientific collaboration of China: Collaborating countries, institutions and individuals
+Citations:59
+Authors: X Wang, S Xu, Z Wang, L Peng, C Wang
+Publication: Scientometrics 95 (3), 885-894
+
+127. Swizzle-switch networks for many-core systems
+Citations:58
+Authors: K Sewell, RG Dreslinski, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (2 …
+
+144. Library-less synthesis for static CMOS combinational logic circuits
+Citations:55
+Authors: S Gavrilov, A Glebov, S Pullela, SC Moore, A Dharchoudhury, R Panda, ...
+Publication: Proceedings of the 1997 IEEE/ACM international conference on Computer-aided …
+
+148. 24.3 An implantable 64nW ECG-monitoring mixed-signal SoC for arrhythmia diagnosis
+Citations:53
+Authors: D Jeon, YP Chen, Y Lee, Y Kim, Z Foo, G Kruger, H Oral, O Berenfeld, ...
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+154. Assessing the performance limits of parallelized near-threshold computing
+Citations:51
+Authors: N Pinckney, K Sewell, RG Dreslinski, D Fick, T Mudge, D Sylvester, ...
+Publication: DAC Design Automation Conference 2012, 1143-1148
+
+167. Centip3De: A cluster-based NTC architecture with 64 ARM Cortex-M3 cores in 3D stacked 130 nm CMOS
+Citations:45
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 104-117
+
+171. 14.7 a 288µw programmable deep-learning processor with 270kb on-chip weight storage using non-uniform memory hierarchy for mobile intelligence
+Citations:42
+Authors: S Bang, J Wang, Z Li, C Gao, Y Kim, Q Dong, YP Chen, L Fick, X Sun, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 250-251
+
+176. 8.8 iRazor: 3-transistor current-based error detection and correction in an ARM cortex-R4 processor
+Citations:40
+Authors: Y Zhang, M Khayatzadeh, K Yang, M Saligane, N Pinckney, M Alioto, ...
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 160-162
+
+177. Timing yield enhancement through soft edge flip-flop based design
+Citations:40
+Authors: M Wieckowski, YM Park, C Tokunaga, DW Kim, Z Foo, D Sylvester, ...
+Publication: 2008 IEEE Custom Integrated Circuits Conference, 543-546
+
+181. Centip3de: A 64-core, 3d stacked near-threshold system
+Citations:38
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: IEEE Micro 33 (2), 8-16
+
+202. A 4.5 Tb/s 3.4 Tb/s/W 64× 64 switch fabric with self-updating least-recently-granted priority and quality-of-service arbitration in 45nm CMOS
+Citations:32
+Authors: S Satpathy, K Sewell, T Manville, YP Chen, R Dreslinski, D Sylvester, ...
+Publication: 2012 IEEE International Solid-State Circuits Conference, 478-480
+
+203. Neural cache: Bit-serial in-cache acceleration of deep neural networks
+Citations:31
+Authors: C Eckert, X Wang, J Wang, A Subramaniyan, R Iyer, D Sylvester, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+218. The terraswarm research center (TSRC)(a white paper)
+Citations:28
+Authors: EA Lee, JD Kubiatowicz, JM Rabaey, AL Sangiovanni-Vincentelli, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+224. Energy-autonomous wireless communication for millimeter-scale Internet-of-Things sensor nodes
+Citations:27
+Authors: Y Chen, N Chiotellis, LX Chuo, C Pfeiffer, Y Shi, RG Dreslinski, A Grbic, ...
+Publication: IEEE Journal on Selected Areas in Communications 34 (12), 3962-3977
+
+233. Optimization and control of V DD and V TH for low-power, high-speed CMOS design
+Citations:27
+Authors: T Kuroda
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+249. 8.5 A 60%-efficiency 20nW-500µW tri-output fully integrated power management unit with environmental adaptation and load-proportional biasing for IoT systems
+Citations:25
+Authors: W Jung, J Gu, PD Myers, M Shim, S Jeong, K Yang, M Choi, ZY Foo, ...
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 154-155
+
+261. A 1.07 Tbit/s 128× 128 swizzle network for SIMD processors
+Citations:24
+Authors: S Satpathy, Z Foo, B Giridhar, R Dreslinski, D Sylvester, T Mudge, ...
+Publication: 2010 Symposium on VLSI Circuits, 81-82
+
+265. System-on-mud: Ultra-low power oceanic sensing platform powered by small-scale benthic microbial fuel cells
+Citations:23
+Authors: I Lee, G Kim, S Bang, A Wolfe, R Bell, S Jeong, Y Kim, J Kagan, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 62 (4), 1126-1135
+
+269. Mesogens
+Citations:23
+Authors: ST Wellinghoff, DP Hanson
+Publication: US Patent 7,238,831
+
+285. irazor: Current-based error detection and correction scheme for pvt variation in 40-nm arm cortex-r4 processor
+Citations:20
+Authors: Y Zhang, M Khayatzadeh, K Yang, M Saligane, N Pinckney, M Alioto, ...
+Publication: IEEE Journal of Solid-State Circuits 53 (2), 619-631
+
+296. A case study of the application of a blended learning approach to web-based college English teaching platform in a medical university in Eastern China.
+Citations:19
+Authors: W Zhang, C Han
+Publication: Theory & Practice in Language Studies 2 (9)
+
+302. Edge-pursuit comparator: An energy-scalable oscillator collapse-based comparator with application in a 74.1 dB SNDR and 20 kS/s 15 b SAR ADC
+Citations:18
+Authors: M Shim, S Jeong, PD Myers, S Bang, J Shen, C Kim, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 52 (4), 1077-1090
+
+304. Near-threshold computing in FinFET technologies: opportunities for improved voltage scalability
+Citations:18
+Authors: N Pinckney, L Shifren, B Cline, S Sinha, S Jeloka, RG Dreslinski, T Mudge, ...
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 76
+
+316. 7.4 A 915MHz asymmetric radio using Q-enhanced amplifier for a fully integrated 3×3×3mm3wireless sensor node with 20m non-line-of-sight communication
+Citations:17
+Authors: LX Chuo, Y Shi, Z Luo, N Chiotellis, Z Foo, G Kim, Y Kim, A Grbic, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 132-133
+
+335. Collaborative sensing management for cognitive radio networks with reporting overhead
+Citations:15
+Authors: WS Jeon, DH Lee, DG Jeong
+Publication: IEEE Transactions on Wireless Communications 12 (2), 595-605
+
+356. Low-voltage circuit design for widespread sensing applications
+Citations:14
+Authors: YS Lin, S Hanson, F Albano, C Tokunaga, RU Haque, K Wise, AM Sastry, ...
+Publication: 2008 IEEE International Symposium on Circuits and Systems, 2558-2561
+
+363. MBus: an ultra-low power interconnect bus for next generation nanopower systems
+Citations:13
+Authors: P Pannuto, Y Lee, YS Kuo, ZY Foo, B Kempke, G Kim, RG Dreslinski, ...
+Publication: 2015 ACM/IEEE 42nd Annual International Symposium on Computer Architecture …
+
+376. MinSim: Optimized, Compiled VHDL Simulation Using Networked & Parallel Computers
+Citations:13
+Authors: J Willis, R Newshutz, L Thompson, J Graves, T Dillinger, J Snyder, ...
+Publication: Proceedings of Fall, 137-144
+
+378. A 0.3 v vddmin 4+ 2t sram for searching and in-memory computing using 55nm ddc technology
+Citations:12
+Authors: Q Dong, S Jeloka, M Saligane, Y Kim, M Kawaminami, A Harada, ...
+Publication: 2017 Symposium on VLSI Circuits, C160-C161
+
+386. Circuit and system designs of ultra-low power sensor nodes with illustration in a miniaturized GNSS logger for position tracking: Part II—Data communication, energy harvesting …
+Citations:11
+Authors: T Jang, G Kim, B Kempke, MB Henry, N Chiotellis, C Pfeiffer, D Kim, Y Kim, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 64 (9), 2250-2262
+
+390. Limits of parallelism and boosting in dim silicon
+Citations:11
+Authors: N Pinckney, RG Dreslinski, K Sewell, D Fick, T Mudge, D Sylvester, ...
+Publication: IEEE Micro 33 (5), 30-37
+
+401. A 4 + 2T SRAM for Searching and In-Memory Computing With 0.3-V
+Citations:10
+Authors: Q Dong, S Jeloka, M Saligane, Y Kim, M Kawaminami, A Harada, ...
+Publication: IEEE Journal of Solid-State Circuits 53 (4), 1006-1015
+
+419. Circuit and system designs of ultra-low power sensor nodes with illustration in a miniaturized GNSS logger for position tracking: Part I—Analog circuit techniques
+Citations:9
+Authors: T Jang, G Kim, B Kempke, MB Henry, N Chiotellis, C Pfeiffer, D Kim, Y Kim, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 64 (9), 2237-2249
+
+420. 11.2 A 1Mb embedded NOR flash memory with 39µW program power for mm-scale high-temperature sensor nodes
+Citations:9
+Authors: Q Dong, Y Kim, I Lee, M Choi, Z Li, J Wang, K Yang, YP Chen, J Dong, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 198-199
+
+424. Report for the NSF workshop on cross-layer power optimization and management
+Citations:9
+Authors: M Pedram, D Brooks, T Pinkston
+Publication: NSF Workshop on Cross-Layer Power Optimization and Management
+
+434. 3.7 A 1920× 1080 30fps 2.3 TOPS/W stereo-depth processor for robust autonomous navigation
+Citations:8
+Authors: Z Li, Q Dong, M Saligane, B Kempke, S Yang, Z Zhang, R Dreslinski, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 62-63
+
+452. A 6×5×4mm3general purpose audio sensor node with a 4.7μW audio processing IC
+Citations:7
+Authors: M Cho, S Oh, S Jeong, Y Zhang, I Lee, Y Kim, LX Chuo, D Kim, Q Dong, ...
+Publication: 2017 Symposium on VLSI Circuits, C312-C313
+
+456. FOCUS: Key building blocks and integration strategy of a miniaturized wireless sensor node
+Citations:7
+Authors: T Jang, S Jeong, M Choi, W Jung, G Kim, YP Chen, Y Kim, W Lim, ...
+Publication: ESSCIRC Conference 2015-41st European Solid-State Circuits Conference …
+
+458. Circuit techniques for miniaturized biomedical sensors
+Citations:7
+Authors: I Lee, Y Kim, S Bang, G Kim, H Ha, YP Chen, D Jeon, S Jeong, W Jung, ...
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-7
+
+459. Centip3De: a many-core prototype exploring 3D integration and near-threshold computing
+Citations:7
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: Communications of the ACM 56 (11), 97-104
+
+468. A 1-Mb 28-nm 1T1MTJ STT-MRAM With Single-Cap Offset-Cancelled Sense Amplifier and In Situ Self-Write-Termination
+Citations:6
+Authors: Q Dong, Z Wang, J Lim, Y Zhang, ME Sinangil, YC Shih, YD Chih, ...
+Publication: IEEE Journal of Solid-State Circuits 54 (1), 231-239
+
+469. A 0.04MM316NW Wireless and Batteryless Sensor System with Integrated Cortex-M0+ Processor and Optical Communication for Cellular Temperature Measurement
+Citations:6
+Authors: X Wu, I Lee, Q Dong, K Yang, D Kim, J Wang, Y Peng, Y Zhang, ...
+Publication: 2018 IEEE Symposium on VLSI Circuits, 191-192
+
+483. Statistical timing analysis for intra-die process variations
+Citations:6
+Authors: A Agawal, D Blauw, V Zolotov
+Publication: International Conference on Computer Aided Design (ICCAD)
+
+484. & Narayanan, V.(2003). Leakage current: Moore's law meets static power
+Citations:6
+Authors: A Kim, T Austin, D Baauw, T Mudge, K Flautner, JS Hu
+Publication: Computer 36 (12), 68-75

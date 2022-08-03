@@ -1,0 +1,110 @@
+
+3. An Analysis of Linux Scalability to Many Cores.
+Citations:423
+Authors: S Boyd-Wickizer, AT Clements, Y Mao, A Pesterev, MF Kaashoek, ...
+Publication: OSDI 10 (13), 86-93
+
+4. Relational cloud: A database-as-a-service for the cloud
+Citations:397
+Authors: C Curino, EPC Jones, RA Popa, N Malviya, E Wu, S Madden, ...
+Publication: 
+
+7. Proving program termination
+Citations:290
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+41. Preventing Use-after-free with Dangling Pointers Nullification.
+Citations:71
+Authors: B Lee, C Song, Y Jang, T Wang, T Kim, L Lu, W Lee
+Publication: NDSS
+
+52. Detecting covert timing channels with time-deterministic replay
+Citations:37
+Authors: A Chen, WB Moore, H Xiao, A Haeberlen, LTX Phan, M Sherr, W Zhou
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+64. Report on the NSF workshop on formal methods for security
+Citations:18
+Authors: S Chong, J Guttman, A Datta, A Myers, B Pierce, P Schaumont, ...
+Publication: arXiv preprint arXiv:1608.00678
+
+69. Verifying a high-performance crash-safe file system using a tree specification
+Citations:14
+Authors: H Chen, T Chajed, A Konradi, S Wang, A İleri, A Chlipala, MF Kaashoek, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 270-286
+
+73. Flare: Optimizing apache spark with native compilation for scale-up architectures and medium-size data
+Citations:12
+Authors: G Essertel, R Tahboub, J Decker, K Brown, K Olukotun, T Rompf
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+74. Amber: Decoupling user data from web applications
+Citations:12
+Authors: T Chajed, J Gjengset, J Van Den Hooff, MF Kaashoek, J Mickens, ...
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+75. Pika: A network service for multikernel operating systems
+Citations:11
+Authors: NZ Beckmann, C Gruenwald III, CR Johnson, H Kasture, F Sironi, ...
+Publication: 
+
+79. Practical always-on taint tracking on mobile devices
+Citations:9
+Authors: J Paupore, E Fernandes, A Prakash, S Roy, X Ou
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+88. Vault: Fast bootstrapping for cryptocurrencies
+Citations:5
+Authors: D Leung
+Publication: Massachusetts Institute of Technology
+
+91. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: D Lindley
+Publication: Communications of the ACM 52 (10), 11-13
+
+92. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: S Benford, C Magerkurth, P Ljungstrand
+Publication: Communications of the ACM 48 (3), 54-57
+
+96. Hyperprobe: towards virtual machine extrospection
+Citations:3
+Authors: J Xiao, L Lu, H Huang, H Wang
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16)
+
+102. Decor+ LAMI: A scalable blockchain protocol
+Citations:2
+Authors: P Camacho, SD Lerner
+Publication: Tech. Rep., 2016.[Online]. Available: https://scalingbitcoin. org/papers …
+
+107. Providing caching abstractions for web applications
+Citations:1
+Authors: P Gupta
+Publication: Massachusetts Institute of Technology
+
+108. Stephen Tu
+Citations:1
+Authors: W Zheng, S Tu, E Kohler, B Liskov, J DeBrabant, A Pavlo, M Stonebraker, ...
+Publication: University of California, Berkeley 2010
+
+114. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+117. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+118. Stephen Tu
+Citations:
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik, W Zheng, E Kohler, ...
+Publication: University of California, Berkeley 2010
+
+123. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 

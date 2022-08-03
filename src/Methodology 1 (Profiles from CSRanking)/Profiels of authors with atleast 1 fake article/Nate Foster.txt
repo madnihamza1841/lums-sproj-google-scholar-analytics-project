@@ -1,0 +1,175 @@
+
+4. Combinators for bidirectional tree transformations: A linguistic approach to the view-update problem
+Citations:537
+Authors: JN Foster, MB Greenwald, JT Moore, BC Pierce, A Schmitt
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 29 (3), 17
+
+5. Mechanized Metatheory for the Masses: The PoplMark Challenge
+Citations:335
+Authors: BE Aydemir, A Bohannon, M Fairbairn, JN Foster, BC Pierce, P Sewell, ...
+Publication: International Conference on Theorem Proving in Higher Order Logics, 50-65
+
+7. Bidirectional transformations: A cross-discipline perspective
+Citations:284
+Authors: K Czarnecki, JN Foster, Z Hu, R Lämmel, A Schürr, JF Terwilliger
+Publication: International Conference on Theory and Practice of Model Transformations …
+
+11. Boomerang: resourceful lenses for string data
+Citations:182
+Authors: A Bohannon, JN Foster, BC Pierce, A Pilkiewicz, A Schmitt
+Publication: ACM SIGPLAN Notices 43 (1), 407-419
+
+16. Annotated XML: queries and provenance
+Citations:111
+Authors: JN Foster, TJ Green, V Tannen
+Publication: Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on …
+
+22. Quotient lenses
+Citations:85
+Authors: JN Foster, A Pilkiewicz, BC Pierce
+Publication: ACM Sigplan Notices 43 (9), 383-396
+
+29. Looj: Weaving loom into java
+Citations:55
+Authors: KB Bruce, JN Foster
+Publication: European Conference on Object-Oriented Programming, 390-414
+
+30. Exploiting schemas in data synchronization
+Citations:53
+Authors: JN Foster, MB Greenwald, C Kirkegaard, BC Pierce, A Schmitt
+Publication: Journal of Computer and System Sciences 73 (4), 669-689
+
+31. Exploiting schemas in data synchronization
+Citations:53
+Authors: JN Foster, MB Greenwald, C Kirkegaard, BC Pierce, A Schmitt
+Publication: Journal of Computer and System Sciences 73 (4), 669-689
+
+34. Bidirectional programming languages
+Citations:50
+Authors: JN Foster
+Publication: 
+
+39. Updatable security views
+Citations:37
+Authors: JN Foster, BC Pierce, S Zdancewic
+Publication: 2009 22nd IEEE Computer Security Foundations Symposium, 60-74
+
+41. P4v: Practical verification for programmable data planes
+Citations:23
+Authors: J Liu, W Hallahan, C Schlesinger, M Sharif, J Lee, R Soulé, H Wang, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+46. Principles of provenance (dagstuhl seminar 12091)
+Citations:17
+Authors: J Cheney, A Finkelstein, B Ludäscher, S Vansummeren
+Publication: Dagstuhl Reports 2 (2)
+
+47. A logic your typechecker can count on: Unordered tree types in practice
+Citations:16
+Authors: JN Foster, BC Pierce, A Schmitt
+Publication: 
+
+48. Exploiting schemas in data synchronization
+Citations:14
+Authors: JN Foster, MB Greenwald, C Kirkegaard, BC Pierce, A Schmitt
+Publication: International Workshop on Database Programming Languages, 42-57
+
+50. Provenance and Data Synchronization.
+Citations:13
+Authors: JN Foster, G Karvounarakis
+Publication: IEEE Data Eng. Bull. 30 (4), 13-21
+
+55. Schema-directed data synchronization
+Citations:12
+Authors: JN Foster, MB Greenwald, C Kirkegaard, BC Pierce, A Schmitt
+Publication: 
+
+57. A generic programming toolkit for PADS/ML: First-class upgrades for third-party developers
+Citations:10
+Authors: M Fernández, K Fisher, JN Foster, M Greenberg, Y Mandelbaum
+Publication: International Symposium on Practical Aspects of Declarative Languages, 133-149
+
+60. Rupiah: Towards an expressive static type system for java
+Citations:9
+Authors: J Foster
+Publication: Williams College Senior Honors Thesis
+
+65. An algebraic approach to XQuery view maintenance
+Citations:6
+Authors: JN Foster, R Konuru, J Simeon, L Villard
+Publication: PLAN-X’08
+
+66. A theory of Featherweight Java in Isabelle/HOL
+Citations:6
+Authors: JN Foster, D Vytiniotis
+Publication: Archive of Formal Proofs 2006
+
+67. Boomerang Programmer’s Manual, 2009
+Citations:6
+Authors: JN Foster, BC Pierce
+Publication: Available fro m http://www. seas. upenn. edu/~ harmony
+
+68. Dynamic prioritization of traffic in home networks
+Citations:5
+Authors: IN Bozkurt, Y Zhou, T Benson, B Anwer, D Levin, N Feamster, A Akella, ...
+Publication: Proc. CoNEXT Student Workshop, 1-3
+
+87. Combinators for bi-directional tree transformations
+Citations:1
+Authors: JN Foster, MB Greenwald, JT Moore, BC Pierce, A Schmitt
+Publication: ACM SIGPLAN Notices 40 (1), 233-246
+
+88. Model Checking for a Functional Hardware Description Language
+Citations:1
+Authors: JN Foster
+Publication: BSc Disser
+
+90. PicNIC: predictable virtualized NIC
+Citations:
+Authors: P Kumar, N Dukkipati, N Lewis, Y Cui, Y Wang, C Li, V Valancius, ...
+Publication: Proceedings of the ACM Special Interest Group on Data Communication, 351-366
+
+99. Software-programmed optical networking with integrated NFV service provisioning
+Citations:
+Authors: V Mehmeri, X Wang, S Basu, Q Zhang, P Palacharla, T Ikeuchi, IT Monroy, ...
+Publication: 2017 Optical Fiber Communications Conference and Exhibition (OFC), 1-2
+
+100. POPL 2005: Combinators for Bi-Directional Tree Transformations: Linguistic Approach to the View Update Problem
+Citations:
+Authors: JN Foster, MB Greenwald, JT Moore, BC Pierce, A Schmitt
+Publication: ACM SIGPLAN Notices 50 (8), 49-62
+
+102. Combinators for Bi-Directional Tree Transformations A Linguistic Approach to the View Update Problem
+Citations:
+Authors: JN Foster, MB Greenwald, JT Moore, BC Pierce, A Schmitt
+Publication: ACM SIGPLAN NOTICES 50 (8), 49-62
+
+103. Dagstuhl Reports, Vol. 5, Issue 2 ISSN 2192-5283
+Citations:
+Authors: K Chatterjee, S Lafortune, N Markey, W Thomas, S Erdweg, M Erwig, ...
+Publication: 
+
+104. Carolyn Anderson
+Citations:
+Authors: C Anderson
+Publication: 
+
+107. Tutorial I: Syntax-guided synthesis
+Citations:
+Authors: R Alur
+Publication: 10th ACM/IEEE International Conference on Formal Methods and Models for Codesign
+
+109. Molecular Cell Research Cumulative Contents
+Citations:
+Authors: X Jiang, M Norman, X Li, J Ueom, S Kwon, S Kim, Y Chae, K Lee, ...
+Publication: receptor 1640, 33-41
+
+113. CIS 400: Senior Project Report Introducing Grammars to Boomerang
+Citations:
+Authors: D Puller, A Magee, BC Pierce, JN Foster
+Publication: 
+
+121. Foundations for Bidirectional Programming, or:{H} ow To Build
+Citations:
+Authors: BC Pierce, BC Pierce, BC Pierce, A Bohannon, JA Vaughan, A Bohannon, ...
+Publication: Principles of Database Systems (PODS) 29, 17

@@ -1,0 +1,293 @@
+https://scholar.google.com/citations?hl=en&user=mqpjAt4AAAAJ
+Total Citations = 7121
+
+1. Decaf: A deep convolutional activation feature for generic visual recognition
+Citations:3021
+Authors: J Donahue, Y Jia, O Vinyals, J Hoffman, N Zhang, E Tzeng, T Darrell
+Publication: International Conference on Machine Learning (ICML)
+
+2. Adversarial discriminative domain adaptation
+Citations:676
+Authors: E Tzeng, J Hoffman, K Saenko, T Darrell
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+3. Simultaneous deep transfer across domains and tasks
+Citations:517
+Authors: E Tzeng, J Hoffman, T Darrell, K Saenko
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 4068-4076
+
+4. Deep domain confusion: Maximizing for domain invariance
+Citations:473
+Authors: E Tzeng, J Hoffman, N Zhang, K Saenko, T Darrell
+Publication: arXiv preprint arXiv:1412.3474
+
+5. Cycada: Cycle-consistent adversarial domain adaptation
+Citations:315
+Authors: J Hoffman, E Tzeng, T Park, JY Zhu, P Isola, K Saenko, AA Efros, T Darrell
+Publication: ICML
+
+6. Efficient learning of domain-invariant image representations
+Citations:210
+Authors: J Hoffman, E Rodner, J Donahue, T Darrell, K Saenko
+Publication: International Conference on Learning Representations (ICLR)
+
+7. LSDA: Large scale detection through adaptation
+Citations:196
+Authors: J Hoffman, S Guadarrama, ES Tzeng, R Hu, J Donahue, R Girshick, ...
+Publication: Advances in Neural Information Processing Systems, 3536-3544
+
+8. Cross Modal Distillation for Supervision Transfer
+Citations:192
+Authors: S Gupta, J Hoffman, J Malik
+Publication: Computer Vision and Pattern Recognition (CVPR)
+
+9. Inferring and executing programs for visual reasoning
+Citations:177
+Authors: J Johnson, B Hariharan, L van der Maaten, J Hoffman, L Fei-Fei, ...
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 2989-2998
+
+10. Fcns in the wild: Pixel-level adversarial and constraint-based adaptation
+Citations:142
+Authors: J Hoffman, D Wang, F Yu, T Darrell
+Publication: arXiv preprint arXiv:1612.02649
+
+11. Discovering latent domains for multisource domain adaptation
+Citations:136
+Authors: J Hoffman, B Kulis, T Darrell, K Saenko
+Publication: European Conference on Computer Vision, 702-715
+
+12. Semi-supervised domain adaptation with instance constraints
+Citations:92
+Authors: J Donahue, J Hoffman, E Rodner, K Saenko, T Darrell
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+13. Learning with side information through modality hallucination
+Citations:78
+Authors: J Hoffman, S Gupta, T Darrell
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+14. Clockwork convnets for video semantic segmentation
+Citations:71
+Authors: E Shelhamer, K Rakelly, J Hoffman, T Darrell
+Publication: European Conference on Computer Vision, 852-868
+
+15. Label efficient learning of transferable representations acrosss domains and tasks
+Citations:67
+Authors: Z Luo, Y Zou, J Hoffman, LF Fei-Fei
+Publication: Advances in Neural Information Processing Systems, 165-177
+
+16. Continuous manifold based adaptation for evolving visual domains
+Citations:66
+Authors: J Hoffman, T Darrell, K Saenko
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+17. Asymmetric and category invariant feature transformations for domain adaptation
+Citations:61
+Authors: J Hoffman, E Rodner, J Donahue, B Kulis, K Saenko
+Publication: International journal of computer vision 109 (1-2), 28-41
+
+18. Towards adapting deep visuomotor representations from simulated to real environments
+Citations:60
+Authors: E Tzeng, C Devin, J Hoffman, C Finn, X Peng, S Levine, K Saenko, ...
+Publication: arXiv preprint arXiv:1511.07111 2 (3)
+
+19. Weakly supervised learning of object segmentations from web-scale video
+Citations:59
+Authors: G Hartmann, M Grundmann, J Hoffman, D Tsai, V Kwatra, O Madani, ...
+Publication: European Conference on Computer Vision, 198-208
+
+20. One-shot adaptation of supervised deep convolutional models
+Citations:54
+Authors: J Hoffman, E Tzeng, J Donahue, Y Jia, K Saenko, T Darrell
+Publication: arXiv preprint arXiv:1312.6204
+
+21. Fine-grained recognition in the wild: A multi-task domain adaptation approach
+Citations:53
+Authors: T Gebru, J Hoffman, L Fei-Fei
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 1349-1358
+
+22. Adapting deep visuomotor representations with weak pairwise constraints
+Citations:48
+Authors: E Tzeng, C Devin, J Hoffman, C Finn, P Abbeel, S Levine, K Saenko, ...
+Publication: arXiv preprint arXiv:1511.07111
+
+23. Cross-modal adaptation for RGB-D detection
+Citations:44
+Authors: J Hoffman, S Gupta, J Leong, S Guadarrama, T Darrell
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 5032-5039
+
+24. Detector discovery in the wild: Joint multiple instance and representation learning
+Citations:44
+Authors: J Hoffman, D Pathak, T Darrell, K Saenko
+Publication: Proceedings of the ieee conference on computer vision and pattern …
+
+25. EG-RRT: Environment-guided random trees for kinodynamic motion planning with uncertainty and obstacles
+Citations:39
+Authors: L Jaillet, J Hoffman, J Van den Berg, P Abbeel, JM Porta, K Goldberg
+Publication: 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+26. Best practices for fine-tuning visual classifiers to new domains
+Citations:37
+Authors: B Chu, V Madhavan, O Beijbom, J Hoffman, T Darrell
+Publication: European conference on computer vision, 435-442
+
+27. Visda: The visual domain adaptation challenge
+Citations:32
+Authors: X Peng, B Usman, N Kaushik, J Hoffman, D Wang, K Saenko
+Publication: arXiv preprint arXiv:1710.06924
+
+28. Fine-to-coarse knowledge transfer for low-res image classification
+Citations:20
+Authors: X Peng, J Hoffman, XY Stella, K Saenko
+Publication: 2016 IEEE International Conference on Image Processing (ICIP), 3683-3687
+
+29. Predictive inequity in object detection
+Citations:17
+Authors: B Wilson, J Hoffman, J Morgenstern
+Publication: arXiv preprint arXiv:1902.11097
+
+30. Spatial semantic regularisation for large scale object detection
+Citations:17
+Authors: D Mrowca, M Rohrbach, J Hoffman, R Hu, K Saenko, T Darrell
+Publication: Proceedings of the IEEE international conference on computer vision, 2003-2011
+
+31. Interactive adaptation of real-time object detectors
+Citations:17
+Authors: D Goehring, J Hoffman, E Rodner, K Saenko, T Darrell
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 1282-1289
+
+32. Scaling human-object interaction recognition through zero-shot learning
+Citations:16
+Authors: L Shen, S Yeung, J Hoffman, G Mori, L Fei-Fei
+Publication: 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), 1568-1576
+
+33. Syn2real: A new benchmark forsynthetic-to-real visual domain adaptation
+Citations:13
+Authors: X Peng, B Usman, K Saito, N Kaushik, J Hoffman, K Saenko
+Publication: arXiv preprint arXiv:1806.09755
+
+34. Towards adapting imagenet to reality: Scalable domain adaptation with implicit low-rank transformations
+Citations:11
+Authors: E Rodner, J Hoffman, J Donahue, T Darrell, K Saenko
+Publication: arXiv preprint arXiv:1308.4200
+
+35. Quantification in-the-wild: data-sets and baselines
+Citations:10
+Authors: O Beijbom, J Hoffman, E Yao, T Darrell, A Rodriguez-Ramirez, ...
+Publication: arXiv preprint arXiv:1510.04811
+
+36. Large scale visual recognition through adaptation using joint representation and multiple instance learning
+Citations:8
+Authors: J Hoffman, D Pathak, E Tzeng, J Long, S Guadarrama, T Darrell, ...
+Publication: The Journal of Machine Learning Research 17 (1), 4954-4984
+
+37. Simultaneous deep transfer across domains and tasks
+Citations:7
+Authors: J Hoffman, E Tzeng, T Darrell, K Saenko
+Publication: Domain Adaptation in Computer Vision Applications, 173-187
+
+38. VisDA: A synthetic-to-real benchmark for visual domain adaptation
+Citations:6
+Authors: X Peng, B Usman, N Kaushik, D Wang, J Hoffman, K Saenko
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+39. Algorithms and theory for multiple-source adaptation
+Citations:4
+Authors: J Hoffman, M Mohri, N Zhang
+Publication: Advances in Neural Information Processing Systems, 8246-8256
+
+40. GS, and T
+Citations:3
+Authors: J Hoffman, S Gupta, J Leong
+Publication: Darrell,“Cross-Modal Adaptation for RGB-D Detection,” in Proceedings of the …
+
+41. From large-scale object classifiers to large-scale object detectors: An adaptation approach
+Citations:3
+Authors: J Hoffman, S Guadarrama, E Tzeng, J Donahue, R Girshick, T Darrell, ...
+Publication: Proc. Adv. Neural Inf. Process. Syst.
+
+42. Multiple-source adaptation for regression problems
+Citations:2
+Authors: J Hoffman, M Mohri, N Zhang
+Publication: arXiv preprint arXiv:1711.05037
+
+43. 35‐2: Invited Paper: RGB‐D Image Understanding using Supervision Transfer
+Citations:2
+Authors: S Gupta, J Hoffman, J Malik
+Publication: SID Symposium Digest of Technical Papers 47 (1), 444-447
+
+44. Transform-based domain adaptation for big data
+Citations:2
+Authors: E Rodner, J Hoffman, J Donahue, T Darrell, K Saenko
+Publication: NIPS Workshop on New Directions in Transfer and Multi-Task Learning
+
+45. Domain adaptation with multiple latent domains
+Citations:2
+Authors: J Hoffman, K Saenko, B Kulis, T Darrell
+Publication: NIPS Domain Adaptation Workshop
+
+46. Adapting to Continuously Shifting Domains
+Citations:1
+Authors: A Bobu, E Tzeng, J Hoffman, T Darrell
+Publication: 
+
+47. Robust Learning with Jacobian Regularization
+Citations:
+Authors: J Hoffman, DA Roberts, S Yaida
+Publication: arXiv preprint arXiv:1908.02729
+
+48. SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation
+Citations:
+Authors: D Gordon, A Kadian, D Parikh, J Hoffman, D Batra
+Publication: arXiv preprint arXiv:1905.07512
+
+49. Adversarial Discriminative Domain Adaptation (workshop extended abstract)
+Citations:
+Authors: E Tzeng, J Hoffman, K Saenko, T Darrell
+Publication: 
+
+50. Dagstuhl Summary Paper
+Citations:
+Authors: T Darrell, K Saenko, J Hoffman
+Publication: 
+
+51. One-Shot Adaptation of Supervised Deep Convolutional Models
+Citations:
+Authors: T Darrell, E Tzeng, Y Jia, J Hoffman, K Saenko, J Donahue
+Publication: 
+
+52. INSIGHTS ON VISUAL REPRESENTATIONS FOR EMBODIED NAVIGATION TASKS
+Citations:
+Authors: E Wijmans, J Straub, D Batra, J Hoffman, A Morcos
+Publication: 
+
+53. Learning to Adapt Across Domains
+Citations:
+Authors: J Hoffman
+Publication: 
+
+54. Inferring and Executing Programs for Visual Reasoning Supplementary Material
+Citations:
+Authors: J Johnson, B Hariharan, L van der Maaten, J Hoffman, L Fei-Fei, ...
+Publication: 
+
+55. Environment-Guided RRT for Kinodynamic Motion Planning
+Citations:
+Authors: L Jaillet, J Hoffman, J van den Berg, P Abbeel, JM Porta, K Goldberg
+Publication: 
+
+56. Max-margin transforms for visual domain adaptation
+Citations:
+Authors: J Hoffman, E Rodner, J Donahue, K Saenko, T Darrell
+Publication: 
+
+57. Continuous Manifold Based Adaptation for Evolving Visual Domains Extended Abstract
+Citations:
+Authors: J Hoffman, T Darrell, K Saenko
+Publication: 
+
+58. Scalable Transform-based Domain Adaptation
+Citations:
+Authors: E Rodner, J Hoffman, J Donahue, T Darrell, K Saenko
+Publication: 
+

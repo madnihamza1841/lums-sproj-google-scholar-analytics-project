@@ -1,0 +1,428 @@
+https://scholar.google.com/citations?hl=en&user=P6VJcVIAAAAJ
+Total Citations = 2886
+
+1. Building a dynamic reputation system for dns.
+Citations:420
+Authors: M Antonakakis, R Perdisci, D Dagon, W Lee, N Feamster
+Publication: USENIX security symposium, 273-290
+
+2. From throw-away traffic to bots: detecting the rise of DGA-based malware
+Citations:408
+Authors: M Antonakakis, R Perdisci, Y Nadji, N Vasiloglou, S Abu-Nimeh, W Lee, ...
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+3. Understanding the mirai botnet
+Citations:335
+Authors: M Antonakakis, T April, M Bailey, M Bernhard, E Bursztein, J Cochran, ...
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 1093-1110
+
+4. Detecting Malware Domains at the Upper DNS Hierarchy.
+Citations:270
+Authors: M Antonakakis, R Perdisci, W Lee, N Vasiloglou, D Dagon
+Publication: USENIX security symposium 11, 1-16
+
+5. Increased DNS forgery resistance through 0x20-bit encoding: security via leet queries
+Citations:112
+Authors: D Dagon, M Antonakakis, P Vixie, T Jinmei, W Lee
+Publication: Proceedings of the 15th ACM conference on Computer and communications …
+
+6. Method and system for detecting malicious domain names at an upper DNS hierarchy
+Citations:89
+Authors: M Antonakakis, R Perdisci, W Lee, N Vasiloglou
+Publication: US Patent 8,631,489
+
+7. Method and system for detecting malware
+Citations:79
+Authors: E Antonakakis, R Perdisci, W Lee, G Ollmann
+Publication: US Patent 8,578,497
+
+8. Detecting critical nodes for MANET intrusion detection systems
+Citations:77
+Authors: A Karygiannis, E Antonakakis, A Apostolopoulos
+Publication: Security, Privacy and Trust in Pervasive and Ubiquitous Computing, 2006 …
+
+9. The Core of the Matter: Analyzing Malicious Traffic in Cellular Carriers.
+Citations:74
+Authors: C Lever, M Antonakakis, B Reaves, P Traynor, W Lee
+Publication: NDSS
+
+10. Method and system for determining whether domain names are legitimate or malicious
+Citations:71
+Authors: M Antonakakis, R Perdisci, D Dagon, W Lee
+Publication: US Patent 9,516,058
+
+11. Electromagnetic signatures of WLAN cards and network security
+Citations:68
+Authors: KA Remley, CA Grosvenor, RT Johnk, DR Novotny, PD Hale, ...
+Publication: Proceedings of the Fifth IEEE International Symposium on Signal Processing …
+
+12. Segugio: Efficient behavior-based tracking of malware-control domains in large ISP networks
+Citations:66
+Authors: B Rahbarinia, R Perdisci, M Antonakakis
+Publication: 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+13. Beheading hydras: performing effective botnet takedowns
+Citations:63
+Authors: Y Nadji, M Antonakakis, R Perdisci, D Dagon, W Lee
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+14. Webwitness: Investigating, categorizing, and mitigating malware download paths
+Citations:53
+Authors: T Nelms, R Perdisci, M Antonakakis, M Ahamad
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 1025-1040
+
+15. WSEC DNS: Protecting recursive DNS resolvers from poisoning attacks
+Citations:53
+Authors: R Perdisci, M Antonakakis, X Luo, W Lee
+Publication: 2009 IEEE/IFIP International Conference on Dependable Systems & Networks, 3-12
+
+16. A centralized monitoring infrastructure for improving DNS security
+Citations:44
+Authors: M Antonakakis, D Dagon, X Luo, R Perdisci, W Lee, J Bellmor
+Publication: International Workshop on Recent Advances in Intrusion Detection, 18-37
+
+17. Measuring and detecting malware downloads in live network traffic
+Citations:38
+Authors: P Vadrevu, B Rahbarinia, R Perdisci, K Li, M Antonakakis
+Publication: European Symposium on Research in Computer Security, 556-573
+
+18. A lustrum of malware network communication: Evolution and insights
+Citations:35
+Authors: C Lever, P Kotzias, D Balzarotti, J Caballero, M Antonakakis
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 788-804
+
+19. Recursive DNS Architectures and Vulnerability Implications.
+Citations:35
+Authors: D Dagon, M Antonakakis, K Day, X Luo, CP Lee, W Lee
+Publication: NDSS
+
+20. Hiding in plain sight: A longitudinal study of combosquatting abuse
+Citations:34
+Authors: P Kintis, N Miramirkhani, C Lever, Y Chen, R Romero-Gómez, ...
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+21. DNS noise: Measuring the pervasiveness of disposable domains in modern DNS traffic
+Citations:32
+Authors: Y Chen, M Antonakakis, R Perdisci, Y Nadji, D Dagon, W Lee
+Publication: 2014 44th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+22. Domain-Z: 28 registrations later measuring the exploitation of residual trust in domains
+Citations:29
+Authors: C Lever, R Walls, Y Nadji, D Dagon, P McDaniel, M Antonakakis
+Publication: 2016 IEEE Symposium on Security and Privacy (SP), 691-706
+
+23. Towards measuring and mitigating social engineering software download attacks
+Citations:26
+Authors: T Nelms, R Perdisci, M Antonakakis, M Ahamad
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 773-789
+
+24. Connected colors: Unveiling the structure of criminal networks
+Citations:26
+Authors: Y Nadji, M Antonakakis, R Perdisci, W Lee
+Publication: International Workshop on Recent Advances in Intrusion Detection, 390-410
+
+25. mLab: a mobile ad hoc network test bed
+Citations:25
+Authors: A Karygiannis, E Antonakakis
+Publication: 1st Workshop on Security, Privacy and Trust in Pervasive and Ubiquitous …
+
+26. Enabling network security through active DNS datasets
+Citations:22
+Authors: A Kountouras, P Kintis, C Lever, Y Chen, Y Nadji, D Dagon, ...
+Publication: International Symposium on Research in Attacks, Intrusions, and Defenses …
+
+27. Sok: Security evaluation of home-based iot deployments
+Citations:21
+Authors: O Alrawi, C Lever, M Antonakakis, F Monrose
+Publication: IEEE S&P, 208-226
+
+28. Method and system for detecting malicious domain names at an upper DNS hierarchy
+Citations:20
+Authors: M Antonakakis, R Perdisci, W Lee, IN Vasiloglou
+Publication: US Patent 9,686,291
+
+29. Method and system for detecting malware
+Citations:19
+Authors: E Antonakakis, R Perdisci, W Lee, G Ollmann
+Publication: US Patent 9,525,699
+
+30. Unveiling the network criminal infrastructure of tdss/tdl4
+Citations:17
+Authors: M Antonakakis, J Demar, K Stevens, D Dagon
+Publication: Damballa Research Report2012
+
+31. The command structure of the Aurora botnet
+Citations:16
+Authors: M Antonakakis, C Elisan, D Dagon, G Ollmann, E Wu
+Publication: Damballa, Atlanta, GA, USA
+
+32. Understanding the privacy implications of ecs
+Citations:15
+Authors: P Kintis, Y Nadji, D Dagon, M Farrell, M Antonakakis
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+33. Understanding the prevalence and use of alternative plans in malware with network games
+Citations:15
+Authors: Y Nadji, M Antonakakis, R Perdisci, W Lee
+Publication: Proceedings of the 27th Annual Computer Security Applications Conference, 1-10
+
+34. Practical attacks against graph-based clustering
+Citations:14
+Authors: Y Chen, Y Nadji, A Kountouras, F Monrose, R Perdisci, M Antonakakis, ...
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+35. Efficient and accurate behavior-based tracking of malware-control domains in large ISP networks
+Citations:13
+Authors: B Rahbarinia, R Perdisci, M Antonakakis
+Publication: ACM Transactions on Privacy and Security (TOPS) 19 (2), 4
+
+36. II, and D
+Citations:13
+Authors: M Antonakakis, R Perdisci, W Lee, N Vasiloglou
+Publication: Dagon,“Detecting malware domains at the upper dns hierarchy,” in Proceedings …
+
+37. Host-based network monitoring tools for MANETs
+Citations:12
+Authors: A Karygiannis, E Antonakakis, A Apostolopoulos
+Publication: Proceedings of the 3rd ACM international workshop on Performance evaluation …
+
+38. Domain-Z: 28 registrations later
+Citations:11
+Authors: C Lever, R Walls, Y Nadji, D Dagon, P McDaniel, M Antonakakis
+Publication: 37th IEEE Symposium on Security and Privacy
+
+39. Financial lower bounds of online advertising abuse
+Citations:10
+Authors: Y Chen, P Kintis, M Antonakakis, Y Nadji, D Dagon, W Lee, M Farrell
+Publication: International conference on Detection of Intrusions and Malware, and …
+
+40. Sinkminer: Mining botnet sinkholes for fun and profit
+Citations:10
+Authors: B Rahbarinia, R Perdisci, M Antonakakis, D Dagon
+Publication: Presented as part of the 6th {USENIX} Workshop on Large-Scale Exploits and …
+
+41. Dgas and cyber-criminals: A case study
+Citations:10
+Authors: M Antonakakis, J Demar, C Elisan, J Jerrim
+Publication: Damballa Research Note, URL: https://www. damballa. com/downloads/r—pubs/RN …
+
+42. Still beheading hydras: Botnet takedowns then and now
+Citations:8
+Authors: Y Nadji, R Perdisci, M Antonakakis
+Publication: IEEE Transactions on Dependable and Secure Computing 14 (5), 535-549
+
+43. SoK: The challenges, pitfalls, and perils of using hardware performance counters for security
+Citations:7
+Authors: S Das, J Werner, M Antonakakis, M Polychronakis, F Monrose
+Publication: Proceedings of 40th IEEE Symposium on Security and Privacy (S&P’19)
+
+44. Enabling standards for nanomaterial characterization
+Citations:7
+Authors: VA Hackley, M Fritts, JF Kelly, AK Patri, AF Rawle, S Jain, C McLean, ...
+Publication: INFOSIM 7, 24-29
+
+45. MLab: an ad hoc network test bed
+Citations:7
+Authors: A Karygiannis, E Antonakakis
+Publication: CCNC 2006. 2006 3rd IEEE Consumer Communications and Networking Conference …
+
+46. Creating offline MANET IDS network traces
+Citations:6
+Authors: A Karygiannis, K Robotis, E Antonakakis
+Publication: 2007 IEEE International Symposium on a World of Wireless, Mobile and …
+
+47. An Empirical Study of the I2P Anonymity Network and its Censorship Resistance
+Citations:5
+Authors: NP Hoang, P Kintis, M Antonakakis, M Polychronakis
+Publication: Proceedings of the Internet Measurement Conference 2018, 379-392
+
+48. Measuring network reputation in the ad-bidding process
+Citations:5
+Authors: Y Chen, Y Nadji, R Romero-Gómez, M Antonakakis, D Dagon
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+49. Understanding cross-channel abuse with sms-spam support infrastructure attribution
+Citations:5
+Authors: B Srinivasan, P Gupta, M Antonakakis, M Ahamad
+Publication: European Symposium on Research in Computer Security, 3-26
+
+50. Security risks in asynchronous web servers: When performance optimizations amplify the impact of data-oriented attacks
+Citations:4
+Authors: M Morton, J Werner, P Kintis, K Snow, M Antonakakis, M Polychronakis, ...
+Publication: 2018 IEEE European Symposium on Security and Privacy (EuroS&P), 167-182
+
+51. JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions.
+Citations:4
+Authors: B Li, P Vadrevu, KH Lee, R Perdisci
+Publication: NDSS
+
+52. Towards designing effective visualizations for DNS-based network threat analysis
+Citations:4
+Authors: R Romero-Gomez, Y Nadji, M Antonakakis
+Publication: 2017 IEEE Symposium on Visualization for Cyber Security (VizSec), 1-8
+
+53. Security and privacy issues in agent-based location-aware mobile commerce
+Citations:4
+Authors: A Karygiannis, E Antonakakis
+Publication: Safety and Security in Multiagent Systems, 308-329
+
+54. Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild
+Citations:3
+Authors: A Kharraz, Z Ma, P Murley, C Lever, J Mason, A Miller, N Borisov, ...
+Publication: The World Wide Web Conference, 840-852
+
+55. Exposing search and advertisement abuse tactics and infrastructure of technical support scammers
+Citations:3
+Authors: B Srinivasan, A Kountouras, N Miramirkhani, M Alam, N Nikiforakis, ...
+Publication: Proceedings of the 2018 World Wide Web Conference, 319-328
+
+56. Measuring lower bounds of the financial abuse to online advertisers: A four year case study of the TDSS/TDL4 Botnet
+Citations:3
+Authors: Y Chen, P Kintis, M Antonakakis, Y Nadji, D Dagon, M Farrell
+Publication: Computers & Security 67, 164-180
+
+57. Detecting and Tracking the Rise of DGA-Based Malware
+Citations:3
+Authors: M Antonakakis, R Perdisci, N Vasiloglou, W Lee
+Publication: The magazine of USENIX & SAGE 37 (6), 15-24
+
+58. Detecting Critical Nodes for MANET IDS
+Citations:3
+Authors: A Karygiannis, EAA Antonakakis, A Apostolopoulos
+Publication: IEEE Computer Society
+
+59. Improving internet security via large-scale passive and active dns monitoring
+Citations:2
+Authors: EK Antonakakis
+Publication: Georgia Institute of Technology
+
+60. By hook or by crook: Exposing the diverse abuse tactics of technical support scammers
+Citations:1
+Authors: B Srinivasan, A Kountouras, N Miramirkhani, M Alam, N Nikiforakis, ...
+Publication: arXiv preprint arXiv:1709.08331
+
+61. Notos: Building a Dynamic Reputation System for DNS
+Citations:1
+Authors: M Antonakakis, R Perdisci, D Dagon, W Lee, N Feamster
+Publication: GEORGIA INST OF TECH ATLANTA COLL OF COMPUTING
+
+62. Solving the DNS Cache Poisoning Problem Without Changing the Protocol
+Citations:1
+Authors: R Perdisci, M Antonakakis, W Lee
+Publication: Technical report
+
+63. The SEVerESt Of Them All: Inference Attacks Against Secure Virtual Enclaves
+Citations:
+Authors: J Werner, J Mason, M Antonakakis, M Polychronakis, F Monrose
+Publication: Proceedings of the 2019 ACM Asia Conference on Computer and Communications …
+
+64. Method and system for detecting DGA-based malware
+Citations:
+Authors: M Antonakakis, R Perdisci, W Lee, VI Nikolaos
+Publication: US Patent 9,922,190
+
+65. Research in Attacks, Intrusions, and Defenses: 20th International Symposium, RAID 2017, Atlanta, GA, USA, September 18–20, 2017, Proceedings
+Citations:
+Authors: M Dacier, M Bailey, M Polychronakis, M Antonakakis
+Publication: Springer
+
+66. Method and system for detecting malware
+Citations:
+Authors: E Antonakakis, R Perdisci, W Lee, G Ollmann
+Publication: US Patent App. 15/384,025
+
+67. Dawn of the Dead Domain: Measuring the Exploitation of Residual Trust in Domains
+Citations:
+Authors: C Lever, RJ Walls, Y Nadji, D Dagon, P McDaniel, M Antonakakis
+Publication: IEEE Security & Privacy 15 (2), 70-77
+
+68. Enabling Network Security Through Active DNS Datasets
+Citations:
+Authors: Y Nadji, D Dagon, M Antonakakis, R Joffe
+Publication: Research in Attacks, Intrusions, and Defenses: 19th International Symposium …
+
+69. Comments on NPRM 16-39
+Citations:
+Authors: M Antonakakis, D Dagon, M Farrell, P Vixie, P Mockapetris, T Byrnes
+Publication: 
+
+70. Dynamic IP Reputation from DNS
+Citations:
+Authors: M Antonakakis, R Perdisci, W Lee
+Publication: GEORGIA INST OF TECH ATLANTA COLL OF COMPUTING
+
+71. Electromagnetic Signatures of Wireless Local Area Network Cards: Implementation Issues and Detection in the Presence of Interferers
+Citations:
+Authors: K Remley, R Johnk, AT Karygiannis, E Antonakakis
+Publication: ACM Workshop on Wireless Security
+
+72. Associate Chairs
+Citations:
+Authors: L Bauer, S Capkun, D Evans, M Hicks, M Antonakakis, M Backes, ...
+Publication: 
+
+73. 2017 Index IEEE Transactions on Dependable and Secure Computing Vol. 14
+Citations:
+Authors: A Abdou, K Akkaya, E Al-Shaer, A Almutairi, T Alpcan, G Anastasi, ...
+Publication: 
+
+74. Research in Attacks, Intrusions, and Defenses
+Citations:
+Authors: M Bailey, T Holz, M Stamatogiannakis, S Ioannidis
+Publication: 
+
+75. Visualizing DNS Datasets for Alert-driven Threat Analysis
+Citations:
+Authors: R Romero-Gomez, Y Nadji, P Kintis, M Antonakakis
+Publication: 
+
+76. The Privacy Problems Behind RFC 7871
+Citations:
+Authors: P Kintis, A Kountouras, D Dagon, M Antonakakis
+Publication: 
+
+77. Tutorial Reviewers
+Citations:
+Authors: R Abbott, S Adams, E Androulaki, M Antonakakis, E Athanasopoulos, ...
+Publication: 
+
+78. Segugio: Efficient Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks
+Citations:
+Authors: RP Babak Rahbarinia, M Antonakakis
+Publication: 
+
+79. Program Co-Chairs
+Citations:
+Authors: D McCoy, E Burzstein, K Levchenko, T Moore, J Caballero, N Christin, ...
+Publication: 
+
+80. Al-Shaffer, Ehab
+Citations:
+Authors: H Andrad, M Antonakakis, N Antunes, J Arjona
+Publication: 
+
+81. Poster: Secure and Scalable Identity Management for the Aviation Industry
+Citations:
+Authors: P Kintis, A Kountouras, N Pitropakis, D Dagon, M Antonakakis, C Markou, ...
+Publication: 
+
+82. Program Co-‐Chairs
+Citations:
+Authors: M Antonakakis, R Perdisci, DM Blumenthal, J Brennan, M Medina, ...
+Publication: 
+
+83. CyberSecurity 2012 Program Committee Members
+Citations:
+Authors: R Accorsi, M Antonakakis, CA Ardagna, Y Bai, S Chapin, S Chen, J Cao, ...
+Publication: 
+
+84. ICIMP 2009
+Citations:
+Authors: P Dini, S Gjessing, G Hasegawa, M Logothetis, I Podebrad, D Birk, ...
+Publication: 
+
+85. ICIMP 2010
+Citations:
+Authors: JH Abawajy, M Antonakakis, P Bellavista, L Berntzen, M Bicego, MR Brust, ...
+Publication: 
+

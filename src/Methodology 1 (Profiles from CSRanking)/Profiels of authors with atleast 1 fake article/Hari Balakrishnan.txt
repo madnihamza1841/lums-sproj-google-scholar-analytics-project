@@ -1,0 +1,625 @@
+
+6. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3934
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+11. The addition of explicit congestion notification (ECN) to IP
+Citations:1850
+Authors: S Floyd, KK Ramakrishnan, DL Black
+Publication: 
+
+13. Application-specific protocol architectures for wireless networks
+Citations:1497
+Authors: WB Heinzelman
+Publication: Massachusetts Institute of Technology
+
+14. CarTel: a distributed mobile sensor computing system
+Citations:1302
+Authors: B Hull, V Bychkovsky, Y Zhang, K Chen, M Goraczko, A Miu, E Shih, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+33. Interconnections: Bridges, Routers, Switches and Internetworking Protocols, 2/e
+Citations:578
+Authors: R Perlman
+Publication: Pearson Education India
+
+46. Relational cloud: A database-as-a-service for the cloud
+Citations:397
+Authors: C Curino, EPC Jones, RA Popa, N Malviya, E Wu, S Madden, ...
+Publication: 
+
+53. Building peer-to-peer systems with Chord, a distributed lookup service
+Citations:353
+Authors: F Dabek, E Brunskill, MF Kaashoek, D Karger, R Morris, I Stoica, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 81-86
+
+61. A network architecture for heterogeneous mobile computing
+Citations:295
+Authors: EA Brewer, RH Katz, Y Chawathe, SD Gribble, T Hodes, G Nguyen, ...
+Publication: IEEE Personal Communications 5 (5), 8-24
+
+77. Proving program termination
+Citations:201
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+133. Programmable packet scheduling at line rate
+Citations:82
+Authors: A Sivaraman, S Subramanian, M Alizadeh, S Chole, ST Chuang, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 44-57
+
+134. A session-based architecture for internet mobility
+Citations:81
+Authors: MAC Snoeren
+Publication: Massachusetts Institute of Technology
+
+139. The CarTel mobile sensor computing system
+Citations:75
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+140. Mahimahi: Accurate Record-and-Replay for {HTTP}
+Citations:74
+Authors: R Netravali, A Sivaraman, S Das, A Goyal, K Winstein, J Mickens, ...
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 417-429
+
+163. Improving end-to-end availability using overlay networks
+Citations:49
+Authors: DG Andersen
+Publication: Massachusetts Institute of Technology
+
+168. Embassies: Radically refactoring the web
+Citations:45
+Authors: J Howell, B Parno, JR Douceur, M Dahlin, V Shmatikov, B Krishnamurthy, ...
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+184. Automatic reconfiguration for large-scale reliable storage systems
+Citations:33
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 145-158
+
+193. hari Balakrishnan,"
+Citations:29
+Authors: WB Heinzelman, AP Chandrakasan
+Publication: An Application-Specific Protocol Architecture for Wireless Microsensor …
+
+197. On the adaptive real-time detection of fast-propagating network worms
+Citations:25
+Authors: J Jung, RA Milito, V Paxson
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+201. Towards programmable packet scheduling
+Citations:23
+Authors: A Sivaraman, S Subramanian, A Agrawal, S Chole, ST Chuang, T Edsall, ...
+Publication: Proceedings of the 14th ACM workshop on hot topics in networks, 23
+
+204. Wavescope: a signal-oriented data stream management system
+Citations:23
+Authors: L Girod, K Jamieson, Y Mei, R Newton, S Rost, A Thiagarajan, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+210. Data management in the CarTel mobile sensor computing system
+Citations:20
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+217. Semiconductor laser module, manufacturing method thereof and optical amplifier
+Citations:18
+Authors: T Kimura, M Nakae, T Shimizu, N Tsukiji, J Yoshida, M Funabashi, ...
+Publication: US Patent 6,765,935
+
+222. The aurora and medusa projects
+Citations:17
+Authors: SZ Sbz, S Zdonik, M Stonebraker, M Cherniack, UC Etintemel, ...
+Publication: IEEE Data Engineering Bulletin
+
+224. Cafnet: A carry-and-forward delay-tolerant network
+Citations:16
+Authors: KW Chen
+Publication: Massachusetts Institute of Technology
+
+231. The aurora and medusa projects
+Citations:12
+Authors: U Cetintemel
+Publication: Data Engineering 51 (3)
+
+234. The case for moving congestion control out of the datapath
+Citations:10
+Authors: A Narayan, F Cangialosi, P Goyal, S Narayana, M Alizadeh, ...
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 101-107
+
+237. Code in the air: simplifying sensing on smartphones
+Citations:10
+Authors: T Kaler, JP Lynch, T Peng, L Ravindranath, A Thiagarajan, ...
+Publication: Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems …
+
+240. The P416 Programming Language.
+Citations:9
+Authors: M Budiu, C Dodd
+Publication: Operating Systems Review 51 (1), 5-14
+
+242. Packet transactions: A programming model for data-plane algorithms at hardware speed
+Citations:9
+Authors: A Sivaraman, M Budiu, A Cheung, C Kim, S Licking, G Varghese, ...
+Publication: CoRR, vol. abs/1512.05023
+
+247. Restructuring endpoint congestion control
+Citations:8
+Authors: A Narayan, F Cangialosi, D Raghavan, P Goyal, S Narayana, R Mittal, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+253. FlexCore: Massively Parallel and Flexible Processing for Large {MIMO} Access Points
+Citations:7
+Authors: C Husmann, G Georgis, K Nikitopoulos, K Jamieson
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+254. A Self-Configuring Resolver Architecture for Resource Discovery and Routing in Device Networks
+Citations:7
+Authors: W Adjie-Winoto
+Publication: Massachusetts Institute of Technology
+
+261. COPA: cooperative power allocation for interfering wireless networks
+Citations:5
+Authors: G Nikolaidis, M Handley, K Jamieson, B Karp
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+267. Looking up Data in P2P System
+Citations:5
+Authors: H Balakrisnan, F Kaashoek, D Karger, R Morfia, I Stoica
+Publication: Communications of ACM 46 (3)
+
+269. Elasticity detection: A building block for delay-sensitive congestion control
+Citations:4
+Authors: P Goyal, A Narayan, F Cangialosi, D Raghavan, S Narayana, M Alizadeh, ...
+Publication: Proceedings of the Applied Networking Research Workshop, 75-75
+
+273. Protocol design contests
+Citations:4
+Authors: A Sivaraman, K Winstein, P Varley, J Batalha, A Goyal, S Das, J Ma, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 38-44
+
+280. Towards Secure User-space Provenance Capture.
+Citations:3
+Authors: N Balakrishnan, T Bytheway, L Carata, R Sohan, A Hopper
+Publication: TaPP
+
+288. Chord: A scalable peer-to-peer lookup service for internet applications
+Citations:3
+Authors: P Castro, B Greenstein, I Stoica, R Morris, D Karger, F Kaashoek, ...
+Publication: Proc. ACM SIGCOMM
+
+292. Self-powered Long-range Wireless Microsensors for Industrial Applications
+Citations:2
+Authors: N Ickes, P Iannucci, S Jacobs, A Paidimarri, X Wang, F Yaul, ...
+Publication: Circuits and Systems for Information Processing, Communications, Multimedia …
+
+294. Opportunistic sensing and mobile data delivery in the cartel system
+Citations:2
+Authors: BW Hull
+Publication: Massachusetts Institute of Technology
+
+295. Energy-efficient communication protocol for wireless microsensor networks.
+Citations:2
+Authors: G Yang, C Li, H Yang, G Anastasi, M Conti, M di Francesco, A Passarella, ...
+Publication: Information Technology Journal 12 (12), 537-568
+
+326. Research and implemention on network performance measurement of content distribution.
+Citations:1
+Authors: B Zhuge, L Deng, H Song, G Dai, W Wang, J Lan, C Guo, G Lu, HJ Wang, ...
+Publication: Information Technology Journal 12 (7), 41-44
+
+327. PEGASIS: Power efficient gathering in sensor information systems.
+Citations:1
+Authors: N Tuah, M Ismail, K Jumari, MS Ali, T Dey, R Biswas, AA Abbasi, ...
+Publication: Journal of Applied Sciences 12 (13), pp: 909-914
+
+329. Defending networked resources against floods of unwelcome requests
+Citations:1
+Authors: MH Walfish
+Publication: Massachusetts Institute of Technology
+
+330. OpenWiFi: a consumer WiFi sharing system
+Citations:1
+Authors: H Hu
+Publication: Massachusetts Institute of Technology
+
+331. Self assembly of microcomponents on patterned substrate using capillary force
+Citations:1
+Authors: S Balakrishnan, V Kripesh, TP Siong, MK Iyer
+Publication: 2005 7th Electronic Packaging Technology Conference 1, 5 pp.
+
+339. Hillview: A trillion-cell spreadsheet for big data
+Citations:
+Authors: M Budiu, P Gopalan, L Suresh, U Wieder, H Kruiger, MK Aguilera
+Publication: arXiv preprint arXiv:1907.04827
+
+346. Elasticity Detection: A Building Block for Internet Congestion Control
+Citations:
+Authors: P Goyal, A Narayan, F Cangialosi, D Raghavan, S Narayana, M Alizadeh, ...
+Publication: arXiv preprint arXiv:1802.08730
+
+349. Efficient minimum spanning tree construction without Delaunay triangulation
+Citations:
+Authors: P Kuila, PK Jana, IF Akyildiz, MC Vuran, IF Akyildiz, S Weilian, ...
+Publication: Clustering and Routing Algorithms for Wireless Sensor Networks: Energy …
+
+350. Optimizing Link Sleeping Reconfigurations in ISP Networks with Off-Peak Time Failure Protection
+Citations:
+Authors: SY Hui, KH Yeung, E Gustafsson, A Jonsson, IF Akyildiz, S Mohanty, J Xie, ...
+Publication: Wireless Multimedia Communication Systems: Design, Analysis, and …
+
+352. Bounding the lifetime of sensor networks via optimal role assignments.
+Citations:
+Authors: TA Alghamdi, A Ahmad, K Latif, N Javaid, A Khan, U Qasim, A Ahmad, ...
+Publication: Trends in Applied Sciences Research 11 (1), pp: 1-4
+
+353. Try before you buy: SDN emulation with (real) interdomain routing.
+Citations:
+Authors: A Malik, M Malook Rind, M Y. Koondhar, A Shah, S Katukam, SQ Hu, ...
+Publication: Information Technology Journal 15 (4), 1418-1423
+
+356. BFT-Practical Byzantine Fault Tolerance
+Citations:
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, J Cowling, D Schultz, ...
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158
+
+357. Survey on coverage in wireless sensor network deployment.
+Citations:
+Authors: Z Ming, AR Rocha, L Pirmez, FC Delicato, E Lemos, I Santos, DG Gomes, ...
+Publication: Journal of Applied Sciences 13 (10), 1627-1645
+
+358. On the effectiveness of DNS-based server selection.
+Citations:
+Authors: R Mu, F Zhao, A Aboulnaga, K Salem, AA Soror, UF Minhas, P Kokosielis, ...
+Publication: Journal of Software Engineering 9 (3), 13-20
+
+359. A cluster-based routing protocol for wireless sensor networks with nonuniform node distribution.
+Citations:
+Authors: N Nokhanji, ZM Hanapi, S Subramaniam, MA Mohamed, HW Ferng, ...
+Publication: Journal of Applied Sciences 14 (8), 347-367
+
+360. Directed diffusion: A scalable and robust communication paradigm for sensor networks.
+Citations:
+Authors: A Abdulrahman Kadhim, MW Abdulrazzaq, MA Matin, A Eksim, ...
+Publication: Journal of Applied Sciences 14 (24), 704-711
+
+361. The blood-brain barrier: Bottleneck in brain drug development.
+Citations:
+Authors: SS Rathore, A Mathivanan, A Ravindran, P Venkatachalam, ...
+Publication: Journal of Biological Sciences 17 (4), 76-81
+
+362. 6.033 Computer Systems Engineering: Spring 2012
+Citations:
+Authors: TISANO BOOK, B LAPTOP
+Publication: Computer
+
+363. Achieving optimal data storage position in wireless sensor networks.
+Citations:
+Authors: SA Aly, TA Alghamdi, M Salim, AA Gutub, SA Aly, A Ali-Eldin, HV Poor, ...
+Publication: Trends in Applied Sciences Research 8 (2), pp: 1-5
+
+364. A routing protocol based on energy aware in ad hoc networks.
+Citations:
+Authors: NK Ray, AK Turuk, AP Abidoye, NA Azeez, AO Adesina, KK Agbele, ...
+Publication: Research Journal of Information Technology 4 (4), 191-200
+
+365. PEGASIS: Power efficient gathering in sensor information systems.
+Citations:
+Authors: A P. Abidoye, N A. Azeez, A O. Adesina, K K. Agbele, AP Abidoye, ...
+Publication: Research Journal of Information Technology 4 (4), 191-200
+
+366. Localized algorithms for coverage boundary detection in wireless sensor networks.
+Citations:
+Authors: J Memariani, ZA Zukarnain, A Abdullah, ZM Hanapi, AP Abidoye, ...
+Publication: Journal of Applied Sciences 12 (14), 191-200
+
+367. The node arrangement methodology of wireless sensor networks for long-span bridge health monitoring.
+Citations:
+Authors: AU -Rahman, MM Al-Shomrani, I Ahmad, H Hasbullah, ...
+Publication: Journal of Applied Sciences 15 (2), 167-180
+
+368. Movement distance measurement method research based on wireless sensor network.
+Citations:
+Authors: S Peng, LJ Che, F Sun, L Cobo, A Quintero, S Pierre, E Farella, A Pieracci, ...
+Publication: Journal of Software Engineering 9 (3), 55-58
+
+369. Reviews in Medical Ethics: The Topography and Geography of US Health Care Regulation
+Citations:
+Authors: TM Pope, JJ Gagne, AS Kesselheim
+Publication: The Journal of Law, Medicine & Ethics 38 (2), 427-435
+
+370. Power control in wireless sensor network based on nearest neighbor algorithm.
+Citations:
+Authors: Y Lu, F Chen, Y Chen, N Xu, CG Cassandras, J Wang, I Howitt, ...
+Publication: Information Technology Journal 12 (1), pp: 3757-3762
+
+371. Armadillo
+Citations:
+Authors: T Badirkhanli
+Publication: Massachusetts Institute of Technology
+
+372. A centralized energy-efficient routing protocol for wireless sensor networks.
+Citations:
+Authors: K Zhou, L Meng, Z Xu, G Li, J Hua, Y Fan, W Tao, S Biswas, ...
+Publication: Information Technology Journal 7 (4), 156-170
+
+373. Lifetime optimized algorithm with mobile sink node in wireless sensor networks.
+Citations:
+Authors: Y Chen, Y Liu, Y Zhou, J Yick, B Mukherjee, D Ghosal, S Lindsey, ...
+Publication: Information Technology Journal 12 (4), 2292-2330
+
+375. Problem Solving Theory and applications: Quotient Space Granular Computing Theory and Applications.
+Citations:
+Authors: X Jianfeng, L Yu, A Mahmood, S Khatoon, Z Yuanjian, X Yuan, AA Abbasi, ...
+Publication: Information Technology Journal 13 (15), 2826-2841
+
+376. An application-specific protocol architecture for wireless microsensor networks.
+Citations:
+Authors: B Baranidharan, B Santhi, AA Abbasi, M Younis, AP Abidoye, NA Azeez, ...
+Publication: Information Technology Journal 11 (7), 2826-2841
+
+377. A comprehensible GloMoSim tutorial.
+Citations:
+Authors: R Alageswaran, OG Kiruthiga, TK Keerthika, B Prakash, N Trigoni, Y Yao, ...
+Publication: Journal of Artificial Intelligence 6 (2), 102-114
+
+378. Classical and swarm intelligence based routing protocols for wireless sensor networks: A survey and comparison.
+Citations:
+Authors: N Nokhanji, ZM Hanapi, AA Abbasi, M Younis, IF Akyildiz, W Su, ...
+Publication: Journal of Applied Sciences 14 (18), 2826-2841
+
+379. Perfect forward secrecy of authentication and key exchange protocols in three versions of WAPI.
+Citations:
+Authors: A Gao, W Wei, X Xiao, T Thai, DZ Du, H Tany, S Jha, D Ostryz, J Zic, ...
+Publication: Information Technology Journal 9 (4), 138-140
+
+380. Determining user location for context-aware computing through the use of a wireless LAN infrastructure.
+Citations:
+Authors: B Xu, Y Ge, J Chen, Z Chen, Y Ling, K Aamodt, MR Alam, MBI Reaz, ...
+Publication: Information Technology Journal 11 (8), 3058-3061
+
+381. Dynamic updates in the Domain Name System (DNS UPDATE).
+Citations:
+Authors: S Banani, K Wipusitwarakun, R Jian, D Meyer, L Zhang, K Fall, ...
+Publication: Information Technology Journal 12 (1), pp: 1-9
+
+382. Joint cross-layer scheduling and spectrum sensing for OFDMA cognitive radio systems.
+Citations:
+Authors: L Shan, J Wang, W Wei, V Raghunathan, S Ganeriwal, M Srivastava, ...
+Publication: Information Technology Journal 11 (10), 108-114
+
+383. On constructing correct and scalable iBGP configurations
+Citations:
+Authors: M Vutukuru
+Publication: Massachusetts Institute of Technology
+
+385. Support-vector networks.
+Citations:
+Authors: L Xiuhai, A Greenberg, G Hjalmtysson, DA Maltz, A Myers, J Rexford, ...
+Publication: Journal of Software Engineering 8 (4), 41-54
+
+386. HEED: A hybrid, energy-efficient, distributed clustering approach for ad hoc sensor networks.
+Citations:
+Authors: G Xin, W HuaYang, B DeGang, K Akkaya, M Younis, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 7 (2), 325-349
+
+388. Bacterial contaminants in liquid packaging boards: Assessment of potential for food spoilage.
+Citations:
+Authors: P Ponmurugan, NA Esther, K Ernest, C Berhanu, A Gashe, S Mpuchane, ...
+Publication: Journal of Biological Sciences 7 (1), 181-186
+
+389. Prolonging the lifetime of wireless sensor networks via unequal clustering.
+Citations:
+Authors: J Yang, D Zhang, J Chang, L Tassiulas, S De, A Caruso, T Chaira, ...
+Publication: Information Technology Journal 8 (1), 609-619
+
+390. Lifetime maximization for connected target coverage in wireless sensor networks.
+Citations:
+Authors: M Mahdavi, M Ismail, K Jumari, ZM Hanapi, Z Abrams, A Goel, S Plotkin, ...
+Publication: Information Technology Journal 10 (3), pp: 424-432
+
+391. Modeling urban traffic: A cellular automata approach.
+Citations:
+Authors: L Kuang, Z Wang, M Xu, Y Chen, J Ott, D Kutscher, B Hull, V Bychkovsky, ...
+Publication: Information Technology Journal 10 (11), pp: 373-373
+
+392. Towards scalable location-aware services: requirements and research issues.
+Citations:
+Authors: Y Fu, X Wang, S Li, H Pucha, SM Das, YC Hu, H Pucha, SM Das, YC Hu, ...
+Publication: Information Technology Journal 8 (8), pp: 1-2
+
+393. Group rekeying for filtering false data in sensor networks: A predistribution and local collaboration-based approach.
+Citations:
+Authors: SVA Jeba, B Paramasivan, Y Amir, Y Kim, C Nita-Rotary, G Tsudik, ...
+Publication: Information Technology Journal 12 (1), 457-488
+
+394. Lifetime maximization through dynamic ring-based routing scheme for correlated data collecting in WSNs.
+Citations:
+Authors: K Peng, R Cristescu, B Beferull-Lozano, M Vetterli, K Akkaya, M Younis, ...
+Publication: Journal of Software Engineering 11 (1), pp: 2571-2582
+
+395. On-demand power management for ad hoc networks.
+Citations:
+Authors: JH Youn, C Kang, P Bergamo, A Giovanardi, A Travasoni, D Maniezzo, ...
+Publication: Information Technology Journal 7 (2), 29-42
+
+396. Analysis of handoff algorithms using both absolute and relative measurements.
+Citations:
+Authors: AES Leni, SK Srivatsa, IF Akyyildiz, W Wang, IF Akyyildiz, S Mohanty, ...
+Publication: Information Technology Journal 7 (3), 1021-1035
+
+397. Cooperative group localization for 4G wireless networks.
+Citations:
+Authors: P Gao, WR Shi, W Zhou, HB Li, XG Wang, ME Aydin, TC Fogarty, P Bahl, ...
+Publication: Information Technology Journal 12 (4), 269-292
+
+399. EEHC: Energy efficient heterogeneous clustered scheme for wireless sensor networks.
+Citations:
+Authors: N Tuah, M Ismail, K Jumari, A Hac, MS Ali, T Dey, R Biswas, C Zhang, ...
+Publication: Information Technology Journal 11 (12), pp: 909-914
+
+400. A short look on power saving mechamisms in the wireless LAN standard draft IEEE 802.11.
+Citations:
+Authors: MV Subramanyam, L Bao, JJ Garcia-Luna-Aceves, DM Blough, ...
+Publication: Information Technology Journal 5 (5), pp: 129-140
+
+407. HCEP: A hybrid cluster-based energy-efficient protocol for wireless sensor networks.
+Citations:
+Authors: W Wang, B Wang, Z Liu, L Guo, W Xiong, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 10 (3), 393-422
+
+408. Grid coverage for surveillance and target location in distributed sensor networks.
+Citations:
+Authors: A Ur-Rahman, H Hasbullah, O U. Khan, B Chen, K Jamieson, ...
+Publication: Research Journal of Information Technology 3 (3), 481-494
+
+409. Approximate coverage in wireless sensor networks.
+Citations:
+Authors: K Nikitha, DR Lakshmi, A Damodaram, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 12 (11), 393-422
+
+410. CEDCAP: Cluster-based energy-efficient data collecting and aggregation protocol for WSNs.
+Citations:
+Authors: S Lee, Y Lee, SG Yoo, A Mainwaring, J Polastre, R Szewczyk, D Culler, ...
+Publication: Information Technology Journal 11 (1), pp: 88-97
+
+411. PEGASIS: Power efficient gathering in sensor information systems.
+Citations:
+Authors: CB Thangammal, P Rangarajan, JRP Perinbam, IF Akyildiz, W Su, ...
+Publication: Asian Journal of Scientific Research 5 (3), 102-114
+
+412. A cluster-based and tree-based power efficient data collection and aggregation protocol for wireless sensor networks.
+Citations:
+Authors: W Wang, Z Liu, X Hu, B Wang, L Guo, W Xiong, C Gao, IF Akyildiz, W Su, ...
+Publication: Research Journal of Information Technology 3 (2), 393-422
+
+413. RMST: Reliable data transport in sensor networks.
+Citations:
+Authors: N Hu, D Zhang, IF Akyildiz, W Su, Y Sankarasubramaniam, E Cayirci, ...
+Publication: Information Technology Journal 5 (3), 393-422
+
+414. REACA: An efficient protocol architecture for large scale sensor networks.
+Citations:
+Authors: Y Wang, T . LX Yang, D Zhang, IF Akyildiz, W Su, Y Sankarasubramaniam, ...
+Publication: Information Technology Journal 8 (1), 102-114
+
+415. , Efficient In-network moving object tracking in wireless sensor networks.
+Citations:
+Authors: SH Chauhdary, AK Bashir, SC Shah, MS Park, IF Akyildiz, W Su, ...
+Publication: Journal of Applied Sciences 9 (24), 102-114
+
+416. An energy-balancing unequal clustering protocol for wireless sensor networks.
+Citations:
+Authors: M Senthil, V Rajamani, GR Kanagachidambaresan, IF Akyildiz, W Su, ...
+Publication: Journal of Artificial Intelligence 7 (1), 393-422
+
+417. SGF: A state-free gradient-based forwarding protocol for wireless sensor networks.
+Citations:
+Authors: L Shan, Y Liu, W Wei, V Raghunathan, C Schurgers, S Park, ...
+Publication: Research Journal of Information Technology 3 (2), 40-50
+
+418. Data dissemination with ring-based index for wireless sensor networks.
+Citations:
+Authors: C Gao, B Wang, X Hu, Z Li, H Gao, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 10 (10), 102-114
+
+419. A dynamic clustering-based routing algorithm for wireless senor networks.
+Citations:
+Authors: AP Abidoye, NA Azeez, AO Adesina, KK Agbele, IF Akyildiz, W Su, ...
+Publication: Research Journal of Information Technology 3 (3), 102-114
+
+422. SUDS: Software Based Memory Speculation for Raw Microprocessors
+Citations:
+Authors: M Frank, L Mui, A Muthitacharoen, TM Sezgin, X Yang, D Aguayo, ...
+Publication: Presented at the MIT Student Oxygen Workshop
+
+423. On a certain segment process with voronoi clustering.
+Citations:
+Authors: Y He, A Cerpa, J Elson, D Estrin, L Girod, M Hamilton, J Zhao, JM Kahn, ...
+Publication: Information Technology Journal 5 (1), 20-41
+
+424. The cougar approach to in-network query processing in sensor networks.
+Citations:
+Authors: W Wang, B Wang, Z Liu, L Guo, A Manjeshwar, DP Agrawal, A Sengupta, ...
+Publication: Information Technology Journal 10 (1), pp: 30189-30189
+
+425. Peer-to-peer collaborative application-level multicast.
+Citations:
+Authors: Q Zheng, S Jiang, F Zhang, T Peng, C Chen, R Antony, P Druschel, ...
+Publication: Information Technology Journal 7 (5), pp: 329-350
+
+426. Discovering network topology by correlating end-to-end delay measurements
+Citations:
+Authors: JIH Baron
+Publication: Massachusetts Institute of Technology
+
+427. 6.852 J/18.437 J Distributed Algorithms, Fall 2001
+Citations:
+Authors: NA Lynch
+Publication: 
+
+429. Upper and lower probabilities induced by a multivalued mapping.
+Citations:
+Authors: L Zhouzhou, W Fubao, WR Heinzelman, A Chandrakasan, ...
+Publication: Information Technology Journal 13 (13), pp: 1-10
+
+430. Communication and coordination in wireless sensor and actor networks.
+Citations:
+Authors: Z Dai, Z Li, B Wang, Q Tang, IF Akyildiz, S Weilian, ...
+Publication: Information Technology Journal 8 (7), 51-58
+
+432. An application-specific protocol architecture for wireless microsensor networks.
+Citations:
+Authors: C Fu, W Wei, A Wei, D Estrin, R Govindan, J Heidemann, S Kumar, ...
+Publication: Information Technology Journal 11 (5), pp: 263-270
+
+434. Improving search in peer-to-peer networks.
+Citations:
+Authors: A Modarresi, A Mamat, H Ibrahim, N Mustapha, B Ahlborn, W Nejdl, ...
+Publication: Journal of Applied Sciences 8 (21), pp: 462-468
+
+435. Collective dynamics of small-world networks.
+Citations:
+Authors: A Modarresi, A Mamat, H Ibrahim, N Mustapha, JS Ahn, PB Danzig, ...
+Publication: Journal of Applied Sciences 9 (19), 743-757
+
+436. Span: An energy-efficient coordination algorithm for topology maintenance in Ad Hoc wireless networks.
+Citations:
+Authors: V Mahesh, V Rodoplu, TH Meng, S Singh, CS Raghavendra, CE Perkins, ...
+Publication: Information Technology Journal 5 (6), pp: 1633-1639
+
+438. A game theoritical approach to evaluate cooperation enforcement mechanisms in mobile adhoc networks.
+Citations:
+Authors: X Wu, M Zhou, L Meng, J Hua, K Zhou, T Wu, DB Johnson, JL Hill, J Tillett, ...
+Publication: Information Technology Journal 9 (6), PP: 158-163
+
+439. Traditional Medicine.
+Citations:
+Authors: ND Jasuja, R Saxena, S Chandra, S Bhargava, SC Joshi, SP Agharkar, ...
+Publication: Journal of Biological Sciences 14 (1), pp: 142-143-pp: 142-143
+
+440. usenix conference policies
+Citations:
+Authors: E Linux
+Publication: 
+
+442. usenix conference policies
+Citations:
+Authors: S Muir, L Peterson, M Fiuczynski, J Cappos, J Hartman
+Publication: 
+
+450. Research Abstracts-2006
+Citations:
+Authors: L Girod, K Jamieson, Y Mei, S Rost, A Thiagarajan, T Tokmouline, ...
+Publication: 
+
+458. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+467. Browsing International Center for Air Transportation by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: E Lester, RJ Hansman, L Jensen, J Thomas, G O’Neill, A Yu, B Abel, ...
+Publication: 

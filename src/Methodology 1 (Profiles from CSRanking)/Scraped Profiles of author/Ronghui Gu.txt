@@ -1,0 +1,73 @@
+https://scholar.google.com/citations?hl=en&user=5WLG7j8AAAAJ
+Total Citations = 335
+
+1. CertiKOS: An Extensible Architecture for Building Certified Concurrent OS Kernels
+Citations:105
+Authors: R Gu, Z Shao, H Chen, XN Wu, J Kim, V Sjöberg, D Costanzo
+Publication: OSDI 2016, 653-669
+
+2. Deep Specifications and Certified Abstraction Layers
+Citations:104
+Authors: R Gu, J Koenig, T Ramananandro, Z Shao, XN Wu, SC Weng, H Zhang, ...
+Publication: POPL 2015, 595-608
+
+3. End-to-End Verification of Information-Flow Security for C and Assembly Programs
+Citations:40
+Authors: D Costanzo, Z Shao, R Gu
+Publication: PLDI 2016, 648-664
+
+4. Toward Compositional Verification of Interruptible OS Kernels and Device Drivers
+Citations:35
+Authors: H Chen, XN Wu, Z Shao, J Lockerman, R Gu
+Publication: PLDI 2016, 431-447
+
+5. Toward compositional verification of interruptible OS kernels and device drivers
+Citations:20
+Authors: H Chen, X Wu, Z Shao, J Lockerman, R Gu
+Publication: Journal of Automated Reasoning 61 (1-4), 141-189
+
+6. Certified Concurrent Abstraction Layers
+Citations:14
+Authors: R Gu, Z Shao, J Kim, XN Wu, J Koenig, V Sjöberg, H Chen, D Costanzo, ...
+Publication: PLDI 2018, 646-661
+
+7. Safety and Liveness of MCS Lock—Layer by Layer
+Citations:8
+Authors: J Kim, V Sjöberg, R Gu, Z Shao
+Publication: APLAS 2017, 273-297
+
+8. An Auditing Language for Preventing Correlated Failures in the Cloud
+Citations:5
+Authors: E Zhai, R Piskac, R Gu, X Lao, X Wang
+Publication: OOPSLA 2017, 97
+
+9. Partial Order Aware Concurrency Sampling
+Citations:4
+Authors: X Yuan, J Yang, R Gu
+Publication: CAV 2018, 317-335
+
+10. Contract-based Verification of a Realistic Quantum Compiler
+Citations:
+Authors: Y Shi, X Li, R Tao, A Javadi-Abhari, AW Cross, FT Chong, R Gu
+Publication: arXiv preprint arXiv:1908.08963
+
+11. Using Concurrent Relational Logic with Helpers for Verifying the AtomFS File System
+Citations:
+Authors: M Zou, H Ding, D Du, M Fu, R Gu, H Chen
+Publication: SOSP 2019
+
+12. Scaling Symbolic Evaluation for Automated Verification of Systems Code with Serval
+Citations:
+Authors: L Nelson, J Bornholt, R Gu, A Baumann, E Torlak, X Wang
+Publication: SOSP 2019
+
+13. An Extensible Architecture for BuildingCertified Sequential and Concurrent OSKernels
+Citations:
+Authors: R Gu
+Publication: Yale University
+
+14. Building Certified Software Systems
+Citations:
+Authors: R Gu
+Publication: 
+

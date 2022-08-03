@@ -1,0 +1,235 @@
+
+10. Dependability benchmarking for computer systems
+Citations:112
+Authors: K Kanoun, L Spainhower
+Publication: Wiley-IEEE Computer Society Pr
+
+15. The case for mobile edge-clouds
+Citations:86
+Authors: U Drolia, R Martins, J Tan, A Chheda, M Sanghavi, R Gandhi, ...
+Publication: 2013 IEEE 10th International Conference on Ubiquitous Intelligence and …
+
+26. Enforcing determinism for the consistent replication of multithreaded CORBA applications
+Citations:69
+Authors: P Narasimhai, LE Moser, PM Melliar-Smith
+Publication: Proceedings of the 18th IEEE Symposium on Reliable Distributed Systems, 263-273
+
+34. State synchronization and recovery for strongly consistent replicated CORBA objects
+Citations:45
+Authors: P Narashimhan, LE Moser, PM Melliar-Smith
+Publication: 2001 International Conference on Dependable Systems and Networks, 261-270
+
+41. Recovering C++ objects from binaries using inter-procedural data-flow analysis
+Citations:32
+Authors: W Jin, C Cohen, J Gennari, C Hines, S Chaki, A Gurfinkel, J Havrilla, ...
+Publication: Proceedings of ACM SIGPLAN on Program Protection and Reverse Engineering …
+
+43. Multicarrier demodulation method and apparatus, and multicarrier modulation method and apparatus
+Citations:32
+Authors: N Suzuki
+Publication: US Patent 7,298,785
+
+46. Performance troubleshooting in data centers: an annotated bibliography?
+Citations:30
+Authors: C Wang, SP Kavulya, J Tan, L Hu, M Kutare, M Kasick, K Schwan, ...
+Publication: ACM SIGOPS Operating Systems Review 47 (3), 50-62
+
+68. Fault tolerant approaches for distributed real-time and embedded systems
+Citations:17
+Authors: P Rubel, M Gillen, J Loyall, R Schantz, A Gokhale, J Balasubramanian, ...
+Publication: MILCOM 2007-IEEE Military Communications Conference, 1-8
+
+75. Multicast group communication for CORBA
+Citations:16
+Authors: LE Moser, PM Melliar-Smith, P Naraimhan, RR Koch, K Berket
+Publication: Proceedings of the International Symposium on Distributed Objects and …
+
+92. Adaptive coherency maintenance techniques for time-varying data
+Citations:11
+Authors: RK Majumdar, KM Moudgalya, K Ramamritham
+Publication: RTSS 2003. 24th IEEE Real-Time Systems Symposium, 2003, 98-107
+
+94. Fault management in Map-Reduce through early detection of anomalous nodes
+Citations:10
+Authors: S Kadirvel, J Ho, JAB Fortes
+Publication: Proceedings of the 10th International Conference on Autonomic Computing …
+
+105. Trone: Trustworthy and resilient operations in a network environment
+Citations:8
+Authors: A Casimiro, P Veríssimo, D Kreutz, F Araujo, R Barbosa, S Neves, ...
+Publication: IEEE/IFIP International Conference on Dependable Systems and Networks …
+
+106. Mobile cloud computing for data-intensive applications
+Citations:8
+Authors: V Teo
+Publication: Unpublished senior thesis, Final Report
+
+113. ASDF: Automated online fingerpointing for Hadoop
+Citations:7
+Authors: K Bare, M Kasick, S Kavulya, E Marinelli, X Pan, J Tan, R Gandhi, ...
+Publication: Technical Report CMU-PDL-08-104, Carnegie Mellon University PDL
+
+125. Understanding and improving the diagnostic workflow of MapReduce users
+Citations:5
+Authors: JD Campbell, AB Ganesan, B Gotow, SP Kavulya, J Mulholland, ...
+Publication: ACM Symposium on Computer Human Interaction for Management of Information …
+
+126. Understanding and Improving the Diagnostic Workflow of MapReduce Users
+Citations:5
+Authors: JD Campbellτ, AB Ganesan, B Gotow, SP Kavulya, J Mulholland, ...
+Publication: 
+
+129. System-call based problem diagnosis for PVFS
+Citations:5
+Authors: MP Kasick
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF ELECTRICAL AND COMPUTER ENGINEERING
+
+142. ASDF: An automated, online framework for diagnosing performance problems
+Citations:4
+Authors: K Bare, S Kavulya, J Tan, X Pan, E Marinelli, M Kasick, R Gandhi, ...
+Publication: Architecting dependable systems VII, 201-226
+
+144. Myron: Smart footballs for automated coaching
+Citations:4
+Authors: AP Goldhammer, MT Chuang, E Mullinix, S Elia, T Yang, B Koopman, ...
+Publication: The Impact of Technology on Sport, III, 593-597
+
+152. Service-Oriented Computing ICSOC 2007
+Citations:3
+Authors: H Liu, Z Li, J Zhu, H Tan
+Publication: Springer-Verlag Berlin Heidelberg 4749, 157-168
+
+154. Disseminating Code Updates in Sensor Networks
+Citations:3
+Authors: PE Lanigan
+Publication: October
+
+170. Self-Healing and Self-Adaptive Systems
+Citations:2
+Authors: A Andrzejak, K Geihs, O Shehory, J Wilkes, J Martinez, C Cappiello, ...
+Publication: Proceedings 09201 Combinatorial Scientific Computing
+
+185. Vajra: Distributed fault injection for dependability evaluation
+Citations:1
+Authors: SJ Wierman
+Publication: Carnegie Mellon University Pittsburgh, Pennsylvania, USA
+
+186. Secure Network Reprogramming for Sensor Networks
+Citations:1
+Authors: PE Lanigan
+Publication: Carnegie Mellon University. Information Networking Institute
+
+188. Proactive Fault-Recovery in Distributed Systems
+Citations:1
+Authors: SM Pertet
+Publication: Carnegie Mellon University
+
+189. Model-driven Techniques for Proactive Fault Tolerance
+Citations:1
+Authors: P Narsimhan, T Bracewell, A Gokhale
+Publication: Third Annual TAO Workshop, Arlington, VA
+
+195. 1-Bromopropane induces macrophage activation via extracellular signal-regulated kinase 1/2 MAPK and NF-κB pathways.
+Citations:
+Authors: J Zhou, M Li, WF Jin, XH Li, YY Zhang, G Bruno, F Tega, A Bruno, U Graf, ...
+Publication: International Journal of Pharmacology 14 (4), 67-72
+
+209. ASDF: Automated, Online Fingerpointing for Hadoop (CMU-PDL-08-104)
+Citations:
+Authors: K Bare, MP Kasick, S Kavulya, E Marinelli, X Pan, J Tan, R Gandhi, ...
+Publication: Parallel Data Laboratory, 23
+
+211. Efficient, consistent replication through program analysis
+Citations:
+Authors: JG Slember
+Publication: carnegie Mellon University
+
+215. Backward fault recovery in real time distributed system of periodic task with timing and precedence constrain.
+Citations:
+Authors: N Mosharraf, MR Khayyambashi, J Balasubramanian, S Tambe, ...
+Publication: Journal of Applied Sciences 9 (6), pp: 320-330
+
+217. Adaptive Multilevel Middleware for Object Systems
+Citations:
+Authors: RE Schantz, JP Loyall, K Rohloff, J Ye, P Manghwani, Y Gabay, ...
+Publication: BBN TECHNOLOGIES CAMBRIDGE MA
+
+228. 2003 Workshop on Duplicating, Deconstructing and Debunking
+Citations:
+Authors: B Black, M Lipasti, J Hallberg, T Palm, M Brorsson, D Parikh, Y Zhang, ...
+Publication: 
+
+232. Designing Fault tolerant Mission-Critical Middleware Infrastructure for Distributed Real-time and Embedded Systems
+Citations:
+Authors: M Gilleni, P Rubeli, J Balasubramanian, A Paulos, J Loyalli, A Gokhale, ...
+Publication: 
+
+236. ASCoMS
+Citations:
+Authors: A Casimiro, J Kaiser, L Almeida, L Becker, A Bondavalli, T Fuhrman, ...
+Publication: 
+
+238. Models and Methodologies
+Citations:
+Authors: A Schiper, A Romanovsky, F Pedone, G Muller, J Kirsch, L Moser, ...
+Publication: 
+
+239. CALL FOR PAPERS: WORKSHOP ON END-TO-END, SENSE-AND-RESPOND SYSTEMS, APPLICATIONS, AND SERVICES
+Citations:
+Authors: KG Shin, V Bahl, A Purakayastha, R Ambrosio, C Bisdikian, P Bonnet, ...
+Publication: 
+
+240. Workshop on Parallel and Distributed Real-Time Systems
+Citations:
+Authors: C Lu, P Lardieri, G Lipari, S Superiore, S Anna, IJP Loyall, JM Slaby, ...
+Publication: 
+
+246. Designing Fault tolerant Mission-Critical Middleware Infrastructure for Distributed Real-time and Embedded Systems
+Citations:
+Authors: M Gillen, P Rubel, J Balasubramanian, A Paulos, J Loyall, A Gokhale, ...
+Publication: 
+
+247. Aditya Akella, University of Wisconsin-Madison Jean Bacon, University of Cambridge Roger Barga, Microsoft Research Azer Bestavros, Boston University
+Citations:
+Authors: S Bouchenak, E Burtino, J Cao, M Carey, G Chockler, YC Chung, P Costa, ...
+Publication: 
+
+248. Hans-Peter Schwefel, FTW, Austria Mukesh Singhal, The University of Kentucky, USA Janusz Sosnowski, University of Warsaw, Poland Shambhu Upadhyaya, SUNY at Buffalo, USA Nalini …
+Citations:
+Authors: FB Bastani, J Cao, A Casimiro, A Ceccarelli, S Cha, B Cukic, ...
+Publication: 
+
+251. Honorary General Chair
+Citations:
+Authors: EJ McCluskey, W Heimerdinger, C Walter, R Maxion, W Bartlett, ...
+Publication: 
+
+252. Athman Bouguettaya, Virginia Tech, USA
+Citations:
+Authors: U Brinkschulte, B Brosgol, B Bush, V Cahill, S Chiba, T Dillon, L DiPippo, ...
+Publication: 
+
+255. Towards Fingerpointing in the Emulab Dynamic Distributed System Michael P. Kasick, Priya Narasimhan Electrical & Computer Engineering Department Carnegie Mellon University
+Citations:
+Authors: K Atkinson, J Lepreau
+Publication: 
+
+260. A Reasoning Framework for the Architectural Design of Real-Time Fault-Tolerant Systems
+Citations:
+Authors: M Bass
+Publication: 
+
+262. DSN 2008 organizers
+Citations:
+Authors: P Koopman, D Siewiorek, H Madeira, N Suri, K Keeton, S Kennedy, ...
+Publication: 
+
+263. Workshop General Co-Chairs
+Citations:
+Authors: K Kim, S Russo, L Bacellar, G Fohler, CD Gill, J Gustafsson, MH Kim, ...
+Publication: 
+
+265. CMU-ISRI-05-108 Software Engineering for the 21st Century: A basis for rethinking the curriculum
+Citations:
+Authors: M Shaw, J Aldrich, R Bareiss, S Butler, L Carter, O Cheng, S Cross, ...
+Publication: 

@@ -1,0 +1,653 @@
+https://scholar.google.com/citations?hl=en&user=EWU0STsAAAAJ
+Total Citations = 8718
+
+1. Scalable high performance main memory system using phase-change memory technology
+Citations:1323
+Authors: MK Qureshi, V Srinivasan, JA Rivers
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 24-33
+
+2. Utility-based cache partitioning: A low-overhead, high-performance, runtime mechanism to partition shared caches
+Citations:1134
+Authors: MK Qureshi, YN Patt
+Publication: 2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+3. Adaptive insertion policies for high performance caching
+Citations:685
+Authors: MK Qureshi, A Jaleel, YN Patt, SC Steely, J Emer
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 381-391
+
+4. Enhancing lifetime and security of PCM-based main memory with start-gap wear leveling
+Citations:678
+Authors: MK Qureshi, J Karidis, M Franceschini, V Srinivasan, L Lastras, B Abali
+Publication: Proceedings of the 42nd annual IEEE/ACM international symposium on …
+
+5. Adaptive insertion policies for managing shared caches
+Citations:343
+Authors: A Jaleel, W Hasenplaugh, M Qureshi, J Sebot, S Steely Jr, J Emer
+Publication: Proceedings of the 17th international conference on Parallel architectures …
+
+6. Accelerating critical section execution with asymmetric multi-core architectures
+Citations:333
+Authors: MA Suleman, O Mutlu, MK Qureshi, YN Patt
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 253-264
+
+7. A case for MLP-aware cache replacement
+Citations:330
+Authors: MK Qureshi, DN Lynch, O Mutlu, YN Patt
+Publication: 33rd International Symposium on Computer Architecture (ISCA'06), 167-178
+
+8. Improving read performance of phase change memories via write cancellation and write pausing
+Citations:290
+Authors: MK Qureshi, MM Franceschini, LA Lastras-Montano
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+9. The V-Way cache: demand-based associativity via global replacement
+Citations:254
+Authors: MK Qureshi, D Thompson, YN Patt
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 544-555
+
+10. Fundamental latency trade-off in architecting dram caches: Outperforming impractical sram-tags with a simple and practical design
+Citations:221
+Authors: MK Qureshi, GH Loh
+Publication: Proceedings of the 2012 45th Annual IEEE/ACM International Symposium on …
+
+11. Morphable memory system: A robust architecture for exploiting multi-level phase change memories
+Citations:194
+Authors: MK Qureshi, MM Franceschini, LA Lastras-Montaño, JP Karidis
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 153-162
+
+12. Feedback-driven threading: power-efficient and high-performance execution of multi-threaded workloads on CMPs
+Citations:194
+Authors: MA Suleman, MK Qureshi, YN Patt
+Publication: ACM Sigplan Notices 43 (3), 277-286
+
+13. A tagless coherence directory
+Citations:161
+Authors: J Zebchuk, V Srinivasan, MK Qureshi, A Moshovos
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+14. PreSET: improving performance of phase change memories by exploiting asymmetry in write times
+Citations:145
+Authors: MK Qureshi, MM Franceschini, A Jagmohan, LA Lastras
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 380-391
+
+15. AVATAR: A variable-retention-time (VRT) aware refresh for DRAM systems
+Citations:131
+Authors: MK Qureshi, DH Kim, S Khan, PJ Nair, O Mutlu
+Publication: 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+16. ArchShield: Architectural framework for assisting DRAM scaling by tolerating high error rates
+Citations:131
+Authors: PJ Nair, DH Kim, MK Qureshi
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 72-83
+
+17. Adaptive spill-receive for robust high-performance caching in CMPs
+Citations:131
+Authors: MK Qureshi
+Publication: 2009 IEEE 15th International Symposium on High Performance Computer …
+
+18. Pay-As-You-Go: low-overhead hard-error correction for phase change memories
+Citations:123
+Authors: MK Qureshi
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+19. NVRAM-aware logging in transaction systems
+Citations:116
+Authors: J Huang, K Schwan, MK Qureshi
+Publication: Proceedings of the VLDB Endowment 8 (4), 389-400
+
+20. Cameo: A two-level memory organization with capacity of main memory and flexibility of hardware-managed cache
+Citations:105
+Authors: CC Chou, A Jaleel, MK Qureshi
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 1-12
+
+21. Phase change memory: From devices to systems
+Citations:104
+Authors: MK Qureshi, S Gurumurthi, B Rajendran
+Publication: Synthesis Lectures on Computer Architecture 6 (4), 1-134
+
+22. Low-cost inter-linked subarrays (LISA): Enabling fast inter-subarray data movement in DRAM
+Citations:99
+Authors: KK Chang, PJ Nair, D Lee, S Ghose, MK Qureshi, O Mutlu
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+23. A case for refresh pausing in DRAM memory systems
+Citations:91
+Authors: P Nair, CC Chou, MK Qureshi
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+24. Practical and secure pcm systems by online detection of malicious write streams
+Citations:86
+Authors: MK Qureshi, A Seznec, LA Lastras, MM Franceschini
+Publication: 2011 IEEE 17th International symposium on high performance computer …
+
+25. Line distillation: Increasing cache capacity by filtering unused words in cache lines
+Citations:76
+Authors: MK Qureshi, MA Suleman, YN Patt
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+26. DEUCE: Write-efficient encryption for non-volatile memories
+Citations:75
+Authors: V Young, PJ Nair, MK Qureshi
+Publication: ACM SIGPLAN Notices 50 (4), 33-44
+
+27. Microarchitecture-based introspection: A technique for transient-fault tolerance in microprocessors
+Citations:73
+Authors: MK Qureshi, O Mutlu, YN Patt
+Publication: 2005 International Conference on Dependable Systems and Networks (DSN'05 …
+
+28. Iterative write pausing techniques to improve read latency of memory systems
+Citations:64
+Authors: MM Franceschini, LA Lastras-Montano, MK Qureshi, V Srinivasan
+Publication: US Patent 8,004,884
+
+29. BEAR: techniques for mitigating bandwidth bloat in gigascale DRAM caches
+Citations:63
+Authors: C Chou, A Jaleel, MK Qureshi
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 198-210
+
+30. Feedback-directed pipeline parallelism
+Citations:59
+Authors: MA Suleman, MK Qureshi, YN Patt
+Publication: Proceedings of the 19th international conference on Parallel architectures …
+
+31. Architectural support for mitigating row hammering in DRAM memories
+Citations:56
+Authors: DH Kim, PJ Nair, MK Qureshi
+Publication: IEEE Computer Architecture Letters 14 (1), 9-12
+
+32. Flashblox: Achieving both performance isolation and uniform lifetime for virtualized ssds
+Citations:42
+Authors: J Huang, A Badam, L Caulfield, S Nath, S Sengupta, B Sharma, ...
+Publication: 15th {USENIX} Conference on File and Storage Technologies ({FAST} 17), 375-390
+
+33. FLEXclusion: balancing cache capacity and on-chip bandwidth via flexible exclusion
+Citations:41
+Authors: J Sim, J Lee, MK Qureshi, H Kim
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 321-332
+
+34. Operating SECDED-based caches at ultra-low voltage with FLAIR
+Citations:37
+Authors: MK Qureshi, Z Chishti
+Publication: 2013 43rd Annual IEEE/IFIP International Conference on Dependable Systems …
+
+35. Citadel: Efficiently protecting stacked memory from TSV and large granularity failures
+Citations:36
+Authors: PJ Nair, DA Roberts, MK Qureshi
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (4), 49
+
+36. XED: Exposing on-die error detection information for strong memory reliability
+Citations:34
+Authors: PJ Nair, V Sridharan, MK Qureshi
+Publication: ACM SIGARCH Computer Architecture News 44 (3), 341-353
+
+37. Reducing read latency of phase change memory via early read and turbo read
+Citations:32
+Authors: PJ Nair, C Chou, B Rajendran, MK Qureshi
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+38. Not all qubits are created equal: a case for variability-aware policies for NISQ-era quantum computers
+Citations:30
+Authors: SS Tannu, MK Qureshi
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+39. Context look ahead storage structures
+Citations:29
+Authors: PG Emma, AM Hartstein, BR Prasky, TR Puzak, MKA Qureshi, ...
+Publication: US Patent 7,657,726
+
+40. Reducing broadcasts in multiprocessors
+Citations:28
+Authors: K Khubaib, MKA Qureshi, V Srinivasan
+Publication: US Patent 8,285,969
+
+41. Accelerating critical section execution with asymmetric multicore architectures
+Citations:25
+Authors: MA Suleman, O Mutlu, MK Qureshi, YN Patt
+Publication: IEEE micro 30 (1), 60-70
+
+42. Set-dueling-controlled adaptive insertion for high-performance caching
+Citations:25
+Authors: MK Qureshi, A Jaleel, YN Patt, SC Steely, J Emer
+Publication: IEEE micro 28 (1), 91-98
+
+43. Computer memory with dynamic cell density
+Citations:24
+Authors: MM Franceschini, JP Karidis, LA Lastras-Montano, M Qureshi
+Publication: US Patent App. 12/757,738
+
+44. Apparatus and method for filtering unused sub-blocks in cache memories
+Citations:24
+Authors: PG Emma, AM Hartstein, TR Puzak, MKA Qureshi
+Publication: US Patent 7,380,047
+
+45. Unified address translation for memory-mapped SSDs with FlashMap
+Citations:23
+Authors: J Huang, A Badam, MK Qureshi, K Schwan
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 580-591
+
+46. Processor core stacking for efficient collaboration
+Citations:22
+Authors: PG Emma, E Kursun, MK Qureshi, V Srinivasan
+Publication: US Patent 8,417,917
+
+47. Flashguard: Leveraging intrinsic flash properties to defend against encryption ransomware
+Citations:21
+Authors: J Huang, J Xu, X Xing, P Liu, MK Qureshi
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+48. Dice: Compressing dram caches for bandwidth and capacity
+Citations:21
+Authors: V Young, PJ Nair, MK Qureshi
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+49. Reducing refresh power in mobile devices with morphable ECC
+Citations:21
+Authors: C Chou, P Nair, MK Qureshi
+Publication: 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+50. Adaptive spill-receive mechanism for lateral caches
+Citations:20
+Authors: MK Qureshi
+Publication: US Patent 8,161,242
+
+51. Adaptive wear leveling via monitoring the properties of memory reference stream
+Citations:18
+Authors: MM Franceschini, JP Karidis, LA Lastras-Montano, MK Qureshi
+Publication: US Patent 8,356,153
+
+52. CEASER: Mitigating conflict-based cache attacks via encrypted-address and remapping
+Citations:17
+Authors: MK Qureshi
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+53. F ault S im: A Fast, Configurable Memory-Reliability Simulator for Conventional and 3D-Stacked Systems
+Citations:17
+Authors: PJ Nair, DA Roberts, MK Qureshi
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (4), 44
+
+54. Memory cell presetting for improved memory performance
+Citations:16
+Authors: MM Franceschini, A Jagmohan, JP Karidis, LA Lastras-Montano, ...
+Publication: US Patent App. 13/151,043
+
+55. DRAM error detection, evaluation, and correction
+Citations:15
+Authors: MM Franceschini, HC Hunter, A Jagmohan, CA Kilmer, K Kim, ...
+Publication: US Patent 9,087,612
+
+56. Variability aware wear leveling
+Citations:15
+Authors: M Franceschini, A Jagmohan, MK Qureshi, LA Lastras
+Publication: US Patent App. 13/554,316
+
+57. CANDY: Enabling coherent DRAM caches for multi-node systems
+Citations:14
+Authors: C Chou, A Jaleel, MK Qureshi
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 35
+
+58. Adaptive workload based optimizations to mitigate current delivery limitations in integrated circuits
+Citations:14
+Authors: P Bose, A Buyuktosunoglu, JA Darringer, MK Qureshi, J Shin
+Publication: US Patent 8,683,418
+
+59. Demand-based error correction
+Citations:13
+Authors: MK Qureshi, PB Racunas, SS Mukherjee
+Publication: US Patent 7,606,980
+
+60. Apparatus and method for filtering unused sub-blocks in cache memories
+Citations:13
+Authors: PG Emma, AM Hartstein, TR Puzak, MKA Qureshi
+Publication: US Patent App. 12/116,615
+
+61. Dynamically adaptive associativity of a branch target buffer (BTB)
+Citations:13
+Authors: BR Prasky, MKA Qureshi
+Publication: US Patent 7,124,287
+
+62. Synergy: Rethinking secure-memory design for error-correcting memories
+Citations:12
+Authors: G Saileshwar, PJ Nair, P Ramrakhyani, W Elsasser, MK Qureshi
+Publication: 2018 IEEE International Symposium on High Performance Computer Architecture …
+
+63. State machine based filtering of non-dominant branches to use a modified gshare scheme
+Citations:11
+Authors: BR Prasky, MKA Qureshi
+Publication: US Patent 7,747,845
+
+64. BATMAN: Techniques for maximizing system bandwidth of memory systems with stacked-DRAM
+Citations:10
+Authors: C Chou, A Jaleel, M Qureshi
+Publication: Proceedings of the International Symposium on Memory Systems, 268-280
+
+65. Adaptive linesize in a cache
+Citations:10
+Authors: K Bernstein, MK Qureshi
+Publication: US Patent 8,250,303
+
+66. Accord: Enabling associativity for gigascale dram caches by coordinating way-install and way-prediction
+Citations:9
+Authors: V Young, C Chou, A Jaleel, M Qureshi
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+67. An evolutionary study of Linux memory management for fun and profit
+Citations:8
+Authors: J Huang, MK Qureshi, K Schwan
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 465-478
+
+68. An asymmetric multi-core architecture for accelerating critical sections
+Citations:8
+Authors: MA Suleman, O Mutlu, M Qureshi, YN Patt
+Publication: 
+
+69. Morphable counters: Enabling compact integrity trees for low-overhead secure memories
+Citations:7
+Authors: G Saileshwar, P Nair, P Ramrakhyani, W Elsasser, J Joao, M Qureshi
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+70. Taming the instruction bandwidth of quantum computers via hardware-managed error correction
+Citations:6
+Authors: SS Tannu, ZA Myers, PJ Nair, DM Carmean, MK Qureshi
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+71. SHiP++: Enhancing signature-based hit predictor for improved cache performance
+Citations:6
+Authors: V Young, C Chen, A Jaleel, M Qureshi
+Publication: Proceedings of the Cache Replacement Championship (CRC’17) held in …
+
+72. Adaptive wear leveling via monitoring the properties of memory reference stream
+Citations:6
+Authors: MM Franceschini, JP Karidis, LA Lastras-Montano, MK Qureshi
+Publication: US Patent 8,656,118
+
+73. Utility-based cache partitioning
+Citations:6
+Authors: MK Qureshi, YN Patt
+Publication: 
+
+74. Enabling Transparent Memory-Compression for Commodity Memory Systems
+Citations:5
+Authors: V Young, S Kariyappa, M Qureshi
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+75. Cryogenic-DRAM based memory system for scalable quantum computers: a feasibility study
+Citations:5
+Authors: SS Tannu, DM Carmean, MK Qureshi
+Publication: Proceedings of the International Symposium on Memory Systems, 189-195
+
+76. Balancing context switch penalty and response time with elastic time slicing
+Citations:5
+Authors: N Jammula, M Qureshi, A Gavrilovska, J Kim
+Publication: 2014 21st International Conference on High Performance Computing (HiPC), 1-10
+
+77. Memory cell presetting for improved memory performance
+Citations:5
+Authors: MM Franceschini, A Jagmohan, JP Karidis, LA Lastras-Montano, ...
+Publication: US Patent 8,874,846
+
+78. Method for optimizing refresh rate for DRAM
+Citations:4
+Authors: MM Franceschini, HC Hunter, A Jagmohan, CA Kilmer, K Kim, LA Lastras, ...
+Publication: US Patent 8,848,471
+
+79. Energy aware persistence: Reducing energy overheads of memory-based persistence in NVMs
+Citations:3
+Authors: S Kannan, M Qureshi, A Gavrilovska, K Schwan
+Publication: Proceedings of the 2016 International Conference on Parallel Architectures …
+
+80. Out-of-place presetting based on indirection table
+Citations:3
+Authors: MM Franceschini, A Jagmohan, MK Qureshi, LA Lastras
+Publication: US Patent App. 14/264,463
+
+81. Practical and secure pcm-based main-memory system via online attack detection
+Citations:3
+Authors: MK Qureshi, LA Lastras-montaño, MM Franceschini, JP Karidis
+Publication: 
+
+82. Rivers JA Scalable High Performance Main Memory System using phase-change memory technology
+Citations:3
+Authors: MK Qureshi, V Srinivasan
+Publication: Proc. ISCA’09, 20-24
+
+83. DRAM refresh
+Citations:2
+Authors: MM Franceschini, H Hunter, A Jagmohan, CA Kilmer, K Kim, LA Lastras, ...
+Publication: US Patent 9,058,896
+
+84. DRAM error detection, evaluation, and correction
+Citations:2
+Authors: MM Franceschini, HC Hunter, A Jagmohan, CA Kilmer, K Kim, ...
+Publication: US Patent 8,898,544
+
+85. Current-aware floorplanning to overcome current delivery limitations in integrated circuits
+Citations:2
+Authors: P Bose, A Buyuktosunoglu, JA Darringer, MK Qureshi, J Shin
+Publication: US Patent 8,863,068
+
+86. Method and apparatus improving performance of a digital memory array device
+Citations:2
+Authors: M Huang, C Wilkerson, NS Kim, MK Qureshi
+Publication: US Patent App. 11/823,358
+
+87. Scalable high performance main memory system using PCM technology
+Citations:2
+Authors: MK Qureshi, V Srinivasan, JA Rivers
+Publication: ISCA'09
+
+88. SuDoku: Tolerating High-Rate of Transient Failures for Enabling Scalable STTRAM
+Citations:1
+Authors: PJ Nair, B Asgari, MK Qureshi
+Publication: 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+89. Improving Adversarial Robustness of Ensembles with Diversity Training
+Citations:1
+Authors: S Kariyappa, MK Qureshi
+Publication: arXiv preprint arXiv:1901.09981
+
+90. LISA: Increasing Internal Connectivity in DRAM for Fast Data Movement and Low Latency
+Citations:1
+Authors: KK Chang, PJ Nair, S Ghose, D Lee, MK Qureshi, O Mutlu
+Publication: arXiv preprint arXiv:1805.03184
+
+91. Top Picks from the 2016 Computer Architecture Conferences
+Citations:1
+Authors: A Jaleel, M Qureshi
+Publication: IEEE Micro, 6-11
+
+92. Measuring data switching activity in a microprocessor
+Citations:1
+Authors: P Bose, A Buyuktosunoglu, CJ Gonzalez, MK Qureshi, V Zyuban
+Publication: US Patent 8,458,501
+
+93. To Update or Not To Update?: Bandwidth-Efficient Intelligent Replacement Policies for DRAM Caches
+Citations:
+Authors: V Young, MK Qureshi
+Publication: arXiv preprint arXiv:1907.02167
+
+94. TicToc: Enabling Bandwidth-Efficient DRAM Caching for both Hits and Misses in Hybrid Memory Systems
+Citations:
+Authors: V Young, Z Chishti, MK Qureshi
+Publication: arXiv preprint arXiv:1907.02184
+
+95. New attacks and defense for encrypted-address cache
+Citations:
+Authors: MK Qureshi
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+96. Lookout for Zombies: Mitigating Flush+ Reload Attack on Shared Caches by Monitoring Invalidated Lines
+Citations:
+Authors: G Saileshwar, MK Qureshi
+Publication: arXiv preprint arXiv:1906.02362
+
+97. A case for superconducting accelerators
+Citations:
+Authors: SS Tannu, P Das, ML Lewis, R Krick, DM Carmean, MK Qureshi
+Publication: Proceedings of the 16th ACM International Conference on Computing Frontiers …
+
+98. With New Memories Come New Challenges
+Citations:
+Authors: M Qureshi
+Publication: IEEE Micro 39 (1), 52-53
+
+99. Architecture and Compiler Support for Near-Term Quantum Computers
+Citations:
+Authors: M Qureshi
+Publication: Georgia Institute of Technology
+
+100. Out-of-place presetting based on indirection table
+Citations:
+Authors: MM Franceschini, A Jagmohan, MK Qureshi, LA Lastras
+Publication: US Patent App. 10/068,639
+
+101. Probabilistic associative cache
+Citations:
+Authors: B Abali, JS Dodson, MK Qureshi, B Sinharoy
+Publication: US Patent App. 10/019,370
+
+102. Variability aware wear leveling
+Citations:
+Authors: M Franceschini, A Jagmohan, MK Qureshi, LA Lastras
+Publication: US Patent 9,846,641
+
+103. Probabilistic Associative Cache
+Citations:
+Authors: B Abali, JS Dodson, MK Qureshi, B Sinharoy
+Publication: US Patent App. 15/200,572
+
+104. Probabilistic associative cache
+Citations:
+Authors: B Abali, J Dodson, MK Qureshi, B Sinharoy
+Publication: US Patent 9,424,194
+
+105. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: S Liang, S Yin, L Liu, Y Guo, S Wei, BCC Lai, LG Platero, HK Kuo, ...
+Publication: 
+
+106. Low-latency, low-overhead hybrid encryption scheme
+Citations:
+Authors: MM Franceschini, A Jagmohan, LA Lastras-Montano, MKA Qureshi
+Publication: US Patent 9,218,296
+
+107. BATMAN: Maximizing Bandwidth Utilization of Hybrid Memory Systems
+Citations:
+Authors: AJ ChiachenChou, MK Qureshi
+Publication: 
+
+108. Adaptive workload based optimizations coupled with a heterogeneous current-aware baseline design to mitigate current delivery limitations in integrated circuits
+Citations:
+Authors: P Bose, A Buyuktosunoglu, JA Darringer, MK Qureshi, J Shin
+Publication: US Patent 8,914,764
+
+109. Managing errors in a DRAM by weak cell encoding
+Citations:
+Authors: MM Franceschini, HC Hunter, A Jagmohan, CA Kilmer, K Kim, ...
+Publication: US Patent 8,887,014
+
+110. Token-based current control to mitigate current delivery limitations in integrated circuits
+Citations:
+Authors: P Bose, A Buyuktosunoglu, JA Darringer, MK Qureshi, J Shin
+Publication: US Patent 8,826,216
+
+111. Memory access prediction
+Citations:
+Authors: MKA Qureshi
+Publication: US Patent 8,627,008
+
+112. A CASE FOR NONUNIFORM FAULT TOLERANCE IN EMERGING MEMORIES.
+Citations:
+Authors: MK Qureshi
+Publication: Intel Technology Journal 17 (1)
+
+113. Embedded tutorial-Emerging memory technologies: What it means for computer system designers
+Citations:
+Authors: MK Qureshi
+Publication: 2013 26th International Conference on VLSI Design and 2013 12th …
+
+114. Guest Editor's Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge
+Publication: IEEE micro 30 (1), 8-11
+
+115. 15-740/18-740 Computer Architecture, Fall 2009 Schedule for In-Class Discussions
+Citations:
+Authors: BC Lee, E Ipek, D Burger, O Mutlu, AP Change, MK Qureshi, V Srinivasan, ...
+Publication: Symposium on Computer Architecture (ISCA)
+
+116. Adaptive caching for high-performance memory systems
+Citations:
+Authors: MKA Qureshi
+Publication: 
+
+117. Demand Based Associativity via Global Replacement
+Citations:
+Authors: MK QURESHI
+Publication: Proceedings of the 23nd Annual International Symposium on Computer …
+
+118. Alaa Alameldeen, Intel Mahdi Nazm Bojnordi, University of Utah Anirudh Badam, Microsoft Pradip Bose, IBM Research
+Citations:
+Authors: D Brooks, R Canal, N Chatterjee, L Cheng, J Clemons, L Eeckhout, ...
+Publication: 
+
+119. MICRO 2018
+Citations:
+Authors: EG Suh, F Chong, M Martonosi, M Hicks, M Prvulovic, M Qureshi, ...
+Publication: 
+
+120. Probabilistic Integrity for Low-Overhead Secure Memories
+Citations:
+Authors: G Saileshwar, MK Qureshi
+Publication: 
+
+121. ISCA 2018 External Reviewers
+Citations:
+Authors: D Alistarh, D Atienza, EC Batten, K Bertels, E Charbon, EY Chen, ...
+Publication: 
+
+122. Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs with FlashBlox
+Citations:
+Authors: J Huang, ABL Caulfield, SNSSB Sharma, MK Qureshi
+Publication: 
+
+123. 8 Guest Editor’s Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge, A Hilton, S Nagarakatte, A Roth, N Hardavellas, M Ferdman, ...
+Publication: 
+
+124. Reducing Cache-Associated Context-Switch Performance Penalty Using Elastic Time Slicing
+Citations:
+Authors: N Jammula, M Qureshi, A Gavrilovska, J Kim
+Publication: TECHNICAL JOURNAL, 23
+
+125. MICRO 2014
+Citations:
+Authors: CC Chou, A Jaleel, MK Qureshi
+Publication: 
+
+126. CSR: Small: Storage Architecture for the Next Generation of Smart Mobile Platforms
+Citations:
+Authors: U Ramachandran, MK Qureshi
+Publication: 
+
+127. 2010 Reviewers List
+Citations:
+Authors: ME Acacio, N Agrawal, E Altman, R Alur, B Baas, P Balaji, V Bertacco, ...
+Publication: 
+
+128. Tor M. Aamodt, University of British Columbia Ali-Reza Adl-Tabatabai, Intel Krste Asanovic, University of California Berkeley David August, Princeton University
+Citations:
+Authors: L Ceze, N Clark, G Gaydadjiev, C Hughes, MJ Irwin, R Iyer, B Jacob, ...
+Publication: 
+
+129. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 
+
+130. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+

@@ -1,0 +1,415 @@
+
+2. OpenFlow: enabling innovation in campus networks
+Citations:8745
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69-74
+
+3. The Byzantine generals problem
+Citations:5813
+Authors: L Lamport, R Shostak, M Pease
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 4 (3), 382-401
+
+6. Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing
+Citations:3876
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, MJ Franklin, ...
+Publication: Proceedings of the 9th USENIX conference on Networked Systems Design and …
+
+13. Recommendations on queue management and congestion avoidance in the Internet
+Citations:2020
+Authors: V Jacobson, B Braden, S Floyd, B Davie, D Estrin, J Crowcroft, S Deering
+Publication: 
+
+19. Mesos: A platform for fine-grained resource sharing in the data center.
+Citations:1514
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: NSDI 11 (2011), 22-22
+
+20. Onix: A distributed control platform for large-scale production networks.
+Citations:1503
+Authors: T Koponen, M Casado, N Gude, J Stribling, L Poutievski, M Zhu, ...
+Publication: OSDI 10, 1-6
+
+43. Apache spark: a unified engine for big data processing
+Citations:759
+Authors: M Zaharia, RS Xin, P Wendell, T Das, M Armbrust, A Dave, X Meng, ...
+Publication: Communications of the ACM 59 (11), 56-65
+
+56. SANE: A Protection Architecture for Enterprise Networks.
+Citations:547
+Authors: M Casado, T Garfinkel, A Akella, MJ Freedman, D Boneh, N McKeown, ...
+Publication: USENIX Security Symposium 49, 50
+
+60. Less pain, most of the gain: Incrementally deployable icn
+Citations:508
+Authors: SK Fayazbakhsh, Y Lin, A Tootoonchian, A Ghodsi, T Koponen, B Maggs, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 147-158
+
+72. Controlling high-bandwidth flows at the congested router
+Citations:446
+Authors: R Mahajan, S Floyd, D Wetherall
+Publication: Proceedings Ninth International Conference on Network Protocols. ICNP 2001 …
+
+74. pfabric: Minimal near-optimal datacenter transport
+Citations:442
+Authors: M Alizadeh, S Yang, M Sharif, S Katti, N McKeown, B Prabhakar, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 435-446
+
+79. Accountable internet protocol (aip)
+Citations:410
+Authors: DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 339-350
+
+82. Network virtualization in multi-tenant datacenters
+Citations:381
+Authors: T Koponen, K Amidon, P Balland, M Casado, A Chanda, B Fulton, ...
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+92. Sdx: A software defined internet exchange
+Citations:328
+Authors: A Gupta, L Vanbever, M Shahbaz, SP Donovan, B Schlinker, N Feamster, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 551-562
+
+97. Pacman: Coordinated memory caching for parallel jobs
+Citations:311
+Authors: G Ananthanarayanan, A Ghodsi, A Warfield, D Borthakur, S Kandula, ...
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+103. Network operating system for managing and securing networks
+Citations:305
+Authors: M Casado, KE Amidon, PJ Balland III, N Gude, J Pettit, BL Pfaff, ...
+Publication: US Patent 9,083,609
+
+110. Enforcing network-wide policies in the presence of dynamic middlebox actions using flowtags
+Citations:272
+Authors: SK Fayazbakhsh, L Chiang, V Sekar, M Yu, JC Mogul
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+119. The architecture of pier: an internet-scale query processor
+Citations:253
+Authors: R Huebsch, B Chun, JM Hellerstein, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+
+134. E2: a framework for NFV applications
+Citations:200
+Authors: S Palkar, C Lan, S Han, K Jang, A Panda, S Ratnasamy, L Rizzo, ...
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 121-136
+
+142. {GRASS}: Trimming Stragglers in Approximation Analytics
+Citations:170
+Authors: G Ananthanarayanan, MCC Hung, X Ren, I Stoica, A Wierman, M Yu
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+147. Towards a Sensor Network Architecture: Lowering the Waistline.
+Citations:165
+Authors: DE Culler, P Dutta, CT Ee, R Fonseca, J Hui, P Levis, J Polastre, ...
+Publication: HotOS
+
+150. Fast and interactive analytics over Hadoop data with Spark
+Citations:161
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M Mccauley, M Franklin, ...
+Publication: Usenix Login 37 (4), 45-51
+
+163. Adaptive RED: An algorithm for increasing the robustness of RED
+Citations:136
+Authors: S Floyd
+Publication: http://www. icir. org/floyd/red. html
+
+172. RFC2309: Recommendations on queue management and congestion avoidance in the internet
+Citations:121
+Authors: B Braden, D Clark, J Crowcroft, B Davie, S Deering, D Estrin, S Floyd, ...
+Publication: Internet RFCs
+
+177. Constitutional constructions and constitutional decision rules: thoughts on the Carving of Implementation Space
+Citations:113
+Authors: MN Berman
+Publication: Const. Comment. 27, 39
+
+181. Troubleshooting blackbox SDN control software with minimal causal sequences
+Citations:107
+Authors: C Scott, A Wundsam, B Raghavan, A Panda, A Or, J Lai, E Huang, Z Liu, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 395-406
+
+186. Rollback-recovery for middleboxes
+Citations:102
+Authors: J Sherry, PX Gao, S Basu, A Panda, A Krishnamurthy, C Maciocco, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 227-240
+
+189. Query routing in a peer‐to‐peer semantic link network
+Citations:101
+Authors: H Zhuge, J Liu, L Feng, X Sun, C He
+Publication: Computational Intelligence 21 (2), 197-216
+
+194. Network requirements for resource disaggregation
+Citations:96
+Authors: PX Gao, A Narayan, S Karandikar, J Carreira, S Han, R Agarwal, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+198. The emergence of a networking primitive in wireless sensor networks
+Citations:93
+Authors: P Levis, E Brewer, D Culler, D Gay, S Madden, N Patel, J Polastre, ...
+Publication: Communications of the ACM 51 (7), 99-106
+
+200. Modifying TCP's congestion control for high speeds
+Citations:93
+Authors: S Floyd
+Publication: IETF Internet-Draft
+
+211. The case for tiny tasks in compute clusters
+Citations:80
+Authors: K Ousterhout, A Panda, J Rosen, S Venkataraman, R Xin, S Ratnasamy, ...
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+213. An architecture for energy management in wireless sensor networks.
+Citations:78
+Authors: X Jiang, J Taneja, J Ortiz, A Tavakoli, P Dutta, J Jeong, DE Culler, P Levis, ...
+Publication: SIGBED Review 4 (3), 31-36
+
+217. OverCite: A cooperative digital research library
+Citations:77
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, DR Karger, R Morris, ...
+Publication: International Workshop on Peer-to-Peer Systems, 69-79
+
+221. Protecting Users by Confining JavaScript with {COWL}
+Citations:73
+Authors: D Stefan, EZ Yang, P Marchenko, A Russo, D Herman, B Karp, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+235. GENI design principles
+Citations:60
+Authors: LL Peterson, T Anderson, D Blumenthal, D Casey, D Clark, D Estrin, ...
+Publication: Computer 39 (9), 102-105
+
+236. Practical hardening of crash-tolerant systems
+Citations:57
+Authors: M Correia, DG Ferro, FP Junqueira, M Serafini
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+256. A new approach to interdomain routing based on secure multi-party computation
+Citations:41
+Authors: D Gupta, A Segal, A Panda, G Segev, M Schapira, J Feigenbaum, ...
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 37-42
+
+259. Cloud terminal: secure access to sensitive applications from untrusted systems
+Citations:39
+Authors: L Martignoni, P Poosankam, M Zaharia, J Han, S McCamant, D Song, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+260. The Datacenter Needs an Operating System.
+Citations:39
+Authors: M Zaharia, B Hindman, A Konwinski, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: HotCloud
+
+261. Virtual internetwork testbed: Status and research agenda
+Citations:39
+Authors: S Bajaj, L Breslau, D Estrin, K Fall, S Floyd, P Haldar, M Handley, ...
+Publication: Technical Report 98-678, University of Southern California
+
+275. Holding the Internet Accountable.
+Citations:34
+Authors: DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, ...
+Publication: HotNets
+
+282. Softflow: A middlebox architecture for open vswitch
+Citations:32
+Authors: EJ Jackson, M Walls, A Panda, J Pettit, B Pfaff, J Rajahalme, T Koponen, ...
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 15-28
+
+284. Analysis and simulation of a fair queueing algorithm
+Citations:32
+Authors: A Demars
+Publication: Proc. ACM SIGCOMM 1989
+
+285. v. Knizhnik and M. Teitelman
+Citations:32
+Authors: M Bershadsky
+Publication: Phys. Lett. B 151, 31
+
+311. Ripcord: a modular platform for data center networking
+Citations:24
+Authors: B Heller, D Erickson, N McKeown, R Griffith, I Ganichev, S Whyte, K Zarifis, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 457-458
+
+313. Resq: Enabling slos in network function virtualization
+Citations:23
+Authors: A Tootoonchian, A Panda, C Lan, M Walls, K Argyraki, S Ratnasamy, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+318. Ripcord: A modular platform for data center networking
+Citations:22
+Authors: M Casado, D Erickson, IA Ganichev, R Griffith, B Heller, N Mckeown, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2010-93
+
+321. L~ P. Kadanoff and SJ Shenker
+Citations:21
+Authors: MJ Feigenbaum
+Publication: Physica D 5, 370
+
+325. Using hierarchical location names for scalable routing and rendezvous in wireless sensor networks.
+Citations:20
+Authors: F Bian, R Govindan, S Schenker, X Li
+Publication: SenSys 4, 305-306
+
+329. Network architecture and content provision: An economic analysis
+Citations:19
+Authors: JK MacKie-Mason, S Scott, V Hal
+Publication: 
+
+331. Revisiting network support for rdma
+Citations:18
+Authors: R Mittal, A Shpiner, A Panda, E Zahavi, A Krishnamurthy, S Ratnasamy, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+335. The quest for resilient (static) forwarding tables
+Citations:17
+Authors: M Chiesa, I Nikolaevskiy, S Mitrović, A Panda, A Gurtov, A Maidry, ...
+Publication: IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer …
+
+340. On the resiliency of static forwarding tables
+Citations:16
+Authors: M Chiesa, I Nikolaevskiy, S Mitrovic, A Gurtov, A Madry, M Schapira, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 25 (2), 1133-1146
+
+344. Recursive SDN for carrier networks
+Citations:15
+Authors: J McCauley, Z Liu, A Panda, T Koponen, B Raghavan, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (4), 1-7
+
+348. On the resiliency of randomized routing against multiple edge failures
+Citations:14
+Authors: M Chiesa, A Gurtov, A Madry, S Mitrovic, I Nikolaevskiy, M Shapira, ...
+Publication: 43rd International Colloquium on Automata, Languages, and Programming (ICALP …
+
+349. Reducing latency in Tor circuits with unordered delivery
+Citations:14
+Authors: MF Nowlan, DI Wolinsky, B Ford
+Publication: Presented as part of the 3rd {USENIX} Workshop on Free and Open …
+
+369. Resilient distributed datasets
+Citations:11
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, M Franklin, ...
+Publication: A fault-tolerant abstraction for in-memory cluster computing in Proceedings …
+
+370. A million cancer genome warehouse
+Citations:11
+Authors: D Haussler, DA Patterson, M Diekhans, A Fox, M Jordan, AD Joseph, ...
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+380. A scalable content-addressable network, 2001
+Citations:11
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Schenker
+Publication: Proceedings of the 2001 conference on Applications, technologies …
+
+381. Exploring the limits of static failover routing
+Citations:10
+Authors: M Chiesa, A Gurtov, A Mądry, S Mitrović, I Nikolaevkiy, A Panda, ...
+Publication: arXiv preprint arXiv:1409.0034
+
+384. Arthur: Rich post-facto debugging for production analytics applications
+Citations:10
+Authors: A Dave, M Zaharia, I Stoica
+Publication: University of California; Berkeley
+
+397. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+398. Open network interfaces for carrier networks
+Citations:8
+Authors: A Panda, JM McCauley, A Tootoonchian, J Sherry, T Koponen, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (1), 5-11
+
+399. A New Communications API
+Citations:8
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: Electrical Engineering and Computer SciencesUniversity of California at …
+
+402. A data-oriented network architecture
+Citations:8
+Authors: T Koponen
+Publication: Teknillinen korkeakoulu
+
+411. Enabling innovation below the communication api
+Citations:7
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: EECS Department, University of California, Berkeley, UCB/EECS-2009–141
+
+413. Querying at Internet scale
+Citations:7
+Authors: B Chun, JM Hellerstein, R Huebsch, SR Jeffery, BT Loo, S Mardanbeigi, ...
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+435. Network operating system for managing and securing networks
+Citations:4
+Authors: M Casado, KE Amidon, PJ Balland III, N Gude, J Pettit, BL Pfaff, ...
+Publication: US Patent App. 15/838,317
+
+436. Net2Text: Query-guided summarization of network forwarding behaviors
+Citations:4
+Authors: R Birkner, D Drachsler-Cohen, L Vanbever, M Vechev
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+438. Taking an axe to l2 spanning trees
+Citations:4
+Authors: J McCauley, A Sheng, EJ Jackson, B Raghavan, S Ratnasamy, ...
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 15
+
+439. Mesos: Flexible resource sharing for the cloud
+Citations:4
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, R Katz, ...
+Publication: USENIX (August 2011)
+
+442. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+448. C. Wafa
+Citations:4
+Authors: S Hamidi
+Publication: Nucl. Phys. B 279, 465
+
+449. OpenFlow
+Citations:4
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69
+
+455. Routing Along DAGs
+Citations:3
+Authors: J Liu
+Publication: UC Berkeley
+
+457. A publish/subscribe communications api for data-oriented applications
+Citations:3
+Authors: M Demmer, B Du, A Ermolinsky, K Fall, I Ganichev, T Loponen, J Liu, ...
+Publication: Proceedings of the 5th Symposium on Networked Systems Design and …
+
+464. NewArch: A new architecture for an Internet
+Citations:3
+Authors: D Clark, S Bellovin, B Braden, N Chiappa, T Faber, A Falk, M Handley, ...
+Publication: Report to Next Generation Internet PI Meeting
+
+472. Flexible Resource Sharing for the Cloud
+Citations:2
+Authors: B Hindman, A KONWINSKI, M ZAHARIA, ALI GHODSI, AD JOSEPH, ...
+Publication: Aug
+
+490. Distributed shared memory for machine learning
+Citations:1
+Authors: A Tootoonchian, A Panda, A Nematzadeh, S Shenkar
+Publication: Proceedings of SysML
+
+492. The berkeley data analysis system (BDAS): An open source platform for big data analytics
+Citations:1
+Authors: I Stoica, M Franklin, M Jordan, A Fox, A Joseph, M Mahoney, R Katz, ...
+Publication: University of California, Berkeley Berkeley United States
+
+495. Exploring the limits of static resilient routing
+Citations:1
+Authors: M Chiesa, A Gurtov, A Madry, S Mitrovic, I Nikolaevskiy, A Panda, ...
+Publication: Proc. IEEE INFOCOM
+
+497. SDX: A Software Defined Internet Exchange
+Citations:1
+Authors: L Vanbever, M Shahbaz, S Donovan, B Schlinker, N Feamster
+Publication: Proc. ACM SIGCOMM'14

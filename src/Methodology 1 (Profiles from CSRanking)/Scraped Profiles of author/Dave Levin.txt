@@ -1,0 +1,403 @@
+https://scholar.google.com/citations?hl=en&user=CLSPQW4AAAAJ
+Total Citations = 1499
+
+1. Bittorrent is an auction: analyzing and improving bittorrent's incentives
+Citations:246
+Authors: D Levin, K LaCurts, N Spring, B Bhattacharjee
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 243-254
+
+2. TrInc: Small Trusted Hardware for Large Distributed Systems.
+Citations:167
+Authors: D Levin, JR Douceur, JR Lorch, T Moscibroda
+Publication: NSDI 9, 1-14
+
+3. Programming slick network functions
+Citations:80
+Authors: B Anwer, T Benson, N Feamster, D Levin
+Publication: Proceedings of the 1st acm sigcomm symposium on software defined networking …
+
+4. A slick control plane for network middleboxes.
+Citations:74
+Authors: MB Anwer, T Benson, N Feamster, D Levin, J Rexford
+Publication: HotSDN 13, 147-148
+
+5. An end-to-end measurement of certificate revocation in the web's PKI
+Citations:70
+Authors: Y Liu, W Tome, L Zhang, D Choffnes, D Levin, B Maggs, A Mislove, ...
+Publication: Proceedings of the 2015 Internet Measurement Conference, 183-196
+
+6. Analysis of SSL certificate reissues and revocations in the wake of Heartbleed
+Citations:61
+Authors: L Zhang, D Choffnes, D Levin, T Dumitraş, A Mislove, A Schulman, ...
+Publication: Proceedings of the 2014 Conference on Internet Measurement Conference, 489-502
+
+7. PeerWise Discovery and Negotiation of Faster Paths.
+Citations:48
+Authors: C Lumezanu, D Levin, N Spring
+Publication: HotNets
+
+8. Symbiotic Relationships in Internet Routing Overlays.
+Citations:46
+Authors: C Lumezanu, R Baden, D Levin, N Spring, B Bhattacharjee
+Publication: NSDI, 467-480
+
+9. Discovering bitcoin’s public topology and influential nodes
+Citations:43
+Authors: A Miller, J Litton, A Pachulski, N Gupta, D Levin, N Spring, ...
+Publication: et al
+
+10. Fair File Swarming with FOX.
+Citations:43
+Authors: D Levin, R Sherwood, B Bhattacharjee
+Publication: IPTPS
+
+11. Sdx: A software defined internet exchange
+Citations:41
+Authors: N Feamster, J Rexford, S Shenker, R Clark, R Hutchins, D Levin, J Bailey
+Publication: Open Networking Summit, 1
+
+12. On the fidelity of 802.11 packet traces
+Citations:41
+Authors: A Schulman, D Levin, N Spring
+Publication: International Conference on Passive and Active Network Measurement, 132-141
+
+13. Accountability as a Service.
+Citations:36
+Authors: A Bender, N Spring, D Levin, B Bhattacharjee
+Publication: SRUTI 7, 1-6
+
+14. Punishment in selfish wireless networks: A game theoretic analysis
+Citations:36
+Authors: D Levin
+Publication: Proceedings of the First Workshop on the Economics of Networked Systems …
+
+15. Measurement and analysis of private key sharing in the https ecosystem
+Citations:34
+Authors: F Cangialosi, T Chung, D Choffnes, D Levin, BM Maggs, A Mislove, ...
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+16. Backbone construction in selfish wireless networks
+Citations:34
+Authors: S Lee, D Levin, V Gopalakrishnan, B Bhattacharjee
+Publication: ACM SIGMETRICS Performance Evaluation Review 35 (1), 121-132
+
+17. A Longitudinal, End-to-End View of the {DNSSEC} Ecosystem
+Citations:29
+Authors: T Chung, R van Rijswijk-Deij, B Chandrasekaran, D Choffnes, D Levin, ...
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 1307-1322
+
+18. Proofrite: A paper-augmented word processor
+Citations:29
+Authors: K Conroy, D Levin, F Guimbretière
+Publication: Demo Session of UIST
+
+19. Measuring and applying invalid SSL certificates: The silent majority
+Citations:24
+Authors: T Chung, Y Liu, D Choffnes, D Levin, BMD Maggs, A Mislove, C Wilson
+Publication: Proceedings of the 2016 Internet Measurement Conference, 527-541
+
+20. Picocenter: Supporting long-lived, mostly-idle applications in cloud environments
+Citations:24
+Authors: L Zhang, J Litton, F Cangialosi, T Benson, D Levin, A Mislove
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 37
+
+21. Capacity of asynchronous random-access scheduling in wireless networks
+Citations:24
+Authors: D Chafekar, D Levin, VSA Kumar, MV Marathe, S Parthasarathy, ...
+Publication: IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 1148-1156
+
+22. Alibi routing
+Citations:23
+Authors: D Levin, Y Lee, L Valenta, Z Li, V Lai, C Lumezanu, N Spring, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 611-624
+
+23. Build it, break it, fix it: Contesting secure development
+Citations:21
+Authors: A Ruef, M Hicks, J Parker, D Levin, ML Mazurek, P Mardziel
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+24. RevCast: Fast, private certificate revocation over FM radio
+Citations:21
+Authors: A Schulman, D Levin, N Spring
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+25. CRAWDAD data set umd/sigcomm2008 (v. 2009-03-02)
+Citations:21
+Authors: A Schulman, D Levin, N Spring
+Publication: 
+
+26. Crlite: A scalable system for pushing all tls revocations to all browsers
+Citations:20
+Authors: J Larisch, D Choffnes, D Levin, BM Maggs, A Mislove, C Wilson
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 539-556
+
+27. Stick a fork in it: Analyzing the Ethereum network partition
+Citations:15
+Authors: L Kiffer, D Levin, A Mislove
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 94-100
+
+28. Ting: Measuring and exploiting latencies between all tor nodes
+Citations:15
+Authors: F Cangialosi, D Levin, N Spring
+Publication: Proceedings of the 2015 Internet Measurement Conference, 289-302
+
+29. Understanding the role of registrars in DNSSEC deployment
+Citations:14
+Authors: T Chung, R van Rijswijk-Deij, D Choffnes, D Levin, BM Maggs, A Mislove, ...
+Publication: Proceedings of the 2017 Internet Measurement Conference, 369-383
+
+30. unCaptcha: a low-resource defeat of recaptcha's audio challenge
+Citations:13
+Authors: K Bock, D Patel, G Hughey, D Levin
+Publication: 11th {USENIX} Workshop on Offensive Technologies ({WOOT} 17)
+
+31. D-mystifying the D-root Address Change
+Citations:12
+Authors: M Lentz, D Levin, J Castonguay, N Spring, B Bhattacharjee
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 57-62
+
+32. WTF? Locating performance problems in home networks
+Citations:10
+Authors: S Sundaresan, Y Grunenberger, N Feamster, D Papagiannaki, D Levin, ...
+Publication: Georgia Institute of Technology
+
+33. Making currency inexpensive with iOwe
+Citations:9
+Authors: D Levin, A Schulman, K LaCurts, N Spring, B Bhattacharjee
+Publication: Proceedings of the workshop on the economics of networks, systems, and …
+
+34. UAv6: Alias resolution in IPv6 using unused addresses
+Citations:7
+Authors: R Padmanabhan, Z Li, D Levin, N Spring
+Publication: International Conference on Passive and Active Network Measurement, 136-148
+
+35. CRAWDAD trace umd/sigcomm2008/pcap/ethernet (v. 2009-03-02)
+Citations:7
+Authors: A Schulman, D Levin, N Spring
+Publication: 
+
+36. CRAWDAD data set umd/sigcomm2008
+Citations:7
+Authors: A Schulman, D Levin, N Spring
+Publication: 
+
+37. Motivating participation in Internet routing overlays
+Citations:6
+Authors: D Levin, R Baden, C Lumezanu, N Spring, B Bhattacharjee
+Publication: Proceedings of the 3rd international workshop on Economics of networked …
+
+38. Internet anycast: performance, problems, & potential.
+Citations:5
+Authors: Z Li, D Levin, N Spring, B Bhattacharjee
+Publication: SIGCOMM, 59-73
+
+39. Dynamic prioritization of traffic in home networks
+Citations:5
+Authors: IN Bozkurt, Y Zhou, T Benson, B Anwer, D Levin, N Feamster, A Akella, ...
+Publication: Proc. CoNEXT Student Workshop, 1-3
+
+40. Build it break it: Measuring and comparing development security
+Citations:5
+Authors: A Ruef, M Hicks, J Parker, D Levin, A Memon, J Plane, P Mardziel
+Publication: 8th Workshop on Cyber Security Experimentation and Test ({CSET} 15)
+
+41. Analyzing Ethereum's Contract Topology
+Citations:4
+Authors: L Kiffer, D Levin, A Mislove
+Publication: Proceedings of the Internet Measurement Conference 2018, 494-499
+
+42. Characterizing home network performance problems
+Citations:4
+Authors: S Sundaresan, N Feamster, R Teixeira, Y Grunenberger, D Papagiannaki, ...
+Publication: 
+
+43. Boycotting and extorting nodes in an internetwork
+Citations:4
+Authors: D Levin, A Bender, C Lumezanu, N Spring, B Bhattacharjee
+Publication: Joint Workshop on the Economics of Networked Systems and Incentive-Based …
+
+44. Detor: Provably avoiding geographic regions in tor
+Citations:3
+Authors: Z Li, S Herwig, D Levin
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 343-359
+
+45. Don't love thy nearest neighbor.
+Citations:3
+Authors: C Lumezanu, D Levin, B Han, N Spring, B Bhattacharjee
+Publication: IPTPS, 5
+
+46. A secure DHT via the pigeonhole principle
+Citations:3
+Authors: R Baden, A Bender, D Levin, R Sherwood, N Spring, B Bhattacharjee
+Publication: 
+
+47. Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet.
+Citations:2
+Authors: S Herwig, K Harvey, G Hughey, R Roberts, D Levin
+Publication: NDSS
+
+48. King of the Hill: A Novel Cybersecurity Competition for Teaching Penetration Testing
+Citations:2
+Authors: K Bock, G Hughey, D Levin
+Publication: 2018 {USENIX} Workshop on Advances in Security Education ({ASE} 18)
+
+49. Secure sharing in distributed information management applications: problems and directions
+Citations:2
+Authors: P Mardziel, A Bender, M Hicks, D Levin, M Srivatsa, J Katz
+Publication: Proceedings of the Annual Conference of the International Technology …
+
+50. Systems-compatible incentives
+Citations:2
+Authors: D Levin, N Spring, B Bhattacharjee
+Publication: 2009 International Conference on Game Theory for Networks, 100-106
+
+51. How to find correlated Internet failures
+Citations:1
+Authors: R Padmanabhan, A Schulman, A Dainotti, D Levin, N Spring
+Publication: International Conference on Passive and Active Network Measurement, 210-227
+
+52. Is the Web Ready for OCSP Must-Staple?
+Citations:1
+Authors: T Chung, J Lok, B Chandrasekaran, D Choffnes, D Levin, BM Maggs, ...
+Publication: Proceedings of the Internet Measurement Conference 2018, 105-118
+
+53. Analysis of SSL certificate reissues and revocations in the wake of heartbleed
+Citations:1
+Authors: L Zhang, D Choffnes, T Dumitraş, D Levin, A Mislove, A Schulman, ...
+Publication: Communications of the ACM 61 (3), 109-116
+
+54. Stub Domain DDoS Detection
+Citations:1
+Authors: C Kommareddy, D Levin, B Bhattacharjee, RJ La, M Shayman
+Publication: CS-TR
+
+55. Residential links under the weather
+Citations:
+Authors: R Padmanabhan, A Schulman, D Levin, N Spring
+Publication: Proceedings of the ACM Special Interest Group on Data Communication, 145-158
+
+56. Build It, Break It, Fix It: Contesting Secure Development
+Citations:
+Authors: J Parker, M Hicks, A Ruef, ML Mazurek, D Levin, D Votipka, P Mardziel, ...
+Publication: arXiv preprint arXiv:1907.01679
+
+57. Automatically Learning How to Evade Censorship
+Citations:
+Authors: D Levin
+Publication: 
+
+58. A large-scale analysis of deployed traffic differentiation practices
+Citations:
+Authors: F Li, AA Niaki, D Choffnes, P Gill, A Mislove, AM Kakhki, S Jero, ...
+Publication: Proceedings of the ACM Special Interest Group on Data Communication 61, 311-317
+
+59. What to do on spring break? The role of predicted, on-line, and remembered experience in future choice
+Citations:
+Authors: E Cartwright, K Abbink, B Irlenbusch, E Renner, S Agarwal, C Liu, ...
+Publication: Behavioral Economics 44, 1-27
+
+60. Erratum to: Measurement of the charge asymmetry in top-quark pair production in the lepton-plus-jets final state in pp collision data at  TeV with the ATLAS …
+Citations:
+Authors: G Aad, B Abbott, J Abdallah, O Abdinov, R Aben, M Abolins, OS AbouZeid, ...
+Publication: The European Physical Journal C 77 (8), 564
+
+61. An End-to-End View of DNSSEC Ecosystem Management
+Citations:
+Authors: T Chung, R van Rijswijk-Deij, B Chandrasekaran, D Choffnes, D Levin, ...
+Publication: ; login: 42 (4)
+
+62. Security Competitions
+Citations:
+Authors: W Robertson, Z Peterson, D Levin, C Lewis, S D'Antoine, A Hecksteden, ...
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 1223-1240
+
+63. Half-Baked Cookies: Client Authentication on the Modern Web
+Citations:
+Authors: Y Mundada, N Feamster, B Krishnamurthy, S Guha, D Levin
+Publication: Georgia Institute of Technology
+
+64. Proving the Impossible: Provable Route Avoidance using Alibi Routing
+Citations:
+Authors: V Lai, D Levin
+Publication: 
+
+65. Search for Supersymmetry Using Final States with One Lepton, Jets, and Missing Transverse Momentum with the ATLAS Detector in√ s= 7 [square root of s= 7] TeV pp Collisions
+Citations:
+Authors: G Aad, B Abbott, J Abdallah, A Abdelalim, A Abdesselam, O Abdinov, ...
+Publication: American Physical Society
+
+66. Review5 of algorithmic game theory: editors: Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay V. Vazirani, publisher: Cambridge University Press ISBN: 978-0-521-87282-9
+Citations:
+Authors: D Levin
+Publication: ACM SIGACT News 41 (4), 21-24
+
+67. Measuring the Rapid Growth of HSTS and HPKP Deployments
+Citations:
+Authors: I Petrov, D Peskov, G Coard, T Chung, D Choffnes, D Levin, BM Maggs, ...
+Publication: 
+
+68. Exiting Gracefully in Python
+Citations:
+Authors: W Melicher, B Ur, SM Segreti, L Bauer, N Christin, LF Cranor, T Chung, ...
+Publication: 
+
+69. This paper has been submitted to UIST 2004. HCIL-2004-22, CS-TR-4652
+Citations:
+Authors: K Conroy, D Levin, F Guimbretière
+Publication: 
+
+70. DNSql: Processing Massive DNS Collections
+Citations:
+Authors: S Herwig, D Levin, B Bhattacharjee, N Spring
+Publication: 
+
+71. Anomaly Detection on D-root
+Citations:
+Authors: Z Li, D Levin, B Bhattacharjee, N Spring
+Publication: 
+
+72. BattOr: Plug-and-debug energy debugging for applications on smartphones and laptops Stanford CS Tech Report
+Citations:
+Authors: A Schulman, T Thapliyal, S Katti, N Spring, D Levin, P Dutta
+Publication: 
+
+73. Aaron Schulman
+Citations:
+Authors: A Schulman, N Spring, V Navda, R Ramjee, P Deshpande, C Grunewald, ...
+Publication: 
+
+74. Stay or Go? Participation in Under-Provisioned Systems
+Citations:
+Authors: D Levin, D Malter, N Spring, B Bhattacharjee
+Publication: 
+
+75. TrInc: Small Trusted Hardware for Large Distributed Systems
+Citations:
+Authors: DLJRD Jacob, RLT Moscibroda
+Publication: 
+
+76. Secure information sharing in distributed information management applications: problems and directions
+Citations:
+Authors: P Mardziel, A Bender, M Hicks, D Levin, M Srivatsa, J Katz
+Publication: 
+
+77. DDoS Detection in Multi-Homed Stub Domains
+Citations:
+Authors: C Kommareddy, D Levin, B Bhattacharjee, RJ La, MA Shayman, ...
+Publication: 
+
+78. Stay or Go? Participation in Under-Provisioned Video Streams
+Citations:
+Authors: D Levin, D Malter, N Spring, B Bhattacharjee
+Publication: 
+
+79. ProofRite: A Paper-Augmented Word Processor
+Citations:
+Authors: KCDLF Guimbretière
+Publication: 
+
+80. A Case for Addressing Privacy Problems with Technical, not Legislative, Solutions
+Citations:
+Authors: R Baden, A Bender, B Bhattacharjee, D Levin, N Spring
+Publication: 
+

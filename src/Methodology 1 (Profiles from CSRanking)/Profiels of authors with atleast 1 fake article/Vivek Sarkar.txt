@@ -1,0 +1,220 @@
+
+1. X10: an object-oriented approach to non-uniform cluster computing
+Citations:1661
+Authors: P Charles, C Grothoff, V Saraswat, C Donawa, A Kielstra, K Ebcioglu, ...
+Publication: Acm Sigplan Notices 40 (10), 519-538
+
+4. The Jalapeno virtual machine
+Citations:754
+Authors: B Alpern, CR Attanasio, JJ Barton, MG Burke, P Cheng, JD Choi, ...
+Publication: IBM Systems Journal 39 (1), 211-238
+
+10. The Jikes research virtual machine project: building an open-source research community
+Citations:292
+Authors: B Alpern, S Augart, SM Blackburn, M Butrico, A Cocchi, P Cheng, J Dolby, ...
+Publication: IBM Systems Journal 44 (2), 399-417
+
+16. Concurrent collections
+Citations:187
+Authors: Z Budimlić, M Burke, V Cavé, K Knobe, G Lowney, R Newton, J Palsberg, ...
+Publication: Scientific Programming 18 (3-4), 203-217
+
+24. The opportunities and challenges of exascale computing
+Citations:157
+Authors: S Ashby, P Beckman, J Chen, P Colella, B Collins, D Crawford, ...
+Publication: Summary Report of the Advanced Scientific Computing Advisory Committee …
+
+30. Exascale software study: Software challenges in extreme scale systems
+Citations:112
+Authors: S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, E Elnohazy, ...
+Publication: DARPA IPTO, Air Force Research Labs, Tech. Rep, 1-153
+
+39. X10: concurrent programming for modern architectures
+Citations:90
+Authors: V Saraswat
+Publication: Asian Symposium on Programming Languages and Systems, 1-1
+
+45. Integrating asynchronous task parallelism with MPI
+Citations:81
+Authors: S Chatterjee, S Tasirlar, Z Budimlic, V Cave, M Chabbi, M Grossman, ...
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+46. Top ten exascale research challenges
+Citations:79
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: DOE ASCAC subcommittee report, 1-86
+
+52. XJ: facilitating XML processing in Java
+Citations:71
+Authors: M Harren, M Raghavachari, O Shmueli, MG Burke, R Bordawekar, ...
+Publication: Proceedings of the 14th international conference on World Wide Web, 278-287
+
+53. S-cave: Effective ssd caching to improve virtual machine storage performance
+Citations:70
+Authors: T Luo, S Ma, R Lee, X Zhang, D Liu, L Zhou
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+58. The habanero multicore software research project
+Citations:66
+Authors: R Barik, Z Budimlic, V Cavè, S Chatterjee, Y Guo, D Peixotto, R Raman, ...
+Publication: Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented …
+
+87. Analytical bounds for optimal tile size selection
+Citations:43
+Authors: J Shirako, K Sharma, N Fauzia, LN Pouchet, J Ramanujam, ...
+Publication: International Conference on Compiler Construction, 101-121
+
+88. Synergistic challenges in data-intensive science and exascale computing: DOE ASCAC data subcommittee report
+Citations:40
+Authors: J Chen, A Choudhary, S Feldman, B Hendrickson, CR Johnson, R Mount, ...
+Publication: Department of Energy Office of Science
+
+101. Mining hot calling contexts in small space
+Citations:34
+Authors: DC D'Elia, C Demetrescu, I Finocchi
+Publication: ACM SIGPLAN Notices 46 (6), 516-527
+
+171. DOE advanced scientific computing advisory subcommittee (ASCAC) report: top ten exascale research challenges
+Citations:11
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+173. Compiler support for work-stealing parallel runtime systems
+Citations:11
+Authors: R Raman
+Publication: 
+
+182. Hardware and software tradeoffs for task synchronization on manycore architectures
+Citations:10
+Authors: Y Yan, S Chatterjee, DA Orozco, E Garcia, Z Budimlić, J Shirako, ...
+Publication: European Conference on Parallel Processing, 112-123
+
+203. Maestro: An open-source infrastructure for modeling dataflows within deep learning accelerators
+Citations:7
+Authors: H Kwon, M Pellauer, T Krishna
+Publication: arXiv preprint arXiv:1805.02566
+
+279. DOE Advanced Scientific Advisory Committee (ASCAC): Workforce Subcommittee Letter
+Citations:2
+Authors: B Chapman, H Calandra, S Crivelli, J Dongarra, J Hittinger, SA Lathrop, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+301. The Platform-Aware Compilation Environment: Status and Future Directions
+Citations:1
+Authors: KD Cooper, R Khan, S Lele, J Mellor-Crummey, E Merényi, K Palem, ...
+Publication: 
+
+303. The Concurrent Collections Programming Model
+Citations:1
+Authors: Z Budimlić, MG Burke, V Cave, K Knobe, G Lowney, J Palsberg, ...
+Publication: 
+
+306. The Jikes RVM Project: Building an Open Source Research Community
+Citations:1
+Authors: B Alpern, S Augart, SM Blackburn, M Butrico, A Cocchi, P Cheng, J Dolby, ...
+Publication: 
+
+315. Enabling Resilience in Asynchronous Many-Task Programming Models
+Citations:
+Authors: SR Paul, A Hayashi, N Slattengren, H Kolla, M Whitlock, S Bak, ...
+Publication: European Conference on Parallel Processing, 346-360
+
+318. T2S-Tensor: Productively Generating High-Performance Spatial Hardware for Dense Tensor Computations
+Citations:
+Authors: N Srivastava, H Rong, P Barua, G Feng, H Cao, Z Zhang, D Albonesi, ...
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+328. FY18 ASC P&EM L2 Milestone 6362: Local Failure Local Recovery (LFLR) Resiliency for Asynchronous Many Task (AMT) Programming and Execution Models: Executive Summary.
+Citations:
+Authors: K Teranishi, K Teranishi, RL Clay
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States)
+
+330. Fault Tolerance in Asynchronous Many-Task Programming Models & Runtimes.
+Citations:
+Authors: H Kolla, K Teranishi, N Slattengren, M Whitlock, J Mayo, RC Armstrong, ...
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States)
+
+350. IEEE IPDPS HPDIC 2013 Program Details
+Citations:
+Authors: M Rahman, N Islam, X Lu, J Jose, H Subramoni, H Wang, D Panda, ...
+Publication: 
+
+354. Mapping a Dataflow Programming Model onto Heterogeneous Architectures
+Citations:
+Authors: A Sbirlea
+Publication: Rice University
+
+355. The Platform-Aware Compilation Environment (PACE)
+Citations:
+Authors: KD Cooper, J Mellor-Crummey, E Merenyi, K Palem, P Sadayappan, ...
+Publication: RICE UNIV HOUSTON TX OFFICE OF SPONSORED RESEARCH
+
+356. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: MD Catonsville, B Adolf, S Borkar, N DeBardeleben, M Heroux, D Rogers, ...
+Publication: 
+
+357. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: JD DOD, B Harrod, T Hoang, L Nowell, B Adolf, S Borkar, ...
+Publication: 
+
+358. Integrating stream parallelism and task parallelism in a dataflow programming model
+Citations:
+Authors: DD Sbirlea
+Publication: Rice University
+
+372. Compiler Construction: 18th International Conference, CC 2009, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, York, UK, March 22 …
+Citations:
+Authors: O de Moor, MI Schwartzbach
+Publication: Springer
+
+374. Editorial Board for this Special Issue
+Citations:
+Authors: D Bader, S Benkner, P Bientinesi, D Brokenshire, J Dongarra, I Gutheil, ...
+Publication: Scientific Programming 17 (209), 209
+
+385. Has Exploitable ILP Reached a Point of Diminishing Returns?
+Citations:
+Authors: R Govindarajan
+Publication: Proceedings of the Fourth International Conference on High-Performance …
+
+401. Ayal Zaks (Intel/Technion) Bilha Mendelson (Optitura) Costin Iancu (Lawrence Berkeley National Laboratory) Erik Altman (IBM)
+Citations:
+Authors: G Silberman, G Gao, JL Gaudiot, K Yelick, K Ebcioglu, L Rauchweger, ...
+Publication: 
+
+411. PACT 2013 organization
+Citations:
+Authors: F Bodin, J Pennie, T Wenisch, S McKee, W Wang, M Bielby, M Cosnard, ...
+Publication: 
+
+415. Space-time scheduling of instruction level parallelism
+Citations:
+Authors: W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+416. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+420. P2S2-09 Committees
+Citations:
+Authors: P Balaji, A Vishnu, Y Chen, WD Gropp, DK Panda, V Saraswat, T Boku, ...
+Publication: 
+
+425. P2S2-09 Reviewers
+Citations:
+Authors: P Balaji, A Vishnu, T Boku, R Brightwell, N Desai, R Graham, Z Huang, ...
+Publication: 
+
+428. Hans Zima (University of Vienna and JPL)
+Citations:
+Authors: G Almasi, B Mendelson, D Callahan, A Cohen, J Cownie, J Dehnert, ...
+Publication: 
+
+430. 2009 18th International Conference on Parallel Architectures and Compilation Techniques
+Citations:
+Authors: T Usui, R Behrends, J Evans, Y Smaragdakis, C Madriles, P López, ...
+Publication: 

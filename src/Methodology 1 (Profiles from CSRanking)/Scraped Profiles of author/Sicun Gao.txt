@@ -1,0 +1,248 @@
+https://scholar.google.com/citations?hl=en&user=UmyrEtcAAAAJ
+Total Citations = 1136
+
+1. dReal: An SMT Solver for Nonlinear Theories over the Reals
+Citations:259
+Authors: S Gao, S Kong, EM Clarke
+Publication: International conference on automated deduction, 208-214
+
+2. dReach: δ-Reachability Analysis for Hybrid Systems
+Citations:180
+Authors: S Kong, S Gao, W Chen, E Clarke
+Publication: International Conference on TOOLS and Algorithms for the Construction and …
+
+3. δ-complete decision procedures for satisfiability over the reals
+Citations:133
+Authors: S Gao, J Avigad, EM Clarke
+Publication: International Joint Conference on Automated Reasoning, 286-300
+
+4. Satisfiability modulo odes
+Citations:84
+Authors: S Gao, S Kong, EM Clarke
+Publication: 2013 Formal Methods in Computer-Aided Design, 105-112
+
+5. A non-prenex, non-clausal QBF solver with game-state learning
+Citations:73
+Authors: W Klieber, S Sapra, S Gao, E Clarke
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+6. Delta-decidability over the reals
+Citations:63
+Authors: S Gao, J Avigad, EM Clarke
+Publication: Proceedings of the 2012 27th Annual IEEE/ACM Symposium on Logic in Computer …
+
+7. SMT-based nonlinear PDDL+ planning
+Citations:62
+Authors: D Bryce, S Gao, D Musliner, R Goldman
+Publication: Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+8. Integrating ICP and LRA solvers for deciding nonlinear real arithmetic problems
+Citations:45
+Authors: S Gao, M Ganai, F Ivančić, A Gupta, S Sankaranarayanan, EM Clarke
+Publication: Formal Methods in Computer Aided Design, 81-89
+
+9. Counting zeros over finite fields with Gröbner bases
+Citations:40
+Authors: S Gao
+Publication: Master's thesis, Carnegie Mellon University
+
+10. Delta-complete analysis for bounded reachability of hybrid systems
+Citations:31
+Authors: S Gao, S Kong, W Chen, E Clarke
+Publication: arXiv preprint arXiv:1404.7171
+
+11. Sreach: A probabilistic bounded delta-reachability analyzer for stochastic hybrid systems
+Citations:18
+Authors: Q Wang, P Zuliani, S Kong, S Gao, EM Clarke
+Publication: International Conference on Computational Methods in Systems Biology, 15-27
+
+12. Parameter synthesis for cardiac cell hybrid models using δ-decisions
+Citations:17
+Authors: B Liu, S Kong, S Gao, P Zuliani, EM Clarke
+Publication: International Conference on Computational Methods in Systems Biology, 99-113
+
+13. Towards personalized prostate cancer therapy using delta-reachability analysis
+Citations:14
+Authors: B Liu, S Kong, S Gao, P Zuliani, EM Clarke
+Publication: Proceedings of the 18th International Conference on Hybrid Systems …
+
+14. Automated vulnerability analysis of AC state estimation under constrained false data injection in electric power systems
+Citations:13
+Authors: S Gao, L Xie, A Solar-Lezama, D Serpanos, H Shrobe
+Publication: 2015 54th ieee conference on decision and control (cdc), 2613-2620
+
+15. Computable analysis, decision procedures, and hybrid automata: a new framework for the formal verification of cyber-physical systems
+Citations:12
+Authors: S Gao
+Publication: PhD thesis, Carnegie Mellon University
+
+16. Interpolants in nonlinear theories over the reals
+Citations:11
+Authors: S Gao, D Zufferey
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+17. Quantifier elimination over finite fields using Gröbner bases
+Citations:11
+Authors: S Gao, A Platzer, EM Clarke
+Publication: International Conference on Algebraic Informatics, 140-157
+
+18. APEX: Autonomous vehicle plan verification and execution
+Citations:10
+Authors: M O'Kelly, H Abbas, S Gao, S Shiraishi, S Kato, R Mangharam
+Publication: 
+
+19. SMT-based analysis of virtually synchronous distributed hybrid systems
+Citations:9
+Authors: K Bae, PC Ölveczky, S Kong, S Gao, EM Clarke
+Publication: Proceedings of the 19th International Conference on Hybrid Systems …
+
+20. Model checking hybrid systems
+Citations:7
+Authors: EM Clarke, S Gao
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+21. Proof generation from delta-decisions
+Citations:6
+Authors: S Gao, S Kong, EM Clarke
+Publication: 2014 16th International Symposium on Symbolic and Numeric Algorithms for …
+
+22. Medical cyber-physical systems
+Citations:5
+Authors: E Bartocci, S Gao, SA Smolka
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+23. Delta-decision procedures for exists-forall problems over the reals
+Citations:3
+Authors: S Kong, A Solar-Lezama, S Gao
+Publication: International Conference on Computer Aided Verification, 219-235
+
+24. Modular smt-based analysis of nonlinear hybrid systems
+Citations:3
+Authors: K Bae, S Gao
+Publication: Proceedings of the 17th Conference on Formal Methods in Computer-Aided …
+
+25. Learning-based abstractions for nonlinear constraint solving
+Citations:3
+Authors: S Dathathri, N Arechiga, S Gao, RM Murray
+Publication: International Joint Conferences on Artificial Intelligence
+
+26. Osiris: A tool for abstraction and verification of control software with lookup tables
+Citations:3
+Authors: N Aréchiga, S Dathathri, S Vernekar, N Kathare, S Gao, S Shiraishi
+Publication: Proceedings of the 1st International Workshop on Safe Control of Connected …
+
+27. SMT Encoding of Hybrid Systems in dReal.
+Citations:3
+Authors: K Bae, S Kong, S Gao
+Publication: ARCH@ CPSWeek, 188-195
+
+28. Descriptive control theory: A proposal
+Citations:3
+Authors: S Gao
+Publication: arXiv preprint arXiv:1409.3560
+
+29. Integrating interval constraint propagation with nonlinear real arithmetic
+Citations:3
+Authors: MK Ganai, S Gao, F Ivancic, A Gupta
+Publication: US Patent 8,538,900
+
+30. Tight Continuous-Time Reachtubes for Lagrangian Reachability
+Citations:2
+Authors: J Cyranka, MA Islam, SA Smolka, S Gao, R Grosu
+Publication: 2018 IEEE Conference on Decision and Control (CDC), 6854-6861
+
+31. REAS: Combining Numerical Optimization with SAT Solving
+Citations:2
+Authors: JP Inala, S Gao, S Kong, A Solar-Lezama
+Publication: arXiv preprint arXiv:1802.04408
+
+32. Compositional, approximate, and quantitative reasoning for medical cyber-physical systems with application to patient-specific cardiac dynamics and devices
+Citations:2
+Authors: R Grosu, E Cherry, EM Clarke, R Cleaveland, S Dixit, FH Fenton, S Gao, ...
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+33. LEMAX: learning-based energy consumption minimization in approximate computing with quality guarantee
+Citations:1
+Authors: V Akhlaghi, S Gao, RK Gupta
+Publication: Proceedings of the 55th Annual Design Automation Conference, 161
+
+34. Measuring the Robustness of Neural Networks via Minimal Adversarial Examples
+Citations:1
+Authors: S Dathathri, S Zheng, S Gao, RM Murray
+Publication: 
+
+35. Revisiting the complexity of stability of continuous and hybrid systems
+Citations:1
+Authors: S Gao, S Kong, E Clarke
+Publication: arXiv preprint arXiv:1404.7169
+
+36. Delta-Complete Reachability Analysis (Part 1)
+Citations:1
+Authors: S Gao, S Kong, EM Clarke
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+37. Floating-point Bugs in Embedded GNU C Library
+Citations:1
+Authors: S Kong, S Gao, EM Clarke
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+38. Integrating ICP with DPLL (T) for Nonlinear Real Arithmetic
+Citations:1
+Authors: S Gao, MK Ganai, F Ivančić, S Sankaranarayanan, A Gupta, EM Clarke
+Publication: Under submission
+
+39. Numerically-Robust Inductive Proof Rules for Continuous Dynamical Systems
+Citations:
+Authors: S Gao, J Kapinski, J Deshmukh, N Roohi, A Solar-Lezama, N Arechiga, ...
+Publication: International Conference on Computer Aided Verification, 137-154
+
+40. Evaluating Branching Heuristics in Interval Constraint Propagation for Satisfiability
+Citations:
+Authors: C Huang, S Kong, S Gao, D Zufferey
+Publication: International Workshop on Numerical Software Verification, 85-100
+
+41. ROAD: Routability Analysis and Diagnosis Framework Based on SAT Techniques.
+Citations:
+Authors: D Park, I Kang, Y Kim, S Gao, B Lin, CK Cheng
+Publication: ISPD, 65-72
+
+42. Inverse Abstraction of Neural Networks Using Symbolic Interpolation
+Citations:
+Authors: S Dathathri, S Gao, RM Murray
+Publication: 
+
+43. Parallel implementation of machine learning-based many-body potentials on CPU and GPU
+Citations:
+Authors: Y Zhai, N Danandeh, Z Tan, S Gao, F Paesani, AW Götz
+Publication: 
+
+44. CyberCardia project: Modeling, verification and validation of implantable cardiac devices
+Citations:
+Authors: MA Islam, H Lim, N Paoletti, H Abbas, Z Jiang, J Cyranka, R Cleaveland, ...
+Publication: 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …
+
+45. Extracting Proofs from Branch-and-Prune
+Citations:
+Authors: S Gao, S Kong, M Wang, EM Clarke
+Publication: 
+
+46. ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks
+Citations:
+Authors: ATEPP Fatemehsadat, MA Yazdanbakhsh, S Gao, H Esmaeilzadeh
+Publication: 
+
+47. A Note on the Convergence of Low-Precision Stochastic Gradient Descent
+Citations:
+Authors: Y Song, D Kim, S Gao
+Publication: 
+
+48. NECLA Benchmarks: Linear and non-linear decision problems in SMTLIB
+Citations:
+Authors: S Gao, MK Ganai, F Ivančić, S Sankaranarayanan, A Gupta
+Publication: 
+
+49. 3.5 Robust Formulas over Reals and Delta-Complete Decision Procedures
+Citations:
+Authors: S Gao
+Publication: Decision Procedures in Soft, Hard and Bio-ware (Follow Up), 28
+

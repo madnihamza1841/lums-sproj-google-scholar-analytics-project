@@ -1,0 +1,1948 @@
+https://scholar.google.com/citations?hl=en&user=QaLf6bEAAAAJ
+Total Citations = 14017
+
+1. Advanced compiler optimizations for supercomputers
+Citations:1044
+Authors: DA Padua, MJ Wolfe
+Publication: Communications of the ACM 29 (12), 1184-1201
+
+2. SPIRAL: Code generation for DSP transforms
+Citations:867
+Authors: M Puschel, JMF Moura, JR Johnson, D Padua, MM Veloso, BW Singer, ...
+Publication: Proceedings of the IEEE 93 (2), 232-275
+
+3. Dependence graphs and compiler optimizations
+Citations:863
+Authors: DJ Kuck, RH Kuhn, DA Padua, B Leasure, M Wolfe
+Publication: Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+4. The LRPD test: Speculative run-time parallelization of loops with privatization and reduction parallelization
+Citations:540
+Authors: L Rauchwerger, DA Padua
+Publication: IEEE Transactions on Parallel and Distributed Systems 10 (2), 160-180
+
+5. Parallel programming with Polaris
+Citations:462
+Authors: W Blume, R Doallo, R Eigenmann, J Grout, J Hoeflinger, T Lawrence
+Publication: Computer 29 (12), 78-82
+
+6. Automatic program parallelization
+Citations:439
+Authors: U Banerjee, R Eigenmann, A Nicolau, DA Padua
+Publication: Proceedings of the IEEE 81 (2), 211-243
+
+7. High-speed multiprocessors and compilation techniques
+Citations:367
+Authors: DA Padua, DJ Kuck, DH Lawrie
+Publication: IEEE Transactions on Computers, 763-776
+
+8. Second opinion on data flow machines and languages
+Citations:298
+Authors: DD Gajski, DA Padua, DJ Kuck, RH Kuhn
+Publication: Computer;(United States) 2
+
+9. Automatic array privatization
+Citations:289
+Authors: P Tu, D Padua
+Publication: Compiler optimizations for scalable parallel systems, 247-281
+
+10. Spiral: A generator for platform-adapted libraries of signal processing alogorithms
+Citations:234
+Authors: M Püschel, JMF Moura, B Singer, J Xiong, J Johnson, D Padua, M Veloso, ...
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+11. SPL: A language and compiler for DSP algorithms
+Citations:228
+Authors: J Xiong, J Johnson, R Johnson, D Padua
+Publication: ACM SIGPLAN Notices 36 (5), 298-308
+
+12. Compiler algorithms for synchronization
+Citations:218
+Authors: SP Midkiff, DA Padua
+Publication: IEEE Transactions on computers 100 (12), 1485-1495
+
+13. An evaluation of vectorizing compilers
+Citations:199
+Authors: S Maleki, Y Gao, MJ Garzar, T Wong, DA Padua
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+14. Encyclopedia of parallel computing
+Citations:197
+Authors: D Padua
+Publication: Springer Science & Business Media
+
+15. A comparison of empirical and model-driven optimization
+Citations:196
+Authors: K Yotov, X Li, G Ren, M Cibulskis, G DeJong, M Garzaran, D Padua, ...
+Publication: ACM SIGPLAN Notices 38 (5), 63-76
+
+16. Estimating cache misses and locality using stack distances
+Citations:184
+Authors: C CaΒcaval, DA Padua
+Publication: Proceedings of the 17th annual international conference on Supercomputing …
+
+17. Is search really necessary to generate high-performance BLAS?
+Citations:163
+Authors: K Yotov, X Li, G Ren, MJS Garzaran, D Padua, K Pingali, P Stodghill
+Publication: Proceedings of the IEEE 93 (2), 358-386
+
+18. Experience in the automatic parallelization of four Perfect-Benchmark programs
+Citations:162
+Authors: R Eigenmann, J Hoeflinger, Z Li, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 65-83
+
+19. Gated SSA-based demand-driven symbolic analysis for parallelizing compilers
+Citations:161
+Authors: P Tu, D Padua
+Publication: International Conference on Supercomputing, 414-423
+
+20. Programming for parallelism and locality with hierarchically tiled arrays
+Citations:159
+Authors: G Bikshandi, J Guo, D Hoeflinger, G Almasi, BB Fraguela, MJ Garzarán, ...
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+21. On the automatic parallelization of the Perfect Benchmarks (R)
+Citations:151
+Authors: R Eigenmann, J Hoeflinger, D Padua
+Publication: IEEE Transactions on Parallel and Distributed Systems 9 (1), 5-23
+
+22. Polaris: The next generation in parallelizing compilers
+Citations:144
+Authors: B Blume, R Eigenmann, K Faigin, J Grout, J Hoeflinger, D Padua, ...
+Publication: Proceedings of the Seventh Workshop on Languages and Compilers for Parallel …
+
+23. Calculating stack distances efficiently
+Citations:138
+Authors: G Almási, C Cascaval, DA Padua
+Publication: MSP/ISMM, 37-43
+
+24. Automatic detection of nondeterminacy in parallel programs
+Citations:136
+Authors: PA Emrath, DA Padua
+Publication: ACM SIGPLAN Notices 24 (1), 89-99
+
+25. The privatizing doall test: A run-time technique for doall loop identification and array privatization
+Citations:120
+Authors: L Rauchwerger, D Padua
+Publication: Proceedings of the 8th international conference on Supercomputing, 33-43
+
+26. Techniques for the translation of MATLAB programs into Fortran 90
+Citations:117
+Authors: L De Rose, D Padua
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (2), 286-323
+
+27. Issues in the compile-time optimization of parallel programs
+Citations:115
+Authors: SP Midkiff, DA Padua
+Publication: 
+
+28. Optimizing data permutations for SIMD devices
+Citations:114
+Authors: G Ren, P Wu, D Padua
+Publication: ACM SIGPLAN Notices 41 (6), 118-131
+
+29. Concurrent static single assignment form and constant propagation for explicitly parallel programs
+Citations:112
+Authors: J Lee, SP Midkiff, DA Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+30. Automatic detection of parallelism: A grand challenge for high-performance computing
+Citations:111
+Authors: W Blume, R Eigenmann, J Hoeflinger, D Padua, P Petersen, ...
+Publication: IEEE Concurrency, 37-47
+
+31. Parallel mining of closed sequential patterns
+Citations:107
+Authors: S Cong, J Han, D Padua
+Publication: Proceedings of the eleventh ACM SIGKDD international conference on Knowledge …
+
+32. A dynamically tuned sorting library
+Citations:102
+Authors: X Li, MJ Garzarán, D Padua
+Publication: Proceedings of the international symposium on Code generation and …
+
+33. Polaris: Improving the effectiveness of parallelizing compilers
+Citations:102
+Authors: W Blume, R Eigenmann, K Faigin, J Grout, J Hoeflinger, D Padua, ...
+Publication: International workshop on languages and compilers for parallel computing …
+
+34. Compiler techniques for high performance sequentially consistent java programs
+Citations:100
+Authors: Z Sura, X Fang, CL Wong, SP Midkiff, J Lee, D Padua
+Publication: Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of …
+
+35. Majic: Compiling matlab for speed and responsiveness
+Citations:100
+Authors: G Almási, D Padua, D Padua
+Publication: ACM SIGPLAN Notices 37 (5), 294-303
+
+36. Basic compiler algorithms for parallel programs
+Citations:100
+Authors: J Lee, DA Padua, SP Midkiff
+Publication: ACM SIGPLAN Notices 34 (8), 1-12
+
+37. Run-time methods for parallelizing partially parallel loops
+Citations:99
+Authors: L Rauchwerger, NM Amato, DA Padua
+Publication: Proceedings of the 9th international conference on Supercomputing, 137-146
+
+38. Hiding relaxed memory consistency with compilers
+Citations:97
+Authors: J Lee, DA Padua
+Publication: Proceedings 2000 International Conference on Parallel Architectures and …
+
+39. Efficient and precise array access analysis
+Citations:95
+Authors: Y Paek, J Hoeflinger, D Padua
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 24 (1), 65-109
+
+40. Polaris: A new-generation parallelizing compiler for MPPs
+Citations:95
+Authors: DA Padua, R Eigenmann, J Hoeflinger, P Petersen, P Tu, S Weatherford, ...
+Publication: In CSRD Rept. No. 1306. Univ. of Illinois at Urbana-Champaign
+
+41. Compiler generated synchronization for DO loops
+Citations:92
+Authors: SP Midkiff, DA Padua
+Publication: Illinois Univ., Urbana (USA). Center for Supercomputing Research and Development
+
+42. Interconnection networks using shuffles
+Citations:92
+Authors: PY Chen, DH Lawrie, PC Yew, DA Padua
+Publication: Computer, 55-64
+
+43. Compile-time based performance prediction
+Citations:90
+Authors: C Cascaval, L DeRose, DA Padua, DA Reed
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+44. A scalable method for run-time loop parallelization
+Citations:85
+Authors: L Rauchwerger, NM Amato, DA Padua
+Publication: International Journal of Parallel Programming 23 (6), 537-576
+
+45. Execution of Parallel Loops on Parallel Processor Systems.
+Citations:85
+Authors: CD Polychronopoulos, DJ Kuck, DA Padua
+Publication: Proceedings of the International Conference on Parallel Processing, 519-527
+
+46. MULTIPROCESSORS: DISCUSSION OF SOME THEORETICAL AND PRACTICAL PROBLEMS.
+Citations:85
+Authors: HDA PADUA
+Publication: 
+
+47. A language for the compact representation of multiple program versions
+Citations:84
+Authors: S Donadio, J Brodman, T Roeder, K Yotov, D Barthou, A Cohen, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+48. Event synchronization analysis for debugging parallel programs
+Citations:82
+Authors: PA Emrath, S Chosh, DA Padua
+Publication: Proceedings of the 1989 ACM/IEEE conference on Supercomputing, 580-588
+
+49. On the automatic parallelization of sparse and irregular Fortran programs
+Citations:80
+Authors: Y Lin, D Padua
+Publication: International Workshop on Languages, Compilers, and Run-Time Systems for …
+
+50. Optimizing sorting with genetic algorithms
+Citations:77
+Authors: X Li, MJ Garzaran, D Padua
+Publication: Proceedings of the international symposium on Code generation and …
+
+51. Simplification of array access patterns for compiler optimizations
+Citations:76
+Authors: Y Paek, J Hoeflinger, D Padua
+Publication: ACM Sigplan Notices 33 (5), 60-71
+
+52. FALCON: A MATLAB interactive restructuring compiler
+Citations:76
+Authors: L De Rose, K Gallivan, E Gallopoulos, B Marsolf, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+53. Debugging Fortran on a shared memory machine
+Citations:76
+Authors: TR Allen, DA Padua
+Publication: Illinois Univ., Urbana (USA). Center for Supercomputing Research and Development
+
+54. Static and dynamic evaluation of data dependence analysis techniques
+Citations:75
+Authors: PM Petersen, DA Padua
+Publication: IEEE Transactions on Parallel and Distributed Systems 7 (11), 1121-1132
+
+55. A MATLAB to Fortran 90 translator and its effectiveness
+Citations:75
+Authors: L De Rose, D Padua
+Publication: International Conference on Supercomputing, 309-316
+
+56. The Cedar system and an initial performance study
+Citations:72
+Authors: D Kuck, E Davidson, D Lawrie, A Sameh, CQ Zhu, A Veidenbaum, ...
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 213-223
+
+57. The Polaris internal representation
+Citations:71
+Authors: KA Faigin, SA Weatherford, JP Hoeflinger, DA Padua, PM Petersen
+Publication: International Journal of Parallel Programming 22 (5), 553-586
+
+58. Compiler research: the next 50 years
+Citations:70
+Authors: M Hall, D Padua, K Pingali
+Publication: Communications of the ACM 52 (2), 60-67
+
+59. Standards for graph algorithm primitives
+Citations:67
+Authors: T Mattson, D Bader, J Berry, A Buluc, J Dongarra, C Faloutsos, J Feo, ...
+Publication: 2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-2
+
+60. Efficient building and placing of gating functions
+Citations:66
+Authors: P Tu, D Padua
+Publication: ACM SIGPLAN Notices 30 (6), 47-55
+
+61. Parallelizing while loops for multiprocessor systems
+Citations:62
+Authors: L Rauchwerger, D Padua
+Publication: Proceedings of 9th International Parallel Processing Symposium, 347-356
+
+62. ANALYSIS OF MESSAGE SWITCHING WITH SHUFFLE-EXCHANGES IN MULTIPROCESSORS.
+Citations:59
+Authors: DH Lawrie, DA Padua
+Publication: Materials Engineering (Cleveland), 116-123
+
+63. Utilizing multidimensional loop parallelism on large scale parallel processor systems
+Citations:59
+Authors: CD Polychronopoulos, DJ Kuck, DA Padua
+Publication: IEEE Transactions on Computers 38 (9), 1285-1296
+
+64. NSF/IEEE-TCPP curriculum initiative on parallel and distributed computing: core topics for undergraduates
+Citations:58
+Authors: SK Prasad, AY Chtchelkanova, SK Das, F Dehne, MG Gouda, A Gupta, ...
+Publication: SIGCSE 11, 617-618
+
+65. Hierarchical overlapped tiling.
+Citations:57
+Authors: X Zhou, JP Giacalone, MJ Garzarán, RH Kuhn, Y Ni, DA Padua
+Publication: CGO, 207-218
+
+66. Programming with tiles
+Citations:55
+Authors: J Guo, G Bikshandi, BB Fraguela, MJ Garzaran, D Padua
+Publication: Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of …
+
+67. A preliminary study on the vectorization of multimedia applications for multimedia extensions
+Citations:55
+Authors: G Ren, P Wu, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+68. Effective automatic parallelization with Polaris
+Citations:55
+Authors: W Blume, R Eigenmann, K Faigin, J Grout, J Hoeflinger, D Padua, ...
+Publication: International Journal of Parallel Programming
+
+69. Array privatization for shared and distributed memory machines
+Citations:54
+Authors: P Tu, DA Padua
+Publication: ACM SIGPLAN Notices 28 (1), 64-67
+
+70. In search of a program generator to implement generic transformations for high-performance computing
+Citations:51
+Authors: A Cohen, S Donadio, MJ Garzaran, C Herrmann, O Kiselyov, D Padua
+Publication: Science of Computer Programming 62 (1), 25-46
+
+71. Detecting nondeterminacy in parallel programs
+Citations:51
+Authors: PA Emrath, S Ghosh, DA Padua
+Publication: IEEE Software 9 (1), 69-77
+
+72. A sampling-based framework for parallel data mining
+Citations:49
+Authors: S Cong, J Han, J Hoeflinger, D Padua
+Publication: Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of …
+
+73. Static and dynamic evaluation of data dependence analysis
+Citations:48
+Authors: PM Petersen, DA Padua
+Publication: Proceedings of the 7th international conference on Supercomputing, 107-116
+
+74. Programming the FlexRAM parallel intelligent memory system
+Citations:47
+Authors: BB Fraguela, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: ACM Sigplan Notices 38 (10), 49-60
+
+75. Monotonic evolution: An alternative to induction variable substitution for dependence analysis
+Citations:46
+Authors: P Wu, A Cohen, J Hoeflinger, D Padua
+Publication: Proceedings of the 15th international conference on Supercomputing, 78-91
+
+76. Compiling programs with user parallelism
+Citations:46
+Authors: SP Midkiff, DA Padua, R Cytron
+Publication: Selected papers of the second workshop on Languages and compilers for …
+
+77. Interprocedural parallelization using memory classification analysis
+Citations:45
+Authors: JP Hoeflinger, DA Padua
+Publication: University of Illinois at Urbana-Champaign
+
+78. An empirical study on the vectorization of multimedia applications for multimedia extensions
+Citations:44
+Authors: G Ren, P Wu, D Padua
+Publication: 19th IEEE International Parallel and Distributed Processing Symposium, 10 pp.
+
+79. Performance portability with the chapel language
+Citations:42
+Authors: A Sidelnik, S Maleki, BL Chamberlain, MJ Garzar'n, D Padua
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+80. Compiler analysis of irregular memory accesses
+Citations:41
+Authors: Y Lin, D Padua, D Padua
+Publication: ACM SIGPLAN Notices 35 (5), 157-168
+
+81. Restructuring fortran programs for cedar
+Citations:41
+Authors: R Eigenmann, J Hoeflinger, G Jaxon, Z Li, D Padua
+Publication: IN PROCEEDINGS OF THE 1991 INTERNATIONAL CONFERENCE ON PARALLEL PROCESSING
+
+82. Cedar Fortran and other vector and parallel Fortran dialects
+Citations:38
+Authors: MD Guzzi, DA Padua, J Hoeflinger, DH Lawrie
+Publication: The Journal of Supercomputing 4 (1), 37-62
+
+83. DEPENDENCE DRIVEN COMPUTATION.
+Citations:38
+Authors: DD Gajski, DJ Kuck, DA Padua
+Publication: Digest of Papers-IEEE Computer Society International Conference, 168-172
+
+84. Analytic models and empirical search: A hybrid approach to code optimization
+Citations:37
+Authors: A Epshteyn, MJ Garzaran, G DeJong, D Padua, G Ren, X Li, K Yotov, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+85. Languages and compilers for parallel computing
+Citations:37
+Authors: D Gelernter, A Nicolau, D Padua
+Publication: Mit Press
+
+86. Compilation techniques for explicitly parallel programs
+Citations:36
+Authors: J Lee
+Publication: University of Illinois at Urbana-Champaign
+
+87. Tutorial on Parallel Processing: Initially Presented at the Tenth International Conference on Parallel Processing, August 25-28, 1981, Bellaire, Michigan
+Citations:35
+Authors: RH Kuhn, DA Padua
+Publication: IEEE Computer Society Press
+
+88. The hierarchically tiled arrays programming approach
+Citations:34
+Authors: BB Fraguela, J Guo, G Bikshandi, MJ Garzaran, G Almasi, J Moreira, ...
+Publication: Proceedings of the 7th workshop on Workshop on languages, compilers, and run …
+
+89. Health informatics in the cloud
+Citations:33
+Authors: ML Braunstein
+Publication: Springer Science & Business Media
+
+90. Task-parallel versus data-parallel library-based programming in multicore systems
+Citations:33
+Authors: D Andrade, BB Fraguela, J Brodman, D Padua
+Publication: 2009 17th euromicro international conference on parallel, distributed and …
+
+91. Is OpenMP for grids?
+Citations:33
+Authors: R Eigenmann, A Basumallik, SJ Min, J Hoeflinger, RH Kuhn, D Padua, ...
+Publication: ipdps, 0171b
+
+92. MaJIC: A MATLAB just-in-time compiler
+Citations:31
+Authors: G Almasi, DA Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 68-81
+
+93. The power of Belady’s algorithm in register allocation for long basic blocks
+Citations:29
+Authors: J Guo, MJ Garzaran, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+94. The Illinois aggressive coma multiprocessor project (I-ACOMA)
+Citations:29
+Authors: J Torrellas, D Padua
+Publication: Proceedings of 6th Symposium on the Frontiers of Massively Parallel …
+
+95. Programming abstractions for data locality
+Citations:27
+Authors: A Tate, A Kamil, A Dubey, A Größlinger, B Chamberlain, B Goglin, ...
+Publication: PADAL Workshop 2014, April 28--29, Swiss National Supercomputing Center …
+
+96. Programming for locality and parallelism with hierarchically tiled arrays
+Citations:27
+Authors: G Almasi, L De Rose, BB Fraguela, J Moreira, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+97. Restructuring programs for high-speed computers with Polaris
+Citations:27
+Authors: J Lee, Y Paek, P Tu
+Publication: 1996 Proceedings ICPP Workshop on Challenges for Parallel Processing, 149-161
+
+98. A constant propagation algorithm for explicitly parallel programs
+Citations:25
+Authors: J Lee, SP Midkiff, DA Padua
+Publication: International Journal of Parallel Programming 26 (5), 563-589
+
+99. On the automatic parallelization of sparse and irregular fortran codes
+Citations:24
+Authors: R Asenjo, E Gutierrez, Y Lin, D Padua, B Pottengerg, EL Zapata
+Publication: Technical Report 1512, University of Illinois at Urbana-Champaign, CSRD
+
+100. Cedar architecture and its software
+Citations:24
+Authors: PA Emrath, DA Padua, PC Yew
+Publication: [1989] Proceedings of the Twenty-Second Annual Hawaii International …
+
+101. Searching for the best FFT formulas with the SPL compiler
+Citations:23
+Authors: J Johnson, RW Johnson, DA Padua, J Xiong
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+102. Dynamic dependence analysis: A novel method for data dependence evaluation
+Citations:23
+Authors: P Peterson, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 64-81
+
+103. Cedar Fortrand its compiler
+Citations:23
+Authors: R Eigenmann, J Hoeflinger, G Jaxon, D Padua
+Publication: CONPAR 90—VAPP IV, 288-299
+
+104. Cedar Fortran and other vector and parallel Fortran dialects
+Citations:23
+Authors: MD Guzzi, JP Hoeflinger, DA Padua, DH Lawrie
+Publication: Proceedings of the 1988 ACM/IEEE conference on Supercomputing, 114-121
+
+105. Optimization techniques for efficient HTA programs
+Citations:22
+Authors: BB Fraguela, G Bikshandi, J Guo, MJ Garzarán, D Padua, C Von Praun
+Publication: Parallel Computing 38 (9), 465-484
+
+106. Writing productive stencil codes with overlapped tiling
+Citations:22
+Authors: J Guo, G Bikshandi, BB Fraguela, D Padua
+Publication: Concurrency and Computation: Practice and Experience 21 (1), 25-39
+
+107. Design and use of htalib–a library for hierarchically tiled arrays
+Citations:21
+Authors: G Bikshandi, J Guo, C Von Praun, G Tanase, BB Fraguela, MJ Garzarán, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 17-32
+
+108. The fortran I compiler
+Citations:21
+Authors: D Padua
+Publication: Computing in Science & Engineering 2 (1), 70-75
+
+109. Theory, techniques, and experiments in solving recurrences in computer programs.
+Citations:21
+Authors: WM Pottenger
+Publication: 
+
+110. Quantitative analysis of vector code
+Citations:21
+Authors: R Espasa, M Valero, D Padua, M Jiménez, E Ayguadé
+Publication: Proceedings Euromicro Workshop on Parallel and Distributed Processing, 452-461
+
+111. Compiler techniques for the distribution of data and computation
+Citations:20
+Authors: A Navarro, E Zapata, D Padua
+Publication: IEEE Transactions on Parallel and Distributed Systems 14 (6), 545-562
+
+112. Automatic implementation of programming language consistency models
+Citations:20
+Authors: Z Sura, CL Wong, X Fang, J Lee, SP Midkiff, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+113. Instance-wise points-to analysis for loop-based dependence testing
+Citations:20
+Authors: P Wu, P Feautrier, D Padua, Z Sura
+Publication: Proceedings of the 16th international conference on Supercomputing, 262-273
+
+114. HIGH-SPEED MULTIPROCESSORS AND THEIR COMPILERS.
+Citations:20
+Authors: DJ Kuck, DA Padua
+Publication: Assembly Engineering, 5-16
+
+115. Induction variable analysis without idiom recognition: Beyond monotonicity
+Citations:19
+Authors: P Wu, A Cohen, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+116. Restructuring fortran programs for cedar
+Citations:19
+Authors: R Eigenmann, J Hoeflinger, G Jaxon, Z Li, D Padua
+Publication: Concurrency: Practice and Experience 5 (7), 553-573
+
+117. Machine-independent evaluation of parallelizing compilers
+Citations:19
+Authors: PM Petersen, DA Padua
+Publication: University of Illinois at Urbana-Champaign, Center for Supercomputing …
+
+118. An effect system and language for deterministic-by-default parallel programming
+Citations:18
+Authors: RL Bocchino Jr
+Publication: University of Illinois at Urbana-Champaign
+
+119. Analysis of irregular single-indexed array accesses and its applications in compiler optimizations
+Citations:18
+Authors: Y Lin, D Padua
+Publication: International Conference on Compiler Construction, 202-218
+
+120. OR parallel execution of Prolog programs with side effects
+Citations:18
+Authors: LV Kale, DA Padua, DC Sehr
+Publication: The Journal of Supercomputing 2 (2), 209-223
+
+121. High-speed machines and their compilers
+Citations:18
+Authors: DJ Kuck
+Publication: Parallel _ ______ Processing _ ________ Systems _ ______, DJ Evans (ed …
+
+122. Vector seeker: A tool for finding vector potential
+Citations:17
+Authors: GC Evans, S Abraham, B Kuhn, DA Padua
+Publication: Proceedings of the 2014 Workshop on Programming models for SIMD/Vector …
+
+123. Optimizing r vm: Allocation removal and path length reduction via interpreter-level specialization
+Citations:17
+Authors: H Wang, P Wu, D Padua
+Publication: Proceedings of Annual IEEE/ACM International Symposium on Code Generation …
+
+124. Containers on the parallelization of general-purpose Java programs
+Citations:17
+Authors: P Wu, D Padua
+Publication: 1999 International Conference on Parallel Architectures and Compilation …
+
+125. Using the high productivity language chapel to target gpgpu architectures
+Citations:16
+Authors: A Sidelnik, BL Chamberlain, MJ Garzaran, D Padua
+Publication: 
+
+126. New abstractions for data parallel programming
+Citations:16
+Authors: JC Brodman, BB Fraguela, MJ Garzarán, D Padua
+Publication: HotPar’09: Proc. 1st USENIX Workshop on Hot Topics in Parallelism
+
+127. A compiler for multiple memory models
+Citations:16
+Authors: SP Midkiff, J Lee, DA Padua
+Publication: Concurrency and Computation: Practice and Experience 16 (2‐3), 197-220
+
+128. Outline of a roadmap for compiler technology
+Citations:16
+Authors: DA Padua
+Publication: IEEE Computational Science and Engineering 3 (3), 65-66
+
+129. The dependence analysis and synchronization of parallel programs.
+Citations:16
+Authors: SP Midkiff
+Publication: 
+
+130. Cedar Fortran and its restructuring compiler
+Citations:16
+Authors: R Eigenmann, J Hoeflinger, G Jaxon, D Padua
+Publication: CSRD rpt./Center for supercomputing research a. development, Univ, of …
+
+131. Optimizing sorting with machine learning algorithms
+Citations:15
+Authors: X Li, MJ Garzaran, D Padua
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-6
+
+132. Special issue on program generation, optimization, and platform adaptation
+Citations:15
+Authors: JMF Moura, M Puschel, D Padua, J Dongarra
+Publication: Proceedings of the IEEE 93 (2), 211-215
+
+133. An advanced compiler framework for non-cache-coherent multiprocessors
+Citations:15
+Authors: Y Paek, A Navarro, E Zapata, J Hoeflinger, D Padua
+Publication: IEEE Transactions on Parallel and Distributed Systems 13 (3), 241-259
+
+134. FALCON: An environment for the development of scientific libraries and applications
+Citations:15
+Authors: L DeRose, K Gallivan, E Gallopoulos, B Marsolf, D Padua
+Publication: Proc. 1st International Workshop on Knowledge-Based System for the (re) Use …
+
+135. Compiling for a hybrid programming model using the lmad representation
+Citations:14
+Authors: J Zhu, J Hoeflinger, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+136. The joy of algorithms
+Citations:14
+Authors: F Sullivan
+Publication: Computing in Science & Engineering 2 (1), 2
+
+137. Beyond Arrays—A Container-Centric Approach for Parallelization of Real-World Symbolic Applications
+Citations:14
+Authors: P Wu, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+138. Delphi: An integrated, language-directed performance prediction, measurement and analysis environment
+Citations:13
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: Proceedings. Frontiers' 99. Seventh Symposium on the Frontiers of Massively …
+
+139. Experimental evaluation of some data dependence tests
+Citations:13
+Authors: PM Petersen, DA Padua
+Publication: Center for Supercomputing Research and Development, University of Illinois …
+
+140. STOCHASTIC PROPERTIES OF A MULTIPLE-LAYER SINGLE-STAGE SHUFFLE-EXCHANGE NETWORK IN A MESSAGE SWITCHING ENVIRONMENT.
+Citations:13
+Authors: PC Yew, DA Padua, DH Lawrie
+Publication: Journal of Digital Systems 6 (4), 387-410
+
+141. Performance modeling and programming environments for petaflops computers and the blue gene machine
+Citations:12
+Authors: G Zheng, T Wilmarth, OS Lawlor, LV Kalé, S Adve, D Padua, P Guebelle
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+142. Automatic derivation and implementation of signal processing algorithms
+Citations:12
+Authors: S Egner, J Johnson, D Padua, M Püschel, J Xiong
+Publication: SIGSAM Bulletin (ACM Special Interest Group on Symbolic and Algebraic Ma
+
+143. On the automatic parallelization of the perfect benchmarks
+Citations:12
+Authors: R Eigenmann, J Hoeflinger, D Padua
+Publication: Technical Report 1392
+
+144. Some results on the working set anomalies in numerical programs
+Citations:12
+Authors: WA Abu-Sufah, DA Padua
+Publication: IEEE Transactions on Software Engineering, 97-106
+
+145. High-assurance SPIRAL: End-to-end guarantees for robot and car control
+Citations:11
+Authors: F Franchetti, TM Low, S Mitsch, JP Mendoza, L Gui, A Phaosawasdi, ...
+Publication: IEEE Control Systems Magazine 37 (2), 82-103
+
+146. DSMR: A parallel algorithm for single-source shortest path problem
+Citations:11
+Authors: S Maleki, D Nguyen, A Lenharth, M Garzarán, D Padua, K Pingali
+Publication: Proceedings of the 2016 International Conference on Supercomputing, 32
+
+147. Joint UIUC/UMD parallel algorithms/programming course
+Citations:11
+Authors: D Padua, U Vishkin, JC Carver
+Publication: Proc. EduPar
+
+148. P-ray: A suite of micro-benchmarks for multi-core architectures
+Citations:11
+Authors: AX Duchateau, A Sidelnik, MJ Garzarán, DA Padua
+Publication: Proc. 21st Intl. Workshop on Languages and Compilers for Parallel Computing …
+
+149. Demand-driven interprocedural array property analysis
+Citations:11
+Authors: Y Lin, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+150. Ictíneo: A tool for instruction-level parallelism research
+Citations:11
+Authors: E Ayguadé, C Barrado, A González, J Labarta, J Llosa, D López, ...
+Publication: Tec. Rep. UPC-DAC-1996-61 U. Politècnica Catalunya
+
+151. A MATLAB compiler and restructurer for the development of scientific libraries and applications
+Citations:11
+Authors: L DeRose, K Gallivan, E Gallopoulos, B Marsolf, D Padua
+Publication: Languages and Compilers for Parallel Computing, 269-288
+
+152. Automatic parallelization of Prolog programs
+Citations:11
+Authors: DC Sehr
+Publication: University of Illinois at Urbana-Champaign
+
+153. Literacy for all in parallel and distributed computing: guidelines for an undergraduate core curriculum
+Citations:10
+Authors: SK Prasad, A Gupta, K Kant, A Lumsdaine, D Padua, Y Robert, ...
+Publication: CSI Journal of Computing 1 (2)
+
+154. P-ray: A software suite for multi-core architecture characterization
+Citations:10
+Authors: AX Duchateau, A Sidelnik, MJ Garzarán, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+155. Hierarchically tiled arrays for parallelism and locality
+Citations:10
+Authors: J Guo, G Bikshandi, D Hoeflinger, G Almasi, B Fraguela, MJ Garzarán, ...
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+156. Compiling for scalable multiprocessors with Polaris
+Citations:10
+Authors: Y Paek, DA Padua
+Publication: Parallel processing letters 7 (04), 425-436
+
+157. Compiler techniques for effective communication on distributed-memory multiprocessors
+Citations:10
+Authors: AG Navarro, Y Paek, EL Zapata, D Padua
+Publication: Proceedings of the 1997 International Conference on Parallel Processing (Cat …
+
+158. An environment for the rapid prototyping and development of numerical programs and libraries for scientific computation
+Citations:10
+Authors: L DeRose, K Gallivan, E Gallopoulos, B Marsolf, D Padua
+Publication: Proc. of the DAGS 94, 11-25
+
+159. Common runtime support for high performance parallel languages parallel compiler runtime consortium
+Citations:10
+Authors: G Fox, S Ranka, M Scott, AD Malony, J Browne, MC Chen, A Choudhary, ...
+Publication: Proceedings of the Supercomputing'93 Conference, 752-757
+
+160. Scheduling of stream-based real-time applications for heterogeneous systems
+Citations:9
+Authors: B Virlet, X Zhou, JP Giacalone, B Kuhn, MJ Garzaran, D Padua
+Publication: ACM SIGPLAN Notices 46 (5), 1-10
+
+161. Parallelization of benchmarks for scalable shared-memory multiprocessors
+Citations:9
+Authors: Y Paek, A Navarro, E Zapata, D Padua
+Publication: Proceedings. 1998 International Conference on Parallel Architectures and …
+
+162. Representing S-Expressions for the Efficient Evaluation of LISP on Parallel Processors.
+Citations:9
+Authors: WL Harrison, DA Padua
+Publication: Proceedings of the International Conference on Parallel Processing, 703-710
+
+163. Directive-based compilers for GPUs
+Citations:8
+Authors: S Ghike, R Gran, MJ Garzarán, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 19-35
+
+164. Hilo: High level optimization of FFTs
+Citations:8
+Authors: N Rizzolo, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+165. Automatic parallelization for non-cache coherent multiprocessors
+Citations:8
+Authors: Y Paek, DA Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+166. Advances in languages and compilers for parallel processing
+Citations:8
+Authors: A Nicolau, D Gelernter, T Gross, D Padua
+Publication: Pitman Publishing, Inc.
+
+167. The Delta Program Manipulation System: Preliminary Design
+Citations:8
+Authors: DA Padua
+Publication: University of Illinois at Urbana-Champaign, Center for Supercomputing …
+
+168. Supercomputer Programming Environments.
+Citations:8
+Authors: DA Padua, VA Guarna Jr, DH Lawrie
+Publication: ILLINOIS UNIV AT URBANA CENTER FOR SUPERCOMPUTING RESEARCH AND DEVELOPMENT
+
+169. DSMR: a shared and distributed memory algorithm for single-source shortest path problem
+Citations:7
+Authors: S Maleki, D Nguyen, A Lenharth, M Garzarán, D Padua, K Pingali
+Publication: ACM SIGPLAN Notices 51 (8), 39
+
+170. Vectorization of apply to reduce interpretation overhead of R
+Citations:7
+Authors: H Wang, D Padua, P Wu
+Publication: ACM SIGPLAN Notices 50 (10), 400-415
+
+171. A synthesis of memory mechanisms for distributed architectures
+Citations:7
+Authors: J Zhu, J Hoeflinger, D Padua
+Publication: Proceedings of the 15th international conference on Supercomputing, 13-22
+
+172. Pointer analysis for monotonic container traversals
+Citations:7
+Authors: A Cohen, P Wu, D Padua
+Publication: Technical Report CSRD 1586, University of Illinois at Urbana-Champaign
+
+173. Access descriptor based locality analysis for distributed-shared memory multiprocessors
+Citations:7
+Authors: AG Navarro, R Asenjo, EL Zapata, D Padua
+Publication: Proceedings of the 1999 International Conference on Parallel Processing, 86-94
+
+174. Matmarks: a shared memory environment for MATLAB programming
+Citations:7
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: Proceedings. The Eighth International Symposium on High Performance …
+
+175. Automatic program restructuring for parallel computing and the polaris fortran translator
+Citations:7
+Authors: DA Padua, R Eigenmann, JP Hoeflinger
+Publication: Society for Industrial and Applied Mathematics, Philadelphia, PA (United States)
+
+176. Speculative run-time parallelization of loops
+Citations:7
+Authors: L Rauchwerger, D Padua
+Publication: in US and Foreign Markets for Sugar, Meat, Peanuts, Cotton, and Dairy …
+
+177. Analyses of pointers, induction variables, and container objects for dependence testing
+Citations:6
+Authors: P Wu, DA Padua
+Publication: University of Illinois at Urbana-Champaign
+
+178. Comparing the Performance of the DASH and Cedar Multiprocessors for Scientific Applications
+Citations:6
+Authors: J Torrellas, D Koufaty, D Padua
+Publication: 1994 Internatonal Conference on Parallel Processing Vol. 2 2, 304-308
+
+179. Automatic compound function definition for multiprocessors
+Citations:6
+Authors: HE Husmann, DJ Kuck, DA Padua
+Publication: Proceedings of the International Conference on Parallel Processing 2, 34-41
+
+180. A parallel numerical solver using hierarchically tiled arrays
+Citations:5
+Authors: JC Brodman, GC Evans, M Manguoglu, A Sameh, MJ Garzarán, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 46-61
+
+181. Program optimization through loop vectorization
+Citations:5
+Authors: MJ Garzarán, S Maleki, W Gropp, D Padua
+Publication: 
+
+182. Design issues in parallel array languages for shared memory
+Citations:5
+Authors: J Brodman, BB Fraguela, MJ Garzarán, D Padua
+Publication: International Workshop on Embedded Computer Systems, 208-217
+
+183. Automatic generation of a parallel sorting algorithm
+Citations:5
+Authors: BA Garber, D Hoeflinger, X Li, MJ Garzaran, D Padua
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5
+
+184. The Pensieve project: A compiler infrastructure for memory models
+Citations:5
+Authors: CL Wong, Z Sura, X Fang, SP Midkiff, J Lee, D Padua
+Publication: Proceedings International Symposium on Parallel Architectures, Algorithms …
+
+185. Compiler analysis of sparse and irregular computations
+Citations:5
+Authors: Y Lin, DA Padua
+Publication: University of Illinois at Urbana-Champaign
+
+186. Experimental study of compiler techniques for NUMA machines
+Citations:5
+Authors: Y Paek, DA Padua
+Publication: Proceedings of the First Merged International Parallel Processing Symposium …
+
+187. Region-based parallelization using the region test
+Citations:5
+Authors: J Hoeflinger, Y Paek, D Padua
+Publication: Technical Report 1514
+
+188. Ictineo: Una herramienta para la investigacion en paralelismo a nivel de instrucciones
+Citations:5
+Authors: E Ayguadé, C Barrado, J Labarta, J Llosa, D López, S Moreno, D Padua, ...
+Publication: VI Jornadas de Paralelismo, 2-3
+
+189. Machines, Languages and Compilers for Parallel Symbolic Computing
+Citations:5
+Authors: DA Padua, WL Harrison, DJ Kuck
+Publication: University of Illinois at Urbana-Champaign, Center for Supercomputing …
+
+190. An empirical study of the effect of source-level loop transformations on compiler stability
+Citations:4
+Authors: Z Gong, Z Chen, J Szaday, D Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 126
+
+191. LORE: A loop repository for the evaluation of compilers
+Citations:4
+Authors: Z Chen, Z Gong, JJ Szaday, DC Wong, D Padua, A Nicolau, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 219-228
+
+192. Optimal parallelogram selection for hierarchical tiling
+Citations:4
+Authors: X Zhou, MJ Garzarán, DA Padua
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 11 (4), 58
+
+193. Hydra: Automatic algorithm exploration from linear algebra equations
+Citations:4
+Authors: D Padua, D Barthou, AX Duchateau
+Publication: Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation …
+
+194. Message-driven parallel language runtime design and optimizations for multicore-based massively parallel machines
+Citations:4
+Authors: C Mei
+Publication: University of Illinois at Urbana-Champaign
+
+195. Parallelization, automatic
+Citations:4
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1442-1450
+
+196. Special issue on the First MetaOCaml Workshop 2004-Preface
+Citations:4
+Authors: C Lengauer, W Taha
+Publication: Science of Computer Programming 62 (1), 1-2
+
+197. Spiral
+Citations:4
+Authors: JMF Moura, J Johnson, RW Johnson, D Padua, V Prasanna, M Püschel, ...
+Publication: IEEE Special Issue on Program Generation, Optimization, and Platform Adaptation
+
+198. Languages and Compilers for Parallel Computing: 5th International Workshop, New Haven, Connecticut, USA, August 3-5, 1992. Proceedings
+Citations:4
+Authors: U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Springer Science & Business Media
+
+199. Locus: a system and a language for program optimization
+Citations:3
+Authors: TSFX Teixeira, C Ancourt, D Padua, W Gropp
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+200. Compiler support for productive message-driven parallel programming
+Citations:3
+Authors: AT Becker
+Publication: University of Illinois at Urbana-Champaign
+
+201. Toward a core undergraduates curriculum in parallel and distributed computing
+Citations:3
+Authors: SK Prasad, A Gupta, K Kant, A Lumsdaine, D Padua, Y Robert, ...
+Publication: Computer Education
+
+202. Automatic detection of parallelism
+Citations:3
+Authors: W Blume, R Eigenmann, J Hoeflinger, D Padua, P Peterson, ...
+Publication: High Performance Fortran
+
+203. Implementation of parallel numerical algorithms using hierarchically tiled arrays
+Citations:3
+Authors: G Bikshandi, BB Fraguela, J Guo, MJ Garzarán, G Almási, J Moreira, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 87-101
+
+204. Supercomputers
+Citations:3
+Authors: DA Padua, JP Hoeflinger
+Publication: John Wiley and Sons Ltd.
+
+205. Section II Analysis-Chapter 8 Automatic Array Privatization
+Citations:3
+Authors: P Tu, D Padua
+Publication: Lecture Notes in Computer Science 1808, 247-284
+
+206. Points-to analysis for java with applications to loop optimizations
+Citations:3
+Authors: P WuÝ, P FeautrierÞ, D PaduaÝ, Z SuraÝ
+Publication: 
+
+207. On the automatic parallelization of sparse and irregular Fortran programs
+Citations:3
+Authors: Y Lin, D Padua
+Publication: Scientific Programming 7 (3-4), 231-246
+
+208. LCPC'97
+Citations:3
+Authors: D Sehr, U Banerjee, G Goos, D Gelernter, J Hartmanis, J Van Leeuwen, ...
+Publication: Springer Science & Business Media
+
+209. Performance Analysis for Polaris on Distributed Memory Multiprocessors
+Citations:3
+Authors: AG Navarro, Y Paek, EL Zapata, D Padua
+Publication: 3rd Workshop on Automatic Data Layout and Performance Prediction, Barcelona …
+
+210. Languages and Compilers for Parallel Computing: 8th International Workshop, Columbus, Ohio, USA, August 10-12, 1995. Proceedings
+Citations:3
+Authors: CH Huang, P Sadayappan, U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Springer Science & Business Media
+
+211. Simplification of array access patterns for compiler optimizations
+Citations:3
+Authors: Y Paek, J Hoeflinger, D Padua
+Publication: 
+
+212. University of Illinois Urbana Champaign
+Citations:3
+Authors: EJ Paul
+Publication: USA
+
+213. FALCON: An environment for the development of numerical programs using MATLAB
+Citations:3
+Authors: L DeRose, B Marsolf, K Gallivan, E Gallopoulos, D Padua
+Publication: Submitted for publication
+
+214. Towards an Achievable Performance for the Loop Nests
+Citations:2
+Authors: A Shivam, N Watkinson, A Nicolau, D Padua, AV Veidenbaum
+Publication: arXiv preprint arXiv:1902.00603
+
+215. Adaptive bitonic sorting
+Citations:2
+Authors: G Zachmann, D Padua
+Publication: Encyclopedia of Parallel Computing, David Padua, Ed, 146-157
+
+216. Autotuning for high performance computing
+Citations:2
+Authors: DA Padua
+Publication: Proceedings of the fourth workshop on High performance computational finance …
+
+217. Logic of lemmings in compiler innovation
+Citations:2
+Authors: C Staff
+Publication: Communications of the ACM 52 (5), 7-9
+
+218. Hierarchically Tiled Arrays Vs. Intel Threading Building Blocks for Programming Multicore Systems
+Citations:2
+Authors: D Andrade, J Brodman, B Fraguela, D Padua
+Publication: Programmability Issues for Multi-Core Computers
+
+219. Hierarchically Tiled Array Vs. Intel Thread Building Blocks for Multicore Systems Programming
+Citations:2
+Authors: D Andrade, J Brodman, BB Fraguela, D Padua
+Publication: Programmability Issues for Multi-Core Computers,(MULTIPROG)
+
+220. A simple framework to calculate the reaching definition of array references and its use in subscript array analysis
+Citations:2
+Authors: Y Lin, D Padua
+Publication: International Parallel Processing Symposium, 1036-1045
+
+221. The cedar system and an initial performance study
+Citations:2
+Authors: D Kuck, E Davidson, D Lawrie, A Sameh, CQ Zhu, A Veidenbaum, ...
+Publication: 25 years of the international symposia on Computer architecture (selected …
+
+222. Benchmarking FALCON's MATLAB-to-Fortran 90 Compiler on an SGI Power Challenge
+Citations:2
+Authors: L De Rose, D Padua
+Publication: Proceedings of the IX Brazilian Symposium of Computer Architecture and High …
+
+223. Access Regions: Toward a Powerful Parallelizing Compiler
+Citations:2
+Authors: Y Paek, J Hoeflinger, D Padua
+Publication: Technical Report, Univ. of Illinois at Urbana-Champaign, Center for …
+
+224. An Inference Mechanism for the Compilation of Interactive Array Languages
+Citations:2
+Authors: L DeRose, D Padua
+Publication: WHPC 94, 97-112
+
+225. Gated SSA Based Demand-Driven Symbolic Analysis
+Citations:2
+Authors: P Tu, D Padua
+Publication: CSRD Technical Report
+
+226. Languages and Compilers for Parallel Computing: 6th International Workshop, Portland, Oregon, USA, August 12-14, 1993. Proceedings
+Citations:2
+Authors: U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Springer Science & Business Media
+
+227. Evaluation of parallelizing compilers
+Citations:2
+Authors: DA Padua, PM Petersen
+Publication: University of Illinois at Urbana-Champaign. Center for Supercomputing …
+
+228. An empirical study of the effect of source-level transformations on compiler stability
+Citations:1
+Authors: Z Gong, Z Chen, JJ Szaday, DC Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the Workshop on Compilers for Parallel Computing (CPC’18)
+
+229. Vector seeker
+Citations:1
+Authors: GC Evans, S Abraham, B Kuhn, DA Padua
+Publication: 
+
+230. Compilers and the Furture of High Performance Computing
+Citations:1
+Authors: D Padua
+Publication: 2015 IEEE 22nd International Conference on High Performance Computing (HiPC …
+
+231. Tiled linear algebra a system for parallel graph algorithms
+Citations:1
+Authors: S Maleki, GC Evans, DA Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+232. Hierarchically tiled array as a high-level abstraction for codelets
+Citations:1
+Authors: CC Yang, JC Pichel, AR Smith, DA Padua
+Publication: 2014 Fourth Workshop on Data-Flow Execution Models for Extreme Scale …
+
+233. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+234. Program Composition and Optimization: An Introduction
+Citations:1
+Authors: CW Kessler, W Löwe, D Padua, M Püschel
+Publication: Dagstuhl Seminar Proceedings
+
+235. Optimization of tele-immersion codes
+Citations:1
+Authors: A Sidelnik, IJ Sung, W Wu, MJ Garzarán, W Hwu, K Nahrstedt, D Padua, ...
+Publication: Proceedings of 2nd Workshop on General Purpose Processing on Graphics …
+
+236. Parallel Computing Research at Illinois The UPCRC Agenda
+Citations:1
+Authors: R Kumar, D Marinov, D Padua, M Parthasarathy, S Patel, D Roth, M Snir, ...
+Publication: 
+
+237. Evaluating the impact of thread escape analysis on a memory consistency model-aware compiler
+Citations:1
+Authors: CL Wong, Z Sura, X Fang, K Lee, SP Midkiff, J Lee, D Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+238. Erratum: SPIRAL: A generator for platform-adapted libraries of signal processing algorithms (High Performance Computing Applications (2004) 18 (21-45))
+Citations:1
+Authors: M Püschel, JMF Moura, B Singer, J Xiong, J Johnson, DA Padua, ...
+Publication: International Journal of High Performance Computing Applications 18 (2 SPEC …
+
+239. Instance-wise Points-to Analysis for Loop-based Dependence Testing
+Citations:1
+Authors: PWP Feautrier, D Padua, Z Sura
+Publication: Conference Proceedings of the 2002 International Conference on …
+
+240. A Java Compiler for Many Memory Models.
+Citations:1
+Authors: SP Midkiff, J Lee, DA Padua
+Publication: Java Virtual Machine Research and Technology Symposium
+
+241. A simple framework to calculate the reaching definition of array references and its use in subscript array analysis
+Citations:1
+Authors: Y Lin, D Padua
+Publication: Concurrency: Practice and Experience 12 (2‐3), 125-135
+
+242. Languages for computational science and engineering
+Citations:1
+Authors: R Eigenmann, DA Padua, LV Kale
+Publication: IEEE Computer Architecture Letters, 16-17
+
+243. Languages and Compilers for Parallel Computing: 7th International Workshop, Ithaca, NY, USA, August 8-10, 1994. Proceedings
+Citations:1
+Authors: K Pingali, U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Springer Science & Business Media
+
+244. RUN-TIME METHODS FOR PARALLELIZING DO LOOPSy
+Citations:1
+Authors: L Rauchwerger, DA Padua
+Publication: Proc. of the 2nd Int. Workshop on Massive Parallelism: Hardware, Software …
+
+245. Loop transformations for Prolog programs
+Citations:1
+Authors: DC Sehr, LV Kale, DA Padua
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+246. Experimental Evaluation of Some Data Dependence Tests (extended Abstracts)
+Citations:1
+Authors: PM Petersen, DA Padua
+Publication: University of Illinois at Urbana-Champaign, Center for Supercomputing …
+
+247. Fortran-Style Transformations for Functional Programs
+Citations:1
+Authors: DC Sehr, LV Kalé, DA Padua
+Publication: University of Illinois at Urbana-Champaign, Center for Supercomputing …
+
+248. The Cedar parallel processor: machine organization and software
+Citations:1
+Authors: DA Padua
+Publication: 1988 International Specialist Seminar on the Design and Application of …
+
+249. Stephen weatherford. Polaris: Improving the effectiveness of parallelizing compilers
+Citations:1
+Authors: W Blume, R Eigenmann, K Faigin, J Grout, J Hoeflinger, D Padua, ...
+Publication: Proceedings of the 7th International Workshop on Languages and Compilers for …
+
+250. On the Automatic Parallelization of the Perfect Benchmarks R
+Citations:1
+Authors: D Padua
+Publication: Technical Report TR 1392, CSRD
+
+251. Dataflow Execution of Hierarchically Tiled Arrays
+Citations:
+Authors: CC Yang, JC Pichel, DA Padua
+Publication: European Conference on Parallel Processing, 304-316
+
+252. Managing code transformations for better performance portability
+Citations:
+Authors: TSFX Teixeira, W Gropp, D Padua
+Publication: The International Journal of High Performance Computing Applications …
+
+253. From High-Level Specification to High-Performance Code [Scanning the Issue]
+Citations:
+Authors: F Franchetti, JMF Moura, DA Padua, J Dongarra
+Publication: Proceedings of the IEEE 106 (11), 1875-1878
+
+254. Welcome to PACT 2017
+Citations:
+Authors: R Iyer, DA Padua
+Publication: Parallel Architectures and Compilation Techniques-Conference Proceedings …
+
+255. A DSL for performance orchestration
+Citations:
+Authors: TSFX Teixeira, D Padua, W Gropp
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+256. High level abstractions and automatic optimization techniques for the programming of irregular algorithms
+Citations:
+Authors: D Padua
+Publication: 2016 6th Workshop on Irregular Applications: Architecture and Algorithms …
+
+257. Keynotes
+Citations:
+Authors: D Padua, K Yelick, T Conte, J Labarta
+Publication: 2016 28th International Symposium on Computer Architecture and High …
+
+258. Message from the organizing committee
+Citations:
+Authors: M Elsman, C Grelck, APE Kloeckner, DA Padua
+Publication: ARRAY 2016-Proceedings of the 3rd ACM SIGPLAN International Workshop on …
+
+259. Final Project Report, DynAX Innovations in Programming Models, Compilers and Runtime Systems for Dynamic Adaptive Event Driven Execution Models
+Citations:
+Authors: G Gao, B Meister, D Padua, A Marquez
+Publication: ET International, Inc., Newark, DE (United States)
+
+260. Poster:￼ Vector Seeker Block Extensions.
+Citations:
+Authors: GC Evans, SD Hammond, DA Padua
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+261. Directive-Based Compilers for GPUs
+Citations:
+Authors: DA Padua
+Publication: Languages and Compilers for Parallel Computing: 27th International Workshop …
+
+262. Practices of PLDI
+Citations:
+Authors: H Boehm, J Davidson, K Fisher, C Flanagan, J Gibbons, M Hall, G Hutton, ...
+Publication: ACM SIGPLAN Notices 49 (4), 33-38
+
+263. Josep Torrellas (I2PC Director) Sarita V. Adve Vikram S. Adve Danny Dig
+Citations:
+Authors: MN Do, MJ Garzaran, JC Hart, TS Huang, WH Wen-mei, ST King, ...
+Publication: 
+
+264. Effectiveness of program transformations and compilers for directive-based GPU programming models
+Citations:
+Authors: S Ghike
+Publication: 
+
+265. IEEE Computer Society Brazilian Computer Society (SBC) International Federation for Information Processing (IFIP)
+Citations:
+Authors: J Panetta, JE Moreira, D Padua, POA Navaux
+Publication: 
+
+266. 并行和分布式计算本科核心课程 (英文)
+Citations:
+Authors: SK Prasad, A Gupta, K Kant, A Lumsdaine, D Padua, Y Robert, ...
+Publication: 计算机教育, 18
+
+267. A Foundation For Transforming Programs For Parallel Execution
+Citations:
+Authors: D Padua
+Publication: Morgan & Claypool Publishers
+
+268. Panel Statement
+Citations:
+Authors: P Stenstrom, D Burger, W Hwu, V Kumar, K Olukotun, D Padua, B Smith
+Publication: Proceedings of the 2011 IEEE International Parallel & Distributed Processing …
+
+269. IPDPS 2011 Wednesday 25th Year Panel: What's ahead?
+Citations:
+Authors: P Stenström, D Burger, W Hwu, V Kumar, K Olukotun, D Padua, B Smith
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 877-877
+
+270. Panel statement
+Citations:
+Authors: B Smith, K Olukotun, V Kumar, W Hwu, D Padua, D Burger, P Stenström
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 877
+
+271. Message from the general chair and program chair
+Citations:
+Authors: M Hall, DA Padua
+Publication: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and …
+
+272. Processes, Tasks, and Threads
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1637-1637
+
+273. MasPar
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1089-1089
+
+274. Pipelining
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1562-1563
+
+275. MPP
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1199-1199
+
+276. Perfect Benchmarks
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1515-1515
+
+277. FFTW
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 671-671
+
+278. Prolog Machines
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1638-1638
+
+279. iPSC
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 984-984
+
+280. nCUBE
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1268-1268
+
+281. POSIX Threads (Pthreads)
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1592-1593
+
+282. Processors-in-Memory
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1637-1637
+
+283. Petascale Computer
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1525-1525
+
+284. Network of Workstations
+Citations:
+Authors: D Padua
+Publication: Encyclopedia of Parallel Computing, 1303-1303
+
+285. Reflections on Dynamic Languages and Parallelism
+Citations:
+Authors: D Padua
+Publication: Virtual Executation Environments for Scientific Computing (VEESC 2010)
+
+286. ACM SIGPLAN Notices: Message from the general chairs
+Citations:
+Authors: R Govindarajan, DA Padua
+Publication: ACM SIGPLAN Notices 45 (5)
+
+287. Program Composition and Optimization: Autotuning, Scheduling, Metaprogramming and Beyond
+Citations:
+Authors: CW Kessler, W Löwe, D Padua, M Püschel
+Publication: Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, Germany
+
+288. 10191 Executive Summary--Program Composition and Optimization: Autotuning, Scheduling, Metaprogramming and Beyond
+Citations:
+Authors: CW Kessler, W Löwe, D Padua, M Püschel
+Publication: Dagstuhl Seminar Proceedings
+
+289. Logic of Lemmings in Compiler Innovation Response
+Citations:
+Authors: M Hall, D Padua, K Pingali
+Publication: COMMUNICATIONS OF THE ACM 52 (5), 7-7
+
+290. Antoniol, G., J. Krinke and P. Tonella, Special issue on Source code analysis and manipulation (Editorial)(3) 205–208 Binkley, D., S. Danicic, T. Gyimóthy, M. Harman, A. Kiss …
+Citations:
+Authors: A Cohen, S Donadio, MJ Garzaran, C Herrmann, O Kiselyov, D Padua
+Publication: Science of Computer Programming 62, 318-319
+
+291. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: M Gagnaire, WV Hassenzahl, MT Sun, W Zhu, C Lee, D Padua, ...
+Publication: Proceedings of the IEEE 92 (7), 1221
+
+292. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: RJ Barker, USA Force, M Gagnaire, WV Hassenzahl, MT Sun, W Zhu, ...
+Publication: Proceedings of the IEEE 92 (6), 1007
+
+293. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: B Macq, H Yu, USA Force, VG Moruzzi, M Gagnaire, WV Hassenzahl, ...
+Publication: Proceedings of the IEEE 92 (4), 763
+
+294. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: N de Freitas, USA Force, B Macq, H Yu, VG Moruzzi, M Gagnaire, ...
+Publication: Proceedings of the IEEE 92 (2), 393
+
+295. International Journal of High Performance
+Citations:
+Authors: RW Johnson, M Püschel, JMF Moura, B Singer, J Xiong, J Johnson, ...
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+296. Estimating Cache Misses and Locality Using Stack Distances
+Citations:
+Authors: DA Padua
+Publication: Conference Proceedings: 2003 International Conference on Supercomputing …
+
+297. Race detection
+Citations:
+Authors: D Padua
+Publication: Principles and Practice of Parallel Programming: Proceedings of the ninth …
+
+298. Contributing Editors: Ron K. Cytron, Philip Wadler, Hans-J. Boehm, Joe Bergin, Brent Benson, Chris Clark, and Thomas W. Christopher
+Citations:
+Authors: RK Cytron, M Metcalf, E Duesterwald, G Ignatoff, K Fisher, D Padua, ...
+Publication: ACM SIGPLAN Notices: A Monthly Publication of the Special Interest Group on …
+
+299. Intraprocedural pointer analysis for container-centric applications
+Citations:
+Authors: A Cohen, P Wu, D Padua
+Publication: 
+
+300. International Journal of Parallel Programming Volume 28 Issue 4
+Citations:
+Authors: U Banerjee, N Carriero, WM Hwu, A Nicolau, DK Arvind, K Ebcioglu, ...
+Publication: Plenum Press 28 (4)
+
+301. Compilers and interpreters archive
+Citations:
+Authors: D Padua, R Cytron
+Publication: ACM SIGPLAN Notices 35 (3), 32
+
+302. Solving Irregularly Structured Problems-A simple framework to calculate the reaching definition of array references and its use in subscript array analysis
+Citations:
+Authors: Y Lin, D Padua
+Publication: Concurrency Practice and Experience 12 (2-3), 125-136
+
+303. Design Issues in a Matlab-Based Environment for Numerical Program Development
+Citations:
+Authors: L DeRose, B Marsolf, K Gallivan, E Gallopoulos, D Padua
+Publication: Enabling Technologies for Computational Science, 315-326
+
+304. MATraarfcs: A Shared Memory Environment for MATLAB Programming
+Citations:
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: The Eighth International Symposium on High Performance Distributed Computing …
+
+305. Irregular Applications-Beyond Arrays-A Container-Centric Approach for Parallelization of Real-World Symbolic Applications
+Citations:
+Authors: P Wu, D Padua
+Publication: Lecture Notes in Computer Science 1656, 197-212
+
+306. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+307. Languages and compilers for parallel computers
+Citations:
+Authors: EL Zapata, DA Padua
+Publication: Parallel Computing 3 (24), 321-323
+
+308. Paralelizaci on Autom atica de C odigos Fortran Irregulares
+Citations:
+Authors: R Asenjo, E Gutierrez, Y Lin, D Padua, B Pottenger, E Zapata
+Publication: 
+
+309. An Environment for the Development of Numerical Programs Using MATLAB
+Citations:
+Authors: L DeRose, K Gallivany, B Marsolfz, D Padua
+Publication: IN THIS BOOK
+
+310. A New-Generation Parallelizing Compiler System.
+Citations:
+Authors: DA Padua, R Eigenmann, J Hoeflinger
+Publication: ILLINOIS UNIV AT URBANA CENTER FOR SUPERCOMPUTING RESEARCH AND DEVELOPMENT
+
+311. Multiprocessor Project (I-ACOMA)
+Citations:
+Authors: J Torrellas, D Padua
+Publication: Frontiers' 96, the Sixth Symposium on the Frontiers of Massively Parallel …
+
+312. A New-Generation Parallelizing Compiler System(Final Report)
+Citations:
+Authors: D PADUA, R EIGENMANN, JAY HOEFLINGER
+Publication: 
+
+313. 5TH ACM-SIGPLAN-SYMPOSIUM ON PRINCIPLES AND PRACTICE OF PARALLEL PROGRAMMING (PPOPP)
+Citations:
+Authors: J FERRANTE, D PADUA
+Publication: SIGPLAN NOTICES 30 (8), R5-R5
+
+314. International Journal of Parallel Programming Volume 22 Issue 3
+Citations:
+Authors: WM Hwu, A Nicolau, U Banerjee, D Gelernter, D Padua
+Publication: Kluwer Academic Publishers 22 (3)
+
+315. Languages and Compilers for Parallel Computing: Proceedings
+Citations:
+Authors: DA Padua, A Nicolau, DH Gelernter, U Banerjee
+Publication: Springer
+
+316. Center for Supercomputing Research and Development University of Illinois at Urbana-Champaign.
+Citations:
+Authors: DA Padua, R Eigenmann, P Petersen, P Tu, S Weatherford, K Faigin
+Publication: 
+
+317. Static and Dynamic Evaluation of Data Dependence Analysis
+Citations:
+Authors: PMPDA Padua
+Publication: Conference Proceedings, 107
+
+318. Problem-solving environments for parallel computers
+Citations:
+Authors: DA Padua
+Publication: Future Generation Computer Systems 7 (2-3), 221-229
+
+319. LANGUAGES AND COMPILERS FOR PARALLEL COMPUTING-4TH INTERNATIONAL WORKSHOP SANTA-CLARA, CALIFORNIA, USA, AUGUST 7-9, 1991 PROCEEDINGS
+Citations:
+Authors: U BANERJEE, D GELERNTER, A NICOLAU, D PADUA
+Publication: LECTURE NOTES IN COMPUTER SCIENCE 589, U1-U1
+
+320. Languages and Compilers for Parallel Computing: 4th International Workshop, Santa Clara, California, USA, August 7-9, 1991: Proceedings
+Citations:
+Authors: A Nicolau
+Publication: Springer Berlin Heidelberg
+
+321. Languages and Compilers for Parallel Computing-Fourth International Workshop: Held Santa Clara, California, USA, August 7-9, 1991: Proceedings
+Citations:
+Authors: D Gelernter, A Nicolau, DA Padua, U Banerjee
+Publication: Springer Verlag
+
+322. INTRODUCTION TO SPECIAL ISSUE ON PARALLEL LANGUAGES AND COMPILERS
+Citations:
+Authors: DA PADUA, BW WAH, PC YEW
+Publication: IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS 2 (3), 261-263
+
+323. An Assessment of Scientific Computing Technology 1991-2001
+Citations:
+Authors: CJ Mueller, LW Amiot, TR Canfield, CM Caruthers, TC Kuhfuss, EL Lusk, ...
+Publication: Argonne National Lab., IL (USA)
+
+324. Languages and Compilers for Parallel Computing Fourth International Workshop Santa Clara, California, USA, August 7–9 1991 Proceedings
+Citations:
+Authors: U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Conference proceedings LCPC, 46
+
+325. Parallel machine architecture and compiler design facilities
+Citations:
+Authors: DJ Kuck, PC Yew, D Padua, A Sameh, A Veidenbaum
+Publication: 
+
+326. Cedar Project---Original goals and progress to date
+Citations:
+Authors: G Cybenko, D Kuck, D Padua, A Sameh
+Publication: Illinois Univ., Urbana, IL (USA). Center for Supercomputing Research and …
+
+327. ACM SIGPLAN Notices Volume 25 Issue 3
+Citations:
+Authors: D Padua
+Publication: ACM 25 (3)
+
+328. Proceedings of the 1990 International Conference on Parallel Processing: August 13-17, 1990
+Citations:
+Authors: BW Wah, DA Padua, PC Yew
+Publication: Pennsylvania State University Press
+
+329. 20 Compiling Programs with User
+Citations:
+Authors: S PMidkiff, DA Padua, R Cytron
+Publication: Languages and Compilers for Parallel Computing, 402
+
+330. SESSION 6C. Compilers II (R): Maintaining Scalable Checkpoints on Hypercubes 11-98 C.-CJ Li and WK Fuchs (R): Issues in the Optimization of Parallel Programs 11-105
+Citations:
+Authors: SP Midkiff, DA Padua, KC Kim, A Nicolau, LS Liu, CW Ho, JP Sheu, V Lo, ...
+Publication: Parallel Processing 1
+
+331. Proceedings of the 1990 International Conference on Parallel Processing: August 13-17, 1990
+Citations:
+Authors: DA Padua, PC Yew
+Publication: Penn State University Press
+
+332. Problem solving environments
+Citations:
+Authors: DA Padua
+Publication: [1989] Proceedings of the Thirteenth Annual International Computer Software …
+
+333. OR Parallel Execution Or Prolog Programs with Side Effects
+Citations:
+Authors: LV Kale, DA Padua, DC Sehr
+Publication: 
+
+334. Prolog at the University of Illinois
+Citations:
+Authors: MM Gooley, LV Kale, DA Padua, B Ramkumar, US Reddy, DC Sehr, ...
+Publication: Digest of Papers. COMPCON Spring 88 Thirty-Third IEEE Computer Society …
+
+335. Supercomputer programming environments. Report for 1 October 1986-30 September 1987
+Citations:
+Authors: DA Padua, VA Guarna, DH Lawrie
+Publication: Illinois Univ., Urbana (USA). Center for Supercomputing Research and Development
+
+336. Supercomputer programming environments(Report, 1 Oct. 1986- 30 Sep. 1987)
+Citations:
+Authors: D PADUA, V GUARNA, JR N T A, D LAWRIE
+Publication: 
+
+337. Dataflow Computers
+Citations:
+Authors: DD Gajski, DA Padua, DJ Kuck, RH Kuhn, N Takahashi, M Amamiya, ...
+Publication: Tutorial supercomputers: design and applications, 479
+
+338. THE RELA TIONSHIP BETWEEN NUMERICAL COMPUTA TION AND PROGRAMMING LANGUAGES, JK. Reid (editor) North-Holland Publishing Company© IFIP, 1982
+Citations:
+Authors: D Kuck, D Padua, A Sameh, M Wolfe
+Publication: The relationship between numerical computation and programming languages …
+
+339. The bookshelf
+Citations:
+Authors: RH Kuhn, DA Padua
+Publication: Proceedings-Compsac 81, 446
+
+340. University of Illinois project on language analysis for Lawrence Livermore National Laboratory. Final report
+Citations:
+Authors: DA Padua, JR Davies, A Veidenbaum, P Yew
+Publication: Lawrence Livermore National Lab., CA (USA); Illinois Univ., Urbana (USA …
+
+341. Simplifying Parallel Programming for CSE Applications Using a Multi-Paradigm Approach Project NSF 0833188 Annual Report: Sep. 2011 to Aug. 2012
+Citations:
+Authors: LVK PI
+Publication: University of Illinois
+
+342. Шжг ж бб в и а мЪ Х Сви аа ви Х бгжн ж и ийж
+Citations:
+Authors: BB Fraguelai, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: 
+
+343. A Dynamically Tuned Sorting Library Ѓ
+Citations:
+Authors: X Li, MJ Garzarсn, D Padua
+Publication: 
+
+344. Code Study Automatic Èarallelism Detection in Dyfesm
+Citations:
+Authors: Y Lin, D Padua
+Publication: 
+
+345. Languages
+Citations:
+Authors: BB Fraguela, J Guo, G Biksh, MJ Garzarán, G Almási, J Moreira, D Padua, ...
+Publication: 
+
+346. SPL
+Citations:
+Authors: J Jong, J Johnson, R Johnson, D Padua
+Publication: 
+
+347. Computational Mathematics and Geometry
+Citations:
+Authors: D Padua, D Reed, SH Teng, P Saylor, M Winslett, SWK Jiao, J Lee, X Li, ...
+Publication: 
+
+348. ÐÔ: An Integrated Language-Directed Performance Prediction Åeasurement and Analysis Environment
+Citations:
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: 
+
+349. Å ÌÑ Ö×× ØÖ ÙØ Ë Ö Å ÌÄ
+Citations:
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: 
+
+350. IA3 2016
+Citations:
+Authors: D Padua
+Publication: 
+
+351. Generating Platform-Adapted DSP Libraries Using SPIRAL
+Citations:
+Authors: J Johnson, R Johnson, D Padua, J Xiong
+Publication: 
+
+352. Improving R Interpreter’s Performance Through Specialization
+Citations:
+Authors: H Wang, D Padua, P Wu
+Publication: 
+
+353. SpringerBriefs in Computer Science
+Citations:
+Authors: P Ning, LC Jain, D Padua, S Shekhar, S Zdonik, B Furht, X Wu, J Katz, ...
+Publication: 
+
+354. Subject Area Editors
+Citations:
+Authors: DP Agrawal, I Ahmad, D Bader, A Boukerche, S Das, E Dekel, ...
+Publication: 
+
+355. Program Chairs Track Chairs
+Citations:
+Authors: D Padua, RJ de Azevedo, C Cascaval, POA Navaux, R van de Geijn, ...
+Publication: 
+
+356. Track Chairs
+Citations:
+Authors: J Panetta, JE Moreira, D Padua
+Publication: 
+
+357. Analysis of Irregular Single-indexed Arrays and its Applications in Compiler Optimiоations
+Citations:
+Authors: Y Lin, D Padua
+Publication: 
+
+358. Languages and compilers for parallel computing(Ithaca NY, August 8-10, 1994)
+Citations:
+Authors: K Pingali, U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Lecture notes in computer science
+
+359. Program and Organizing Committees
+Citations:
+Authors: F Tirado, M Prieto, DA de Computadores, D Maric, JL Aguilar, B Baran, ...
+Publication: 
+
+360. Jim Dehnert, Transmeta Sandhya Dwarkadas, U. of Rochester Kemal Ebcioglu, IBM Babak Falsafi, Carnegie Mellon U.
+Citations:
+Authors: J Fang, G Gao, A Gonzalez, D Grunwald, M Heinrich, A Hurson, S Keckler, ...
+Publication: 
+
+361. Languages and compilers for parallel computing(Portland OR, August 12-14, 1993)
+Citations:
+Authors: U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Lecture notes in computer science
+
+362. Containers on the Paralleliоation of eneral-purpose Java Programs
+Citations:
+Authors: D Padua
+Publication: 
+
+363. LCPC'95: languages and compilers for parallel computing(Columbus OH, August 10-12, 1995)
+Citations:
+Authors: CH Huang, P Sadayappan, U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Lecture notes in computer science
+
+364. Languages and compilers for parallel computing(New Haven CT, August 3-5, 1992)
+Citations:
+Authors: U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Lecture notes in computer science
+
+365. Languages and compilers for parallel computing, Santa Clara CA, August 7-9, 1991
+Citations:
+Authors: U Banerjee, D Padua, A Nicolau, D Gelernter
+Publication: Lecture notes in computer science
+
+366. LCPC'96: languages and compilers for parallel computing(San Jose CA, August 8-10, 1996)
+Citations:
+Authors: D Sehr, U Banerjee, D Gelernter, A Nicolau, D Padua
+Publication: Lecture notes in computer science
+
+367. Communications in Computer Algebra
+Citations:
+Authors: S Egner, J Johnson, D Padua, M Puschel, J Xiong, GP Egorychev, ...
+Publication: 
+
+368. Implicit Parallelism
+Citations:
+Authors: D Padua
+Publication: 
+
+369. CALTECH ASCI TECHNICAL REPORT 048
+Citations:
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: 
+
+370. Х Ьб ж з зиж йи Ы ж Х ЬФ
+Citations:
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: 
+
+371. The Journal of Supercomputing, 2,(1988) 9 1988 Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.
+Citations:
+Authors: A Nicolau, D Padua
+Publication: 
+
+372. A Run-Time Technique for DOALL Loop Identification and Array Privatization
+Citations:
+Authors: L Rauchwerger, D Padua
+Publication: 
+
+373. LAWRENCE RAUCHWERGER
+Citations:
+Authors: DA PADUA
+Publication: 
+
+374. Program Committee Chairs
+Citations:
+Authors: M Valero, JL Larriba-Pey, E Ayguade, LA Barroso, D Bernstein, A Bilas, ...
+Publication: 
+
+375. A Simple ramework to Calculate the Ъeaching Definition of Array Ъeferences and Its Эse in Subscript Array Analysis
+Citations:
+Authors: Y Lin, D Padua
+Publication: 
+
+376. нй ва вИд й й й К й
+Citations:
+Authors: Y Lin, D Padua
+Publication: 
+
+377. إ جر ض× ث ض إ رسضف زع ضسزر زط سض إ جؤ بضس ض رر ز
+Citations:
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: 
+
+378. Department of Computer Science University of Illinois at Urbana-Champaign 1304 West Springfield Avenue Urbana, IL 61801 USA
+Citations:
+Authors: VE Jones, N Ching, M Winslett
+Publication: 
+
+379. A Uniform Internal Representation for High-Level and Instruction-Level Transformations Eduard Ayguadé, Cristina Barrado, Jesús Labarta, David López
+Citations:
+Authors: S Moreno, D Padua, M Valero
+Publication: 
+
+380. Programming the FlexRAM Intelligent Memory Architecture
+Citations:
+Authors: BB Fraguela, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: 
+
+381. Parallel Static Single Assignment Form and Constant Propagation for Explicitly Parallel Programs
+Citations:
+Authors: J Lee, DA Padua
+Publication: INTERACT-2: Proceedings of the 2nd Workshop on Interaction between Compilers …
+
+382. Effective Automatic Parallelization with Polaris
+Citations:
+Authors: RE WilliamBlume, K Faigin, J Grout, J Hoeinger, D Padua, P Petersen, ...
+Publication: 
+
+383. Center for Supercomputing Research and Development University of Illinois at Champaign-Urbana Urbana, Illinois, 61801, USA
+Citations:
+Authors: DA Padua, PM Petersen
+Publication: 
+
+384. A Compiler for Multiple Memory Models
+Citations:
+Authors: SP Midki, J Lee, D Padua
+Publication: 
+
+385. гвзи ви Шжгд и гв а гж и б гж мда иан Ш ж аа а Шжг ж бз
+Citations:
+Authors: J Lee, SP Midkiff, DA Padua
+Publication: 
+
+386. Compiling for Scalable Multiprocessorswith Polaris
+Citations:
+Authors: Y PAEK, DA PADUA
+Publication: 
+
+387. MATб ж з: A Shared Memory Environment for MATLAB Programming
+Citations:
+Authors: G Almasi, C Cascaval, DA Padua
+Publication: 
+
+388. Stochastic properties of a multiple-layer, single-stage, shuffle-exchange network in a message switching environment (mimd systems)
+Citations:
+Authors: P Yew, DA Padua, DH Lawrie
+Publication: J. Dig. Syst.;(United States) 4
+
+389. Center for Supercomputing Research and Development University of Illinois at Urbana-Champaign 1308 W. Main Street, Urbana, Illinois 61801-2307
+Citations:
+Authors: P Tu, D Padua
+Publication: 
+

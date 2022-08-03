@@ -1,0 +1,683 @@
+https://scholar.google.com/citations?hl=en&user=9ZGqm5QAAAAJ
+Total Citations = 13719
+
+1. Practical network support for IP traceback
+Citations:1844
+Authors: S Savage, D Wetherall, A Karlin, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 30 (4), 295-306
+
+2. On the scale and performance of cooperative web proxy caching
+Citations:869
+Authors: G Voelker, A Wolman, N Sharma, N Cardwell, A Karlin, H Levy
+Publication: Proc. 17th SOSP, 16-31
+
+3. Balanced allocations
+Citations:858
+Authors: Y Azar, AZ Broder, AR Karlin, E Upfal
+Publication: SIAM journal on computing 29, 180
+
+4. Competitive snoopy caching
+Citations:824
+Authors: AR Karlin, MS Manasse, L Rudolph, DD Sleator
+Publication: Algorithmica 3 (1), 79-119
+
+5. Network support for IP traceback
+Citations:796
+Authors: S Savage, D Wetherall, A Karlin, T Anderson
+Publication: IEEE/ACM transactions on networking 9 (3), 226-237
+
+6. Implementing global memory management in a workstation cluster
+Citations:544
+Authors: MJ Feeley, WE Morgan, EP Pighin, AR Karlin, HM Levy, CA Thekkath
+Publication: ACM SIGOPS Operating Systems Review 29 (5), 201-212
+
+7. Dynamic perfect hashing: Upper and lower bounds
+Citations:511
+Authors: M Dietzfelbinger, A Karlin, K Mehlhorn, H Rohnert, RE Tarjan
+Publication: Foundations of Computer Science, 1988., 29th Annual Symposium on, 524-531
+
+8. A study of integrated prefetching and caching strategies
+Citations:448
+Authors: P Cao, EW Felten, AR Karlin, K Li
+Publication: ACM SIGMETRICS Performance Evaluation Review 23 (1), 188-197
+
+9. On profit-maximizing envy-free pricing
+Citations:331
+Authors: V Guruswami, JD Hartline, AR Karlin, D Kempe, C Kenyon, F McSherry, ...
+Publication: Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete …
+
+10. Spectral analysis of data
+Citations:329
+Authors: Y Azar, A Fiat, AR Karlin, F McSherry, J Saia
+Publication: ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING 33, 619-626
+
+11. Competitive auctions
+Citations:297
+Authors: AV Goldberg, JD Hartline, AR Karlin, M Saks, A Wright
+Publication: Games and Economic Behavior 55 (2), 242-269
+
+12. Multilevel adaptive hashing
+Citations:297
+Authors: AZ Broder, AR Karlin
+Publication: Proceedings of the first annual ACM-SIAM symposium on Discrete algorithms, 43-53
+
+13. Implementation and performance of integrated application-controlled file caching, prefetching, and disk scheduling
+Citations:291
+Authors: P Cao, EW Felten, AR Karlin, K Li
+Publication: ACM Transactions on Computer Systems (TOCS) 14 (4), 311-343
+
+14. Competitive randomized algorithms for nonuniform problems
+Citations:266
+Authors: AR Karlin, MS Manasse, LA McGeoch, S Owicki
+Publication: Algorithmica 11 (6), 542-571
+
+15. On-line load balancing
+Citations:264
+Authors: Y Azar
+Publication: Online Algorithms, 178-195
+
+16. Parallel hashing: An efficient implementation of shared memory
+Citations:196
+Authors: AR Karlin, E Upfal
+Publication: Journal of the ACM (JACM) 35 (4), 876-892
+
+17. Empirical studies of competitve spinning for a shared-memory multiprocessor
+Citations:193
+Authors: AR Karlin, K Li, MS Manasse, S Owicki
+Publication: ACM SIGOPS Operating Systems Review 25 (5), 41-55
+
+18. Using global memory information to manage memory in a computer network
+Citations:192
+Authors: HM Levy, MJ Feeley, AR Karlin, WE Morgan, CA Thekkath
+Publication: US Patent 6,167,490
+
+19. Greedy bidding strategies for keyword auctions
+Citations:186
+Authors: M Cary, A Das, B Edelman, I Giotis, K Heimerl, AR Karlin, C Mathieu, ...
+Publication: Proceedings of the 8th ACM conference on Electronic commerce, 262-271
+
+20. A trace-driven comparison of algorithms for parallel prefetching and caching
+Citations:180
+Authors: T Kimbrel, A Tomkins, RH Patterson, B Bershad, P Cao, EW Felten, ...
+Publication: OSDI, 19-34
+
+21. Competitive generalized auctions
+Citations:172
+Authors: A Fiat, AV Goldberg, JD Hartline, AR Karlin
+Publication: Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …
+
+22. Markov paging
+Citations:159
+Authors: AR Karlin, SJ Phillips, P Raghavan
+Publication: SIAM Journal on Computing 30 (3), 906-922
+
+23. Dynamic TCP acknowledgement and other stories about e/(e-1)
+Citations:154
+Authors: AR Karlin, C Kenyon, D Randall
+Publication: Proceedings of the thirty-third annual ACM symposium on Theory of computing …
+
+24. Competitive randomized algorithms for non-uniform problems
+Citations:145
+Authors: AR Karlin, MS Manasse, LA McGeoch, S Owicki
+Publication: Proceedings of the first annual ACM-SIAM symposium on Discrete algorithms …
+
+25. Organization-based analysis of Web-object sharing and caching
+Citations:143
+Authors: A Wolman, G Voelker, N Sharma, N Cardwell, M Brown, T Landray, ...
+Publication: Proceedings of the 2nd conference on USENIX Symposium on Internet …
+
+26. Strongly competitive algorithms for paging with locality of reference
+Citations:142
+Authors: S Irani, AR Karlin, S Phillips
+Publication: SIAM J. Comput. 25 (3), 477-497
+
+27. Online computation
+Citations:140
+Authors: S Irani, AR Karlin
+Publication: Approximation Algorithms for NP-Hard Problems, International Thomson …
+
+28. Bounds on the cover time
+Citations:133
+Authors: AZ Broder, AR Karlin
+Publication: Journal of Theoretical Probability 2 (1), 101-120
+
+29. Implementing cooperative prefetching and caching in a globally-managed memory system
+Citations:129
+Authors: GM Voelker, EJ Anderson, T Kimbrel, MJ Feeley, JS Chase, AR Karlin, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 33-43
+
+30. Dynamically fault-tolerant content addressable networks
+Citations:128
+Authors: J Saia, A Fiat, S Gribble, A Karlin, S Saroiu
+Publication: Peer-to-Peer Systems, 270-279
+
+31. Reducing TLB and memory overhead using online superpage promotion
+Citations:126
+Authors: TH Romer, WH Ohlrich, AR Karlin, BN Bershad
+Publication: Computer Architecture, 1995. Proceedings. 22nd Annual International …
+
+32. Beyond VCG: Frugality of truthful mechanisms
+Citations:122
+Authors: AR Karlin, D Kempe
+Publication: 46th Annual IEEE Symposium on Foundations of Computer Science (FOCS'05), 615-624
+
+33. On algorithms for efficient data migration
+Citations:122
+Authors: J Hall, J Hartline, AR Karlin, J Saia, J Wilkes
+Publication: Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms …
+
+34. Near-optimal parallel prefetching and caching
+Citations:103
+Authors: T Kimbrel, AR Karlin
+Publication: SIAM Journal on computing 29, 1051
+
+35. Near-optimal parallel prefetching and caching
+Citations:103
+Authors: T Kimbrel, AR Karlin
+Publication: Foundations of Computer Science, 1996. Proceedings., 37th Annual Symposium …
+
+36. An experimental study of data migration algorithms
+Citations:100
+Authors: E Anderson, J Hall, J Hartline, M Hobbs, A Karlin, J Saia, R Swaminathan, ...
+Publication: Algorithm Engineering, 145-158
+
+37. Trading space for time in undirected s-t connectivity
+Citations:99
+Authors: AZ Broder, AR Karlin, P Raghavan, E Upfal
+Publication: SIAM J. Comput. 23 (2), 324-334
+
+38. Profit maximization in mechanism design
+Citations:97
+Authors: J Hartline, A Karlin
+Publication: Algorithmic Game Theory 331
+
+39. System with a plurality of hash tables each using different adaptive hashing functions
+Citations:97
+Authors: AZ Broder, AR Karlin
+Publication: US Patent 5,032,987
+
+40. Approximating matches made in heaven
+Citations:83
+Authors: N Chen, N Immorlica, A Karlin, M Mahdian, A Rudra
+Publication: Automata, Languages and Programming, 266-278
+
+41. Asymptotically tight bounds for computing with faulty arrays of processors
+Citations:83
+Authors: C Kaklamanis, AR Karlin, FT Leighton, V Milenkovic, P Raghavan, S Rao, ...
+Publication: Foundations of Computer Science, 1990. Proceedings., 31st Annual Symposium …
+
+42. On-line load balancing
+Citations:78
+Authors: Y Azar, AZ Broder, AR Karlin
+Publication: Theoretical Computer Science 130 (1), 73-84
+
+43. Web search via hub synthesis
+Citations:76
+Authors: D Achlioptas, A Fiat, AR Karlin, F McSherry
+Publication: Proceedings 42nd IEEE Symposium on Foundations of Computer Science, 500-509
+
+44. Truthful and competitive double auctions
+Citations:72
+Authors: K Deshmukh, A Goldberg, J Hartline, A Karlin
+Publication: Algorithms—ESA 2002, 127-130
+
+45. Random Walks with" Back Buttons"
+Citations:71
+Authors: R Fagin, AR Karlin, J Kleinberg, P Raghavan, S Rajagopalan, ...
+Publication: Annals of Applied Probability, 810-862
+
+46. Randomized and multipointer paging with locality of reference
+Citations:67
+Authors: A Fiat, AR Karlin
+Publication: Proceedings of the twenty-seventh annual ACM symposium on Theory of …
+
+47. Integrality gaps of linear and semi-definite programming relaxations for knapsack
+Citations:60
+Authors: A Karlin, C Mathieu, C Nguyen
+Publication: Integer Programming and Combinatoral Optimization, 301-314
+
+48. Evaluating competitive game balance with restricted play
+Citations:52
+Authors: A Jaffe, A Miller, E Andersen, YE Liu, A Karlin, Z Popovic
+Publication: Eighth Artificial Intelligence and Interactive Digital Entertainment Conference
+
+49. Performance analysis and optimization of asynchronous circuits
+Citations:51
+Authors: P Kudva, G Gopalakrishnan, E Brunvand, V Akella
+Publication: Proceedings 1994 IEEE International Conference on Computer Design: VLSI in …
+
+50. Integrated parallel prefetching and caching
+Citations:50
+Authors: T Kimbrel, P Cao, EW Felten, AR Karlin, K Li
+Publication: ACM SIGMETRICS Performance Evaluation Review 24 (1), 262-263
+
+51. Reducing network latency using subpages in a global memory environment
+Citations:47
+Authors: HA Jamrozik, MJ Feeley, GM Voelker, J Evans II, AR Karlin, HM Levy, ...
+Publication: ACM SIGOPS Operating Systems Review 30 (5), 258-267
+
+52. Factors in the Performance of the AN1 Computer Network
+Citations:46
+Authors: SS Owicki, AR Karlin
+Publication: ACM SIGMETRICS Performance Evaluation Review 20 (1), 167-180
+
+53. Prior-independent multi-parameter mechanism design
+Citations:44
+Authors: N Devanur, J Hartline, A Karlin, T Nguyen
+Publication: International Workshop on Internet and Network Economics, 122-133
+
+54. Probabilistic lower bounds for byzantine agreement
+Citations:43
+Authors: A Karlin, A Yao
+Publication: Unpublished document
+
+55. On the equilibria and efficiency of the GSP mechanism in keyword auctions with externalities
+Citations:39
+Authors: I Giotis, A Karlin
+Publication: Internet and Network Economics, 629-638
+
+56. Improved approximation algorithms for budgeted allocations
+Citations:37
+Authors: Y Azar, B Birnbaum, A Karlin, C Mathieu, C Nguyen
+Publication: Automata, Languages and Programming, 186-197
+
+57. Pursuing the performance potential of dynamic cache line sizes
+Citations:33
+Authors: P Van Vleet, E Anderson, L Brown, JL Baer, A Karlin
+Publication: Computer Design, 1999.(ICCD'99) International Conference on, 528-537
+
+58. Biased random walks
+Citations:33
+Authors: Y Azar, AZ Broder, AR Karlin, N Linial, S Phillips
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Theory of computing …
+
+59. On best-response bidding in GSP auctions
+Citations:31
+Authors: M Cary, A Das, B Edelman, I Giotis, K Heimerl, AR Karlin, C Mathieu, ...
+Publication: National Bureau of Economic Research
+
+60. Two adaptive hybrid cache coherency protocols
+Citations:31
+Authors: C Anderson, AR Karlin
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+61. Advanced computing method for solving of the polarized-radiation transfer equation
+Citations:28
+Authors: A Kovtanyuk, K Nefedev, I Prokhorov
+Publication: Russia-Taiwan Symposium on Methods and Tools of Parallel Processing, 268-276
+
+62. A lower bound on the competitive ratio of truthful auctions
+Citations:28
+Authors: AV Goldberg, JD Hartline, AR Karlin, M Saks
+Publication: STACS 2004, 644-655
+
+63. On the fault tolerance of the butterfly
+Citations:28
+Authors: AR Karlin, G Nelson, H Tamaki
+Publication: In Proc. of the 26th ACM Symp. on Theory of Computing (STOC
+
+64. I/O forwarding in a cache coherent shared disk computer system
+Citations:27
+Authors: RJ Bamford, B Klots
+Publication: US Patent 6,112,281
+
+65. Cheap labor can be expensive
+Citations:26
+Authors: N Chen, AR Karlin
+Publication: Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete …
+
+66. Auctions for structured procurement
+Citations:25
+Authors: MC Cary, AD Flaxman, JD Hartline, AR Karlin
+Publication: Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …
+
+67. Experience with a regular expression compiler
+Citations:23
+Authors: AR Karlin, HW Trickey, JD Ullman
+Publication: STANFORD UNIV CA DEPT OF COMPUTER SCIENCE
+
+68. Algorithms for data migration
+Citations:22
+Authors: E Anderson, J Hall, J Hartline, M Hobbes, A Karlin, J Saia, ...
+Publication: Algorithmica 57 (2), 349-380
+
+69. A prior-independent revenue-maximizing auction for multiple additive bidders
+Citations:19
+Authors: K Goldner, AR Karlin
+Publication: International Conference on Web and Internet Economics, 160-173
+
+70. Approximate revenue maximization in interdependent value settings
+Citations:19
+Authors: S Chawla, H Fu, A Karlin
+Publication: Proceedings of the fifteenth ACM conference on Economics and computation …
+
+71. Approaching utopia: strong truthfulness and externality-resistant mechanisms
+Citations:19
+Authors: A Fiat, AR Karlin, E Koutsoupias, A Vidali
+Publication: arXiv preprint arXiv:1208.3939
+
+72. On the effects of competing advertisements in keyword auctions
+Citations:19
+Authors: A Das, I Giotis, A Karlin, C Mathieu
+Publication: Unpublished Manuscript, May
+
+73. Web search via hub synthesis
+Citations:19
+Authors: A Fiat, A Karlin, F McSherry
+Publication: Proceedings of the 42nd IEEE symposium on Foundations of Computer Science, 500
+
+74. Biased random walks
+Citations:16
+Authors: Y Azar, AZ Broder, AR Karlin, N Linial, S Phillips
+Publication: Combinatorica 16 (1), 1-18
+
+75. Simple pricing schemes for consumers with evolving values
+Citations:15
+Authors: S Chawla, NR Devanur, AR Karlin, B Sivan
+Publication: Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …
+
+76. Convergence of position auctions under myopic best-response dynamics
+Citations:15
+Authors: M Cary, A Das, B Edelman, I Giotis, K Heimerl, AR Karlin, SD Kominers, ...
+Publication: ACM Transactions on Economics and Computation 2 (3), 9
+
+77. Potentials and limitations of fault-based markov prefetching for virtual memory pages
+Citations:15
+Authors: G Bartels, A Karlin, H Levy, G Voelker, D Anderson, J Chase
+Publication: SIGMETRICS 99, 206-207
+
+78. Near-optimal parallel prefetching and caching
+Citations:15
+Authors: AR Karlin
+Publication: Proceedings of the 37th Annual Symposium on Foundations of Computer Science, 540
+
+79. On the performance of competitive algorithms in practice
+Citations:14
+Authors: A Karlin
+Publication: Online Algorithms, 373-384
+
+80. Stability of service under time-of-use pricing
+Citations:13
+Authors: S Chawla, NR Devanur, AE Holroyd, AR Karlin, JB Martin, B Sivan
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+81. Game theory, alive
+Citations:12
+Authors: AR Karlin, Y Peres
+Publication: American Mathematical Soc.
+
+82. The fedex problem
+Citations:12
+Authors: A Fiat, K Goldner, AR Karlin, E Koutsoupias
+Publication: Proceedings of the 2016 ACM Conference on Economics and Computation, 21-22
+
+83. Using behavioral data to identify interviewer fabrication in surveys
+Citations:12
+Authors: B Birnbaum, G Borriello, AD Flaxman, B DeRenzi, AR Karlin
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+84. Random walks and undirected graph connectivity: a survey
+Citations:12
+Authors: AR Karlin, P Raghavan
+Publication: Institute for Mathematics and Its Applications 72, 95
+
+85. Data mining through spectral analysis
+Citations:10
+Authors: Y Azar, A Fiat, A Karlin, F McSherry, J Saia
+Publication: IEEE Symposium on Foundations of Computer Science
+
+86. On the Parallel Complexity of Evaluating Game Trees.
+Citations:10
+Authors: AZ Broder, AR Karlin, P Raghavan, E Upfal
+Publication: SODA, 404-413
+
+87. Approximately revenue-maximizing auctions for deliberative agents
+Citations:9
+Authors: LE Celis, AR Karlin, K Leyton-Brown, CT Nguyen, DRM Thompson
+Publication: Twenty-Sixth AAAI Conference on Artificial Intelligence
+
+88. On revenue maximization in second-price ad auctions
+Citations:9
+Authors: Y Azar, B Birnbaum, A Karlin, C Nguyen
+Publication: Algorithms-ESA 2009, 155-166
+
+89. Balloon popping with applications to ascending auctions
+Citations:9
+Authors: N Immorlica, AR Karlin, M Mahdian, K Talwar
+Publication: 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07), 104-112
+
+90. A simply exponential upper bound on the maximum number of stable matchings
+Citations:8
+Authors: AR Karlin, SO Gharan, R Weber
+Publication: Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …
+
+91. Optimization in the private value model: Competitive analysis applied to auction design
+Citations:8
+Authors: JD Hartline, AR Karlin
+Publication: University of Washington
+
+92. Practical network for IP traceback
+Citations:7
+Authors: T Anderson, A Karlin, S Savage, D Wetherall
+Publication: IEEE/ACM Transactions on Networking 9 (3), 226-237
+
+93. Chiron parallel program performance visualization system
+Citations:7
+Authors: HA Goosen, AR Karlin, D Cheriton, D Polzin
+Publication: Computer-Aided Design 26 (12), 899-906
+
+94. A quantitative evaluation of traffic-aware routing strategies
+Citations:4
+Authors: EJ Anderson, TE Anderson, SD Gribble, AR Karlin, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 67-67
+
+95. On the performance potential of dynamic cache line sizes
+Citations:4
+Authors: E Anderson, P Van Vleet, L Brown, JL Baer, AR Karlin
+Publication: In Proceedings of 1999 International Conference on Computer Design
+
+96. Sharing memory in distributed systems—Methods and applications
+Citations:4
+Authors: AR Karlin
+Publication: Stanford University
+
+97. On list update and work function algorithms
+Citations:3
+Authors: EJ Anderson, K Hildrum, AR Karlin, A Rasala, M Saks
+Publication: Theoretical computer science 287 (2), 393-418
+
+98. Application-controlled caching, prefetching and disk scheduling
+Citations:3
+Authors: P Cao, EW Felten, AR Karlin, K Li
+Publication: Technical Report TR-493-95, Princeton University
+
+99. On a competitive secretary problem
+Citations:2
+Authors: A Karlin, E Lei
+Publication: Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+100. Selling in exclusive markets: Some observations on prior-free mechanism design
+Citations:2
+Authors: AR Karlin, CT Nguyen, Y Peres
+Publication: ACM Transactions on Economics and Computation 1 (2), 7
+
+101. Earlier Work
+Citations:2
+Authors: S Savage, D Wetherall, A Karlin, T Anderson
+Publication: IEEE/ACM Transactions on Networking 9 (3), 226-237
+
+102. Fiat
+Citations:2
+Authors: Y Azar, AR Karlin, F Mcsherry, J Saia
+Publication: 
+
+103. dynamic hashing
+Citations:2
+Authors: RJ Embody, HC Du
+Publication: ACM Computing Surveys 20 (2), 85-113
+
+104. Combinatorial Auctions with Interdependent Valuations: SOS to the Rescue
+Citations:1
+Authors: A Eden, M Feldman, A Fiat, K Goldner, AR Karlin
+Publication: arXiv preprint arXiv:1903.08384
+
+105. On revenue maximization for agents with costly information acquisition
+Citations:1
+Authors: LE Celis, DC Gklezakos, AR Karlin
+Publication: International Colloquium on Automata, Languages, and Programming, 484-495
+
+106. Thinking Twice about Second-Price Ad Auctions
+Citations:1
+Authors: Y Azar, B Birnbaum, AR Karlin, CT Nguyen
+Publication: arXiv preprint arXiv:0809.1895
+
+107. Ad Auctions–Current and Future Research
+Citations:1
+Authors: AR Karlin
+Publication: International Conference on Algorithmic Applications in Management, 425-425
+
+108. Spectral analysis for data mining
+Citations:1
+Authors: Y Azar, A Fiat, A Karlin, F McSherry, J Saia
+Publication: Proc. 33rd Annual ACM Symposium on Theory of Computing (STOC)
+
+109. Random walks withback buttons'
+Citations:1
+Authors: R Fagin, AR Karlin, J Kleinberg, P Raghavan, S Rajagopalan, ...
+Publication: CONF PROC ANNU ACM SYMP THEORY COMPUT. pp. 484-493. 2000
+
+110. Near-optimal parallel prefetching
+Citations:1
+Authors: T Kimbrel, A Karlin
+Publication: Technical Report UW-CSE-96-01-10, University of Washington
+
+111. An Improved Approximation Algorithm for TSP in the Half Integral Case
+Citations:
+Authors: A Karlin, N Klein, SO Gharan
+Publication: arXiv preprint arXiv:1908.00227
+
+112. Energy Equilibria in Proof-of-Work Mining
+Citations:
+Authors: A Fiat, A Karlin, E Koutsoupias, C Papadimitriou
+Publication: Proceedings of the 2019 ACM Conference on Economics and Computation, 489-502
+
+113. Front Matter, Table of Contents, Preface, Conference Organization
+Citations:
+Authors: WL Hsu, DT Lee, CS Liao
+Publication: 29th International Symposium on Algorithms and Computation (ISAAC 2018)
+
+114. Carpooling in Social Networks
+Citations:
+Authors: A Fiat, AR Karlin, E Koutsoupias, C Mathieu, R Zach
+Publication: Extended Abstracts Summer 2015, 29-34
+
+115. How to sell an app: pay-per-play or buy-it-now?
+Citations:
+Authors: S Chawla, NR Devanur, A Karlin, B Sivan
+Publication: arXiv preprint arXiv:1411.1381
+
+116. Workshop on On-Line Algorithms 2004 (OLA 2004)
+Citations:
+Authors: A Borodin, A Karlin
+Publication: Workshop dates: July 5, 7
+
+117. Mechanism Design for Fun and Profit
+Citations:
+Authors: AR Karlin
+Publication: European Symposium on Algorithms, 3-3
+
+118. FIT: Fast internet traceback.
+Citations:
+Authors: Z Zhou, D Xie, B Jiao, T Baba, S Matsuda, H Burch, B Cheswick, D Dean, ...
+Publication: Information Technology Journal 8 (4), 20-26
+
+119. Truthful and Competitive Double Auctions
+Citations:
+Authors: JD Hartline, K Deshmukh, A Goldberg, A Karlin
+Publication: European Symposium on Algorithms
+
+120. Web Search via Hub Synthesis
+Citations:
+Authors: AR Karlin
+Publication: Approximation, Randomization, and Combinatorial Optimization: Algorithms and …
+
+121. An experimental study of data migration algorithms. Algorithm Engineering
+Citations:
+Authors: E Anderson, J Hartline, M Hobbs, AR Karlin, J Saia, R Swaminathan, ...
+Publication: the Proceedings of WAE 2001: 5th Workshop on Algorithm Engineering (BRICS …
+
+122. Center track: An IP overlay network for tracking dos floods.
+Citations:
+Authors: VM Bhaskaran, AM Natarajan, SN Sivanandam, SM Bellovin, CC Center, ...
+Publication: Information Technology Journal 6 (2), pp: 159-165
+
+123. Competitive Algorithms
+Citations:
+Authors: A Karlin, G Woeginger
+Publication: Geschäftsstelle Schloss Dagstuhl, Univ. des Saarlandes
+
+124. On list update and work function algorithms
+Citations:
+Authors: EJ Anderson, K Hildrum, AR Karlin, A Rasala, M Saks
+Publication: European Symposium on Algorithms, 289-300
+
+125. A Note on the Influence of anε-Biased Random Source
+Citations:
+Authors: A Ben-Dor, A Karlin, N Linial, Y Rabinovich
+Publication: Journal of Computer and System Sciences 58 (1), 174-176
+
+126. A Trace-Driven Comparison of Algorithms for Parallel Prefetching and Caching (CMU-CS-96-174)
+Citations:
+Authors: T Kimbrel, A Tomkins, RH Patterson, B Bershad, P Cao, EW Felten, ...
+Publication: Parallel Data Laboratory, 158
+
+127. Reducing TLB and Memory Overhead Using Online Superpage Promotion
+Citations:
+Authors: THRWH Ohlrich, AR Karlin, BN Bershad
+Publication: Proceedings, the 22nd annual International Symposium on Computer …
+
+128. WOMEN IN COMPUTING
+Citations:
+Authors: E ARKIN, H ATTIYA, J BARILAN, B BERGER, L BLUM, J BOYAR, ...
+Publication: COMMUNICATIONS OF THE ACM 34 (8), 15-16
+
+129. Algorithms for the compilation of regular expressions into PLAs
+Citations:
+Authors: AR Karlin, HW Trickey, JD Ullman
+Publication: Algorithmica 2 (1-4), 283-314
+
+130. For the case of a randomized algorithm, we should first be convinced that the adversary's power is no stronger than that of an oblivious adversary in each of the carpool …
+Citations:
+Authors: A Frieze, A Karlin, N Megiddo, B Narayanan, G Schedler
+Publication: Discrete Applied Mathematics 3, 1-8
+
+131. max1 in jD (t; i; V1; V2;::: Vt) j is at most 2 (n).
+Citations:
+Authors: A Frieze, A Karlin, N Megiddo, B Narayanan, G Schedler
+Publication: Discrete Applied Mathematics 3, 1-8
+
+132. Introduction to Randomized Algorithms
+Citations:
+Authors: N Harvey, A Karlin
+Publication: 
+
+133. An Experimental Study of Data Migration Algorithms Eric Anderson1, Joe Hall2, Jason Hartline2, Michael Hobbs1, Anna R. Karlin2, Jared Saia2, Ram Swaminathan1, and John Wilkes1 …
+Citations:
+Authors: E Anderson, J Hall, J Hartline, M Hobbs, AR Karlin
+Publication: 
+
+134. between statistical computing, computer science, and statistical mechanics.. 43 Persi Diaconis and Susan Holmes The move-to-front rule for self-organizing lists with Markov …
+Citations:
+Authors: RP Dobrow, JA Fill, AP Godbole, DE Skipper, RA Sunley, AR Karlin, ...
+Publication: 
+
+135. Invited Lectures
+Citations:
+Authors: W Cook, TK Dey, AR Karlin, M Thorup, PK Agarwal, J Gao, LJ Guibas, ...
+Publication: 
+
+136. The papers in these proceedings were presented at the 44th Annual Symposium on Foundations of Computer Science (FOCS 2003) sponsored by the IEEE Technical Committee on …
+Citations:
+Authors: M Agarwal, P Beame, C Chekuri, M Henzinger, V Kabanets, A Karlin, ...
+Publication: 
+

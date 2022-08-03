@@ -1,0 +1,248 @@
+https://scholar.google.com/citations?hl=en&user=mtejbKYAAAAJ
+Total Citations = 2154
+
+1. Automatically patching errors in deployed software
+Citations:374
+Authors: JH Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+2. Dynamic knobs for responsive power-aware computing
+Citations:330
+Authors: H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 199-212
+
+3. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:228
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: ACM SIGPLAN Notices 48 (10), 33-52
+
+4. Context-sensitive program analysis as database queries
+Citations:200
+Authors: MS Lam, J Whaley, VB Livshits, MC Martin, D Avots, M Carbin, C Unkel
+Publication: Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+5. Using datalog with binary decision diagrams for program analysis
+Citations:188
+Authors: J Whaley, D Avots, M Carbin, MS Lam
+Publication: Asian Symposium on Programming Languages and Systems, 97-118
+
+6. Chisel: Reliability-and accuracy-aware optimization of approximate computational kernels
+Citations:156
+Authors: S Misailovic, M Carbin, S Achour, Z Qi, MC Rinard
+Publication: ACM SIGPLAN Notices 49 (10), 309-328
+
+7. Proving acceptability properties of relaxed nondeterministic approximate programs
+Citations:100
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: PLDI: Programming Languages Design and Implementation 47 (6), 169-180
+
+8. The lottery ticket hypothesis: Finding sparse, trainable neural networks
+Citations:80
+Authors: J Frankle, M Carbin
+Publication: arXiv preprint arXiv:1803.03635
+
+9. Detecting and escaping infinite loops with jolt
+Citations:74
+Authors: M Carbin, S Misailovic, M Kling, MC Rinard
+Publication: European Conference on Object-Oriented Programming, 609-633
+
+10. Automatic input rectification
+Citations:58
+Authors: F Long, V Ganesh, M Carbin, S Sidiroglou, M Rinard
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 80-90
+
+11. Automatically identifying critical input regions and code in applications
+Citations:58
+Authors: M Carbin, MC Rinard
+Publication: Proceedings of the 19th international symposium on Software testing and …
+
+12. Bypass virtualization
+Citations:52
+Authors: IITJ Purtell, W Chun, M Carbin
+Publication: US Patent 8,065,687
+
+13. Transactional collection classes
+Citations:52
+Authors: BD Carlstrom, A McDonald, M Carbin, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of …
+
+14. Configuration of isolated extensions and device drivers
+Citations:50
+Authors: GC Hunt, JR Larus, MA Fähndrich, O Hodson, DR Tarditi, M Spear, ...
+Publication: US Patent 8,074,231
+
+15. Reflective program generation with patterns
+Citations:47
+Authors: M Fähndrich, M Carbin, JR Larus
+Publication: Proceedings of the 5th international conference on Generative programming …
+
+16. Bolt: on-demand infinite loop escape in unmodified binaries
+Citations:36
+Authors: M Kling, S Misailovic, M Carbin, M Rinard
+Publication: ACM SIGPLAN Notices 47 (10), 431-450
+
+17. Verified integrity properties for safe approximate program transformations
+Citations:20
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and …
+
+18. Optimizing cnns on multicores for scalability, performance and goodput
+Citations:6
+Authors: S Rajbhandari, Y He, O Ruwase, M Carbin, T Chilimbi
+Publication: ACM SIGPLAN Notices 52 (4), 267-280
+
+19. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:6
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: Communications of the ACM 59 (8)
+
+20. The Lottery Ticket Hypothesis at Scale
+Citations:5
+Authors: J Frankle, GK Dziugaite, DM Roy, M Carbin
+Publication: arXiv preprint arXiv:1903.01611
+
+21. The three pillars of machine programming
+Citations:5
+Authors: J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+22. Learning effective BDD variable orders for BDD-based program analysis
+Citations:5
+Authors: M Carbin
+Publication: Stanford University, Tech. Rep
+
+23. Exploiting Errors for Efficiency: A Survey from Circuits to Algorithms
+Citations:4
+Authors: P Stanley-Marbell, A Alaghi, M Carbin, E Darulova, L Dolecek, ...
+Publication: arXiv preprint arXiv:1809.05859
+
+24. Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks
+Citations:4
+Authors: C Mendis, A Renda, S Amarasinghe, M Carbin
+Publication: arXiv preprint arXiv:1808.07412
+
+25. Computable decision making on the reals and other spaces: via partiality and nondeterminism
+Citations:2
+Authors: B Sherman, L Sciarappa, A Chlipala, M Carbin
+Publication: Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer …
+
+26. Cryptographic path hardening: Hiding vulnerabilities in software through cryptography
+Citations:2
+Authors: V Ganesh, M Carbin, M Rinard
+Publication: arXiv preprint arXiv:1202.0359
+
+27. Power-aware computing with dynamic knobs
+Citations:2
+Authors: S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, M Rinard
+Publication: 
+
+28. Self-defending software: Automatically patching security vulnerabilities
+Citations:2
+Authors: J Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)
+
+29. Sound and robust solid modeling via exact real arithmetic and continuity
+Citations:1
+Authors: B Sherman, J Michel, M Carbin
+Publication: Proceedings of the ACM on Programming Languages 3 (ICFP), 99
+
+30. Leto: verifying application-specific hardware fault tolerance with programmable execution models
+Citations:1
+Authors: B Boston, Z Gong, M Carbin
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 163
+
+31. Verifying Handcoded Probabilistic Inference Procedures
+Citations:1
+Authors: E Atkinson, C Yang, M Carbin
+Publication: arXiv preprint arXiv:1805.01863
+
+32. Constructive probabilistic semantics with non-spatial locales
+Citations:1
+Authors: B Sherman, J Tramontano, M Carbin
+Publication: Workshop on Probabilistic Programming Languages, Semantics, and Systems
+
+33. Neural network training performance optimization framework
+Citations:1
+Authors: TA Chilimbi, O Ruwase, S Rajbhandari, M Carbin, Y He
+Publication: US Patent App. 14/986,186
+
+34. Overlapping pattern matching for programming with continuous functions
+Citations:1
+Authors: B Sherman, L Sciarappa, M Carbin, A Chlipala
+Publication: preparation
+
+35. Power-Aware Computing with Dynamic Knobs
+Citations:1
+Authors: M Rinard, S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, ...
+Publication: MIT-CSAIL-TR-2010-027
+
+36. Automatically identifying critical behaviors in programs
+Citations:1
+Authors: MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+37. Reactive Probabilistic Programming
+Citations:
+Authors: G Baudart, L Mandel, E Atkinson, B Sherman, M Pouzet, M Carbin
+Publication: arXiv preprint arXiv:1908.07563
+
+38. Overparameterization: A Connection Between Software 1.0 and Software 2.0
+Citations:
+Authors: M Carbin
+Publication: 3rd Summit on Advances in Programming Languages (SNAPL 2019)
+
+39. Verifying Programs Under Custom Application-Specific Execution Models
+Citations:
+Authors: B Boston, Z Gong, M Carbin
+Publication: arXiv preprint arXiv:1805.06090
+
+40. Typesafety for Explicitly-Coded Probabilistic Inference Procedures
+Citations:
+Authors: E Atkinson, M Carbin
+Publication: 
+
+41. Logical reasoning for approximate and unreliable computation
+Citations:
+Authors: MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+42. Session 3B: Reasoning, Inference, and Symbolic Execution-Proving Acceptability Properties of Relaxed Nondeterministic Approximate Programs
+Citations:
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: SIGPLAN Notices 47 (6), 169
+
+43. Automatically identifying critical behaviors in programs
+Citations:
+Authors: MC Rinard, MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+44. NAP: Noise-Based Sensitivity Analysis for Programs
+Citations:
+Authors: J Michel, S Verma, B Sherman, M Carbin
+Publication: 
+
+45. Rely: Verifying Quantitative Reliability for Programs that Execute on Unreliable Hardware
+Citations:
+Authors: M Carbin
+Publication: 
+
+46. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+47. Traditional Fault Tolerance
+Citations:
+Authors: M Carbin
+Publication: 
+
+48. Appendix to Detecting and Escaping Infinite Loops with Jolt
+Citations:
+Authors: M Carbin, S Misailovic, M Kling, MC Rinard
+Publication: 
+
+49. Proceedings of Net Object Days 2002, Erfurt, Germany, October 2002. Springer LNCS 2591➢ D. Calvanese, M. Lenzerini, D. Nardi. Description Logics for Data Modeling. In J …
+Citations:
+Authors: K Yi, J Whaley, D Avots, M Carbin, M Lam
+Publication: 
+

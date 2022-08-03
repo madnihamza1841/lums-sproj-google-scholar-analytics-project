@@ -1,0 +1,190 @@
+
+4. On the scale and performance of cooperative web proxy caching
+Citations:869
+Authors: A Wolman, M Voelker, N Sharma, N Cardwell, A Karlin, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 33 (5), 16-31
+
+8. A fistful of bitcoins: characterizing payments among men with no names
+Citations:680
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 127-140
+
+10. The human and computer as a team in emergency management information systems
+Citations:533
+Authors: L Carver, M Turoff
+Publication: CACM 50 (3), 33-38
+
+14. Difference engine: Harnessing memory redundancy in virtual machines
+Citations:464
+Authors: D Gupta, S Lee, M Vrable, S Savage, AC Snoeren, G Varghese, ...
+Publication: Communications of the ACM 53 (10), 85-93
+
+15. Detour: Informed Internet routing and transport
+Citations:462
+Authors: S Savage, T Anderson, J Zahorjan, A Aggarwal, D Becker, N Cardwell, ...
+Publication: Ieee Micro, 50-59
+
+22. Click trajectories: End-to-end analysis of the spam value chain
+Citations:274
+Authors: K Levchenko, A Pitsillidis, N Chachra, B Enright, M Félegyházi, C Grier, ...
+Publication: 2011 ieee symposium on security and privacy, 431-446
+
+27. Manufacturing compromise: the emergence of exploit-as-a-service
+Citations:224
+Authors: C Grier, L Ballard, J Caballero, N Chachra, CJ Dietrich, K Levchenko, ...
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+41. DieCast: Testing distributed systems with an accurate scale model
+Citations:149
+Authors: D Gupta, KV Vishwanath, M McNett, A Vahdat, K Yocum, A Snoeren, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (2), 4
+
+46. Show Me the Money: Characterizing Spam-advertised Revenue.
+Citations:135
+Authors: C Kanich, N Weaver, D McCoy, T Halvorson, C Kreibich, K Levchenko, ...
+Publication: USENIX Security Symposium, 15-15
+
+48. Automating cross-layer diagnosis of enterprise wireless networks
+Citations:130
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benkö, J Chiang, AC Snoeren, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 25-36
+
+54. NetPrints: Diagnosing Home Network Misconfigurations Using Shared Knowledge.
+Citations:115
+Authors: B Agarwal, R Bhagwan, T Das, S Eswaran, VN Padmanabhan, ...
+Publication: NSDI 9, 349-364
+
+63. eDoctor: Automatically diagnosing abnormal battery drain issues on smartphones
+Citations:94
+Authors: X Ma, P Huang, X Jin, P Wang, S Park, D Shen, Y Zhou, LK Saul, ...
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+70. DefenestraTor: Throwing out windows in Tor
+Citations:78
+Authors: M AlSabah, K Bauer, I Goldberg, D Grunwald, D McCoy, S Savage, ...
+Publication: International Symposium on Privacy Enhancing Technologies Symposium, 134-154
+
+73. Competitor analysis and its defenses in the e-marketplace
+Citations:75
+Authors: YP Sheng, PP Mykytyn Jr, CR Litecky
+Publication: Communications of the ACM 48 (8), 107-112
+
+84. Scheduling techniques for hybrid circuit/packet networks
+Citations:55
+Authors: H Liu, MK Mukerjee, C Li, N Feltman, G Papen, S Savage, S Seshan, ...
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+90. Neon: system support for derived data management
+Citations:46
+Authors: Q Zhang, J McCullough, J Ma, N Schear, M Vrable, A Vahdat, ...
+Publication: ACM Sigplan Notices 45 (7), 63-74
+
+92. Characterizing large-scale click fraud in zeroaccess
+Citations:42
+Authors: P Pearce, V Dave, C Grier, K Levchenko, S Guha, D McCoy, V Paxson, ...
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+96. Automatic request categorization in internet services
+Citations:38
+Authors: AB Sharma, R Bhagwan, M Choudhury, L Golubchik, R Govindan, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 36 (2), 16-25
+
+99. Privacy-preserving network forensics.
+Citations:33
+Authors: M Afanasyev, T Kohno, J Ma, N Murphy, S Savage, AC Snoeren, ...
+Publication: Commun. ACM 54 (5), 78-87
+
+110. No Plan Survives Contact: Experience with Cybercrime Measurement.
+Citations:22
+Authors: C Kanich, N Chachra, D McCoy, C Grier, DY Wang, M Motoyama, ...
+Publication: CSET
+
+134. A Fistful of Bitcoins
+Citations:8
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: 
+
+143. Where have all the workshops gone?
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 54 (1), 5-5
+
+149. Network support for privacy-preserving forensic attribution
+Citations:3
+Authors: M Afanasyev, T Kohno, J Ma, N Murphy, S Savage, AC Snoeren, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+156. Browser Exploits as a Service: The Monetization of Driveby Downloads
+Citations:2
+Authors: C Grier, L Ballard, J Caballero, N Chachra, C Dietrich, K Levchenko, ...
+Publication: 
+
+160. Detecting and characterizing lateral phishing at scale
+Citations:1
+Authors: G Ho, A Cidon, L Gavish, M Schweighauser, V Paxson, S Savage, ...
+Publication: 28th {USENIX} Security Symposium ({USENIX} Security 19), 1273-1290
+
+175. Diagnosing and debugging abnormal battery drain on smartphones
+Citations:
+Authors: X Ma
+Publication: University of Illinois at Urbana-Champaign
+
+177. Automatic request categorization for internet applications
+Citations:
+Authors: R Bhagwan, M Choudhury, R Kannan, VN Padmanabhan, A Sharma, ...
+Publication: US Patent 8,219,657
+
+178. Shaman Automatic 802.11 Wireless Diagnosis System
+Citations:
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benko, J Chiang, AC Snoeren, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+181. Difference Engine
+Citations:
+Authors: D Gupta, S Lee, M Vrable, S Savage, AC Snoeren, G Varghese, ...
+Publication: ; login:: the magazine of USENIX & SAGE 34 (2), 24-31
+
+182. Analysis of a campus-wide wireless network.
+Citations:
+Authors: MS Zahrani, D Briere, H Pat, F Edward, I Brodsky, M Cardei, C Ionut, ...
+Publication: Information Technology Journal 9 (3), 919-930
+
+187. Load balancing in overlapping wireless cells.
+Citations:
+Authors: I JABRI, A Soudani, N Krommenacker, T Divoux, S Nasri, A Balachandran, ...
+Publication: Information Technology Journal 7 (4), 195-205
+
+189. Proceedings of the Sixth International Workshop on Web Caching and Content Distribution
+Citations:
+Authors: R Doyle, J Chase, S Gadde, A Vahdat, M Rabinovich, S Sibal, ...
+Publication: Boston University Computer Science Department
+
+193. Case report of a clinically silent perforation of a Medusa intrauterine device into the abdominal cavity with simultaneous intact mens II pregnancy
+Citations:
+Authors: G Völker, G Teichler, A Zocher
+Publication: Zentralblatt fur Gynakologie 112 (6), 387-390
+
+195. usenix conference policies
+Citations:
+Authors: D McNutt
+Publication: 
+
+196. A Fistful of Bitcoins
+Citations:
+Authors: SM is a PhD
+Publication: 
+
+199. Practical Perl Tools: Parsing Command Lines
+Citations:
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: 
+
+200. SYMPOSIUM ORGANIZERS
+Citations:
+Authors: E Brewer, P Chen, M Castro, J Flinn, G Ganger, S Madden, J Mogul, ...
+Publication: 
+
+204. Research Note 1251 Technical note: Replication graphs revisited
+Citations:
+Authors: J Grov, R Normann, BS Chlebus, DR Kowalski, M Elkin, F Chung, ...
+Publication: 

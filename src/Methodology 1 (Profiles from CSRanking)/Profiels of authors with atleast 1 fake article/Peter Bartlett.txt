@@ -1,0 +1,325 @@
+
+6. Regularization networks and support vector machines
+Citations:1376
+Authors: T Evgeniou, M Pontil, T Poggio
+Publication: Advances in computational mathematics 13 (1), 1
+
+11. FaST linear mixed models for genome-wide association studies
+Citations:658
+Authors: C Lippert, J Listgarten, Y Liu, CM Kadie, RI Davidson, D Heckerman
+Publication: Nature methods 8 (10), 833
+
+14. Learning the kernel function via regularization
+Citations:421
+Authors: CA Micchelli, M Pontil
+Publication: Journal of machine learning research 6 (Jul), 1099-1125
+
+15. Generalized support vector machines
+Citations:413
+Authors: O Mangasarian
+Publication: 
+
+36. Learning from examples as an inverse problem
+Citations:156
+Authors: ED Vito, L Rosasco, A Caponnetto, UD Giovannini, F Odone
+Publication: Journal of Machine Learning Research 6 (May), 883-904
+
+47. Natural images, Gaussian mixtures and dead leaves
+Citations:100
+Authors: D Zoran, Y Weiss
+Publication: Advances in Neural Information Processing Systems, 1736-1744
+
+51. Universal algorithms for learning theory part i: piecewise constant functions
+Citations:95
+Authors: P Binev, A Cohen, W Dahmen, R DeVore, V Temlyakov
+Publication: Journal of Machine Learning Research 6 (Sep), 1297-1321
+
+61. Quasi-Newton method: A new direction
+Citations:74
+Authors: P Hennig, M Kiefel
+Publication: Journal of Machine Learning Research 14 (Mar), 843-865
+
+63. Burn-in, bias, and the rationality of anchoring
+Citations:71
+Authors: F Lieder, T Griffiths, N Goodman
+Publication: Advances in neural information processing systems, 2690-2798
+
+68. Robust ensemble learning
+Citations:62
+Authors: G Rätsch, B Schölkopf, AJ Smola, S Mika, T Onoda, KR Müller
+Publication: 
+
+73. On fast approximate submodular minimization
+Citations:57
+Authors: S Jegelka, H Lin, JA Bilmes
+Publication: Advances in Neural Information Processing Systems, 460-468
+
+82. Phase transition in the family of p-resistances
+Citations:50
+Authors: M Alamgir, UV Luxburg
+Publication: Advances in Neural Information Processing Systems, 379-387
+
+92. Cerebral oximetry during cardiac arrest: a multicenter study of neurologic outcomes and survival
+Citations:41
+Authors: S Parnia, J Yang, R Nguyen, A Ahn, J Zhu, L Inigo-Santiago, A Nasir, ...
+Publication: Critical care medicine 44 (9), 1663-1674
+
+93. On the (non-) existence of convex, calibrated surrogate losses for ranking
+Citations:40
+Authors: C Calauzenes, N Usunier, P Gallinari
+Publication: Advances in Neural Information Processing Systems, 197-205
+
+105. Deep spatio-temporal architectures and learning for protein structure prediction
+Citations:32
+Authors: PD Lena, K Nagata, PF Baldi
+Publication: Advances in neural information processing systems, 512-520
+
+123. Data-dependent structural risk minimization for perceptron decision trees
+Citations:24
+Authors: J Shawe-Taylor, N Cristianini
+Publication: Advances in Neural Information Processing Systems, 336-342
+
+132. Non-parametric approximate dynamic programming via the kernel method
+Citations:19
+Authors: N Bhat, V Farias, CC Moallemi
+Publication: Advances in Neural Information Processing Systems, 386-394
+
+134. Maximum margin algorithms with Boolean kernels
+Citations:19
+Authors: R Khardon, RA Servedio
+Publication: Journal of Machine Learning Research 6 (Sep), 1405-1429
+
+149. How biased are maximum entropy models?
+Citations:16
+Authors: JH Macke, I Murray, PE Latham
+Publication: Advances in neural information processing systems, 2034-2042
+
+152. Hybrid collaborative filtering with autoencoders
+Citations:15
+Authors: F Strub, J Mary, R Gaudel
+Publication: arXiv preprint arXiv:1603.00806
+
+154. Automatic feature induction for stagewise collaborative filtering
+Citations:14
+Authors: J Lee, M Sun, S Kim, G Lebanon
+Publication: Advances in Neural Information Processing Systems, 314-322
+
+163. Forging the graphs: A low rank and positive semidefinite graph learning approach
+Citations:12
+Authors: D Luo, H Huang, F Nie, CH Ding
+Publication: Advances in neural information processing systems, 2960-2968
+
+171. The Lovász ϑ function, SVMs and finding large dense subgraphs
+Citations:10
+Authors: V Jethava, A Martinsson, C Bhattacharyya, D Dubhashi
+Publication: Advances in Neural Information Processing Systems, 1160-1168
+
+180. Kernels for identifying patterns in datasets containing noise or transformation invariances
+Citations:8
+Authors: B Schoelkopf, O Chapelle
+Publication: US Patent 8,209,269
+
+181. Modeling and measurement constraints in fault diagnostics for HVAC systems
+Citations:8
+Authors: M Najafi
+Publication: 
+
+189. Augmented-SVM: Automatic space partitioning for combining multiple non-linear dynamics
+Citations:7
+Authors: A Shukla, A Billard
+Publication: Advances in Neural Information Processing Systems, 1016-1024
+
+210. Comment:[Support Vector Machines with Applications]
+Citations:4
+Authors: O Bousquet, B Schölkopf
+Publication: Statistical Science 21 (3), 337-340
+
+211. Advanced Lectures on Machine Learning, volume 3176 of LNAI
+Citations:4
+Authors: U von Luxburg, O Bousquet, G Rätsch
+Publication: Springer
+
+217. glm-ie: generalised linear models inference & estimation toolbox
+Citations:3
+Authors: H Nickisch
+Publication: Journal of Machine Learning Research 13 (May), 1699-1703
+
+233. Enhancing paramedics procedural skills using a cadaveric model
+Citations:2
+Authors: D Lim, S Bartlett, P Horrocks, C Grant-Wakefield, J Kelly, V Tippett
+Publication: BMC medical education 14 (1), 138
+
+253. The utility of cerebral oximetry (rSO2%) during in-hospital cardiac arrest as a marker for the prediction of return of spontaneous circulation (ROSC)
+Citations:1
+Authors: S Parnia, L Inigo Santiago, A Ahn, C Deakin, K Golder, ...
+Publication: Circulation 128 (suppl_22), A104-A104
+
+254. Fresh frozen cadavers as a tool to educate student paramedics in procedural skills
+Citations:1
+Authors: S Bartlett, P Horrocks, D Lim, J Kelly
+Publication: Paramedics Australasia
+
+264. Retinal Coding for Vernier Acuity and Motion
+Citations:1
+Authors: C Wehrhahn
+Publication: Prerational Intelligence: Adaptive Behavior and Intelligent Systems Without …
+
+294. Acknowledgement to Reviewers of Laws in 2015
+Citations:
+Authors: FJ Alcaraz-Quiles, P Andrews-Speed, A Arstein-Kerslake, L Baldez, ...
+Publication: 
+
+297. The Effect of Cerebral Oxygenation on Cardiac Arrest Outcomes: A Multicenter Pilot Observational Study
+Citations:
+Authors: S Parnia, J Yang, RT Nguyen, A Ahn, L Inigo-Santiago, J Zhu, A Nasir, ...
+Publication: Circulation 132 (suppl_3), A15899-A15899
+
+298. Abstract 15899
+Citations:
+Authors: S Parnia, J Yang, R Nguyen, A Ahn, L Inigo-Santiago, J Zhu, A Nasir, ...
+Publication: Circulation 132 (Suppl_3)
+
+299. Impact Of Arterial Oxygen Levels On Cerebral Oxygen Delivery And Return Of Spontaneous Circulation In Cardiac Arrest
+Citations:
+Authors: RT Nguyen, G Thippeswamy, S Ravishankar, J Yang, J Zhu, JK Patel, ...
+Publication: C48. RESUSCITATION: INCREASING BENEFIT AND DECREASING HARM, A4516-A4516
+
+300. C48 RESUSCITATION: INCREASING BENEFIT AND DECREASING HARM: Impact Of Arterial Oxygen Levels On Cerebral Oxygen Delivery And Return Of Spontaneous Circulation In Cardiac Arrest
+Citations:
+Authors: RT Nguyen, G Thippeswamy, S Ravishankar, J Yang, J Zhu, JK Patel, ...
+Publication: American Journal of Respiratory and Critical Care Medicine 191, 1
+
+301. Cerebral Oximetry is a Predictor of Return of Spontaneous Circulation in Cardiac Arrest
+Citations:
+Authors: S Parnia, J Yang, L Inigo-Santiago, A Ahn, J Zhu, A Nasir, K Golder, ...
+Publication: CIRCULATION 130 (23), 2124-2124
+
+302. OSCE online: making assessment of clinical competencies transparent, accountable & authentic
+Citations:
+Authors: S Bartlett
+Publication: OSCE Online: Making assessment of clinical competencies transparent …
+
+304. Employment and industrial law in paramedic practice
+Citations:
+Authors: S Bartlett
+Publication: Applied Paramedic Law and Ethics: Australia and New Zealand, 250
+
+305. An introduction to child protection and mandatory reporting
+Citations:
+Authors: S Bartlett
+Publication: Applied Paramedic Law and Ethics: Australia and New Zealand, 186
+
+306. FaST Linear Mixed Models for Genome-Wide Association Studies
+Citations:
+Authors: C Lippert, J Listgarten, Y Liu, CM Kadie, RI Davidson, D Heckerman
+Publication: GENETIC EPIDEMIOLOGY 36 (2), 149-149
+
+307. Co-Editors’ Note–Thank you to Reviewers
+Citations:
+Authors: M Abendstern, P Ablett, N Abrar, HA Rasi, H Adhikari, R Aguirre, S Ahmad, ...
+Publication: British Journal of Social Work 41, 1619-1623
+
+308. Afendras, G. An extended Stein-type covariance identity for the Pearson family with ap-plications to lower variance bounds 507 Andrieu, C. On nonlinear Markov chain Monte Carlo …
+Citations:
+Authors: P Arbenz, M Arendarczyk, S Arlot, KB Athreya, SR Athreya, JM Azaïs, ...
+Publication: Bernoulli 17 (4), 1438-1442
+
+314. 153 Obituary for our editor Arthur W. Burks 154 Content-dependent chunking for differential compression, the local maximum approach
+Citations:
+Authors: N Bjørner, A Blass, Y Gurevich, M Dom, J Guo, R Niedermeier, ...
+Publication: J. Comput. System Sci 75 (1), 37-59
+
+324. Editors and Staff, 2005
+Citations:
+Authors: M Tennenholtz, T Walsh
+Publication: 
+
+326. Data mining method for listed companies financial distress prediction.
+Citations:
+Authors: Y Li, XH Yuan, JS Liu, GH Zhu, AN Yuan, Q Marashdeh, FL Teixeira, ...
+Publication: Information Technology Journal 12 (7), 1204-1208
+
+328. Editors and Staff, 2003
+Citations:
+Authors: ME Pollack, M Tennenholtz
+Publication: 
+
+329. NO and transition metals
+Citations:
+Authors: A Butler, R Nicholson
+Publication: Life, Death and Nitric Oxide, 67-73
+
+332. Biostatistical Analysis.
+Citations:
+Authors: MA Kabir Chowdhury, AMAS Goda, ER El-Haroun, MA Wafa, ...
+Publication: Journal of Fisheries and Aquatic Science 3 (1), 99-104
+
+338. Fast sparse gaussian process methods: The informative vector machine.
+Citations:
+Authors: C Xiao-Feng, W Shi-Tong, C Su-Qun, A Ben-Hur, D Horn, HT Siegelmann, ...
+Publication: Journal of Applied Sciences 8 (19), 125-137
+
+351. Robust support vector machine with bullet hole image classification.
+Citations:
+Authors: Y Qiang, B Pei, W Wei, J Yang, J Zhao, VN Vapnik, CF Lin, SD Wang, ...
+Publication: Information Technology Journal 13 (10), 464-471
+
+356. The Minimax Distortion Redundancy in Empirical Quantizer Design
+Citations:
+Authors: PBTLG Lugosi
+Publication: 
+
+357. The Importance of Convexity in Learning with Squared Loss
+Citations:
+Authors: W Sun, L Peter, L Bartlett, RC Williamson
+Publication: 
+
+366. Birnbaum, A. 255 Bobkov, SG 91 Borgwardt, K. 412 Borwein, J. 449 Boser, BE 411, 482
+Citations:
+Authors: R Adamczak, A Agarwal, R Ahlswede, MA Aizerman, M Akcakaya, ...
+Publication: 
+
+372. Reviewers of Manuscripts
+Citations:
+Authors: R Alderfer, M Aleksuik, R Alexander, R Amen, M Anderson, RV Andrews, ...
+Publication: Ecology 52 (6)
+
+380. 2012 Index IEEE Transactions on Dependable and Secure Computing| Vol. 9
+Citations:
+Authors: MA Aguirre, GJ Ahn, MI Alghamdi, M Alsaleh, D Andersson, M Asplund, ...
+Publication: 
+
+382. By Author
+Citations:
+Authors: I Bartlett, WS See Lee
+Publication: Neural Networks (Letter) 7 (5), 931-949
+
+389. IEEE INFORMATION THEORY SOCIETY
+Citations:
+Authors: VA VAISHAMPAYAN, M EFFROS, G SEROUSSI, SW MCLAUGHLIN, ...
+Publication: 
+
+393. AIM WORKSHOP: THE MATHEMATICS OF RANKING
+Citations:
+Authors: S Agarwal
+Publication: 
+
+396. 1997 Information Theory Society Paper Award 445
+Citations:
+Authors: AS Bedekar, M Azizoglu, K Visweswariah, SR Kulkarni, S Verdú, ...
+Publication: 
+
+400. Canberra, ACT, 0200
+Citations:
+Authors: AJ Smola
+Publication: 
+
+406. University of California, Berkeley
+Citations:
+Authors: DPA Bartlett, MI Jordan, JD Mc Auliffe
+Publication: J. Amer. Statist. Assoc 98, 324-339
+
+407. and Probability
+Citations:
+Authors: G AFENDRAS, N PAPADATOS, V PAPATHANASIOU, LHY CHEN, A XIA, ...
+Publication: 

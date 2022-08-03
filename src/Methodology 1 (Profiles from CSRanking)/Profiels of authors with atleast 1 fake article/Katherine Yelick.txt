@@ -1,0 +1,490 @@
+
+1. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+2. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+3. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+4. Exascale computing study: Technology challenges in achieving exascale systems
+Citations:1149
+Authors: K Bergman, S Borkar, D Campbell, W Carlson, W Dally, M Denneau, ...
+Publication: Defense Advanced Research Projects Agency Information Processing Techniques …
+
+5. A case for intelligent RAM
+Citations:843
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: IEEE micro 17 (2), 34-44
+
+7. Parallel programming in Split-C
+Citations:802
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, ...
+Publication: Supercomputing'93: Proceedings of the 1993 ACM/IEEE Conference on …
+
+8. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+9. A view of the parallel computing landscape
+Citations:695
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+10. Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures
+Citations:689
+Authors: K Datta, M Murphy, V Volkov, S Williams, J Carter, L Oliker, D Patterson, ...
+Publication: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, 4
+
+19. Cluster I/O with River: Making the fast case common
+Citations:242
+Authors: RH Arpaci-Dusseau, E Anderson, N Treuhaft, DE Culler, JM Hellerstein, ...
+Publication: Proceedings of the sixth workshop on I/O in parallel and distributed systems …
+
+20. Self-adapting linear algebra algorithms and software
+Citations:240
+Authors: J Demmel, J Dongarra, V Eijkhout, E Fuentes, A Petitet, R Vuduc, ...
+Publication: Proceedings of the IEEE 93 (2), 293-312
+
+21. Communication-avoiding Krylov subspace methods
+Citations:230
+Authors: M Hoemmen
+Publication: UC Berkeley
+
+22. Scalable processors in the billion-transistor era: IRAM
+Citations:230
+Authors: CE Kozyrakis, S Perissakis, D Patterson, T Anderson, K Asanovic, ...
+Publication: Computer 30 (9), 75-78
+
+24. A whole-genome shotgun approach for assembling and anchoring the hexaploid bread wheat genome
+Citations:185
+Authors: JA Chapman, M Mascher, A Buluç, K Barry, E Georganas, A Session, ...
+Publication: Genome biology 16 (1), 26
+
+29. Titanium language reference manual
+Citations:163
+Authors: PN Hilfinger, D Bonachea, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: Computer Science
+
+33. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 327-337
+
+34. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 327-337
+
+40. Intelligent RAM (IRAM): Chips that remember and compute
+Citations:120
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 1997 IEEE International Solids-State Circuits Conference. Digest of …
+
+42. SEJITS: Getting productivity and performance with selective embedded JIT specialization
+Citations:110
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Programming Models for Emerging Architectures 1 (1), 1-9
+
+47. An evaluation of current high-performance networks
+Citations:98
+Authors: C Bell, D Bonachea, Y Cote, J Duell, P Hargrove, P Husbands, C Iancu, ...
+Publication: Proceedings International Parallel and Distributed Processing Symposium, 10 pp.
+
+55. Intelligent ram (iram): the industrial setting, applications, and architectures
+Citations:68
+Authors: D Patterson, K Asanovic, A Brown, R Fromm, J Golbus, B Gribstad, ...
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+60. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+65. Introduction to split-c
+Citations:56
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, S Luna, ...
+Publication: figshare
+
+66. Introduction to split-c
+Citations:56
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, S Luna, ...
+Publication: figshare
+
+73. HipMer: an extreme-scale de novo genome assembler
+Citations:50
+Authors: E Georganas, A Buluç, J Chapman, S Hofmeyr, C Aluru, R Egan, L Oliker, ...
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+74. DARPA's HPCS program: History, models, tools, languages
+Citations:50
+Authors: J Dongarra, R Graybill, W Harrod, R Lucas, E Lusk, P Luszczek, ...
+Publication: Advances in Computers 72, 1-100
+
+78. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+79. Roc-1: Hardware support for recovery-oriented computing
+Citations:45
+Authors: D Oppenheimer, A Brown, J Beck, D Hettena, J Kuroda, N Treuhaft, ...
+Publication: IEEE Transactions on Computers 51 (2), 100-107
+
+87. Exascale programming challenges
+Citations:38
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: Proceedings of the Workshop on Exascale Programming Challenges, Marina del …
+
+94. Evaluation of architectural support for global address-based communication in large-scale parallel machines
+Citations:34
+Authors: A Krishnamurthy, KE Schauser, CJ Scheiman, RY Wang, DE Culler, ...
+Publication: ACM SIGPLAN Notices 31 (9), 37-48
+
+103. Communication avoiding and overlapping for numerical linear algebra
+Citations:28
+Authors: E Georganas, J González-Domínguez, E Solomonik, Y Zheng, J Tourino, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+113. Exascale computing study: Technology challenges in achieving exascale systems, 2008
+Citations:24
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: URL http://www. cse. nd. edu/Reports/2008/TR-2008-13. pdf
+
+117. The landscape of parallel computing research: A view from berkeley
+Citations:23
+Authors: A Krste, B Ras, CB Christopher, G James, H Parry, K Kurt, A Patterson, ...
+Publication: EECS techinical report
+
+119. ASCR programming challenges for exascale computing
+Citations:22
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: Report of the 2011 Workshop on Exascale Programming Challenges
+
+128. The landscape of parallel computing research: A view from Berkeley, 2006
+Citations:19
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+129. Multipol: A distributed data structure library
+Citations:19
+Authors: S Chakrabarti, E Deprit, EJ Im, J Jones, A Krishnamurthy, CP Wen, ...
+Publication: Fifth ACM SIGPLAN Symposium on Principles and Practices of Parallel Programming
+
+152. Benchmarking sparse matrix-vector multiply
+Citations:12
+Authors: H Gahvari
+Publication: Computer Science Division
+
+153. Performance Optimizations and Bounds for Sparse Symmetric Matrix–Multiple Vector Multiply
+Citations:12
+Authors: KAYM de Lorimjer, L Zhong
+Publication: Computer Science
+
+157. Automatically tuning collective communication for one-sided programming models
+Citations:11
+Authors: R Nishtala
+Publication: UC Berkeley
+
+158. Titanium language reference manual, version 2.19
+Citations:11
+Authors: PN Hilfinger, DO Bonachea, K Datta, D Gay, SL Graham, BR Liblit, G Pike, ...
+Publication: Technical Report UCB/EECS-2005–15
+
+163. Common runtime support for high performance parallel languages parallel compiler runtime consortium
+Citations:10
+Authors: G Fox, S Ranka, M Scott, AD Malony, J Browne, MC Chen, A Choudhary, ...
+Publication: Proceedings of the Supercomputing'93 Conference, 752-757
+
+169. Exascale computing study: Technology challenges in achieving exascale systems (2008)
+Citations:9
+Authors: K Bergman, S Borkar, D Campbell, W Carlson, W Dally, M Denneau, ...
+Publication: URL: http://www. science. energy. gov/ascr/Research/CS/DARPAexascale-hardware
+
+173. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+176. A decadal DOE plan for providing exascale applications and technologies for DOE mission needs
+Citations:8
+Authors: R Stevens, A White, P Beckman, R Bair, J Hack, J Nichols, A Geist, ...
+Publication: Presentation at Advanced Simulation and Computing Principal Investigators …
+
+177. Getting multicore performance with UPC
+Citations:8
+Authors: Y Zheng, F Blagojevic, D Bonachea, PH Hargrove, S Hofmeyr, C Iancu, ...
+Publication: SIAM Conference on Parallel Processing for Scientific Computing, Seattle …
+
+179. A Hartree-Fock application using UPC++ and the new DArray library
+Citations:7
+Authors: D Ozog, A Kamil, Y Zheng, P Hargrove, JR Hammond, A Malony, ...
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+184. VIRAM: A media-oriented vector processor with embedded DRAM
+Citations:7
+Authors: C Kozyrakis, J Gebis, D Martin, S Williams, I Mavroidis, S Pope, D Jones, ...
+Publication: the Conference Record of the Hot Chips XII Symposium
+
+187. 21st century computer architecture
+Citations:6
+Authors: MD Hill, S Adve, L Ceze, MJ Irwin, D Kaeli, M Martonosi, J Torrellas, ...
+Publication: arXiv preprint arXiv:1609.06756
+
+190. The NERSC-Cray center of excellence: Performance optimization for the multicore era
+Citations:6
+Authors: NJ Wright, H Shan, F Blagojevic, H Wasserman, T Drummond, J Shalf, ...
+Publication: CUG Proceedings
+
+191. Report of the workshop on exascale programming challenges
+Citations:6
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shlf, ...
+Publication: Technical Report, US Department of Energy
+
+192. The parallel computing laboratory at uc berkeley: A research agenda based on the berkeley view. EECS Department
+Citations:6
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: University of California, Berkeley, Tech. Rep
+
+205. Extreme scale de novo metagenome assembly
+Citations:4
+Authors: E Georganas, R Egan, S Hofmeyr, E Goltsman, B Arndt, A Tritt, A Buluç, ...
+Publication: SC18: International Conference for High Performance Computing, Networking …
+
+209. The great robotics debate
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 56 (7), 5-5
+
+219. Chips that remember and compute
+Citations:4
+Authors: D PATTESON
+Publication: Proc. International Solid-State Circuits Conference
+
+224. Sparse Matrix
+Citations:3
+Authors: T Davis
+Publication: From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. http …
+
+228. ExaScale Computing Study: Technology Challenges in Achieving Exascale Systems, DARPA report
+Citations:3
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: 
+
+229. Exascale study group: Technology challenges in achieving exascale systems
+Citations:3
+Authors: PM Kogge, S Borkar, WW Carlson, WJ Dally, M Denneau, PD Franzon, ...
+Publication: DARPA, Tech. Rep.
+
+230. The landscape of parallel computing research: a view from Berkeley. Study report
+Citations:3
+Authors: K Asanovic, R Bodik, B Catanzaro, J Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences, University of California at …
+
+247. Performance characterization of de novo genome assembly on leading parallel systems
+Citations:2
+Authors: M Ellis, E Georganas, R Egan, S Hofmeyr, A Buluç, B Cook, L Oliker, ...
+Publication: European Conference on Parallel Processing, 79-91
+
+253. Report of the 2011 workshop on exascale programming challenges
+Citations:2
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: US Department of Energy, Tech. Rep
+
+256. SEJITS: Getting productivity and performance with selective, just-in-time specialization
+Citations:2
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Proc. of PMEA 9
+
+266. Software Roadmap to Plug and Play Petaflop/s
+Citations:2
+Authors: B Kramer, J Carter, D Skinner, L Oliker, P Husbands, P Hargrove, J Shalf, ...
+Publication: 
+
+274. IOPADS ‘99: Input/Output for Parallel and Distributed Systems
+Citations:2
+Authors: RH Arpaci-Dusseau, E Anderson, N Treuhaft, DE Culler, JM Heller-stein, ...
+Publication: Atlanta, GA: May
+
+275. Scaling Processors to 1 Billion Transistors and Beyond: IRAM
+Citations:2
+Authors: S Perissakis, C Kozyrakis, T Anderson, K Asanovic, N Cardwell, R Fromm, ...
+Publication: IEEE Computer
+
+282. A case for sensible performance counters. Submitted to the First USENIX Workshop on Hot Topics in Parallelism (Berkeley CA, Mar. 30–31, 2009)
+Citations:2
+Authors: S Bird, A Waterman, K Klues, K Datta, R Liu, R Nishtala, S Williams, ...
+Publication: 
+
+287. Optimizing sparse matrix computations for register reuse in SPARSITY [G]
+Citations:2
+Authors: YK Im Eun Jin
+Publication: LNCS 2073, 127-136
+
+291. Merbench: Pgas benchmarks for high performance genome assembly
+Citations:1
+Authors: E Georganas, M Ellis, R Egan, S Hofmeyr, A Buluç, B Cook, L Oliker, ...
+Publication: Proceedings of the Second Annual PGAS Applications Workshop, 5
+
+293. Biological and Environmental Research Exascale Requirements Review. An Office of Science review sponsored jointly by Advanced Scientific Computing Research and Biological and …
+Citations:1
+Authors: A Arkin, DC Bader, R Coffey, K Antypas, D Bard, E Dart, S Dosanjh, ...
+Publication: US Department of Energy, Washington, DC (United States). Advanced Scientific …
+
+295. Implementing matrix multiplication on the Cell BE
+Citations:1
+Authors: W Alvaro, J Kurzak, J Dongarra
+Publication: In Scientific Computing with Multicore and Accelerators. Chapman & Hall/CRC …
+
+298. Titanium Language Reference Manual, Version 2.20
+Citations:1
+Authors: D Bonachea, P Hilfinger, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: 
+
+309. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+311. gLOP: the global and Local Penalty for Capturing Predictive Heterogeneity
+Citations:
+Authors: R Rose, D Lizotte
+Publication: Machine Learning for Healthcare Conference, 134-149
+
+313. 2014 Runtime Systems Summit. Runtime Systems Report
+Citations:
+Authors: V Sarkar, Z Budimlic, M Kulkani
+Publication: USDOE, Washington, DC (United States). Office of Science
+
+314. Biological and Environmental Research Exascale Requirements Review
+Citations:
+Authors: A Arkin, DC Bader, R Coffey, K Antypas, D Bard, E Dart, S Dosanjh, ...
+Publication: 
+
+318. Center for Scalable Application Development Software
+Citations:
+Authors: J Mellor-Crummey
+Publication: WIlliam Marsh Rice Univ., Houston, TX (United States)
+
+322. Communication Lower Bounds for Programs that Access Arrays
+Citations:
+Authors: N Knight
+Publication: 
+
+323. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+325. Communication–Avoiding Algorithms for Linear Algebra and Beyond
+Citations:
+Authors: N Knight
+Publication: 
+
+335. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+337. International Journal of High Performance
+Citations:
+Authors: J Dongarra, J Langou
+Publication: The International Journal of High Performance Computing Applications 23 (1 …
+
+342. NERSC 2016: Ultra-Efficient Scientific Platforms
+Citations:
+Authors: WTC Kramer, JM Shalf, EW Bethel, DA Agarwal, MJ Banda, JA Hules, ...
+Publication: 
+
+352. Science-Driven Computing: NERSC's Plan for 2006-2010
+Citations:
+Authors: HD Simon, WTC Kramer, DH Bailey, MJ Banda, E Bethel, JM Craw, ...
+Publication: Ernest Orlando Lawrence Berkeley NationalLaboratory, Berkeley, CA (US)
+
+354. International Journal of High Performance
+Citations:
+Authors: AA Mirin, WB Sawyer
+Publication: The International Journal of High Performance Computing Applications 19 (3 …
+
+359. Audio engineering and psychoacoustics, matching signals to the final receiver, the human auditory system.
+Citations:
+Authors: T Surya Gunawan, M Kartiwi, O O. Khalifa, M Berekovic, HJ Stolberg, ...
+Publication: Journal of Applied Sciences 12 (4), 688-699
+
+364. The Castle Project
+Citations:
+Authors: T Anderson, D Culler, J Demmel, J Feldman, S Graham, P Hilfinger, ...
+Publication: USDOE Oakland Operations Office, Oakland, CA (US)
+
+365. IRREGULAR'00 SEVENTH INTERNATIONAL WORKSHOP ON SOLVING IRREGULARLY STRUCTURED PROBLEMS IN PARALLEL
+Citations:
+Authors: T Davis, S Rajasekeran, S Ranka, J Rolim, C Ashcraft, H ElGindy, ...
+Publication: 
+
+368. Hagerup, Torben, 185 Hermans, Jan, 125 J Jha, Rakesh, 23 K
+Citations:
+Authors: P Calégari, DA Castañon, S Chakrabarti, G Ciardo, M Cross, J Demmel, ...
+Publication: Journal of Parallel and Distributed Computing 47, 198
+
+370. Agrawal, Dharma P., 107
+Citations:
+Authors: C Ancourt, S Bae, P Banerjee, R Bordawekar, BC Bromley, MC Carlisle, ...
+Publication: Journal of Parallel and Distributed Computing 38, 289
+
+371. Concurrency-based approaches to parallel programming
+Citations:
+Authors: LV Kale, N Chrisochoides, J Kohl
+Publication: Oak Ridge National Lab., TN (United States); California Univ., Berkeley, CA …
+
+379. 2014 IEEE International Parallel & Distributed Processing Symposium (IPDPS)(2014)
+Citations:
+Authors: S Misra, K Pamnany, S Aluru
+Publication: 
+
+389. Computers for the Post-PC Era
+Citations:
+Authors: A Brown, J Beck, K Keeton, R Martin, D Oppenheimer, R Thomas, ...
+Publication: 
+
+391. Exascale Computing Study: Technology challenges in acheiving exascale systems, September 2008
+Citations:
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: 
+
+407. The Eighth Workshop on Solving Irregularly Structured Problems in Parallel
+Citations:
+Authors: EG Ng, P Amestoy, I d'Electronique, S Chatterjee, E Chow, T Davis, ...
+Publication: 
+
+412. ROADMAP
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, JC Andre, JY Berthou, T Boku, ...
+Publication: 
+
+413. Jack Dongarra Pete Beckman Terry Moore Jean-Claude Andre
+Citations:
+Authors: JY Berthou, T Boku, F Cappello, B Chapman, X Chi, M Hereld, M Heroux, ...
+Publication: 
+
+415. Search eLibrary
+Citations:
+Authors: LL Grigsby
+Publication: 
+
+427. FP 14.1 Intelligent RAM (IRAM): Chips that remember and compute
+Citations:
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 
+
+428. Jack Dongarra Pete Beckman Terry Moore Patrick Aerts
+Citations:
+Authors: G Aloisio, JC Andre, D Barkai, JY Berthou, T Boku, B Braunschweig, ...
+Publication: 

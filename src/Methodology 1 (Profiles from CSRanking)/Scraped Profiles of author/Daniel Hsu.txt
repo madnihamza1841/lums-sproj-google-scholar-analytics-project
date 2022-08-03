@@ -1,0 +1,613 @@
+https://scholar.google.com/citations?hl=en&user=Bp6tvy0AAAAJ
+Total Citations = 5905
+
+1. Tensor decompositions for learning latent variable models
+Citations:691
+Authors: A Anandkumar, R Ge, D Hsu, SM Kakade, M Telgarsky
+Publication: The Journal of Machine Learning Research 15 (1), 2773-2832
+
+2. A spectral algorithm for learning hidden markov models
+Citations:416
+Authors: D Hsu, SM Kakade, T Zhang
+Publication: Arxiv preprint arXiv:0811.4413
+
+3. Multi-label prediction via compressed sensing
+Citations:372
+Authors: DJ Hsu, SM Kakade, J Langford, T Zhang
+Publication: Advances in neural information processing systems, 772-780
+
+4. Hierarchical sampling for active learning
+Citations:360
+Authors: S Dasgupta, D Hsu
+Publication: Proceedings of the 25th international conference on Machine learning, 208-215
+
+5. a CAPpella: programming by demonstration of context-aware applications
+Citations:285
+Authors: AK Dey, R Hamid, C Beckmann, I Li, D Hsu
+Publication: Proceedings of the SIGCHI conference on Human factors in computing systems …
+
+6. A general agnostic active learning algorithm
+Citations:250
+Authors: S Dasgupta, D Hsu, C Monteleoni
+Publication: Advances in neural information processing systems 20, 353-360
+
+7. Learning mixtures of spherical gaussians: moment methods and spectral decompositions
+Citations:248
+Authors: D Hsu, SM Kakade
+Publication: Proceedings of the 4th conference on Innovations in Theoretical Computer …
+
+8. A method of moments for mixture models and hidden Markov models
+Citations:246
+Authors: A Anandkumar, D Hsu, SM Kakade
+Publication: Conference on Learning Theory, 33.1-33.34
+
+9. A spectral algorithm for latent dirichlet allocation
+Citations:233
+Authors: A Anandkumar, Y Liu, D Hsu, DP Foster, SM Kakade
+Publication: Advances in Neural Information Processing Systems, 917-925
+
+10. Taming the monster: A fast and simple algorithm for contextual bandits
+Citations:207
+Authors: A Agarwal, D Hsu, S Kale, J Langford, L Li, RE Schapire
+Publication: Thirty-First International Conference on Machine Learning
+
+11. A tensor approach to learning mixed membership community models
+Citations:200
+Authors: A Anandkumar, R Ge, D Hsu, SM Kakade
+Publication: The Journal of Machine Learning Research 15 (1), 2239-2312
+
+12. Robust Matrix Decomposition with Sparse Corruptions
+Citations:197
+Authors: D Hsu, SM Kakade, T Zhang
+Publication: Information Theory, IEEE Transactions on, 1-1
+
+13. A tail inequality for quadratic forms of subgaussian random vectors
+Citations:188
+Authors: D Hsu, SM Kakade, T Zhang
+Publication: Arxiv preprint arXiv:1110.2842
+
+14. Efficient optimal learning for contextual bandits
+Citations:165
+Authors: M Dudik, D Hsu, S Kale, N Karampatziakis, J Langford, L Reyzin, T Zhang
+Publication: arXiv preprint arXiv:1106.2369
+
+15. Agnostic active learning without constraints
+Citations:139
+Authors: A Beygelzimer, D Hsu, J Langford, T Zhang
+Publication: Arxiv preprint arXiv:1006.2588
+
+16. Random design analysis of ridge regression
+Citations:108
+Authors: D Hsu, SM Kakade, T Zhang
+Publication: Conference on learning theory, 9.1-9.24
+
+17. A parameter-free hedging algorithm
+Citations:98
+Authors: K Chaudhuri, Y Freund, D Hsu
+Publication: Arxiv preprint arXiv:0903.2851
+
+18. Stochastic convex optimization with bandit feedback
+Citations:83
+Authors: A Agarwal, DP Foster, D Hsu, SM Kakade, A Rakhlin
+Publication: Advances in Neural Information Processing Systems, 1035-1043
+
+19. Two svds suffice: Spectral decompositions for probabilistic topic modeling and latent dirichlet allocation
+Citations:77
+Authors: A Anandkumar, SM Kakade, DP Foster, YK Liu, D Hsu
+Publication: 
+
+20. Sample complexity bounds for differentially private learning
+Citations:69
+Authors: K Chaudhuri, D Hsu
+Publication: COLT, LNCS, page To appear. Springer
+
+21. Loss minimization and parameter estimation with heavy tails
+Citations:65
+Authors: D Hsu, S Sabato
+Publication: The Journal of Machine Learning Research 17 (1), 543-582
+
+22. A different approach to sensor networking for SHM: Remote powering and interrogation with unmanned aerial vehicles
+Citations:65
+Authors: M Todd, D Mascarenas, E Flynn, T Rosing, B Lee, D Musiani, S Dasgupta, ...
+Publication: Proceedings of the 6th International workshop on Structural Health Monitoring
+
+23. Tail inequalities for sums of random matrices that depend on the intrinsic dimension
+Citations:61
+Authors: D Hsu, S Kakade, T Zhang
+Publication: Electronic Communications in Probability 17
+
+24. Contrastive learning using spectral methods
+Citations:54
+Authors: JY Zou, D Hsu, DC Parkes, RP Adams
+Publication: Advances in Neural Information Processing Systems, 2238-2246
+
+25. Learning linear bayesian networks with latent variables
+Citations:50
+Authors: A Anandkumar, D Hsu, A Javanmard, S Kakade
+Publication: International Conference on Machine Learning, 249-257
+
+26. Spectral Methods for Learning Multivariate Latent Tree Structure
+Citations:49
+Authors: A Anandkumar, K Chaudhuri, D Hsu, SM Kakade, L Song, T Zhang
+Publication: Arxiv preprint arXiv:1107.1283
+
+27. Global analysis of expectation maximization for mixtures of two Gaussians
+Citations:46
+Authors: J Xu, DJ Hsu, A Maleki
+Publication: Advances in Neural Information Processing Systems, 2676-2684
+
+28. Sunlight: Fine-grained targeting detection at scale with statistical confidence
+Citations:46
+Authors: M Lecuyer, R Spahn, Y Spiliopolous, A Chaintreau, R Geambasu, D Hsu
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+29. Model-based word embeddings from decompositions of count matrices
+Citations:46
+Authors: K Stratos, M Collins, D Hsu
+Publication: Proceedings of the 53rd Annual Meeting of the Association for Computational …
+
+30. Discovering unwarranted associations in data-driven applications with the fairtest testing toolkit
+Citations:44
+Authors: F Tramèr, V Atlidakis, R Geambasu, DJ Hsu, JP Hubaux, M Humbert, ...
+Publication: CoRR, abs/1510.02377
+
+31. Convergence rates for differentially private statistical estimation
+Citations:41
+Authors: K Chaudhuri, D Hsu
+Publication: Proceedings of the... International Conference on Machine Learning …
+
+32. A concentration theorem for projections
+Citations:41
+Authors: S Dasgupta, D Hsu, N Verma
+Publication: arXiv preprint arXiv:1206.6813
+
+33. When are overcomplete topic models identifiable? uniqueness of tensor Tucker decompositions with structured sparsity
+Citations:40
+Authors: A Anandkumar, D Hsu, M Janzamin, SM Kakade
+Publication: Advances in Neural Information Processing Systems, 1986-1994
+
+34. Algorithms for active learning
+Citations:36
+Authors: DJ Hsu
+Publication: UC San Diego
+
+35. Identifiability and unmixing of latent parse trees
+Citations:35
+Authors: PS Liang, D Hsu, SM Kakade
+Publication: Advances in neural information processing systems, 1511-1519
+
+36. Learning mixtures of tree graphical models
+Citations:34
+Authors: A Anandkumar, F Huang, D Hsu, SM Kakade
+Publication: Advances in Neural Information Processing Systems, 1052-1060
+
+37. Certified robustness to adversarial examples with differential privacy
+Citations:33
+Authors: M Lecuyer, V Atlidakis, R Geambasu, D Hsu, S Jana
+Publication: arXiv preprint arXiv:1802.03471
+
+38. Mixing time estimation in reversible Markov chains from a single sample path
+Citations:29
+Authors: D Hsu, A Kontorovich, C Szepesvári
+Publication: Advances in Neural Information Processing Systems, 1459-1467
+
+39. Parallel online learning
+Citations:27
+Authors: D Hsu, N Karampatziakis, J Langford, A Smola
+Publication: arXiv preprint arXiv:1103.4204
+
+40. Non-Gaussian information from weak lensing data via deep learning
+Citations:26
+Authors: A Gupta, JMZ Matilla, D Hsu, Z Haiman
+Publication: Physical Review D 97 (10), 103515
+
+41. Heavy-tailed regression with a generalized median-of-means
+Citations:26
+Authors: D Hsu, S Sabato
+Publication: International Conference on Machine Learning, 37-45
+
+42. The large margin mechanism for differentially private maximization
+Citations:26
+Authors: K Chaudhuri, D Hsu, S Song
+Publication: Advances in Neural Information Processing Systems, 1287-1295
+
+43. A Spectral Algorithm for Learning Class-Based n-gram Models of Natural Language.
+Citations:25
+Authors: K Stratos, D Kim, M Collins, DJ Hsu
+Publication: UAI, 762-771
+
+44. Reconciling modern machine-learning practice and the classical bias–variance trade-off
+Citations:22
+Authors: M Belkin, D Hsu, S Ma, S Mandal
+Publication: Proceedings of the National Academy of Sciences 116 (32), 15849-15854
+
+45. Unsupervised part-of-speech tagging with anchor hidden markov models
+Citations:22
+Authors: K Stratos, M Collins, D Hsu
+Publication: Transactions of the Association for Computational Linguistics 4, 245-257
+
+46. Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate
+Citations:21
+Authors: M Belkin, DJ Hsu, P Mitra
+Publication: Advances in Neural Information Processing Systems, 2300-2311
+
+47. Efficient and Parsimonious Agnostic Active Learning
+Citations:20
+Authors: TK Huang, A Agarwal, D Hsu, J Langford, RE Schapire
+Publication: Advances in Neural Information Processing Systems, 2755-2763
+
+48. Linear regression without correspondence
+Citations:18
+Authors: DJ Hsu, K Shi, X Sun
+Publication: Advances in Neural Information Processing Systems, 1531-1540
+
+49. Kernel ridge vs. principal component regression: Minimax bounds and the qualification of regularization operators
+Citations:17
+Authors: LH Dicker, DP Foster, D Hsu
+Publication: Electronic Journal of Statistics 11 (1), 1022-1047
+
+50. Successive rank-one approximations for nearly orthogonally decomposable symmetric tensors
+Citations:17
+Authors: C Mu, D Hsu, D Goldfarb
+Publication: SIAM Journal on Matrix Analysis and Applications 36 (4), 1638-1659
+
+51. Subregional nowcasts of seasonal influenza using search trends
+Citations:15
+Authors: S Kandula, D Hsu, J Shaman
+Publication: Journal of medical Internet research 19 (11), e370
+
+52. Do dark matter halos explain lensing peaks?
+Citations:14
+Authors: JMZ Matilla, Z Haiman, D Hsu, A Gupta, A Petri
+Publication: Physical Review D 94 (8), 083506
+
+53. Kernel Approximation Methods for Speech Recognition.
+Citations:12
+Authors: A May, AB Garakani, Z Lu, D Guo, K Liu, A Bellet, L Fan, M Collins, D Hsu, ...
+Publication: Journal of Machine Learning Research 20 (59), 1-36
+
+54. Efficient Active Learning
+Citations:12
+Authors: A Beygelzimer, D Hsu, N Karampatziakis, J Langford, T Zhang
+Publication: 
+
+55. On-line estimation with the multivariate Gaussian distribution
+Citations:11
+Authors: S Dasgupta, D Hsu
+Publication: International Conference on Computational Learning Theory, 278-292
+
+56. Leveraged volume sampling for linear regression
+Citations:10
+Authors: M Derezinski, MK Warmuth, DJ Hsu
+Publication: Advances in Neural Information Processing Systems, 2505-2514
+
+57. Two models of double descent for weak features
+Citations:9
+Authors: M Belkin, D Hsu, J Xu
+Publication: arXiv preprint arXiv:1903.07571
+
+58. Correcting the bias in least squares regression with volume-rescaled sampling
+Citations:9
+Authors: M Dereziński, MK Warmuth, D Hsu
+Publication: arXiv preprint arXiv:1810.02453
+
+59. Learning topic models and latent Bayesian networks under expansion constraints
+Citations:9
+Authors: A Anandkumar, D Hsu, A Javanmard, SM Kakade
+Publication: arXiv preprint arXiv:1209.5350
+
+60. An online learning-based framework for tracking
+Citations:9
+Authors: K Chaudhuri, Y Freund, D Hsu
+Publication: arXiv preprint arXiv:1203.3471
+
+61. Discovering foodborne illness in online restaurant reviews
+Citations:7
+Authors: T Effland, A Lawson, S Balter, K Devinney, V Reddy, HN Waechter, ...
+Publication: Journal of the American Medical Informatics Association 25 (12), 1586-1592
+
+62. Information extraction from social media for public health
+Citations:7
+Authors: N Elhadad, L Gravano, D Hsu, S Balter, V Reddy, H Waechter
+Publication: KDD at Bloomberg Workshop, Data Frameworks Track (KDD 2014)
+
+63. Learning high-dimensional mixtures of graphical models
+Citations:7
+Authors: A Anandkumar, D Hsu, F Huang, SM Kakade
+Publication: arXiv preprint arXiv:1203.0697
+
+64. Method of moments learning for left-to-right hidden Markov models
+Citations:6
+Authors: YC Subakan, J Traa, P Smaragdis, D Hsu
+Publication: 2015 IEEE workshop on applications of signal processing to audio and …
+
+65. Benefits of over-parameterization with EM
+Citations:5
+Authors: J Xu, DJ Hsu, A Maleki
+Publication: Advances in Neural Information Processing Systems, 10662-10672
+
+66. Greedy bi-criteria approximations for -medians and -means
+Citations:5
+Authors: D Hsu, M Telgarsky
+Publication: arXiv preprint arXiv:1607.06203
+
+67. A new hedging algorithm and its application to inferring latent random variables
+Citations:5
+Authors: Y Freund, D Hsu
+Publication: arXiv preprint arXiv:0806.4802
+
+68. Greedy approaches to symmetric orthogonal tensor decomposition
+Citations:4
+Authors: C Mu, D Hsu, D Goldfarb
+Publication: SIAM Journal on Matrix Analysis and Applications 38 (4), 1210-1226
+
+69. Compact kernel models for acoustic modeling via random feature selection
+Citations:4
+Authors: A May, M Collins, D Hsu, B Kingsbury
+Publication: 2016 IEEE International Conference on Acoustics, Speech and Signal …
+
+70. Tracking using explanation-based modeling
+Citations:4
+Authors: K Chaudhuri, Y Freund, D Hsu
+Publication: arXiv preprint arXiv:0903.2862
+
+71. Tensor decompositions for learning latent variable models (A survey for ALT)
+Citations:4
+Authors: A Anandkumar, R Ge, DJ Hsu, SM Kakade, M Telgarsky
+Publication: International Conference on Algorithmic Learning Theory, 19-38
+
+72. Correspondence retrieval
+Citations:3
+Authors: A Andoni, D Hsu, K Shi, X Sun
+Publication: Conference on Learning Theory, 105-126
+
+73. Scalable non-linear learning with adaptive polynomial expansions
+Citations:3
+Authors: A Agarwal, A Beygelzimer, D Hsu, J Langford, MJ Telgarsky
+Publication: Advances in Neural Information Processing Systems, 2051-2059
+
+74. Analysis of a randomized approximation scheme for matrix multiplication
+Citations:3
+Authors: D Hsu, SM Kakade, T Zhang
+Publication: arXiv preprint arXiv:1211.5414
+
+75. Human-Centered Interactive Clustering for Data Analysis
+Citations:3
+Authors: J Chuang, D Hsu
+Publication: 
+
+76. Consistent risk estimation in high-dimensional linear regression
+Citations:2
+Authors: J Xu, A Maleki, KR Rad, D Hsu
+Publication: arXiv preprint arXiv:1902.01753
+
+77. Evaluating Twitter for Foodborne Illness Outbreak Detection in New York City
+Citations:2
+Authors: K Devinney, A Bekbay, T Effland, L Gravano, D Howell, D Hsu, ...
+Publication: Online Journal of Public Health Informatics 10 (1)
+
+78. Parameter identification in Markov chain choice models
+Citations:2
+Authors: A Gupta, D Hsu
+Publication: arXiv preprint arXiv:1706.00729
+
+79. Learning sparse low-threshold linear classifiers.
+Citations:2
+Authors: S Sabato, S Shalev-Shwartz, N Srebro, DJ Hsu, T Zhang
+Publication: Journal of Machine Learning Research 16, 1275-1304
+
+80. Training Neural Networks for Aspect Extraction Using Descriptive Keywords Only
+Citations:1
+Authors: G Karamanolakis, D Hsu, L Gravano
+Publication: 
+
+81. Tail bounds for volume sampled linear regression
+Citations:1
+Authors: M Derezinski, MK Warmuth, D Hsu
+Publication: arXiv preprint arXiv:1802.06749
+
+82. Weighted sampling of outer products
+Citations:1
+Authors: D Hsu
+Publication: arXiv preprint arXiv:1410.4429
+
+83. Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training
+Citations:
+Authors: G Karamanolakis, D Hsu, L Gravano
+Publication: arXiv preprint arXiv:1909.00415
+
+84. Privacy accounting and quality control in the sage differentially private ml platform
+Citations:
+Authors: M Lecuyer, R Spahn, K Vodrahalli, R Geambasu, D Hsu
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 75-84
+
+85. Unbiased estimators for random design regression
+Citations:
+Authors: M Dereziński, MK Warmuth, D Hsu
+Publication: arXiv preprint arXiv:1907.03411
+
+86. Using a machine learning approach to determine the space group of a structure from the atomic pair distribution function
+Citations:
+Authors: CH Liu, Y Tao, D Hsu, Q Du, SJL Billinge
+Publication: Acta Crystallographica Section A: Foundations and Advances 75 (4)
+
+87. Conference on Learning Theory 2019: Preface
+Citations:
+Authors: A Beygelzimer, D Hsu
+Publication: Conference on Learning Theory, 1-2
+
+88. A gradual, semi-discrete approach to generative network training via explicit Wasserstein minimization
+Citations:
+Authors: Y Chen, M Telgarsky, C Zhang, B Bailey, D Hsu, J Peng
+Publication: arXiv preprint arXiv:1906.03471
+
+89. A cryptographic approach to black box adversarial machine learning
+Citations:
+Authors: K Shi, D Hsu, A Bishop
+Publication: arXiv preprint arXiv:1906.03231
+
+90. Diameter-based Interactive Structure Search
+Citations:
+Authors: C Tosh, D Hsu
+Publication: arXiv preprint arXiv:1906.02101
+
+91. How many variables should be entered in a principal component regression equation?
+Citations:
+Authors: J Xu, D Hsu
+Publication: arXiv preprint arXiv:1906.01139
+
+92. Teaching a black-box learner
+Citations:
+Authors: S Dasgupta, D Hsu, S Poulis, X Zhu
+Publication: International Conference on Machine Learning, 1547-1555
+
+93. Attribute-efficient learning of monomials over highly-correlated variables
+Citations:
+Authors: A Andoni, R Dudeja, D Hsu, K Vodrahalli
+Publication: Algorithmic Learning Theory, 127-161
+
+94. Weak lensing cosmology with convolutional neural networks on noisy data
+Citations:
+Authors: D Ribli, BÁ Pataki, JMZ Matilla, D Hsu, Z Haiman, I Csabai
+Publication: arXiv preprint arXiv:1902.03663
+
+95. Non-Gaussian information from weak lensing data via deep learning
+Citations:
+Authors: JM Zorrilla Matilla, A Gupta, D Hsu, Z Haiman
+Publication: American Astronomical Society Meeting Abstracts# 233 233
+
+96. Learning Single-Index Models in Gaussian Space
+Citations:
+Authors: R Dudeja, D Hsu
+Publication: Conference On Learning Theory, 1887-1930
+
+97. Notes for COMS 6998-4 Fall 2017
+Citations:
+Authors: D Hsu
+Publication: 
+
+98. Coding with asymmetric prior knowledge
+Citations:
+Authors: A Andoni, J Ghaderi, D Hsu, D Rubenstein, O Weinstein
+Publication: arXiv preprint arXiv:1707.04875
+
+99. AI's 10 to Watch
+Citations:
+Authors: H Aziz, E Bareinboim, Y Choi, D Hsu, S Kalyanakrishnan, R Meir, S Saria, ...
+Publication: IEEE Intelligent Systems 31 (1), 56-66
+
+100. Algorithms for Machine Learning
+Citations:
+Authors: D Hsu
+Publication: IEEE INTELLIGENT SYSTEMS 31 (1), 60-60
+
+101. Tensor Decompositions for Learning Latent Variable Models A. Anandkumar, R. Ge, D. Hsu, SM Kakade, M. Telgarsky
+Citations:
+Authors: D Hsu
+Publication: 
+
+102. Parallel Online Learning
+Citations:
+Authors: AJ Smola
+Publication: Scaling up Machine Learning: Parallel and Distributed Approaches
+
+103. Note on Exact Reconstruction Principle and Linear Programming Duality
+Citations:
+Authors: D Hsu
+Publication: 
+
+104. A note on the label complexity of the Cohn-Atlas-Ladner selective sampling method
+Citations:
+Authors: D Hsu
+Publication: 
+
+105. Dimensionality reduction for supervised learning
+Citations:
+Authors: D Hsu
+Publication: 
+
+106. FairTest
+Citations:
+Authors: F Tramèr, V Atlidakis, R Geambasu, D Hsu, JP Hubaux, M Humbert, ...
+Publication: 
+
+107. Leveraged volume sampling for linear regression
+Citations:
+Authors: D Hsu
+Publication: 
+
+108. Random linear maps
+Citations:
+Authors: D Hsu
+Publication: 
+
+109. COMS 4721: Review of prerequisites
+Citations:
+Authors: D Hsu
+Publication: 
+
+110. Higher-order moments and tensors
+Citations:
+Authors: D Hsu
+Publication: 
+
+111. High-dimensional Gaussians
+Citations:
+Authors: D Hsu
+Publication: 
+
+112. Decompositions of moment tensors
+Citations:
+Authors: D Hsu
+Publication: 
+
+113. A Spectral Algorithm for Latent Dirichlet Allocation
+Citations:
+Authors: AADP Foster, D Hsu, SMKYK Liu, LDA Simplified
+Publication: 
+
+114. CUCS Welcomes Two New Faculty
+Citations:
+Authors: D Hsu, A Lewko
+Publication: 
+
+115. Active Learning via Reduction To Supervised Classification
+Citations:
+Authors: A Beygelzimer, S Dasgupta, D Hsu, N Karampatziakis, T Zhang
+Publication: 
+
+116. Kernel methods and regularization techniques for nonparametric regression: Minimax optimality and adaptation
+Citations:
+Authors: LHDDP Foster, D Hsu
+Publication: 
+
+117. Learning the Nature of Dark Energy from Weak Gravitational Lensing with Computer Vision and Machine Learning
+Citations:
+Authors: Z Haiman, JEG Peek, D Hsu, SK Nayar
+Publication: 
+
+118. SPECIAL ISSUE ARTICLES:“LEARNING THEORY 2009” 1403 Editor’s foreword
+Citations:
+Authors: A Rakhlin, N Cesa-Bianchi, G Lugosi, AS Dalalyan, AB Tsybakov, ...
+Publication: 
+
+119. Learning Mixtures of Tree Graphical Models
+Citations:
+Authors: D Hsu, A Anandkumar, F Huang, SM Kakade
+Publication: 
+
+120. Identiﬁability and Unmixing of Latent Parse Trees
+Citations:
+Authors: D Hsu, SM Kakade, P Liang
+Publication: Topology (z) 1 (x1), z13
+
+121. SPARSE SIGNAL RECOVERY
+Citations:
+Authors: D Hsu, SM Kakade, T Zhang, EJ Candès, Y Plan, M Wang, W Xu, A Tang, ...
+Publication: 
+
+122. Active Learning with an ERM Oracle
+Citations:
+Authors: A Beygelzimer, D Hsu, J Langford, T Zhang
+Publication: 
+

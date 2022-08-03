@@ -1,0 +1,220 @@
+
+14. SnowFlock: rapid virtual machine cloning for cloud computing
+Citations:478
+Authors: HA Lagar-Cavilla, JA Whitney, AM Scannell, P Patchin, SM Rumble, ...
+Publication: Proceedings of the 4th ACM European conference on Computer systems, 1-12
+
+37. A boosting framework for visuality-preserving distance metric learning and its application to medical image retrieval
+Citations:194
+Authors: L Yang, R Jin, L Mummert, R Sukthankar, A Goode, B Zheng, SCH Hoi, ...
+Publication: IEEE transactions on pattern analysis and machine intelligence 32 (1), 30-44
+
+70. Jettison: Efficient idle desktop consolidation with partial VM migration
+Citations:86
+Authors: N Bila, E de Lara, K Joshi, HA Lagar-Cavilla, M Hiltunen, ...
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 211-224
+
+75. Snowflock: Virtual machine cloning as a first-class cloud primitive
+Citations:82
+Authors: HA Lagar-Cavilla, JA Whitney, R Bryant, P Patchin, M Brudno, E de Lara, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (1), 2
+
+93. An empirical study of latency in an emerging class of edge computing applications for wearable cognitive assistance
+Citations:53
+Authors: Z Chen, W Hu, J Wang, S Zhao, B Amos, G Wu, K Ha, K Elgazzar, P Pillai, ...
+Publication: Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 14
+
+98. Computer-aided classification of melanocytic lesions using dermoscopic images
+Citations:48
+Authors: LK Ferris, JA Harkes, B Gilbert, DG Winger, K Golubets, O Akilov, ...
+Publication: Journal of the American Academy of Dermatology 73 (5), 769-776
+
+107. Early implementation experience with wearable cognitive assistance applications
+Citations:41
+Authors: Z Chen, L Jiang, W Hu, K Ha, B Amos, P Pillai, A Hauptmann, ...
+Publication: Proceedings of the 2015 workshop on Wearable Systems and Applications, 33-38
+
+114. You can teach elephants to dance: agile vm handoff for edge computing
+Citations:34
+Authors: K Ha, Y Abe, T Eiszler, Z Chen, W Hu, B Amos, R Upadhyaya, P Pillai, ...
+Publication: Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 12
+
+121. The Case for Offload Shaping.
+Citations:29
+Authors: W Hu, B Amos, Z Chen, K Ha, W Richter, P Pillai, B Gilbert, J Harkes, ...
+Publication: HotMobile, 51-56
+
+126. Simplifying cyber foraging
+Citations:26
+Authors: RK Balan
+Publication: School of Computer Science, Carnegie Mellon University
+
+137. Energy-oriented partial desktop virtual machine migration
+Citations:21
+Authors: N Bila, EJ Wright, ED Lara, K Joshi, HA Lagar-Cavilla, E Park, A Goel, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (1), 2
+
+138. Should we dual-purpose energy storage in datacenters for power backup and demand response?
+Citations:21
+Authors: L Narayanan, D Wang, AA Mamun, A Sivasubramaniam, HK Fathy
+Publication: 6th Workshop on Power-Aware Computing and Systems (HotPower 14)
+
+155. Bandwidth-efficient live video analytics for drones via edge computing
+Citations:16
+Authors: J Wang, Z Feng, Z Chen, S George, M Bala, P Pillai, SW Yang, ...
+Publication: 2018 IEEE/ACM Symposium on Edge Computing (SEC), 159-173
+
+156. The Case for Energy-Oriented Partial Desktop Migration.
+Citations:16
+Authors: N Bila, E De Lara, MA Hiltunen, KR Joshi, HA Lagar-Cavilla, ...
+Publication: HotCloud
+
+163. Privacy-Sensitive VM Retrospection.
+Citations:15
+Authors: W Richter, G Ammons, J Harkes, A Goode, N Bila, E De Lara, V Bala, ...
+Publication: HotCloud, 10-10
+
+170. QuiltView: a crowd-sourced video response system
+Citations:13
+Authors: Z Chen, W Hu, K Ha, J Harkes, B Gilbert, J Hong, A Smailagic, ...
+Publication: Proceedings of the 15th Workshop on Mobile Computing Systems and …
+
+175. A Synthetic Driver for File System Simulations
+Citations:13
+Authors: M Satyattarayanan
+Publication: 
+
+180. Standing together for reproducibility in large-scale computing: Report on reproducibility@ XSEDE
+Citations:11
+Authors: D James, N Wilkins-Diehr, V Stodden, D Colbry, C Rosales, M Fahey, ...
+Publication: arXiv preprint arXiv:1412.5557
+
+182. Distributed online anomaly detection in high-content screening
+Citations:11
+Authors: A Goode, R Sukthankar, L Mummert, M Chen, J Saltzman, D Ross, ...
+Publication: 2008 5th IEEE International Symposium on Biomedical Imaging: From Nano to …
+
+187. Impromptu clusters for near-interactive cloud-based services
+Citations:9
+Authors: HA Lagar-Cavilla, J Whitney, A Scannell, SM Rumble, E De Lara, ...
+Publication: 
+
+198. Cloud computing at the tactical edge
+Citations:7
+Authors: S Simanta, GA Lewis, E Morris, K Ha, M Stayanarayanan
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST
+
+199. The case for context-aware compression
+Citations:7
+Authors: X Bao, T Narayan, AA Sani, W Richter, RR Choudhury, L Zhong, ...
+Publication: Proceedings of the 12th Workshop on Mobile Computing Systems and …
+
+201. Interactive search of adipocytes in large collections of digital cellular images
+Citations:7
+Authors: A Goode, M Chen, A Tarachandani, L Mummert, R Sukthankar, C Helfrich, ...
+Publication: 2007 IEEE International Conference on Multimedia and Expo, 695-698
+
+219. First Workshop on Human-Computer Interaction with Mobile Devices’
+Citations:5
+Authors: C Johnsons
+Publication: GIST Technical Report G98-1.(http://www. dcs. gla. ac. uk/~ johnson/papers …
+
+221. Strategic directions in storage I
+Citations:5
+Authors: GA Gibson, JS Vitter, J Wilkes, A CHOUDHARY, P CORBETT, ...
+Publication: ACM computing surveys 28 (4), 779-793
+
+228. Democratizing the Network Edge
+Citations:3
+Authors: L Peterson, T Anderson, S Katti, N McKeown, G Parulkar, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 49 (2), 31-36
+
+250. CALL
+Citations:1
+Authors: CAL Letter
+Publication: 
+
+252. The manna plug-in architecture for content-based search of vm clouds
+Citations:1
+Authors: W Richter, G Ammons, J Harkes, A Goode, N Bila, E De Lara, ...
+Publication: Technical Report CMUCS-10-111, Carnegie Mellon University, August 2010. URL …
+
+257. Adaptation: This Won't Hurt a Bit!
+Citations:1
+Authors: RK Balan, JP Sousa, T Okoshi, J Flinn, D Narayanan, T Matsutsuka, ...
+Publication: 
+
+270. Edge-based Live Video Analytics for Drones
+Citations:
+Authors: J Wang, Z Feng, Z Chen, S George, M Bala, P Pillai, SW Yang, ...
+Publication: IEEE Internet Computing
+
+279. A contact sheet approach to searching untagged images on smartphones
+Citations:
+Authors: W Richter, K Ha, A Shankar, AA Sani, J Harkes, L Zhong, ...
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 16 (4), 12-13
+
+287. Overview of the TPC benchmark C: The order-entry benchmark.
+Citations:
+Authors: W Li, G Wang, X Wang, S Li, D Agrawal, D Ganesan, R Sitaraman, Y Diao, ...
+Publication: Information Technology Journal 12 (1), 361-372
+
+296. Announcement & Call For Papers
+Citations:
+Authors: KG Shin, V Bahl, D Kotz, B Noble, T Abdelzaher, W Arbaugh, ...
+Publication: Workshop proposals due: November 1 (2004)
+
+341. Ning, Zhenyu 421 Olguín Muñoz, Manuel Osvaldo Jesús 323 Osmani, Lirim 326 Owusu, Emmanuel 378
+Citations:
+Authors: R Padidela, E Lagerspetz, D Lee, Y Lee, C Li, D Li, Q Li, R Li, Y Li, Y Li, ...
+Publication: 
+
+344. usenix conference policies
+Citations:
+Authors: H Lavana, F Brglez
+Publication: 
+
+348. AKELLA, Aditya CMU-CS-16-117 ALDRICH, Jonathan CMU-CS-16-103 AMOS, Brandon CMU-CS-16-118 BEN-DAVID, Naama CMU-CS-16-133
+Citations:
+Authors: DS BERGER, A BEUTEL, L CAIRES, JP DICKERSON, K GARDNER, ...
+Publication: 
+
+351. Scale and Performance in a Scale and Performance in a Distributed Distributed Scae adeoa ce a Scae adeoa ce a st buted File System
+Citations:
+Authors: JH HOWARD, ML KAZAR, SG MENEES, DA NICHOLS, ...
+Publication: 
+
+352. IoTDI 2016
+Citations:
+Authors: KE Arzen, K Birman, M Ceriotti, RR Choudhury, G Fortino, M Gruteser, ...
+Publication: 
+
+353. HARCHOL-BALTER, Mor CMU-CS-15-141, CMU-CS-15-141R HARKES, Jan CMU-CS-15-115 HAUPTMANN, Alex CMU-CS-15-103 HE, Wangzi CMU-CS-15-129
+Citations:
+Authors: W HU, L JIANG, K JOSHI, A KARANDIKAR, SD KLEE, A KOMURAVELLI, ...
+Publication: 
+
+355. HARCHOL-BALTER, Mor CMU-CS-14-143, CMU-CS-14-143R HARKES, Jan CMU-CS-14-115 HYDE, Jennifer CMU-CS-14-131 HYYTI&AUML;, Esa, Mor CMU-CS-14-143, CMU-CS-14-143R
+Citations:
+Authors: JB JEANNIN, A KLEIN, W KLIEBER, S KONG, Y KOUSKOULAS, ...
+Publication: 
+
+360. IEEE Fellows Lead the Engineering Profession
+Citations:
+Authors: GA Agha, HI Babic, S Basu, WF Beausoleil, E Bertino, P Bhattacharya, ...
+Publication: 
+
+363. HotOS-VII General Chair
+Citations:
+Authors: P Druschel
+Publication: 
+
+364. Scalability, Usability and Applicability of Massive File System Directories
+Citations:
+Authors: SV Patil, G Gibson, WJ Bolosky, C Faloutsos, GR Ganger, ...
+Publication: 
+
+368. University of Toronto–Department of Computer Science Technical Report CSRG-TR578 Impromptu Clusters for Near-Interactive Cloud-Based Services
+Citations:
+Authors: HA Lagar-Cavilla, J Whitney, A Scannell, SM Rumble, E de Lara, ...
+Publication: 

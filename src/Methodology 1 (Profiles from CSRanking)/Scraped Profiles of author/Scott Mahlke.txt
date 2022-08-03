@@ -1,0 +1,1673 @@
+https://scholar.google.com/citations?hl=en&user=-XpZ4fgAAAAJ
+Total Citations = 15839
+
+1. E ective compiler support for predicated execution using the hyperblock
+Citations:817
+Authors: SAMDC Lin, WYCRE Hank, RA Bringmann
+Publication: 
+
+2. The superblock: an effective technique for VLIW and superscalar compilation
+Citations:798
+Authors: WMW Hwu, SA Mahlke, WY Chen, PP Chang, NJ Warter, RA Bringmann, ...
+Publication: Instruction-Level Parallelism, 229-248
+
+3. IMPACT: An architectural framework for multiple-instruction-issue processors
+Citations:458
+Authors: PP Chang, SA Mahlke, WY Chen, NJ Warter, WW Hwu
+Publication: Coordinated Science Laboratory Report no. UILU-ENG-91-2208, CRHC-91-4
+
+4. {COMET}: Code Offload by Migrating Execution Transparently
+Citations:372
+Authors: MS Gordon, DA Jamshidi, S Mahlke, ZM Mao, X Chen
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+5. Using profile information to assist classic code optimizations
+Citations:301
+Authors: PP Chang, SA Mahlke, WMW Hwu
+Publication: Software: Practice and Experience 21 (12), 1301-1321
+
+6. Soda: A low-power architecture for software radio
+Citations:289
+Authors: Y Lin, H Lee, M Woh, Y Harel, S Mahlke, S Mahlke, T Mudge, T Mudge, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 89-101
+
+7. Processor acceleration through automated instruction set customization
+Citations:263
+Authors: N Clark, H Zhong, S Mahlke
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+8. Shoestring: probabilistic soft error reliability on the cheap
+Citations:236
+Authors: S Feng, S Gupta, A Ansari, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 385-396
+
+9. Orchestrating the execution of stream programs on multicore platforms
+Citations:235
+Authors: M Kudlur, S Mahlke
+Publication: ACM SIGPLAN Notices 43 (6), 114-124
+
+10. A comparison of full and partial predicated execution support for ILP processors
+Citations:232
+Authors: SA Mahlke, RE Hank, JE McCormick, DI August, WMW Hwu
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 138-150
+
+11. Sage: Self-tuning approximation for graphics engines
+Citations:217
+Authors: M Samadi, J Lee, DA Jamshidi, A Hormati, S Mahlke
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+12. BulletProof: A defect-tolerant CMP switch architecture
+Citations:207
+Authors: K Constantinides, S Plaza, J Blome, B Zhang, V Bertacco, S Mahlke, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+13. Profile‐guided automatic inline expansion for C programs
+Citations:203
+Authors: PP Chang, SA Mahlke, WY Chen, WMW Hwu
+Publication: Software: Practice and Experience 22 (5), 349-369
+
+14. Application-specific processing on a general-purpose core via transparent instruction set customization
+Citations:194
+Authors: N Clark, M Kudlur, H Park, S Mahlke, K Flautner
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+15. Edge-centric modulo scheduling for coarse-grained reconfigurable architectures
+Citations:182
+Authors: H Park, K Fan, SA Mahlke, T Oh, H Kim, H Kim
+Publication: Proceedings of the 17th international conference on Parallel architectures …
+
+16. Dynamic memory disambiguation using the memory conflict buffer
+Citations:182
+Authors: DM Gallagher, WY Chen, SA Mahlke, JC Gyllenhaal, WW Hwu
+Publication: ACM SIGPLAN Notices 29 (11), 183-193
+
+17. An architecture framework for transparent instruction set customization in embedded processors
+Citations:176
+Authors: N Clark, J Blome, M Chu, S Mahlke, S Biles, K Flautner
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 272-283
+
+18. Integrated predicated and speculative execution in the IMPACT EPIC architecture
+Citations:176
+Authors: DI August, DA Connors, SA Mahlke, JW Sias, KM Crozier, BC Cheng, ...
+Publication: ACM SIGARCH Computer Architecture News 26 (3), 227-237
+
+19. Reliable systems on unreliable fabrics
+Citations:174
+Authors: T Austin, V Bertacco, S Mahlke, Y Cao
+Publication: IEEE Design & Test of Computers 25 (4), 322-332
+
+20. PICO-NPA: High-level synthesis of nonprogrammable hardware accelerators
+Citations:165
+Authors: R Schreiber, S Aditya, S Mahlke, V Kathail, BR Rau, D Cronquist, ...
+Publication: Journal of VLSI signal processing systems for signal, image and video …
+
+21. Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs.
+Citations:164
+Authors: Y Wang, T Kelly, M Kudlur, S Lafortune, SA Mahlke
+Publication: OSDI 8, 281-294
+
+22. Composite cores: Pushing heterogeneity into a core
+Citations:163
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, R Dreslinski, ...
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 317-328
+
+23. Sentinel scheduling for VLIW and superscalar processors
+Citations:159
+Authors: SA Mahlke, WY Chen, WMW Hwu, BR Rau, MS Schlansker
+Publication: ACM SIGPLAN Notices 27 (9), 238-247
+
+24. Paraprox: Pattern-based approximation for data parallel applications
+Citations:158
+Authors: M Samadi, DA Jamshidi, J Lee, S Mahlke
+Publication: ACM SIGPLAN Notices 49 (4), 35-50
+
+25. Characterizing the impact of predicated execution on branch prediction
+Citations:152
+Authors: SA Mahlke, RE Hank, RA Bringmann, JC Gyllenhaal, DM Gallagher, ...
+Publication: Proceedings of the 27th annual international symposium on Microarchitecture …
+
+26. A framework for balancing control flow and predication
+Citations:138
+Authors: DI August, WW Hwu, SA Mahlke
+Publication: Proceedings of the 30th annual ACM/IEEE international symposium on …
+
+27. Automated custom instruction generation for domain-specific processor acceleration
+Citations:130
+Authors: NT Clark, H Zhong, SA Mahlke
+Publication: IEEE Transactions on Computers 54 (10), 1258-1270
+
+28. High-level synthesis of nonprogrammable hardware accelerators
+Citations:130
+Authors: R Schreiber, S Aditya, BR Rau, V Kathail, S Mahlke, S Abraham, G Snider
+Publication: Proceedings IEEE International Conference on Application-Specific Systems …
+
+29. Extending multicore architectures to exploit hybrid parallelism in single-thread applications
+Citations:129
+Authors: H Zhong, SA Lieberman, SA Mahlke
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+30. The theory of deadlock avoidance via discrete control
+Citations:128
+Authors: Y Wang, S Lafortune, T Kelly, M Kudlur, S Mahlke
+Publication: ACM SIGPLAN Notices 44 (1), 252-263
+
+31. Bitwidth cognizant architecture synthesis of custom hardware accelerators
+Citations:127
+Authors: S Mahlke, R Ravindran, M Schlansker, R Schreiber, T Sherwood
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+32. Data access microarchitectures for superscalar processors with compiler-assisted data prefetching
+Citations:127
+Authors: WY Chen, SA Mahlke, PP Chang, WW Hwu
+Publication: MICRO 24, 69-73
+
+33. Reverse if-conversion
+Citations:126
+Authors: NJ Warter, SA Mahlke, WMW Hwu, BR Rau
+Publication: ACM SIGPLAN Notices 28 (6), 290-299
+
+34. Veal: Virtualized execution accelerator for loops
+Citations:124
+Authors: N Clark, A Hormati, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 389-400
+
+35. Parallelizing sequential applications on commodity hardware using a low-cost software transactional memory
+Citations:120
+Authors: M Mehrara, J Hao, PC Hsu, S Mahlke
+Publication: ACM Sigplan Notices 44 (6), 166-176
+
+36. Uncovering hidden loop level parallelism in sequential applications
+Citations:119
+Authors: H Zhong, M Mehrara, S Lieberman, S Mahlke
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+37. Transparent CPU-GPU collaboration for data-parallel kernels on heterogeneous systems
+Citations:116
+Authors: J Lee, M Samadi, Y Park, S Mahlke
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+38. Sentinel scheduling: a model for compiler-controlled speculative execution
+Citations:116
+Authors: SA Mahlke, WY Chen, RA Bringmann, RE Hank, WMW Hwu, BR Rau, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 11 (4), 376-408
+
+39. Compiler technology for future microprocessors
+Citations:115
+Authors: WMW Hwu, RE Hank, DM Gallagher, SA Mahlke, DM Lavery, GE Haab, ...
+Publication: Proceedings of the IEEE 83 (12), 1625-1640
+
+40. Flextream: Adaptive compilation of streaming applications for heterogeneous architectures
+Citations:112
+Authors: AH Hormati, Y Choi, M Kudlur, R Rabbah, T Mudge, S Mahlke
+Publication: 2009 18th International Conference on Parallel Architectures and Compilation …
+
+41. From SODA to scotch: The evolution of a wireless baseband processor
+Citations:110
+Authors: M Woh, Y Lin, S Seo, S Mahlke, T Mudge, C Chakrabarti, R Bruce, ...
+Publication: 2008 41st IEEE/ACM International Symposium on Microarchitecture, 152-163
+
+42. Scalpel: Customizing dnn pruning to the underlying hardware parallelism
+Citations:107
+Authors: J Yu, A Lukefahr, D Palframan, G Dasika, R Das, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 548-560
+
+43. Bundled execution of recurring traces for energy-efficient general purpose processing
+Citations:107
+Authors: S Gupta, S Feng, A Ansari, S Mahlke, D August
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+44. SODA: A high-performance DSP architecture for software-defined radio
+Citations:106
+Authors: Y Lin, H Lee, M Woh, Y Harel, S Mahlke, T Mudge, C Chakrabarti, ...
+Publication: IEEE micro 27 (1), 114-123
+
+45. Polymorphic pipeline array: a flexible multicore accelerator with virtualized execution for mobile multimedia applications
+Citations:105
+Authors: H Park, Y Park, S Mahlke
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+46. Self-calibrating online wearout detection
+Citations:105
+Authors: J Blome, S Feng, S Gupta, S Mahlke
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+47. AnySP: anytime anywhere anyway signal processing
+Citations:104
+Authors: M Woh, S Seo, S Mahlke, T Mudge, C Chakrabarti, K Flautner
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 128-139
+
+48. Automated design of processor systems using feedback from internal measurements of candidate systems
+Citations:104
+Authors: MS Schlansker, VK Kathail, G Snider, SA Gupta, SA Mahlke, S Abraham
+Publication: US Patent 6,408,428
+
+49. Superblock formation using static program analysis
+Citations:103
+Authors: RE Hank, SA Mahlke, RA Bringmann, JC Gyllenhaal, WH Wen-mei
+Publication: Proceedings of the 26th annual international symposium on Microarchitecture …
+
+50. Sponge: portable stream programming on graphics engines
+Citations:102
+Authors: AH Hormati, M Samadi, M Woh, T Mudge, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 381-392
+
+51. Memory-centric system interconnect design with hybrid memory cubes
+Citations:101
+Authors: G Kim, J Kim, JH Ahn, J Kim
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+52. Trimaran: An infrastructure for research in instruction-level parallelism
+Citations:100
+Authors: LN Chakrapani, J Gyllenhaal, WH Wen-mei, SA Mahlke, KV Palem, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 32-41
+
+53. Chimera: Collaborative preemption for multitasking on a shared GPU
+Citations:99
+Authors: JJK Park, Y Park, S Mahlke
+Publication: ACM SIGPLAN Notices 50 (4), 593-606
+
+54. Rumba: An online quality management system for approximate computing
+Citations:93
+Authors: DS Khudia, B Zamirai, M Samadi, S Mahlke
+Publication: 2015 ACM/IEEE 42nd Annual International Symposium on Computer Architecture …
+
+55. Synthetic dynamic branch prediction
+Citations:92
+Authors: BK Natarjan, SA Mahlke
+Publication: US Patent 5,857,104
+
+56. Zerehcache: Armoring cache architectures in high defect density technologies
+Citations:91
+Authors: A Ansari, S Gupta, S Feng, S Mahlke
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+57. Cost-efficient soft error protection for embedded microprocessors
+Citations:91
+Authors: JA Blome, S Gupta, S Feng, S Mahlke
+Publication: Proceedings of the 2006 international conference on Compilers, architecture …
+
+58. Region-based hierarchical operation partitioning for multicluster processors
+Citations:91
+Authors: M Chu, K Fan, S Mahlke
+Publication: ACM SIGPLAN Notices 38 (5), 300-311
+
+59. Exploiting instruction level parallelism in the presence of conditional branches
+Citations:89
+Authors: SA Mahlke
+Publication: University of Illinois at Urbana-Champaign
+
+60. The stagenet fabric for constructing resilient multicore systems
+Citations:88
+Authors: S Gupta, S Feng, A Ansari, J Blome, S Mahlke
+Publication: 2008 41st IEEE/ACM International Symposium on Microarchitecture, 141-151
+
+61. Translation of SIMD instructions in a data processing system
+Citations:83
+Authors: S Yehia, K Flautner, N Clark, A Hormati, S Mahlke
+Publication: US Patent 8,505,002
+
+62. Bridging the computation gap between programmable processors and hardwired accelerators
+Citations:82
+Authors: K Fan, M Kudlur, G Dasika, S Mahlke
+Publication: 2009 IEEE 15th International Symposium on High Performance Computer …
+
+63. The importance of prepass code scheduling for superscalar and superpipelined processors
+Citations:80
+Authors: PP Chang, DM Lavery, SA Mahlke, WY Chen, WMW Hwu
+Publication: IEEE Transactions on Computers 44 (3), 353-370
+
+64. Optimus: efficient realization of streaming applications on FPGAs
+Citations:77
+Authors: A Hormati, M Kudlur, S Mahlke, D Bacon, R Rabbah
+Publication: Proceedings of the 2008 international conference on Compilers, architectures …
+
+65. Archipelago: A polymorphic cache design for enabling robust near-threshold operation
+Citations:76
+Authors: A Ansari, S Feng, S Gupta, S Mahlke
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+66. Modulo graph embedding: mapping applications onto coarse-grained reconfigurable architectures
+Citations:76
+Authors: H Park, K Fan, M Kudlur, S Mahlke
+Publication: Proceedings of the 2006 international conference on Compilers, architecture …
+
+67. Scalable subgraph mapping for acyclic computation accelerators
+Citations:73
+Authors: N Clark, A Hormati, S Mahlke, S Yehia
+Publication: Proceedings of the 2006 international conference on Compilers, architecture …
+
+68. Register connection: a new approach to adding registers into instruction set architectures
+Citations:72
+Authors: T Kiyohara, S Mahlke, W Chen, R Bringmann, R Hank, S Anik, WM Hwu
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 247-256
+
+69. Stream compilation for real-time embedded multicore systems
+Citations:70
+Authors: Y Choi, Y Lin, N Chong, S Mahlke, T Mudge
+Publication: 2009 International Symposium on Code Generation and Optimization, 210-220
+
+70. Data access partitioning for fine-grain parallelism on multicore architectures
+Citations:66
+Authors: M Chu, R Ravindran, S Mahlke
+Publication: 40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …
+
+71. Achieving high levels of instruction-level parallelism with reduced hardware complexity
+Citations:66
+Authors: M Schlansker, BR Rau, S Mahlke, V Kathail, R Johnson, S Anik, ...
+Publication: Hewlett Packard Laboratories
+
+72. Accelerating mobile applications through flip-flop replication
+Citations:64
+Authors: MS Gordon, DK Hong, PM Chen, J Flinn, S Mahlke, ZM Mao
+Publication: Proceedings of the 13th Annual International Conference on Mobile Systems …
+
+73. Mascar: Speeding up GPU warps by reducing memory pitstops
+Citations:64
+Authors: A Sethia, DA Jamshidi, S Mahlke
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+74. Eliminating concurrency bugs with control engineering
+Citations:64
+Authors: T Kelly, Y Wang, S Lafortune, S Mahlke
+Publication: Computer 42 (12), 52-60
+
+75. Performance, energy characterizations and architectural implications of an emerging mobile platform benchmark suite-mobilebench
+Citations:63
+Authors: D Pandiyan, SY Lee, CJ Wu
+Publication: 2013 IEEE International Symposium on Workload Characterization (IISWC), 133-142
+
+76. Compiler managed dynamic instruction placement in a low-power code cache
+Citations:62
+Authors: RA Ravindran, PD Nagarkar, GS Dasika, ED Marsman, RM Senger, ...
+Publication: Proceedings of the international symposium on Code generation and …
+
+77. Mobile supercomputers
+Citations:62
+Authors: T Austin, D Blaauw, S Mahlke, T Mudge, C Chakrabarti, W Wolf
+Publication: Computer 37 (5), 81-83
+
+78. A VLSI architecture for lifting-based wavelet transform
+Citations:61
+Authors: K Andra, C Chakrabarti, T Acharya
+Publication: 2000 IEEE Workshop on SiGNAL PROCESSING SYSTEMS. SiPS 2000. Design and …
+
+79. Recurrence cycle aware modulo scheduling for coarse-grained reconfigurable architectures
+Citations:58
+Authors: T Oh, B Egger, H Park, S Mahlke
+Publication: ACM Sigplan Notices 44 (7), 21-30
+
+80. The mTOR/p70S6K Signal Transduction Pathway Plays a Role in Cardiac Hypertrophy and Influences Expression of Myosin Heavy Chain Genes in vivo
+Citations:56
+Authors: MO Boluyt, ZB Li, AM Loyd, AF Scalia, GM Cirrincione, RR Jackson
+Publication: Cardiovascular drugs and therapy 18 (4), 257-267
+
+81. Equalizer: Dynamic tuning of gpu resources for efficient execution
+Citations:55
+Authors: A Sethia, S Mahlke
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+82. APOGEE: Adaptive prefetching on GPUs for energy efficiency
+Citations:55
+Authors: A Sethia, G Dasika, M Samadi, S Mahlke
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+83. Automatic speculative DOALL for clusters
+Citations:55
+Authors: H Kim, NP Johnson, JW Lee, SA Mahlke, DI August
+Publication: Proceedings of the Tenth International Symposium on Code Generation and …
+
+84. Encore: low-cost, fine-grained transient fault recovery
+Citations:54
+Authors: S Feng, S Gupta, A Ansari, SA Mahlke, DI August
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+85. AnySP: Anytime anywhere anyway signal processing
+Citations:53
+Authors: M Woh, S Seo, S Mahlke, T Mudge, C Chakrabarti, K Flautner
+Publication: IEEE micro 30 (1), 81-91
+
+86. Dynamic parallelization of JavaScript applications using an ultra-lightweight speculation mechanism
+Citations:51
+Authors: M Mehrara, PC Hsu, M Samadi, S Mahlke
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+87. Maestro: Orchestrating lifetime reliability in chip multiprocessors
+Citations:49
+Authors: S Feng, S Gupta, A Ansari, S Mahlke
+Publication: International Conference on High-Performance Embedded Architectures and …
+
+88. Automatic and efficient evaluation of memory hierarchies for embedded systems
+Citations:49
+Authors: SG Abraham, SA Mahlke
+Publication: MICRO-32. Proceedings of the 32nd Annual ACM/IEEE International Symposium on …
+
+89. Compiler code transformations for superscalar-based high-performance systems
+Citations:49
+Authors: SA Mahlke, WY Chen, JC Gyllenhaal, WW Hwu, PP Chang, T Kiyohara
+Publication: Supercomputing'92: Proceedings of the 1992 ACM/IEEE Conference on …
+
+90. Trace based phase prediction for tightly-coupled heterogeneous cores
+Citations:48
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+91. Reuseable configuration data
+Citations:48
+Authors: SD Biles, K Flautner, S Mahlke, N Clark
+Publication: US Patent 7,318,143
+
+92. Liquid SIMD: Abstracting SIMD hardware using lightweight dynamic mapping
+Citations:48
+Authors: N Clark, A Hormati, S Yehia, S Mahlke, K Flautner
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+93. Software defined radio–a high performance embedded challenge
+Citations:48
+Authors: H Lee, Y Lin, Y Harel, M Woh, S Mahlke, T Mudge, K Flautner
+Publication: International Conference on High-Performance Embedded Architectures and …
+
+94. Three architectural models for compiler-controlled speculative execution
+Citations:48
+Authors: PP Chang, NF Warter, SA Mahlke, WY Chen, WW Hwu
+Publication: IEEE Transactions on Computers 44 (4), 481-494
+
+95. Process variation in near-threshold wide SIMD architectures
+Citations:47
+Authors: S Seo, RG Dreslinski, M Woh, Y Park, C Charkrabari, S Mahlke, D Blaauw, ...
+Publication: DAC Design Automation Conference 2012, 980-987
+
+96. Compiler synthesized dynamic branch prediction
+Citations:46
+Authors: S Mahlke, B Natarajan
+Publication: Proceedings of the 29th annual ACM/IEEE international symposium on …
+
+97. Speculative execution exception recovery using write-back suppression
+Citations:46
+Authors: RA Bringmann, SA Mahlke, RE Hank, JC Gyllenhaal, WH Wen-mei
+Publication: Proceedings of the 26th annual international symposium on Microarchitecture …
+
+98. Automated breast cancer diagnosis based on GVF-Snake segmentation, wavelet features extraction and fuzzy classification
+Citations:45
+Authors: J Malek, A Sebri, S Mabrouk, K Torki, R Tourki
+Publication: Journal of Signal Processing Systems 55 (1-3), 49-66
+
+99. Code size minimization and retargetable assembly for custom EPIC and VLIW instruction formats
+Citations:45
+Authors: S Aditya, SA Mahlke, BR Rau
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 5 (4 …
+
+100. Runtime asynchronous fault tolerance via speculation
+Citations:44
+Authors: Y Zhang, S Ghosh, J Huang, JW Lee, SA Mahlke, DI August
+Publication: Proceedings of the Tenth International Symposium on Code Generation and …
+
+101. Concurrency bugs in multithreaded software: Modeling and analysis using Petri nets
+Citations:43
+Authors: H Liao, Y Wang, HK Cho, J Stanley, T Kelly, S Lafortune, S Mahlke, ...
+Publication: Discrete Event Dynamic Systems 23 (2), 157-195
+
+102. CGRA express: accelerating execution using dynamic operation fusion
+Citations:43
+Authors: Y Park, H Park, S Mahlke
+Publication: Proceedings of the 2009 international conference on Compilers, architecture …
+
+103. The next generation challenge for software defined radio
+Citations:43
+Authors: M Woh, S Seo, H Lee, Y Lin, S Mahlke, T Mudge, C Chakrabarti, ...
+Publication: International Workshop on Embedded Computer Systems, 343-354
+
+104. Design and implementation of turbo decoders for software defined radio
+Citations:43
+Authors: Y Lin, S Mahlke, T Mudge, C Chakrabarti, A Reid, K Flautner
+Publication: 2006 IEEE Workshop on Signal Processing Systems Design and Implementation, 22-27
+
+105. Input responsiveness: using canary inputs to dynamically steer approximation
+Citations:41
+Authors: MA Laurenzano, P Hill, M Samadi, S Mahlke, J Mars, L Tang
+Publication: ACM SIGPLAN Notices 51 (6), 161-176
+
+106. Harnessing soft computations for low-budget fault tolerance
+Citations:41
+Authors: DS Khudia, S Mahlke
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+107. The program decision logic approach to predicated execution
+Citations:41
+Authors: DI August, JW Sias, JM Puiatti, SA Mahlke, DA Connors, KM Crozier, ...
+Publication: ACM SIGARCH Computer Architecture News 27 (2), 208-219
+
+108. Compiling apparatus and method of a multicore device
+Citations:40
+Authors: K Kwon, SJ Kim, S Mahlke, Y Park
+Publication: US Patent 8,813,073
+
+109. Stagenet: A reconfigurable fabric for constructing dependable cmps
+Citations:40
+Authors: S Gupta, S Feng, A Ansari, S Mahlke
+Publication: IEEE Transactions on Computers 60 (1), 5-19
+
+110. Exploring the design space of LUT-based transparent accelerators
+Citations:40
+Authors: S Yehia, N Clark, S Mahlke, K Flautner
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+111. Architectural optimizations for low-power, real-time speech recognition
+Citations:40
+Authors: R Krishna, S Mahlke, T Austin
+Publication: Proceedings of the 2003 international conference on Compilers, architecture …
+
+112. Efficient soft error protection for commodity embedded microprocessors using profile information
+Citations:37
+Authors: DS Khudia, G Wright, S Mahlke
+Publication: ACM SIGPLAN Notices 47 (5), 99-108
+
+113. Program subgraph identification
+Citations:37
+Authors: SD Biles, K Flautner, S Mahlke, N Clark
+Publication: US Patent 7,343,482
+
+114. SPEX: A programming language for software defined radio
+Citations:37
+Authors: Y Lin, R Mullenix, M Woh, S Mahlke, T Mudge, A Reid, K Flautner
+Publication: Software Defined Radio Technical Conference and Product Exposition, Orlando
+
+115. MacroSS: macro-SIMDization of streaming applications
+Citations:36
+Authors: AH Hormati, Y Choi, M Woh, M Kudlur, R Rabbah, T Mudge, S Mahlke
+Publication: ACM SIGARCH computer architecture news 38 (1), 285-296
+
+116. A microarchitectural analysis of soft error propagation in a production-level embedded microprocessor
+Citations:36
+Authors: J Blome, S Mahlke, D Bradley, K Flautner
+Publication: In Proceedings of the First Workshop on Architecture Reliability
+
+117. A distributed control path architecture for VLIW processors
+Citations:36
+Authors: H Zhong, K Fan, S Mahlke, M Schlansker
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+118. Control CPR: A branch height reduction optimization for EPIC architectures
+Citations:36
+Authors: M Schlansker, S Mahlke, R Johnson
+Publication: ACM SIGPLAN Notices 34 (5), 155-168
+
+119. Comparing static and dynamic code scheduling for multiple-instruction-issue processors
+Citations:36
+Authors: PP Chang, WY Chen, SA Mahlke, WW Hwu
+Publication: MICRO, 25-33
+
+120. SIMD defragmenter: Efficient ILP realization on data-parallel architectures
+Citations:35
+Authors: Y Park, S Seo, H Park, HK Cho, S Mahlke
+Publication: ACM SIGPLAN Notices 47 (4), 363-374
+
+121. Systematic register bypass customization for application-specific processors
+Citations:35
+Authors: K Fan, N Clark, M Chu, KV Manjunath, R Ravindran, M Smelyanskiy, ...
+Publication: Proceedings IEEE International Conference on Application-Specific Systems …
+
+122. Automatically generating custom instruction set extensions
+Citations:35
+Authors: N Clark, W Tang, S Mahlke
+Publication: Workshop on Application-Specific Processors (WASP), 94-101
+
+123. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:34
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+124. Eliminating concurrency bugs in multithreaded software: A new approach based on discrete-event control
+Citations:34
+Authors: H Liao, Y Wang, J Stanley, S Lafortune, S Reveliotis, T Kelly, S Mahlke
+Publication: IEEE Transactions on Control Systems Technology 21 (6), 2067-2082
+
+125. Gadara nets: Modeling and analyzing lock allocation for deadlock avoidance in multithreaded software
+Citations:33
+Authors: Y Wang, H Liao, S Reveliotis, T Kelly, S Mahlke, S Lafortune
+Publication: Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held …
+
+126. Cost sensitive modulo scheduling in a loop accelerator synthesis system
+Citations:33
+Authors: K Fan, M Kudlur, H Park, S Mahlke
+Publication: Proceedings of the 38th annual IEEE/ACM International Symposium on …
+
+127. Adaptive input-aware compilation for graphics engines
+Citations:32
+Authors: M Samadi, A Hormati, M Mehrara, J Lee, S Mahlke
+Publication: ACM SIGPLAN Notices 47 (6), 13-22
+
+128. Mobile supercomputers for the next-generation cell phone
+Citations:32
+Authors: M Woh, S Mahlke, T Mudge, C Chakrabarti
+Publication: Computer 43 (1), 81-85
+
+129. Hierarchical coarse-grained stream compilation for software defined radio
+Citations:32
+Authors: Y Lin, M Kudlur, S Mahlke, T Mudge
+Publication: Proceedings of the 2007 international conference on Compilers, architecture …
+
+130. Online timing analysis for wearout detection
+Citations:32
+Authors: JA Blome, S Feng, S Gupta, S Mahlke
+Publication: Workshop on architectural reliability 1 (3)
+
+131. Partitioning variables across register windows to reduce spill code in a low-power processor
+Citations:32
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: IEEE Transactions on Computers 54 (8), 998-1012
+
+132. Profile-assisted instruction scheduling
+Citations:32
+Authors: WY Chen, SA Mahlke, NJ Warter, S Anik, WW Hwu
+Publication: International Journal of Parallel Programming 22 (2), 151-181
+
+133. Scalar program performance on multiple-instruction-issue processors with a limited number of registers
+Citations:32
+Authors: SA Mahlke, WY Chen, PP Chang, WW Hwu
+Publication: Proceedings of the Twenty-Fifth Hawaii International Conference on System …
+
+134. Concise loads and stores: The case for an asymmetric compute-memory architecture for approximation
+Citations:30
+Authors: A Jain, P Hill, SC Lin, M Khan, ME Haque, MA Laurenzano, S Mahlke, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 41
+
+135. Dynamically accelerating client-side web applications through decoupled execution
+Citations:30
+Authors: M Mehrara, S Mahlke
+Publication: Proceedings of the 9th Annual IEEE/ACM International Symposium on Code …
+
+136. Using profile information to assist advanced compiler optimization and scheduling
+Citations:30
+Authors: W Chen, R Bringmann, S Mahlke, S Anik, T Kiyohara, N Warter, D Lavery, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 31-48
+
+137. Low cost control flow protection using abstract control signatures
+Citations:29
+Authors: DS Khudia, S Mahlke
+Publication: ACM SIGPLAN Notices 48 (5), 3-12
+
+138. Multicore compilation strategies and challenges
+Citations:29
+Authors: M Mehrara, T Jablin, D Upton, D August, K Hazelwood, S Mahlke
+Publication: IEEE Signal Processing Magazine 26 (6), 55-63
+
+139. An efficient architecture for loop based data preloading
+Citations:29
+Authors: WY Chen, RA Bringmann, SA Mahlke, RE Hank, JE Sicolo
+Publication: Proc. IEEE International Symposium on Microarchitecture
+
+140. VAST: The illusion of a large memory space for GPUs
+Citations:28
+Authors: J Lee, M Samadi, S Mahlke
+Publication: 2014 23rd International Conference on Parallel Architecture and Compilation …
+
+141. Supervisory control of software execution for failure avoidance: Experience from the gadara project
+Citations:28
+Authors: Y Wang, HK Cho, H Liao, A Nazeem, TP Kelly, S Lafortune, S Mahlke, ...
+Publication: IFAC Proceedings Volumes 43 (12), 259-266
+
+142. Retargetable computer design system
+Citations:28
+Authors: SA Mahlke, SG Abraham, VK Kathail
+Publication: US Patent 6,772,106
+
+143. Optimal liveness-enforcing control for a class of Petri nets arising in multithreaded software
+Citations:27
+Authors: H Liao, S Lafortune, S Reveliotis, Y Wang, S Mahlke
+Publication: IEEE Transactions on Automatic Control 58 (5), 1123-1138
+
+144. Paragon: collaborative speculative loop execution on GPU and CPU
+Citations:27
+Authors: M Samadi, A Hormati, J Lee, S Mahlke
+Publication: Proceedings of the 5th Annual Workshop on General Purpose Processing with …
+
+145. Compiler-managed partitioned data caches for low power
+Citations:27
+Authors: R Ravindran, M Chu, S Mahlke
+Publication: ACM SIGPLAN Notices 42 (7), 237-247
+
+146. Increasing hardware efficiency with multifunction loop accelerators
+Citations:27
+Authors: K Fan, M Kudlur, H Park, S Mahlke
+Publication: Proceedings of the 4th international conference on Hardware/software …
+
+147. Compiler-directed data partitioning for multicluster processors
+Citations:27
+Authors: ML Chu, SA Mahlke
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+148. Increasing the number of effective registers in a low-power processor using a windowed register file
+Citations:27
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: Proceedings of the 2003 international conference on Compilers, architecture …
+
+149. Design and implementation of a portable global code optimizer
+Citations:27
+Authors: SA Mahlke
+Publication: University of Illinois at Urbana-Champaign
+
+150. Diet SODA: A power-efficient processor for digital cameras
+Citations:26
+Authors: S Seo, RG Dreslinski, M Woh, C Chakrabarti, S Mahlke, T Mudge
+Publication: 2010 ACM/IEEE International Symposium on Low-Power Electronics and Design …
+
+151. Integrated circuit wearout detection
+Citations:26
+Authors: DW Bradley, JA Blome, S Mahlke
+Publication: US Patent App. 11/878,882
+
+152. A 16-bit low-power microcontroller with monolithic MEMS-LC clocking
+Citations:26
+Authors: ED Marsman, RM Senger, MS McCorquodale, MR Guthaus, ...
+Publication: 2005 IEEE International Symposium on Circuits and Systems, 624-627
+
+153. Dynamic resource management for efficient utilization of multitasking GPUs
+Citations:25
+Authors: JJK Park, Y Park, S Mahlke
+Publication: ACM SIGOPS Operating Systems Review 51 (2), 527-540
+
+154. Libra: Tailoring simd execution using heterogeneous hardware and dynamic configurability
+Citations:25
+Authors: Y Park, JJK Park, H Park, S Mahlke
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 84-95
+
+155. OptimoDE: Programmable accelerator engines through retargetable customization
+Citations:25
+Authors: N Clark, H Zhong, K Fan, S Mahlke, K Flautner, KV Nieuwenhove
+Publication: Hot Chips 16
+
+156. When less is more (LIMO): controlled parallelism forimproved efficiency
+Citations:24
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: Proceedings of the 2012 international conference on Compilers, architectures …
+
+157. Three superblock scheduling models for superscalar and superpipelined processors
+Citations:24
+Authors: PP Chang, NJ Warter, SA Mahlke, WY Chen, WW Hwu
+Publication: Coordinated Science Laboratory Report no. UILU-ENG-91-2250, CRHC-91-29
+
+158. EFetch: optimizing instruction fetch for event-driven webapplications
+Citations:23
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+159. Necromancer: enhancing system throughput by animating dead cores
+Citations:23
+Authors: A Ansari, S Feng, S Gupta, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 473-484
+
+160. Enabling ultra low voltage system operation by tolerating on-chip cache failures
+Citations:23
+Authors: A Ansari, S Feng, S Gupta, S Mahlke
+Publication: Proceedings of the 2009 ACM/IEEE international symposium on Low power …
+
+161. StageNetSlice: a reconfigurable microarchitecture building block for resilient CMP systems
+Citations:23
+Authors: S Gupta, S Feng, A Ansari, J Blome, S Mahlke
+Publication: Proceedings of the 2008 international conference on Compilers, architectures …
+
+162. Streamroller:: automatic synthesis of prescribed throughput accelerator pipelines
+Citations:23
+Authors: M Kudlur, K Fan, S Mahlke
+Publication: Proceedings of the 4th international conference on Hardware/software …
+
+163. Skmd: Single kernel on multiple devices for transparent cpu-gpu collaboration
+Citations:22
+Authors: J Lee, M Samadi, Y Park, S Mahlke
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (3), 9
+
+164. Accelerating asynchronous programs through event sneak peek
+Citations:22
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 642-654
+
+165. Adaptive online testing for efficient hard fault detection
+Citations:22
+Authors: S Gupta, A Ansari, S Feng, S Mahlke
+Publication: 2009 IEEE International Conference on Computer Design, 343-349
+
+166. The application of supervisory control to deadlock avoidance in concurrent software
+Citations:22
+Authors: Y Wang, T Kelly, M Kudlur, S Mahlke, S Lafortune
+Publication: 2008 9th International Workshop on Discrete Event Systems, 287-292
+
+167. Stageweb: Interweaving pipeline stages into a wearout and variation tolerant cmp fabric
+Citations:21
+Authors: S Gupta, A Ansari, S Feng, S Mahlke
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems & Networks …
+
+168. WarpPool: sharing requests with inter-warp coalescing for throughput processors
+Citations:20
+Authors: J Kloosterman, J Beaumont, M Wollman, A Sethia, R Dreslinski, T Mudge, ...
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 433-444
+
+169. WiBench: An open source kernel suite for benchmarking wireless systems
+Citations:20
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE international symposium on workload characterization (IISWC), 123-132
+
+170. PEPSC: A power-efficient processor for scientific computing
+Citations:20
+Authors: G Dasika, A Sethia, T Mudge, S Mahlke
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+171. Erasing core boundaries for robust and configurable performance
+Citations:20
+Authors: S Gupta, S Feng, A Ansari, S Mahlke
+Publication: 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, 325-336
+
+172. Tightly coupled accelerator
+Citations:20
+Authors: SD Biles, K Flautner, S Mahlke, N Clark
+Publication: US Patent 7,350,055
+
+173. Exploiting narrow accelerators with data-centric subgraph mapping
+Citations:20
+Authors: A Hormati, N Clark, S Mahlke
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+174. Predicate-aware scheduling: A technique for reducing resource constraints
+Citations:20
+Authors: M Smelyanskiy, SA Mahlke, ES Davidson, HHS Lee
+Publication: Proceedings of the international symposium on Code generation and …
+
+175. Tolerating data access latency with register preloading
+Citations:19
+Authors: WY Chen, SA Mahlke, WW Hwu, T Kiyohara, PP Chang
+Publication: Proceedings of the 6th International Conference on Supercomputing, 104-113
+
+176. Deftnn: Addressing bottlenecks for dnn execution on gpus via synapse vector elimination and near-compute data fission
+Citations:18
+Authors: P Hill, A Jain, M Hill, B Zamirai, CH Hsu, MA Laurenzano, S Mahlke, ...
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+177. Mighty-morphing power-SIMD
+Citations:18
+Authors: G Dasika, M Woh, S Seo, N Clark, T Mudge, S Mahlke
+Publication: Proceedings of the 2010 international conference on Compilers, architectures …
+
+178. Olay: Combat the signs of aging with introspective reliability management
+Citations:18
+Authors: S Feng, S Gupta, S Mahlke
+Publication: Proc. Workshop Quality-Aware Design (W-QUAD)
+
+179. In-memory data parallel processor
+Citations:17
+Authors: D Fujiki, S Mahlke, R Das
+Publication: ACM SIGPLAN Notices 53 (2), 1-14
+
+180. DVFS in loop accelerators using BLADES
+Citations:17
+Authors: G Dasika, S Das, K Fan, S Mahlke, D Bull
+Publication: Proceedings of the 45th annual Design Automation Conference, 894-897
+
+181. D 2 MA: accelerating coarse-grained data transfer for GPUs
+Citations:16
+Authors: DA Jamshidi, M Samadi, S Mahlke
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+182. Reliability: Fallacy or reality?
+Citations:16
+Authors: A Gonzalez, S Mahlke, S Mukherjee, R Sendag, D Chiou, JY Joshua
+Publication: IEEE micro 27 (6), 36-45
+
+183. A system solution for High-Performance, low power SDR
+Citations:16
+Authors: Y Lin, H Lee, Y Harel, M Woh, S Mahlke, T Mudge, K Flautner
+Publication: SDR technical conference
+
+184. Insights into the memory demands of speech recognition algorithms
+Citations:16
+Authors: R Krishna, S Mahlke, T Austin
+Publication: ACM/IEEE 2nd Annual Workshop on Memory Performance Issues
+
+185. Illusionist: Transforming lightweight cores into aggressive cores on demand
+Citations:15
+Authors: A Ansari, S Feng, S Gupta, J Torrellas, S Mahlke
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+186. Instant profiling: Instrumentation sampling for profiling datacenter applications
+Citations:15
+Authors: HK Cho, T Moseley, R Hank, D Bruening, S Mahlke
+Publication: Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation …
+
+187. Practical lock/unlock pairing for concurrent programs
+Citations:15
+Authors: S Lafortune, S Mahlke, Y Wang, T Kelly, H Liao, HK Cho
+Publication: Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation …
+
+188. Assessing SEU vulnerability via circuit-level timing analysis
+Citations:15
+Authors: K Constantinides, S Plaza, J Blome, B Zhang, V Bertacco, S Mahlke, ...
+Publication: Ann Arbor 1001, 48109
+
+189. Memory system design space exploration for low-power, real-time speech recognition
+Citations:15
+Authors: R Krishna, S Mahlke, T Austin
+Publication: Proceedings of the 2nd IEEE/ACM/IFIP international conference on Hardware …
+
+190. Tolerating First Level Memory Access Latency in High-Performance Systems.
+Citations:15
+Authors: WY Chen, SA Mahlke, WH Wen-mei
+Publication: ICPP (1), 36-43
+
+191. Dynamos: dynamic schedule migration for heterogeneous cores
+Citations:14
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 322-333
+
+192. Orchestrating multiple data-parallel kernels on multiple devices
+Citations:14
+Authors: J Lee, M Samadi, S Mahlke
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+193. Synthesis of maximally-permissive liveness-enforcing control policies for Gadara Petri nets
+Citations:14
+Authors: H Liao, S Lafortune, S Reveliotis, Y Wang, S Mahlke
+Publication: 49th IEEE Conference on Decision and Control (CDC), 2797-2804
+
+194. Regless: Just-in-time operand staging for GPUs
+Citations:13
+Authors: J Kloosterman, J Beaumont, DA Jamshidi, J Bailey, T Mudge, S Mahlke
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+195. Quality control for approximate accelerators by error prediction
+Citations:13
+Authors: DS Khudia, B Zamirai, M Samadi, S Mahlke
+Publication: IEEE Design & Test 33 (1), 43-50
+
+196. MEDICS: ultra-portable processing for medical image reconstruction
+Citations:13
+Authors: G Dasika, A Sethia, V Robby, T Mudge, S Mahlke
+Publication: Proceedings of the 19th international conference on Parallel architectures …
+
+197. A parameterized dataflow language extension for embedded streaming systems
+Citations:13
+Authors: Y Lin, Y Choi, S Mahlke, T Mudge, C Chakrabarti
+Publication: 2008 International Conference on Embedded Computer Systems: Architectures …
+
+198. Sentinel scheduling with recovery blocks
+Citations:13
+Authors: DI August, BL Deitrich, SA Mahlke
+Publication: Coordinated Science Laboratory Report no. UILU-ENG-95-2203, CRHC-95-05
+
+199. Error detecting and correcting mechanism for a register file
+Citations:12
+Authors: DW Bradley, JA Blome, S Mahlke
+Publication: US Patent 8,219,885
+
+200. A customized processor for energy efficient scientific computing
+Citations:12
+Authors: A Sethia, G Dasika, T Mudge, S Mahlke
+Publication: IEEE Transactions on Computers 61 (12), 1711-1723
+
+201. Atomic block formation for explicit data graph execution architectures
+Citations:12
+Authors: BA Maher
+Publication: The University of Texas at Austin
+
+202. Analyzing the scalability of SIMD for the next generation software defined radio
+Citations:12
+Authors: M Woh, Y Lin, S Seo, T Mudge, S Mahlke
+Publication: 2008 IEEE International Conference on Acoustics, Speech and Signal …
+
+203. The partial reverse if-conversion framework for balancing control flow and predication
+Citations:12
+Authors: DI August, WMW Hwu, SA Mahlke
+Publication: International Journal of Parallel Programming 27 (5), 381-423
+
+204. The effect of compiler optimizations on available parallelism in scalar programs
+Citations:12
+Authors: SAMNJ Warter, WYCPP Chang, WW Hwu
+Publication: Proceedings of the 20th Annual International Conference on Parallel …
+
+205. Efficient performance scaling of future CGRAs for mobile applications
+Citations:11
+Authors: Y Park, JJK Park, S Mahlke
+Publication: 2012 International Conference on Field-Programmable Technology, 335-342
+
+206. Deadlock-avoidance control of multithreaded software: An efficient siphon-based algorithm for Gadara Petri nets
+Citations:11
+Authors: H Liao, J Stanley, Y Wang, S Lafortune, S Reveliotis, S Mahlke
+Publication: 2011 50th IEEE Conference on Decision and Control and European Control …
+
+207. Automatic design of application specific instruction set extensions through dataflow graph exploration
+Citations:11
+Authors: N Clark, H Zhong, W Tang, S Mahlke
+Publication: International Journal of Parallel Programming 31 (6), 429-449
+
+208. Customizing wide-SIMD architectures for H. 264
+Citations:10
+Authors: S Seo, M Woh, S Mahlke, T Mudge, S Vijay, C Chakrabarti
+Publication: 2009 International Symposium on Systems, Architectures, Modeling, and …
+
+209. FLASH: Foresighted latency-aware scheduling heuristic for processors with customized datapaths
+Citations:10
+Authors: M Kudlur, K Fan, M Chu, R Ravindran, N Clark, S Mahlke
+Publication: Proceedings of the international symposium on Code generation and …
+
+210. Efficient execution of augmented reality applications on mobile programmable accelerators
+Citations:9
+Authors: JJK Park, Y Park, S Mahlke
+Publication: 2013 international conference on field-programmable technology (FPT), 176-183
+
+211. Maximizing spare utilization by virtually reorganizing faulty cache lines
+Citations:9
+Authors: A Ansari, S Gupta, S Feng, S Mahlke
+Publication: IEEE Transactions on Computers 60 (1), 35-49
+
+212. Power-efficient medical image processing using PUMA
+Citations:9
+Authors: G Dasika, K Fan, S Mahlke
+Publication: 2009 IEEE 7th Symposium on Application Specific Processors, 29-34
+
+213. Processor and instruction scheduling method
+Citations:9
+Authors: T Oh, H Kim, S Mahlke, HC Park
+Publication: US Patent App. 12/052,356
+
+214. Architecting a reliable CMP switch architecture
+Citations:9
+Authors: K Constantinides, S Plaza, J Blome, V Bertacco, S Mahlke, T Austin, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 4 (1), 2
+
+215. Using graphics processing units in an LTE base station
+Citations:8
+Authors: Q Zheng, Y Chen, H Lee, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: Journal of Signal Processing Systems 78 (1), 35-47
+
+216. Analyzing the next generation software defined radio for future architectures
+Citations:8
+Authors: M Woh, Y Lin, S Seo, S Mahlke, T Mudge
+Publication: Journal of Signal Processing Systems 63 (1), 83-94
+
+217. Maximally permissive deadlock avoidance for multithreaded computer programs
+Citations:8
+Authors: Y Wang, H Liao, A Nazeem, S Reveliotis, T Kelly, S Mahlke, S Lafortune
+Publication: 2009 IEEE International Conference on Automation Science and Engineering, 37-41
+
+218. Automatic synthesis of customized local memories for multicluster application accelerators
+Citations:8
+Authors: M Kudlur, K Fan, M Chu, S Mahlke
+Publication: Proceedings. 15th IEEE International Conference on Application-Specific …
+
+219. Probabilistic predicate-aware modulo scheduling
+Citations:8
+Authors: M Smelyanskiy, S Mahlke, ES Davidson
+Publication: International Symposium on Code Generation and Optimization, 2004. CGO 2004 …
+
+220. ELF: maximizing memory-level parallelism for GPUs with coordinated warp and fetch scheduling
+Citations:7
+Authors: JJK Park, Y Park, S Mahlke
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+221. Exploring fine-grained heterogeneity with composite cores
+Citations:7
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, RG Dreslinski, ...
+Publication: IEEE Transactions on Computers 65 (2), 535-547
+
+222. CPU-GPU collaboration for output quality monitoring
+Citations:7
+Authors: M Samadi, S Mahlke
+Publication: 1st Workshop on Approximate Computing Across the System Stack, 1-3
+
+223. Heterogeneity within a processor core
+Citations:6
+Authors: A Lukefahr, R Das, S Padmanabha, S Mahlke
+Publication: US Patent 9,639,363
+
+224. A dataflow-centric approach to design low power control paths in CGRAs
+Citations:6
+Authors: H Park, Y Park, S Mahlke
+Publication: 2009 IEEE 7th Symposium on Application Specific Processors, 15-20
+
+225. Stagenet: A reconfigurable cmp fabric for resilient systems
+Citations:6
+Authors: S Gupta, S Feng, J Blome, S Mahlke
+Publication: Proc. of the 2nd Reconfigurable and Adaptive Architecture Workshop
+
+226. Extracting statistical loop-level parallelism using hardware-assisted recovery
+Citations:6
+Authors: SA Lieberman, H Zhong, SA Mahlke
+Publication: University of Michigan CSE Technical Report, CSE-TR-528-07
+
+227. BugMD: Automatic mismatch diagnosis for bug triaging
+Citations:5
+Authors: B Mammo, M Furia, V Bertacco, S Mahlke, DS Khudia
+Publication: 2016 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 1-7
+
+228. Embracing heterogeneity with dynamic core boosting
+Citations:5
+Authors: HK Cho, S Mahlke
+Publication: Proceedings of the 11th ACM Conference on Computing Frontiers, 10
+
+229. Dynamic acceleration of multithreaded program critical paths in near-threshold systems
+Citations:5
+Authors: HK Cho, S Mahlke
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+230. Compiler-directed synthesis of multifunction loop accelerators
+Citations:5
+Authors: K Fan, M Kudlur, H Park, S Mahlke
+Publication: Proc. of the 2005 Workshop on Application Specific Processors, 91-98
+
+231. Rapid design of memory systems using dilation modeling
+Citations:5
+Authors: SG Abraham, BR Rau, SA Mahlke
+Publication: US Patent 6,604,067
+
+232. The superblock: an effective technique for vliw and superscalar compilation
+Citations:5
+Authors: WMW Hwu, SA Mahlke, WY Chen, PP Chang, NJ Warter, RA Bringmann, ...
+Publication: Instruction-level parallel processors, 234-253
+
+233. Mirage cores: The illusion of many out-of-order cores using in-order hardware
+Citations:4
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+234. Processor with reconfigurable architecture including a token network simulating processing of processing elements
+Citations:4
+Authors: S Heejun, S Kim, P Hyunchul, S Mahlke, P Yongjun
+Publication: US Patent 9,342,478
+
+235. Tango: accelerating mobile applications through flip-flop replication
+Citations:4
+Authors: MS Gordon, DK Hong, PM Chen, J Flinn, S Mahlke, ZM Mao
+Publication: GetMobile: Mobile Computing and Communications 19 (3), 10-13
+
+236. Fine grain cache partitioning using per-instruction working blocks
+Citations:4
+Authors: JJK Park, Y Park, S Mahlke
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+237. Leveraging GPUs using cooperative loop speculation
+Citations:4
+Authors: M Samadi, A Hormati, J Lee, S Mahlke
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 11 (1), 3
+
+238. Parallelization techniques for implementing trellis algorithms on graphics processors
+Citations:4
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE International Symposium on Circuits and Systems (ISCAS2013), 1220-1223
+
+239. A programmable Vector coprocessor architecture for wireless applications
+Citations:4
+Authors: Y Lin, N Baron, H Lee, S Mahlke, T Mudge
+Publication: Proceedings of the 3rd Workshop on Application Specific Processors
+
+240. Cost-Sensitive Operation Partitioning for Synthesizing Custom Multicluster Datapath Architectures
+Citations:4
+Authors: ML Chu, KC Fan, RA Ravindran, SA Mahlke
+Publication: Proc. 2nd Workshop on Application Specific Processors, 40-47
+
+241. A study of the effects of compiler-controlled speculation on instruction and data caches
+Citations:4
+Authors: RA Bringmann, SA Mahlke, WMW Hwu
+Publication: Proceedings of the Twenty-Eighth Annual Hawaii International Conference on …
+
+242. Rethinking numerical representations for deep neural networks
+Citations:3
+Authors: P Hill, B Zamirai, S Lu, YW Chao, M Laurenzano, M Samadi, ...
+Publication: arXiv preprint arXiv:1808.02513
+
+243. MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation
+Citations:3
+Authors: D Lee, V Bertacco
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+244. Scaling performance via self-tuning approximation for graphics engines
+Citations:3
+Authors: M Samadi, J Lee, DA Jamshidi, S Mahlke, A Hormati
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (3), 7
+
+245. Putting faulty cores to work
+Citations:3
+Authors: A Ansari, S Feng, S Gupta, S Mahlke
+Publication: IEEE micro 30 (6), 36-45
+
+246. Resource recycling: putting idle resources to work on a composable accelerator
+Citations:3
+Authors: Y Park, H Park, S Mahlke, S Kim
+Publication: Proceedings of the 2010 international conference on Compilers, architectures …
+
+247. Parade: A versatile parallel architecture for accelerating pulse train clustering
+Citations:3
+Authors: A Ansari, D Zhang, S Mahlke
+Publication: 2009 IEEE 7th Symposium on Application Specific Processors, 88-93
+
+248. Reducing control power in cgras with token flow
+Citations:3
+Authors: H Park, Y Park, S Mahlke
+Publication: Preceedings of Workshop on Optimizations for DSP and Embedded Systems
+
+249. Sculptor: Flexible Approximation with Selective Dynamic Loop Perforation
+Citations:2
+Authors: S Li, S Park, S Mahlke
+Publication: Proceedings of the 2018 International Conference on Supercomputing, 341-351
+
+250. A bypass first policy for energy-efficient last level caches
+Citations:2
+Authors: JJK Park, Y Park, S Mahlke
+Publication: 2016 International Conference on Embedded Computer Systems: Architectures …
+
+251. CPSA: Compute precisely store approximately
+Citations:2
+Authors: A Jain, P Hill, MA Laurenzano, ME Haque, M Khan, S Mahlke, L Tang, ...
+Publication: Workshop on Approximate Computing Across the Stack
+
+252. Computing apparatus and method based on a reconfigurable single instruction multiple data (simd) architecture
+Citations:2
+Authors: JU Park, SJ Kim, S Mahlke, Y Park
+Publication: US Patent App. 13/179,367
+
+253. Guest Editors' Introduction: Special Section on Dependable Computer Architecture
+Citations:2
+Authors: D Gizopoulos, S Mukherjee
+Publication: IEEE Transactions on Computers 60 (1), 3-4
+
+254. Embedded tutorial—Compilation techniques for CGRAs: Exploring all parallelization approaches
+Citations:2
+Authors: T Vander Aa, P Raghavan, S Mahlke, B De Sutter, A Shrivastava, ...
+Publication: 2010 IEEE/ACM/IFIP International Conference on Hardware/Software Codesign …
+
+255. Low power scientific computing
+Citations:2
+Authors: G Dasika, A Sethia, T Mudge, S Mahlke
+Publication: Workshop on New Directions in Computer Architecture, IEEE/ACM International …
+
+256. The Electrical Engineering Handbook,“
+Citations:2
+Authors: HJ Li
+Publication: Radar and Inverse Scattering,” Jan 1, 10
+
+257. Cost-sensitive partitioning in an architecture synthesis system for multicluster processors
+Citations:2
+Authors: ML Chu, KC Fan, RA Ravindran, SA Mahlke
+Publication: IEEE Micro 24 (3), 10-20
+
+258. IMPACT: an architectural framework for multiple-instruction-issue processors
+Citations:2
+Authors: PP Chang, SA Mahlke, WY Chen, NJ Warter, WW Hwu
+Publication: 25 years of the international symposia on Computer architecture (selected …
+
+259. Electrical engineering handbook
+Citations:2
+Authors: Y Lu
+Publication: Beijing, China: China Mechine Press
+
+260. Systems and devices for compressing neural network parameters
+Citations:1
+Authors: YU Jiecao, A Lukefahr, D Palframan, G Dasika, R Das, S Mahlke
+Publication: US Patent App. 15/629,560
+
+261. In-memory data flow processor
+Citations:1
+Authors: D Fujiki, S Mahlke, R Das
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+262. Cooperative program code transformation
+Citations:1
+Authors: DI August, KC Fan, JW Lee, SA Mahlke, M Mehrara
+Publication: US Patent 9,329,846
+
+263. An ultra low power SIMD processor for wireless devices
+Citations:1
+Authors: M Woh, S Seo, C Chakrabarti, S Mahlke, T Mudge
+Publication: 2010 Conference Record of the Forty Fourth Asilomar Conference on Signals …
+
+264. CoreGenesis: Erasing core boundaries for robust and configurable performance
+Citations:1
+Authors: S Gupta, S Feng, A Ansari, G Dasika, S Mahlke
+Publication: Proceedings of the 19th international conference on Parallel architectures …
+
+265. Code and data partitioning for fine-grain parallelism
+Citations:1
+Authors: ML Chu, SA Mahlke
+Publication: ACM SIGPLAN NOTICES 42 (7), 161
+
+266. Effective Compiler Support for Predicated Execution Using the Hyperblock
+Citations:1
+Authors: SAMDC Lin, WYCRE Hank, RA Bringmann
+Publication: Instruction-level parallel processors, 161
+
+267. Duality cache for data parallel acceleration
+Citations:
+Authors: D Fujiki, S Mahlke, R Das
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+268. DREDGE: Dynamic Repartitioning during Dynamic Graph Execution
+Citations:
+Authors: A McCrabb, E Winsor, V Bertacco
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-6
+
+269. Apparatus and method for processing thread groups
+Citations:
+Authors: J Kloosterman, J Beaumont, DA Jamshidi, J Bailey, T Mudge, S Mahlke
+Publication: US Patent App. 15/782,098
+
+270. Characterization of Unnecessary Computations in Web Applications
+Citations:
+Authors: H Golestani, S Mahlke, S Narayanasamy
+Publication: 2019 IEEE International Symposium on Performance Analysis of Systems and …
+
+271. Systems and devices for formatting neural network parameters
+Citations:
+Authors: YU Jiecao, A Lukefahr, D Palframan, G Dasika, R Das, S Mahlke
+Publication: US Patent App. 15/629,394
+
+272. Method of detecting repetition of an out-of-order execution schedule, apparatus and computer-readable medium
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent App. 15/478,552
+
+273. Scratch That (But Cache This): A Hybrid Register Cache/Scratchpad for GPUs
+Citations:
+Authors: J Bailey, J Kloosterman, S Mahlke
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+274. Low Cost Transient Fault Protection Using Loop Output Prediction
+Citations:
+Authors: S Park, S Li, S Mahlke
+Publication: 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+275. Recording performance metrics to predict future execution of large instruction sequences on either high or low performance execution circuitry
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent 9,965,279
+
+276. Iterative Modulo Scheduling
+Citations:
+Authors: O Mutlu, S Mahlke, T Conte, W Hwu
+Publication: IEEE Micro 38 (1), 115-117
+
+277. Method and apparatus for selecting preemption technique
+Citations:
+Authors: JJK Park, S Mahlke, YOO Donghoon
+Publication: US Patent 9,898,333
+
+278. Issue control for multithreaded processing
+Citations:
+Authors: A Sethia, S Mahlke
+Publication: US Patent 9,898,409
+
+279. Control of switching between executed mechanisms
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent 9,870,226
+
+280. Controlling transition between using first and second processing circuitry
+Citations:
+Authors: A Lukefahr, S Padmanabha, R Das, S Mahlke, YU Jiecao
+Publication: US Patent App. 15/063,651
+
+281. Operation parameter control based upon queued instruction characteristics
+Citations:
+Authors: A Sethia, S Mahlke
+Publication: US Patent 9,652,262
+
+282. Colony of NPUs: Scaling the Efficiency of Neural Accelerators
+Citations:
+Authors: B Zamirai, DS Khudia, M Samadi, S Mahlke
+Publication: 
+
+283. Instant Proﬁling: Instrumentation Sampling for Proﬁling Datacenter Applications
+Citations:
+Authors: HK Cho, T Moseley, R Hank, D Bruening, SA Mahlke
+Publication: 
+
+284. Program subgraph identification
+Citations:
+Authors: SD Biles, K Flautner, S Mahlke, N Clark
+Publication: US Patent 7,685,404
+
+285. Externe Versie
+Citations:
+Authors: E Roets, M Hanssens, JAM van der Post
+Publication: Elsevier gezondheidszorg; Amsterdam
+
+286. Baseband Processing Architectures for SDR
+Citations:
+Authors: Y Lin, M Woh
+Publication: Wireless, Networking, Radar, Sensor Array Processing, and Nonlinear Signal …
+
+287. Multicore Compilation Strategies and Challenges
+Citations:
+Authors: D August, K Hazelwood, S Mahlke
+Publication: 2, 3 AND 4 WAY SPLITTERS
+
+288. 294 Guest Editors’ Introduc
+Citations:
+Authors: WH Joyner Jr, DC Yeh, JM Rabaey, S Malik, W Joyner, D Yeh, J Rabaey, ...
+Publication: 
+
+289. Application-specific architectures
+Citations:
+Authors: T Austin, B Calder
+Publication: Design, Automation, and Test in Europe: Proceedings of the conference on …
+
+290. Digital Devices, Computer Components, and Interconnection Networks-Partitioning Variables across Register Windows to Reduce Spill Code in a Low-Power Processor
+Citations:
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: IEEE Transactions on Computers 54 (8), 998-1012
+
+291. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+292. Integrated Predicated and Speculative Execution in the IMPACT EPIC Architecture
+Citations:
+Authors: DIADA Connors, SA Mahlke, JWSKM Crozier
+Publication: Proceedings: The 25th Annual International Symposium on Computer …
+
+293. A Framework for Balancing Control Flow and Predication
+Citations:
+Authors: SA Mahlke
+Publication: Proceedings [of the] Thirtieth Annual IEEE/ACM International Symposium on …
+
+294. Sentinel Scheduling with Recovery Blocks
+Citations:
+Authors: DIABL Deitrich, SA Mahlke
+Publication: 
+
+295. A register allocation algorithm based on predicate analysis system.
+Citations:
+Authors: Z Tian, G Sun, RA Bringmann, SA Mahlke, RE Hank, JC Gyllenhaal, ...
+Publication: Information Technology Journal 9 (5), pp: 214-223
+
+296. The Superblock: An E ective Technique for VLIW and Superscalar Compilation
+Citations:
+Authors: WH Wen-mei, SA Mahlke, WY Chen, PP Chang, NJ Warter, ...
+Publication: 
+
+297. MICRO 2018
+Citations:
+Authors: M Oskin, K Inoue, H Kim, S Yalamanchili, M Kondo, M Kim, R Shioya, ...
+Publication: 
+
+298. CASES STEERING COMMITTEE
+Citations:
+Authors: J Henkel, E Altman, V Kathail, S Mahlke, K Palem, S Parameswaran, ...
+Publication: 
+
+299. ISCA 2018 External Reviewers
+Citations:
+Authors: D Alistarh, D Atienza, EC Batten, K Bertels, E Charbon, EY Chen, ...
+Publication: 
+
+300. Statistical Error Bounds for Data Parallel Applications
+Citations:
+Authors: PHM Laurenzano, BZM Samadi, S Mahlke, JML Tang
+Publication: 
+
+301. Approximating with Input Level Granularity
+Citations:
+Authors: P Hill, MA Laurenzano, M Samadi, S Mahlke, J Mars, L Tang
+Publication: 
+
+302. Adaptive Cache Partitioning on a Composite Core
+Citations:
+Authors: J Yu, A Lukefahr, S Padmanabha, R Das, S Mahlke
+Publication: 
+
+303. Abhishek Bhattacharjee, Rutgers Ali Saidi, ARM Andrew Hilton, Duke University Avi Mendelson, Technion
+Citations:
+Authors: BD de Dinechin, B Grot, CJ Wu, C Wilkerson, D Sanchez, D Brooks, ...
+Publication: 
+
+304. Program Co-Chairs
+Citations:
+Authors: TF Wenisch, E Ozer, J Mars, R Dreslinski, T Jones, B Jansen, M Ferdman, ...
+Publication: 
+
+305. Kevin Skadron Mikhail Smelyanskiy Jim Smith Allan Snavely Mary Lou Soffa
+Citations:
+Authors: K Kailas, S Kalogeropulos, M Kandemir, V Kanodia, U Kapasi, ...
+Publication: 
+
+306. Local Arrangements Chair
+Citations:
+Authors: T Conte, K Ebcioğlu, M Farrens, W Hwu, Y Patt, R Ronen
+Publication: 
+
+307. CASES 2013 Organization
+Citations:
+Authors: A Raghunathan, J Henkel, V Kathail, K Palem, O Bringmann, S Cadambi, ...
+Publication: 
+
+308. On the Response of Quantum Linear Systems to Single Photon Input Fields.................... G. Zhang and MR James 1221 Self-Triggered Optimal Servicing in Dynamic Environments …
+Citations:
+Authors: ASM Krstić, H Liao, S Lafortune, S Reveliotis, Y Wang, S Mahlke
+Publication: 
+
+309. Finance Chair
+Citations:
+Authors: T Aamodt, B Columbia, D Chiou, B Lee, A Shriraman, C Fallin, J Meza, ...
+Publication: 
+
+310. Workshop on Near-threshold Computing (WNTC)
+Citations:
+Authors: HK Cho, S Mahlke, F Hijaz, Q Shi, O Khan, M Farahani, A Baniasadi, ...
+Publication: 
+
+311. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+312. Computer Systems Design and Applications Track Greg Byrd–Chair Michael Gschwind–Chair
+Citations:
+Authors: M Breternitz, D Brooks, J Chang, A Cristal, B de Supinski, J Holt, ...
+Publication: 
+
+313. Jim Dehnert, SGI Evelyn Duesterwald, Hewlett Packard Labs Kemal Ebcioglu, IBM TJ Watson Research Center Paraskevas Evripidou, University of Cyprus
+Citations:
+Authors: J Fang, J Ferrante, A Fukuda, G Gao, JL Gaudiot, M Hall, A Hurson, ...
+Publication: 
+
+314. Richard Johnson Teresa Johnson Roy Ju Hong-Seok Kim
+Citations:
+Authors: V Kiriansky, B Calder, DY Chen, B Cheng, B Childers, T Chilimbi, JD Choi, ...
+Publication: 
+
+315. Computer Systems Design and Applications Track
+Citations:
+Authors: M Charney, D August, M Breternitz, K Rudd, B Grayson, MJD Wellman, ...
+Publication: 
+
+316. PACT 2002 General Chairs
+Citations:
+Authors: J Davidson, K Skadron
+Publication: 
+
+317. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+
+318. 2009 18th International Conference on Parallel Architectures and Compilation Techniques
+Citations:
+Authors: T Usui, R Behrends, J Evans, Y Smaragdakis, C Madriles, P López, ...
+Publication: 
+
+319. Yale Patt The University of Texas at Austin MICRO-34 General Chair
+Citations:
+Authors: A General
+Publication: 
+
+320. Saman Amarasinghe, MIT
+Citations:
+Authors: IBM Vas Bala, B Calder, D Connors, H Corporaal, A Dean, E Duesterwald, ...
+Publication: 
+
+321. S. Dwarkadas R. Eickemeyer J. Emer M. Ercegovac
+Citations:
+Authors: A Eustace, D Blough, K Bolding, R Boppana, S Breach, M Brorsson, ...
+Publication: 
+
+322. Computer Systems Design and Applications Track
+Citations:
+Authors: L Carloni, D Grunwald, IBM Nadeem Malik, WT Mitra, F Petrini, ...
+Publication: 
+
+323. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+324. Michael D. Smith (Chair), Harvard University
+Citations:
+Authors: E Altman, D August, R Bodik, B Calder, C Cascaval, R Cohn, J Collard, ...
+Publication: 
+
+325. HPCA-14 Organizing Committee
+Citations:
+Authors: R Balasubramonian, R Bianchini, A Bilas, P Bose, T Conte, S Dwarkadas, ...
+Publication: 
+
+326. University of Michigan and North Carolina State University MICRO-39 Program Co-Chairs
+Citations:
+Authors: S Mahlke, E Rotenberg
+Publication: 
+
+327. Increasing the Number of Effective Registers in a Low-Power Embedded Processor Using a Windowed Register File
+Citations:
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: Ann Arbor 1001, 48109-2122
+
+328. Kemal Ebcioğlu
+Citations:
+Authors: S Mahlke, B Rau
+Publication: 
+
+329. Hillery Hunter Wen-mei Hwu Teresa Johnson Roy Ju
+Citations:
+Authors: K Kailas, JM Codina, R Cohn, O Colavin, J Collard, D Connors, K Cooper, ...
+Publication: 
+
+330. An E cient Architecture for Loop Based Data Preloading
+Citations:
+Authors: WY Chen, RA Bringmann, SA Mahlke, RE Hank, JE Sicolo
+Publication: 
+
+331. DCCS 2011 reviewers
+Citations:
+Authors: M Bailey, C Cachin, G Candea, C Constantinescu, X Defago, T Dohi, ...
+Publication: 
+
+332. Reducing the Cost of Protection against Soft Errors using Profile-Based Analysis
+Citations:
+Authors: DS Khudia, G Wright, S Mahlke
+Publication: 
+
+333. Organizing Committee General Chair
+Citations:
+Authors: B Mangione-Smith, B Calder, D Tullsen, G Reinman, J Fritts, G Memik, ...
+Publication: 
+
+334. Local Arrangements Chair: Kshitij Doshi, Intel Corp.
+Citations:
+Authors: M Annavaram, I Bahar, D Brooks, D Burger, B Calder, C Chakrabarti, ...
+Publication: 
+

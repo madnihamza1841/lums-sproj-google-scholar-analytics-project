@@ -1,0 +1,1013 @@
+https://scholar.google.com/citations?hl=en&user=DDxFvcIAAAAJ
+Total Citations = 12580
+
+1. The design of the borealis stream processing engine.
+Citations:1637
+Authors: DJ Abadi, Y Ahmad, M Balazinska, U Cetintemel, M Cherniack, JH Hwang, ...
+Publication: Cidr 5 (2005), 277-289
+
+2. HaLoop: efficient iterative data processing on large clusters
+Citations:971
+Authors: Y Bu, B Howe, M Balazinska, MD Ernst
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 285-296
+
+3. Building the internet of things using RFID: the RFID ecosystem experience
+Citations:688
+Authors: E Welbourne, L Battle, G Cole, K Gould, K Rector, S Raymer, ...
+Publication: IEEE Internet computing 13 (3), 48-55
+
+4. Scalable Distributed Stream Processing.
+Citations:666
+Authors: M Cherniack, H Balakrishnan, M Balazinska, D Carney, U Cetintemel, ...
+Publication: CIDR 3, 257-268
+
+5. Characterizing mobility and network usage in a corporate wireless local-area network
+Citations:610
+Authors: M Balazinska, P Castro
+Publication: Proceedings of the 1st international conference on Mobile systems …
+
+6. Skewtune: mitigating skew in mapreduce applications
+Citations:434
+Authors: YC Kwon, M Balazinska, B Howe, J Rolia
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+7. Overview of SciDB: large scale array storage, processing and analysis
+Citations:368
+Authors: PG Brown
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+8. INS/Twine: A scalable peer-to-peer architecture for intentional resource discovery
+Citations:367
+Authors: M Balazinska, H Balakrishnan, D Karger
+Publication: International Conference on Pervasive Computing, 195-210
+
+9. High-availability algorithms for distributed stream processing
+Citations:336
+Authors: JH Hwang, M Balazinska, A Rasin, U Cetintemel, M Stonebraker, ...
+Publication: 21st International Conference on Data Engineering (ICDE'05), 779-790
+
+10. Data management in the worldwide sensor web
+Citations:231
+Authors: M Balazinska, A Deshpande, MJ Franklin, PB Gibbons, J Gray, M Hansen, ...
+Publication: IEEE Pervasive Computing, 30-40
+
+11. Advanced clone-analysis to support object-oriented system refactoring
+Citations:223
+Authors: M Balazinska, E Merlo, M Dagenais, B Lague, K Kontogiannis
+Publication: Proceedings Seventh Working Conference on Reverse Engineering, 98-107
+
+12. Fault-tolerance in the Borealis distributed stream processing system
+Citations:221
+Authors: M Balazinska, H Balakrishnan, S Madden, M Stonebraker
+Publication: Proceedings of the 2005 ACM SIGMOD international conference on Management of …
+
+13. Infranet: Circumventing Web Censorship and Surveillance.
+Citations:196
+Authors: N Feamster, M Balazinska, G Harfst, H Balakrishnan, DR Karger
+Publication: USENIX Security Symposium, 247-262
+
+14. ParaTimer: a progress indicator for MapReduce DAGs
+Citations:195
+Authors: K Morton, M Balazinska, D Grossman
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+15. Retrospective on aurora
+Citations:193
+Authors: H Balakrishnan, M Balazinska, D Carney, U Çetintemel, M Cherniack, ...
+Publication: The VLDB Journal 13 (4), 370-383
+
+16. Measuring clone based reengineering opportunities
+Citations:184
+Authors: M Balazinska, E Merlo, M Dagenais, B Lague, K Kontogiannis
+Publication: Proceedings Sixth International Software Metrics Symposium (Cat. No. PR00403 …
+
+17. Contract-Based Load Management in Federated Distributed Systems.
+Citations:181
+Authors: M Balazinska, H Balakrishnan, M Stonebraker
+Publication: NSDI 4, 15-15
+
+18. A demonstration of SciDB: a science-oriented DBMS
+Citations:180
+Authors: P Cudré-Mauroux, H Kimura, KT Lim, J Rogers, R Simakov, E Soroush, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1534-1537
+
+19. Fault-tolerance in the borealis distributed stream processing system
+Citations:177
+Authors: M Balazinska, H Balakrishnan, SR Madden, M Stonebraker
+Publication: ACM Transactions on Database Systems (TODS) 33 (1), 3
+
+20. Skew-resistant parallel processing of feature-extracting scientific user-defined functions
+Citations:175
+Authors: YC Kwon, M Balazinska, B Howe, J Rolia
+Publication: Proceedings of the 1st ACM symposium on Cloud computing, 75-86
+
+21. SnipSuggest: Context-aware autocompletion for SQL
+Citations:161
+Authors: N Khoussainova, YC Kwon, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 4 (1), 22-33
+
+22. Estimating the progress of MapReduce pipelines
+Citations:156
+Authors: K Morton, A Friesen, M Balazinska, D Grossman
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 681-684
+
+23. The HaLoop approach to large-scale iterative data analysis
+Citations:148
+Authors: Y Bu, B Howe, M Balazinska, MD Ernst
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 21 (2 …
+
+24. Towards correcting input data errors probabilistically using integrity constraints
+Citations:144
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Proceedings of the 5th ACM international workshop on Data engineering for …
+
+25. The bigdawg polystore system
+Citations:129
+Authors: J Duggan, AJ Elmore, M Stonebraker, M Balazinska, B Howe, J Kepner, ...
+Publication: ACM Sigmod Record 44 (2), 11-16
+
+26. ArrayStore: a storage manager for complex parallel array processing
+Citations:122
+Authors: E Soroush, M Balazinska, D Wang
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+27. A study of skew in mapreduce applications
+Citations:122
+Authors: YC Kwon, M Balazinska, B Howe, J Rolia
+Publication: Open Cirrus Summit 11, 30
+
+28. Hadoop's adolescence: an analysis of Hadoop usage in scientific workloads
+Citations:121
+Authors: K Ren, YC Kwon, M Balazinska, B Howe
+Publication: Proceedings of the VLDB Endowment 6 (10), 853-864
+
+29. Partial redesign of Java software systems based on clone analysis
+Citations:113
+Authors: M Balazinska, E Merlo, M Dagenais, B Lague, K Kontogiannis
+Publication: Sixth Working Conference on Reverse Engineering (Cat. No. PR00303), 326-336
+
+30. Data markets in the cloud: An opportunity for the database community
+Citations:112
+Authors: M Balazinska, B Howe, D Suciu
+Publication: Proc. of the VLDB Endowment 4 (12), 1482-1485
+
+31. Query-based data pricing
+Citations:105
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: Journal of the ACM (JACM) 62 (5), 43
+
+32. Cascadia: a system for specifying, detecting, and managing RFID events
+Citations:87
+Authors: E Welbourne, N Khoussainova, J Letchner, Y Li, M Balazinska, G Borriello, ...
+Publication: Proceedings of the 6th international conference on Mobile systems …
+
+33. Homeviews: peer-to-peer middleware for personal data sharing applications
+Citations:84
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+34. A demonstration of the BigDAWG polystore system
+Citations:83
+Authors: A Elmore, J Duggan, M Stonebraker, M Balazinska, U Cetintemel, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1908-1911
+
+35. A case for a collaborative query management system
+Citations:82
+Authors: N Khoussainova, M Balazinska, W Gatterbauer, YC Kwon, D Suciu
+Publication: arXiv preprint arXiv:0909.1778
+
+36. Thwarting web censorship with untrusted messenger discovery
+Citations:79
+Authors: N Feamster, M Balazinska, W Wang, H Balakrishnan, D Karger
+Publication: International Workshop on Privacy Enhancing Technologies, 125-140
+
+37. From theory to practice: Efficient join query evaluation in a parallel database system
+Citations:76
+Authors: S Chu, M Balazinska, D Suciu
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+38. Analyzing massive astrophysical datasets: Can Pig/Hadoop or a relational DBMS help?
+Citations:75
+Authors: S Loebman, D Nunley, YC Kwon, B Howe, M Balazinska, JP Gardner
+Publication: 2009 IEEE International Conference on Cluster Computing and Workshops, 1-10
+
+39. Demonstration of the Myria big data management service
+Citations:73
+Authors: D Halperin, V Teixeira de Almeida, LL Choo, S Chu, P Koutris, D Moritz, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+40. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+41. Scalable clustering algorithm for N-body simulations in a shared-nothing cluster
+Citations:70
+Authors: YC Kwon, D Nunley, JP Gardner, M Balazinska, B Howe, S Loebman
+Publication: International Conference on Scientific and Statistical Database Management …
+
+42. Load management and high availability in the medusa distributed stream processing system
+Citations:69
+Authors: M Balazinska, H Balakrishnan, M Stonebraker
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+43. Fault-tolerant stream processing using a distributed, replicated file system
+Citations:68
+Authors: YC Kwon, M Balazinska, A Greenberg
+Publication: Proceedings of the VLDB Endowment 1 (1), 574-585
+
+44. Access methods for markovian streams
+Citations:67
+Authors: J Letchner, C Re, M Balazinska, M Philipose
+Publication: 2009 IEEE 25th International Conference on Data Engineering, 246-257
+
+45. Probabilistic Event Extraction from RFID Data.
+Citations:64
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: ICDE 8, 1480-1482
+
+46. Physical access control for captured RFID data
+Citations:64
+Authors: T Kriplean, E Welbourne, N Khoussainova, V Rastogi, M Balazinska, ...
+Publication: IEEE Pervasive Computing 6 (4), 48-55
+
+47. Challenges for pervasive RFID-based infrastructures
+Citations:64
+Authors: E Welbourne, M Balazinska, G Borriello, W Brunette
+Publication: Fifth Annual IEEE International Conference on Pervasive Computing and …
+
+48. Astronomy in the cloud: using mapreduce for image co-addition
+Citations:61
+Authors: K Wiley, A Connolly, J Gardner, S Krughoff, M Balazinska, B Howe, ...
+Publication: Publications of the Astronomical Society of the Pacific 123 (901), 366
+
+49. Tiresias: the database oracle for how-to queries
+Citations:58
+Authors: A Meliou, D Suciu
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+50. Perfxplain: debugging mapreduce job performance
+Citations:57
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (7), 598-609
+
+51. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+52. A latency and fault-tolerance optimizer for online parallel query plans
+Citations:55
+Authors: P Upadhyaya, YC Kwon, M Balazinska
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+53. Toward practical query pricing with QueryMarket
+Citations:53
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: proceedings of the 2013 ACM SIGMOD international conference on management of …
+
+54. Moirae: History-Enhanced Monitoring.
+Citations:52
+Authors: M Balazinska, YC Kwon, N Kuchta, D Lee
+Publication: CIDR, 375-386
+
+55. A probabilistic optimization framework for the empty-answer problem
+Citations:50
+Authors: D Mottin, A Marascu, SB Roy, G Das, T Palpanas, Y Velegrakis
+Publication: Proceedings of the VLDB Endowment 6 (14), 1762-1773
+
+56. Managing Skew in Hadoop.
+Citations:50
+Authors: YC Kwon, K Ren, M Balazinska, B Howe, J Rolia
+Publication: IEEE Data Eng. Bull. 36 (1), 24-33
+
+57. Support the data enthusiast: Challenges for next-generation data-analysis systems
+Citations:49
+Authors: K Morton, M Balazinska, D Grossman, J Mackinlay
+Publication: Proceedings of the VLDB Endowment 7 (6), 453-456
+
+58. Hadoop's Adolescence; A Comparative Workloads Analysis from Three Research Clusters.
+Citations:47
+Authors: K Ren, G Gibson, YC Kwon, M Balazinska, B Howe
+Publication: SC Companion, 1452
+
+59. Asynchronous and fault-tolerant recursive datalog evaluation in shared-nothing engines
+Citations:46
+Authors: J Wang, M Balazinska, D Halperin
+Publication: Proceedings of the VLDB Endowment 8 (12), 1542-1553
+
+60. Believe it or not: adding belief annotations to databases
+Citations:44
+Authors: W Gatterbauer, M Balazinska, N Khoussainova, D Suciu
+Publication: Proceedings of the VLDB Endowment 2 (1), 1-12
+
+61. Learning state representations for query optimization with deep reinforcement learning
+Citations:40
+Authors: J Ortiz, M Balazinska, J Gehrke, SS Keerthi
+Publication: arXiv preprint arXiv:1803.08604
+
+62. The Myria Big Data Management and Analytics System and Cloud Services.
+Citations:38
+Authors: J Wang, T Baker, M Balazinska, D Halperin, B Haynes, B Howe, ...
+Publication: CIDR
+
+63. How to price shared optimizations in the cloud
+Citations:38
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (6), 562-573
+
+64. Probabilistic rfid data management
+Citations:38
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Technical Reprot TR2007-03-01, University of Washington, Seattle, Washington
+
+65. Longitudinal study of a building-scale rfid ecosystem
+Citations:35
+Authors: E Welbourne, K Koscher, E Soroush, M Balazinska, G Borriello
+Publication: Proceedings of the 7th international conference on Mobile systems …
+
+66. Time travel in a scientific array database
+Citations:33
+Authors: E Soroush, M Balazinska
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 98-109
+
+67. A comparison of stream-oriented high-availability algorithms
+Citations:32
+Authors: JH Hwang, M Balazinska, A Rasin, U Cetintemel, M Stonebraker, ...
+Publication: Technical Report TR-03-17, Computer Science Department, Brown University
+
+68. Comparative evaluation of big-data systems on scientific image analytics workloads
+Citations:31
+Authors: P Mehta, S Dorkenwald, D Zhao, T Kaftan, A Cheung, M Balazinska, ...
+Publication: Proceedings of the VLDB Endowment 10 (11), 1226-1237
+
+69. Peex: Extracting probabilistic events from RFID data
+Citations:31
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: In ICDE
+
+70. Querymarket demonstration: Pricing for online data markets
+Citations:29
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (12), 1962-1965
+
+71. Session-based browsing for more effective query reuse
+Citations:27
+Authors: N Khoussainova, YC Kwon, WT Liao, M Balazinska, W Gatterbauer, ...
+Publication: International Conference on Scientific and Statistical Database Management …
+
+72. The aurora and borealis stream processing engines
+Citations:25
+Authors: U Çetintemel, D Abadi, Y Ahmad, H Balakrishnan, M Balazinska, ...
+Publication: Data Stream Management, 337-359
+
+73. Changing the Face of Database Cloud Services with Personalized Service Level Agreements.
+Citations:25
+Authors: J Ortiz, VT De Almeida, M Balazinska
+Publication: CIDR
+
+74. Fault-tolerance and high availability in data stream management systems
+Citations:25
+Authors: M Balazinska, JH Hwang, MA Shah
+Publication: Encyclopedia of Database Systems, 1109-1115
+
+75. Approximate lifted inference with probabilistic databases
+Citations:24
+Authors: W Gatterbauer, D Suciu
+Publication: Proceedings of the VLDB Endowment 8 (5), 629-640
+
+76. Skewtune in action: Mitigating skew in mapreduce applications
+Citations:23
+Authors: YC Kwon, M Balazinska, B Howe, J Rolia
+Publication: Proceedings of the VLDB Endowment 5 (12), 1934-1937
+
+77. Astronomical image processing with hadoop
+Citations:23
+Authors: K Wiley, A Connolly, S Krughoff, J Gardner, M Balazinska, B Howe, ...
+Publication: Astronomical data analysis software and systems XX 442, 93
+
+78. Perfenforce demonstration: Data analytics with performance guarantees
+Citations:21
+Authors: J Ortiz, B Lee, M Balazinska
+Publication: Proceedings of the 2016 International Conference on Management of Data, 2141 …
+
+79. Public Data and Visualizations: How are Many Eyes and Tableau Public Used for Collaborative Analytics?
+Citations:20
+Authors: K Morton, M Balazinska, D Grossman, R Kosara, J Mackinlay
+Publication: ACM SIGMOD Record 43 (2), 17-22
+
+80. A vision for personalized service level agreements in the cloud
+Citations:20
+Authors: J Ortiz, VT De Almeida, M Balazinska
+Publication: Proceedings of the Second Workshop on Data Analytics in the Cloud, 21-25
+
+81. A discussion on pricing relational data
+Citations:19
+Authors: M Balazinska, B Howe, P Koutris, D Suciu, P Upadhyaya
+Publication: In Search of Elegance in the Theory and Practice of Computation, 167-173
+
+82. Biology and data-intensive scientific discovery in the beginning of the 21st century
+Citations:19
+Authors: A Smith, M Balazinska, C Baru, M Gomelsky, M McLennan, L Rose, ...
+Publication: Omics: a journal of integrative biology 15 (4), 209-212
+
+83. Approximation trade-offs in markovian stream processing: An empirical study
+Citations:19
+Authors: J Letchner, C Ré, M Balazinska, M Philipose
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 936-939
+
+84. PEEX: extracting probabilistic events from rd data
+Citations:19
+Authors: M Balazinska, N Khoussainova, D Suciu
+Publication: Proc. 24th Int. Conf. on Data Engineering
+
+85. Fault-tolerance and load management in a distributed stream processing system
+Citations:19
+Authors: M Balazinska
+Publication: Massachusetts Institute of Technology
+
+86. The aurora and medusa projects
+Citations:18
+Authors: SZ Sbz, S Zdonik, M Stonebraker, M Cherniack, UC Etintemel, ...
+Publication: IEEE Data Engineering Bulletin
+
+87. Pipegen: Data pipe generator for hybrid analytics
+Citations:17
+Authors: B Haynes, A Cheung, M Balazinska
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 470-483
+
+88. Squeezing a Big Orange into Little Boxes: The AscotDB System for Parallel Processing of Data on a Sphere.
+Citations:17
+Authors: J VanderPlas, E Soroush, KS Krughoff, M Balazinska, A Connolly
+Publication: IEEE Data Eng. Bull. 36 (4), 11-20
+
+89. Efficient iterative processing in the SciDB parallel array engine
+Citations:16
+Authors: E Soroush, M Balazinska, S Krughoff, A Connolly
+Publication: Proceedings of the 27th International Conference on Scientific and …
+
+90. Specification and verification of complex location events with panoramic
+Citations:15
+Authors: E Welbourne, M Balazinska, G Borriello, J Fogarty
+Publication: International Conference on Pervasive Computing, 57-75
+
+91. A demonstration of SciDB: A science-oriented DBMS
+Citations:15
+Authors: M Balazinska, J Becla, D Heath, D Maier, M Stonebraker, S Zdonik
+Publication: Cell 1 (a2)
+
+92. Machine learning and databases: The sound of things to come or a cacophony of hype?
+Citations:14
+Authors: C Ré, D Agrawal, M Balazinska, M Cafarella, M Jordan, T Kraska, ...
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+93. Automatic enforcement of data use policies with datalawyer
+Citations:14
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+94. Clustering events on streams using complex context information
+Citations:14
+Authors: YC Kwon, WY Lee, M Balazinska, G Xu
+Publication: 2008 IEEE International Conference on Data Mining Workshops, 238-247
+
+95. Expressing privacy policies using authorization views
+Citations:12
+Authors: V Rastogi, E Welbourne, N Khoussainova, T Kriplean, M Balazinska, ...
+Publication: Proceedings of 9th international conference on ubiquitous computing …
+
+96. The aurora and medusa projects
+Citations:12
+Authors: U Cetintemel
+Publication: Data Engineering 51 (3)
+
+97. Challenges for event queries over markovian streams
+Citations:11
+Authors: J Letchner, C Ré, M Balazinska, M Philipose
+Publication: IEEE Internet Computing 12 (6), 30-36
+
+98. On-Demand View Materialization and Indexing for Network Forensic Analysis.
+Citations:11
+Authors: R Geambasu, T Bragin, J Jung, M Balazinska
+Publication: NetDB
+
+99. Designing good algorithms for MapReduce and beyond
+Citations:10
+Authors: FN Afrati, M Balazinska, AD Sarma, B Howe, S Salihoglu, JD Ullman
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 26
+
+100. Elastic memory management for cloud data analytics
+Citations:9
+Authors: J Wang, M Balazinska
+Publication: 2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 745-758
+
+101. Price-optimal querying with data apis
+Citations:8
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 9 (14), 1695-1706
+
+102. Gaussian mixture models use-case: in-memory analysis with myria
+Citations:8
+Authors: R Maas, J Hyrkas, OG Telford, M Balazinska, A Connolly, B Howe
+Publication: Proceedings of the 3rd VLDB Workshop on In-Memory Data Mangement and …
+
+103. AZDBLab: a laboratory information system for large-scale empirical DBMS studies
+Citations:8
+Authors: YK Suh, RT Snodgrass, R Zhang
+Publication: Proceedings of the VLDB Endowment 7 (13), 1641-1644
+
+104. A demonstration of iterative parallel array processing in support of telescope image analysis
+Citations:8
+Authors: M Moyers, E Soroush, SC Wallace, S Krughoff, J Vanderplas, ...
+Publication: Proceedings of the VLDB Endowment 6 (12), 1322-1325
+
+105. Lahar demonstration: Warehousing markovian streams
+Citations:8
+Authors: J Letchner, C Ré, M Balazinska, M Philipose
+Publication: Proceedings of the VLDB Endowment 2 (2), 1610-1613
+
+106. Cuttlefish: A lightweight primitive for adaptive query processing
+Citations:7
+Authors: T Kaftan, M Balazinska, A Cheung, J Gehrke
+Publication: arXiv preprint arXiv:1802.09180
+
+107. Toward elastic memory management for cloud data analytics
+Citations:7
+Authors: J Wang, M Balazinska
+Publication: Proceedings of the 3rd ACM SIGMOD Workshop on Algorithms and Systems for …
+
+108. Context-aware suggestions for structured queries
+Citations:7
+Authors: N Khoussainova, Y Kwon, M Balazinska, D Suciu
+Publication: US Patent App. 13/631,356
+
+109. Hybrid merge/overlap execution technique for parallel array processing
+Citations:7
+Authors: E Soroush, M Balazinska
+Publication: Proceedings of the EDBT/ICDT 2011 Workshop on Array Databases, 20-30
+
+110. Probabilistic database summarization for interactive data exploration
+Citations:6
+Authors: L Orr, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 10 (10), 1154-1165
+
+111. Visualcloud demonstration: A dbms for virtual reality
+Citations:6
+Authors: B Haynes, A Minyaylov, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+112. Stop That Query! The Need for Managing Data Use.
+Citations:6
+Authors: P Upadhyaya, NR Anderson, M Balazinska, B Howe, R Kaushik, ...
+Publication: CIDR
+
+113. Identifying similar past events in a continuous monitoring system
+Citations:6
+Authors: YC Kwon, G Xu, M Balazinska
+Publication: Proceedings of the 2007 VLDB, 23-28
+
+114. Design issues for second generation stream processing engines
+Citations:6
+Authors: DJ Abadi, Y Ahmad, M Balazinska, U Cetintemel, M Cherniack, JH Hwang, ...
+Publication: Proc. of the Conference for Innovative Database Research (CIDR), Asilomar, CA
+
+115. SLAOrchestrator: reducing the cost of performance SLAs for cloud data analytics
+Citations:5
+Authors: J Ortiz, B Lee, M Balazinska, J Gehrke, JL Hellerstein
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 547-560
+
+116. PerfEnforce: a dynamic scaling engine for analytics with performance guarantees
+Citations:5
+Authors: J Ortiz, B Lee, M Balazinska, JL Hellerstein
+Publication: arXiv preprint arXiv:1605.09753
+
+117. A Measurement Study of Two Web-based Collaborative Visual Analytics Systems
+Citations:5
+Authors: K Morton, M Balazinska, D Grossman, R Kosara, J Mackinlay, A Halevy
+Publication: Technical Report
+
+118. Availability-consistency trade-offs in a fault-tolerant stream processing system
+Citations:5
+Authors: M Balazinska, H Balakrishnan, S Madden, M Stonebraker
+Publication: 
+
+119. LightDB: a DBMS for virtual reality video
+Citations:4
+Authors: B Haynes, A Mazumdar, A Alaghi, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the VLDB Endowment 11 (10), 1192-1205
+
+120. Affordable Analytics on Expensive Data.
+Citations:4
+Authors: P Upadhyaya, M Unutzer, M Balazinska, D Suciu, H Hacigümüs
+Publication: Data4U@ VLDB, 19
+
+121. Big-data management use-case: A cloud service for creating and analyzing galactic merger trees
+Citations:4
+Authors: S Loebman, J Ortiz, LL Choo, L Orr, L Anderson, D Halperin, ...
+Publication: Proceedings of Workshop on Data analytics in the Cloud, 1-4
+
+122. Approximation trade-offs in a Markovian stream warehouse: An empirical study
+Citations:4
+Authors: J Letchner, M Balazinska, C Ré, M Philipose
+Publication: Information Systems 39, 290-304
+
+123. The power of data use management in action
+Citations:4
+Authors: P Upadhyaya, N Anderson, M Balazinska, B Howe, R Kaushik, ...
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+124. Event detection in mobile sensor networks
+Citations:4
+Authors: M Balazinska
+Publication: National Science Foundation (NSF) Workshop on Data Management for Mobile …
+
+125. Big data research: will industry solve all the problems?
+Citations:3
+Authors: M Balazinska
+Publication: Proceedings of the VLDB Endowment 8 (12), 2053-2056
+
+126. Optimizing index deployment order for evolving OLAP
+Citations:3
+Authors: H Kimura, C Coffrin, A Rasin, SB Zdonik
+Publication: Proceedings of the 15th International Conference on Extending Database …
+
+127. A demonstration of cascadia through a digital diary application
+Citations:3
+Authors: N Khoussainova, E Welbourne, M Balazinska, G Borriello, G Cole, ...
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+128. Capability-based access control for peer-to-peer data sharing
+Citations:3
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Tech report 2006-07-02. University of Washington
+
+129. Proceedings of the ACM SIGMOD international conference on Management of data
+Citations:3
+Authors: X Yan, P Yu, J Han
+Publication: 
+
+130. Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities
+Citations:2
+Authors: W Cai, M Balazinska, D Suciu
+Publication: Proceedings of the 2019 International Conference on Management of Data, 18-35
+
+131. Automated Analysis of Muscle X-ray Diffraction Imaging with MCMC
+Citations:2
+Authors: CD Williams, M Balazinska, TL Daniel
+Publication: Biomedical Data Management and Graph Online Querying, 126-133
+
+132. Lineage for Markovian stream event queries
+Citations:2
+Authors: J Letchner, M Balazinska
+Publication: Proceedings of the 10th ACM International Workshop on Data Engineering for …
+
+133. The case for being lazy: How to leverage lazy evaluation in MapReduce
+Citations:2
+Authors: K Morton, M Balazinska, D Grossman, C Olston
+Publication: Proceedings of the 2nd international workshop on Scientific cloud computing, 1-6
+
+134. Sensor Data Stream Exploration for Monitoring Applications
+Citations:2
+Authors: S Xu, M Balazinska
+Publication: DMSN
+
+135. Lahar, Warehousing Markovian Streams
+Citations:2
+Authors: JM Letchner, M Balazinska
+Publication: University of Washington
+
+136. AURA: Enabling attribute-based spatial search in RFID rich environments
+Citations:2
+Authors: TA Bapat, KS Candan, VS Cherukuri, H Sundaram
+Publication: 2009 IEEE 25th International Conference on Data Engineering, 1211-1214
+
+137. The design of the borealis stream processing engine
+Citations:2
+Authors: M Balazinska
+Publication: CIDR, 2005
+
+138. A study on eye movement strategies for a depth discrimination task in a''pseudo''natural context
+Citations:2
+Authors: F Labonte, M Balazinska, J Faubert
+Publication: INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 37 (3), 1321-1321
+
+139. A Demonstration of Interactive Analysis of Performance Measurements with Viska
+Citations:1
+Authors: H Gudmundsdottir, B Salimi, M Balazinska, DRK Ports, D Suciu
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+140. View-Driven Deduplication with Active Learning
+Citations:1
+Authors: K Morton, H Hajishirzi, M Balazinska, D Grossman
+Publication: arXiv preprint arXiv:1606.05708
+
+141. Towards efficient and precise queries over ten million asteroid trajectory models
+Citations:1
+Authors: Y AlSayyad, KS Krughoff, B Howe, AJ Connolly, M Balazinska, L Jones
+Publication: International Conference on Scientific and Statistical Database Management …
+
+142. SQB: Session-based Query Browsing for More Effective Query Reuse
+Citations:1
+Authors: N Khoussainova, Y Kwon, WT Liao, M Balazinska, W Gatterbauer, ...
+Publication: Technical Report 2011-04-02, Department of Computer Science and Engineering …
+
+143. A latency and fault-tolerance optimizer for parallel data processing systems
+Citations:1
+Authors: P Upadhyaya, Y Kwon, M Balazinska
+Publication: Univ. of Washington, Tech. Rep
+
+144. Medusa: Scalable Distributed Stream Processing
+Citations:1
+Authors: M Balazinska, H Balakrishnan, E Demaine, H Iwashima, A Miu, J Salz, ...
+Publication: MIT Laboratory for Computer Science
+
+145. The medusa distributed stream-processing system
+Citations:1
+Authors: M Balazinska, H Balakrishnan, J Salz, M Stonebreaker
+Publication: 
+
+146. Specification, Detection, and Notification of RFID Events with Cascadia
+Citations:1
+Authors: E Welbourne, G Cole, N Khoussainova, J Letchner, Y Li, M Balazinska, ...
+Publication: Pearson Publishers
+
+147. Visual Road: A Video Data Management Benchmark
+Citations:
+Authors: B Haynes, A Mazumdar, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the 2019 International Conference on Management of Data, 972-987
+
+148. An Empirical Analysis of Deep Learning for Cardinality Estimation
+Citations:
+Authors: J Ortiz, M Balazinska, J Gehrke, SS Keerthi
+Publication: arXiv preprint arXiv:1905.06425
+
+149. Vignette: Perceptual Compression for Video Storage and Processing Systems
+Citations:
+Authors: A Mazumdar, B Haynes, M Balazinska, L Ceze, A Cheung, M Oskin
+Publication: arXiv preprint arXiv:1902.01372
+
+150. ASTROstream: Automated claSsification of Transient astRonomical phenOmena in the streaming mode
+Citations:
+Authors: VZ Golkhou, A Connolly, M Balazinska
+Publication: American Astronomical Society Meeting Abstracts# 233 233
+
+151. Cloud Services as an environment for large scale astronomical image analytics.
+Citations:
+Authors: D Bektesevic, P Mehta, M Juric, C Slater, M Balazinska, A Connolly
+Publication: American Astronomical Society Meeting Abstracts# 233 233
+
+152. Databases meet the stream processing era
+Citations:
+Authors: M Balazinska, S Zdonik
+Publication: Making Databases Work, 225-234
+
+153. Enabling Computer and Information Science and Engineering Research and Education in the Cloud
+Citations:
+Authors: J Rexford, M Balazinska, D Culler, J Wing
+Publication: National Science Foundation
+
+154. Multilabel multiclass classification of OCT images augmented with age, gender and visual acuity data
+Citations:
+Authors: P Mehta, AY Lee, C Lee, M Balazinska, A Rokem
+Publication: bioRxiv, 316349
+
+155. Keynote: Research with Real Users
+Citations:
+Authors: M Balazinska
+Publication: 2017 IEEE 33rd International Conference on Data Engineering (ICDE), 1425-1425
+
+156. A Visual Cloud for Virtual Reality Applications.
+Citations:
+Authors: M Balazinska, L Ceze, A Cheung, B Curless, SM Seitz
+Publication: CIDR
+
+157. Letter from the SIGMOD executive committee
+Citations:
+Authors: D Kossmann, A Ailamaki, M Balazinska, K Candan, Y Diao, C Dyreson, ...
+Publication: Sigmod Record 44 (3), 5-6
+
+158. Proceedings of the VLDB Endowment Proceedings of the 41st International Conference on Very Large Data Bases, Kohala Coast, Hawaii
+Citations:
+Authors: F Oezcan
+Publication: PROCEEDINGS OF THE VLDB ENDOWMENT 8 (9), IX-IX
+
+159. The database group at the University of Washington.
+Citations:
+Authors: M Balazinska, B Howe, D Suciu
+Publication: SIGMOD Record 43 (1), 39-44
+
+160. Education and career paths for data scientists
+Citations:
+Authors: M Balazinska, SB Davidson, B Howe, A Labrinidis
+Publication: Proceedings of the 25th International Conference on Scientific and …
+
+161. Semih Salihoglu
+Citations:
+Authors: M Balazinska, A Das Sarma, B Howe
+Publication: Conference on Scientific and Statistical Database Management (SSDBM)
+
+162. Welcome message from TPC chairs
+Citations:
+Authors: PJ Lee, JM Guo
+Publication: Proceedings of the International Symposium on Consumer Electronics, ISCE
+
+163. Beyond MapReduce: New Requirements for Scalable Data Processing
+Citations:
+Authors: B Howe, M Balazinska
+Publication: Data-Intensive Computing: Architectures, Algorithms, and Applications
+
+164. Data management tools for scientific analytics
+Citations:
+Authors: M Balazinska
+Publication: Omics: a journal of integrative biology 15 (4), 227-230
+
+165. WCRE 2000 Most Influential Paper
+Citations:
+Authors: M Balazinska, E Merlo, M Dagenais, B Lague, K Kontogiannis
+Publication: 2010 17th Working Conference on Reverse Engineering, xvi-xvi
+
+166. CSE 599c Scientific Data Management
+Citations:
+Authors: M Balazinska, B Howe
+Publication: 
+
+167. Session details: Systems and protypes
+Citations:
+Authors: M Balazinska
+Publication: ACM SIGMOD Record 38 (2)
+
+168. SIGMOD Officers, Committees, and Awardees
+Citations:
+Authors: A Board, T Özsu
+Publication: SIGMOD Record 38 (2), 1
+
+169. CSE 544 Principles of Database Management Systems
+Citations:
+Authors: M Balazinska
+Publication: 
+
+170. Systems aspects of probabilistic data management
+Citations:
+Authors: M Balazinska, C Ré, D Suciu
+Publication: Proceedings of the VLDB Endowment 1 (2), 1520-1521
+
+171. RFID Event Specification Using Templates in Scenic and Event Notification
+Citations:
+Authors: K Gould, E Welbourne, M Balazinska
+Publication: 
+
+172. Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007)
+Citations:
+Authors: M Balazinska, A Deshpande, A Labrinidis, Q Luo, S Madden, J Yang
+Publication: ACM SIGMOD Record 36 (4), 53-55
+
+173. Spatial consumer behaviour in small and medium-sized towns.
+Citations:
+Authors: K Hou, J Zhang, RE Bryant, Y Bu, B Howe, M Balazinska, MD Ernst, ...
+Publication: Information Technology Journal 12 (6), pp: 285-296
+
+174. Fall 2007 Lecture 8-Operator Algorithms
+Citations:
+Authors: M Balazinska
+Publication: 
+
+175. Spring 2006 Lecture 2-The Relational Model
+Citations:
+Authors: M Balazinska
+Publication: 
+
+176. Building and Querying Probabilistic Models for Open World Database Systems
+Citations:
+Authors: L Orr, M Balazinska, D Suciu
+Publication: 
+
+177. Performance-Based Service Level Agreements for Data Analytics in the Cloud
+Citations:
+Authors: J Ortiz, M Balazinska, D Suciu, H Hajishirzi
+Publication: 
+
+178. General Terms
+Citations:
+Authors: K Morton, M Balazinska, D Grossman, C Olston
+Publication: 
+
+179. SkewTune in Action
+Citations:
+Authors: YC Kwon, M Balazinska, B Howe, J Rolia
+Publication: 
+
+180. Believe It or Not–Adding belief annota ons to databases
+Citations:
+Authors: W GaFerbauer, M Balazinska, N Khoussainova, D Suciu
+Publication: 
+
+181. SLAOrchestrator: Reducing the Cost of Performance SLAs for Cloud Data Analytics (Tech Report)
+Citations:
+Authors: J Ortiz, B Lee, M Balazinska, J Gehrke, JL Hellerstein
+Publication: 
+
+182. usenix conference policies
+Citations:
+Authors: M Balazinska, P Castro
+Publication: 
+
+183. 11th Annual USENIX Security Symposium &# 151; Technical Paper
+Citations:
+Authors: N Feamster, M Balazinska, G Harfst, H Balakrishnan, D Karger
+Publication: 
+
+184. Hadepot: A Repository of Big-Data Applications
+Citations:
+Authors: M Balazinska
+Publication: 
+
+185. Machine Learning and Databases: The Sound of Things to Come or a Cacophony of Hype?
+Citations:
+Authors: D Agrawal, M Balazinska, M Cafarella, M Jordan, T Kraska, ...
+Publication: 
+
+186. Mark Adler, Nokia Jalal Al-Muhtadi, King Saud Univ.
+Citations:
+Authors: G Anders, M Baker, M Balazinska, S Banerjee, S Banerjee, J Bardram, ...
+Publication: 
+
+187. Data Engineering
+Citations:
+Authors: T Heinis, F Tauheed, M Pavlovic, A Ailamaki, J Vanderplas, E Soroush, ...
+Publication: 
+
+188. Ashman, Helen, see Li, Qing.
+Citations:
+Authors: R Atkinson, D Ayers, F Baker, M Balazinska, D Banks, A Bartoli, L Battle, ...
+Publication: 
+
+189. Demo Program Committee
+Citations:
+Authors: S Amer-Yahia, A Arasu, S Arvindam, M Balazinska, F Casati, ...
+Publication: 
+
+190. Toward Supporting the Data Enthusiast: Unlocking the Potential of Data for Analysis
+Citations:
+Authors: K Morton, M Balazinska, D Grossman, J Mackinlay
+Publication: 
+
+191. Martin Bauer, TU München Victor Bayon, University of Nottingham Reinhold Behringer, Rockwell Scientific Blaine Bell, Columbia University Gary Bishop, UNC
+Citations:
+Authors: D Aemmer, BD Allen, D Ashbrook, S Ashdown, C Baber, M Balazinska
+Publication: 
+
+192. Toward A Progress Indicator for Parallel Queries
+Citations:
+Authors: K Morton, A Friesen, M Balazinska, D Grossman
+Publication: 
+
+193. A Demonstration of ScenicPeex Through a Digital Diary Application
+Citations:
+Authors: N Khoussainova, E Welbourne, M Balazinska, G Borriello, J Letchner, ...
+Publication: 
+
+194. UW TR:# TR08-07-01
+Citations:
+Authors: J Letchner, C Ré, M Balazinska, M Philipose
+Publication: 
+
+195. Looking Inside the Virtualization Layer for Performance, Security and Software Fault Tolerance………………………………… 3
+Citations:
+Authors: A Polze, D Montesi, H Castro, W Kurschl, A Schmidt, K Vanmechelen, ...
+Publication: 
+
+196. The Science of Cloud Computing–PI Meeting Application
+Citations:
+Authors: M Balazinska
+Publication: 
+
+197. Creating a Desktop Search Application That Utilizes RFID Ecosystem© and Google Desktop©
+Citations:
+Authors: K Rector, E Welbourne, M Balazinska
+Publication: 
+
+198. Improving Query Processing on Imprecise Data Streams
+Citations:
+Authors: E Gabrielova, J Letchner, M Balazinska
+Publication: 
+
+199. Twine: Scalable intentional resource discovery for pervasive computing environments
+Citations:
+Authors: M Balazinska, H Balakrishnan
+Publication: 
+
+200. MESSAGE FROM THE RFDM’08 GENERAL CO-CHAIRS
+Citations:
+Authors: M Balazinska, K Murthy
+Publication: 
+
+201. Data Engineering
+Citations:
+Authors: S Zdonik, M Stonebraker, M Cherniack, M Balazinska, H Balakrishnan, ...
+Publication: 
+
+202. Data Engineering
+Citations:
+Authors: M Stonebraker, M Cherniack, U Cetintemel, M Balazinska, ...
+Publication: 
+

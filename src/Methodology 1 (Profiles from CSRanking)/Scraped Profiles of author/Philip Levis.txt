@@ -1,0 +1,1203 @@
+https://scholar.google.com/citations?hl=en&user=I_YsXU4AAAAJ
+Total Citations = 28551
+
+1. TOSSIM: Accurate and scalable simulation of entire TinyOS applications
+Citations:2810
+Authors: P Levis, N Lee, M Welsh, D Culler
+Publication: Proceedings of the 1st international conference on Embedded networked sensor …
+
+2. The nesC language: A holistic approach to networked embedded systems
+Citations:2610
+Authors: D Gay, P Levis, R Von Behren, M Welsh, E Brewer, D Culler
+Publication: Acm Sigplan Notices 49 (4), 41-51
+
+3. TinyOS: An operating system for sensor networks
+Citations:1931
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: Ambient intelligence, 115-148
+
+4. RPL: IPv6 routing protocol for low-power and lossy networks
+Citations:1736
+Authors: T Winter
+Publication: 
+
+5. Collection tree protocol
+Citations:1554
+Authors: O Gnawali, R Fonseca, K Jamieson, D Moss, P Levis
+Publication: Proceedings of the 7th ACM conference on embedded networked sensor systems, 1-14
+
+6. Maté: A tiny virtual machine for sensor networks
+Citations:1479
+Authors: P Levis, D Culler
+Publication: ACM Sigplan Notices 37 (10), 85-95
+
+7. Practical, real-time, full duplex wireless
+Citations:1343
+Authors: M Jain, JI Choi, T Kim, D Bharadia, S Seth, K Srinivasan, P Levis, S Katti, ...
+Publication: Proceedings of the 17th annual international conference on Mobile computing …
+
+8. Trickle: A self-regulating algorithm for code propagation and maintenance in wireless sensor networks
+Citations:1204
+Authors: P Levis, N Patel, D Culler, S Shenker
+Publication: Proc. of the 1st USENIX/ACM Symp. on Networked Systems Design and …
+
+9. RSSI is under appreciated
+Citations:792
+Authors: K Srinivasan, P Levis
+Publication: Proceedings of the third workshop on embedded networked sensors (EmNets) 2006
+
+10. The Emergence of Networking Abstractions and Techniques in TinyOS.
+Citations:587
+Authors: P Levis, S Madden, D Gay, J Polastre, R Szewczyk, A Woo, EA Brewer, ...
+Publication: NSDI 4, 1-1
+
+11. Radio link quality estimation in wireless sensor networks: A survey
+Citations:560
+Authors: N Baccour, A Koubâa, L Mottola, MA Zúñiga, H Youssef, CA Boano, ...
+Publication: ACM Transactions on Sensor Networks (TOSN) 8 (4), 34
+
+12. Applications of self-interference cancellation in 5G and beyond
+Citations:541
+Authors: S Hong, J Brand, JI Choi, M Jain, J Mehlman, S Katti, P Levis
+Publication: IEEE Communications Magazine 52 (2), 114-121
+
+13. A high-resolution human contact network for infectious disease transmission
+Citations:493
+Authors: M Salathé, M Kazandjieva, JW Lee, P Levis, MW Feldman, JH Jones
+Publication: Proceedings of the National Academy of Sciences 107 (51), 22020-22025
+
+14. Single channel full duplex wireless communications
+Citations:462
+Authors: M Jain, JI Choi, K Srinivasan, P Levis, S Katti, S Seth
+Publication: US Patent 9,887,728
+
+15. Adaptive techniques for full duplex communications
+Citations:457
+Authors: D Bharadia, JI Choi, M Jain, S Katti, TM Kim, P Levis
+Publication: US Patent App. 13/293,072
+
+16. Four-bit wireless link estimation.
+Citations:407
+Authors: R Fonseca, O Gnawali, K Jamieson, P Levis
+Publication: HotNets
+
+17. TinyOS programming
+Citations:406
+Authors: P Levis, D Gay
+Publication: Cambridge University Press
+
+18. Policies for dynamic clock scheduling
+Citations:372
+Authors: D Grunwald, CB Morrey III, P Levis, M Neufeld, KI Farkas
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+19. The trickle algorithm
+Citations:371
+Authors: P Levis, TH Clausen
+Publication: 
+
+20. A unifying link abstraction for wireless sensor networks
+Citations:359
+Authors: J Polastre, J Hui, P Levis, J Zhao, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 3rd international conference on Embedded networked sensor …
+
+21. The β-factor: measuring wireless link burstiness
+Citations:339
+Authors: K Srinivasan, MA Kazandjieva, S Agarwal, P Levis
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems, 29-42
+
+22. An empirical study of low-power wireless
+Citations:338
+Authors: K Srinivasan, P Dutta, A Tavakoli, P Levis
+Publication: ACM Transactions on Sensor Networks (TOSN) 6 (2), 16
+
+23. Flush: a reliable bulk transport protocol for multihop wireless networks
+Citations:287
+Authors: S Kim, R Fonseca, P Dutta, A Tavakoli, D Culler, P Levis, S Shenker, ...
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+24. Active sensor networks
+Citations:286
+Authors: P Levis, D Gay, D Culler
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+25. Openradio: a programmable wireless dataplane
+Citations:278
+Authors: M Bansal, J Mehlman, S Katti, P Levis
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+26. BoX-MACs: Exploiting physical and link layer boundaries in low-power networking
+Citations:270
+Authors: D Moss, P Levis
+Publication: Computer Systems Laboratory Stanford University 64 (66), 120
+
+27. Improving wireless simulation through noise modeling
+Citations:261
+Authors: HJ Lee, A Cerpa, P Levis
+Publication: Proceedings of the 6th international conference on Information processing in …
+
+28. Tossim: A simulator for tinyos networks
+Citations:259
+Authors: P Levis, N Lee
+Publication: UC Berkeley, September 24
+
+29. Understanding the causes of packet delivery success and failure in dense wireless sensor networks
+Citations:235
+Authors: K Srinivasan, P Dutta, A Tavakoli, P Levis
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+30. Quanto: Tracking Energy in Networked Embedded Systems.
+Citations:200
+Authors: R Fonseca, P Dutta, P Levis, I Stoica
+Publication: OSDI 8, 323-338
+
+31. The design and implementation of a declarative sensor network system
+Citations:200
+Authors: D Chu, L Popa, A Tavakoli, JM Hellerstein, P Levis, S Shenker, I Stoica
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+32. The minimum rank with hysteresis objective function
+Citations:192
+Authors: O Gnawali
+Publication: 
+
+33. Connecting low-power and lossy networks to the internet
+Citations:191
+Authors: JG Ko, A Terzis, S Dawson-Haggerty, DE Culler, JW Hui, P Levis
+Publication: IEEE Communications Magazine 49 (4), 96-101
+
+34. Towards a Sensor Network Architecture: Lowering the Waistline.
+Citations:165
+Authors: DE Culler, P Dutta, CT Ee, R Fonseca, J Hui, P Levis, J Polastre, ...
+Publication: HotOS
+
+35. T2: A second generation OS for embedded sensor networks
+Citations:157
+Authors: P Levis, D Gay, V Handziski, JH Hauer, B Greenstein, M Turon, J Hui, ...
+Publication: Technical Report TKN-05-007, Telecommunication Networks Group, Technische …
+
+36. Elapsed time on arrival: a simple and versatile primitive for canonical time synchronisation services
+Citations:155
+Authors: B Kusy, P Dutta, P Levis, M Maroti, A Ledeczi, D Culler
+Publication: International Journal of Ad Hoc and Ubiquitous Computing 1 (4), 239-251
+
+37. TinyOS programming
+Citations:154
+Authors: P Levis
+Publication: available in http://www. tinyos. net/tinyos-2. x/doc/pdf/tinyos-programming. pdf
+
+38. nesC 1.1 language reference manual
+Citations:153
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: May
+
+39. Energy management in mobile devices with the cinder operating system
+Citations:151
+Authors: A Roy, SM Rumble, R Stutsman, P Levis, D Mazières, N Zeldovich
+Publication: Proceedings of the sixth conference on Computer systems, 139-152
+
+40. Data discovery and dissemination with dip
+Citations:151
+Authors: K Lin, P Levis
+Publication: Proceedings of the 7th international conference on Information processing in …
+
+41. CTP: An efficient, robust, and reliable collection tree protocol for wireless sensor networks
+Citations:138
+Authors: O Gnawali, R Fonseca, K Jamieson, M Kazandjieva, D Moss, P Levis
+Publication: ACM Transactions on Sensor Networks (TOSN) 10 (1), 16
+
+42. Long-term modification of cortical synapses improves sensory perception
+Citations:138
+Authors: RC Froemke, I Carcea, AJ Barker, K Yuan, BA Seybold, ARO Martins, ...
+Publication: Nature neuroscience 16 (1), 79
+
+43. The κ factor: inferring protocol performance using inter-link reception correlation
+Citations:137
+Authors: K Srinivasan, M Jain, JI Choi, T Azim, ES Kim, P Levis, B Krishnamachari
+Publication: Proceedings of the sixteenth annual international conference on Mobile …
+
+44. TOSThreads: thread-safe and non-invasive preemption in TinyOS.
+Citations:129
+Authors: K Klues, CJM Liang, J Paek, R Musaloiu-Elefteri, P Levis, A Terzis, ...
+Publication: SenSys 9, 127-140
+
+45. Trickle: A self-regulating algorithm for code maintenance and propagation in wireless sensor networks
+Citations:107
+Authors: P Levis
+Publication: Proc. of the USENIX NSDI Conf., 2004
+
+46. Signal cancellation using feedforward and feedback paths
+Citations:100
+Authors: JI Choi, S Hong, M Jain, S Katti, P Levis, J Mehlman
+Publication: US Patent 9,490,963
+
+47. Feed forward signal cancellation
+Citations:100
+Authors: JI Choi, S Hong, M Jain, S Katti, P Levis, J Mehlman
+Publication: US Patent App. 14/106,664
+
+48. Integrating concurrency control and energy management in device drivers
+Citations:96
+Authors: K Klues, V Handziski, C Lu, A Wolisz, D Culler, D Gay, P Levis
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 251-264
+
+49. Janus: A novel MAC protocol for full duplex radio
+Citations:94
+Authors: JY Kim, O Mashayekhi, H Qu, M Kazandjieva, P Levis
+Publication: CSTR 2 (7), 23
+
+50. The emergence of a networking primitive in wireless sensor networks
+Citations:93
+Authors: P Levis, E Brewer, D Culler, D Gay, S Madden, N Patel, J Polastre, ...
+Publication: Communications of the ACM 51 (7), 99-106
+
+51. The collection tree protocol (CTP)
+Citations:89
+Authors: R Fonseca, O Gnawali, K Jamieson, S Kim, P Levis, A Woo
+Publication: TinyOS TEP 123 (2)
+
+52. Software design patterns for TinyOS
+Citations:86
+Authors: D Gay, P Levis, D Culler
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 6 (4), 22
+
+53. Overview of existing routing protocols for low power and lossy networks
+Citations:84
+Authors: P Levis, A Tavakoli, S Dawson-Haggerty
+Publication: Internet Engineering Task Force, Internet-Draft draftietf-roll-protocols …
+
+54. Visibility: A new metric for protocol design
+Citations:78
+Authors: M Wachs, JI Choi, JW Lee, K Srinivasan, Z Chen, M Jain, P Levis
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+55. An architecture for energy management in wireless sensor networks.
+Citations:78
+Authors: X Jiang, J Taneja, J Ortiz, A Tavakoli, P Dutta, J Jeong, DE Culler, P Levis, ...
+Publication: SIGBED Review 4 (3), 31-36
+
+56. The firecracker protocol
+Citations:77
+Authors: P Levis, D Culler
+Publication: Proceedings of the 11th workshop on ACM SIGOPS European workshop, 3
+
+57. Some implications of low power wireless to ip networking
+Citations:74
+Authors: K Srinivasan, P Dutta, A Tavakoli, P Levis
+Publication: Proc. of the ACM Hot-Nets Conf, 31-37
+
+58. Bridging the gap: Programming sensor networks with application specific virtual machines
+Citations:72
+Authors: PA Levis, DE Gay, DE Culler
+Publication: Computer Science Division, University of California
+
+59. Surviving sensor network software faults
+Citations:68
+Authors: Y Chen, O Gnawali, M Kazandjieva, P Levis, J Regehr
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+60. RPL: IPv6 routing protocol for low-power and lossy networks
+Citations:67
+Authors: A Brandt, J Hui, R Kelsey, P Levis, K Pister, R Struik, J Vasseur, ...
+Publication: RFC 6550
+
+61. Ctp: Robust and efficient collection through control and data plane integration
+Citations:64
+Authors: O Gnawali, R Fonseca, K Jamieson, P Levis
+Publication: Stanford Information Networks Group Technical Report SING-08-02
+
+62. The collection tree protocol
+Citations:62
+Authors: R Fonseca, O Gnawali, K Jamieson, S Kim, P Levis, A Woo
+Publication: TinyOS TEP 123 (2)
+
+63. nesC 1.2 language reference manual
+Citations:61
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: Techn. Ber. Aug
+
+64. Interface contracts for tinyos
+Citations:59
+Authors: W Archer, P Levis, J Regehr
+Publication: 2007 6th International Symposium on Information Processing in Sensor …
+
+65. Tinyos: An open operating system for wireless sensor networks (invited seminar)
+Citations:58
+Authors: PA Levis
+Publication: 7th International Conference on Mobile Data Management (MDM'06), 63-63
+
+66. Ambient Intelligence
+Citations:57
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: TinyOS: an operating system for sensor networks ambient intelligence, 115-148
+
+67. Beyond full duplex wireless
+Citations:52
+Authors: JI Choi, S Hong, M Jain, S Katti, P Levis, J Mehlman
+Publication: 2012 Conference Record of the Forty Sixth Asilomar Conference on Signals …
+
+68. Experiences from a decade of TinyOS development
+Citations:52
+Authors: P Levis
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+69. SWAT: enabling wireless network measurements
+Citations:38
+Authors: K Srinivasan, MA Kazandjieva, M Jain, E Kim, P Levis
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems …
+
+70. Apprehending joule thieves with cinder
+Citations:35
+Authors: SM Rumble, R Stutsman, P Levis, D Mazières, N Zeldovich
+Publication: ACM SIGCOMM Computer Communication Review 40 (1), 106-111
+
+71. The case for a network protocol isolation layer
+Citations:35
+Authors: J Il Choi, MA Kazandjieva, M Jain, P Levis
+Publication: Proceedings of the 7th ACM Conference on Embedded Networked Sensor Systems …
+
+72. Multiprogramming a 64kb computer safely and efficiently
+Citations:31
+Authors: A Levy, B Campbell, B Ghena, DB Giffin, P Pannuto, P Dutta, P Levis
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 234-251
+
+73. Viral Code Propagation in Wireless Sensor Networks
+Citations:30
+Authors: P Levis
+Publication: EECS Department, University of California at Berkeley, printed on Mar 8
+
+74. Energy dumpster diving
+Citations:29
+Authors: M Kazandjieva, B Heller, P Levis, C Kozyrakis
+Publication: Proc. 2nd Workshop on Power Aware Computing (Hot-Power’09), 1-5
+
+75. Beetle: Flexible communication for bluetooth low energy
+Citations:28
+Authors: AA Levy, J Hong, L Riliskis, P Levis, K Winstein
+Publication: Proceedings of the 14th Annual International Conference on Mobile Systems …
+
+76. Experiences in measuring a human contact network for epidemiology research
+Citations:28
+Authors: MA Kazandjieva, JW Lee, M Salathé, MW Feldman, JH Jones, P Levis
+Publication: Proceedings of the 6th Workshop on Hot Topics in Embedded Networked Sensors, 7
+
+77. Tython: a dynamic simulation environment for sensor networks
+Citations:28
+Authors: M Demmer, P Levis, A Joki, E Brewer, D Culler
+Publication: EECS Department, UCBerkeley, Tech. Rep. UCB/CSD-05-1372
+
+78. Whirlpool routing for mobility
+Citations:25
+Authors: JW Lee, B Kusy, T Azim, B Shihada, P Levis
+Publication: Proceedings of the eleventh ACM international symposium on Mobile ad hoc …
+
+79. Identifying energy waste through dense power sensing and utilization monitoring
+Citations:25
+Authors: M Kazandjieva, O Gnawali, B Heller, P Levis, C Kozyrakis
+Publication: Computer Science Technical Report CSTR 3
+
+80. Ad-hoc routing component architecture
+Citations:24
+Authors: P Levis
+Publication: the TinyOS documentation site, available in http://today. cs. berkeley. edu …
+
+81. Mica high speed radio stack
+Citations:24
+Authors: N Lee, P Levis, J Hill
+Publication: TinyOS manual
+
+82. Ownership is theft: Experiences building an embedded OS in Rust
+Citations:23
+Authors: A Levy, MP Andersen, B Campbell, D Culler, P Dutta, B Ghena, P Levis, ...
+Publication: Proceedings of the 8th Workshop on Programming Languages and Operating …
+
+83. Buffer sizing in 802.11 wireless mesh networks
+Citations:23
+Authors: K Jamshaid, B Shihada, L Xia, P Levis
+Publication: 2011 IEEE Eighth International Conference on Mobile Ad-Hoc and Sensor …
+
+84. The k-factor: Inferring protocol performance using inter-link reception correlation
+Citations:23
+Authors: K Srinivasan, M Jain, JI Choi, T Azim, ES Kim, P Levis, B Krishnamachari
+Publication: Proceedings of Mobicom
+
+85. To infinity and not beyond: Scaling communication in virtual worlds with Meru
+Citations:23
+Authors: D Horn, E Cheslack-Postava, BFT Mistree, T Azim, J Terrace, ...
+Publication: Technical Report CSTR 2010-01, Dept. of Computer Science
+
+86. Scaling virtual worlds with a physical metaphor
+Citations:23
+Authors: D Horn, E Cheslack-Postava, T Azim, MJ Freedman, P Levis
+Publication: IEEE Pervasive Computing 8 (3), 50-54
+
+87. Opening the sensornet black box
+Citations:21
+Authors: JI Choi, JW Lee, M Wachs, P Levis
+Publication: ACM SIGBED Review 4 (3), 13-18
+
+88. TinyOS 2.0 Overview
+Citations:21
+Authors: P Levis
+Publication: Feb
+
+89. Ebb: A DSL for physical simulation on CPUs and GPUs
+Citations:20
+Authors: GL Bernstein, C Shah, C Lemire, Z Devito, M Fisher, P Levis, P Hanrahan
+Publication: ACM Transactions on Graphics (TOG) 35 (2), 21
+
+90. The collateral damage of internet censorship by dns injection
+Citations:20
+Authors: P Levis
+Publication: ACM SIGCOMM CCR 42 (3)
+
+91. The minimum rank objective function with hysteresis
+Citations:20
+Authors: O Gnawali, P Levis
+Publication: draft-ietf-roll-minrank-hysteresis-of-04 (work in progress)
+
+92. A declarative sensornet architecture.
+Citations:20
+Authors: A Tavakoli, D Chu, JM Hellerstein, P Levis, S Shenker
+Publication: SIGBED Review 4 (3), 55-60
+
+93. Granting silence to avoid wireless collisions
+Citations:19
+Authors: JI Choi, M Jain, MA Kazandjieva, P Levis
+Publication: The 18th IEEE International Conference on Network Protocols, 82-91
+
+94. The tinyscript language
+Citations:19
+Authors: P Levis
+Publication: UC Berkeley
+
+95. Ravel: Programming iot applications as distributed models, views, and controllers
+Citations:18
+Authors: L Riliskis, J Hong, P Levis
+Publication: Proceedings of the 2015 International Workshop on Internet of Things towards …
+
+96. The case for predicate-oriented debugging of sensornets
+Citations:18
+Authors: A Tavakoli, D Culler, P Levis, S Shenker
+Publication: Proceedings of the 5th Workshop on Hot Topics in Embedded Networked Sensors …
+
+97. Fonduer: Knowledge base construction from richly formatted data
+Citations:17
+Authors: S Wu, L Hsiao, X Cheng, B Hancock, T Rekatsinas, P Levis, C Ré
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1301 …
+
+98. Green enterprise computing data: Assumptions and realities
+Citations:17
+Authors: M Kazandjieva, B Heller, O Gnawali, P Levis, C Kozyrakis
+Publication: 2012 International Green Computing Conference (IGCC), 1-10
+
+99. Burstiness and scaling in the structure of low-power wireless links
+Citations:17
+Authors: T Rusak, P Levis
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 13 (1), 60-64
+
+100. Investigating a physically-based signal power model for robust low power wireless link simulation
+Citations:17
+Authors: T Rusak, PA Levis
+Publication: Proceedings of the 11th international symposium on Modeling, analysis and …
+
+101. A modular sensornet architecture: past, present, and future directions.
+Citations:17
+Authors: A Tavakoli, P Dutta, J Jeong, S Kim, J Ortiz, DE Culler, P Levis, S Shenker
+Publication: SIGBED Review 4 (3), 49-54
+
+102. TINX: a tiny index design for flash memory on wireless sensor devices
+Citations:17
+Authors: A Mani, M Rajashekhar, P Levis
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+103. Tython scripting for TOSSIM
+Citations:17
+Authors: M Demmer, P Levis
+Publication: Network Embedded Systems Technology Winter
+
+104. nesC Language Reference Manual
+Citations:16
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: September
+
+105. Pantheon: the training ground for Internet congestion-control research
+Citations:15
+Authors: FY Yan, J Ma, GD Hill, D Raghavan, RS Wahby, P Levis, K Winstein
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 731-743
+
+106. The case for writing a kernel in Rust
+Citations:15
+Authors: A Levy, B Campbell, B Ghena, P Pannuto, P Dutta, P Levis
+Publication: Proceedings of the 8th Asia-Pacific Workshop on Systems, 1
+
+107. Canary: A scheduling architecture for high performance cloud computing
+Citations:15
+Authors: H Qu, O Mashayekhi, D Terei, P Levis
+Publication: arXiv preprint arXiv:1602.01412
+
+108. Measuring and analyzing the energy use of enterprise computing systems
+Citations:15
+Authors: M Kazandjieva, B Heller, O Gnawali, P Levis, C Kozyrakis
+Publication: Sustainable Computing: Informatics and Systems 3 (3), 218-229
+
+109. CC2420 radio stack
+Citations:15
+Authors: D Moss, J Hui, P Levis, JI Choi
+Publication: TinyOS Core Working Group, draft available at http://www. tinyos. net/tinyos …
+
+110. Trust but verify: Auditing the secure internet of things
+Citations:14
+Authors: J Wilson, RS Wahby, H Corrigan-Gibbs, D Boneh, P Levis, K Winstein
+Publication: Proceedings of the 15th Annual International Conference on Mobile Systems …
+
+111. Schedulers and tasks
+Citations:14
+Authors: P Levis, C Sharp
+Publication: TinyOS Extension Proposal (TEP) 106
+
+112. The beta-factor: Improving bimodal wireless networks
+Citations:14
+Authors: K Srinivasan, M Kazandjieva, S Agarwal, P Levis
+Publication: 6th ACM Conference on Embedded Networked Sensor Systems (SenSys 2007 …
+
+113. Dynamic resource management in a static network operating system
+Citations:14
+Authors: K Klues, V Handziski, D Culler, D Gay, PL Levis, C Lu, A Wolisz
+Publication: 
+
+114. Benchmarking of quantile-based indoor fingerprinting algorithm
+Citations:13
+Authors: F Lemic
+Publication: Telecommunication Networks Group, Technische Universität Berlin, Tech. Rep …
+
+115. A scalable server for 3D metaverses
+Citations:13
+Authors: E Chewslack-Postava, T Azim, BFT Mistree, DR Horn, J Terrace, P Levis, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+116. Execution templates: Caching control plane decisions for strong scaling of data analytics
+Citations:12
+Authors: O Mashayekhi, H Qu, C Shah, P Levis
+Publication: 2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 513-526
+
+117. The minimum rank with hysteresis objective function
+Citations:12
+Authors: P Levis, O Gnawali
+Publication: 
+
+118. Physically-based models of low-power wireless links using signal power simulation
+Citations:11
+Authors: T Rusak, P Levis
+Publication: Computer Networks 54 (4), 658-673
+
+119. Lowering radio duty cycle through temperature compensated timing
+Citations:11
+Authors: J Arfvidsson, E Park, P Levis
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+120. Software or hardware: The future of green enterprise computing
+Citations:10
+Authors: M Kazandjieva, B Heller, O Gnawali, W Hofer, PLC Kozyrakis
+Publication: Computer Science Technical Report CSTR 2
+
+121. Packet protocols
+Citations:10
+Authors: P Levis
+Publication: TEP Core Working Group. URL http://www. tinyos. net/tinyos-2. x/doc/html …
+
+122. Robust, low-cost, auditable random number generation for embedded system security
+Citations:9
+Authors: B Lampert, RS Wahby, S Leonard, P Levis
+Publication: Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD …
+
+123. A case for evaluating sensor network protocols concurrently
+Citations:9
+Authors: O Gnawali, L Guibas, P Levis
+Publication: Proceedings of the fifth ACM international workshop on Wireless network …
+
+124. Mstore: Enabling storage-centric sensornet research
+Citations:9
+Authors: K Mihic, A Mani, M Rajashekhar, P Levis
+Publication: ACM/IEEE International Conference on Information Processing in Sensor Networks
+
+125. TinyOS/nesC programming reference manual
+Citations:9
+Authors: P Levis
+Publication: Crossbow Inc. January
+
+126. Deflating link buffers in a wireless mesh network
+Citations:8
+Authors: K Jamshaid, B Shihada, A Showail, P Levis
+Publication: Ad Hoc Networks 16, 266-280
+
+127. Smart Contracts for Machine-to-Machine Communication: Possibilities and Limitations
+Citations:7
+Authors: Y Hanada, L Hsiao, P Levis
+Publication: 2018 IEEE International Conference on Internet of Things and Intelligence …
+
+128. Locality-sensitive hashing for earthquake detection: A case study of scaling data-driven science
+Citations:7
+Authors: K Rong, CE Yoon, KJ Bergen, H Elezabi, P Bailis, P Levis, GC Beroza
+Publication: Proceedings of the VLDB Endowment 11 (11), 1674-1687
+
+129. Recommendations for efficient implementation of RPL
+Citations:7
+Authors: O Gnawali
+Publication: 
+
+130. Mesh networking research and technology for multihop wireless networks
+Citations:7
+Authors: S Madden, P Levis
+Publication: IEEE Internet Computing 12 (4), 9-11
+
+131. Dissemination of small values
+Citations:7
+Authors: P Levis, G Tolle
+Publication: TinyOS Enhancement Proposals
+
+132. A networked embedded system platform for the post-mote era
+Citations:6
+Authors: P Pannuto, MP Andersen, T Bauer, B Campbell, A Levy, D Culler, P Levis, ...
+Publication: Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems …
+
+133. TinyOS 802.15. 4 Frames
+Citations:6
+Authors: J Hui, P Levis, D Moss
+Publication: TEP 125, TinyOS Core Working Group Documentary
+
+134. Nido system description
+Citations:6
+Authors: P Levis, N Lee
+Publication: 
+
+135. TOSSIM system description
+Citations:6
+Authors: P Levis
+Publication: 
+
+136. Unsupervised conversion of 3D models for interactive metaverses
+Citations:5
+Authors: J Terrace, E Cheslack-Postava, P Levis, MJ Freedman
+Publication: 2012 IEEE International Conference on Multimedia and Expo, 902-907
+
+137. Powernet: A magnifying glass for computing system energy
+Citations:5
+Authors: M Kazandjieva, B Heller, D Gal, P Levis, C Kozyrakis, N McKeown
+Publication: Proc. Stanford Energy & Feedback Workshop: End-Use Energy Reductions through …
+
+138. TEP 108: Resource Arbitration
+Citations:5
+Authors: K Klues, P Levis, D Gay, D Culler, V Handziski
+Publication: Core Working Group, TinyOS Community
+
+139. Decoupling the control plane from program control flow for flexibility and performance in cloud computing
+Citations:4
+Authors: H Qu, O Mashayekhi, C Shah, P Levis
+Publication: Proceedings of the thirteenth euroSys conference, 1
+
+140. Scalable, fast cloud computing with execution templates
+Citations:4
+Authors: O Mashayekhi, H Qu, C Shah, P Levis
+Publication: arXiv preprint arXiv:1606.01972
+
+141. Emerson: Accessible scripting for applications in an extensible virtual world
+Citations:4
+Authors: BFT Mistree, B Chandra, E Cheslack-Postava, P Levis, D Gay
+Publication: Proceedings of the 10th SIGPLAN symposium on New ideas, new paradigms, and …
+
+142. SenSys-Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems
+Citations:4
+Authors: J Liu, P Levis, KU Römer
+Publication: Association of Computing Machinery
+
+143. Visualizing sensor network data with Powertron
+Citations:4
+Authors: M Kazandjieva, O Gnawali, P Levis
+Publication: Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems …
+
+144. Emerson: Scripting for federated virtual worlds
+Citations:4
+Authors: B Chandra, E Cheslack-Postava, BFT Mistree, PA Levis, D Gay
+Publication: Proceedings of the 15th International Conference on Computer Games: AI …
+
+145. Demo abstract: SWAT: Know your network
+Citations:4
+Authors: K Srinivasan, MA Kazandjieva, M Jain, E Kim, P Levis
+Publication: Proceedings of the 2009 International Conference on Information Processing …
+
+146. Prr is not enough
+Citations:4
+Authors: K Srinivasan, MA Kazandjieva, M Jain, P Levis
+Publication: 
+
+147. Application specific virtual machines: Operating system support for user-level sensornet programming
+Citations:4
+Authors: PA Levis
+Publication: University of California, Berkeley
+
+148. TinyOS: Getting Started
+Citations:4
+Authors: P Levis
+Publication: March
+
+149. System architecture support for green enterprise computing
+Citations:3
+Authors: M Kazandjieva, C Shah, E Cheslack-Postava, B Mistree, P Levis
+Publication: International Green Computing Conference, 1-10
+
+150. Starburst SSD: An efficient protocol for selective dissemination
+Citations:3
+Authors: T Azim, Q Mansoor, P Levis
+Publication: 2009 IEEE International Conference on Communications, 1-6
+
+151. Trickle algorithm corrections
+Citations:3
+Authors: P Levis
+Publication: Communications of the ACM 52 (2), 9-9
+
+152. TinyOS 2. x boot sequence
+Citations:3
+Authors: P Levis
+Publication: TinyOS Extension Proposal TEP-107, TinyOS Core Working Group
+
+153. Packet Link Layer
+Citations:3
+Authors: D Moss, P Levis
+Publication: TEP127, available at www. tinyos. net
+
+154. Microcontroller Power Management
+Citations:3
+Authors: R Szewczyk, P Levis, M Turon, L Nachman, P Buonadonna, V Handziski
+Publication: TinyOS Core Working Group, Tech. Rep.[Online]. Available: http://www. tinyos …
+
+155. Grant to Send: Fairness and isolation in low-power wireless
+Citations:3
+Authors: JI Choi, P Levis
+Publication: Technical Report SING-06-01, Stanford Information Networks Group
+
+156. Tep structure and keywords
+Citations:3
+Authors: P Levis
+Publication: TinyOS 2.0 Core Working Group, Tech. Rep., 1
+
+157. Maté
+Citations:3
+Authors: P Levis, D Culler
+Publication: A tiny Virtual machine for Sensor Networks", International Conference on …
+
+158. Jonathan von Neumann and EDVAC
+Citations:3
+Authors: P Levis
+Publication: 
+
+159. Brewer
+Citations:3
+Authors: D Gay, P Levis, D Culler
+Publication: Eric nesC 1
+
+160. Automatically Distributing Eulerian and Hybrid Fluid Simulations in the Cloud
+Citations:2
+Authors: O Mashayekhi, C Shah, H Qu, A Lim, P Levis
+Publication: ACM Transactions on Graphics (TOG) 37 (2), 24
+
+161. Design considerations for low power internet protocols
+Citations:2
+Authors: H Ayers, P Crews, H Teo, C McAvity, A Levy, P Levis
+Publication: arXiv preprint arXiv:1806.10751
+
+162. Don't talk unless i say so! securing the internet of things with default-off networking
+Citations:2
+Authors: J Hong, A Levy, L Riliskis, P Levis
+Publication: 2018 IEEE/ACM Third International Conference on Internet-of-Things Design …
+
+163. The Tock Embedded Operating System
+Citations:2
+Authors: A Levy, B Campbell, B Ghena, DB Giffin, S Leonard, P Pannuto, P Dutta, ...
+Publication: Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems, 45
+
+164. Tethys--an energy harvesting networked water flow sensor
+Citations:2
+Authors: H Chiang, J Hong, K Kiningham, J Xue, L Riliskis, P Levis, M Horowitz
+Publication: Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems …
+
+165. POSTER: Computations on encrypted data in the Internet of Things applications
+Citations:2
+Authors: L Riliskis, H Shafagh, P Levis
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+166. Secure internet of things project (sitp)
+Citations:2
+Authors: P Levis
+Publication: Secure Internet of Things Project Workshop, Stanford University
+
+167. Using a Physical Metaphor to Scale Up Communication In Virtual Worlds
+Citations:2
+Authors: DR Horn
+Publication: Stanford University
+
+168. Inverting wireless collision avoidance
+Citations:2
+Authors: JI Choi, M Jain, MA Kazandjieva, P Levis
+Publication: Computer Systems Laboratory, Stanford University, Technical Report SING-09-00
+
+169. Fair waiting protocol: achieving isolation in wireless sensornets.
+Citations:2
+Authors: JI Choi, JW Lee, Z Chen, P Levis
+Publication: SenSys, 411-412
+
+170. 장애인이 경험한 편견의 현상학적 연구
+Citations:2
+Authors: 박미숙
+Publication: 한국장애인복지학 6, 85-123
+
+171. Tinyos: An open platform for wireless sensor networks
+Citations:2
+Authors: P Levis
+Publication: Stanford University, Nara, Japan, Tech. Rep
+
+172. Maté Manual
+Citations:2
+Authors: P Levis, D Gay, D Culler, N Patel, S Shenker
+Publication: Version
+
+173. Bombilla: A tiny virtual machine for tinyos
+Citations:2
+Authors: P Levis
+Publication: Bombilla Documentation
+
+174. message t
+Citations:2
+Authors: P Levis
+Publication: Core Working Group.[cit. 8. 11. 2013] Dostupné z< http://www. tinyos. net …
+
+175. Serial Communication
+Citations:2
+Authors: B Greenstein, P Levis
+Publication: TinyOS Documentaion
+
+176. A Case for Infectious Virtual Programs in Sensor Networks
+Citations:2
+Authors: P Levis, D Culler
+Publication: unpublished
+
+177. Tethys: Collecting sensor data without infrastracture or trust
+Citations:1
+Authors: H Chiang, J Hong, K Kiningham, L Riliskis, P Levis, M Horowitz
+Publication: 2018 IEEE/ACM Third International Conference on Internet-of-Things Design …
+
+178. Locality-sensitive hashing for earthquake detection: A case study of scaling data-driven science (extended version)
+Citations:1
+Authors: K Rong, CE Yoon, KJ Bergen, H Elezabi, P Bailis, P Levis, GC Beroza
+Publication: arXiv preprint arXiv:1803.09835
+
+179. CESEL: Securing a Mote for 20 Years.
+Citations:1
+Authors: K Kiningham, M Horowitz, P Levis, D Boneh
+Publication: EWSN, 307-312
+
+180. Ravel a framework for embedded-gateway-cloud applications
+Citations:1
+Authors: L Riliskis, P Levis
+Publication: Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems …
+
+181. Displaying large user-generated virtual worlds from the cloud.
+Citations:1
+Authors: T Azim, E Cheslack-Postava, P Levis
+Publication: I3D, 183
+
+182. Poster: Single channel, full-duplex wireless
+Citations:1
+Authors: M Jain, JI Choi, K Srinivasan, S Seth, P Levis, S Katti
+Publication: Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems …
+
+183. Achieving Collision Avoidance and Fairness in CSMA-based Wireless Mesh Networks
+Citations:1
+Authors: JI Choi
+Publication: Stanford University
+
+184. SWAT: Fingerprinting Your Wireless Network
+Citations:1
+Authors: K Srinivasan, M Kazandjieva, JI Choi, M Jain, E Kim, P Levis
+Publication: IPI 60 (80), 100
+
+185. TOSThreads: Extending the TinyOS Concurrency Model to Support Preemption
+Citations:1
+Authors: K Klues, CJM Liang, J Paek, R Musaloiu-E, R Govindan, P Levis, A Terzis
+Publication: SenSys
+
+186. On the scaling properties of low power wireless links
+Citations:1
+Authors: T Rusak, PA Levis
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems …
+
+187. Resource Arbitration
+Citations:1
+Authors: K Klues, P Levis, D Gay, D Culler, V Handziski
+Publication: Technical Report 108, TEP
+
+188. Unsupervised Large‐Scale Search for Similar Earthquake Signals
+Citations:
+Authors: CE Yoon, KJ Bergen, K Rong, H Elezabi, WL Ellsworth, GC Beroza, ...
+Publication: Bulletin of the Seismological Society of America
+
+189. Automating the generation of hardware component knowledge bases
+Citations:
+Authors: L Hsiao, S Wu, N Chiang, C Ré, P Levis
+Publication: Proceedings of the 20th ACM SIGPLAN/SIGBED International Conference on …
+
+190. Continual learning improves Internet video streaming
+Citations:
+Authors: FY Yan, H Ayers, C Zhu, S Fouladi, J Hong, K Zhang, P Levis, K Winstein
+Publication: arXiv preprint arXiv:1906.01113
+
+191. Rehashing Kernel Evaluation in High Dimensions
+Citations:
+Authors: P Siminelakis, K Rong, P Bailis, M Charikar, P Levis
+Publication: International Conference on Machine Learning, 5789-5798
+
+192. Adaptive techniques for full duplex communications
+Citations:
+Authors: D Bharadia, JI Choi, M Jain, S Katti, TM Kim, P Levis
+Publication: US Patent App. 10/230,419
+
+193. Distributing and Load Balancing Sparse Fluid Simulations
+Citations:
+Authors: C Shah, D Hyde, H Qu, P Levis
+Publication: Computer Graphics Forum 37 (8), 35-46
+
+194. Dynamic multi-clock management for embedded systems
+Citations:
+Authors: H Chiang, D Giffin, A Levy, P Levis
+Publication: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems …
+
+195. INTERNET-DRAFT Hudson Ayers Intended Status: Informational Paul Crews Expires: December 31, 2018 Hubert Teo Conor McAvity
+Citations:
+Authors: A Levy, P Levis
+Publication: 
+
+196. University of California, Berkeley
+Citations:
+Authors: MR Lewis
+Publication: 
+
+197. Towards a Secure Internet of Things
+Citations:
+Authors: P Levis
+Publication: IEEE International Conference on Pervasive Computing and Communication
+
+198. Efficient blind search for similar-waveform earthquakes in years of continuous seismic data
+Citations:
+Authors: CE Yoon, K Bergen, K Rong, H Elezabi, P Bailis, P Levis, GC Beroza
+Publication: AGU Fall Meeting Abstracts
+
+199. Demo Abstract: The Tock Embedded Operating System
+Citations:
+Authors: AA Levy, DB Giffin, B Campbell, S Leonard, B Ghena, P Pannuto, P Dutta, ...
+Publication: 15th ACM Conference on Embedded Networked Sensor Systems, SenSys 2017
+
+200. Demo Abstract: Rebooting the Embedded System
+Citations:
+Authors: A Levy, B Campbell, B Ghena, S Leonard, P Pannuto, P Levis, P Dutta
+Publication: 14th ACM Conference on Embedded Networked Sensor Systems, SenSys 2016, 314-315
+
+201. Rebooting the Embedded System: Demo Abstract
+Citations:
+Authors: A Levy, B Campbell, B Ghena, S Leonard, P Pannuto, P Levis, P Dutta
+Publication: Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD …
+
+202. Building Comprehensible Access Control for the Internet of Things using Beetle
+Citations:
+Authors: J Hong, A Levy, P Levis
+Publication: Proceedings of the 14th Annual International Conference on Mobile Systems …
+
+203. Distributed Graphical Simulation in the Cloud
+Citations:
+Authors: O Mashayekhi, C Shah, H Qu, A Lim, P Levis
+Publication: arXiv preprint arXiv:1606.01966
+
+204. Poster session 4
+Citations:
+Authors: V Parisi, G Ferro, A Bevilacqua, A Caruso, G Grimaldi, G Rengo, ...
+Publication: Eur Heart J Cardiovasc Imaging Abstracts Supplement 16 (suppl_2), S156-S182
+
+205. Instance-aware simplification of 3D polygonal meshes
+Citations:
+Authors: T Azim, E Cheslack-Postava, P Levis
+Publication: 2015 IEEE International Conference on Multimedia and Expo (ICME), 1-6
+
+206. ADVANCES IN NETWORK PLANNING—PART II: WIRELESS NETWORKS AND TRAFFIC UNCERTAINTY
+Citations:
+Authors: B BANGERTER, S TALWAR, R AREFI, KEN STEWART, G WUNDER, ...
+Publication: IEEE Communications Magazine
+
+207. University of California, Berkeley
+Citations:
+Authors: PR Day, HE Doner, AD McLaren
+Publication: Soil–Plant–Nitrogen Relationships 2, 305
+
+208. Sustainable Computing: Informatics and Systems
+Citations:
+Authors: M Kazandjieva, B Heller, O Gnawali, P Levis, C Kozyrakis
+Publication: 
+
+209. TOSSIM: Accurate and scalable simulation of entire TinyOS applications.
+Citations:
+Authors: Z Zhang, H Yuan, L Chen, F Yu, S Singhal, A Gankotiya, S Agarwal, ...
+Publication: Information Technology Journal 13 (11), pp: 522-529
+
+210. Reading Aguayo et al.
+Citations:
+Authors: P Levis
+Publication: reading
+
+211. Measuring school contact networks using wireless sensor technology
+Citations:
+Authors: JH Jones, M Salathé, MW Feldman, M Kazandjieva, JW Lee, P Levis
+Publication: American Journal of Human Biology 23 (CONF), 263
+
+212. Poster session I Thursday 9 December 2010, 08: 30-12: 30
+Citations:
+Authors: VA Kuznetsov, AO Kozhurina, AV Plusnin, M Szulik, B Sredniawa, ...
+Publication: European Journal of Echocardiography 11 (suppl_2), ii12-ii41
+
+213. Full Duplex Wireless
+Citations:
+Authors: P Levis
+Publication: Communications of the ACM
+
+214. Session details: Workshop on power aware computing and systems (HotPower'09)
+Citations:
+Authors: P Levis, P Ranganathan
+Publication: ACM SIGOPS Operating Systems Review 44 (1)
+
+215. whirlpool ad-hoc routing protocol
+Citations:
+Authors: JW Lee, B Kusy, P Levis
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 13 (3), 50-53
+
+216. Mobile Collection Routing Protocol
+Citations:
+Authors: JW Lee
+Publication: Stanford University
+
+217. HotPower-Workshop on Power Aware Computing Systems (HotPower'09)
+Citations:
+Authors: P Levis, P Ranganathan
+Publication: Operating systems review 44 (1), 60
+
+218. Hydrology and Channel Head Erosion in a Semiarid Discontinuous Ephemeral Stream Network near Oracle, Arizona
+Citations:
+Authors: SB Delong, JP Johnson, KX Whipple, DF Post, D Malmon, D Chu, ...
+Publication: AGU Fall Meeting Abstracts
+
+219. Moore’s Law. Fermat’s Theorem. Euler’s Function. _’s Law.
+Citations:
+Authors: R Tedrake, P Levis, R Kleinberg, S Hohenberger, K Grauman
+Publication: 
+
+220. Investigating a Physically Based Signal Power Model for Robust Low Power Wireless Link Simulation
+Citations:
+Authors: P Levis, T Rusak
+Publication: Proceedings 11, 37
+
+221. TinyOS Alliance Structure
+Citations:
+Authors: P Bonnet, D Culler, D Estrin, R Govindan, M Horton, J Kang, P Levis, ...
+Publication: 
+
+222. Reprogramming sensor networks safely, quickly, and efficiently
+Citations:
+Authors: P Levis, D Gay
+Publication: Proceedings of the 3rd international conference on Embedded networked sensor …
+
+223. Register by April 18 and save!
+Citations:
+Authors: S Shenker, P Levis, D Gay
+Publication: 
+
+224. Received Best Paper award
+Citations:
+Authors: X Jiang, J Taneja, J Ortiz, A Tavakoli, P Dutta, J Jeong, D Culler, P Levis, ...
+Publication: University of California, Berkeley 12, 2004
+
+225. Supplementary material for: Rehashing Kernel Evaluation in High Dimensions
+Citations:
+Authors: P Siminelakis, K Rong, P Bailis, M Charikar, P Levis
+Publication: 
+
+226. TOSSIM: Visualizing the Real World
+Citations:
+Authors: P Levis, N Lee, D Chi, D Culler
+Publication: 
+
+227. SIDs: Source and Sink Independent Drivers
+Citations:
+Authors: G Tolle, P Levis, D Gay
+Publication: 
+
+228. Analog-to-Digital Converters (ADCs)
+Citations:
+Authors: JH Hauer, P Levis, V Handziski, D Gay
+Publication: 
+
+229. Single Channel, Full-Duplex Wireless
+Citations:
+Authors: JI Choi, M Jain, K Srinivasan, S Seth, P Levis, S Katti
+Publication: 
+
+230. Opening the Sensornet Black Box
+Citations:
+Authors: M Wachs, JW Lee, JI Choi, P Levis
+Publication: 
+
+231. Improving Sensor Node Clock Accuracy Through Temperature Compensation
+Citations:
+Authors: E Park, J Arfvidsson, P Levis
+Publication: 
+
+232. A Case for a Sensor Network Architecture
+Citations:
+Authors: P Dutta, CT Ee, R Fonseca, J Hui, P Levis, J Polastre, G Tolle, J Zhao, ...
+Publication: 
+
+233. Rethinking Application Networking as Transactional Scripting
+Citations:
+Authors: BFT Mistree, J Thomason, G Kho, H Ho, E Kyauk, P Levis
+Publication: 
+
+234. Distributing Geometric Query Processing with a Global Aggregation Tree
+Citations:
+Authors: E Cheslack-Postava, MJ Freedman, P Levis
+Publication: 
+
+235. Fair Waiting Protocol: Fairness and Isolation in Wireless Sensornets
+Citations:
+Authors: JI Choi, JW Lee, Z Chen, P Levis
+Publication: 
+
+236. Data and Viral Code Integrity in Maté
+Citations:
+Authors: P Levis
+Publication: 
+
+237. Workshop on Power Aware Computing and Systems (HotPower’09)
+Citations:
+Authors: P Levis, P Ranganathan
+Publication: 
+
+238. Mesh NeTWorkINg
+Citations:
+Authors: S Madden, P Levis, AT Campbell, SB Eisenman, ND Lane, E Miluzzo, ...
+Publication: 
+
+239. On Burstiness and Scaling in 2.4 GHz Wireless Links
+Citations:
+Authors: T Rusak, S Katti, P Levis
+Publication: 
+
+240. Bhattacharya, Amiya, see Ackerman, Mark S.
+Citations:
+Authors: G Bishop-Hurley, M Bonner, R Bose, A Cadenas, A Card, ...
+Publication: 
+

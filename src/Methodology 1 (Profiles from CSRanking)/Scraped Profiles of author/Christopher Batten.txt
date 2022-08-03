@@ -1,0 +1,318 @@
+https://scholar.google.com/citations?hl=en&user=UGDVOZgAAAAJ
+Total Citations = 2217
+
+1. Building many-core processor-to-DRAM networks with monolithic CMOS silicon photonics
+Citations:485
+Authors: C Batten, A Joshi, J Orcutt, A Khilo, B Moss, CW Holzwarth, MA Popovic, ...
+Publication: IEEE Micro 29 (4), 8-21
+
+2. Silicon-photonic Clos networks for global on-chip communication
+Citations:347
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanovic, ...
+Publication: 3rd ACM/IEEE Int'l Symp. on Networks-on-Chip (NOCS-3)
+
+3. The vector-thread architecture
+Citations:222
+Authors: R Krashinsky, C Batten, M Hampton, S Gerding, B Pharris, J Casper, ...
+Publication: 31st ACM/IEEE Int'l Symp. on Computer Architecture (ISCA-31)
+
+4. pStore: A secure peer-to-peer backup system
+Citations:143
+Authors: C Batten, K Barr, A Saraf, S Trepetin
+Publication: MIT Laboratory for Computer Science Technical Memo, 130-139
+
+5. Exploring the tradeoffs between programmability and efficiency in data-parallel accelerators
+Citations:126
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanović
+Publication: 38th ACM/IEEE Int'l Symp. on Computer Architecture (ISCA-38)
+
+6. Re-architecting DRAM memory systems with monolithically integrated silicon photonics
+Citations:122
+Authors: S Beamer, C Sun, YJ Kwon, A Joshi, C Batten, V Stojanović, K Asanović
+Publication: 37th ACM/IEEE Int'l Symp. on Computer Architecture (ISCA-37)
+
+7. Autofocusing and astigmatism correction in the scanning electron microscope
+Citations:113
+Authors: C Batten
+Publication: MPhil Thesis, Department of Engineering, University of Cambridge
+
+8. Designing chip-level nanophotonic interconnection networks
+Citations:86
+Authors: C Batten, A Joshi, V Stojanovć, K Asanović
+Publication: Integrated Optical Interconnect Architectures for Embedded Systems, 81-135
+
+9. Algorithms for automated DNA assembly
+Citations:66
+Authors: D Densmore, THC Hsiau, JT Kittleson, W DeLoache, C Batten, ...
+Publication: Nucleic acids research 38 (8), 2624-2636
+
+10. PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research
+Citations:47
+Authors: D Lockhart, G Zibrat, C Batten
+Publication: 47th ACM/IEEE Int'l Symp. on Microarchitecture (MICRO-47)
+
+11. Simplified vector-thread architectures for flexible and efficient data-parallel accelerators
+Citations:46
+Authors: C Batten
+Publication: PhD Thesis, Department of EECS, Massachusetts Institute of Technology
+
+12. Enabling Realistic Fine-Grain Voltage Scaling with Reconfigurable Power Distribution Networks
+Citations:39
+Authors: W Godycki, C Torng, I Bukreyev, A Apsel, C Batten
+Publication: 47th ACM/IEEE Int'l Symp. on Microarchitecture (MICRO-47)
+
+13. Cache refill/access decoupling for vector machines
+Citations:38
+Authors: C Batten, R Krashinsky, S Gerding, K Asanović
+Publication: 37th ACM/IEEE Int'l Symp. on Microarchitecture (MICRO-37)
+
+14. Accelerating Irregular Algorithms on GPGPUs Using Fine-Grain Hardware Worklists
+Citations:31
+Authors: JY Kim, C Batten
+Publication: 47th ACM/IEEE Int'l Symp. on Microarchitecture (MICRO-47)
+
+15. Microarchitectural Mechanisms to Exploit Value Structure in SIMT Architectures
+Citations:28
+Authors: J Kim, C Torng, S Srinath, D Lockhart, C Batten
+Publication: 40th ACM/IEEE Int'l Symp. on Computer Architecture (ISCA-40)
+
+16. Architectural specialization for inter-iteration loop dependence patterns
+Citations:26
+Authors: S Srinath, B Ilbeyi, M Tan, G Liu, Z Zhang, C Batten
+Publication: 47th ACM/IEEE Int'l Symp. on Microarchitecture (MICRO-47)
+
+17. Exploring the tradeoffs between programmability and efficiency in data-parallel accelerators
+Citations:22
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanović
+Publication: ACM Transactions on Computer Systems (TOCS) 31 (3), 6
+
+18. Analysis of application-aware on-chip routing under traffic uncertainty
+Citations:19
+Authors: N Michael, M Nikolov, A Tang, GE Suh, C Batten
+Publication: 5th ACM/IEEE Int'l Symp. on Networks-on-Chip (NOCS-5)
+
+19. Designing multi-socket systems using silicon photonics
+Citations:19
+Authors: S Beamer, K Asanović, C Batten, A Joshi, V Stojanović
+Publication: 23rd ACM Int'l Conf. on Supercomputing (ICS-23)
+
+20. Dynamic hazard resolution for pipelining irregular loops in high-level synthesis
+Citations:16
+Authors: S Dai, R Zhao, G Liu, S Srinath, U Gupta, C Batten, Z Zhang
+Publication: Proceedings of the 2017 ACM/SIGDA International Symposium on Field …
+
+21. The Celerity open-source 511-core RISC-V tiered accelerator fabric: Fast architectures and design methodologies for fast chips
+Citations:14
+Authors: S Davidson, S Xie, C Torng, K Al-Hawai, A Rovinski, T Ajayi, L Vega, ...
+Publication: IEEE Micro 38 (2), 30-41
+
+22. Celerity: An open source RISC-V tiered accelerator fabric
+Citations:14
+Authors: T Ajayi, K Al-Hawaj, A Amarnath, S Dai, S Davidson, P Gao, G Liu, A Lotfi, ...
+Publication: Symp. on High Performance Chips (Hot Chips)
+
+23. Implementing the scale vector-thread processor
+Citations:14
+Authors: R Krashinsky, C Batten, K Asanović
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 13 (3), 41
+
+24. Asymmetry-aware work-stealing runtimes
+Citations:13
+Authors: C Torng, M Wang, C Batten
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+25. Sharpness search algorithms for automatic focusing in the scanning electron microscope
+Citations:13
+Authors: C Batten, DM Holburn, BC Breton, NHM Caldwell
+Publication: SCANNING: The Journal of Scanning Microscopies 23 (2), 112-113
+
+26. Pydgin: Generating Fast Instruction Set Simulators from Simple Architecture Descriptions with Meta-Tracing JIT Compilers
+Citations:11
+Authors: D Lockhart, B Ilbeyi, C Batten
+Publication: IEEE Int'l Symp. on Performance Analysis of Systems and Software (ISPASS)
+
+27. Manycore processor networks with monolithic integrated CMOS photonics
+Citations:11
+Authors: V Stojanovic, A Joshi, C Batten, YJ Kwon, K Asanovic
+Publication: 29th Conf. on Lasers and Electro-Optics (CLEO-29)
+
+28. Improving high-level synthesis with decoupled data structure optimization
+Citations:10
+Authors: R Zhao, G Liu, S Srinath, C Batten, Z Zhang
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 137
+
+29. Implementing system-in-package with nanophotonic interconnect
+Citations:8
+Authors: M Cianchetti, N Sherwood-Droz, C Batten
+Publication: Workshop on the Interaction between Nanophotonic Devices and Systems (WINDS …
+
+30. A parameterizable FPGA prototype of a vector-thread processor
+Citations:7
+Authors: J Casper, R Krashinsky, C Batten, K Asanovic
+Publication: Workshop on the Architecture Research using FPGA Platforms (WARFP) held in …
+
+31. Designing nanophotonic interconnection networks
+Citations:6
+Authors: C Batten
+Publication: Workshop on the Interaction between Nanophotonic Devices and Systems
+
+32. Mamba: closing the performance gap in productive hardware development frameworks
+Citations:5
+Authors: S Jiang, B Ilbeyi, C Batten
+Publication: 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), 1-6
+
+33. Simulating multi-core RISC-V systems in Gem5
+Citations:5
+Authors: T Ta, L Cheng, C Batten
+Publication: Workshop on Computer Architecture Research with RISC-V
+
+34. CMOS photonic processor-memory networks
+Citations:5
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: 2010 IEEE Photonics Society Winter Topicals Meeting Series (WTM), 118-119
+
+35. An architectural framework for accelerating dynamic parallel algorithms on reconfigurable hardware
+Citations:4
+Authors: T Chen, S Srinath, C Batten, GE Suh
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+36. Using intra-core loop-task accelerators to improve the productivity and performance of task-based parallel programs
+Citations:4
+Authors: J Kim, S Jiang, C Torng, M Wang, S Srinath, B Ilbeyi, K Al-Hawa, C Batten
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+37. Cross-layer workload characterization of meta-tracing JIT VMs
+Citations:3
+Authors: B Ilbeyi, CF Bolz-Tereick, C Batten
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 97-107
+
+38. Pydgin for RISC-V: A fast and productive instruction-set simulator
+Citations:3
+Authors: B Ilbeyi, D Lockhart, C Batten
+Publication: Extended Abstract for Presentation at the 3rd RISC-V Workshop
+
+39. Design-space exploration for CMOS photonic processor networks
+Citations:3
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: Optical Fiber Communication Conf. and The National Fiber Optic Engineers …
+
+40. Re-architecting DRAM with monolithically integrated silicon photonics
+Citations:3
+Authors: S Beamer, C Sun, Y Kwon, A Joshi, C Batten, V Stojanovic, K Asanovi
+Publication: Proceedings of the 37th International Symposium on Computer Architecture …
+
+41. Scale control processor test-chip
+Citations:3
+Authors: C Batten, R Krashinsky, K Asanovic
+Publication: MIT Computer Science and Artificial Intelligence Technical Report
+
+42. A scalable cellular logic technology using zinc-finger proteins
+Citations:3
+Authors: C Batten, R Krashinsky, JT Knight
+Publication: 3rd Workshop on Non-Silicon Computing (NSC-3) held in conjunction with ISCA-31
+
+43. A New Era of Silicon Prototyping in Computer Architecture Research
+Citations:2
+Authors: C Torng, S Jiang, K Al-Hawaj, I Bukreyev, B Ilbeyi, T Ta, L Cheng, ...
+Publication: The RISC-V Day Workshop at the 51st Int’l Symp. on Microarchitecture
+
+44. Experiences using a novel Python-based hardware modeling framework for computer architecture test chips.
+Citations:2
+Authors: C Torng, M Wang, B Sudheendra, N Murali, S Jayasuriya, S Srinath, ...
+Publication: Hot Chips Symposium, 1
+
+45. Hardware Generation Languages as a Foundation for Credible, Reproducible, and Productive Research Methodologies
+Citations:2
+Authors: D Lockhart, C Batten
+Publication: Workshop on Reproducible Research Methodologies (REPRODUCE) held in …
+
+46. Limits and Opportunities for Designing Manycore Processor-to-Memory Networks using Monolithic Silicon Photonics
+Citations:2
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanovic, ...
+Publication: Workshop on Photonic Interconnects and Computer Architecture (PICA) held in …
+
+47. Four Monolithically Integrated Switched-Capacitor DC–DC Converters With Dynamic Capacitance Sharing in 65-nm CMOS
+Citations:1
+Authors: I Bukreyev, C Torng, WW Godycki, C Batten, A Apsel
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 65 (6), 2035-2047
+
+48. Experiences Using the RISC-V Ecosystem to Design an Accelerator-Centric SoC in TSMC 16nm
+Citations:1
+Authors: TAKAH Aporva, ASDS Davidson, PGGLA Rao, ARNSC Torng, LVBVS Xie, ...
+Publication: 1st Workshop on Computer Architecture Research with RISC-V (CARRV 2017)
+
+49. JIT-assisted fast-forward embedding and instrumentation to enable fast, accurate, and agile simulation
+Citations:1
+Authors: B Ilbeyi, C Batten
+Publication: 2016 IEEE International Symposium on Performance Analysis of Systems and …
+
+50. Energy-efficient parallel computer architecture
+Citations:1
+Authors: C Batten
+Publication: Cornell University
+
+51. The case for malleable stream architectures
+Citations:1
+Authors: C Batten, H Aoki, K Asanovic
+Publication: Workshop on Streaming Systems (WSS) held in conjunction with MICRO-41
+
+52. MC1. 2
+Citations:1
+Authors: T Akalin, S Aleksic, SA Alexandrov, G Almási, J Alton, AM Andrews, ...
+Publication: 
+
+53. A 1.4 GHz 695 Giga Risc-V Inst/s 496-Core Manycore Processor With Mesh On-Chip Network and an All-Digital Synthesized PLL in 16nm CMOS
+Citations:
+Authors: A Rovinski, C Zhao, K Al-Hawaj, P Gao, S Xie, C Torng, S Davidson, ...
+Publication: 2019 Symposium on VLSI Circuits, C30-C31
+
+54. Introduction to Electrical and Computer Engineering
+Citations:
+Authors: C Batten
+Publication: 
+
+55. 2012 Index IEEE Journal on Emerging and Selected Topics in Circuits and Systems Vol. 2
+Citations:
+Authors: T Aboulnasr, A Abrardo, V Akella, O Aktan, MM Alam, D Allstot, ...
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (4), 737
+
+56. CS 3410 Computer System Organization and Programming Guest Lecture: I/O Devices
+Citations:
+Authors: C Batten
+Publication: 
+
+57. The Maven vector-thread architecture
+Citations:
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanovic
+Publication: 2011 IEEE Hot Chips 23 Symposium (HCS), 1-1
+
+58. HPEC 2009
+Citations:
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanović, ...
+Publication: 
+
+59. MiCRo 50 Author index
+Citations:
+Authors: A Jaleel, AJ Elmore, A Bhattacharjee, A Holmes, AJ McPadden, ...
+Publication: 
+
+60. Response to Discussion Questions NSF XPS Workshop, June 2015
+Citations:
+Authors: C Batten
+Publication: 
+
+61. ECE 4750 Computer Architecture Course Overview
+Citations:
+Authors: C Batten
+Publication: 
+
+62. XLOOPS: Explicit Loop Specialization
+Citations:
+Authors: S Srinath, B Ilbeyi, M Tan, G Liu, Z Zhang, C Batten
+Publication: 
+
+63. CMOS Photonic Processor-Memory Networks
+Citations:
+Authors: V Stojanoviüa, A Joshib, C Battena, YJ Kwonc, S Beamerc, S Chena, ...
+Publication: 
+

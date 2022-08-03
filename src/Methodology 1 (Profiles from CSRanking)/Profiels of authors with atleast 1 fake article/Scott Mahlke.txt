@@ -1,0 +1,300 @@
+
+1. E ective compiler support for predicated execution using the hyperblock
+Citations:817
+Authors: SAMDC Lin, WYCRE Hank, RA Bringmann
+Publication: 
+
+22. Composite cores: Pushing heterogeneity into a core
+Citations:163
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, R Dreslinski, ...
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 317-328
+
+51. Memory-centric system interconnect design with hybrid memory cubes
+Citations:101
+Authors: G Kim, J Kim, JH Ahn, J Kim
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+75. Performance, energy characterizations and architectural implications of an emerging mobile platform benchmark suite-mobilebench
+Citations:63
+Authors: D Pandiyan, SY Lee, CJ Wu
+Publication: 2013 IEEE International Symposium on Workload Characterization (IISWC), 133-142
+
+76. Compiler managed dynamic instruction placement in a low-power code cache
+Citations:62
+Authors: RA Ravindran, PD Nagarkar, GS Dasika, ED Marsman, RM Senger, ...
+Publication: Proceedings of the international symposium on Code generation and …
+
+78. A VLSI architecture for lifting-based wavelet transform
+Citations:61
+Authors: K Andra, C Chakrabarti, T Acharya
+Publication: 2000 IEEE Workshop on SiGNAL PROCESSING SYSTEMS. SiPS 2000. Design and …
+
+80. The mTOR/p70S6K Signal Transduction Pathway Plays a Role in Cardiac Hypertrophy and Influences Expression of Myosin Heavy Chain Genes in vivo
+Citations:56
+Authors: MO Boluyt, ZB Li, AM Loyd, AF Scalia, GM Cirrincione, RR Jackson
+Publication: Cardiovascular drugs and therapy 18 (4), 257-267
+
+98. Automated breast cancer diagnosis based on GVF-Snake segmentation, wavelet features extraction and fuzzy classification
+Citations:45
+Authors: J Malek, A Sebri, S Mabrouk, K Torki, R Tourki
+Publication: Journal of Signal Processing Systems 55 (1-3), 49-66
+
+121. Systematic register bypass customization for application-specific processors
+Citations:35
+Authors: K Fan, N Clark, M Chu, KV Manjunath, R Ravindran, M Smelyanskiy, ...
+Publication: Proceedings IEEE International Conference on Application-Specific Systems …
+
+123. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:34
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+131. Partitioning variables across register windows to reduce spill code in a low-power processor
+Citations:32
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: IEEE Transactions on Computers 54 (8), 998-1012
+
+148. Increasing the number of effective registers in a low-power processor using a windowed register file
+Citations:27
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: Proceedings of the 2003 international conference on Compilers, architecture …
+
+152. A 16-bit low-power microcontroller with monolithic MEMS-LC clocking
+Citations:26
+Authors: ED Marsman, RM Senger, MS McCorquodale, MR Guthaus, ...
+Publication: 2005 IEEE International Symposium on Circuits and Systems, 624-627
+
+168. WarpPool: sharing requests with inter-warp coalescing for throughput processors
+Citations:20
+Authors: J Kloosterman, J Beaumont, M Wollman, A Sethia, R Dreslinski, T Mudge, ...
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 433-444
+
+169. WiBench: An open source kernel suite for benchmarking wireless systems
+Citations:20
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE international symposium on workload characterization (IISWC), 123-132
+
+201. Atomic block formation for explicit data graph execution architectures
+Citations:12
+Authors: BA Maher
+Publication: The University of Texas at Austin
+
+204. The effect of compiler optimizations on available parallelism in scalar programs
+Citations:12
+Authors: SAMNJ Warter, WYCPP Chang, WW Hwu
+Publication: Proceedings of the 20th Annual International Conference on Parallel …
+
+215. Using graphics processing units in an LTE base station
+Citations:8
+Authors: Q Zheng, Y Chen, H Lee, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: Journal of Signal Processing Systems 78 (1), 35-47
+
+221. Exploring fine-grained heterogeneity with composite cores
+Citations:7
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, RG Dreslinski, ...
+Publication: IEEE Transactions on Computers 65 (2), 535-547
+
+238. Parallelization techniques for implementing trellis algorithms on graphics processors
+Citations:4
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE International Symposium on Circuits and Systems (ISCAS2013), 1220-1223
+
+242. Rethinking numerical representations for deep neural networks
+Citations:3
+Authors: P Hill, B Zamirai, S Lu, YW Chao, M Laurenzano, M Samadi, ...
+Publication: arXiv preprint arXiv:1808.02513
+
+243. MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation
+Citations:3
+Authors: D Lee, V Bertacco
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+253. Guest Editors' Introduction: Special Section on Dependable Computer Architecture
+Citations:2
+Authors: D Gizopoulos, S Mukherjee
+Publication: IEEE Transactions on Computers 60 (1), 3-4
+
+256. The Electrical Engineering Handbook,“
+Citations:2
+Authors: HJ Li
+Publication: Radar and Inverse Scattering,” Jan 1, 10
+
+259. Electrical engineering handbook
+Citations:2
+Authors: Y Lu
+Publication: Beijing, China: China Mechine Press
+
+266. Effective Compiler Support for Predicated Execution Using the Hyperblock
+Citations:1
+Authors: SAMDC Lin, WYCRE Hank, RA Bringmann
+Publication: Instruction-level parallel processors, 161
+
+268. DREDGE: Dynamic Repartitioning during Dynamic Graph Execution
+Citations:
+Authors: A McCrabb, E Winsor, V Bertacco
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-6
+
+285. Externe Versie
+Citations:
+Authors: E Roets, M Hanssens, JAM van der Post
+Publication: Elsevier gezondheidszorg; Amsterdam
+
+286. Baseband Processing Architectures for SDR
+Citations:
+Authors: Y Lin, M Woh
+Publication: Wireless, Networking, Radar, Sensor Array Processing, and Nonlinear Signal …
+
+288. 294 Guest Editors’ Introduc
+Citations:
+Authors: WH Joyner Jr, DC Yeh, JM Rabaey, S Malik, W Joyner, D Yeh, J Rabaey, ...
+Publication: 
+
+289. Application-specific architectures
+Citations:
+Authors: T Austin, B Calder
+Publication: Design, Automation, and Test in Europe: Proceedings of the conference on …
+
+290. Digital Devices, Computer Components, and Interconnection Networks-Partitioning Variables across Register Windows to Reduce Spill Code in a Low-Power Processor
+Citations:
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: IEEE Transactions on Computers 54 (8), 998-1012
+
+291. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+297. MICRO 2018
+Citations:
+Authors: M Oskin, K Inoue, H Kim, S Yalamanchili, M Kondo, M Kim, R Shioya, ...
+Publication: 
+
+299. ISCA 2018 External Reviewers
+Citations:
+Authors: D Alistarh, D Atienza, EC Batten, K Bertels, E Charbon, EY Chen, ...
+Publication: 
+
+303. Abhishek Bhattacharjee, Rutgers Ali Saidi, ARM Andrew Hilton, Duke University Avi Mendelson, Technion
+Citations:
+Authors: BD de Dinechin, B Grot, CJ Wu, C Wilkerson, D Sanchez, D Brooks, ...
+Publication: 
+
+304. Program Co-Chairs
+Citations:
+Authors: TF Wenisch, E Ozer, J Mars, R Dreslinski, T Jones, B Jansen, M Ferdman, ...
+Publication: 
+
+305. Kevin Skadron Mikhail Smelyanskiy Jim Smith Allan Snavely Mary Lou Soffa
+Citations:
+Authors: K Kailas, S Kalogeropulos, M Kandemir, V Kanodia, U Kapasi, ...
+Publication: 
+
+306. Local Arrangements Chair
+Citations:
+Authors: T Conte, K Ebcioğlu, M Farrens, W Hwu, Y Patt, R Ronen
+Publication: 
+
+307. CASES 2013 Organization
+Citations:
+Authors: A Raghunathan, J Henkel, V Kathail, K Palem, O Bringmann, S Cadambi, ...
+Publication: 
+
+309. Finance Chair
+Citations:
+Authors: T Aamodt, B Columbia, D Chiou, B Lee, A Shriraman, C Fallin, J Meza, ...
+Publication: 
+
+312. Computer Systems Design and Applications Track Greg Byrd–Chair Michael Gschwind–Chair
+Citations:
+Authors: M Breternitz, D Brooks, J Chang, A Cristal, B de Supinski, J Holt, ...
+Publication: 
+
+313. Jim Dehnert, SGI Evelyn Duesterwald, Hewlett Packard Labs Kemal Ebcioglu, IBM TJ Watson Research Center Paraskevas Evripidou, University of Cyprus
+Citations:
+Authors: J Fang, J Ferrante, A Fukuda, G Gao, JL Gaudiot, M Hall, A Hurson, ...
+Publication: 
+
+314. Richard Johnson Teresa Johnson Roy Ju Hong-Seok Kim
+Citations:
+Authors: V Kiriansky, B Calder, DY Chen, B Cheng, B Childers, T Chilimbi, JD Choi, ...
+Publication: 
+
+315. Computer Systems Design and Applications Track
+Citations:
+Authors: M Charney, D August, M Breternitz, K Rudd, B Grayson, MJD Wellman, ...
+Publication: 
+
+316. PACT 2002 General Chairs
+Citations:
+Authors: J Davidson, K Skadron
+Publication: 
+
+317. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+
+318. 2009 18th International Conference on Parallel Architectures and Compilation Techniques
+Citations:
+Authors: T Usui, R Behrends, J Evans, Y Smaragdakis, C Madriles, P López, ...
+Publication: 
+
+319. Yale Patt The University of Texas at Austin MICRO-34 General Chair
+Citations:
+Authors: A General
+Publication: 
+
+320. Saman Amarasinghe, MIT
+Citations:
+Authors: IBM Vas Bala, B Calder, D Connors, H Corporaal, A Dean, E Duesterwald, ...
+Publication: 
+
+321. S. Dwarkadas R. Eickemeyer J. Emer M. Ercegovac
+Citations:
+Authors: A Eustace, D Blough, K Bolding, R Boppana, S Breach, M Brorsson, ...
+Publication: 
+
+322. Computer Systems Design and Applications Track
+Citations:
+Authors: L Carloni, D Grunwald, IBM Nadeem Malik, WT Mitra, F Petrini, ...
+Publication: 
+
+323. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+324. Michael D. Smith (Chair), Harvard University
+Citations:
+Authors: E Altman, D August, R Bodik, B Calder, C Cascaval, R Cohn, J Collard, ...
+Publication: 
+
+325. HPCA-14 Organizing Committee
+Citations:
+Authors: R Balasubramonian, R Bianchini, A Bilas, P Bose, T Conte, S Dwarkadas, ...
+Publication: 
+
+327. Increasing the Number of Effective Registers in a Low-Power Embedded Processor Using a Windowed Register File
+Citations:
+Authors: RA Ravindran, RM Senger, ED Marsman, GS Dasika, MR Guthaus, ...
+Publication: Ann Arbor 1001, 48109-2122
+
+329. Hillery Hunter Wen-mei Hwu Teresa Johnson Roy Ju
+Citations:
+Authors: K Kailas, JM Codina, R Cohn, O Colavin, J Collard, D Connors, K Cooper, ...
+Publication: 
+
+331. DCCS 2011 reviewers
+Citations:
+Authors: M Bailey, C Cachin, G Candea, C Constantinescu, X Defago, T Dohi, ...
+Publication: 
+
+333. Organizing Committee General Chair
+Citations:
+Authors: B Mangione-Smith, B Calder, D Tullsen, G Reinman, J Fritts, G Memik, ...
+Publication: 
+
+334. Local Arrangements Chair: Kshitij Doshi, Intel Corp.
+Citations:
+Authors: M Annavaram, I Bahar, D Brooks, D Burger, B Calder, C Chakrabarti, ...
+Publication: 

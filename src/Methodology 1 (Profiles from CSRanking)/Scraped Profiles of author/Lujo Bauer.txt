@@ -1,0 +1,748 @@
+https://scholar.google.com/citations?hl=en&user=5cJzDZEAAAAJ
+Total Citations = 6651
+
+1. Edit automata: Enforcement mechanisms for run-time security policies
+Citations:370
+Authors: J Ligatti, L Bauer, D Walker
+Publication: International Journal of Information Security 4 (1-2), 2-16
+
+2. Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms
+Citations:362
+Authors: PG Kelley, S Komanduri, ML Mazurek, R Shay, T Vidas, L Bauer, ...
+Publication: 2012 IEEE Symposium on Security & Privacy, 523-537
+
+3. Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition
+Citations:339
+Authors: M Sharif, S Bhagavatula, L Bauer, MK Reiter
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+4. Of passwords and people: measuring the effect of password-composition policies
+Citations:334
+Authors: S Komanduri, R Shay, PG Kelley, ML Mazurek, L Bauer, N Christin, ...
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+5. Encountering stronger password requirements: user attitudes and behaviors
+Citations:301
+Authors: R Shay, S Komanduri, PG Kelley, PG Leon, ML Mazurek, L Bauer, ...
+Publication: Proceedings of the Sixth Symposium on Usable Privacy and Security, 2
+
+6. How does your password measure up? The effect of strength meters on password creation
+Citations:244
+Authors: B Ur, PG Kelley, S Komanduri, J Lee, M Maass, ML Mazurek, T Passaro, ...
+Publication: USENIX Security Symposium, 65-80
+
+7. Composing security policies with Polymer
+Citations:216
+Authors: L Bauer, J Ligatti, D Walker
+Publication: 2005 ACM SIGPLAN conference on Programming language design and …
+
+8. Run-time enforcement of nonsafety policies
+Citations:193
+Authors: J Ligatti, L Bauer, D Walker
+Publication: ACM Transactions on Information and System Security (TISSEC) 12 (3), 19
+
+9. Android taint flow analysis for app sets
+Citations:192
+Authors: W Klieber, L Flynn, A Bhosale, L Jia, L Bauer
+Publication: Proceedings of the 3rd ACM SIGPLAN International Workshop on the State of …
+
+10. Measuring password guessability for an entire university
+Citations:169
+Authors: ML Mazurek, S Komanduri, T Vidas, L Bauer, N Christin, LF Cranor, ...
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+11. More enforceable security policies
+Citations:158
+Authors: L Bauer, J Ligatti, D Walker
+Publication: Proceedings of the Workshop on Foundations of Computer Security (FCS’02 …
+
+12. Expandable grids for visualizing and authoring computer security policies
+Citations:145
+Authors: RW Reeder, L Bauer, LF Cranor, MK Reiter, K Bacon, K How, H Strong
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+13. Distributed proving in access-control systems
+Citations:137
+Authors: L Bauer, S Garriss, MK Reiter
+Publication: 2005 IEEE Symposium on Security and Privacy (S&P'05), 81-95
+
+14. Access control for home data sharing: Attitudes, needs and practices
+Citations:129
+Authors: ML Mazurek, JP Arsenault, J Bresee, N Gupta, I Ion, C Johns, D Lee, ...
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+15. A general and flexible access-control system for the web
+Citations:127
+Authors: L Bauer, MA Schneider, EW Felten
+Publication: USENIX Security Symposium, 93-108
+
+16. Device-enabled authorization in the Grey system
+Citations:125
+Authors: L Bauer, S Garriss, JM McCune, MK Reiter, J Rouse, P Rutenbar
+Publication: International Conference on Information Security, 431-445
+
+17. Correct horse battery staple: Exploring the usability of system-assigned passphrases
+Citations:122
+Authors: R Shay, PG Kelley, S Komanduri, ML Mazurek, B Ur, T Vidas, L Bauer, ...
+Publication: Proceedings of the eighth symposium on usable privacy and security, 7
+
+18. Detecting and resolving policy misconfigurations in access-control systems
+Citations:116
+Authors: L Bauer, S Garriss, MK Reiter
+Publication: ACM Transactions on Information and System Security (TISSEC) 14 (1), 2
+
+19. Tag, you can see it! Using tags for access control in photo sharing
+Citations:110
+Authors: P Klemperer, Y Liang, M Mazurek, M Sleeper, B Ur, L Bauer, LF Cranor, ...
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+20. Enforcing non-safety security policies with program monitors
+Citations:110
+Authors: J Ligatti, L Bauer, D Walker
+Publication: European Symposium on Research in Computer Security, 355-373
+
+21. Measuring Real-World Accuracies and Biases in Modeling Password Guessability.
+Citations:108
+Authors: B Ur, SM Segreti, L Bauer, N Christin, LF Cranor, S Komanduri, D Kurilova, ...
+Publication: USENIX Security, 463-481
+
+22. What matters to users? Factors that affect users' willingness to share information with online advertisers
+Citations:107
+Authors: PG Leon, B Ur, Y Wang, M Sleeper, R Balebako, R Shay, L Bauer, ...
+Publication: Proceedings of the Ninth Symposium on Usable Privacy and Security, 7
+
+23. Modeling and enhancing Android’s permission system
+Citations:107
+Authors: E Fragkaki, L Bauer, L Jia, D Swasey
+Publication: Computer Security–ESORICS 2012, 1-18
+
+24. Fast, lean, and accurate: Modeling password guessability using neural networks
+Citations:99
+Authors: W Melicher, B Ur, SM Segreti, S Komanduri, L Bauer, N Christin, ...
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 175-191
+
+25. I added ‘!’at the end to make it secure”: Observing password creation in the lab
+Citations:99
+Authors: B Ur, F Noma, J Bees, SM Segreti, R Shay, L Bauer, N Christin, LF Cranor
+Publication: SOUPS
+
+26. Can long passwords be secure and usable?
+Citations:94
+Authors: R Shay, S Komanduri, AL Durity, PS Huh, ML Mazurek, SM Segreti, B Ur, ...
+Publication: Proceedings of the SIGCHI conference on human factors in computing systems …
+
+27. Efficient and scalable socware detection in online social networks
+Citations:88
+Authors: MS Rahman, TK Huang, HV Madhyastha, M Faloutsos
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+28. A linear logic of authorization and knowledge
+Citations:83
+Authors: D Garg, L Bauer, K Bowers, F Pfenning, M Reiter
+Publication: Computer Security–ESORICS 2006, 297-312
+
+29. Do users' perceptions of password security match reality?
+Citations:82
+Authors: B Ur, J Bees, SM Segreti, L Bauer, N Christin, LF Cranor
+Publication: Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …
+
+30. User-controllable security and privacy for pervasive computing
+Citations:80
+Authors: J Cornwell, I Fette, G Hsieh, M Prabaker, J Rao, K Tang, K Vaniea, ...
+Publication: Eighth IEEE Workshop on Mobile Computing Systems and Applications, 14-19
+
+31. Real life challenges in access-control management
+Citations:72
+Authors: L Bauer, LF Cranor, RW Reeder, MK Reiter, K Vaniea
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+32. Lessons learned from the deployment of a smartphone-based access-control system
+Citations:71
+Authors: L Bauer, LF Cranor, MK Reiter, K Vaniea
+Publication: Proceedings of the 3rd Symposium on Usable Privacy and Security, 64-75
+
+33. Access control for the web via proof-carrying authorization
+Citations:71
+Authors: L Bauer
+Publication: Princeton University
+
+34. Run-time enforcement of information-flow properties on Android
+Citations:66
+Authors: L Jia, J Aljuraidan, E Fragkaki, L Bauer, M Stroucken, K Fukushima, ...
+Publication: European Symposium on Research in Computer Security, 775-792
+
+35. A user study of policy creation in a flexible access-control system
+Citations:64
+Authors: L Bauer, LF Cranor, RW Reeder, MK Reiter, K Vaniea
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+36. Don't bump, shake on it: The exploitation of a popular accelerometer-based smart phone exchange and its secure replacement
+Citations:63
+Authors: A Studer, T Passaro, L Bauer
+Publication: Proceedings of the 27th Annual Computer Security Applications Conference …
+
+37. Usability and security of text passwords on mobile devices
+Citations:57
+Authors: W Melicher, D Kurilova, SM Segreti, P Kalvani, R Shay, B Ur, L Bauer, ...
+Publication: Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …
+
+38. Privacy expectations and preferences in an IoT world
+Citations:54
+Authors: PE Naeini, S Bhagavatula, H Habib, M Degeling, L Bauer, LF Cranor, ...
+Publication: Thirteenth Symposium on Usable Privacy and Security ({SOUPS} 2017), 399-412
+
+39. Challenges in Access Right Assignment for Secure Home Networks.
+Citations:54
+Authors: THJ Kim, L Bauer, J Newsome, A Perrig, J Walker
+Publication: HotSec
+
+40. Mechanisms for secure modular programming in Java
+Citations:52
+Authors: L Bauer, AW Appel, EW Felten
+Publication: Software: Practice and Experience 33 (5), 461-480
+
+41. Composing expressive runtime security policies
+Citations:50
+Authors: L Bauer, J Ligatti, D Walker
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 18 (3), 9
+
+42. Designing password policies for strength and usability
+Citations:49
+Authors: R Shay, S Komanduri, AL Durity, PS Huh, ML Mazurek, SM Segreti, B Ur, ...
+Publication: ACM Transactions on Information and System Security (TISSEC) 18 (4), 13
+
+43. Consumable credentials in logic-based access-control systems
+Citations:45
+Authors: KD Bowers, L Bauer, D Garg, F Pfenning, MK Reiter
+Publication: Proceedings of the 14th Annual Network and Distributed System Security …
+
+44. The post anachronism: the temporal dimension of Facebook privacy
+Citations:43
+Authors: L Bauer, LF Cranor, S Komanduri, ML Mazurek, MK Reiter, M Sleeper, ...
+Publication: Proceedings of the 12th ACM workshop on Workshop on privacy in the …
+
+45. A spoonful of sugar?: The impact of guidance and feedback on password-creation behavior
+Citations:42
+Authors: R Shay, L Bauer, N Christin, LF Cranor, A Forget, S Komanduri, ...
+Publication: Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing …
+
+46. Run-time monitoring and formal analysis of information flows in Chromium
+Citations:42
+Authors: L Bauer, S Cai, L Jia, T Passaro, M Stroucken, Y Tian
+Publication: NDSS
+
+47. Design and evaluation of a data-driven password meter
+Citations:39
+Authors: B Ur, F Alfieri, M Aung, L Bauer, N Christin, J Colnago, LF Cranor, ...
+Publication: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …
+
+48. More than skin deep: measuring effects of the underlying model on access-control system usability
+Citations:36
+Authors: RW Reeder, L Bauer, LF Cranor, MK Reiter, K Vaniea
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+49. Efficient proving for practical distributed access-control systems
+Citations:36
+Authors: L Bauer, S Garriss, MK Reiter
+Publication: European Symposium on Research in Computer Security, 19-37
+
+50. Adversarial generative nets: Neural network attacks on state-of-the-art face recognition
+Citations:34
+Authors: M Sharif, S Bhagavatula, L Bauer, MK Reiter
+Publication: arXiv preprint arXiv:1801.00349
+
+51. Some recipes can do more than spoil your appetite: Analyzing the security and privacy risks of IFTTT recipes
+Citations:32
+Authors: M Surbatovich, J Aljuraidan, L Bauer, A Das, L Jia
+Publication: Proceedings of the 26th International Conference on World Wide Web, 1501-1510
+
+52. Types and effects for non-interfering program monitors
+Citations:32
+Authors: L Bauer, J Ligatti, D Walker
+Publication: International Symposium on Software Security, 154-171
+
+53. Exploring reactive access control
+Citations:31
+Authors: ML Mazurek, PF Klemperer, R Shay, H Takabi, L Bauer, LF Cranor
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+54. Toward strong, usable access control for shared distributed data
+Citations:30
+Authors: ML Mazurek, Y Liang, W Melicher, M Sleeper, L Bauer, GR Ganger, ...
+Publication: Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …
+
+55. Let's Go in for a Closer Look: Observing Passwords in Their Natural Habitat
+Citations:27
+Authors: S Pearman, J Thomas, PE Naeini, H Habib, L Bauer, N Christin, ...
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+56. The effectiveness of security images in internet banking
+Citations:27
+Authors: J Lee, L Bauer, ML Mazurek
+Publication: IEEE Internet Computing 19 (1), 54-62
+
+57. A comparison of users' perceptions of and willingness to use Google, Facebook, and Google+ single-sign-on functionality
+Citations:26
+Authors: L Bauer, C Bravo-Lillo, E Fragkaki, W Melicher
+Publication: Proceedings of the 2013 ACM workshop on Digital identity management, 25-36
+
+58. Out of sight, out of mind: Effects of displaying access-control information near the item it controls
+Citations:25
+Authors: K Vaniea, L Bauer, LF Cranor, MK Reiter
+Publication: 2012 Tenth Annual International Conference on Privacy, Security and Trust …
+
+59. (Do Not) Track me sometimes: users’ contextual preferences for web tracking
+Citations:24
+Authors: W Melicher, M Sharif, J Tan, L Bauer, M Christodorescu, PG Leon
+Publication: Proceedings on Privacy Enhancing Technologies 2016 (2), 135-154
+
+60. Can unicorns help users compare crypto key fingerprints?
+Citations:23
+Authors: J Tan, L Bauer, J Bonneau, LF Cranor, J Thomas, B Ur
+Publication: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …
+
+61. A proof-carrying authorization system
+Citations:23
+Authors: L Bauer, MA Schneider, EW Felten
+Publication: Technical Report CS-TR-638-01, Department of Computer Science, Princeton …
+
+62. Access right assignment mechanisms for secure home networks
+Citations:22
+Authors: THJ Kim, L Bauer, J Newsome, A Perrig, J Walker
+Publication: Journal of Communications and Networks 13 (2), 175-186
+
+63. A language and system for composing security policies
+Citations:20
+Authors: L Bauer, J Ligatti, D Walker
+Publication: Technical Report TR-699-04, Princeton University
+
+64. Warning design guidelines
+Citations:19
+Authors: L Bauer, C Bravo-Lillo, L Cranor, E Fragkaki
+Publication: '^'eds.'): Book Warning Design Guidelines, Carnegie Mellon University …
+
+65. Constraining credential usage in logic-based access control
+Citations:18
+Authors: L Bauer, L Jia, D Sharma
+Publication: 2010 23rd IEEE Computer Security Foundations Symposium, 154-168
+
+66. Diversify to survive: making passwords stronger with adaptive policies
+Citations:17
+Authors: SM Segreti, W Melicher, S Komanduri, D Melicher, R Shay, B Ur, L Bauer, ...
+Publication: Thirteenth Symposium on Usable Privacy and Security ({SOUPS} 2017), 1-12
+
+67. Password creation in the presence of blacklists
+Citations:17
+Authors: H Habib, J Colnago, W Melicher, B Ur, S Segreti, L Bauer, N Christin, ...
+Publication: Proc. USEC, 50
+
+68. Consumable credentials in logic-based access control
+Citations:16
+Authors: L Bauer, KD Bowers, F Pfenning, MK Reiter
+Publication: figshare
+
+69. A calculus for composing security policies
+Citations:16
+Authors: L Bauer, J Ligatti, D Walker
+Publication: Technical Report TR-655-02, Dept. of Computer Science, Princeton University
+
+70. “It's not actually that horrible”: Exploring Adoption of Two-Factor Authentication at a University
+Citations:15
+Authors: J Colnago, S Devlin, M Oates, C Swoopes, L Bauer, L Cranor, N Christin
+Publication: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …
+
+71. On the Suitability of Lp-norms for Creating and Preventing Adversarial Examples
+Citations:15
+Authors: M Sharif, L Bauer, MK Reiter
+Publication: arXiv preprint arXiv:1802.09653 https://arxiv.org/abs/1802.09653
+
+72. Sharing personal content online: Exploring channel choice and multi-channel behaviors
+Citations:14
+Authors: M Sleeper, W Melicher, H Habib, L Bauer, LF Cranor, ML Mazurek
+Publication: Proceedings of the 2016 CHI conference on human factors in computing systems …
+
+73. What you want is not what you get: Predicting sharing policies for text-based content on Facebook
+Citations:14
+Authors: A Sinha, Y Li, L Bauer
+Publication: Proceedings of the 2013 ACM workshop on Artificial intelligence and security …
+
+74. Information security
+Citations:14
+Authors: J Zhou, J Lopez, RH Deng, F Bao
+Publication: 8th international conference, ISC, 20-23
+
+75. Towards privacy-aware smart buildings: Capturing, communicating, and enforcing privacy policies and preferences
+Citations:13
+Authors: P Pappachan, M Degeling, R Yus, A Das, S Bhagavatula, W Melicher, ...
+Publication: 2017 IEEE 37th International Conference on Distributed Computing Systems …
+
+76. Discovering access-control misconfigurations: new approaches and evaluation methodologies
+Citations:13
+Authors: L Bauer, Y Liang, MK Reiter, C Spensky
+Publication: Proceedings of the second ACM conference on Data and Application Security …
+
+77. Access control on the web using proof-carrying authorization
+Citations:12
+Authors: L Bauer, MA Schneider, EW Felten, AW Appel
+Publication: Proceedings DARPA Information Survivability Conference and Exposition 2, 117-119
+
+78. Riding out domsday: Towards detecting and preventing dom cross-site scripting
+Citations:10
+Authors: W Melicher, A Das, M Sharif, L Bauer, L Jia
+Publication: 2018 Network and Distributed System Security Symposium (NDSS)
+
+79. Self-driving cars and data collection: Privacy perceptions of networked autonomous vehicles
+Citations:10
+Authors: C Bloom, J Tan, J Ramjohn, L Bauer
+Publication: Thirteenth Symposium on Usable Privacy and Security ({SOUPS} 2017), 357-375
+
+80. Poster: The art of password creation
+Citations:10
+Authors: B Ur, S Komanduri, R Shay, S Matsumoto, L Bauer, N Christin, LF Cranor, ...
+Publication: Proc. of the IEEE Symp. on Security and Privacy 6
+
+81. Analyzing the dangers posed by Chrome extensions
+Citations:8
+Authors: L Bauer, S Cai, L Jia, T Passaro, Y Tian
+Publication: 2014 IEEE Conference on Communications and Network Security, 184-192
+
+82. Comparing access-control technologies: A study of keys and smartphones
+Citations:8
+Authors: L Bauer, LF Cranor, RW Reeder, MK Reiter, K Vaniea
+Publication: 
+
+83. Timing-sensitive noninterference through composition
+Citations:6
+Authors: W Rafnsson, L Jia, L Bauer
+Publication: International Conference on Principles of Security and Trust, 3-25
+
+84. General requirements of a hybrid-modeling framework for cyber security
+Citations:6
+Authors: A Oltramari, N Ben-Asher, L Cranor, L Bauer, N Christin
+Publication: 2014 IEEE Military Communications Conference, 129-135
+
+85. Helping users create better passwords
+Citations:6
+Authors: SK is a Phd
+Publication: 
+
+86. xDomain: Cross-border proofs of access
+Citations:6
+Authors: L Bauer, L Jia, MK Reiter, D Swasey
+Publication: Proceedings of the 14th ACM symposium on Access control models and …
+
+87. Effects of access-control policy conflict-resolution methods on policy-authoring usability
+Citations:6
+Authors: RW Reeder, L Bauer, LF Cranor, MK Reiter, K Vaniea
+Publication: CyLab, 12
+
+88. Probabilistic cost enforcement of security policies
+Citations:5
+Authors: Y Mallios, L Bauer, D Kaynar, F Martinelli, C Morisset
+Publication: Journal of Computer Security 23 (6), 759-787
+
+89. Enforcing more with less: Formalizing target-aware run-time monitors
+Citations:4
+Authors: Y Mallios, L Bauer, D Kaynar, J Ligatti
+Publication: International Workshop on Security and Trust Management, 17-32
+
+90. Studying access-control usability in the lab: lessons learned from four studies
+Citations:4
+Authors: K Vaniea, L Bauer, LF Cranor, MK Reiter
+Publication: Proceedings of the 2012 Workshop on Learning from Authoritative Security …
+
+91. A General Framework for Adversarial Examples with Objectives
+Citations:3
+Authors: M Sharif, S Bhagavatula, L Bauer, MK Reiter
+Publication: ACM Transactions on Privacy and Security (TOPS) 22 (3), 16
+
+92. Special issue on verified information flow security
+Citations:3
+Authors: T Murray, A Sabelfeld, L Bauer
+Publication: Journal of Computer Security 25 (4-5), 319-321
+
+93. What are the most important challenges for access control in new computing domains, such as mobile, cloud and cyber-physical systems?
+Citations:2
+Authors: L Bauer, F Kerschbaum
+Publication: Proceedings of the 19th ACM symposium on Access control models and …
+
+94. Efforts to promote online privacy via research and education at Carnegie Mellon
+Citations:2
+Authors: L Bauer, A Acquisti, N Christin, L Cranor, A Datta
+Publication: Carnegie Mellon University
+
+95. Usable key agreement in home networks
+Citations:2
+Authors: R Panayappan, T Palarz, L Bauer, A Perrig
+Publication: 2009 First International Communication Systems and Networks and Workshops, 1-10
+
+96. A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats
+Citations:1
+Authors: M Sharif, KA Roundy, M Dell'Amico, C Gates, D Kats, L Bauer, N Christin
+Publication: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 78
+
+97. The Influence of Friends and Experts on Privacy Decision Making in IoT Scenarios
+Citations:1
+Authors: P Emami Naeini, M Degeling, L Bauer, R Chow, LF Cranor, ...
+Publication: Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 48
+
+98. Comparing Hypothetical and Realistic Privacy Valuations
+Citations:1
+Authors: J Tan, M Sharif, S Bhagavatula, M Beckerle, ML Mazurek, L Bauer
+Publication: Proceedings of the 2018 Workshop on Privacy in the Electronic Society, 168-182
+
+99. Cyber Insurance: recent advances, good practices & challenges
+Citations:1
+Authors: TP Augustinos, L Bauer, A Cappelletti, J Chaudhery, I Goddijn, L Heslault, ...
+Publication: European Union Agency For Network and Information Security (ENISA)
+
+100. Introducing reputation systems to the economics of outsourcing computations to rational workers
+Citations:1
+Authors: J Aljuraidan, L Bauer, MK Reiter, M Beckerle
+Publication: International Conference on Financial Cryptography and Data Security, 60-77
+
+101. Mobile SCALe: Rules and Analysis for Secure Java and Android Coding
+Citations:1
+Authors: L Bauer, L Flynn, L Jia, W Klieber, F Long, DF Sutherland, D Svoboda
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST
+
+102. The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs
+Citations:1
+Authors: PG Kelley, S Komanduri, ML Mazurek, R Shay, T Vidas, L Bauer, ...
+Publication: International Conference on Financial Cryptography and Data Security, 34-51
+
+103. Effects of Access-Control Policy Conflict-Resolution Methods on Policy-Authoring Usability (CMU-CyLab-09-006)
+Citations:1
+Authors: RW Reeder, L Bauer, LF Cranor, MK Reiter, K Vaniea
+Publication: 
+
+104. Distributed System Security via Logical Frameworks
+Citations:1
+Authors: L Bauer, F Pfenning, MK Reiter
+Publication: Information Security Research: New Methods for Protecting Against Cyber …
+
+105. Why people (don’t) use password managers effectively
+Citations:
+Authors: SA Zhang, S Pearman, L Bauer, N Christin
+Publication: Fifteenth Symposium on Usable Privacy and Security ({SOUPS} 2019)
+
+106. User behaviors and attitudes under password expiration policies
+Citations:
+Authors: H Habib, PE Naeini, S Devlin, M Oates, C Swoopes, L Bauer, N Christin, ...
+Publication: Fourteenth Symposium on Usable Privacy and Security ({SOUPS} 2018), 13-30
+
+107. Better passwords through science (and neural networks)
+Citations:
+Authors: W Melicher, B Ur, SM Segreti, L Bauer, N Christin, LF Cranor
+Publication: ; login: 42 (4)
+
+108. Introducing Reputation Systems to the Economics of Outsourcing Computations to Rational Workers (CMU-CyLab-16-001)
+Citations:
+Authors: J Aljuraidan, L Bauer, MK Reiter, M Beckerle
+Publication: figshare
+
+109. 10-Quantitative data collection
+Citations:
+Authors: L Bauer, N Christin, A Marsh
+Publication: 
+
+110. Formal Analysis and Run-time Monitoring of Information Flows in Chromium: Technical Appendix
+Citations:
+Authors: L Bauer, S Cai, L Jia, T Passaro, M Stroucken, Y Tian
+Publication: Carnegie Mellon University Pittsburgh United States
+
+111. 2014 Reviewers List
+Citations:
+Authors: A Abbasi, O Abul, E Acar, P Achananuparp, S Adali, N Agarwal, R Agerri, ...
+Publication: IEEE Transactions on Knowledge and Data Engineering 27 (1), 281
+
+112. Human Factors, Defaults, and Automation: Challenges and Opporunities
+Citations:
+Authors: L Bauer
+Publication: Proceedings of the 2014 Workshop on Cyber Security Analytics, Intelligence …
+
+113. Measuring Password Guessability for an Entire University (CMU-CyLab-13-013)
+Citations:
+Authors: ML Mazurek, S Komanduri, T Vidas, L Bauer, N Christin, LF Cranor, ...
+Publication: 
+
+114. Check Points against Privacy Breaches in Android Applications
+Citations:
+Authors: K Fukushima, L Bauer, L Jia, S Kiyomoto, Y Miyake
+Publication: IJCSNS 12 (8), 1
+
+115. Symposium On Usable Privacy and Security SOUPS 2012
+Citations:
+Authors: S Chiasson, K Hawkey, K Beznosov, A Acquisti, L Bauer, R Biddle, ...
+Publication: 
+
+116. Enforcing More with Less: Formalizing Target-aware Run-time Monitors (CMU-CyLab-12-009)
+Citations:
+Authors: Y Mallios, L Bauer, D Kaynar, J Ligatti
+Publication: 
+
+117. A Linear Logic of Authorization and Knowledge
+Citations:
+Authors: F Pfenning, L Bauer, K Bowers, D Garg, MK Reiter
+Publication: figshare
+
+118. Packet-Level Scheduling for Implant Communications Using Forward Error Correction in an Erasure Correction Mode for Reliable U-Healthcare Service 160 K.-D. Lee, SG Kim, and BK …
+Citations:
+Authors: JN Bae, YH Choi, JY Kim, JW Kwon, DI Kim, THJ Kim, L Bauer, ...
+Publication: Korea 13 (2)
+
+119. Preface of Special Issue on “Computer Security: Foundations and Automated Reasoning”
+Citations:
+Authors: L Bauer, S Etalle, J Den Hartog, L Viganò
+Publication: Journal of automated reasoning 46 (3), 223-224
+
+120. Don’t Bump, Shake on It: The Exploitation of a Popular Accelerometer-Based Smart Phone Exchange and Its Secure Replacement (CMU-CyLab-11-011)
+Citations:
+Authors: A Studer, T Passaro, L Bauer
+Publication: figshare
+
+121. Modeling and Enhancing Android’s Permission System (CMU-CyLab-11-020)
+Citations:
+Authors: E Fragkaki, L Bauer, L Jia, D Swasey
+Publication: 
+
+122. Solving the access-control puzzle: finding the pieces and putting them together
+Citations:
+Authors: L Bauer, AJ Lee
+Publication: Proceedings of the 15th ACM symposium on Access control models and …
+
+123. Access Control for Home Data Sharing: Attitudes, Needs and Practices (CMU-CyLab-09-013, CMU-PDL-09-110)
+Citations:
+Authors: ML Mazurek, JP Arsenault, J Bresee, N Gupta, I Ion, C Johns, D Lee, ...
+Publication: figshare
+
+124. Accountability for Information Flow via Explicit Formal Proof
+Citations:
+Authors: F Pfenning, L Bauer, P Lee, MK Reiter, B Witten
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+125. xDomain: Cross-border Proofs of Access (CMU-CyLab-09-005)
+Citations:
+Authors: L Bauer, L Jia, MK Reiter, D Swasey
+Publication: figshare
+
+126. Detecting and Resolving Policy Misconfigurations in Access-Control Systems (CMU-CyLab-08-004)
+Citations:
+Authors: L Bauer, S Garriss, MK Reiter
+Publication: figshare
+
+127. Distributed System Security via Logical Frameworks (SeLF)
+Citations:
+Authors: L Bauer, F Pfenning, M Reiter, K Chaudhuri, D Garg, S Garriss, J McCune, ...
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+128. Efficient Proving for Distributed Access-Control Systems
+Citations:
+Authors: L Bauer, S Garriss, MK Reiter
+Publication: figshare
+
+129. January 3, 2003
+Citations:
+Authors: L Bauer
+Publication: 
+
+130. Supplementary Material: A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats
+Citations:
+Authors: M Sharif, KA Roundy, M Dell’Amico, C Gates, D Kats, L Bauer, N Christin
+Publication: 
+
+131. Program Committee Chairs
+Citations:
+Authors: W Lee, A Perrig, M Backes, M Abadi, M Bailey, H Bos, L Bauer, D Brumley, ...
+Publication: 
+
+132. Exiting Gracefully in Python
+Citations:
+Authors: W Melicher, B Ur, SM Segreti, L Bauer, N Christin, LF Cranor, T Chung, ...
+Publication: 
+
+133. Associate Chairs
+Citations:
+Authors: L Bauer, S Capkun, D Evans, M Hicks, M Antonakakis, M Backes, ...
+Publication: 
+
+134. PC Members
+Citations:
+Authors: A Sabelfeld, A Sasse, A Askarov, A Caliskan, B Livshits, B Ur, B Köpf, ...
+Publication: 
+
+135. Smartphone-based Access Control: Adventures in Usability
+Citations:
+Authors: L Bauer
+Publication: 
+
+136. William Melicher, Mahmood Sharif, Joshua Tan, Lujo Bauer, Mihai Christodorescu*, and Pedro Giovanni Leon
+Citations:
+Authors: L Bauer
+Publication: 
+
+137. Úlfar Erlingsson Google
+Citations:
+Authors: B Parno, M Backes, D Balzarotti, G Barthe, L Bauer, K Bhargavan, ...
+Publication: 
+
+138. CSF 2016
+Citations:
+Authors: M Hicks, B Köpf, P Adão, D Garg, J Andronick, A Askarov, M Barbosa, ...
+Publication: 
+
+139. David Basin, ETH Zurich
+Citations:
+Authors: L Bauer, K Beznosov, J Bonneau, H Bos, S Capkun, H Chen, S Chen, ...
+Publication: 
+
+140. Electronic Commerce Research and Applications
+Citations:
+Authors: NM Sadeh, RJ Kauffman, PYK Chau, I Benbasat, N Jennings, JK Lee, ...
+Publication: 
+
+141. CSF 2014
+Citations:
+Authors: A Datta, C Fournet, L Viganò, D Garg, M Maffei, M Abadi, M Backes, ...
+Publication: 
+
+142. Adrian Perrig, ETH Zürich
+Citations:
+Authors: H Wang, M Atallah, D Basin, L Bauer, K Beznosov, J Caballero, C Cachin, ...
+Publication: 
+
+143. Shaping our National Privacy Research Strategy: A Multi-‐Disciplinary Perspective
+Citations:
+Authors: A Acquisti, Y Agarwal, L Bauer, A Blum, T Breaux, L Cranor, A Datta, ...
+Publication: 
+
+144. The impact of pattern length, pattern compactness, and mathematical operators on the usability and security of system-assigned graphical one-time PINs
+Citations:
+Authors: PG Kelley, S Komanduri, ML Mazurek, R Shay, L Bauer, N Christin, ...
+Publication: 
+
+145. Poster: Users’ Perceptions of and Willingness to Use Single-Sign-On Functionality1
+Citations:
+Authors: L Bauer, C Bravo-Lillo, E Fragkaki, W Melicher, M Stroucken
+Publication: 
+
+146. Program Committee Chairs
+Citations:
+Authors: J He, F Yang
+Publication: 
+
+147. Desikan, Adharsh 231 Duan, Huiying 168 Dwyer, Natasha 153 Fahl, Sascha 17 Fotia, Lidia 51
+Citations:
+Authors: C Adams, A Aggarwal, E Aïmeur, E Alata, D Amoruso, N Anciaux, A Basu, ...
+Publication: 
+
+148. 2011 Index Journal of Communications and Networks, Volume 13
+Citations:
+Authors: K Asaduzzaman, JN Bae, L Bai, HJ Bang, SM Banik, L Bauer, A Berryman, ...
+Publication: 
+
+149. Poster: Exploring Reactive Access Control
+Citations:
+Authors: ML Mazurek, PF Klemperer, R Shay, H Takabi, L Bauer, LF Cranor
+Publication: 
+

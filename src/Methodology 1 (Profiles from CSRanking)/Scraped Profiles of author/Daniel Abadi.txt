@@ -1,0 +1,538 @@
+https://scholar.google.com/citations?hl=en&user=zxeEF2gAAAAJ
+Total Citations = 17692
+
+1. Aurora: a new model and architecture for data stream management
+Citations:1853
+Authors: DJ Abadi, D Carney, U Çetintemel, M Cherniack, C Convey, S Lee, ...
+Publication: The VLDB Journal 12 (2), 120-139
+
+2. The design of the borealis stream processing engine.
+Citations:1637
+Authors: DJ Abadi, Y Ahmad, M Balazinska, U Cetintemel, M Cherniack, JH Hwang, ...
+Publication: Cidr 5 (2005), 277-289
+
+3. C-store: a column-oriented DBMS
+Citations:1393
+Authors: M Stonebraker, DJ Abadi, A Batkin, X Chen, M Cherniack, M Ferreira, ...
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+4. A comparison of approaches to large-scale data analysis
+Citations:1329
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+5. HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads
+Citations:1084
+Authors: A Abouzeid, K Bajda-Pawlikowski, D Abadi, A Silberschatz, A Rasin
+Publication: Proceedings of the VLDB Endowment 2 (1), 922-933
+
+6. Scalable semantic web data management using vertical partitioning
+Citations:822
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+7. The end of an architectural era:(it's time for a complete rewrite)
+Citations:776
+Authors: M Stonebraker, S Madden, DJ Abadi, S Harizopoulos, N Hachem, ...
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+8. Data management in the cloud: Limitations and opportunities.
+Citations:679
+Authors: DJ Abadi
+Publication: IEEE Data Eng. Bull. 32 (1), 3-12
+
+9. Integrating compression and execution in column-oriented database systems
+Citations:661
+Authors: D Abadi, S Madden, M Ferreira
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+10. Column-stores vs. row-stores: how different are they really?
+Citations:645
+Authors: DJ Abadi, SR Madden, N Hachem
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+11. MapReduce and parallel DBMSs: friends or foes?
+Citations:590
+Authors: M Stonebraker, D Abadi, DJ DeWitt, S Madden, E Paulson, A Pavlo, ...
+Publication: Communications of the ACM 53 (1), 64-71
+
+12. H-store: a high-performance, distributed main memory transaction processing system
+Citations:542
+Authors: R Kallman, H Kimura, J Natkins, A Pavlo, A Rasin, S Zdonik, EPC Jones, ...
+Publication: Proceedings of the VLDB Endowment 1 (2), 1496-1499
+
+13. Scalable SPARQL querying of large RDF graphs
+Citations:461
+Authors: J Huang, DJ Abadi, K Ren
+Publication: Proceedings of the VLDB Endowment 4 (11), 1123-1134
+
+14. Calvin: fast distributed transactions for partitioned database systems
+Citations:379
+Authors: A Thomson, T Diamond, SC Weng, K Ren, P Shao, DJ Abadi
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+15. Consistency tradeoffs in modern distributed database system design: CAP is only part of the story
+Citations:355
+Authors: D Abadi
+Publication: Computer 45 (2), 37-42
+
+16. OLTP through the looking glass, and what we found there
+Citations:331
+Authors: S Harizopoulos, DJ Abadi, S Madden, M Stonebraker
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+17. SW-Store: a vertically partitioned DBMS for Semantic Web data management
+Citations:316
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: The VLDB Journal 18 (2), 385-406
+
+18. Reed: Robust, efficient filtering and event detection in sensor networks
+Citations:291
+Authors: DJ Abadi, S Madden, W Lindner
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+19. Column-oriented database systems
+Citations:275
+Authors: DJ Abadi, PA Boncz, S Harizopoulos
+Publication: Proceedings of the VLDB Endowment 2 (2), 1664-1665
+
+20. Materialization strategies in a column-oriented DBMS
+Citations:273
+Authors: DJ Abadi, DS Myers, DJ DeWitt, SR Madden
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 466-475
+
+21. Aurora: a data stream management system
+Citations:263
+Authors: D Abadi, D Carney, U Cetintemel, M Cherniack, C Convey, C Erwin, ...
+Publication: SIGMOD Conference, 666
+
+22. Performance tradeoffs in read-optimized databases
+Citations:225
+Authors: S Harizopoulos, V Liang, DJ Abadi, S Madden
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+23. The design and implementation of modern column-oriented database systems
+Citations:177
+Authors: D Abadi, P Boncz, S Harizopoulos, S Idreos, S Madden
+Publication: Foundations and Trends® in Databases 5 (3), 197-280
+
+24. Query execution systems and methods
+Citations:175
+Authors: D Abadi, J Huang
+Publication: US Patent 8,886,631
+
+25. Low overhead concurrency control for partitioned main memory databases
+Citations:153
+Authors: EPC Jones, DJ Abadi, S Madden
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+26. Query execution in column-oriented database systems
+Citations:149
+Authors: DJ Abadi
+Publication: Massachusetts Institute of Technology
+
+27. Processing of data using a database system in communication with a data processing framework
+Citations:143
+Authors: D Abadi, K Bajda-Pawlikowski, A Abouzied, A Silberschatz
+Publication: US Patent 9,495,427
+
+28. The case for determinism in database systems
+Citations:126
+Authors: A Thomson, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 70-80
+
+29. Column Stores for Wide and Sparse Data.
+Citations:109
+Authors: DJ Abadi
+Publication: CIDR 2007, 292-297
+
+30. Efficient processing of data warehousing queries in a split execution environment
+Citations:101
+Authors: K Bajda-Pawlikowski, DJ Abadi, A Silberschatz, E Paulson
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+31. HadoopDB in action: building real world applications
+Citations:88
+Authors: A Abouzied, K Bajda-Pawlikowski, J Huang, DJ Abadi, A Silberschatz
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+32. Lightweight locking for main memory database systems
+Citations:87
+Authors: K Ren, A Thomson, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 6 (2), 145-156
+
+33. Query execution systems and methods
+Citations:82
+Authors: D Abadi, K Bajda-Pawlikowski
+Publication: US Patent 8,935,232
+
+34. An integration framework for sensor networks and data stream management systems
+Citations:81
+Authors: DJ Abadi, W Lindner, S Madden, J Schuler
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+35. CalvinFS: Consistent {WAN} Replication and Scalable Metadata Management for Distributed File Systems
+Citations:78
+Authors: A Thomson, DJ Abadi
+Publication: 13th {USENIX} Conference on File and Storage Technologies ({FAST} 15), 1-14
+
+36. Rethinking serializable multiversion concurrency control
+Citations:76
+Authors: JM Faleiro, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 8 (11), 1190-1201
+
+37. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+38. Invisible loading: access-driven data transfer from raw files into database systems
+Citations:56
+Authors: A Abouzied, DJ Abadi, A Silberschatz
+Publication: Proceedings of the 16th International Conference on Extending Database …
+
+39. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+40. Sinew: a SQL system for multi-structured data
+Citations:55
+Authors: D Tahara, T Diamond, DJ Abadi
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+41. Problems with CAP, and Yahoo’s little known NoSQL system
+Citations:51
+Authors: D Abadi
+Publication: DBMS Musings
+
+42. Ugur etintemel, Mitch Cherniack, Christian Convey, Sangdon Lee, Michael Stonebraker, Nesime Tatbul, and Stan Zdonik. Aurora: A New Model and Architecture for Data Stream Management
+Citations:47
+Authors: DJ Abadi, D Carney
+Publication: The VLDB Journal 12 (2), 120-139
+
+43. Data loading systems and methods
+Citations:44
+Authors: D Abadi, A Abouzied
+Publication: US Patent 9,336,263
+
+44. Using the Barton libraries dataset as an RDF benchmark
+Citations:39
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: 
+
+45. An evaluation of the advantages and disadvantages of deterministic database systems
+Citations:38
+Authors: K Ren, A Thomson, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 7 (10), 821-832
+
+46. Lazy evaluation of transactions in database systems
+Citations:37
+Authors: JM Faleiro, A Thomson, DJ Abadi
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+47. Leopard: Lightweight edge-oriented partitioning and replication for dynamic graphs
+Citations:36
+Authors: J Huang, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 9 (7), 540-551
+
+48. Automatic generation of normalized relational schemas from nested key-value data
+Citations:33
+Authors: M DiScala, DJ Abadi
+Publication: Proceedings of the 2016 International Conference on Management of Data, 295-310
+
+49. Design principles for scaling multi-core oltp under high contention
+Citations:31
+Authors: K Ren, JM Faleiro, DJ Abadi
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1583 …
+
+50. Scalable pattern matching over compressed graphs via dedensification
+Citations:25
+Authors: A Maccioni, DJ Abadi
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+51. The aurora and borealis stream processing engines
+Citations:25
+Authors: U Çetintemel, D Abadi, Y Ahmad, H Balakrishnan, M Balazinska, ...
+Publication: Data Stream Management, 337-359
+
+52. Query optimization of distributed pattern matching
+Citations:25
+Authors: J Huang, K Venkatraman, DJ Abadi
+Publication: 2014 IEEE 30th International Conference on Data Engineering, 64-75
+
+53. Low-overhead asynchronous checkpointing in main-memory database systems
+Citations:21
+Authors: K Ren, T Diamond, DJ Abadi, A Thomson
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1539 …
+
+54. High performance transactions via early write visibility
+Citations:18
+Authors: JM Faleiro, DJ Abadi, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 10 (5), 613-624
+
+55. Schema-less access to stored data
+Citations:18
+Authors: D Abadi, D Tahara, T Diamond
+Publication: US Patent 9,471,711
+
+56. Are we experiencing a big data bubble?
+Citations:18
+Authors: F Özcan, N Tatbul, DJ Abadi, M Kornacker, C Mohan, K Ramasamy, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+57. Fast distributed transactions and strongly consistent replication for OLTP database systems
+Citations:18
+Authors: A Thomson, T Diamond, SC Weng, K Ren, P Shao, DJ Abadi
+Publication: ACM Transactions on Database Systems (TODS) 39 (2), 11
+
+58. Modularity and Scalability in Calvin.
+Citations:11
+Authors: A Thomson, DJ Abadi
+Publication: IEEE Data Eng. Bull. 36 (2), 48-55
+
+59. VLL: a lock manager redesign for main memory database systems
+Citations:10
+Authors: K Ren, A Thomson, DJ Abadi
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 24 (5 …
+
+60. Tutorial: SQL-on-Hadoop Systems
+Citations:10
+Authors: D Abadi, S Babu, F Ozcan, I Pandis
+Publication: Proceedings of the VLDB Endowment 8 (12), 2051-2052
+
+61. Tradeoffs between parallel database systems, hadoop, and hadoopdb as platforms for petabyte-scale analysis
+Citations:10
+Authors: DJ Abadi
+Publication: International Conference on Scientific and Statistical Database Management, 1-3
+
+62. Latch-free synchronization in database systems: Silver bullet or fool's gold?
+Citations:9
+Authors: JM Faleiro, DJ Abadi
+Publication: CIDR, 9-
+
+63. SQL-on-hadoop systems: tutorial
+Citations:9
+Authors: D Abadi, S Babu, F Özcan, I Pandis
+Publication: Proceedings of the VLDB Endowment 8 (12), 2050-2051
+
+64. FIT: A Distributed Database Performance Tradeoff.
+Citations:8
+Authors: JM Faleiro, DJ Abadi
+Publication: IEEE Data Eng. Bull. 38 (1), 10-17
+
+65. Distributed data streams
+Citations:8
+Authors: M Garofalakis
+Publication: Encyclopedia of Database Systems, 883-890
+
+66. Brains and bytes
+Citations:6
+Authors: D Lindley
+Publication: Communications of the ACM 53 (9), 13-15
+
+67. Design issues for second generation stream processing engines
+Citations:6
+Authors: DJ Abadi, Y Ahmad, M Balazinska, U Cetintemel, M Cherniack, JH Hwang, ...
+Publication: Proc. of the Conference for Innovative Database Research (CIDR), Asilomar, CA
+
+68. Comparing domain-specific and non-domain-specific anaphora resolution techniques
+Citations:6
+Authors: D Abadi
+Publication: Cambridge University MPhil Dissertation
+
+69. Cloud databases: what's new?
+Citations:5
+Authors: DJ Abadi, M Carey, S Chaudhuri, H Garcia-Molina, JM Patel, ...
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1657-1657
+
+70. The fuzzylog: a partially ordered shared log
+Citations:4
+Authors: J Lockerman, JM Faleiro, J Kim, S Sankaran, DJ Abadi, J Aspnes, S Sen, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+71. Deterministic database systems
+Citations:3
+Authors: A Thomson, DJ Abadi
+Publication: US Patent 8,700,563
+
+72. Optimizing index deployment order for evolving OLAP
+Citations:3
+Authors: H Kimura, C Coffrin, A Rasin, SB Zdonik
+Publication: Proceedings of the 15th International Conference on Extending Database …
+
+73. Materialization strategies in a column-oriented DBMS
+Citations:3
+Authors: DJ Dewitt, SR Madden, DJ Abadi, DS Myers
+Publication: In Proc. of ICDE
+
+74. Systems and methods for fault tolerant, adaptive execution of arbitrary queries at low latency
+Citations:2
+Authors: D Abadi, K Bajda-Pawlikowski, R Schlussel, P Wickline
+Publication: US Patent 9,934,276
+
+75. Sensor Network Integration with Streaming Database Systems
+Citations:2
+Authors: D Abadi, S Madden, W Lindner
+Publication: Data Stream Management, 409-428
+
+76. MapReduce and Parallel DBMSs: Friends or Foes
+Citations:2
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Communications of the ACM 53 (1)
+
+77. Column-Oriented Database Systems (Tutorial)
+Citations:2
+Authors: D Abadi, PA Boncz, S Harizopoulos
+Publication: VLDB
+
+78. The end of an architectural era
+Citations:2
+Authors: M Stonebraker, S Madden, DJ Abadi, S Harizopoulos, N Hachem, ...
+Publication: 33rd (VLDB), 1150-1160
+
+79. An overview of deterministic database systems
+Citations:1
+Authors: DJ Abadi, JM Faleiro
+Publication: Communications of the ACM 61 (9), 78-88
+
+80. SQL Beyond Structure: Text, Documents and Key-Value Pairs
+Citations:1
+Authors: D Tahara, D Abadi
+Publication: Proc. New England Database Day 2014
+
+81. Building Deterministic Transaction Processing Systems without Deterministic Thread Scheduling
+Citations:1
+Authors: A Thomson, DJ Abadi
+Publication: WoDet
+
+82. How best to build web-scale data managers?
+Citations:1
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1647-1647
+
+83. Visual COKO: a debugger for query optimizer development
+Citations:1
+Authors: DJ Abadi, M Cherniack
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+84. SLOG: serializable, low-latency, geo-replicated transactions
+Citations:
+Authors: K Ren, D Li, DJ Abadi
+Publication: Proceedings of the VLDB Endowment 12 (11), 1747-1761
+
+85. C-store: through the eyes of a Ph. D. student
+Citations:
+Authors: DJ Abadi
+Publication: Making Databases Work, 235-244
+
+86. Scalable distributed reasoning using mapreduce.
+Citations:
+Authors: K Hou, J Zhang, X Fang, G Antoniou, JZ Pan, I Tachmazidis, H Choi, ...
+Publication: Journal of Software Engineering 9 (1), pp: 1-10
+
+87. Foundations and Trends® in Databases
+Citations:
+Authors: D Abadi, P Boncz, S Harizopoulos, S Idreos, S Madden
+Publication: Foundations and Trends® in Databases 5 (3), 197-280
+
+88. 1. IMPORTANT DATES
+Citations:
+Authors: C Tang
+Publication: 
+
+89. BIBLIOGRAPHICAL REFERENCES Fabio A. Schreiber lectures
+Citations:
+Authors: DJ Abadi, S Alamri, D Taniar, M Safar, G Amato
+Publication: Bulletin, Vol 35 (1)
+
+90. Encyclopedia of Database Systems: A Springer Live Reference
+Citations:
+Authors: S Šaltenis, U Cetintemel, F Özcan, MT Özsu, P Øhrstrøm, A Ünlü, D Abadi, ...
+Publication: Springer-Verlag Berlin Heidelberg
+
+91. Hold the Accusations That Limit Scientific Innovation Response
+Citations:
+Authors: M Stonebraker, D Abadi, DJ DeWitt, S Madden, E Paulson, A Pavlo, ...
+Publication: COMMUNICATIONS OF THE ACM 53 (4), 7-7
+
+92. Hold the Accusations That Limit Scientific Innovation. Authors' reply
+Citations:
+Authors: J Grier, M STONEBRAKER, D ABADI, DJ DEWITT, S MADDEN, ...
+Publication: Communications of the ACM 53 (4)
+
+93. Data Partitioning
+Citations:
+Authors: D Abadi
+Publication: Encyclopedia of Database Systems, 599-600
+
+94. H-Store: A High-Performance, Distributed Main Memory Transaction Processing System
+Citations:
+Authors: EPC Jones, S Madden, M Stonebraker, Y Zhang, J Hugg, DJ Abadi
+Publication: 
+
+95. Presented by Varun Singhal
+Citations:
+Authors: DJ Abadi, D Carney, U Cetintemel, M Cherniack, C Convey, S Lee, ...
+Publication: The VLDB Journal 12 (2), 120-139
+
+96. Topics to be covered
+Citations:
+Authors: DJ Abadi, D Carney, U Cetintemel, M Cherniack, C Convey, S Lee, ...
+Publication: The VLDB Journal 12 (2), 120-139
+
+97. Integration of Large-Scale Data Processing Systems and Traditional Parallel Database Technology
+Citations:
+Authors: A Abouzied, DJ Abadi, K Bajda-Pawlikowski, A Silberschatz
+Publication: Proceedings of the VLDB Endowment 12 (12)
+
+98. New DBMS Architectures
+Citations:
+Authors: M Stonebraker, DJ Abadi, A Batkin, X Chen, M Cherniack, M Ferreira, ...
+Publication: 
+
+99. 13th USENIX Conference on File and Storage Technologies
+Citations:
+Authors: A Thomson, DJ Abadi
+Publication: 
+
+100. On Compressing Graph Databases
+Citations:
+Authors: A Maccioni, DJ Abadi
+Publication: 
+
+101. HP RiR Research Plan
+Citations:
+Authors: D Abadi
+Publication: 
+
+102. An Integration Framework for Sensor Networks and DSMSs
+Citations:
+Authors: D Abadi, S Madden, M Stonebraker
+Publication: 
+
+103. Program Committees
+Citations:
+Authors: D Abadi, A ABOULNAGA, L AMSALEG, W AREF, S BHOWMICK, ...
+Publication: 
+
+104. An Analysis of the Benefits of Applying Column-Oriented Data Storage Techniques to RDF Stores
+Citations:
+Authors: D Abadi
+Publication: 
+
+105. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+106. How Best to Build Web-Scale Data Managers? A Panel Discussion
+Citations:
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann
+Publication: 
+
+107. Q1) Map Reduce and Distributed Databases
+Citations:
+Authors: AA Workloads, K BajdaPawlikowski, D Abadi, A Silberschatz, A Rasin
+Publication: 
+

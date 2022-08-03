@@ -1,0 +1,1483 @@
+https://scholar.google.com/citations?hl=en&user=7OvZhQIAAAAJ
+Total Citations = 5721
+
+1. An analytical model for a GPU architecture with memory-level and thread-level parallelism awareness
+Citations:663
+Authors: S Hong, H Kim
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 152-163
+
+2. Qilin: exploiting parallelism on heterogeneous multiprocessors with adaptive mapping
+Citations:584
+Authors: CK Luk, S Hong, H Kim
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+3. An integrated GPU power and performance model
+Citations:512
+Authors: S Hong, H Kim
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 280-289
+
+4. Feedback directed prefetching: Improving the performance and bandwidth-efficiency of hardware prefetchers
+Citations:313
+Authors: S Srinath, O Mutlu, H Kim, YN Patt
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+5. A performance analysis framework for identifying potential benefits in GPGPU applications
+Citations:179
+Authors: J Sim, A Dasgupta, H Kim, R Vuduc
+Publication: ACM SIGPLAN Notices 47 (8), 11-22
+
+6. Many-thread aware prefetching mechanisms for GPGPU applications
+Citations:131
+Authors: J Lee, NB Lakshminarayana, H Kim, R Vuduc
+Publication: 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, 213-224
+
+7. TAP: A TLP-aware cache management policy for a CPU-GPU heterogeneous architecture
+Citations:130
+Authors: J Lee, H Kim
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+8. When prefetching works, when it doesn’t, and why
+Citations:114
+Authors: J Lee, H Kim, R Vuduc
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 9 (1), 2
+
+9. SD3: A scalable approach to dynamic data-dependence profiling
+Citations:106
+Authors: M Kim, H Kim, CK Luk
+Publication: 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, 535-546
+
+10. A mostly-clean DRAM cache for effective hit speculation and self-balancing dispatch
+Citations:91
+Authors: J Sim, GH Loh, H Kim, M OConnor, M Thottethodi
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 247-257
+
+11. Techniques for efficient processing in runahead execution engines
+Citations:87
+Authors: O Mutlu, H Kim, YN Patt
+Publication: ACM SIGARCH Computer Architecture News 33 (2), 370-381
+
+12. Age based scheduling for asymmetric multiprocessors
+Citations:86
+Authors: NB Lakshminarayana, J Lee, H Kim
+Publication: Proceedings of the conference on high performance computing networking …
+
+13. GraphBIG: understanding graph computing in the context of industrial solutions
+Citations:81
+Authors: L Nai, Y Xia, IG Tanase, H Kim, CY Lin
+Publication: SC'15: Proceedings of the International Conference for High Performance …
+
+14. Transparent hardware management of stacked dram as part of memory
+Citations:70
+Authors: J Sim, AR Alameldeen, Z Chishti, C Wilkerson, H Kim
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+15. Graphpim: Enabling instruction-level pim offloading in graph computing frameworks
+Citations:65
+Authors: L Nai, R Hadidi, J Sim, H Kim, P Kumar, H Kim
+Publication: 2017 IEEE International symposium on high performance computer architecture …
+
+16. Efficient runahead execution: Power-efficient memory latency tolerance
+Citations:65
+Authors: O Mutlu, H Kim, YN Patt
+Publication: IEEE Micro 26 (1), 10-20
+
+17. Wish branches: Combining conditional branching and predication for adaptive predicated execution
+Citations:58
+Authors: H Kim, O Mutlu, J Stark, YN Patt
+Publication: 38th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'05 …
+
+18. Effect of instruction fetch and memory scheduling on gpu performance
+Citations:55
+Authors: NB Lakshminarayana, H Kim
+Publication: Workshop on Language, Compiler, and Architecture Support for GPGPU 88
+
+19. VPC prediction: reducing the cost of indirect branches via hardware-based dynamic devirtualization
+Citations:53
+Authors: H Kim, JA Joao, O Mutlu, CJ Lee, YN Patt, R Cohn
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 424-435
+
+20. Address-value delta (AVD) prediction: Increasing the effectiveness of runahead execution by exploiting regular memory allocation patterns
+Citations:51
+Authors: O Mutlu, H Kim, YN Patt
+Publication: Proceedings of the 38th annual IEEE/ACM International Symposium on …
+
+21. Power modeling for GPU architectures using McPAT
+Citations:45
+Authors: J Lim, NB Lakshminarayana, H Kim, W Song, S Yalamanchili, W Sung
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 19 (3), 26
+
+22. Macsim: A cpu-gpu heterogeneous simulation framework user guide
+Citations:43
+Authors: H Kim, J Lee, NB Lakshminarayana, J Sim, J Lim, T Pho
+Publication: Georgia Institute of Technology
+
+23. FLEXclusion: balancing cache capacity and on-chip bandwidth via flexible exclusion
+Citations:41
+Authors: J Sim, J Lee, MK Qureshi, H Kim
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 321-332
+
+24. Spare register aware prefetching for graph algorithms on GPUs
+Citations:39
+Authors: NB Lakshminarayana, H Kim
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+25. Quinacridone‐Based Electron Transport Layers for Enhanced Performance in Bulk‐Heterojunction Solar Cells
+Citations:39
+Authors: TV Pho, H Kim, JH Seo, AJ Heeger, F Wudl
+Publication: Advanced Functional Materials 21 (22), 4338-4341
+
+26. Adaptive virtual channel partitioning for network-on-chip in heterogeneous architectures
+Citations:38
+Authors: J Lee, S Li, H Kim, S Yalamanchili
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 18 (4), 48
+
+27. Performance analysis and tuning for general purpose graphics processing units (GPGPU)
+Citations:37
+Authors: H Kim, R Vuduc, S Baghsorkhi, J Choi, W Hwu
+Publication: Synthesis Lectures on Computer Architecture 7 (2), 1-96
+
+28. DRAM scheduling policy for GPGPU architectures based on a potential function
+Citations:36
+Authors: NB Lakshminarayana, J Lee, H Kim, J Shin
+Publication: IEEE Computer Architecture Letters 11 (2), 33-36
+
+29. Improving the performance of object-oriented languages with dynamic predication of indirect jumps
+Citations:36
+Authors: JA Joao, O Mutlu, H Kim, R Agarwal, YN Patt
+Publication: ACM SIGOPS Operating Systems Review 42 (2), 80-90
+
+30. On reusing the results of pre-executed instructions in a runahead execution processor
+Citations:36
+Authors: O Mutlu, H Kim, J Stark, YN Patt
+Publication: IEEE Computer Architecture Letters 4 (1), 2-2
+
+31. Quench characteristics of resistive superconducting fault current limiters based on YBa2Cu3O7 films
+Citations:36
+Authors: HS Choi, OB Hyun, HR Kim
+Publication: Physica C: Superconductivity 351 (4), 415-420
+
+32. Prospector: A dynamic data-dependence profiler to help parallel programming
+Citations:35
+Authors: M Kim, H Kim, CK Luk
+Publication: HotPar’10: Proceedings of the USENIX workshop on Hot Topics in parallelism
+
+33. Instruction offloading with hmc 2.0 standard: A case study for graph traversals
+Citations:34
+Authors: L Nai, H Kim
+Publication: Proceedings of the 2015 International Symposium on Memory Systems, 258-261
+
+34. Design and development of 500 m long HTS cable system in the KEPCO power grid, Korea
+Citations:34
+Authors: SH Sohn, JH Lim, BM Yang, SK Lee, HM Jang, YH Kim, HS Yang, DL Kim, ...
+Publication: Physica C: Superconductivity and its applications 470 (20), 1567-1571
+
+35. Quench properties of Y-Ba-Cu-O films after overpowering quenches [superconducting fault current limiters]
+Citations:34
+Authors: HS Choi, HR Kim, OB Nyun, SJ Kim
+Publication: IEEE transactions on applied superconductivity 11 (1), 2418-2421
+
+36. Understanding the effects of wrong-path memory references on processor performance
+Citations:33
+Authors: O Mutlu, H Kim, DN Armstrong, YN Patt
+Publication: Proceedings of the 3rd workshop on Memory performance issues: in conjunction …
+
+37. Diverge-merge processor (DMP): Dynamic predicated execution of complex control-flow graphs based on frequently executed paths
+Citations:32
+Authors: H Kim, JA Joao, O Mutlu, YN Patt
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+38. Predicting potential speedup of serial code via lightweight profiling and emulations with memory performance model
+Citations:31
+Authors: M Kim, P Kumar, H Kim, B Brett
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+39. Wrong path events: Exploiting unusual and illegal program behavior for early misprediction detection and recovery
+Citations:30
+Authors: DN Armstrong, H Kim, O Mutlu, YN Patt
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+40. Genetic effects of FTO and MC4R polymorphisms on body mass in constitutional types
+Citations:28
+Authors: S Cha, I Koo, BL Park, S Jeong, SM Choi, KS Kim, HD Shin, JY Kim
+Publication: Evidence-Based Complementary and Alternative Medicine 2011
+
+41. Vertically aligned mode liquid crystal display with differentiated B cell gap with synergistic properties
+Citations:28
+Authors: J Song, KH Kim, J Lyu, SH Lee, SB Park, YW Choi
+Publication: US Patent 7,075,600
+
+42. Long-term operation and fault tests of a 22.9 kV hybrid SFCL in the KEPCO test grid
+Citations:27
+Authors: OB Hyun, SW Yim, SD Yu, SE Yang, WS Kim, HR Kim, GH Lee, J Sim, ...
+Publication: IEEE Transactions on Applied Superconductivity 21 (3), 2131-2134
+
+43. Joining of Bi-2212 high-Tc superconductors and metals using indium solders
+Citations:27
+Authors: SY Oh, HR Kim, YH Jeong, OB Hyun, CJ Kim
+Publication: Physica C: Superconductivity and its applications 463, 464-467
+
+44. OpenCL performance evaluation on modern multicore CPUs
+Citations:26
+Authors: JH Lee, N Nigania, H Kim, K Patel, H Kim
+Publication: Scientific Programming 2015, 4
+
+45. Gpumech: Gpu performance modeling technique based on interval analysis
+Citations:26
+Authors: JC Huang, JH Lee, H Kim, HHS Lee
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+46. Installation and testing of SFCLs
+Citations:26
+Authors: HR Kim, SE Yang, SD Yu, H Kim, WS Kim, K Park, OB Hyun, BM Yang, ...
+Publication: IEEE Transactions on Applied Superconductivity 22 (3), 5602704-5602704
+
+47. Processor unit for executing event process in real time in response to occurrence of event
+Citations:26
+Authors: T Nishimura
+Publication: US Patent 6,968,552
+
+48. Design space exploration of on-chip ring interconnection for a CPU–GPU heterogeneous architecture
+Citations:25
+Authors: J Lee, S Li, H Kim, S Yalamanchili
+Publication: Journal of Parallel and Distributed Computing 73 (12), 1525-1538
+
+49. Recovery in superconducting fault current limiters at low applied voltages
+Citations:25
+Authors: HR Kim, SW Yim, SY Oh, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 18 (2), 656-659
+
+50. 3‐Caffeoyl, 4‐dihydrocaffeoylquinic acid from Salicornia herbacea attenuates high glucose‐induced hepatic lipogenesis in human HepG2 cells through activation of the liver …
+Citations:24
+Authors: YP Hwang, HG Kim, JH Choi, MT Do, TP Tran, HK Chun, YC Chung, ...
+Publication: Molecular nutrition & food research 57 (3), 471-482
+
+51. Acid-degradable cationic poly (ketal amidoamine) for enhanced RNA interference in vitro and in vivo
+Citations:24
+Authors: H Lim, J Noh, Y Kim, H Kim, J Kim, G Khang, D Lee
+Publication: Biomacromolecules 14 (1), 240-247
+
+52. Electrical behavior of Bi-2223/Ag tapes under applied alternating over-currents
+Citations:24
+Authors: SW Yim, SH Lim, HR Kim, SD Hwang, K Kishio
+Publication: IEEE transactions on applied superconductivity 15 (2), 2482-2487
+
+53. Operating properties of superconducting fault current limiters based on YBCO thin films
+Citations:23
+Authors: HS Choi, HR Kim, OB Hyun
+Publication: Cryogenics 41 (3), 163-167
+
+54. Increased open-circuit voltage in bulk-heterojunction solar cells using a derivative
+Citations:22
+Authors: H Kim, JH Seo, EY Park, TD Kim, K Lee, KS Lee, S Cho, AJ Heeger
+Publication: Applied Physics Letters 97 (19), 243
+
+55. Design space exploration of the turbo decoding algorithm on GPUs
+Citations:22
+Authors: D Lee, M Wolf, H Kim
+Publication: Proceedings of the 2010 international conference on Compilers, architectures …
+
+56. Quench distribution in superconducting fault current limiters at various voltages
+Citations:22
+Authors: HR Kim, HS Choi, HR Lim, IS Kim, OB Hyun
+Publication: Cryogenics 41 (4), 275-280
+
+57. Initial quench development in uniform Au/Y-Ba-Cu-O thin films [superconducting fault current limiters]
+Citations:22
+Authors: HR Kim, HS Choi, HR Lim, IS Kim, OB Hyun
+Publication: IEEE transactions on applied superconductivity 11 (1), 2414-2417
+
+58. BSSync: Processing near memory for machine learning workloads with bounded staleness consistency models
+Citations:21
+Authors: JH Lee, J Sim, H Kim
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+59. Improvements to the Structural Simulation Toolkit.
+Citations:21
+Authors: AF Rodrigues, K Bergman, DP Bunde, E Cooper-Balis, KB Ferreira, ...
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+60. Analysis on recovery characteristics of superconducting fault current limiters
+Citations:21
+Authors: HR Kim, SW Yim, OB Hyun, J Sim, SY Oh
+Publication: MT-20 Conference on Magnet Technology
+
+61. An analysis of the performance impact of wrong-path memory references on out-of-order and runahead execution processors
+Citations:21
+Authors: O Mutlu, H Kim, DN Armstrong, YN Patt
+Publication: IEEE Transactions on Computers 54 (12), 1556-1571
+
+62. Cache filtering techniques to reduce the negative impact of useless speculative memory references on processor performance
+Citations:21
+Authors: O Mutlu, H Kim, DN Armstrong, YN Patt
+Publication: 16th Symposium on Computer Architecture and High Performance Computing, 2-9
+
+63. Quench behavior of YBaCuO films for fault current limiters under magnetic field
+Citations:21
+Authors: KB Park, JS Kang, BW Lee, IS Oh, HS Choi, HR Kim, OB Hyun
+Publication: IEEE transactions on applied superconductivity 13 (2), 2092-2095
+
+64. Demystifying the characteristics of 3d-stacked memories: A case study for hybrid memory cube
+Citations:20
+Authors: R Hadidi, B Asgari, BA Mudassar, S Mukhopadhyay, S Yalamanchili, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 66-75
+
+65. Development and grid operation of superconducting fault current limiters in KEPCO
+Citations:20
+Authors: HR Kim, SE Yang, SD Yu, H Kim, BJ Park, YH Han, K Park, J Yu
+Publication: IEEE Transactions on Applied Superconductivity 24 (5), 1-4
+
+66. Analysis on recovery in Au/YBCO thin film meander lines
+Citations:20
+Authors: HR Kim, SW Yim, SY Oh, OB Hyun
+Publication: Progress in superconductivity 9 (1), 119-125
+
+67. Address-value delta (AVD) prediction: A hardware technique for efficiently parallelizing dependent cache misses
+Citations:20
+Authors: O Mutlu, H Kim, YN Patt
+Publication: IEEE Transactions on Computers 55 (12), 1491-1508
+
+68. Production and characterization of bacterial cellulose fabrics by nitrogen sources of tea and carbon sources of sugar
+Citations:19
+Authors: SM Yim, JE Song, HR Kim
+Publication: Process Biochemistry 59, 26-36
+
+69. Effect of R-phase on impact toughness of 25Cr-7Ni-4Mo super duplex stainless steel
+Citations:18
+Authors: TH Hwang, JH Kim, KH Kim, WJ Moon, CY Kang
+Publication: Metals and materials international 20 (1), 13-17
+
+70. Demonstration of a superconducting fault current limiter in a real grid
+Citations:18
+Authors: HR Kim, SD Yu, H Kim, WS Kim, SE Yang, JY Lee, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 23 (3), 5603604-5603604
+
+71. Resistance development in superconducting fault current limiters prior to quench completion
+Citations:17
+Authors: HR Kim, OB Hyun, HS Choi, SD Cha, JM Oh
+Publication: IEEE transactions on applied superconductivity 13 (2), 2032-2035
+
+72. Virtual program counter (vpc) prediction: Very low cost indirect branch prediction using conditional branch prediction hardware
+Citations:16
+Authors: H Kim, JA Joao, O Mutlu, CJ Lee, YN Patt, R Cohn
+Publication: IEEE Transactions on Computers 58 (9), 1153-1170
+
+73. Wish branches: Enabling adaptive and aggressive predicated execution
+Citations:16
+Authors: H Kim, O Mutlu, YN Patt, J Stark
+Publication: IEEE Micro 26 (1), 48-58
+
+74. Using the first-level caches as filters to reduce the pollution caused by speculative memory references
+Citations:15
+Authors: O Mutlu, H Kim, DN Armstrong, YN Patt
+Publication: International Journal of Parallel Programming 33 (5), 529-559
+
+75. Anesthesia and temperature
+Citations:15
+Authors: JS Kim
+Publication: Korean Journal of Anesthesiology 47 (5), 609-616
+
+76. Synthesis and characterization of cluster complexes containing iminium ion ligands. The crystal and molecular structures of two isomers of Os3 (CO) 7 (. mu.-CNMe2)(H2CNMe2 …
+Citations:15
+Authors: RD Adams, JE Babin, HS Kim
+Publication: Organometallics 6 (4), 749-754
+
+77. Differences in the properties of the radial artery between Cun, Guan, Chi, and nearby segments using ultrasonographic imaging: a pilot study on arterial depth, diameter, and …
+Citations:14
+Authors: JU Kim, YJ Lee, J Lee, JY Kim
+Publication: Evidence-Based Complementary and Alternative Medicine 2015
+
+78. Evaluating scalability of multi-threaded applications on a many-core platform
+Citations:14
+Authors: V Gupta, H Kim, K Schwan
+Publication: Georgia Institute of Technology
+
+79. Quench and recovery characteristics of Au/YBCO thin film type SFCL
+Citations:14
+Authors: SW Yim, HR Kim, OB Hyun, J Sim
+Publication: Physica C: Superconductivity and its applications 463, 1172-1175
+
+80. 2D-profiling: Detecting input-dependent branches with a single input data set
+Citations:14
+Authors: H Kim, MA Suleman, O Mutlu, YN Patt
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+81. Novel ligand transformations in cluster complexes.. alpha.-Carbon-hydrogen bond activation in a secondary carbene ligand in a triosmium cluster
+Citations:14
+Authors: RD Adams, JE Babin, HS Kim
+Publication: Organometallics 5 (9), 1924-1925
+
+82. CAIRO: A compiler-assisted technique for enabling instruction-level offloading of processing-in-memory
+Citations:13
+Authors: R Hadidi, L Nai, H Kim, H Kim
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 14 (4), 48
+
+83. Accelerating application start-up with nonvolatile memory in android systems
+Citations:13
+Authors: H Kim, H Lim, D Manatunga, H Kim, GH Park
+Publication: IEEE Micro 35 (1), 15-25
+
+84. Prospector: Discovering parallelism via dynamic data-dependence profiling
+Citations:13
+Authors: M Kim, H Kim, CK Luk
+Publication: Proceedings of the 2nd USENIX Workshop on Hot Topics in Parallelism, HOTPAR …
+
+85. Asymmetry aware scheduling algorithms for asymmetric multiprocessors
+Citations:13
+Authors: N Lakshminarayana, S Rao, H Kim
+Publication: In Proc. of the Fourth Annual Workshop on the Interaction between Operating …
+
+86. Verification test of 22.9 kV underground HTS cable
+Citations:13
+Authors: SH Sohn, SD Hwang, JH Lim, SW Yim, OB Hyun, HR Kim, K Yatsuka, ...
+Publication: Physica C: Superconductivity and its applications 463, 1146-1149
+
+87. Profile-assisted compiler support for dynamic predication in diverge-merge processors
+Citations:13
+Authors: H Kim, JA Joao, O Mutlu, YN Patt
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+88. The structure, bonding and transformation behaviour of iminium, aminocarbene and aminocarbyne ligands in triosmium cluster complexes
+Citations:13
+Authors: RD Adams, JE Babin, HS Kim
+Publication: Polyhedron 7 (10-11), 967-978
+
+89. Renal and renin effects of sodium thiopental in rabbits
+Citations:13
+Authors: KW Cho, SH Kim, GY Koh, KH Seul, HJ Kim, HS Song
+Publication: Kidney and Blood Pressure Research 10 (5), 261-271
+
+90. Sp-cnn: A scalable and programmable cnn-based accelerator
+Citations:12
+Authors: D Manatunga, H Kim, S Mukhopadhyay
+Publication: IEEE Micro 35 (5), 42-50
+
+91. Construction of testing facilities and verifying tests of a 22.9 kV/630 A class superconducting fault current limiter
+Citations:12
+Authors: SW Yim, SD Yu, HR Kim, MJ Kim, CR Park, SE Yang, WS Kim, OB Hyun, ...
+Publication: Physica C: Superconductivity and its applications 470 (20), 1611-1614
+
+92. Hybrid-type superconducting fault current limiter
+Citations:12
+Authors: OB Hyun, H Kim, SW Yim, JW Sim, KB Park, BW Lee
+Publication: US Patent 7,742,264
+
+93. Double-evaporator thermosiphon for cooling 100 kWh class superconductor flywheel energy storage system bearings
+Citations:12
+Authors: S Jung, J Lee, B Park, S Jeong, J Ko, J Lee, Y Han, J Lee, B Park, H Kim, ...
+Publication: IEEE Transactions on Applied Superconductivity 19 (3), 2103-2106
+
+94. Fabrication and Tests of the 24 kV class Hybrid Superconducting Fault Current Limiter
+Citations:11
+Authors: BW Lee, J Sim, KB Park, IS Oh, SW Yim, HR Kim, OB Hyun
+Publication: Progress in Superconductivity and Cryogenics 9 (4), 32-36
+
+95. Dynamic predication of indirect jumps
+Citations:11
+Authors: JA Joao, O Mutlu, H Kim, YN Patt
+Publication: IEEE Computer Architecture Letters 7 (1), 1-4
+
+96. Insights into factors determining the aerosol distribution characteristics of the Asian dust on the basis of the concurrent analysis of PM2. 5, PM10, and TSP during the spring …
+Citations:11
+Authors: KH Kim, MY Kim, JY Shin, KH Choi, CH Kang
+Publication: J Kor Soc Atmos Environ 18, 419-426
+
+97. Distributed perception by collaborative robots
+Citations:10
+Authors: R Hadidi, J Cao, M Woodward, MS Ryoo, H Kim
+Publication: IEEE Robotics and Automation Letters 3 (4), 3709-3716
+
+98. Performance implications of NoCs on 3D-stacked memories: Insights from the hybrid memory cube
+Citations:10
+Authors: R Hadidi, B Asgari, J Young, BA Mudassar, K Garg, T Krishna, H Kim
+Publication: 2018 IEEE International Symposium on Performance Analysis of Systems and …
+
+99. Understanding energy aspects of processing-near-memory for HPC workloads
+Citations:10
+Authors: H Kim, H Kim, S Yalamanchili, AF Rodrigues
+Publication: Proceedings of the 2015 International Symposium on Memory Systems, 276-282
+
+100. Tevatron constraints on models of the Higgs boson with exotic spin and parity using decays to bottom-antibottom quark pairs
+Citations:10
+Authors: T Aaltonen, VM Abazov, B Abbott, BS Acharya, M Adams, T Adams, ...
+Publication: Physical review letters 114 (15), 151802
+
+101. Indicators of hypertriglyceridemia from anthropometric measures based on data mining
+Citations:10
+Authors: BJ Lee, JY Kim
+Publication: Computers in biology and medicine 57, 201-211
+
+102. TBPoint: Reducing simulation time for large-scale GPGPU kernels
+Citations:10
+Authors: JC Huang, L Nai, H Kim, HHS Lee
+Publication: 2014 IEEE 28th International Parallel and Distributed Processing Symposium …
+
+103. Supporting virtual memory in GPGPU without supporting precise exceptions
+Citations:10
+Authors: H Kim
+Publication: Proceedings of the 2012 ACM SIGPLAN Workshop on Memory Systems Performance …
+
+104. The application of fault current limiter at Icheon substation in Korea
+Citations:10
+Authors: MJ Kim, GH Lee, SH Bang, HY Park, W Choe, J Sim, SW Lee, YG Kim, ...
+Publication: 2011 1st International Conference on Electric Power Equipment-Switching …
+
+105. Sd3: An efficient dynamic data-dependence profiling mechanism
+Citations:9
+Authors: M Kim, NB Lakshminarayana, H Kim, CK Luk
+Publication: IEEE Transactions on Computers 62 (12), 2516-2530
+
+106. Report for the NSF workshop on cross-layer power optimization and management
+Citations:9
+Authors: M Pedram, D Brooks, T Pinkston
+Publication: NSF Workshop on Cross-Layer Power Optimization and Management
+
+107. Macsim: Simulator for heterogeneous architecture
+Citations:9
+Authors: H Kim, J Lee, N Lakshminarayana, J Lim, T Pho
+Publication: Georgia Institute of Technology
+
+108. Dynamic characteristics of a 22.9 kV hybrid SFCL for short-circuit test considering a simple coordination of protection system in distribution networks
+Citations:9
+Authors: WS Kim, OB Hyun, CR Park, SW Yim, SD Yu, SE Yang, HS Kim, HR Kim
+Publication: IEEE Transactions on Applied Superconductivity 22 (3), 5601404-5601404
+
+109. Biodegradable polyoxalate and copolyoxalate particles for drug-delivery applications
+Citations:9
+Authors: D Hong, B Song, H Kim, J Kwon, G Khang, D Lee
+Publication: Therapeutic delivery 2 (11), 1407-1417
+
+110. Emergence agitation/delirium: we still don't know
+Citations:9
+Authors: KH Kwak
+Publication: Korean journal of anesthesiology 59 (2), 73
+
+111. Performance-aware speculation control using wrong path usefulness prediction
+Citations:9
+Authors: CJ Lee, H Kim, O Mutlu, YN Patt
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+112. Diverge-merge processor: Generalized and energy-efficient dynamic predication
+Citations:9
+Authors: H Kim, JA Joao, O Mutlu, YN Patt
+Publication: IEEE micro 27 (1), 94-104
+
+113. Temperature distribution in SFCLs based on Au/YBCO films during quenches
+Citations:9
+Authors: HR Kim, J Sim, OB Hyun
+Publication: Cryogenics 46 (4), 305-311
+
+114. Real-time image recognition using collaborative iot devices
+Citations:8
+Authors: R Hadidi, J Cao, M Woodward, MS Ryoo, H Kim
+Publication: Proceedings of the 1st on Reproducible Quality-Efficient Systems Tournament …
+
+115. Identification of hemoglobin levels based on anthropometric indices in elderly Koreans
+Citations:8
+Authors: BJ Lee, JY Kim
+Publication: PloS one 11 (11), e0165622
+
+116. Green cache: exploiting the disciplined memory model of OpenCL on GPUs
+Citations:8
+Authors: J Lee, DH Woo, H Kim, M Azimi
+Publication: IEEE Transactions on Computers 64 (11), 3167-3180
+
+117. Relationship between pre-harvest sprouting and functional markers associated with grain weight, TaSUS2-2B, TaGW2-6A, and TaCWI-A1, in Korean wheat cultivars.
+Citations:8
+Authors: KH Kim, SH Shin, S Park, JC Park, CS Kang, CS Park
+Publication: SABRAO Journal of Breeding & Genetics 46 (2)
+
+118. Chip: a profiler to measure the effect of cache contention on scalability
+Citations:8
+Authors: B Brett, P Kumar, M Kim, H Kim
+Publication: 2013 IEEE International Symposium on Parallel & Distributed Processing …
+
+119. An effect of HTS wire configuration on quench recovery time in a resistive SFCL
+Citations:8
+Authors: H Kim, JY Lee, HR Kim, SE Yang, SD Yu, WS Kim, OB Hyun, J Ko, ...
+Publication: IEEE Transactions on Applied Superconductivity 23 (3), 5604104-5604104
+
+120. The AM-Bench: An android multimedia benchmark suite
+Citations:8
+Authors: C Lee, E Kim, H Kim
+Publication: Georgia Institute of Technology
+
+121. GPUPerf: A performance analysis framework for identifying potential benefits in GPGPU applications
+Citations:8
+Authors: J Sim, A Dasgupta, H Kim, R Vuduc
+Publication: In PPoPP
+
+122. A study on correlation between BMI and oriental medical pulse diagnosis using ultrasonic wave
+Citations:8
+Authors: YJ Lee, J Lee, HJ Lee, JY Kim
+Publication: 13th international conference on biomedical engineering, 2052-2055
+
+123. Equal current distribution in parallel circuits of resistive superconducting fault current limiters using multiple superconducting inter-phase transformers
+Citations:8
+Authors: J Sim, YS Choi, HR Kim, OB Hyun
+Publication: IEEE transactions on applied superconductivity 15 (2), 2122-2125
+
+124. Optimum encoder for trellis-coded CPFSK with ring convolutional codes
+Citations:8
+Authors: JY Lee, PY Jou, KH Kim, CE Kang
+Publication: Electronics Letters 33 (24), 2020-2021
+
+125. Study on thermal response to instantaneous heat generation in LN2 chamber for HTS-FCL
+Citations:7
+Authors: J Ko, H Yeom, YJ Hong, H Kim, SJ Park, DY Koh, HR Kim
+Publication: IEEE Transactions on Applied Superconductivity 23 (3), 5603204-5603204
+
+126. Liquid crystal displays
+Citations:7
+Authors: J Lyu, HR Lee, KH Kim, JM Chen
+Publication: US Patent 7,929,088
+
+127. Recovery characteristics of coated conductors
+Citations:7
+Authors: HR Kim, CR Park, SW Yim, SD Yu, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 20 (3), 2194-2198
+
+128. Memory-level and thread-level parallelism aware GPU architecture performance analytical model
+Citations:7
+Authors: S Hong, H Kim
+Publication: 
+
+129. Surface polymer-stabilized vertically aligned liquid crystal cells with various polymer wall structures
+Citations:7
+Authors: SJ Hwang, SM Kim, AK Srivastava, MH Lee, SH Lee, JJ Lyu, KH Kim, ...
+Publication: Molecular Crystals and Liquid Crystals 489 (1), 237/[563]-245/[571]
+
+130. In-Seon Kim, Ok-Bae Hyun,“Resistance of superconducting fault current limiters based on YBa2Cu3O7 thin films after quench completion”
+Citations:7
+Authors: HR Kim, HS Choi, HR Lim
+Publication: Physica C 372, 376
+
+131. First Measurement of the Left-Right Asymmetry in Z-Boson Production
+Citations:7
+Authors: SLD collaboration: Represented by Robert Elia., K Abe, I Abt, PD Acton, ...
+Publication: Modern Physics Letters A 8 (24), 2237-2248
+
+132. Prediction of cold and heat patterns using anthropometric measures based on machine learning
+Citations:6
+Authors: BJ Lee, JC Lee, J Nam, JY Kim
+Publication: Chinese journal of integrative medicine 24 (1), 16-23
+
+133. Understanding performance, power and energy behavior in asymmetric multiprocessors
+Citations:6
+Authors: NB Lakshminarayana, H Kim
+Publication: 2008 IEEE International Conference on Computer Design, 471-477
+
+134. High‐frequency welding of thermoplastic LLDPE/PA 6/PE‐g‐MAH ternary blends
+Citations:6
+Authors: CS Yoon, EM Lee, MS Jang, CK Song, CY Kang, KH Kim, BK Kim
+Publication: Journal of applied polymer science 109 (5), 3355-3360
+
+135. Biaxial integrated optical film for VA mode LCD's made from in‐situ photopolymerised reactive mesogens
+Citations:6
+Authors: KH Kim, JJ Lyu, DH Chung, M Verrall, K Slaney, T Perrett, O Parri, SE Lee, ...
+Publication: Journal of Information Display 5 (2), 23-26
+
+136. Facile nucleophilic addition of methyl ketone enolates to (. eta. 5-pentamethylcyclopentadienyl) rhodium. eta. 6-p-xylene dication
+Citations:6
+Authors: RH Fish, HS Kim, RH Fong, RD Adams
+Publication: Organometallics 9 (4), 1327-1329
+
+137. Ethanol fermentation of uncooked cassava starch
+Citations:6
+Authors: SY Lee, YC Shin, HS Kim, SM Byun
+Publication: Koeran. J. Ferment. Technol 63, 51-58
+
+138. Musical chair: Efficient real-time recognition using collaborative iot devices
+Citations:5
+Authors: R Hadidi, J Cao, M Woodward, MS Ryoo, H Kim
+Publication: arXiv preprint arXiv:1802.02138
+
+139. Experimental study on vaporization of subcooled liquid nitrogen by instantaneous heat generation in LN2 chamber for HTS-FCL
+Citations:5
+Authors: S In, H Yeom, J Ko, YJ Hong, H Kim, SJ Park, DY Koh, HR Kim
+Publication: IEEE Transactions on Applied Superconductivity 25 (3), 1-4
+
+140. Design of post metal shields through electric field distribution analysis for a 154-kV SFCL
+Citations:5
+Authors: J Yoo, WJ Shin, YH Han, BW Lee, HR Kim, SE Yang, H Kim, SD Yu, ...
+Publication: IEEE Transactions on Applied Superconductivity 25 (3), 1-4
+
+141. Prospector: Helping parallel programming by a data-dependence profiler
+Citations:5
+Authors: M Kim, H Kim, CK Luk
+Publication: 2nd USENIX Workshop on Hot Topics in Parallelism (HotPar’10)
+
+142. S··· S Interaction in Pd (II) Complexes of Bis (phosphino) oligothiophene with Various Substituents
+Citations:5
+Authors: M Arooj, KH Kim, DH Kim, BS Kim, GY Park, SH Jeong, SC Shin, JK Park
+Publication: Bulletin of the Korean Chemical Society 30 (12), 3079-3081
+
+143. Quench properties of superconducting fault current limiters with a protective coating
+Citations:5
+Authors: HR Kim, J Sim, OB Hyun
+Publication: IEEE transactions on applied superconductivity 15 (2), 2011-2014
+
+144. Patt
+Citations:5
+Authors: O Mutlu, H Kim, N Yale
+Publication: Techniques for E cient Processing in Runahead Execution Engines. SIGARCH …
+
+145. Microbiological and sensory evaluations of refrigerated pork loins treated with citric acid
+Citations:5
+Authors: CR Kim, CK Kang, JI Lee, KH Kim, SJ Moon, YK Lee, SC Rhie
+Publication: Korean Journal of Veterinary Public Health
+
+146. Interspecific transferability of watermelon EST-SSRs assessed by genetic relationship analysis of cucurbitaceous crops.
+Citations:4
+Authors: H Kim, SS Yeo, DY Han, YH Park
+Publication: Korean Journal of Horticultural Science & Technology 33 (1), 93-105
+
+147. Relationship between pre-harvest sprouting and functional markers, TaVp-1A, TaSdr-B1 and TaPHS1 in Korean wheat cultivars.
+Citations:4
+Authors: KH Kim, SH Shin, HS Lee, JY Kim, JH Son, CS Kang, JC Park, CS Park
+Publication: Research on Crops 15 (3)
+
+148. Analysis on Voltage Sag According to Impedance and Application Location of SFCL with Recloser-Recloser Coordination
+Citations:4
+Authors: YG Kim, SE Noh, JS Kim, JC Kim, SH Lim, HR Kim
+Publication: The Transactions of The Korean Institute of Electrical Engineers 63 (2), 230-236
+
+149. The systemic perspective in conceptual product design in the context of strong diversity
+Citations:4
+Authors: J Cardozo, B Hernandis, N Ramírez
+Publication: The International Journal of Design Management and Professional Practice 6 …
+
+150. Quench properties of Au/YBCO meander lines under AC fault current
+Citations:4
+Authors: HR Kim, J Sim, OB Hyun
+Publication: Physica C: Superconductivity 423 (1-2), 29-36
+
+151. Collaborative Execution of Deep Neural Networks on Internet of Things Devices
+Citations:3
+Authors: R Hadidi, J Cao, MS Ryoo, H Kim
+Publication: arXiv preprint arXiv:1901.02537
+
+152. CoolPIM: Thermal-aware source throttling for efficient PIM instruction offloading
+Citations:3
+Authors: L Nai, R Hadidi, H Xiao, H Kim, J Sim, H Kim
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+153. Performance Characterisation and Simulation of Intel's Integrated GPU Architecture
+Citations:3
+Authors: P Gera, H Kim, H Kim, S Hong, V George, CKCK Luk
+Publication: 2018 IEEE International Symposium on Performance Analysis of Systems and …
+
+154. Lightweight SIMT core designs for intelligent 3D stacked DRAM
+Citations:3
+Authors: CD Kersey, H Kim, S Yalamanchili
+Publication: Proceedings of the International Symposium on Memory Systems, 49-59
+
+155. Exploring big graph computing—An empirical study from architectural perspective
+Citations:3
+Authors: L Nai, Y Xia, IG Tanase, H Kim
+Publication: Journal of Parallel and Distributed Computing 108, 122-137
+
+156. Induction of apoptosis in intestinal toxicity to a histone deacetylase inhibitor in a phase I study with pelvic radiotherapy
+Citations:3
+Authors: E Kalanxhi, K Risberg, IS Barua, S Dueland, S Waagene, SN Andersen, ...
+Publication: Cancer research and treatment: official journal of Korean Cancer Association …
+
+157. Development and test of a cooling system for a 154 kV superconducting fault current limiter
+Citations:3
+Authors: H Kim, YH Han, SE Yang, SD Yu, BJ Park, K Park, J Yoo, HR Kim, S In, ...
+Publication: KEPCO Journal on Electric Power and Energy 1 (1), 141-144
+
+158. Design space exploration of memory model for heterogeneous computing
+Citations:3
+Authors: J Lim, H Kim
+Publication: 2014 IEEE 26th International Symposium on Computer Architecture and High …
+
+159. Line commutation type fault current limiter
+Citations:3
+Authors: OB Hyun, SW Yim, H Kim
+Publication: US Patent 8,194,378
+
+160. Design space exploration of on-chip ring interconnection for a CPU-GPU architecture
+Citations:3
+Authors: J Lee, S Li, H Kim, S Yalamanchili
+Publication: Georgia Institute of Technology
+
+161. Condition based monitoring of superconducting fault current limiter using fuzzy support vector regression
+Citations:3
+Authors: IY Seo, SW Yim, HR Kim, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 21 (3), 1229-1232
+
+162. Empirical modeling of superconducting fault current limiter using support vector regression
+Citations:3
+Authors: IY Seo, SW Yim, HR Kim, BN Ha, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 20 (3), 1254-1258
+
+163. Quench Development in Superconducting Fault Current Limiters Based on YBCO Films
+Citations:3
+Authors: HR Kim, SW Yim, SY Oh, SD Yoo, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 19 (3), 1926-1929
+
+164. Improving client energy consumption in 802.16 m
+Citations:3
+Authors: N Himayat
+Publication: C802. 16m-09/107, January
+
+165. The effect of welding condition on the characteristics of CO2 laser welded 800MPa grade trip steel
+Citations:3
+Authors: TK Han, SS Park, KH Kim, BI Kim, CY Kang, IS Woo, JB Lee
+Publication: Pacific International Conference on Applications of Lasers and Optics 2004 …
+
+166. Adenovirus-mediated gene transfer to rabbit renal glomeruli via percutaneous arterial catheterization.
+Citations:3
+Authors: SH Rha, SE Kim, BH Park, TH Hwang, HR Bae, WS An, SI Jung, KH Kim
+Publication: Journal of the American Society of Nephrology 13, 128A-128A
+
+167. Mechanisms for the secretion of ANP
+Citations:3
+Authors: KW Cho, SH Kim, KH Seul, TS Shim, CG Yoo, SK Han, YS Shim, YW Kim, ...
+Publication: J Korean Med Sci 12 (2), 105-110
+
+168. Effect of Latex Coated Urea on Nitrogen Use Efficiency and Yield in Drill Seeded Rice
+Citations:3
+Authors: CH Yoo, BW Shin, SB Lee, JH Jeong, SS Han, SJ Kim
+Publication: Korean Journal of Soil Science and Fertilizer 30 (2), 114-121
+
+169. LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays
+Citations:2
+Authors: B Asgari, R Hadidi, H Kim, S Yalamanchili
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 233
+
+170. CODA: Enabling Co-location of Computation and Data for Multiple GPU Systems
+Citations:2
+Authors: H Kim, R Hadidi, L Nai, H Kim, N Jayasena, Y Eckert, O Kayiran, G Loh
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 15 (3), 32
+
+171. Per-page control of physical address space distribution among memory modules
+Citations:2
+Authors: NS Jayasena, H Kim, H Kim
+Publication: US Patent App. 15/441,532
+
+172. StaleLearn: Learning Acceleration with Asynchronous Synchronization Between Model Replicas on PIM
+Citations:2
+Authors: JH Lee, H Kim
+Publication: IEEE Transactions on Computers 67 (6), 861-873
+
+173. Analyzing consistency issues in hmc atomics
+Citations:2
+Authors: P Kumar, L Nai, H Kim
+Publication: Proceedings of the Second International Symposium on Memory Systems, 151-152
+
+174. Cooling performance test of the superconducting fault current limiter
+Citations:2
+Authors: H Yeom, YJ Hong, S In, J Ko, HB Kim, SJ Park, H Kim, HR Kim
+Publication: Progress in Superconductivity and Cryogenics 16 (4), 66-70
+
+175. Harmonica: An fpga-based data parallel soft core
+Citations:2
+Authors: C Kersey, S Yalamanchili, H Kim, N Nigania, H Kim
+Publication: 2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …
+
+176. A new temperature distribution measurement method on GPU architectures using thermocouples
+Citations:2
+Authors: A Dasgupta, S Hong, H Kim, J Park
+Publication: Georgia Institute of Technology
+
+177. Korean Medication Algorithm for Panic Disorder 2008: Consensus Regarding Treatment Strategies in Cases of Non-Responsive and Comorbid Conditions
+Citations:2
+Authors: HS Suh, SH Lee, MS Kim, JC Yang, CH Kim, S Yoon, BH Yu
+Publication: Korean J Psychopharmacol 20 (1), 40
+
+178. Quench development in Bi-2212 bulk coils during quenches
+Citations:2
+Authors: HR Kim, J Sim, I Choi, SW Yim, H Lee, OB Hyun
+Publication: IEEE Transactions on Applied Superconductivity 17 (2), 1875-1878
+
+179. Characteristics of CO2 laser welded 800MPa grade TRIP steel
+Citations:2
+Authors: TK Han, KH Kim, BI Kim, CY Kang, IS Woo, JB Lee
+Publication: Materials Science Forum 449, 409-412
+
+180. Process for the preparation of imitation leather from natural hemp and the product thereof
+Citations:2
+Authors: TS Hwang, KH Kim
+Publication: US Patent 5,000,822
+
+181. Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing
+Citations:1
+Authors: R Hadidi, J Cao, MS Ryoo, H Kim
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 234
+
+182. Translating CUDA to OpenCL for hardware generation using neural machine translation
+Citations:1
+Authors: Y Kim, H Kim
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+183. HPerf: A Lightweight Profiler for Task Distribution on CPU+ GPU Platforms
+Citations:1
+Authors: JH Lee, N Nigania, H Kim, B Brett
+Publication: Georgia Institute of Technology
+
+184. SESH framework: A Space Exploration Framework for GPU Application and Hardware Codesign
+Citations:1
+Authors: JH Lee, J Meng, H Kim
+Publication: International Workshop on Performance Modeling, Benchmarking and Simulation …
+
+185. 8560 Dosimetric changes of intensity modulated radiotherapy (IMRT) plan on the follow-up CT acquired during treatment in the patients with nasopharynx cancer
+Citations:1
+Authors: K Kim, S Park, K Cheong, S Kang, T Hwang, M Lee, D Oh, H Bae
+Publication: EJC Supplements 7 (2), 487-488
+
+186. A study on the processing variables of the BSCCO-2212 bulk superconductors
+Citations:1
+Authors: KT Kim, JH Lim, SH Jang, J Joo, HJ Lee, GW Hong, CJ Kim, HR Kim, ...
+Publication: IEEE Transactions on Applied Superconductivity 17 (2), 3004-3007
+
+187. Single-layer 2nd-order SQUID gradiometer and fabrication of YBa2Cu3O7 nanobridges as the Josephson elements
+Citations:1
+Authors: SG Lee, CS Kang, IS Kim, SJ Kim, HR Kim
+Publication: Journal of Physics: Conference Series 43 (1), 1203
+
+188. 활성탄을 첨가한 콘크리트벽돌의 물리적 특성 및 환경 성능 평가에 관한 연구
+Citations:1
+Authors: 우종권， 홍상희， 전경빈， 류현기
+Publication: 한국건축시공학회 학술발표대회 논문집 6 (2), 47-51
+
+189. Application of IPTs to HTS cable conductor for uniform current distribution between their layers
+Citations:1
+Authors: YS Choi, SW Yim, J Sim, HR Kim, SH Sohn, SD Hwang
+Publication: IEEE transactions on applied superconductivity 15 (2), 1739-1742
+
+190. Thermal-aware processing-in-memory instruction offloading
+Citations:
+Authors: L Nai, R Hadidi, H Xiao, H Kim, J Sim, H Kim
+Publication: Journal of Parallel and Distributed Computing 130, 193-207
+
+191. Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices
+Citations:
+Authors: ML Merck, B Wang, L Liu, C Jia, A Siqueira, Q Huang, A Saraha, D Lim, ...
+Publication: Proceedings of the Practice and Experience in Advanced Research Computing on …
+
+192. ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays
+Citations:
+Authors: B Asgari, R Hadidi, H Kim, S Yalamanchili
+Publication: IEEE Micro
+
+193. Late Breaking Results: Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing∗
+Citations:
+Authors: R Hadidi, J Cao, MS Ryoo, H Kim
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-2
+
+194. FlashGPU: Placing New Flash Next to GPU Cores
+Citations:
+Authors: J Zhang, M Kwon, H Kim, H Kim, M Jung
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 156
+
+195. A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL
+Citations:
+Authors: Y Kim, H Kim
+Publication: arXiv preprint arXiv:1905.07653
+
+196. Status of Development and Demonstration of SFCLs in Korea
+Citations:
+Authors: HR Kim
+Publication: Superconducting Fault Current Limiter: Innovation For The Electric Grids 3, 319
+
+197. Development and Long-Term Test of a Compact 154-kV SFCL
+Citations:
+Authors: YH Han, S Yang, H Kim, BJ Park, J Yu, HR Kim, S In, YJ Hong, H Yeom
+Publication: IEEE Transactions on Applied Superconductivity 29 (4), 1-6
+
+198. Louvre: Lightweight Ordering Using Versioning for Release Consistency
+Citations:
+Authors: P Kumar, P Gera, H Kim, H Kim
+Publication: arXiv preprint arXiv:1710.10746
+
+199. CODA: Enabling Co-location of Computation and Data for Near-Data Processing
+Citations:
+Authors: H Kim, R Hadidi, L Nai, H Kim, N Jayasena, Y Eckert, O Kayiran, GH Loh
+Publication: arXiv preprint arXiv:1710.09517
+
+200. SimProf: A Sampling Framework for Data Analytic Workloads
+Citations:
+Authors: JC Huang, L Nai, P Kumar, H Kim, H Kim
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+201. On the Internet of Things
+Citations:
+Authors: VJ Reddi, H Kim
+Publication: IEEE Micro, 5-7
+
+202. Superconductive current limiting element of current limiter and method for manufacturing superconductive current limiting element of current limiter
+Citations:
+Authors: S Yang, H Kim, W Kim, YU Seung-Duck, H Kim, JY Lee, BJ Park, ...
+Publication: US Patent App. 14/888,364
+
+203. Submissions: https://mc. manuscriptcentral. com/micro-cs Author guidelines
+Citations:
+Authors: L Eeckhout, DH Albonesi, ER Altman, P Bose, K Ebcioglu, M Flynn, ...
+Publication: 
+
+204. Block-Precise Processors: Low-Power Processors with Reduced Operand Store Accesses and Result Broadcasts
+Citations:
+Authors: NB Lakshminarayana, H Kim
+Publication: IEEE Transactions on Computers 64 (11), 3102-3114
+
+205. 초전도 한류기용 극저온 냉각시스템
+Citations:
+Authors: SH In, YJ Hong, HG Yeom, HS Kim, HR Kim
+Publication: Superconductivity and Cryogenics 17 (2), 7-11
+
+206. Cool-down test of cryogenic cooling system for superconducting fault current limiter
+Citations:
+Authors: YJ Hong, S In, HK Yeom, H Kim, HR Kim
+Publication: Progress in Superconductivity and Cryogenics 17 (3), 57-61
+
+207. Performance test of the cryogenic cooling system for the superconducting fault current limiter
+Citations:
+Authors: YJ Hong, S In, HK Yeom, H Kim, HR Kim
+Publication: IOP Conference Series: Materials Science and Engineering 101 (1), 012030
+
+208. Exploration of the energy and thermal behaviors of emerging architectures
+Citations:
+Authors: S Yalamanchili, H Kim
+Publication: Georgia Institute of Technology
+
+209. Hardware Support for Safe Execution of Native Client Applications
+Citations:
+Authors: D Manatunga, JH Lee, H Kim
+Publication: IEEE Computer Architecture Letters 14 (1), 37-40
+
+210. AC transport current loss analysis for anti-parallel current flow in face-to-face stacks of superconducting tapes
+Citations:
+Authors: J Yoo, YH Han, HR Kim, BJ Park, SE Yang, H Kim, SD Yu, K Park
+Publication: Progress in Superconductivity and Cryogenics 16 (2), 42-46
+
+211. Association of Morphological Features with Hematocrit Levels in Korean Adults: Classification Approach using Machine Learning
+Citations:
+Authors: BJ Lee, JY Kim
+Publication: Life Science Journal 11 (7)
+
+212. Search for massive resonances decaying into pairs of boosted bosons in semi-leptonic final states at root s= 8 TeV
+Citations:
+Authors: S Chatrchyan
+Publication: Journal of High Energy Physics
+
+213. Acknowledgement For Reviewers 2017
+Citations:
+Authors: A Abe, N Abraham, IM Abraham, TW Abrams, R Aguilar-Roblero, M Ahuja, ...
+Publication: Dysphagia 29, 808-810
+
+214. Empirical Modeling of Cryogenic System for Hybrid SFCL Using Support Vector Regression
+Citations:
+Authors: IY Seo, OB Hyun, H Kim, BN Ha, IK Song, W Chae, MJ Kim, SJ Kim
+Publication: Journal of superconductivity and novel magnetism 26 (4), 1265-1273
+
+215. Qameleon: Hardware/software cooperative automated tuning for heterogeneous architectures
+Citations:
+Authors: H Kim, R Vuduc
+Publication: Georgia Institute of Technology
+
+216. MISSED APPOINTMENTS AT AN ABORIGINAL PERINATAL AND INFANT PSYCHIATRY CLINIC
+Citations:
+Authors: E Adams
+Publication: AUSTRALIAN AND NEW ZEALAND JOURNAL OF PSYCHIATRY 45, A26-A26
+
+217. Introduction of KEPCO's distribution class SFCL fabricated for verification test
+Citations:
+Authors: SW Yim, CR Park, SD Yu, HR Kim, OB Hyun, KB Park, JW Sim, KH Lee, ...
+Publication: Proceedings of the KIEE Conference, 294-295
+
+218. Installation of 22.9 kV Class Superconducting Fault Current Limiter Verification Test Facilities
+Citations:
+Authors: SD Yu, HR Kim, SW Yim, CR Park, OB Hyun
+Publication: Proceedings of the KIEE Conference, 389-390
+
+219. 안정화재 두께에 따른 YBCO coated conductor (CC) 의 quench/recovery 특성에 대한 분석
+Citations:
+Authors: NY Kwon, KL Kim, HS Kim, HR Kim, OB Hyun, HG Lee
+Publication: 한국초전도학회: 학술대회논문집, 117-117
+
+220. Search for particles decaying into a Z boson and a photon in collisions p (p) over-bar at root s= 1.96 TeV (vol 641, pg 415, 2006)
+Citations:
+Authors: VM Abazov, SJ de Jong, CF Galea, MH Kirby, NA Naumann
+Publication: 
+
+221. 경피적 관상동맥 중재술 시 골절된 혈관 내 IVUS 카테터의 외과적 제거
+Citations:
+Authors: 김영학， 김혁， 송영주， 정원상， 강정호
+Publication: The Korean Journal of Thoracic and Cardiovascular Surgery 41 (6), 768-771
+
+222. Between January 1, 2013 and December 31, 2013 the following individuals reviewed one or more manuscripts for the International Journal of Environmental and Science Education …
+Citations:
+Authors: S Al-Balushi, S Kingir, I Tomazic, P Albion, ZD Kirbulut, MS Topçu, ...
+Publication: International Journal of Environmental & Science Education 3 (3)
+
+223. High Critical Current Density of BSCCO-2212 Tube Made by Casting and Mechanical Process
+Citations:
+Authors: KT Kim, JH Lim, EC Park, JH Joo, CJ Kim, OB Hyun, HR Kim
+Publication: 한국초전도학회: 학술대회논문집, 78-78
+
+224. Effect of Annealing Conditions on Properties of BSCCO-2212 Bulk
+Citations:
+Authors: KT Kim, CJ Kim, JH Lim, EC Park, JH Park, JH Joo, OB Hyun, HR Kim
+Publication: Progress in Superconductivity 9 (2), 193-198
+
+225. A new sweetpotato variety for flowering" Morningpurple".
+Citations:
+Authors: JS Lee, KH Jeong, HS Kim, YS Ahn, MN Chung, JJ Kim, JK Bang
+Publication: Korean Journal of Breeding Science 40 (2), 201-205
+
+226. A new sweetpotato variety" Morningwhite" with white flowering.
+Citations:
+Authors: JS Lee, KH Jeong, HS Kim, YS Ahn, MN Chung, JJ Kim, JK Bang
+Publication: Korean Journal of Breeding Science 40 (4), 430-434
+
+227. 심장판막치환술 후 재치환술에 관한 임상연구
+Citations:
+Authors: 김혁， 정원상， 남승혁， 강정호， 김영학， 이철범， 전순호， 신성호
+Publication: The Korean Journal of Thoracic and Cardiovascular Surgery 40 (12), 817-824
+
+228. Fabrication and Fault Test of BSCCO/Cu-Ni SFCL Elements
+Citations:
+Authors: SY Oh, SW Yim, HR Kim, OB Hyun, GI Chang
+Publication: 한국초전도학회: 학술대회논문집, 74-74
+
+229. Fault current limitation characteristics of the Bi-2212 bulk coil for distribution-class superconducting fault current limiters
+Citations:
+Authors: JW Sim, HG Lee, SW Yim, HR Kim, OB Hyun, KB Park, BW Lee, IS Oh, ...
+Publication: The Transactions of The Korean Institute of Electrical Engineers 56 (2), 277-281
+
+230. Current Limiting Characteristics of YBCO Coated Conductor
+Citations:
+Authors: SW Yim, HR Kim, OB Hyun, TH Sung, SY Oh
+Publication: 한국초전도학회: 학술대회논문집, 66-66
+
+231. Fabrication of Bi-2212/SrSO4 Composite Superconductors by Melting Powder Mixtures
+Citations:
+Authors: KT Kim, SH Jang, JH Lim, EC Park, JH Joo, HJ Lee, GW Hong, CJ Kim, ...
+Publication: Materials science forum 534, 1597-1600
+
+232. Quench recovery characteristics of YBCO thin film type superconducting fault current limiter
+Citations:
+Authors: SW Yim, JW Sim, HR Kim, OB Hyun, HM Kim, KB Park, BW Lee, IS Oh
+Publication: Proceedings of the KIEE Conference, 711-712
+
+233. A Study on the Casting Process Variables and Optimum SrSO4 Content of the BSCCO(2212) Bulk Superconductor
+Citations:
+Authors: KT Kim, EC Park, SH Jang, JH Lim, JH Joo, CJ Kim, HR Kim, OB Hyun
+Publication: Journal of the Korean Institute of Electrical and Electronic Material …
+
+234. Fabrication and Characterizations of the BSCCO-2212/ Bulk Superconductors
+Citations:
+Authors: KT Kim, SH Jang, JH Lim, KM Yoon, SY Lee, JH Joo, GW Hong, CJ Kim, ...
+Publication: 한국초전도학회: 학술대회논문집 16, 63-63
+
+235. Special Reviewers
+Citations:
+Authors: J Abma, A Acock, G Acs, M Adams, R Adams, MA Adler, F Adler‐Baeder, ...
+Publication: Journal of Marriage and Family 67 (5), 1355-1358
+
+236. Quench Properties of Resistive Superconducting Fault Current Limiters
+Citations:
+Authors: HR Kim, JW Sim, OB Hyun
+Publication: 한국초전도학회: 학술대회논문집 15, 20-20
+
+237. Installation and Operation of 22.9 kV, 50MVA High Temperature Superconducting Cable System
+Citations:
+Authors: SD Hwang, HS Choi, SH Sohn, HR Kim, OB Hyun
+Publication: 한국초전도학회: 학술대회논문집 15, 6-6
+
+238. Effects of Heat-treatment Temperature on Phase Formation and Microstructure Development of BSCCO Tube
+Citations:
+Authors: JS Choe, GI Kim, BH Jeon, HR Kim, OB Hyeon, HS Kim, CJ Kim
+Publication: 한국초전도학회: 학술대회논문집 15, 87-87
+
+239. Fabrication of BSCCO Tube by Centrifugal Melting Process
+Citations:
+Authors: GI Kim, JS Choe, BH Jeon, HR Kim, OB Hyeon, HS Kim, CJ Kim
+Publication: 한국초전도학회: 학술대회논문집 15, 86-86
+
+240. Measurement of the t (t) over-bar production cross section in p (p) over-bar collisions at root s= 1.96 TeV using lepton plus jets events with lifetime b-tagging
+Citations:
+Authors: VM Abazov, CM Anastasoaie, CF Galea, SJ de Jong, NA Naumann, ...
+Publication: 
+
+241. Effects of Canine Serum Obtained from Different Estrus Cycle on In Vitro Maturation of Canine Oocytes
+Citations:
+Authors: HJ Oh, MK Kim, YH Fibrianto, G Jang, HJ Kim, MS Hossein, SK Kang, ...
+Publication: 제 4 회 발생공학 국제심포지움 및 학술대회, 83-84
+
+242. In-Su W002, Jong-Bong Lee2
+Citations:
+Authors: KHK Tae-Kyo Han, BI Kim, CY Kang
+Publication: 
+
+243. Equal Current Distribution in Superconducting Parallel Circuits Using Multi-Interphase Transformers
+Citations:
+Authors: OB Hyun, YS Choi, JW Sim, HR Kim, SD Hwang
+Publication: Proceedings of the KIEE Conference, 140-142
+
+244. Resistance Distribution in Thin Film Type SFCL Elements with Shunt Layers of Different Thicknes
+Citations:
+Authors: HR Kim, OB Hyun, SY Lee, KK Yu, IS Kim
+Publication: Progress in Superconductivity and Cryogenics 5 (2), 41-45
+
+245. Long-Term Outcomes of Transnasal Endoscopic Marsupialization through Middle, Inferior Meatal Antrostomy or Extended Middle Meatal Antrostomy in Maxillary Sinus Mucoceles.
+Citations:
+Authors: YD Kim, JS Cho, SY Song
+Publication: Journal of Rhinology 9 (1, 2), 35-40
+
+246. Quench properties of a resistive superconducting fault current limiter by current redistribution
+Citations:
+Authors: HS Choi, HR Kim, SD Cha, OB Hyun, SD Hwang
+Publication: Proceedings of the KIEE Conference
+
+247. Quench Properties of Resistive Superconducting Fault Current Limiters Based on YBCO Thin Films
+Citations:
+Authors: HR Kim, HS Choi, SD Cha, OB Hyun
+Publication: 한국초전도학회: 학술대회논문집 12, 9-9
+
+248. Ellipsometric study on the surface of In0. 7Ga0. 3AsxP1− x thin films exposed to air
+Citations:
+Authors: HR Kim
+Publication: Thin solid films 394 (1-2), 223-228
+
+249. Current and Voltage Loading Tests of 140 kVA SFCL
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, KB Park
+Publication: 한국초전도학회: 학술대회논문집 11, 73-73
+
+250. Operation properties of high superconductive current limiting fuse
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, KB Park
+Publication: Proceedings of the KIEE Conference, 67-68
+
+251. A method for simultaneous quench of hybrid type superconducting fault current limiter
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, KB Park, SD Hwang
+Publication: Proceedings of the KIEE Conference, 916-917
+
+252. Quench Properties of Superconducting Fault Current Limiting Elements Connected in Parallel and Series
+Citations:
+Authors: HR Kim, HS Choi, OB Hyun, SD Hwang
+Publication: 한국초전도학회: 학술대회논문집 11, 66-66
+
+253. 소주요법과 담즙정체성 간 AAAAAS 손상
+Citations:
+Authors: BM Ahn
+Publication: 대한간학회지 제 7 (3), 369-37
+
+254. A Case-control study on factors associated with discharges against medical advice-focused on the appropriateness of admission and day of care.
+Citations:
+Authors: DH Kim, HK Park, JK Lee, DH Lee
+Publication: Journal of the Korean Academy of Family Medicine 21 (11), 1415-1426
+
+255. Generated heat decrease of resistive superconducting fault current limiter using diodes
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, SJ Kim
+Publication: Proceedings of the KIEE Conference, 925-927
+
+256. Feasibility Study on the Development of Superconducting Power Cable System
+Citations:
+Authors: SD Hwang, OB Hyun, HS Choi, HR Kim, SJ Kim
+Publication: Proceedings of the KIEE Conference, 172-174
+
+257. Characteristics of 15 kVA superconducting fault current limiter
+Citations:
+Authors: HS Choi, HR Kim, SD Hwang, SJ Kim, HR Lim, IS Kim, OB Hyun
+Publication: 한국초전도학회: 학술대회논문집 10, 272-275
+
+258. Stabilized Operating Conditions of Superconducting Fault Current Limiter using YBCO Thin Film
+Citations:
+Authors: HS Choe, HR Kim, OB Hyeon
+Publication: The Transactions of the Korean Institute of Electrical Engineers B 49 (9 …
+
+259. Quench Characteristics of Resistive SFCL Elements in series
+Citations:
+Authors: OB Hyun, HS Choi, HR Kim, HR Lim, IS Kim
+Publication: Proceedings of the KIEE Conference, 663-665
+
+260. Generated heat decrease of thin film superconducting fault current limiter using diodes
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang
+Publication: Progress in Superconductivity and Cryogenics 2 (2), 11-14
+
+261. Resistance development in Au/YBCO thin film meander lines during quench
+Citations:
+Authors: HR Kim, HS Choi, HR Lim, IS Kim, OB Hyun
+Publication: 한국초전도학회: 학술대회논문집 10, 252-256
+
+262. Operating Characteristics of Superconducting Fault Current Limiters Connected in Series by Shunt Resistors
+Citations:
+Authors: OB Hyun, HS Choi, HR Kim, HR Lim, IS Kim
+Publication: The Transactions of the Korean Institute of Electrical Engineers B 49 (11 …
+
+263. Current limiting characteristics of the resistive SFCL using YBCO film
+Citations:
+Authors: HS Choi, HR Kim, SD Hwang, OB Hyun, SJ Kim
+Publication: Proceedings of the KIEE Conference, 277-280
+
+264. Electrical properties of a resistive SFCL with shunt resistor
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, SJ Kim
+Publication: 한국초전도학회: 학술대회논문집 9, 343-347
+
+265. The Present Technical Trend and the Future Direction of HTS Power Cable R&D
+Citations:
+Authors: SD Hwang, OB Hyun, HS Choi, HR Kim, SJ Kim
+Publication: Proceedings of the KIEE Conference, 2054-2056
+
+266. Operating Properties for a Resistive SFCL of YBCO Thin Films
+Citations:
+Authors: HS Choe, OB Hyeon, HR Kim, SD Hwang, SJ Kim, SH Mun, BS Han
+Publication: The Transactions of the Korean Institute of Electrical Engineers B 48 (10 …
+
+267. A study on characteristics for a resistive SFCL with gold layer
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, SJ Kim
+Publication: 한국초전도학회: 학술대회논문집 9, 348-351
+
+268. DIHYDROPYRIMIDINE DEHYDROGENASE ACTIVITY AND PLASMA 5-FLUOROURACIL LEVELS IN KOREAN SUBJECTS
+Citations:
+Authors: HK Kim, JT Kwon, DR Sohn, IJ Jang, SG Shin
+Publication: Clinical Pharmacology & Therapeutics 63 (2)
+
+269. A Case of Clozapine Treatment for Tardive Dystonia in Chronic Schizophrenia
+Citations:
+Authors: MS Oh, KS Oh, KS Noh, SH Lee
+Publication: Korean J Psychopharmacol 8 (2), 267
+
+270. Clusters containing carbene ligands. 7. Preparation of Os sub 3 (CO) sub 8 (C (H) NMe sub 2)(. mu. sub 3-S)(. mu.-H) sub 2 and the nature of its reactions with secondary and …
+Citations:
+Authors: RD Adams, JE Babin, HS Kim, JT Tanner, TA Wolfe
+Publication: Journal of the American Chemical Society;(USA) 112 (9)
+
+271. Synthesis of sulfidoosmium carbonyl cluster compounds by the photochemical decomposition of. mu.-(phenylthio) decacarbonylhydridotriosmium [HOs3 (CO) 10 (. mu.-SPh)] and its …
+Citations:
+Authors: RD Adams, IT Horvath, HS Kim
+Publication: Organometallics 3 (4), 548-552
+
+272. Performance Bug-Free CPU Modeling Using Accurate Timing Simulation
+Citations:
+Authors: HRDCJ Kim
+Publication: 
+
+273. Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System
+Citations:
+Authors: R Hadidi, J Cao, M Merck, A Siqueira, Q Huang, A Saraha, C Jia, B Wang, ...
+Publication: 
+
+274. An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN
+Citations:
+Authors: J Cao, F Wu, R Hadidi, L Liu, T Krishna, MS Ryoo, H Kim
+Publication: 
+
+275. MICRO 2018
+Citations:
+Authors: M Oskin, K Inoue, H Kim, S Yalamanchili, M Kondo, M Kim, R Shioya, ...
+Publication: 
+
+276. Program Chairs: Kevin Barker, PNNL, USA Rong Ge, Clemson University, USA Publicity Chair: Joseph Manzano, PNNL Publication Chair: Andres Marquez, PNNL, USA European Liaison …
+Citations:
+Authors: V Getov, R Gioiosa, K Karavanic, L Johnsson, H Kim, D Li, A Marathe, ...
+Publication: 
+
+277. Quench Characteristics of Resistive Superconducting Fault Current Limiters
+Citations:
+Authors: HR Kim, OB Hyun, HS Choi, SD Hwang, SJ Kim
+Publication: 한국초전도학회: 학술대회논문집 9
+
+278. Recovery time after quench of Au/YBCO thin film for fault accident detection
+Citations:
+Authors: SW Yim, HR Kim, OB Hyun, TH Sung, JW Sim
+Publication: Proceedings of the Korean Institute of Electrical and Electronic Material …
+
+279. Development of a resistive superconducting fault current limiter
+Citations:
+Authors: HS Choi, HR Kim, OB Hyun, JS Hwang, DC Jeong
+Publication: Proceedings of the Korean Institute of Electrical and Electronic Material …
+
+280. Quench properties of superconducting fault current limiters connected in parallel
+Citations:
+Authors: HR Kim, HS Park, KB Park, OB Hyun, SD Hwang
+Publication: Progress in Superconductivity 3
+
+281. Fabrication and characterization of fault current limiting devices made of stabilizer-free coated conductors
+Citations:
+Authors: SW Yim, CR Park, SD Yu, HR Kim, OB Hyun
+Publication: Proceedings of the Korean Institute of Electrical and Electronic Material …
+
+282. Operating characteristics of high Tc superconducting current limiting fuse at various voltages
+Citations:
+Authors: HS Choi, OB Hyun, HR Kim, SD Hwang, KB Park
+Publication: Proceedings of the Korean Institute of Electrical and Electronic Material …
+
+283. Quench behavior and temperature variation during current limitation of Stripe type Au/YBCO element
+Citations:
+Authors: SW Yim, NY Kwon, SY Oh, HR Kim, OB Hyun, HG Lee
+Publication: Proceedings of the KIEE Conference
+
+284. On-site Coordinator
+Citations:
+Authors: S Chandrasekaran, P Franzon, R Gioiosa, K Karavanic, D Li, S Li, H Kim, ...
+Publication: 
+
+285. FOR GPUS
+Citations:
+Authors: H Kim, R Vuduc
+Publication: 
+
+286. Scalable Simulation Frameworks
+Citations:
+Authors: S Yalamanchili, G Riley, T Conte, H Kim
+Publication: 
+
+287. Message from the IISWC 2015 Program Chairs
+Citations:
+Authors: H Kim, S Yalamanchili
+Publication: 
+
+288. ECD Literature Search (found with GoPubMed)
+Citations:
+Authors: IB Tan, AK Padhy, CH Thng, S Osmany, B Magsombol, YH Ho, CK Tham, ...
+Publication: 
+
+289. Workshop Organization
+Citations:
+Authors: Y Brun, CJ Budnik, WK Chan, J Clause, C Csallner, M Di Penta, H Do, ...
+Publication: 
+
+290. PROGRAMMABLE CNN-BASED ACCELERATOR
+Citations:
+Authors: D Manatunga, H Kim, S Mukhopadhyay
+Publication: 
+
+291. Cymric: A Framework for Prototyping Near-Memory Architectures
+Citations:
+Authors: CD Kersey, S Yalamanchili, H Kim
+Publication: 
+
+292. Using a Cache Simulator on Big Data Applications
+Citations:
+Authors: L Ntaganda, H Kim
+Publication: 
+
+293. A Power-Performance Analysis of Memory-intensive Parallel Applications on a Manycore Platform
+Citations:
+Authors: V Gupta, H Kim, K Schwan
+Publication: 
+
+294. 2012 Index IEEE Computer Architecture Letters Vol. 11
+Citations:
+Authors: EK Ardestani, J Chang, H Chen, J Chen, S Chen, X Chen, JM Codina, ...
+Publication: Energy 21, 24
+
+295. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 
+
+296. Block-Precise Processors: Low-Power Processors with Reduced Operand Store Writes and Result Broadcasts
+Citations:
+Authors: NB Lakshminarayana, H Kim
+Publication: 
+

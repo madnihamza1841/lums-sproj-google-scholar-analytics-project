@@ -1,0 +1,253 @@
+https://scholar.google.com/citations?hl=en&user=CUbC2zYAAAAJ
+Total Citations = 833
+
+1. Ufo: A Framework for Abstraction- and Interpolation-Based Software Verification
+Citations:110
+Authors: A Albarghouthi, Y Li, A Gurfinkel, M Chechik
+Publication: International Conference on Computer Aided Verification, 672-678
+
+2. Symbolic optimization with SMT solvers
+Citations:97
+Authors: Y Li, A Albarghouthi, Z Kincaid, A Gurfinkel, M Chechik
+Publication: ACM SIGPLAN Notices 49 (1), 607-618
+
+3. Recursive program synthesis
+Citations:88
+Authors: A Albarghouthi, S Gulwani, Z Kincaid
+Publication: International conference on computer aided verification, 934-950
+
+4. Beautiful interpolants
+Citations:78
+Authors: A Albarghouthi, KL McMillan
+Publication: International Conference on Computer Aided Verification, 313-329
+
+5. Whale: An Interpolation-Based Algorithm for Inter-procedural Verification
+Citations:62
+Authors: A Albarghouthi, A Gurfinkel, M Chechik
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+6. Craig interpretation
+Citations:55
+Authors: A Albarghouthi, A Gurfinkel, M Chechik
+Publication: International Static Analysis Symposium, 300-316
+
+7. MapReduce program synthesis
+Citations:48
+Authors: C Smith, A Albarghouthi
+Publication: Acm Sigplan Notices 51 (6), 326-340
+
+8. From under-approximations to over-approximations and back
+Citations:44
+Authors: A Albarghouthi, A Gurfinkel, M Chechik
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+9. FairSquare: probabilistic verification of program fairness
+Citations:30
+Authors: A Albarghouthi, L D'Antoni, S Drews, AV Nori
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 80
+
+10. Maximal specification synthesis
+Citations:27
+Authors: A Albarghouthi, I Dillig, A Gurfinkel
+Publication: ACM SIGPLAN Notices 51 (1), 789-801
+
+11. Spatial interpolants
+Citations:20
+Authors: A Albargouthi, J Berdine, B Cook, Z Kincaid
+Publication: European Symposium on Programming Languages and Systems, 634-660
+
+12. Synthesizing coupling proofs of differential privacy
+Citations:19
+Authors: A Albarghouthi, J Hsu
+Publication: Proceedings of the ACM on Programming Languages 2 (POPL), 58
+
+13. Parallelizing top-down interprocedural analyses
+Citations:19
+Authors: A Albarghouthi, R Kumar, AV Nori, SK Rajamani
+Publication: ACM SIGPLAN Notices 47 (6), 217-228
+
+14. On the use of planning technology for verification
+Citations:18
+Authors: A Albarghouthi, JA Baier, SA McIlraith
+Publication: In VVPS’09. Proceedings of the ICAPS Workshop on Verification & Validation …
+
+15. Beyond storage APIs: Provable semantics for storage stacks
+Citations:16
+Authors: R Alagappan, V Chidambaram, TS Pillai, AC Arpaci-Dusseau, ...
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+16. Constraint-based synthesis of datalog programs
+Citations:13
+Authors: A Albarghouthi, P Koutris, M Naik, C Smith
+Publication: International Conference on Principles and Practice of Constraint …
+
+17. Abstract analysis of symbolic executions
+Citations:11
+Authors: A Albarghouthi, A Gurfinkel, O Wei, M Chechik
+Publication: International Conference on Computer Aided Verification, 495-510
+
+18. Syntax-guided synthesis of datalog programs
+Citations:10
+Authors: X Si, W Lee, R Zhang, A Albarghouthi, P Koutris, M Naik
+Publication: Proceedings of the 2018 26th ACM Joint Meeting on European Software …
+
+19. Discovering relational specifications
+Citations:10
+Authors: C Smith, G Ferns, A Albarghouthi
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+20. Protocol-aware recovery for consensus-based storage
+Citations:8
+Authors: R Alagappan, A Ganesan, E Lee, A Albarghouthi, V Chidambaram, ...
+Publication: 16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 15-32
+
+21. UFO: Verification with interpolants and abstract interpretation (competition contribution)
+Citations:8
+Authors: A Gurfinkel, A Albarghouthi, S Chaki, Y Li, M Chechik
+Publication: Proc. TACAS, 637-640
+
+22. Repairing decision-making programs under uncertainty
+Citations:7
+Authors: A Albarghouthi, L D’Antoni, S Drews
+Publication: International Conference on Computer Aided Verification, 181-200
+
+23. {UKSM}: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling
+Citations:5
+Authors: N Xia, C Tian, Y Luo, H Liu, X Wang
+Publication: 16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 325-340
+
+24. Fairness as a program property
+Citations:5
+Authors: A Albarghouthi, L D'Antoni, S Drews, A Nori
+Publication: arXiv preprint arXiv:1610.06067
+
+25. Effectively propositional interpolants
+Citations:5
+Authors: S Drews, A Albarghouthi
+Publication: International Conference on Computer Aided Verification, 210-229
+
+26. Fairness-aware programming
+Citations:4
+Authors: A Albarghouthi, S Vinitsky
+Publication: Proceedings of the Conference on Fairness, Accountability, and Transparency …
+
+27. Authoring and verifying human-robot interactions
+Citations:4
+Authors: D Porfirio, A Sauppé, A Albarghouthi, B Mutlu
+Publication: The 31st Annual ACM Symposium on User Interface Software and Technology, 75-86
+
+28. Neural-augmented static analysis of Android communication
+Citations:2
+Authors: J Zhao, A Albarghouthi, V Rastogi, S Jha, D Octeau
+Publication: Proceedings of the 2018 26th ACM Joint Meeting on European Software …
+
+29. Distribution policies for datalog
+Citations:2
+Authors: B Ketsman, A Albarghouthi, P Koutris
+Publication: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik
+
+30. Weighted model integration with orthogonal transformations
+Citations:2
+Authors: D Merrell, A Albarghouthi, L D'Antoni
+Publication: Proceedings of the Twenty-Sixth International Joint Conference on Artificial …
+
+31. Scaling-up in-memory datalog processing: observations and techniques
+Citations:1
+Authors: Z Fan, J Zhu, Z Zhang, A Albarghouthi, P Koutris, JM Patel
+Publication: Proceedings of the VLDB Endowment 12 (6), 695-708
+
+32. Trace abstraction modulo probability
+Citations:1
+Authors: C Smith, J Hsu, A Albarghouthi
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 39
+
+33. Constraint-Based Synthesis of Coupling Proofs
+Citations:1
+Authors: A Albarghouthi, J Hsu
+Publication: International Conference on Computer Aided Verification, 327-346
+
+34. Probabilistic Horn Clause Verification
+Citations:1
+Authors: A Albarghouthi
+Publication: International Static Analysis Symposium, 1-22
+
+35. Parallelizing top-down interprocedural analysis
+Citations:1
+Authors: AV Nori, SK Rajamani, R Kumar, A Albarghouthi
+Publication: US Patent App. 13/415,850
+
+36. Liveness Verification of Stateful Networks
+Citations:1
+Authors: S Ghorbani, A Abhashkumar, K Subramanian, A Akella, A Albarghouthi, ...
+Publication: Under Submission
+
+37. Bodystorming Human-Robot Interactions
+Citations:
+Authors: D Porﬁrio, E Fisher, A Sauppé, A Albarghouthi, B Mutlu
+Publication: Proceedings of the 32nd Annual ACM Symposium on User Interface Software and …
+
+38. Synthesizing differentially private programs
+Citations:
+Authors: C Smith, A Albarghouthi
+Publication: Proceedings of the ACM on Programming Languages 3 (ICFP), 94
+
+39. A Static Analysis-based Cross-Architecture Performance Prediction Using Machine Learning
+Citations:
+Authors: N Ardalani, U Thakker, A Albarghouthi, K Sankaralingam
+Publication: arXiv preprint arXiv:1906.07840
+
+40. Efficient Synthesis with Probabilistic Constraints
+Citations:
+Authors: S Drews, A Albarghouthi, L D'Antoni
+Publication: arXiv preprint arXiv:1905.08364
+
+41. Computational Tools for Human-Robot Interaction Design
+Citations:
+Authors: D Porfirio, A Sauppé, A Albarghouthi, B Mutlu
+Publication: 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI …
+
+42. Program Synthesis with Equivalence Reduction
+Citations:
+Authors: C Smith, A Albarghouthi
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+43. Bodystorming Human-Robot Interactions
+Citations:
+Authors: D Porfirio, E Fisher, A Sauppé, A Albarghouthi, B Mutlu
+Publication: 
+
+44. Protocol-Aware Recovery for Consensus-Based Distributed Storage
+Citations:
+Authors: R Alagappan, A Ganesan, E Lee, A Albarghouthi, V Chidambaram, ...
+Publication: ACM Transactions on Storage (TOS) 14 (3), 21
+
+45. Fairness: A Formal-Methods Perspective
+Citations:
+Authors: A Albarghouthi
+Publication: International Static Analysis Symposium, 1-4
+
+46. Constraint-Based Synthesis of Coupling Proofs
+Citations:
+Authors: J Hsu, A Albarghouthi
+Publication: Conference on Computer Aided Verification
+
+47. Software Verification with Program-Graph Interpolation and Abstraction
+Citations:
+Authors: AH Albarghouthi
+Publication: 
+
+48. Aws Albarghouthi
+Citations:
+Authors: A Albarghouthi, A Gurfinkel, Y Li, S Chaki, MC Ufo
+Publication: 
+
+49. Doctoral Symposium Program Committee
+Citations:
+Authors: A Albarghouthi, S Beecham, M Di Penta, G Engels, F Ferrucci, W Griswold, ...
+Publication: 
+
+50. ICSE 2016
+Citations:
+Authors: A Nori, Y Cai, A Albarghouthi, J Garcia, M Gligoric, J Gray, A Kanade, ...
+Publication: 
+

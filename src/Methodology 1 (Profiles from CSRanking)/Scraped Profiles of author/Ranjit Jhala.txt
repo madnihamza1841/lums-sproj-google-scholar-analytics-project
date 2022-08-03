@@ -1,0 +1,748 @@
+https://scholar.google.com/citations?hl=en&user=H3wb878AAAAJ
+Total Citations = 9849
+
+1. Lazy abstraction
+Citations:1359
+Authors: TA Henzinger, R Jhala, R Majumdar, G Sutre
+Publication: ACM SIGPLAN Notices 37 (1), 58-70
+
+2. The software model checker Blast
+Citations:662
+Authors: D Beyer, TA Henzinger, R Jhala, R Majumdar
+Publication: International Journal on Software Tools for Technology Transfer 9 (5-6), 505-525
+
+3. Abstractions from proofs
+Citations:604
+Authors: TA Henzinger, R Jhala, R Majumdar, KL McMillan
+Publication: ACM SIGPLAN Notices 39 (1), 232-244
+
+4. Software verification with BLAST
+Citations:595
+Authors: TA Henzinger, R Jhala, R Majumdar, G Sutre
+Publication: International SPIN Workshop on Model Checking of Software, 235-239
+
+5. NV-Heaps: making persistent objects fast and safe with next-generation, non-volatile memories
+Citations:585
+Authors: J Coburn, AM Caulfield, A Akel, LM Grupp, RK Gupta, R Jhala, ...
+Publication: ACM Sigplan Notices 47 (4), 105-118
+
+6. Software model checking
+Citations:386
+Authors: R Jhala, R Majumdar
+Publication: ACM Computing Surveys (CSUR) 41 (4), 21
+
+7. Liquid types
+Citations:326
+Authors: PM Rondon, M Kawaguci, R Jhala
+Publication: ACM SIGPLAN Notices 43 (6), 159-169
+
+8. RELAY: static race detection on millions of lines of code
+Citations:304
+Authors: JW Voung, R Jhala, S Lerner
+Publication: Proceedings of the the 6th joint meeting of the European software …
+
+9. Staged information flow for JavaScript
+Citations:282
+Authors: R Chugh, JA Meister, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 44 (6), 50-62
+
+10. Generating Tests from Counterexamples
+Citations:253
+Authors: RM Dirk Beyer, Adam Chlipala,Thomas Henzinger, Ranjit
+Publication: 26th ACM/IEEE International Conference on Software Engineering, 326-335
+
+11. Mace: language support for building distributed systems
+Citations:242
+Authors: CE Killian, JW Anderson, R Braud, R Jhala, AM Vahdat
+Publication: ACM SIGPLAN Notices 42 (6), 179-188
+
+12. Life, death, and the critical transition: Finding liveness bugs in systems code
+Citations:242
+Authors: C Killian, JW Anderson, R Jhala, A Vahdat
+Publication: NSDI
+
+13. An empirical study of privacy-violating information flows in JavaScript web applications
+Citations:211
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+14. Temporal-safety proofs for systems code
+Citations:211
+Authors: TA Henzinger, GC Necula, R Jhala, G Sutre, R Majumdar, W Weimer
+Publication: International Conference on Computer Aided Verification, 526-538
+
+15. Race checking by context inference
+Citations:209
+Authors: TA Henzinger, R Jhala, R Majumdar
+Publication: ACM SIGPLAN Notices 39 (6), 1-13
+
+16. A practical and complete approach to predicate refinement
+Citations:183
+Authors: R Jhala, KL McMillan
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+17. Path slicing
+Citations:155
+Authors: R Jhala, R Majumdar
+Publication: ACM SIGPLAN Notices 40 (6), 38-47
+
+18. Thread-modular abstraction refinement
+Citations:155
+Authors: TA Henzinger, R Jhala, R Majumdar, S Qadeer
+Publication: International Conference on Computer Aided Verification, 262-274
+
+19. Refinement types for Haskell
+Citations:150
+Authors: N Vazou, EL Seidel, R Jhala, D Vytiniotis, S Peyton-Jones
+Publication: ACM SIGPLAN Notices 49 (9), 269-282
+
+20. Array abstractions from proofs
+Citations:132
+Authors: R Jhala, KL McMillan
+Publication: International Conference on Computer Aided Verification, 193-206
+
+21. Compositional methods for probabilistic systems
+Citations:120
+Authors: L De Alfaro, TA Henzinger, R Jhala
+Publication: International Conference on Concurrency Theory, 351-365
+
+22. Permissive interfaces
+Citations:118
+Authors: TA Henzinger, R Jhala, R Majumdar
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 31-40
+
+23. Microarchitecture verification by compositional model checking
+Citations:114
+Authors: R Jhala, KL McMillan
+Publication: International Conference on Computer Aided Verification, 396-410
+
+24. SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks.
+Citations:111
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: NDSS
+
+25. Interpolant-based transition relation approximation
+Citations:109
+Authors: R Jhala, KL McMillan
+Publication: International Conference on Computer Aided Verification, 39-51
+
+26. Dependent types for JavaScript
+Citations:105
+Authors: R Chugh, D Herman, R Jhala
+Publication: ACM SIGPLAN Notices 47 (10), 587-606
+
+27. Lock allocation
+Citations:103
+Authors: M Emmi, JS Fischer, R Jhala, R Majumdar
+Publication: ACM SIGPLAN Notices 42 (1), 291-296
+
+28. Extreme model checking
+Citations:100
+Authors: TA Henzinger, R Jhala, R Majumdar, MAA Sanvido
+Publication: Verification: Theory and Practice, 332-358
+
+29. Interprocedural analysis of asynchronous programs
+Citations:94
+Authors: R Jhala, R Majumdar
+Publication: ACM SIGPLAN Notices 42 (1), 339-350
+
+30. Abstract refinement types
+Citations:91
+Authors: N Vazou, PM Rondon, R Jhala
+Publication: European Symposium on Programming, 209-228
+
+31. Opium: Optimal package install/uninstall manager
+Citations:91
+Authors: C Tucker, D Shuffelton, R Jhala, S Lerner
+Publication: 29th International Conference on Software Engineering (ICSE'07), 178-188
+
+32. The Blast Query Language for Software Verification
+Citations:91
+Authors: D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: International Static Analysis Symposium, 2-18
+
+33. Type-based data structure verification
+Citations:73
+Authors: M Kawaguchi, P Rondon, R Jhala
+Publication: ACM Sigplan Notices 44 (6), 304-315
+
+34. Counterexample-guided control
+Citations:73
+Authors: TA Henzinger, R Jhala, R Majumdar
+Publication: International Colloquium on Automata, Languages, and Programming, 886-902
+
+35. On subnormal floating point and abnormal timing
+Citations:71
+Authors: M Andrysco, D Kohlbrenner, K Mowery, R Jhala, S Lerner, H Shacham
+Publication: 2015 IEEE Symposium on Security and Privacy, 623-639
+
+36. Joining dataflow with predicates
+Citations:71
+Authors: J Fischer, R Jhala, R Majumdar
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 227-236
+
+37. Checking memory safety with Blast
+Citations:66
+Authors: D Beyer, TA Henzinger, R Jhala, R Majumdar
+Publication: International Conference on Fundamental Approaches to Software Engineering, 2-18
+
+38. Dataflow analysis for concurrent programs using datarace detection
+Citations:65
+Authors: R Chugh, JW Voung, R Jhala, S Lerner
+Publication: ACM SIGPLAN Notices 43 (6), 316-326
+
+39. Finding latent performance bugs in systems implementations
+Citations:61
+Authors: C Killian, K Nagaraj, S Pervez, R Braud, JW Anderson, R Jhala
+Publication: Proceedings of the eighteenth ACM SIGSOFT international symposium on …
+
+40. Nested refinements: a logic for duck typing
+Citations:58
+Authors: R Chugh, PM Rondon, R Jhala
+Publication: ACM SIGPLAN Notices 47 (1), 231-244
+
+41. Low-level liquid types
+Citations:58
+Authors: PM Rondon, M Kawaguchi, R Jhala
+Publication: ACM Sigplan Notices 45 (1), 131-144
+
+42. Verifying GPU kernels by test amplification
+Citations:57
+Authors: A Leung, M Gupta, Y Agarwal, R Gupta, R Jhala, S Lerner
+Publication: ACM SIGPLAN Notices 47 (6), 383-394
+
+43. Towards verifying android apps for the absence of no-sleep energy bugs
+Citations:53
+Authors: P Vekris, R Jhala, S Lerner, Y Agarwal
+Publication: Presented as part of the 2012 Workshop on Power-Aware Computing and Systems
+
+44. Liquidhaskell: Experience with refinement types in the real world
+Citations:47
+Authors: N Vazou, EL Seidel, R Jhala
+Publication: ACM SIGPLAN Notices 49 (12), 39-51
+
+45. HMC: Verifying functional programs using abstract interpreters
+Citations:47
+Authors: R Jhala, R Majumdar, A Rybalchenko
+Publication: International Conference on Computer Aided Verification, 470-485
+
+46. Deterministic parallelism via liquid effects
+Citations:30
+Authors: M Kawaguchi, P Rondon, A Bakst, R Jhala
+Publication: ACM SIGPLAN Notices 47 (6), 45-54
+
+47. Type targeted testing
+Citations:29
+Authors: EL Seidel, N Vazou, R Jhala
+Publication: European Symposium on Programming Languages and Systems, 812-836
+
+48. Counterexample-guided planning
+Citations:29
+Authors: K Chatterjee, TA Henzinger, R Jhala, R Majumdar
+Publication: arXiv preprint arXiv:1207.1373
+
+49. Deep typechecking and refactoring
+Citations:28
+Authors: Z Tatlock, C Tucker, D Shuffelton, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 43 (10), 37-52
+
+50. State of the union: Type inference via craig interpolation
+Citations:27
+Authors: R Jhala, R Majumdar, RG Xu
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+51. An Eclipse plug-in for model checking
+Citations:27
+Authors: D Beyer, TA Henzinger, R Jhala, R Majumdar
+Publication: Proceedings. 12th IEEE International Workshop on Program Comprehension, 2004 …
+
+52. Refinement types for TypeScript
+Citations:26
+Authors: P Vekris, B Cosman, R Jhala
+Publication: ACM SIGPLAN Notices 51 (6), 310-325
+
+53. Verifying reference counting implementations
+Citations:25
+Authors: M Emmi, R Jhala, E Kohler, R Majumdar
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+54. Bounded refinement types
+Citations:24
+Authors: N Vazou, A Bakst, R Jhala
+Publication: ACM SIGPLAN Notices 50 (9), 48-61
+
+55. The BLAST software verification system
+Citations:21
+Authors: TA Henzinger, R Jhala, R Majumdar
+Publication: International SPIN Workshop on Model Checking of Software, 25-26
+
+56. Refinement reflection: complete verification with SMT
+Citations:20
+Authors: N Vazou, A Tondwalkar, V Choudhury, RG Scott, RR Newton, P Wadler, ...
+Publication: Proceedings of the ACM on Programming Languages 2 (POPL), 53
+
+57. FaCT: A flexible, constant-time programming language
+Citations:18
+Authors: S Cauligi, G Soeller, F Brown, B Johannesmeyer, Y Huang, R Jhala, ...
+Publication: 2017 IEEE Cybersecurity Development (SecDev), 69-76
+
+58. NSF expedition on variability-aware software: Recent results and contributions
+Citations:16
+Authors: L Wanner, L Lai, A Rahimi, M Gottscho, P Mercati, CH Huang, F Sala, ...
+Publication: it-Information Technology 57 (3), 181-198
+
+59. Dynamic witnesses for static type errors (or, ill-typed programs usually go wrong)
+Citations:15
+Authors: EL Seidel, R Jhala, W Weimer
+Publication: Journal of Functional Programming 28
+
+60. Dsolve: Safety verification via liquid types
+Citations:15
+Authors: M Kawaguchi, PM Rondon, R Jhala
+Publication: International Conference on Computer Aided Verification, 123-126
+
+61. Bounds checking with taint-based analysis
+Citations:13
+Authors: W Chuang, S Narayanasamy, B Calder, R Jhala
+Publication: International Conference on High-Performance Embedded Architectures and …
+
+62. Population structure and phenotypic variation of Sclerotinia sclerotiorum from dry bean (Phaseolus vulgaris) in the United States
+Citations:12
+Authors: ZN Kamvar, BS Amaradasa, R Jhala, S McCoy, JR Steadman, ...
+Publication: PeerJ 5, e4152
+
+63. Finding and preventing bugs in javascript bindings
+Citations:11
+Authors: F Brown, S Narayan, RS Wahby, D Engler, R Jhala, D Stefan
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 559-578
+
+64. CSolve: Verifying C with liquid types
+Citations:11
+Authors: P Rondon, A Bakst, M Kawaguchi, R Jhala
+Publication: International Conference on Computer Aided Verification, 744-750
+
+65. Invited talk: the blast query language for software verification
+Citations:11
+Authors: D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: Proceedings of the 2004 ACM SIGPLAN symposium on Partial evaluation and …
+
+66. String analysis as an abstract interpretation
+Citations:10
+Authors: SW Kim, KM Choe
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+67. Learning to blame: localizing novice type errors with data-driven diagnosis
+Citations:9
+Authors: EL Seidel, H Sibghat, K Chaudhuri, W Weimer, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 60
+
+68. Trust, but verify: Two-phase typing for dynamic languages
+Citations:9
+Authors: P Vekris, B Cosman, R Jhala
+Publication: arXiv preprint arXiv:1504.08039
+
+69. Refinement type inference via abstract interpretation
+Citations:9
+Authors: R Jhala, R Majumdar, A Rybalchenko
+Publication: arXiv preprint arXiv:1004.2884
+
+70. Verifying distributed programs via canonical sequentialization
+Citations:8
+Authors: A Bakst, K Gleissenthall, RG Kıcı, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 110
+
+71. Predicate abstraction for program verification
+Citations:7
+Authors: R Jhala, A Podelski, A Rybalchenko
+Publication: Handbook of Model Checking, 447-491
+
+72. Rewriting-based dynamic information flow for JavaScript
+Citations:7
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: 17th ACM Conference on Computer and Communications Security
+
+73. Refinement types for haskell
+Citations:6
+Authors: R Jhala
+Publication: Proceedings of the ACM SIGPLAN 2014 workshop on Programming languages meets …
+
+74. Towards verified, constant-time floating point operations
+Citations:5
+Authors: M Andrysco, A Nötzli, F Brown, R Jhala, D Stefan
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+75. Predicate abstraction for linked data structures
+Citations:5
+Authors: A Bakst, R Jhala
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+76. Population structure and fungicide sensitivity of 366 Sclerotinia sclerotiorum isolates from common beans
+Citations:5
+Authors: SE Everhart, BS Amaradasa, R Jhala, R Higgins, JR Steadman
+Publication: Annu Rep Bean Improv Coop 59, 131-132
+
+77. Genetic and aggressiveness variation among Sclerotinia sclerotiorum dry bean isolates from Brazil fields
+Citations:5
+Authors: WLA Zancan, JR Steadman, R Higgins, R Jhala, J da Cruz Machado
+Publication: Bioscience Journal 31 (4)
+
+78. Program verification by lazy abstraction
+Citations:5
+Authors: R Jhala
+Publication: University of California, Berkeley
+
+79. Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT)
+Citations:4
+Authors: N Vazou, R Jhala
+Publication: arXiv preprint arXiv:1610.04641
+
+80. Printing floating-point numbers: a faster, always correct method
+Citations:4
+Authors: M Andrysco, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 51 (1), 555-567
+
+81. Nested refinements for dynamic languages
+Citations:4
+Authors: R Chugh, PM Rondon, R Jhala
+Publication: arXiv preprint arXiv:1103.5055
+
+82. Counterexample refinement for functional programs
+Citations:4
+Authors: R Jhala, R Majumdar
+Publication: Manuscript, available from http://www. cs. ucla. edu/∼ rupak/Papers …
+
+83. Verifying reference counted objects
+Citations:4
+Authors: M Emmi
+Publication: 
+
+84. Structural invariants
+Citations:4
+Authors: R Jhala, R Majumdar, RG Xu
+Publication: International Static Analysis Symposium, 71-87
+
+85. Lazy abstraction
+Citations:4
+Authors: R Jhala
+Publication: In POPL
+
+86. Local refinement typing
+Citations:3
+Authors: B Cosman, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 1 (ICFP), 26
+
+87. From Safety To Termination And Back: SMT-Based Verification For Lazy Languages
+Citations:3
+Authors: N Vazou, EL Seidel, R Jhala
+Publication: arXiv preprint arXiv:1401.6227
+
+88. Use of multi site screening to identify and verify partial resistance to white mold in common bean in 2012
+Citations:3
+Authors: R Jhala, B Higgens, JR Steadman
+Publication: Annu. Rep. Bean Improv. Coop. 56, 47-48
+
+89. Generating tests from counterexamples
+Citations:3
+Authors: DBAJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: ICSE 04: International Conference on Software Engineering (to appear)
+
+90. Language based verification tools for functional programs (dagstuhl seminar 16131)
+Citations:2
+Authors: M Gaboardi, S Jagannathan, R Jhala, S Weirich
+Publication: Dagstuhl Reports 6 (3)
+
+91. Programming Languages and Systems
+Citations:2
+Authors: E Seidel, N Vazou, R Jhala
+Publication: 
+
+92. Compiler Construction: 22nd International Conference, CC 2013, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2013, Rome, Italy, March …
+Citations:2
+Authors: K De Bosschere, R Jhala
+Publication: Springer
+
+93. Bit level types for high level reasoning
+Citations:2
+Authors: R Jhala, R Majumdar
+Publication: Proceedings of the 14th ACM SIGSOFT international symposium on Foundations …
+
+94. Lazy counterfactual symbolic execution
+Citations:1
+Authors: WT Hallahan, A Xue, MT Bland, R Jhala, R Piskac
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+95. Extended Version: Refinement Reflection: Complete Verification with SMT
+Citations:1
+Authors: N Vazou, A Tondwalkar, R JHALA, V CHOUDHURY, RG SCOTT, ...
+Publication: 
+
+96. Abstractions from proofs
+Citations:1
+Authors: TA Henzinger, R Jhala, R Majumdar, KL McMillan
+Publication: ACM SIGPLAN Notices 49 (4), 79-91
+
+97. Detecting History Sniffing via Information Flow
+Citations:1
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: UCSD
+
+98. Building distributed systems using mace
+Citations:1
+Authors: C Killian, JW Anderson, R Braud, R Jhala, A Vahdat
+Publication: 2009 IEEE Ninth International Conference on Peer-to-Peer Computing, 91-92
+
+99. The Software Model Checker BLAST: Applications to Software Engineering
+Citations:1
+Authors: D Beyer, TA Henzinger, R Jhala, R Majumdar
+Publication: 
+
+100. Compositional Methods for Probabilistic Systems?;??
+Citations:1
+Authors: LATA Henzinger, R Jhala
+Publication: Proceedings of the 12th International Conference on Concurrency Theory 2154
+
+101. Microarchitecture Veriﬁcation by Compositional Model Checking
+Citations:1
+Authors: R Jhala, KL McMillan
+Publication: Computer Aided Verification:... International Conference, CAV …
+
+102. BLAST-A Model Checker for C
+Citations:1
+Authors: TA Henzinger, R Majumdar, R Jhala, D Beyer
+Publication: Tenth International Workshop on Model Checking of Software (SPIN), 235-239
+
+103. Type Inference with Run-time Logs (Work in Progress)
+Citations:1
+Authors: R Chugh, R Jhala, S Lerner
+Publication: University of California, San Diego. Available at: https://pdfs …
+
+104. FaCT: a DSL for timing-sensitive computation
+Citations:
+Authors: S Cauligi, G Soeller, B Johannesmeyer, F Brown, RS Wahby, J Renner, ...
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+105. Pretend synchrony: synchronous verification of asynchronous distributed programs
+Citations:
+Authors: RG Kıcı, A Bakst, D Stefan, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 59
+
+106. {IODINE}: Verifying Constant-Time Execution of Hardware
+Citations:
+Authors: K Gleissenthall, RG Kıcı, D Stefan, R Jhala
+Publication: 28th {USENIX} Security Symposium ({USENIX} Security 19), 1411-1428
+
+107. White mold/dry bean: Population structure and phenotypic variation of Sclerotinia sclerotiorum from dry bean in the USA
+Citations:
+Authors: Z Kamvar, BS Amaradasa, R Jhala, SB McCoy, JR Steadman, ...
+Publication: PHYTOPATHOLOGY 108 (10), 85-85
+
+108. Deriving Law-Abiding Instances
+Citations:
+Authors: R Scott, V Choudhury, R Newton, N Vazou, R Jhala
+Publication: arXiv preprint arXiv:1708.02328
+
+109. Learning to Blame
+Citations:
+Authors: EL SEIDEL, H SIBGHAT, K CHAUDHURI, W WEIMER, R JHALA
+Publication: arXiv preprint arXiv:1708.07583
+
+110. Comparison of four methods for determination of Sclerotinia sclerotiorum fungicide sensitivity
+Citations:
+Authors: N Gambhir, A Pannullo, S Campbell, B Amaradasa, R Jhala, J Steadman, ...
+Publication: PHYTOPATHOLOGY 106 (12), 188-188
+
+111. Dagstuhl Reports, Vol. 6, Issue 3 ISSN 2192-5283
+Citations:
+Authors: A Lopez-Ortiz, UC Meyer, ME Nebel, R Sedgewick, D Delling, ...
+Publication: 
+
+112. Worldwide population structure of Sclerotinia sclerotiorum from cultivated common
+Citations:
+Authors: SE Everhart, R Jhala, BS Amaradasa, R Higgins, JR Steadman
+Publication: PHYTOPATHOLOGY 105 (11), 41-41
+
+113. Scripting Languages and Frameworks: Analysis and Verification (Dagstuhl Seminar 14271)
+Citations:
+Authors: F Henglein, R Jhala, S Krishnamurthi, P Thiemann
+Publication: Dagstuhl Reports 4 (6)
+
+114. Genetic and aggressiveness variation in Sclerotinia sclerotiorum isolates from dry bean fields in Brazil
+Citations:
+Authors: W Zancan, J Steadman, R Higgins, R Jhala, J Machado
+Publication: PHYTOPATHOLOGY 103 (9), 10-10
+
+115. Characterization of Sclerotinia sclerotiorum isolates from USA and South America soybean fields for aggressiveness and mycelial compatibility grouping
+Citations:
+Authors: JJ Steadman, TJ Miorini, R Jhala, R Higgins
+Publication: Phytopathology, 138-138
+
+116. Compiler construction
+Citations:
+Authors: R Jhala, K De Bosschere
+Publication: LECTURE NOTES IN COMPUTER SCIENCE 22
+
+117. Programming Languages and Systems: 10th Asian Symposium, APLAS 2012, Kyoto, Japan, December 11-13, 2012, Proceedings
+Citations:
+Authors: R Jhala, A Igarashi
+Publication: Springer Science & Business Media
+
+118. Software Verification with Liquid Types⋆
+Citations:
+Authors: R Jhala
+Publication: Programming Languages and Systems, 3-3
+
+119. Using types for software verification
+Citations:
+Authors: R Jhala
+Publication: International Conference on Computer Aided Verification, 20-20
+
+120. System D: Dependent Dynamic Dictionaries
+Citations:
+Authors: R Chugh, PM Rondon, R Jhala
+Publication: 
+
+121. Verification, Model Checking, and Abstract Interpretation
+Citations:
+Authors: R Jhala, D Schmidt
+Publication: Lecture Notes in Computer Science 6538
+
+122. Proceedings of the 12th International Conference on Verification, Model Checking, and Abstract Interpretation
+Citations:
+Authors: R Jhala
+Publication: Springer-Verlag
+
+123. Using Types for Software Verification (Invited Tutorial)
+Citations:
+Authors: R Jhala
+Publication: LECTURE NOTES IN COMPUTER SCIENCE 1 (6806), 20-20
+
+124. Liquid Types: Type Refinement via Predicate Abstraction
+Citations:
+Authors: P Rondon, R Jhala
+Publication: Department of Computer Science and Engineering, University of California …
+
+125. Programming Models for Developing Reliable Systems (TOPMoDRS)
+Citations:
+Authors: C Tapus, J Hickey, R Jhala, J Kiniry, S Lerner, N Medvidovic, ...
+Publication: 
+
+126. Lock Allocation
+Citations:
+Authors: MEJS Fischer, R Jhala, R Majumdar
+Publication: 
+
+127. Thread-Modular Verification by Context Inference
+Citations:
+Authors: R Jhala
+Publication: SAVCBS 2005 Specification and Verification of Component-Based Systems, 3
+
+128. Path SlicingЃ
+Citations:
+Authors: R Jhala, R Majumdar
+Publication: 
+
+129. Invited talk: injecting life with computers
+Citations:
+Authors: E Shapiro
+Publication: Proceedings of the 6th ACM SIGPLAN international conference on Principles …
+
+130. On the problems and solutions of static analysis for software testing.
+Citations:
+Authors: X Jianyu, DAI Jingguo, EM Clarke, D Kroening, T Ball, B Cook, V Levin, ...
+Publication: Information Technology Journal 11 (10), 9-10
+
+131. B. Tech. Hons.(Indian Institute of Technology, New Delhi) 1999
+Citations:
+Authors: R Jhala
+Publication: UNIVERSITY OF CALIFORNIA, BERKELEY
+
+132. Abstractions from Proofs ฃ
+Citations:
+Authors: TA Henzinger, R Jhala, R Majumdar, KL McMillan
+Publication: 
+
+133. Lazy Abstraction Ѓ
+Citations:
+Authors: TA Henzinger, R Jhala, R Majumdar, G Sutre
+Publication: 
+
+134. Language Based Verification Tools for Functional Programs
+Citations:
+Authors: M Gaboardi, S Jagannathan, R Jhala, S Weirich
+Publication: 
+
+135. Towards Complete Specification and Verification with SMT
+Citations:
+Authors: V NIKI, A TONDWALKAR, V CHOUDHURY, R SCOTT, N RYAN, R JHALA
+Publication: 
+
+136. In Proc. of CONCUR 01: Concurrency Theory, 12th International Conference, Lectures Notes in Computer Science, Springer-Verlag, 2001.
+Citations:
+Authors: LATA Henzinger, R Jhala
+Publication: 
+
+137. Refinement Types for TypeScript–Supplemental Material–
+Citations:
+Authors: P Vekris, B Cosman, R Jhala
+Publication: 
+
+138. Finding Bugs in Liquid Haskell
+Citations:
+Authors: A Tondwalkar, R Recto, W Weimer, R Jhala
+Publication: 
+
+139. Organizers and Program Committee Members
+Citations:
+Authors: R Gupta, J Palsberg, A Mathur, CDS US, S Shukla, E Leonard, S Edwards, ...
+Publication: 
+
+140. Technical Report: Refinement Types For Haskell
+Citations:
+Authors: N Vazou, EL Seidel, R Jhala, D Vytiniotis, S Peyton-Jones
+Publication: 
+
+141. Applications of Craig Interpolation in Model Checking
+Citations:
+Authors: W Craig, KL McMillan, TA Henzinger, R Majumdar, R Jhala, D Beyer, ...
+Publication: 
+
+142. Tutorial: Type-Based Analysis of Higher-Order Programs
+Citations:
+Authors: N Vazou, PM Rondon, E Seidel, R Jhala
+Publication: 
+
+143. Status Report: Dependent Types for JavaScript
+Citations:
+Authors: R Chugh, D Herman, R Jhala
+Publication: 
+
+144. UCLA CSD TR-040052
+Citations:
+Authors: TA Henzinger, R Jhala, R Majumdar
+Publication: 
+
+145. State of the Union: Dependent Type Inference via Craig Interpolation
+Citations:
+Authors: R Jhala, R Majumdar, RG Xu
+Publication: 
+
+146. миж б Хг а в
+Citations:
+Authors: TA Henzinger, R Jhala, R Majumdar, MAA Sanvido
+Publication: 
+
+147. Assertion Verification using Structural Invariants
+Citations:
+Authors: R Jhala, R Majumdar, RG Xu
+Publication: 
+
+148. Verifying Sequential Consistency
+Citations:
+Authors: R Jhala, R Majumdar
+Publication: 
+
+149. M icroarchitecture V erification by
+Citations:
+Authors: R Jhala, KL McMillan
+Publication: 
+

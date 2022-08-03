@@ -1,0 +1,843 @@
+https://scholar.google.com/citations?hl=en&user=MJ5G4xgAAAAJ
+Total Citations = 8183
+
+1. PowerNap: eliminating server idle power
+Citations:1006
+Authors: D Meisner, BT Gold, TF Wenisch
+Publication: ACM SIGPLAN Notices 44 (3), 205-216
+
+2. SMARTS: Accelerating microarchitecture simulation via rigorous statistical sampling
+Citations:642
+Authors: RE Wunderlich, TF Wenisch, B Falsafi, JC Hoe
+Publication: ACM SIGARCH computer architecture news 31 (2), 84-97
+
+3. Power management of online data-intensive services
+Citations:413
+Authors: D Meisner, CM Sadler, LA Barroso, WD Weber, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 319-330
+
+4. SimFlex: statistical sampling of computer system simulation
+Citations:370
+Authors: TF Wenisch, RE Wunderlich, M Ferdman, A Ailamaki, B Falsafi, JC Hoe
+Publication: IEEE Micro 26 (4), 18-31
+
+5. Disaggregated memory for expansion and sharing in blade servers
+Citations:287
+Authors: K Lim, J Chang, T Mudge, P Ranganathan, SK Reinhardt, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 267-278
+
+6. Memscale: active low-power modes for main memory
+Citations:265
+Authors: Q Deng, D Meisner, L Ramos, TF Wenisch, R Bianchini
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 225-238
+
+7. Spatial memory streaming
+Citations:230
+Authors: S Somogyi, TF Wenisch, A Ailamaki, B Falsafi, A Moshovos
+Publication: 33rd International Symposium on Computer Architecture (ISCA'06), 252-263
+
+8. Understanding and abstracting total data center power
+Citations:222
+Authors: S Pelley, D Meisner, TF Wenisch, JW VanGilder
+Publication: Workshop on Energy-Efficient Design 11
+
+9. Memory persistency
+Citations:210
+Authors: S Pelley, PM Chen, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 265-276
+
+10. Thin servers with smart pipes: designing SoC accelerators for memcached
+Citations:200
+Authors: K Lim, D Meisner, AG Saidi, P Ranganathan, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 36-47
+
+11. Full-System Analysis and Characterization of Interactive Smartphone Applications
+Citations:195
+Authors: A Gutierrez, RG Dreslinski, TF Wenisch, T Mudge, A Saidi, C Emmons, ...
+Publication: 
+
+12. Computational Sprinting
+Citations:181
+Authors: A Raghavan, Y Luo, A Chandawalla, M Papaefthymiou, KP Pipe, ...
+Publication: Proc. of the 18th International Symposium on High Performance Computer …
+
+13. Foreshadow: Extracting the keys to the intel {SGX} kingdom with transient out-of-order execution
+Citations:174
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 991–1008
+
+14. Coscale: Coordinating cpu and memory system dvfs in server systems
+Citations:172
+Authors: Q Deng, D Meisner, A Bhattacharjee, TF Wenisch, R Bianchini
+Publication: Proceedings of the 2012 45th Annual IEEE/ACM International Symposium on …
+
+15. Composite cores: Pushing heterogeneity into a core
+Citations:163
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, R Dreslinski, ...
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 317-328
+
+16. Simflex: A fast, accurate, flexible full-system simulation framework for performance evaluation of server architecture
+Citations:161
+Authors: N Hardavellas, S Somogyi, TF Wenisch, RE Wunderlich, S Chen, J Kim, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 31 (4), 31-34
+
+17. Temporal streaming of shared memory
+Citations:142
+Authors: TF Wenisch, S Somogyi, N Hardavellas, J Kim, A Ailamaki, B Falsafi
+Publication: ACM SIGARCH Computer Architecture News 33 (2), 222-233
+
+18. Power routing: dynamic power provisioning in the data center
+Citations:136
+Authors: S Pelley, D Meisner, P Zandevakili, TF Wenisch, J Underwood
+Publication: ACM Sigplan Notices 45 (3), 231-242
+
+19. Spatio-temporal memory streaming
+Citations:129
+Authors: S Somogyi, TF Wenisch, A Ailamaki, B Falsafi
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 69-80
+
+20. Mechanisms for store-wait-free multiprocessors
+Citations:123
+Authors: TF Wenisch, A Ailamaki, B Falsafi, A Moshovos
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 266-277
+
+21. Storage management in the NVRAM era
+Citations:117
+Authors: S Pelley, TF Wenisch, BT Gold, B Bridge
+Publication: Proceedings of the VLDB Endowment 7 (2), 121-132
+
+22. The Mystery Machine: End-to-end performance analysis of large-scale Internet services
+Citations:116
+Authors: M Chow, D Meisner, J Flinn, D Peek, TF Wenisch
+Publication: Proceedings of the 11th symposium on Operating Systems Design and Implementation
+
+23. InvisiFence: performance-transparent memory ordering in conventional multiprocessors
+Citations:108
+Authors: C Blundell, MMK Martin, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 233-244
+
+24. High-performance transactions for persistent memories
+Citations:102
+Authors: A Kolli, S Pelley, A Saidi, PM Chen, TF Wenisch
+Publication: ACM SIGPLAN Notices 51 (4), 399-411
+
+25. BigHouse: A simulation infrastructure for data center systems
+Citations:102
+Authors: D Meisner, J Wu, TF Wenisch
+Publication: International Symposium on Performance Analysis of Systems and Software 12
+
+26. DreamWeaver: Architectural Support for Deep Sleep
+Citations:87
+Authors: D Meisner, TF Wenisch
+Publication: Proc. of the 17th International Conference on Architectural Support for …
+
+27. System-level Implications of Disaggregated Memory
+Citations:86
+Authors: TFW Kevin Lim, Yoshio Turner, Jose Renato Santos
+Publication: HPCA
+
+28. Adrenaline: Pinpointing and reining in tail queries with quick voltage boosting
+Citations:80
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, J Mars, L Tang, ...
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+29. TurboSMARTS: Accurate microarchitecture simulation sampling in minutes
+Citations:79
+Authors: TF Wenisch, RE Wunderlich, B Falsafi, JC Hoe
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (1), 408-409
+
+30. MultiScale: memory system DVFS with multiple memory controllers
+Citations:69
+Authors: Q Deng, D Meisner, A Bhattacharjee, TF Wenisch, R Bianchini
+Publication: Proceedings of the 2012 ACM/IEEE international symposium on Low power …
+
+31. Simulation sampling with live-points
+Citations:64
+Authors: TF Wenisch, RE Wunderlich, B Falsafi, JC Hoe
+Publication: 2006 IEEE International Symposium on Performance Analysis of Systems and …
+
+32. Swizzle-switch networks for many-core systems
+Citations:58
+Authors: K Sewell, RG Dreslinski, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (2 …
+
+33. Sonic millip3de: A massively parallel 3d-stacked accelerator for 3d ultrasound
+Citations:57
+Authors: R Sampson, M Yang, S Wei, C Chakrabarti, TF Wenisch
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+34. Temporal instruction fetch streaming
+Citations:57
+Authors: M Ferdman, TF Wenisch, A Ailamaki, B Falsafi, A Moshovos
+Publication: Proceedings of the 41st annual IEEE/ACM International Symposium on …
+
+35. Delegated persist ordering
+Citations:55
+Authors: A Kolli, J Rosen, S Diestelhorst, A Saidi, S Pelley, S Liu, PM Chen, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 58
+
+36. Simulating DRAM controllers for future system architecture exploration
+Citations:55
+Authors: A Hansson, N Agarwal, A Kolli, T Wenisch, AN Udipi
+Publication: 2014 IEEE International Symposium on Performance Analysis of Systems and …
+
+37. Computational sprinting on a hardware/software testbed
+Citations:54
+Authors: A Raghavan, L Emurian, L Shao, M Papaefthymiou, KP Pipe, TF Wenisch, ...
+Publication: Acm Sigplan Notices 48 (4), 155-166
+
+38. Unlocking bandwidth for GPUs in CC-NUMA systems
+Citations:49
+Authors: N Agarwal, D Nellans, M O'Connor, SW Keckler, TF Wenisch
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+39. The powernap server architecture
+Citations:49
+Authors: D Meisner, BT Gold, TF Wenisch
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (1), 3
+
+40. Peak power modeling for data center servers with switched-mode power supplies
+Citations:49
+Authors: D Meisner, TF Wenisch
+Publication: Proceedings of the 16th ACM/IEEE international symposium on Low power …
+
+41. Memory coherence activity prediction in commercial workloads
+Citations:47
+Authors: S Somogyi, TF Wenisch, N Hardavellas, J Kim, A Ailamaki, B Falsafi
+Publication: Proceedings of the 3rd workshop on Memory performance issues: in conjunction …
+
+42. Thermostat: Application-transparent page management for two-tiered main memory
+Citations:46
+Authors: N Agarwal, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 45 (1), 631-644
+
+43. Stochastic queuing simulation for data center workloads
+Citations:46
+Authors: D Meisner, TF Wenisch
+Publication: Exascale Evaluation and Research Techniques Workshop 16, 37
+
+44. Statistical sampling of microarchitecture simulation
+Citations:43
+Authors: RE Wunderlich, TF Wenisch, B Falsafi, JC Hoe
+Publication: ACM Transactions on Modeling and Computer Simulation (TOMACS) 16 (3), 197-224
+
+45. Foreshadow-NG: Breaking the virtual memory abstraction with transient out-of-order execution
+Citations:40
+Authors: O Weisse, J Van Bulck, M Minkin, D Genkin, B Kasikci, F Piessens, ...
+Publication: 
+
+46. Memory control
+Citations:40
+Authors: DA Roberts, TN Mudge, TF Wenisch
+Publication: US Patent App. 12/588,592
+
+47. Practical off-chip meta-data for temporal memory streaming
+Citations:39
+Authors: TF Wenisch, M Ferdman, A Ailamaki, B Falsafi, A Moshovos
+Publication: 2009 IEEE 15th International Symposium on High Performance Computer …
+
+48. An evaluation of stratified sampling of microarchitecture simulations
+Citations:39
+Authors: RE Wunderlich, TF Wenisch, B Falsafi, JC Hoe
+Publication: Proceedings of the IEEE Workshop on Duplicating, Deconstructing and Debunking
+
+49. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:34
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+50. RDIP: return-address-stack directed instruction prefetching
+Citations:32
+Authors: A Kolli, A Saidi, TF Wenisch
+Publication: 2013 46th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+51. Selective GPU caches to eliminate CPU-GPU HW cache coherence
+Citations:31
+Authors: N Agarwal, D Nellans, E Ebrahimi, TF Wenisch, J Danskin, SW Keckler
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+52. Temporal streams in commercial server applications
+Citations:31
+Authors: TF Wenisch, M Ferdman, A Ailamaki, B Falsafi, A Moshovos
+Publication: 2008 IEEE International Symposium on Workload Characterization, 99-108
+
+53. Computational sprinting using multiple cores
+Citations:30
+Authors: TF Wenisch, K Pipe, M Papaefthymiou, MMK Martin, A Raghavan
+Publication: US Patent App. 14/356,573
+
+54. A primer on hardware prefetching
+Citations:29
+Authors: B Falsafi, TF Wenisch
+Publication: Synthesis Lectures on Computer Architecture 9 (1), 1-67
+
+55. Programmable chaos generator and process for use thereof
+Citations:29
+Authors: L Occhipinti, L Fortuna, A Rizzo, M Frasca
+Publication: US Patent 6,842,745
+
+56. Language-level persistency
+Citations:27
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+57. HARE: Hardware accelerator for regular expressions
+Citations:27
+Authors: V Gogte, A Kolli, MJ Cafarella, L D'Antoni, TF Wenisch
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 44
+
+58. Figure-of-merit for phase-change materials used in thermal management
+Citations:27
+Authors: L Shao, A Raghavan, GH Kim, L Emurian, J Rosen, MC Papaefthymiou, ...
+Publication: International Journal of Heat and Mass Transfer 101, 764-771
+
+59. Utilizing dark silicon to save energy with computational sprinting
+Citations:26
+Authors: A Raghavan, L Emurian, L Shao, M Papaefthymiou, KP Pipe, TF Wenisch, ...
+Publication: IEEE Micro 33 (5), 20-28
+
+60. Computer energy conservation with a scalable PSU configuration
+Citations:24
+Authors: D Meisner, TF Wenisch
+Publication: US Patent 8,751,843
+
+61. Iterative helical CT reconstruction in the cloud for ten dollars in five minutes
+Citations:23
+Authors: JM Rosen, J Wu, TF Wenisch, JA Fessler
+Publication: Proc. Intl. Mtg. on Fully 3D Image Recon. in Rad. and Nuc. Med, 241-4
+
+62. Does Low-Power Design Imply Energy Efficiency for Data Centers?
+Citations:22
+Authors: D Meisner, TF Wenisch
+Publication: International Symposium on Low Power Electronic Design
+
+63. Store-ordered streaming of shared memory
+Citations:21
+Authors: TF Wenisch, S Somogyi, N Hardavellas, J Kim, C Gniady, A Ailamaki, ...
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+64. Separable beamforming for 3-D medical ultrasound imaging
+Citations:19
+Authors: M Yang, R Sampson, S Wei, TF Wenisch, C Chakrabarti
+Publication: IEEE Transactions on Signal Processing 63 (2), 279-290
+
+65. On-chip phase change heat sinks designed for computational sprinting
+Citations:19
+Authors: L Shao, A Raghavan, L Emurian, MC Papaefthymiou, TF Wenisch, ...
+Publication: 2014 Semiconductor Thermal Measurement and Management Symposium (SEMI-THERM …
+
+66. ZCache Skew-ered
+Citations:19
+Authors: R Sampson, TF Wenisch
+Publication: Workshop on Duplicating, Deconstructing, and Debunking (WDDD)
+
+67. Cache memory with power saving state
+Citations:17
+Authors: DA Roberts, TN Mudge, TF Wenisch
+Publication: US Patent 8,285,936
+
+68. Active low-power modes for main memory with memscale
+Citations:17
+Authors: Q Deng, L Ramos, R Bianchini, D Meisner, T Wenisch
+Publication: IEEE Micro 32 (3), 60-69
+
+69. Arch2030: A vision of computer architecture research over the next 15 years
+Citations:15
+Authors: L Ceze, MD Hill, TF Wenisch
+Publication: arXiv preprint arXiv:1612.03182
+
+70. High frame rate 3-D ultrasound imaging using separable beamforming
+Citations:14
+Authors: M Yang, R Sampson, S Wei, TF Wenisch, C Chakrabarti
+Publication: Journal of Signal Processing Systems 78 (1), 73-84
+
+71. Separable beamforming for 3-D synthetic aperture ultrasound imaging
+Citations:14
+Authors: M Yang, R Sampson, TF Wenisch, C Chakrabarti
+Publication: SiPS 2013 Proceedings, 207-212
+
+72. Do Query Optimizers Need to be SSD-aware?
+Citations:14
+Authors: S Pelley, TF Wenisch, K LeFevre
+Publication: Proc. of the Second International Workshop on Accelerating Data Management …
+
+73. Applying Smarts to SPEC CPU2000
+Citations:14
+Authors: TF Wenisch, RE Wunderlich, B Falsafi, JC Hoe
+Publication: Computer Architecture Lab at Carnegie Mellon University, Tech. Rep 1
+
+74. Hawk: Hardware support for unstructured log processing
+Citations:13
+Authors: P Tandon, FM Sleiman, MJ Cafarella, TF Wenisch
+Publication: 2016 IEEE 32nd International Conference on Data Engineering (ICDE), 469-480
+
+75. Hardware acceleration for similarity measurement in natural language processing
+Citations:13
+Authors: P Tandon, J Chang, RG Dreslinski, V Qazvinian, P Ranganathan, ...
+Publication: Proceedings of the 2013 International Symposium on Low Power Electronics and …
+
+76. Making address-correlated prefetching practical
+Citations:13
+Authors: TF Wenisch, M Ferdman, A Ailamaki, B Falsafi, A Moshovos
+Publication: IEEE micro 30 (1), 50-59
+
+77. Persistency for synchronization-free regions
+Citations:12
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: ACM SIGPLAN Notices 53 (4), 46-61
+
+78. Designing for responsiveness with computational sprinting
+Citations:12
+Authors: A Raghavan, Y Luo, A Chandawalla, M Papaefthymiou, KP Pipe, ...
+Publication: IEEE Micro 33 (3), 8-15
+
+79. Embedded way prediction for last-level caches
+Citations:12
+Authors: FM Sleiman, RG Dreslinski, TF Wenisch
+Publication: 2012 IEEE 30th international conference on computer design (ICCD), 167-174
+
+80. BiNoCHS: Bimodal network-on-chip for CPU-GPU heterogeneous systems
+Citations:11
+Authors: A Mirhosseini, M Sadrosadati, B Soltani, H Sarbazi-Azad, TF Wenisch
+Publication: Proceedings of the Eleventh IEEE/ACM International Symposium on Networks-on …
+
+81. A top-down approach to achieving performance predictability in database systems
+Citations:11
+Authors: J Huang, B Mozafari, G Schoenebeck, TF Wenisch
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+82. Minimizing remote accesses in mapreduce clusters
+Citations:11
+Authors: P Tandon, MJ Cafarella, TF Wenisch
+Publication: 2013 IEEE International Symposium on Parallel & Distributed Processing …
+
+83. µTune: Auto-Tuned Threading for {OLDI} Microservices
+Citations:10
+Authors: A Sriraman, TF Wenisch
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+84. Statistical analysis of latency through semantic profiling
+Citations:10
+Authors: J Huang, B Mozafari, TF Wenisch
+Publication: Proceedings of the Twelfth European Conference on Computer Systems, 64-79
+
+85. Sonic Millip3De with Dynamic Receive Focusing and Apodization Optimization
+Citations:10
+Authors: R Sampson, M Yang, S Wei, C Chakrabarti, TF Wenisch
+Publication: IEEE Ultrasound Symposium, 557-560
+
+86. Statistical sampling of microarchitecture simulation
+Citations:10
+Authors: TF Wenisch, RE Wunderlich, B Falsafi, JC Hoe
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+87. SimFlex: Fast, accurate and flexible simulation of computer systems
+Citations:10
+Authors: T Wenisch, R Wunderlich
+Publication: Proceedings of the Tutorial in the International Symposium on …
+
+88. Enhancing server efficiency in the face of killer microseconds
+Citations:9
+Authors: A Mirhosseini, A Sriraman, TF Wenisch
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+89. Dependence-preserving data compaction for scalable forensic analysis
+Citations:9
+Authors: MN Hossain, J Wang, O Weisse, R Sekar, D Genkin, B He, SD Stoller, ...
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 1723-1740
+
+90. FPGA implementation of low-power 3D ultrasound beamformer
+Citations:9
+Authors: R Sampson, M Yang, S Wei, R Jintamethasawat, B Fowlkes, O Kripfgans, ...
+Publication: 2015 IEEE International Ultrasonics Symposium (IUS), 1-4
+
+91. Data processing apparatus and method for executing a stream of instructions out of order with respect to original program order
+Citations:9
+Authors: FM Sleiman, TF Wenisch
+Publication: US Patent App. 14/231,820
+
+92. μ Suite: A Benchmark Suite for Microservices
+Citations:8
+Authors: A Sriraman, TF Wenisch
+Publication: 2018 IEEE International Symposium on Workload Characterization (IISWC), 1-12
+
+93. Efficiently scaling out-of-order cores for simultaneous multithreading
+Citations:8
+Authors: FM Sleiman, TF Wenisch
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+94. Memory persistency: Semantics for byte-addressable nonvolatile memory technologies
+Citations:8
+Authors: S Pelley, PM Chen, TF Wenisch
+Publication: IEEE Micro 35 (3), 125-131
+
+95. Persistency programming 101
+Citations:8
+Authors: A Kolli, S Pelley, A Saidi, PM Chen, TF Wenisch, S Computing
+Publication: Non-Volatile Memories Workshop
+
+96. Temporal memory streaming
+Citations:8
+Authors: TF Wenisch
+Publication: Dissertation Abstracts International 68 (11)
+
+97. Exploring fine-grained heterogeneity with composite cores
+Citations:7
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, RG Dreslinski, ...
+Publication: IEEE Transactions on Computers 65 (2), 535-547
+
+98. Data processing apparatus having a cache configured to perform tag lookup and data access in parallel, and a method of operating the data processing apparatus
+Citations:7
+Authors: FM Sleiman, RG Dreslinski, TF Wenisch
+Publication: US Patent 8,825,955
+
+99. Prefetching based upon return addresses
+Citations:7
+Authors: A Saidi, TF Wenisch, A Kolli
+Publication: US Patent App. 13/681,801
+
+100. Controlling persistent writes to non-volatile memory based on persist buffer data and a persist barrier within a sequence of program instructions
+Citations:6
+Authors: S Diestelhorst, A Kolli, AG Saidi, P Chen, TF Wenisch
+Publication: US Patent 9,946,492
+
+101. Reining in long tails in warehouse-scale computers with quick voltage boosting using adrenaline
+Citations:6
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, RG Dreslinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 35 (1), 2
+
+102. Deconstructing the Tail at Scale Effect Across Network Protocols
+Citations:6
+Authors: A Sriraman, S Liu, S Gunbay, S Su, TF Wenisch
+Publication: arXiv preprint arXiv:1701.03100
+
+103. 21st century computer architecture
+Citations:6
+Authors: MD Hill, S Adve, L Ceze, MJ Irwin, D Kaeli, M Martonosi, J Torrellas, ...
+Publication: arXiv preprint arXiv:1609.06756
+
+104. Pitfalls of accurately benchmarking thermally adaptive chips
+Citations:6
+Authors: L Emurian, A Raghavan, L Shao, JM Rosen, M Papaefthymiou, K Pipe, ...
+Publication: Power (W) 5 (10)
+
+105. Querying input data
+Citations:5
+Authors: P Tandon, TF Wenisch, MJ Cafarella
+Publication: US Patent App. 14/862,350
+
+106. High volume rate, high resolution 3D plane wave imaging
+Citations:5
+Authors: M Yang, R Sampson, S Wei, TF Wenisch, B Fowlkes, O Kripfgans, ...
+Publication: 2014 IEEE International Ultrasonics Symposium, 1253-1256
+
+107. Sonic Millip3De: an architecture for handheld 3D ultrasound
+Citations:5
+Authors: R Sampson, M Yang, S Wei, C Chakrabarti, TF Wenisch
+Publication: IEEE Micro 34 (3), 100-108
+
+108. Tarp: Translating acquire-release persistency
+Citations:4
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 
+
+109. A low complexity scheme for accurate 3D velocity estimation in ultrasound systems
+Citations:4
+Authors: S Wei, M Yang, C Chakrabarti, R Sampson, TF Wenisch, O Kripfgans, ...
+Publication: 2014 IEEE Workshop on Signal Processing Systems (SiPS), 1-6
+
+110. Towards a scalable data center-level evaluation methodology
+Citations:4
+Authors: D Meisner, J Wu, TF Wenisch
+Publication: Performance Analysis of Systems and Software (ISPASS), 2011 IEEE …
+
+111. The queuing-first approach for tail management of interactive services
+Citations:3
+Authors: A Mirhosseini, TF Wenisch
+Publication: IEEE Micro 39 (4), 55-64
+
+112. Rethinking numerical representations for deep neural networks
+Citations:3
+Authors: P Hill, B Zamirai, S Lu, YW Chao, M Laurenzano, M Samadi, ...
+Publication: arXiv preprint arXiv:1808.02513
+
+113. Predicate optimization for a visual analytics database
+Citations:3
+Authors: MR Anderson, M Cafarella, TF Wenisch, G Ros
+Publication: SysML
+
+114. POSTER: Elastic reconfiguration for heterogeneous NoCs with BiNoCHS
+Citations:3
+Authors: A Mirhosseini, M Sadrosadati, B Soltani, H Sarbazi-Azad, TF Wenisch
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+115. High volume rate 3D ultrasound imaging based on synthetic aperture sequential beamforming
+Citations:3
+Authors: J Zhou, S Wei, R Sampson, R Jintamethasawat, OD Kripfgans, ...
+Publication: 2017 IEEE International Ultrasonics Symposium (IUS), 1-4
+
+116. Low-cost 3-D flow estimation of blood with clutter
+Citations:3
+Authors: S Wei, M Yang, J Zhou, R Sampson, OD Kripfgans, JB Fowlkes, ...
+Publication: IEEE transactions on ultrasonics, ferroelectrics, and frequency control 64 …
+
+117. Swizzle Switch: A self-arbitrating high-radix crossbar for NoC systems
+Citations:3
+Authors: R Dreslinski, K Sewell, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: 2012 IEEE Hot Chips 24 Symposium (HCS), 1-44
+
+118. SoftSKU: optimizing server architectures for microservice diversity@ scale
+Citations:2
+Authors: A Sriraman, A Dhanotia, TF Wenisch
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+119. Democratizing design for future computing platforms
+Citations:2
+Authors: L Ceze, MD Hill, K Sankaralingam, TF Wenisch
+Publication: arXiv preprint arXiv:1706.08597
+
+120. Thermostat: Keeping your DRAM hot and NVRAM cool
+Citations:2
+Authors: N Agarwal, T Wenisch
+Publication: International Conference on Architectural Support for Programming Languages …
+
+121. Low complexity 3D ultrasound imaging using synthetic aperture sequential beamforming
+Citations:2
+Authors: J Zhou, S Wei, R Sampson, M Yang, R Jintamethasawat, OD Kripfgans, ...
+Publication: 2016 IEEE International Workshop on Signal Processing Systems (SiPS), 33-38
+
+122. Low cost clutter filter for 3D ultrasonic flow estimation
+Citations:2
+Authors: S Wei, M Yang, R Sampson, OD Kripfgans, JB Fowlkes, TF Wenisch, ...
+Publication: 2015 IEEE Workshop on Signal Processing Systems (SiPS), 1-6
+
+123. Maelstrom: Real Time Data Center Temperature Modeling
+Citations:2
+Authors: S Pelley, Y YangGong, D Meisner, TF Wenisch, JW VanGilde
+Publication: paper poster on ASPLOS
+
+124. Physical representation-based predicate optimization for a visual analytics database
+Citations:1
+Authors: MR Anderson, M Cafarella, G Ros, TF Wenisch
+Publication: 2019 IEEE 35th International Conference on Data Engineering (ICDE), 1466-1477
+
+125. Error analysis of speed of sound reconstruction in ultrasound limited angle transmission tomography
+Citations:1
+Authors: R Jintamethasawat, WM Lee, PL Carson, FM Hooi, JB Fowlkes, ...
+Publication: Ultrasonics 88, 174-184
+
+126. Top Picks from the 2017 Computer Architecture Conferences
+Citations:1
+Authors: TF Wenisch
+Publication: IEEE Micro 38 (3), 5-9
+
+127. Failure-atomic synchronization-free regions
+Citations:1
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: 
+
+128. Energy-efficient data centers
+Citations:1
+Authors: W Shi, TF Wenisch
+Publication: IEEE Internet Computing 21 (4), 6-7
+
+129. Detecting at least one predetermined pattern in stream of symbols
+Citations:1
+Authors: M Cafarella, V Gogte, T Wenisch
+Publication: US Patent App. 15/160,247
+
+130. Querying input data
+Citations:1
+Authors: P Tandon, TF Wenisch, MJ Cafarella
+Publication: US Patent App. 14/494,047
+
+131. Identifying the Major Sources of Variance in Transaction Latencies: Towards More Predictable Databases
+Citations:1
+Authors: J Huang, B Mozafari, G Schoenebeck, T Wenisch
+Publication: arXiv preprint arXiv:1602.01871
+
+132. Energy-aware computing
+Citations:1
+Authors: TF Wenisch, A Buyuktosunoglu
+Publication: IEEE Micro, 6-8
+
+133. Tetris: A Streaming Accelerator for Physics-Limited 3D Plane-Wave Ultrasound Imaging
+Citations:
+Authors: BL West, J Zhou, RG Dreslinski, JB Fowlkes, O Kripfgans, C Chakrabarti, ...
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 189
+
+134. System and method for system-aware classifiers
+Citations:
+Authors: MR Anderson, TF Wenisch, GROS SANCHEZ
+Publication: US Patent App. 15/958,184
+
+135. Language support for memory persistency
+Citations:
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, W Wang, PM Chen, ...
+Publication: IEEE Micro 39 (3), 94-102
+
+136. Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow
+Citations:
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: IEEE Micro 39 (3), 66-74
+
+137. Technical Perspective How Economic Theories Can Help Computers Beat the Heat
+Citations:
+Authors: TF Wenisch
+Publication: COMMUNICATIONS OF THE ACM 62 (2), 97-97
+
+138. How economic theories can help computers beat the heat: technical perspective
+Citations:
+Authors: TF Wenisch
+Publication: Communications of the ACM 62 (2), 97-97
+
+139. Software wear management for persistent memories
+Citations:
+Authors: V Gogte, W Wang, S Diestelhorst, A Kolli, PM Chen, S Narayanasamy, ...
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 45-63
+
+140. Report on the 2018 IEEE/ACM International Symposium on Low Power Electronics and Design
+Citations:
+Authors: J Kulkarni, TF Wenisch
+Publication: IEEE Design & Test 35 (6), 94-95
+
+141. High-Volume-Rate 3-D Ultrasound Imaging Based on Synthetic Aperture Sequential Beamforming With Chirp-Coded Excitation
+Citations:
+Authors: J Zhou, S Wei, R Jintamethasawat, R Sampson, OD Kripfgans, ...
+Publication: IEEE transactions on ultrasonics, ferroelectrics, and frequency control 65 …
+
+142. Processing a stream of ordered input data
+Citations:
+Authors: R Sampson, TF Wenisch
+Publication: US Patent 9,691,374
+
+143. A data processing apparatus and method for executing a stream of instructions out of order with respect to original program order
+Citations:
+Authors: FM Sleiman, TF Wenisch
+Publication: US Patent App. 15/128,214
+
+144. Thermostat: Keeping DRAM hot and NVRAM cool
+Citations:
+Authors: N Agarwal, TF Wenisch
+Publication: Memory 4, 6
+
+145. Program Committee Technical Program Committee Co-Chairs
+Citations:
+Authors: J Kulkarni, T Wenisch, C Nicol, F Abouzeid, ST Microelectronics, ...
+Publication: 
+
+146. Improving plane wave imaging performance through post-processing
+Citations:
+Authors: S Wei, J Zhou, R Sampson, R Jintamethasawat, OD Kripfgans, ...
+Publication: 2016 IEEE International Ultrasonics Symposium (IUS), 1-4
+
+147. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+148. Adapting Hash Joins For Modern Processors
+Citations:
+Authors: D Fabbri, J Patel, TF Wenisch
+Publication: University of Michigan. Accessed April 23
+
+149. ICS
+Citations:
+Authors: T Aamodt, NM Amato, DC Arnold, S Bartolini, T Boku, D Brooks, A Buttari, ...
+Publication: 
+
+150. Thinking outside the box: power management at the system level & beyond
+Citations:
+Authors: TF Wenisch
+Publication: Proceedings of the 2009 ACM/IEEE international symposium on Low power …
+
+151. PowerNap: Eliminating Server Idle Power
+Citations:
+Authors: TF Wenisch
+Publication: 
+
+152. SORDS: Just-In-Time Streaming of Temporally-Correlated Shared Data
+Citations:
+Authors: T Wenisch, S Somogyi, N Hardavellas, J Kim, C Gniady, A Ailamaki, ...
+Publication: Unknown Publisher
+
+153. NDA: Preventing Speculative Execution Attacks at Their Source
+Citations:
+Authors: O Weisse, I Neal, K Loughlin, T Wenisch, B Kasikci
+Publication: 
+
+154. Message from the ISPASS 2019 General Chair
+Citations:
+Authors: T Wenisch
+Publication: 
+
+155. Strand Persistency
+Citations:
+Authors: V Gogte, W Wang, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 
+
+156. Memory Persistency: Semantics for Byte-addressable NVRAM
+Citations:
+Authors: S Pelley, PM Chen, TF Wenisch, S Computing
+Publication: 
+
+157. Hiding the Microsecond-Scale Latency of Storage-Class Memories with Duplexity
+Citations:
+Authors: AMA Sriraman, TF Wenisch
+Publication: 
+
+158. Tor Aamodt, University of British Columbia Murali Annavaram, University of Southern California Rajeev Balasubramonian, University of Utah Yungang Bao, Institute of Computing …
+Citations:
+Authors: G Blake, TE Carlson, A Chtchelkanova, J Clemons, W Elsasser, J Gandhi, ...
+Publication: 
+
+159. Welcome Message from the ISPASS 2018 Program Chair
+Citations:
+Authors: TF Wenisch
+Publication: 
+
+160. Thomas Wenisch
+Citations:
+Authors: T Wenisch
+Publication: 
+
+161. Session 1P: Instruction-Level Parallelism
+Citations:
+Authors: TIF Streaming, M Ferdman, TF Wenisch, A Ailamaki, B Falsafi, ...
+Publication: 
+
+162. CoScale: Coordinating CPU and Memory System DVFS in Server Systems
+Citations:
+Authors: QDD Meisner, A Bhattacharjee, TF Wenisch, R Bianchini
+Publication: 
+
+163. Medical Ultrasonics
+Citations:
+Authors: S Wei, M Yang, J Zhou, R Sampson, OD Kripfgans, JB Fowlkes, ...
+Publication: 
+
+164. DATA Center Modeling Analysis & Validation
+Citations:
+Authors: Y YangGong, T Wenisch
+Publication: 
+
+165. Program Co-Chairs
+Citations:
+Authors: TF Wenisch, E Ozer, J Mars, R Dreslinski, T Jones, B Jansen, M Ferdman, ...
+Publication: 
+
+166. High Performance Transaction Processing for NVRAM
+Citations:
+Authors: S Pelley, TF Wenisch
+Publication: 
+
+167. Statement of Research Interests
+Citations:
+Authors: TF Wenisch
+Publication: 
+
+168. PicoServer Revisited: On the Profitability of Eliminating Intermediate Cache Levels
+Citations:
+Authors: P Tandon, J Chang, RG Dreslinski, P Ranganathan, T Mudge, ...
+Publication: 
+

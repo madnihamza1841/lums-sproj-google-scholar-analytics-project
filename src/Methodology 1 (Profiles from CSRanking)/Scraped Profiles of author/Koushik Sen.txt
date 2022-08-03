@@ -1,0 +1,1093 @@
+https://scholar.google.com/citations?hl=en&user=Vn3L_ioAAAAJ
+Total Citations = 14784
+
+1. DART: directed automated random testing
+Citations:2604
+Authors: P Godefroid, N Klarlund, K Sen
+Publication: ACM Sigplan Notices 40 (6), 213-223
+
+2. CUTE: a concolic unit testing engine for C
+Citations:1893
+Authors: K Sen, D Marinov, G Agha
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 263-272
+
+3. A view of the parallel computing landscape
+Citations:694
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+4. Symbolic execution for software testing: three decades later.
+Citations:505
+Authors: C Cadar, K Sen
+Publication: Commun. ACM 56 (2), 82-90
+
+5. CUTE and jCUTE: Concolic unit testing and explicit path model-checking tools
+Citations:453
+Authors: K Sen, G Agha
+Publication: International Conference on Computer Aided Verification, 419-423
+
+6. Heuristics for scalable dynamic test generation
+Citations:433
+Authors: J Burnim, K Sen
+Publication: Proceedings of the 2008 23rd IEEE/ACM international conference on automated …
+
+7. Rule-based runtime verification
+Citations:421
+Authors: H Barringer, A Goldberg, K Havelund, K Sen
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+8. Hybrid concolic testing
+Citations:392
+Authors: R Majumdar, K Sen
+Publication: 29th International Conference on Software Engineering (ICSE'07), 416-426
+
+9. Race directed random testing of concurrent programs
+Citations:360
+Authors: K Sen
+Publication: ACM Sigplan Notices 43 (6), 11-21
+
+10. Symbolic execution for software testing in practice: preliminary assessment
+Citations:346
+Authors: C Cadar, P Godefroid, S Khurshid, CS Pasareanu, K Sen, N Tillmann, ...
+Publication: 2011 33rd International Conference on Software Engineering (ICSE), 1066-1071
+
+11. Guided gui testing of android apps with minimal restart and approximate learning
+Citations:295
+Authors: W Choi, G Necula, K Sen
+Publication: Acm Sigplan Notices 48 (10), 623-640
+
+12. Statistical model checking of black-box probabilistic systems
+Citations:248
+Authors: K Sen, M Viswanathan, G Agha
+Publication: International Conference on Computer Aided Verification, 202-215
+
+13. On statistical model checking of stochastic systems
+Citations:232
+Authors: K Sen, M Viswanathan, G Agha
+Publication: International Conference on Computer Aided Verification, 266-280
+
+14. Dynamic test input generation for database applications
+Citations:217
+Authors: M Emmi, R Majumdar, K Sen
+Publication: Proceedings of the 2007 international symposium on Software testing and …
+
+15. Jalangi: a selective record-replay and dynamic analysis framework for JavaScript
+Citations:194
+Authors: K Sen, S Kalasapur, T Brutch, S Gibbs
+Publication: Proceedings of the 2013 9th Joint Meeting on Foundations of Software …
+
+16. Vesta: A statistical model-checker and analyzer for probabilistic systems
+Citations:185
+Authors: K Sen, M Viswanathan, G Agha
+Publication: Second International Conference on the Quantitative Evaluation of Systems …
+
+17. A randomized dynamic program analysis technique for detecting real deadlocks
+Citations:184
+Authors: P Joshi, CS Park, K Sen, M Naik
+Publication: ACM Sigplan Notices 44 (6), 110-120
+
+18. Precimonious: Tuning assistant for floating-point precision
+Citations:176
+Authors: C Rubio-González, C Nguyen, HD Nguyen, J Demmel, W Kahan, K Sen, ...
+Publication: SC'13: Proceedings of the International Conference on High Performance …
+
+19. Effective static deadlock detection
+Citations:176
+Authors: M Naik, CS Park, K Sen, D Gay
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+20. Randomized active atomicity violation detection in concurrent programs
+Citations:172
+Authors: CS Park, K Sen
+Publication: Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations …
+
+21. PMaude: Rewrite-based specification language for probabilistic object systems
+Citations:164
+Authors: G Agha, J Meseguer, K Sen
+Publication: Electronic Notes in Theoretical Computer Science 153 (2), 213-239
+
+22. Efficient decentralized monitoring of safety in distributed systems
+Citations:163
+Authors: K Sen, A Vardhan, G Agha, G Rosu
+Publication: Proceedings of the 26th International Conference on Software Engineering …
+
+23. Concolic testing
+Citations:161
+Authors: K Sen
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+24. Sniff: A search engine for java using free-form queries
+Citations:139
+Authors: S Chatterjee, S Juvekar, K Sen
+Publication: International Conference on Fundamental Approaches to Software Engineering …
+
+25. All-optical networks
+Citations:126
+Authors: S Chatterjee, S Pawlowski
+Publication: Communications of the ACM 42 (6), 74-83
+
+26. Automated systematic testing of open distributed programs
+Citations:117
+Authors: K Sen, G Agha
+Publication: International Conference on Fundamental Approaches to Software Engineering …
+
+27. CalFuzzer: An Extensible Active Testing Framework for Concurrent Programs
+Citations:116
+Authors: P Joshi, M Naik, CS Park, K Sen
+Publication: International Conference on Computer Aided Verification, 675-681
+
+28. Combining test case generation and runtime verification
+Citations:111
+Authors: C Artho, H Barringer, A Goldberg, K Havelund, S Khurshid, M Lowry, ...
+Publication: Theoretical Computer Science 336 (2-3), 209-234
+
+29. WISE: Automated test generation for worst-case complexity
+Citations:107
+Authors: J Burnim, S Juvekar, K Sen
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+30. Runtime safety analysis of multithreaded programs
+Citations:99
+Authors: K Sen, G Rosu, G Agha
+Publication: ACM SIGSOFT Software Engineering Notes 28 (5), 337-346
+
+31. Effective random testing of concurrent programs
+Citations:98
+Authors: K Sen
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+32. Model checking multithreaded programs with asynchronous atomic methods
+Citations:98
+Authors: K Sen, M Viswanathan
+Publication: International Conference on Computer Aided Verification, 300-314
+
+33. Model-checking Markov chains in the presence of uncertainties
+Citations:98
+Authors: K Sen, M Viswanathan, G Agha
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+34. Generating optimal monitors for extended regular expressions
+Citations:88
+Authors: K Sen, G Roşu
+Publication: Electronic Notes in Theoretical Computer Science 89 (2), 226-245
+
+35. Asserting and checking determinism for multithreaded programs
+Citations:86
+Authors: J Burnim, K Sen
+Publication: Proceedings of the the 7th joint meeting of the European software …
+
+36. PREFAIL: A programmable tool for multiple-failure injection
+Citations:84
+Authors: P Joshi, HS Gunawi, K Sen
+Publication: ACM SIGPLAN Notices 46 (10), 171-188
+
+37. An effective dynamic analysis for detecting generalized deadlocks
+Citations:84
+Authors: P Joshi, M Naik, K Sen, D Gay
+Publication: Proceedings of the eighteenth ACM SIGSOFT international symposium on …
+
+38. Codehint: Dynamic and interactive synthesis of code snippets
+Citations:81
+Authors: J Galenson, P Reames, R Bodik, B Hartmann, K Sen
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+39. Model-Checking ω-Regular Properties of Interval Markov Chains
+Citations:78
+Authors: K Chatterjee, K Sen, TA Henzinger
+Publication: International Conference on Foundations of Software Science and …
+
+40. Program monitoring with LTL in EAGLE
+Citations:78
+Authors: H Barringer, A Goldberg, K Havelund, K Sen
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+41. FATE and DESTINI: A framework for cloud recovery testing
+Citations:74
+Authors: HS Gunawi, T Do, P Joshi, P Alvaro, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: Proceedings of NSDI’11: 8th USENIX Symposium on Networked Systems Design and …
+
+42. MultiSE: Multi-path symbolic execution using value summaries
+Citations:73
+Authors: K Sen, G Necula, L Gong, W Choi
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+43. Detecting errors in multithreaded programs by generalized predictive analysis of executions
+Citations:73
+Authors: K Sen, G Roşu, G Agha
+Publication: International Conference on Formal Methods for Open Object-Based Distributed …
+
+44. A race-detection and flipping algorithm for automated testing of multi-threaded programs
+Citations:72
+Authors: K Sen, G Agha
+Publication: Haifa verification conference, 166-182
+
+45. Sound and complete monitoring of sequential consistency for relaxed memory models
+Citations:66
+Authors: J Burnim, K Sen, C Stergiou
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+46. Testing concurrent programs on relaxed memory models
+Citations:65
+Authors: J Burnim, K Sen, C Stergiou
+Publication: Proceedings of the 2011 International Symposium on Software Testing and …
+
+47. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+48. A temporal logic based framework for intrusion detection
+Citations:60
+Authors: P Naldurg, K Sen, P Thati
+Publication: International Conference on Formal Techniques for Networked and Distributed …
+
+49. An executable specification of asynchronous Pi-Calculus semantics and may testing in Maude 2.0
+Citations:60
+Authors: P Thati, K Sen, N Martí-Oliet
+Publication: Electronic Notes in Theoretical Computer Science 71, 261-281
+
+50. Multi-solver support in symbolic execution
+Citations:54
+Authors: H Palikareva, C Cadar
+Publication: International Conference on Computer Aided Verification, 53-68
+
+51. A trace simplification technique for effective debugging of concurrent programs
+Citations:53
+Authors: N Jalbert, K Sen
+Publication: Proceedings of the eighteenth ACM SIGSOFT international symposium on …
+
+52. Looper: Lightweight detection of infinite loops at runtime
+Citations:53
+Authors: J Burnim, N Jalbert, C Stergiou, K Sen
+Publication: Proceedings of the 2009 IEEE/ACM International Conference on Automated …
+
+53. Online efficient predictive safety analysis of multithreaded programs
+Citations:53
+Authors: K Sen, G Roşu, G Agha
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+54. Scalable automated methods for dynamic program analysis
+Citations:48
+Authors: K Sen
+Publication: 
+
+55. A rewriting based model for probabilistic distributed object systems
+Citations:48
+Authors: N Kumar, K Sen, J Meseguer, G Agha
+Publication: International Conference on Formal Methods for Open Object-Based Distributed …
+
+56. JITProf: pinpointing JIT-unfriendly JavaScript code
+Citations:47
+Authors: L Gong, M Pradel, K Sen
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+57. Efficient data race detection for distributed memory parallel programs
+Citations:46
+Authors: CS Park, K Sen, P Hargrove, C Iancu
+Publication: Proceedings of 2011 International Conference for High Performance Computing …
+
+58. DLint: dynamically checking bad coding practices in JavaScript
+Citations:45
+Authors: L Gong, M Pradel, M Sridharan, K Sen
+Publication: Proceedings of the 2015 International Symposium on Software Testing and …
+
+59. Formal modeling and analysis of DoS using probabilistic rewrite theories
+Citations:45
+Authors: G Agha, C Gunter, M Greenwald, S Khanna, J Meseguer, K Sen, P Thati
+Publication: Workshop on Foundations of Computer Security (FCS’05) 20
+
+60. TypeDevil: Dynamic type inconsistency analysis for JavaScript
+Citations:44
+Authors: M Pradel, P Schuh, K Sen
+Publication: Proceedings of the 37th International Conference on Software Engineering …
+
+61. Learning continuous time Markov chains from sample executions
+Citations:43
+Authors: K Sen, M Viswanathan, G Agha
+Publication: First International Conference on the Quantitative Evaluation of Systems …
+
+62. EventBreak: Analyzing the responsiveness of user interfaces through performance-guided test generation
+Citations:41
+Authors: M Pradel, P Schuh, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 49 (10), 33-47
+
+63. Method and apparatus for performing unit testing of software modules with use of directed automated random testing
+Citations:40
+Authors: P Godefroid, N Klarlund, K Sen
+Publication: US Patent App. 11/120,776
+
+64. Generating optimal linear temporal logic monitors by coinduction
+Citations:40
+Authors: K Sen, G Roşu, G Agha
+Publication: Annual Asian Computing Science Conference, 260-275
+
+65. Using language inference to verify omega-regular properties
+Citations:39
+Authors: A Vardhan, K Sen, M Viswanathan, G Agha
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+66. Actively learning to verify safety for FIFO automata
+Citations:35
+Authors: A Vardhan, K Sen, M Viswanathan, G Agha
+Publication: International Conference on Foundations of Software Technology and …
+
+67. Learning to verify safety properties
+Citations:35
+Authors: A Vardhan, K Sen, M Viswanathan, G Agha
+Publication: International Conference on Formal Engineering Methods, 274-289
+
+68. Software Testing Technique Supporting Dynamic Data Structures
+Citations:32
+Authors: G Agha, D Marinov, K Sen
+Publication: US Patent App. 11/695,995
+
+69. A survey of dynamic analysis and test generation for JavaScript
+Citations:30
+Authors: E Andreasen, L Gong, A Møller, M Pradel, M Selakovic, K Sen, CA Staicu
+Publication: ACM Computing Surveys (CSUR) 50 (5), 66
+
+70. Floating-point precision tuning using blame analysis
+Citations:30
+Authors: C Rubio-González, C Nguyen, B Mehne, K Sen, J Demmel, W Kahan, ...
+Publication: Proceedings of the 38th International Conference on Software Engineering …
+
+71. Latest: Lazy dynamic test input generation
+Citations:30
+Authors: R Majumdar, K Sen
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2007-36
+
+72. Probabilistic rewrite theories: Unifying models, logics and tools
+Citations:30
+Authors: N Kumar, K Sen, J Meseguer, G Agha
+Publication: Technical report UIUCDCS
+
+73. Predictive typestate checking of multithreaded java programs
+Citations:28
+Authors: P Joshi, K Sen
+Publication: Proceedings of the 2008 23rd IEEE/ACM international conference on automated …
+
+74. Predictive testing: amplifying the effectiveness of software testing
+Citations:28
+Authors: P Joshi, K Sen, M Shlimovich
+Publication: Proceedings of the the 6th joint meeting of the European software …
+
+75. RADBench: A Concurrency Bug Benchmark Suite.
+Citations:27
+Authors: N Jalbert, C Pereira, G Pokam, K Sen
+Publication: HotPar 11, 2-2
+
+76. Eagle does space efficient ltl monitoring
+Citations:27
+Authors: H Barringer, A Goldberg, K Havelund, K Sen
+Publication: Pre-Print CSPP-25, University of Manchester, Department of Computer Science
+
+77. Online efficient predictive safety analysis of multithreaded programs
+Citations:25
+Authors: K Sen, G Roşu, G Agha
+Publication: International Journal on Software Tools for Technology Transfer 8 (3), 248-260
+
+78. Decentralized runtime analysis of multithreaded applications
+Citations:25
+Authors: K Sen, A Vardhan, G Agha, G Rosu
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+79. Specifying and checking semantic atomicity for multithreaded programs
+Citations:24
+Authors: J Burnim, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 47 (4), 79-90
+
+80. Universal symbolic execution and its application to likely data structure invariant generation
+Citations:24
+Authors: Y Kannan, K Sen
+Publication: Proceedings of the 2008 international symposium on Software testing and …
+
+81. DeepBugs: A learning approach to name-based bug detection
+Citations:23
+Authors: M Pradel, K Sen
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 147
+
+82. Fairfuzz: A targeted mutation strategy for increasing greybox fuzz testing coverage
+Citations:23
+Authors: C Lemieux, K Sen
+Publication: Proceedings of the 33rd ACM/IEEE International Conference on Automated …
+
+83. CONCURRIT: a domain specific language for reproducing concurrency bugs
+Citations:23
+Authors: T Elmas, J Burnim, G Necula, K Sen
+Publication: Acm Sigplan Notices 48 (6), 153-164
+
+84. Fairfuzz: Targeting rare branches to rapidly increase greybox fuzz testing coverage
+Citations:21
+Authors: C Lemieux, K Sen
+Publication: arXiv preprint arXiv:1709.07101
+
+85. NDSeq: Runtime checking for nondeterministic sequential specifications of parallel correctness
+Citations:21
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 46 (6), 401-414
+
+86. DETERMIN: Inferring likely deterministic specifications of multithreaded programs
+Citations:21
+Authors: J Burnim, K Sen
+Publication: Proceedings of the 32nd ACM/IEEE International Conference on Software …
+
+87. Concolic testing of multithreaded programs and its application to testing security protocols
+Citations:21
+Authors: K Sen, GA Agha
+Publication: 
+
+88. MemInsight: platform-independent memory debugging for JavaScript
+Citations:20
+Authors: SH Jensen, M Sridharan, K Sen, S Chandra
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+89. The good, the bad, and the ugly: An empirical study of implicit type conversions in JavaScript
+Citations:19
+Authors: M Pradel, K Sen
+Publication: 29th European Conference on Object-Oriented Programming (ECOOP 2015)
+
+90. Automated testing of programs using race-detection and flipping
+Citations:19
+Authors: G Agha, K Sen
+Publication: US Patent App. 11/923,060
+
+91. Repairing event race errors by controlling nondeterminism
+Citations:18
+Authors: CQ Adamsen, A Møller, R Karim, M Sridharan, F Tip, K Sen
+Publication: 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE …
+
+92. Perffuzz: Automatically generating pathological inputs
+Citations:17
+Authors: C Lemieux, R Padhye, K Sen, D Song
+Publication: Proceedings of the 27th ACM SIGSOFT International Symposium on Software …
+
+93. An instrumentation technique for online analysis of multithreaded programs
+Citations:17
+Authors: G Roşu, K Sen
+Publication: Concurrency and Computation: Practice and Experience 19 (3), 311-325
+
+94. TesMa and CATG: automated test generation tools for models of enterprise applications
+Citations:16
+Authors: H Tanno, X Zhang, T Hoshino, K Sen
+Publication: Proceedings of the 37th International Conference on Software Engineering …
+
+95. Eagle monitors by collecting facts and generating obligations
+Citations:16
+Authors: H Barrnger, A Goldberg, K Havelund, K Sen
+Publication: 
+
+96. Chopped symbolic execution
+Citations:15
+Authors: D Trabish, A Mattavelli, N Rinetzky, C Cadar
+Publication: Proceedings of the 40th International Conference on Software Engineering …
+
+97. SJS: A type system for JavaScript with fixed object layout
+Citations:15
+Authors: W Choi, S Chandra, G Necula, K Sen
+Publication: International Static Analysis Symposium, 181-198
+
+98. Concurrent breakpoints
+Citations:14
+Authors: CS Park, K Sen
+Publication: ACM SIGPLAN Notices 47 (8), 331-332
+
+99. Optimal test input sequence generation for finite state models and pushdown systems
+Citations:14
+Authors: A Chander, D Dhurjati, K Sen, D Yu
+Publication: 2011 Fourth IEEE International Conference on Software Testing, Verification …
+
+100. DART: Directed Automated Random Testing.
+Citations:14
+Authors: K Sen
+Publication: Haifa Verification Conference 6405, 4
+
+101. Feedback-directed instrumentation for deployed JavaScript applications
+Citations:13
+Authors: M Madsen, F Tip, E Andreasen, K Sen, A Møller
+Publication: 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …
+
+102. Jalangi: a tool framework for concolic testing, selective record-replay, and dynamic analysis of JavaScript
+Citations:13
+Authors: K Sen, S Kalasapur, T Brutch, S Gibbs
+Publication: Proceedings of the 2013 9th Joint Meeting on Foundations of Software …
+
+103. Scaling data race detection for partitioned global address space programs
+Citations:13
+Authors: CS Park, K Sen, C Iancu
+Publication: Proceedings of the 27th international ACM conference on International …
+
+104. {CONCURRIT}: Testing Concurrent Programs with Programmable State-Space Exploration
+Citations:13
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: Presented as part of the 4th {USENIX} Workshop on Hot Topics in Parallelism
+
+105. Context2Name: A deep learning-based approach to infer natural variable names from usage contexts
+Citations:12
+Authors: R Bavishi, M Pradel, K Sen
+Publication: arXiv preprint arXiv:1809.05193
+
+106. Efficient sampling of SAT solutions for testing
+Citations:12
+Authors: R Dutra, K Laeufer, J Bachrach, K Sen
+Publication: 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE …
+
+107. Selecting fault revealing mutants
+Citations:11
+Authors: TT Chekam, M Papadakis, T Bissyandé, YL Traon, K Sen
+Publication: arXiv preprint arXiv:1803.07901
+
+108. T ravioli: a dynamic analysis for detecting data-structure traversals
+Citations:9
+Authors: R Padhye, K Sen
+Publication: Proceedings of the 39th International Conference on Software Engineering …
+
+109. Tax incidence: Do institutions matter? an experimental study
+Citations:9
+Authors: JC Cox, M Rider, A Sen
+Publication: Experimental Economics Center Working Paper Series
+
+110. Tools and Algorithms for the Construction and Analysis of Systems
+Citations:9
+Authors: N Halbwachs, L Zuck
+Publication: Springer Berlin/Heidelberg.
+
+111. Retrieval on source code: a neural code search
+Citations:8
+Authors: S Sachdev, H Li, S Luan, S Kim, K Sen, S Chandra
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+112. Generating Succinct Test Cases Using Don't Care Analysis
+Citations:8
+Authors: C Nguyen, H Yoshida, M Prasad, I Ghosh, K Sen
+Publication: 2015 IEEE 8th International Conference on Software Testing, Verification and …
+
+113. Deep learning to find bugs
+Citations:7
+Authors: M Pradel, K Sen
+Publication: TU Darmstadt, Department of Computer Science
+
+114. Barrier elision for production parallel programs
+Citations:7
+Authors: M Chabbi, W Lavrijsen, W de Jong, K Sen, J Mellor-Crummey, C Iancu
+Publication: ACM SIGPLAN Notices 50 (8), 109-119
+
+115. Runtime Verification Second International Conference, RV 2011, San Francisco, CA, USA, September 27-30, 2011, Revised Selected Papers
+Citations:7
+Authors: S Khurshid, K Sen
+Publication: Conference proceedings RV, 173
+
+116. Combining model checking and testing
+Citations:6
+Authors: P Godefroid, K Sen
+Publication: Handbook of Model Checking, 613-649
+
+117. G uide SE: annotations for guiding concolic testing
+Citations:6
+Authors: K Sen, H Tanno, X Zhang, T Hoshino
+Publication: Proceedings of the 10th international Workshop on Automation of Software …
+
+118. NDetermin: Inferring nondeterministic sequential specifications for parallelism correctness
+Citations:6
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 47 (8), 329-330
+
+119. Prefail: A programmable failure-injection framework
+Citations:6
+Authors: P Joshi, HS Gunawi, K Sen
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2011-30
+
+120. Towards Automatically Checking Thousands of Failures with Micro-specifications.
+Citations:6
+Authors: HS Gunawi, T Do, P Joshi, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: HotDep
+
+121. Tax incidence: Do institutions matter? an experimental study
+Citations:5
+Authors: JC Cox, M Rider, A Sen
+Publication: Public Finance Review 46 (6), 899-925
+
+122. Report of the HPC Correctness Summit, Jan 25--26, 2017, Washington, DC
+Citations:5
+Authors: G Gopalakrishnan, PD Hovland, C Iancu, S Krishnamoorthy, I Laguna, ...
+Publication: arXiv preprint arXiv:1705.07478
+
+123. Automated test generation using concolic testing
+Citations:5
+Authors: K Sen
+Publication: Proceedings of the 8th India Software Engineering Conference, 9-9
+
+124. Separating functional and parallel correctness using nondeterministic sequential specifications
+Citations:5
+Authors: J Burnim, G Necula, K Sen
+Publication: Hot Topics in Parallelism (HOTPAR)
+
+125. Zest: Validity fuzzing and parametric generators for effective random testing
+Citations:4
+Authors: R Padhye, C Lemieux, K Sen, M Papadakis, YL Traon
+Publication: arXiv preprint arXiv:1812.00078
+
+126. A {DSL} Approach to Reconcile Equivalent Divergent Program Executions
+Citations:4
+Authors: L Pina, D Grumberg, A Andronidis, C Cadar
+Publication: 2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 417-429
+
+127. OPR: deterministic group replay for one-sided communication
+Citations:4
+Authors: X Qian, K Sen, P Hargrove, C Iancu
+Publication: ACM SIGPLAN Notices 51 (8), 47
+
+128. Trace typing: An approach for evaluating retrofitted type systems
+Citations:4
+Authors: E Andreasen, CS Gordon, S Chandra, M Sridharan, F Tip, K Sen
+Publication: 30th European Conference on Object-Oriented Programming (ECOOP 2016)
+
+129. SJS: a typed subset of JavaScript with fixed object layout
+Citations:4
+Authors: PW Choi, S Chandra, G Necula, K Sen
+Publication: Technical Report UCB/EECS-2015-13, EECS Department, University of California …
+
+130. Scalable data race detection for partitioned global address space programs
+Citations:4
+Authors: CS Park, K Sen, C Iancu
+Publication: ACM SIGPLAN Notices 48 (8), 305-306
+
+131. Runtime Verification: Second international Conference, RV 2011, San Francisco, USA, September 27-30, 2011, Revised Selected Papers
+Citations:4
+Authors: K Sen, S Khurshid
+Publication: Springer
+
+132. Concolic testing and constraint satisfaction
+Citations:4
+Authors: K Sen
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+133. Path slicing per object for better testing, debugging, and usage discovery
+Citations:4
+Authors: S Juvekar, J Burnim, K Sen
+Publication: Technical report no. UCB/EECS-2009-132
+
+134. On specifying and monitoring epistemic properties of distributed systems
+Citations:4
+Authors: K Sen, A Vardhan, G Agha, G Rosu
+Publication: 2nd International Workshop on Dynamic Analysis (WODA’04), Satellite workshop …
+
+135. Aroma: Code recommendation via structural code search
+Citations:3
+Authors: S Luan, D Yang, K Sen, S Chandra
+Publication: arXiv preprint arXiv:1812.01158
+
+136. DetReduce: minimizing Android GUI test suites for regression testing
+Citations:3
+Authors: W Choi, K Sen, G Necula, W Wang
+Publication: Proceedings of the 40th International Conference on Software Engineering …
+
+137. Accelerating search-based program repair
+Citations:3
+Authors: B Mehne, H Yoshida, MR Prasad, K Sen, D Gopinath, S Khurshid
+Publication: 2018 IEEE 11th International Conference on Software Testing, Verification …
+
+138. Power efficient sharing-aware GPU data management
+Citations:3
+Authors: A Tabbakh, M Annavaram, X Qian
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+139. Incidence study of yellow mite and thrips and their natural enemies in relation to weather parameters on chilli
+Citations:3
+Authors: A Samanta, K Sen, I Basu
+Publication: Journal of Entomology and Zoology Studies 5 (4), 1213-1216
+
+140. Floating-point precision tuning using blame analysis
+Citations:3
+Authors: C Nguyen, C Rubio-González, B Mehne, K Sen, J Demmel, W Kahan, ...
+Publication: Int. Conf. on Software Engineering (ICSE). ACM
+
+141. Protocol inference using static path profiles
+Citations:3
+Authors: MK Ramanathan, K Sen, A Grama, S Jagannathan
+Publication: International Static Analysis Symposium, 78-92
+
+142. Platform-independent dynamic taint analysis for javascript
+Citations:2
+Authors: R Karim, F Tip, A Sochurkova, K Sen
+Publication: IEEE Transactions on Software Engineering
+
+143. SReplay: Deterministic sub-group replay for one-sided communication
+Citations:2
+Authors: X Qian, K Sen, P Hargrove, C Iancu
+Publication: Proceedings of the 2016 International Conference on Supercomputing, 17
+
+144. Concolic testing: a decade later (keynote)
+Citations:2
+Authors: K Sen
+Publication: Proceedings of the 13th International Workshop on Dynamic Analysis, 1-1
+
+145. Symbolic execution and constraint solving (Dagstuhl seminar 14442)
+Citations:2
+Authors: C Cadar, V Ganesh, R Sasnauskas, K Sen
+Publication: Dagstuhl Reports 4 (10)
+
+146. Prefail: Programmable and efficient failure testing framework
+Citations:2
+Authors: P Joshi, HS Gunawi, K Sen
+Publication: University of California at Berkeley, Tech. Rep. UCB/EECS-2011-3
+
+147. JQF: Coverage-Guided Property-Based Testing in Java
+Citations:1
+Authors: R Padhye, C Lemieux, K Sen
+Publication: Proceedings of the 28th ACM SIGSOFT International Symposium on Software …
+
+148. Semantic Fuzzing with Zest
+Citations:1
+Authors: R Padhye, C Lemieux, K Sen, M Papadakis, Y Le Traon
+Publication: Proceedings of the 28th ACM SIGSOFT International Symposium on Software …
+
+149. SMTSampler: Efficient Stimulus Generation from Complex SMT Constraints
+Citations:1
+Authors: R Dutra, J Bachrach, K Sen
+Publication: 2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 1-8
+
+150. RFUZZ: coverage-directed fuzz testing of RTL on FPGAs
+Citations:1
+Authors: K Laeufer, J Koenig, D Kim, J Bachrach, K Sen
+Publication: 2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 1-8
+
+151. Neural Inference of API Functions from Input–Output Examples
+Citations:1
+Authors: R Bavishi, C Lemieux, N Kant, R Fox, K Sen, I Stoica
+Publication: 
+
+152. Mosquito vector management knowledge, attitude, practices and future of user & environment friendly new generation botanical mosquitocide formulations: A review
+Citations:1
+Authors: DK Hazra, A Samanta, R Karmakar, K Sen, P Bakshi
+Publication: Int J Chem Sci 5 (3), 32-37
+
+153. Field Evaluation of a New Ready Mix Formulation Ampligo 150 ZC (Chlorantraniliprole 9.3%+ Lambda Cyhalothrin 4.6% ZC) against Shoot and Fruit Borer (Leucinodes orbonalis Guen …
+Citations:1
+Authors: K Sen, A Samanta, SKF Alam, PP Dhar, A Samanta
+Publication: Journal of Pharmacognosy and Phytochemistry 6 (5), 1674-1678
+
+154. Trace Typing: An Approach for Evaluating Retrofitted Type Systems (Extended Version)
+Citations:1
+Authors: E Andreasen, CS Gordon, S Chandra, M Sridharan, F Tip, K Sen
+Publication: arXiv preprint arXiv:1605.01362
+
+155. MemInsight: Platform-Independent Memory Profiling for JavaScript
+Citations:1
+Authors: S Jensen, S Computing, M Sridharan, K Sen, S Chandra
+Publication: Technical report, Samsung Research America
+
+156. Essays on Sub-National Value Added Tax of India and Tax Incidence
+Citations:1
+Authors: A Sen
+Publication: 
+
+157. Multi-level Debugging for Multi-stage, Parallelizing Compilers
+Citations:1
+Authors: R Xia, T Elmas, SA Kamil, A Fox, K Sen
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+158. A Parametric Model for Large Scale Agent Systems
+Citations:1
+Authors: G Agha, K Sen
+Publication: EASTERN ILLINOIS UNIV CHARLESTON
+
+159. Automated Testing using Symbolic Model Checking and Temporal Monitoring
+Citations:1
+Authors: C Artho, H Barringer, A Goldberg, K Havelund, S Khurshid, M Lowry, ...
+Publication: submitted to Theoretical Computer Science
+
+160. Predictive Safety Analysis of Concurrent Programs
+Citations:1
+Authors: K Sen
+Publication: University of Illinois at Urbana-Champaign
+
+161. Probabilistic rewrite theories
+Citations:1
+Authors: N Kumar, K Sen, J Meseguer, G Agha
+Publication: Technical Report UIUCDCS
+
+162. Thin Middleware for Ubiquitous Computing
+Citations:1
+Authors: K Sen, G Agha
+Publication: Internet Process Coordination, 201
+
+163. Techniques for the automatic debugging of scientific floating-point programs
+Citations:1
+Authors: DH Bailey, J Demmel, W Kahan, G Revy, K Sen
+Publication: Proceedings of the 14 th GAMM-IMACS International Symposium on Scientific …
+
+164. Validity fuzzing and parametric generators for effective random testing
+Citations:
+Authors: R Padhye, C Lemieux, K Sen, M Papadakis, YL Traon
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+165. When Deep Learning Met Code Search
+Citations:
+Authors: J Cambronero, H Li, S Kim, K Sen, S Chandra
+Publication: arXiv preprint arXiv:1905.03813
+
+166. Field screening of different genotypes of bitter gourd for infestation with the melon fruit fly, Bactrocera cucurbitae (Coquillett) in two agro-climatic zones of West …
+Citations:
+Authors: K Sen, PP Dhar, A Samanta
+Publication: International Journal of Tropical Insect Science, 1-10
+
+167. Algorithm-Centric Error Mitigation
+Citations:
+Authors: E Younis, W Lavrijsen, K Sen, A Buluc, M Urbanek, W De Jong, C Iancu
+Publication: APS Meeting Abstracts
+
+168. Center for Public Policy
+Citations:
+Authors: J Lei, J Ligthart, M Rider
+Publication: 
+
+169. Maximizing Communication Overlap with Dynamic Program Analysis
+Citations:
+Authors: E Saillard, K Sen, W Lavrijsen, C Iancu
+Publication: Proceedings of the International Conference on High Performance Computing in …
+
+170. Program Correctness, Verification and Testing for Exascale (Corvette)
+Citations:
+Authors: K Sen, C Iancu, JW Demmel
+Publication: Univ. of California, Berkeley, CA (United States); Lawrence Berkeley …
+
+171. Evaluation of bioefficacy and phytotoxicity of fipronil 5% SC and acetamiprid 20% SP on rice insect pest complex
+Citations:
+Authors: B Paul, S Samanta, K Sen, A Manger, A Samanta
+Publication: 
+
+172. Bio-pesticidal management of brinjal shoot and fruit borer, Leucinodes orbonalis (Guen.)
+Citations:
+Authors: SK Karmakar, S Samanta, K Sen, A Manger, GK Padhi, U Das, A Samanta
+Publication: 
+
+173. Report of the HPC Correctness Summit, January 25-26, 2017, Washington, DC
+Citations:
+Authors: G Gopalakrishnan, PD Hovland, C Iancu, S Krishnamoorthy, I Laguna, ...
+Publication: USDOE Office of Science (SC)(United States). Advanced Scientific Computing …
+
+174. ENTOMOPATHOGENIC FUNGI: A POTENTIAL BIOCONTROL AGENT IN INSECT PEST MANAGEMENT
+Citations:
+Authors: A Samanta, K Sen
+Publication: Innovative Farming 2 (2), 117-121
+
+175. The Revenue Efficiency of India’s Sub-National VAT
+Citations:
+Authors: A Sen, S Wallace
+Publication: International Center for Public Policy Working Paper Series, at AYSPS, GSU
+
+176. Screening of some chilli germplasm against yellow mite and thrips in the gangetic plains of West Bengal
+Citations:
+Authors: A Samanta, K Sen, P Bakshi, AK Sahoo
+Publication: 
+
+177. Field screening of some open pollinated genotypes of chilli against thrips and yellow mite infestation under new alluvial zone of West Bengal
+Citations:
+Authors: A Samanta, K Sen, AK Sahoo
+Publication: 
+
+178. Bioefficacy of a Diamide Insecticide, Flubendiamide 480 SC against Shoot and Fruit Borer (Leucinodes orbonalis Guen.) in Brinjal
+Citations:
+Authors: K Sen, A Samanta, SKF Alam, PP Dhar, A Samanta
+Publication: IJCS 5 (5), 1796-1799
+
+179. Evaluation of insecticides and acaricides against yellow mite and thrips infesting chilli (Capsicum annum L.).
+Citations:
+Authors: A Samanta, K Sen, I Basu
+Publication: Journal of Crop and Weed 13 (2), 180-186
+
+180. Bioefficacy of Ready Mixture Formulation, Spirotetramat 120+ Imidacloprid 120-240 SC against Sucking Pest Complex of Brinjal
+Citations:
+Authors: K Sen, A Samanta, SKF Alam, PP Dhar, A Samanta
+Publication: 
+
+181. Bioefficacy of Fipronil 5% SC against early shoot borer (Chilo infuscatellus Snellen) and root borer (Emmalocera depressella Swinhoe) in sugarcane
+Citations:
+Authors: A Samanta, K Sen, MK Kundu, A Samanta
+Publication: Journal of Pharmacognosy and Phytochemistry 6 (5), 2238-2241
+
+182. Bioefficacy and economics of some insecticides against mustard aphid, Lipaphis erysimi (Kalt.) infesting mustard.
+Citations:
+Authors: K Sen, A Samanta, A Hansda, PP Dhar
+Publication: Journal of Crop and Weed 13 (2), 235-237
+
+183. Technical Perspective: Veritesting tackles path-explosion problem
+Citations:
+Authors: K Sen
+Publication: Communications of the ACM 59 (6), 92-92
+
+184. Testosterone levels in cardiovascular patients in elderly men population of West Bengal a survey work and parallel study in Mice
+Citations:
+Authors: K Sen
+Publication: Kalyani
+
+185. Challenges (CSESSP) Workshop October 15-16, 2015
+Citations:
+Authors: E Gianchandani, NSFA Deputy, R Challenge, MA Heroux, K Sen, ...
+Publication: 
+
+186. Dagstuhl Reports, Vol. 4, Issue 10 ISSN 2192-5283
+Citations:
+Authors: L De Raedt, S Nijssen, B O’Sullivan, M Sebag, BHC Cheng, ...
+Publication: 
+
+187. 3.17 MultiSE: Multi-Path Symbolic Execution using Value Summaries Koushik Sen (University of California, Berkeley) License Creative Commons BY 3.0 Unported license© Koushik Sen …
+Citations:
+Authors: K Sen, G Necula, L Gong, W Choi
+Publication: University of California, Berkeley
+
+188. Research and Teaching Interests
+Citations:
+Authors: A Sen
+Publication: Georgia State University
+
+189. TAX INCIDENCE: DO INSTITUTIONS MATTER?
+Citations:
+Authors: JC Cox, M Rider, A Sen, AEE Center
+Publication: An experimental study
+
+190. Symbolic Execution
+Citations:
+Authors: C Cadar, K Sen
+Publication: International Conference on Runtime Verification, 2-2
+
+191. Jacob Samuels Burnim
+Citations:
+Authors: K Sen
+Publication: University of California, Berkeley
+
+192. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+193. Protocol Inference Using Static Path Proﬁles
+Citations:
+Authors: M KrishnaRamanathan, K Sen, A Grama, S Jagannathan
+Publication: Static Analysis: 15th International Symposium, SAS 2008, Valencia, Spain …
+
+194. Concolic Testing of Sequential and Concurrent Programs
+Citations:
+Authors: K Sen, D Marinov, G Agha
+Publication: 
+
+195. Howard Barringer Allen Goldberg Klaus Havelund
+Citations:
+Authors: K Sen
+Publication: 
+
+196. Properties of OptL,# L and UL and their relation with NL class
+Citations:
+Authors: K Sen
+Publication: Indian Institute of Technology Kanpur
+
+197. The Regular Expression Generator
+Citations:
+Authors: H Belhaouari, F Peschanski, N Bjoerner, N Tillmann, A Voronkov, M Emmi, ...
+Publication: ICLP 2008, LNCS 5366, 754-758
+
+198. EAGLE can do Efficient LTL Monitoring
+Citations:
+Authors: H Barringer, A Goldberg, K Havelund, K Sen
+Publication: 
+
+199. A survey on analysis of selected cryptographic primitives and security protocols in symbolic model and computational model.
+Citations:
+Authors: W Huang, B Meng, M Abadi, L Lamport, M Abadi, B Blanchet, C Fournet, ...
+Publication: Information Technology Journal 10 (8), 73-132
+
+200. Program Board of ICSE 2019
+Citations:
+Authors: S Apel, E Bodden, IEM Fraunhofer, Y Brun, M Burnett, JC ICREA-UOC, ...
+Publication: 
+
+201. Workshop overview
+Citations:
+Authors: I Laguna, C Rubio-González, E Darulova, G Gopalakrishnan, P Hovland, ...
+Publication: 
+
+202. Invited Talks
+Citations:
+Authors: KR Jacobs
+Publication: 
+
+203. SJS
+Citations:
+Authors: W Choi, S Chandra, G Necula, K Sen
+Publication: 
+
+204. Dynamic and Interactive Program Synthesis
+Citations:
+Authors: J Galenson, P Reames, R Bodik, K Sen
+Publication: 
+
+205. Bor-Yuh Evan Chang Curriculum Vitæ
+Citations:
+Authors: GC Necula, K Sen, J Silver, R Bodik, E Brewer
+Publication: Computer Science 1 (510), 847-1745
+
+206. Jalangi: A Selective Record-‐Replay, Dynamic Analysis, and Concolic Testing Framework for JavaScript
+Citations:
+Authors: K Sen
+Publication: 
+
+207. OPR: Partial Deterministic Record and Replay for One-Sided Communication
+Citations:
+Authors: X Qian, K Sen, P Hargrove, C Iancu
+Publication: 
+
+208. Program Monitoring with LTL in EAGLE
+Citations:
+Authors: A Goldberg, K Havelund, K Sen
+Publication: 
+
+209. Par Lab Progress on Correctness Tools for Parallel Programs
+Citations:
+Authors: J Burnim, T Elmas, CS Park, K Sen
+Publication: 
+
+210. The Chaperone Project The Versatility of Tests: Concrete Specifications in Program Checking and Synthesis
+Citations:
+Authors: R Bodik, G Necula, K Sen, S Seshia, E Torlak
+Publication: 
+
+211. A Hint in the Right Direction: Interactive Synthesis with Partial Dynamic Specifications
+Citations:
+Authors: J Galenson, P Reames, R Bodik, K Sen
+Publication: 
+
+212. Statement of Research Interests
+Citations:
+Authors: A Sen
+Publication: 
+
+213. Improving Testing of Concurrent Programs Using Machine Learning
+Citations:
+Authors: K Sen, A Vardhan, M Viswanathan, G Agha
+Publication: 
+
+214. Cyrille Artho, Howard Barringer b
+Citations:
+Authors: K Havelund, S Khurshid, M Lowry, C Pasareanu, G Rosu, K Sen, W Visser, ...
+Publication: 
+
+215. QEST 2007
+Citations:
+Authors: A Aldini, C Anglano, V Apte, M Arns, F Bause, M Beccuti, S Bernardi, ...
+Publication: 
+
+216. Hybrid Concolic Testing Ѓ
+Citations:
+Authors: R Majumdar, K Sen
+Publication: 
+
+217. ASE Program Committee
+Citations:
+Authors: A Armando, G Avrunin, T Bultan, I Crnkovic, K Czarnecki, E Denney, ...
+Publication: 
+
+218. Automated Testing of Multithreaded Programs Using Race-Detection and Flipping
+Citations:
+Authors: K Sen, G Agha
+Publication: 
+

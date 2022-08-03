@@ -1,0 +1,275 @@
+
+1. Principles of database systems
+Citations:8480
+Authors: JD Ullman
+Publication: Galgotia publications
+
+3. Database systems: the complete book
+Citations:2089
+Authors: H Garcia-Molina
+Publication: Pearson Education India
+
+7. The TSIMMIS project: Integration of heterogenous information sources
+Citations:1578
+Authors: S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, ...
+Publication: 
+
+12. The TSIMMIS approach to mediation: Data models and languages
+Citations:1156
+Authors: H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...
+Publication: Journal of intelligent information systems 8 (2), 117-132
+
+13. Stream: The stanford stream data manager
+Citations:1141
+Authors: A Arasu, B Babcock, S Babu, M Datar, K Ito, R Motwani, I Nishizawa, ...
+Publication: IEEE Data Eng. Bull. 26 (1), 19-26
+
+14. Data-Centric Systems and Applications
+Citations:1115
+Authors: MJ Carey, S Ceri, P Bernstein, U Dayal, C Faloutsos, JC Freytag, ...
+Publication: Italy: Springer
+
+20. A first course in database systems
+Citations:780
+Authors: JD Ullman
+Publication: Pearson Education India
+
+35. Trio: A system for data, uncertainty, and lineage
+Citations:464
+Authors: P Agrawal, O Benjelloun, AD Sarma, C Hayworth, S Nabar, T Sugihara, ...
+Publication: Proc. of VLDB 2006 (demonstration description)
+
+42. Integrating and accessing heterogeneous information sources in TSIMMIS
+Citations:313
+Authors: H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: Proceedings of the AAAI Symposium on Information Gathering 3, 61-64
+
+47. Active database management systems
+Citations:280
+Authors: U Dayal
+Publication: Proceedings of the Third International Conference on Data and Knowledge …
+
+57. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+60. Crowdscreen: Algorithms for filtering data with humans
+Citations:222
+Authors: AG Parameswaran, H Garcia-Molina, H Park, N Polyzotis, A Ramesh, ...
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+66. The Lowell database research self-assessment
+Citations:208
+Authors: S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, ...
+Publication: Communications of the ACM 48 (5), 111-118
+
+73. Stream: The stanford data stream management system
+Citations:173
+Authors: A Arasu, B Babcock, S Babu, J Cieslewicz, M Datar, K Ito, R Motwani, ...
+Publication: Data Stream Management, 317-336
+
+86. STREAM: The stanford stream data manager
+Citations:128
+Authors: STREAM Group
+Publication: IEEE Data Engineering Bulletin, 26 (1)
+
+87. Information translation, mediation, and mosaic-based browsing in the TSIMMIS system
+Citations:128
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: 
+
+92. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+113. XML query languages: Experiences and exemplars
+Citations:83
+Authors: M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, ...
+Publication: 
+
+121. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+125. Vision paper: enabling privacy for the paranoids
+Citations:68
+Authors: G Aggarwal, M Bawa, P Ganesan, H Garcia-Molina, K Kenthapadi, ...
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+135. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+145. 数据库系统实现
+Citations:48
+Authors: H Garcia-Molina
+Publication: 机械工业出版社
+
+149. Generic entity resolution in the serf project
+Citations:47
+Authors: O Benjelloun, H Garcia-Molina, H Kawai, TE Larson, D Menestrina, Q Su, ...
+Publication: IEEE Data Engineering Bulletin, June 2006 Issue
+
+151. Optimal crowd-powered rating and filtering algorithms
+Citations:43
+Authors: A Parameswaran, S Boyd, H Garcia-Molina, A Gupta, N Polyzotis, ...
+Publication: Proceedings of the VLDB Endowment 7 (9), 685-696
+
+155. Stream: The Stanford stream data manager
+Citations:38
+Authors: DP Arvind, A Arasu, B Babcock, S Babu, M Datar, K Ito, I Nishizawa, ...
+Publication: IEEE Data Engineering Bulletin
+
+161. Integrity constraint checking in federated databases
+Citations:33
+Authors: P Grefen, J Widorn
+Publication: Proceedings First IFCIS International Conference on Cooperative Information …
+
+163. Approximate replication
+Citations:32
+Authors: CAR Olston
+Publication: Stanford University
+
+193. 数据库系统基础教程
+Citations:18
+Authors: 史嘉权
+Publication: 北京: 清华大学出版社
+
+209. Database publication practices
+Citations:11
+Authors: PA Bernstein, D DeWitt, A Heuer, Z Ives, CS Jensen, H Meyer, MT Özsu, ...
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+237. COMM: sesigning a well-founded multimedia ontology for the web. The semantic web
+Citations:3
+Authors: R Arndt, R Troncy, S Staab, L Hardman, M Vacura
+Publication: Springer, Berlin
+
+238. XML: Some hyperlinks minus the hype
+Citations:3
+Authors: P Wadler, P Wadler, P Wadler, BC Pierce, J McHugh, S Abiteboul, ...
+Publication: 
+
+245. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+247. A First Course in Database Systemm (3rd).[M]
+Citations:2
+Authors: JD Ullman, J Widow
+Publication: Beijing: China Machine Press
+
+253. Proceedings of the ACM SIGMOD Conference on Management of Data
+Citations:2
+Authors: T Zhang, R Ramakrishnon, M Livny
+Publication: BIRCH: An efficient data clustering method for very large databases, 103-114
+
+258. Moshe Vardi speaks out on the proof, the whole proof, and nothing but the proof
+Citations:1
+Authors: M Winslett
+Publication: ACM SIGMOD Record 35 (1), 56-64
+
+265. Starburst II: the extender strikes back!
+Citations:1
+Authors: GM Lohman, G Lapis, T Lehman, R Agrawal, R Cochrane, J McPherson, ...
+Publication: ACM SIGMOD Record 20 (2), 447
+
+267. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+283. MapReduce: Simplified data processing on large clusters.
+Citations:
+Authors: S Xiaoyan, C Junliang, M Xiangwu, Z Yujie, Y Asano, H Imai, M Toyoda, ...
+Publication: Information Technology Journal 8 (4), 2163-2170
+
+293. Introducing New Advisory Board and Editorial Board Members
+Citations:
+Authors: FB Bastani
+Publication: IEEE Transactions on Knowledge & Data Engineering, 865-867
+
+297. XML Query and transformation language.
+Citations:
+Authors: A Bosworth, A Layman, A Ardeleanu, D Schach
+Publication: QL
+
+298. Reminescences on Influential Papers-R Snodgrass, ed
+Citations:
+Authors: L Haas, A Mendelzohn, M Ozsoyoglu, J Paredaens, K Ramamntham, ...
+Publication: SIGMOD RECORD 27, 81-85
+
+303. Evolving materialized views in data warehouse.
+Citations:
+Authors: CA Dhote, MS Ali, E Baralis, S Paraboschi, E Tenientle, JA Blaiseley, ...
+Publication: Journal of Applied Sciences 9 (3), pp: 488-499
+
+313. Peer DB: A P2P-based system for distributed data sharing.
+Citations:
+Authors: NS Ougouti, H Belbachir, Y Amghar, NA Benharkat, S Chawathe, ...
+Publication: Journal of Applied Sciences 10 (22), pp: 7-18
+
+314. Improved methods for finding association rules.
+Citations:
+Authors: RS Thakur, R Agrawal, R Srikant, R Agrawal, R Srikant, RJ Bayardo, ...
+Publication: Trends in Applied Sciences Research 1 (4), pp: 478-499
+
+325. Helal, A.
+Citations:
+Authors: K Aberer, G Alonso, B Arpinar, G Aslan, P Attie, T Berkel, E Bertino, ...
+Publication: 
+
+327. The underlying concepts may di er in subtle ways. A payroll database may not regard a retiree as an\employee," while the benefits department does. Conversely, the payroll …
+Citations:
+Authors: H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...
+Publication: 
+
+328. Data Engineering
+Citations:
+Authors: A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...
+Publication: 
+
+329. Data Engineering
+Citations:
+Authors: R Ramakrishnan, D Srivastava, G Alonso, A El Abbadi, SS Chawathe, ...
+Publication: 
+
+336. Data Engineering
+Citations:
+Authors: JM Hellerstein, V Paxson, L Peterson, T Roscoe, S Shenker, D Wetherall, ...
+Publication: Ann Arbor 1001, 48109
+
+339. The Capability Maturity Model [4] is an orderly way for organizations to determine the capabilities of their current processes for developing software and to establish …
+Citations:
+Authors: S Chaudhuri, D Kossmann, J Chomicki, H Mannila, L Gravano, ...
+Publication: 
+
+341. Programme Committee Members
+Citations:
+Authors: M Adiba, D Agrawal, P Apers, R Baeza-Yates, DB UK, JA Blakeley, ...
+Publication: 
+
+343. Bulletin of the Technical Committee on
+Citations:
+Authors: A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...
+Publication: 
+
+344. VLDB Endowment Board of Trustees
+Citations:
+Authors: J Mylopoulos, KG Jeffery, S Su, R Agrawal, ML Brodie, MJ Carey, ...
+Publication: 
+
+346. TSIMMIS System
+Citations:
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J rey Ullman, ...
+Publication: 
+
+349. Information Translation, Mediation, and Mosaic-Based Browsing in the
+Citations:
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: 

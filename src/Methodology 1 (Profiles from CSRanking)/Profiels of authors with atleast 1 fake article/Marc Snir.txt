@@ -1,0 +1,330 @@
+
+1. MPI: the complete reference (Vol. 2)
+Citations:4232
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: The MIT Press
+
+4. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+9. A Model for Hierarchical Memory
+Citations:323
+Authors: A Aggarwal, B Alpern, AK Chandra, M Snir:
+Publication: Proceedings of the nnual ACM Symposium on Theory of Computing 19, 305-314
+
+10. Blue Gene: A vision for protein science using a petaflop supercomputer
+Citations:321
+Authors: F Allen, G Almasi, W Andreoni, D Beece, BJ Berne, A Bright, J Brunheroto, ...
+Publication: IBM systems journal 40 (2), 310-327
+
+17. Getting up to speed: The future of supercomputing
+Citations:262
+Authors: National Research Council
+Publication: National Academies Press
+
+19. MPI: a standard message passing interface
+Citations:242
+Authors: DW Walker, JJ Dongarra
+Publication: Supercomputer 12, 56-68
+
+24. MPI-2: Extending the message-passing interface
+Citations:204
+Authors: A Geist, W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, W Saphir, ...
+Publication: European Conference on Parallel Processing, 128-135
+
+26. Proving program termination
+Citations:201
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+28. A message passing interface standard
+Citations:196
+Authors: MPI Mpi
+Publication: International Journal of Supercomputer Applications 8 (3/4), 165-414
+
+38. Parallel file systems for the IBM SP computers
+Citations:145
+Authors: PF Corbett, DG Feitelson, JP Prost, GS Almasi, SJ Baylor, AS Bolmarcich, ...
+Publication: IBM Systems Journal 34 (2), 222-248
+
+65. The IBM external user interface for scalable parallel systems
+Citations:61
+Authors: V Bala, J Bruck, R Bryant, R Cypher, P De Jong, P Elustondon, D Frye, ...
+Publication: Parallel Computing 20 (4), 445-462
+
+69. Demonstrating the scalability of a molecular dynamics application on a petaflops computer
+Citations:56
+Authors: GS Almasi, C Caşcaval, JG Castaños, M Denneau, W Donath, ...
+Publication: International Journal of Parallel Programming 30 (4), 317-351
+
+79. High performance FORTRAN language specification
+Citations:45
+Authors: HPF Forum
+Publication: Scientific Programming 2 (1), 1-170
+
+88. MPI--the Complete Reference: The MPI-2 extentions
+Citations:38
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, BN Ewing Lusk, W Saphir, ...
+Publication: MIT press
+
+95. Argobots: A lightweight low-level threading and tasking framework
+Citations:31
+Authors: S Seo, A Amer, P Balaji, C Bordage, G Bosilca, A Brooks, P Carns, ...
+Publication: IEEE Transactions on Parallel and Distributed Systems 29 (3), 512-526
+
+104. An experimental study to determine task size for rollback recovery systems
+Citations:25
+Authors: SJ Upadhyaya, KK Saluja
+Publication: IEEE Transactions on Computers 37 (7), 872-877
+
+105. The ultraswitch--A VLSI network node for parallel processing
+Citations:24
+Authors: Courant Institute of Mathematical Sciences. Computer Science Department
+Publication: 
+
+111. Distributed monitoring and management of exascale systems in the argo project
+Citations:20
+Authors: S Perarnau, R Thakur, K Iskra, K Raffenetti, F Cappello, R Gupta, ...
+Publication: IFIP International Conference on Distributed Applications and Interoperable …
+
+115. An effect system and language for deterministic-by-default parallel programming
+Citations:18
+Authors: RL Bocchino Jr
+Publication: University of Illinois at Urbana-Champaign
+
+120. Improved MPI all-to-all communication on a Giganet SMP cluster
+Citations:17
+Authors: J Träff
+Publication: Recent Advances in Parallel Virtual Machine and Message Passing Interface …
+
+123. MPI: the complete Reference
+Citations:16
+Authors: S Marc, G William
+Publication: http:'/www. netiib. org/utk/papers/mpi-book/mpi-book. html
+
+125. Reducing waste in extreme scale systems through introspective analysis
+Citations:14
+Authors: L Bautista-Gomez, A Gainaru, S Perarnau, D Tiwari, S Gupta, ...
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+143. What are the Top Ten most Influential Parallel and Distributed Processing concepts of the past millenium?
+Citations:11
+Authors: MD Theys, S Ali, HJ Siegel, M Chandy, K Hwang, K Kennedy, L Sha, ...
+Publication: Journal of Parallel and Distributed Computing 61 (12), 1827-1841
+
+145. Languages, compilers, and runtime systems support for parallel input-output
+Citations:11
+Authors: A Choudhary, I Foster, G Fox, K Kennedy, C Kesselman, C Koelbel, ...
+Publication: Scalable I/O Initiative Working Paper Number 3
+
+146. Some results on multistage interconnection networks for multiprocessors
+Citations:11
+Authors: Courant Institute of Mathematical Sciences. Computer Science Department
+Publication: 
+
+152. A lightweight communication runtime for distributed graph analytics
+Citations:9
+Authors: HV Dang, R Dathathri, G Gill, A Brooks, N Dryden, A Lenharth, L Hoang, ...
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+156. University of Illinois at Urbana-Champaign
+Citations:9
+Authors: T Saif
+Publication: Private Communication
+
+158. Software abstractions and methodologies for HPC simulation codes on future architectures
+Citations:8
+Authors: A Dubey, S Brandt, R Brower, M Giles, P Hovland, DQ Lamb, F Loffler, ...
+Publication: arXiv preprint arXiv:1309.1780
+
+159. Detecting and recovering from in-core hardware faults through software anomaly treatment
+Citations:8
+Authors: P Ramachandran
+Publication: University of Illinois at Urbana-Champaign
+
+162. What should we expect from parallel language standards?
+Citations:8
+Authors: CM Pancake
+Publication: The International Journal of Supercomputing Applications 6 (1), 112-117
+
+181. MPI-IO, a message-passing interface for concurrent I
+Citations:6
+Authors: Thomas J. Watson IBM Research Center. Research Division, JP Prost, ...
+Publication: 
+
+198. MPI-IO: A Parallel File I
+Citations:4
+Authors: Thomas J. Watson IBM Research Center. Research Division, P Corbett, ...
+Publication: 
+
+203. Computing What Fits
+Citations:3
+Authors: E Shein
+Publication: Communications of the ACM 57 (11), 16-19
+
+205. US Department of Energy fault management workshop
+Citations:3
+Authors: A Geist, S Borkar, E Roman, B Still, RC SNL, J Wu, C Engelmann, ...
+Publication: Workshop report submitted to the US Department of Energy
+
+206. Accelerating sparse matrix vector multiplication on many-core GPUs
+Citations:3
+Authors: W Xu, Z Liu, D Fan, S Jiao, X Ye, F Song, C Yan
+Publication: World Academy of Science, Engineering and Technology 6 (1), 71-78
+
+209. MPI: The complete reference, volume 2, Scientific and Engineering Computation
+Citations:3
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: Cambridge, MA: MIT Press
+
+216. Recent advances in the Message Passing Interface
+Citations:2
+Authors: JG Blas, J Carretero
+Publication: The International Journal of High Performance Computing Applications 28 (4 …
+
+233. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+246. Toward Training a Large 3D Cosmological CNN with Hybrid Parallelization
+Citations:
+Authors: Y Oyama, N Maruyama, N Dryden, P Harrington, J Balewski, S Matsuoka, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+261. Josep Torrellas (I2PC Director) Sarita V. Adve Vikram S. Adve Danny Dig
+Citations:
+Authors: MN Do, MJ Garzaran, JC Hart, TS Huang, WH Wen-mei, ST King, ...
+Publication: 
+
+264. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+266. Effective architectural support for detecting concurrency bugs
+Citations:
+Authors: A Muzahid
+Publication: University of Illinois at Urbana-Champaign
+
+268. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: MD Catonsville, B Adolf, S Borkar, N DeBardeleben, M Heroux, D Rogers, ...
+Publication: 
+
+269. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: JD DOD, B Harrod, T Hoang, L Nowell, B Adolf, S Borkar, ...
+Publication: 
+
+270. Hardware atomicity for compiler-directed control speculation
+Citations:
+Authors: N Neelakantam
+Publication: University of Illinois at Urbana-Champaign
+
+271. Exascale and Beyond: Configuring, Reasoning, Scaling. Report of the 2011 Workshop on Architectures II: Exascale and Beyond, held August 8-10, Albuquerque, NM
+Citations:
+Authors: S Booth, D Campbell, A Chien, R Lethin, L Mullin, A Rodrigues, R Sass, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+272. Proceedings of the 16th international workshop on high-level parallel programming models and supportive environments
+Citations:
+Authors: T Hoefler, R Eigenmann, M Gerndt, F Müller, C Rasmussen, M Schulz, ...
+Publication: IEEE International Symposium on Parallel and Distributed Processing …
+
+273. Top publications last week by reads
+Citations:
+Authors: H Ney, R Schluter, S Ortmanns, S Kanthak, F Wessel
+Publication: Document Analysis and Recognition 14 (3), 273-288
+
+274. Refactoring transformations for maintainable, scalable and efficient parallelism
+Citations:
+Authors: FB Kjolstad
+Publication: 
+
+277. Practical Time Travel of Multiprocessor Systems
+Citations:
+Authors: P Montesinos Ortego
+Publication: University of Illinois at Urbana-Champaign
+
+280. Workshop organizers
+Citations:
+Authors: DA Bader, S Aluru, NM Amato, F Dehne, K Dill, R Dunbrack, G Gao, ...
+Publication: Omni
+
+285. Number One (G321-0134)
+Citations:
+Authors: EC Plachy, PA Hausler, DW McDavid, R Youngs, D Redmond-Pyle, ...
+Publication: IBM Systems Journal 38 (4), 698
+
+296. ROYCHOWDHLJRY, VWANI P., 516
+Citations:
+Authors: B SCHIEBER, HS SCHWEITZER, D SEESE, H SCHACHNAI, SS SKIENA, ...
+Publication: Journal of Algorithms 12, 706-707
+
+307. Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics
+Citations:
+Authors: R Dathathri, G Gill, L Hoang, V Jatala, K Pingali, VK Nandivada, HV Dang, ...
+Publication: 
+
+313. External Review Committee
+Citations:
+Authors: JN Amaral, D Barthou, M Bond, W Ahn, J Cavazos, A Darte, B Demsky, ...
+Publication: 
+
+314. Ayal Zaks (Intel/Technion) Bilha Mendelson (Optitura) Costin Iancu (Lawrence Berkeley National Laboratory) Erik Altman (IBM)
+Citations:
+Authors: G Silberman, G Gao, JL Gaudiot, K Yelick, K Ebcioglu, L Rauchweger, ...
+Publication: 
+
+317. 4th International Workshop on High Performance Computational Biology HiCOMB 2005
+Citations:
+Authors: S Aluru, DA Bader, NM Amato, F Dehne, K Dill, R Dunbrack, G Gao, ...
+Publication: 
+
+320. Reducing Waste in Large Scale Systems through Introspective Analysis
+Citations:
+Authors: L Bautista-Gomez, A Gainaru, S Perarnau, D Tiwari, S Gupta, ...
+Publication: 
+
+324. 7 HiCOMB Workshop on High Performance Computational Biology
+Citations:
+Authors: S Aluru, NM Amato, F Dehne, A Gursoy, S Istrail, CJ JaJa, J Moreira, ...
+Publication: 
+
+327. DIMACS Workshop on Parallelism: A 2020 Vision
+Citations:
+Authors: R Wright, DD Director, M Goodrich, S Muthukrishnan, S Suri, J Gustafson, ...
+Publication: 
+
+330. ROADMAP
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, JC Andre, JY Berthou, T Boku, ...
+Publication: 
+
+331. Jack Dongarra Pete Beckman Terry Moore Jean-Claude Andre
+Citations:
+Authors: JY Berthou, T Boku, F Cappello, B Chapman, X Chi, M Hereld, M Heroux, ...
+Publication: 
+
+337. Technical Session 1: GPU and Many-core Simulations
+Citations:
+Authors: RY de Camargo, PA Jambhlekar, M Mishra, S Subramaniam, S Tabik, ...
+Publication: 
+
+343. FTXS committees
+Citations:
+Authors: FD Katz, A Fox, Z Kalbarczyk, S Monnet, T Nanya, N Neves, S Scott, ...
+Publication: 
+
+347. A Language for Deterministic-by-Default Parallel Programming⋆
+Citations:
+Authors: RL Bocchino Jr, S Heumann, N Honarmand, R Komuravelli, J Overbey, ...
+Publication: 
+
+349. International Exascale Roadmap 1.0
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: 

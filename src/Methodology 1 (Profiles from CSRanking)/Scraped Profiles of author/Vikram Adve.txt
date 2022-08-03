@@ -1,0 +1,943 @@
+https://scholar.google.com/citations?hl=en&user=VbruE20AAAAJ
+Total Citations = 10621
+
+1. LLVM: A compilation framework for lifelong program analysis & transformation
+Citations:4179
+Authors: C Lattner, V Adve
+Publication: Proceedings of the international symposium on Code generation and …
+
+2. A type and effect system for deterministic parallel Java
+Citations:403
+Authors: RL Bocchino Jr, VS Adve, D Dig, SV Adve, S Heumann, R Komuravelli, ...
+Publication: ACM Sigplan Notices 44 (10), 97-116
+
+3. Understanding the propagation of hard errors to software and implications for resilient system design
+Citations:275
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: ACM SIGARCH Computer Architecture News 36 (1), 265-276
+
+4. Making context-sensitive points-to analysis with heap cloning practical for the real world
+Citations:244
+Authors: C Lattner, A Lenharth, V Adve
+Publication: ACM SIGPLAN Notices 42 (6), 278-289
+
+5. Backwards-compatible array bounds checking for C with very low overhead
+Citations:216
+Authors: D Dhurjati, V Adve
+Publication: Proceedings of the 28th international conference on Software engineering …
+
+6. Performance analysis of mesh interconnection networks with deterministic routing
+Citations:215
+Authors: VS Adve, MK Vernon
+Publication: IEEE Transactions on Parallel and Distributed Systems 5 (3), 225-246
+
+7. Automatic pool allocation: improving performance by controlling data structure layout in the heap
+Citations:201
+Authors: C Lattner, V Adve
+Publication: ACM Sigplan Notices 40 (6), 129-142
+
+8. Parallel programming must be deterministic by default
+Citations:189
+Authors: RL Bocchino Jr, VS Adve, SV Adve, M Snir
+Publication: Proceedings of the First USENIX conference on Hot topics in parallelism, 4-4
+
+9. Software transactional memory for large scale clusters
+Citations:188
+Authors: RL Bocchino, VS Adve, BL Chamberlain
+Publication: Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of …
+
+10. An integrated compilation and performance analysis environment for data parallel programs
+Citations:171
+Authors: VS Adve, J Mellor-Crummey, M Anderson, K Kennedy, JC Wang, ...
+Publication: Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …
+
+11. DeNovo: Rethinking the memory hierarchy for disciplined parallelism
+Citations:170
+Authors: B Choi, R Komuravelli, H Sung, R Smolinski, N Honarmand, SV Adve, ...
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+12. SAFECode: enforcing alias analysis for weakly typed languages
+Citations:168
+Authors: D Dhurjati, S Kowshik, V Adve
+Publication: ACM SIGPLAN Notices 41 (6), 144-157
+
+13. Secure virtual architecture: A safe execution environment for commodity operating systems
+Citations:165
+Authors: J Criswell, A Lenharth, D Dhurjati, V Adve
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 351-366
+
+14. KCoFI: Complete control-flow integrity for commodity operating system kernels
+Citations:158
+Authors: J Criswell, N Dautenhahn, V Adve
+Publication: 2014 IEEE Symposium on Security and Privacy, 292-307
+
+15. Using likely program invariants to detect hardware errors
+Citations:150
+Authors: SK Sahoo, ML Li, P Ramachandran, SV Adve, VS Adve, Y Zhou
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+16. Understanding integer overflow in C/C++
+Citations:145
+Authors: W Dietz, P Li, J Regehr, V Adve
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 25 (1), 2
+
+17. Using integer sets for data-parallel program analysis and optimization
+Citations:139
+Authors: V Adve, J Mellor-Crummey
+Publication: ACM SIGPLAN Notices 33 (5), 186-198
+
+18. POEMS: End-to-end performance design of large parallel adaptive computational systems
+Citations:126
+Authors: VS Adve, R Bagrodia, JC Browne, E Deelman, A Dube, EN Houstis, ...
+Publication: IEEE transactions on Software Engineering 26 (11), 1027-1048
+
+19. Memory safety without runtime checks or garbage collection
+Citations:125
+Authors: D Dhurjati, S Kowshik, V Adve, C Lattner
+Publication: ACM SIGPLAN Notices 38 (7), 69-80
+
+20. Virtual ghost: Protecting applications from hostile operating systems
+Citations:118
+Authors: J Criswell, N Dautenhahn, V Adve
+Publication: ACM SIGPLAN Notices 49 (4), 81-96
+
+21. Comparison of hardware and software cache coherence schemes
+Citations:107
+Authors: SV Adve, VS Adve, MK Vernon, MD Hill
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+22. LLVA: A low-level virtual instruction set architecture
+Citations:105
+Authors: V Adve, C Lattner, M Brukman, A Shukla, B Gaeke
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+23. An evaluation of fine-grain producer-initiated communication in cache-coherent multiprocessors
+Citations:102
+Authors: H Abdel-Shafi, J Hall, SV Adve, VS Adve
+Publication: Proceedings Third International Symposium on High-Performance Computer …
+
+24. Transforming loops to recursion for multi-level memory hierarchies
+Citations:101
+Authors: Q Yi, V Adve, K Kennedy
+Publication: ACM Sigplan Notices 35 (5), 169-181
+
+25. High performance Fortran compilation techniques for parallelizing scientific codes
+Citations:99
+Authors: V Adve, G Jin, J Mellor-Crummey, Q Yi
+Publication: SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 11-11
+
+26. Parallel program performance prediction using deterministic task graph analysis
+Citations:96
+Authors: VS Adve, MK Vernon
+Publication: ACM Transactions on Computer Systems (TOCS) 22 (1), 94-136
+
+27. Efficiently detecting all dangling pointer uses in production servers
+Citations:88
+Authors: D Dhurjati, V Adve
+Publication: International Conference on Dependable Systems and Networks (DSN'06), 269-280
+
+28. Safe nondeterminism in a deterministic-by-default parallel language
+Citations:82
+Authors: RL Bocchino Jr, S Heumann, N Honarmand, SV Adve, VS Adve, A Welc, ...
+Publication: ACM SIGPLAN Notices 46 (1), 535-548
+
+29. Analyzing the behavior and performance of parallel programs
+Citations:81
+Authors: VS Adve
+Publication: University of Wisconsin--Madison
+
+30. Ensuring code safety without runtime checks for real-time control systems
+Citations:78
+Authors: S Kowshik, D Dhurjati, V Adve
+Publication: Proceedings of the 2002 international conference on Compilers, architecture …
+
+31. Using likely invariants for automated software fault localization
+Citations:76
+Authors: SK Sahoo, J Criswell, C Geigle, V Adve
+Publication: ACM SIGARCH Computer Architecture News 41 (1), 139-152
+
+32. The LLVM compiler framework and infrastructure tutorial
+Citations:71
+Authors: C Lattner, V Adve
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 15-16
+
+33. Nested kernel: An operating system architecture for intra-kernel privilege separation
+Citations:68
+Authors: N Dautenhahn, T Kasampalis, W Dietz, J Criswell, V Adve
+Publication: ACM SIGPLAN Notices 50 (4), 191-206
+
+34. The influence of random delays on parallel execution times
+Citations:66
+Authors: VS Adve, MK Vernon
+Publication: ACM SIGMETRICS Performance Evaluation Review 21 (1), 61-73
+
+35. Transforming complex loop nests for locality
+Citations:65
+Authors: Q Yi, K Kennedy, V Adve
+Publication: The Journal Of Supercomputing 27 (3), 219-264
+
+36. An empirical study of reported bugs in server software with implications for automated bug diagnosis
+Citations:62
+Authors: SK Sahoo, J Criswell, V Adve
+Publication: 2010 ACM/IEEE 32nd International Conference on Software Engineering 1, 485-494
+
+37. LLVM language reference manual
+Citations:62
+Authors: C Lattner, V Adve
+Publication: 
+
+38. Trace-based microarchitecture-level diagnosis of permanent hardware faults
+Citations:61
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+39. Recovery domains: an organizing principle for recoverable operating systems
+Citations:60
+Authors: A Lenharth, VS Adve, ST King
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 49-60
+
+40. The LLVM instruction set and compilation strategy
+Citations:59
+Authors: C Lattner, V Adve
+Publication: CS Dept., Univ. of Illinois at Urbana-Champaign, Tech. Report UIUCDCS
+
+41. Language and compiler support for adaptive distributed applications
+Citations:57
+Authors: V Adve, VV Lam, B Ensink
+Publication: ACM SIGPLAN Notices 36 (8), 238-246
+
+42. Memory safety without garbage collection for embedded applications
+Citations:56
+Authors: D Dhurjati, S Kowshik, V Adve, C Lattner
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 4 (1), 73-111
+
+43. Requirements for data-parallel programming environments
+Citations:56
+Authors: V Adve, A Carle, E Granston, S Hiranandani, K Kennedy, C Koelbel, ...
+Publication: RICE UNIV HOUSTON TX CENTER FOR RESEARCH ON PARALLEL COMPUTATION
+
+44. POEMS: end-to-end performance design of large parallel adaptive computational systems
+Citations:48
+Authors: E Deelman, A Dube, A Hoisie, Y Luo, RL Oliver, D Sundaram-Stukel, ...
+Publication: Workshop on Software and Performance: Proceedings of the 1 st international …
+
+45. Program control language: a programming language for adaptive distributed applications
+Citations:46
+Authors: B Ensink, J Stanley, V Adve
+Publication: Journal of Parallel and Distributed Computing 63 (11), 1082-1104
+
+46. Stash: Have your scratchpad and cache it too
+Citations:44
+Authors: R Komuravelli, MD Sinclair, J Alsop, M Huzaifa, M Kotsifakou, ...
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 707-719
+
+47. Advanced optimization strategies in the Rice dHPF compiler
+Citations:43
+Authors: J Mellor‐Crummey, V Adve, B Broom, D Chavarría‐Miranda, R Fowler, ...
+Publication: Concurrency and Computation: Practice and Experience 14 (8‐9), 741-767
+
+48. Inferring method effect summaries for nested heap regions
+Citations:40
+Authors: M Vakilian, D Dig, R Bocchino, J Overbey, V Adve, R Johnson
+Publication: 2009 IEEE/ACM International Conference on Automated Software Engineering …
+
+49. Coordinating adaptations in distributed systems
+Citations:40
+Authors: B Ensink, V Adve
+Publication: 24th International Conference on Distributed Computing Systems, 2004 …
+
+50. Automatic pool allocation for disjoint data structures
+Citations:40
+Authors: C Lattner, V Adve
+Publication: ACM SIGPLAN Notices 38 (2 supplement), 13-24
+
+51. Application representations for multiparadigm performance modeling of large-scale parallel scientific codes
+Citations:38
+Authors: V Adve, R Sakellariou
+Publication: The International Journal of High Performance Computing Applications 14 (4 …
+
+52. Perturbations of weakly resonant power system electromechanical modes
+Citations:36
+Authors: I Dobson, E Barocio
+Publication: 2003 IEEE Bologna Power Tech Conference Proceedings, 1, 8 pp. Vol. 1
+
+53. Compiler-optimized simulation of large-scale applications on high performance architectures
+Citations:36
+Authors: VS Adve, R Bagrodia, E Deelman, R Sakellariou
+Publication: Journal of Parallel and Distributed Computing 62 (3), 393-426
+
+54. Memory Safety for Low-Level Software/Hardware Interactions.
+Citations:34
+Authors: J Criswell, N Geoffray, VS Adve
+Publication: USENIX Security Symposium, 83-100
+
+55. Architecture for a next-generation gcc
+Citations:34
+Authors: C Lattner, V Adve
+Publication: GCC Developers Summit, 121
+
+56. Swat: An error resilient system
+Citations:33
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: Proceedings of SELSE
+
+57. Transparent pointer compression for linked data structures
+Citations:33
+Authors: C Lattner, VS Adve
+Publication: Proceedings of the 2005 workshop on Memory system performance, 24-35
+
+58. The tasks with effects model for safe concurrency
+Citations:32
+Authors: ST Heumann, VS Adve, S Wang
+Publication: ACM SIGPLAN Notices 48 (8), 239-250
+
+59. Types, regions, and effects for safe programming with object-oriented parallel frameworks
+Citations:31
+Authors: RL Bocchino, VS Adve
+Publication: European Conference on Object-Oriented Programming, 306-332
+
+60. Improving lookahead in parallel discrete event simulations of large-scale applications using compiler analysis
+Citations:31
+Authors: E Deelman, R Bagrodia, R Sakellariou, V Adve
+Publication: Proceedings of the fifteenth workshop on Parallel and distributed simulation …
+
+61. Data structure analysis: A fast and scalable context-sensitive heap analysis
+Citations:30
+Authors: C Lattner, V Adve
+Publication: Tech. Report UIUCDCS
+
+62. Data structure analysis: An efficient context-sensitive heap analysis
+Citations:27
+Authors: C Lattner, V Adve
+Publication: Tech. Report UIUCDCSR-2003-2340, Computer Science Dept., Univ. of Illinois …
+
+63. Compiler synthesis of task graphs for parallel program performance prediction
+Citations:26
+Authors: V Advea, R Sakellariou
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+64. Vector LLVA: a virtual vector instruction set for media processing
+Citations:22
+Authors: RL Bocchino Jr, VS Adve
+Publication: Proceedings of the 2nd international conference on Virtual execution …
+
+65. Compiler-supported simulation of highly scalable parallel applications
+Citations:22
+Authors: VS Adve, R Bagrodia, E Deelman, T Phan, R Sakellariou
+Publication: SC'99: Proceedings of the 1999 ACM/IEEE Conference on Supercomputing, 1-1
+
+66. DLVM: A modern compiler infrastructure for deep learning systems
+Citations:20
+Authors: R Wei, L Schwartz, V Adve
+Publication: arXiv preprint arXiv:1711.03016
+
+67. Languages and compilers for parallel computing
+Citations:20
+Authors: BPCW Tseng
+Publication: 
+
+68. Advanced code generation for high performance Fortran
+Citations:20
+Authors: V Adve, J Mellor-Crummey
+Publication: Compiler optimizations for scalable parallel systems, 553-596
+
+69. An effect system and language for deterministic-by-default parallel programming
+Citations:18
+Authors: RL Bocchino Jr
+Publication: University of Illinois at Urbana-Champaign
+
+70. Performance analysis of multiprocessor mesh interconnection networks with wormhole routing
+Citations:18
+Authors: VS Adve, MK Vernon
+Publication: University of Wisconsin-Madison, Computer Sciences Department
+
+71. Analytic evaluation of shared-memory architectures
+Citations:17
+Authors: DJ Sorin, JL Lemon, DL Eager, MK Vernon
+Publication: IEEE transactions on Parallel and Distributed Systems 14 (2), 166-180
+
+72. A deterministic model for parallel program performance evaluation
+Citations:17
+Authors: VS Adve, MK Vernon
+Publication: 
+
+73. A virtual instruction set interface for operating system kernels
+Citations:16
+Authors: J Criswell, B Monroe, V Adve
+Publication: Workshop on the Interaction between Operating Systems and Computer …
+
+74. Chasing away rats: Semantics and evaluation for relaxed atomics on heterogeneous systems
+Citations:13
+Authors: MD Sinclair, J Alsop, SV Adve
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 161-174
+
+75. Simplifying control flow in compiler-generated parallel code
+Citations:13
+Authors: J Mellor-Crummey, V Adve
+Publication: International Journal of Parallel Programming 26 (5), 613-638
+
+76. Model-based control of adaptive applications: An overview
+Citations:12
+Authors: V Adve, A Akinsanmi, G Tracy, M Vernon, S Wright, JC Browne, ...
+Publication: ipdps, 0172b
+
+77. Performance analysis of data parallel programs
+Citations:11
+Authors: V Adve, C Koelbel, JM Mellor-Crummey
+Publication: PROC. WORKSHOP ON PARALLEL COMPUTING SYSTEMS, LANL
+
+78. Promise: An end-to-end design of a programmable mixed-signal accelerator for machine-learning algorithms
+Citations:9
+Authors: P Srivastava, M Kang, SK Gonugondla, S Lim, J Choi, V Adve, NS Kim, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+79. Denovo: Rethinking hardware for disciplined parallelism
+Citations:9
+Authors: B Choi, R Komuravelli, H Sung, R Bocchino, S Adve, V Adve
+Publication: Proceedings of the Second USENIX Workshop on Hot Topics in Parallelism (HotPar)
+
+80. The relationship between Bernoulli and fixed feedback policies for the M/G/1 queue
+Citations:9
+Authors: VS Adve, R Nelson
+Publication: Operations research 42 (2), 380-385
+
+81. Detecting and recovering from in-core hardware faults through software anomaly treatment
+Citations:8
+Authors: P Ramachandran
+Publication: University of Illinois at Urbana-Champaign
+
+82. Towards a software-hardware co-designed resilient system
+Citations:8
+Authors: ML Li, P Ramachandran, SV Adve, VS Adve, Y Zhou
+Publication: 3rd Workshop on Silicon Errors in Logic-System Effects
+
+83. Compiler synthesis of task graphs for a parallel system performance modeling environment
+Citations:7
+Authors: V Adve, R Sakellariou
+Publication: 
+
+84. CRPC-TR95520 March, 1995
+Citations:7
+Authors: V Adve, C Koelbel, J Mellor-Crummey
+Publication: 
+
+85. HeteroSync: A benchmark suite for fine-grained synchronization on tightly coupled GPUs
+Citations:6
+Authors: MD Sinclair, J Alsop, SV Adve
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 239-249
+
+86. DLVM: A modern compiler framework for neural network DSLs
+Citations:6
+Authors: R Wei, L Schwartz, V Adve
+Publication: Urbana 51, 61801
+
+87. An integer set framework for HPF analysis and code generation
+Citations:6
+Authors: VS Adve, J Mellor-Crummey, A Sethi
+Publication: 
+
+88. Inferring method effect summaries for deterministic parallel java
+Citations:5
+Authors: M Vakilian, D Dig, R Bocchino, J Overbey, V Adve, R Johnson
+Publication: ASE
+
+89. A compiler-enabled model-and measurement-driven adaptation environment for dependability and performance
+Citations:5
+Authors: VS Adve, A Agbaria, MA Hiltunen, RK Iyer, KR Joshi, Z Kalbarczyk, ...
+Publication: 19th IEEE International Parallel and Distributed Processing Symposium, 8 pp.
+
+90. How Successful Is Data Structure Analysis in Isolating and Analyzing Linked Data Structures?
+Citations:5
+Authors: PON Meredith, B Pankaj, SK Sahoo, CA Lattner, VS Adve
+Publication: 
+
+91. Language support for coordinating adaptation in distributed systems
+Citations:5
+Authors: B Ensink, V Adve
+Publication: University of Illinois at Urbana-Champaign
+
+92. Analysis or Prescription? Richard Berner on Archival Theory and Practice
+Citations:5
+Authors: A Pederson
+Publication: The Midwestern Archivist 9 (1), 35-43
+
+93. A complete formal semantics of x86-64 user-level instruction set architecture
+Citations:4
+Authors: S Dasgupta, D Park, T Kasampalis, VS Adve, G Roşu
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+94. Tasks with Effects A Model for Disciplined Concurrent Programming
+Citations:4
+Authors: S Heumann, V Adve
+Publication: 
+
+95. HPF analysis and code generation using integer sets
+Citations:4
+Authors: V Adve, J Mellor-Crummey, A Sethi
+Publication: Technical Report CS-TR97-275, Dept. of Computer Science, Rice University
+
+96. HPVM: heterogeneous parallel virtual machine
+Citations:3
+Authors: M Kotsifakou, P Srivastava, MD Sinclair, R Komuravelli, V Adve, S Adve
+Publication: ACM SIGPLAN Notices 53 (1), 68-80
+
+97. HPVM: A portable virtual instruction set for heterogeneous parallel systems
+Citations:3
+Authors: P Srivastava, M Kotsifakou, V Adve
+Publication: arXiv preprint arXiv:1611.00860
+
+98. Slipstream: automatic interprocess communication optimization
+Citations:3
+Authors: W Dietz, J Cranmer, N Dautenhahn, V Adve
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 431-443
+
+99. Design and evaluation of a computation partitioning framework for data-parallel compilers
+Citations:3
+Authors: V Adve, G Jin, J Mellor-Crummey, Q Yi
+Publication: Department of Computer Science, Rice University, Tech Rep: CS-TR01-382
+
+100. Region and effect inference for safe parallelism
+Citations:2
+Authors: A Tzannes, ST Heumann, L Eloussi, M Vakilian, VS Adve, M Han
+Publication: Automated Software Engineering 26 (2), 463-509
+
+101. Beating OPT with Statistical Clairvoyance and Variable Size Caching
+Citations:2
+Authors: P Li, C Pronovost, W Wilson, B Tait, J Zhou, C Ding, J Criswell
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+102. A novel invariants-based approach for automated software fault localization
+Citations:2
+Authors: SK Sahoo
+Publication: University of Illinois at Urbana-Champaign
+
+103. Deterministic parallel java
+Citations:2
+Authors: RL Bocchino
+Publication: Encyclopedia of Parallel Computing, 566-573
+
+104. Diverse partial memory replication
+Citations:2
+Authors: RM Lefever, VS Adve, WH Sanders
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems & Networks …
+
+105. Core DPJ with Object-Oriented Framework Support
+Citations:2
+Authors: RL Bocchino, VS Adve
+Publication: Technical report, Univ. of Illinois at Urbana-Champaign, http://dpj. cs …
+
+106. A type and effect system for deterministic parallelism in object-oriented languages
+Citations:2
+Authors: RL Bocchino Jr, VS Adve, D Dig, S Heumann, R Komuravelli, J Overbey, ...
+Publication: 
+
+107. An approach to optimizing adaptive parabolic PDE solvers for the Grid
+Citations:2
+Authors: V Adve, J Browne, B Ensink, J Rice, P Teller, M Vernon, S Wright
+Publication: Proceedings International Parallel and Distributed Processing Symposium, 8 pp.
+
+108. Software multiplexing: share your libraries and statically link them too
+Citations:1
+Authors: W Dietz, V Adve
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 154
+
+109. A modern compiler infrastructure for deep learning systems with adjoint code generation in a domain-specific IR
+Citations:1
+Authors: R Wei, L Schwartz, V Adve
+Publication: 
+
+110. Scalable task scheduling and synchronization using hierarchical effects
+Citations:1
+Authors: ST Heumann, A Tzannes, VS Adve
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+111. Technical report: Region and effect inference for safe parallelism
+Citations:1
+Authors: A Tzannes, M Han, VS Adve, M Vakilian, L Eloussi, ST Heumann
+Publication: ASE
+
+112. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+113. Virtual Instruction Set Computing for Heterogeneous Systems
+Citations:1
+Authors: V Adve, S Adve, R Komuravelli, MD Sinclair, P Srivastava
+Publication: Proceedings of the 2012 4th USENIX Workshop on Hot Topics in Parallelism …
+
+114. Disciplined concurrent programming using tasks with effects
+Citations:1
+Authors: S Heumann, V Adve
+Publication: Presented as part of the 4th {USENIX} Workshop on Hot Topics in Parallelism
+
+115. Detecting and Combining Programming Patterns
+Citations:1
+Authors: AE Cozzie
+Publication: University of Illinois at Urbana-Champaign
+
+116. Trusted and high assurance systems
+Citations:1
+Authors: H Okhravi
+Publication: University of Illinois at Urbana-Champaign
+
+117. Chaos for a Fast, Secure, and Predictable Future
+Citations:1
+Authors: J Criswell, V Adve
+Publication: Fun and Interesting Thoughts at the 31st ACM SIGPLAN Conference on …
+
+118. Languages and Compilers for Parallel Computing
+Citations:1
+Authors: V Adve, MJ Garzarán, P Petersen
+Publication: Springer
+
+119. A comparison of GOES WF_ABBA and MODIS fire products
+Citations:1
+Authors: JP Hoffman
+Publication: University of Wisconsin--Madison
+
+120. Software implications of virtual instruction set computers
+Citations:1
+Authors: V Adve, M Brukman, A Evlogimenos, B Gaeke
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+121. Perceptions of selected minority staff in the University of Wisconsin System of the effects of mentorship on their career progression
+Citations:1
+Authors: E Dowell
+Publication: 
+
+122. Influence of newspapers on the magazine muckraking movement
+Citations:1
+Authors: KS West
+Publication: 
+
+123. Core DPJ with Safe Nondeterministic Parallelism
+Citations:1
+Authors: R Bocchino, S Heumann, N Honarmand, S Adve, V Adve, A Welc, ...
+Publication: Technical report, U. Illinois. http://dpj. cs. uiuc. edu
+
+124. Formal Definition and Proof of Soundness for Core Deterministic Parallel Java
+Citations:1
+Authors: R Bocchino, V Adve
+Publication: Technical Report No. UIUCDCS
+
+125. An Energy-efficient Programmable Mixed-Signal Accelerator for Machine-Learning Algorithms
+Citations:
+Authors: M Kang, P Srivastava, V Adve, NS Kim, N Shanbhag
+Publication: IEEE Micro
+
+126. Wok: statistical program slicing in production
+Citations:
+Authors: BA Stoica, SK Sahoo, JR Larus, VS Adve
+Publication: 2019 IEEE/ACM 41st International Conference on Software Engineering …
+
+127. POSTER-hVISC: A portable abstraction for heterogeneous parallel systems
+Citations:
+Authors: P Srivastava, M Kotsifakou, MD Sinclair, R Komuravelli, V Adve, S Adve
+Publication: 2016 International Conference on Parallel Architecture and Compilation …
+
+128. A Byte Code Compiler for R
+Citations:
+Authors: JM Chambers, JJ Allaire, D Eddelbuettel, R Franҫois, RA Becker, ...
+Publication: Extending R 5 (7), 1-58
+
+129. Analysis of High-Tension Cable Median Barrier Crashes and Associated Severities
+Citations:
+Authors: J Ash
+Publication: 
+
+130. Perceptions of the Nazi Mind: Psychological Theories, 1940s-Present
+Citations:
+Authors: T Pieper
+Publication: 
+
+131. Improving failure diagnosis via better design and analysis of log messages
+Citations:
+Authors: D Yuan
+Publication: University of Illinois at Urbana-Champaign
+
+132. Software and architecture support for the bulk multicore
+Citations:
+Authors: D Ahn
+Publication: University of Illinois at Urbana-Champaign
+
+133. A Mirrored Data Structures Approach to Diverse Partial Memory Replication
+Citations:
+Authors: RM Lefever, VS Adve, WH Sanders
+Publication: 2012 Ninth European Dependable Computing Conference, 61-72
+
+134. Hardware atomicity for compiler-directed control speculation
+Citations:
+Authors: N Neelakantam
+Publication: University of Illinois at Urbana-Champaign
+
+135. Hybrid Static/Dynamic Type Safety for C/C++ Programs
+Citations:
+Authors: A Aggarwal
+Publication: 
+
+136. Palloc: parallel dynamic memory allocation
+Citations:
+Authors: PA Simmons
+Publication: 
+
+137. Automatic recovery for request oriented systems
+Citations:
+Authors: AD Lenharth
+Publication: University of Illinois at Urbana-Champaign
+
+138. International Conference on Architectural Support for Programming Languages and Operating Systems-ASPLOS: Foreword
+Citations:
+Authors: JC Hoe, VS Adve
+Publication: International Conference on Architectural Support for Programming Languages …
+
+139. ACM SIGPLAN Notices: Foreword
+Citations:
+Authors: JC Hoe, VS Adve
+Publication: ACM SIGPLAN Notices 45 (3)
+
+140. Influence of Land Use Change on Grant River Hydrology, Grant County, Wisconsin
+Citations:
+Authors: S Greene
+Publication: 
+
+141. VEE'08-Proceedings of the 4th International Conference on Virtual Execution Environments: Foreword
+Citations:
+Authors: VS Adve, B Bersha, D Gregg
+Publication: VEE'08-Proceedings of the 4th International Conference on Virtual Execution …
+
+142. Languages and Compilers for Parallel Computing-20th International Workshop, LCPC 2007. Urbana, IL, USA, October 2007. Revised Selected Papers
+Citations:
+Authors: V Adve, MJ Garzaran, P Petersen
+Publication: Lecture Notes in Computer Science 5234
+
+143. PNF Stretching and its Effects on Maximal Exertion Exercises
+Citations:
+Authors: D Sikora, NC Giordano, A Jones
+Publication: Department of Kinesiology, University of Wisconsin-Eau Claire
+
+144. 2003 Reviewers list
+Citations:
+Authors: TF Abdelzaher, L Abeni, T Acar, A Adelsbach, N Akar, A Akkas, ...
+Publication: IEEE Transactions on Computers 53 (1), 93
+
+145. Automatic Pool Allocation: Compile-Time Control of Data Structure Layout in the Heap
+Citations:
+Authors: CA Lattner, VS Adve
+Publication: 
+
+146. Plushe Muskaraa'o
+Citations:
+Authors: F Riaz
+Publication: Department of Languages and Cultures of Asia, University of Wisconsin–Madison
+
+147. Х бгжн Ы ин Я и гйи Ъйви б з гж ж гаа и гв Ѓ
+Citations:
+Authors: D Dhurjati, S Kowshik, V Adve, C Lattner
+Publication: 
+
+148. Software for parallel architectures
+Citations:
+Authors: V Adve
+Publication: Principles and Practice of Parallel Programming: Proceedings of the ninth …
+
+149. Addressing Fundamental Bottlenecks in Link-Time and Dynamic Optimization
+Citations:
+Authors: C Lattner, S Shekhar, A Shukla, VS Adve
+Publication: Proceedings of the 16th International Parallel and Distributed Processing …
+
+150. Author–Title Index for Volume 62
+Citations:
+Authors: VS Adve, R Bagrodia, E Deelman, R Sakellariou
+Publication: J. Parallel Distrib. Comput 62, 1785-1790
+
+151. Joint Local and Global Hardware Adaptations for Energy
+Citations:
+Authors: RSCJH Sarita, V Adve
+Publication: IEEE Architectural Support for Programming Languages & Operating Systems, 144
+
+152. Compiling Scientific Programs for Scalable Parallel Systems
+Citations:
+Authors: K Kennedy, J Mellor-Crummey, G Jin, V Adve, RJ Fowler
+Publication: RICE UNIV HOUSTON TX
+
+153. Comparison of effort levels of middle school male basketball players in physical education classes and athletic team practices
+Citations:
+Authors: JA Grotenhuis
+Publication: 
+
+154. ISI/USC deelman@ isi. edu
+Citations:
+Authors: R Bagrodia, R Sakellariou, V Adve
+Publication: 15th Workshop on Parallel and Distributed Simulation: Proceedings:[PADS 2001 …
+
+155. Workshop on Software and Performance—Part I
+Citations:
+Authors: VS Adve, R Bagrodia, JC Browne, E Deelman, A Dube, EN Houstis, ...
+Publication: IEEE TRANSACTIONS ON SOFTWARE ENGINEERING 26 (11)
+
+156. Transforming Loops to Recursion for Multi-Level Memory Hierarchies
+Citations:
+Authors: V Adve, K Kennedy
+Publication: 
+
+157. AU THOR IN DEX
+Citations:
+Authors: VS Adve, A Agrawal, G Alonso, S Antoy, SB Baden, R Bagrodia, VR Basili, ...
+Publication: International Conference on Software Reuse]; T-SE May 423, 424
+
+158. The influence of environmental contamination on the reuse of closing military bases: a case study of the Badger Army Ammunition Plant
+Citations:
+Authors: D Adams
+Publication: 
+
+159. Analytical modeling of thyristor-controlled series capacitors for SSR studies-Discussion
+Citations:
+Authors: R Rajaraman, I Dobson, JV Sarlashkar
+Publication: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+
+160. CRPC-TR94405 May 1994
+Citations:
+Authors: VS Adve, C Koelbel, JM Mellor-Crummey
+Publication: 
+
+161. The Inﬂuence of Random Delays on Parallel Execution Times ‘V
+Citations:
+Authors: VS Adve
+Publication: 
+
+162. UNIVERSITY OF
+Citations:
+Authors: VS Adve, MK Vemon
+Publication: 
+
+163. Influence of perceived caffeine ingestion upon submaximal exercise to exhaustion
+Citations:
+Authors: W Kerner
+Publication: 
+
+164. The influence of existentialism on American education
+Citations:
+Authors: SL Wang
+Publication: 
+
+165. Comparison of energy expenditures--Running and swimming
+Citations:
+Authors: K Castleman
+Publication: 
+
+166. Influence of King Edward VI (1547-1553) on English ecclesiastical history
+Citations:
+Authors: D Bracco
+Publication: 
+
+167. The analytical determination of cantharidin in cantharides
+Citations:
+Authors: NM King
+Publication: 
+
+168. Pneumoconiosis in Wisconsin industries
+Citations:
+Authors: HA Bachhuber
+Publication: 
+
+169. Simplifying Parallel Programming for CSE Applications Using a Multi-Paradigm Approach Project NSF 0833188 Annual Report: Sep. 2011 to Aug. 2012
+Citations:
+Authors: LVK PI
+Publication: University of Illinois
+
+170. A Comparison of Different Methods for the Quantitative Determination of Soil Acidity
+Citations:
+Authors: OI Bergh
+Publication: 
+
+171. HeteroSync: A Benchmark Suite for Fine-Grained Synchronization on Tightly Coupled GPUs
+Citations:
+Authors: MDSJA Sarita, V Adve
+Publication: 
+
+172. Theorem Proving in Higher Order Logics
+Citations:
+Authors: V Adve, MJ Garzarán, OA Mohamed, C Munoz, S Tahar
+Publication: 
+
+173. Stash: Have Your Scratchpad and Cache it Too
+Citations:
+Authors: MD Sinclair, R Komuravelli, J Alsop, M Huzaifa, M Kotsifakou, ...
+Publication: 
+
+174. usenix conference policies
+Citations:
+Authors: R Sarvas, E Herrarte
+Publication: 
+
+175. Portable Semi-Automatic Privilege Minimization for System Software
+Citations:
+Authors: J Criswell, B Pankaj, V Adve
+Publication: 
+
+176. List of Referees--Full Proceedings
+Citations:
+Authors: GA Abandah, M Abdelguerfi, M Aboelaze, G Abram, A Acharya, ...
+Publication: 
+
+177. Prevalence of Integer Wraparound in C/C+
+Citations:
+Authors: W Dietz, V Adve
+Publication: 
+
+178. A Language for Deterministic-by-Default Parallel Programming⋆
+Citations:
+Authors: RL Bocchino Jr, S Heumann, N Honarmand, R Komuravelli, J Overbey, ...
+Publication: 
+
+179. Message from the Program Chair from the Program Chair from the Program Chair
+Citations:
+Authors: E Deelman, R Bagrodia, R Sakellariou, V Adve, BS Lee, W Cai, J Zhou, ...
+Publication: 
+
+180. POEMS Report for Tasks 4.1 and 4. 2 Compiler Synthesis of Task Graphs for Data-Parallel Applications
+Citations:
+Authors: V Adve
+Publication: 
+
+181. This page provides an index into the SC'95 Proceedings technical papers by
+Citations:
+Authors: D Abramson, VS Adve, G Agha, G Agrawal, V Allis, B Alpern, ...
+Publication: 
+
+182. Computer Science Department University of Wisconsin-Madison Madison, WI 53706
+Citations:
+Authors: VS Adve
+Publication: 
+
+183. Keynote II
+Citations:
+Authors: V Adve
+Publication: 
+
+184. дда и гв Ъ дж з ви и гвз гж Хйаи ЙШ ж б Ш ж гжб в Хг а в г Ф ж ЙЫ а Ш ж аа а Ы ви Ќ г з
+Citations:
+Authors: V Adve, R Sakellariou
+Publication: 
+
+185. CRPC-TR97702
+Citations:
+Authors: V Adve, J Mellor-Crummey, A Sethi
+Publication: 
+
+186. Building Robust CPS Systems
+Citations:
+Authors: VS Adve, L Sha
+Publication: 
+
+187. Dependable Computing and Communications Symposium (DCCS)
+Citations:
+Authors: M Hiltunen, F Junqueira, Z Kalbarczyk, N Kandasamy, V Kelogeraki, ...
+Publication: 
+
+188. 1. Related Work
+Citations:
+Authors: VS Adve, L Sha
+Publication: 
+

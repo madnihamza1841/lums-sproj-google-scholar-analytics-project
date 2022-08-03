@@ -1,0 +1,285 @@
+
+1. Before we knew it: an empirical study of zero-day attacks in the real world
+Citations:381
+Authors: L Bilge, T Dumitraş
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+4. Vulnerability disclosure in the age of social media: exploiting twitter for predicting real-world exploits
+Citations:103
+Authors: C Sabottke, O Suciu, T Dumitraș
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 1041-1056
+
+6. Stochastic communication: A new paradigm for fault-tolerant networks-on-chip
+Citations:86
+Authors: P Bogdan, T Dumitraş, R Marculescu
+Publication: VLSI design 2007
+
+7. Why do upgrades fail and what can we do about it?: toward dependable, online upgrades in enterprise system
+Citations:83
+Authors: T Dumitraş, P Narasimhan
+Publication: Proceedings of the 10th ACM/IFIP/USENIX International Conference on …
+
+8. MEAD: support for Real‐Time Fault‐Tolerant CORBA
+Citations:83
+Authors: P Narasimhan, TA Dumitraş, AM Paulos, SM Pertet, CF Reverte, ...
+Publication: Concurrency and Computation: Practice and Experience 17 (12), 1527-1545
+
+10. Analysis of SSL certificate reissues and revocations in the wake of Heartbleed
+Citations:61
+Authors: L Zhang, D Choffnes, D Levin, T Dumitraş, A Mislove, A Schulman, ...
+Publication: Proceedings of the 2014 Conference on Internet Measurement Conference, 489-502
+
+11. The dropper effect: Insights into malware distribution with downloader graph analytics
+Citations:57
+Authors: BJ Kwon, J Mondal, J Jang, L Bilge, T Dumitraş
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+12. Some vulnerabilities are different than others
+Citations:53
+Authors: K Nayak, D Marino, P Efstathopoulos, T Dumitraş
+Publication: International Workshop on Recent Advances in Intrusion Detection, 426-446
+
+13. Cloud software upgrades: Challenges and opportunities
+Citations:44
+Authors: I Neamtiu, T Dumitraş
+Publication: 2011 International Workshop on the Maintenance and Evolution of Service …
+
+14. Featuresmith: Automatically engineering features for malware detection by mining the security literature
+Citations:43
+Authors: Z Zhu, T Dumitraş
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+15. Precious Metal Flows and Prices in Western and Southern Asia, 1500-1750: Some Comparative and Conjunctural Aspects
+Citations:39
+Authors: S Subrahmanyam
+Publication: Studies in History 7 (1), 78-105
+
+16. To upgrade or not to upgrade: impact of online upgrades across multiple administrative domains
+Citations:37
+Authors: T Dumitraş, P Narasimhan, E Tilevich
+Publication: ACM Sigplan Notices 45 (10), 865-876
+
+21. Understanding the relationship between human behavior and susceptibility to cyber attacks: A data-driven approach
+Citations:22
+Authors: M Ovelgönne, T Dumitraş, BA Prakash, VS Subrahmanian, B Wang
+Publication: ACM Transactions on Intelligent Systems and Technology (TIST) 8 (4), 51
+
+23. Catching worms, trojan horses and pups: Unsupervised detection of silent delivery campaigns
+Citations:20
+Authors: BJ Kwon, V Srinivas, A Deshpande, T Dumitraş
+Publication: arXiv preprint arXiv:1611.02787
+
+25. Architecting and implementing versatile dependability
+Citations:20
+Authors: T Dumitraş, D Srivastava, P Narasimhan
+Publication: Architecting Dependable Systems III, 212-231
+
+26. Architecting and implementing versatile dependability
+Citations:20
+Authors: T Dumitraş, D Srivastava, P Narasimhan
+Publication: Architecting Dependable Systems III, 212-231
+
+27. Fault-tolerant middleware and the magical 1%
+Citations:19
+Authors: T Dumitraş, P Narasimhan
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+28. Certified malware: Measuring breaches of trust in the windows code-signing pki
+Citations:17
+Authors: D Kim, BJ Kwon, T Dumitraş
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+29. Evolving nosql databases without downtime
+Citations:16
+Authors: K Saur, T Dumitraş, M Hicks
+Publication: 2016 IEEE International Conference on Software Maintenance and Evolution …
+
+31. Ecotopia: An ecological framework for change management in distributed systems
+Citations:15
+Authors: T Dumitraş, D Roşu, A Dan, P Narasimhan
+Publication: Architecting dependable systems IV, 262-286
+
+36. Patch me if you can: A study on the effects of individual user behavior on the end-host vulnerability state
+Citations:8
+Authors: A Sarabi, Z Zhu, C Xiao, M Liu, T Dumitraş
+Publication: International Conference on Passive and Active Network Measurement, 113-125
+
+39. Summoning demons: The pursuit of exploitable bugs in machine learning
+Citations:7
+Authors: R Stevens, O Suciu, A Ruef, S Hong, M Hicks, T Dumitraş
+Publication: arXiv preprint arXiv:1701.04739
+
+42. An architecture for versatile dependability
+Citations:7
+Authors: T Dumitraş, P Narasimhan
+Publication: DSN Workshop on Architecting Dependable Systems
+
+45. Helping Johnny encrypt: Toward semantic interfaces for cryptographic frameworks
+Citations:5
+Authors: S Indela, M Kulkarni, K Nayak, T Dumitraş
+Publication: Proceedings of the 2016 ACM International Symposium on New Ideas, New …
+
+46. Toward Upgrades-as-a-service in Distributed Systems
+Citations:5
+Authors: T Dumitraş, P Narasimhan
+Publication: Proceedings of the 10th ACM/IFIP/USENIX International Conference on …
+
+49. Issued for abuse: Measuring the underground trade in code signing certificate
+Citations:4
+Authors: K Kozák, BJ Kwon, D Kim, T Dumitraş
+Publication: arXiv preprint arXiv:1803.02931
+
+51. Understanding the vulnerability lifecycle for risk assessment and defense against sophisticated cyber attacks
+Citations:4
+Authors: T Dumitraş
+Publication: Cyber Warfare, 265-285
+
+54. Security analysis of deep neural networks operating in the presence of cache side-channel attacks
+Citations:3
+Authors: S Hong, M Davinroy, Y Kaya, SN Locke, I Rackow, K Kulda, ...
+Publication: arXiv preprint arXiv:1810.03487
+
+55. Go serverless: securing cloud via serverless design patterns
+Citations:3
+Authors: S Hong, A Srivastava, W Shambrook, T Dumitraș
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+56. A study of unpredictability in fault-tolerant middleware
+Citations:3
+Authors: T Dumitraş, P Narasimhan
+Publication: Computer Networks 57 (3), 682-698
+
+58. The Broken Shield: Measuring Revocation Effectiveness in the Windows Code-Signing {PKI}
+Citations:2
+Authors: D Kim, BJ Kwon, K Kozák, C Gates, T Dumitraș
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 851-868
+
+62. Self-Healing and Self-Adaptive Systems
+Citations:2
+Authors: A Andrzejak, K Geihs, O Shehory, J Wilkes, J Martinez, C Cappiello, ...
+Publication: Proceedings 09201 Combinatorial Scientific Computing
+
+63. Got predictability?: experiences with fault-tolerant middleware
+Citations:2
+Authors: T Dumitraş, P Narasimhan
+Publication: Proceedings of the 2007 ACM/IFIP/USENIX international conference on …
+
+65. Terminal Brain Damage: Exposing the Graceless Degradation in Deep Neural Networks Under Hardware Fault Attacks
+Citations:1
+Authors: S Hong, P Frigo, Y Kaya, C Giuffrida, T Dumitraş
+Publication: arXiv preprint arXiv:1906.01017
+
+66. Analysis of SSL certificate reissues and revocations in the wake of heartbleed
+Citations:1
+Authors: L Zhang, D Choffnes, T Dumitraş, D Levin, A Mislove, A Schulman, ...
+Publication: Communications of the ACM 61 (3), 109-116
+
+69. Impact-Sensitive Framework for Dynamic Change-Management
+Citations:1
+Authors: T Dumitraş, D Roşu, A Dan, P Narasimhan
+Publication: DSN 2006, 94
+
+70. Why Do Upgrades Fail and What Can We Do about It?
+Citations:1
+Authors: T Dumitraş, P Narasimhan
+Publication: Middleware 2009
+
+72. How to trick the Borg: threat models against manual and automated techniques for detecting network attacks
+Citations:
+Authors: C Sabottke, D Chen, L Layman, T Dumitraş
+Publication: Computers & Security 81, 25-40
+
+73. Poster: On the Feasibility of Training Neural Networks with Visibly Watermarked Dataset
+Citations:
+Authors: S Hong, T Kim, T Dumitraş, J Choi
+Publication: arXiv preprint arXiv:1902.10854
+
+75. Peek-a-boo: Inferring program behaviors in a virtualized infrastructure without introspection
+Citations:
+Authors: S Hong, A Nicolae, A Srivastava, T Dumitraş
+Publication: Computers & Security 79, 190-207
+
+77. Too Big to FAIL: What You Need to Know Before Attacking a Machine Learning System (Transcript of Discussion)
+Citations:
+Authors: T Dumitraş
+Publication: Cambridge International Workshop on Security Protocols, 163-165
+
+78. Too Big to FAIL: What You Need to Know Before Attacking a Machine Learning System
+Citations:
+Authors: T Dumitraş, Y Kaya, R Mărginean, O Suciu
+Publication: Cambridge International Workshop on Security Protocols, 150-162
+
+83. Toward Semantic Cryptography APIs
+Citations:
+Authors: S Indela, M Kulkarni, K Nayak, T Dumitraş
+Publication: 2016 IEEE Cybersecurity Development (SecDev), 9-14
+
+89. Symantec's WINE System for Repeatable, Data-Intensive Experiments in Cyber Security (CS Seminar Lecture Series)
+Citations:
+Authors: T Dumitraş
+Publication: 
+
+92. No Downtime for Data Conversions: Rethinking Hot Upgrades (CMU-PDL-09-106)
+Citations:
+Authors: T Dumitraş, P Narasimhan
+Publication: figshare
+
+95. Backward fault recovery in real time distributed system of periodic task with timing and precedence constrain.
+Citations:
+Authors: N Mosharraf, MR Khayyambashi, J Balasubramanian, S Tambe, ...
+Publication: Journal of Applied Sciences 9 (6), pp: 320-330
+
+96. Carnegie Institute of Technology
+Citations:
+Authors: TL Johnson
+Publication: 
+
+97. Vulnerability Disclosure in the Age of Social Media: Exploiting Twitter for Predicting Real-World Exploits
+Citations:
+Authors: T Dumitraș
+Publication: 
+
+98. Associate Chairs
+Citations:
+Authors: L Bauer, S Capkun, D Evans, M Hicks, M Antonakakis, M Backes, ...
+Publication: 
+
+100. Úlfar Erlingsson Google
+Citations:
+Authors: B Parno, M Backes, D Balzarotti, G Barthe, L Bauer, K Bhargavan, ...
+Publication: 
+
+102. CLOUD 2012 Program Committee
+Citations:
+Authors: M Aiello, M Aoyama, D Ardagna, JL Balasooriya, E Bertino, B Blake, ...
+Publication: 
+
+103. SIoT 2014
+Citations:
+Authors: G Ghiniță, R Rughiniș, AR Sadeghi, M BUCICOIU, L GHEORGHE, ...
+Publication: 
+
+104. EDCC 2014
+Citations:
+Authors: G Blair, P Buchholz, M Correia, B Cousin, D de Andrés, GDM Serugendo, ...
+Publication: 
+
+106. Daeyoung Kim, Information and Communication University, Korea
+Citations:
+Authors: ST Cheng, D Cotroneo, K Iwasaki, MH Kim, SY Kuo, D Lee, C Lu, ...
+Publication: 
+
+107. DSN 2008 organizers
+Citations:
+Authors: P Koopman, D Siewiorek, H Madeira, N Suri, K Keeton, S Kennedy, ...
+Publication: 
+
+110. Workshop Organization and Program Committee
+Citations:
+Authors: P Aiken, A Pahlevan, S Chester, A Thomo, HA Müller, T Espinha, ...
+Publication: 
+
+112. Dependency-Agnostic Online Upgrades in Distributed Systems
+Citations:
+Authors: T Dumitraş
+Publication: 

@@ -1,0 +1,235 @@
+
+7. Experimental security analysis of a modern automobile
+Citations:1275
+Authors: K Koscher, A Czeskis, F Roesner, S Patel, T Kohno, S Checkoway, ...
+Publication: 2010 IEEE Symposium on Security and Privacy, 447-462
+
+16. A fistful of bitcoins: characterizing payments among men with no names
+Citations:679
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 127-140
+
+21. Spamalytics: An empirical analysis of spam marketing conversion
+Citations:493
+Authors: C Kanich, C Kreibich, K Levchenko, B Enright, GM Voelker, V Paxson, ...
+Publication: Proceedings of the 15th ACM conference on Computer and communications …
+
+27. Scalability, fidelity, and containment in the potemkin virtual honeyfarm
+Citations:445
+Authors: M Vrable, J Ma, J Chen, D Moore, E Vandekieft, AC Snoeren, GM Voelker, ...
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 148-162
+
+28. Measuring the cost of cybercrime
+Citations:444
+Authors: R Anderson, C Barton, R Böhme, R Clayton, MJG Van Eeten, M Levi, ...
+Publication: The economics of information security and privacy, 265-300
+
+36. Click trajectories: End-to-end analysis of the spam value chain
+Citations:274
+Authors: K Levchenko, A Pitsillidis, N Chachra, B Enright, M Félegyházi, C Grier, ...
+Publication: 2011 ieee symposium on security and privacy, 431-446
+
+38. The human and computer as a team in emergency management information systems
+Citations:261
+Authors: L Carver, M Turoff
+Publication: CACM 50 (3), 33-38
+
+39. SPIN: An extensible microkernel for application-specific operating system services
+Citations:257
+Authors: BN Bershad, C Chambers, S Eggers, C Maeda, D McNamee, P Pardyak, ...
+Publication: Proceedings of the 6th workshop on ACM SIGOPS European workshop: Matching …
+
+44. Manufacturing compromise: the emergence of exploit-as-a-service
+Citations:223
+Authors: C Grier, L Ballard, J Caballero, N Chachra, CJ Dietrich, K Levchenko, ...
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+60. Show Me the Money: Characterizing Spam-advertised Revenue.
+Citations:135
+Authors: C Kanich, N Weaver, D McCoy, T Halvorson, C Kreibich, K Levchenko, ...
+Publication: USENIX Security Symposium, 15-15
+
+63. Automating cross-layer diagnosis of enterprise wireless networks
+Citations:130
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benkö, J Chiang, AC Snoeren, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 25-36
+
+64. Pharmaleaks: Understanding the business of online pharmaceutical affiliate programs
+Citations:125
+Authors: D McCoy, A Pitsillidis, J Grant, N Weaver, C Kreibich, B Krebs, G Voelker, ...
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+65. Spamcraft: An Inside Look At Spam Campaign Orchestration.
+Citations:111
+Authors: C Kreibich, C Kanich, K Levchenko, B Enright, GM Voelker, V Paxson, ...
+Publication: LEET
+
+66. Botnet Judo: Fighting Spam with Itself.
+Citations:108
+Authors: A Pitsillidis, K Levchenko, C Kreibich, C Kanich, GM Voelker, V Paxson, ...
+Publication: NDSS
+
+68. On the Spam Campaign Trail.
+Citations:106
+Authors: C Kreibich, C Kanich, K Levchenko, B Enright, GM Voelker, V Paxson, ...
+Publication: LEET 8 (2008), 1-9
+
+81. Framing dependencies introduced by underground commoditization
+Citations:75
+Authors: K Thomas, D Huang, D Wang, E Bursztein, C Grier, TJ Holt, C Kruegel, ...
+Publication: 
+
+84. Botcoin: Monetizing Stolen Cycles.
+Citations:65
+Authors: DY Huang, H Dharmdasani, S Meiklejohn, V Dave, C Grier, D McCoy, ...
+Publication: NDSS
+
+90. Handcrafted fraud and extortion: Manual account hijacking in the wild
+Citations:56
+Authors: E Bursztein, B Benko, D Margolis, T Pietraszek, A Archer, A Aquino, ...
+Publication: Proceedings of the 2014 conference on internet measurement conference, 347-358
+
+94. On the Effects of Registrar-level Intervention.
+Citations:51
+Authors: H Liu, K Levchenko, M Félegyházi, C Kreibich, G Maier, GM Voelker, ...
+Publication: LEET
+
+99. Neon: system support for derived data management
+Citations:46
+Authors: Q Zhang, J McCullough, J Ma, N Schear, M Vrable, A Vahdat, ...
+Publication: ACM Sigplan Notices 45 (7), 63-74
+
+104. Characterizing large-scale click fraud in zeroaccess
+Citations:42
+Authors: P Pearce, V Dave, C Grier, K Levchenko, S Guha, D McCoy, V Paxson, ...
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+118. Competitor analysis and its defenses in the e-marketplace
+Citations:30
+Authors: YP Sheng, PP Mykytyn Jr, CR Litecky
+Publication: Communications of the ACM 48 (8), 107-112
+
+128. No Plan Survives Contact: Experience with Cybercrime Measurement.
+Citations:22
+Authors: C Kanich, N Chachra, D McCoy, C Grier, DY Wang, M Motoyama, ...
+Publication: CSET
+
+144. Looking over the fence at networks: A neighbor's view of networking research
+Citations:13
+Authors: National Research Council
+Publication: National Academies Press
+
+147. Data for cybersecurity research: Process and “wish list”
+Citations:11
+Authors: J Camp, L Cranor, N Feamster, J Feigenbaum, S Forrest, D Kotz, W Lee, ...
+Publication: Academic Press
+
+151. Extensibility, safety and performance in the spin operating system
+Citations:9
+Authors: EG Sirer, D Becker, M Fiuczynski, C Chambers, S Eggers
+Publication: Proceedings of the 15th ACM Symposium on Operating Systems Principles
+
+152. A Fistful of Bitcoins
+Citations:8
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: 
+
+159. Looking over the fence at networks: A neighbor’s view of networking research
+Citations:7
+Authors: DA Patterson, DD Clark, A Karlin, J Kurose, ED Lazowska, D Liddle, ...
+Publication: Computer Science and Telecommunications Board, National Academy of Sciences …
+
+165. Sleepserver: A software-only approach for reducing the energy consumption of pcs within enterprise environments
+Citations:4
+Authors: YAS Savage, R Gupta
+Publication: Power (KW) 100 (150), 200
+
+178. Browser Exploits as a Service: The Monetization of Driveby Downloads
+Citations:2
+Authors: C Grier, L Ballard, J Caballero, N Chachra, C Dietrich, K Levchenko, ...
+Publication: 
+
+179. Verilogo: proactive phishing detection via logo recognition
+Citations:2
+Authors: G Wang
+Publication: UC San Diego
+
+196. Triton: a software-reconfigurable federated avionics testbed
+Citations:
+Authors: S Crow, B Farinholt, B Johannesmeyer, K Koscher, S Checkoway, ...
+Publication: 12th {USENIX} Workshop on Cyber Security Experimentation and Test ({CSET} 19)
+
+199. Security Competitions
+Citations:
+Authors: W Robertson, Z Peterson, D Levin, C Lewis, S D'Antoine, A Hecksteden, ...
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 1223-1240
+
+202. Advanced Network Inference Techniques Based on Network Protocol Stack Information Leaks
+Citations:
+Authors: R Ensafi
+Publication: 
+
+205. Improving failure diagnosis via better design and analysis of log messages
+Citations:
+Authors: D Yuan
+Publication: University of Illinois at Urbana-Champaign
+
+207. ACM Fellows honored
+Citations:
+Authors: C Staff
+Publication: Communications of the ACM 54 (2), 25-25
+
+208. Shaman Automatic 802.11 Wireless Diagnosis System
+Citations:
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benko, J Chiang, AC Snoeren, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+214. A Random Walk Based Anonymous Peer-to-Peer Protocol Design.
+Citations:
+Authors: X Wang, L Yang, X Sun, J Han, W Liang, L Huang, S Akleylek, ...
+Publication: Information Technology Journal 9 (6), pp: 258-264
+
+219. FIT: Fast internet traceback.
+Citations:
+Authors: Z Zhou, D Xie, B Jiao, T Baba, S Matsuda, H Burch, B Cheswick, D Dean, ...
+Publication: Information Technology Journal 8 (4), 20-26
+
+221. Center track: An IP overlay network for tracking dos floods.
+Citations:
+Authors: VM Bhaskaran, AM Natarajan, SN Sivanandam, SM Bellovin, CC Center, ...
+Publication: Information Technology Journal 6 (2), pp: 159-165
+
+227. Betamethasone
+Citations:
+Authors: RO Gillhespy
+Publication: British medical journal 2 (5249), 454
+
+231. A Fistful of Bitcoins
+Citations:
+Authors: SM is a PhD
+Publication: 
+
+237. Practical Perl Tools: Parsing Command Lines
+Citations:
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: 
+
+241. General Chair: Hilarie Orman (Purple Streak, USA) Vice Chair: Deborah Shands (The Aerospace Corporation, USA) Treasurer: Terry Benzel (ISI, USA) Program Co-Chair: Vern Paxson …
+Citations:
+Authors: P Ammann, T Aura, M Backes, E Bertino, P Chen, R Cunningham, ...
+Publication: 
+
+242. The Heisenbot Uncertainty Problem: Active Challenges in Separating Bots from Chaff
+Citations:
+Authors: C Kanich, B Enright, K Levchenko, C Kreibich, V Paxon, G Voelker, ...
+Publication: 
+
+243. Research Note 1251 Technical note: Replication graphs revisited
+Citations:
+Authors: J Grov, R Normann, BS Chlebus, DR Kowalski, M Elkin, F Chung, ...
+Publication: 
+
+245. REAL TIME
+Citations:
+Authors: A Toolbox, PC Reserves, A Abstraction
+Publication: 

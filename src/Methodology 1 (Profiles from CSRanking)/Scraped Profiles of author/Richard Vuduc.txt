@@ -1,0 +1,1078 @@
+https://scholar.google.com/citations?hl=en&user=CCGI7x4AAAAJ
+Total Citations = 6456
+
+1. Optimization of sparse matrix-vector multiplication on emerging multicore platforms
+Citations:808
+Authors: S Williams, L Oliker, R Vuduc, J Shalf, K Yelick, J Demmel
+Publication: SC'07: Proceedings of the 2007 ACM/IEEE Conference on Supercomputing, 1-12
+
+2. OSKI: A library of automatically tuned sparse matrix kernels
+Citations:564
+Authors: R Vuduc, JW Demmel, KA Yelick
+Publication: Journal of Physics: Conference Series 16 (1), 521
+
+3. Model-driven autotuning of sparse matrix-vector multiply on GPUs
+Citations:408
+Authors: JW Choi, A Singh, RW Vuduc
+Publication: ACM sigplan notices 45 (5), 115-126
+
+4. Sparsity: Optimization framework for sparse matrix kernels
+Citations:342
+Authors: EJ Im, K Yelick, R Vuduc
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+5. Automatic performance tuning of sparse matrix kernels
+Citations:261
+Authors: RW Vuduc, JW Demmel
+Publication: University of California, Berkeley
+
+6. Self-adapting linear algebra algorithms and software
+Citations:241
+Authors: J Demmel, J Dongarra, V Eijkhout, E Fuentes, A Petitet, R Vuduc, ...
+Publication: Proceedings of the IEEE 93 (2), 293-312
+
+7. A massively parallel adaptive fast-multipole method on heterogeneous architectures
+Citations:186
+Authors: I Lashuk, A Chandramowlishwaran, H Langston, TA Nguyen, R Sampath, ...
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+8. A performance analysis framework for identifying potential benefits in GPGPU applications
+Citations:179
+Authors: J Sim, A Dasgupta, H Kim, R Vuduc
+Publication: ACM SIGPLAN Notices 47 (8), 11-22
+
+9. Petascale direct numerical simulation of blood flow on 200k cores and heterogeneous architectures
+Citations:164
+Authors: A Rahimian, I Lashuk, S Veerapaneni, A Chandramowlishwaran, ...
+Publication: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+10. Performance optimizations and bounds for sparse matrix-vector multiply
+Citations:157
+Authors: R Vuduc, JW Demmel, KA Yelick, S Kamil, R Nishtala, B Lee
+Publication: SC'02: Proceedings of the 2002 ACM/IEEE Conference on Supercomputing, 26-26
+
+11. Fast sparse matrix-vector multiplication by exploiting variable block structure
+Citations:152
+Authors: R Vuduc, HJ Moon
+Publication: High Performance Computing and Communications, 807-816
+
+12. On the limits of GPU acceleration
+Citations:144
+Authors: R Vuduc, A Chandramowlishwaran, J Choi, M Guney, A Shringarpure
+Publication: Proceedings of the 2nd USENIX conference on Hot topics in parallelism 13
+
+13. Falcon: fault localization in concurrent programs
+Citations:134
+Authors: S Park, RW Vuduc, MJ Harrold
+Publication: Proceedings of the 32nd ACM/IEEE International Conference on Software …
+
+14. Many-thread aware prefetching mechanisms for GPGPU applications
+Citations:131
+Authors: J Lee, NB Lakshminarayana, H Kim, R Vuduc
+Publication: 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, 213-224
+
+15. Statistical models for empirical search-based performance tuning
+Citations:127
+Authors: R Vuduc, JW Demmel, JA Bilmes
+Publication: International Journal of High Performance Computing Applications 18 (1), 65-94
+
+16. POET: Parameterized optimizations for empirical tuning
+Citations:124
+Authors: Q Yi, K Seymour, H You, R Vuduc, D Quinlan
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-8
+
+17. A roofline model of energy
+Citations:118
+Authors: JW Choi, D Bedard, R Fowler, R Vuduc
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+18. When cache blocking of sparse matrix vector multiply works and why
+Citations:109
+Authors: R Nishtala, RW Vuduc, JW Demmel, KA Yelick
+Publication: Applicable Algebra in Engineering, Communication and Computing 18 (3), 297-311
+
+19. When prefetching works, when it doesn’t, and why
+Citations:107
+Authors: J Lee, H Kim, R Vuduc
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 9 (1), 2
+
+20. Tuned and wildly asynchronous stencil kernels for hybrid CPU/GPU systems
+Citations:98
+Authors: S Venkatasubramanian, RW Vuduc
+Publication: Proceedings of the 23rd international conference on Supercomputing, 244-255
+
+21. Effective source-to-source outlining to support whole program empirical optimization
+Citations:95
+Authors: C Liao, DJ Quinlan, R Vuduc, T Panas
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+22. Self-stabilizing iterative solvers
+Citations:83
+Authors: P Sao, R Vuduc
+Publication: Proceedings of the Workshop on Latest Advances in Scalable Algorithms for …
+
+23. Optimizing and tuning the fast multipole method for state-of-the-art multicore architectures
+Citations:76
+Authors: A Chandramowlishwaran, S Williams, L Oliker, I Lashuk, G Biros, R Vuduc
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+24. Performance evaluation of concurrent collections on high-performance multicore computing systems
+Citations:75
+Authors: A Chandramowlishwaran, K Knobe, R Vuduc
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+25. Algorithmic time, energy, and power on candidate HPC compute building blocks
+Citations:70
+Authors: J Choi, M Dukhan, X Liu, R Vuduc
+Publication: 2014 IEEE 28th international parallel and distributed processing symposium …
+
+26. Performance models for evaluation and automatic tuning of symmetric sparse matrix-vector multiply
+Citations:67
+Authors: BC Lee, RW Vuduc, JW Demmel, KA Yelick
+Publication: International Conference on Parallel Processing, 2004. ICPP 2004., 169-176
+
+27. SWAMI (poster session): a framework for collaborative filtering algorithm development and evaluation
+Citations:64
+Authors: D Fisher, K Hildrum, J Hong, M Newman, M Thomas, R Vuduc
+Publication: Proceedings of the 23rd annual international ACM SIGIR conference on …
+
+28. An input-adaptive and in-place approach to dense tensor-times-matrix multiply
+Citations:45
+Authors: J Li, C Battaglino, I Perros, J Sun, R Vuduc
+Publication: SC'15: Proceedings of the International Conference for High Performance …
+
+29. On the communication complexity of 3D FFTs and its implications for exascale
+Citations:45
+Authors: K Czechowski, C Battaglino, C McClanahan, K Iyer, PK Yeung, R Vuduc
+Publication: Proceedings of the 26th ACM international conference on Supercomputing, 205-214
+
+30. Communicating software architecture using a unified single-view visualization
+Citations:44
+Authors: T Panas, T Epperly, D Quinlan, A Saebjornsen, R Vuduc
+Publication: 12th IEEE International Conference on Engineering Complex Computer Systems …
+
+31. Diagnosis, tuning, and redesign for multicore performance: A case study of the fast multipole method
+Citations:43
+Authors: A Chandramowlishwarany, K Madduri, R Vuduc
+Publication: SC'10: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+32. Undifferentiated facial electromyography responses to dynamic, audio‐visual emotion displays in individuals with autism spectrum disorders
+Citations:40
+Authors: A Rozga, TZ King, RW Vuduc, DL Robins
+Publication: Developmental science 16 (4), 499-514
+
+33. Direct n-body kernels for multicore platforms
+Citations:40
+Authors: N Arora, A Shringarpure, RW Vuduc
+Publication: 2009 International Conference on Parallel Processing, 379-387
+
+34. Statistical models for automatic performance tuning
+Citations:40
+Authors: R Vuduc, JW Demmel, J Bilmes
+Publication: International Conference on Computational Science, 117-126
+
+35. Improving distributed memory applications testing by message perturbation
+Citations:39
+Authors: R Vuduc, M Schulz, D Quinlan, B De Supinski, A Sæbjørnsen
+Publication: Proceedings of the 2006 workshop on Parallel and distributed systems …
+
+36. Performance analysis and tuning for general purpose graphics processing units (GPGPU)
+Citations:37
+Authors: H Kim, R Vuduc, S Baghsorkhi, J Choi, W Hwu
+Publication: Synthesis Lectures on Computer Architecture 7 (2), 1-96
+
+37. CA-SVM: Communication-avoiding support vector machines on distributed systems
+Citations:35
+Authors: Y You, J Demmel, K Czechowski, L Song, R Vuduc
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 847-859
+
+38. Balance Principles for Algorithm-Architecture Co-Design.
+Citations:35
+Authors: K Czechowski, C Battaglino, C McClanahan, A Chandramowlishwaran, ...
+Publication: HotPar 11, 9-9
+
+39. Image segmentation using fractal dimension
+Citations:35
+Authors: R Vuduc
+Publication: Report on GEOL 634
+
+40. A distributed CPU-GPU sparse direct solver
+Citations:34
+Authors: P Sao, R Vuduc, XS Li
+Publication: European Conference on Parallel Processing, 487-498
+
+41. A theoretical framework for algorithm-architecture co-design
+Citations:30
+Authors: K Czechowski, R Vuduc
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+42. A unified approach for localizing non-deadlock concurrency bugs
+Citations:30
+Authors: S Park, R Vuduc, MJ Harrold
+Publication: 2012 IEEE Fifth International Conference on Software Testing, Verification …
+
+43. Sparse hierarchical tucker factorization and its application to healthcare
+Citations:27
+Authors: I Perros, R Chen, R Vuduc, J Sun
+Publication: 2015 IEEE International Conference on Data Mining, 943-948
+
+44. Sparse matrix-vector multiplication on multicore and accelerators
+Citations:27
+Authors: S Williams, N Bell, JW Choi, M Garland, L Oliker, R Vuduc
+Publication: Scientific Computing with Multicore and Accelerators, 83-109
+
+45. Performance modeling and analysis of cache blocking in sparse matrix vector multiply
+Citations:27
+Authors: R Vuduc, K Yelick
+Publication: 
+
+46. Automatic performance tuning and analysis of sparse triangular solve
+Citations:27
+Authors: R Vuduc, S Kamil, J Hsu, R Nishtala, JW Demmel, KA Yelick
+Publication: ICS
+
+47. Model-driven sparse CP decomposition for higher-order tensors
+Citations:26
+Authors: J Li, J Choi, I Perros, J Sun, R Vuduc
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+48. Memory Hierarchy Optimizations and Performance Bounds for Sparse A T Ax
+Citations:25
+Authors: R Vuduc, A Gyulassy, JW Demmel, KA Yelick
+Publication: International Conference on Computational Science, 705-714
+
+49. The backstroke framework for source level reverse computation applied to parallel discrete event simulation
+Citations:24
+Authors: G Vulov, C Hou, R Vuduc, R Fujimoto, D Quinlan, D Jefferson
+Publication: Proceedings of the 2011 Winter Simulation Conference (WSC), 2960-2974
+
+50. What GPU computing means for high-end systems
+Citations:24
+Authors: R Vuduc, K Czechowski
+Publication: IEEE Micro 31 (4), 74-78
+
+51. A type theory for probability density functions
+Citations:23
+Authors: S Bhat, A Agarwal, R Vuduc, A Gray
+Publication: ACM SIGPLAN Notices 47 (1), 545-556
+
+52. Optimizing sparse tensor times matrix on multi-core and many-core architectures
+Citations:22
+Authors: J Li, Y Ma, C Yan, R Vuduc
+Publication: Proceedings of the Sixth Workshop on Irregular Applications: Architectures …
+
+53. A distributed kernel summation framework for general-dimension machine learning
+Citations:22
+Authors: D Lee, R Vuduc, AG Gray
+Publication: Proceedings of the 2012 SIAM International Conference on Data Mining, 391-402
+
+54. SPARTan: Scalable PARAFAC2 for large & sparse data
+Citations:20
+Authors: I Perros, EE Papalexakis, F Wang, R Vuduc, E Searles, M Thompson, ...
+Publication: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge …
+
+55. A CPU-GPU hybrid implementation and model-driven scheduling of the fast multipole method
+Citations:20
+Authors: J Choi, A Chandramowlishwaran, K Madduri, R Vuduc
+Publication: Proceedings of Workshop on General Purpose Processing Using GPUs, 64
+
+56. Code generators for automatic tuning of numerical kernels: Experiences with fftw position paper
+Citations:19
+Authors: R Vuduc, JW Demmel
+Publication: International Workshop on Semantics, Applications, and Implementation of …
+
+57. Improving the energy efficiency of big cores
+Citations:18
+Authors: K Czechowski, VW Lee, E Grochowski, R Ronen, R Singhal, R Vuduc, ...
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 493-504
+
+58. Parameterizing loop fusion for automated empirical tuning
+Citations:18
+Authors: Y Zhao, Q Yi, K Kennedy, D Quinlan, R Vuduc
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+59. Branch-avoiding graph algorithms
+Citations:16
+Authors: O Green, M Dukhan, R Vuduc
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+60. A sparse direct solver for distributed memory xeon phi-accelerated systems
+Citations:16
+Authors: P Sao, X Liu, R Vuduc, X Li
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 71-81
+
+61. Griffin: grouping suspicious memory-access patterns to improve understanding of concurrency bugs
+Citations:15
+Authors: S Park, MJ Harrold, R Vuduc
+Publication: Proceedings of the 2013 International Symposium on Software Testing and …
+
+62. Brief announcement: Towards a communication optimal fast multipole method and its implications at exascale
+Citations:15
+Authors: A Chandramowlishwaran, JW Choi, K Madduri, R Vuduc
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+63. Hybrid dynamic trees for extreme-resolution 3D sparse data modeling
+Citations:14
+Authors: MM Hossain, TM Tucker, TR Kurfess, RW Vuduc
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+64. Techniques for specifying bug patterns
+Citations:14
+Authors: DJ Quinlan, RW Vuduc, G Misherghi
+Publication: Proceedings of the 2007 ACM workshop on Parallel and distributed systems …
+
+65. Tool support for inspecting the code quality of hpc applications
+Citations:14
+Authors: T Panas, D Quinlan, R Vuduc
+Publication: Proceedings of the 3rd International Workshop on Software Engineering for …
+
+66. Annotating user-defined abstractions for optimization
+Citations:14
+Authors: D Quinlan, M Schordan, R Vuduc, Q Yi
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+67. A GPU-parallel construction of volumetric tree
+Citations:13
+Authors: MM Hossain, TM Tucker, TR Kurfess, RW Vuduc
+Publication: Proceedings of the 5th Workshop on Irregular Applications: Architectures and …
+
+68. A new method for program inversion
+Citations:13
+Authors: C Hou, G Vulov, D Quinlan, D Jefferson, R Fujimoto, R Vuduc
+Publication: International Conference on Compiler Construction, 81-100
+
+69. Performance Optimizations and Bounds for Sparse Symmetric Matrix–Multiple Vector Multiply
+Citations:12
+Authors: KAYM de Lorimjer, L Zhong
+Publication: Computer Science
+
+70. A Graphical Approach for Freeform Surface Offsetting With GPU Acceleration for Subtractive 3D Printing
+Citations:11
+Authors: MM Hossain, RW Vuduc, C Nath, TR Kurfess, TM Tucker
+Publication: ASME 2016 11th International Manufacturing Science and Engineering Conference
+
+71. UNICORN: a unified approach for localizing non‐deadlock concurrency bugs
+Citations:11
+Authors: S Park, R Vuduc, MJ Harrold
+Publication: Software Testing, Verification and Reliability 25 (3), 167-190
+
+72. Fast sensitivity computations for trajectory optimization
+Citations:11
+Authors: N Arora, RP Russell, RW Vuduc
+Publication: Advances in the Astronautical Sciences 135 (1), 545-560
+
+73. An initial characterization of the Emu Chick
+Citations:10
+Authors: E Hein, T Conte, J Young, S Eswar, J Li, P Lavin, R Vuduc, J Riedy
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium …
+
+74. How much (execution) time and energy does my algorithm cost?
+Citations:10
+Authors: JW Choi, RW Vuduc
+Publication: XRDS: Crossroads, The ACM Magazine for Students 19 (3), 49-51
+
+75. Optimizing the computation of n-point correlations on large-scale astronomical data
+Citations:10
+Authors: WB March, K Czechowski, M Dukhan, T Benson, D Lee, AJ Connolly, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+76. An extensible open-source compiler infrastructure for testing
+Citations:10
+Authors: D Quinlan, S Ur, R Vuduc
+Publication: Haifa Verification Conference, 116-133
+
+77. Grasp: distributed streaming graph partitioning
+Citations:9
+Authors: C Battaglino, P Pienta, R Vuduc
+Publication: 1st High Performance Graph Mining workshop, Sydney, 10 August 2015
+
+78. Autotuning
+Citations:9
+Authors: RW Vuduc
+Publication: Encyclopedia of Parallel Computing, 102-105
+
+79. Applying the concurrent collections programming model to asynchronous parallel dense linear algebra
+Citations:9
+Authors: A Chandramowlishwaran, K Knobe, R Vuduc
+Publication: ACM Sigplan Notices 45 (5), 345-346
+
+80. Autotuning in High-Performance Computing Applications
+Citations:8
+Authors: P Balaprakash, J Dongarra, T Gamblin, M Hall, JK Hollingsworth, B Norris, ...
+Publication: Proceedings of the IEEE 106 (11), 2068-2083
+
+81. ROSE web page
+Citations:8
+Authors: D Quinlan, C Liao, R Matzke, M Schordan, T Panas, R Vuduc, Q Yi
+Publication: 
+
+82. GPUPerf: A performance analysis framework for identifying potential benefits in GPGPU applications
+Citations:8
+Authors: J Sim, A Dasgupta, H Kim, R Vuduc
+Publication: In PPoPP
+
+83. Support for Whole-Program Analysis and the Verification of the One-Definition Rule in C++
+Citations:8
+Authors: D Quinlan, R Vuduc, T Panas, J Härdtlein, A Sæbjørnsen
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+84. Efficient communications in training large scale neural networks
+Citations:7
+Authors: L Wang, W Wu, G Bosilca, R Vuduc, Z Xu
+Publication: 
+
+85. A brief history and introduction to GPGPU
+Citations:7
+Authors: R Vuduc, J Choi
+Publication: Modern Accelerator Technologies for Geographic Information Science, 9-23
+
+86. Statistical modeling of feedback data in an automatic tuning system
+Citations:7
+Authors: R Vuduc, J Bilmes, J Demmel
+Publication: MICRO-33: Third ACM Workshop on Feedback-Directed Dynamic Optimization
+
+87. Optimizing sparse tensor times matrix on GPUs
+Citations:6
+Authors: Y Ma, J Li, X Wu, C Yan, J Sun, R Vuduc
+Publication: Journal of Parallel and Distributed Computing 129, 99-109
+
+88. HiCOO: Hierarchical storage of sparse tensors
+Citations:6
+Authors: J Li, J Sun, R Vuduc
+Publication: SC18: International Conference for High Performance Computing, Networking …
+
+89. Sustain: Scalable unsupervised scoring for tensors and its application to phenotyping
+Citations:6
+Authors: I Perros, EE Papalexakis, H Park, R Vuduc, X Yan, C Defilippi, WF Stewart, ...
+Publication: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge …
+
+90. Design and implementation of a communication-optimal classifier for distributed kernel support vector machines
+Citations:6
+Authors: Y You, J Demmel, K Czechowski, L Song, R Vuduc
+Publication: IEEE Transactions on Parallel and Distributed Systems 28 (4), 974-988
+
+91. Methods for high-throughput computation of elementary functions
+Citations:6
+Authors: M Dukhan, R Vuduc
+Publication: International Conference on Parallel Processing and Applied Mathematics, 86-95
+
+92. Bebop sparse matrix converter
+Citations:6
+Authors: M Hoemmen, R Vuduc, R Nishtala
+Publication: University of California at Berkeley. Web
+
+93. A Tool for Building Source-to-Source Translators
+Citations:5
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, ...
+Publication: Lawrence Livermore National Laboratory, Livermore, CA 94550
+
+94. Understanding the design trade-offs among current multicore systems for numerical computations
+Citations:5
+Authors: S Kang, DA Bader, R Vuduc
+Publication: 2009 IEEE International Symposium on Parallel & Distributed Processing, 1-12
+
+95. Analyzing and Visualizing Whole Program Architectures
+Citations:5
+Authors: T Panas, D Quinlan, R Vuduc
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+96. Characterizing application runtime behavior from system logs and metrics
+Citations:4
+Authors: R Gunasekaran, D Dillow, G Shipman, R Vuduc, E Chow
+Publication: Proceedings of the Characterizing Applications for Heterogeneous Exascale …
+
+97. A Wavelet Collocation Method for Solving PDEs
+Citations:4
+Authors: R Vuduc
+Publication: J. Comp. Phys 165
+
+98. A microbenchmark characterization of the Emu chick
+Citations:3
+Authors: JS Young, E Hein, S Eswar, P Lavin, J Li, J Riedy, R Vuduc, T Conte
+Publication: Parallel Computing 87, 60-69
+
+99. A communication-avoiding 3D LU factorization algorithm for sparse matrices
+Citations:3
+Authors: P Sao, XS Li, R Vuduc
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+100. Efficient communications in training large scale neural networks
+Citations:3
+Authors: Y Zhao, L Wang, W Wu, G Bosilca, R Vuduc, J Ye, W Tang, Z Xu
+Publication: Proceedings of the on Thematic Workshops of ACM Multimedia 2017, 110-116
+
+101. Modeling the power variability of core speed scaling on homogeneous multicore systems
+Citations:3
+Authors: Z Du, R Ge, VW Lee, R Vuduc, DA Bader, L He
+Publication: Scientific Programming 2017
+
+102. Step ring based 3D path planning via GPU simulation for subtractive 3D printing
+Citations:3
+Authors: Z Wu, TM Tucker, C Nath, TR Kurfess, RW Vuduc
+Publication: ASME 2016 11th International Manufacturing Science and Engineering Conference
+
+103. Analyzing the energy efficiency of the fast multipole method using a DVFS-aware energy model
+Citations:3
+Authors: JW Choi, RW Vuduc
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium …
+
+104. Modeling and analysis for performance and power
+Citations:3
+Authors: JW Choi, RW Vuduc
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+105. Sparse Matrix
+Citations:3
+Authors: T Davis
+Publication: From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. http …
+
+106. Toward interactive statistical modeling
+Citations:3
+Authors: S Bhat, A Agarwal, A Gray, R Vuduc
+Publication: Procedia Computer Science 1 (1), 1835-1844
+
+107. Auto-tuning distributed-memory 3-dimensional fast Fourier transforms on the Cray XT4
+Citations:3
+Authors: M Gajbe, A Canning, LW Wang, J Shalf, H Wasserman, R Vuduc
+Publication: Cray User Group Meeting
+
+108. Load-Balanced Sparse MTTKRP on GPUs
+Citations:2
+Authors: I Nisa, J Li, A Sukumaran-Rajam, R Vuduc, P Sadayappan
+Publication: arXiv preprint arXiv:1904.03329
+
+109. An energy-efficient single-source shortest path algorithm
+Citations:2
+Authors: S Karamati, J Young, R Vuduc
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+110. Polyadic Regression and its Application to Chemogenomics
+Citations:2
+Authors: I Perros, F Wang, P Zhang, P Walker, R Vuduc, J Pathak, J Sun
+Publication: Proceedings of the 2017 SIAM International Conference on Data Mining, 72-80
+
+111. A self-correcting connected components algorithm
+Citations:2
+Authors: P Sao, O Green, C Jain, R Vuduc
+Publication: Proceedings of the ACM Workshop on Fault-Tolerance for HPC at Extreme Scale …
+
+112. Comprehending software architecture using a Unified Single-view Visualization
+Citations:2
+Authors: T Panas, T Epperly, D Quinlan, A Sæbjørnsen, R Vuduc
+Publication: Data Structure and Software Engineering: Challenges and Improvements, 22-41
+
+113. Wanted: Floating-point add round-off error instruction
+Citations:2
+Authors: M Dukhan, R Vuduc, J Riedy
+Publication: arXiv preprint arXiv:1603.00491
+
+114. Sustainable software development for next-gen sequencing (NGS) bioinformatics on emerging platforms
+Citations:2
+Authors: S Swenson, Y Simmhan, V Prasanna, M Parashar, J Riedy, D Bader, ...
+Publication: arXiv preprint arXiv:1309.1828
+
+115. Synthesizing loops for program inversion
+Citations:2
+Authors: C Hou, D Quinlan, D Jefferson, R Fujimoto, R Vuduc
+Publication: International Workshop on Reversible Computation, 72-84
+
+116. Transforming sparse matrix data structures
+Citations:2
+Authors: R Vuduc, J DEMMEL, K YELICK
+Publication: Georgia Tech College of Computing
+
+117. Recovery of superfluorescence in inhomogeneously broadened systems through rapid relaxation
+Citations:2
+Authors: B Balko, IW Kay, R Vuduc, JW Neuberger
+Publication: Physical Review B 55 (18), 12079
+
+118. Temporal phenotyping of medically complex children via PARAFAC2 tensor factorization
+Citations:1
+Authors: I Perros, EE Papalexakis, R Vuduc, E Searles, J Sun
+Publication: Journal of biomedical informatics 93, 103125
+
+119. Accurate, Fast and Scalable Kernel Ridge Regression on Parallel and Distributed Systems
+Citations:1
+Authors: Y You, J Demmel, CJ Hsieh, R Vuduc
+Publication: Proceedings of the 2018 International Conference on Supercomputing, 307-317
+
+120. A Graphics Processor Unit-Accelerated Freeform Surface Offsetting Method for High-Resolution Subtractive Three-Dimensional Printing (Machining)
+Citations:1
+Authors: MM Hossain, C Nath, TM Tucker, RW Vuduc, TR Kurfess
+Publication: Journal of Manufacturing Science and Engineering 140 (4), 041012
+
+121. Evaluating multicore processors and accelerators for dense numerical computations
+Citations:1
+Authors: S Kang, N Arora, A Shringarpure, RW Vuduc, DA Bader
+Publication: Multicore Computing: Algorithms, Architectures, and Applications, 241
+
+122. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 5a)
+Citations:1
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+123. Toward a Theory of Algorithm-Architecture Co-design
+Citations:1
+Authors: R Vuduc, K Czechowski
+Publication: International Conference on High Performance Computing for Computational …
+
+124. Courses in high-performance computing for scientists and engineers
+Citations:1
+Authors: RW Vuduc, K Czechowski, A Chandramowlishwaran, JW Choi
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+125. Prospects for scalable 3d ffts on heterogeneous exascale systems
+Citations:1
+Authors: C McClanahan, K Czechowski, C Battaglino, K Iyer, P Yeung, R Vuduc
+Publication: 
+
+126. Scalabale Parallel 3D-FFTs on GPU Clusters
+Citations:1
+Authors: C McClanahan, R Vuduc
+Publication: December
+
+127. ROSE Tutorial: A Tool for Building Source-to-Source Translators Draft Tutorial (version 0.9. 5a)
+Citations:1
+Authors: D Quinlan, M Schordan, R Vuduc, Q Yi, T Panas, C Liao, JJ Willcock
+Publication: 
+
+128. Numerical algorithms with tunable parallelism
+Citations:1
+Authors: A Chandramowlishwaran, A Kahru, K Umare, R Vuduc
+Publication: Proc. Wkshp. Software Tools for Multicore Systems (STMCS), at IEEE/ACM Int’l …
+
+129. Architectural Visualization of C/C++ Source Code for Program Comprehension
+Citations:1
+Authors: T Panas, TW Epperly, D Quinlan, A Saebjornsen, R Vuduc
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+130. Microbenchmarking the Tera MTA
+Citations:1
+Authors: EJ Riedy, R Vuduc
+Publication: benchmarking 2
+
+131. A communication-avoiding 3D algorithm for sparse LU factorization on heterogeneous systems
+Citations:
+Authors: P Sao, XS Li, R Vuduc
+Publication: Journal of Parallel and Distributed Computing 131, 218-234
+
+132. Faster parallel collision detection at high resolution for CNC milling applications
+Citations:
+Authors: X Chen, D Konobrytskyi, TM Tucker, TR Kurfess, RW Vuduc
+Publication: Proceedings of the 48th International Conference on Parallel Processing, 97
+
+133. Efficient and effective sparse tensor reordering
+Citations:
+Authors: J Li, B Uçar, ÜV Çatalyürek, J Sun, K Barker, R Vuduc
+Publication: Proceedings of the ACM International Conference on Supercomputing, 227-237
+
+134. A communication-avoiding 3D sparse triangular solver
+Citations:
+Authors: P Sao, R Kannan, XS Li, R Vuduc
+Publication: Proceedings of the ACM International Conference on Supercomputing, 127-137
+
+135. Programming Strategies for Irregular Algorithms on the Emu Chick
+Citations:
+Authors: E Hein, S Eswar, A Yaşar, J Li, JS Young, TM Conte, ÜV Çatalyürek, ...
+Publication: arXiv preprint arXiv:1901.02775
+
+136. Spatter: A Benchmark Suite for Evaluating Sparse Access Patterns
+Citations:
+Authors: P Lavin, J Riedy, R Vuduc, J Young
+Publication: arXiv preprint arXiv:1811.03743
+
+137. A Simple Methodology for Computing Families of Algorithms
+Citations:
+Authors: DN Parikh, ME Myers, R Vuduc, RA van de Geijn
+Publication: arXiv preprint arXiv:1808.07832
+
+138. Scalable and resilient sparse linear solvers
+Citations:
+Authors: RW Vuduc, XS Li, H Park, E Chow, HM Zhou, U Catalayurek
+Publication: Georgia Institute of Technology
+
+139. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.266)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+140. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.263)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+141. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.249)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+142. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.96)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+143. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.94)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+144. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.89)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+145. Parallel Tensor Decompositions for Massive Heterogeneous Incomplete Data.
+Citations:
+Authors: ET Phipps, TG Kolda, CI Anderson-Bergman, KD Devine, D Dunlavy, ...
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+146. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.84)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+147. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.76)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+148. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.71)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+149. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.68)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+150. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.61)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+151. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.57)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+152. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.47)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+153. HPPAC Workshop Introduction
+Citations:
+Authors: SL Song, R Vuduc
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+154. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.41)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+155. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 9.33)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+156. Step Ring-Based Three-Dimensional Path Planning Via Graphics Processing Unit Simulation for Subtractive Three-Dimensional Printing
+Citations:
+Authors: Z Wu, TM Tucker, C Nath, TR Kurfess, RW Vuduc
+Publication: Journal of Manufacturing Science and Engineering 139 (3), 031010
+
+157. A GPU-Accelerated Freeform Surface Offsetting Method for High-Resolution Subtractive 3D Printing (Machining)
+Citations:
+Authors: MM Hossain, C Nath, TM Tucker, RW Vuduc, TR Kurfess
+Publication: 
+
+158. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.97)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+159. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.73)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+160. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.69)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+161. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.66)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+162. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.65)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+163. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.63)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+164. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.59)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+165. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.57)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+166. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.52)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+167. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.47)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+168. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.43)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+169. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.38)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+170. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.32)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+171. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.27)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+172. ROSE User Manual: A Tool for Building Source-to-Source Translators Draft User Manual (version 0.9. 7.23)
+Citations:
+Authors: D Quinlan, C Liao, T Panas, R Matzke, M Schordan, R Vuduc, Q Yi
+Publication: 
+
+173. Introduction for Special Issue on Autotuning
+Citations:
+Authors: L Oliker, R Vuduc
+Publication: The International Journal of High Performance Computing Applications 27 (4 …
+
+174. Qameleon: Hardware/software cooperative automated tuning for heterogeneous architectures
+Citations:
+Authors: H Kim, R Vuduc
+Publication: Georgia Institute of Technology
+
+175. Communication-Optimal Parallel N-body Solvers
+Citations:
+Authors: A Chandramowlishwaran, RW Vuduc
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+176. The Sixth International Workshop on Automatic Performance Tuning (iWAPT2011)
+Citations:
+Authors: T Katagiri, R Vuduc
+Publication: Procedia Computer Science 4, 2124-2125
+
+177. Algorithms and software with turnable parallelism
+Citations:
+Authors: RW Vuduc
+Publication: Georgia Institute of Technology
+
+178. Unconventional wisdom in multicore computing
+Citations:
+Authors: R Vuduc
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+179. Petascale direct numerical simulation of blood flow on 200K cores and heterogeneous architectures
+Citations:
+Authors: RS Sampath, S Veerapaneni, G Biros, D Zorin, R Vuduc, JS Vetter, ...
+Publication: Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States); Center for …
+
+180. Parallel programming models
+Citations:
+Authors: R Vuduc
+Publication: 
+
+181. HiCOO: A Hierarchical Sparse Tensor Format for Tensor Decompositions
+Citations:
+Authors: J Li, J Sun, R Vuduc
+Publication: Computing 30, 205-231
+
+182. Comprehending Software Architecture using a Single-View Visualization
+Citations:
+Authors: T Panas, TW Epperly, DJ Quinlan, A Saebjoernsen, RW Vuduc
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+183. Cholesky Performance
+Citations:
+Authors: A Chandramowlishwaran, R Vuduc
+Publication: 
+
+184. An interface for a self-optimizing sparse matrix kernel library
+Citations:
+Authors: R Vuduc, JW Demmel, KA Yelick
+Publication: 
+
+185. International Journal of High Performance
+Citations:
+Authors: AA Mirin, WB Sawyer
+Publication: The International Journal of High Performance Computing Applications 19 (3 …
+
+186. Optimizations & Bounds for Sparse Symmetric Matrix-Vector Multiply
+Citations:
+Authors: BC Lee, RW Vuduc, JW Demmel, KA Yelick
+Publication: University of California, Berkeley
+
+187. International Journal of High Performance
+Citations:
+Authors: A Buluç, JR Gilbert
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+188. Performance Optimizations and Boundsfor Sparse Matrix-Vector Multiply
+Citations:
+Authors: R Vuduc, J Demmel, K Yelick, S Kamil, R Nishtala, B Lee
+Publication: 
+
+189. More automatic assembly of highly tuned code fragments
+Citations:
+Authors: R Vuduc
+Publication: 
+
+190. Automatic assembly of highly tuned code fragments
+Citations:
+Authors: R Vuduc
+Publication: 
+
+191. Optimizing Multigrid for Uniprocessors and SMPs
+Citations:
+Authors: R Vuduc, M Wittman, S Toupet
+Publication: 
+
+192. Well-Separated Pair Decomposition CS 294.3
+Citations:
+Authors: B Horowitz, R Vuduc
+Publication: 
+
+193. A Parallel Newton Solver for a Structured System
+Citations:
+Authors: R Vuduc
+Publication: 
+
+194. Superﬂuorescence in the presence of inhomogeneous broadening and relaxation
+Citations:
+Authors: R Vuduc
+Publication: 4. TITLE AND SUBTITLE, 369
+
+195. Superfluorescence in the presence of inhomogeneousbroadening and relaxation
+Citations:
+Authors: B Balko, IW Kay, JD Silk, R Vuduc, JW Neuberger
+Publication: Hyperfine interactions 107 (1-4), 369-379
+
+196. An Investigation Of The Possible Enhancement Of Nuclear Superfluorescence Through Crystalline And Hyperfine Interaction Effects
+Citations:
+Authors: B Balko, IW Kay, R Vuduc, JW Neuberger
+Publication: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON LASERS-SOCIETY FOR OPTICAL …
+
+197. Diagnosis, Tuning, and Redesign for Multicore Performance: A Case Study of the Fast Multipole Method
+Citations:
+Authors: A Ch, K Madduri, R Vuduc
+Publication: 
+
+198. Message from the IISWC 2015 General Co-Chairs
+Citations:
+Authors: T Conte, R Vuduc
+Publication: 
+
+199. Project Landing Page
+Citations:
+Authors: J Demmel, K Yelick, R Vuduc
+Publication: 
+
+200. Automatization of the Surface Finish Quality Inspection of Metal Parts Using Convolutional Neural Networks
+Citations:
+Authors: W Louhichi, M Isaev, K Saleeby, R Vuduc, T Kurfess
+Publication: 
+
+201. Sparse Hierarchical Tucker Factorization and its Application to Healthcare
+Citations:
+Authors: RC Kimis Perros, R Vuduc, J Sun
+Publication: 
+
+202. Crossroads The ACM Magazine for Students
+Citations:
+Authors: JW Choi, RW Vuduc
+Publication: 
+
+203. Performance Optimizations and Bounds for Sparse Matrix Kernels
+Citations:
+Authors: R Vuduc, JW Demmel, KA Yelick, S Kamil, R Nishtala, B Lee
+Publication: 
+
+204. Furious. js: a Model for Offloading Compute-Intensive JavaScript Applications
+Citations:
+Authors: M Dukhan, R Taylor, R Guthrie, R Vuduc
+Publication: 
+
+205. Polyadic Regression and its Application to Chemogenomics-Supplementary Material
+Citations:
+Authors: I Perros, F Wang, P Zhang, P Walker, R Vuduc, J Pathak, J Sun
+Publication: 
+
+206. REVIEWERS NOT TO INCLUDE: Not Listed
+Citations:
+Authors: K Skadron, WM Hwu, D Bader, D Manocha, R Vuduc, A Lastra, D Kaeli
+Publication: 
+
+207. CSE 6001: Intro to the CSE PhD (Fall 2018)
+Citations:
+Authors: R Vuduc, O Green
+Publication: 
+
+208. FOR GPUS
+Citations:
+Authors: H Kim, R Vuduc
+Publication: 
+
+209. Performance Evaluation of Concurrent Collections on High-Performance Multicore Computing Systems
+Citations:
+Authors: A Ch, K Knobe, R Vuduc
+Publication: 
+
+210. Report on NSF Workshop on Future Computing Platforms to Accelerate Next-Gen Sequencing (NGS) Applications
+Citations:
+Authors: D Bader, J Riedy, R Vuduc, M Parashar
+Publication: 
+
+211. Autotuning Scientific Kernels on Multicore Systems
+Citations:
+Authors: S Williams, J Carter, J Demmel, L Oliker, D Patterson, J Shalf, K Yelick, ...
+Publication: Cell 128, 256.0
+
+212. Parameterization and Search-space Exploitation of Loop Fusion
+Citations:
+Authors: Y Zhao, Q Yi, K Kennedy, D Quinlan, R Vuduc
+Publication: 
+
+213. Two Algorithms for Sorting On Heterogeneous Clusters
+Citations:
+Authors: K Spafford, J Meredith, J Vetter, A Chandramowlishwaran, D Noble, ...
+Publication: 
+
+214. libtorque: Portable Multithreaded Continuations for Scalable Event-Driven Programs
+Citations:
+Authors: N Black, R Vuduc
+Publication: 
+
+215. Automatic Performance Tuning of Sparse Matrix-Multiple Vector Multiply.
+Citations:
+Authors: TL Phan, R Vuduc
+Publication: 
+

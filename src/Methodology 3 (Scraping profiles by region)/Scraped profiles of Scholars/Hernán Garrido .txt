@@ -1,0 +1,145 @@
+Name = Hernán Garrido 
+Link = https://scholar.google.com/citations?hl=en&user=yu4o2YMAAAAJ
+University = National University of Cuyo
+region = south america
+Total Citations = 100
+
+1. Improvement of tuned mass damper by using rotational inertia through tuned viscous mass damper
+Citations: 52
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2013/11/1
+Publication: Engineering Structures
+Crossed: not crossed
+Starred: -
+Year: 2013
+
+2. Semi-active friction tendons for vibration control of space structures
+Citations: 14
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2014/10/27
+Publication: Journal of Sound and Vibration
+Crossed: not crossed
+Starred: -
+Year: 2014
+
+3. Experimental and theoretical study of semi-active friction tendons
+Citations: 7
+Authors:Hernan Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2016/11/1
+Publication: Mechatronics
+Crossed: not crossed
+Starred: -
+Year: 2016
+
+4. A straightforward method for tuning of Lyapunov-based controllers in semi-active vibration control applications
+Citations: 7
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2014/2/14
+Publication: Journal of Sound and Vibration
+Crossed: not crossed
+Starred: -
+Year: 2014
+
+5. On the assumed inherent stability of semi-active control systems
+Citations: 5
+Authors:Hernan Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2018/3/15
+Publication: Engineering Structures
+Crossed: not crossed
+Starred: -
+Year: 2018
+
+6. Equivalencia entre sistemas de control de vibraciones pasivos y semiactivos
+Citations: 5
+Authors:H Garrido, O Curadelli, D Ambrosini
+Publication_date: 2013
+Publication: XX Congreso sobre Métodos Numéricos y sus Aplicaciones-ENIEF
+Crossed: not crossed
+Starred: -
+Year: 2013
+
+7. Estudio paramétrico sobre la efectividad y la adaptabilidad del amortiguador sintonizado de masa semiactivo
+Citations: 5
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2012
+Publication: Mecánica Computacional
+Crossed: not crossed
+Starred: -
+Year: 2012
+
+8. A heuristic approach to output-only system identification under transient excitation
+Citations: 2
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2017/2/1
+Publication: Expert Systems with Applications
+Crossed: not crossed
+Starred: -
+Year: 2017
+
+9. Control semiactivo de vibraciones en sistemas estructurales
+Citations: 2
+Authors:Carlos Hernán Garrido
+Publication_date: 2015
+Publication: Universidad Nacional de Cuyo
+Crossed: not crossed
+Starred: -
+Year: 2015
+
+10. Damage detection through bilinear stiffness estimation in multi-degree-of-freedom frame structures
+Citations: 1
+Authors:Hernán Garrido, Oscar Curadelli
+Publication_date: 2014/1/1
+Publication: International Journal of Lifecycle Performance Engineering
+Crossed: not crossed
+Starred: -
+Year: 2014
+
+11. Resettable‐inertance inerter: A semiactive control device for energy absorption
+Citations: 
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2019/11
+Publication: Structural Control and Health Monitoring
+Crossed: not crossed
+Starred: -
+Year: 2019
+
+12. Control of relative vibration between flexible appendages using passive and semi-active isolation
+Citations: 
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2017/12/1
+Publication: Engineering Structures
+Crossed: not crossed
+Starred: -
+Year: 2017
+
+13. Analytical, numerical and experimental studies on the Semi-Active Friction Tendon
+Citations: 
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: 2017/1/1
+Publication: Procedia engineering
+Crossed: not crossed
+Starred: -
+Year: 2017
+
+14. ANÁLISIS DINÁMICO MODAL DE ESTRUCTURAS CON CONTROL SEMIACTIVO DYNAMIC MODAL ANALYSIS OF STRUCTURES PROVIDED WITH SEMI-ACTIVE CONTROL
+Citations: 
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: El método de descomposición modal ha demostrado ser una herramienta poderosa para el análisis de sistemas fuertemente lineales que poseen un número relativamente pequeño de elementos no lineales. De hecho, paquetes de software comercialmente disponibles incluyen este tipo de análisis para un conjunto predefinido de elementos no lineales. Por otra parte, el análisis dinámico de estructuras de muchos grados de libertad provistas de sistemas de control semiactivo puede considerarse dentro de esta clase de problemas. El presente trabajo estudia la precisión y la eficiencia del análisis dinámico modal aplicado a estructuras con control semiactivo. Para esto, se propone un método que consiste en separar el problema en dos sub-problemas acoplados: el primero contiene las ecuaciones de movimiento de la estructura a controlar (lineales) y el segundo las ecuaciones que gobiernan el comportamiento de los dispositivos de control semiactivo (no lineales). Este método se aplicó, como ejemplo, a un puente peatonal con un tensor semiactivo de fricción. Las principales conclusiones de este trabajo son:(1) la aproximación de la respuesta requirió más modos con control semiactivo que con control pasivo;(2) la aproximación del valor RMS de la respuesta requirió más modos que la del valor pico;(3) para aproximar la solución, los modos de Ritz (dependientes de la distribución espacial de la carga externa y de los dispositivos de control) resultaron más eficientes que los modos naturales de la estructura no controlada.
+Publication: ANÁLISIS DINÁMICO MODAL DE ESTRUCTURAS CON CONTROL SEMIACTIVO DYNAMIC MODAL ANALYSIS OF STRUCTURES PROVIDED WITH SEMI-ACTIVE CONTROL
+H Garrido, O Curadelli, D Ambrosini
+Related articles All 2 versions
+Crossed: not crossed
+Starred: -
+Year: 
+
+15. Mecánica Computacional, Volume XXXI. Number 13. Structural Dynamics (B)
+Citations: 
+Authors:Hernán Garrido, Oscar Curadelli, Daniel Ambrosini
+Publication_date: Un prometedor enfoque para el control de vibraciones en estructuras es el Control Semiactivo (CSA). Éste consiste en instalar, en la estructura vibrante, dispositivos disipadores de energía, con parámetros que pueden variar dentro de un intervalo. Un controlador conectado a sensores apropiados decide cómo ajustar los parámetros variables de estos dispositivos en cada instante de tiempo, de acuerdo a una estrategia de control previamente definida. Por las características intrínsecas del CSA, el sistema dinámico completo (estructura, sensores, controlador y dispositivos semiactivos) resulta ser fuertemente no lineal. Por esta razón, la evaluación del desempeño de los sistemas de CSA se realiza normalmente por simulaciones numéricas o ensayos experimentales a través de índices basados en las respuestas pico y/o cuadráticomedias de la estructura. En este trabajo se propone utilizar una técnica de …
+Publication: Mecánica Computacional, Volume XXXI. Number 13. Structural Dynamics (B)
+H Garrido, O Curadelli, D Ambrosini
+Related articles
+Crossed: not crossed
+Starred: -
+Year: 
+

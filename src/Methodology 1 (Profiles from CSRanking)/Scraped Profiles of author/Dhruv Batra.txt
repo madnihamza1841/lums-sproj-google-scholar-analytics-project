@@ -1,0 +1,928 @@
+https://scholar.google.com/citations?hl=en&user=_bs7PqgAAAAJ
+Total Citations = 7936
+
+1. VQA: Visual Question Answering
+Citations:1225
+Authors: S Antol, A Agrawal, J Lu, M Mitchell, D Batra, C Lawrence Zitnick, ...
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 2425-2433
+
+2. Grad-cam: Visual explanations from deep networks via gradient-based localization
+Citations:983
+Authors: RR Selvaraju, M Cogswell, A Das, R Vedantam, D Parikh, D Batra
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 618-626
+
+3. Hierarchical question-image co-attention for visual question answering
+Citations:480
+Authors: J Lu, J Yang, D Batra, D Parikh
+Publication: Advances In Neural Information Processing Systems, 289-297
+
+4. icoseg: Interactive co-segmentation with intelligent scribble guidance
+Citations:412
+Authors: D Batra, A Kowdle, D Parikh, J Luo, T Chen
+Publication: 2010 IEEE Computer Society Conference on Computer Vision and Pattern …
+
+5. Making the V in VQA matter: Elevating the role of image understanding in Visual Question Answering
+Citations:304
+Authors: Y Goyal, T Khot, D Summers-Stay, D Batra, D Parikh
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+6. A comparative study of modern inference techniques for structured discrete energy minimization problems
+Citations:299
+Authors: JH Kappes, B Andres, FA Hamprecht, C Schnörr, S Nowozin, D Batra, ...
+Publication: International Journal of Computer Vision 115 (2), 155-184
+
+7. A Comparative Study of Modern Inference Techniques for Discrete Energy Minimization Problems
+Citations:299
+Authors: JH Kappes, B Andres, FA Hamprecht, C Schnörr, S Nowozin, D Batra, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+8. Visual dialog
+Citations:240
+Authors: A Das, S Kottur, K Gupta, A Singh, D Yadav, JMF Moura, D Parikh, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+9. Joint unsupervised learning of deep representations and image clusters
+Citations:177
+Authors: J Yang, D Parikh, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+10. Diverse m-best solutions in markov random fields
+Citations:175
+Authors: D Batra, P Yadollahpour, A Guzman-Rivera, G Shakhnarovich
+Publication: European Conference on Computer Vision, 1-16
+
+11. Learning cooperative visual dialog agents with deep reinforcement learning
+Citations:155
+Authors: A Das, S Kottur, JMF Moura, S Lee, D Batra
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 2951-2960
+
+12. Human attention in visual question answering: Do humans and deep networks look at the same regions?
+Citations:151
+Authors: A Das, H Agrawal, L Zitnick, D Parikh, D Batra
+Publication: Computer Vision and Image Understanding 163, 90-100
+
+13. Reducing overfitting in deep networks by decorrelating representations
+Citations:130
+Authors: M Cogswell, F Ahmed, R Girshick, L Zitnick, D Batra
+Publication: arXiv preprint arXiv:1511.06068
+
+14. A corpus and evaluation framework for deeper understanding of commonsense stories
+Citations:110
+Authors: N Mostafazadeh, N Chambers, X He, D Parikh, D Batra, L Vanderwende, ...
+Publication: arXiv preprint arXiv:1604.01696
+
+15. A corpus and evaluation framework for deeper understanding of commonsense stories
+Citations:110
+Authors: N Mostafazadeh, N Chambers, X He, D Parikh, D Batra, L Vanderwende, ...
+Publication: arXiv preprint arXiv:1604.01696
+
+16. Vqa: Visual question answering
+Citations:107
+Authors: A Agrawal, J Lu, S Antol, M Mitchell, CL Zitnick, D Parikh, D Batra
+Publication: International Journal of Computer Vision 123 (1), 4-31
+
+17. Yin and yang: Balancing and answering binary visual questions
+Citations:105
+Authors: P Zhang, Y Goyal, D Summers-Stay, D Batra, D Parikh
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+18. Visual Storytelling
+Citations:99
+Authors: THK Huang, F Ferraro, N Mostafazadeh, I Misra, A Agrawal, J Devlin, ...
+Publication: NAACL
+
+19. Embodied question answering
+Citations:97
+Authors: A Das, S Datta, G Gkioxari, S Lee, D Parikh, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+20. Diverse beam search: Decoding diverse solutions from neural sequence models
+Citations:92
+Authors: AK Vijayakumar, M Cogswell, RR Selvaraju, Q Sun, S Lee, D Crandall, ...
+Publication: arXiv preprint arXiv:1610.02424
+
+21. Interactively co-segmentating topically related images with intelligent scribble guidance
+Citations:92
+Authors: D Batra, A Kowdle, D Parikh, J Luo, T Chen
+Publication: International journal of computer vision 93 (3), 273-292
+
+22. Analyzing the behavior of visual question answering models
+Citations:90
+Authors: A Agrawal, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1606.07356
+
+23. Deal or no deal? end-to-end learning for negotiation dialogues
+Citations:89
+Authors: M Lewis, D Yarats, YN Dauphin, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1706.05125
+
+24. Multiple Choice Learning: Learning to Produce Multiple Structured Outputs
+Citations:88
+Authors: A Guzman-Rivera, D Batra, P Kohli
+Publication: Advances in Neural Information Processing Systems 25, 1808-1816
+
+25. Discriminative Re-ranking of Diverse Segmentations
+Citations:79
+Authors: P Yadollahpour, D Batra, G Shakhnarovich
+Publication: Proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+
+26. Grad-CAM: Why did you say that?
+Citations:75
+Authors: RR Selvaraju, A Das, R Vedantam, M Cogswell, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1611.07450
+
+27. Neural baby talk
+Citations:69
+Authors: J Lu, J Yang, D Batra, D Parikh
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+28. Lr-gan: Layered recursive generative adversarial networks for image generation
+Citations:69
+Authors: J Yang, A Kannan, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1703.01560
+
+29. Don't just assume; look and answer: Overcoming priors for visual question answering
+Citations:65
+Authors: A Agrawal, D Batra, D Parikh, A Kembhavi
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+30. Learning class-specific affinities for image labelling
+Citations:61
+Authors: D Batra, R Sukthankar, T Chen
+Publication: 2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8
+
+31. Object-proposal evaluation protocol is' gameable'
+Citations:59
+Authors: N Chavali, H Agrawal, A Mahendru, D Batra
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+32. Stochastic multiple choice learning for training diverse deep ensembles
+Citations:57
+Authors: S Lee, SPS Prakash, M Cogswell, V Ranjan, D Crandall, D Batra
+Publication: Advances in Neural Information Processing Systems, 2119-2127
+
+33. Why M heads are better than one: Training a diverse ensemble of deep networks
+Citations:53
+Authors: S Lee, S Purushwalkam, M Cogswell, D Crandall, D Batra
+Publication: arXiv preprint arXiv:1511.06314
+
+34. Parlai: A dialog research software platform
+Citations:52
+Authors: AH Miller, W Feng, A Fisch, J Lu, D Batra, A Bordes, D Parikh, J Weston
+Publication: arXiv preprint arXiv:1705.06476
+
+35. Space-time shapelets for action recognition
+Citations:52
+Authors: D Batra, T Chen, R Sukthankar
+Publication: 2008 IEEE Workshop on Motion and video Computing, 1-6
+
+36. Graph r-cnn for scene graph generation
+Citations:51
+Authors: J Yang, J Lu, S Lee, D Batra, D Parikh
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 670-685
+
+37. Beyond trees: MRF inference via outer-planar decomposition
+Citations:50
+Authors: D Batra, AC Gallagher, D Parikh, T Chen
+Publication: 2010 IEEE Computer Society Conference on Computer Vision and Pattern …
+
+38. Submodular meets structured: Finding diverse subsets in exponentially-large structured item sets
+Citations:46
+Authors: A Prasad, S Jegelka, D Batra
+Publication: Advances in Neural Information Processing Systems, 2645-2653
+
+39. Deeper lstm and normalized cnn visual question answering model
+Citations:45
+Authors: J Lu, X Lin, D Batra, D Parikh
+Publication: GitHub repository
+
+40. A systematic exploration of diversity in machine translation
+Citations:45
+Authors: K Gimpel, D Batra, C Dyer, G Shakhnarovich
+Publication: Proceedings of the 2013 Conference on Empirical Methods in Natural Language …
+
+41. A systematic exploration of diversity in machine translation
+Citations:45
+Authors: K Gimpel, D Batra, C Dyer, G Shakhnarovich
+Publication: Proceedings of the 2013 Conference on Empirical Methods in Natural Language …
+
+42. Inference for order reduction in Markov random fields
+Citations:45
+Authors: AC Gallagher, D Batra, D Parikh
+Publication: CVPR 2011, 1857-1864
+
+43. A Systematic Exploration of Diversity in Machine Translation
+Citations:45
+Authors: K Gimpel, D Batra, C Dyer, G Shakhnarovich
+Publication: Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013
+
+44. Gabor filter based fingerprint classification using support vector machines
+Citations:43
+Authors: D Batra, G Singhal, S Chaudhury
+Publication: Proceedings of the IEEE INDICON 2004. First India Annual Conference, 2004 …
+
+45. Best of both worlds: Transferring knowledge from discriminative learning to a generative visual dialog model
+Citations:42
+Authors: J Lu, A Kannan, J Yang, D Parikh, D Batra
+Publication: Advances in Neural Information Processing Systems, 314-324
+
+46. Counting Everyday Objects in Everyday Scenes
+Citations:41
+Authors: P Chattopadhyay, R Vedantam, R RS, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1604.03505
+
+47. Efficiently enforcing diversity in multi-output structured prediction
+Citations:41
+Authors: A Guzman-Rivera, P Kohli, D Batra, R Rutenbar
+Publication: Artificial Intelligence and Statistics, 284-292
+
+48. A Multi-layer Composite Model for Human Pose Estimation.
+Citations:41
+Authors: K Duan, D Batra, DJ Crandall
+Publication: BMVC 2 (3), 5
+
+49. Natural language does not emerge'naturally'in multi-agent dialog
+Citations:40
+Authors: S Kottur, JMF Moura, S Lee, D Batra
+Publication: arXiv preprint arXiv:1706.08502
+
+50. Dynamic tree block coordinate ascent
+Citations:39
+Authors: D Tarlow, D Batra, P Kohli, V Kolmogorov
+Publication: International Conference on Machine Learning (ICML)
+
+51. Tighter relaxations for MAP-MRF inference: A local primal-dual gap based separation algorithm
+Citations:39
+Authors: D Batra, S Nowozin, P Kohli
+Publication: International Conference on Artificial Intelligence and Statistics (AISTATS)
+
+52. An alternative formulation for five point relative pose problem
+Citations:37
+Authors: D Batra, B Nabbe, M Hebert
+Publication: 2007 IEEE Workshop on Motion and Video Computing (WMVC'07), 21-21
+
+53. Optimizing expected intersection-over-union with candidate-constrained CRFs
+Citations:33
+Authors: F Ahmed, D Tarlow, D Batra
+Publication: Proceedings of the IEEE international conference on computer vision, 1850-1858
+
+54. An Efficient Message-Passing Algorithm for the M-Best MAP Problem
+Citations:33
+Authors: D Batra
+Publication: Conference on Uncertainty in Artificial Intelligence (UAI)
+
+55. Question relevance in VQA: identifying non-visual and false-premise questions
+Citations:31
+Authors: A Ray, G Christie, M Bansal, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1606.06622
+
+56. Neural-guided deductive search for real-time program synthesis from examples
+Citations:29
+Authors: A Kalyan, A Mohta, O Polozov, D Batra, P Jain, S Gulwani
+Publication: arXiv preprint arXiv:1804.01186
+
+57. Cloudcv: Large-scale distributed computer vision as a cloud service
+Citations:29
+Authors: H Agrawal, CS Mathialagan, Y Goyal, N Chavali, P Banik, A Mohapatra, ...
+Publication: Mobile cloud visual media computing, 265-290
+
+58. Empirical minimum bayes risk prediction: How to extract an extra few% performance from vision models with just three more parameters
+Citations:29
+Authors: V Premachandran, D Tarlow, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+59. We are humor beings: Understanding and predicting visual humor
+Citations:26
+Authors: A Chandrasekaran, AK Vijayakumar, S Antol, M Bansal, D Batra, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+60. Making the right moves: Guiding alpha-expansion using local primal-dual gaps
+Citations:26
+Authors: D Batra, P Kohli
+Publication: CVPR 2011, 1865-1872
+
+61. imodel: interactive co-segmentation for object of interest 3d modeling
+Citations:26
+Authors: A Kowdle, D Batra, WC Chen, T Chen
+Publication: European Conference on Computer Vision, 211-224
+
+62. Pythia v0. 1: the winning entry to the vqa challenge 2018
+Citations:25
+Authors: Y Jiang, V Natarajan, X Chen, M Rohrbach, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1807.09956
+
+63. Radio transformer networks: Attention models for learning to synchronize in wireless systems
+Citations:24
+Authors: TJ O'Shea, L Pemula, D Batra, TC Clancy
+Publication: 2016 50th Asilomar Conference on Signals, Systems and Computers, 662-666
+
+64. Towards transparent ai systems: Interpreting visual question answering models
+Citations:24
+Authors: Y Goyal, A Mohapatra, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1608.08974
+
+65. Seed image selection in interactive cosegmentation
+Citations:24
+Authors: D Batra, D Parikh, A Kowdle, T Chen, J Luo
+Publication: 2009 16th IEEE International Conference on Image Processing (ICIP), 2393-2396
+
+66. Sort story: Sorting jumbled images and captions into stories
+Citations:23
+Authors: H Agrawal, A Chandrasekaran, D Batra, D Parikh, M Bansal
+Publication: arXiv preprint arXiv:1606.07493
+
+67. Evaluating visual conversational agents via cooperative human-ai games
+Citations:22
+Authors: P Chattopadhyay, D Yadav, V Prabhu, A Chandrasekaran, A Das, S Lee, ...
+Publication: Fifth AAAI Conference on Human Computation and Crowdsourcing
+
+68. Gender classification of walkers via underfloor accelerometer measurements
+Citations:22
+Authors: D Bales, PA Tarazaga, M Kasarda, D Batra, AG Woolard, JD Poston, ...
+Publication: IEEE Internet of Things Journal 3 (6), 1259-1266
+
+69. Learning the right model: Efficient max-margin learning in laplacian crfs
+Citations:22
+Authors: D Batra, A Saxena
+Publication: 2012 IEEE Conference on Computer Vision and Pattern Recognition, 2136-2143
+
+70. Measuring machine intelligence through visual question answering
+Citations:21
+Authors: CL Zitnick, A Agrawal, S Antol, M Mitchell, D Batra, D Parikh
+Publication: AI Magazine 37 (1), 63-72
+
+71. Neural modular control for embodied question answering
+Citations:20
+Authors: A Das, G Gkioxari, S Lee, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1810.11181
+
+72. C-vqa: A compositional split of the visual question answering (vqa) v1. 0 dataset
+Citations:20
+Authors: A Agrawal, A Kembhavi, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1704.08243
+
+73. Talk the walk: Navigating new york city through grounded dialogue
+Citations:19
+Authors: H de Vries, K Shuster, D Batra, D Parikh, J Weston, D Kiela
+Publication: arXiv preprint arXiv:1807.03367
+
+74. Visual coreference resolution in visual dialog using neural module networks
+Citations:19
+Authors: S Kottur, JMF Moura, D Parikh, D Batra, M Rohrbach
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 153-169
+
+75. DivMCuts: Faster training of structural SVMs with diverse M-best cutting-planes
+Citations:19
+Authors: A Guzman-Rivera, P Kohli, D Batra
+Publication: Artificial Intelligence and Statistics, 316-324
+
+76. Active Learning for Structured Probabilistic Models With Histogram Approximation
+Citations:18
+Authors: Q Sun, A Laddha, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+77. Introduction
+Citations:18
+Authors: D Batra, A Kowdle, D Parikh, J Luo, T Chen
+Publication: Interactive Co-segmentation of Objects in Image Collections, 1-6
+
+78. End-to-end audio visual scene-aware dialog using multimodal attention-based video features
+Citations:17
+Authors: C Hori, H Alamri, J Wang, G Wichern, T Hori, A Cherian, TK Marks, ...
+Publication: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …
+
+79. Vip: Finding important people in images
+Citations:17
+Authors: C Solomon Mathialagan, AC Gallagher, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+80. Vip: Finding important people in images
+Citations:17
+Authors: C Solomon Mathialagan, AC Gallagher, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+81. DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cutting-Planes
+Citations:17
+Authors: A Guzman-Rivera, P Kohli, D Batra
+Publication: Proceedings of the Sixteenth International Conference on Artificial …
+
+82. DivMCuts: Faster Training of Structural SVMs with Diverse M-Best Cutting-Planes
+Citations:17
+Authors: A Guzman-Rivera, P Kohli, D Batra
+Publication: Proceedings of the Sixteenth International Conference on Artificial …
+
+83. Diverse beam search for improved description of complex scenes
+Citations:16
+Authors: AK Vijayakumar, M Cogswell, RR Selvaraju, Q Sun, S Lee, D Crandall, ...
+Publication: Thirty-Second AAAI Conference on Artificial Intelligence
+
+84. Combining the best of graphical models and convnets for semantic segmentation
+Citations:15
+Authors: M Cogswell, X Lin, S Purushwalkam, D Batra
+Publication: arXiv preprint arXiv:1412.4313
+
+85. MaxFlow Revisited: An Empirical Comparison of Maxflow Algorithms for Dense Vision Problems
+Citations:15
+Authors: T Verma, D Batra
+Publication: 
+
+86. Producing object cutouts in topically related images
+Citations:14
+Authors: J Luo, D Batra, AC Gallagher
+Publication: US Patent 8,280,164
+
+87. Producing object cutouts in topically related images
+Citations:14
+Authors: J Luo, D Batra, AC Gallagher
+Publication: US Patent 8,280,164
+
+88. Codraw: Visual dialog for collaborative drawing
+Citations:13
+Authors: JH Kim, D Parikh, D Batra, BT Zhang, Y Tian
+Publication: arXiv preprint arXiv:1712.05558
+
+89. The promise of premise: Harnessing question premises in visual question answering
+Citations:13
+Authors: A Mahendru, V Prabhu, A Mohapatra, D Batra, S Lee
+Publication: arXiv preprint arXiv:1705.00601
+
+90. Transcriptome-wide functional characterization reveals novel relationships among differentially expressed transcripts in developing soybean embryos
+Citations:13
+Authors: D Aghamirzaie, D Batra, LS Heath, A Schneider, R Grene, E Collakova
+Publication: BMC genomics 16 (1), 928
+
+91. Semi-Supervised Clustering via Learnt Codeword Distances.
+Citations:13
+Authors: D Batra, R Sukthankar, T Chen
+Publication: BMVC, 1-10
+
+92. Habitat: A platform for embodied ai research
+Citations:12
+Authors: M Savva, A Kadian, O Maksymets, Y Zhao, E Wijmans, B Jain, J Straub, ...
+Publication: arXiv preprint arXiv:1904.01201
+
+93. Resolving language and vision ambiguities together: Joint segmentation & prepositional attachment resolution in captioned scenes
+Citations:12
+Authors: G Christie, A Laddha, A Agrawal, S Antol, Y Goyal, K Kochersberger, ...
+Publication: arXiv preprint arXiv:1604.02125
+
+94. Bidirectional beam search: Forward-backward inference in neural sequence models for fill-in-the-blank image captioning
+Citations:11
+Authors: Q Sun, S Lee, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+95. Multimodal learning in loosely-organized web images
+Citations:11
+Authors: K Duan, DJ Crandall, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+96. Audio visual scene-aware dialog (avsd) challenge at dstc7
+Citations:9
+Authors: H Alamri, V Cartillier, RG Lopes, A Das, J Wang, I Essa, D Batra, D Parikh, ...
+Publication: arXiv preprint arXiv:1806.00525
+
+97. Putting the user in the loop for image-based modeling
+Citations:9
+Authors: A Kowdle, YJ Chang, A Gallagher, D Batra, T Chen
+Publication: International journal of computer vision 108 (1-2), 30-48
+
+98. Mode-marginals: Expressing uncertainty via diverse M-best solutions
+Citations:9
+Authors: V Ramakrishna, D Batra
+Publication: NIPS Workshop on Perturbations, Optimization, and Statistics
+
+99. Visual storytelling
+Citations:8
+Authors: F Ferraro, N Mostafazadeh, I Misra, A Agrawal, J Devlin, R Girshick, X He, ...
+Publication: arXiv preprint arXiv:1604.03968
+
+100. Towards vqa models that can read
+Citations:7
+Authors: A Singh, V Natarajan, M Shah, Y Jiang, X Chen, D Batra, D Parikh, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+101. Tarmac: Targeted multi-agent communication
+Citations:7
+Authors: A Das, T Gervet, J Romoff, D Batra, D Parikh, M Rabbat, J Pineau
+Publication: arXiv preprint arXiv:1810.11187
+
+102. Visual curiosity: Learning to ask questions to learn visual recognition
+Citations:7
+Authors: J Yang, J Lu, S Lee, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1810.00912
+
+103. Group Norm for Learning Structured SVMs with Unstructured Latent Variables
+Citations:7
+Authors: D Chen, D Batra, W Freeman
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 409-416
+
+104. Scribble based interactive 3d reconstruction via scene co-segmentation
+Citations:7
+Authors: A Kowdle, YJ Chang, D Batra, T Chen
+Publication: 2011 18th IEEE International Conference on Image Processing, 2577-2580
+
+105. VisDA: A synthetic-to-real benchmark for visual domain adaptation
+Citations:6
+Authors: X Peng, B Usman, N Kaushik, D Wang, J Hoffman, K Saenko
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+106. Hierarchical co-attention for visual question answering
+Citations:6
+Authors: J Lu, J Yang, D Batra, D Parikh
+Publication: Advances in Neural Information Processing Systems (NIPS) 2
+
+107. Gender classification using under floor vibration measurements
+Citations:6
+Authors: D Bales, P Tarazaga, M Kasarda, D Batra
+Publication: Dynamics of Coupled Structures, Volume 4, 377-383
+
+108. Submodboxes: Near-optimal search for a set of diverse object proposals
+Citations:6
+Authors: Q Sun, D Batra
+Publication: Advances in Neural Information Processing Systems, 1378-1386
+
+109. Dynamic planar-cuts: Efficient computation of min-marginals for outer-planar models
+Citations:6
+Authors: D Batra, T Chen
+Publication: NIPS Workshop on Discrete Optimization in Machine Learning
+
+110. Predicting User Preference for Movies using NetFlix database
+Citations:6
+Authors: D Goel, D Batra
+Publication: Project Report
+
+111. CRFs for Image Classification
+Citations:6
+Authors: D Parikh, D Batra
+Publication: Carnegie Mellon University
+
+112. CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog
+Citations:5
+Authors: S Kottur, JMF Moura, D Parikh, D Batra, M Rohrbach
+Publication: arXiv preprint arXiv:1903.03166
+
+113. Audio visual scene-aware dialog (avsd) track for natural language generation in dstc7
+Citations:5
+Authors: H Alamri, C Hori, TK Marks, D Batr, D Parikh
+Publication: DSTC7 at AAAI2019 Workshop 2
+
+114. Diverse M-best solutions in MRFs
+Citations:5
+Authors: P Yadollahpour, D Batra, G Shakhnarovich
+Publication: Workshop on Discrete Optimization in Machine Learning, NIPS
+
+115. Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance
+Citations:4
+Authors: RR Selvaraju, P Chattopadhyay, M Elhoseiny, T Sharma, D Batra, ...
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 526-541
+
+116. Interactive co-segmentation of objects in image collections (series: springerbriefs in computer science)
+Citations:4
+Authors: D BATRA, A KOWDLE, D PARIKH, J LUO, T CHEN
+Publication: Recherche 67, 02
+
+117. Interactive Co-segmentation of Objects in Image Collections
+Citations:4
+Authors: D Batra, A Kowdle, D Parikh, J Luo, T Chen
+Publication: Springer-Verlag New York Inc
+
+118. Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks
+Citations:3
+Authors: J Lu, D Batra, D Parikh, S Lee
+Publication: arXiv preprint arXiv:1908.02265
+
+119. Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering
+Citations:3
+Authors: R Vedantam, K Desai, S Lee, M Rohrbach, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1902.07864
+
+120. Taking a hint: Leveraging explanations to make vision and language models more grounded
+Citations:3
+Authors: RR Selvaraju, S Lee, Y Shen, H Jin, D Batra, D Parikh
+Publication: arXiv preprint arXiv:1902.03751
+
+121. Dialog System Technology Challenge 7
+Citations:3
+Authors: K Yoshino, C Hori, J Perez, LF D'Haro, L Polymenakos, C Gunasekara, ...
+Publication: arXiv preprint arXiv:1901.03461
+
+122. Multi-target embodied question answering
+Citations:3
+Authors: L Yu, X Chen, G Gkioxari, M Bansal, TL Berg, D Batra
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+123. Audio Visual Scene-Aware Dialog
+Citations:3
+Authors: H Alamri, V Cartillier, A Das, J Wang, A Cherian, I Essa, D Batra, TK Marks, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+124. Human pose estimation via multi-layer composite models
+Citations:3
+Authors: K Duan, D Batra, DJ Crandall
+Publication: Signal Processing 110, 15-26
+
+125. Submodular maximization and diversity in structured output spaces
+Citations:3
+Authors: A Prasad, S Jegelka, D Batra
+Publication: NIPS
+
+126. Group norm for learning latent structural svms
+Citations:3
+Authors: D Chen, D Batra, B Freeman, MK Johnson
+Publication: Advances in Neural Information Processing Systems Workshop on Optimization …
+
+127. Counterfactual Visual Explanations
+Citations:2
+Authors: Y Goyal, Z Wu, J Ernst, D Batra, D Parikh, S Lee
+Publication: arXiv preprint arXiv:1904.07451
+
+128. Embodied Question Answering in Photorealistic Environments with Point Cloud Perception
+Citations:2
+Authors: E Wijmans, S Datta, O Maksymets, A Das, G Gkioxari, S Lee, I Essa, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+129. Modeling the Long Term Future in Model-Based Reinforcement Learning
+Citations:2
+Authors: NR Ke, A Singh, A Touati, A Goyal, Y Bengio, D Parikh, D Batra
+Publication: 
+
+130. Pose tracking by efficiently exploiting global features
+Citations:2
+Authors: R Kumar, D Batra
+Publication: 2016 IEEE Winter Conference on Applications of Computer Vision (WACV), 1-9
+
+131. Human pose estimation through composite multi-layer models
+Citations:2
+Authors: K Duan, D Batra, D Crandall, K Duan, D Batra, D Crandall
+Publication: Signal Processing 110, 15-26
+
+132. From Linear Algebra to Matrix Groups
+Citations:1
+Authors: A Singh
+Publication: arXiv preprint arXiv:1907.11892
+
+133. Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future
+Citations:1
+Authors: NR Ke, A Singh, A Touati, A Goyal, Y Bengio, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1903.01599
+
+134. EvalAI: Towards Better Evaluation Systems for AI Agents
+Citations:1
+Authors: D Yadav, R Jain, H Agrawal, P Chattopadhyay, T Singh, A Jain, SB Singh, ...
+Publication: arXiv preprint arXiv:1902.03570
+
+135. Pythia-a platform for vision & language research
+Citations:1
+Authors: A Singh, V Natarajan, Y Jiang, X Chen, M Shah, M Rohrbach, D Batra, ...
+Publication: SysML Workshop, NeurIPS 2018
+
+136. nocaps: novel object captioning at scale
+Citations:1
+Authors: H Agrawal, K Desai, X Chen, R Jain, D Batra, D Parikh, S Lee, ...
+Publication: arXiv preprint arXiv:1812.08658
+
+137. Fabrik: An Online Collaborative Neural Network Editor
+Citations:1
+Authors: U Garg, V Prabhu, D Yadav, R Ramrakhya, H Agrawal, D Batra
+Publication: arXiv preprint arXiv:1810.11649
+
+138. Codraw: Collaborative drawing as a testbed for grounded goal-driven communication
+Citations:1
+Authors: N Kitaev, JH Kim, X Chen, M Rohrbach, Y Tian, D Batra, D Parikh
+Publication: 
+
+139. Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations
+Citations:1
+Authors: A Kalyan, S Lee, A Kannan, D Batra
+Publication: arXiv preprint arXiv:1806.02934
+
+140. Video scene-aware dialog track in dstc7.-
+Citations:1
+Authors: C Hori, TK Marks, D Parikh, D Batra
+Publication: 
+
+141. Empirical minimum Bayes risk prediction
+Citations:1
+Authors: V Premachandran, D Tarlow, AL Yuille, D Batra
+Publication: IEEE transactions on pattern analysis and machine intelligence 39 (1), 75-86
+
+142. Guest editors’ introduction: Special section on higher order graphical models in computer vision
+Citations:1
+Authors: K Alahari, D Batra, S Ramalingam, N Paragios, R Zemel
+Publication: IEEE transactions on pattern analysis and machine intelligence 37 (7), 1321-1322
+
+143. Semantic segmentation with deep learning
+Citations:1
+Authors: M Cogswell, D Batra
+Publication: SUNw: Scene Understanding Workshop, IEEE Conference on Computer Vision and …
+
+144. Cutout-search: Putting a name to the picture
+Citations:1
+Authors: D Batra, A Kowdle, D Parikh, T Chen
+Publication: 2009 IEEE Computer Society Conference on Computer Vision and Pattern …
+
+145. Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning
+Citations:
+Authors: J Aneja, H Agrawal, D Batra, A Schwing
+Publication: arXiv preprint arXiv:1908.08529
+
+146. Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning
+Citations:
+Authors: N Modhe, P Chattopadhyay, M Sharma, A Das, D Parikh, D Batra, ...
+Publication: arXiv preprint arXiv:1907.10580
+
+147. Chasing Ghosts: Instruction Following as Bayesian State Tracking
+Citations:
+Authors: P Anderson, A Shrivastava, D Parikh, D Batra, S Lee
+Publication: arXiv preprint arXiv:1907.02022
+
+148. CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication
+Citations:
+Authors: JH Kim, N Kitaev, X Chen, M Rohrbach, BT Zhang, Y Tian, D Batra, ...
+Publication: Proceedings of the 57th Annual Meeting of the Association for Computational …
+
+149. The Replica Dataset: A Digital Replica of Indoor Spaces
+Citations:
+Authors: J Straub, T Whelan, L Ma, Y Chen, E Wijmans, S Green, JJ Engel, ...
+Publication: arXiv preprint arXiv:1906.05797
+
+150. Trainable Decoding of Sets of Sequences for Neural Sequence Models
+Citations:
+Authors: A Kalyan, P Anderson, S Lee, D Batra
+Publication: International Conference on Machine Learning, 3211-3221
+
+151. SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation
+Citations:
+Authors: D Gordon, A Kadian, D Parikh, J Hoffman, D Batra
+Publication: arXiv preprint arXiv:1905.07512
+
+152. Emergence of Compositional Language with Deep Generational Transmission
+Citations:
+Authors: M Cogswell, J Lu, S Lee, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1904.09067
+
+153. An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search
+Citations:
+Authors: K Goyal, C Dyer, T Berg-Kirkpatrick
+Publication: arXiv preprint arXiv:1904.06834
+
+154. Embodied Visual Recognition
+Citations:
+Authors: J Yang, Z Ren, M Xu, X Chen, D Crandall, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1904.04404
+
+155. Embodied Multimodal Multitask Learning
+Citations:
+Authors: DS Chaplot, L Lee, R Salakhutdinov, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1902.01385
+
+156. Response to" Visual Dialogue without Vision or Dialogue"(Massiceti et al., 2018)
+Citations:
+Authors: A Das, D Parikh, D Batra
+Publication: arXiv preprint arXiv:1901.05531
+
+157. Cross-Task Knowledge Transfer for Visually-Grounded Navigation
+Citations:
+Authors: DS Chaplot, L Lee, R Salakhutdinov, D Parikh, D Batra
+Publication: 
+
+158. Visually grounded interaction and language
+Citations:
+Authors: F Strub, H de Vries, A Das, S Kottur, S Lee, M Malinowski, O Pietquin, ...
+Publication: Schedule Highlights
+
+159. Resolving vision and language ambiguities together: Joint segmentation & prepositional attachment resolution in captioned scenes
+Citations:
+Authors: G Christie, A Laddha, A Agrawal, S Antol, Y Goyal, K Kochersberger, ...
+Publication: Computer Vision and Image Understanding 163, 101-112
+
+160. Appreciation to IJCV Reviewers of 2016
+Citations:
+Authors: S Achar, H Ackermann, A Agudo, N Ahuja, Z Akata, K Alahari, P Aljabar, ...
+Publication: Int J Comput Vis 121, 1-4
+
+161. Abawajy, JH, see Ray, BR, JIoT Aug. 2016 544-553 Abdelwahab, S., Hamdaoui, B., Guizani, M., and Znati, T., Cloud of Things for Sensing-as-a-Service: Architecture, Algorithms …
+Citations:
+Authors: S Balasubramaniam, JM Jornet, M Pierobon, Y Koucheryavy, D Bales, ...
+Publication: IEEE Internet of Things Journal 3 (6), 1449
+
+162. 2015 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 37
+Citations:
+Authors: RP Adams, K Aftab, N Ahuja, K Alahari, WBH Ali, S An, C Archambeau, ...
+Publication: IEEE Transactions on Pattern Analysis and Machine Intelligence 38 (1), 1
+
+163. Candidate Constrained CRFs for Loss-Aware Structured Prediction
+Citations:
+Authors: F Ahmed, D Tarlow, D Batra
+Publication: arXiv preprint arXiv:1412.3369
+
+164. Object Proposals using Nonparametric Bounding Box Transfer
+Citations:
+Authors: N Chavali, D Batra
+Publication: SUNw: Scene Understanding Workshop, IEEE Conference on Computer Vision and …
+
+165. Active Learning for Structured Probabilistic Models
+Citations:
+Authors: Q Sun, A Laddha, D Batra
+Publication: SUNw: Scene Understanding Workshop, IEEE Conference on Computer Vision and …
+
+166. On graph-structured discrete labeling problems in computer vision: Learning, inference and applications
+Citations:
+Authors: D Batra
+Publication: Carnegie Mellon University
+
+167. UNSUPERVISED DISCOVERY OF DECISION STATES THROUGH INTRINSIC CONTROL
+Citations:
+Authors: N Modhe, M Sharma, P Chattopadhyay, A Das, D Parikh, D Batra, ...
+Publication: 
+
+168. INSIGHTS ON VISUAL REPRESENTATIONS FOR EMBODIED NAVIGATION TASKS
+Citations:
+Authors: E Wijmans, J Straub, D Batra, J Hoffman, A Morcos
+Publication: 
+
+169. Visual Landmark Selection for Generating Grounded and Interpretable Navigation Instructions
+Citations:
+Authors: S Agarwal, D Parikh, D Batra, P Anderson, S Lee
+Publication: 
+
+170. Efficient Inference and Learning in Graphical Models for Multi-organ Shape Segmentation
+Citations:
+Authors: A Barbu, N Paragios, D Batra
+Publication: 
+
+171. Fabrik: An Online Collaborative Neural Network
+Citations:
+Authors: U Garg, V Prabhu, D Yadav, R Ramrakhya, H Agarwal, D Batra
+Publication: 
+
+172. Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering Supplementary Material
+Citations:
+Authors: A Agrawal, D Batra, D Parikh, A Kembhavi
+Publication: 
+
+173. Embodied Question Answering: Supplementary Document
+Citations:
+Authors: A Das, S Datta, G Gkioxari, S Lee, D Parikh, D Batra
+Publication: 
+
+174. Supplementary Materials: Discriminative Re-ranking of Diverse Segmentations
+Citations:
+Authors: P Yadollahpour, D Batra, G Shakhnarovich
+Publication: 
+
+175. Supplementary Materials: Resolving Vision and Language Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes
+Citations:
+Authors: G Christie, A Laddha, A Agrawal, S Antol, Y Goyal, K Kochersberger, ...
+Publication: 
+
+176. Joint Unsupervised Learning of Deep Representations and Image Clusters Supplementary materials
+Citations:
+Authors: J Yang, D Parikh, D Batra
+Publication: 
+
+177. Beam Search for Top-B Decoding in Bi-RNNs
+Citations:
+Authors: Q Sun, D Batra
+Publication: 
+
+178. Supplementary Material: Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions
+Citations:
+Authors: A Ray, G Christie, M Bansal, D Batra, D Parikh
+Publication: 
+
+179. Supplementary Material: Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes
+Citations:
+Authors: G Christie, A Laddha, A Agrawal, S Antol, Y Goyal, K Kochersberger, ...
+Publication: 
+
+180. Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-in-the-Blank Image Captioning-Supplementary
+Citations:
+Authors: Q Sun, S Lee, D Batra
+Publication: 
+
+181. Towards Transparent AI Systems: Interpreting Visual Question Answering Models
+Citations:
+Authors: YGAMD Parikh, D Batra
+Publication: 
+
+182. Human Attention in Visual Question Answering: Where Do Humans Choose to Look?
+Citations:
+Authors: A Das, H Agrawal, L Zitnick, D Parikh, D Batra
+Publication: 
+
+183. Supplemental Materials: Group Norm for Learning Structured SVMs with Unstructured Latent Variables
+Citations:
+Authors: D Chen, D Batra, WT Freeman
+Publication: 
+
+184. Propose and Re-rank Semantic Segmentation via Deep Image Classification
+Citations:
+Authors: XLMCD Parikh, D Batra
+Publication: 
+
+185. Dynamic Planar-Cuts: Efficient Computation of Min-Marginals for Outer-Planar MRFs
+Citations:
+Authors: D Batra, T Chen
+Publication: 
+

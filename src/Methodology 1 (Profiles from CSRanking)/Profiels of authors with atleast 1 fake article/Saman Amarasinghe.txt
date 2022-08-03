@@ -1,0 +1,400 @@
+
+2. The raw microprocessor: A computational fabric for software circuits and general-purpose programs
+Citations:1161
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: IEEE micro 22 (2), 25-35
+
+3. Baring it all to software: The raw machine
+Citations:902
+Authors: E Waingold, M Taylor, V Sarkar, V Lee, W Lee, J Kim, M Frank, P Finch, ...
+Publication: Massachusetts Institute of Technology
+
+9. Evaluation of the Raw microprocessor: An exposed-wire-delay architecture for ILP and streams
+Citations:575
+Authors: MB Taylor, W Lee, J Miller, D Wentzlaff, I Bratt, B Greenwald, H Hoffmann, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 2
+
+14. PetaBricks: a language and compiler for algorithmic choice
+Citations:397
+Authors: J Ansel, C Chan, YL Wong, M Olszewski, Q Zhao, A Edelman, ...
+Publication: ACM Sigplan Notices 44 (6), 38-49
+
+15. A stream compiler for communication-exposed architectures
+Citations:397
+Authors: MI Gordon, W Thies, M Karczmarek, J Lin, AS Meli, AA Lamb, C Leger, ...
+Publication: ACM SIGOPS Operating Systems Review 36 (5), 291-303
+
+24. Opentuner: An extensible framework for program autotuning
+Citations:258
+Authors: J Ansel, S Kamil, K Veeramachaneni, J Ragan-Kelley, J Bosboom, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+39. A 16-issue multiple-program-counter microprocessor with point-to-point scalar operand network
+Citations:134
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: 2003 IEEE International Solid-State Circuits Conference, 2003. Digest of …
+
+42. Language and compiler support for stream programs
+Citations:124
+Authors: WF Thies
+Publication: Massachusetts Institute of Technology
+
+46. Compiler support for scalable and efficient memory systems
+Citations:109
+Authors: R Barua, W Lee, S Arnarasinghe, A Agarwal
+Publication: IEEE Transactions on Computers 50 (11), 1234-1247
+
+62. Autotuning algorithmic choice for input sensitivity
+Citations:69
+Authors: Y Ding, J Ansel, K Veeramachaneni, X Shen, UM O’Reilly, ...
+Publication: ACM SIGPLAN Notices 50 (6), 379-390
+
+63. StreamIt: A Compiler for Streaming ApplicationsЃ
+Citations:69
+Authors: W Thies, M Karczmarek, M Gordon, D Maze, J Wong, H Hoffmann, ...
+Publication: 
+
+65. Weld: A common runtime for high performance data analytics
+Citations:64
+Authors: S Palkar, JJ Thomas, A Shanbhag, D Narayanan, H Pirk, M Schwarzkopf, ...
+Publication: Conference on Innovative Data Systems Research (CIDR)
+
+74. 0-touch and 1-touch techniques for improving the availability of computer programs under protection without compromising security
+Citations:56
+Authors: S Mantripragada, T Garnett, D Bruening, V Kiriansky, B Chandramohan, ...
+Publication: US Patent 7,735,136
+
+83. Searching the world wide web in low-connectivity communities
+Citations:40
+Authors: W Thies, J Prevost, T Mahtab, G Cuevas, S Shakhshir, A Artola, B Vo, ...
+Publication: Proceedings of WWW 2
+
+85. Siblingrivalry: online autotuning through local competitions
+Citations:38
+Authors: J Ansel, M Pacula, YL Wong, C Chan, M Olszewski, UM O'Reilly, ...
+Publication: Proceedings of the 2012 international conference on Compilers, architectures …
+
+91. Simit: A language for physical simulation
+Citations:31
+Authors: F Kjolstad, S Kamil, J Ragan-Kelley, DIW Levin, S Sueda, D Chen, ...
+Publication: ACM Transactions on Graphics (TOG) 35 (2), 20
+
+104. Automating the construction of a complier heuristics using machine learning
+Citations:20
+Authors: MW Stephenson
+Publication: Massachusetts Institute of Technology
+
+106. Decoupling algorithms from the organization of computation for high performance image processing
+Citations:19
+Authors: JM Ragan-Kelley
+Publication: Massachusetts Institute of Technology
+
+111. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+113. Programmable microfluidics
+Citations:15
+Authors: WB Thies, JP Urbanski, M Cooper, D Wentzlaff, T Thorsen, ...
+Publication: presented at Stanford University
+
+114. Secure execution environment via program shepherding
+Citations:15
+Authors: VL Kiriansky
+Publication: Massachusetts Institute of Technology
+
+115. Halide: decoupling algorithms from schedules for high-performance image processing
+Citations:14
+Authors: J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...
+Publication: Communications of the ACM 61 (1), 106-115
+
+123. Maps: a compiler-managed memory system for software-exposed architectures
+Citations:13
+Authors: RK Barua
+Publication: Massachusetts Institute of Technology
+
+124. Helium: lifting high-performance stencil kernels from stripped x86 binaries to halide DSL code
+Citations:12
+Authors: C Mendis, J Bosboom, K Wu, S Kamil, J Ragan-Kelley, S Paris, Q Zhao, ...
+Publication: ACM SIGPLAN Notices 50 (6), 391-402
+
+125. A common machine language for grid-based architectures
+Citations:12
+Authors: W Thies, M Karczmarek, M Gordon, D Maze, J Wong, H Hoffmann, ...
+Publication: ACM SIGARCH Computer Architecture News 30 (3), 13
+
+126. 0-touch and 1-touch techniques for improving the availability of computer programs under protection without compromising security
+Citations:11
+Authors: S Mantripragada, T Garnett, DL Bruening, V Kiriansky, B Chandramohan, ...
+Publication: US Patent 8,171,548
+
+132. Language and compiler design for streaming applications
+Citations:10
+Authors: W Thies, MI Gordon, M Karczmarek, J Lin, D Maze, RM Rabbah, ...
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+135. SUDS: Automatic parallelization for Raw processors
+Citations:10
+Authors: MI Frank
+Publication: Massachusetts Institute of Technology
+
+138. The Raw processor: A composeable 32-bit fabric for embedded and general purpose computing
+Citations:10
+Authors: M Taylor, J Kim, J Miller, F Ghodrat, B Greenwald, P Johnson, W Lee, ...
+Publication: Proceedings of HotChips 13
+
+140. Tiled multicore processors
+Citations:9
+Authors: MB Taylor, W Lee, JE Miller, D Wentzlaff, I Bratt, B Greenwald, ...
+Publication: Multicore Processors and Systems, 1-33
+
+142. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+144. Compilation techniques for short-vector instructions
+Citations:8
+Authors: S Larsen
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+146. Tiramisu: A polyhedral compiler for expressing fast and portable code
+Citations:7
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, A Akkas, Y Zhang, ...
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+147. LQCD SciDAC-4 Project
+Citations:7
+Authors: PE Shanahan, D Trewartha, W Detmold, S Chou, F Kjolstad, ...
+Publication: Phys. Rev. D 97 (054513), 094506
+
+148. Baring it all to software: The raw machine
+Citations:7
+Authors: EW Michael, M Taylor, V Sarkar, W Lee, V Lee, J Kim, M Frank, P Finch, ...
+Publication: IEEE Computer
+
+153. The three pillars of machine programming
+Citations:5
+Authors: J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+154. Distributed functional programming in Scheme
+Citations:5
+Authors: A Schwendner
+Publication: Massachusetts Institute of Technology
+
+157. A graph editing framework for the StreamIt language
+Citations:5
+Authors: JC Reyes
+Publication: Massachusetts Institute of Technology
+
+158. The StreamIt development tool: A programming environment for StreamIt
+Citations:5
+Authors: KS Kuo
+Publication: Massachusetts Institute of Technology
+
+163. Tiramisu: A code optimization framework for high performance systems
+Citations:4
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, S Kamil, ...
+Publication: arXiv preprint arXiv:1804.10694
+
+166. Stream programming for image and video compression
+Citations:4
+Authors: MH Drake
+Publication: Massachusetts Institute of Technology
+
+167. Method and apparatus for copying/moving data on optical recording medium
+Citations:4
+Authors: SJ Cho
+Publication: US Patent 6,975,567
+
+176. A hybrid static/dynamic approach to scheduling stream programs
+Citations:3
+Authors: C Tan
+Publication: Massachusetts Institute of Technology
+
+178. Ubiquitous stream programming to facilitate the migration to multicore architectures
+Citations:3
+Authors: M Drake, D Zhang, M Gordon, J Sermulins, W Thies, A Dimock, R Rabbah, ...
+Publication: Proc. STMCS First Workshop on Software Tools for Multi-Core Systems
+
+179. Collaborative compilation
+Citations:3
+Authors: BR Wagner
+Publication: Massachusetts Institute of Technology
+
+181. An API for dynamic partial evaluation under DynamoRIO
+Citations:3
+Authors: C Leger
+Publication: Massachusetts Institute of Technology
+
+183. The raw microprocessor
+Citations:3
+Authors: M Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: IEEE Micro, Apr
+
+184. Spatial instruction scheduling for raw machines
+Citations:3
+Authors: SM Swenson
+Publication: Massachusetts Institute of Technology
+
+190. Computer-aided design for multilayer microfluidic chips
+Citations:2
+Authors: N Amin
+Publication: Massachusetts Institute of Technology
+
+192. Image-based motion estimation in a stream programming language
+Citations:2
+Authors: A Aziz
+Publication: Massachusetts Institute of Technology
+
+193. Modeling the scalability of acrylic stream programs
+Citations:2
+Authors: JN Wong
+Publication: Massachusetts Institute of Technology
+
+194. Linear state-space analysis and optimization of StreamIt programs
+Citations:2
+Authors: S Agrawal
+Publication: Massachusetts Institute of Technology
+
+201. A programming language for precision--cost tradeoffs
+Citations:1
+Authors: MD Steele
+Publication: Massachusetts Institute of Technology
+
+202. Compiling and optimizing spreadsheets for FPGA and multicore execution
+Citations:1
+Authors: A Hirsch
+Publication: Massachusetts Institute of Technology
+
+204. Cache optimizations for stream programs
+Citations:1
+Authors: Å SermuliÅ
+Publication: Massachusetts Institute of Technology
+
+205. Software orchestration of instruction level parallelism on tiled processor architectures
+Citations:1
+Authors: W Lee
+Publication: Massachusetts Institute of Technology
+
+215. Technical Report about Tiramisu: a Three-Layered Abstraction for Hiding Hardware Complexity from DSL Compilers
+Citations:
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, S Kamil, ...
+Publication: arXiv preprint arXiv:1803.00419
+
+216. Unfield sparse formats for tensor algebra compilers
+Citations:
+Authors: S Chou
+Publication: Massachusetts Institute of Technology
+
+220. Implementation and evaluation of an IVR rendering platform for data collection in the developing world
+Citations:
+Authors: A Lerer
+Publication: Massachusetts Institute of Technology
+
+226. Stream multicore processors
+Citations:
+Authors: MB Taylor, W Lee, JE Miller, D Wentzlaff, I Bratt, B Greenwald, ...
+Publication: Processor Design, 309-338
+
+229. Software Issues for Multicore Systems
+Citations:
+Authors: J Larus, RB AMD, L Harrison, D Kuck, M Scott, B Smith
+Publication: Principles and Practice of Parallel Programming: Proceedings of the eleventh …
+
+231. Understanding program structure and behavior
+Citations:
+Authors: SH Dharmawan
+Publication: Massachusetts Institute of Technology
+
+237. Characterizing function inlining with genetic programming
+Citations:
+Authors: C Yu
+Publication: Massachusetts Institute of Technology
+
+242. STS. 310 History of Science, Fall 2003
+Citations:
+Authors: D Kaiser
+Publication: 
+
+244. 8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002
+Citations:
+Authors: JW Belcher, P Dourmashkin
+Publication: 
+
+247. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+249. Michael Taylor
+Citations:
+Authors: M Taylor, MR Beaumont
+Publication: Beaux Arts
+
+257. Tiramisu: A Polyhedral Compiler with A Scheduling Language for Targeting High Performance Systems
+Citations:
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, A Akkas, ...
+Publication: 
+
+258. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+265. Perceptual Interfaces
+Citations:
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris, NB Priyantha, ...
+Publication: 
+
+267. 1.0 Technology Trends
+Citations:
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: 
+
+268. Helium
+Citations:
+Authors: C Mendis, J Bosboom, K Wu, S Kamil, J Ragan-Kelley, S Paris, Q Zhao, ...
+Publication: 
+
+269. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+270. ISCA 2014 external reviewers
+Citations:
+Authors: TM Aamodt, J Cong, P Ienne, D Abts, B Coppens, E Ipek, S Adve, CR Das, ...
+Publication: 
+
+272. Abdelzaher, TF, see He, T., T-PDS Oct 05 995-1006 Acacio, ME, J. Gonzalez, JM Garcia, and J. Duato. A two-level directory architecture for highly scalable cc-NUMA …
+Citations:
+Authors: A Agarwal, A Aggarwal, G Agrawal, AS Alfa, L Alvisi, H Amano, ...
+Publication: 
+
+274. Alban Douillet Evelyn Duesterwald Sandhya Dwarkadas Erik Eidt Dan Ernst
+Citations:
+Authors: J Abella, S Abraham, S Adve, T Afzal, D Albonesi, B Alpern, E Altman, ...
+Publication: 
+
+277. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: YS Lee, MB Nardelli, N Marzari, SC Graves, HV Jagadish, BC Ooi, ...
+Publication: 
+
+286. 31st Annual International Symposium on Computer Architecture ISCA 2004
+Citations:
+Authors: T Agerwala, M Taylor, W Lee, J Miller, D Wentzlaff, B Greenwald, ...
+Publication: 
+
+288. This page provides an index into the SC'95 Proceedings technical papers by
+Citations:
+Authors: D Abramson, VS Adve, G Agha, G Agrawal, V Allis, B Alpern, ...
+Publication: 
+
+291. Matthew Frank, Rajeev Barua, and Saman Amarasinghe Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: J Babb, M Rinard, CA Moritz, W Lee
+Publication: 

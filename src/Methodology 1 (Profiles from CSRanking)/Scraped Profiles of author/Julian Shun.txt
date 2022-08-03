@@ -1,0 +1,288 @@
+https://scholar.google.com/citations?hl=en&user=BGh9WU4AAAAJ
+Total Citations = 1340
+
+1. Ligra: a lightweight graph processing framework for shared memory
+Citations:422
+Authors: J Shun, GE Blelloch
+Publication: ACM Sigplan Notices 48 (8), 135-146
+
+2. Brief announcement: the problem based benchmark suite
+Citations:141
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons, A Kyrola, HV Simhadri, ...
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+3. Internally deterministic parallel algorithms can be fast
+Citations:103
+Authors: GE Blelloch, JT Fineman, PB Gibbons, J Shun
+Publication: ACM SIGPLAN Notices 47 (8), 181-192
+
+4. Multicore triangle computations without tuning
+Citations:67
+Authors: J Shun, K Tangwongsan
+Publication: 2015 IEEE 31st International Conference on Data Engineering, 149-160
+
+5. Smaller and faster: Parallel processing of compressed graphs with Ligra+
+Citations:64
+Authors: J Shun, L Dhulipala, GE Blelloch
+Publication: 2015 Data Compression Conference, 403-412
+
+6. Greedy sequential maximal independent set and matching are parallel on average
+Citations:58
+Authors: GE Blelloch, JT Fineman, J Shun
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+7. Connected spatial networks over random points and a route-length statistic
+Citations:56
+Authors: DJ Aldous, J Shun
+Publication: Statistical Science 25 (3), 275-288
+
+8. A simple and practical linear-work parallel algorithm for connectivity
+Citations:31
+Authors: J Shun, L Dhulipala, G Blelloch
+Publication: Proceedings of the 26th ACM symposium on Parallelism in algorithms and …
+
+9. Parallel lightweight wavelet tree, suffix array and FM-index construction
+Citations:27
+Authors: J Labeit, J Shun, GE Blelloch
+Publication: Journal of Discrete Algorithms 43, 2-17
+
+10. Sorting with asymmetric read and write costs
+Citations:27
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+11. Phase-concurrent hash tables for determinism
+Citations:25
+Authors: J Shun, GE Blelloch
+Publication: Proceedings of the 26th ACM symposium on Parallelism in algorithms and …
+
+12. Parallel algorithms for asymmetric read-write costs
+Citations:24
+Authors: N Ben-David, GE Blelloch, JT Fineman, PB Gibbons, Y Gu, C McGuffey, ...
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+13. Reducing contention through priority updates
+Citations:23
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Proceedings of the twenty-fifth annual ACM symposium on Parallelism in …
+
+14. Efficient algorithms with asymmetric read and write costs
+Citations:20
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: arXiv preprint arXiv:1511.01038
+
+15. Parallel local graph clustering
+Citations:18
+Authors: J Shun, F Roosta-Khorasani, K Fountoulakis, MW Mahoney
+Publication: Proceedings of the VLDB Endowment 9 (12), 1041-1052
+
+16. A simple parallel cartesian tree algorithm and its application to parallel suffix tree construction
+Citations:17
+Authors: J Shun, GE Blelloch
+Publication: ACM Transactions on Parallel Computing (TOPC) 1 (1), 8
+
+17. Julienne: A framework for parallel graph algorithms using work-efficient bucketing
+Citations:16
+Authors: L Dhulipala, G Blelloch, J Shun
+Publication: Proceedings of the 29th ACM Symposium on Parallelism in Algorithms and …
+
+18. An evaluation of parallel eccentricity estimation algorithms on undirected real-world graphs
+Citations:14
+Authors: J Shun
+Publication: Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …
+
+19. Parallel wavelet tree construction
+Citations:14
+Authors: J Shun
+Publication: 2015 Data Compression Conference, 63-72
+
+20. Sequential random permutation, list contraction and tree contraction are highly parallel
+Citations:14
+Authors: J Shun, Y Gu, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …
+
+21. Fast parallel computation of longest common prefixes
+Citations:14
+Authors: J Shun
+Publication: SC'14: Proceedings of the International Conference for High Performance …
+
+22. Practical parallel Lempel-Ziv factorization
+Citations:14
+Authors: J Shun, F Zhao
+Publication: 2013 Data Compression Conference, 123-132
+
+23. Parallelism in randomized incremental algorithms
+Citations:13
+Authors: GE Blelloch, Y Gu, J Shun, Y Sun
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+24. A top-down parallel semisort
+Citations:13
+Authors: Y Gu, J Shun, Y Sun, GE Blelloch
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+25. Theoretically efficient parallel graph algorithms can be fast and scalable
+Citations:12
+Authors: L Dhulipala, GE Blelloch, J Shun
+Publication: arXiv preprint arXiv:1805.05208
+
+26. Shared-memory parallelism can be simple, fast, and scalable
+Citations:11
+Authors: J Shun
+Publication: Morgan & Claypool
+
+27. Exploiting optimization for local graph clustering
+Citations:11
+Authors: K Fountoulakis, X Cheng, J Shun, F Roosta-Khorasani, MW Mahoney
+Publication: arXiv preprint arXiv:1602.01886
+
+28. GraphIt: A High-Performance DSL for Graph Analytics
+Citations:10
+Authors: Y Zhang, M Yang, R Baghdadi, S Kamil, J Shun, S Amarasinghe
+Publication: arXiv preprint arXiv:1805.00923
+
+29. Implicit decomposition for write-efficient connectivity algorithms
+Citations:9
+Authors: N Ben-David, G Blelloch, J Fineman, P Gibbons, Y Gu, C McGuffey, ...
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+30. A simple parallel cartesian tree algorithm and its application to suffix tree construction
+Citations:8
+Authors: GE Blelloch, J Shun
+Publication: 2011 Proceedings of the Thirteenth Workshop on Algorithm Engineering and …
+
+31. The parallel persistent memory model
+Citations:7
+Authors: GE Blelloch, PB Gibbons, Y Gu, C McGuffey, J Shun
+Publication: arXiv preprint arXiv:1805.05580
+
+32. Graphit: A high-performance graph dsl
+Citations:6
+Authors: Y Zhang, M Yang, R Baghdadi, S Kamil, J Shun, S Amarasinghe
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 121
+
+33. Parallel write-efficient algorithms and data structures for computational geometry
+Citations:6
+Authors: GE Blelloch, Y Gu, J Shun, Y Sun
+Publication: Proceedings of the 30th on Symposium on Parallelism in Algorithms and …
+
+34. Improved parallel construction of wavelet trees and rank/select structures
+Citations:4
+Authors: J Shun
+Publication: 2017 Data Compression Conference (DCC), 92-101
+
+35. Efficient implementation of a synchronous parallel push-relabel algorithm
+Citations:4
+Authors: N Baumstark, G Blelloch, J Shun
+Publication: Algorithms-ESA 2015, 106-117
+
+36. Efficient algorithms under asymmetric read and write costs
+Citations:3
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: arXiv preprint arXiv:1511.01038 1 (3.3)
+
+37. Beyond synchronous: new techniques for external-memory graph connectivity and minimum spanning forest
+Citations:3
+Authors: A Kyrola, J Shun, G Blelloch
+Publication: International Symposium on Experimental Algorithms, 123-137
+
+38. Models for connected networks over random points and a route-length statistic
+Citations:3
+Authors: DJ Aldous, J Shun
+Publication: preparation. Draft available at http://www. stat. berkeley. edu/users/aldous …
+
+39. Variational perspective on local graph clustering
+Citations:2
+Authors: K Fountoulakis, F Roosta-Khorasani, J Shun, X Cheng, MW Mahoney
+Publication: Mathematical Programming 174 (1-2), 553-573
+
+40. Priority update as a parallel primitive
+Citations:2
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Technical Report CMU-CS-13-101
+
+41. Chiller: Contention-centric Transaction Execution and Data Partitioning for Fast Networks
+Citations:1
+Authors: E Zamanian, J Shun, C Binnig, T Kraska
+Publication: arXiv preprint arXiv:1811.12204
+
+42. Notes on Simple Analysis for Parallel Maximal Independent Set and Maximal Matching Algorithms
+Citations:1
+Authors: J Shun
+Publication: 
+
+43. Reducing contention through priority updates (poster paper)
+Citations:1
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: PPoPP
+
+44. Connected networks over random points and a route-length statistic. I. Overview
+Citations:1
+Authors: DJ Aldous, J Shun
+Publication: preparation
+
+45. Parallel Algorithms for Butterfly Computations
+Citations:
+Authors: J Shi, J Shun
+Publication: arXiv preprint arXiv:1907.08607
+
+46. Theoretically-Efficient and Practical Parallel In-Place Radix Sorting
+Citations:
+Authors: O Obeya, E Kahssay, E Fan, J Shun
+Publication: The 31st ACM on Symposium on Parallelism in Algorithms and Architectures …
+
+47. Kaskade: Graph Views for Efficient Graph Analytics
+Citations:
+Authors: JMF da Trindade, K Karanasos, C Curino, S Madden, J Shun
+Publication: arXiv preprint arXiv:1906.05162
+
+48. Low-latency graph streaming using compressed purely-functional trees
+Citations:
+Authors: L Dhulipala, GE Blelloch, J Shun
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+49. LiTM: A Lightweight Deterministic Software Transactional Memory System
+Citations:
+Authors: Y Xia, X Yu, W Moses, J Shun, S Devadas
+Publication: Proceedings of the 10th International Workshop on Programming Models and …
+
+50. Greedy Sequential Maximal Independent Set and Matching are Parallel on Average
+Citations:
+Authors: J Shun
+Publication: 
+
+51. Program SPAA 2012
+Citations:
+Authors: F Becker, A Kosowski, N Nisse, I Rapaport, K Suchan, B Kempkes, ...
+Publication: 
+
+52. Models and Algorithms under Asymmetric Read and Write Costs
+Citations:
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: 
+
+53. HARCHOL-BALTER, Mor CMU-CS-15-141, CMU-CS-15-141R HARKES, Jan CMU-CS-15-115 HAUPTMANN, Alex CMU-CS-15-103 HE, Wangzi CMU-CS-15-129
+Citations:
+Authors: W HU, L JIANG, K JOSHI, A KARANDIKAR, SD KLEE, A KOMURAVELLI, ...
+Publication: 
+
+54. 2015 Theses by Author
+Citations:
+Authors: Y ABE, DY CHUNG, FMF CRUZ, Y FANG, S GANZFRIED, W HE, ...
+Publication: 
+
+55. Predicting Unroll Factors Using Supervised Classfication
+Citations:
+Authors: N Li, J Shun
+Publication: 
+
+56. Exposing Instruction-Level and Task Parallelism in Loops using Supervised Classification
+Citations:
+Authors: N Li, J Shun
+Publication: 
+
+57. Simple, Fast and Scalable Parallel Algorithms for Shared Memory
+Citations:
+Authors: J Shun
+Publication: 
+

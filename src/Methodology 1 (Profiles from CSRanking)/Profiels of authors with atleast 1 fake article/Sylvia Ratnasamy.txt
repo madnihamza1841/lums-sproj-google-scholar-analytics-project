@@ -1,0 +1,80 @@
+
+2. The Byzantine generals problem
+Citations:5813
+Authors: L Lamport, R Shostak, M Pease
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 4 (3), 382-401
+
+13. RouteBricks: exploiting parallelism to scale software routers
+Citations:696
+Authors: M Dobrescu, N Egi, K Argyraki, BG Chun, K Fall, G Iannaccone, A Knies, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+44. Rollback-recovery for middleboxes
+Citations:102
+Authors: J Sherry, PX Gao, S Basu, A Panda, A Krishnamurthy, C Maciocco, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 227-240
+
+46. Network requirements for resource disaggregation
+Citations:96
+Authors: PX Gao, A Narayan, S Karandikar, J Carreira, S Han, R Agarwal, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+48. Can software routers scale?
+Citations:95
+Authors: K Argyraki, S Baset, BG Chun, K Fall, G Iannaccone, A Knies, E Kohler, ...
+Publication: Proceedings of the ACM SIGCOMM Workshop on Programmable Routers for …
+
+78. Improved forwarding architecture and resource management for multi-core software routers
+Citations:21
+Authors: N Egi, A Greenhalgh, M Handley, G Iannaccone, M Manesh, L Mathy, ...
+Publication: 2009 Sixth IFIP International Conference on Network and Parallel Computing …
+
+80. Database breakpoint apparatus and method
+Citations:19
+Authors: EL Barsness, MB Brutman, RD Dettinger, M Majd, BE Olson, ...
+Publication: US Patent 7,363,617
+
+91. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+92. Open network interfaces for carrier networks
+Citations:8
+Authors: A Panda, JM McCauley, A Tootoonchian, J Sherry, T Koponen, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (1), 5-11
+
+93. Understanding the packet processing capabilities of multi-core servers
+Citations:8
+Authors: N Egi, M Dobrescu, J Du, K Argyraki, BG Chun, K Fall, G Iannaccone, ...
+Publication: Technical Report LABOS-REPORT-2009-001, EPFL, Switzerland
+
+97. Understanding the packet processing capability of multi-core servers
+Citations:7
+Authors: N Egi, M Dobrescu, J Du, K Argyraki, BG Chun, K Fall, G Iannaccone, ...
+Publication: Technical report, Intel Technical Report
+
+99. Evaluating the suitability of server network cards for software routers
+Citations:5
+Authors: M Manesh, K Argyraki, M Dobrescu, N Egi, K Fall, G Iannaccone, E Kohler, ...
+Publication: Proceedings of the Workshop on Programmable Routers for Extensible Services …
+
+101. Net2Text: Query-guided summarization of network forwarding behaviors
+Citations:4
+Authors: R Birkner, D Drachsler-Cohen, L Vanbever, M Vechev
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+117. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+122. Design and Implementation of a Cluster-based Software Router
+Citations:
+Authors: N Egi, M Dobrescu, K Argyraki, BG Chun, K Fall, G Iannaccone, A Knies, ...
+Publication: 
+
+132. Symposium Organizers
+Citations:
+Authors: T Anderson, M Baker, H Balakrishnan, E Brewer, S Gribble, S McCanne, ...
+Publication: 

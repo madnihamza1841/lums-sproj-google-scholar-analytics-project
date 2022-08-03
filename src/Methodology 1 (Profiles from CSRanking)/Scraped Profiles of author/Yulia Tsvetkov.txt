@@ -1,0 +1,243 @@
+https://scholar.google.com/citations?hl=en&user=SEDPkrsAAAAJ
+Total Citations = 1173
+
+1. Massively multilingual word embeddings
+Citations:133
+Authors: W Ammar, G Mulcaire, Y Tsvetkov, G Lample, C Dyer, NA Smith
+Publication: arXiv preprint arXiv:1602.01925
+
+2. Problems with evaluation of word embeddings using word similarity tasks
+Citations:126
+Authors: M Faruqui, Y Tsvetkov, P Rastogi, C Dyer
+Publication: RepEval 2016
+
+3. Metaphor Detection with Cross-Lingual Model Transfer
+Citations:105
+Authors: Y Tsvetkov, L Boytsov, A Gershman, E Nyberg, C Dyer
+Publication: ACL 2014, 248--258
+
+4. Sparse Overcomplete Word Vector Representations
+Citations:83
+Authors: M Faruqui, Y Tsvetkov, D Yogatama, C Dyer, NA Smith
+Publication: ACL 2015
+
+5. Evaluation of Word Vector Representations by Subspace Alignment
+Citations:81
+Authors: Y Tsvetkov, M Faruqui, W Ling, G Lample, C Dyer
+Publication: EMNLP 2015
+
+6. Not all contexts are created equal: Better word representations with variable attention
+Citations:75
+Authors: W Ling, L Chu-Cheng, Y Tsvetkov, S Amir
+Publication: EMNLP 2015
+
+7. Morphological inflection generation using character sequence to sequence learning
+Citations:74
+Authors: M Faruqui, Y Tsvetkov, G Neubig, C Dyer
+Publication: NAACL 2016
+
+8. Identification of multi-word expressions by combining multiple linguistic information sources
+Citations:56
+Authors: Y Tsvetkov, S Wintner
+Publication: EMNLP 2011, Computational Linguistics 2013
+
+9. Style transfer through back-translation
+Citations:47
+Authors: S Prabhumoye, Y Tsvetkov, R Salakhutdinov, AW Black
+Publication: ACL 2018
+
+10. Extraction of multi-word expressions from small parallel corpora
+Citations:43
+Authors: Y Tsvetkov, S Wintner
+Publication: COLING 2010 - Proceedings of the 23rd International Conference on …
+
+11. Cross-Lingual Metaphor Detection Using Common Semantic Features
+Citations:41
+Authors: Y Tsvetkov, E Mukomel, A Gershman
+Publication: Meta4NLP, NAACL/HLT 2013, 45
+
+12. Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning
+Citations:31
+Authors: Y Tsvetkov, S Sitaram, M Faruqui, G Lample, P Littell, D Mortensen, ...
+Publication: NAACL 2016
+
+13. Augmenting English adjective senses with supersenses
+Citations:28
+Authors: Y Tsvetkov, N Schneider, D Hovy, A Bhatia, M Faruqui, C Dyer
+Publication: LREC'14
+
+14. Incorporating dialectal variability for socially equitable language identification
+Citations:20
+Authors: D Jurgens, Y Tsvetkov, D Jurafsky
+Publication: Proceedings of the 55th Annual Meeting of the Association for Computational …
+
+15. A bottom up approach to category mapping and meaning change.
+Citations:20
+Authors: H Dubossarsky, Y Tsvetkov, C Dyer, E Grossman
+Publication: NetWordS, 66-70
+
+16. Identifying the L1 of non-native writers: the CMU-Haifa system
+Citations:18
+Authors: Y Tsvetkov, N Twitto, N Schneider, N Ordan, M Faruqui, V Chahuneau, ...
+Publication: BEA8, NAACL/HLT 2013, 279
+
+17. The CMU Machine Translation Systems at WMT 2013: Syntax, Synthetic Translation Options, and Pseudo-References
+Citations:18
+Authors: W Ammar, V Chahuneau, M Denkowski, G Hanneman, W Ling, ...
+Publication: WMT 2013
+
+18. Automatic acquisition of parallel corpora from websites with dynamic content
+Citations:18
+Authors: Y Tsvetkov, S Wintner
+Publication: LREC’10 - Proceedings of the Seventh conference on International Language …
+
+19. Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning
+Citations:17
+Authors: Y Tsvetkov, M Faruqui, W Ling, B MacWhinney, C Dyer
+Publication: ACL 2016
+
+20. Generating English Determiners in Phrase-Based Translation with Synthetic Translation Options
+Citations:16
+Authors: Y Tsvetkov, C Dyer, L Levin, A Bhatia
+Publication: WMT 2013
+
+21. Cross-Lingual Bridges with Models of Lexical Borrowing
+Citations:15
+Authors: Y Tsvetkov, C Dyer
+Publication: JAIR
+
+22. Constraint-Based Models of Lexical Borrowing
+Citations:14
+Authors: Y Tsvetkov, W Ammar, C Dyer
+Publication: NAACL 2015, 598--608
+
+23. Correlation-based Intrinsic Evaluation of Word Vector Representations
+Citations:13
+Authors: Y Tsvetkov, M Faruqui, C Dyer
+Publication: RepEval 2016
+
+24. Augmenting Translation Models with Simulated Acoustic Confusions for Improved Spoken Language Translation
+Citations:13
+Authors: Y Tsvetkov, F Metze, C Dyer
+Publication: EACL 2014, 616--625
+
+25. Lexicon stratification for translating out-of-vocabulary words
+Citations:12
+Authors: Y Tsvetkov, C Dyer
+Publication: ACL 2015, 125-131
+
+26. Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies
+Citations:8
+Authors: A Field, D Kliger, S Wintner, J Pan, D Jurafsky, Y Tsvetkov
+Publication: EMNLP 2018
+
+27. Writer profiling without the writer’s text
+Citations:8
+Authors: D Jurgens, Y Tsvetkov, D Jurafsky
+Publication: International Conference on Social Informatics, 537-558
+
+28. The cmu machine translation systems at wmt 2014
+Citations:6
+Authors: A Matthews, W Ammar, A Bhatia, W Feely, G Hanneman, E Schlinger, ...
+Publication: Proceedings of the Ninth Workshop on Statistical Machine Translation, 142-149
+
+29. RtGender: A corpus for studying differential responses to gender
+Citations:5
+Authors: R Voigt, D Jurgens, V Prabhakaran, D Jurafsky, Y Tsvetkov
+Publication: Proceedings of the Eleventh International Conference on Language Resources …
+
+30. Automatic classification of communicative functions of definiteness
+Citations:5
+Authors: A Bhatia, CC Lin, N Schneider, Y Tsvetkov, FT Al-Raisi, L Roostapour, ...
+Publication: COLING 2014, 1059
+
+31. Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs
+Citations:4
+Authors: S Kumar, Y Tsvetkov
+Publication: ICLR 2019
+
+32. Native language cognate effects on second language lexical choice
+Citations:4
+Authors: E Rabinovich, Y Tsvetkov, S Wintner
+Publication: Transactions of the Association for Computational Linguistics 6, 329-342
+
+33. A Unified Annotation Scheme for the Semantic/Pragmatic Components of Definiteness
+Citations:3
+Authors: A Bhatia, M Simons, L Levin, Y Tsvetkov, C Dyer, J Bender
+Publication: LREC'14
+
+34. IDENTIFICATION AND MODELING OF WORD FRAGMENTS IN SPONTANEOUS SPEECH
+Citations:3
+Authors: Y Tsvetkov, Z Sheikh, F Metze
+Publication: ICASSP 2013 - The 38th International Conference on Acoustics, Speech, and …
+
+35. Measuring Bias in Contextualized Word Representations
+Citations:2
+Authors: K Kurita, N Vyas, A Pareek, AW Black, Y Tsvetkov
+Publication: arXiv preprint arXiv:1906.07337
+
+36. Entity-centric contextual affective analysis
+Citations:2
+Authors: A Field, Y Tsvetkov
+Publication: arXiv preprint arXiv:1906.01762
+
+37. Contextual Affective Analysis: A Case Study of People Portrayals in Online# MeToo Stories
+Citations:2
+Authors: A Field, G Bhat, Y Tsvetkov
+Publication: ICWSM 2019
+
+38. Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings
+Citations:2
+Authors: T Manzini, YC Lim, Y Tsvetkov, AW Black
+Publication: NAACL 2019
+
+39. Style Transfer Through Multilingual and Feedback-Based Back-Translation
+Citations:1
+Authors: S Prabhumoye, Y Tsvetkov, AW Black, R Salakhutdinov
+Publication: arXiv preprint arXiv:1809.06284
+
+40. Linguistic Knowledge in Data-Driven Natural Language Processing
+Citations:1
+Authors: Y Tsvetkov
+Publication: Carnegie Mellon University
+
+41. CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology
+Citations:
+Authors: ACESG Bhat, DRMJG Carbonell, Y Tsvetkov
+Publication: SIGMORPHON 2019, 57
+
+42. Quantifying Social Biases in Contextual Word Representations
+Citations:
+Authors: K Kurita, N Vyas, A Pareek, AW Black, Y Tsvetkov
+Publication: 1st ACL Workshop on Gender Bias for Natural Language Processing
+
+43. CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology
+Citations:
+Authors: A Chaudhary, E Salesky, G Bhat, DR Mortensen, JG Carbonell, ...
+Publication: arXiv preprint arXiv:1907.10129
+
+44. Socially Responsible Natural Language Processing
+Citations:
+Authors: Y Tsvetkov, V Prabhakaran, R Voigt
+Publication: Companion Proceedings of The 2019 World Wide Web Conference, 1326-1326
+
+45. Proceedings of the Second Workshop on Subword/Character LEvel Models
+Citations:
+Authors: M Faruqui, H Schütze, I Trancoso, Y Tsvetkov, Y Yaghoobzadeh
+Publication: Proceedings of the Second Workshop on Subword/Character LEvel Models
+
+46. Socially Responsible NLP
+Citations:
+Authors: Y Tsvetkov, V Prabhakaran, R Voigt
+Publication: Proceedings of the 2018 Conference of the North American Chapter of the …
+
+47. Proceedings of the Workshop on Multilingual and Cross-lingual Methods in NLP
+Citations:
+Authors: D Das, C Dyer, M Faruqui, Y Tsvetkov
+Publication: Proceedings of the Workshop on Multilingual and Cross-lingual Methods in NLP
+
+48. Cross-Lingual Transfer of Linguistic and Metalinguistic Knowledge via Lexical Borrowing
+Citations:
+Authors: Y Tsvetkov
+Publication: Carnegie Mellon University
+

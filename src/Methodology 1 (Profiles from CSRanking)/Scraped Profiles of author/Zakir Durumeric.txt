@@ -1,0 +1,143 @@
+https://scholar.google.com/citations?hl=en&user=TxPSRHIAAAAJ
+Total Citations = 3176
+
+1. The Matter of Heartbleed
+Citations:467
+Authors: Z Durumeric, F Li, J Kasten, N Weaver, J Amann, J Beekman, M Payer, ...
+Publication: 2014 ACM SIGCOMM Internet Measurement Conference (IMC'14)
+
+2. ZMap: Fast Internet-Wide Scanning and its Security Applications
+Citations:467
+Authors: Z Durumeric, E Wustrow, JA Halderman
+Publication: 22nd USENIX Security Symposium (SEC'13)
+
+3. Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices
+Citations:360
+Authors: N Heninger, Z Durumeric, E Wustrow, JA Halderman
+Publication: 21st USENIX Security Symposium (SEC'12)
+
+4. Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice
+Citations:353
+Authors: D Adrian, K Bhargavan, Z Durumeric, P Gaudry, M Green, JA Halderman, ...
+Publication: 22nd ACM Conference on Computer and Communications Security (CCS'15)
+
+5. Understanding the Mirai Botnet
+Citations:333
+Authors: M Antonakakis, T April, M Bailey, M Bernhard, E Bursztein, J Cochran, ...
+Publication: 26th USENIX Security (SEC'17)
+
+6. Analysis of the HTTPS Certificate Ecosystem
+Citations:228
+Authors: Z Durumeric, J Kasten, M Bailey, JA Halderman
+Publication: 2013 ACM SIGCOMM Internet Measurement Conference (IMC'13)
+
+7. Censys: A Search Engine Backed by Internet-wide Scanning
+Citations:191
+Authors: Z Durumeric, D Adrian, A Mirian, M Bailey, JA Halderman
+Publication: 22nd ACM Conference on Computer and Communications Security (CCS'15)
+
+8. Security Analysis of the Estonian Internet Voting System
+Citations:175
+Authors: D Springall, T Finkenauer, Z Durumeric, J Kitcat, H Hursti, M MacAlpine, ...
+Publication: 21st ACM Conference on Computer and Communications Security (CCS'14)
+
+9. An Internet-Wide View of Internet-Wide Scanning
+Citations:97
+Authors: Z Durumeric, M Bailey, JA Halderman
+Publication: 23rd USENIX Security Symposium (SEC'14)
+
+10. Neither Snow Nor Rain Nor MITM... An Empirical Analysis of Email Delivery Security
+Citations:67
+Authors: Z Durumeric, D Adrian, A Mirian, J Kasten, E Bursztein, N Lidzborski, ...
+Publication: 2015 ACM Internet Measurement Conference (IMC'15)
+
+11. Users Really Do Plug in USB Drives They Find
+Citations:58
+Authors: M Tischer, Z Durumeric, S Foster, S Duan, A Mori, E Bursztein, M Bailey
+Publication: 37th IEEE Symposium on Security & Privacy (Oakland'16)
+
+12. On the Mismanagement and Maliciousness of Networks
+Citations:56
+Authors: J Zhang, Z Durumeric, M Bailey, M Liu, M Karir
+Publication: 21st Network & Distributed System Security Symposium (NDSS’14)
+
+13. The Security Impact of HTTPS Interception
+Citations:47
+Authors: Z Durumeric, Z Ma, D Springall, R Barnes, N Sullivan, E Bursztein, ...
+Publication: 24th Network and Distributed Systems Symposium (NDSS’17)
+
+14. You’ve Got Vulnerability: Exploring Effective Vulnerability Notifications
+Citations:45
+Authors: F Li, Z Durumeric, J Czyz, M Karami, M Bailey, D McCoy, S Savage, ...
+Publication: 25th USENIX Security Symposium (SEC'16)
+
+15. Zippier ZMap: Internet-Wide Scanning at 10 Gbps
+Citations:43
+Authors: D Adrian, Z Durumeric, G Singh, JA Halderman
+Publication: 8th USENIX Workshop on Offensive Technologies (WOOT'14)
+
+16. Towards a Complete View of the Certificate Ecosystem
+Citations:36
+Authors: B VanderSloot, J Amann, M Bernhard, Z Durumeric, M Bailey, ...
+Publication: 16th ACM Internet Measurement Conference (IMC ’16)
+
+17. Outsmarting proctors with smartwatches: A case study on wearable computing security
+Citations:30
+Authors: A Migicovsky, Z Durumeric, J Ringenberg, JA Halderman
+Publication: Conference on Financial Cryptography and Data Security (FC'14)
+
+18. An Internet-Wide View of ICS Devices
+Citations:25
+Authors: A Mirian, Z Ma, D Adrian, M Tischer, T Chuenchujit, T Yardley, R Berthier, ...
+Publication: 14th IEEE Privacy, Security and Trust Conference (PST'16)
+
+19. Tracking Certificate Misissuance in the Wild
+Citations:19
+Authors: D Kumar, Z Wang, M Hyder, J Dickinson, G Beck, D Adrian, J Mason, ...
+Publication: 39th IEEE Symposium on Security & Privacy ("Oakland'18")
+
+20. Security Challenges in an Increasingly Tangled Web
+Citations:16
+Authors: D Kumar, Z Ma, Z Durumeric, A Mirian, J Mason, JA Halderman, M Bailey
+Publication: 26th International Conference on World Wide Web (WWW'17)
+
+21. FTP: The Forgotten Cloud
+Citations:15
+Authors: D Springall, Z Durumeric, JA Halderman
+Publication: 46th IEEE/IFIP Intl. Conference on Dependable Systems and Networks (DSN'16)
+
+22. Network Maliciousness Susceptibility Analysis and Rating
+Citations:15
+Authors: M Liu, M Bailey, M Karir, J Zhang, Z Durumeric
+Publication: US Patent 20,160,065,620
+
+23. Target Generation for Internet-wide IPv6 Scanning
+Citations:12
+Authors: A Murdock, F Li, P Bramsen, Z Durumeric, V Paxson
+Publication: ACM Internet Measurement Conference (IMC'17)
+
+24. Measuring the Security Harm of TLS Crypto Shortcuts
+Citations:12
+Authors: D Springall, Z Durumeric, JA Halderman
+Publication: 16th ACM Internet Measurement Conference (IMC’16)
+
+25. Scanning the internet for liveness
+Citations:5
+Authors: S Bano, P Richter, M Javed, S Sundaresan, Z Durumeric, SJ Murdoch, ...
+Publication: ACM SIGCOMM Computer Communication Review 48 (2), 2-9
+
+26. The Danger of USB drives
+Citations:3
+Authors: M Tischer, Z Durumeric, E Bursztein, M Bailey
+Publication: IEEE Security & Privacy 15 (2), 62-69
+
+27. All Things Considered: An Analysis of IoT Devices on Home Networks
+Citations:1
+Authors: D Kumar, K Shen, B Case, D Garg, G Alperovich, D Kuznetsov, R Gupta, ...
+Publication: USENIX Security
+
+28. An Empirical Analysis of California Data Breaches
+Citations:
+Authors: R Chen, Z Durumeric
+Publication: 
+

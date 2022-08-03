@@ -1,0 +1,803 @@
+https://scholar.google.com/citations?hl=en&user=O0W9jEQAAAAJ
+Total Citations = 6415
+
+1. Dark silicon and the end of multicore scaling
+Citations:1704
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: 2011 38th Annual international symposium on computer architecture (ISCA …
+
+2. Exploiting ILP, TLP, and DLP with the polymorphous TRIPS architecture
+Citations:629
+Authors: K Sankaralingam, R Nagarajan, H Liu, C Kim, J Huh, D Burger, ...
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+3. Relax: An architectural framework for software recovery of hardware faults
+Citations:248
+Authors: M De Kruijf, S Nomura, K Sankaralingam
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 497-508
+
+4. Dynamically specialized datapaths for energy efficient computing
+Citations:224
+Authors: V Govindaraju, CH Ho, K Sankaralingam
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+5. A design space evaluation of grid processor architectures
+Citations:218
+Authors: R Nagarajan, K Sankaralingam, D Burger, SW Keckler
+Publication: Proceedings of the 34th annual ACM/IEEE international symposium on …
+
+6. Dark silicon and the end of multicore scaling
+Citations:213
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: IEEE Micro 32 (3), 122-134
+
+7. Distributed microarchitectural protocols in the TRIPS prototype processor
+Citations:196
+Authors: K Sankaralingam, R Nagarajan, R McDonald, R Desikan, S Drolia, ...
+Publication: 2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+8. Power challenges may end the multicore era
+Citations:163
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: Communications of the ACM 56 (2), 93-102
+
+9. Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures
+Citations:159
+Authors: E Blem, J Menon, K Sankaralingam
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+10. Dyser: Unifying functionality and parallelism specialization for energy-efficient computing
+Citations:153
+Authors: V Govindaraju, CH Ho, T Nowatzki, J Chhugani, N Satish, ...
+Publication: IEEE Micro 32 (5), 38-51
+
+11. Implementing signatures for transactional memory
+Citations:153
+Authors: D Sanchez, L Yen, MD Hill, K Sankaralingam
+Publication: 40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …
+
+12. Evaluating GPUs for network packet signature matching
+Citations:130
+Authors: R Smith, N Goyal, J Ormont, K Sankaralingam, C Estan
+Publication: 2009 IEEE International Symposium on Performance Analysis of Systems and …
+
+13. Distributed pagerank for p2p systems
+Citations:123
+Authors: K Sankaralingam, S Sethumadhavan, JC Browne
+Publication: High Performance Distributed Computing, 2003. Proceedings. 12th IEEE …
+
+14. On-chip interconnection networks of the TRIPS chip
+Citations:117
+Authors: P Gratz, C Kim, K Sankaralingam, H Hanson, P Shivakumar, SW Keckler, ...
+Publication: IEEE Micro 27 (5), 41-50
+
+15. Mapreduce for the cell broadband engine architecture
+Citations:84
+Authors: M De Kruijf, K Sankaralingam
+Publication: IBM Journal of Research and Development 53 (5), 10: 1-10: 12
+
+16. TRIPS: A polymorphous architecture for exploiting ILP, TLP, and DLP
+Citations:80
+Authors: K Sankaralingam, R Nagarajan, H Liu, C Kim, J Huh, N Ranganathan, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 1 (1), 62-93
+
+17. Inserting test points to control peak power during scan testing
+Citations:78
+Authors: R Sankaralingam, NA Touba
+Publication: 17th IEEE International Symposium on Defect and Fault Tolerance in VLSI …
+
+18. MapReduce for the Cell BE architecture
+Citations:67
+Authors: M de Kruijf, K Sankaralingam
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+19. iGPU: exception support and speculative execution on GPUs
+Citations:65
+Authors: J Menon, M De Kruijf, K Sankaralingam
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 72-83
+
+20. Implementation and evaluation of a dynamically routed processor operand network
+Citations:62
+Authors: P Gratz, K Sankaralingam, H Hanson, P Shivakumar, R McDonald, ...
+Publication: Proceedings of the First International Symposium on Networks-on-Chip, 7-17
+
+21. Sampling+ dmr: practical and low-overhead permanent fault detection
+Citations:61
+Authors: S Nomura, MD Sinclair, CH Ho, V Govindaraju, M De Kruijf, ...
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 201-212
+
+22. PLUG: flexible lookup modules for rapid deployment of new protocols in high-speed routers
+Citations:58
+Authors: L De Carli, Y Pan, A Kumar, C Estan, K Sankaralingam
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 207-218
+
+23. Static analysis and compiler design for idempotent processing
+Citations:56
+Authors: MA De Kruijf, K Sankaralingam, S Jha
+Publication: ACM SIGPLAN Notices 47 (6), 475-486
+
+24. Toward a multicore architecture for real-time ray-tracing
+Citations:56
+Authors: V Govindaraju, P Djeu, K Sankaralingam, M Vernon, WR Mark
+Publication: Proceedings of the 41st annual IEEE/ACM International Symposium on …
+
+25. Universal mechanisms for data-parallel architectures
+Citations:54
+Authors: K Sankaralingam, SW Keckler, WR Mark, D Burger
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+26. Power limitations and dark silicon challenge the future of multicore
+Citations:53
+Authors: H Esmaeilzadeh, E Blem, R St Amant, K Sankaralingam, D Burger
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (3), 11
+
+27. A wire-delay scalable microprocessor architecture for high performance systems
+Citations:52
+Authors: SW Keckler, D Burger, CR Moore, R Nagarajan, K Sankaralingam, ...
+Publication: 2003 IEEE International Solid-State Circuits Conference, 2003. Digest of …
+
+28. A general constraint-centric scheduling framework for spatial architectures
+Citations:51
+Authors: T Nowatzki, M Sartin-Tarm, L De Carli, K Sankaralingam, C Estan, ...
+Publication: ACM SIGPLAN Notices 48 (6), 495-506
+
+29. Design, integration and implementation of the DySER hardware accelerator into OpenSPARC
+Citations:50
+Authors: J Benson, R Cofell, C Frericks, CH Ho, V Govindaraju, T Nowatzki, ...
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+30. Exploring the potential of heterogeneous von neumann/dataflow execution models
+Citations:47
+Authors: T Nowatzki, V Gangadhar, K Sankaralingam
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 298-310
+
+31. Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance
+Citations:45
+Authors: N Ardalani, C Lestourgeon, K Sankaralingam, X Zhu
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 725-737
+
+32. Exploring the synergy of emerging workloads and silicon reliability trends
+Citations:43
+Authors: M De Kruijf, K Sankaralingam
+Publication: SELSE
+
+33. Dataflow predication
+Citations:43
+Authors: A Smith, R Nagarajan, K Sankaralingam, R McDonald, D Burger, ...
+Publication: 2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+34. ConAir: featherweight concurrency bug recovery via single-threaded idempotent execution
+Citations:41
+Authors: W Zhang, M De Kruijf, A Li, S Lu, K Sankaralingam
+Publication: ACM SIGPLAN Notices 48 (4), 113-126
+
+35. A detailed analysis of contemporary arm and x86 architectures
+Citations:38
+Authors: E Blem, J Menon, K Sankaralingam
+Publication: UW-Madison Technical Report
+
+36. Idempotent processor architecture
+Citations:38
+Authors: M De Kruijf, K Sankaralingam
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+37. Enabling gpgpu low-level hardware explorations with miaow: An open-source rtl implementation of a gpgpu
+Citations:31
+Authors: R Balasubramanian, V Gangadhar, Z Guo, CH Ho, C Joseph, J Menon, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (2), 21
+
+38. Routed inter-ALU networks for ILP scalability and performance
+Citations:31
+Authors: K Sankaralingam, VA Singh, SW Keckler, D Burger
+Publication: Proceedings 21st International Conference on Computer Design, 170-177
+
+39. Stream-dataflow acceleration
+Citations:28
+Authors: T Nowatzki, V Gangadhar, N Ardalani, K Sankaralingam
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+40. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:27
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+41. Pushing the limits of accelerator efficiency while retaining programmability
+Citations:26
+Authors: T Nowatzki, V Gangadhan, K Sankaralingam, G Wright
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+42. Pagerank computation and keyword search on distributed systems and p2p networks
+Citations:25
+Authors: K Sankaralingam, M Yalamanchi, S Sethumadhavan, JC Browne
+Publication: Journal of Grid Computing 1 (3), 291-307
+
+43. Idempotent code generation: Implementation, analysis, and evaluation
+Citations:24
+Authors: M De Kruijf, K Sankaralingam
+Publication: Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation …
+
+44. A technology-scalable architecture for fast clocks and high ILP
+Citations:23
+Authors: K Sankaralingam, R Nagarajan, D Burger, SW Keckler
+Publication: Interaction between Compilers and Computer Architectures, 117-139
+
+45. Architectural simulators considered harmful
+Citations:22
+Authors: T Nowatzki, J Menon, CH Ho, K Sankaralingam
+Publication: IEEE Micro 35 (6), 4-12
+
+46. Efficient execution of memory access phases using dataflow specialization
+Citations:22
+Authors: CH Ho, SJ Kim, K Sankaralingam
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 118-130
+
+47. Breaking SIMD shackles with an exposed flexible microarchitecture and the access execute PDG
+Citations:22
+Authors: V Govindaraju, T Nowatzki, K Sankaralingam
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+48. A unified model for timing speculation: Evaluating the impact of technology scaling, CMOS design style, and fault recovery mechanism
+Citations:22
+Authors: M De Kruijf, S Nomura, K Sankaralingam
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems & Networks …
+
+49. ISA wars: Understanding the relevance of ISA being RISC or CISC to performance, power, and energy on modern architectures
+Citations:21
+Authors: E Blem, J Menon, T Vijayaraghavan, K Sankaralingam
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (1), 3
+
+50. Challenge benchmarks that must be conquered to sustain the GPU revolution
+Citations:21
+Authors: ER Blem, M Sinclair, K Sankaralingam
+Publication: CELL 1024 (8), 228
+
+51. gem5, gpgpusim, mcpat, gpuwattch," your favorite simulator here" considered harmful
+Citations:16
+Authors: T Nowatzki, J Menon, CH Ho, K Sankaralingam
+Publication: 
+
+52. Reducing test power during test using programmable scan chain disable
+Citations:16
+Authors: R Sankaralingam, NA Touba
+Publication: Proceedings First IEEE International Workshop on Electronic Design, Test and …
+
+53. Simplescalar simulation of the powerpc instruction set architecture
+Citations:16
+Authors: K Sankaralingam, R Nagarajan, SW Keckler, D Burger
+Publication: 
+
+54. Porting CMP benchmarks to GPUs
+Citations:15
+Authors: MD Sinclair, H Duwe, K Sankaralingam
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+55. A computer model of flamelet distribution on the burning surface of a composite solid propellant
+Citations:15
+Authors: K Sankaralingam, SR Chakravarthy
+Publication: Combustion science and technology 161 (1), 49-68
+
+56. Analyzing behavior specialized acceleration
+Citations:14
+Authors: T Nowatzki, K Sankaralingam
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 697-711
+
+57. Optimization and mathematical modeling in computer architecture
+Citations:14
+Authors: T Nowatzki, M Ferris, K Sankaralingam, C Estan, N Vaish, D Wood
+Publication: Synthesis Lectures on Computer Architecture 8 (4), 1-144
+
+58. Polymorphous architectures: a unified approach for extracting concurrency of different granularities
+Citations:14
+Authors: K Sankaralingam
+Publication: 
+
+59. Computer processor providing exception handling with reduced state storage
+Citations:13
+Authors: J Menon, MA De Kruijf, K Sankaralingam
+Publication: US Patent 9,298,497
+
+60. Performance evaluation of a DySER FPGA prototype system spanning the compiler, microarchitecture, and hardware implementation
+Citations:13
+Authors: CH Hoy, V Govindarajuz, T Nowatzki, R Nagaraju, Z Marzec, P Agarwal, ...
+Publication: 2015 IEEE International Symposium on Performance Analysis of Systems and …
+
+61. Mechanisms and evaluation of cross-layer fault-tolerance for supercomputing
+Citations:13
+Authors: CH Ho, M de Kruijf, K Sankaralingam, B Rountree, M Schulz, ...
+Publication: 2012 41st International Conference on Parallel Processing, 510-519
+
+62. General parallel computations on desktop grid and P2P systems
+Citations:13
+Authors: JC Browne, M Yalamanchi, K Kane, K Sankaralingam
+Publication: Proceedings of the 7th workshop on Workshop on languages, compilers, and run …
+
+63. Near-memory data services
+Citations:12
+Authors: B Falsafi, M Stan, K Skadron, N Jayasena, Y Chen, J Tao, R Nair, ...
+Publication: IEEE Micro 36 (1), 6-13
+
+64. A graph-based program representation for analyzing hardware specialization approaches
+Citations:12
+Authors: T Nowatzki, V Govindaraju, K Sankaralingam
+Publication: IEEE Computer Architecture Letters 14 (2), 94-98
+
+65. Understanding the impact of gate-level physical reliability effects on whole program execution
+Citations:12
+Authors: R Balasubramanian, K Sankaralingam
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+66. Fixing, preventing, and recovering from concurrency bugs
+Citations:11
+Authors: DD Deng, GL Jin, M de Kruijf, A Li, B Liblit, S Lu, SX Qi, JL Ren, ...
+Publication: Science China Information Sciences 58 (5), 1-18
+
+67. Software infrastructure and tools for the TRIPS prototype
+Citations:10
+Authors: B Yoder, J Burrill, R McDonald, K Bush, K Coons, M Gebhart, M Govindan, ...
+Publication: Workshop on Modeling, Benchmarking and Simulation
+
+68. Miaow-an open source rtl implementation of a gpgpu
+Citations:9
+Authors: R Balasubramanian, V Gangadhar, Z Guo, CH Ho, C Joseph, J Menon, ...
+Publication: 2015 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS XVIII), 1-3
+
+69. Design and implementation of the PLUG architecture for programmable and efficient network lookups
+Citations:9
+Authors: A Kumar, L De Carli, SJ Kim, M de Kruijf, K Sankaralingam, C Estan, ...
+Publication: 2010 19th International Conference on Parallel Architectures and Compilation …
+
+70. Signature matching in network processing using SIMD/GPU architectures
+Citations:9
+Authors: N Goyal, J Ormont, R Smith, K Sankaralingam, C Estan
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+71. The design and dynamics of performance measurement systems in the public sector
+Citations:9
+Authors: CJ Heinrich, GR Marschke
+Publication: 
+
+72. Trips processor reference manual
+Citations:9
+Authors: R McDonald, D Burger, SW Keckler, K Sankaralingam, R Nagarajan
+Publication: Computer Science Department, University of Texas at Austin
+
+73. Multicore model from abstract single core inputs
+Citations:8
+Authors: E Blem, H Esmaeilzadeh, RS Amant, K Sankaralingam, D Burger
+Publication: IEEE Computer Architecture Letters 12 (2), 59-62
+
+74. Experiences in co-designing a packet classification algorithm and a flexible hardware platform
+Citations:8
+Authors: N Vaish, T Kooburat, L De Carli, K Sankaralingam, C Estan
+Publication: Proceedings of the 2011 ACM/IEEE Seventh Symposium on Architectures for …
+
+75. Scalable processing architecture
+Citations:8
+Authors: D Burger, S Keckler, K Sankaralingam, R Nagarajan
+Publication: US Patent App. 10/829,668
+
+76. Kickstarting semiconductor innovation with open source hardware
+Citations:7
+Authors: G Gupta, T Nowatzki, V Gangadhar, K Sankaralingam
+Publication: Computer 50 (6), 50-59
+
+77. Gem5, gpgpusim, mcpat, gpuwattch
+Citations:7
+Authors: T Nowatzki, J Menon, CH Ho, K Sankaralingam
+Publication: your favorite simulator here” considered harmful,” in 11th Annual Workshop …
+
+78. Get the parallelism out of my cloud
+Citations:7
+Authors: K Sankaralingam, RH Arpaci-Dusseau
+Publication: Proceedings of the 2nd USENIX conference on Hot topics in Parallelism, 1-6
+
+79. Hands-on introduction to computer science at the freshman level
+Citations:6
+Authors: R Balasubramanian, Z York, M Doran, A Biswas, T Girgin, ...
+Publication: Proceedings of the 45th ACM technical symposium on Computer science …
+
+80. Leap: Latency-energy-and area-optimized lookup pipeline
+Citations:6
+Authors: EN Harris, SL Wasmundt, L De Carli, K Sankaralingam, C Estan
+Publication: Proceedings of the eighth ACM/IEEE symposium on Architectures for networking …
+
+81. Memory Processing Core Architecture
+Citations:5
+Authors: K Sankaralingam, J Menon, L De Carli
+Publication: US Patent App. 14/453,990
+
+82. Virtually-aged sampling DMR: unifying circuit failure prediction and circuit failure detection
+Citations:5
+Authors: R Balasubramanian, K Sankaralingam
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+83. Towards an optimal file allocation strategy for SPECweb99
+Citations:5
+Authors: TW Keller, K Sankaralingam, HP Hofstee
+Publication: Workload characterization of emerging computer applications, 1-26
+
+84. Domain specialization is generally unnecessary for accelerators
+Citations:4
+Authors: T Nowatzki, V Gangadhar, K Sankaralingam, G Wright
+Publication: IEEE Micro 37 (3), 40-50
+
+85. CONFIGURING COARSE-GRAINED RECONFIGURABLE ARRAYS (CGRAs) FOR DATAFLOW INSTRUCTION BLOCK EXECUTION IN BLOCK-BASED DATAFLOW INSTRUCTION SET ARCHITECTURES (ISAs)
+Citations:4
+Authors: K Sankaralingam, GM Wright
+Publication: US Patent App. 14/861,201
+
+86. Integrated circuit providing fault prediction
+Citations:4
+Authors: R Balasubramanian, K Sankaralingam
+Publication: US Patent 9,500,705
+
+87. Open-source hardware: Opportunities and challenges
+Citations:4
+Authors: G Gupta, T Nowatzki, V Gangadhar, K Sankaralingam
+Publication: arXiv preprint arXiv:1606.01980
+
+88. Lookup engine with reconfigurable low latency computational tiles
+Citations:4
+Authors: K Sankaralingam, EN Harris, SL Wasmundt
+Publication: US Patent 9,231,865
+
+89. EPIC: Platform-as-a-service model for cloud networking
+Citations:4
+Authors: TA Benson, A Akella, S Sahu, A Shaikh
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+90. Signature matching in network processing using simd/gpu architectures
+Citations:4
+Authors: R Smith, N Goyal, J Ormont, K Sankaralingam, C Estan
+Publication: Int. Symp. on Performance Analysis of Systems and Software
+
+91. Constraint centric scheduling guide
+Citations:3
+Authors: M Sartin-Tarm, T Nowatzki, L De Carli, K Sankaralingam, C Estan
+Publication: ACM SIGARCH Computer Architecture News 41 (2), 17-21
+
+92. Lookup engine with programmable memory topology
+Citations:3
+Authors: C Estan, K Sankaralingam
+Publication: US Patent 7,940,755
+
+93. Applying hardware transactional memory for concurrency-bug failure recovery in production runs
+Citations:2
+Authors: Y Chen, S Wang, S Lu, K Sankaralingam
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 837-850
+
+94. Democratizing design for future computing platforms
+Citations:2
+Authors: L Ceze, MD Hill, K Sankaralingam, TF Wenisch
+Publication: arXiv preprint arXiv:1706.08597
+
+95. Computer with Hybrid Von-Neumann/Dataflow Execution Architecture
+Citations:2
+Authors: A Nowatzki, V Gangadhar, K Sankaralingam
+Publication: US Patent App. 14/813,945
+
+96. Computer accelerator system with improved efficiency
+Citations:2
+Authors: CH Ho, K Sankaralingam, S Kim
+Publication: US Patent App. 14/212,676
+
+97. MIAOW: An open source GPGPU
+Citations:2
+Authors: V Gangadhar, R Balasubramanian, M Drumond, Z Guo, J Menon, ...
+Publication: 2015 IEEE Hot Chips 27 Symposium (HCS), 1-43
+
+98. A scheduling framework for spatial architectures across multiple constraint-solving theories
+Citations:2
+Authors: T Nowatzki, M Sartin-Tarm, L De Carli, K Sankaralingam, C Estan, ...
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 37 (1), 2
+
+99. Memory processing units
+Citations:2
+Authors: J Menon, L De Carli, V Thiruvengadam, K Sankaralingam, C Estan
+Publication: 2014 IEEE Hot Chips 26 Symposium (HCS), 1-1
+
+100. Prototyping the DySER specialization architecture with OpenSPARC
+Citations:2
+Authors: J Benson, R Cofell, C Frericks, V Govindaraju, CH Ho, Z Marzec, ...
+Publication: 2012 IEEE Hot Chips 24 Symposium (HCS), 1-3
+
+101. Mechanisms for Parallelism Specialization for the DySER Architecture
+Citations:2
+Authors: V Govindaraju, CH Ho, T Nowatzki, K Sankaralingam
+Publication: UW-Madison, Tech. Rep. TR-1773
+
+102. Leveraging the untapped computation power of GPUs: fast spectral synthesis using texture interpolation
+Citations:2
+Authors: R Townsend, K Sankaralingam, MD Sinclair
+Publication: GPU Computing Gems Emerald Edition, 93-102
+
+103. Leveraging the untapped computation power of GPUs: fast spectral synthesis using texture interpolation
+Citations:2
+Authors: R Townsend, K Sankaralingam, MD Sinclair
+Publication: GPU Computing Gems 1
+
+104. Trips assembly language (tasl) manual
+Citations:2
+Authors: B Yoder, J Gibson, J Burrill, R McDonald, D Burger, SW Keckler, ...
+Publication: Computer Science Department, University of Texas at Austin
+
+105. Design and analysis of routed Inter-ALU Networks for ILP scalability and performance
+Citations:2
+Authors: VA Singh, K Sankaralingam, SW Keckler, D Burger
+Publication: Department of Computer Sciences, the University of Texas at Austin
+
+106. Hybrid optimization/heuristic instruction scheduling for programmable accelerator codesign.
+Citations:1
+Authors: T Nowatzki, N Ardalani, K Sankaralingam, J Weng
+Publication: PACT, 36:1-36:15
+
+107. Mpu-bwm: Accelerating sequence alignment
+Citations:1
+Authors: T Vijayaraghavan, A Rajesh, K Sankaralingam
+Publication: IEEE Computer Architecture Letters 17 (2), 179-182
+
+108. Studying hybrid von-neumann/dataflow execution models
+Citations:1
+Authors: T Nowatzki, V Govindaraju, K Sankaralingam
+Publication: 
+
+109. Estimating GPU speedups for programs without writing a single line of GPU code
+Citations:1
+Authors: N Ardalani, K Sankaralingam, X Zhu
+Publication: 
+
+110. SWSL: software synthesis for network lookup
+Citations:1
+Authors: SJ Kim, L De Carli, K Sankaralingam, C Estan
+Publication: Proceedings of the ninth ACM/IEEE symposium on Architectures for networking …
+
+111. Flashcard effectiveness for second graders
+Citations:1
+Authors: RL Husman
+Publication: 
+
+112. OpenSPLySER: The Integrated OpenSPARC and DySER Design
+Citations:1
+Authors: J Benson, R Cofell, C Frericks, CH Ho, K Sankaralingam
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+113. Compiler construction of idempotent regions
+Citations:1
+Authors: M de Kruijf, K Sankaralingam, S Jha
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+114. A fast and highly accurate path delay emulation framework for logic-emulation of timing speculation
+Citations:1
+Authors: S Nomura, K Sankaralingam, R Sankaralingam
+Publication: 2010 IEEE International Test Conference, 1-10
+
+115. Design and evaluation of dynamically specialized datapaths with the dyser architecture
+Citations:1
+Authors: V Govindaraju, CH Ho, K Sankaralingam
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+116. The Design, Modeling, and Evaluation of the Relax Architectural Framework
+Citations:1
+Authors: M de Kruijf, S Nomura, K Sankaralingam
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+117. Design and construction of a second-generation hand-powered vehicle for the disabled
+Citations:1
+Authors: KR Ramsey
+Publication: 
+
+118. A Static Analysis-based Cross-Architecture Performance Prediction Using Machine Learning
+Citations:
+Authors: N Ardalani, U Thakker, A Albarghouthi, K Sankaralingam
+Publication: arXiv preprint arXiv:1906.07840
+
+119. Heterogeneous Von Neumann/dataflow microprocessors
+Citations:
+Authors: T Nowatzki, V Gangadhar, K Sankaralingam
+Publication: Communications of the ACM 62 (6), 83-91
+
+120. High-Speed, Fixed-Function, Computer Accelerator
+Citations:
+Authors: K Sankaralingam, A Nowatzki, V Gangadhar
+Publication: US Patent App. 15/635,864
+
+121. Applying Transactional Memory for Concurrency-Bug Failure Recovery in Production Runs
+Citations:
+Authors: Y Chen, S Wang, S Lu, K Sankaralingam
+Publication: IEEE Transactions on Parallel and Distributed Systems 30 (5), 990-1006
+
+122. Architecture and Implementation of the TRIPS Processor........... and Premkishore Shivakumar
+Citations:
+Authors: SW Keckler, D Burger, K Sankaralingam, R Nagarajan, R McDonald, ...
+Publication: Unique Chips and Systems, 17-56
+
+123. Reconfigurable, Application-Specific Computer Accelerator
+Citations:
+Authors: K Sankaralingam, A Nowatzki, V Gangadhar
+Publication: US Patent App. 15/416,670
+
+124. Computer Architecture with Synergistic Heterogeneous Processors
+Citations:
+Authors: K Sankaralingam, A Nowatzki
+Publication: US Patent App. 15/241,488
+
+125. Method of Estimating Program Speed-Up in Highly Parallel Architectures Using Static Analysis
+Citations:
+Authors: K Sankaralingam, N Ardalani, U Thakker
+Publication: US Patent App. 15/070,466
+
+126. Computer processor providing exception handling with reduced state storage
+Citations:
+Authors: J Menon, MA De Kruijf, K Sankaralingam
+Publication: US Patent 9,619,233
+
+127. Modularizing the microprocessor core to outperform traditional out-of-order
+Citations:
+Authors: T Nowatzki, K Sankaralingam
+Publication: 2016 IEEE Hot Chips 28 Symposium (HCS), 1-4
+
+128. Computer system predicting memory failure
+Citations:
+Authors: A Yazdanbakhsh, R Balasubramanian, A Nowatzki, K Sankaralingam
+Publication: US Patent 9,384,858
+
+129. Method of estimating program speed-up with highly parallel architectures
+Citations:
+Authors: K Sankaralingam, N Ardalani, X Zhu
+Publication: US Patent 9,384,016
+
+130. A Heterogeneous Von Neumann/Explicit Dataflow Processor
+Citations:
+Authors: T Nowatzki, V Gangadhar, K Sankaralingam
+Publication: IEEE Micro 36 (3), 20-30
+
+131. Accelerating the Accelerator Memory Interface with Access-Execute and Dataflow
+Citations:
+Authors: CH Ho, SJ Kim, K Sankaralingam
+Publication: IEEE Micro 36 (3), 31-41
+
+132. Computer processor providing error recovery with idempotent regions
+Citations:
+Authors: K Sankaralingam, MA De Kruijf, CH Ho
+Publication: US Patent 9,244,772
+
+133. Memory Processing Units
+Citations:
+Authors: K Sankaralingam, C Estan
+Publication: IEEE MICRO 36 (1), 12-13
+
+134. Comprehensive Circuit Failure Prediction for Logic and SRAM Using Virtual Aging
+Citations:
+Authors: A Yazdanbakhsh, R Balasubramanian, T Nowatzki, K Sankaralingam
+Publication: IEEE Micro 35 (6), 24-36
+
+135. Memory Access Dataflow
+Citations:
+Authors: K Sankaralingam, SJ Kim, CH Ho
+Publication: 
+
+136. Dynamic hardware specialization-using moore's bounty without burning the chip down
+Citations:
+Authors: K Sankaralingam
+Publication: 2013 International Conference on Compilers, Architecture and Synthesis for …
+
+137. Can lock-free and combining techniques co-exist? A novel approach on concurrent queue
+Citations:
+Authors: C Min, YI Eom
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+138. Constraint Centric Scheduling Guide
+Citations:
+Authors: C Estan, K Sankaralingam, L De Carli, T Nowatzki, M Sartin-Tarm
+Publication: 
+
+139. A Detailed Analysis of Contemporary ARM and x86 Architectures
+Citations:
+Authors: K Sankaralingam, J Menon, E Blem
+Publication: 
+
+140. Mechanisms for Parallelism Specialization for the DySER Architecture
+Citations:
+Authors: K Sankaralingam, T Nowatzki, CH Ho, V Govindaraju
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+141. 4 Awards
+Citations:
+Authors: TF Wenisch, A Buyuktosunoglu, U Sensors, V Sharma, S Cosemans, ...
+Publication: 
+
+142. 3 Guest Editors’ Introduction: Top Picks from the 2011 Computer Architecture Conferences Paolo Faraboschi and TN Vijaykumar 7 Kilo TM: Hardware Transactional Memory for GPU …
+Citations:
+Authors: WWL Fung, I Singh, A Brownsword, TM Aamodt, B Grot, J Hestness, ...
+Publication: 
+
+143. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: J Mars, L Tang, R Hundt, G Michelogiannakis, N Jiang, DU Becker, ...
+Publication: 
+
+144. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+145. On Varying the Detectability of Symbols to Encode Data Uncertainty
+Citations:
+Authors: DP Huffman
+Publication: 
+
+146. Flexible Lookup Modules for Rapid Deployment of New Protocols in High-speed Routers
+Citations:
+Authors: LDCYP Amit, KCEK Sankaralingam
+Publication: 
+
+147. Architecture and Implementation of the TRIPS Processor
+Citations:
+Authors: SW Keckler, D Burger, K Sankaralingam, R Nagarajan, R McDonald, ...
+Publication: Computer Engineering Series, 1
+
+148. November 16, 2006
+Citations:
+Authors: K Sankaralingam
+Publication: 
+
+149. Application Binary Interface (ABI) Manual
+Citations:
+Authors: AL Smith, J Burrill, R Nagarajan, R McDonald, K Sankaralingam, ...
+Publication: Computer Science Department, University of Texas at Austin
+
+150. AD£ L¦ eceiver Modeling-Final¦ eport
+Citations:
+Authors: V Agarwal, R Desikan, K Sankaralingam
+Publication: 
+
+151. ЫФ Ъ к ж Хг а в Й Ф и ж ийж Ыйжк н
+Citations:
+Authors: V Agarwal, R agopalan Desikan, K Sankaralingam
+Publication: 
+
+152. A descriptive study of the current status of physical leisure activities in Wisconsin nursing homes
+Citations:
+Authors: L McKenna
+Publication: 
+
+153. A comparison of Wisconsin area health clubs in regards to participant safety
+Citations:
+Authors: DH Lange
+Publication: 
+
+154. Session 1A Hardware Accelerators
+Citations:
+Authors: MN Bojnordi, E Ipek, D Mahajan, J Park, E Amaro, H Sharma, ...
+Publication: 
+
+155. 40 years of computer architecture research at University of Wisconsin-Madison
+Citations:
+Authors: M de Kruijf, S Nomura, K Sankaralingam
+Publication: 
+
+156. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+157. 39th Annual International Symposium on Microarchitecture
+Citations:
+Authors: F Mohamood, M Healy, SK Lim, HHS Lee, S Ozdemir, D Sinha, G Memik, ...
+Publication: 
+
+158. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 
+
+159. ISSCC 2003/SESSION 9/TD: DIGITAL ARCHITECTURE AND SYSTEMS/PAPER 9.6
+Citations:
+Authors: SW Keckler, D Burger, CR Moore, R Nagarajan, K Sankaralingam, ...
+Publication: 
+
+160. Session 2A: Microarchitecture
+Citations:
+Authors: E Blem, J Menon, K Sankaralingam
+Publication: 
+

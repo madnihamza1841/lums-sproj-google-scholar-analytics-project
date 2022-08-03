@@ -1,0 +1,130 @@
+
+38. RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization
+Citations:176
+Authors: V Seshadri, Y Kim, C Fallin, D Lee, R Ausavarungnirun, G Pekhimenko, ...
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+64. Ambit: In-memory accelerator for bulk bitwise operations using commodity DRAM technology
+Citations:96
+Authors: V Seshadri, D Lee, T Mullins, H Hassan, A Boroumand, J Kim, MA Kozuch, ...
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+67. Exploiting bounded staleness to speed up big data analytics
+Citations:93
+Authors: H Cui, J Cipar, Q Ho, JK Kim, S Lee, A Kumar, J Wei, W Dai, GR Ganger, ...
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 37-48
+
+69. Nitro: A Capacity-Optimized {SSD} Cache for Primary Storage
+Citations:92
+Authors: C Li, P Shilane, F Douglis, H Shim, S Smaldone, G Wallace
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 501-512
+
+104. Zorua: A holistic approach to resource virtualization in gpus
+Citations:37
+Authors: N Vijaykumar, K Hsieh, G Pekhimenko, S Khan, A Shrestha, S Ghose, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 15
+
+106. A simple mechanism for efficient barrier synchronization in MIMD machines
+Citations:37
+Authors: Y Birk
+Publication: International Conference on Parallel Processing, 1990, 195-198
+
+117. Exploiting iterative-ness for parallel ML computations
+Citations:29
+Authors: H Cui, A Tumanov, J Wei, L Xu, W Dai, J Haber-Kucharsky, Q Ho, ...
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-14
+
+125. Buddy-ram: Improving the performance and efficiency of bulk bitwise operations using DRAM
+Citations:27
+Authors: V Seshadri, D Lee, T Mullins, H Hassan, A Boroumand, J Kim, MA Kozuch, ...
+Publication: arXiv preprint arXiv:1611.09988
+
+130. Focus: Querying large video datasets with low latency and low cost
+Citations:26
+Authors: K Hsieh, G Ananthanarayanan, P Bodik, S Venkataraman, P Bahl, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+134. RowClone: Fast and efficient In-DRAM copy and initialization of bulk data
+Citations:24
+Authors: V Seshadri, Y Kim, C Fallin, D Lee, R Ausavarungnirun, G Pekhimenko, ...
+Publication: figshare
+
+178. A case for richer cross-layer abstractions: Bridging the semantic gap with expressive memory
+Citations:7
+Authors: N Vijaykumar, A Jain, D Majumdar, K Hsieh, G Pekhimenko, E Ebrahimi, ...
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+183. IrisNet: Internet-scale resource-intensive sensor services
+Citations:7
+Authors: A Deshpande, S Nath
+Publication: 
+
+205. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+221. RowClone: Accelerating Data Movement and Initialization Using DRAM
+Citations:1
+Authors: V Seshadri, Y Kim, C Fallin, D Lee, R Ausavarungnirun, G Pekhimenko, ...
+Publication: arXiv preprint arXiv:1805.03502
+
+222. Decoupling GPU Programming Models from Resource Management for Enhanced Programming Ease, Portability, and Performance
+Citations:1
+Authors: N Vijaykumar, K Hsieh, G Pekhimenko, S Khan, A Shrestha, S Ghose, ...
+Publication: arXiv preprint arXiv:1805.02498
+
+223. PipeDream: Pipeline Parallelism for DNN Training
+Citations:1
+Authors: A Harlap, D Narayanan, A Phanishayee, V Seshadri, GR Ganger, ...
+Publication: Conference on Systems and Machine Learning
+
+239. Zorua: Enhancing Programming Ease, Portability, and Performance in GPUs by Decoupling Programming Models from Resource Management
+Citations:
+Authors: N Vijaykumar, K Hsieh, G Pekhimenko, S Khan, A Shrestha, S Ghose, ...
+Publication: arXiv preprint arXiv:1802.02573
+
+264. Parallel Algorithms and Architectures: Proceedings of the 8th ACM Symposium on..., SPAA'96, Padua, Italy, June 24-26, 1996
+Citations:
+Authors: FM auf der Heide, R Cypher
+Publication: Springer Verlag
+
+269. PARALLEL COMPUTATION AND COMBINATORICS-PREFACE
+Citations:
+Authors: FE FICH
+Publication: DISCRETE APPLIED MATHEMATICS 29 (1), 1-2
+
+271. Global parallel indexing for multi-processors database systems.
+Citations:
+Authors: KMA Hasan, R Bayer, EM McCreight, R Bayer, K Unterauer, E Bertino, ...
+Publication: Information Technology Journal 7 (7), 173-189
+
+276. Tor M. Aamodt 99, 408 Mohamad Abdel-Majeed 111 Jaume Abella 160 Jorge Albericio 310
+Citations:
+Authors: H Ando, M Annavaram, R Ausavarungnirun, R Balasubramanian, ...
+Publication: 
+
+277. Das, Subhasis, 349 Devadas, Srinivas, 616 Dijk, Marten van, 616 Dreslinksi, Ronald G., 27, 629
+Citations:
+Authors: Z Du, J Ahn, JH Ahn, H Ahn, B Akin, O Allam, J Alsop, L Alvarez, ...
+Publication: 
+
+280. 2015 Index IEEE Computer Architecture Letters Vol. 14
+Citations:
+Authors: TM Aamodt, JH Ahn, MSB Altaf, L Azriel, E Bolotin, A Boroumand, ...
+Publication: Power 140, 143
+
+281. Program SPAA 2012
+Citations:
+Authors: F Becker, A Kosowski, N Nisse, I Rapaport, K Suchan, B Kempkes, ...
+Publication: 
+
+288. VSR Sort: A Novel Vectorised Sorting Algorithm and Architecture Extensions for Future
+Citations:
+Authors: V Jimenez, A Buyuktosunoglu, P Bose, S Center, M Valero, ...
+Publication: 
+
+296. SUBRAMANI, K. CMU-CS-04-179
+Citations:
+Authors: UA ACAR, E AIROLDI, A AKELLA, R ARUNACHALAM, GE BLELLOCH, ...
+Publication: 

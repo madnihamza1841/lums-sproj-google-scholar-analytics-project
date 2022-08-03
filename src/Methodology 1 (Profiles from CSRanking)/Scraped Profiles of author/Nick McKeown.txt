@@ -1,0 +1,1553 @@
+https://scholar.google.com/citations?hl=en&user=SqMUez0AAAAJ
+Total Citations = 47729
+
+1. OpenFlow: enabling innovation in campus networks
+Citations:8745
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69-74
+
+2. NOX: towards an operating system for networks
+Citations:1870
+Authors: N Gude, T Koponen, J Pettit, B Pfaff, M Casado, N McKeown, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 38 (3), 105-110
+
+3. A network in a laptop: rapid prototyping for software-defined networks
+Citations:1677
+Authors: B Lantz, B Heller, N McKeown
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 19
+
+4. Achieving 100% throughput in an input-queued switch
+Citations:1572
+Authors: N McKeown, A Mekkittikul, V Anantharam, J Walrand
+Publication: IEEE Transactions on Communications 47 (8), 1260-1267
+
+5. The iSLIP scheduling algorithm for input-queued switches
+Citations:1513
+Authors: N McKeown
+Publication: IEEE/ACM transactions on networking, 188-201
+
+6. Ethane: Taking control of the enterprise
+Citations:1247
+Authors: M Casado, MJ Freedman, J Pettit, J Luo, N McKeown, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 1-12
+
+7. Elastictree: Saving energy in data center networks.
+Citations:1010
+Authors: B Heller, S Seetharaman, P Mahadevan, Y Yiakoumis, P Sharma, ...
+Publication: Nsdi 10, 249-264
+
+8. P4: Programming protocol-independent packet processors
+Citations:979
+Authors: P Bosshart, D Daly, G Gibb, M Izzard, N McKeown, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 87-95
+
+9. Packet classification on multiple fields
+Citations:967
+Authors: P Gupta, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 29 (4), 147-160
+
+10. Algorithms for packet classification
+Citations:961
+Authors: P Gupta, N McKeown
+Publication: IEEE Network 15 (2), 24-32
+
+11. Flowvisor: A network virtualization layer
+Citations:932
+Authors: R Sherwood, G Gibb, KK Yap, G Appenzeller, M Casado, N McKeown, ...
+Publication: OpenFlow Switch Consortium, Tech. Rep 1, 132
+
+12. Sizing router buffers
+Citations:932
+Authors: G Appenzeller, I Keslassy, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 281-292
+
+13. Routing lookups in hardware at memory access speeds
+Citations:770
+Authors: P Gupta, S Lin, N McKeown
+Publication: Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …
+
+14. The controller placement problem
+Citations:739
+Authors: B Heller, R Sherwood, N McKeown
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+15. Automated vehicle control developments in the PATH program
+Citations:737
+Authors: SE Shladover, CA Desoer, JK Hedrick, M Tomizuka, J Walrand, ...
+Publication: IEEE Transactions on vehicular technology 40 (1), 114-130
+
+16. Software-defined networking
+Citations:644
+Authors: N McKeown
+Publication: INFOCOM keynote talk 17 (2), 30-32
+
+17. Header space analysis: Static checking for networks
+Citations:631
+Authors: P Kazemian, G Varghese, N McKeown
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+18. Matching output queueing with a combined input/output-queued switch
+Citations:629
+Authors: ST Chuang, A Goel, N McKeown, B Prabhakar
+Publication: IEEE Journal on Selected Areas in Communications 17 (6), 1030-1039
+
+19. Can the production network be the testbed?
+Citations:584
+Authors: R Sherwood, G Gibb, KK Yap, G Appenzeller, M Casado, N McKeown, ...
+Publication: OSDI 10, 1-6
+
+20. Forwarding metamorphosis: Fast programmable match-action processing in hardware for SDN
+Citations:551
+Authors: P Bosshart, G Gibb, HS Kim, G Varghese, N McKeown, M Izzard, F Mujica, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 99-110
+
+21. SANE: A Protection Architecture for Enterprise Networks.
+Citations:547
+Authors: M Casado, T Garfinkel, A Akella, MJ Freedman, D Boneh, N McKeown, ...
+Publication: USENIX Security Symposium 49, 50
+
+22. A buffer-based approach to rate adaptation: Evidence from a large video streaming service
+Citations:525
+Authors: TY Huang, R Johari, N McKeown, M Trunnell, M Watson
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 187-198
+
+23. Packet classification using hierarchical intelligent cuttings
+Citations:522
+Authors: P Gupta, N McKeown
+Publication: Hot Interconnects VII 40
+
+24. Reproducible network experiments using container-based emulation
+Citations:482
+Authors: N Handigol, B Heller, V Jeyakumar, B Lantz, N McKeown
+Publication: Proceedings of the 8th international conference on Emerging networking …
+
+25. Tiny Tera: a packet switch core
+Citations:456
+Authors: N McKeown, M Izzard, A Mekkittikul, W Ellersick, M Horowitz
+Publication: IEEE micro 17 (1), 26-33
+
+26. Real time network policy checking using header space analysis
+Citations:448
+Authors: P Kazemian, M Chang, H Zeng, G Varghese, N McKeown, S Whyte
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+27. A practical scheduling algorithm to achieve 100% throughput in input-queued switches
+Citations:448
+Authors: A Mekkittikul, N McKeown
+Publication: Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …
+
+28. pfabric: Minimal near-optimal datacenter transport
+Citations:442
+Authors: M Alizadeh, S Yang, M Sharif, S Katti, N McKeown, B Prabhakar, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 435-446
+
+29. NetFPGA--an open platform for gigabit-rate network switching and routing
+Citations:393
+Authors: JW Lockwood, N McKeown, G Watson, G Gibb, P Hartke, J Naous, ...
+Publication: 2007 IEEE International Conference on Microelectronic Systems Education (MSE …
+
+30. Carving research slices out of your production networks with OpenFlow
+Citations:388
+Authors: R Sherwood, M Chan, A Covington, G Gibb, M Flajslik, N Handigol, ...
+Publication: ACM SIGCOMM Computer Communication Review 40 (1), 129-130
+
+31. Designing and implementing a fast crossbar scheduler
+Citations:339
+Authors: P Gupta, N McKeown
+Publication: IEEE micro 19 (1), 20-28
+
+32. Secure network switching infrastructure
+Citations:324
+Authors: M Casado, N McKeown, D Boneh, MJ Freedman, S Shenker
+Publication: US Patent App. 11/970,976
+
+33. The future of networking, and the past of protocols
+Citations:323
+Authors: S Shenker, M Casado, T Koponen, N McKeown
+Publication: Open Networking Summit 20, 1-30
+
+34. Scaling internet routers using optics
+Citations:322
+Authors: I Keslassy, ST Chuang, K Yu, D Miller, M Horowitz, O Solgaard, ...
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+35. High speed memory and input/output processor subsystem for efficiently allocating and using high-speed memory and slower-speed memory
+Citations:318
+Authors: S Iyer, N McKeown
+Publication: US Patent 7,657,706
+
+36. Confused, timid, and unstable: picking a video streaming rate is hard
+Citations:310
+Authors: TY Huang, N Handigol, B Heller, N McKeown, R Johari
+Publication: Proceedings of the 2012 internet measurement conference, 225-238
+
+37. OpenRoads: Empowering research in mobile networks
+Citations:308
+Authors: KK Yap, M Kobayashi, R Sherwood, TY Huang, M Chan, N Handigol, ...
+Publication: ACM SIGCOMM Computer Communication Review 40 (1), 125-126
+
+38. Implementing an OpenFlow switch on the NetFPGA platform
+Citations:284
+Authors: J Naous, D Erickson, GA Covington, G Appenzeller, N McKeown
+Publication: Proceedings of the 4th ACM/IEEE Symposium on Architectures for Networking …
+
+39. Why flow-completion time is the right metric for congestion control
+Citations:277
+Authors: N Dukkipati, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 36 (1), 59-62
+
+40. Classifying packets with hierarchical intelligent cuttings
+Citations:270
+Authors: P Gupta, N McKeown
+Publication: Ieee Micro 20 (1), 34-41
+
+41. Processor sharing flows in the internet
+Citations:261
+Authors: N Dukkipati, M Kobayashi, R Zhang-Shen, N McKeown
+Publication: International Workshop on Quality of Service, 271-285
+
+42. Plug-n-Serve: Load-balancing web traffic using OpenFlow
+Citations:257
+Authors: N Handigol, S Seetharaman, M Flajslik, N McKeown, R Johari
+Publication: ACM Sigcomm Demo 4 (5), 6
+
+43. Automatic test packet generation
+Citations:237
+Authors: H Zeng, P Kazemian, G Varghese, N McKeown
+Publication: Proceedings of the 8th international conference on Emerging networking …
+
+44. I know what your packet did last hop: Using packet histories to troubleshoot networks
+Citations:231
+Authors: N Handigol, B Heller, V Jeyakumar, D Mazières, N McKeown
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+45. Multicast scheduling for input-queued switches
+Citations:226
+Authors: B Prabhakar, N McKeown, R Ahuja
+Publication: IEEE Journal on Selected Areas in Communications 15 (5), 855-866
+
+46. Part I: Buffer sizes for core routers
+Citations:221
+Authors: D Wischik, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 35 (3), 75-78
+
+47. Billing users and pricing for TCP
+Citations:211
+Authors: RJ Edell, N McKeown, PP Varaiya
+Publication: IEEE Journal on Selected Areas in Communications 13 (7), 1162-1175
+
+48. A fast switched backplane for a gigabit switched router
+Citations:209
+Authors: N McKeown
+Publication: Business Communications Review 27 (12), 1-30
+
+49. Where is the debugger for my software-defined network?
+Citations:207
+Authors: N Handigol, B Heller, V Jeyakumar, D Maziéres, N McKeown
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+50. Scheduling cells in an input-queued switch
+Citations:203
+Authors: N McKeown, P Varaiya, J Walrand
+Publication: Electronics Letters 29 (25), 2174-2175
+
+51. Blueprint for introducing innovation into wireless mobile networks
+Citations:202
+Authors: KK Yap, R Sherwood, M Kobayashi, TY Huang, M Chan, N Handigol, ...
+Publication: Proceedings of the second ACM SIGCOMM workshop on Virtualized infrastructure …
+
+52. Part III: Routers with very small buffers
+Citations:201
+Authors: M Enachescu, Y Ganjali, A Goel, N McKeown, T Roughgarden
+Publication: ACM SIGCOMM Computer Communication Review 35 (3), 83-90
+
+53. On the speedup required for combined input-and output-queued switching
+Citations:201
+Authors: B Prabhakar, N McKeown
+Publication: Automatica 35 (12), 1909-1920
+
+54. A starvation-free algorithm for achieving 100% throughput in an input-queued switch
+Citations:193
+Authors: A Mekkittikul, N McKeown
+Publication: Proc. of the IEEE International Conference on Communication Networks 96, 226-231
+
+55. Routers with Very Small Buffers.
+Citations:179
+Authors: M Enachescu, Y Ganjali, A Goel, N McKeown, T Roughgarden
+Publication: INFOCOM
+
+56. A simulation study of IP switching
+Citations:179
+Authors: S Lin, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 27 (4), 15-24
+
+57. OpenFlow switch specification
+Citations:176
+Authors: B Pfaff, B Heller, D Talayco, D Erickson, G Gibb, G Appenzeller, ...
+Publication: Sep 6, 128
+
+58. {GRASS}: Trimming Stragglers in Approximation Analytics
+Citations:170
+Authors: G Ananthanarayanan, MCC Hung, X Ren, I Stoica, A Wierman, M Yu
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+59. Rethinking enterprise network control
+Citations:170
+Authors: M Casado, MJ Freedman, J Pettit, J Luo, N Gude, N McKeown, S Shenker
+Publication: IEEE/ACM Transactions on Networking (ToN) 17 (4), 1270-1283
+
+60. Practical algorithms for performance guarantees in buffered crossbars
+Citations:168
+Authors: ST Chuang, S Iyer, N McKeown
+Publication: Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …
+
+61. NetFPGA: reusable router architecture for experimental research
+Citations:165
+Authors: J Naous, G Gibb, S Bolouki, N McKeown
+Publication: Proceedings of the ACM workshop on Programmable routers for extensible …
+
+62. Maintaining packet order in two-stage switches
+Citations:165
+Authors: I Keslassy, N McKeown
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+63. Analysis of the parallel packet switch architecture
+Citations:163
+Authors: S Iyer, NW McKeown
+Publication: IEEE/ACM Transactions On Networking 11 (2), 314-324
+
+64. A quantitative comparison of iterative scheduling algorithms for input-queued switches
+Citations:159
+Authors: N McKeown, TE Anderson
+Publication: Computer Networks and ISDN systems 30 (24), 2309-2326
+
+65. Packet and circuit network convergence with OpenFlow
+Citations:158
+Authors: S Das, G Parulkar, N McKeown, P Singh, D Getachew, L Ong
+Publication: Optical Fiber Communication Conference, OTuG1
+
+66. Analysis of a packet switch with memories running slower than the line-rate
+Citations:155
+Authors: S Iyer, A Awadallah, N McKeown
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+67. Maturing of OpenFlow and software-defined networking through deployments
+Citations:152
+Authors: M Kobayashi, S Seetharaman, G Parulkar, G Appenzeller, J Little, ...
+Publication: Computer Networks 61, 151-175
+
+68. Prototyping fast, simple, secure switches for etha
+Citations:151
+Authors: J Luo, J Pettit, M Casado, J Lockwood, N McKeown
+Publication: 15th Annual IEEE Symposium on High-Performance Interconnects (HOTI 2007), 73-82
+
+69. Making parallel packet switches practical
+Citations:151
+Authors: S Iyer, N McKeown
+Publication: Proceedings IEEE INFOCOM 2001. Conference on Computer Communications …
+
+70. Monitoring very high speed links
+Citations:147
+Authors: G Iannaccone, C Diot, I Graham, N McKeown
+Publication: Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, 267-271
+
+71. NetFPGA—an open platform for teaching how to build gigabit-rate network switches and routers
+Citations:145
+Authors: G Gibb, JW Lockwood, J Naous, P Hartke, N McKeown
+Publication: IEEE Transactions on Education 51 (3), 364-369
+
+72. Designing a predictable Internet backbone network
+Citations:140
+Authors: R Zhang-Shen, N McKeown
+Publication: HotNets
+
+73. Designing packet buffers for router linecards
+Citations:139
+Authors: S Iyer, RR Kompella, N McKeown
+Publication: IEEE/ACM Transactions on Networking (ToN) 16 (3), 705-717
+
+74. Unifying Packet and Circuit Switched Networks with OpenFlow
+Citations:137
+Authors: S Das, G Parulkar, N McKeown
+Publication: Dec 7, 10
+
+75. Simple unified control for packet and circuit networks
+Citations:137
+Authors: S Das, G Parulkar, N McKeown
+Publication: 2009 IEEE/LEOS Summer Topical Meeting, 147-148
+
+76. Slicing home networks
+Citations:128
+Authors: Y Yiakoumis, KK Yap, S Katti, G Parulkar, N McKeown
+Publication: Proceedings of the 2nd ACM SIGCOMM workshop on Home networks, 1-6
+
+77. Downton abbey without the hiccups: Buffer-based rate adaptation for http video streaming
+Citations:116
+Authors: TY Huang, R Johari, N McKeown
+Publication: Proceedings of the 2013 ACM SIGCOMM workshop on Future human-centric …
+
+78. Why OpenFlow/SDN can succeed where GMPLS failed
+Citations:115
+Authors: S Das, G Parulkar, N McKeown
+Publication: European conference and exhibition on optical communication, Tu. 1. D. 1
+
+79. Outsourcing network functionality
+Citations:115
+Authors: G Gibb, H Zeng, N McKeown
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+80. Routers with a single stage of buffering
+Citations:113
+Authors: S Iyer, R Zhang, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 251-264
+
+81. The stanford openroads deployment
+Citations:111
+Authors: KK Yap, M Kobayashi, D Underhill, S Seetharaman, P Kazemian, ...
+Publication: Proceedings of the 4th ACM international workshop on Experimental evaluation …
+
+82. A packet generator on the NetFPGA platform
+Citations:108
+Authors: GA Covington, G Gibb, JW Lockwood, N Mckeown
+Publication: 2009 17th IEEE Symposium on Field Programmable Custom Computing Machines …
+
+83. Mpls-te and mpls vpns with openflow
+Citations:105
+Authors: AR Sharafat, S Das, G Parulkar, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 452-453
+
+84. Making use of all the networks around us: a case study in android
+Citations:104
+Authors: KK Yap, TY Huang, M Kobayashi, Y Yiakoumis, N McKeown, S Katti, ...
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 455-460
+
+85. Packet transactions: High-level programming for line-rate switches
+Citations:100
+Authors: A Sivaraman, A Cheung, M Budiu, C Kim, M Alizadeh, H Balakrishnan, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 15-28
+
+86. Architecting for innovation
+Citations:95
+Authors: T Koponen, S Shenker, H Balakrishnan, N Feamster, I Ganichev, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (3), 24-36
+
+87. Experimental study of router buffer sizing
+Citations:95
+Authors: N Beheshti, Y Ganjali, M Ghobadi, N McKeown, G Salmon
+Publication: Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, 197-210
+
+88. Maintaining statistics counters in router line cards
+Citations:95
+Authors: D Shah, S Iyer, B Prahhakar, N McKeown
+Publication: IEEE Micro 22 (1), 76-81
+
+89. Pisces: A programmable, protocol-independent software switch
+Citations:94
+Authors: M Shahbaz, S Choi, B Pfaff, C Kim, N Feamster, N McKeown, J Rexford
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 525-538
+
+90. Libra: Divide and conquer to verify forwarding tables in huge networks
+Citations:94
+Authors: H Zeng, S Zhang, F Ye, V Jeyakumar, M Ju, J Liu, N McKeown, A Vahdat
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+91. Designing a predictable internet backbone with valiant load-balancing
+Citations:94
+Authors: R Zhang-Shen, N McKeown
+Publication: International Workshop on Quality of Service, 178-192
+
+92. Compiling packet programs to reconfigurable switches
+Citations:92
+Authors: L Jose, L Yan, G Varghese, N McKeown
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+93. NetFPGA: A tool for network research and education
+Citations:90
+Authors: G Watson, N McKeown, M Casado
+Publication: 2nd workshop on Architectural Research using FPGA Platforms (WARFP) 3
+
+94. Analysis of scheduling algorithms that provide 100% throughput in input-queued switches
+Citations:90
+Authors: I Keslassy, N McKeown
+Publication: Proceedings of the Annual Allerton Conference on Communication Control and …
+
+95. Update on buffer sizing in internet routers
+Citations:89
+Authors: Y Ganjali, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 36 (5), 67-70
+
+96. ATM input-buffered switches with the guaranteed-rate property
+Citations:86
+Authors: A Hung, G Kesidis, N McKeown
+Publication: Proceedings Third IEEE Symposium on Computers and Communications. ISCC'98 …
+
+97. Buffer sizing in all-optical packet switches
+Citations:83
+Authors: N Beheshti, Y Ganjali, R Rajaduray, D Blumenthal, N McKeown
+Publication: 2006 Optical Fiber Communication Conference and the National Fiber Optic …
+
+98. Programmable packet scheduling at line rate
+Citations:82
+Authors: A Sivaraman, S Subramanian, M Alizadeh, S Chole, ST Chuang, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 44-57
+
+99. Leveraging SDN layering to systematically troubleshoot networks
+Citations:82
+Authors: B Heller, C Scott, N McKeown, S Shenker, A Wundsam, H Zeng, ...
+Publication: Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …
+
+100. Application-aware aggregation and traffic engineering in a converged packet-circuit network
+Citations:81
+Authors: S Das, Y Yiakoumis, G Parulkar, N McKeown, P Singh, D Getachew, ...
+Publication: National Fiber Optic Engineers Conference, NThD3
+
+101. RCP-AC: Congestion control to make flows complete quickly in any environment
+Citations:81
+Authors: N Dukkipati, N McKeown, AG Fraser
+Publication: Proceedings IEEE INFOCOM 2006. 25TH IEEE International Conference on …
+
+102. Stability analysis of explicit congestion control protocols
+Citations:76
+Authors: H Balakrishnan, N Dukkipati, N McKeown, CJ Tomlin
+Publication: IEEE Communications Letters 11 (10), 823-825
+
+103. Design principles for packet parsers
+Citations:75
+Authors: G Gibb, G Varghese, M Horowitz, N McKeown
+Publication: Architectures for Networking and Communications Systems, 13-24
+
+104. MPLS with a simple OPEN control plane
+Citations:75
+Authors: S Das, A Sharafat, G Parulkar, N McKeown
+Publication: Optical Fiber Communication Conference, OWP2
+
+105. Experimental demonstration of OpenFlow control of packet and circuit switches
+Citations:72
+Authors: VR Gudla, S Das, A Shastri, G Parulkar, N McKeown, L Kazovsky, ...
+Publication: Optical Fiber Communication Conference, OTuG2
+
+106. Designing a fault-tolerant network using valiant load-balancing
+Citations:70
+Authors: R Zhang-Shen, N McKeown
+Publication: IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 2360-2368
+
+107. Optimal load-balancing
+Citations:68
+Authors: I Keslassy, CS Chang, N McKeown, DS Lee
+Publication: Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …
+
+108. Scheduling multicast cells in an input-queued switch
+Citations:68
+Authors: N McKeown, B Prabhakar
+Publication: Proceedings of IEEE INFOCOM'96. Conference on Computer Communications 1, 271-278
+
+109. Unifying packet and circuit switched networks
+Citations:66
+Authors: S Das, G Parulkar, N McKeown
+Publication: 2009 IEEE Globecom Workshops, 1-6
+
+110. Deconstructing datacenter packet transport
+Citations:65
+Authors: M Alizadeh, S Yang, S Katti, N McKeown, B Prabhakar, S Shenker
+Publication: Proceedings of the 11th ACM Workshop on hot topics in networks, 133-138
+
+111. Towards software-friendly networks
+Citations:65
+Authors: KK Yap, TY Huang, B Dodson, MS Lam, N McKeown
+Publication: Proceedings of the first ACM asia-pacific workshop on Workshop on systems, 49-54
+
+112. The virtual network system
+Citations:61
+Authors: M Casado, N McKeown
+Publication: ACM SIGCSE Bulletin 37 (1), 76-80
+
+113. The throughput of a buffered crossbar switch
+Citations:59
+Authors: M Lin, N McKeown
+Publication: IEEE communications Letters 9 (5), 465-467
+
+114. The load-balanced router
+Citations:59
+Authors: I Keslassy, N Mckeown
+Publication: stanford university
+
+115. OSNT: Open source network tester
+Citations:55
+Authors: G Antichi, M Shahbaz, Y Geng, N Zilberman, A Covington, M Bruyere, ...
+Publication: 
+
+116. Putting home users in charge of their network
+Citations:55
+Authors: Y Yiakoumis, S Katti, TY Huang, N McKeown, KK Yap, R Johari
+Publication: Proceedings of the 2012 ACM Conference on Ubiquitous Computing, 1114-1119
+
+117. Building packet buffers using interleaved memories
+Citations:55
+Authors: G Shrimali, N McKeown
+Publication: HPSR. 2005 Workshop on High Performance Switching and Routing, 2005., 1-5
+
+118. Matching output queueing with combined input and output queueing
+Citations:54
+Authors: N McKeown, B Prabhakar, M Zhu
+Publication: Proceedings of the Annual Allerton Conference on Communication Control and …
+
+119. Virtualized congestion control
+Citations:53
+Authors: B Cronkite-Ratcliff, A Bergman, S Vargaftik, M Ravi, N McKeown, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 230-243
+
+120. Dynamic algorithms with worst-case performance for packet classification
+Citations:53
+Authors: P Gupta, N McKeown
+Publication: International Conference on Research in Networking, 528-539
+
+121. BeHop: A testbed for dense WiFi networks
+Citations:52
+Authors: Y Yiakoumis, M Bansal, A Covington, J van Reijendam, S Katti, ...
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 18 (3), 71-80
+
+122. Aster* x: Load-balancing as a network primitive
+Citations:51
+Authors: N Handigol, M Flajslik, S Seetharaman, N McKeown, R Johari
+Publication: 9th GENI Engineering Conference (Plenary), 1-2
+
+123. Is IP going to take over the world (of communications)?
+Citations:51
+Authors: P Molinero-Fernández, N McKeown, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 113-118
+
+124. Doubling memory bandwidth for network buffers
+Citations:51
+Authors: YM Joo, N McKeown
+Publication: Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …
+
+125. How SDN will shape networking
+Citations:50
+Authors: N McKeown
+Publication: Open Networking Summit
+
+126. Integrated photonics for low-power packet networking
+Citations:49
+Authors: DJ Blumenthal, J Barton, N Beheshti, JE Bowers, E Burmeister, ...
+Publication: IEEE Journal of Selected Topics in Quantum Electronics 17 (2), 458-471
+
+127. Optical packet buffers for backbone internet routers
+Citations:49
+Authors: N Beheshti, E Burmeister, Y Ganjali, JE Bowers, DJ Blumenthal, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 18 (5), 1599-1609
+
+128. TCP Switching: Exposing circuits to IP
+Citations:48
+Authors: P Molinero-Fernández, N McKeown
+Publication: IEEE Micro 22 (1), 82-89
+
+129. Rethinking IP core networks
+Citations:44
+Authors: S Das, G Parulkar, N McKeown
+Publication: Journal of Optical Communications and Networking 5 (12), 1431-1442
+
+130. Performance of circuit switching in the Internet
+Citations:43
+Authors: P Molinero-Fernández, N McKeown
+Publication: Journal of Optical Networking 2 (4), 83-96
+
+131. Switching systems and methods of operation of switching systems
+Citations:42
+Authors: B Prabhakar, N McKeown
+Publication: US Patent 6,351,466
+
+132. Maximum size matching is unstable for any packet switch
+Citations:41
+Authors: I Keslassy, R Zhang-Shen, N McKeown
+Publication: IEEE Communications Letters 7 (10), 496-498
+
+133. Analysis of a statistics counter architecture
+Citations:40
+Authors: D Shah, S Iyer, B Prabhakar, N McKeown
+Publication: HOT 9 Interconnects. Symposium on High Performance Interconnects, 107-111
+
+134. High speed networks need proactive congestion control
+Citations:38
+Authors: L Jose, L Yan, M Alizadeh, G Varghese, N McKeown, S Katti
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 14
+
+135. Output-buffer ATM packet switching for integrated-services communication networks
+Citations:38
+Authors: G Kesidis, N McKeown
+Publication: Proceedings of ICC'97-International Conference on Communications 3, 1684-1688
+
+136. A 2 Gb/s asymmetric serial link for high-bandwidth packet switches
+Citations:37
+Authors: KKY Chang, W Ellersick, ST Chuang, S Sidiropoulos, M Izzard, D Center
+Publication: Hot Interconnects V, Stanford University, 1-9
+
+137. Lossless Handover with n-casting between WiFi-WiMAX on OpenRoads
+Citations:36
+Authors: KK Yap, TY Huang, M Kobayashi, M Chan, R Sherwood, G Parulkar, ...
+Publication: ACM Mobicom (Demo) 12 (3), 40-52
+
+138. Techniques for fast shared memory switches
+Citations:34
+Authors: S Iyer, N McKeown
+Publication: Stanford HPNG Technical Report TR01-HPNG-081501
+
+139. Scheduling packets over multiple interfaces while respecting user preferences
+Citations:33
+Authors: KK Yap, TY Huang, Y Yiakoumis, S Chinchali, N McKeown, S Katti
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+140. Viewpoint Scaling the academic publication process to internet scale
+Citations:32
+Authors: J Crowcroft, S Keshav, N McKeown
+Publication: Communications of the ACM 52 (1), 27-30
+
+141. A demonstration of virtual machine mobility in an OpenFlow network
+Citations:32
+Authors: D Erickson, G Gibb, B Heller, D Underhill, J Naous, G Appenzeller, ...
+Publication: Aug
+
+142. A survey on network troubleshooting
+Citations:31
+Authors: H Zeng, P Kazemian, G Varghese, N McKeown
+Publication: Technical Report Stanford/TR12-HPNG-061012, Stanford University, Tech. Rep.
+
+143. Delegating network security with more information
+Citations:31
+Authors: J Naous, R Stutsman, D Mazieres, N McKeown, N Zeldovich
+Publication: Proceedings of the 1st ACM workshop on Research on enterprise networking, 19-26
+
+144. Building a RCP (rate control protocol) test network
+Citations:31
+Authors: N Dukkipati, G Gibb, N McKeown, J Zhu
+Publication: 15th Annual IEEE Symposium on High-Performance Interconnects (HOTI 2007), 91-98
+
+145. Separating authentication, access and accounting: A case study with OpenWiFi
+Citations:29
+Authors: KK Yap, Y Yiakoumis, M Kobayashi, S Katti, G Parulkar, N McKeown
+Publication: Open Networking Foundation, Tech. Rep
+
+146. Aster* x: Load-balancing web traffic over wide-area networks
+Citations:29
+Authors: N Handigol, S Seetharaman, M Flajslik, A Gember, N McKeown, ...
+Publication: Proceedings of GENI Engineering Conf 9
+
+147. Learning networking by reproducing research results
+Citations:28
+Authors: L Yan, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 47 (2), 19-26
+
+148. Automatically verifying reachability and well-formedness in P4 Networks
+Citations:28
+Authors: N Lopes, N Bjørner, N McKeown, A Rybalchenko, D Talayco, G Varghese
+Publication: Technical Report, Tech. Rep
+
+149. A load-balanced switch with an arbitrary number of linecards
+Citations:28
+Authors: I Keslassy, ST Chuang, N McKeown
+Publication: IEEE INFOCOM 2004 3, 2007-2016
+
+150. A 50 Gb/s 32/spl times/32 CMOS crossbar chip using asymmetric serial links
+Citations:28
+Authors: KYK Chang, ST Chuang, N McKeown, M Horowitz
+Publication: 1999 Symposium on VLSI Circuits. Digest of Papers (IEEE Cat. No. 99CH36326 …
+
+151. Optimizing a virtualized data center
+Citations:26
+Authors: D Erickson, B Heller, S Yang, J Chu, J Ellithorpe, S Whyte, S Stuart, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 478-479
+
+152. Optics inside routers
+Citations:26
+Authors: N McKeown
+Publication: Proc. ECOC 2003 2, 168-171
+
+153. Flow caching for high entropy packet fields
+Citations:25
+Authors: N Shelly, EJ Jackson, T Koponen, N McKeown, J Rajahalme
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 151-156
+
+154. Designing a multicast switch scheduler
+Citations:25
+Authors: B Prabhakar, N McKeown
+Publication: PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND …
+
+155. Ripcord: a modular platform for data center networking
+Citations:24
+Authors: B Heller, D Erickson, N McKeown, R Griffith, I Ganichev, S Whyte, K Zarifis, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 457-458
+
+156. PhoneNet: a phone-to-phone network for group communication within an administrative domain
+Citations:24
+Authors: TY Huang, KK Yap, B Dodson, MS Lam, N McKeown
+Publication: Proceedings of the second ACM SIGCOMM workshop on Networking, systems, and …
+
+157. OpenPipes: Prototyping high-speed networking systems
+Citations:24
+Authors: G Gibb, D Underhill, A Covington, T Yabe, N McKeown
+Publication: Proc. ACM SIGCOMM Conference (Demo)”, Barcelona, Spain
+
+158. Scheduling VOQ switches under non-uniform traffic
+Citations:24
+Authors: A Mekkittikul, N McKeown
+Publication: CSL Technical Report, CSL-TR 97-747
+
+159. Towards programmable packet scheduling
+Citations:23
+Authors: A Sivaraman, S Subramanian, A Agrawal, S Chole, ST Chuang, T Edsall, ...
+Publication: Proceedings of the 14th ACM workshop on hot topics in networks, 23
+
+160. Obtaining high throughput in networks with tiny buffers
+Citations:23
+Authors: N Beheshti, Y Ganjali, A Goel, N McKeown
+Publication: 2008 16th Interntional Workshop on Quality of Service, 65-69
+
+161. On the speedup required for a multicast parallel packet switch
+Citations:23
+Authors: S Iyer, N McKeown
+Publication: IEEE communications letters 5 (6), 269-271
+
+162. P4v: Practical verification for programmable data planes
+Citations:22
+Authors: J Liu, W Hallahan, C Schlesinger, M Sharif, J Lee, R Soulé, H Wang, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+163. FPGA research design platform fuels network advances
+Citations:22
+Authors: M Blott, J Ellithorpe, N McKeown, K Vissers, H Zeng
+Publication: Xilinx Xcell Journal 4 (73), 24-29
+
+164. Ripcord: A modular platform for data center networking
+Citations:22
+Authors: M Casado, D Erickson, IA Ganichev, R Griffith, B Heller, N Mckeown, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2010-93
+
+165. Guaranteeing quality of service to peering traffic
+Citations:21
+Authors: R Zhang-Shen, N McKeown
+Publication: IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 1472-1480
+
+166. Techniques for fast packet buffers
+Citations:21
+Authors: S Iyer, RR Kompella, N McKeown
+Publication: Proceedings. of GBN 2001
+
+167. Architecture and Performance of the BayBridge: A High Speed Bridge/router Between FDDI and SMDS
+Citations:21
+Authors: NW McKeown, RJ Edell, MT Le
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+168. Maximum size matchings and input queued switches
+Citations:20
+Authors: S Iyer, N McKeown
+Publication: PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND …
+
+169. Using the buffer to avoid rebuffers: Evidence from a large video streaming service
+Citations:19
+Authors: TY Huang, R Johari, N McKeown, M Trunnell, M Watson
+Publication: arXiv preprint arXiv:1401.2209
+
+170. The Effectiveness of Whitelisting: a User-Study.
+Citations:18
+Authors: D Erickson, M Casado, N McKeown
+Publication: CEAS
+
+171. Tetris models for multicast switches
+Citations:18
+Authors: B Prabhakar, N McKeown, J Mairesse
+Publication: Proc. of the 30th Annual Conference on Information Sciences and Systems …
+
+172. Clean slate design for the internet
+Citations:17
+Authors: N McKeown, B Girod
+Publication: Whitepaper, Apr 14
+
+173. Reconfigurable networking hardware: A classroom tool
+Citations:17
+Authors: M Casado, G Watson, N McKeown
+Publication: 13th Symposium on High Performance Interconnects (HOTI'05), 151-157
+
+174. Neutral net neutrality
+Citations:16
+Authors: Y Yiakoumis, S Katti, N McKeown
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 483-496
+
+175. Congestion control and periodic behavior
+Citations:16
+Authors: YJA Gilbert, N McKeown
+Publication: LANMAN Workshop
+
+176. Scalable high-speed switches/routers with QoS support [Guest Editorial]
+Citations:16
+Authors: M Hamdi, N McKeown
+Publication: IEEE Communications Magazine 38 (12), 61-61
+
+177. The Clack graphical router: visualizing network software
+Citations:15
+Authors: D Wendlandt, M Casado, P Tarjan, N McKeown
+Publication: Proceedings of the 2006 ACM symposium on Software visualization, 7-15
+
+178. High speed packet-buffering system
+Citations:15
+Authors: S Iyer, N McKeown, J Chou
+Publication: US Patent App. 11/182,731
+
+179. Designing packet buffers with statistical guarantees
+Citations:15
+Authors: G Shrimali, I Keslassy, N McKeown
+Publication: Proceedings. 12th Annual IEEE Symposium on High Performance Interconnects, 54-60
+
+180. Initial thoughts on custom network processing via waypoint services
+Citations:14
+Authors: G Gibb, H Zeng, N McKeown
+Publication: WISH-3rd Workshop on Infrastructures for Software/Hardware co-design, CGO
+
+181. Buffer sizing results for RCP congestion control under connection arrivals and departures
+Citations:14
+Authors: A Lakshmikantha, R Srikant, N Dukkipati, N McKeown, C Beck
+Publication: ACM SIGCOMM Computer Communication Review 39 (1), 5-15
+
+182. Switching systems and methods of operation of switching systems
+Citations:13
+Authors: B Prabhakar, N McKeown
+Publication: US Patent App. 09/991,302
+
+183. Delivering capacity for the mobile internet by stitching together networks
+Citations:12
+Authors: KK Yap, S Katti, G Parulkar, N McKeown
+Publication: Proceedings of the 2010 ACM workshop on Wireless of the students, by the …
+
+184. Blueprint for Introducing Innovation into the Wireless Networks we use every day
+Citations:12
+Authors: KK Yap, R Sherwood, M Kobayashi, N Handigol, TY Huang, M Chan, ...
+Publication: Technical Report, OPENFLOW-TR-2009–3
+
+185. Can overlay hosting services make ip ossification irrelevant
+Citations:12
+Authors: J Turner, N McKeown
+Publication: Proc. PRESTO: Workshop on Programmable Routers for the Extensible Services …
+
+186. Routing in a highly dynamic topology.
+Citations:12
+Authors: Y Ganjali, N McKeown
+Publication: SECON, 164-175
+
+187. The Stanford Virtual Router: a teaching tool and network simulator
+Citations:11
+Authors: M Casado, V Vijayaraghavan, G Appenzeller, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 32 (3), 26-26
+
+188. A 2.5 Tb/s LCS switch core
+Citations:11
+Authors: N McKeown, C Calamvokis, ST Chuang
+Publication: Hot Chips XIII
+
+189. Using all networks around us
+Citations:10
+Authors: KK Yap
+Publication: Stanford University
+
+190. SDN based unified control architecture
+Citations:10
+Authors: S Das, G Parulkar, N McKeown
+Publication: IEEE Photonics Conference 2012, 778-779
+
+191. Scaling internet routers using optics (extended version)
+Citations:10
+Authors: I Keslassy, ST Chuang, K Yu, D Miller, M Horowitz, O Solgaard, ...
+Publication: Stanford Technical Report TR03-HPNG-080101
+
+192. The P416 Programming Language.
+Citations:9
+Authors: M Budiu, C Dodd
+Publication: Operating Systems Review 51 (1), 5-14
+
+193. Packet transactions: A programming model for data-plane algorithms at hardware speed
+Citations:9
+Authors: A Sivaraman, M Budiu, A Cheung, C Kim, S Licking, G Varghese, ...
+Publication: CoRR, vol. abs/1512.05023
+
+194. Multi-server generalized processor sharing
+Citations:9
+Authors: KK Yap, N McKeown, S Katti
+Publication: Proceedings of the 24th International Teletraffic Congress, 29
+
+195. Expedient: A centralized pluggable clearinghouse to manage geni experiments
+Citations:9
+Authors: J Naous, P Kazemian, R Sherwood, S Seetharaman, N McKeown, ...
+Publication: Jan
+
+196. Teaching networking hardware
+Citations:9
+Authors: M Casado, G Watson, N McKeown
+Publication: ACM SIGCSE Bulletin 37 (3), 208-212
+
+197. TMOSS: Using intermediate assignment work to understand excessive collaboration in large classes
+Citations:8
+Authors: L Yan, N McKeown, M Sahami, C Piech
+Publication: Proceedings of the 49th ACM Technical Symposium on Computer Science …
+
+198. Intelligent memory interface
+Citations:8
+Authors: S Iyer, N McKeown, M Littlewood
+Publication: US Patent 9,274,586
+
+199. Using network knowledge to improve workload performance in virtualized data centers
+Citations:8
+Authors: D Erickson, B Heller, N McKeown, M Rosenblum
+Publication: 2014 IEEE International Conference on Cloud Engineering, 185-194
+
+200. Encouraging reusable network hardware design
+Citations:8
+Authors: GA Covington, G Gibb, J Naous, JW Lockwood, N McKeown
+Publication: 2009 IEEE International Conference on Microelectronic Systems Education, 29-32
+
+201. Performing time-sensitive network experiments
+Citations:8
+Authors: N Beheshti, Y Ganjali, M Ghobadi, N McKeown, J Naous, G Salmon
+Publication: Proceedings of the 4th ACM/IEEE Symposium on Architectures for Networking …
+
+202. Stability analysis of switched hybrid time-delay systems–analysis of the rate control protocol
+Citations:8
+Authors: H Balakrishnan, N Dukkipati, N McKeown, C Tomlin
+Publication: Tech. Report, Stanford University
+
+203. Scalability of IP routers
+Citations:8
+Authors: N McKeown
+Publication: Optical Fiber Communication Conference, MN1
+
+204. Architecture for an open source network tester
+Citations:7
+Authors: M Shahbaz, G Antichi, Y Geng, N Zilberman, A Covington, M Bruyere, ...
+Publication: 
+
+205. Using constraint sets to achieve delay bounds in CIOQ switches
+Citations:7
+Authors: S Iyer, N McKeown
+Publication: IEEE communications letters 7 (6), 275-277
+
+206. {SDN} for Dense WiFi Networks
+Citations:6
+Authors: Y Yiakoumis, M Bansal, S Katti, N McKeown
+Publication: Presented as part of the Open Networking Summit 2014 ({ONS} 2014)
+
+207. Mind the gap
+Citations:6
+Authors: N McKeown
+Publication: ACM SIGCOMM 2012 Keynote Presentation
+
+208. Experimenting with buffer sizes in routers
+Citations:6
+Authors: N Beheshti, J Naous, Y Ganjali, N McKeown
+Publication: Proceedings of the 3rd ACM/IEEE Symposium on Architecture for networking and …
+
+209. Part I: Buffer sizes for core routers
+Citations:6
+Authors: N McKeown, DJ Wischik
+Publication: ACM/SIGCOMM Computer Communications Review 35 (3), 75-78
+
+210. Making router buffers much smaller
+Citations:6
+Authors: N McKeown, D Wischik
+Publication: ACM SIGCOMM Computer Communication Review 35 (3), 73-74
+
+211. The performance of circuit switching in the Internet
+Citations:6
+Authors: P Molinero-Fernández, N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 32 (3), 12-12
+
+212. Protocol Independence
+Citations:5
+Authors: N McKeown
+Publication: Open Networking Summit
+
+213. Mininet Performance Fidelity Benchmarks
+Citations:5
+Authors: N Handigol, B Heller, V Jeyakumar, B Lantz, N McKeown
+Publication: Tech. Rep.
+
+214. Scaling Internet Research Publication Processes to Internet Scale.
+Citations:5
+Authors: J Crowcroft, S Keshav, N McKeown
+Publication: WOWCS
+
+215. Powernet: A magnifying glass for computing system energy
+Citations:5
+Authors: M Kazandjieva, B Heller, D Gal, P Levis, C Kozyrakis, N McKeown
+Publication: Proc. Stanford Energy & Feedback Workshop: End-Use Energy Reductions through …
+
+216. Buffer sizing in internet routers
+Citations:5
+Authors: YG Gavgani
+Publication: Dissertation Abstracts International 68 (02)
+
+217. Configuring a load-balanced switch in hardware
+Citations:5
+Authors: S Arekapudi, ST Chuang, I Keslassy, N McKeown
+Publication: Proceedings. 12th Annual IEEE Symposium on High Performance Interconnects, 48-53
+
+218. Minimizing the duration of flows
+Citations:5
+Authors: N Dukkipati, M Kobayashi, R Zhang-Shen, N McKeown
+Publication: Stanford HPNG Technical Report
+
+219. Sizing router buffers
+Citations:5
+Authors: N Mckeown, D Engler
+Publication: 
+
+220. How Scalable is the capacity of (electronic) IP routers?
+Citations:5
+Authors: N McKeown
+Publication: Optical Fiber Communication Conference, 1-36
+
+221. Software-defined networks and the maturing of the Internet
+Citations:4
+Authors: N McKeown
+Publication: IET
+
+222. Header space analysis
+Citations:4
+Authors: P Kazemian, G Varghese, N McKeown
+Publication: Stanford University
+
+223. Deciphering a commercial WiMAX deployment using COTS equipments
+Citations:4
+Authors: K Yap, S Katti, G Parulkar, N McKeown
+Publication: Technical report, Stanford University
+
+224. Time-sensitive network experiments
+Citations:4
+Authors: N Beheshti, Y Ganjali, M Ghobadi, N McKeown, J Naous, G Salmon
+Publication: University of Toronto SNL Technical Report TR08-UT-SNL-04-30-00
+
+225. Implementing an OpenFlow Switch on the NetFPGA platform
+Citations:4
+Authors: GA Covington, J Naous, D Erickson, N Mckeown
+Publication: 
+
+226. Collaborative Research: ITR/ANIR: 100 Mb/sec For 100 Million Households
+Citations:4
+Authors: JCI Chuang, A Fraser, N McKeown, MK Reiter, R Reddy
+Publication: Network Security 100, 12
+
+227. Maximum size matching is unstable in any packet switch
+Citations:4
+Authors: R Zhang-Shen, I Keslassy, N McKeown
+Publication: Technical report, Stanford Univ., TR03-HPNG-030100
+
+228. Next-generation IP switches and routers
+Citations:4
+Authors: HJ Chao, M Degermark, N McKeown, HHY Tzeng
+Publication: IEEE Journal on Selected Areas in Communications 17 (6), 1009-1012
+
+229. High Performance Switching
+Citations:4
+Authors: N McKeown, M Izzard
+Publication: 
+
+230. OpenFlow
+Citations:4
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69
+
+231. Democratizing the Network Edge
+Citations:3
+Authors: L Peterson, T Anderson, S Katti, N McKeown, G Parulkar, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 49 (2), 31-36
+
+232. Late-binding: how to lose fewer packets during handoff
+Citations:3
+Authors: KK Yap, TY Huang, Y Yiakoumis, N McKeown, S Katti
+Publication: Proceeding of the 2013 workshop on Cellular networks: operations, challenges …
+
+233. Formal network testing
+Citations:3
+Authors: H Zeng, P Kazemian, G Varghese, N McKeown
+Publication: 
+
+234. SDN and Streamlining the Plumbing
+Citations:3
+Authors: N McKeown
+Publication: Website
+
+235. Path-policy Compliant Networking and a Platform for Heterogeneous IAAS management
+Citations:3
+Authors: J Naous
+Publication: Stanford University
+
+236. Hands-on with the NetFPGA to build a Gigabit-rate Router
+Citations:3
+Authors: N McKeown, JW Lockwood, J Naous, G Gibb, A Covington
+Publication: 15th Annual IEEE Symposium on High-Performance Interconnects (HOTI 2007), 7-10
+
+237. Network processors and their memory
+Citations:3
+Authors: N McKeown
+Publication: Keynote Address at the Third Workshop on Network Processors and Applications …
+
+238. Scaling routers: Where do we go from here?
+Citations:3
+Authors: N McKeown
+Publication: 2007—10—6]. http://klamath. stanford. edu/~ niekm/talks/. 12
+
+239. Xdistribute: A process distribution system
+Citations:3
+Authors: KF Petty, NW McKeown
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+240. Dynamic Flow Aggregation on an OpenFlow Network
+Citations:3
+Authors: Y Yiakoumis, J Naous, G Appenzeller, N McKeown
+Publication: Stanford University
+
+241. The PyramidSnapshot Challenge: Understanding student process from visual output of programs
+Citations:2
+Authors: L Yan, N McKeown, C Piech
+Publication: Proceedings of the 50th ACM Technical Symposium on Computer Science …
+
+242. The P4-> NetFPGA Workflow for Line-Rate Packet Processing
+Citations:2
+Authors: S Ibanez, G Brebner, N McKeown, N Zilberman
+Publication: Proceedings of the 2019 ACM/SIGDA International Symposium on Field …
+
+243. AppSwitch: Application-layer Load Balancing within a Software Switch
+Citations:2
+Authors: E Cidon, S Choi, S Katti, N McKeown
+Publication: Proceedings of the First Asia-Pacific Workshop on Networking, 64-70
+
+244. Measuring and troubleshooting large operational multipath networks with gray box testing
+Citations:2
+Authors: H Zeng, R Mahajan, N McKeown, G Varghese, L Yuan, M Zhang
+Publication: Mountain Safety Res., Seattle, WA, USA, Rep. MSR-TR-2015-55
+
+245. Using Network Knowledge to Improve Workload Performance in Virtualized Data Centers
+Citations:2
+Authors: D Erickson, B Heller, N McKeown, M Rosenblum
+Publication: Stanford University
+
+246. Forwarding Plane Correctness
+Citations:2
+Authors: N McKeown
+Publication: Summer School on Formal Methods and Networks
+
+247. OpenPipes: Making distributed hardware systems easier
+Citations:2
+Authors: G Gibb, N McKeown
+Publication: 2010 International Conference on Field-Programmable Technology, 381-384
+
+248. Software defined mobile networks
+Citations:2
+Authors: N McKeown
+Publication: Proceedings of the tenth ACM international symposium on Mobile ad hoc …
+
+249. Program Chairs' Message
+Citations:2
+Authors: T Anderson, N McKeown
+Publication: ACM SIGCOMM COMPUTER COMMUNICATION REVIEW 36 (4), IV-IV
+
+250. Packet-switching with little or no buffers
+Citations:2
+Authors: N McKeown
+Publication: 2005 31st European Conference on Optical Communication, ECOC 2005 1, 7 vol. 1
+
+251. Using hardware to configure a load-balanced switch
+Citations:2
+Authors: S Arekapudi, ST Chuang, I Keslassy, N McKeown
+Publication: IEEE Micro 25 (1), 70-78
+
+252. Buffers: How we fell in love with them, and why we need a divorce
+Citations:2
+Authors: N McKeown
+Publication: Hot Interconnects
+
+253. CS244a: An Introduction to Computer Networks
+Citations:2
+Authors: N McKeown
+Publication: Power 1 (1), 10mW
+
+254. Internet routers
+Citations:2
+Authors: N McKeown
+Publication: Stochastics Network Seminar
+
+255. Providing guaranteed deterministic performance service to multimedia applications on WDM optical networks
+Citations:2
+Authors: M Ma, M Hamdi
+Publication: Globecom'00-IEEE. Global Telecommunications Conference. Conference Record …
+
+256. A High Performance SMDS Interface at STS-3c Rate
+Citations:2
+Authors: MT Le, N McKeown, R Edell, N Ri
+Publication: 
+
+257. EE384x: Packet switch architectures
+Citations:2
+Authors: N McKeown
+Publication: online documentation, http://www. standford. edu/class/ee384x
+
+258. A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State
+Citations:1
+Authors: L Jose, S Ibanez, M Alizadeh, N McKeown
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (2 …
+
+259. Deep Grade: A visual approach to grading student programming assignments
+Citations:1
+Authors: L Yan, N McKeown, C Piech
+Publication: Proc. WiCV Conf. CVPR
+
+260. Mapping Match+Action Tables to Switches
+Citations:1
+Authors: L Jose, L Yan, P Bosshart, D Daly, G Varghese, N McKeown
+Publication: Open Netw. Summit Res. Track
+
+261. Enlarging the sigcomm tent
+Citations:1
+Authors: N McKeown
+Publication: ACM SIGCOMM Computer Communication Review 44 (1), 63-65
+
+262. Initial thoughts on the waypoint service
+Citations:1
+Authors: G Gibs, H Zeng, N McKeown
+Publication: 3rd Workshop on infrastructures for software/hardware co-design, Chamonix …
+
+263. Virtualization and OpenFlow
+Citations:1
+Authors: N McKeown
+Publication: http://tiny-tera. stanford. edu/~ nickm/talks/Sigcomm% 20Visa% 20Barcelona …
+
+264. Towards Rapid Innovation in Mobile Networks
+Citations:1
+Authors: KK Yap, M Kobayashi, R Sherwood, N Handigol, TY Huang, M Chan, ...
+Publication: OpenFlow Switching, June
+
+265. Experimenting with Programmable Routers in Real Networks
+Citations:1
+Authors: N Beheshti, S Bolouki, Y Ganjali, B Heller, N McKeown, D Underhill
+Publication: Proceedings of ACM SIGCOMM/ Demo, 507-507
+
+266. Designing a predictable Internet backbone with Valiant load-balancing (extended version)
+Citations:1
+Authors: R Zhang-Shen, N McKeown
+Publication: Stanford HPNG Technical Report TR05-HPNG
+
+267. Small high-bandwidth ATM switch
+Citations:1
+Authors: A Mekkittikul, N McKeown, M Izzard
+Publication: Broadband Access Systems 2917, 387-397
+
+268. 8-Tb/s ATM interconnection through optical WDM networks
+Citations:1
+Authors: A Mekkittikul, D Sadot, LG Kazovsky, N McKeown
+Publication: High-Speed Semiconductor Laser Sources 2684, 186-198
+
+269. Billing Users for TCP
+Citations:1
+Authors: RJ Edel, N McKeown, PP Varaiya
+Publication: Proceedings of the 3rd International Conference on Telecommunications …
+
+270. Hillview: A trillion-cell spreadsheet for big data
+Citations:
+Authors: M Budiu, P Gopalan, L Suresh, U Wieder, H Kruiger, MK Aguilera
+Publication: arXiv preprint arXiv:1907.04827
+
+271. Frequency Stabilized Lasers for Coherent Fiber Interconnects in the Datacenter (Invited Talk)
+Citations:
+Authors: DJ Blumenthal, H Ballani, R Behunin, JE Bowers, P Costa, D Lenoski, ...
+Publication: 2019 IEEE Optical Interconnects Conference (OI), 1-2
+
+272. Examples of Research Affecting the Practice of Networking.
+Citations:
+Authors: B Davie, C Diot, L Eggert, N McKeown, VN Padmanabhan, R Teixeira
+Publication: Computer Communication Review 45 (2), 49
+
+273. Try before you buy: SDN emulation with (real) interdomain routing.
+Citations:
+Authors: A Malik, M Malook Rind, M Y. Koondhar, A Shah, S Katukam, SQ Hu, ...
+Publication: Information Technology Journal 15 (4), 1418-1423
+
+274. HomeNets' 11 Best Papers-Slicing Home Networks
+Citations:
+Authors: Y Yiakoumis, KK Yap, S Katti, G Parulkar, N McKeown
+Publication: SIGCOMM-Computer Communication Review 41 (4), 495
+
+275. PhoneNet: a Phone-to-Phone Network for Group Communication within an Administrative Domain
+Citations:
+Authors: TYHKK Yap, BDMS Lam, N McKeown
+Publication: 
+
+276. Towards Software Friendly Networks
+Citations:
+Authors: KKYTY Huang, BDMS Lam, N McKeown
+Publication: 
+
+277. Selecting the 2008 sigcomm test-of-time awardwinner (s)
+Citations:
+Authors: V Paxson, N McKeown, J Rexford
+Publication: ACM SIGCOMM Computer Communication Review 39 (2), 40-41
+
+278. Support-vector networks.
+Citations:
+Authors: L Xiuhai, A Greenberg, G Hjalmtysson, DA Maltz, A Myers, J Rexford, ...
+Publication: Journal of Software Engineering 8 (4), 41-54
+
+279. Mo2. 1.4 Invited-Packet-Switching with Little or no Buffers
+Citations:
+Authors: N McKeown
+Publication: IEE CONFERENCE PUBLICATION 502 (1), 7
+
+280. The Future of MPLS
+Citations:
+Authors: B Davie, Y Rekhter, T Telkamp, S Crosby, N McKeown
+Publication: hoti, 0075
+
+281. Fast IP packet forwarding and classification for next generation Internet services
+Citations:
+Authors: MM Buddhikot, N McKeown, G Varghese
+Publication: IEEE NETWORK 15 (2), 6-7
+
+282. Optics and Routing Seminar, Stanford Part II
+Citations:
+Authors: N MCKEOWN
+Publication: http://tiny-tera. stanford. edu/~ nickm/talks/ORS_2_Fall2000
+
+283. The increasingly important interconnect
+Citations:
+Authors: N McKeown, C Bailey
+Publication: IEEE Micro 19 (1), 12-13
+
+284. FDDI-SMDS Bridge Architecture
+Citations:
+Authors: NW McKeown
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+285. High-speed multi-Input FIFO queues with applications.
+Citations:
+Authors: J Zhang, Z Fang, G Qu, X Zhao, SQ Zheng, JE Hopcroft, RM Karp, ...
+Publication: Information Technology Journal 10 (12), 225-231
+
+286. Ponencia
+Citations:
+Authors: BR Hernández
+Publication: Anales de la Universidad de Chile
+
+287. ElasticTree
+Citations:
+Authors: B Heller, S Seetharaman, P Mahadevan, Y Yiakoumis, P Sharma, ...
+Publication: 
+
+288. Public Reviews of Papers Appearing at HotNets-III
+Citations:
+Authors: N McKeown
+Publication: 
+
+289. High Performance Switching and Routing
+Citations:
+Authors: N McKeown
+Publication: 
+
+290. Virtualized Congestion Control (Extended Version)
+Citations:
+Authors: B Cronkite-Ratcliff, A Bergman, MR Shay Vargaftik, N McKeown, ...
+Publication: 
+
+291. Clean-Slate Design for the Internet
+Citations:
+Authors: MH Goldsmith, R Johari, J Kahn, D Mazieres, N McKeown, D Miller, ...
+Publication: 
+
+292. A Simulation of IP Switch
+Citations:
+Authors: S Lin, N McKeown
+Publication: 
+
+293. NOX: Towards an Operating NOX: Towards an Operating System for Networks y
+Citations:
+Authors: N Gude, T Koponen, J Pettit, B Pfaff, M Casado, N McKeown, S Shenker
+Publication: 
+
+294. Stability Analysis of RCP for Long-lived Flows
+Citations:
+Authors: N Dukkipati, N McKeown
+Publication: 
+
+295. Errata for” Dynamic Algorithms with Worst-case Performance for Packet Classification”
+Citations:
+Authors: P Gupta, N McKeown
+Publication: 
+
+296. Selecting the 2008 SIGCOMM Test-of-Time Award
+Citations:
+Authors: V Paxson, N McKeown, J Rexford
+Publication: 
+
+297. help promote
+Citations:
+Authors: J Yuan
+Publication: 
+
+298. Is IP going to take over the world (of communications)?
+Citations:
+Authors: N McKeown, H Zhang
+Publication: 
+
+299. Buffer Sizing in a Combined Input Output Queued (CIOQ) Switch
+Citations:
+Authors: N Beheshti, N Mckeown
+Publication: 
+
+300. FlowVisor: OpenFlow Technical Report 2009-01
+Citations:
+Authors: R Sherwood, G Gibb, KK Yap, G Appenzeller, M Casado, N McKeown, ...
+Publication: 
+
+301. TCP SWITCHING: EXPOSING CIRCUITS TO IP
+Citations:
+Authors: N McKeown
+Publication: 
+
+302. Interconnects VI
+Citations:
+Authors: H Alkhatib, N McKeown, C Bailey
+Publication: 
+
+303. balaji@ hplb. hpl. hp. com nickm@ ee. stanford. edu, ritesh@ cs. stanford. edu
+Citations:
+Authors: B Prabhakar, N McKeown, R Ahuja
+Publication: 
+
+304. 1st IEEE Workshop on Below IP Networking Challenges and Opportunities in the Design of TRILL: A Routed Layer 2 Technology
+Citations:
+Authors: R Perlman, R Kantola, M Luoma, OP Lamminen, S Jain, Y Chen, ...
+Publication: 
+
+305. ALL FOR CONTRIBUTIONS
+Citations:
+Authors: H Alkhatib, N McKeown, C Bailey
+Publication: 
+
+306. ANCS 2010 symposium organization
+Citations:
+Authors: J Mogul, R Iyer, T Wolf, M Becchi, C Estan, M Franklin, A Baumann, ...
+Publication: 
+
+307. Departments of EE & CS Stanford University. Email: nickm@ ee. stanford. edu
+Citations:
+Authors: B Prabhakar, N McKeown, J Mairesse
+Publication: 
+
+308. Sizing Router Buffers
+Citations:
+Authors: IK de Guido Appenzeller, N McKeown
+Publication: 
+
+309. BRIMS Dept of Elec Engg Comp Sc Hewlett-Packard Labs, Bristol. Stanford University.
+Citations:
+Authors: B Prabhakar, N McKeown, R Ahuja
+Publication: 
+
+310. Project Summary: Programmable Open Mobile Internet 2020
+Citations:
+Authors: D Boneh, A Goldsmith, R Johari, P Kim, S Klemmer, C Kozyrakis, M Lam, ...
+Publication: 
+

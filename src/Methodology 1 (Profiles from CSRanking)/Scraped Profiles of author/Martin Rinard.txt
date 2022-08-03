@@ -1,0 +1,2058 @@
+https://scholar.google.com/citations?hl=en&user=hxlxVEUAAAAJ
+Total Citations = 16678
+
+1. Concurrent constraint programming
+Citations:1094
+Authors: VA Saraswat, M Rinard
+Publication: Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+2. Ownership types for safe programming: Preventing data races and deadlocks
+Citations:674
+Authors: C Boyapati, R Lee, M Rinard
+Publication: ACM Sigplan Notices 37 (11), 211-230
+
+3. Semantic Foundations of Concurrent Constraint Programming.
+Citations:573
+Authors: VA Saraswat, M Rinard, P Panangaden
+Publication: POPL 91 (18), 333-352
+
+4. Compositional pointer and escape analysis for Java programs
+Citations:501
+Authors: J Whaley, M Rinard
+Publication: ACM Sigplan Notices 34 (10), 187-206
+
+5. Enhancing Server Availability and Security Through Failure-Oblivious Computing.
+Citations:402
+Authors: MC Rinard, C Cadar, D Dumitran, DM Roy, T Leu, WS Beebee
+Publication: OSDI 4, 21-21
+
+6. Managing performance vs. accuracy trade-offs with loop perforation
+Citations:400
+Authors: S Sidiroglou-Douskos, S Misailovic, H Hoffmann, M Rinard
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+7. Automatically patching errors in deployed software
+Citations:372
+Authors: JH Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+8. A parameterized type system for race-free Java programs
+Citations:339
+Authors: C Boyapati, M Rinard
+Publication: ACM SIGPLAN Notices 36 (11), 56-69
+
+9. Dynamic knobs for responsive power-aware computing
+Citations:312
+Authors: H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 199-212
+
+10. Information flow analysis of android applications in droidsafe.
+Citations:292
+Authors: MI Gordon, D Kim, JH Perkins, L Gilham, N Nguyen, MC Rinard
+Publication: NDSS 15 (201), 110
+
+11. Taint-based directed whitebox fuzzing
+Citations:271
+Authors: V Ganesh, T Leek, M Rinard
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+12. Automatic detection and repair of errors in data structures
+Citations:267
+Authors: B Demsky, M Rinard
+Publication: Acm sigplan notices 38 (11), 78-95
+
+13. Automatic patch generation by learning correct code
+Citations:264
+Authors: F Long, M Rinard
+Publication: ACM SIGPLAN Notices 51 (1), 298-312
+
+14. Purity and side effect analysis for Java programs
+Citations:229
+Authors: A Sălcianu, M Rinard
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+15. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:228
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: ACM SIGPLAN Notices 48 (10), 33-52
+
+16. Symbolic bounds analysis of pointers, array indices, and accessed memory regions
+Citations:225
+Authors: R Rugina, M Rinard
+Publication: ACM Sigplan Notices 35 (5), 182-195
+
+17. Quality of service profiling
+Citations:223
+Authors: S Misailovic, S Sidiroglou, H Hoffmann, M Rinard
+Publication: 2010 ACM/IEEE 32nd International Conference on Software Engineering 1, 25-34
+
+18. Full functional verification of linked data structures
+Citations:223
+Authors: K Zee, V Kuncak, M Rinard
+Publication: ACM SIGPLAN Notices 43 (6), 349-361
+
+19. Jade: A high-level, machine-independent language for parallel programming
+Citations:217
+Authors: MC Rinard, DJ Scales, MS Lam
+Publication: Computer, 28-38
+
+20. Staged program repair with condition synthesis
+Citations:210
+Authors: F Long, M Rinard
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+21. Ownership types for safe region-based memory management in real-time Java
+Citations:206
+Authors: C Boyapati, A Salcianu, W Beebee Jr, M Rinard
+Publication: ACM SIGPLAN Notices 38 (5), 324-337
+
+22. Pointer and escape analysis for multithreaded programs
+Citations:206
+Authors: A Salcianu, M Rinard
+Publication: ACM SIGPLAN Notices 36 (7), 12-23
+
+23. A classification system and analysis for aspect-oriented programs
+Citations:203
+Authors: M Rinard, A Salcianu, S Bugrara
+Publication: ACM SIGSOFT Software Engineering Notes 29 (6), 147-158
+
+24. The design, implementation, and evaluation of Jade
+Citations:196
+Authors: MC Rinard, MS Lam
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 20 (3), 483-545
+
+25. An analysis of patch plausibility and correctness for generate-and-validate patch generation systems
+Citations:191
+Authors: Z Qi, F Long, S Achour, M Rinard
+Publication: Proceedings of the 2015 International Symposium on Software Testing and …
+
+26. Credible compilation
+Citations:169
+Authors: MC Rinard
+Publication: 
+
+27. Probabilistic accuracy bounds for fault-tolerant computations that discard tasks
+Citations:157
+Authors: M Rinard
+Publication: Proceedings of the 20th annual international conference on Supercomputing …
+
+28. Contextual policy enforcement in android applications with permission event graphs.
+Citations:154
+Authors: KZ Chen, NM Johnson, V D'Silva, S Dai, K MacNamara, TR Magrino, ...
+Publication: NDSS, 234
+
+29. Role analysis
+Citations:154
+Authors: V Kuncak, P Lam, M Rinard
+Publication: ACM SIGPLAN Notices 37 (1), 17-32
+
+30. Control jujutsu: On the weaknesses of fine-grained control flow integrity
+Citations:153
+Authors: I Evans, F Long, U Otgonbaatar, H Shrobe, M Rinard, H Okhravi, ...
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+31. Chisel: Reliability-and accuracy-aware optimization of approximate computational kernels
+Citations:149
+Authors: S Misailovic, M Carbin, S Achour, Z Qi, MC Rinard
+Publication: ACM SIGPLAN Notices 49 (10), 309-328
+
+32. Software analysis: A roadmap
+Citations:149
+Authors: D Jackson, M Rinard
+Publication: Proceedings of the Conference on the Future of Software Engineering, 133-145
+
+33. Pointer analysis for multithreaded programs
+Citations:148
+Authors: R Rugina, M Rinard
+Publication: ACM SIGPLAN Notices 34 (5), 77-90
+
+34. Parallelizing applications into silicon
+Citations:146
+Authors: J Babb, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: Seventh Annual IEEE Symposium on Field-Programmable Custom Computing …
+
+35. Inference and enforcement of data structure consistency specifications
+Citations:136
+Authors: B Demsky, MD Ernst, PJ Guo, S McCamant, JH Perkins, M Rinard
+Publication: Proceedings of the 2006 international symposium on Software testing and …
+
+36. Commutativity analysis: A new analysis technique for parallelizing compilers
+Citations:136
+Authors: MC Rinard, PC Diniz
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 19 (6), 942-991
+
+37. Dynamic feedback: An effective technique for adaptive computing
+Citations:131
+Authors: PC Diniz, MC Rinard
+Publication: ACM SIGPLAN Notices 32 (5), 71-84
+
+38. Analysis of multithreaded programs
+Citations:129
+Authors: M Rinard
+Publication: International Static Analysis Symposium, 1-19
+
+39. A dynamic technique for eliminating buffer overflow vulnerabilities (and other memory errors)
+Citations:125
+Authors: M Rinard, C Cadar, D Dumitran, DM Roy, T Leu
+Publication: 20th Annual Computer Security Applications Conference, 82-90
+
+40. Missing the point (er): On the effectiveness of code pointer integrity
+Citations:124
+Authors: I Evans, S Fingeret, J Gonzalez, U Otgonbaatar, T Tang, H Shrobe, ...
+Publication: 2015 IEEE Symposium on Security and Privacy, 781-796
+
+41. Using code perforation to improve performance, reduce energy consumption, and respond to failures
+Citations:122
+Authors: H Hoffmann, S Misailovic, S Sidiroglou, A Agarwal, M Rinard
+Publication: 
+
+42. Data structure repair using goal-directed reasoning
+Citations:121
+Authors: B Demsky, M Rinard
+Publication: Proceedings of the 27th international conference on Software engineering …
+
+43. Incrementalized pointer and escape analysis
+Citations:113
+Authors: F Vivien, M Rinard
+Publication: 
+
+44. Automatic parallelization of divide and conquer algorithms
+Citations:112
+Authors: R Rugina, M Rinard
+Publication: ACM SIGPLAN Notices 34 (8), 72-83
+
+45. An implementation of scoped memory for Real-Time Java
+Citations:100
+Authors: WS Beebee, M Rinard
+Publication: International Workshop on Embedded Software, 289-305
+
+46. Automatic error elimination by horizontal code transfer across multiple applications
+Citations:97
+Authors: S Sidiroglou-Douskos, E Lahtinen, F Long, M Rinard
+Publication: Acm Sigplan Notices 50 (6), 43-54
+
+47. Probabilistically accurate program transformations
+Citations:95
+Authors: S Misailovic, DM Roy, MC Rinard
+Publication: International Static Analysis Symposium, 316-333
+
+48. Coarse-grain parallel programming in Jade
+Citations:95
+Authors: MS Lam, MC Rinard
+Publication: PPOPP, 94-105
+
+49. Proving acceptability properties of relaxed nondeterministic approximate programs
+Citations:92
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: ACM SIGPLAN Notices 47 (6), 169-180
+
+50. Randomized accuracy-aware program transformations for efficient approximate computations
+Citations:90
+Authors: ZA Zhu, S Misailovic, JA Kelner, M Rinard
+Publication: ACM SIGPLAN Notices 47 (1), 441-454
+
+51. Commutativity analysis: A new analysis framework for parallelizing compilers
+Citations:90
+Authors: MC Rinard, PC Diniz
+Publication: ACM SIGPLAN Notices 31 (5), 54-67
+
+52. Memory usage verification for OO programs
+Citations:84
+Authors: WN Chin, HH Nguyen, S Qin, M Rinard
+Publication: International Static Analysis Symposium, 70-86
+
+53. Using early phase termination to eliminate load imbalances at barrier synchronization points
+Citations:83
+Authors: MC Rinard
+Publication: ACM SIGPLAN Notices 42 (10), 369-386
+
+54. Acceptability-oriented computing
+Citations:83
+Authors: M Rinard
+Publication: Acm sigplan notices 38 (12), 57-75
+
+55. An analysis of the search spaces for generate and validate patch generation systems
+Citations:81
+Authors: F Long, M Rinard
+Publication: 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …
+
+56. Pipa: a behavioral interface specification language for aspect
+Citations:81
+Authors: J Zhao, M Rinard
+Publication: International Conference on Fundamental Approaches to Software Engineering …
+
+57. Symbolic bounds analysis of pointers, array indices, and accessed memory regions
+Citations:80
+Authors: R Rugina, MC Rinard
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (2), 185-235
+
+58. Verifying a file system implementation
+Citations:79
+Authors: K Arkoudas, K Zee, V Kuncak, M Rinard
+Publication: International Conference on Formal Engineering Methods, 373-390
+
+59. Data representation synthesis
+Citations:78
+Authors: P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv
+Publication: ACM SIGPLAN Notices 46 (6), 38-49
+
+60. Automatic error finding in access-control policies
+Citations:75
+Authors: K Jayaraman, V Ganesh, M Tripunitara, M Rinard, S Chapin
+Publication: Proceedings of the 18th ACM conference on Computer and communications …
+
+61. Lock coarsening: Eliminating lock overhead in automatically parallelized object-based programs
+Citations:75
+Authors: PC Diniz, MC Rinard
+Publication: Journal of Parallel and Distributed Computing 49 (2), 218-244
+
+62. Detecting and escaping infinite loops with jolt
+Citations:74
+Authors: M Carbin, S Misailovic, M Kling, MC Rinard
+Publication: European Conference on Object-Oriented Programming, 609-633
+
+63. Parallelizing sequential programs with statistical accuracy tests
+Citations:72
+Authors: S Misailovic, D Kim, M Rinard
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 12 (2s), 88
+
+64. An integrated proof language for imperative programs
+Citations:72
+Authors: K Zee, V Kuncak, MC Rinard
+Publication: ACM Sigplan Notices 44 (6), 338-351
+
+65. Role-based exploration of object-oriented programs
+Citations:71
+Authors: B Demsky, M Rinard
+Publication: Proceedings of the 24th International Conference on Software Engineering …
+
+66. Deciding Boolean algebra with Presburger arithmetic
+Citations:68
+Authors: V Kuncak, HH Nguyen, M Rinard
+Publication: Journal of Automated Reasoning 36 (3), 213-239
+
+67. A type system and analysis for the automatic extraction and enforcement of design information
+Citations:68
+Authors: P Lam, M Rinard
+Publication: European Conference on Object-Oriented Programming, 275-302
+
+68. Automatic runtime error repair and containment via recovery shepherding
+Citations:67
+Authors: F Long, S Sidiroglou-Douskos, M Rinard
+Publication: ACM SIGPLAN Notices 49 (6), 227-238
+
+69. Field constraint analysis
+Citations:66
+Authors: T Wies, V Kuncak, P Lam, A Podelski, M Rinard
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+70. Generalized typestate checking for data structure consistency
+Citations:66
+Authors: P Lam, V Kuncak, M Rinard
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+71. Translating text to, merging, and optimizing graphical user interface tasks
+Citations:65
+Authors: N Kushman, R Barzilay, SRK Branavan, D Katabi, MC Rinard
+Publication: US Patent 9,189,254
+
+72. Automatic inference of code transforms for patch generation
+Citations:64
+Authors: F Long, P Amidon, M Rinard
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+73. An evaluation of exhaustive testing for data structures
+Citations:64
+Authors: D Marinov, A Andoni, D Daniliuc, S Khurshid, M Rinard
+Publication: Technical Report MIT-LCS-TR-921, MIT CSAIL, Cambridge, MA
+
+74. Towards efficient satisfiability checking for Boolean Algebra with Presburger Arithmetic
+Citations:63
+Authors: V Kuncak, M Rinard
+Publication: International Conference on Automated Deduction, 215-230
+
+75. System dependence graph construction for aspect-oriented programs
+Citations:62
+Authors: J Zhao, M Rinard
+Publication: Laboratory for Computer Science
+
+76. Concurrent data representation synthesis
+Citations:61
+Authors: P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv
+Publication: ACM SIGPLAN Notices 47 (6), 417-428
+
+77. Goal-directed reasoning for specification-based data structure repair
+Citations:60
+Authors: B Demsky, MC Rinard
+Publication: IEEE Transactions on Software Engineering 32 (12), 931-951
+
+78. Using first-order theorem provers in the Jahob data structure verification system
+Citations:59
+Authors: C Bouillaguet, V Kuncak, T Wies, K Zee, M Rinard
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+79. Automatic testing of software with structurally complex inputs
+Citations:59
+Authors: D Marinov
+Publication: Massachusetts Institute of Technology
+
+80. Automatic input rectification
+Citations:58
+Authors: F Long, V Ganesh, M Carbin, S Sidiroglou, M Rinard
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 80-90
+
+81. Automatically identifying critical input regions and code in applications
+Citations:58
+Authors: M Carbin, MC Rinard
+Publication: Proceedings of the 19th international symposium on Software testing and …
+
+82. An algorithm for deciding BAPA: Boolean algebra with Presburger arithmetic
+Citations:57
+Authors: V Kuncak, HH Nguyen, M Rinard
+Publication: International Conference on Automated Deduction, 260-277
+
+83. Modular pluggable analyses for data structure consistency
+Citations:56
+Authors: V Kuncak, P Lam, K Zee, MC Rinard
+Publication: IEEE Transactions on Software Engineering 32 (12), 988-1005
+
+84. Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives
+Citations:56
+Authors: MC Rinard
+Publication: ACM Transactions on Computer Systems (TOCS) 17 (4), 337-371
+
+85. Detecting and eliminating memory leaks using cyclic memory allocation
+Citations:55
+Authors: HH Nguyen, M Rinard
+Publication: Proceedings of the 6th international symposium on Memory management, 15-30
+
+86. Region inference for an object-oriented language
+Citations:55
+Authors: WN Chin, F Craciun, S Qin, M Rinard
+Publication: ACM SIGPLAN Notices 39 (6), 243-254
+
+87. Synchronization transformations for parallel computing
+Citations:54
+Authors: PC Diniz, MC Rinard
+Publication: Concurrency: Practice and Experience 11 (13), 773-802
+
+88. Word equations with length constraints: what’s decidable?
+Citations:53
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: Haifa Verification Conference, 209-226
+
+89. Pointer analysis for structured parallel programs
+Citations:53
+Authors: R Rugina, MC Rinard
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 25 (1), 70-116
+
+90. Integrating model checking and theorem proving for relational reasoning
+Citations:52
+Authors: K Arkoudas, S Khurshid, D Marinov, M Rinard
+Publication: International Conference on Relational Methods in Computer Science, 21-33
+
+91. The design, implementation and evaluation of Jade: a portable, implicitly parallel programming language
+Citations:52
+Authors: MC Rinard
+Publication: Stanford University
+
+92. Histogram-based global load balancing in structured peer-to-peer systems
+Citations:51
+Authors: QH Vu, BC Ooi, M Rinard, KL Tan
+Publication: IEEE Transactions on Knowledge and Data Engineering 21 (4), 595-608
+
+93. Data size optimizations for Java programs
+Citations:51
+Authors: CS Ananian, M Rinard
+Publication: ACM SIGPLAN Notices 38 (7), 59-68
+
+94. Structural subtyping of non-recursive types is decidable
+Citations:45
+Authors: V Kuncak, M Rinard
+Publication: 18th Annual IEEE Symposium of Logic in Computer Science, 2003. Proceedings …
+
+95. Sound input filter generation for integer overflow errors
+Citations:44
+Authors: F Long, S Sidiroglou-Douskos, D Kim, M Rinard
+Publication: Acm sigplan notices 49 (1), 439-452
+
+96. Patterns and statistical analysis for understanding reduced resource computing
+Citations:44
+Authors: M Rinard, H Hoffmann, S Misailovic, S Sidiroglou
+Publication: ACM Sigplan Notices 45 (10), 806-821
+
+97. Automatic data structure repair for self-healing systems
+Citations:44
+Authors: B Demsky, MC Rinard
+Publication: Proceedings of the 1st Workshop on Algorithms and Architectures for Self …
+
+98. From natural language specifications to program input parsers
+Citations:43
+Authors: T Lei, F Long, R Barzilay, M Rinard
+Publication: Proceedings of the 51st Annual Meeting of the Association for Computational …
+
+99. Runtime checking for program verification
+Citations:41
+Authors: K Zee, V Kuncak, M Taylor, M Rinard
+Publication: International Workshop on Runtime Verification, 202-213
+
+100. Interprocedural compatibility analysis for static object preallocation
+Citations:39
+Authors: O Gheorghioiu, A Salcianu, M Rinard
+Publication: ACM SIGPLAN Notices 38 (1), 273-284
+
+101. An overview of the Jahob analysis system: project goals and current status
+Citations:38
+Authors: V Kuncak, M Rinard
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+102. Efficient object-based software transactions
+Citations:38
+Authors: CS Ananian, M Rinard
+Publication: Synchronization and Concurrency in Object-Oriented Languages (SCOOL) 27
+
+103. A combined pointer and purity analysis for Java programs
+Citations:38
+Authors: A Salcianu, M Rinard
+Publication: 
+
+104. Generalized typestate checking using set interfaces and pluggable analyses
+Citations:38
+Authors: P Lam, V Kuncak, M Rinard
+Publication: ACM SIGPLAN Notices 39 (3), 46-55
+
+105. Targeted automatic integer overflow discovery using goal-directed conditional branch enforcement
+Citations:36
+Authors: S Sidiroglou-Douskos, E Lahtinen, N Rittenhouse, P Piselli, F Long, ...
+Publication: ACM Sigplan Notices 50 (4), 473-486
+
+106. Bolt: on-demand infinite loop escape in unmodified binaries
+Citations:36
+Authors: M Kling, S Misailovic, M Carbin, M Rinard
+Publication: ACM SIGPLAN Notices 47 (10), 431-450
+
+107. Write barrier removal by static analysis
+Citations:36
+Authors: K Zee, M Rinard
+Publication: ACM SIGPLAN Notices 37 (11), 191-210
+
+108. Heterogeneous parallel programming in Jade
+Citations:35
+Authors: MC Rinard, DJ Scales, MS Lam
+Publication: Supercomputing'92: Proceedings of the 1992 ACM/IEEE Conference on …
+
+109. Exploring the acceptability envelope
+Citations:34
+Authors: M Rinard, C Cadar, HH Nguyen
+Publication: Companion to the 20th annual ACM SIGPLAN conference on Object-oriented …
+
+110. Parallel synchronization-free approximate data structure construction
+Citations:33
+Authors: M Rinard
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Parallelism
+
+111. Verification of semantic commutativity conditions and inverse operations on linked data structures
+Citations:33
+Authors: D Kim, MC Rinard
+Publication: ACM SIGPLAN Notices 46 (6), 528-541
+
+112. Living in the comfort zone
+Citations:33
+Authors: MC Rinard
+Publication: ACM SIGPLAN Notices 42 (10), 611-622
+
+113. Decision procedures for set-valued fields
+Citations:33
+Authors: V Kuncak, M Rinard
+Publication: Electronic Notes in Theoretical Computer Science 131, 51-62
+
+114. Hob: A tool for verifying data structure consistency
+Citations:33
+Authors: P Lam, V Kuncak, M Rinard
+Publication: International Conference on Compiler Construction, 237-241
+
+115. Crosscutting techniques in program specification and analysis
+Citations:32
+Authors: P Lam, V Kuncak, M Rinard
+Publication: Proceedings of the 4th international conference on Aspect-oriented software …
+
+116. Combining theorem proving with static analysis for data structure consistency
+Citations:31
+Authors: K Zee, P Lam, V Kuncak, M Rinard
+Publication: International Workshop on Software Verification and Validation
+
+117. Pointer analysis for Java programs: Novel techniques and applications
+Citations:30
+Authors: AD Sălcianu
+Publication: Massachusetts Institute of Technology
+
+118. Deductive runtime certification
+Citations:30
+Authors: K Arkoudas, M Rinard
+Publication: Electronic Notes in Theoretical Computer Science 113, 45-63
+
+119. Safe runtime downcasts with ownership types
+Citations:30
+Authors: C Boyapati, R Lee, M Rinard
+Publication: ECOOP International Workshop on Aliasing, Confinement and Ownership in …
+
+120. Recursion unrolling for divide and conquer programs
+Citations:29
+Authors: R Rugina, M Rinard
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 34-48
+
+121. Dancing with uncertainty
+Citations:28
+Authors: S Misailovic, S Sidiroglou, MC Rinard
+Publication: Proceedings of the 2012 ACM workshop on Relaxing synchronization for …
+
+122. Mohawk: Abstraction-refinement and bound-estimation for verifying access control policies
+Citations:27
+Authors: K Jayaraman, M Tripunitara, V Ganesh, M Rinard, S Chapin
+Publication: ACM Transactions on Information and System Security (TISSEC) 15 (4), 18
+
+123. Optimizations for compiling declarative models into boolean formulas
+Citations:27
+Authors: D Marinov, S Khurshid, S Bugrara, L Zhang, M Rinard
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+124. On verifying complex properties using symbolic shape analysis
+Citations:26
+Authors: T Wies, V Kuncak, K Zee, A Podelski, M Rinard
+Publication: arXiv preprint cs/0609104
+
+125. High-level automatic pipelining for sequential circuits
+Citations:26
+Authors: MCV Marinescu, M Rinard
+Publication: Proceedings of the 14th international symposium on Systems synthesis, 215-220
+
+126. On the theory of structural subtyping
+Citations:24
+Authors: V Kuncak, M Rinard
+Publication: arXiv preprint cs/0408015
+
+127. Semantic foundations of Jade
+Citations:24
+Authors: MC Rinard, MS Lam
+Publication: Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+128. Covert communication in mobile applications (t)
+Citations:23
+Authors: J Rubin, MI Gordon, N Nguyen, M Rinard
+Publication: 2015 30th IEEE/ACM International Conference on Automated Software …
+
+129. On our experience with modular pluggable analyses
+Citations:23
+Authors: P Lam, V Kuncak, M Rinard
+Publication: 
+
+130. A type system for preventing data races and deadlocks in Java programs
+Citations:23
+Authors: C Boyapati, R Lee, M Rinard
+Publication: Proceedings of the ACM Conference on Object-Oriented Programming, Systems …
+
+131. The challenges of staying together while moving fast: An exploratory study
+Citations:22
+Authors: J Rubin, M Rinard
+Publication: 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …
+
+132. Lynx: A programmatic SAT solver for the RNA-folding problem
+Citations:22
+Authors: V Ganesh, CW O’donnell, M Soos, S Devadas, MC Rinard, ...
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+133. Boolean algebra of shape analysis constraints
+Citations:21
+Authors: V Kuncak, M Rinard
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+134. Lax: Driver interfaces for approximate sensor device access
+Citations:20
+Authors: P Stanley-Marbell, M Rinard
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+135. Verified integrity properties for safe approximate program transformations
+Citations:20
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and …
+
+136. Rapid haplotype inference for nuclear families
+Citations:20
+Authors: AL Williams, DE Housman, MC Rinard, DK Gifford
+Publication: Genome biology 11 (10), R108
+
+137. Specification based detection and repair of errors in data structures
+Citations:20
+Authors: BC Demsky, MC Rinard
+Publication: US Patent 7,260,746
+
+138. Existential heap abstraction entailment is undecidable
+Citations:20
+Authors: V Kuncak, M Rinard
+Publication: International Static Analysis Symposium, 418-438
+
+139. Power-aware computing with dynamic knobs
+Citations:19
+Authors: H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard
+Publication: Technical Report TR-2010-027, CSAIL, MIT
+
+140. The first-order theory of sets with cardinality constraints is decidable
+Citations:19
+Authors: V Kuncak, M Rinard
+Publication: arXiv preprint cs/0407045
+
+141. Eliminating synchronization overhead in automatically parallelized programs using dynamic feedback
+Citations:19
+Authors: PC Diniz, MC Rinard
+Publication: ACM Transactions on Computer Systems (TOCS) 17 (2), 89-132
+
+142. On role logic
+Citations:18
+Authors: V Kuncak, M Rinard
+Publication: arXiv preprint cs/0408018
+
+143. Eliminating synchronization bottlenecks in object-based programs using adaptive replication
+Citations:18
+Authors: M Rinard, P Diniz
+Publication: International Conference on Supercomputing, 83-92
+
+144. Approximate computation with outlier detection in topaz
+Citations:17
+Authors: S Achour, MC Rinard
+Publication: Acm Sigplan Notices 50 (10), 711-730
+
+145. Automatic error elimination by multi-application code transfer
+Citations:17
+Authors: S Sidiroglou-Douskos, E Lahtinen, M Rinard
+Publication: 
+
+146. On spatial conjunction as second-order logic
+Citations:17
+Authors: V Kuncak, M Rinard
+Publication: arXiv preprint cs/0410073
+
+147. Utilitiy accrual scheduling with real-time Java
+Citations:17
+Authors: S Feizabadi, W Beebee, B Ravindran, P Li, M Rinard
+Publication: OTM Confederated International Conferences" On the Move to Meaningful …
+
+148. Manipulating program functionality to eliminate security vulnerabilities
+Citations:16
+Authors: M Rinard
+Publication: Moving target defense, 109-115
+
+149. Efficient specification-assisted error localization
+Citations:16
+Authors: B Demsky, C Cadar, D Roy, M Rinard
+Publication: Proceedings of the Second International Workshop on Dynamic Analysis
+
+150. Static specification analysis for termination of specification-based data structure repair
+Citations:16
+Authors: B Demsky, M Rinard
+Publication: 14th International Symposium on Software Reliability Engineering, 2003 …
+
+151. Reducing serial I/O power in error-tolerant applications by efficient lossy encoding
+Citations:14
+Authors: P Stanley-Marbell, M Rinard
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 62
+
+152. Principled Sampling for Anomaly Detection.
+Citations:14
+Authors: B Juba, C Musco, F Long, S Sidiroglou-Douskos, MC Rinard
+Publication: NDSS
+
+153. The hob system for verifying software design properties
+Citations:14
+Authors: P Lam
+Publication: Massachusetts Institute of Technology
+
+154. Verification, Model Checking, and Abstract Interpretation
+Citations:14
+Authors: R Cousot
+Publication: Springer Berlin/Heidelberg.
+
+155. Eliminating synchronization bottlenecks using adaptive replication
+Citations:14
+Authors: MC Rinard, PC Diniz
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 25 (3), 316-359
+
+156. CodeCarbonCopy
+Citations:13
+Authors: S Sidiroglou-Douskos, E Lahtinen, A Eden, F Long, M Rinard
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+157. Staged program repair in SPR
+Citations:13
+Authors: F Long, M Rinard
+Publication: 
+
+158. Unsynchronized techniques for approximate parallel computing
+Citations:13
+Authors: MC Rinard
+Publication: RACES Workshop
+
+159. Theory and Applications of Satisfiability Testing
+Citations:12
+Authors: F Bacchus, T Walsh
+Publication: Springer Berlin/Heidelberg.
+
+160. Generalized records and spatial conjunction in role logic
+Citations:12
+Authors: V Kuncak, M Rinard
+Publication: International Static Analysis Symposium, 361-376
+
+161. Commutativity analysis: A technique for automatically parallelizing pointer-based computations
+Citations:12
+Authors: M Rinard, P Diniz
+Publication: Proceedings of International Conference on Parallel Processing, 14-22
+
+162. Configuration synthesis for programmable analog devices with Arco
+Citations:11
+Authors: S Achour, R Sarpeshkar, MC Rinard
+Publication: ACM SIGPLAN Notices 51 (6), 177-193
+
+163. Crayon: saving power through shape and color approximation on next-generation displays
+Citations:11
+Authors: P Stanley-Marbell, V Estellers, M Rinard
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 11
+
+164. Prophet: Automatic patch generation via learning from successful patches
+Citations:11
+Authors: F Long, M Rinard
+Publication: 
+
+165. Data structure fusion
+Citations:11
+Authors: P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv
+Publication: Asian Symposium on Programming Languages and Systems, 204-221
+
+166. On modular pluggable analyses using set interfaces
+Citations:11
+Authors: P Lam, V Kuncak, M Rinard
+Publication: 
+
+167. Automatic correction of program logic
+Citations:10
+Authors: JH Perkins, S Sidiroglou, MC Rinard, EP Lahtinen, PM Piselli, BC Krikeles, ...
+Publication: US Patent 8,788,884
+
+168. On algorithms and complexity for sets with cardinality constraints
+Citations:10
+Authors: B Marnette, V Kuncak, M Rinard
+Publication: arXiv preprint cs/0508123
+
+169. Predictable memory usage for object-oriented programs
+Citations:10
+Authors: WN Chin, HH Nguyen, SC Qin, M Rinard
+Publication: Technical report, School of Computing, National University of Singapore
+
+170. High-level specification and efficient implementation of pipelined circuits
+Citations:10
+Authors: MC Marinescu, M Rinard
+Publication: Proceedings of the 2001 Asia and South Pacific Design Automation Conference …
+
+171. Credible compilers
+Citations:10
+Authors: M Rinard
+Publication: Massachusetts Institute of Technology
+
+172. Example-driven program synthesis for end-user programming: technical perspective
+Citations:9
+Authors: MC Rinard
+Publication: Communications of the ACM 55 (8), 96-96
+
+173. Obtaining and reasoning about good enough software
+Citations:9
+Authors: M Rinard
+Publication: Proceedings of the 49th Annual Design Automation Conference, 930-935
+
+174. Reasoning about relaxed programs
+Citations:9
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: 
+
+175. Design-driven compilation
+Citations:9
+Authors: R Rugina, M Rinard
+Publication: International Conference on Compiler Construction, 150-164
+
+176. On the complexity of commutativity analysis
+Citations:9
+Authors: O Ibarra, P Diniz, M Rinard
+Publication: International Computing and Combinatorics Conference, 323-332
+
+177. Efficiency limits for value-deviation-bounded approximate communication
+Citations:8
+Authors: P Stanley-Marbell, M Rinard
+Publication: IEEE Embedded Systems Letters 7 (4), 109-112
+
+178. Value-deviation-bounded serial data encoding for energy-efficient approximate communication
+Citations:8
+Authors: P Stanley-Marbell, M Rinard
+Publication: 
+
+179. Automatic discovery and patching of buffer and integer overflow errors
+Citations:8
+Authors: S Sidiroglou-Douskos, E Lahtinen, M Rinard
+Publication: 
+
+180. Reliability-aware optimization of approximate computational kernels with rely
+Citations:8
+Authors: S Misailovic, M Carbin, S Achour, Z Qi, M Rinard
+Publication: 
+
+181. A lossy, synchronization-free, race-full, but still acceptably accurate parallel space-subdivision tree construction algorithm
+Citations:8
+Authors: M Rinard
+Publication: 
+
+182. Probabilistic accuracy bounds for perforated programs: a new foundation for program analysis and transformation
+Citations:8
+Authors: M Rinard
+Publication: Association for Computing Machinery (ACM)
+
+183. SIGPLAN programming language curriculum workshop: Discussion summaries and recommendations
+Citations:8
+Authors: E Allen, R Bodik, K Bruce, K Fisher, S Freund, R Harper, C Krintz, ...
+Publication: ACM SIGPLAN Notices 43 (11), 6-29
+
+184. Efficient software transactions for object-oriented languages
+Citations:8
+Authors: C Ananian, M Rinard
+Publication: 
+
+185. The future of software analysis
+Citations:8
+Authors: D Jackson, M Rinard
+Publication: The Future of Software Engineering. ACM, New York 295
+
+186. OSUIF: SUIF 2.0 with objects
+Citations:8
+Authors: A Duncan, B Cocosel, C Iancu, H Kienle, R Rugina, U Hölzle, M Rinard
+Publication: Second SUIF Compiler Workshop
+
+187. IDEOSY: An ideographic and interactive program description system
+Citations:8
+Authors: A Giacalone, MC Rinard, TW Doeppner Jr
+Publication: ACM SIGPLAN Notices 19 (5), 15-20
+
+188. Probabilistic programming with programmable inference
+Citations:7
+Authors: VK Mansinghka, U Schaechtle, S Handa, A Radul, Y Chen, M Rinard
+Publication: ACM SIGPLAN Notices 53 (4), 603-616
+
+189. Battery-aware transformations in mobile applications
+Citations:7
+Authors: J Cito, J Rubin, P Stanley-Marbell, M Rinard
+Publication: 2016 31st IEEE/ACM International Conference on Automated Software …
+
+190. Automatic inference of code transforms and search spaces for automatic patch generation systems
+Citations:7
+Authors: F Long, P Amidon, M Rinard
+Publication: 
+
+191. Unanimous prediction for 100% precision with application to learning semantic mappings
+Citations:7
+Authors: F Khani, M Rinard, P Liang
+Publication: arXiv preprint arXiv:1606.06368
+
+192. Program fracture and recombination for efficient automatic code reuse
+Citations:7
+Authors: P Amidon, E Davis, S Sidiroglou-Douskos, M Rinard
+Publication: 2015 IEEE High Performance Extreme Computing Conference (HPEC), 1-6
+
+193. Contextual policy enforcement in android programs with permission event graphs
+Citations:7
+Authors: K Chen, N Johnson, V D'Silva, S Dai, T Magrino, K Macnamarra, E Wu, ...
+Publication: 
+
+194. Probabilistic and statistical analysis of perforated patterns
+Citations:7
+Authors: S Misailovic, DM Roy, M Rinard
+Publication: 
+
+195. Automatic parallelization with statistical accuracy bounds
+Citations:7
+Authors: S Misailovic, D Kim, M Rinard
+Publication: Technical Report MIT-CSAIL-TR-2010-007, MIT
+
+196. A hierarchy of tractable subclasses for SAT and counting SAT problems
+Citations:7
+Authors: S Andrei, G Grigoras, M Rinard, RHC Yap
+Publication: 2009 11th International Symposium on Symbolic and Numeric Algorithms for …
+
+197. Verification, Model Checking, and Abstract Interpretation
+Citations:7
+Authors: EA Emerson, KS Namjoshi
+Publication: Springer Berlin/Heidelberg.
+
+198. Typestate checking and regular graph constraints
+Citations:7
+Authors: V Kuncak, M Rinard
+Publication: arXiv preprint cs/0408014
+
+199. A type system for safe region-based memory management in Real-Time Java
+Citations:7
+Authors: A Salcianu, C Boyapati, W Beebee Jr, M Rinard
+Publication: Technical Report TR-869, MIT Laboratory for Computer Science
+
+200. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:6
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: Communications of the ACM 59 (8)
+
+201. A source-to-source transformation tool for error fixing
+Citations:6
+Authors: Y Khmelevsky, M Rinard, S Sidiroglou-Douskos
+Publication: Proceedings of the 2013 Conference of the Center for Advanced Studies on …
+
+202. Reasoning about lock placements
+Citations:6
+Authors: P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv
+Publication: European Symposium on Programming, 336-356
+
+203. Automatic extraction of heap reference properties in object-oriented programs
+Citations:6
+Authors: B Demsky, M Rinard
+Publication: IEEE Transactions on Software Engineering 35 (3), 305-324
+
+204. Roles Are Really Great!
+Citations:6
+Authors: V Kuncak, P Lam, M Rinard
+Publication: arXiv preprint cs/0408013
+
+205. Operating Systems Lecture Notes, Lecture 6, CPU Scheduling
+Citations:6
+Authors: MC Rinard
+Publication: Aug
+
+206. Semantic foundations of commutativity analysis
+Citations:6
+Authors: MC Rinard, PC Diniz
+Publication: European Conference on Parallel Processing, 414-423
+
+207. An integrated synchronization and consistency protocol for the implementation of a high-level parallel programming language
+Citations:6
+Authors: MC Rinard
+Publication: Proceedings of International Conference on Parallel Processing, 549-553
+
+208. Communication optimizations for parallel computing using data access information
+Citations:6
+Authors: MC Rinard
+Publication: Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …
+
+209. Hierarchical concurrency in Jade
+Citations:6
+Authors: D Scales, M Rinard, M Lam, J Anderson
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 50-64
+
+210. The three pillars of machine programming
+Citations:5
+Authors: J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+211. Horizontal code transfer via program fracture and recombination
+Citations:5
+Authors: S Sidiroglou-Douskos, E Davis, M Rinard
+Publication: 
+
+212. Arbac policy for a large multi-national bank
+Citations:5
+Authors: K Jayaraman, V Ganesh, M Tripunitara, MC Rinard, SJ Chapin
+Publication: arXiv preprint arXiv:1110.2849
+
+213. WikiDo
+Citations:5
+Authors: N Kushman, M Brodsky, SRK Branavan, D Katabi, R Barzilay, M Rinard
+Publication: Association for Computing Machinery
+
+214. Static Analysis: 12th International Symposium, SAS 2005, London,[Imperial College], UK, September 7-9, 2005-Proceedings
+Citations:5
+Authors: C Hankin
+Publication: Springer
+
+215. Implicitly synchronized abstract data types: Data structures for modular parallel programming
+Citations:5
+Authors: MC Rinard
+Publication: J. Prog. Lang. 6 (1), 1-35
+
+216. Bayesian synthesis of probabilistic programs for automatic data modeling
+Citations:4
+Authors: FA Saad, MF Cusumano-Towner, U Schaechtle, MC Rinard, ...
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 37
+
+217. Synthesis of randomized accuracy-aware map-fold programs
+Citations:4
+Authors: S Misailovic, M Rinard
+Publication: 
+
+218. From runtime verification to runtime intervention and adaptation
+Citations:4
+Authors: M Rinard
+Publication: International Conference on Runtime Verification, 276-276
+
+219. Integrated Reasoning and Proof Choice Point Selection in the Jahob System–Mechanisms for Program Survival
+Citations:4
+Authors: M Rinard
+Publication: International Conference on Automated Deduction, 1-16
+
+220. Survival strategies for synthesized hardware systems
+Citations:4
+Authors: M Rinard
+Publication: Proceedings of the 7th IEEE/ACM international conference on Formal Methods …
+
+221. Set interfaces for generalized typestate and data structure consistency verification
+Citations:4
+Authors: P Lam, K Zee, V Kuncak, M Rinard
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+222. Architectural and compiler support for strongly atomic transactional memory
+Citations:4
+Authors: CS Ananian
+Publication: Massachusetts Institute of Technology
+
+223. Failure-oblivious computing and boundless memory blocks
+Citations:4
+Authors: MC Rinard
+Publication: 
+
+224. Method for experimentally verifying imaging errors in optical exposure units
+Citations:4
+Authors: G Czech, E Richter, U Scheler, M Sebald
+Publication: US Patent 6,696,208
+
+225. Enhancing availability and security through failure-oblivious computing
+Citations:4
+Authors: M Rinard, C Cadar, D Dumitran, DM Roy
+Publication: 
+
+226. A language for role specifications
+Citations:4
+Authors: V Kuncak, P Lam, M Rinard
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+227. Compositional pointer and escape analysis for multithreaded Java programs
+Citations:4
+Authors: M Rinard, J Whaley
+Publication: Technical Report MIT-LCS-TR-795, Laboratory for Computer Science …
+
+228. Cimple: instruction and memory level parallelism
+Citations:3
+Authors: V Kiriansky, H Xu, M Rinard, S Amarasinghe
+Publication: arXiv preprint arXiv:1807.01624
+
+229. Error-efficient computing systems
+Citations:3
+Authors: P Stanley-Marbell, M Rinard
+Publication: Foundations and Trends® in Electronic Design Automation 11 (4), 362-461
+
+230. Inference and Regeneration of Programs that Store and Retrieve Data
+Citations:3
+Authors: M Rinard, J Shen
+Publication: 
+
+231. Encoder logic for reducing serial i/o power in sensors and sensor hubs
+Citations:3
+Authors: P Stanley-Marbell, PA Francese, M Rinard
+Publication: 2016 IEEE Hot Chips 28 Symposium (HCS), 1-2
+
+232. Cloud Intrusion Detection and Repair (CIDAR)
+Citations:3
+Authors: S Sidiroglou, J Perkins, M Rinard
+Publication: MIT Computer Science and Artificial Intelligence Laboratory Cambridge United …
+
+233. Filtered Iterators for Safe and Robust Programs in RIFL
+Citations:3
+Authors: J Shen, M Rinard
+Publication: 
+
+234. Prophet: Automatic patch generation via learning from successful human patches
+Citations:3
+Authors: F Long, M Rinard
+Publication: 
+
+235. Energy-efficient approximate computation in Topaz
+Citations:3
+Authors: S Achour, M Rinard
+Publication: 
+
+236. What to do when things go wrong: recovery in complex (computer) systems.
+Citations:3
+Authors: MC Rinard
+Publication: AOSD (Companion), 1-2
+
+237. Probabilistic accuracy bounds for perforated programs
+Citations:3
+Authors: M Rinard
+Publication: Workshop on Partial Evaluation and Program Manipulation (PEPM)
+
+238. Self-repairing programs (dagstuhl seminar 11062)
+Citations:3
+Authors: M Pezzè, MC Rinard, W Weimer, A Zeller
+Publication: Dagstuhl Reports 1 (2)
+
+239. Automatic parallelization with statistical accuracy bounds
+Citations:3
+Authors: D Kim, S Misailovic, M Rinard
+Publication: 
+
+240. Technical perspective patching program errors
+Citations:3
+Authors: MC Rinard
+Publication: Communications of the ACM 51 (12), 86-86
+
+241. Polynomial constraints for sets with cardinality bounds
+Citations:3
+Authors: B Marnette, V Kuncak, M Rinard
+Publication: International Conference on Foundations of Software Science and …
+
+242. Using cyclic memory allocation to eliminate memory leaks
+Citations:3
+Authors: HH Nguyen, M Rinard
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+243. Memory usage inference for object-oriented programs
+Citations:3
+Authors: HH Nguyen, WN Chin, S Qin, MC Rinard
+Publication: 
+
+244. Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives
+Citations:3
+Authors: M Rinard
+Publication: ACM SIGPLAN Notices 32 (7), 112-123
+
+245. Locality optimizations for parallel computing using data access information
+Citations:3
+Authors: MC Rinard
+Publication: International Journal of High Speed Computing 9 (02), 161-179
+
+246. Automatically parallelizing serial programs using commutativity analysis
+Citations:3
+Authors: M Rinard, P Diniz
+Publication: submitted for publication
+
+247. Using active learning to synthesize models of applications that access databases
+Citations:2
+Authors: J Shen, MC Rinard
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+248. Cimple: instruction and memory level parallelism: a DSL for uncovering ILP and MLP
+Citations:2
+Authors: V Kiriansky, H Xu, M Rinard, S Amarasinghe
+Publication: Proceedings of the 27th International Conference on Parallel Architectures …
+
+249. Using Dynamic Monitoring to Synthesize Models of Applications That Access Databases
+Citations:2
+Authors: J Shen, M Rinard
+Publication: 
+
+250. Inference and Regeneration of Programs that Manipulate Relational Databases
+Citations:2
+Authors: J Shen, M Rinard
+Publication: 
+
+251. An introduction to data representation synthesis
+Citations:2
+Authors: P Hawkins, M Rinard, A Aiken, M Sagiv, K Fisher
+Publication: Communications of the ACM 55 (12), 91-99
+
+252. Cryptographic path hardening: Hiding vulnerabilities in software through cryptography
+Citations:2
+Authors: V Ganesh, M Carbin, M Rinard
+Publication: arXiv preprint arXiv:1202.0359
+
+253. Power-aware computing with dynamic knobs
+Citations:2
+Authors: S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, M Rinard
+Publication: 
+
+254. Exploring the effectiveness of loop perforation for quality of service profiling
+Citations:2
+Authors: S Misailovíc
+Publication: Massachusetts Institute of Technology
+
+255. Self-defending software: Automatically patching security vulnerabilities
+Citations:2
+Authors: J Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)
+
+256. Incremental deterministic planning
+Citations:2
+Authors: S Andrei, W Chin, M Rinard
+Publication: 2006 Eighth International Symposium on Symbolic and Numeric Algorithms for …
+
+257. Implications of a data structure consistency checking system
+Citations:2
+Authors: V Kuncak, P Lam, K Zee, M Rinard
+Publication: Working Conference on Verified Software: Theories, Tools, and Experiments …
+
+258. Combining Theorem Proving with Static Analysis for Data Structure Consistency
+Citations:2
+Authors: V Kuncak, P Lam, K Zee, M Rinard
+Publication: Proceedings of SVV'04
+
+259. Efficient specification-assisted error localization and correction
+Citations:2
+Authors: B Demsky, C Cadar, D Roy, M Rinard
+Publication: Technical report, MIT Lab for Computer Science
+
+260. A synthesis algorithm for modular design of pipelined circuits
+Citations:2
+Authors: MC Marinescu, M Rinard
+Publication: VLSI: Systems on a Chip, 620-635
+
+261. Applications experience in Jade
+Citations:2
+Authors: MC Rinard
+Publication: Concurrency: Practice and Experience 10 (6), 417-448
+
+262. Exploiting commuting operations in parallelizing serial programs
+Citations:2
+Authors: P Diniz, M Rinard
+Publication: University of California at Santa Barbara, Santa Barbara, CA
+
+263. Interactive production performance feedback in the IDE
+Citations:1
+Authors: J Cito, P Leitner, M Rinard, HC Gall
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+264. Active learning for inference and regeneration of computer programs that store and retrieve data
+Citations:1
+Authors: MC Rinard, J Shen, V Mangalick
+Publication: Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas …
+
+265. A Hardware Platform for Efficient Multi-Modal Sensing with Adaptive Approximation
+Citations:1
+Authors: P Stanley-Marbell, M Rinard
+Publication: arXiv preprint arXiv:1804.09241
+
+266. Incremental Color Quantization for Color-Vision-Deficient Observers Using Mobile Gaming Data
+Citations:1
+Authors: J Cambronero, P Stanley-Marbell, M Rinard
+Publication: arXiv preprint arXiv:1803.08420
+
+267. Time Dilation and Contraction for Programmable Analog Devices with Jaunt
+Citations:1
+Authors: S Achour, M Rinard
+Publication: ACM SIGPLAN Notices 53 (2), 229-242
+
+268. Generating Component-based Supervised Learning Programs From Crowdsourced Examples
+Citations:1
+Authors: J Cambronero, M Rinard
+Publication: 
+
+269. AutoRand: Automatic Keyword Randomization to Prevent Injection Attacks
+Citations:1
+Authors: J Perkins, J Eikenberry, A Coglio, D Willenson, S Sidiroglou-Douskos, ...
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+270. Vulnerabilities in bytecode removed by analysis, nuanced confinement and diversification (VIBRANCE)
+Citations:1
+Authors: A Coglio, M Becker, S Fitzpatrick, L Gilham, C Green, E McCarthy, ...
+Publication: KESTREL INST PALO ALTO CA
+
+271. Non-Essential Communication in Mobile Applications
+Citations:1
+Authors: J Rubin, MI Gordon, N Nguyen, M Rinard
+Publication: 
+
+272. Staged Program Repair in SPR (Supplementary Material)
+Citations:1
+Authors: F Long, M Rinard
+Publication: 
+
+273. Approximating outside the processor
+Citations:1
+Authors: P Stanley-Marbell, M Rinard
+Publication: 
+
+274. Efficient resolution of security-sensitive values in Android using abstract interpretation
+Citations:1
+Authors: D Petters
+Publication: Massachusetts Institute of Technology
+
+275. Optimal scheduling of urgent preemptive tasks
+Citations:1
+Authors: S Andrei, A Cheng, M Rinard, L Osborne
+Publication: 2010 IEEE 16th International Conference on Embedded and Real-Time Computing …
+
+276. Power-Aware Computing with Dynamic Knobs
+Citations:1
+Authors: M Rinard, S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, ...
+Publication: MIT-CSAIL-TR-2010-027
+
+277. Automatically identifying critical behaviors in programs
+Citations:1
+Authors: MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+278. Using programming language concepts to teach general thinking skills
+Citations:1
+Authors: M Rinard
+Publication: ACM Sigplan Notices 43 (11), 111
+
+279. Automated techniques for surviving (otherwise) fatal software errors
+Citations:1
+Authors: M Rinard
+Publication: Electronic Notes in Theoretical Computer Science 174 (4), 113-116
+
+280. Quantifier-free Boolean algebra with Presburger arithmetic is NP-complete
+Citations:1
+Authors: V Kuncak
+Publication: 
+
+281. The ultra challenge: software systems beyond big
+Citations:1
+Authors: S Fraser, G Kiczales, R Lopez, PG Neumann, L Northrop, M Rinard, ...
+Publication: Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming …
+
+282. An Overview of the Jahob Analysis System
+Citations:1
+Authors: V Kuncak, M Rinard
+Publication: MIT CSAIL, USA
+
+283. Survival Techniques for Computer Programs
+Citations:1
+Authors: MC Rinard
+Publication: 
+
+284. Solving sets with cardinality constraints in pspace
+Citations:1
+Authors: V Kuncak, B Marnette, M Rinard
+Publication: 
+
+285. Region Type Checking for Core-Java
+Citations:1
+Authors: WN Chin, S Qin, MC Rinard
+Publication: 
+
+286. Automatic inference and enforcement of data structure consistency constraints
+Citations:1
+Authors: B Demsky, MD Ernst, M Rinard
+Publication: 
+
+287. A formal framework for modular synchronous system design
+Citations:1
+Authors: MCV Marinescu, MC Rinard
+Publication: International Symposium of Formal Methods Europe, 482-502
+
+288. Compiling high-level languages for real-time embedded systems
+Citations:1
+Authors: CS Ananian, M Rinard
+Publication: Technical report, MIT Laboratory for Computer Science
+
+289. Resilient computing
+Citations:1
+Authors: M Rinard
+Publication: Technical report, MIT Computer Science and Artificial Intelligence …
+
+290. Extending the Java language for the prevention of data races
+Citations:1
+Authors: RH Lee
+Publication: Massachusetts Institute of Technology
+
+291. High-level synthesis of pipelined circuits from modular queue-based specifications
+Citations:1
+Authors: MC Marinescu, M Rinard
+Publication: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and …
+
+292. Object Models, Heaps, and Interpretations
+Citations:1
+Authors: M Rinard, V Kuncak
+Publication: Technical Report 816, MIT Laboratory for Computer Science, Cambridge …
+
+293. A Parameterized Type System for Race-Free Java Programs
+Citations:1
+Authors: CBM Rinard, C Boyapati
+Publication: OOPSLA
+
+294. Object models, heaps, and interpretations
+Citations:1
+Authors: V Kuncak, M Rinard
+Publication: 
+
+295. Texas Instruments DSP Dynamic Run-Time Loader
+Citations:1
+Authors: MM Tao
+Publication: Massachusetts Institute of Technology
+
+296. An integrated synchronization and consistency protocol for the implementation of a high-level parallel programming language
+Citations:1
+Authors: M Rinard
+Publication: University of California at Santa Barbara
+
+297. Commutativity Analysis: A New Technique for Automatically Parallelizing Serial Programs
+Citations:1
+Authors: M Rinard, P Diniz
+Publication: Tech. Rep. TRCS94-16, University of California, Santa Barbara, CA
+
+298. Parallel synchronization-free approximate data structure construction (full version)
+Citations:1
+Authors: M Rinard
+Publication: 
+
+299. Safe Concurrent Programming in Java
+Citations:1
+Authors: C Boyapati, R Lee, M Rinard
+Publication: MIT Laboratory for Computer Science
+
+300. Characterizing Developer Use of Automatically Generated Patches
+Citations:
+Authors: JP Cambronero, J Shen, J Cito, E Glassman, M Rinard
+Publication: arXiv preprint arXiv:1907.06535
+
+301. Compositional Inference Metaprogramming with Convergence Guarantees
+Citations:
+Authors: S Handa, V Mansinghka, M Rinard
+Publication: arXiv preprint arXiv:1907.05451
+
+302. Automatic Exploitation of Fully Randomized Executables
+Citations:
+Authors: A Gadient, B Ortiz, R Barrato, E Davis, J Perkins, M Rinard
+Publication: 
+
+303. Correctness Verification of Neural Networks
+Citations:
+Authors: Y Yang, M Rinard
+Publication: arXiv preprint arXiv:1906.01030
+
+304. Borrowing big code to automate programming activities: technical perspective
+Citations:
+Authors: MC Rinard
+Publication: Communications of the ACM 62 (3), 98-98
+
+305. Warp: A Hardware Platform for Efficient Multi-Modal Sensing with Adaptive Approximation
+Citations:
+Authors: P Stanley-Marbell, M Rinard
+Publication: IEEE
+
+306. System, Method, and Apparatus for Reducing Power Dissipation of Sensor Data for Bit-Serial Communication
+Citations:
+Authors: P Stanley-Marbell, MC Rinard
+Publication: US Patent App. 16/115,639
+
+307. A new approach for software correctness and reliability (keynote)
+Citations:
+Authors: MC Rinard
+Publication: Proceedings of the 11th ACM SIGPLAN International Conference on Software …
+
+308. Perceived-Color Approximation Transforms for Programs that Draw
+Citations:
+Authors: P Stanley-Marbell, M Rinard
+Publication: IEEE Micro 38 (4), 20-29
+
+309. Method and Apparatus for Reducing Sensor Power Dissipation
+Citations:
+Authors: P Stanley-Marbell, MC Rinard
+Publication: US Patent App. 15/596,568
+
+310. System, Method, and Apparatus for Reducing Power Dissipation of Sensor Data on Bit-Serial Communication Interfaces
+Citations:
+Authors: P Stanley-Marbell, MC Rinard
+Publication: US Patent App. 15/612,485
+
+311. Robust programs with filtered iterators
+Citations:
+Authors: J Shen, M Rinard
+Publication: Proceedings of the 10th ACM SIGPLAN International Conference on Software …
+
+312. The challenges of staying together while moving fast
+Citations:
+Authors: J Rubin, M Rinard
+Publication: Association for Computing Machinery (ACM)
+
+313. Automatic Program Repair with Condition Synthesis and Compound Mutations
+Citations:
+Authors: F Long, Z Qi, S Achour, M Rinard
+Publication: 
+
+314. Control Jujutsu
+Citations:
+Authors: I Evans, F Long, U Otgonbaatar, H Shrobe, M Rinard, H Okhravi, ...
+Publication: Association for Computing Machinery
+
+315. (Un) Decidability Results for Word Equations with Length and Regular Expression Constraints
+Citations:
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: arXiv preprint arXiv:1306.6054
+
+316. Workshop on relaxing synchronization for multicore and manycore scalability (RACES 2012)
+Citations:
+Authors: AP Black, T D'Hondt, D Kimelman, M Rinard, D Ungar
+Publication: Proceedings of the 3rd annual conference on Systems, programming, and …
+
+317. Session 3B: Reasoning, Inference, and Symbolic Execution-Proving Acceptability Properties of Relaxed Nondeterministic Approximate Programs
+Citations:
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: SIGPLAN Notices 47 (6), 169
+
+318. Technical Perspective Example-Driven Program Synthesis for End-User Programming
+Citations:
+Authors: MC RINARD
+Publication: Communications of the ACM 55 (8)
+
+319. Collaborative Learning for Security and Repair in Application Communities
+Citations:
+Authors: M Ernst, M Rinard, J Perkins
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+320. Dagstuhl Reports, Vol. 1, Issue 2 ISSN 2192-5283
+Citations:
+Authors: S Fischer-Hübner, C Hoofnagle, K Rannenberg, M Waidner, I Krontiris, ...
+Publication: 
+
+321. What is Decidable about Strings?
+Citations:
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: 
+
+322. OOPSLA/SPLASH 2010 Program Chair Statement
+Citations:
+Authors: M Rinard
+Publication: SIGPLAN Notices 46 (4), 26
+
+323. Session 9a: Program Verification II-Session Chair: Ben Zorn (Microsoft Research)-Verification of Semantic Commutativity Conditions and Inverse Operations on Linked Data Structures
+Citations:
+Authors: D Kim, MC Rinard
+Publication: SIGPLAN Notices 46 (6), 528
+
+324. Verification of full functional correctness for imperative linked data structures
+Citations:
+Authors: KK Zee
+Publication: Massachusetts Institute of Technology
+
+325. AvatarSAT: An Auto-tuning Boolean SAT Solver
+Citations:
+Authors: V Ganesh, R Singh, JP Near, M Rinard
+Publication: 
+
+326. Counting SAT-based Weighted Planning
+Citations:
+Authors: S Andrei, P Doerschuk, M Rinard, A Madaan
+Publication: Computer Science Department, Lamar University
+
+327. ARE ENGINEERING
+Citations:
+Authors: B Demsky, M Rinard, P Pelliccione, P Inverardi, H Muccini, N Tsantalis, ...
+Publication: 
+
+328. AvatarSAT: An Auto-tuning Boolean SAT Solver
+Citations:
+Authors: R Singh, JP Near, V Ganesh, M Rinard
+Publication: 
+
+329. Automatically identifying critical behaviors in programs
+Citations:
+Authors: MC Rinard, MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+330. Verifying linked data structure implementations
+Citations:
+Authors: K Zee, V Kuncak, M Rinard
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5
+
+331. Static Verification of Design Constraints and Software Correctness Properties in the Hob System
+Citations:
+Authors: P Lam, M Rinard
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-6
+
+332. Ь Рг Ынзи б гж Ю ж н в Ыг ил ж з в Шжгд жи з
+Citations:
+Authors: M Rinard
+Publication: Massachusetts Institute of Technology
+
+333. Authors’ Addresses
+Citations:
+Authors: T Wies, V Kuncak, K Zee, A Podelski, M Rinard
+Publication: arXiv preprint cs.PL/0609104
+
+334. Learning and Repair Techniques for Self-Healing Systems
+Citations:
+Authors: M Rinard, M Ernst
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+335. of Proceedings: Verification, Model Checking, and Abstract Interpretation: 7th International Conference, VMCAI 2006
+Citations:
+Authors: T Wies, V Kuncak, P Lam, A Podelski, MC Rinard
+Publication: Springer
+
+336. LogTM-SE: Decoupling hardware transactional memory from caches.
+Citations:
+Authors: C Fu, Z Wu, X Wang, X Yang, CS Ananian, M Rinard, L Ceze, J Tuck, ...
+Publication: Information Technology Journal 8 (8), pp: 1-10
+
+337. An empirical study of a novel technique: rationed-memory compiling
+Citations:
+Authors: IT Leu
+Publication: Massachusetts Institute of Technology
+
+338. Incremental Verification of Timing Constraints for Real-Time Systems
+Citations:
+Authors: WN Chin, MC Rinard
+Publication: 
+
+339. Component Composition for Embedded Systems Using Semantic Aspect-Oriented Programming
+Citations:
+Authors: M Rinard
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+340. Language-level Transactions for Modular Reliable Systems
+Citations:
+Authors: CS Ananian, M Rinard
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+341. Enhancing availability and security through boundless memory blocks
+Citations:
+Authors: C Cadar
+Publication: Massachusetts Institute of Technology
+
+342. Failure detection and repair of threads in CTAS
+Citations:
+Authors: F Jahanmir
+Publication: Massachusetts Institute of Technology
+
+343. STS. 310 History of Science, Fall 2003
+Citations:
+Authors: D Kaiser
+Publication: 
+
+344. Role-Based Exploration of Object-Oriented Programs
+Citations:
+Authors: M Rinard
+Publication: 
+
+345. Ownership Types for Safe Programming: Preventing Data Races and Deadlocks
+Citations:
+Authors: CBRLM Rinard
+Publication: OOPSLA 2002: 17th ACM Conference on Object-Oriented Programming Systems …
+
+346. 6.035 Computer Language Engineering (SMA 5502), Fall 2002
+Citations:
+Authors: SP Amarasinghe, MC Rinard
+Publication: 
+
+347. 8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002
+Citations:
+Authors: JW Belcher, P Dourmashkin
+Publication: 
+
+348. Hardware synthesis from term rewriting systems Hardware synthesis from term rewriting systems, 1999
+Citations:
+Authors: MC MARINESCU, M RINARD
+Publication: IEICE transactions on fundamentals of electronics, communications and …
+
+349. Automatic deduction Automatic deduction, 1982
+Citations:
+Authors: MC MARINESCU, M RINARD
+Publication: IEICE transactions on fundamentals of electronics, communications and …
+
+350. HardwareC: A language for hardware design HardwareC: A language for hardware design, 1990
+Citations:
+Authors: MC MARINESCU, M RINARD
+Publication: IEICE transactions on fundamentals of electronics, communications and …
+
+351. Programming in Occam 2 Programming in Occam 2, 1988
+Citations:
+Authors: MC MARINESCU, M RINARD
+Publication: IEICE transactions on fundamentals of electronics, communications and …
+
+352. Special Section on VLSI Design and CAD Algorithms-PAPERS-High Level Synthesis-High-Level Synthesis of Pipelined Circuits from Modular Queue-Based Specifications
+Citations:
+Authors: MC Marinescu, M Rinard
+Publication: IEICE Transactions on Fundamentals Electronics Communications and Computer …
+
+353. Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: R Rugina, M Rinard
+Publication: 
+
+354. Parallelizing Applications into Silicon
+Citations:
+Authors: JB Martin, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: In Proceedings of the IEEE Workshop on FPGAs for Custom Computing Machines
+
+355. An optimizing C compiler for DSP architectures
+Citations:
+Authors: JH Lin
+Publication: Massachusetts Institute of Technology
+
+356. Incorporating MIDAS Routines into PDP-6 LISP
+Citations:
+Authors: R Silver
+Publication: 
+
+357. Runtime program certification
+Citations:
+Authors: K Arkoudas, M Rinard
+Publication: 
+
+358. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+359. CSAIL Digital Archive Research and Teaching Output of the MIT Community
+Citations:
+Authors: MF Cusumano-Towner, FA Saad, A Lew, VK Mansinghka, K Kawaguchi, ...
+Publication: 
+
+360. Computer Science and Artificial Intelligence Lab (CSAIL) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+361. CSAIL Technical Reports (July 1, 2003-present) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+362. Minimizing Understanding in the Construction and Maintenance of Software Systems
+Citations:
+Authors: M Rinard
+Publication: 
+
+363. Data structure repair using goal-directed reasoning
+Citations:
+Authors: M Rinard, B Demsky
+Publication: 27th International Conference on Software Engineering, 176-185
+
+364. The Hob Approach for Verifying Data Structure Consistency Properties
+Citations:
+Authors: P Lam, V Kuncak, K Zee, M Rinard
+Publication: 
+
+365. Data Representation Synthesis PLDI'11, San Jose, California, USA
+Citations:
+Authors: P Hawkins, A Aiken, K Fisher, M Sagiv, M Rinard
+Publication: 
+
+366. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+367. CSAIL Work Products Research and Teaching Output of the MIT Community
+Citations:
+Authors: JD Eisenberg, MA Finlayson, MA Finlayson, Z Qi, F Long, S Achour, ...
+Publication: 
+
+368. High-level Specification and E cient Implementation of Pipelined Circuits
+Citations:
+Authors: MC Marinescu, M Rinard
+Publication: 
+
+369. Appendix to Detecting and Escaping Infinite Loops with Jolt
+Citations:
+Authors: M Carbin, S Misailovic, M Kling, MC Rinard
+Publication: 
+
+370. Verifying Complex Properties using Symbolic Shape Analysis
+Citations:
+Authors: VKKZM Rinard
+Publication: 
+
+371. Technical Commentary
+Citations:
+Authors: MC Rinard
+Publication: 
+
+372. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: YS Lee, MB Nardelli, N Marzari, SC Graves, HV Jagadish, BC Ooi, ...
+Publication: 
+
+373. Tokens: Automatic Extraction and Enforcement of Design Information
+Citations:
+Authors: P Lam, M Rinard
+Publication: 
+
+374. Towards an Effective Data Structure Analysis
+Citations:
+Authors: T Wies, V Kuncak, K Zee, A Podelski, M Rinard
+Publication: 
+
+375. Compatibility Analysis for Static Object Preallocation
+Citations:
+Authors: O Gheorghioiu, A Salcianu, M Rinard
+Publication: 
+
+376. Techniques for Write Barrier Removal
+Citations:
+Authors: K Zee, M Rinard
+Publication: 
+
+377. Generalized Typestate Checking as Set Program Analysis
+Citations:
+Authors: P Lam, M Rinard
+Publication: 
+
+378. Interprocedural Compatibility Analysis for Static Object Preallocation
+Citations:
+Authors: A SALCIANU, O GHEORGHIOIU, MC RINARD
+Publication: 
+
+379. Case Studies in Modeling and Analysis of Software
+Citations:
+Authors: C Cadar, G Dennis, N Doble, D Jackson, S Khurshid, R Lee, T Leu, ...
+Publication: 
+
+380. Ownership Types for Preventing Data Races and Deadlocks
+Citations:
+Authors: C Boyapati, R Lee, M Rinard
+Publication: 
+
+381. Role Logic for Parameterized Typestate and Modular Pluggable Analyses
+Citations:
+Authors: V Kuncak, K Zee, P Lam, M Rinard
+Publication: 
+
+382. Decision Procedures for Data Structure Verification
+Citations:
+Authors: V Kuncak, C Bouillaguet, T Wies, K Zee, M Rinard
+Publication: CADE-21, 71
+
+383. High-level SpeciŁcation and EfŁcient Implementation of Pipelined Circuits
+Citations:
+Authors: MC Marinescu, M Rinard
+Publication: 
+
+384. A Type System for Preventing Data Races
+Citations:
+Authors: C Boyapati, M Rinard
+Publication: 
+
+385. ABS£ RA¥£ We present a new role system for specifying changing refer-encing relationships of heap objects. The role of an object depends, in large part, on its aliasing …
+Citations:
+Authors: V Kuncak, P Lam, M Rinard
+Publication: 
+
+386. On the Complexity of Commutativity Analysis
+Citations:
+Authors: PD Oscar Ibarra, M Rinard
+Publication: 
+
+387. Utility Accrual Scheduling With Real-Time Java
+Citations:
+Authors: W Beebee, B Ravindran, P Li, M Rinard
+Publication: 
+
+388. 1. Course Information
+Citations:
+Authors: B Lampson, M Rinard
+Publication: History 3, 2
+
+389. Verifying Linked Data Structure Properties using Roles
+Citations:
+Authors: V Kuncak, M Rinard
+Publication: 
+
+390. Compositional Pointer Analysis for Java TM: Design, Correctness Proof, and Implementation
+Citations:
+Authors: A SALCIANU, MC RINARD
+Publication: 
+
+391. Matthew Frank, Rajeev Barua, and Saman Amarasinghe Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: J Babb, M Rinard, CA Moritz, W Lee
+Publication: 
+
+392. Pluggable Analyses for Data Structure Consistency and Generalized Typestate Checking
+Citations:
+Authors: P Lam, V Kuncak, M Rinard
+Publication: 
+
+393. Integrating Model Checking and Theorem Proving for Relational Reasoning
+Citations:
+Authors: KASKD Marinov, M Rinard
+Publication: 
+
+394. Ownership Types for Region-Based Memory Management in Real-Time Java
+Citations:
+Authors: C Boyapati, A Salcianu, W Beebee, M Rinard
+Publication: 
+
+395. Modular Pluggable Analyses
+Citations:
+Authors: P Lam, V Kuncak, M Rinard
+Publication: 
+
+396. Korat: Automated Testing Based on Java Predicates
+Citations:
+Authors: A Andoni, C Boyapati, D Daniliuc, S Khurshid, D Marinov, M Rinard
+Publication: 
+
+397. Design Conformance in the Hob System
+Citations:
+Authors: P Lam, M Rinard
+Publication: 
+
+398. Specification-Based Data Structure Repair
+Citations:
+Authors: B Demsky, MC Rinard
+Publication: 
+
+399. Pointer Analysis and its Applications for Multithreaded Java Programs
+Citations:
+Authors: A Salcianu, M Rinard
+Publication: 
+
+400. Parallelizing Applications into Smart Memories
+Citations:
+Authors: J Babb, M Rinard, A Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: 
+
+401. Enabling Modular Consistency Checking for Linked Data Structures
+Citations:
+Authors: P Lam, V Kuncak, M Rinard
+Publication: 
+
+402. Software Design of Air Traffic Control Systems
+Citations:
+Authors: G Dennis, R Gupta, J Hansman, D Jackson, T Reynolds, M Rinard
+Publication: 
+
+403. Automating the Verification of File System Implementations
+Citations:
+Authors: K Arkoudas, K Zee, V Kuncak, M Rinard
+Publication: 
+
+404. Building Resilient Systems Using Acceptability-Oriented Computing
+Citations:
+Authors: M Rinard
+Publication: 
+
+405. Automatic Generation of Correct Dataflow Analyses
+Citations:
+Authors: A Salcianu, M Rinard
+Publication: 
+
+406. Algorithms & Applications
+Citations:
+Authors: G Bilardi, J Cuny, S Das, F Dehne, I Glendinning, A Grama, J Reif, ...
+Publication: 
+
+407. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: J Kim, SB Gershwin, HP Too, WKY Fung, J Misra, I Alevizos, J Bullen, ...
+Publication: 
+
+408. Constraints in Role Analysis and Shape Analysis
+Citations:
+Authors: V Kuncak, M Rinard
+Publication: 
+
+409. Decidability of Structural Subtyping
+Citations:
+Authors: V Kuncak, M Rinard
+Publication: 
+
+410. The First-Order Theory of Sets with Cardinality Constraints is Decidable and Elementary
+Citations:
+Authors: V Kuncak, M Rinard
+Publication: 
+
+411. Term Powers and Structural Subtyping
+Citations:
+Authors: V Kuncak, M Rinard
+Publication: 
+

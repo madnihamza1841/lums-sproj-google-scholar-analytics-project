@@ -1,0 +1,723 @@
+https://scholar.google.com/citations?hl=en&user=gHfzsl4AAAAJ
+Total Citations = 4081
+
+1. Active pages: A computation model for intelligent memory
+Citations:345
+Authors: M Oskin, FT Chong, T Sherwood
+Publication: Proceedings. 25th Annual International Symposium on Computer Architecture …
+
+2. DMP: deterministic shared memory multiprocessing
+Citations:343
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 85-96
+
+3. WaveScalar
+Citations:311
+Authors: S Swanson, K Michelson, A Schwerin, M Oskin
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+4. Using modern graphics architectures for general-purpose computing: a framework and analysis
+Citations:293
+Authors: CJ Thompson, S Hahn, M Oskin
+Publication: Proceedings of the 35th annual ACM/IEEE international symposium on …
+
+5. RAMP: Research accelerator for multiple processors
+Citations:191
+Authors: J Wawrzynek, D Patterson, M Oskin, SL Lu, C Kozyrakis, JC Hoe, D Chiou, ...
+Publication: IEEE micro 27 (2), 46-57
+
+6. HLS: Combining statistical and symbolic simulation to guide microprocessor designs
+Citations:187
+Authors: M Oskin, FT Chong, M Farrens
+Publication: ACM SIGARCH Computer Architecture News 28 (2), 71-82
+
+7. A practical architecture for reliable quantum computers
+Citations:155
+Authors: M Oskin, FT Chong, IL Chuang
+Publication: Computer 35 (1), 79-87
+
+8. The wavescalar architecture
+Citations:137
+Authors: S Swanson, A Schwerin, M Mercaldi, A Petersen, A Putnam, K Michelson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (2), 4
+
+9. Latency-tolerant software distributed shared memory
+Citations:123
+Authors: J Nelson, B Holt, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 291-305
+
+10. SNNAP: Approximate computing on programmable socs via neural acceleration
+Citations:104
+Authors: T Moreau, M Wyse, J Nelson, A Sampson, H Esmaeilzadeh, L Ceze, ...
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+11. Building a wavecache
+Citations:97
+Authors: SJ Eggers, MA Mercaldi, KA Michelson, MH Oskin, AK Petersen, ...
+Publication: US Patent 7,490,218
+
+12. Toward a scalable, silicon-based quantum computing architecture
+Citations:89
+Authors: D Copsey, M Oskin, F Impens, T Metodiev, A Cross, FT Chong, IL Chuang, ...
+Publication: IEEE Journal of selected topics in quantum electronics 9 (6), 1552-1569
+
+13. Architectural implications of quantum computing technologies
+Citations:84
+Authors: R Meter, M Oskin
+Publication: ACM Journal on Emerging Technologies in Computing Systems (JETC) 2 (1), 31-63
+
+14. Building quantum wires: the long and the short of it
+Citations:81
+Authors: M Oskin, FT Chong, IL Chuang, J Kubiatowicz
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+15. A processing in memory taxonomy and a case for studying fixed-function pim
+Citations:77
+Authors: GH Loh, N Jayasena, M Oskin, M Nutter, D Roberts, M Meswani, ...
+Publication: Workshop on Near-Data Processing (WoNDP)
+
+16. Critical path deterministic execution of multithreaded applications in a transactional memory system
+Citations:76
+Authors: L Ceze, MH Oskin, JL Devietti, BM Lucia
+Publication: US Patent 8,739,163
+
+17. Polymorphic on-chip networks
+Citations:75
+Authors: MM Kim, JD Davis, M Oskin, T Austin
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 101-112
+
+18. An evaluation framework and instruction set architecture for ion-trap based quantum micro-architectures
+Citations:66
+Authors: S Balensiefer, L Kregor-Stickles, M Oskin
+Publication: ACM SIGARCH Computer Architecture News 33 (2), 186-196
+
+19. Accept: A programmer-guided compiler framework for practical approximate computing
+Citations:65
+Authors: A Sampson, A Baixo, B Ransford, T Moreau, J Yip, L Ceze, M Oskin
+Publication: University of Washington Technical Report UW-CSE-15-01 1 (2)
+
+20. Observations and opportunities in architecting shared virtual memory for heterogeneous systems
+Citations:54
+Authors: J Vesely, A Basu, M Oskin, GH Loh, A Bhattacharjee
+Publication: 2016 IEEE International Symposium on Performance Analysis of Systems and …
+
+21. Performance analysis and optimization of asynchronous circuits
+Citations:51
+Authors: P Kudva, G Gopalakrishnan, E Brunvand, V Akella
+Publication: Proceedings 1994 IEEE International Conference on Computer Design: VLSI in …
+
+22. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:49
+Authors: R Gaskins
+Publication: Communications of the ACM 50 (12), 15-17
+
+23. Deterministic serialization in a transactional memory system based on thread creation order
+Citations:48
+Authors: LH Ceze, MH Oskin
+Publication: US Patent 8,694,997
+
+24. Area-performance trade-offs in tiled dataflow architectures
+Citations:45
+Authors: S Swanson, A Putnam, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 314-326
+
+25. A software-managed approach to die-stacked dram
+Citations:44
+Authors: M Oskin, GH Loh
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+26. Crunching Large Graphs with Commodity Processors.
+Citations:44
+Authors: J Nelson, B Myers, AH Hunter, P Briggs, L Ceze, C Ebeling, D Grossman, ...
+Publication: HotPar 11, 10-10
+
+27. Wavescalar architecture having a wave order memory
+Citations:44
+Authors: MH Oskin, SJ Swanson, SJ Eggers
+Publication: US Patent 7,657,882
+
+28. RAMP: Research accelerator for multiple processors-a community vision for a shared experimental parallel HW/SW platform
+Citations:43
+Authors: KA Arvind, D Chiou, JC Hoe, C Kozyrakis, S Lu, M Oskin, D Patterson, ...
+Publication: UC Berkeley technical report, UCB/CSD-05-1412
+
+29. Grappa: A latency-tolerant runtime for large-scale irregular applications
+Citations:42
+Authors: J Nelson, B Holt, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: International Workshop on Rack-Scale Computing (WRSC w/EuroSys)
+
+30. Instruction scheduling for a tiled dataflow architecture
+Citations:42
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: ACM Sigplan Notices 41 (11), 141-150
+
+31. The effect of communication costs in solid-state quantum computing architectures
+Citations:30
+Authors: D Copsey, M Oskin, T Metodiev, FT Chong, I Chuang, J Kubiatowicz
+Publication: Proceedings of the fifteenth annual ACM Symposium on Parallel Algorithms and …
+
+32. Exploiting ilp in page-based intelligent memory
+Citations:30
+Authors: M Oskin, J Hensley, D Keen, FT Chong, M Farrens, A Chopra
+Publication: MICRO-32. Proceedings of the 32nd Annual ACM/IEEE International Symposium on …
+
+33. Customized silicon chips produced using dynamically configurable polymorphic network
+Citations:28
+Authors: M Mercaldi-Kim, M Oskin, J Davis, T Austin, M Mehrara
+Publication: US Patent 7,598,766
+
+34. Datapath and control for quantum wires
+Citations:28
+Authors: N Isailovic, M Whitney, Y Patel, J Kubiatowicz, D Copsey, FT Chong, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 1 (1), 34-61
+
+35. Exploiting superword-level locality in multimedia extension architectures
+Citations:28
+Authors: J Shin, J Chame, MW Hall
+Publication: J. Instr. Level Parallel 5, 1-28
+
+36. Enhanced reliability using deterministic multiprocessing-based synchronized replication
+Citations:26
+Authors: L Ceze, PJ Godman, MH Oskin
+Publication: US Patent 8,453,120
+
+37. DMP: Deterministic shared-memory multiprocessing
+Citations:25
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: IEEE micro 30 (1), 40-49
+
+38. The revolution inside the box
+Citations:23
+Authors: M Oskin
+Publication: Communications of the ACM 51 (7), 70-78
+
+39. Evaluating software architectures.
+Citations:23
+Authors: RT Tvedt, P Costa, M Lindvall, L Eeckhout, K De Bosschere, AR Hurson, ...
+Publication: Advances in Computers 61, 1-43
+
+40. Flat combining synchronized global data structures
+Citations:21
+Authors: B Holt, J Nelson, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: 7th International Conference on PGAS Programming Models, 76
+
+41. Quantum computing
+Citations:20
+Authors: M Ross, M Oskin
+Publication: Communications of the ACM 51 (7), 12-13
+
+42. QUALE: quantum architecture layout evaluator
+Citations:20
+Authors: S Balensiefer, L Kreger-Stickles, M Oskin
+Publication: Quantum Information and Computation III 5815, 103-114
+
+43. Augmenting low-latency HPC network with free-space optical links
+Citations:19
+Authors: I Fujiwara, M Koibuchi, T Ozaki, H Matsutani, H Casanova
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+44. Modeling instruction placement on a spatial architecture
+Citations:19
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: Proceedings of the eighteenth annual ACM symposium on Parallelism in …
+
+45. Microcoded architectures for ion-tap quantum computers
+Citations:18
+Authors: L Kreger-Stickles, M Oskin
+Publication: 2008 International Symposium on Computer Architecture, 165-176
+
+46. Dataflow: The road less complex
+Citations:15
+Authors: S Swanson, K Michelson, A Schwerin, M Oskin
+Publication: The Workshop on Complexity-effective Design (WCED), held in conjunction with …
+
+47. Disciplined inconsistency with consistency types
+Citations:13
+Authors: B Holt, J Bornholt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 279-293
+
+48. Establishing a useful debugging state for multithreaded computer program
+Citations:13
+Authors: K Bekiroglu, AM Schwerin, PJ Godman, MH Oskin
+Publication: US Patent 9,086,969
+
+49. Architectural implications of brick and mortar silicon manufacturing
+Citations:13
+Authors: MM Kim, M Mehrara, M Oskin, T Austin
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 244-253
+
+50. Balancing design options with Sherpa
+Citations:13
+Authors: T Sherwood, M Oskin, B Calder
+Publication: Proceedings of the 2004 international conference on Compilers, architecture …
+
+51. Activeos: Virtualizing intelligent memory
+Citations:13
+Authors: M Oskin, FT Chong, T Sherwood
+Publication: Proceedings 1999 IEEE International Conference on Computer Design: VLSI in …
+
+52. Cache coherence in intelligent memory systems
+Citations:12
+Authors: D Keen, M Oskin, J Hensley, FT Chong
+Publication: IEEE Transactions on Computers 52 (7), 960-966
+
+53. Hlspower: Hybrid statistical modeling of the superscalar power-performance design space
+Citations:11
+Authors: R Rao, MH Oskin, FT Chong
+Publication: International Conference on High-Performance Computing, 620-629
+
+54. Automatic identification of interesting interleavings in a multithreaded program
+Citations:10
+Authors: MH Oskin, PJ Godman, AM Schwerin, AJ Whitaker, LM Kreger-Stickles, ...
+Publication: US Patent 9,009,020
+
+55. Building a wavecache
+Citations:10
+Authors: S Eggers, M Mercaldi, K Michelson, M Oskin, A Petersen, A Putnam, ...
+Publication: US Patent App. 11/830,446
+
+56. Reducing control overhead in dataflow architectures
+Citations:9
+Authors: A Petersen, A Putnam, M Mercaldi, A Schwerin, S Eggers, S Swanson, ...
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+57. Quantum Computing-Lecture Notes
+Citations:9
+Authors: M Oskin
+Publication: Notes to CSE590mo, University of Washington
+
+58. A new algebraic foundation for quantum programming languages
+Citations:9
+Authors: A Petersen, M Oskin
+Publication: Proceedings of the 2nd Workshop on Non-Silicon Computing
+
+59. Ncam: Near-data processing for nearest neighbor search
+Citations:8
+Authors: CC Del Mundo, VT Lee, L Ceze, M Oskin
+Publication: Proceedings of the 2015 International Symposium on Memory Systems, 274-275
+
+60. Scheduling page table walks for irregular GPU applications
+Citations:7
+Authors: S Shin, G Cox, M Oskin, GH Loh, Y Solihin, A Bhattacharjee, A Basu
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+61. Generic system calls for GPUs
+Citations:7
+Authors: J Veselý, A Basu, A Bhattacharjee, GH Loh, M Oskin, SK Reinhardt
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+62. A hardware-friendly bilateral solver for real-time virtual reality video
+Citations:7
+Authors: A Mazumdar, A Alaghi, JT Barron, D Gallup, L Ceze, M Oskin, SM Seitz
+Publication: Proceedings of High Performance Graphics, 13
+
+63. Claret: using data types for highly concurrent distributed transactions
+Citations:7
+Authors: B Holt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: Proceedings of the First Workshop on Principles and Practice of Consistency …
+
+64. Threads on the cheap: Multithreaded execution in a WaveCache processor
+Citations:7
+Authors: S Swanson, A Schwerin, A Petersen, M Oskin, S Eggers
+Publication: Workshop on Complexity-effective Design (WCED)
+
+65. Configuration by combustion: Online simulated annealing for dynamic hardware configuration
+Citations:7
+Authors: S Swanson, K Michelson, M Oskin
+Publication: ASPLOS X Wild and Crazy Idea Session
+
+66. Operating systems techniques for parallel computation in intelligent memory
+Citations:7
+Authors: M Oskin, D Keen, J Hensley, LV Lita, FT Chong
+Publication: Parallel Processing Letters 12 (03n04), 311-326
+
+67. Reducing cost and tolerating defects in page-based intelligent memory
+Citations:7
+Authors: M Oskin, D Keen, J Hensley, LV Lita, FT Chong
+Publication: Proceedings 2000 International Conference on Computer Design, 276-284
+
+68. Similarity search on automata processors
+Citations:6
+Authors: VT Lee, J Kotalik, CC Del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+69. Approximating to the last bit
+Citations:6
+Authors: T Moreau, A Sampson, L Ceze, M Oskin
+Publication: Ratio 20 (40dB), 60dB
+
+70. Alembic: automatic locality extraction via migration
+Citations:6
+Authors: B Holt, P Briggs, L Ceze, M Oskin
+Publication: ACM SIGPLAN Notices 49 (10), 879-894
+
+71. The microarchitecture of a pipelined wavescalar processor: An RTL-based study
+Citations:6
+Authors: A Putnam, S Swanson, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: Tech. Rep. TR-2005–11–02
+
+72. Towards a universal building block of molecular and silicon computation
+Citations:6
+Authors: S Swanson, M Oskin
+Publication: 1st Workshop on Non-Silicon Computing (NCS-1)
+
+73. Memory hierarchies for quantum data
+Citations:6
+Authors: D Copsey, M Oskin, FT Chong, K Abdel-Ghaffar
+Publication: 
+
+74. Using leases for entries in a translation lookaside buffer
+Citations:5
+Authors: A Basu, MH Oskin, GH Loh, AG Kegel, DS Christie, KJ McGrath
+Publication: US Patent App. 10/078,588
+
+75. React: A framework for rapid exploration of approximate computing techniques
+Citations:5
+Authors: M Wyse, A Baixo, T Moreau, B Zorn, J Bornholt, A Sampson, L Ceze, ...
+Publication: Workshop on Approximate Computing Across the Stack (WAX w/PLDI)
+
+76. Algorithmic complexity with page-based intelligent memory
+Citations:5
+Authors: M Oskin, LV Lita, FT Chong, J Hensley, D Keen
+Publication: Parallel processing letters 10 (01), 99-109
+
+77. Exploring computation-communication tradeoffs in camera systems
+Citations:4
+Authors: A Mazumdar, T Moreau, S Kim, M Cowan, A Alaghi, L Ceze, M Oskin, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 177-186
+
+78. NCAM: near-data processing for nearest neighbor search
+Citations:4
+Authors: VT Lee, CC del Mundo, A Alaghi, L Ceze, M Oskin, A Farhadi
+Publication: arXiv preprint arXiv:1606.03742
+
+79. Methods and Systems for Scalable Computing on Commodity Hardware for Irregular Applications
+Citations:4
+Authors: L Ceze, JE Nelson, H Brandon, B Myers, S Kahan, MH Oskin
+Publication: US Patent App. 13/834,560
+
+80. Using statistical and symbolic simulation for microprocessor performance evaluation
+Citations:4
+Authors: M Oskin, FT Chong, M Farrens
+Publication: Journal of Instruction-Level Parallelism 4, 1-27
+
+81. Active page architectures for media processing
+Citations:4
+Authors: J Hensley, M Oskin, D Keen, LV Lita, FT Chong
+Publication: First Workshop on Media Processors and DSPs, 32nd Annual Symposium on …
+
+82. O-structures: Semantics for versioned memory
+Citations:3
+Authors: E Gilad, EW Mackay, M Oskin, Y Etsion
+Publication: Proceedings of the workshop on Memory Systems Performance and Correctness, 6
+
+83. RAMP: Research Accelerator for Multiple Processors-A Community Vision for a Shared Experimental. Parallel HW/SW Platform
+Citations:3
+Authors: K Asanovic, D Chiou, JC Hoe, C Kozyrakis, SL Lu, M Oskin, D Patterson, ...
+Publication: Technical Report, UCB/CSD'() S-1412, University of California, Berkeley
+
+84. A brief comparison: ion-trap and silicon-based implementations of quantum computation
+Citations:3
+Authors: T Metodiev, D Copsey, FT Chong, I Chuang, M Oskin, J Kubiatowicz
+Publication: 2nd Wrorkshop on Non-Silicon Computing (NSC), held in conjunction with 30th …
+
+85. Toward more efficient NoC arbitration: A deep reinforcement learning approach
+Citations:2
+Authors: J Yin, Y Eckert, S Che, M Oskin, G Loh
+Publication: Proceedings of the 1st International Workshop on AI-assisted Design for …
+
+86. Application Codesign of Near-Data Processing for Similarity Search
+Citations:2
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+87. Gravel: fine-grain GPU-initiated network messages.
+Citations:2
+Authors: MS Orr, S Che, BM Beckmann, M Oskin, SK Reinhardt, DA Wood
+Publication: SC, 23:1-23:12
+
+88. Towards a deterministic fine-grained task ordering using multi-versioned memory
+Citations:2
+Authors: E Gilad, T Mayzels, E Raab, M Oskin, Y Etsion
+Publication: 2017 29th International Symposium on Computer Architecture and High …
+
+89. Compiling queries for high-performance computing
+Citations:2
+Authors: B Myers, M Oskin, B Howe
+Publication: Technical report
+
+90. Radish: Compiling efficient query plans for distributed shared memory
+Citations:2
+Authors: B Myers, D Halperin, J Nelson, M Oskin, L Ceze, B Howe
+Publication: Technical Report
+
+91. Wavescalar architecture having a wave order memory
+Citations:2
+Authors: MH Oskin, SJ Swanson, SJ Eggers
+Publication: US Patent 8,612,955
+
+92. Architecture Considerations for Stochastic Computing Accelerators
+Citations:1
+Authors: VT Lee, A Alaghi, R Pamula, VS Sathe, L Ceze, M Oskin
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+93. Stochastic synthesis for stochastic computing
+Citations:1
+Authors: VT Lee, A Alaghi, L Ceze, M Oskin
+Publication: arXiv preprint arXiv:1810.04756
+
+94. Architectural support for unlimited memory versioning and renaming
+Citations:1
+Authors: E Gilad, T Mayzels, E Raab, M Oskin, Y Etsion
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+95. POSTER: Application-Driven Near-Data Processing for Similarity Search
+Citations:1
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+96. GPU System Calls
+Citations:1
+Authors: J Veselý, A Basu, A Bhattacharjee, G Loh, M Oskin, SK Reinhardt
+Publication: arXiv preprint arXiv:1705.06965
+
+97. Profiling a GPU database implementation: a holistic view of GPU resource utilization on TPC-H queries
+Citations:1
+Authors: E Furst, M Oskin, B Howe
+Publication: Proceedings of the 13th International Workshop on Data Management on New …
+
+98. A 10G NetFPGA Prototype for In-Network Aggregation
+Citations:1
+Authors: VT Lee, J Nelson, M Oskin, L Ceze
+Publication: Workshop on Architectural Research Prototyping (WARP w/ISCA)
+
+99. Explicitly parallel programming with shared-memory is insane: At least make it deterministic
+Citations:1
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: proceedings of SHCMP
+
+100. Measuring the complexity-effectiveness of futuregeneration silicon architecture using fpgas: A status report
+Citations:1
+Authors: A Schwerin, S Swanson, M Oskin
+Publication: Proceedings of the 3rd Workshop on Complexity-Effective Design
+
+101. Interconnection networks for active pages
+Citations:1
+Authors: KH Tieu
+Publication: University of California, Davis
+
+102. Single instruction multiple data page table walk scheduling at input output memory management unit
+Citations:
+Authors: A Basu, E Van Tassell, M Oskin, G Cox, G Loh
+Publication: US Patent App. 15/852,442
+
+103. The BlackParrot Processor
+Citations:
+Authors: Z Azad, L Delshadtehrani, B Zhou, A Joshi, F Gilani, K Lim, D Petrisko, ...
+Publication: Boston University Boston United States
+
+104. Vignette: Perceptual Compression for Video Storage and Processing Systems
+Citations:
+Authors: A Mazumdar, B Haynes, M Balazinska, L Ceze, A Cheung, M Oskin
+Publication: arXiv preprint arXiv:1902.01372
+
+105. Snapshot-Based Synchronization: A Fast Replacement for Hand-over-Hand Locking
+Citations:
+Authors: E Gilad, T Brown, M Oskin, Y Etsion
+Publication: European Conference on Parallel Processing, 465-479
+
+106. Using Leases for Entries in a Translation Lookaside Buffer
+Citations:
+Authors: A Basu, MH Oskin, GH Loh, AG Kegel, DS Christie, KJ McGrath
+Publication: US Patent App. 15/081,379
+
+107. Adaptive Extension of Leases for Entries in a Translation Lookaside Buffer
+Citations:
+Authors: A Awad, S Blagodurov, A Basu, MH Oskin, GH Loh, AG Kegel, DS Christie, ...
+Publication: US Patent App. 15/361,335
+
+108. Techniques for changing management modes of multilevel memory hierarchy
+Citations:
+Authors: S Blagodurov, MR Meswani, GH Loh, M Breternitz Jr, MR Nutter, JR Slice, ...
+Publication: US Patent App. 14/576,912
+
+109. Application-Driven Near-Data Processing for Similarity Search
+Citations:
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: arXiv preprint arXiv:1606.03742
+
+110. Near Memory Similarity Search on Automata Processors.
+Citations:
+Authors: VT Lee, J Kotalik, CC Del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: CoRR
+
+111. Trading Latency for Performance in Data-Intensive Applications
+Citations:
+Authors: J Nelson, B Holt, B Myers, P Briggs, S Kahan, L Ceze, M Oskin
+Publication: Operating Systems and Sysadmin, 10
+
+112. Automatic identification of interesting interleavings in a multithreaded program
+Citations:
+Authors: MH Oskin, PJ Godman, AM Schwerin, AJ Whitaker, LM Kreger-Stickles, ...
+Publication: US Patent App. 14/681,790
+
+113. Vincent Lee
+Citations:
+Authors: V Lee
+Publication: 
+
+114. Computer-implemented system and method for providing software fault tolerance
+Citations:
+Authors: L Ceze, P Godman, M Oskin
+Publication: US Patent 8,745,440
+
+115. Important dates▪ Abstract deadline: August 30, 2012, 11: 59 PM EDT (firm deadline)▪ Paper deadline: September 7, 2012, 11: 59 PM EDT (firm deadline)
+Citations:
+Authors: L Zhang, DM Tullsen, T Aamodt, D Albonesi, R Canal, UPC Barcelona, ...
+Publication: Workshop and tutorial proposals due: September 7 (2012)
+
+116. Guest Editor's Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge
+Publication: IEEE micro 30 (1), 8-11
+
+117. DEAN COPSEY
+Citations:
+Authors: M OSKIN, FT CHONG
+Publication: Advances in Computers: Architectural Issues 61, 275
+
+118. Ions, atoms, and bits: An architectural approach to quantum computing.
+Citations:
+Authors: D Copsey, M Oskin, FT Chong
+Publication: Advances in Computers 61, 275-318
+
+119. Deptartment of Computer Science and Engineering University of Washington Technical Report UW-CSE-03-01-01 January 23rd, 2003
+Citations:
+Authors: S Swanson, K Michelson, M Oskin
+Publication: 
+
+120. Intelligent Memory Systems: Second International Workshop, IMS 2000, Cambridge, MA, USA, November 12, 2000. Revised Papers
+Citations:
+Authors: FT Chong, C Kozyrakis
+Publication: Springer Science & Business Media
+
+121. Exploiting ILP in Page-Based Intelligent Memory Mark Oskin, Justin Hensley, Diana Keen, Frederic T. Chong, Matthew Farrens, and Aneet Chopra Department of Computer Science …
+Citations:
+Authors: M Oskin
+Publication: Proceedings: 32nd Annual International Symposium on Microarchitecture: Haifa …
+
+122. ActiveOS: Virtualizing Intelligent Memory Mark Oskin, Frederic T. Chong, and Timothy Sherwood* Department of Computer Science University of California at Davis
+Citations:
+Authors: M Oskin
+Publication: Proceedings, 202
+
+123. Care and Feeding of High-Performance Processors with Reconfigurable Memory Systems
+Citations:
+Authors: FT Chong, M Oskin, T Sherwood, J Hensley
+Publication: 
+
+124. MICRO 2018
+Citations:
+Authors: K Inoue, M Oskin
+Publication: 
+
+125. MICRO 2018
+Citations:
+Authors: M Oskin, K Inoue, H Kim, S Yalamanchili, M Kondo, M Kim, R Shioya, ...
+Publication: 
+
+126. Grappa: Scalable Computing on Commodity Hardware for Irregular Applications
+Citations:
+Authors: J Nelson, B Holt, B Myers, S Kahan, P Briggs, M Oskin, L Ceze
+Publication: 
+
+127. Architectural Implications of Brick and Mortar Silicon Manufacturing
+Citations:
+Authors: M Mehrara, T Austin, MM Kim, M Oskin
+Publication: 
+
+128. 8 Guest Editor’s Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge, A Hilton, S Nagarakatte, A Roth, N Hardavellas, M Ferdman, ...
+Publication: 
+
+129. MICRO-49 program committee
+Citations:
+Authors: JH Ahn, M Annavaram, B Black, T Cain, T Carlson, A Caulfield, Y Chen, ...
+Publication: 
+
+130. Paperscope: Chronicling the History of Computer Architecture Research
+Citations:
+Authors: VT Lee, L Ceze, M Oskin
+Publication: 
+
+131. An evaluation of contemporary heterogeneous computing platforms for data intensive applications
+Citations:
+Authors: VT Lee, CC del Mundo, E Yan, A Alaghi, M Oskin, L Ceze
+Publication: 
+
+132. Claret: Avoiding contention in distributed transactions with abstract data types
+Citations:
+Authors: B Holt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: 
+
+133. Ashwini Nanda Vijay Narayanan Mario Nemirovsky Dimitris Nikolopoulos
+Citations:
+Authors: K Magoutis, R Manohar, P Marcuello, JF Martínez, M Martonosi, S McKee, ...
+Publication: 
+
+134. BRIEF CONTRIBUTIONS
+Citations:
+Authors: D Keen, M Oskin, J Hensley, FT Chong, SK Baruah, J Goossens, T Araki, ...
+Publication: 
+
+135. Supporting Cache Coherence in Intelligent Memory Systems
+Citations:
+Authors: D Keen, M Oskin, J Hensley, L Vlad-Lita, FT Chong
+Publication: 
+
+136. Efficient Design Space Exploration for Customized Processors
+Citations:
+Authors: T Sherwood, M Oskin, B Calder
+Publication: 
+
+137. A Design Overview for a Simulation Infrastructure for Exploring Quantum Architectures
+Citations:
+Authors: D Copsey, M Oskin, A Cross, T Metodiev, FT Chong, I Chuang, ...
+Publication: 
+
+138. Trade-os in Silicon-based Quantum Computing
+Citations:
+Authors: M Oskin, FT Chong
+Publication: 
+
+139. HLS-Power: Microprocessor Power-Performance Evaluation using Hybrid Symbolic/Statistical Simulation
+Citations:
+Authors: M Oskin, FT Chong
+Publication: 
+
+140. IMS 2000: intelligent memory systems(Cambridge MA, 12 November 2000, revised papers)
+Citations:
+Authors: FT Chong, C Kozyrakis, M Oskin
+Publication: Lecture notes in computer science
+
+141. RAMP: Research Accelerator for Multiple Processors-A Community Vision for a Shared Experimental Parallel HW/SW Platform
+Citations:
+Authors: C Kozyrakis, SL Lu, M Oskin, D Patterson, J Rabaey, J Wawrzynek
+Publication: 
+
+142. Active-Page Programming: New Paradigms for Using Intelligent Memory
+Citations:
+Authors: FT Chong, M Oskin, J Hensley, A Chopra, L Vlad-Lita
+Publication: 
+
+143. Low-Power Design of Page-Based Intelligent Memory
+Citations:
+Authors: J Hensley, A Chopra, M Oskin, T Sherwood, A Farooqui, FT Chong
+Publication: 
+
+144. Low-Power Design of Page-Based Intelligent Memory
+Citations:
+Authors: M Oskin, FT Chong, A Farooqui, T Sherwood, J Hensley
+Publication: Power Driven Microarchitecture Workshop
+

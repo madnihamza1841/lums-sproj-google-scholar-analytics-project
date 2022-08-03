@@ -1,0 +1,2303 @@
+https://scholar.google.com/citations?hl=en&user=2vQRGrYAAAAJ
+Total Citations = 61814
+
+1. Chord: A scalable peer-to-peer lookup service for internet applications
+Citations:17255
+Authors: I Stoica, R Morris, D Karger, MF Kaashoek, H Balakrishnan
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 149-160
+
+2. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3924
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+3. Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the world wide web
+Citations:2569
+Authors: D Karger, E Lehman, T Leighton, M Levine, D Lewin, R Panigrahy
+Publication: STOC 97, 654-663
+
+4. A random linear network coding approach to multicast
+Citations:2422
+Authors: T Ho, M Médard, R Koetter, DR Karger, M Effros, J Shi, B Leong
+Publication: IEEE Transactions on Information Theory 52 (10), 4413-4430
+
+5. Scatter/gather: A cluster-based approach to browsing large document collections
+Citations:2323
+Authors: DR Cutting, DR Karger, JO Pedersen, JW Tukey
+Publication: Proceedings of the 15th annual international ACM SIGIR conference on …
+
+6. Wide-area cooperative storage with CFS
+Citations:2301
+Authors: F Dabek, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 202-215
+
+7. A scalable location service for geographic ad hoc routing
+Citations:2186
+Authors: J Li, J Jannotti, DSJ De Couto, DR Karger, R Morris
+Publication: Proceedings of the 6th annual international conference on Mobile computing …
+
+8. The benefits of coding over routing in a randomized setting
+Citations:1287
+Authors: T Ho, R Koetter, M Medard, DR Karger, M Effros
+Publication: IEEE
+
+9. Tackling the poor assumptions of naive bayes text classifiers
+Citations:1002
+Authors: JD Rennie, L Shih, J Teevan, DR Karger
+Publication: Proceedings of the 20th international conference on machine learning (ICML …
+
+10. Looking up data in P2P systems
+Citations:993
+Authors: H Balakrishnan, MF Kaashoek, D Karger, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM 46 (2), 43-48
+
+11. Soylent: a word processor with a crowd inside
+Citations:809
+Authors: MS Bernstein, G Little, RC Miller, B Hartmann, MS Ackerman, DR Karger, ...
+Publication: Proceedings of the 23nd annual ACM symposium on User interface software and …
+
+12. Content delivery network (CDN) content server request handling mechanism with metadata framework support
+Citations:806
+Authors: JM Wein, JJ Kloninger, MC Nottingham, DR Karger, PA Lisiecki
+Publication: US Patent 7,240,100
+
+13. Koorde: A simple degree-optimal distributed hash table
+Citations:802
+Authors: MF Kaashoek, DR Karger
+Publication: International Workshop on Peer-to-Peer Systems, 98-107
+
+14. Algorithms and theory of computation handbook
+Citations:782
+Authors: MJ Atallah
+Publication: CRC press
+
+15. On randomized network coding
+Citations:698
+Authors: T Ho, M Medard, J Shi, M Effros, DR Karger
+Publication: Proceedings of the Annual Allerton Conference on Communication Control and …
+
+16. The perfect search engine is not enough: a study of orienteering behavior in directed search
+Citations:676
+Authors: J Teevan, C Alvarado, MS Ackerman, DR Karger
+Publication: Proceedings of the SIGCHI conference on Human factors in computing systems …
+
+17. Approximate graph coloring by semidefinite programming
+Citations:624
+Authors: D Karger, R Motwani, M Sudan
+Publication: Journal of the ACM (JACM) 45 (2), 246-265
+
+18. Twitinfo: aggregating and visualizing microblogs for event exploration
+Citations:611
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the SIGCHI conference on Human factors in computing systems …
+
+19. Analysis of the evolution of peer-to-peer systems
+Citations:577
+Authors: D Liben-Nowell, H Balakrishnan, D Karger
+Publication: Proceedings of the twenty-first annual symposium on Principles of …
+
+20. Simple efficient load balancing algorithms for peer-to-peer systems
+Citations:527
+Authors: DR Karger, M Ruhl
+Publication: Proceedings of the sixteenth annual ACM symposium on Parallelism in …
+
+21. A randomized linear-time algorithm to find minimum spanning trees
+Citations:514
+Authors: DR Karger, PN Klein, RE Tarjan
+Publication: Journal of the ACM (JACM) 42 (2), 321-328
+
+22. Using linear programming to decode binary linear codes
+Citations:480
+Authors: J Feldman, MJ Wainwright, DR Karger
+Publication: IEEE Transactions on Information Theory 51 (3), 954-972
+
+23. Polynomial time approximation schemes for dense instances of NP-hard problems
+Citations:472
+Authors: S Arora, D Karger, M Karpinski
+Publication: Journal of computer and system sciences 58 (1), 193-210
+
+24. Minimum-cost multicast over coded packet networks
+Citations:468
+Authors: DS Lun, N Ratnakar, M Médard, R Koetter, DR Karger, T Ho, E Ahmed, ...
+Publication: IEEE Transactions on information theory 52 (6), 2608-2623
+
+25. Iterative learning for reliable crowdsourcing systems
+Citations:438
+Authors: DR Karger, S Oh, D Shah
+Publication: Advances in neural information processing systems, 1953-1961
+
+26. A new approach to the minimum cut problem
+Citations:428
+Authors: DR Karger, C Stein
+Publication: Journal of the ACM (JACM) 43 (4), 601-640
+
+27. On the feasibility of peer-to-peer web indexing and search
+Citations:411
+Authors: J Li, BT Loo, JM Hellerstein, MF Kaashoek, DR Karger, R Morris
+Publication: International Workshop on Peer-to-Peer Systems, 207-215
+
+28. Finding nearest neighbors in growth-restricted metrics
+Citations:408
+Authors: DR Karger, M Ruhl
+Publication: Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …
+
+29. Web caching with consistent hashing
+Citations:398
+Authors: D Karger, A Sherman, A Berkheimer, B Bogstad, R Dhanidina, K Iwamoto, ...
+Publication: Computer Networks 31 (11-16), 1203-1213
+
+30. Less is more: probabilistic models for retrieving fewer relevant documents
+Citations:392
+Authors: H Chen, DR Karger
+Publication: Proceedings of the 29th annual international ACM SIGIR conference on …
+
+31. INS/Twine: A scalable peer-to-peer architecture for intentional resource discovery
+Citations:367
+Authors: M Balazinska, H Balakrishnan, D Karger
+Publication: International Conference on Pervasive Computing, 195-210
+
+32. Building peer-to-peer systems with Chord, a distributed lookup service
+Citations:353
+Authors: F Dabek, E Brunskill, MF Kaashoek, D Karger, R Morris, I Stoica, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 81-86
+
+33. Constant interaction-time scatter/gather browsing of very large document collections
+Citations:333
+Authors: DR Cutting, DR Karger, JO Pedersen
+Publication: Proceedings of the 16th annual international ACM SIGIR conference on …
+
+34. Haystack: A platform for authoring end user semantic web applications
+Citations:324
+Authors: D Quan, D Huynh, DR Karger
+Publication: International Semantic Web Conference, 738-753
+
+35. Crowds in two seconds: Enabling realtime crowd-powered interfaces
+Citations:320
+Authors: MS Bernstein, J Brandt, RC Miller, DR Karger
+Publication: Proceedings of the 24th annual ACM symposium on User interface software and …
+
+36. Global Min-cuts in RNC, and Other Ramifications of a Simple Min-Cut Algorithm.
+Citations:298
+Authors: DR Karger
+Publication: SODA 93, 21-30
+
+37. Human-powered sorts and joins
+Citations:293
+Authors: A Marcus, E Wu, D Karger, S Madden, R Miller
+Publication: Proceedings of the VLDB Endowment 5 (1), 13-24
+
+38. The prize collecting steiner tree problem: theory and practice
+Citations:288
+Authors: DS Johnson, M Minkoff, S Phillips
+Publication: SODA 1 (0.6), 4
+
+39. Exhibit: lightweight structured data publishing
+Citations:283
+Authors: DF Huynh, DR Karger, RC Miller
+Publication: Proceedings of the 16th international conference on World Wide Web, 737-746
+
+40. Byzantine modification detection in multicast networks using randomized network coding
+Citations:280
+Authors: T Ho, B Leong, R Koetter, M Médard, M Effros, DR Karger
+Publication: International Symposium onInformation Theory, 2004. ISIT 2004. Proceedings., 144
+
+41. Approximating st Minimum Cuts in Õ (n2) Time.
+Citations:279
+Authors: AA Benczúr, DR Karger
+Publication: STOC 96, 47-55
+
+42. Random sampling in cut, flow, and network design problems
+Citations:276
+Authors: DR Karger
+Publication: Mathematics of Operations Research 24 (2), 383-413
+
+43. Piggy bank: Experience the semantic web inside your web browser
+Citations:268
+Authors: D Huynh, S Mazzocchi, D Karger
+Publication: International Semantic Web Conference, 413-430
+
+44. Budget-optimal task allocation for reliable crowdsourcing systems
+Citations:267
+Authors: DR Karger, S Oh, D Shah
+Publication: Operations Research 62 (1), 1-24
+
+45. DDoS defense by offense
+Citations:266
+Authors: M Walfish, M Vutukuru, H Balakrishnan, D Karger, D Karger, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 303-314
+
+46. Haystack: A customizable general-purpose information management tool for end users of semistructured data
+Citations:266
+Authors: DR Karger, K Bakshi, D Huynh, D Quan, V Sinha
+Publication: Proc. of the CIDR Conf
+
+47. Bridging high-throughput genetic and transcriptional data reveals cellular responses to alpha-synuclein toxicity
+Citations:264
+Authors: E Yeger-Lotem, L Riva, LJ Su, AD Gitler, AG Cashikar, OD King, ...
+Publication: Nature genetics 41 (3), 316
+
+48. A randomized fully polynomial time approximation scheme for the all-terminal network reliability problem
+Citations:263
+Authors: DR Karger
+Publication: SIAM review 43 (3), 499-522
+
+49. Minimum cuts in near-linear time
+Citations:250
+Authors: DR Karger
+Publication: Journal of the ACM (JACM) 47 (1), 46-76
+
+50. Haystack: Per-user information environments
+Citations:250
+Authors: E Adar, DR Karger, LA Stein
+Publication: CIKM 99, 413-422
+
+51. Approximation algorithms for orienteering and discounted-reward TSP
+Citations:248
+Authors: A Blum, S Chawla, DR Karger, T Lane, A Meyerson, M Minkoff
+Publication: SIAM Journal on Computing 37 (2), 653-670
+
+52. Fresnel: A browser-independent presentation vocabulary for RDF
+Citations:237
+Authors: E Pietriga, C Bizer, D Karger, R Lee
+Publication: International Semantic Web Conference, 158-171
+
+53. Scatter-gather: a cluster-based method and apparatus for browsing large document collections
+Citations:236
+Authors: JO Pedersen, D Karger, DR Cutting, JW Tukey
+Publication: US Patent 5,442,778
+
+54. Content delivery network (CDN) content server request handling mechanism
+Citations:229
+Authors: JM Wein, JJ Kloninger, MC Nottingham, DR Karger, PA Lisiecki
+Publication: US Patent 8,122,102
+
+55. Decoding error-correcting codes via linear programming
+Citations:229
+Authors: J Feldman
+Publication: Massachusetts Institute of Technology
+
+56. On approximating the longest path in a graph
+Citations:229
+Authors: D Karger, R Motwani, GDS Ramkumar
+Publication: Algorithmica 18 (1), 82-98
+
+57. Approximation schemes for minimizing average weighted completion time with release dates
+Citations:225
+Authors: F Afrati, E Bampis, C Chekuri, D Karger, C Kenyon, S Khanna, I Milis, ...
+Publication: 40th Annual Symposium on Foundations of Computer Science (Cat. No. 99CB37039 …
+
+58. Crowdsourced databases: Query processing with people
+Citations:218
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Cidr
+
+59. Thresher: automating the unwrapping of semantic content from the World Wide Web
+Citations:209
+Authors: A Hogue, D Karger
+Publication: Proceedings of the 14th international conference on World Wide Web, 86-95
+
+60. Network coding for wireless applications: A brief tutorial
+Citations:208
+Authors: S Deb, M Effros, T Ho, DR Karger, R Koetter, DS Lun, M Médard, ...
+Publication: IWWAN
+
+61. Chord: A scalable peer-to-peer look-up protocol for internet applications
+Citations:197
+Authors: R Morris, MF Kaashoek, D Karger, H Balakrishnan, I Stoica, ...
+Publication: IEEE/ACM Transactions On Networking 11 (1), 17-32
+
+62. Infranet: Circumventing Web Censorship and Surveillance.
+Citations:196
+Authors: N Feamster, M Balazinska, G Harfst, H Balakrishnan, DR Karger
+Publication: USENIX Security Symposium, 247-262
+
+63. A better algorithm for an ancient scheduling problem
+Citations:195
+Authors: DR Karger, SJ Phillips, E Torng
+Publication: Journal of Algorithms 20 (2), 400-430
+
+64. Haystack: A Platform for Creating, Organizing and Visualizing Information Using RDF.
+Citations:188
+Authors: D Huynh, DR Karger, D Quan
+Publication: Semantic Web Workshop 52
+
+65. Rounding algorithms for a geometric embedding of minimum multiway cut
+Citations:174
+Authors: DR Karger, P Klein, C Stein, M Thorup, NE Young
+Publication: Mathematics of Operations Research 29 (3), 436-461
+
+66. Experimental study of minimum cut algorithms
+Citations:164
+Authors: MS Levine
+Publication: Massachusetts Institute of Technology
+
+67. Finding the hidden path: Time bounds for all-pairs shortest paths
+Citations:164
+Authors: DR Karger, D Koller, SJ Phillips
+Publication: SIAM Journal on Computing 22 (6), 1199-1217
+
+68. On the costs and benefits of procrastination: Approximation algorithms for stochastic combinatorial optimization problems
+Citations:160
+Authors: N Immorlica, D Karger, M Minkoff, VS Mirrokni
+Publication: Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …
+
+69. Deterministic network coding by matrix completion
+Citations:157
+Authors: NJA Harvey, DR Karger, K Murota
+Publication: Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete …
+
+70. Byzantine modification detection in multicast networks with random network coding
+Citations:149
+Authors: T Ho, B Leong, R Koetter, M Médard, M Effros, DR Karger
+Publication: IEEE Transactions on Information Theory 54 (6), 2798-2803
+
+71. Techniques for scheduling with rejection
+Citations:148
+Authors: DW Engels, DR Karger, SG Kolliopoulos, S Sengupta, RN Uma, J Wein
+Publication: Journal of Algorithms 49 (1), 175-191
+
+72. Efficient crowdsourcing for multi-class labeling
+Citations:146
+Authors: DR Karger, S Oh, D Shah
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 81-92
+
+73. On coding for non-multicast networks
+Citations:142
+Authors: M Médard, M Effros, D Karger, T Ho
+Publication: Proceedings of the Annual Allerton Conference on Communication Control and …
+
+74. Learning Markov networks: Maximum bounded tree-width graphs
+Citations:142
+Authors: D Karger, D Karger, N Srebro
+Publication: Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms …
+
+75. An Õ (n 2) algorithm for minimum cuts
+Citations:138
+Authors: DR Karger, C Stein
+Publication: STOC 25, 757-765
+
+76. What makes a good answer? The role of context in question answering
+Citations:136
+Authors: J Lin, D Quan, V Sinha, K Bakshi, D Huynh, B Katz, DR Karger
+Publication: Proceedings of the Ninth IFIP TC13 International Conference on Human …
+
+77. An o (n314)-coloring algorithm for 3-colorable graphs
+Citations:136
+Authors: A Blum, D Karger
+Publication: Information processing letters 61 (1), 49-53
+
+78. Piggy bank: Experience the semantic web inside your web browser
+Citations:135
+Authors: D Huynh, S Mazzocchi, D Karger
+Publication: Web Semantics: Science, Services and Agents on the World Wide Web 5 (1), 16-27
+
+79. Method and apparatus for distributing requests among a plurality of resources
+Citations:135
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panagrahy
+Publication: US Patent 6,430,618
+
+80. A Polynomial-Time Approximation Scheme for Weighted Planar Graph TSP.
+Citations:135
+Authors: S Arora, M Grigni, DR Karger, PN Klein, A Woloszyn
+Publication: SODA 98, 33-41
+
+81. Information scraps: How and why information eludes our personal information management tools
+Citations:131
+Authors: M Bernstein, M Van Kleek, D Karger, MC Schraefel
+Publication: ACM Transactions on Information Systems (TOIS) 26 (4), 24
+
+82. Budget-optimal crowdsourcing using low-rank matrix approximations
+Citations:126
+Authors: DR Karger, S Oh, D Shah
+Publication: 2011 49th Annual Allerton Conference on Communication, Control, and …
+
+83. Using urls and table layout for web classification tasks
+Citations:123
+Authors: LK Shih, DR Karger
+Publication: Proceedings of the 13th international conference on World Wide Web, 193-202
+
+84. Optimal Route Planning under Uncertainty.
+Citations:120
+Authors: E Nikolova, M Brand, DR Karger
+Publication: ICAPS 6, 131-141
+
+85. Data unification in personal information management
+Citations:115
+Authors: DR Karger, W Jones
+Publication: Communications of the ACM 49 (1), 77-82
+
+86. Linear network codes: A unified framework for source, channel, and network coding
+Citations:112
+Authors: M Effros, M Médard, T Ho, S Ray, D Karger, R Koetter, B Hassibi
+Publication: Advances in Network Information Theory 3, 197-216
+
+87. Tie strength in question & answer on social network sites
+Citations:110
+Authors: K Panovich, R Miller, D Karger
+Publication: Proceedings of the ACM 2012 conference on computer supported cooperative …
+
+88. Network coding for correlated sources
+Citations:108
+Authors: T Ho, M Médard, M Effros, R Koetter, DR Karger
+Publication: CISS
+
+89. Enhancing directed content sharing on the web
+Citations:106
+Authors: MS Bernstein, A Marcus, DR Karger, RC Miller
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+90. Observations on the dynamic evolution of peer-to-peer networks
+Citations:101
+Authors: D Liben-Nowell, H Balakrishnan, D Karger
+Publication: International Workshop on Peer-to-Peer Systems, 22-33
+
+91. What would it mean to blog on the semantic web?
+Citations:99
+Authors: DR Karger, D Quan
+Publication: International Semantic Web Conference, 214-228
+
+92. Counting with the crowd
+Citations:97
+Authors: A Marcus, D Karger, S Madden, R Miller, S Oh
+Publication: Proceedings of the VLDB Endowment 6 (2), 109-120
+
+93. Toward a random operation of networks
+Citations:95
+Authors: T Ho, M Médard, R Koetter, DR Karger, M Effros, J Shi, B Leong
+Publication: submitted to IEEE Trans. Inform. Theory
+
+94. Consistent hashing and random trees: Algorithms for caching in distributed networks
+Citations:95
+Authors: DM Lewin
+Publication: Massachusetts Institute of Technology
+
+95. Network coding from a network flow perspective
+Citations:91
+Authors: T Ho, DR Karger, M Médard, R Koetter
+Publication: IEEE International Symposium on Information Theory, 2003. Proceedings., 441
+
+96. What would it mean to blog on the semantic web?
+Citations:86
+Authors: DR Karger, D Quan
+Publication: Web Semantics: Science, Services and Agents on the World Wide Web 3 (2-3 …
+
+97. Potluck: Data mash-up tool for casual users
+Citations:84
+Authors: DF Huynh, RC Miller, DR Karger
+Publication: The Semantic Web, 239-252
+
+98. Analytic methods for optimizing realtime crowdsourcing
+Citations:82
+Authors: MS Bernstein, DR Karger, RC Miller, J Brandt
+Publication: arXiv preprint arXiv:1204.2995
+
+99. Magnet: Supporting navigation in semistructured data environments
+Citations:82
+Authors: V Sinha, DR Karger
+Publication: Proceedings of the 2005 ACM SIGMOD international conference on Management of …
+
+100. Diminished Chord: A protocol for heterogeneous subgroup formation in peer-to-peer networks
+Citations:82
+Authors: DR Karger, M Ruhl
+Publication: International Workshop on Peer-to-Peer Systems, 288-297
+
+101. Parallax and companion: Set-based browsing for the data web
+Citations:80
+Authors: DF Huynh, D Karger
+Publication: WWW Conference. ACM 61
+
+102. Method and apparatus for distributing requests among a plurality of resources
+Citations:80
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panigrahy
+Publication: US Patent 6,553,420
+
+103. User interfaces for supporting multiple categorization
+Citations:80
+Authors: D Quan, K Bakshi, D Huynh, DR Karger
+Publication: Proc. of INTERACT, 228-235
+
+104. Adding multiple cost constraints to combinatorial optimization problems, with applications to multicommodity flows
+Citations:80
+Authors: D Karger, S Plotkin
+Publication: STOC 95, 18-25
+
+105. Thwarting web censorship with untrusted messenger discovery
+Citations:79
+Authors: N Feamster, M Balazinska, W Wang, H Balakrishnan, D Karger
+Publication: International Workshop on Privacy Enhancing Technologies, 125-140
+
+106. A nearly optimal oracle for avoiding failed vertices and edges
+Citations:77
+Authors: A Bernstein, D Karger
+Publication: Proceedings of the forty-first annual ACM symposium on Theory of computing …
+
+107. OverCite: A cooperative digital research library
+Citations:77
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, DR Karger, R Morris, ...
+Publication: International Workshop on Peer-to-Peer Systems, 69-79
+
+108. Random sampling in graph optimization problems
+Citations:76
+Authors: D Karger
+Publication: stanford university
+
+109. Simple efficient load-balancing algorithms for peer-to-peer systems
+Citations:75
+Authors: DR Karger, M Ruhl
+Publication: Theory of Computing Systems 39 (6), 787-804
+
+110. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:73
+Authors: ME Thatcher, DE Pingry
+Publication: Communications of the ACM 50 (8), 41-45
+
+111. Finding maximum flows in undirected graphs seems easier than bipartite matching
+Citations:73
+Authors: DR Karger, MS Levine
+Publication: STOC 98, 69-78
+
+112. Route Planning under Uncertainty: The Canadian Traveller Problem.
+Citations:70
+Authors: E Nikolova, DR Karger
+Publication: AAAI, 969-974
+
+113. First-price path auctions
+Citations:68
+Authors: N Immorlica, D Karger, E Nikolova, R Sami
+Publication: Proceedings of the 6th ACM conference on Electronic commerce, 203-212
+
+114. Scatter/gather as a tool for the navigation of retrieval results
+Citations:68
+Authors: MA Hearst, DR Karger, JO Pedersen
+Publication: Working Notes of the AAAI Fall Symposium on AI Applications in Knowledge …
+
+115. Enabling web browsers to augment web sites' filtering and sorting functionalities
+Citations:66
+Authors: DF Huynh, RC Miller, DR Karger
+Publication: Proceedings of the 19th annual ACM symposium on User interface software and …
+
+116. On approximating the longest path in a graph
+Citations:65
+Authors: D Karger, R Motwani, GDS Ramkumar
+Publication: Workshop on Algorithms and Data structures, 421-432
+
+117. Fast connected components algorithms for the EREW PRAM
+Citations:65
+Authors: DR Karger, N Nisan, M Parnas
+Publication: Proceedings of the fourth annual ACM symposium on Parallel algorithms and …
+
+118. Successful classroom deployment of a social document annotation system
+Citations:63
+Authors: S Zyto, D Karger, M Ackerman, S Mahajan
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+119. Tree pattern inference and matching for wrapper induction on the World Wide Web
+Citations:63
+Authors: AW Hogue
+Publication: Massachusetts Institute of Technology
+
+120. Randomized distributed network coding
+Citations:62
+Authors: M Effros, T Ho, D Karger, R Koetter, M Medard
+Publication: US Patent 7,706,365
+
+121. Relo: Helping users manage context during interactive exploratory visualization of large codebases
+Citations:61
+Authors: V Sinha, D Karger, R Miller
+Publication: Visual Languages and Human-Centric Computing (VL/HCC'06), 187-194
+
+122. Haystack: a user interface for creating, browsing, and organizing arbitrary semistructured information
+Citations:61
+Authors: DR Karger, D Quan
+Publication: CHI'04 extended abstracts on Human factors in computing systems, 777-778
+
+123. Faster information dissemination in dynamic networks via network coding
+Citations:59
+Authors: B Haeupler, D Karger
+Publication: Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of …
+
+124. The role of context in question answering systems
+Citations:59
+Authors: J Lin, D Quan, V Sinha, K Bakshi, D Huynh, B Katz, DR Karger
+Publication: CHI'03 extended abstracts on Human factors in computing systems, 1006-1007
+
+125. Near-optimal intraprocedural branch alignment
+Citations:59
+Authors: C Young, DS Johnson, MD Smith, DR Karger
+Publication: ACM SIGPLAN Notices 32 (5), 183-193
+
+126. New algorithms for load balancing in peer-to-peer systems
+Citations:58
+Authors: D Karger, M Ruhl
+Publication: 
+
+127. Global models of document structure using latent permutations
+Citations:54
+Authors: H Chen, SRK Branavan, R Barzilay, DR Karger
+Publication: Proceedings of Human Language Technologies: The 2009 Annual Conference of …
+
+128. The pathetic fallacy of RDF
+Citations:54
+Authors: D Karger
+Publication: 
+
+129. The complexity of matrix completion
+Citations:53
+Authors: NJA Harvey, DR Karger, S Yekhanin
+Publication: Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete …
+
+130. DDoS defense by offense
+Citations:52
+Authors: M Walfish, M Vutukuru, H Balakrishnan, D Karger, S Shenker
+Publication: ACM Transactions on Computer Systems (TOCS) 28 (1), 3
+
+131. Using Randomized Sparsification to Approximate Minimum Cuts.
+Citations:48
+Authors: DR Karger
+Publication: SODA 94, 424-432
+
+132. Content modeling using latent permutations
+Citations:47
+Authors: H Chen, SRK Branavan, R Barzilay, DR Karger
+Publication: Journal of Artificial Intelligence Research 36, 129-163
+
+133. Distributed Quota Enforcement for Spam Control.
+Citations:47
+Authors: M Walfish, JD Zamfirescu, H Balakrishnan, DR Karger, S Shenker
+Publication: NSDI
+
+134. Decoding turbo-like codes via linear programming
+Citations:47
+Authors: J Feldman, DR Karger
+Publication: Journal of Computer and System Sciences 68 (4), 733-752
+
+135. Text bundling: Statistics based data-reduction
+Citations:46
+Authors: L Shih, JD Rennie, YH Chang, DR Karger
+Publication: Proceedings of the 20th International Conference on Machine Learning (ICML …
+
+136. Linear programming-based decoding of turbo-like codes and its relation to iterative approaches
+Citations:46
+Authors: J Feldman, DR Karger, M Wainwright
+Publication: PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND …
+
+137. Demonstration of qurk: a query processor for humanoperators
+Citations:45
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+138. Surviving the information explosion: How people find their electronic information
+Citations:44
+Authors: C Alvarado, J Teevan, MS Ackerman, D Karger
+Publication: 
+
+139. Method of constant interaction-time clustering applied to document browsing
+Citations:42
+Authors: JO Pedersen, DR Karger, DR Cutting
+Publication: US Patent 5,483,650
+
+140. Techniques for scheduling with rejection
+Citations:41
+Authors: DW Engels, DR Karger, SG Kolliopoulos, S Sengupta, RN Uma, J Wein
+Publication: European Symposium on Algorithms, 490-501
+
+141. Tweets as data: demonstration of TweeQL and Twitinfo
+Citations:40
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+142. A Unified Abstraction for Messaging on the Semantic Web.
+Citations:40
+Authors: D Quan, K Bakshi, DR Karger
+Publication: WWW (Posters)
+
+143. Processing and visualizing the data in tweets
+Citations:39
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: ACM SIGMOD Record 40 (4), 21-27
+
+144. Random sampling in residual graphs
+Citations:39
+Authors: DR Karger, MS Levine
+Publication: Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …
+
+145. Note to self: examining personal information keeping in a lightweight note-taking tool
+Citations:38
+Authors: MG Van Kleek, M Bernstein, K Panovich, GG Vargas, DR Karger, ...
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+146. Users’ perspectives on epidemiological, GIS and point pattern approaches to analysing environment and health data
+Citations:38
+Authors: S Cockings, CE Dunn, RS Bhopal, DR Walker
+Publication: Health & Place 10 (2), 169-182
+
+147. Method and apparatus for distributing requests among a plurality of resources
+Citations:37
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panigrahy
+Publication: US Patent 7,127,513
+
+148. Atomate it! end-user context-sensitive automation using heterogeneous information sources on the web
+Citations:35
+Authors: M Van Kleek, B Moore, DR Karger, P André
+Publication: Proceedings of the 19th international conference on World wide web, 951-960
+
+149. Randomized approximation schemes for cuts and flows in capacitated graphs
+Citations:34
+Authors: AA Benczúr, DR Karger
+Publication: SIAM Journal on Computing 44 (2), 290-319
+
+150. Sticky notes for the semantic web
+Citations:34
+Authors: DR Karger, B Katz, J Lin, D Quan
+Publication: Proceedings of the 8th international conference on Intelligent user …
+
+151. Better random sampling algorithms for flows in undirected graphs
+Citations:34
+Authors: DR Karger
+Publication: SODA 98, 490-499
+
+152. Collaborative data analytics with DataHub
+Citations:33
+Authors: A Bhardwaj, A Deshpande, AJ Elmore, D Karger, S Madden, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1916-1919
+
+153. Automatic reconfiguration for large-scale reliable storage systems
+Citations:33
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 145-158
+
+154. Inky: a sloppy command line for the web with rich visual feedback
+Citations:33
+Authors: RC Miller, VH Chou, M Bernstein, G Little, M Van Kleek, D Karger
+Publication: Proceedings of the 21st annual ACM symposium on User interface software and …
+
+155. Unify everything: It's all the same to me
+Citations:33
+Authors: DR Karger
+Publication: Personal information management, 127-152
+
+156. DoS: Fighting fire with fire
+Citations:33
+Authors: M Walfish, H Balakrishnan, D Karger, S Shenker
+Publication: HotNets
+
+157. User interface continuations
+Citations:33
+Authors: D Quan, D Huynh, DR Karger, R Miller
+Publication: Proceedings of the 16th annual ACM symposium on User interface software and …
+
+158. Augmenting Undirected Edge Connectivity in O(n^2) Time
+Citations:33
+Authors: AA Benczúr, DR Karger
+Publication: Journal of Algorithms 37 (1), 2-36
+
+159. The web page as a WYSIWYG end-user customizable database-backed information management application
+Citations:32
+Authors: DR Karger, S Ostler, R Lee
+Publication: Proceedings of the 22nd annual ACM symposium on User interface software and …
+
+160. (De) randomized construction of small sample spaces in NC
+Citations:32
+Authors: DR Karger, D Koller
+Publication: Journal of Computer and System Sciences 55 (3), 402-413
+
+161. Using random sampling to find maximum flows in uncapacitated undirected graphs
+Citations:32
+Authors: DR Karger
+Publication: Annual ACM Symposium on Theory of Computing: Proceedings of the twenty-ninth …
+
+162. Gui---phooey!: the case for text input
+Citations:30
+Authors: M Van Kleek, M Bernstein, DR Karger
+Publication: Proceedings of the 20th annual ACM symposium on User interface software and …
+
+163. Implementing a fully polynomial time approximation scheme for all terminal network reliability
+Citations:30
+Authors: DR Karger, RP Tai
+Publication: SODA 97, 334-343
+
+164. A spreadsheet-based user interface for managing plural relationships in structured data
+Citations:29
+Authors: E Bakke, D Karger, R Miller
+Publication: Proceedings of the SIGCHI conference on human factors in computing systems …
+
+165. The pathetic fallacy of rdf
+Citations:29
+Authors: M Schraefel, D Karger
+Publication: International workshop on the semantic web and user interaction (SWUI) 2006
+
+166. Using linear programming to decode linear codes
+Citations:29
+Authors: J Feldman, M Wainwright, DR Karger
+Publication: 37th annual Conference on Information Sciences and Systems (CISS’03)
+
+167. Parallel processor scheduling with delay constraints
+Citations:29
+Authors: DW Engels, J Feldman, DR Karger, M Ruhl
+Publication: Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms …
+
+168. Subjective-cost policy routing
+Citations:28
+Authors: J Feigenbaum, DR Karger, VS Mirrokni, R Sami
+Publication: International Workshop on Internet and Network Economics, 174-183
+
+169. An experimental study of polylogarithmic, fully dynamic, connectivity algorithms
+Citations:28
+Authors: R Iyer, D Karger, H Rahul, M Thorup
+Publication: Journal of Experimental Algorithmics (JEA) 6, 4
+
+170. The prize collecting Steiner tree problem
+Citations:28
+Authors: M Minkoff
+Publication: Massachusetts Institute of Technology
+
+171. Sync kit: a persistent client-side database caching toolkit for data intensive websites
+Citations:27
+Authors: E Benson, A Marcus, D Karger, S Madden
+Publication: Proceedings of the 19th international conference on World wide web, 121-130
+
+172. Improved distance sensitivity oracles via random sampling
+Citations:27
+Authors: A Bernstein, D Karger
+Publication: Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …
+
+173. LP decoding
+Citations:27
+Authors: J Feldman, DR Karger, MJ Wainwright
+Publication: proceedings of the annual Allerton conference on communication control and …
+
+174. Empirical development of an exponential probabilistic model for text retrieval: using textual analysis to build a better model
+Citations:26
+Authors: J Teevan, DR Karger
+Publication: Proceedings of the 26th annual international ACM SIGIR conference on …
+
+175. Random sampling and greedy sparsification for matroid optimization problems
+Citations:26
+Authors: DR Karger
+Publication: Mathematical Programming 82 (1-2), 41-81
+
+176. Method and apparatus for distributing requests among a plurality of resources
+Citations:25
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panagrahy
+Publication: US Patent 6,963,915
+
+177. Scaling all-pairs overlay routing
+Citations:24
+Authors: D Sontag, Y Zhang, A Phanishayee, DG Andersen, D Karger
+Publication: Proceedings of the 5th international conference on Emerging networking …
+
+178. Haystack: per-user information environments based on semistructured data
+Citations:24
+Authors: DR Karger
+Publication: Beyond the Desktop Metaphor, 49-100
+
+179. Collections: flexible, essential tools for information management
+Citations:24
+Authors: DR Karger, D Quan
+Publication: CHI'04 Extended Abstracts on Human Factors in Computing Systems, 1159-1162
+
+180. RDF authoring environments for end users
+Citations:24
+Authors: D Quan, D Karger, D Huynh
+Publication: Proceedings of Semantic Web Foundations and Application Technologies
+
+181. Dynamic graph algorithms with applications
+Citations:24
+Authors: M Thorup, DR Karger
+Publication: Scandinavian Workshop on Algorithm Theory, 1-9
+
+182. Scheduling algorithms
+Citations:23
+Authors: D Karger, C Stein, J Wein
+Publication: Algorithms and theory of computation handbook, 20-20
+
+183. Derandomization through approximation: An NC algorithm for minimum cuts
+Citations:23
+Authors: DR Karger, R Motwani
+Publication: Proceedings of the twenty-sixth annual ACM symposium on Theory of computing …
+
+184. Augmenting undirected connectivity in RNC and in randomized~ O (n3) time
+Citations:23
+Authors: AA Benczúr
+Publication: Proceedings of the 26th ACM Symposium on Theory of Computing, 658-667
+
+185. E-mail Classification in the Haystack Framework
+Citations:22
+Authors: MMA Rosen
+Publication: Massachusetts Institute of Technology
+
+186. Potluck: semi-ontology alignment for casual users
+Citations:21
+Authors: DF Huynh, RC Miller, DR Karger
+Publication: The Semantic Web, 903-910
+
+187. Arpeggio: Metadata searching and content sharing with Chord
+Citations:21
+Authors: AT Clements, DRK Ports, DR Karger
+Publication: International Workshop on Peer-To-Peer Systems, 58-68
+
+188. Xenon: An RDF stylesheet ontology
+Citations:21
+Authors: D Quan, DR Karger
+Publication: Procs of WWW, 40
+
+189. Randomized approximation schemes for cuts and flows in capacitated graphs
+Citations:21
+Authors: A Benczur, DR Karger
+Publication: arXiv preprint cs/0207078
+
+190. Randomized decoding for selection-and-ordering problems
+Citations:20
+Authors: P Deshpande, R Barzilay, D Karger
+Publication: Human Language Technologies 2007: The Conference of the North American …
+
+191. The Semantic Web-ISWC 2005
+Citations:20
+Authors: Y Gil, E Motta, VR Benjamins, MA Musen
+Publication: 4th International Semantic Web Conference, ISWC, 6-10
+
+192. Wikum: Bridging discussion forums and wikis using recursive summarization
+Citations:19
+Authors: AX Zhang, L Verou, D Karger
+Publication: Proceedings of the 2017 ACM Conference on Computer Supported Cooperative …
+
+193. Subjective-cost policy routing
+Citations:19
+Authors: J Feigenbaum, DR Karger, VS Mirrokni, R Sami
+Publication: Theoretical Computer Science 378 (2), 175-189
+
+194. Supporting finding and re-finding through personalization
+Citations:19
+Authors: JB Teevan
+Publication: Massachusetts Institute of Technology
+
+195. Haystack: a platform for creating, organizing and visualizing semistructured information
+Citations:19
+Authors: D Huynh, DR Karger, D Quan, V Sinha
+Publication: IUI 3, 323-323
+
+196. Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?
+Citations:18
+Authors: AX Zhang, MS Ackerman, DR Karger
+Publication: Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing …
+
+197. Talking about data: Sharing richly structured information through blogs and wikis
+Citations:18
+Authors: E Benson, A Marcus, F Howahl, D Karger
+Publication: International Semantic Web Conference, 48-63
+
+198. Job scheduling in rings
+Citations:18
+Authors: P Fizzano, D Karger, C Stein, J Wein
+Publication: ACM Symposium on Parallel Algorithms and Architectures: Proceedings of the …
+
+199. The semantic web and end users: What's wrong and how to fix it
+Citations:17
+Authors: DR Karger
+Publication: IEEE Internet Computing 18 (6), 64-70
+
+200. Finders/keepers: a longitudinal study of people managing information scraps in a micro-note tool
+Citations:17
+Authors: MG Van Kleek, W Styke, D Karger
+Publication: Proceedings of the SIGCHI conference on human factors in computing systems …
+
+201. Polynomial approximation schemes for smoothed and random instances of multidimensional packing problems
+Citations:17
+Authors: D Karger, K Onak
+Publication: SODA 7, 1207-1216
+
+202. Shadowing in muon-nucleus scattering
+Citations:17
+Authors: M Miller, B Moskowitz, J LeBritton, D McCal, W Metcalf, AC Melissinos, ...
+Publication: Physical Review D 24 (1), 1
+
+203. Spreadsheet driven web applications
+Citations:16
+Authors: E Benson, AX Zhang, DR Karger
+Publication: Proceedings of the 27th annual ACM symposium on User interface software and …
+
+204. U-REST: an unsupervised record extraction system
+Citations:16
+Authors: YK Shen, DR Karger
+Publication: Proceedings of the 16th international conference on World Wide Web, 1347-1348
+
+205. Expressive query construction through direct manipulation of nested relational results
+Citations:15
+Authors: E Bakke, DR Karger
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1377 …
+
+206. The role of CDR H3 in antibody recognition of a synthetic analog of a lipopolysaccharide antigen
+Citations:15
+Authors: CL Brooks, RJ Blackler, G Sixta, P Kosma, S Müller-Loennies, L Brade, ...
+Publication: Glycobiology 20 (2), 138-147
+
+207. Prerequisites for a personalizable user interface
+Citations:15
+Authors: DR Karger, D Quan
+Publication: Proceedings of Intelligent User Interface 2004 Workshop on Behavior-based …
+
+208. Analysis of student engagement in an online annotation system in the context of a flipped introductory physics class
+Citations:14
+Authors: K Miller, S Zyto, D Karger, J Yoo, E Mazur
+Publication: Physical Review Physics Education Research 12 (2), 020143
+
+209. A near-linear time algorithm for constructing a cactus representation of minimum cuts
+Citations:14
+Authors: DR Karger, D Panigrahi
+Publication: Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …
+
+210. Spam-I-am: A Proposal for Spam Control using Distributed Quota Management
+Citations:14
+Authors: H Balakrishnan, D Karger
+Publication: 3rd ACM SIGCOMM Workshop on Hot Topics in Networks (Hot-Nets)
+
+211. A structured response to misinformation: Defining and annotating credibility indicators in news articles
+Citations:13
+Authors: AX Zhang, A Ranganathan, SE Metz, S Appling, CM Sehat, N Gilmore, ...
+Publication: Companion Proceedings of the The Web Conference 2018, 603-612
+
+212. Computing with strategic agents
+Citations:13
+Authors: N Immorlica
+Publication: Massachusetts Institute of Technology
+
+213. Correlations and entanglement in quantum critical bilayer and necklace XY models
+Citations:12
+Authors: J Helmes, S Wessel
+Publication: Physical Review B 92 (12), 125120
+
+214. Attendee-sourcing: Exploring the design space of community-informed conference scheduling
+Citations:12
+Authors: A Bhardwaj, J Kim, S Dow, D Karger, S Madden, R Miller, H Zhang
+Publication: Second AAAI conference on human computation and crowdsourcing
+
+215. Undergraduate conceptions of the engineering design process: Assessing the impact of a human-centered design course
+Citations:12
+Authors: L Oehlberg, AM Agogino
+Publication: ASEE Annual Conference and Exposition
+
+216. Exact algorithms for the Canadian traveller problem on paths and trees
+Citations:12
+Authors: D Karger, E Nikolova
+Publication: 
+
+217. End-user application development for the semantic web
+Citations:12
+Authors: K Bakshi, DR Karger
+Publication: Proceedings of the 1st Workshop on the Semantic Desktop: Next Generation …
+
+218. On the dynamic multicast problem for coded networks
+Citations:12
+Authors: DS Lun, M Médard, DR Karger
+Publication: Proceedings of WINMEE, RAWNET and NETCOD 2005 workshops
+
+219. Towards a unification & integration of PIM support
+Citations:12
+Authors: W Jones, D Karger, O Bergman, M Franklin, W Pratt, M Bates
+Publication: Seattle, WA: National Science Foundation 1, 27-29
+
+220. VCG overpayment in random graphs
+Citations:12
+Authors: D Karger, E Nikolova
+Publication: DIMACS Workshop on Computational Issues in Auction Design
+
+221. Not too hot, not too cold: The bundled-svm is just right!
+Citations:12
+Authors: L Shih, YH Chang, J Rennie, D Karger
+Publication: ICML Workshop on Text Learning
+
+222. Opportunities and challenges around a tool for social and public web activity tracking
+Citations:11
+Authors: AX Zhang, J Blum, DR Karger
+Publication: Proceedings of the 19th ACM Conference on Computer-Supported Cooperative …
+
+223. Automatic layout of structured hierarchical reports
+Citations:11
+Authors: E Bakke, DR Karger, RC Miller
+Publication: IEEE transactions on visualization and computer graphics 19 (12), 2586-2595
+
+224. Eyebrowse: Real-time web activity sharing and visualization
+Citations:11
+Authors: M Van Kleek, B Moore, C Xu, DR Karger
+Publication: CHI'10 Extended Abstracts on Human Factors in Computing Systems, 3643-3648
+
+225. Management of personal information scraps
+Citations:11
+Authors: M Bernstein, M Van Kleek, D Karger
+Publication: 
+
+226. Squadbox: A tool to combat email harassment using friendsourced moderation
+Citations:10
+Authors: K Mahar, AX Zhang, D Karger
+Publication: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …
+
+227. Confer: A conference recommendation and meetup tool
+Citations:10
+Authors: AX Zhang, A Bhardwaj, D Karger
+Publication: Proceedings of the 19th ACM Conference on Computer Supported Cooperative …
+
+228. Linear-time Poisson-disk patterns
+Citations:10
+Authors: TR Jones, DR Karger
+Publication: Journal of Graphics, GPU, and Game Tools 15 (3), 177-182
+
+229. The Semantic Web-ISWC 2009
+Citations:10
+Authors: A Bernstein, DR Karger, T Heath, L Feigenbaum, D Maynard, E Motta, ...
+Publication: Lecture Notes in Computer Science 5823
+
+230. Adenine: a metadata programming language
+Citations:10
+Authors: D Quan, D Huynh, V Sinha, D Karger
+Publication: Student Oxygen Workshop
+
+231. Where the Jobs are: A Study of Amstat News Job Advertisements
+Citations:10
+Authors: DL Demets, R Woolson, C Brooks, R Qu
+Publication: The American Statistician 52 (4), 303-307
+
+232. Cascading tree sheets and recombinant HTML: better encapsulation and retargeting of web content
+Citations:9
+Authors: EO Benson, DR Karger
+Publication: Proceedings of the 22nd international conference on World Wide Web, 107-118
+
+233. Quantum quench dynamics and population inversion in bilayer graphene
+Citations:9
+Authors: B Dóra, EV Castro, R Moessner
+Publication: Physical Review B 82 (12), 125441
+
+234. Assisted Self Reflection: Combining Lifetracking, Sensemaking & Personal Information Management
+Citations:9
+Authors: B Moore, M Van Kleek, DR Karger
+Publication: 
+
+235. Method and apparatus for distributing requests among a plurality of resources
+Citations:9
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panagrahy
+Publication: US Patent 7,500,002
+
+236. On the expected VCG overpayment in large networks
+Citations:9
+Authors: DR Karger, E Nikolova
+Publication: Proceedings of the 45th IEEE Conference on Decision and Control, 2831-2836
+
+237. Semantic web applications
+Citations:9
+Authors: K Bakshi, DR Karger
+Publication: Proceedings of the ISWC 2005 Workshop on End User Semantic Web Interaction …
+
+238. Wrapper induction for end-user semantic content development
+Citations:9
+Authors: A Hogue, D Karger
+Publication: Proceedings of First International Workshop on Interaction Design and the …
+
+239. Randomization in graph optimization problems: A survey
+Citations:9
+Authors: DR Karger
+Publication: COMBINATORIAL OPTIMIZATION-DORDRECHT- 9 (1), 101-127
+
+240. Haystack: Per-User Information Environments
+Citations:9
+Authors: D Karger, LA Stein
+Publication: Beyond the Desktop Metaphor: Designing Integrated Digital Work Environments …
+
+241. Random contractions and sampling for hypergraph and hedge connectivity
+Citations:8
+Authors: M Ghaffari, DR Karger, D Panigrahi
+Publication: Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …
+
+242. Mavo: creating interactive data-driven web applications by authoring HTML
+Citations:8
+Authors: L Verou, AX Zhang, DR Karger
+Publication: Proceedings of the 29th Annual Symposium on User Interface Software and …
+
+243. A fast and simple unbiased estimator for network (un) reliability
+Citations:8
+Authors: DR Karger
+Publication: 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS …
+
+244. Sharing information in time-division duplexing channels: A network coding approach
+Citations:8
+Authors: DE Lucani, M Médard, M Stojanovic, DR Karger
+Publication: 2009 47th Annual Allerton Conference on Communication, Control, and …
+
+245. Simplifying knowledge creation and access for end-users on the SW
+Citations:8
+Authors: M Van Kleek, M Bernstein, P André, M Perttunen, D Karger
+Publication: MIT/University of Southampton
+
+246. User interfaces supporting casual data-centric interactions on the web
+Citations:8
+Authors: DF Huynh
+Publication: Massachusetts Institute of Technology
+
+247. Brief announcement: on the expected overpayment of VCG mechanisms in large networks
+Citations:8
+Authors: D Karger, E Nikolova
+Publication: PODC 5, 126-126
+
+248. A theoretical and practical approach to instruction scheduling on spatial architectures
+Citations:8
+Authors: S Amarasinghe, DR Karger, W Lee, VS Mirrokni
+Publication: Technical Report MIT-LCS-TM-635, MIT
+
+249. Analysis of the evolution of peer-to-peer systems
+Citations:8
+Authors: H Balakrishnan, D Karger, D Liben-Nowell
+Publication: Proceedings of the 21st ACM Symposium on Principles of Distributed Computing …
+
+250. Using student annotated hashtags and emojis to collect nuanced affective states
+Citations:7
+Authors: AX Zhang, M Igo, M Facciotti, D Karger
+Publication: Proceedings of the Fourth (2017) ACM Conference on Learning@ Scale, 319-322
+
+251. Standards opportunities around data-bearing Web pages
+Citations:7
+Authors: D Karger
+Publication: Philosophical Transactions of the Royal Society A: Mathematical, Physical …
+
+252. Method and apparatus for distributing requests among a plurality of resources
+Citations:7
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panagrahy
+Publication: US Patent 8,103,767
+
+253. Improved approximations for multiprocessor scheduling under uncertainty
+Citations:7
+Authors: CY Crutchfield, Z Dzunic, JT Fineman, DR Karger, JH Scott
+Publication: Proceedings of the twentieth annual symposium on Parallelism in algorithms …
+
+254. Incremental exploratory visualization of relationships in large codebases for program comprehension
+Citations:7
+Authors: V Sinha, R Miller, D Karger
+Publication: Companion to the 20th annual ACM SIGPLAN conference on Object-oriented …
+
+255. Automatic record extraction for the World Wide Web
+Citations:7
+Authors: YK Shen
+Publication: Massachusetts Institute of Technology
+
+256. Byzantine modification detection for multi-cast using network coding
+Citations:7
+Authors: T Ho, B Leong, R Koetter, M Medard, M Effros, DR Karger
+Publication: Proc. of IEEE International Symposium on Information Theory
+
+257. Hawking radiation in the presence of high-momentum dissipation
+Citations:6
+Authors: S Robertson, R Parentani
+Publication: Physical Review D 92 (4), 044043
+
+258. Creating user interfaces that entice people to manage better information
+Citations:6
+Authors: DR Karger
+Publication: Proceedings of the 20th ACM international conference on Information and …
+
+259. It’s All the Same to Me: Data Unification in Personal Information Management
+Citations:6
+Authors: DR Karger, W Jones
+Publication: Personal Information Management, 127-152
+
+260. On separation, randomness and linearity for network codes over finite fields
+Citations:6
+Authors: S Ray, M Effros, M Médard, R Koetter, T Ho, D Karger, J Abounadi
+Publication: arXiv preprint cs/0603022
+
+261. Tools for end-user creation and customization of interfaces for information management tasks
+Citations:6
+Authors: K Bakshi
+Publication: Massachusetts Institute of Technology
+
+262. Haystack: Metadata-enabled information management
+Citations:6
+Authors: D Quan, D Karger
+Publication: UIST-2003
+
+263. Looking up data in P2P systems
+Citations:6
+Authors: I Stoica, R Morris, D Karger, F Kaashoek, H Balakrishnan
+Publication: Communications of the ACM 46 (2)
+
+264. The grid ad hoc networking project
+Citations:6
+Authors: R Morris, F Kaashoek, D Karger, D Aguayo, J Bicket, S Biswas, ...
+Publication: 
+
+265. BESDUI: A benchmark for end-user structured data user interfaces
+Citations:5
+Authors: R García, R Gil, JM Gimeno, E Bakke, DR Karger
+Publication: International Semantic Web Conference, 65-79
+
+266. Improving online class forums by seeding discussions and managing section size
+Citations:5
+Authors: K Miller, S Zyto, D Karger, E Mazur
+Publication: Proceedings of the first ACM conference on Learning@ scale conference, 173-174
+
+267. Online reading informs classroom instruction and promotes collaborative learning
+Citations:5
+Authors: LK Wright, S Zyto, DR Karger, DL Newman
+Publication: Journal of College Science Teaching 43 (2), 44-53
+
+268. A data aware web architecture
+Citations:5
+Authors: E Benson
+Publication: Massachusetts Institute of Technology
+
+269. Network coding for wireless applications
+Citations:5
+Authors: DS Lun, E Ahmed, LR Brothers, JA DeBardelaben, M Effros, T Ho, ...
+Publication: Unmanned/Unattended Sensors and Sensor Networks II 5986, 59860U
+
+270. User Interaction Experience for Semantic Web Information.
+Citations:5
+Authors: D Huynh, D Quan, DR Karger
+Publication: WWW (Posters)
+
+271. Algorithm design and analysis techniques
+Citations:5
+Authors: EM Reingold
+Publication: Algorithms and theory of computation handbook, 9-35
+
+272. Less is more
+Citations:4
+Authors: RJ Chen
+Publication: Mathematics teaching in the middle school 17 (8), 464-471
+
+273. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+274. Machine learning on web documents
+Citations:4
+Authors: LK Shih
+Publication: Massachusetts Institute of Technology
+
+275. Learning classes correlated to a hierarchy
+Citations:4
+Authors: L Shih, D Karger
+Publication: 
+
+276. Fast augmenting paths by random sampling from residual graphs
+Citations:3
+Authors: DR Karger, MS Levine
+Publication: SIAM Journal on Computing 44 (2), 320-339
+
+277. Platform considerations in human computation
+Citations:3
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Workshop on crowdsourcing and human computation, 1-4
+
+278. Learning semantic structures from in-domain documents
+Citations:3
+Authors: H Chen
+Publication: Massachusetts Institute of Technology
+
+279. Facette: using facets to improve tag-based bookmarking
+Citations:3
+Authors: P Lai
+Publication: Massachusetts Institute of Technology
+
+280. Efficient algorithms for fixed-precision instances of bin packing and euclidean tsp
+Citations:3
+Authors: DR Karger, J Scott
+Publication: Approximation, Randomization and Combinatorial Optimization. Algorithms and …
+
+281. BlendDB: blending table layouts to support efficient browsing of relational databases
+Citations:3
+Authors: A Marcus
+Publication: Massachusetts Institute of Technology
+
+282. Breaking the window hierarchy to visualize UI interconnections
+Citations:3
+Authors: DF Huynh, RC Miller, DR Karger
+Publication: Submitted to UIST
+
+283. The Message without the Medium: Unifying Modern Mes-saging Paradigms through the Semantic Web
+Citations:3
+Authors: K Bakshi, DR Karger, D Quan
+Publication: Submitted to WWW
+
+284. A folder-based graphical interface for an information retrieval system
+Citations:3
+Authors: AANR Low
+Publication: Massachusetts Institute of Technology
+
+285. Distributed job scheduling in rings
+Citations:3
+Authors: P Fizzano, D Karger, C Stein, J Wein
+Publication: Journal of Parallel and Distributed Computing 45 (2), 122-133
+
+286. Capturing Ontological Information from Users
+Citations:3
+Authors: D Quan, D Karger
+Publication: Technical report, MIT
+
+287. Squadbox: A Tool To Combat Online Harassment Using Friendsourced Moderation
+Citations:2
+Authors: K Mahar, AX Zhang, D Karger
+Publication: Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing …
+
+288. Enumerating parametric global minimum cuts by random interleaving
+Citations:2
+Authors: DR Karger
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+289. Kibitz: End-to-end recommendation system builder
+Citations:2
+Authors: Q Liu, DR Karger
+Publication: Proceedings of the 9th ACM Conference on Recommender Systems, 335-336
+
+290. End-users publishing structured information on the web: an observational study of what, why, and how
+Citations:2
+Authors: E Benson, DR Karger
+Publication: Proceedings of the 32nd annual ACM conference on Human factors in computing …
+
+291. Content modeling using latent permutations
+Citations:2
+Authors: H Chen, SRK Branavan, R Barzilay, DR Karger
+Publication: arXiv preprint arXiv:1401.3488
+
+292. Cobi: Community-Informed Conference Scheduling
+Citations:2
+Authors: J Kim, H Zhang, P André, LB Chilton, A Bhardwaj, D Karger, SP Dow, ...
+Publication: First AAAI Conference on Human Computation and Crowdsourcing
+
+293. 6.854—Advanced Algorithms
+Citations:2
+Authors: D Karger
+Publication: Advanced Algorithms Lecture Notes (unrefereed)
+
+294. Effort, memory, attention and time: paths to more effective personal information management
+Citations:2
+Authors: M Van Kleek
+Publication: Massachusetts Institute of Technology
+
+295. Breaking local symmetries can dramatically reduce the length of propositional refutations
+Citations:2
+Authors: SBIE Ben-Sasson, D Karger
+Publication: 
+
+296. DDoS defense by offense
+Citations:2
+Authors: W Michael, M Vutukuru, H Balakrishnan, D Karger
+Publication: Rev. ACM Trans. Comp. Syst 28, 1-54
+
+297. Analyzing Network Coding Gossip Made Easy (simpler proofs for stronger results even in adversarial dynamic networks)
+Citations:2
+Authors: B Haeupler
+Publication: Allerton Conference on Communication, Control and Computing
+
+298. First-price procurement auctions
+Citations:2
+Authors: N Immorlica, DR Karger, E Nikolova, R Sami
+Publication: Manuscript
+
+299. Wicked problems and gnarly results: Reflecting on design and evaluation methods for idiosyncratic personal information management tasks
+Citations:2
+Authors: M Bernstein, M Van Kleek, D Khushraj, R Nayak, C Liu, DR Karger
+Publication: 
+
+300. AtomsMasher: Personal Reactive Automation for the Web
+Citations:2
+Authors: M Van Kleek, P André, M Perttunen, M Bernstein, D Karger, R Miller
+Publication: 
+
+301. Evolution and evaluation of an information scrap manager
+Citations:2
+Authors: M Bernstein, M Van Kleek, M Schraefel, DR Karger
+Publication: 
+
+302. Supplement to" Distributed Quota Enforcement for Spam Control"
+Citations:2
+Authors: M Walfish, JD Zamfirescu, H Balakrishnan, D Karger, S Shenker
+Publication: 
+
+303. Technical and Social Components of Peer-to-Peer Computing-Looking Up Data in P2P Systems
+Citations:2
+Authors: H Balakrishnan, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM-Association for Computing Machinery-CACM 46 (2), 43-48
+
+304. Dynamically exploiting available metadata for browsing and information retrieval
+Citations:2
+Authors: V Sinha
+Publication: Massachusetts Institute of Technology
+
+305. Basic concepts for managing semi-structured information in haystack
+Citations:2
+Authors: D Quan, DF Huynh, V Sinha, D Karger, M Zhurakhinskaya
+Publication: 2nd Annual Student Oxygen Workshop, Gloucester, MA, USA
+
+306. An effecient boosting algorithm for combining preferences
+Citations:2
+Authors: R Dharmarajan
+Publication: Technical report, MIT, Septembet
+
+307. An~ O (n3= 14)-coloring for 3-colorable graphs
+Citations:2
+Authors: A Blum, D Karger
+Publication: Submitted to Information Processing Letters
+
+308. Relieving hot spots on the world wide web
+Citations:2
+Authors: DR Karger, E Lehman, T Leighton, M Levine, D Lewin, R Panigrahy
+Publication: Proceedings of the 29th Annual ACM Symposium on the Theory of Computing, 654-663
+
+309. Opportunities for Automating Email Processing: A Need-Finding Study
+Citations:1
+Authors: S Park, AX Zhang, LS Murray, DR Karger
+Publication: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …
+
+310. Deliberation and Resolution on Wikipedia: A Case Study of Requests for Comments
+Citations:1
+Authors: J Im, AX Zhang, CJ Schilling, D Karger
+Publication: Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 74
+
+311. Classifying and visualizing students' cognitive engagement in course readings
+Citations:1
+Authors: E Yogev, K Gal, D Karger, MT Facciotti, M Igo
+Publication: Proceedings of the Fifth Annual ACM Conference on Learning at Scale, 52
+
+312. Faster (and still pretty simple) unbiased estimators for network (un) reliability
+Citations:1
+Authors: DR Karger
+Publication: 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …
+
+313. Eyebrowse: Selective and public web activity sharing
+Citations:1
+Authors: AX Zhang, D Karger, J Blum
+Publication: Proceedings of the 19th ACM Conference on Computer Supported Cooperative …
+
+314. Brandt
+Citations:1
+Authors: MS Bernstein, DR Karger, RC Miller
+Publication: J
+
+315. Network Coding: Beating Token Forwarding Lower Bounds in Dynamic Networks
+Citations:1
+Authors: B Haeupler, D Karger
+Publication: submission
+
+316. Mixing the reactive with the personal: Opportunities for end user programming in personal information management (PIM)
+Citations:1
+Authors: M Van Kleek, P André, B Moore, D Karger
+Publication: No Code Required, 127-149
+
+317. Bridging the gap between high-throughput genetic and transcriptional data reveals cellular pathways responding to alpha-synuclein toxicity
+Citations:1
+Authors: E Yeger-Lotem, L Riva, LJ Su, AD Gitler, A Cashikar, OD King, PK Auluck, ...
+Publication: Nature genetics 41 (3), 316
+
+318. Mutable data representations for lightweight publishing and curation
+Citations:1
+Authors: SB Ostler
+Publication: Massachusetts Institute of Technology
+
+319. Adopting A Common Data Model for End-User Web Programming Tools
+Citations:1
+Authors: DF Huynh, DR Karger
+Publication: CHI
+
+320. Personalized Experiences for End-User Programming on the Web
+Citations:1
+Authors: M Van Kleek, P André, D Karger
+Publication: 
+
+321. Watching through the web: Building personal activity and context-aware interfaces using web activity streams
+Citations:1
+Authors: M Van Kleek, DR Karger
+Publication: Understanding the User-Logging and Interpreting User Interactions in …
+
+322. Understanding code architectures via interactive exploration and layout of layered diagrams
+Citations:1
+Authors: V Sinha, EL Murnane, SW Kurth, ES Liongosari, R Miller, D Karger
+Publication: Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming …
+
+323. Stochastic combinatorial optimization with risk
+Citations:1
+Authors: E Nikolova
+Publication: 
+
+324. Using diagrammatic explorations to understand code
+Citations:1
+Authors: V Sinha
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+325. AtomsMasher: PeRSSonalized Information Delivery and Management on the Web
+Citations:1
+Authors: M Van Kleek, P André, DA Smith, ML Wilson, M Bernstein, D Karger, ...
+Publication: Technical report, MIT and University of Southampton
+
+326. Arpeggio: metadata indexing in a structured peer-to-peer network
+Citations:1
+Authors: DRK Ports
+Publication: Massachusetts Institute of Technology
+
+327. Low-complexity localized walsh decoding for CDMA systems
+Citations:1
+Authors: AM Chan, J Feldman, R Madyastha, P Indyk, D Karger
+Publication: MILCOM 2006-2006 IEEE Military Communications conference, 1-6
+
+328. Toward using the network as a switch: On the use of TDM in linear optical networks
+Citations:1
+Authors: DR Karger, M Médard
+Publication: IEEE Journal on Selected Areas in Communications 23 (8), 1533-1541
+
+329. Haystack: A Platform for Personalized Information Management
+Citations:1
+Authors: D Karger, K Bakshi, D Huynh, D Quan, V Sinha
+Publication: Retrieved
+
+330. Algorithms for Decoding Turbo Codes and LDPC Codes
+Citations:1
+Authors: J Feldman, D Karger, M Wainright
+Publication: MIT Laboratory for Computer Science
+
+331. Tapping Interpersonal Communication—A Rich Source of Metadata for the Semantic Web
+Citations:1
+Authors: D Quan, K Bakshi, D Karger
+Publication: Submitted to ISWC
+
+332. Haystack’s User Experience for Interacting with Semistructured Information
+Citations:1
+Authors: D Huynh, D Quan, D Karger
+Publication: Proceedings of WWW2003
+
+333. Load balancing the GRID ad-hoc routing protocol
+Citations:1
+Authors: RS Bloom
+Publication: Massachusetts Institute of Technology
+
+334. Chord: Scalable, Robust Peer-to-Peer Services
+Citations:1
+Authors: H Balakrishnan, J Cates, F Dabek, F Kaashoek, D Karger, D Liben-Nowell, ...
+Publication: MIT Laboratory for Computer Science
+
+335. The semantic user interface paradigm for presenting semi-structured information
+Citations:1
+Authors: DF Huynh, D Quan, V Sinha, D Karger
+Publication: MIT Artificial Intelligence Laboratory
+
+336. Semantic Navigation Through Semi-structured Information
+Citations:1
+Authors: V Sinha, D Quan, DF Huynh, D Karger
+Publication: Technical report, Student Oxygen Workshop, 2002. Available at http://sow …
+
+337. Surviving the Information Explosion
+Citations:1
+Authors: M Ackerman, C Alvarado, D Karger, J Teevan
+Publication: MIT Laboratory for Computer Science
+
+338. The prize collecting Steiner tree problem: theory and practice
+Citations:1
+Authors: M Minko, DR Karger
+Publication: In Proceedings of the 11th Annual ACM-SIAM Symposium on Discrete Algorithms
+
+339. Quadratic-time algorithms for edge-connectivity augmentation and splitting off
+Citations:1
+Authors: AA Benczúr, DR Karger, F My, M Prog
+Publication: J. Alg 37 (1), 2-36
+
+340. Investigation of machine learning tools for document clustering and classification
+Citations:1
+Authors: L Borodavkina
+Publication: Massachusetts Institute of Technology
+
+341. Maximum flows in undirected graphs seems easier than bipartite matching
+Citations:1
+Authors: DR KARGER
+Publication: Proc. 30th ACM Symposium on Theory of Computing, 1998
+
+342. Extending a Reactive Expression Language with Data Update Actions for End-User Application Authoring
+Citations:
+Authors: L Verou, T Alrashed, D Karger
+Publication: The 31st Annual ACM Symposium on User Interface Software and Technology, 379-387
+
+343. Post-literate Programming: Linking Discussion and Code in Software Development Teams
+Citations:
+Authors: S Park, AX Zhang, DR Karger
+Publication: The 31st Annual ACM Symposium on User Interface Software and Technology …
+
+344. Content delivery network (CDN) content server request handling mechanism with metadata framework support
+Citations:
+Authors: JM Wein, JJ Kloninger, MC Nottingham, DR Karger, PA Lisiecki
+Publication: US Patent App. 15/846,526
+
+345. Content delivery network (CDN) content server request handling mechanism with metadata framework support
+Citations:
+Authors: JM Wein, JJ Kloninger, MC Nottingham, DR Karger, PA Lisiecki
+Publication: US Patent 9,847,966
+
+346. Tackling the Challenges of Big Data Big Data Systems
+Citations:
+Authors: D Karger
+Publication: Massachusetts Institute of Technology
+
+347. Important dates
+Citations:
+Authors: CIIH Sheet
+Publication: 
+
+348. Identifying biological response pathways
+Citations:
+Authors: E Fraenkel, SSC Huang, DR Karger, L Riva, E Yeger-Lotem
+Publication: US Patent App. 14/077,733
+
+349. Identifying biological response pathways
+Citations:
+Authors: E Fraenkel, SSC Huang, DR Karger, L Riva, E Yeger-Lotem
+Publication: US Patent 8,612,160
+
+350. Method and apparatus for distributing requests among a plurality of resources
+Citations:
+Authors: D Karger, E Lehman, FT Leighton, M Levine, D Lewin, R Panagrahy
+Publication: US Patent 8,458,259
+
+351. Reject me: peer review and SIGCHI
+Citations:
+Authors: M Bernstein, D Cosley, C DiSalvo, S Kairam, D Karger, T Kriplean, ...
+Publication: CHI'12 Extended Abstracts on Human Factors in Computing Systems, 1197-1200
+
+352. BFT-Practical Byzantine Fault Tolerance
+Citations:
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, J Cowling, D Schultz, ...
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158
+
+353. Use of social network sites for question and answer behavior
+Citations:
+Authors: KKM Panovich
+Publication: Massachusetts Institute of Technology
+
+354. Deterministic Algorithms for the Lovasz Local Lemma
+Citations:
+Authors: B Haeupler
+Publication: Massachusetts Institute of Technology
+
+355. Customizable application for personal information management
+Citations:
+Authors: J Liu
+Publication: Massachusetts Institute of Technology
+
+356. The Semantic Web-ISWC 2009: 8th International Semantic Web Conference, ISWC 2009, Chantilly, VA, USA, October 25-29, 2009, Proceedings
+Citations:
+Authors: A Bernstein, DR Karger, T Heath, L Feigenbaum, D Maynard, E Motta, ...
+Publication: Springer
+
+357. Understanding and Supporting Directed Content Sharing on the Web
+Citations:
+Authors: R Miller, D Karger, A Marcus, M Bernstein
+Publication: 
+
+358. Decoding of Walsh codes
+Citations:
+Authors: AM Chan, J Feldman, R Madyastha, P Indyk, D Karger
+Publication: US Patent 7,580,451
+
+359. End-User Structured Data Management
+Citations:
+Authors: D Karger
+Publication: 
+
+360. Strategic algorithms
+Citations:
+Authors: DR Karger, EV Nikolova
+Publication: Massachusetts Institute of Technology
+
+361. Eyebrowse: Real-Time Social Web Browsing
+Citations:
+Authors: B Moore, M Van Kleek, C Xu, D Karger
+Publication: 
+
+362. Modelling of the upper Limb using electrical stimulation for stroke rehabilitation
+Citations:
+Authors: C Freeman, AM Hughes, J Burridge, P Chappell, P Lewin, E Rogers
+Publication: 
+
+363. Information Scraps: Understanding and Design
+Citations:
+Authors: MS Bernstein
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+364. Approximation algorithms for stochastic scheduling on unrelated machines
+Citations:
+Authors: JJH Scott
+Publication: Massachusetts Institute of Technology
+
+365. Interfaces for creating quantitative conceptual diagrams
+Citations:
+Authors: RS Stewart
+Publication: Massachusetts Institute of Technology
+
+366. Bringing the Semantic Web home: a research agenda for local, personalized SWUI
+Citations:
+Authors: P André, M Van Kleek, D Karger
+Publication: University of Southampton
+
+367. Personal Information Management, Personal Information Retrieval?
+Citations:
+Authors: M Bernstein, M Van Kleek, DR Karger
+Publication: Workshop Proceedings, 18
+
+368. Unsupervised Record Extraction for the World Wide Web
+Citations:
+Authors: YK Shen, D Karger
+Publication: 
+
+369. Sumudu Weerakoon Watugala
+Citations:
+Authors: DR Karger
+Publication: Massachusetts Institute of Technology
+
+370. 1. It's All the Same to Me: Data Unification in Personal Information Management
+Citations:
+Authors: DR KARGER
+Publication: 
+
+371. Optimal Route Planning under Uncertainty
+Citations:
+Authors: DR Karger
+Publication: 
+
+372. Designing customizable end user applications using semantic technologies to improve information management
+Citations:
+Authors: SW Watugala
+Publication: Massachusetts Institute of Technology
+
+373. A computational study of a geometric embedding of minimum multiway cut
+Citations:
+Authors: DDD Shin
+Publication: Massachusetts Institute of Technology
+
+374. A degree-optimal, ordered peer-to-peer overlay network
+Citations:
+Authors: KC Zatloukal
+Publication: Massachusetts Institute of Technology
+
+375. Towards using the network as a switch: On the use of TDM in linear optical networks
+Citations:
+Authors: D Karger, M Médard
+Publication: 
+
+376. Special Issue on FOCS 2002
+Citations:
+Authors: V Guruswami, Z Bar-Yossef, TS Jayram, R Kumar, D Sivakumar, ...
+Publication: Elsevier
+
+377. Achlioptas, Dimitris, 238 Ambainis, Andris, 398 Anceaume, E., 123
+Citations:
+Authors: JH Anderson, Z Bar-Yossef, P Beame, L Becchetti, NH Bshouty, ...
+Publication: Journal of Computer and System Sciences 68, 862
+
+378. Sticky Notes for David R. Karger MIT Laboratory for Computer Science 200 Technology Square Cambrdge, MA 02139 USA
+Citations:
+Authors: DR Karger
+Publication: IUI 03, 254
+
+379. Håstad, Johan, 42 Helvig, CS, 153
+Citations:
+Authors: XS Hu, A Amir, S Bespamyatnikh, G Bilardi, Z Brakerski, DZ Chen, ...
+Publication: Journal of Algorithms 49, 305
+
+380. Bala Kalyanasundaram and Kirk R. Pruhs. Maximizing job completions online
+Citations:
+Authors: CS Helvig, G Robins, A Zelikovsky, U Meyer, P Sanders, M Krivelevich, ...
+Publication: Journal of Algorithms 48, 452
+
+381. Creating a web page recommendation system for Haystack
+Citations:
+Authors: JC Derryberry
+Publication: Massachusetts Institute of Technology
+
+382. Assisted Browsing for Semistructured Data.
+Citations:
+Authors: V Sinha, DR Karger, D Huynh
+Publication: WWW (Posters)
+
+383. Project O
+Citations:
+Authors: DR Karger
+Publication: 
+
+384. Algorithms for connectivity problems in undirected graphs: maximum flow and minimun [kappa]-way cut.
+Citations:
+Authors: MS Levine
+Publication: Massachusetts Institute of Technology
+
+385. 8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002
+Citations:
+Authors: JW Belcher, P Dourmashkin
+Publication: 
+
+386. Metadata-supported Agent Infrastructure
+Citations:
+Authors: D Quan, DF Huynh, V Sinha, D Karger
+Publication: 
+
+387. Versioning for the Haystack system
+Citations:
+Authors: DJ D'Aleo
+Publication: Massachusetts Institute of Technology
+
+388. Pump-probe measurements in asymmetric stepped quantum wells using FELIX
+Citations:
+Authors: HA Tan, ZJ Xin, HN Rutt, JPR Wells, IV Bradley
+Publication: 
+
+389. Hepatitis B (HBV) reactivation after chemoembolization
+Citations:
+Authors: WR George III, CD Brooks, L David, HC Kent
+Publication: The American Journal of Gastroenterology 95 (9), 2615
+
+390. 6.856—Randomized Algorithms
+Citations:
+Authors: D Karger
+Publication: 
+
+391. General Conference and Technical Committee Chair
+Citations:
+Authors: A Aggarwal, R Motwani, M Ajtai, M Bellare, A Borodin, E Cohen, ...
+Publication: 
+
+392. A Fully Polynomial Randomized Approximation Scheme for the All Terminal Network Reliability Problem
+Citations:
+Authors: DR Karger
+Publication: arXiv preprint cs/9809012
+
+393. Polynomial Time Approximation Schemes for Dense Instances of NP-Hard Problems (Extended Version)
+Citations:
+Authors: S Arora, D Karger, M Karpinski
+Publication: University of Bonn
+
+394. Improving search in peer-to-peer networks.
+Citations:
+Authors: A Modarresi, A Mamat, H Ibrahim, N Mustapha, B Ahlborn, W Nejdl, ...
+Publication: Journal of Applied Sciences 8 (21), pp: 462-468
+
+395. Collective dynamics of small-world networks.
+Citations:
+Authors: A Modarresi, A Mamat, H Ibrahim, N Mustapha, JS Ahn, PB Danzig, ...
+Publication: Journal of Applied Sciences 9 (19), 743-757
+
+396. Augmenting Undirected Edge Connectivity in
+Citations:
+Authors: AA Benczur, DR Karger
+Publication: 
+
+397. The generalized document summarizer
+Citations:
+Authors: JI Fu
+Publication: Massachusetts Institute of Technology
+
+398. ABITEOUL, SERGE, 30
+Citations:
+Authors: PK AGARWAL, B BHATTACHARYA, B BOLLOBÁS, WR BURLEY, ...
+Publication: Journal of Algorithms 20, 633
+
+399. Implementing an approximation scheme for all terminal network reliability
+Citations:
+Authors: RP Tai
+Publication: Massachusetts Institute of Technology
+
+400. Murray Hill, NJ 07974
+Citations:
+Authors: DR Karger, D Roller
+Publication: IEEE 35th Annual Symposium on Foundations of Computer Science, 1994 …
+
+401. AT&T Bell Laboratories Murray Hill, NJ 07974 karger@ lcs. mit. edu
+Citations:
+Authors: DR Karger
+Publication: 35th Annual Symposium on Foundations of Computer Science: Proceedings, 252
+
+402. A randomizes fully polynomial time approximation sneme for the terminal network reliability problem
+Citations:
+Authors: DR KARGER
+Publication: Proc. 27th Annual ACM Symp. on Theory of Computing 1, 45-64
+
+403. Soya Park soya@ mit. edu MIT CSAIL
+Citations:
+Authors: LS Murray, DR Karger
+Publication: 
+
+404. OverCite
+Citations:
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, D Karger, R Morris, S Shenker
+Publication: 
+
+405. AN AC ALGORITHM FOR MINIMUM CUTS
+Citations:
+Authors: DR KARGER, R MOTWANI
+Publication: 
+
+406. Problem Set 10 Solutions
+Citations:
+Authors: D Karger
+Publication: 
+
+407. management (PIM)
+Citations:
+Authors: M Van Kleek, P André, B Moore, D Karger
+Publication: 
+
+408. Standards opportunities around data-bearing Web
+Citations:
+Authors: D Karger
+Publication: 
+
+409. ResponseNet
+Citations:
+Authors: E Yeger-Lotem, L Riva, LJ Su, AD Gitler, AG Cashikar, OD King, ...
+Publication: 
+
+410. A Scalable Location Service for Geographic Ad Hoc Routing (2000)
+Citations:
+Authors: J Li, J Jannotti, DSJ De Couto, DR Karger, R Morris
+Publication: 
+
+411. Problem Set 8 Solutions
+Citations:
+Authors: D Karger
+Publication: 
+
+412. MIT2000-10 Software Technologies for Wireless Communication and Multimedia Networks
+Citations:
+Authors: SJ Garland, JV Guttag, D Karger
+Publication: 
+
+413. 11th Annual USENIX Security Symposium &# 151; Technical Paper
+Citations:
+Authors: N Feamster, M Balazinska, G Harfst, H Balakrishnan, D Karger
+Publication: 
+
+414. Haystack: Per-User Information Environments MIT 9904-08 Proposal for 1999-2000 Funding
+Citations:
+Authors: D Karger, LA Stein
+Publication: 
+
+415. Physical Review Physics Education Research
+Citations:
+Authors: E Marshman, C Singh
+Publication: 
+
+416. Constant Interaction-Time Scatter/Gather Browsing
+Citations:
+Authors: DR Cutting, DR Karger, JO Pedersen
+Publication: 
+
+417. Google Faculty Research Awards 2016
+Citations:
+Authors: A Javanmard, H Nazerzadeh, A Mądry, A Bhaskara, G Valiant, J Gondzio, ...
+Publication: 
+
+418. Research Abstracts-2006
+Citations:
+Authors: MF Kaashoek, D Karger, R Morris, E Sit, J Stribling
+Publication: 
+
+419. Physical Review Physics Education Research
+Citations:
+Authors: BD Geller, C Turpen, CH Crouch
+Publication: 
+
+420. هكبش تينها هتفرشيپ
+Citations:
+Authors: DLN Morris, DR Karger, MF Kaashoek, F Dabek, H Balakrishnan
+Publication: 
+
+421. InformationScraps: HowandWhyInformationEludesour PersonalInformationManagement Tools
+Citations:
+Authors: M Bernstein, M Van Kleek, DR Karger
+Publication: 
+
+422. Linear Network Codes: А Unified Framework for Source, Channel, and Network Coding
+Citations:
+Authors: MEMM edard Tracey, HS Ray, D Karger, R Koetter, B Hassibi
+Publication: 
+
+423. StudyCaster: A Tool for Automatic and Anonymized Recording of Online User Studies
+Citations:
+Authors: E Bakke, DR Karger, RC Miller
+Publication: 
+
+424. Rajeev Motwani
+Citations:
+Authors: A Borodin, E Cohen, S Goldman, D Karger
+Publication: 
+
+425. Examining Personal Information Management in a Lightweight Note-Taking Tool
+Citations:
+Authors: M Van Kleek, M Bernstein, K Panovich, G Vargas, D Karger
+Publication: 
+
+426. MIT Open Access Articles Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Lermusiaux, T Lolla, VS Kamboj, P Braeuninger-Weimer, DS Jessop, ...
+Publication: 
+
+427. The Ant and the Grasshoper: Procrastination in Stochastic Optimization
+Citations:
+Authors: N Immorlica, D Karger, M Minkoff, VS Mirrokni
+Publication: 
+
+428. The Daily You: Customized, Aggregated News for You
+Citations:
+Authors: L Shih, D Karger
+Publication: 
+
+429. On the costs and benefits of procrastination: Approximation...
+Citations:
+Authors: N Immorlica, D Karger, M Minkoff
+Publication: 
+
+430. The Perfect Search Engine is Not Enough: A Study of Orienteering Behavior in Directed Search
+Citations:
+Authors: MS Ackerman, C Alvarado, D Karger, J Teevan
+Publication: 
+
+431. The IRIS Project: Scalable, Robust, Peer-to-Peer Storage
+Citations:
+Authors: J Cates, B Chen, F Dabek, T Gil, MF Kaashoek, D Karger, J Li, ...
+Publication: 
+
+432. Automatic Unsupervised Record Extraction for the World Wide Web Submitted by: Yuan Kui Shen 550 Memorial Drive Apt 4E4 Cambridge, MA 02139
+Citations:
+Authors: S Agreement, DR Karger
+Publication: 
+
+433. C. Ahn, AC Doherty, P. Hayden, and AJ Winter
+Citations:
+Authors: Z Liu, S Cheng, AD Liveris, Z Xiong, MB Baer, F Liese, I Vajda, T Ho, ...
+Publication: 
+
+434. Algorithms for Decoding Error-Correcting Codes
+Citations:
+Authors: J Feldman, D Karger
+Publication: 
+
+435. Text Retrieval in Peer to Peer Systems
+Citations:
+Authors: A Montresor, D Karger, M Jelasity
+Publication: 
+
+436. Approximation Algorithms for Orienteering and Discounted-Reward TSP
+Citations:
+Authors: ABS Chawla, DR Karger, T Lane, A Meyerson, M Minko
+Publication: 
+
+437. Applied Algorithms
+Citations:
+Authors: D Karger, J Feldman, N Immorlica, M Minkoff, VS Mirrokni, M Ruhl, ...
+Publication: 
+
+438. Finding nearest neighbors in expansion limited metrics
+Citations:
+Authors: DR Karger, M Ruhl
+Publication: 
+
+439. Haystack: A Personalize Information Management Platform
+Citations:
+Authors: D Huynh, D Karger, D Quan, V Sinha
+Publication: 
+
+440. Navigation Through Semi-structured Information
+Citations:
+Authors: V Sinha, D Karger
+Publication: 
+
+441. Research Abstracts-2007
+Citations:
+Authors: DF Huynh, RC Miller, DR Karger
+Publication: 
+
+442. Research Abstracts-2007
+Citations:
+Authors: YK Shen, DR Karger
+Publication: 
+
+443. Surviving the Information Explosion: How People Find Their Electronic Information
+Citations:
+Authors: MS Ackerman, C Alvarado, D Karger, J Teevan
+Publication: 
+
+444. Network design under uncertainty
+Citations:
+Authors: D Karger, M Minkoff
+Publication: 
+
+445. Automatic Unsupervised Record Extraction for the VVorld VVide Wleb Submitted by: Yuan Kui Shen 550 Meniorial Drive Apt 4E4 Cambridge, MA 02139
+Citations:
+Authors: S Agreement, DR Karger
+Publication: 
+
+446. Searching in Peer-to-Peer Networks
+Citations:
+Authors: DR Karger, M Ruhl
+Publication: 
+
+447. Finding Maximum Flows in Undirected Graphs
+Citations:
+Authors: D Karger, M Levine
+Publication: 
+
+448. Maximum Likelihood Markov Hypertrees
+Citations:
+Authors: N Srebro, D Karger, T Jaakkola
+Publication: 
+
+449. Profit-making under uncertainty
+Citations:
+Authors: A Blum, S Chawla, D Karger, T Lane, A Meyerson, M Minkoff
+Publication: 
+
+450. Finding an Exponential Model for Text Retrieval through Textual Analysis
+Citations:
+Authors: J Teevan, D Karger
+Publication: 
+
+451. What Would It Mean to Blog on the Semantic Web?
+Citations:
+Authors: D Quan, DR Karger
+Publication: 
+
+452. Decoding Turbo Codes and LDPC Codes via Linear Programming
+Citations:
+Authors: J Feldman, D Karger, M Wainwright
+Publication: 
+
+453. Designing routing networks under a probabilistic client distribution
+Citations:
+Authors: D Karger, M Minkoff
+Publication: 
+
+454. O. Lévêque and IE Telatar Information-Theoretic Upper Bounds on the Capacity of Large Extended Ad Hoc Wireless Networks 858 R. Nuriyev and A. Anastasopoulos Capacity and Coding …
+Citations:
+Authors: A Somekh-Baruch, N Merhav, IC Lee, CS Chang, CM Lien, S Litsyn, ...
+Publication: 
+
+455. Resource Identification on the Semantic Web
+Citations:
+Authors: N Matsakis, D Karger
+Publication: 
+
+456. In the Working Notes of the i995 AAAI Fall Symposium on AI Applications in Knowledge Navigation and Retrieval.
+Citations:
+Authors: MA Hearst, DR Karger, JO Pedersen
+Publication: 
+
+457. Information Scraps: Eluding our Personal Information Management Tools
+Citations:
+Authors: M Bernstein, M Van Kleek
+Publication: 
+
+458. Chord and the Iris Project: Scalable, Robust Peer-to-Peer Services
+Citations:
+Authors: H Balakrishnan, J Cates, B Chen, F Dabek, T Gil, F Kaashoek, D Karger, ...
+Publication: 
+
+459. U-REST: An Unsupervised Record Extraction System for the World Wide Web
+Citations:
+Authors: YK Shen, DR Karger
+Publication: 
+
+460. Notes that Float: Applying content and context features to facilitate flexible reminding in notes-to-self
+Citations:
+Authors: M Van Kleek, K Panovich, G Vargas, DR Karger
+Publication: 
+

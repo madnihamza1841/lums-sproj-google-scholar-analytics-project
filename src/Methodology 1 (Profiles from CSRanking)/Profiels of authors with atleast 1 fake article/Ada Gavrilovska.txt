@@ -1,0 +1,525 @@
+
+3. Energy efficient thermal management of data centers
+Citations:124
+Authors: Y Joshi, P Kumar
+Publication: Springer Science & Business Media
+
+11. Contemporary high performance computing: from Petascale toward exascale
+Citations:51
+Authors: JS Vetter
+Publication: Chapman and Hall/CRC
+
+54. Unity: unified memory and file space
+Citations:6
+Authors: T Jones, MJ Brim, G Vallee, B Mayer, A Welch, T Li, M Lang, L Ionkov, ...
+Publication: Proceedings of the 7th International Workshop on Runtime and Operating …
+
+57. Structured streams: Data services for petascale science environments
+Citations:6
+Authors: PM Widener, M Wolf, H Abbasi, M Barrick, J Lofstead, J Pullikottil, ...
+Publication: University of New Mexico, Albuquerque, NM, Tech. Rep. TR-CS-2007-17, 07-11
+
+68. Middleware-based services for virtual cooperative mobile platforms
+Citations:4
+Authors: B Seshasayee
+Publication: Georgia Institute of Technology
+
+70. FOR THE MESSAGE PASSING INTERFACE (MPI)
+Citations:4
+Authors: JM Squyres, ND Spring
+Publication: 
+
+76. On disk I/O scheduling in virtual machines
+Citations:3
+Authors: K Mukil, G Ada, S Karsten
+Publication: Proceedings of the 2nd Conference on I/O Virtualization
+
+78. A virtualized quality of service packet scheduler accelerator
+Citations:3
+Authors: KK Chuang
+Publication: Georgia Institute of Technology
+
+82. Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores.
+Citations:2
+Authors: H Yoon, J Yang, SF Kristjansson, SE Sigurdarson, Y Vigfusson, ...
+Publication: SoCC, 162-173
+
+84. Keeneland: Computational Science Using Heterogeneous GPU Computing
+Citations:2
+Authors: JS Vetter, R Glassbrook, K Schwan, S Yalamanchili, M Horton, ...
+Publication: Contemporary High Performance Computing, 123-152
+
+85. SmartBlock: An approach to standardizing in situ workflow components
+Citations:2
+Authors: A Champsaur, J Lofstead, J Dayal, M Wolf, G Eisenhauer, P Widener, ...
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+88. Virtualized resource management in high performance fabric clusters
+Citations:2
+Authors: AU Ranadive
+Publication: Georgia Institute of Technology
+
+98. New abstractions and mechanisms for virtualizing future many-core systems
+Citations:2
+Authors: S Kumar
+Publication: Georgia Institute of Technology
+
+99. Virtualization services: scalable methods for virtualizing multicore systems
+Citations:2
+Authors: H Raj
+Publication: Georgia Institute of Technology
+
+100. Vishakha Gupta Ripal Nathuji Radhika Niranjan Adit Ranadive Purav Saraiya. High-Performance Hypervisor Architectures: Virtualization in HPC Systems
+Citations:2
+Authors: AGSKH Raj, K Schwan
+Publication: HPCVirt’07
+
+102. Compiler optimizations for multithreaded multicore network processors
+Citations:2
+Authors: X Zhuang
+Publication: Georgia Institute of Technology
+
+104. Opportunistic overlays: efficient content delivery in mobile environments
+Citations:2
+Authors: Y Chen
+Publication: Georgia Institute of Technology
+
+112. Data-movement approaches for HPC storage systems
+Citations:2
+Authors: RA Oldfield, T Kordenbrock, P Widener
+Publication: Attaining High Performance Communication: A Vertical Approach, 329-351
+
+116. Frame, rods and beads of the edge computing abacus
+Citations:1
+Authors: K Bhardwaj
+Publication: Georgia Institute of Technology
+
+118. OS support for heterogeneous memory
+Citations:1
+Authors: S Kannan
+Publication: Georgia Institute of Technology
+
+121. Enabling scalable self-management for enterprise-scale systems
+Citations:1
+Authors: V Kumar
+Publication: Georgia Institute of Technology
+
+123. Behavior isolation in enterprise systems
+Citations:1
+Authors: MS Mansour
+Publication: Georgia Institute of Technology
+
+125. An Integrated OS-plus VMM-bypass Solution for Virtualized I/O
+Citations:1
+Authors: MD Kurjanowicz
+Publication: Georgia Institute of Technology
+
+126. Network Computing and Applications
+Citations:1
+Authors: M Afergan
+Publication: Fifth IEEE International Symposium on
+
+128. Dynamic differential data protection for high-performance and pervasive applications
+Citations:1
+Authors: PM Widener
+Publication: Georgia Institute of Technology
+
+138. December 2017 ECP ST Project Review ECP Project WBS 2.3. 1.16 Simplified Interface to Complex Memory
+Citations:
+Authors: MK Lang
+Publication: Los Alamos National Lab.(LANL), Los Alamos, NM (United States)
+
+140. Efficient programming of massive-memory machines
+Citations:
+Authors: AM Merritt
+Publication: Georgia Institute of Technology
+
+142. Introduction to HPBDC Workshop
+Citations:
+Authors: X Lu, J Zhan, DK Panda
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+143. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: S Liang, S Yin, L Liu, Y Guo, S Wei, BCC Lai, LG Platero, HK Kuo, ...
+Publication: 
+
+150. Commodity High Performance Interconnects
+Citations:
+Authors: MJ Koop, S Sur, P Balaji, DK Panda
+Publication: Attaining High Performance Communications, 49-84
+
+160. Scalable and robust compute capacity multiplexing in virtualized datacenters
+Citations:
+Authors: M Kesavan
+Publication: Georgia Institute of Technology
+
+161. The workshop on diversity in systems research 2013
+Citations:
+Authors: C Stewart, V Gupta
+Publication: ACM SIGOPS Operating Systems Review 48 (1), 103-106
+
+162. Virtual platforms: achieving performance and isolation properties on shared multicore servers
+Citations:
+Authors: P Tembey
+Publication: Georgia Institute of Technology
+
+163. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+164. The Edge of the Cloud
+Citations:
+Authors: EAAL Solutions
+Publication: 
+
+167. CASS introduction
+Citations:
+Authors: J Flich, S Pakin, C Stunkel
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+169. ISTC-CC Update
+Citations:
+Authors: S Au, B Data
+Publication: 
+
+171. ICS
+Citations:
+Authors: T Aamodt, NM Amato, DC Arnold, S Bartolini, T Boku, D Brooks, A Buttari, ...
+Publication: 
+
+172. Priyanka Tembey
+Citations:
+Authors: P Tembey
+Publication: Cellule
+
+174. Architecture of Computing Systems-ARCS 2010: 23rd International Conference, Hannover, Germany, February 22-25, 2010, Proceedings
+Citations:
+Authors: C Müller-Schloer, W Karl, S Yehia
+Publication: Springer
+
+176. Architecture of Computing Systems-ARCS 2010
+Citations:
+Authors: C Müller-Schloer, WKS Yehia
+Publication: Lecture Notes in Computer Science 5974
+
+178. Remote Direct Memory Access and iWARP
+Citations:
+Authors: D Dalessandro
+Publication: Attaining High Performance Communications: A Vertical Approach, 185-207
+
+179. High Performance Event Communication
+Citations:
+Authors: G Eisenhauer, M Wolf, H Abbasi, K Schwan
+Publication: Attaining High Performance Communications: A Vertical Approach, 281-303
+
+180. High Performance Communication Services on Commodity Multi-Core Platforms
+Citations:
+Authors: V Agarwal, L Duan, LK Liu, M Perrone, F Petrini, D Pasetto, D Bader
+Publication: Attaining High Performance Communications: A Vertical Approach, 305-328
+
+182. Second workshop on system-level Virtualization for High Performance Computing (HPCVirt 2008)
+Citations:
+Authors: SL Scott, G Vallée, VN Alexandrov, M Baker, JY Berthou, G Bosilca, ...
+Publication: 2nd Workshop on System-level Virtualization for High Performance Computing …
+
+184. 2008 Proceedings of 17 th International Conference on Computer Communications and Networks
+Citations:
+Authors: US St Thomas
+Publication: 
+
+186. Risk-based proactive availability management-attaining high performance and resilience with dynamic self-management in Enterprise Distributed Systems
+Citations:
+Authors: Z Cai
+Publication: Georgia Institute of Technology
+
+188. OPERATING SYSTEM SUPPORT FOR HETEROGENEOUS MULTICORE ARCHITECTURES (OSHMA)
+Citations:
+Authors: CBYDRP DICKMAN
+Publication: 
+
+189. Towards IQ-Appliances: Quality-awareness in Information Virtualization
+Citations:
+Authors: R Niranjan Mysore
+Publication: Georgia Institute of Technology
+
+191. Advances for networks & internet
+Citations:
+Authors: J Lockwood, G Kesidis, C Huang
+Publication: GLOBECOM'05. IEEE Global Telecommunications Conference, 2005. 4, vii-vii
+
+192. Platform Overlays: Enabling In-Network Stream
+Citations:
+Authors: AGS Kumar, SSK Schwan
+Publication: Proceedings of the... International Workshop on Network and Operating …
+
+193. Network Simulation 1
+Citations:
+Authors: G Riley
+Publication: Workshop on Parallel and Distributed Simulation: Proceedings of the …
+
+194. CS 3300: Introduction to Software Engineering Fall 2005, MWF 12: 05-12: 55PM, CCB 101
+Citations:
+Authors: D Popescu
+Publication: work 10, 31
+
+195. Accelerating Intelligent Analytics of Streaming Data with a Distributed Edge
+Citations:
+Authors: KJ Hsu
+Publication: 
+
+196. HiPC 2016
+Citations:
+Authors: S Aluru
+Publication: 
+
+197. SEC 2016
+Citations:
+Authors: P Liu, D Willis, S Banerjee
+Publication: 
+
+198. Architecture & Accelerators
+Citations:
+Authors: HM Aktulga, B Barth, C Bekas, S Bhowmick, S Chandrasekaran, Y Chen, ...
+Publication: 
+
+199. Technical Program Chairs
+Citations:
+Authors: P Balaji, L Xu, W Feng, A Liu, H Wu, D Qiao, L Wang, Y Zhang, D Goodell, ...
+Publication: 
+
+200. Technical Program Co-chairs
+Citations:
+Authors: H Bubba
+Publication: 
+
+201. Program committee list
+Citations:
+Authors: A Agrawal, G Agrawal, GJ Ahn, CAI Rennes, N Ali, I Altintas, A Apon, ...
+Publication: 
+
+202. USENIX Member Benefits
+Citations:
+Authors: B Noble, J Arrasjid, C Rowland, K Opsahl, C Allman, DN Blank-Edelman, ...
+Publication: 
+
+203. Phoenix: Memory Speed HPC I/O with NVM
+Citations:
+Authors: PFSKA Gavrilovska, K Schwan
+Publication: 
+
+204. Cartel: Collaborative Edge Learning
+Citations:
+Authors: HDA Gavrilovska, PND Lugones
+Publication: 
+
+208. Technical Program Chairs
+Citations:
+Authors: R Grant, C Perkins
+Publication: 
+
+209. Slices: Provisioning Heterogeneous High-Performance Systems
+Citations:
+Authors: A Merritt
+Publication: 
+
+210. Center for Experimental Research in Computer Systems Technologies for Large-scale Clouds
+Citations:
+Authors: K Schwan
+Publication: 
+
+211. 2015 Index IEEE Computer Architecture Letters Vol. 14
+Citations:
+Authors: TM Aamodt, JH Ahn, MSB Altaf, L Azriel, E Bolotin, A Boroumand, ...
+Publication: Power 140, 143
+
+213. Program Vice-Chairs Architecture
+Citations:
+Authors: DK Panda, W Feng
+Publication: 
+
+214. Message from the HOTI 2015 General Chair
+Citations:
+Authors: H Interconnects
+Publication: 
+
+216. Technical Program Chairs
+Citations:
+Authors: A Baum, L Jow, D Pitt, M Laubach, J Lockwood, K Bergman, R Channa, ...
+Publication: 
+
+217. SC12 Technical Papers Committee
+Citations:
+Authors: P Raghavan, J Vetter, E Chow, M Adams, P Arbenz, C Bekas, J Berry, ...
+Publication: 
+
+218. ICPP 2011 Program Committee
+Citations:
+Authors: SH Hung, FCM Lau, T Mitra, CS Jhon, A Prete, T Ungerer, B Shiarazi, ...
+Publication: 
+
+219. MobileCloud 2014
+Citations:
+Authors: S Bohez, T Verbelen, P Simoens, B Dhoedt
+Publication: 
+
+220. Bill Huang, China Mobile Research Institute, China
+Citations:
+Authors: DS Milojicic
+Publication: HP Labs, USA
+
+221. 2012 Seventh Open Cirrus Summit OCSummit 2012
+Citations:
+Authors: N Cook, D Milojicic, R Kaufmann, J Sevinsky, J Dai, T Xie, S Huang, ...
+Publication: 
+
+222. OCS 2011
+Citations:
+Authors: A Gandhi, M Harchol-Balter, R Raghunathan, MA Kozuch
+Publication: 
+
+223. 2012 International Green Computing Conference (IGCC)
+Citations:
+Authors: A Roth
+Publication: 
+
+224. ICPP 2010
+Citations:
+Authors: T Aamodt, M Azimi, A Bilas, K Chakraborty, M Chaudhuri, N Dimopoulos, ...
+Publication: 
+
+225. Algorithm Design and Parallelism
+Citations:
+Authors: U Catalyurek, E Chow, P Fatourou, A Kalyanaraman, S Ranka, A Sarje, ...
+Publication: 
+
+226. It is our great pleasure to welcome you to the International Workshop on High Performance Interconnects for Distributed Computing (HPI-DC). This full day workshop will take …
+Citations:
+Authors: P Balaji
+Publication: 
+
+227. Message from the TPC Co-Chairs
+Citations:
+Authors: T Hoefler, P Geoffray
+Publication: 
+
+228. CCGrid 2011 Program Committee Members
+Citations:
+Authors: S Abdelwahed, A Afsahi, G Agrawal, K Aida, J Altmann, G Arnold, ...
+Publication: 
+
+229. Dennis Abts, Google Pavan Balaji, Argonne National Laboratory Keren Bergman, Columbia University Andrea Bianco, Politecnico di Torino Head Bubba, Credit Suisse
+Citations:
+Authors: P Castoldi, S Dharmapurikar, H Eberle, W Feng
+Publication: 
+
+230. CISE/RI: Advanced Media-Oriented Systems Research: Ubiquitous Capture, Interpretation, and Access
+Citations:
+Authors: M Ahamad, C Atkeson, A Chervenak, K Schwan
+Publication: 
+
+231. Program Committee Chair
+Citations:
+Authors: A Chien, P Papadopoulos, B Lowekamp, T Kielmann, P Bladh, M Spada, ...
+Publication: 
+
+232. General Co-Chairs
+Citations:
+Authors: M Glick, T Hoefler, F Petrini
+Publication: 
+
+233. 2012 7th Open Cirrus Summit (OCS)
+Citations:
+Authors: P Chao, W Bin, D Chao
+Publication: 
+
+234. Alexander M. Merritt
+Citations:
+Authors: P Dinda, C Bee, P Bridges, P Soltero
+Publication: 
+
+235. IPDPS 2012 Organization
+Citations:
+Authors: G CO-CHAIRS
+Publication: 
+
+236. P2S2 2010
+Citations:
+Authors: P Balaji, A Vishnu, DK Panda, W Gropp, V Saraswat
+Publication: 
+
+237. Thesis Research
+Citations:
+Authors: S Agarwala
+Publication: 
+
+238. University of Poona, India
+Citations:
+Authors: P Tembey
+Publication: 
+
+239. IPDPS 2013
+Citations:
+Authors: S Borkar, I Jangjaimon, NF Tzeng
+Publication: 
+
+240. Fabrizio Petrini, IBM TJ Watson General Chair
+Citations:
+Authors: A Baum, H Bubba, K Bergman, R Channa, L Jow, M Laubach, ...
+Publication: 
+
+241. HOTI 2014 Technical Program Committee
+Citations:
+Authors: P Balaji, K Bergman, R Brightwell, L Carloni, D Cohen, H Eberle, ...
+Publication: 
+
+242. Dennis Abts, Google Pavan Balaji, Argonne National Laboratory Christian Bell, Myricom Keren Bergman, Columbia University
+Citations:
+Authors: A Bianco, R Brightwell, H Bubba, L Carloni, P Castoldi, R Channa, ...
+Publication: 
+
+243. A Novel Anti-Collision Protocol for Energy Efficient Identification and
+Citations:
+Authors: DK Klair, KW Chin, Y Luo, C Zhang, P Tembey, A Bhatt, D Rao, ...
+Publication: 
+
+247. NCA 2009
+Citations:
+Authors: J Arlat, M Atighetchi, A Bode, M Carvalho, A Chronopoulos, B Ciciani, ...
+Publication: 
+
+248. Distinguished Chair
+Citations:
+Authors: N Lynch, DR Avresky, M Vouk, K Hwang, E Maehle, SJ Geoghegan, ...
+Publication: 
+
+250. Program Committees
+Citations:
+Authors: B Atkin, J Arlat, M Atighetchi, J Bruck, D Bernholdt, L Bhuyan, K Birman, ...
+Publication: 
+
+253. HOTI 2012
+Citations:
+Authors: D Abts, S Bailey, P Balaji, C Bell, K Bergman, G Bloch, D Cohen, H Eberle, ...
+Publication: 
+
+254. CLUSTER 2010
+Citations:
+Authors: F Dehne, D Abramson, CH Bischof, EN Caceres, A Cuzzocrea, ...
+Publication: 
+
+255. Technical Program Committees
+Citations:
+Authors: B Fossum, J Hollingsworth, W Gropp, D Reed, W Feng, A Benner, ...
+Publication: 
+
+258. M. Atighetchi, BBN, USA
+Citations:
+Authors: B Atkin, J Becker, D Bernholdt, A Bode, A Chronopoulos, B Ciciani, ...
+Publication: 
+
+259. Organizing and Program Committee
+Citations:
+Authors: F Silla, H Fröning, J Duato, S Yalamanchili, U Brüning, D Black-Schaffer, ...
+Publication: 

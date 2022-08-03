@@ -1,0 +1,588 @@
+https://scholar.google.com/citations?hl=en&user=LnB5_AcAAAAJ
+Total Citations = 5573
+
+1. Dark silicon and the end of multicore scaling
+Citations:1704
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: 2011 38th Annual international symposium on computer architecture (ISCA …
+
+2. A reconfigurable fabric for accelerating large-scale datacenter services
+Citations:796
+Authors: A Putnam, AM Caulfield, ES Chung, D Chiou, K Constantinides, J Demme, ...
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 13-24
+
+3. Neural acceleration for general-purpose approximate programs
+Citations:523
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: Proceedings of the 2012 45th Annual IEEE/ACM International Symposium on …
+
+4. Architecture support for disciplined approximate programming
+Citations:409
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: ACM SIGPLAN Notices 47 (4), 301-312
+
+5. Dark silicon and the end of multicore scaling
+Citations:213
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: IEEE Micro 32 (3), 122-134
+
+6. From high-level deep neural models to FPGAs
+Citations:171
+Authors: H Sharma, J Park, D Mahajan, E Amaro, JK Kim, C Shao, A Mishra, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 17
+
+7. Power challenges may end the multicore era
+Citations:162
+Authors: H Esmaeilzadeh, E Blem, RS Amant, K Sankaralingam, D Burger
+Publication: Communications of the ACM 56 (2), 93-102
+
+8. General-purpose code acceleration with limited-precision analog computation
+Citations:152
+Authors: R St Amant, A Yazdanbakhsh, J Park, B Thwaites, H Esmaeilzadeh, ...
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 505-516
+
+9. SNNAP: Approximate computing on programmable socs via neural acceleration
+Citations:104
+Authors: T Moreau, M Wyse, J Nelson, A Sampson, H Esmaeilzadeh, L Ceze, ...
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+10. Looking back on the language and hardware revolutions: measured power, performance, and scaling
+Citations:92
+Authors: H Esmaeilzadeh, T Cao, Y Xi, SM Blackburn, KS McKinley
+Publication: ACM SIGPLAN Notices 47 (4), 319-332
+
+11. Axbench: A multiplatform benchmark suite for approximate computing
+Citations:80
+Authors: A Yazdanbakhsh, D Mahajan, H Esmaeilzadeh, P Lotfi-Kamran
+Publication: IEEE Design & Test 34 (2), 60-68
+
+12. Tabla: A unified template-based framework for accelerating statistical machine learning
+Citations:80
+Authors: D Mahajan, J Park, E Amaro, H Sharma, A Yazdanbakhsh, JK Kim, ...
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+13. Neural acceleration for GPU throughput processors
+Citations:60
+Authors: A Yazdanbakhsh, J Park, H Sharma, P Lotfi-Kamran, H Esmaeilzadeh
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 482-493
+
+14. Power limitations and dark silicon challenge the future of multicore
+Citations:53
+Authors: H Esmaeilzadeh, E Blem, R St Amant, K Sankaralingam, D Burger
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (3), 11
+
+15. Axilog: Language support for approximate hardware design
+Citations:52
+Authors: A Yazdanbakhsh, D Mahajan, B Thwaites, J Park, A Nagendrakumar, ...
+Publication: Proceedings of the 2015 Design, Automation & Test in Europe Conference …
+
+16. A reconfigurable fabric for accelerating large-scale datacenter services
+Citations:51
+Authors: A Putnam, AM Caulfield, ES Chung, D Chiou, K Constantinides, J Demme, ...
+Publication: IEEE Micro 35 (3), 10-22
+
+17. Bit fusion: Bit-level dynamically composable architecture for accelerating deep neural networks
+Citations:47
+Authors: H Sharma, J Park, N Suda, L Lai, B Chau, V Chandra, H Esmaeilzadeh
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+18. RFVP: Rollback-free value prediction with safe-to-approximate loads
+Citations:45
+Authors: A Yazdanbakhsh, G Pekhimenko, B Thwaites, H Esmaeilzadeh, O Mutlu, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (4), 62
+
+19. Flexjava: Language support for safe and modular approximate programming
+Citations:43
+Authors: J Park, H Esmaeilzadeh, X Zhang, M Naik, W Harris
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+20. Rollback-free value prediction with approximate loads
+Citations:42
+Authors: B Thwaites, G Pekhimenko, H Esmaeilzadeh, A Yazdanbakhsh, J Park, ...
+Publication: 2014 23rd International Conference on Parallel Architecture and Compilation …
+
+21. Looking back and looking forward: power, performance, and upheaval
+Citations:39
+Authors: H Esmaeilzadeh, T Cao, X Yang, SM Blackburn, KS McKinley
+Publication: Communications of the ACM 55 (7), 105-114
+
+22. Memetic algorithm based path planning for a mobile robot
+Citations:36
+Authors: N Shahidi, H Esmaeilzadeh, M Abdollahi, C Lucas
+Publication: International Conference on Computational Intelligence
+
+23. Neural network stream processing core (NnSP) for embedded systems
+Citations:35
+Authors: H Esmaeilzadeh, P Saeedi, BN Araabi, C Lucas, SM Fakhraie
+Publication: 2006 IEEE International Symposium on Circuits and Systems, 4 pp.-2776
+
+24. Method, system and computer-accessible medium for providing a distributed predicate prediction
+Citations:33
+Authors: D Burger, SW Keckler, H Esmaeilzadeh
+Publication: US Patent 8,433,885
+
+25. Towards statistical guarantees in controlling quality tradeoffs for approximate acceleration
+Citations:32
+Authors: D Mahajan, A Yazdanbakhsh, J Park, B Thwaites, H Esmaeilzadeh
+Publication: ACM SIGARCH Computer Architecture News 44 (3), 66-77
+
+26. Snapea: Predictive early activation for reducing computation in deep convolutional neural networks
+Citations:29
+Authors: V Akhlaghi, A Yazdanbakhsh, K Samadi, RK Gupta, H Esmaeilzadeh
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+27. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:27
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+28. Dnnweaver: From high-level deep network models to fpga acceleration
+Citations:25
+Authors: H Sharma, J Park, E Amaro, B Thwaites, P Kotha, A Gupta, JK Kim, ...
+Publication: the Workshop on Cognitive Architectures
+
+29. Neural acceleration for general-purpose approximate programs
+Citations:24
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: Communications of the ACM 58 (1), 105-115
+
+30. Scale-out acceleration for machine learning
+Citations:21
+Authors: J Park, H Sharma, D Mahajan, JK Kim, P Olds, H Esmaeilzadeh
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+31. What is happening to power, performance, and software?
+Citations:21
+Authors: H Esmaeilzadeh, T Cao, X Yang, S Blackburn, K McKinley
+Publication: IEEE Micro 32 (3), 110-121
+
+32. A reconfigurable fabric for accelerating large-scale datacenter services
+Citations:19
+Authors: A Putnam, AM Caulfield, ES Chung, D Chiou, K Constantinides, J Demme, ...
+Publication: Communications of the ACM 59 (11), 114-122
+
+33. AxGames: Towards crowdsourcing quality target determination in approximate computing
+Citations:19
+Authors: J Park, E Amaro, D Mahajan, B Thwaites, H Esmaeilzadeh
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 623-636
+
+34. A parameterized graph-based framework for high-level test synthesis
+Citations:18
+Authors: S Safari, AH Jahangir, H Esmaeilzadeh
+Publication: INTEGRATION, the VLSI journal 39 (4), 363-381
+
+35. Ganax: A unified mimd-simd acceleration for generative adversarial networks
+Citations:17
+Authors: A Yazdanbakhsh, K Samadi, NS Kim, H Esmaeilzadeh
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+36. Mitigating the memory bottleneck with approximate load value prediction
+Citations:17
+Authors: A Yazdanbakhsh, B Thwaites, H Esmaeilzadeh, G Pekhimenko, O Mutlu, ...
+Publication: IEEE Design & Test 33 (1), 32-42
+
+37. In-RDBMS hardware acceleration of advanced analytics
+Citations:16
+Authors: D Mahajan, JK Kim, J Sacks, A Ardalan, A Kumar, H Esmaeilzadeh
+Publication: Proceedings of the VLDB Endowment 11 (11), 1317-1331
+
+38. Grater: An approximation workflow for exploiting data-level parallelism in FPGA acceleration
+Citations:15
+Authors: A Lotfi, A Rahimi, A Yazdanbakhsh, H Esmaeilzadeh, RK Gupta
+Publication: 2016 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+39. Addressing dark silicon challenges with disciplined approximate computing
+Citations:15
+Authors: H Esmaeilzadeh, A Sampson, M Ringenburg, L Ceze, D Grossman, ...
+Publication: Proc. 4th Workshop on Energy-Efficient Design, 1-2
+
+40. Prediction-based quality control for approximate accelerators
+Citations:14
+Authors: D Mahajan, A Yazdanbakhsh, J Park, B Thwaites, H Esmaeilzadeh
+Publication: Second Workshop on Approximate Computing Across the System Stack, WACAS
+
+41. Expax: A framework for automating approximate programming
+Citations:14
+Authors: J Park, X Zhang, K Ni, H Esmaeilzadeh, M Naik
+Publication: Georgia Institute of Technology
+
+42. Instruction-level test methodology for CPU core self-testing
+Citations:14
+Authors: S Shamshiri, H Esmaeilzadeh, Z Navabi
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 10 (4 …
+
+43. Flexigan: An end-to-end solution for fpga acceleration of generative adversarial networks
+Citations:13
+Authors: A Yazdanbakhsh, M Brzozowski, B Khaleghi, S Ghodrati, K Samadi, ...
+Publication: 2018 IEEE 26th Annual International Symposium on Field-Programmable Custom …
+
+44. How to implement effective prediction and forwarding for fusable dynamic multicore architectures
+Citations:13
+Authors: B Robatmili, D Li, H Esmaeilzadeh, S Govindan, A Smith, A Putnam, ...
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+45. Towards neural acceleration for general-purpose approximate computing
+Citations:13
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: WEED, Jun
+
+46. Self-adaptive memetic algorithm: an adaptive conjugate gradient approach
+Citations:11
+Authors: N Shahidi, H Esmaeilzadeh, M Abdollahi, E Ebrahimi, C Lucas
+Publication: IEEE Conference on Cybernetics and Intelligent Systems, 2004. 1, 6-11
+
+47. Axilog: Abstractions for approximate hardware design and reuse
+Citations:10
+Authors: D Mahajan, K Ramkrishnan, R Jariwala, A Yazdanbakhsh, J Park, ...
+Publication: IEEE Micro
+
+48. Power and performance of native and Java benchmarks on 130nm to 32nm process technologies
+Citations:10
+Authors: H Esmaeilzadeh, SM Blackburn, X Yang, KS McKinley
+Publication: 
+
+49. A novel improvement technique for high-level test synthesis
+Citations:10
+Authors: S Safari, H Esmaeilzadeh, AH Jahangir
+Publication: Proceedings of the 2003 International Symposium on Circuits and Systems …
+
+50. Expectation-oriented framework for automating approximate programming
+Citations:8
+Authors: J Park, K Ni, X Zhang, H Esmaeilzadeh, M Naik
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+51. Expectation-oriented framework for automating approximate programming
+Citations:8
+Authors: H Esmaeilzadeh, K Ni, M Naik
+Publication: Georgia Institute of Technology
+
+52. Multicore model from abstract single core inputs
+Citations:8
+Authors: E Blem, H Esmaeilzadeh, RS Amant, K Sankaralingam, D Burger
+Publication: IEEE Computer Architecture Letters 12 (2), 59-62
+
+53. A network-centric hardware/algorithm co-design to accelerate distributed training of deep neural networks
+Citations:7
+Authors: Y Li, J Park, M Alian, Y Yuan, Z Qu, P Pan, R Wang, A Schwing, ...
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+54. AxBench: A benchmark suite for approximate computing across the system stack
+Citations:6
+Authors: A Yazdanbakhsh, D Mahajan, P Lotfi-Kamran, H Esmaeilzadeh
+Publication: Georgia Institute of Technology
+
+55. Test instruction set (TIS) for high level self-testing of cpu cores
+Citations:6
+Authors: S Shamshiri, H Esmaeilzadeh, Z Navabi
+Publication: 13th Asian Test Symposium, 158-163
+
+56. Approximate acceleration: A path through the era of dark silicon and big data
+Citations:5
+Authors: H Esmaeilzadeh
+Publication: 2015 International Conference on Compilers, Architecture and Synthesis for …
+
+57. Toward general-purpose code acceleration with analog computation
+Citations:5
+Authors: A Yazdanbakhsh, RS Amant, B Thwaites, J Park, H Esmaeilzadeh, ...
+Publication: Workshop on approximate computing across the system stack (WACAS) in …
+
+58. Approximate acceleration for a post multicore era
+Citations:5
+Authors: H Esmaeilzadeh
+Publication: 
+
+59. ISC: Reconfigurable Scan-Cell Architecture for Low Power Testing
+Citations:5
+Authors: H Esmaeilzadeh, S Shamshiri, P Saeedi, Z Navabi
+Publication: 14th Asian Test Symposium (ATS'05), 236-241
+
+60. NnSP: embedded neural networks stream processor
+Citations:5
+Authors: H Esmaeilzadeh, F Farzan, N Shahidi, SM Fakhraie, C Lucas, ...
+Publication: 48th Midwest Symposium on Circuits and Systems, 2005., 223-226
+
+61. Instruction level test methodology for CPU core software-based self-testing
+Citations:5
+Authors: S Shamshiri, H Esmaeilzadeh, Z Navabi
+Publication: Proceedings. Ninth IEEE International High-Level Design Validation and Test …
+
+62. Simul: An algorithm-driven approximate multiplier design for machine learning
+Citations:4
+Authors: Z Liu, A Yazdanbakhsh, T Park, H Esmaeilzadeh, NS Kim
+Publication: IEEE Micro 38 (4), 50-59
+
+63. Hierarchical control prediction: Support for aggressive predication
+Citations:4
+Authors: H Esmaeilzadeh, D Burger
+Publication: PESPMA 2009, 71
+
+64. Cim++: a C++ library for object oriented hardware design
+Citations:4
+Authors: H Esmaeilzadeh, N Shahidi, E Ebrahimi, A Moghimi, C Lucas, Z Navabi
+Publication: International Journal of Science and Information Technology (IJSIT) Lecture …
+
+65. Test instruction set (TIS): An instruction level CPU core self-testing method
+Citations:4
+Authors: S Shamshiri, H Esmaeilzadeh, M Alisafaee, P Lotfikamran, Z Navabi
+Publication: Proceedings of 9th IEEE European Test Symposium (ETS’04), 15-16
+
+66. Releq: A reinforcement learning approach for deep quantization of neural networks
+Citations:3
+Authors: AT Elthakeb, P Pilligundla, A Yazdanbakhsh, S Kinzer, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1811.01704
+
+67. Robox: an end-to-end solution to accelerate autonomous control in robotics
+Citations:3
+Authors: J Sacks, D Mahajan, RC Lawson, H Esmaeilzadeh
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+68. Proving flow security of sequential logic via automatically-synthesized relational invariants
+Citations:3
+Authors: H Kwon, W Harris, H Esmaeilzadeh
+Publication: 2017 IEEE 30th Computer Security Foundations Symposium (CSF), 420-435
+
+69. Co-evolutionary scheduling and mapping for high-level synthesis
+Citations:3
+Authors: A Banaiyan, H Esmaeilzadeh, S Safari
+Publication: 2006 IEEE International Conference on Engineering of Intelligent Systems, 1-5
+
+70. ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks
+Citations:2
+Authors: A Yazdanbakhsh, AT Elthakeb, P Pilligundla, FS Mireshghallah, ...
+Publication: arXiv preprint arXiv:1811.01704
+
+71. Approximate computing on programmable socs via neural acceleration
+Citations:2
+Authors: T Moreau, J Nelson, A Sampson, H Esmaeilzadeh, L Ceze
+Publication: Technical report
+
+72. Methodical approximate hardware design and reuse
+Citations:2
+Authors: A Yazdanbakhsh, B Thwaites, J Park, H Esmaeilzadeh
+Publication: Georgia Institute of Technology
+
+73. Testability Improvement During High-Level Synthesis
+Citations:2
+Authors: S Safari, H Esmaeilzadeh, AH Jahangir
+Publication: null, 505
+
+74. In-DRAM near-data approximate acceleration for GPUs
+Citations:1
+Authors: A Yazdanbakhsh, C Song, J Sacks, P Lotfi-Kamran, H Esmaeilzadeh, ...
+Publication: ACM International Conference on Parallel Architectures and Compilation …
+
+75. Nax: Near-data approximate computing
+Citations:1
+Authors: A Yazdanbakhsh, J Sacks, C Song, P Lotfi-Kamran, H Esmaeilzadeh, ...
+Publication: 
+
+76. NNEP, Design Pattern for Neural-Network-Based Embedded Systems
+Citations:1
+Authors: H Esmaeilzadeh, MR Jamali, P Saeedi, A Moghimi, C Lucas, SM Fakhraie
+Publication: 2007 14th International Conference on Mixed Design of Integrated Circuits …
+
+77. DCim++: a C++ library for object oriented hardware design and distributed simulation
+Citations:1
+Authors: H Esmaeilzadeh, A Moghimi, E Ebrahimi, C Lucas, Z Navabi, ...
+Publication: 2006 IEEE International Symposium on Circuits and Systems, 4 pp.-1286
+
+78. Interleaved scan-cell architecture for low power test
+Citations:1
+Authors: H Esmaeilzadeh, S Shamshiri, P Saeedi, E Ebrahimi, Z Navabi
+Publication: IEEE 5th Workshop on Register Transfer level Test (WRTLT'04), 123-128
+
+79. Mixed-Signal Charge-Domain Acceleration of Deep Neural networks through Interleaved Bit-Partitioned Arithmetic
+Citations:
+Authors: S Ghodrati, H Sharma, S Kinzer, A Yazdanbakhsh, K Samadi, NS Kim, ...
+Publication: arXiv preprint arXiv:1906.11915
+
+80. AxMemo: hardware-compiler co-design for approximate code memoization
+Citations:
+Authors: Z Liu, A Yazdanbakhsh, DK Wang, H Esmaeilzadeh, NS Kim
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+81. Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks
+Citations:
+Authors: AT Elthakeb, P Pilligundla, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1906.06033
+
+82. Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation
+Citations:
+Authors: BH Ahn, P Pilligundla, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1905.12799
+
+83. Shredder: Learning Noise to Protect Privacy with Partial DNN Inference on the Edge
+Citations:
+Authors: F Mireshghallah, M Taram, P Ramrakhyani, D Tullsen, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1905.11814
+
+84. SinReQ: Generalized Sinusoidal Regularization for Automatic Low-Bitwidth Deep Quantized Training
+Citations:
+Authors: AT Elthakeb, P Pilligundla, H Esmaeilzadeh
+Publication: arXiv preprint arXiv:1905.01416
+
+85. ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks
+Citations:
+Authors: A Elthakeb, P Pilligundla, F Mireshghallah, A Yazdanbakhsh, S Gao, ...
+Publication: NeurIPS ML for Systems workshop, 2018
+
+86. Towards Breaking the Memory Bandwidth Wall Using Approximate Value Prediction
+Citations:
+Authors: A Yazdanbakhsh, G Pekhimenko, H Esmaeilzadeh, O Mutlu, TC Mowry
+Publication: Approximate Circuits, 417-441
+
+87. In-DRAM Near-Data Approximate Acceleration for GPUs
+Citations:
+Authors: AYC Song, JSP Lotfi-Kamran, H Esmaeilzadeh, NS Kimb
+Publication: 
+
+88. The impact of 3D stacking on GPU-accelerated deep neural networks: An experimental study
+Citations:
+Authors: W Wahby, T Sarvey, H Sharma, H Esmaeilzadeh, MS Bakir
+Publication: 2016 IEEE International 3D Systems Integration Conference (3DIC), 1-4
+
+89. Error correction for approximate computing
+Citations:
+Authors: H Zhang, A Abdi, F Fekri, H Esmaeilzadeh
+Publication: 2016 54th Annual Allerton Conference on Communication, Control, and …
+
+90. 加快大型数据中心服务的可重构结构
+Citations:
+Authors: A Putnam, AM Caulfield, ES Chung, D Chiou, K Constantinide, J Demme, ...
+Publication: 中国集成电路 1
+
+91. © Copyright 2013 Hadi Esmaeilzadeh
+Citations:
+Authors: H Esmaeilzadeh
+Publication: 
+
+92. Programming Heterogeneous Hardware Components with Software Components
+Citations:
+Authors: H Esmaeilzadeh, S Girbal, KS McKinley, O Temam, S Yehia
+Publication: 
+
+93. Bio-Inspired SoC Implementation of Neural Networks
+Citations:
+Authors: H Esmaeilzadeh
+Publication: University of Tehran
+
+94. Cim++: An Object-Oriented Design and Simulation Framework for Education of Hardware/Software Codesign
+Citations:
+Authors: H Esmaeilzadeh, Z Navabi
+Publication: Internafional Conference on Simulafion in Educafion (ICSiE)
+
+95. A Novel Register Allocation Method For Testability Improvement
+Citations:
+Authors: S Safari, H Esmaeilzadeh, AH Jahangir
+Publication: RTL and High Level Testing: Digest of Papers 4th
+
+96. SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training
+Citations:
+Authors: AT Elthakeb, P Pilligundla, H Esmaeilzadeh
+Publication: 
+
+97. ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks
+Citations:
+Authors: ATEPP Fatemehsadat, MA Yazdanbakhsh, S Gao, H Esmaeilzadeh
+Publication: 
+
+98. GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks
+Citations:
+Authors: AYH Falahati, PJWK Samadi, NS Kimb, H Esmaeilzadeh
+Publication: 
+
+99. From Tensors to FPGAs: Accelerating Deep Learning
+Citations:
+Authors: H Sharma, J Park, B Samynathan, B Robatmili, S Mirkhani, ...
+Publication: 
+
+100. DNNWEAVER v2. 0: From Tensors to FPGAs
+Citations:
+Authors: H Sharma, J Park, B Samynathan, B Robatmili, S Mirkhani, ...
+Publication: Memory 2 (1), 3
+
+101. ISCA 2018 Program Committee
+Citations:
+Authors: T Aamodt, D Albonesi, R Balasubramonian, Y Bao, B Beckmann, ...
+Publication: 
+
+102. HPCA 2018 Program Committee
+Citations:
+Authors: A Alameldeen, R Balasubramonian, B Beckmann, P Bose, N Chatterjee, ...
+Publication: 
+
+103. A SIMD-MIMD Acceleration with Access-Execute Decoupling for Generative Adversarial Networks
+Citations:
+Authors: A Yazdanbakhsh, K Samadi, H Esmaeilzadeh, NS Kim
+Publication: 
+
+104. IISWC 2017 organization
+Citations:
+Authors: E Chung, A Zhai, H Esmaeilzadeh, L Caulfield, J Yin, CJ Wu, A Putnam, ...
+Publication: 
+
+105. Towards Flexible Offloading in Mobile-Cloud Computing
+Citations:
+Authors: X Zhang, X Si, R Mangal, H Esmaeilzadeh, M Naik
+Publication: 
+
+106. Session 1A Hardware Accelerators
+Citations:
+Authors: MN Bojnordi, E Ipek, D Mahajan, J Park, E Amaro, H Sharma, ...
+Publication: 
+
+107. Rollback-‐Free Value Predic] on with Approximate Loads
+Citations:
+Authors: B Thwaites, G Pekhimenko, A Yazdanbakhsh, J Park, G Mururu, ...
+Publication: 
+
+108. SNNAP: Approximate Computing on Programmable SoCs via Neural Acceleration
+Citations:
+Authors: TMMWJ Nelson, A Sampson, H Esmaeilzadeh, LCM Oskin
+Publication: 
+
+109. SqueezCL: Squeezing OpenCL Kernels for Approximate Computing on Contemporary GPUs
+Citations:
+Authors: A Lotfi, A Rahimi, H Esmaeilzadeh, RK Gupta
+Publication: 
+
+110. ISCA 2014 external reviewers
+Citations:
+Authors: TM Aamodt, J Cong, P Ienne, D Abts, B Coppens, E Ipek, S Adve, CR Das, ...
+Publication: 
+
+111. Bio-Accelerators: Bridging Biology and Silicon for General-Purpose Computing
+Citations:
+Authors: BTAYJ Park, H Esmaeilzadeh
+Publication: 
+
+112. SBAC-PAD 2013
+Citations:
+Authors: A Patra, A Bhatele, A Melo, A Cohen, A Iosup, AG vel Lejbman, A Dubey, ...
+Publication: 
+
+113. Core Software-Based Self-Testing
+Citations:
+Authors: S Shamshiri, H Esmaeilzadeh, Z Navabi
+Publication: 
+
+114. MCBIST: A New On-Line BIST Scheme
+Citations:
+Authors: M Alisafaee, P Lotfikamran, S Shamshiri, H Esmaeilzadeh, A Pedram, ...
+Publication: 
+
+115. Scalable Neural Network Stream Processor
+Citations:
+Authors: P Saeedi, A Naghdinezhad, H Esmaeilzadeh, S Mohammadi, ...
+Publication: 
+
+116. Neural Network Parallel Data Flow Processor Architecture
+Citations:
+Authors: H Esmaeilzadeh, A Pedram, A Alaghi, BN Araabi, C Lucas, SM Fakhraie
+Publication: 
+
+117. NnSP: A Neural Network Stream Processing Core for Embedded Systems
+Citations:
+Authors: H Esmaeilzadeh, C Lucas, BN Araabi, SM Fakhraie
+Publication: 
+

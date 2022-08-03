@@ -1,0 +1,348 @@
+https://scholar.google.com/citations?hl=en&user=a9T7i5QAAAAJ
+Total Citations = 1706
+
+1. DMP: deterministic shared memory multiprocessing
+Citations:343
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 85-96
+
+2. Atom-aid: Detecting and surviving atomicity violations
+Citations:135
+Authors: B Lucia, J Devietti, K Strauss, L Ceze
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 277-288
+
+3. A simpler, safer programming and execution model for intermittent systems
+Citations:121
+Authors: B Lucia, B Ransford
+Publication: ACM SIGPLAN Notices 50 (6), 575-585
+
+4. Conflict exceptions: simplifying concurrent language semantics with precise hardware exceptions for data-races
+Citations:104
+Authors: B Lucia, L Ceze, K Strauss, S Qadeer, HJ Boehm
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 210-221
+
+5. Finding concurrency bugs with context-aware communication graphs
+Citations:96
+Authors: B Lucia, L Ceze
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+6. IFRit: interference-free regions for dynamic data-race detection
+Citations:83
+Authors: L Effinger-Dean, B Lucia, L Ceze, D Grossman, HJ Boehm
+Publication: Acm Sigplan Notices 47 (10), 467-484
+
+7. ColorSafe: architectural support for debugging and dynamically avoiding multi-variable atomicity violations
+Citations:78
+Authors: B Lucia, L Ceze, K Strauss
+Publication: ACM SIGARCH computer architecture news 38 (3), 222-233
+
+8. Critical path deterministic execution of multithreaded applications in a transactional memory system
+Citations:76
+Authors: L Ceze, MH Oskin, JL Devietti, BM Lucia
+Publication: US Patent 8,739,163
+
+9. Critical path deterministic execution of multithreaded applications in a transactional memory system
+Citations:76
+Authors: L Ceze, MH Oskin, JL Devietti, BM Lucia
+Publication: US Patent 8,739,163
+
+10. LazyPIM: An efficient cache coherence mechanism for processing-in-memory
+Citations:75
+Authors: A Boroumand, S Ghose, M Patel, H Hassan, B Lucia, K Hsieh, KT Malladi, ...
+Publication: IEEE Computer Architecture Letters 16 (1), 46-50
+
+11. Chain: tasks and channels for reliable intermittent programs
+Citations:71
+Authors: A Colin, B Lucia
+Publication: ACM SIGPLAN Notices 51 (10), 514-530
+
+12. Valor: efficient, software-only region conflict exceptions
+Citations:41
+Authors: S Biswas, M Zhang, MD Bond, B Lucia
+Publication: ACM SIGPLAN Notices 50 (10), 241-259
+
+13. Cooperative empirical failure avoidance for multithreaded programs
+Citations:41
+Authors: B Lucia, L Ceze
+Publication: ACM SIGPLAN Notices 48 (4), 39-50
+
+14. Alpaca: intermittent execution without checkpoints
+Citations:39
+Authors: K Maeng, A Colin, B Lucia
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 96
+
+15. Isolating and understanding concurrency errors using reconstructed execution fragments
+Citations:38
+Authors: B Lucia, BP Wood, L Ceze
+Publication: ACM Sigplan Notices 46 (6), 378-388
+
+16. Nonvolatile memory is a broken time machine
+Citations:37
+Authors: B Ransford, B Lucia
+Publication: Proceedings of the workshop on Memory Systems Performance and Correctness, 5
+
+17. An energy-interference-free hardware-software debugger for intermittent energy-harvesting systems
+Citations:34
+Authors: A Colin, G Harvey, B Lucia, AP Sample
+Publication: ACM SIGPLAN Notices 51 (4), 577-589
+
+18. Intermittent computing: Challenges and opportunities
+Citations:31
+Authors: B Lucia, V Balaji, A Colin, K Maeng, E Ruppel
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+19. A case for system support for concurrency exceptions
+Citations:29
+Authors: L Ceze, J Devietti, B Lucia, S Qadeer
+Publication: USENIX HotPar 17
+
+20. DMP: Deterministic shared-memory multiprocessing
+Citations:25
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: IEEE micro 30 (1), 40-49
+
+21. Concurrency debugging with differential schedule projections
+Citations:24
+Authors: N Machado, B Lucia, L Rodrigues
+Publication: ACM SIGPLAN Notices 50 (6), 586-595
+
+22. A reconfigurable energy storage architecture for energy-harvesting devices
+Citations:23
+Authors: A Colin, E Ruppel, B Lucia
+Publication: ACM SIGPLAN Notices 53 (2), 767-781
+
+23. Atom-Aid: Detecting and surviving atomicity violations
+Citations:19
+Authors: B Lucia, J Devietti, L Ceze, K Strauss
+Publication: IEEE micro 29 (1), 73-83
+
+24. Termination checking and task decomposition for task-based intermittent programs
+Citations:17
+Authors: A Colin, B Lucia
+Publication: Proceedings of the 27th International Conference on Compiler Construction …
+
+25. Adaptive dynamic checkpointing for safe efficient intermittent computing
+Citations:15
+Authors: K Maeng, B Lucia
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+26. Systems and methods for finding concurrency errors
+Citations:15
+Authors: L Ceze, B Lucia
+Publication: US Patent 8,832,659
+
+27. Data provenance tracking for concurrent programs
+Citations:11
+Authors: B Lucia, L Ceze
+Publication: Proceedings of the 13th Annual IEEE/ACM International Symposium on Code …
+
+28. Conflict exceptions: Providing simple parallel language semantics with precise hardware exceptions
+Citations:11
+Authors: B Lucia, L Ceze, K Strauss, S Qadeer, H Boehm
+Publication: 37th Annual International Symposium on Computer Architecture
+
+29. Production-guided concurrency debugging
+Citations:9
+Authors: N Machado, B Lucia, L Rodrigues
+Publication: ACM SIGPLAN Notices 51 (8), 29
+
+30. Energy-interference-free system and toolchain support for energy-harvesting devices
+Citations:8
+Authors: A Colin, AP Sample, B Lucia
+Publication: Proceedings of the 2015 International Conference on Compilers, Architecture …
+
+31. Intelligence beyond the edge: Inference on intermittent embedded systems
+Citations:7
+Authors: G Gobieski, B Lucia, N Beckmann
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+32. LazyPIM: Efficient Support for Cache Coherence in Processing-in-Memory Architectures
+Citations:7
+Authors: A Boroumand, S Ghose, M Patel, H Hassan, B Lucia, N Hajinazar, ...
+Publication: arXiv preprint arXiv:1706.03162
+
+33. The computing landscape of the 21st century
+Citations:6
+Authors: M Satyanarayanan, W Gao, B Lucia
+Publication: Proceedings of the 20th International Workshop on Mobile Computing Systems …
+
+34. Playing cupid: The IDE as a matchmaker for plug-ins
+Citations:6
+Authors: TW Schiller, B Lucia
+Publication: 2012 Second International Workshop on Developing Tools as Plug-Ins (TOPI), 1-6
+
+35. An Energy-Aware Debugger for Intermittently Powered Systems
+Citations:5
+Authors: A Colin, G Harvey, AP Sample, B Lucia
+Publication: IEEE Micro 37 (3), 116-125
+
+36. Lock prediction
+Citations:4
+Authors: B Lucia, J Devietti, T Bergan, L Ceze, D Grossman
+Publication: Proceedings of the 2nd USENIX Workshop on Hot Topics in Parallelism, 101-101
+
+37. CoNDA: Efficient Cache Coherence Support for Near-Data Accelerators
+Citations:3
+Authors: A Boroumand, S Ghose, M Patel, H Hassan, B Lucia, R Ausavarungnirun, ...
+Publication: 
+
+38. Intermittent Deep Neural Network Inference
+Citations:3
+Authors: G Gobieski, N Beckmann, B Lucia
+Publication: SysML
+
+39. SOFRITAS: Serializable ordering-free regions for increasing thread atomicity scalably
+Citations:2
+Authors: C DeLozier, A Eizenberg, B Lucia, J Devietti
+Publication: ACM SIGPLAN Notices 53 (2), 286-300
+
+40. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+41. Concurrency debugging with differential schedule projections
+Citations:2
+Authors: N Machado, D Quinta, B Lucia, L Rodrigues
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 25 (2), 14
+
+42. Orca: Ordering-free regions for consistency and atomicity
+Citations:2
+Authors: C DeLozier, Y Peng, A Eizenberg, B Lucia, J Devietti
+Publication: 
+
+43. Overcoming the data-flow limit on parallelism with structural approximation
+Citations:2
+Authors: V Balaji, B Lucia, R Marculescu
+Publication: WAX
+
+44. Efficient, software-only data race exceptions
+Citations:2
+Authors: S Biswas, M Zhang, MD Bond, B Lucia
+Publication: Proceedings of the 2015 ACM SIGPLAN International Conference on Object …
+
+45. Supporting peripherals in intermittent systems with just-in-time checkpoints
+Citations:1
+Authors: K Maeng, B Lucia
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+46. When is Graph Reordering an Optimization? Studying the Effect of Lightweight Graph Reordering Across Applications and Input Graphs
+Citations:1
+Authors: V Balaji, B Lucia
+Publication: 2018 IEEE International Symposium on Workload Characterization (IISWC), 203-214
+
+47. Efficient Architecture Support for Region-Serializability-Based Consistency
+Citations:1
+Authors: S Biswas, R Zhang, MD Bond, B Lucia
+Publication: Technical Report OSU-CISRC-4/17-TR01, Computer Science & Engineering, Ohio …
+
+48. Explicitly parallel programming with shared-memory is insane: At least make it deterministic
+Citations:1
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: proceedings of SHCMP
+
+49. Combining Data Duplication and Graph Reordering to Accelerate Parallel Graph Processing
+Citations:
+Authors: V Balaji, B Lucia
+Publication: Proceedings of the 28th International Symposium on High-Performance Parallel …
+
+50. Transactional concurrency control for intermittent, energy-harvesting computing systems
+Citations:
+Authors: E Ruppel, B Lucia
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+51. Orbital Edge Computing: Machine Inference in Space
+Citations:
+Authors: B Denby, B Lucia
+Publication: IEEE Computer Architecture Letters 18 (1), 59-62
+
+52. Energy-interference-free debugger for intermittent energy-harvesting systems
+Citations:
+Authors: B Lucia, A Sample
+Publication: US Patent App. 15/938,216
+
+53. Guest Editor Introduction PPoPP 2016, Special Issue 2 of 2
+Citations:
+Authors: G Ballard, M Hall, T Harris, B Lucia
+Publication: ACM Transactions on Parallel Computing (TOPC) 4 (2), 6
+
+54. PPoPP 2016, Special Issue 2 of 2
+Citations:
+Authors: G Ballard, M Hall, T Harris, B Lucia
+Publication: ACM TRANSACTIONS ON PARALLEL COMPUTING 4 (1)
+
+55. Flexible Support for Fast Parallel Commutative Updates
+Citations:
+Authors: V Balaji, D Tirumala, B Lucia
+Publication: arXiv preprint arXiv:1709.09491
+
+56. POSTER: An Architecture and Programming Model for Accelerating Parallel Commutative Computations via Privatization
+Citations:
+Authors: V Balaji, D Tirumala, B Lucia
+Publication: ACM SIGPLAN Notices 52 (8), 431-432
+
+57. Systems and methods for finding concurrency errors
+Citations:
+Authors: L Ceze, B Lucia
+Publication: US Patent 9,146,737
+
+58. System Support for Concurrent Software Reliability
+Citations:
+Authors: BM Lucia
+Publication: 
+
+59. Automatic Empirical Failure Avoidance for Concurrent Software
+Citations:
+Authors: B Lucia, L Ceze
+Publication: Workshop on Determinism and Correctness in Parallel Programming w …
+
+60. Session 6b: Concurrency Defects-Session Chair: Armando Solar-Lezama (Massachusetts Institute of Technology)-Isolating and Understanding Concurrency Errors Using Reconstructed …
+Citations:
+Authors: B Lucia, BP Wood, L Ceze
+Publication: SIGPLAN Notices 46 (6), 378
+
+61. Greedy Coherence
+Citations:
+Authors: E Fortuna, B Lucia, A Sampson, BP Wood, L Ceze
+Publication: Workshop on Hardware Support for Parallel Program Correctness
+
+62. System Introspection with Hardware Watchmachines
+Citations:
+Authors: N Hunt, B Lucia, L Ceze
+Publication: Fun Ideas and Thoughts w/Conference on Programming Language Design and …
+
+63. Guest Editor's Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge
+Publication: IEEE micro 30 (1), 8-11
+
+64. When is Graph Reordering an Optimization?
+Citations:
+Authors: V Balaji, B Lucia
+Publication: 
+
+65. Migratory Trash Clouds
+Citations:
+Authors: E Ruppel, A Colin, B Lucia
+Publication: 
+
+66. CSE 590v Review Learning Globally-Consistent Local Distance Functions for Shape-Based Image Retrieval and Classification
+Citations:
+Authors: B Lucia
+Publication: 
+
+67. 8 Guest Editor’s Introduction: Top Picks from the Computer Architecture Conferences of 2009
+Citations:
+Authors: T Mudge, A Hilton, S Nagarakatte, A Roth, N Hardavellas, M Ferdman, ...
+Publication: 
+
+68. ISCA 2016 External Review Committee
+Citations:
+Authors: A Muzahid, A Agrawal, A Cristal, A Sampson, A Alameldeen, A Cohen, ...
+Publication: 
+
+69. Systems Should Automatically Specialize Code and Data
+Citations:
+Authors: B Lucia, T Mytkowicz
+Publication: 
+

@@ -1,0 +1,768 @@
+https://scholar.google.com/citations?hl=en&user=HHn7118AAAAJ
+Total Citations = 7577
+
+1. Veriflow: Verifying network-wide invariants in real time
+Citations:774
+Authors: A Khurshid, X Zou, W Zhou, M Caesar, PB Godfrey
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+2. Design and implementation of a routing control platform
+Citations:649
+Authors: M Caesar, D Caldwell, N Feamster, J Rexford, A Shaikh, J van der Merwe
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+3. Virtual ring routing: network routing inspired by DHTs
+Citations:505
+Authors: M Caesar, M Castro, EB Nightingale, G O'Shea, A Rowstron
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 351-362
+
+4. Floodless in seattle: a scalable ethernet architecture for large enterprises
+Citations:464
+Authors: C Kim, M Caesar, J Rexford
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 3-14
+
+5. Finishing flows quickly with preemptive scheduling
+Citations:425
+Authors: CY Hong, M Caesar, P Godfrey
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+6. ROFL: routing on flat labels
+Citations:415
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, I Stoica, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 363-374
+
+7. Debugging the data plane with anteater
+Citations:399
+Authors: H Mai, A Khurshid, R Agarwal, M Caesar, P Godfrey, ST King
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 290-301
+
+8. BGP routing policies in ISP networks
+Citations:347
+Authors: M Caesar, J Rexford
+Publication: IEEE network 19 (6), 5-11
+
+9. Simultaneous signal transmission of different data-rates in a DWDM system employing external injection locking technique
+Citations:301
+Authors: AS Das, AS Patra
+Publication: Optics & Laser Technology 64, 23-27
+
+10. HLP: a next generation inter-domain routing protocol
+Citations:244
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 13-24
+
+11. BotGrep: Finding P2P Bots with Structured Graph Analysis.
+Citations:237
+Authors: S Nagaraja, P Mittal, CY Hong, M Caesar, N Borisov
+Publication: USENIX Security Symposium 10, 95-110
+
+12. Achieving convergence-free routing using failure-carrying packets
+Citations:191
+Authors: K Lakshminarayanan, M Caesar, M Rangan, T Anderson, S Shenker, ...
+Publication: ACM SIGCOMM computer communication review 37 (4), 241-252
+
+13. The SAHARA model for service composition across multiple providers
+Citations:146
+Authors: B Raman, S Agarwal, Y Chen, M Caesar, W Cui, P Johansson, K Lai, ...
+Publication: International Conference on Pervasive Computing, 1-14
+
+14. Network-aware scheduling for data-parallel jobs: Plan when you can
+Citations:130
+Authors: V Jalaparti, P Bodik, I Menache, S Rao, K Makarychev, M Caesar
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 407-420
+
+15. Cirripede: Circumvention infrastructure using router redirection with plausible deniability
+Citations:125
+Authors: A Houmansadr, GTK Nguyen, M Caesar, N Borisov
+Publication: Proceedings of the 18th ACM conference on Computer and communications …
+
+16. Live migration of an entire network (and its hosts)
+Citations:118
+Authors: E Keller, S Ghorbani, M Caesar, J Rexford
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 109-114
+
+17. Network routing
+Citations:115
+Authors: M Castro, AIT Rowstron, M Caesar
+Publication: US Patent 7,715,396
+
+18. Walk the line: consistent network updates with bandwidth guarantees
+Citations:111
+Authors: S Ghorbani, M Caesar
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+19. Revisiting route caching: The world should be flat
+Citations:106
+Authors: C Kim, M Caesar, A Gerber, J Rexford
+Publication: International Conference on Passive and Active Network Measurement, 3-12
+
+20. Stealthy traffic analysis of low-latency anonymous communication using throughput fingerprinting
+Citations:97
+Authors: P Mittal, A Khurshid, J Juen, M Caesar, N Borisov
+Publication: Proceedings of the 18th ACM conference on Computer and communications …
+
+21. Do you hear what i hear?: Fingerprinting smart devices through embedded acoustic components
+Citations:89
+Authors: A Das, N Borisov, M Caesar
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+22. Tracking Mobile Web Users Through Motion Sensors: Attacks and Defenses.
+Citations:73
+Authors: A Das, N Borisov, M Caesar
+Publication: NDSS
+
+23. Towards localizing root causes of BGP dynamics
+Citations:64
+Authors: M Caesar, L Subramanian, RH Katz
+Publication: Computer Science Division, University of California
+
+24. Enforcing customizable consistency properties in software-defined networks
+Citations:62
+Authors: W Zhou, D Jin, J Croft, M Caesar, PB Godfrey
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+25. Dynamic route recomputation considered harmful
+Citations:60
+Authors: M Caesar, M Casado, T Koponen, J Rexford, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 40 (2), 66-71
+
+26. Collaborative, privacy-preserving data aggregation at scale
+Citations:51
+Authors: B Applebaum, H Ringberg, MJ Freedman, M Caesar, J Rexford
+Publication: International Symposium on Privacy Enhancing Technologies Symposium, 56-74
+
+27. Transparent, live migration of a software-defined network
+Citations:49
+Authors: S Ghorbani, C Schlesinger, M Monaco, E Keller, M Caesar, J Rexford, ...
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-14
+
+28. X-vine: Secure and pseudonymous routing using social networks
+Citations:45
+Authors: P Mittal, M Caesar, N Borisov
+Publication: arXiv preprint arXiv:1109.0971
+
+29. SybilControl: Practical Sybil defense with computational puzzles
+Citations:44
+Authors: F Li, P Mittal, M Caesar, N Borisov
+Publication: Proceedings of the seventh ACM workshop on Scalable trusted computing, 67-78
+
+30. ASAP: A low-latency transport layer
+Citations:44
+Authors: W Zhou
+Publication: 
+
+31. Network-wide verification of invariants
+Citations:40
+Authors: A Khurshid, MC Caesar, PB Godfrey
+Publication: US Patent 9,225,601
+
+32. The NEBULA future internet architecture
+Citations:39
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: The Future Internet Assembly, 16-26
+
+33. Optimized game server relocation environment
+Citations:37
+Authors: J Pang, M Caesar, V Jalaparti, S Lee, J Van Der Merwe
+Publication: US Patent 8,924,560
+
+34. Cloud resource allocation games
+Citations:37
+Authors: V Jalaparti, GD Nguyen
+Publication: 
+
+35. Slick packets
+Citations:36
+Authors: GTK Nguyen, R Agarwal, J Liu, M Caesar, P Godfrey, S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 39 (1), 205-216
+
+36. Virtually eliminating router bugs
+Citations:35
+Authors: E Keller, M Yu, M Caesar, J Rexford
+Publication: Proceedings of the 5th international conference on Emerging networking …
+
+37. Towards understanding bugs in open source router software
+Citations:33
+Authors: Z Yin, M Caesar, Y Zhou
+Publication: ACM SIGCOMM Computer Communication Review 40 (3), 34-40
+
+38. Defending tor from network adversaries: A case study of network path prediction
+Citations:32
+Authors: J Juen, A Johnson, A Das, N Borisov, M Caesar
+Publication: Proceedings on Privacy Enhancing Technologies 2015 (2), 171-187
+
+39. Timekeeper: A lightweight virtual time system for linux
+Citations:32
+Authors: J Lamps, DM Nicol, M Caesar
+Publication: Proceedings of the 2nd ACM SIGSIM Conference on Principles of Advanced …
+
+40. Exploring ways to mitigate sensor-based smartphone fingerprinting
+Citations:28
+Authors: A Das, N Borisov, M Caesar
+Publication: arXiv preprint arXiv:1503.01874
+
+41. Seattle: A scalable ethernet architecture for large enterprises
+Citations:28
+Authors: C Kim, M Caesar, J Rexford
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (1), 1
+
+42. Building bug-tolerant routers with virtualization
+Citations:28
+Authors: M Caesar, J Rexford
+Publication: Proceedings of the ACM workshop on Programmable routers for extensible …
+
+43. Mining on someone else’s dime: Mitigating covert mining operations in clouds and enterprises
+Citations:25
+Authors: R Tahir, M Huzaifa, A Das, M Ahmad, C Gunter, F Zaffar, M Caesar, ...
+Publication: International Symposium on Research in Attacks, Intrusions, and Defenses …
+
+44. Ravel: A database-defined network
+Citations:25
+Authors: A Wang, X Mei, J Croft, M Caesar, B Godfrey
+Publication: Proceedings of the Symposium on SDN Research, 5
+
+45. Sweet: Serving the web by exploiting email tunnels
+Citations:25
+Authors: W Zhou, A Houmansadr, M Caesar, N Borisov
+Publication: arXiv preprint arXiv:1211.3191 13
+
+46. Nebula-a future internet that supports trustworthy cloud computing
+Citations:24
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: 
+
+47. Systems, methods, and apparatus to debug a network application
+Citations:23
+Authors: J Van Der Merwe, MC Caesar, CC Lin
+Publication: US Patent 8,245,083
+
+48. Mirage: Towards deployable DDoS defense for Web applications
+Citations:23
+Authors: P Mittal, D Kim, YC Hu, M Caesar
+Publication: arXiv preprint arXiv:1110.1060
+
+49. Towards Practical Avoidance of Information Leakage in Enterprise Networks.
+Citations:23
+Authors: J Croft, M Caesar
+Publication: HotSec
+
+50. A brief overview of the NEBULA future internet architecture
+Citations:22
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 81-86
+
+51. X-Vine: Secure and Pseudonymous Routing in DHTs Using Social Networks.
+Citations:21
+Authors: P Mittal, M Caesar, N Borisov
+Publication: NDSS
+
+52. Fingerprinting smart devices through embedded acoustic components
+Citations:17
+Authors: A Das, N Borisov, M Caesar
+Publication: arXiv preprint arXiv:1403.3366
+
+53. Tiresias: Online anomaly detection for hierarchical operational network data
+Citations:16
+Authors: CY Hong, M Caesar, N Duffield, J Wang
+Publication: 2012 IEEE 32nd International Conference on Distributed Computing Systems …
+
+54. Identity-based routing
+Citations:16
+Authors: MC Caesar
+Publication: University of California, Berkeley
+
+55. A comparative study of pricing strategies for IP telephony
+Citations:16
+Authors: MC Caesar, S Balaraman, D Ghosal
+Publication: Globecom'00-IEEE. Global Telecommunications Conference. Conference Record …
+
+56. Shortest paths in less than a millisecond
+Citations:15
+Authors: R Agarwal, M Caesar, PB Godfrey, BY Zhao
+Publication: Proceedings of the 2012 ACM workshop on Workshop on online social networks …
+
+57. Clockscalpel: Understanding root causes of Internet clock synchronization inaccuracy
+Citations:15
+Authors: CY Hong, CC Lin, M Caesar
+Publication: International Conference on Passive and Active Network Measurement, 204-213
+
+58. Efficient gigabit ethernet switch models for large-scale simulation
+Citations:14
+Authors: D Jin, DM Nicol, M Caesar
+Publication: Proceedings of the 2010 IEEE Workshop on Principles of Advanced and …
+
+59. Sneak-peek: High speed covert channels in data center networks
+Citations:13
+Authors: R Tahir, MT Khan, X Gong, A Ahmed, A Ghassami, H Kazmi, M Caesar, ...
+Publication: IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer …
+
+60. Stabilizing route selection in BGP
+Citations:13
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: IEEE/ACM Transactions on Networking 23 (1), 282-299
+
+61. Sweet: Serving the web by exploiting email tunnels
+Citations:13
+Authors: A Houmansadr, W Zhou, M Caesar, N Borisov
+Publication: arXiv preprint arXiv:1211.3191
+
+62. Practical network-wide compression of IP routing tables
+Citations:13
+Authors: E Karpilovsky, M Caesar, J Rexford, A Shaikh, J Van Der Merwe
+Publication: IEEE Transactions on Network and Service Management 9 (4), 446-458
+
+63. P3CA: Private anomaly detection across ISP networks
+Citations:13
+Authors: S Nagaraja, V Jalaparti, M Caesar, N Borisov
+Publication: International Symposium on Privacy Enhancing Technologies Symposium, 38-56
+
+64. Efficient metadata management for cloud computing applications
+Citations:13
+Authors: A Verma, S Venkataraman
+Publication: 
+
+65. A practical approach for providing qos in multichannel ad-hoc networks using spectrum width adaptation
+Citations:13
+Authors: V Raman, MC Caesar
+Publication: GLOBECOM 2009-2009 IEEE Global Telecommunications Conference, 1-6
+
+66. Toward Interactive Debugging for ISP Networks.
+Citations:12
+Authors: CC Lin, M Caesar, K Van Der Merwe
+Publication: HotNets
+
+67. The case for an internet health monitoring system
+Citations:12
+Authors: M Caesar, L Subramanian, RH Katz
+Publication: Computer Science Division, University of California
+
+68. Resource management for IP telephony networks
+Citations:12
+Authors: MC Caesar, D Ghosal, RH Katz
+Publication: IEEE 2002 Tenth IEEE International Workshop on Quality of Service (Cat. No …
+
+69. Stable Internet route selection
+Citations:11
+Authors: PB Godfrey, M Caesar, I Haken, S Shenker, I Stoica
+Publication: NANOG40, June
+
+70. Systematically exploring the behavior of control programs
+Citations:10
+Authors: J Croft, R Mahajan, M Caesar, M Musuvathi
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 165-176
+
+71. SMOG: A cloud platform for seamless wide area migration of online games
+Citations:10
+Authors: V Jalaparti, M Caesar, S Lee, J Pang, J Van der Merwe
+Publication: Proceedings of the 11th Annual Workshop on Network and Systems Support for …
+
+72. Making DTNs robust against spoofing attacks with localized countermeasures
+Citations:10
+Authors: MYS Uddin, A Khurshid, HD Jung, C Gunter, M Caesar, T Abdelzaher
+Publication: 2011 8th Annual IEEE Communications Society Conference on Sensor, Mesh and …
+
+73. Towards a next generation inter-domain routing protocol
+Citations:10
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: Proceedings of Third Workshop on Hot Topics in Networks (HotNets-III)
+
+74. Conjoining emulation and network simulators on linux multiprocessors
+Citations:9
+Authors: J Lamps, V Adam, DM Nicol, M Caesar
+Publication: Proceedings of the 3rd ACM SIGSIM Conference on Principles of Advanced …
+
+75. WASP: a software-defined communication layer for hybrid wireless networks
+Citations:9
+Authors: M Kaplan, C Zheng, M Monaco, E Keller, D Sicker
+Publication: 2014 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+76. BotGrep: Finding Bots with Structured Graph Analysis
+Citations:9
+Authors: S Nagaraja, P Mittal, CY Hong, M Caesar, N Borisov
+Publication: Usenix Security 10
+
+77. Evaluating the potential of collaborative anomaly detection
+Citations:8
+Authors: H Ringberg, A Soule, M Caesar
+Publication: Unpublished report
+
+78. Re 3: relay reliability reputation for anonymity systems
+Citations:7
+Authors: A Das, N Borisov, P Mittal, M Caesar
+Publication: Proceedings of the 9th ACM symposium on Information, computer and …
+
+79. Towards deployable ddos defense for web applications
+Citations:7
+Authors: P Mittal, YC Hu, D Kim, M Caesar
+Publication: 
+
+80. Reliability and timeliness analysis of content-based publish/subscribe systems
+Citations:7
+Authors: T Pongthawornkamol
+Publication: University of Illinois at Urbana-Champaign
+
+81. Predicting network futures with plankton
+Citations:6
+Authors: S Prabhu, A Kheradmand, B Godfrey, M Caesar
+Publication: Proceedings of the First Asia-Pacific Workshop on Networking, 92-98
+
+82. Let me rephrase that: Transparent optimization in sdns
+Citations:6
+Authors: S Prabhu, M Dong, T Meng, P Godfrey, M Caesar
+Publication: Proceedings of the Symposium on SDN Research, 41-47
+
+83. Systems, methods, and apparatus to debug a network application by utilizing a cloned network and an interactive debugging technique
+Citations:6
+Authors: J Van Der Merwe, MC Caesar, CC Lin
+Publication: US Patent 8,352,801
+
+84. Improving robustness of DNS to software vulnerabilities
+Citations:6
+Authors: A Khurshid, F Kiyak, M Caesar
+Publication: Proceedings of the 27th Annual Computer Security Applications Conference …
+
+85. Collaborative, Privacy-Preserving Data Aggregation at Scale.
+Citations:6
+Authors: H Ringberg, B Applebaum, MJ Freedman, M Caesar, J Rexford
+Publication: IACR Cryptology ePrint Archive 2009, 180
+
+86. It's all in the name: Why some urls are more vulnerable to typosquatting
+Citations:5
+Authors: R Tahir, A Raza, F Ahmad, J Kazi, F Zaffar, C Kanich, M Caesar
+Publication: IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2618-2626
+
+87. NEAt: Network error auto-correct
+Citations:5
+Authors: W Zhou, J Croft, B Liu, M Caesar
+Publication: Proceedings of the Symposium on SDN Research, 157-163
+
+88. Systems and methods for optimized route caching
+Citations:5
+Authors: A Gerber, C Kim, JL Rexford, M Caesar
+Publication: US Patent 8,908,696
+
+89. Software-Deﬁned Networks as Databases
+Citations:5
+Authors: A Wang, W Zhou, B Godfrey, M Caesar
+Publication: Presented as part of the Open Networking Summit 2014 ({ONS} 2014)
+
+90. Improving Server Application Performance via Pure {TCP}{ACK} Receive Optimization
+Citations:5
+Authors: M Chan, DR Cheriton, M Caesar, J Van der Merwe, Y Won, BG Chun, ...
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+91. {DEFINED}: Deterministic Execution for Interactive Control-Plane Debugging
+Citations:5
+Authors: CC Lin, V Jalaparti, M Caesar, J Van der Merwe
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+92. Scaling data-plane logging in large scale networks
+Citations:5
+Authors: A Arefin, A Khurshid, M Caesar, K Nahrstedt
+Publication: 2011-MILCOM 2011 Military Communications Conference, 1308-1314
+
+93. Guaranteeing BGP stability with a few extra paths
+Citations:5
+Authors: R Agarwal, V Jalaparti, M Caesar, PB Godfrey
+Publication: 2010 IEEE 30th International Conference on Distributed Computing Systems …
+
+94. Better by a HAIR: Hardware-amenable internet routing
+Citations:5
+Authors: F Kiyak, B Mochizuki, E Keller, M Caesar
+Publication: 2009 17th IEEE International Conference on Network Protocols, 83-92
+
+95. Net2Text: Query-guided summarization of network forwarding behaviors
+Citations:4
+Authors: R Birkner, D Drachsler-Cohen, L Vanbever, M Vechev
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+96. Shortest paths in microseconds
+Citations:4
+Authors: R Agarwal, M Caesar, P Godfrey, BY Zhao
+Publication: arXiv preprint arXiv:1309.0874
+
+97. A Network Congestion control Protocol (NCP)
+Citations:4
+Authors: D Fesehaye, K Nahrstedt, M Caesar
+Publication: CS/UIUC Technical Report
+
+98. Towards root cause analysis of internet routing dynamics
+Citations:4
+Authors: M Caesar, L Subramanian, RH Katz
+Publication: Berkeley EECS Annual Research Symposium
+
+99. A quantitative evaluation of traffic-aware routing strategies
+Citations:4
+Authors: EJ Anderson, TE Anderson, SD Gribble, AR Karlin, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 67-67
+
+100. Salmon: Robust proxy distribution for censorship circumvention
+Citations:3
+Authors: F Douglas, W Pan, M Caesar
+Publication: Proceedings on Privacy Enhancing Technologies 2016 (4), 4-20
+
+101. Software defined transport: Flexible and deployable flow rate control
+Citations:3
+Authors: CY Hong, M Caesar, PB Godfrey
+Publication: Presented as part of the Open Networking Summit 2014 ({ONS} 2014)
+
+102. Stabilizing route selection in BGP
+Citations:3
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: 
+
+103. Topology-aware optimal task allocation for publish/subscribe-based mission critical environment
+Citations:3
+Authors: S Ahmed, T Pongthawornkamol, K Nahrstedt, M Caesar, G Wang
+Publication: MILCOM 2009-2009 IEEE Military Communications Conference, 1-7
+
+104. Root cause analysis of BGP dynamics
+Citations:3
+Authors: M Caesar, L Subramanian, RH Katz
+Publication: Proceedings of ACM IMC
+
+105. Routing on Flat Labels
+Citations:3
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, S Shenker, I Stoica
+Publication: Proc. of ACM SIGCOMM’06, 363-374
+
+106. Automatically correcting networks with neat
+Citations:2
+Authors: W Zhou, J Croft, B Liu, E Ang, M Caesar
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+107. Harmonia: Tenant-provider cooperation for work conserving bandwidth guarantees
+Citations:2
+Authors: F Douglas, L Popa, S Banerjee, P Yalagandula, J Mudigonda, M Caesar
+Publication: HP Tech Report
+
+108. Ghostpost: Seamless restoration of censored social media posts
+Citations:2
+Authors: F Douglas, M Caesar
+Publication: 6th {USENIX} Workshop on Free and Open Communications on the Internet ({FOCI …
+
+109. Ravel: Orchestrating software-defined networks
+Citations:2
+Authors: A Wang, B Godfrey, M Caesar
+Publication: SOSR Demo
+
+110. Automated performance characterization of applications using hardware monitoring events
+Citations:2
+Authors: W Yoo
+Publication: University of Illinois at Urbana-Champaign
+
+111. Back to the future: Forecasting program behavior in automated homes
+Citations:2
+Authors: J Croft, R Mahajan, M Caesar, M Musuvathi
+Publication: Technical report, Microsoft Research MSR-TR-2012-131
+
+112. Scalable storage for data-intensive computing
+Citations:2
+Authors: A Verma, S Venkataraman, M Caesar, RH Campbell
+Publication: Handbook of Data Intensive Computing, 109-127
+
+113. Building Scalable Self-configuring Networks with SEIZE
+Citations:2
+Authors: C Kim, M Caesar, J Rexford
+Publication: Princeton University Computer Science Technical Report TR-801-07
+
+114. On the consistency of dht-based routing
+Citations:2
+Authors: JK Kannan, MC Caesar, I Stoica, S Shenker
+Publication: Technical Report UCB/EECS-2007-22, EECS Department, University of California …
+
+115. Root cause analysis of BGP dynamics
+Citations:2
+Authors: M Caesar
+Publication: 
+
+116. Cross-layer design of random access wireless networks
+Citations:1
+Authors: Y Gao
+Publication: University of Illinois at Urbana-Champaign
+
+117. ASAP: a low-latency transport layer
+Citations:1
+Authors: Q Li, W Zhou, M Caesar, P Godfrey
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 390-391
+
+118. Preventing encrypted traffic analysis
+Citations:1
+Authors: NA Schear
+Publication: University of Illinois at Urbana-Champaign
+
+119. Stable path (s) assignment for inter-domain routing
+Citations:1
+Authors: R Agarwal, M Caesar, PB Godfrey
+Publication: University of Illinois at Urbana-Champaign, IL, USA, Tech. Rep
+
+120. Interconnection networks for active pages
+Citations:1
+Authors: KH Tieu
+Publication: University of California, Davis
+
+121. P4AIG: Circuit-Level Verification of P4 Programs
+Citations:
+Authors: MA Noureddine, A Hsu, M Caesar, FA Zaraket, WH Sanders
+Publication: 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+122. High-coverage testing of softwarized networks
+Citations:
+Authors: S Prabhu, GI Chaudhry, B Godfrey, M Caesar
+Publication: Proceedings of the 2018 Workshop on Security in Softwarized Networks …
+
+123. Mining on Someone Else’s Dime: Mitigating Covert Mining Operations in Clouds and Enterprises
+Citations:
+Authors: C Gunter, F Zaffar, M Caesar, N Borisov
+Publication: Research in Attacks, Intrusions, and Defenses: 20th International Symposium …
+
+124. An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities
+Citations:
+Authors: R Tahir, M Caesar, A Raza, M Naqvi, F Zaffar
+Publication: Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud …
+
+125. Systems and Methods for Optimized Route Caching
+Citations:
+Authors: A Gerber, C Kim, JL Rexford, M Caesar
+Publication: US Patent App. 15/412,326
+
+126. Systems and methods for optimized route caching
+Citations:
+Authors: A Gerber, C Kim, JL Rexford, M Caesar
+Publication: US Patent 9,559,955
+
+127. Systems and methods for optimized route caching
+Citations:
+Authors: A Gerber, C Kim, JL Rexford, M Caesar
+Publication: US Patent 9,413,663
+
+128. Systems and methods for optimized route caching
+Citations:
+Authors: A Gerber, C Kim, JL Rexford, M Caesar
+Publication: US Patent 9,210,084
+
+129. Analyzing an adaptive reputation metric for anonymity systems
+Citations:
+Authors: A Das, N Borisov, M Caesar
+Publication: Proceedings of the 2014 Symposium and Bootcamp on the Science of Security, 11
+
+130. Secure resource management in networks
+Citations:
+Authors: D Kim
+Publication: University of Illinois at Urbana-Champaign
+
+131. Security threats to the MAC-layer in wireless networks
+Citations:
+Authors: J Choi
+Publication: University of Illinois at Urbana-Champaign
+
+132. Cyber-physical data distillation in a sensor rich world
+Citations:
+Authors: H Ahmadi
+Publication: University of Illinois at Urbana-Champaign
+
+133. Towards next generation WLANs: exploiting coordination and cooperation
+Citations:
+Authors: Z Zeng
+Publication: University of Illinois at Urbana-Champaign
+
+134. Assuring network service with bandwidth and integrity based fairness
+Citations:
+Authors: F Khan
+Publication: University of Illinois at Urbana-Champaign
+
+135. Leveraging structure for communication in human-centric dtns
+Citations:
+Authors: SC Nelson
+Publication: University of Illinois at Urbana-Champaign
+
+136. Better by a HAIR: hardware-amenable Internet routing
+Citations:
+Authors: B Mochizuki, F Kiyak, E Keller, M Caesar
+Publication: Computer Networks 55 (4), 999-1010
+
+137. Performance composability: An emerging challenge in performance-adaptive systems
+Citations:
+Authors: J Heo
+Publication: University of Illinois at Urbana-Champaign
+
+138. Redefining the hardware-software boundary in networked systems
+Citations:
+Authors: BA Mochizuki
+Publication: 
+
+139. A Network Congestion control Protocol (NCP)
+Citations:
+Authors: DF Kassa, K Nahrstedt, M Caesar
+Publication: 
+
+140. Protecting DNS from software errors
+Citations:
+Authors: F Kiyak
+Publication: 
+
+141. Program chairs' message
+Citations:
+Authors: MC Caesar, P Huang, L Iannone
+Publication: Proceedings of the 2009 ACM Conference on Emerging Networking Experiments …
+
+142. Stabilizing BGP, Safely
+Citations:
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: 
+
+143. Towards a structured underlay for network routing
+Citations:
+Authors: M Caesar, M Castro, A Rowstron
+Publication: Computer Science Division, University of California
+
+144. A General Auction-based Architecture for Resource Allocation
+Citations:
+Authors: M Caesar, W Cui
+Publication: 
+
+145. General Chair Bill Lin University of California, San Diego Program Chairs Prasun Sinha Ohio State University
+Citations:
+Authors: J Xu, M Arlitt, T Braun, M Caesar, G Casale, A Chandra, X Cheng, G Feng, ...
+Publication: 
+
+146. 2008 16th IEEE Workshop on Local and Metropolitan Area Networks
+Citations:
+Authors: S Bhattacharjee, A Bianco, E Biersack, T Braun, A Cabellos-Aparicio, ...
+Publication: 
+
+147. Performance and Analysis of Minimum Spanning Tree Algorithms in Cache Based Architectures
+Citations:
+Authors: M Caesar
+Publication: 
+
+148. A Low Cost Data Center Network
+Citations:
+Authors: CY Hong, M Caesar
+Publication: 
+
+149. A Study of QoS Sensitive Pricing for IP Telephony
+Citations:
+Authors: MC Caesar, D Ghosal
+Publication: 
+
+150. Leveraging Data Mining to Improve Internet Security
+Citations:
+Authors: M Caesar, J Han
+Publication: 
+
+151. IP Telephony
+Citations:
+Authors: M Caesar, D Ghosal
+Publication: 
+
+152. Evaluating Route Caching in an ISP Backbone
+Citations:
+Authors: C Kim, M Caesar, A Gerber, J Rexford
+Publication: 
+
+153. RIFF: Routing is Formerly Fundamental
+Citations:
+Authors: M Caesar, J Rexford
+Publication: 
+

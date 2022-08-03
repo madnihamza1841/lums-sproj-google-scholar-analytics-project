@@ -1,0 +1,308 @@
+https://scholar.google.com/citations?hl=en&user=adnTgaAAAAAJ
+Total Citations = 5537
+
+1. Understanding deep learning requires rethinking generalization
+Citations:1097
+Authors: C Zhang, S Bengio, M Hardt, B Recht, O Vinyals
+Publication: ICLR 2017
+
+2. Fairness through awareness
+Citations:600
+Authors: C Dwork, M Hardt, T Pitassi, O Reingold, R Zemel
+Publication: ITCS 2012, 214-226
+
+3. Equality of opportunity in supervised learning
+Citations:533
+Authors: M Hardt, E Price, N Srebro
+Publication: NIPS 2016, 3315-3323
+
+4. Train faster, generalize better: Stability of stochastic gradient descent
+Citations:324
+Authors: M Hardt, B Recht, Y Singer
+Publication: ICML 2016, 1225-1234
+
+5. A simple and practical algorithm for differentially private data release
+Citations:258
+Authors: M Hardt, K Ligett, F McSherry
+Publication: NIPS 2012, 2348-2356
+
+6. A multiplicative weights mechanism for privacy-preserving data analysis
+Citations:258
+Authors: M Hardt, GN Rothblum
+Publication: FOCS 2010, 61-70
+
+7. On the geometry of differential privacy
+Citations:244
+Authors: M Hardt, K Talwar
+Publication: STOC 2010, 705-714
+
+8. Understanding alternating minimization for matrix completion
+Citations:180
+Authors: M Hardt
+Publication: FOCS 2014
+
+9. Preserving statistical validity in adaptive data analysis
+Citations:171
+Authors: C Dwork, V Feldman, M Hardt, T Pitassi, O Reingold, A Roth
+Publication: STOC 2015
+
+10. The reusable holdout: Preserving validity in adaptive data analysis
+Citations:167
+Authors: C Dwork, V Feldman, M Hardt, T Pitassi, O Reingold, A Roth
+Publication: Science 349 (6248), 636-638
+
+11. Identity matters in deep learning
+Citations:149
+Authors: M Hardt, T Ma
+Publication: ICLR 2017
+
+12. Avoiding discrimination through causal reasoning
+Citations:115
+Authors: N Kilbertus, MR Carulla, G Parascandolo, M Hardt, D Janzing, ...
+Publication: NIPS 2017, 656-666
+
+13. Privately releasing conjunctions and the statistical query barrier
+Citations:114
+Authors: A Gupta, M Hardt, A Roth, J Ullman
+Publication: SIAM Journal on Computing 42 (4), 1494-1520
+
+14. The noisy power method: A meta algorithm with applications
+Citations:107
+Authors: M Hardt, E Price
+Publication: NIPS 2014, 2861-2869
+
+15. Generalization in adaptive data analysis and holdout reuse
+Citations:106
+Authors: C Dwork, V Feldman, M Hardt, T Pitassi, O Reingold, A Roth
+Publication: NIPS 2015, 2350-2358
+
+16. Gradient descent learns linear dynamical systems
+Citations:78
+Authors: M Hardt, T Ma, B Recht
+Publication: arXiv preprint arXiv:1609.05191
+
+17. Fast matrix completion without the condition number
+Citations:76
+Authors: M Hardt, M Wootters
+Publication: COLT 2014, 638-678
+
+18. Beyond worst-case analysis in private singular vector computation
+Citations:72
+Authors: M Hardt, A Roth
+Publication: STOC 2013, 331-340
+
+19. Preventing false discovery in interactive data analysis is hard
+Citations:69
+Authors: M Hardt, J Ullman
+Publication: FOCS 2014, 454-463
+
+20. Algorithms and hardness for robust subspace recovery
+Citations:68
+Authors: M Hardt, A Moitra
+Publication: COLT 2013, 354-375
+
+21. Beating randomized response on incoherent matrices
+Citations:67
+Authors: M Hardt, A Roth
+Publication: STOC 2012, 1255-1268
+
+22. Sanity checks for saliency maps
+Citations:60
+Authors: J Adebayo, J Gilmer, M Muelly, I Goodfellow, M Hardt, B Kim
+Publication: NeurIPS 2018
+
+23. The Ladder: A reliable leaderboard for machine learning competitions
+Citations:59
+Authors: A Blum, M Hardt
+Publication: ICML 2015
+
+24. Delayed impact of fair machine learning
+Citations:57
+Authors: LT Liu, S Dean, E Rolf, M Simchowitz, M Hardt
+Publication: ICML 2018
+
+25. Tight bounds for learning a mixture of two Gaussians
+Citations:48
+Authors: M Hardt, E Price
+Publication: STOC 2015
+
+26. Strategic classification
+Citations:47
+Authors: M Hardt, N Megiddo, C Papadimitriou, M Wootters
+Publication: ITCS 2016, 111-122
+
+27. Private data release via learning thresholds
+Citations:46
+Authors: M Hardt, GN Rothblum, RA Servedio
+Publication: SODA 2012, 168-187
+
+28. Rounding parallel repetitions of unique games
+Citations:45
+Authors: B Barak, M Hardt, I Haviv, A Rao, O Regev, D Steurer
+Publication: FOCS 2008, 374-383
+
+29. Deterministically testing sparse polynomial identities of unbounded degree
+Citations:38
+Authors: M Bläser, M Hardt, RJ Lipton, NK Vishnoi
+Publication: Information Processing Letters 109 (3), 187-192
+
+30. Computational limits for matrix completion
+Citations:34
+Authors: M Hardt, R Meka, P Raghavendra, B Weitz
+Publication: COLT 2014
+
+31. The uniform hardcore lemma via approximate Bregman projections
+Citations:33
+Authors: B Barak, M Hardt, S Kale
+Publication: SODA 2009, 1193-1200
+
+32. Stable recurrent models
+Citations:28
+Authors: J Miller, M Hardt
+Publication: ICLR 2019
+
+33. Fairness and Machine Learning
+Citations:20
+Authors: S Barocas, M Hardt, A Narayanan
+Publication: fairmlbook.org
+
+34. Differentially private learning of structured discrete distributions
+Citations:20
+Authors: I Diakonikolas, M Hardt, L Schmidt
+Publication: NIPS 2015, 2566-2574
+
+35. Subsampling mathematical relaxations and average-case complexity
+Citations:18
+Authors: B Barak, M Hardt, T Holenstein, D Steurer
+Publication: SODA 2009, 512-531
+
+36. Higher-order syntax and saturation algorithms for hybrid logic
+Citations:17
+Authors: M Hardt, G Smolka
+Publication: Electronic Notes in Theoretical Computer Science 174 (6), 15-27
+
+37. A study of privacy and fairness in sensitive data analysis
+Citations:12
+Authors: M Hardt
+Publication: Princeton University
+
+38. Attacking discrimination with smarter machine learning
+Citations:11
+Authors: M Wattenberg, F Viégas, M Hardt
+Publication: Google Research 17
+
+39. How robust are linear sketches to adaptive inputs?
+Citations:11
+Authors: M Hardt, DP Woodruff
+Publication: STOC 2013, 121-130
+
+40. Asymptotically optimal hitting sets against polynomials
+Citations:10
+Authors: M Bläser, M Hardt, D Steurer
+Publication: ICALP 2008, 345-356
+
+41. Graph densification
+Citations:9
+Authors: M Hardt, N Srivastava, M Tulsiani
+Publication: ITCS 2012, 380-392
+
+42. Guilt-free data reuse
+Citations:8
+Authors: C Dwork, V Feldman, M Hardt, T Pitassi, O Reingold, A Roth
+Publication: Commun. ACM 60 (4), 86-93
+
+43. Multiple kernel completion and its application to cardiac disease discrimination
+Citations:8
+Authors: R Kumar, T Chen, M Hardt, D Beymer, K Brannon, T Syeda-Mahmood
+Publication: ISBI 2013, 764-767
+
+44. The social cost of strategic classification
+Citations:7
+Authors: S Milli, J Miller, AD Dragan, M Hardt
+Publication: ACM FAT* 2019
+
+45. Geometric mechanism for privacy-preserving answers
+Citations:7
+Authors: K Talwar, MAW Hardt
+Publication: US Patent 8,661,047
+
+46. Model reconstruction from model explanations
+Citations:6
+Authors: S Milli, L Schmidt, AD Dragan, M Hardt
+Publication: ACM FAT* 2019
+
+47. Natural Analysts in Adaptive Data Analysis
+Citations:5
+Authors: T Zrnic, M Hardt
+Publication: ICML 2019
+
+48. The advantages of multiple classes for reducing overfitting from test set reuse
+Citations:4
+Authors: V Feldman, R Frostig, M Hardt
+Publication: ICML 2019
+
+49. Massively parallel hyperparameter tuning
+Citations:4
+Authors: L Li, K Jamieson, A Rostamizadeh, E Gonina, M Hardt, B Recht, ...
+Publication: arXiv preprint arXiv:1810.05934
+
+50. Identity crisis: Memorization and generalization under extreme overparameterization
+Citations:3
+Authors: C Zhang, S Bengio, M Hardt, Y Singer
+Publication: arXiv preprint arXiv:1902.04698
+
+51. Climbing a shaky ladder: Better adaptive risk estimation
+Citations:3
+Authors: M Hardt
+Publication: arXiv preprint arXiv:1706.02733
+
+52. Machine learning with incomplete data sets
+Citations:2
+Authors: DJ Beymer, KW Brannon, T Chen, MAW Hardt, RK Kumar, ...
+Publication: US Patent 9,349,105
+
+53. Open Problem: How fast can a multiclass test set be overfit?
+Citations:1
+Authors: V Feldman, R Frostig, M Hardt
+Publication: Conference on Learning Theory, 3185-3189
+
+54. Model Similarity Mitigates Test Set Overuse
+Citations:1
+Authors: H Mania, J Miller, L Schmidt, M Hardt, B Recht
+Publication: arXiv preprint arXiv:1905.12580
+
+55. The implicit fairness criterion of unconstrained learning
+Citations:1
+Authors: LT Liu, M Simchowitz, M Hardt
+Publication: ICML 2019
+
+56. Occupy Algorithms: Will Algorithms Serve the 99%?
+Citations:1
+Authors: M Hardt
+Publication: Governing Algorithms
+
+57. Linear Dynamics: Clustering without identification
+Citations:
+Authors: CCY Hsu, M Hardt, M Hardt
+Publication: arXiv preprint arXiv:1908.01039
+
+58. Explaining an increase in predicted risk for clinical alerts
+Citations:
+Authors: M Hardt, A Rajkomar, G Flores, A Dai, M Howell, G Corrado, C Cui, ...
+Publication: arXiv preprint arXiv:1907.04911
+
+59. Minimax Optimal Procedures for Locally Private Estimation Comment
+Citations:
+Authors: M Hardt
+Publication: JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION 113 (521), 207-208
+
+60. Identifying a sketching matrix used by a linear sketch
+Citations:
+Authors: M Hardt, DP Woodruff
+Publication: US Patent 9,262,485
+
+61. Private Spectral Analysis
+Citations:
+Authors: M Hardt
+Publication: Encyclopedia of Algorithms, 1-5
+

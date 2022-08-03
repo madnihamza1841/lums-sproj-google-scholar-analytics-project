@@ -1,0 +1,486 @@
+https://scholar.google.com/citations?hl=en&user=Fn5PadcAAAAJ
+Total Citations = 3032
+
+1. Bubble-up: Increasing utilization in modern warehouse scale computers via sensible co-locations
+Citations:460
+Authors: J Mars, L Tang, R Hundt, K Skadron, ML Soffa
+Publication: Proceedings of the 44th annual IEEE/ACM International Symposium on …
+
+2. Bubble-flux: Precise online qos management for increased utilization in warehouse scale computers
+Citations:241
+Authors: H Yang, A Breslow, J Mars, L Tang
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 607-618
+
+3. The impact of memory subsystem resource sharing on datacenter applications
+Citations:220
+Authors: L Tang, J Mars, N Vachharajani, R Hundt, ML Soffa
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 283-294
+
+4. Sirius: An open end-to-end voice and vision personal assistant and its implications for future warehouse scale computers
+Citations:156
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: ACM SIGPLAN Notices 50 (4), 223-238
+
+5. Neurosurgeon: Collaborative intelligence between the cloud and mobile edge
+Citations:122
+Authors: Y Kang, J Hauswald, C Gao, A Rovinski, T Mudge, J Mars, L Tang
+Publication: ACM SIGARCH Computer Architecture News 45 (1), 615-629
+
+6. Contention aware execution: online contention detection and response
+Citations:121
+Authors: J Mars, N Vachharajani, R Hundt, ML Soffa
+Publication: Proceedings of the 8th annual IEEE/ACM international symposium on Code …
+
+7. Whare-map: heterogeneity in homogeneous warehouse-scale computers
+Citations:114
+Authors: J Mars, L Tang
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 619-630
+
+8. DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers
+Citations:108
+Authors: J Hauswald, Y Kang, MA Laurenzano, Q Chen, C Li, T Mudge, ...
+Publication: 2015 ACM/IEEE 42nd Annual International Symposium on Computer Architecture …
+
+9. Smite: Precise qos prediction on real-system smt processors to improve utilization in warehouse scale computers
+Citations:88
+Authors: Y Zhang, MA Laurenzano, J Mars, L Tang
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 406-418
+
+10. Adrenaline: Pinpointing and reining in tail queries with quick voltage boosting
+Citations:80
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, J Mars, L Tang, ...
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+11. Evaluating indirect branch handling mechanisms in software dynamic translation systems
+Citations:80
+Authors: JD Hiser, D Williams, W Hu, JW Davidson, J Mars, BR Childers
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+12. Heterogeneity in “homogeneous” warehouse-scale computers: A performance opportunity
+Citations:71
+Authors: J Mars, L Tang, R Hundt
+Publication: IEEE Computer Architecture Letters 10 (2), 29-32
+
+13. Compiling for niceness: Mitigating contention for qos in warehouse scale computers
+Citations:70
+Authors: L Tang, J Mars, ML Soffa
+Publication: Proceedings of the Tenth International Symposium on Code Generation and …
+
+14. Directly characterizing cross core interference through contention synthesis
+Citations:68
+Authors: J Mars, L Tang, ML Soffa
+Publication: Proceedings of the 6th International Conference on High Performance and …
+
+15. Contentiousness vs. sensitivity: improving contention aware runtime systems on multicore architectures
+Citations:67
+Authors: L Tang, J Mars, ML Soffa
+Publication: Proceedings of the 1st International Workshop on Adaptive Self-Tuning …
+
+16. Octopus-man: Qos-driven task management for heterogeneous multicores in warehouse-scale computers
+Citations:63
+Authors: V Petrucci, MA Laurenzano, J Doherty, Y Zhang, D Mosse, J Mars, L Tang
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+17. Optimizing Google's warehouse scale computers: The NUMA experience
+Citations:58
+Authors: L Tang, J Mars, X Zhang, R Hagmann, R Hundt, E Tune
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+18. Scenario based optimization: A framework for statically enabling online optimizations
+Citations:54
+Authors: J Mars, R Hundt
+Publication: Proceedings of the 7th annual IEEE/ACM International Symposium on Code …
+
+19. Reqos: Reactive static/dynamic compilation for qos in warehouse scale computers
+Citations:48
+Authors: L Tang, J Mars, W Wang, T Dey, ML Soffa
+Publication: ACM SIGARCH Computer Architecture News 41 (1), 89-100
+
+20. Baymax: Qos awareness and increased utilization for non-preemptive accelerators in warehouse scale computers
+Citations:44
+Authors: Q Chen, H Yang, J Mars, L Tang
+Publication: ACM SIGPLAN Notices 51 (4), 681-696
+
+21. Happy: Hyperthread-aware power profiling dynamically
+Citations:43
+Authors: Y Zhai, X Zhang, S Eranian, L Tang, J Mars
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 211-217
+
+22. Increasing utilization in modern warehouse-scale computers using bubble-up
+Citations:43
+Authors: J Mars, L Tang, K Skadron, ML Soffa, R Hundt
+Publication: IEEE Micro 32 (3), 88-99
+
+23. Input responsiveness: using canary inputs to dynamically steer approximation
+Citations:41
+Authors: MA Laurenzano, P Hill, M Samadi, S Mahlke, J Mars, L Tang
+Publication: ACM SIGPLAN Notices 51 (6), 161-176
+
+24. Protean code: Achieving near-free online code transformations for warehouse scale computers
+Citations:41
+Authors: M Laurenzano, Y Zhang, L Tang, J Mars
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+25. The architectural implications of autonomous driving: Constraints and acceleration
+Citations:36
+Authors: SC Lin, Y Zhang, CH Hsu, M Skach, ME Haque, L Tang, J Mars
+Publication: ACM SIGPLAN Notices 53 (2), 751-766
+
+26. Exploiting hardware advances for software testing and debugging: NIER track
+Citations:34
+Authors: ML Soffa, KR Walcott, J Mars
+Publication: 2011 33rd International Conference on Software Engineering (ICSE), 888-891
+
+27. Prophet: Precise QoS prediction on non-preemptive accelerators to improve utilization in warehouse-scale computers
+Citations:33
+Authors: Q Chen, H Yang, M Guo, RS Kannan, J Mars, L Tang
+Publication: ACM SIGOPS Operating Systems Review 51 (2), 17-32
+
+28. Treadmill: Attributing the source of tail latency through precise load testing and statistical inference
+Citations:33
+Authors: Y Zhang, D Meisner, J Mars, L Tang
+Publication: Acm Sigarch Computer Architecture News 44 (3), 456-468
+
+29. Thermal time shifting: Leveraging phase change materials to reduce cooling costs in warehouse-scale computers
+Citations:32
+Authors: M Skach, M Arora, CH Hsu, Q Li, D Tullsen, L Tang, J Mars
+Publication: ACM Sigarch Computer Architecture News 43 (3), 439-449
+
+30. Concise loads and stores: The case for an asymmetric compute-memory architecture for approximation
+Citations:30
+Authors: A Jain, P Hill, SC Lin, M Khan, ME Haque, MA Laurenzano, S Mahlke, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 41
+
+31. Performance analysis of thread mappings with a holistic view of the hardware resources
+Citations:26
+Authors: W Wang, T Dey, J Mars, L Tang, JW Davidson, ML Soffa
+Publication: 2012 IEEE International Symposium on Performance Analysis of Systems …
+
+32. Enabling fair pricing on HPC systems with node sharing
+Citations:23
+Authors: AD Breslow, A Tiwari, M Schulz, L Carrington, L Tang, J Mars
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+33. Evaluating indirect branch handling mechanisms in software dynamic translation systems
+Citations:22
+Authors: JD Hiser, DW Williams, W Hu, JW Davidson, J Mars, BR Childers
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 8 (2), 9
+
+34. Gist: Efficient data encoding for deep neural network training
+Citations:20
+Authors: A Jain, A Phanishayee, J Mars, L Tang, G Pekhimenko
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+35. Cache contention management on a multicore processor based on the degree of contention exceeding a threshold
+Citations:19
+Authors: J Mars, R Hundt, NA Vachharajani
+Publication: US Patent 9,268,542
+
+36. Deftnn: Addressing bottlenecks for dnn execution on gpus via synapse vector elimination and near-compute data fission
+Citations:18
+Authors: P Hill, A Jain, M Hill, B Zamirai, CH Hsu, MA Laurenzano, S Mahlke, ...
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+37. AREP: Adaptive resource efficient prefetching for maximizing multicore performance
+Citations:16
+Authors: M Khan, MA Laurenzanoy, J Marsy, E Hagersten, D Black-Schaffer
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+38. Synthesizing contention
+Citations:16
+Authors: J Mars, ML Soffa
+Publication: Proceedings of the Workshop on Binary Instrumentation and Applications, 17-25
+
+39. PowerChief: Intelligent power allocation for multi-stage applications to improve responsiveness on power constrained CMP
+Citations:13
+Authors: H Yang, Q Chen, M Riaz, Z Luan, L Tang, J Mars
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 133-146
+
+40. THeME: a system for testing by hardware monitoring events
+Citations:13
+Authors: K Walcott-Justice, J Mars, ML Soffa
+Publication: Proceedings of the 2012 International Symposium on Software Testing and …
+
+41. Mats: Multicore adaptive trace selection
+Citations:13
+Authors: J Mars, ML Soffa
+Publication: Workshop on Software Tools for MultiCore Systems (STMCS)
+
+42. SmoothOperator: reducing power fragmentation and improving power utilization in large-scale datacenters
+Citations:12
+Authors: CH Hsu, Q Deng, J Mars, L Tang
+Publication: ACM SIGPLAN Notices 53 (2), 535-548
+
+43. A reactive unobtrusive prefetcher for multicore and manycore architectures
+Citations:11
+Authors: J Mars, D Williams, D Upton, S Ghosh, K Hazelwood
+Publication: Proceedings of the Workshop on Software and Hardware Challenges of Manycore …
+
+44. Proctor: Detecting and investigating interference in shared datacenters
+Citations:9
+Authors: RS Kannan, A Jain, MA Laurenzano, L Tang, J Mars
+Publication: 2018 IEEE International Symposium on Performance Analysis of Systems and …
+
+45. Continuous shape shifting: Enabling loop co-optimization via near-free dynamic code rewriting
+Citations:8
+Authors: A Jain, MA Laurenzano, L Tang, J Mars
+Publication: 2016 49th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+46. Runtime compiler environment with dynamic co-located code execution
+Citations:7
+Authors: J Mars, M Laurenzano, L Tang
+Publication: US Patent 9,921,859
+
+47. Allocation of tasks in large scale computing systems
+Citations:7
+Authors: R Hundt, L Tang, J Mars
+Publication: US Patent 9,563,532
+
+48. Scenario based optimization
+Citations:7
+Authors: J Mars, R Hundt
+Publication: US Patent 8,578,355
+
+49. Reining in long tails in warehouse-scale computers with quick voltage boosting using adrenaline
+Citations:6
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, RG Dreslinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 35 (1), 2
+
+50. Thermal time shifting: Decreasing datacenter cooling costs with phase change materials
+Citations:6
+Authors: M Skach, M Aurora, CH Hsu, Q Li, D Tullsen, L Tang, J Mars
+Publication: IEEE Internet Computing
+
+51. Powerchop: Identifying and managing non-critical units in hybrid processor architectures
+Citations:6
+Authors: MA Laurenzano, Y Zhang, J Chen, L Tang, J Mars
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+52. Designing future warehouse-scale computers for Sirius, An end-to-end voice and vision personal assistant
+Citations:6
+Authors: J Hauswald, MA Laurenzano, Y Zhang, H Yang, Y Kang, C Li, A Rovinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 34 (1), 2
+
+53. A cross-layer approach to heterogeneity and reliability
+Citations:6
+Authors: D Williams, A Sanyal, D Upton, J Mars, S Ghosh, K Hazelwood
+Publication: Proceedings of the 7th IEEE/ACM international conference on Formal Methods …
+
+54. GrandSLAm: Guaranteeing SLAs for jobs in microservices execution frameworks
+Citations:5
+Authors: RS Kannan, L Subramanian, A Raju, J Ahn, J Mars, L Tang
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 34
+
+55. System and methods for sharing memory subsystem resources among datacenter applications
+Citations:5
+Authors: L Tang, J Mars, R Hundt
+Publication: US Patent 9,401,869
+
+56. Data Collection for Dialogue System: A Startup Perspective
+Citations:4
+Authors: Y Kang, Y Zhang, JK Kummerfeld, L Tang, J Mars
+Publication: Proceedings of the 2018 Conference of the North American Chapter of the …
+
+57. Understanding application contentiousness and sensitivity on modern multicores
+Citations:4
+Authors: J Mars, L Tang
+Publication: Advances in Computers 91, 59-85
+
+58. Rethinking numerical representations for deep neural networks
+Citations:3
+Authors: P Hill, B Zamirai, S Lu, YW Chao, M Laurenzano, M Samadi, ...
+Publication: arXiv preprint arXiv:1808.02513
+
+59. Sirius implications for future warehouse-scale computers
+Citations:3
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: IEEE Micro 36 (3), 42-53
+
+60. Enabling fair pricing on high performance computer systems with node sharing
+Citations:3
+Authors: AD Breslow, A Tiwari, M Schulz, L Carrington, L Tang, J Mars
+Publication: Scientific Programming 22 (2), 59-74
+
+61. BlockChop: dynamic squash elimination for hybrid processor architecture
+Citations:3
+Authors: J Mars, N Kumar
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 536-547
+
+62. Rethinking the architecture of warehouse-scale computers
+Citations:3
+Authors: J Mars
+Publication: Citeseer
+
+63. Caliper: Interference Estimator for Multi-tenant Environments Sharing Architectural Resources
+Citations:2
+Authors: RS Kannan, M Laurenzano, J Ahn, J Mars, L Tang
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 16 (3), 22
+
+64. CPSA: Compute precisely store approximately
+Citations:2
+Authors: A Jain, P Hill, MA Laurenzano, ME Haque, M Khan, S Mahlke, L Tang, ...
+Publication: Workshop on Approximate Computing Across the Stack
+
+65. Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features
+Citations:1
+Authors: SC Lin, CH Hsu, W Talamonti, Y Zhang, S Oney, J Mars, L Tang
+Publication: The 31st Annual ACM Symposium on User Interface Software and Technology, 531-542
+
+66. Virtual melting temperature: managing server load to minimize cooling overhead with phase change materials
+Citations:1
+Authors: M Skach, M Arora, D Tullsen, L Tang, J Mars
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+67. CrystalBall: Statically analyzing runtime behavior via deep sequence learning
+Citations:1
+Authors: S Zekany, D Rings, N Harada, MA Laurenzano, L Tang, J Mars
+Publication: 2016 49th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+68. Enabling fair pricing on hpc systems with node sharing
+Citations:1
+Authors: A Tiwari, M Schulz, L Carrington, L Tang, J Mars
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+69. Loaf: a framework and infrastructure for creating online adaptive solutions
+Citations:1
+Authors: J Mars, ML Soffa
+Publication: Proceedings of the 1st International Workshop on Adaptive Self-Tuning …
+
+70. An Analysis of Mac OS X Leopard
+Citations:1
+Authors: J Mars, R Dickerson
+Publication: h ttp://www. cs. virginia. edu/~ jom5x/papers/macos. pdf, last on November 8
+
+71. An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
+Citations:
+Authors: S Larson, A Mahendran, JJ Peper, C Clarke, A Lee, P Hill, JK Kummerfeld, ...
+Publication: arXiv preprint arXiv:1909.02027
+
+72. A statistics-based performance testing methodology for cloud applications
+Citations:
+Authors: S He, G Manns, J Saunders, W Wang, L Pollock, ML Soffa, H Moradi, ...
+Publication: Proceedings of the 2019 27th ACM Joint Meeting on European Software …
+
+73. System and methods for sharing memory subsystem resources among datacenter applications
+Citations:
+Authors: L Tang, J Mars, R Hundt
+Publication: US Patent App. 15/189,885
+
+74. Systems and methods for intelligently curating machine learning training data and improving machine learning model performance
+Citations:
+Authors: Y Kang, Y Zhang, JK Kummerfeld, P Hill, J Hauswald, MA Laurenzano, ...
+Publication: US Patent App. 16/143,773
+
+75. System and method for implementing an artificially intelligent virtual assistant using machine learning
+Citations:
+Authors: J Mars, L Tang, M Laurenzano, J Hauswald, P Hill
+Publication: US Patent App. 15/821,010
+
+76. Systems and method for automatically configuring machine learning models
+Citations:
+Authors: J Mars, L Tang, M Laurenzano, J Hauswald
+Publication: US Patent App. 15/911,491
+
+77. System and method for implementing an artificially intelligent virtual assistant using machine learning
+Citations:
+Authors: J Mars, L Tang, M Laurenzano, J Hauswald
+Publication: US Patent App. 15/797,414
+
+78. Outlier Detection for Improved Data Quality and Diversity in Dialog Systems
+Citations:
+Authors: S Larson, A Mahendran, A Lee, JK Kummerfeld, P Hill, MA Laurenzano, ...
+Publication: arXiv preprint arXiv:1904.03122
+
+79. Understanding the Impact of Socket Density in Density Optimized Servers
+Citations:
+Authors: M Arora, M Skach, W Huang, X An, J Mars, L Tang, DM Tullsen
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+80. Publication list
+Citations:
+Authors: X Zhang, E Tune, R Hagmann, R Jnagal, V Gokhale, J Wilkes, K Shen, ...
+Publication: Astrophysical Journal 875, 4
+
+81. Architectural support for convolutional neural networks on modern CPUs
+Citations:
+Authors: A Jain, MA Laurenzano, GA Pokam, J Mars, L Tang
+Publication: Proceedings of the 27th International Conference on Parallel Architectures …
+
+82. Runtime Compiler Environment With Dynamic Co-Located Code Execution
+Citations:
+Authors: J Mars, M Laurenzano, L Tang
+Publication: US Patent App. 15/428,917
+
+83. Enhancing human capabilities
+Citations:
+Authors: J Mars
+Publication: Proceedings of the Workshop on Trends in Machine-Learning (and impact on …
+
+84. 3 Guest Editors’ Introduction: Top Picks from the 2011 Computer Architecture Conferences Paolo Faraboschi and TN Vijaykumar 7 Kilo TM: Hardware Transactional Memory for GPU …
+Citations:
+Authors: WWL Fung, I Singh, A Brownsword, TM Aamodt, B Grot, J Hestness, ...
+Publication: 
+
+85. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: J Mars, L Tang, R Hundt, G Michelogiannakis, N Jiang, DU Becker, ...
+Publication: 
+
+86. 2011 Index IEEE Computer Architecture Letters Vol. 10
+Citations:
+Authors: D Becker, I Choi, E Cooper-Balis, W Dally, S Devadas, J Duato, J Flich, ...
+Publication: Computer 53, 56
+
+87. Online Adaptation for Application Performance and Efficiency
+Citations:
+Authors: J Mars
+Publication: University of Virginia
+
+88. Proctor–Detecting and Investigating Performance Interference in Shared Datacenters
+Citations:
+Authors: RS Kannan, A Jain, MA Laurenzano, L Tang, J Mars
+Publication: 
+
+89. Neurosurgeon
+Citations:
+Authors: Y Kang, J Hauswald, C Gao, A Rovinski, T Mudge, J Mars, L Tang
+Publication: 
+
+90. Treadmill: Attributing the Source of Server Tail Latency through Precise Load Testing and Statistical Inference
+Citations:
+Authors: Y Zhang, D Meisner, J Mars, L Tang
+Publication: 
+
+91. HEALTHCARE COMPUTING
+Citations:
+Authors: SS Baveja, Z Syed, D Radev, EM Provost, J Laird
+Publication: 
+
+92. MICRO-49 program committee
+Citations:
+Authors: JH Ahn, M Annavaram, B Black, T Cain, T Carlson, A Caulfield, Y Chen, ...
+Publication: 
+
+93. Publicity Committee
+Citations:
+Authors: JH Ahn, Y Bao, T Boku, A Cohen, L Ma, K Fuerlinger, J Mars, ...
+Publication: 
+
+94. ISPASS 2015 organizing committee
+Citations:
+Authors: BC Lee, J Renau, A Alameldeen, F Chong, S Eyerman, I Ganusov, ...
+Publication: 
+
+95. Approximating with Input Level Granularity
+Citations:
+Authors: P Hill, MA Laurenzano, M Samadi, S Mahlke, J Mars, L Tang
+Publication: 
+
+96. Program Co-Chairs
+Citations:
+Authors: TF Wenisch, E Ozer, J Mars, R Dreslinski, T Jones, B Jansen, M Ferdman, ...
+Publication: 
+
+97. 1 Research Philosophy and Guiding Principles
+Citations:
+Authors: J 

@@ -1,0 +1,410 @@
+
+5. Razor: A low-power pipeline based on circuit-level timing speculation
+Citations:1401
+Authors: D Ernst, NS Kim, S Das, S Pant, R Rao, T Pham, C Ziesler, D Blaauw, ...
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+14. Shidhartha Das, Sanjay Pant, Rajeev Rao, Toan Pham, Conrad Ziesler, David Blaauw, Todd Austin, Krisztian Flautner, Trevor Mudge, Razor: A Low-Power Pipeline Based on Circuit …
+Citations:333
+Authors: D Ernst, NS Kim
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+15. A 2.60 pJ/Inst subthreshold sensor processor for optimal energy efficiency
+Citations:230
+Authors: B Zhai, L Nazhandali, J Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers., 154-155
+
+17. BulletProof: A defect-tolerant CMP switch architecture
+Citations:207
+Authors: K Constantinides, S Plaza, J Blome, B Zhang, V Bertacco, S Mahlke, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+20. Energy-efficient subthreshold processor design
+Citations:187
+Authors: B Zhai, S Pant, L Nazhandali, S Hanson, J Olson, A Reeves, M Minuth, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 17 (8 …
+
+25. Exploring variability and performance in a sub-200-mV processor
+Citations:163
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: IEEE Journal of Solid-State Circuits 43 (4), 881-891
+
+28. Austin. The simplescalar tool set
+Citations:147
+Authors: D Burger, M Todd
+Publication: Version 2.0. Technical Report 1342, University of Wisconsin
+
+29. 1 L. Badger, DF Sterne, DL Sherman, KM Walker, and SA Haghighat. A Domain and Type Enforcement UNIX Prototype. In Proceedings of the 1995 USENIX Security Symposium, 1995. Also …
+Citations:142
+Authors: T Jaeger
+Publication: ACM Transactions on Information and System Security (TISSEC) 5, 4
+
+36. Energy optimization of subthreshold-voltage sensor network processors
+Citations:113
+Authors: L Nazhandali, B Zhai, A Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 197-207
+
+42. Shidhartha Das, Seokwoo Lee, David Blaauw, Todd Austin, Trevor Mudge, Nam Sung Kim, Krisztian Flautner, Razor: Circuit-Level Correction of Timing Errors for Low-Power Operation
+Citations:100
+Authors: D Ernst
+Publication: IEEE Micro 24 (6), 10-20
+
+46. Performance and variability optimization strategies in a sub-200mV, 3.5 pJ/inst, 11nW subthreshold processor
+Citations:82
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: 2007 IEEE Symposium on VLSI Circuits, 152-153
+
+79. CrashTest'ing SWAT: accurate, gate-level evaluation of symptom-based resiliency solutions
+Citations:32
+Authors: A Pellegrini, R Smolinski, L Chen, X Fu, SKS Hari, J Jiang, SV Adve, ...
+Publication: Proceedings of the conference on design, automation and test in Europe, 1106 …
+
+111. Assessing SEU vulnerability via circuit-level timing analysis
+Citations:15
+Authors: K Constantinides, S Plaza, J Blome, B Zhang, V Bertacco, S Mahlke, ...
+Publication: Ann Arbor 1001, 48109
+
+114. The SimpleScalar tool set, version 2.0
+Citations:15
+Authors: B Doug, M Austin Todd
+Publication: University of Wisconsin-Madison Computer Science Department Technical Report …
+
+117. The case for microarchitectural awareness of lifetime reliability
+Citations:14
+Authors: J Srinivasan, SV Adve, P Bose, JA Rivers
+Publication: Proc. of the 31st Annual Intl. Symp. on Comp. Arch
+
+130. Austin, and Steve Bennett
+Citations:12
+Authors: D Burger, M Todd
+Publication: Evaluating Future Microprocessors: The Simplescalar Tool Set, UW-Madison …
+
+135. Austin. The SimpleScalar Tool Set, Version 2.0. University of Wisconsin
+Citations:11
+Authors: DC Burger, M Todd
+Publication: Madison Tech. Report
+
+136. Shidhartha Das, Toan Pham, Todd Austin, David Blaauw, Trevor Mudge, Reducing pipeline energy demands with local DVS and dynamic retiming
+Citations:10
+Authors: S Lee
+Publication: Proceedings of the 2004 international symposium on Low power electronics and …
+
+139. Thesimplescalartoolset, version2. 0
+Citations:10
+Authors: ATM BurgerD
+Publication: DepartmentofComputerScience, UniversityofWisconsin Madison: TechnicalReport …
+
+146. Structured Computer Organization Prentice Hall
+Citations:8
+Authors: AS Tanenbaum
+Publication: Englewood Cliffs, 396
+
+152. Austin. A User’s and Hacker’s Guide to the SimpleScalar Architectural Research Tool Set
+Citations:7
+Authors: M Todd
+Publication: 30th Annual International Symposium on Microarchitecture
+
+153. Austin, and Steve Bennett,“Evaluating Future Microprocessors: The SimpleScalar Toolset” Technical Report CS-TR-96-1308
+Citations:7
+Authors: D Burger, M Todd
+Publication: University of Wisconsin-Madison
+
+156. Shidhartha Das, Sanjay Pant, Toan Pham, Rajeev Rao, Conrad Ziesler, David Blaauw, Todd Austin, Trevor Mudge, and Krisztián Flautner. Razor: A Low-Power Pipeline Based on …
+Citations:6
+Authors: D Ernst, NS Kim
+Publication: Proc. 36th Intl. Symp. Microarch, 7-18
+
+164. Austin,\The simplescalar tool set, version 2.0," Wisconsin-Madison CS Dep
+Citations:5
+Authors: D Burger, M Todd
+Publication: technical Report
+
+166. Reetuparna Das, Matthew Hicks, Yossi Oren, and Todd Austin. 2016. ANVIL: Software-Based Protection Against Next-Generation Rowhammer Attacks
+Citations:5
+Authors: ZB Aweke, SF Yitbarek, R Qiao
+Publication: Proceedings of the 21st ACM International Conference on Architectural …
+
+168. Reetuparna Das, Matthew Hicks, Yossi Oren, and Todd Austin
+Citations:4
+Authors: ZB Aweke, SF Yitbarek, R Qiao
+Publication: ANVIL: Software-Based Protection Against Next-Generation Rowhammer Attacks …
+
+171. What input-language is the best choice for high level synthesis (HLS)
+Citations:4
+Authors: G Dan, A Todd, S Steve
+Publication: 47th ACM/IEEE Design Automation Conference (DAC), 857-858
+
+178. Efficient algorithms for polyhedron collision detection
+Citations:4
+Authors: DA Joseph, WH Plantinga
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+179. Shidhartha Das, Sanjay Pant, Rajeev Rao, Toan Pham, Conrad Ziesler, David Blaauw, Todd Austin, Krisztian Flautner, et al. Razor: A low-power pipeline based on circuit-level …
+Citations:4
+Authors: D Ernst, NS Kim
+Publication: Microarchitecture, 2003. MICRO-36. Proceedings. 36th Annual IEEE/ACM …
+
+181. Austin. 1997. The SimpleScalar Tool Set
+Citations:4
+Authors: D Burger, M Todd
+Publication: Version 2.0. Technical Report 1342. Computer Sciences Department, University …
+
+182. Austin, and Doug Burger,“
+Citations:4
+Authors: M Todd
+Publication: The SimpleScalar Tool Set, Version 2
+
+183. MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation
+Citations:3
+Authors: D Lee, V Bertacco
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+190. The Phoenix Processor: A 30pW Platform for Sensor Applications
+Citations:3
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: IEEE Symposium on VLSI Circuits (VLSI-Symp)
+
+193. Mudge Richard B. Brown Matthew R. Guthaus, Jeffrey S. Ringenberg. Mibench: A free, commercially representative embedded benchmark suite
+Citations:3
+Authors: DETMA Trevor
+Publication: IEEE 4th Annual Workshop on Workload Characterization
+
+195. Structured Computer Design (pp. 249-264)
+Citations:3
+Authors: AS Tanenbaum
+Publication: Englewood Cliffs, NJ: Prentice-Hall
+
+196. Austin. 1997. The SimpleScalar Tool Set Version 2.0
+Citations:3
+Authors: D Burger, M Todd
+Publication: ACM SIGARCH Computer Architecture News, 13-25
+
+197. Structured computer organization 2009
+Citations:3
+Authors: AS Tanenbaum
+Publication: Petersburg (in Russian)
+
+198. Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn
+Citations:2
+Authors: M Gallagher, L Biernacki, S Chen, ZB Aweke, SF Yitbarek, MT Aga, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+208. The SimpleScalar tool set
+Citations:2
+Authors: B Doug, MT Austin
+Publication: Version 2.0:, University of Wisconsin-Madison Computer Science Department …
+
+210. Austin. Hardware and Software Mechanisms for Reducing Load Latency
+Citations:2
+Authors: M Todd
+Publication: TR 1311, Computer Sciences Department, UW–Madison, Madison, WI
+
+213. Structured Computer Organization, 2006
+Citations:2
+Authors: S Tanenbaum Andrew
+Publication: Prentice-Hall of India
+
+214. Structured computer Organisation “Prentice Hall of India Pvt Ltd.”
+Citations:2
+Authors: AS Tanenbaum
+Publication: New Delhi1990
+
+215. Structured Computer Organization, copyright 2006 by Pearson Education
+Citations:2
+Authors: AS Tanenbaum
+Publication: Inc
+
+230. New developments in the national examination system in Botswana
+Citations:1
+Authors: B Chilisa
+Publication: National Council on Measurement in Education. http://www3. interscience …
+
+231. Structured Computer Organization 4/Ed, Andrew S
+Citations:1
+Authors: AS Tanenbaum
+Publication: US Imports & PHIPEs
+
+232. The simplescalar-arm power modeling project
+Citations:1
+Authors: A Todd, M Trevor, G Dirk
+Publication: 
+
+242. Programmable stochastic processors
+Citations:
+Authors: J Sartori
+Publication: University of Illinois at Urbana-Champaign
+
+243. IEEE/ION PLANS 2012
+Citations:
+Authors: JIM ABERSON, R ABRAMSON, T AKCA, B AKIN, J ALA-LUHTALA, ...
+Publication: 
+
+245. 2009 Index IEEE Transactions on Computers Vol. 58
+Citations:
+Authors: B Agrawal, A Aleta, J Alonso, CK Anand, C Anderson, S Andrei, T Aoki, ...
+Publication: IEEE Transactions on Computers 58 (12), 1
+
+246. 2009 Index IEEE Transactions on Very Large Scale Integration (VLSI) Systems Vol. 17
+Citations:
+Authors: A Abramo, R Achar, A Afzali-Kusha, VD Agrawal, M Ahmadi, M Ahn, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 17 (12), 1753
+
+248. 2008 Index IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems Vol. 27
+Citations:
+Authors: A Abdollahi, MH Abu-Rahma, E Acar, R Achar, G Agosta, JH Ahn, ...
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+250. 294 Guest Editors’ Introduc
+Citations:
+Authors: WH Joyner Jr, DC Yeh, JM Rabaey, S Malik, W Joyner, D Yeh, J Rabaey, ...
+Publication: 
+
+251. MiBench: A free, commercially representative embedded benchmark suite.
+Citations:
+Authors: W Guoheng, L Zheng, S Zhang, F Zhao, D Ma, W Sun, AS Frank, ...
+Publication: Information Technology Journal 13 (7), pp: 1-2-pp: 1-2
+
+253. 2007 Index IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems Vol. 26
+Citations:
+Authors: S Abbaspour, R Achar, VK Agrawal, M Ahmadi, N Ahmed, S Aine, ...
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+256. Message From the Chair
+Citations:
+Authors: J Austin
+Publication: 
+
+258. Happenings between the Fox and Wisconsin: Historical Analysis of Portage, Wisconsin.
+Citations:
+Authors: A Perry
+Publication: University of Wisconsin Oshkosh
+
+259. IEEE MICRO 2004 ANNUAL INDEX, VOL. 24
+Citations:
+Authors: T Abdelrahman, SV Adve, H Akkary, DH Albonesi, D Andrews, K Asanovic, ...
+Publication: Architecture 84, 91
+
+260. Energy-efficient trace reuse cache for embedded processors.
+Citations:
+Authors: C Xiangrong, Z Xiaolin, A Efthymiou, JD Garside, A Hossain, DJ Pease, ...
+Publication: Information Technology Journal 12 (8), 325-329
+
+263. 2003 Workshop on Duplicating, Deconstructing and Debunking
+Citations:
+Authors: B Black, M Lipasti, J Hallberg, T Palm, M Brorsson, D Parikh, Y Zhang, ...
+Publication: 
+
+273. IEEE Micro 1999 Annual Index, Vol. 19
+Citations:
+Authors: M Addra, A Aggarwal, T Aida, K Akimoto, M Akimoto, T Anderson, J Arlat, ...
+Publication: future 2000, 71-79
+
+282. evi rs List
+Citations:
+Authors: B Abali, AE Abbadi, T Abdelrahman, M Aboelaze, AA Abonamah, ...
+Publication: IEEE Transactions on Computers 45 (1)
+
+286. Tertiary ammonium chlorides: a problem in organic qualitative analysis
+Citations:
+Authors: R Christeck
+Publication: 
+
+287. Technical Programme Committee
+Citations:
+Authors: JH Ahn, KRB Aksanli, M Al Faruque, A Alaghi, S Altmeyer, NLL Amaru, ...
+Publication: 
+
+289. Shidhartha Das, Sanjay Pant, Rajeev Rao, Toan Pham, Conrad Ziesler, David Blaauw, Todd Austin, Krisztian Flautner, and others. 2003. Razor: A low-power pipeline based on …
+Citations:
+Authors: D Ernst, NS Kim
+Publication: Microarchitecture, MICRO-36. Proceedings. 36th Annual IEEE/ACM International …
+
+296. Robust Computing in the Nanoscale Era
+Citations:
+Authors: ASNTF Away
+Publication: 
+
+297. Austin. 1999. DIVA: A reliable substrate for deep submicron microarchitecture design
+Citations:
+Authors: M Todd
+Publication: Proceedings of the 32nd Annual International Symposium on Microarchitecture …
+
+300. Technical Program Co-Chair
+Citations:
+Authors: CJ Alpert, A Aziz, L Benini, RA Bergamaschi, S Bobba, C Chakrabarti, ...
+Publication: 
+
+304. 2001 Annual Index, Volume 18
+Citations:
+Authors: MD Aagaard, MS Abadir, JA Abraham, VK Agarwal, RC Aitken, T Ambler, ...
+Publication: 
+
+306. IEEE MultiMedia Volume 8
+Citations:
+Authors: M Alfonseca, F Andres, A Azcorra, C Barry, M Biezunski, VM Bove Jr, ...
+Publication: 
+
+308. Computer Systems Design and Applications
+Citations:
+Authors: M Charney, R Lee, S Reinhardt, M Breternitz, D August, KW Rudd, ...
+Publication: 
+
+309. Magdy Abadir
+Citations:
+Authors: J Abel, O Ait-Mohamed, N Amla, J Anderson, K Arabi, K Asari, S Audityan, ...
+Publication: 
+
+310. Technical Programme Committee
+Citations:
+Authors: A El Mostapha, AJ Acosta, ES IMSE, IBM Allon Adir, ILR Aitken, US ARM, ...
+Publication: 
+
+312. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+313. Reviewers Reviewers
+Citations:
+Authors: S Adve, P Ahuja, H Al-Sukhni, C Alvarez, S Amarasinghe, J Anderson, ...
+Publication: 
+
+314. Jaume Abella Barcelona Supercomputing Center ES El Mostapha Aboulhamid University of Montreal CA Antonio J Acosta-Jimenez University of Seville/IMSE ES Andrea Acquaviva …
+Citations:
+Authors: R Aitken, ARM US, S Alam, EI DE, P Ampadu, D Appello, D Atienza, ...
+Publication: 
+
+318. Balasubramonian, Rajeev, see DH Albonesi, Dec.
+Citations:
+Authors: D Adams, SV Adve, DP Agrawal, JH Ahn, AR Alameldeen
+Publication: 
+
+320. Technical Program Chair
+Citations:
+Authors: C Chase, T Brodnax
+Publication: 
+
+321. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+322. On Cosimulating Multiple Abstraction-Level System-Level Models............. HD Patel and SK Shukla 394 Scan-Based Delay Test Types and Their Effect on Power Dissipation During …
+Citations:
+Authors: H Jain, D Kroening, N Sharygina, EM Clarke, I Wagner, V Bertacco, ...
+Publication: 
+
+324. David Lilja Patrick Lincoln Mikko Lipasti Jose María Llabería Josep Llosa
+Citations:
+Authors: J Abella, J Abraham, A Abulafia, C Acosta, A Agarwal, A Alameldeen, ...
+Publication: 
+
+325. Alban Douillet Evelyn Duesterwald Sandhya Dwarkadas Erik Eidt Dan Ernst
+Citations:
+Authors: J Abella, S Abraham, S Adve, T Afzal, D Albonesi, B Alpern, E Altman, ...
+Publication: 
+
+328. AU THOR IN DEX
+Citations:
+Authors: B Aball, A Agarwal, CC Aggarwal, E Altman, S Amarasinghe, A Antola, ...
+Publication: 

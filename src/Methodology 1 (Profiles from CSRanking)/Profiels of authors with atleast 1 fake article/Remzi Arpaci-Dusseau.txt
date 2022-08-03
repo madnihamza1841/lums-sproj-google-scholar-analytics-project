@@ -1,0 +1,615 @@
+
+1. A case for NOW (networks of workstations)
+Citations:1295
+Authors: TE Anderson, DE Culler, D Patterson
+Publication: IEEE micro 15 (1), 54-64
+
+4. The interaction of parallel and sequential workloads on a network of workstations
+Citations:297
+Authors: RH Arpaci, AC Dusseau, AM Vahdat, LT Liu, TE Anderson, DA Patterson
+Publication: ACM SIGMETRICS Performance Evaluation Review 23 (1), 267-278
+
+5. IRON file systems
+Citations:296
+Authors: V Prabhakaran, LN Bairavasundaram, N Agrawal, HS Gunawi, ...
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 206-220
+
+6. Semantically-smart disk systems
+Citations:262
+Authors: M Sivathanu, V Prabhakaran, FI Popovici, TE Denehy, ...
+Publication: USENIX–The Advanced Computing Systems Association
+
+13. Effective distributed scheduling of parallel workloads
+Citations:222
+Authors: AC Dusseau, RH Arpaci, DE Culler
+Publication: ACM SIGMETRICS Performance Evaluation Review 24 (1), 25-36
+
+15. Serverless computation with openlambda
+Citations:178
+Authors: S Hendrickson, S Sturdevant, T Harter, V Venkataramani, ...
+Publication: 8th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 16)
+
+16. Analysis of {HDFS} Under HBase: A Facebook Messages Case Study
+Citations:151
+Authors: T Harter, D Borthakur, S Dong, A Aiyer, L Tang, AC Arpaci-Dusseau, ...
+Publication: Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …
+
+23. Fast parallel sorting under LogP: Experience with the CM-5
+Citations:138
+Authors: AC Dusseau, DE Culler, KE Schauser, RP Martin
+Publication: IEEE Transactions on Parallel and Distributed Systems 7 (8), 791-805
+
+24. Wisckey: Separating keys from values in ssd-conscious storage
+Citations:136
+Authors: L Lu, TS Pillai, H Gopalakrishnan, AC Arpaci-Dusseau, ...
+Publication: ACM Transactions on Storage (TOS) 13 (1), 5
+
+26. Empirical evaluation of the CRAY-T3D: A compiler perspective
+Citations:123
+Authors: RH Arpaci, DE Culler, A Krishnamurthy, SG Steinberg, K Yelick
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 320-331
+
+29. Parity Lost and Parity Regained.
+Citations:109
+Authors: A Krioukov, LN Bairavasundaram, GR Goodson, K Srinivasan, R Thelen, ...
+Publication: FAST 8, 1-15
+
+30. Flexibility, manageability, and performance in a grid storage appliance
+Citations:102
+Authors: J Bent, V Venkataramani, N LeRoy, A Roy, J Stanley, AC Arpaci-Dusseau, ...
+Publication: Proceedings 11th IEEE International Symposium on High Performance …
+
+33. All file systems are not created equal: On the complexity of crafting crash-consistent applications
+Citations:90
+Authors: TS Pillai, V Chidambaram, R Alagappan, S Al-Kiswany, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+35. Life or Death at Block-Level.
+Citations:85
+Authors: M Sivathanu, LN Bairavasundaram, AC Arpaci-Dusseau, ...
+Publication: OSDI 4, 26-26
+
+40. FATE and DESTINI: A framework for cloud recovery testing
+Citations:74
+Authors: HS Gunawi, T Do, P Joshi, P Alvaro, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: Proceedings of NSDI’11: 8th USENIX Symposium on Networked Systems Design and …
+
+41. X-ray: A non-invasive exclusive caching mechanism for raids
+Citations:74
+Authors: LN Bairavasundaram, M Sivathanu, AC Arpaci-Dusseau, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 176
+
+45. Improving file system reliability with I/O shepherding
+Citations:69
+Authors: HS Gunawi, V Prabhakaran, S Krishnan, AC Arpaci-Dusseau, ...
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 293-306
+
+48. Deconstructing commodity storage clusters
+Citations:65
+Authors: HS Gunawi, N Agrawal, AC Arpaci-Dusseau, J Schindler, ...
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 60-71
+
+50. Fast parallel sorting under LogP: from theory to practice
+Citations:62
+Authors: DE Culler, A Dusseau, R Martin, KE Schauser
+Publication: Portability and Performance for Parallel Processing, 71-98
+
+55. Introduction to split-c
+Citations:56
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, S Luna, ...
+Publication: figshare
+
+57. Warming Up Storage-Level Caches with Bonﬁre
+Citations:51
+Authors: Y Zhang, G Soundararajan, MW Storer, LN Bairavasundaram, S Subbiah, ...
+Publication: Presented as part of the 11th {USENIX} Conference on File and Storage …
+
+59. Database-Aware Semantically-Smart Storage.
+Citations:50
+Authors: M Sivathanu, LN Bairavasundaram, AC Arpaci-Dusseau, ...
+Publication: FAST 5, 18
+
+60. Membrane: Operating system support for restartable file systems
+Citations:47
+Authors: S Sundararaman, S Subramanian, A Rajimwale, AC Arpaci-Dusseau, ...
+Publication: ACM Transactions on Storage (TOS) 6 (3), 11
+
+62. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+63. Push-button verification of file systems via crash refinement
+Citations:45
+Authors: H Sigurbjarnarson, J Bornholt, E Torlak, X Wang
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+64. Split-level I/O scheduling
+Citations:43
+Authors: S Yang, T Harter, N Agrawal, SS Kowsalya, A Krishnamurthy, ...
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 474-489
+
+69. Physical disentanglement in a container-based file system
+Citations:36
+Authors: L Lu, Y Zhang, T Do, S Al-Kiswany, AC Arpaci-Dusseau, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+75. Application crash consistency and performance with CCFS
+Citations:31
+Authors: TS Pillai, R Alagappan, L Lu, V Chidambaram, AC Arpaci-Dusseau, ...
+Publication: ACM Transactions on Storage (TOS) 13 (3), 19
+
+78. ANViL: advanced virtualization for modern non-volatile memory devices
+Citations:30
+Authors: Z Weiss, S Subramanian, S Sundararaman, N Talagala, ...
+Publication: 13th {USENIX} Conference on File and Storage Technologies ({FAST} 15), 111-118
+
+80. The popper convention: Making reproducible systems evaluation practical
+Citations:28
+Authors: I Jimenez, M Sevilla, N Watkins, C Maltzahn, J Lofstead, K Mohror, ...
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+82. Analyzing the effects of disk-pointer corruption
+Citations:28
+Authors: LN Bairavasundaram, M Rungta, N Agrawa, AC Arpaci-Dusseau, ...
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+85. Impact of disk corruption on open-source DBMS
+Citations:26
+Authors: S Subramanian, Y Zhang, R Vaidyanathan, HS Gunawi, ...
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 509-520
+
+86. Tolerating File-System Mistakes with EnvyFS.
+Citations:26
+Authors: LN Bairavasundaram, S Sundararaman, AC Arpaci-Dusseau, ...
+Publication: Usenix Annual Technical Conference
+
+87. {SOCK}: Rapid Task Provisioning with Serverless-Optimized Containers
+Citations:25
+Authors: E Oakes, L Yang, D Zhou, K Houck, T Harter, A Arpaci-Dusseau, ...
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 57-70
+
+88. Coerced Cache Eviction and discreet mode journaling: Dealing with misbehaving disks
+Citations:25
+Authors: A Rajimwale, V Chidambaram, D Ramamurthi, AC Arpaci-Dusseau, ...
+Publication: 2011 IEEE/IFIP 41st International Conference on Dependable Systems …
+
+89. Avoiding file system micromanagement with range writes
+Citations:25
+Authors: A Anand, S Sen, A Krioukov, F Popovici, A Akella, A Arpaci-Dusseau, ...
+Publication: Proceedings of the 8th USENIX conference on Operating systems design and …
+
+90. John Bent, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, and Miron Livny. Gathering at the well: Creating communities for grid I/O
+Citations:25
+Authors: D Thain
+Publication: Proceedings of Supercomputing
+
+92. Modeling parallel sorts with LogP on the CM-5
+Citations:23
+Authors: AC Dusseau
+Publication: Computer Science Division (EECS), University of California
+
+93. Correlated crash vulnerabilities
+Citations:22
+Authors: R Alagappan, A Ganesan, Y Patel, TS Pillai, AC Arpaci-Dusseau, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+95. Introduction to Split-C: Version 0.9
+Citations:22
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, ...
+Publication: Technical report, Computer Science Division {EECS, University of California …
+
+96. On the [ir] relevance of network performance for data processing
+Citations:21
+Authors: A Trivedi, P Stuedi, J Pfefferle, R Stoica, B Metzler, I Koltsidas, N Ioannou
+Publication: 8th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 16)
+
+97. Crash consistency
+Citations:21
+Authors: TS Pillai, V Chidambaram, R Alagappan, S Al-Kiswany, ...
+Publication: Communications of the ACM 58 (10), 46-51
+
+99. Snapshots in a flash with iosnap
+Citations:20
+Authors: S Subramanian, S Sundararaman, N Talagala, AC Arpaci-Dusseau, ...
+Publication: Proceedings of the Ninth European Conference on Computer Systems, 23
+
+101. {HARDFS}: Hardening {HDFS} with Selective and Lightweight Versioning
+Citations:19
+Authors: T Do, T Harter, Y Liu, HS Gunawi, AC Arpaci-Dusseau, ...
+Publication: Presented as part of the 11th {USENIX} Conference on File and Storage …
+
+104. Beyond storage APIs: Provable semantics for storage stacks
+Citations:16
+Authors: R Alagappan, V Chidambaram, TS Pillai, AC Arpaci-Dusseau, ...
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+107. Pipsqueak: Lean lambdas with large libraries
+Citations:15
+Authors: E Oakes, L Yang, K Houck, T Harter, AC Arpaci-Dusseau, ...
+Publication: 2017 IEEE 37th International Conference on Distributed Computing Systems …
+
+112. Model-driven pose correction
+Citations:14
+Authors: Y Roth, AS Win, RH Arpaci, T Weymouth, R Jain
+Publication: Proceedings 1992 IEEE International Conference on Robotics and Automation …
+
+115. NeST: A Grid Enabled Storage Appliance
+Citations:12
+Authors: J Bent, V Venkataramani, N LeRoy, A Roy, J Stanley, AC Arpaci-Dusseau, ...
+Publication: Grid Resource Management, 341-357
+
+116. Tombolo: Performance enhancements for cloud storage gateways
+Citations:11
+Authors: S Yang, K Srinivasan, K Udayashankar, S Krishnan, J Feng, Y Zhang, ...
+Publication: 2016 32nd Symposium on Mass Storage Systems and Technologies (MSST), 1-14
+
+123. Interacting with large distributed datasets using Sketch
+Citations:9
+Authors: M Budiu, R Isaacs, D Murray, G Plotkin, P Barham, S Al-Kiswany, ...
+Publication: 
+
+124. Protocol-aware recovery for consensus-based storage
+Citations:8
+Authors: R Alagappan, A Ganesan, E Lee, A Albarghouthi, V Chidambaram, ...
+Publication: 16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 15-32
+
+125. I Aver: Providing Declarative Experiment Specifications Facilitates the Evaluation of Computer Systems Research
+Citations:8
+Authors: I Jimenez, C Maltzahn, J Lofstead, A Moody, K Mohror, A Arpaci-Dusseau, ...
+Publication: TinyToCS 4
+
+126. The case for limping-hardware tolerant clouds
+Citations:8
+Authors: T Do, HS Gunawi
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Cloud Computing
+
+127. Systematically benchmarking the effects of disk pointer corruption
+Citations:8
+Authors: LN Bairavasundaram, M Rungta, N Agrawal, AC Arpaci-Dusseau, ...
+Publication: Proceedings of the International Conference on Dependable Systems and …
+
+128. Standing on the shoulders of giants by managing scientific experiments like software
+Citations:7
+Authors: I Jimenez, M Sevilla, N Watkins, C Maltzahn, J Lofstead, K Mohror, ...
+Publication: USENIX; login 41
+
+130. Towards efficient, portable application-level consistency
+Citations:7
+Authors: TS Pillai, V Chidambaram, JY Hwang, AC Arpaci-Dusseau, ...
+Publication: Proceedings of the 9th Workshop on Hot Topics in Dependable Systems, 8
+
+134. Combining parallel and sequential workloads on a network of workstations
+Citations:7
+Authors: R Arpaci, A Vahdat, T Anderson, D Patterson
+Publication: Technical report, Computer Science Division, University of California at …
+
+135. HashKV: Enabling Efficient Updates in {KV} Storage via Hashing
+Citations:6
+Authors: HHW Chan, CJM Liang, Y Li, W He, PPC Lee, L Zhu, Y Dong, Y Xu, Y Xu, ...
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 1007-1019
+
+138. Popper: making reproducible systems performance evaluation practical
+Citations:6
+Authors: I Jimenez, M Sevilla, N Watkins, C Maltzahn, J Lofstead, K Mohror, ...
+Publication: UC Santa Cruz School of Engineering, Technical Report UCSC-SOE-16-10
+
+139. Towards a network marketplace in a cloud
+Citations:6
+Authors: D Yu, L Mai, S Arianfar, R Fonseca, O Krieger, D Oran
+Publication: 8th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 16)
+
+141. Towards Automatically Checking Thousands of Failures with Micro-specifications.
+Citations:6
+Authors: HS Gunawi, T Do, P Joshi, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: HotDep
+
+143. {UKSM}: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling
+Citations:5
+Authors: N Xia, C Tian, Y Luo, H Liu, X Wang
+Publication: 16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 325-340
+
+146. Combining Parallel and Sequential Workloads
+Citations:5
+Authors: RH Arpaci, AM Vahdat, TE Anderson, DA Patterson
+Publication: University of California at Berkeley
+
+147. Finding consistency in an inconsistent world: Towards deep semantic understanding of scale-out distributed databases
+Citations:4
+Authors: N Carvalho, H Kim, M Lu, P Sarkar, R Shekhar, T Thakur, P Zhou, ...
+Publication: 8th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 16)
+
+148. Making the common case the only case with anticipatory memory allocation
+Citations:4
+Authors: S Sundararaman, Y Zhang, S Subramanian, AC Arpaci-Dusseau, ...
+Publication: ACM Transactions on Storage (TOS) 7 (4), 13
+
+151. Limiting trust in the storage stack
+Citations:4
+Authors: LN Bairavasundaram, M Rungta, AC Arpaci-Dusseau, ...
+Publication: Proceedings of the second ACM workshop on Storage security and survivability …
+
+155. Mjölnir: collecting trash in a demanding new world
+Citations:3
+Authors: Z Weiss, S Subramanian, S Sundararaman, V Sridhar, N Talagala, ...
+Publication: Proceedings of the 3rd Workshop on Interactions of NVM/FLASH with Operating …
+
+156. vDrive: An Efficient and Consistent Virtual I/O System
+Citations:3
+Authors: M Saxena, P Zhou, DA Pease
+Publication: Proc. ACM SOSP
+
+158. Intelligent routing using network processors: Guiding design through analysis
+Citations:3
+Authors: MS Seshadri, J Bent, T Kosar
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+160. Re-examining Scheduling and Communication in Parallel Programs
+Citations:3
+Authors: AC Dusseau, RH Arpaci, DE Culler
+Publication: University of California, Berkeley, Computer Science Division
+
+165. Finding Error-Handling Bugs in Systems Code Using Static Analysis
+Citations:2
+Authors: C Rubio-González, B Liblit
+Publication: PhD Forum of the Grace Hopper Celebration of Women in Computing, Portland …
+
+167. Why panic ()?: improving reliability with restartable file systems
+Citations:2
+Authors: S Sundararaman, S Subramanian, A Rajimwale, AC Arpaci-Dusseau, ...
+Publication: ACM SIGOPS Operating Systems Review 44 (1), 25-29
+
+169. The influence of the Pharmacy Information System and Pharmacy and Therapeutics Committee on physician prescribing behavior in the Saudi Ministry of Health: A descriptive cross …
+Citations:2
+Authors: MA Alkelya
+Publication: The University of Wisconsin-Madison
+
+172. NOW-Sort: A Scalable, Commodity-Workstation Sort
+Citations:2
+Authors: RH Arpaci, AC Dusseau
+Publication: Final Project Report, CS-286: Implementation of Database Systems, 1-14
+
+173. The influences of the technical constraints and personnel limitations on the quality of maps in American newspapers
+Citations:2
+Authors: JA Leimer
+Publication: 
+
+178. The Role of Container Technology in Reproducible Computer Systems Research.
+Citations:1
+Authors: GF Lofstead, I Jimenez, C Maltzahn, A Moody, K Mohror, ...
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+179. Simba: Building Data-Centric Applications for Mobile Devices
+Citations:1
+Authors: N Agrawal
+Publication: 
+
+186. The Effects of a Non-Dedicated Environment on Parallel Applications
+Citations:1
+Authors: RH Arpaci, AC Dusseau, LT Liu
+Publication: 
+
+187. Model-driven pose correction—techniques and experiments
+Citations:1
+Authors: Y Roth, AS Wu, RH Arpaci, T Weymoth, R Jain
+Publication: Ann Arbor 1001, 48109-2110
+
+188. The Network-Integrated Storage System
+Citations:
+Authors: I Kettaneh, A Alquraan, H Takruri, S Yang, AS Dusseau, ...
+Publication: IEEE Transactions on Parallel and Distributed Systems
+
+191. The true cost of containing: a gVisor case study
+Citations:
+Authors: EG Young, P Zhu, T Caraza-Harter, AC Arpaci-Dusseau, ...
+Publication: 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19)
+
+193. Protocol-Aware Recovery for Consensus-Based Distributed Storage
+Citations:
+Authors: R Alagappan, A Ganesan, E Lee, A Albarghouthi, V Chidambaram, ...
+Publication: ACM Transactions on Storage (TOS) 14 (3), 21
+
+194. Data Storage Research Vision 2025: Report on NSF Visioning Workshop held May 30--June 1, 2018
+Citations:
+Authors: G Amvrosiadis, AR Butt, V Tarasov, E Zadok, M Zhao, I Ahmad, ...
+Publication: National Science Foundation
+
+195. SOCK: Serverless-Optimized Containers
+Citations:
+Authors: E Oakes, L Yang, D Zhou, K Houck, T Caraza-Harter, AC Arpaci-Dusseau, ...
+Publication: ; login: 43 (3)
+
+198. Demo abstract: PopperCI: Automated reproducibility validation
+Citations:
+Authors: I Jimenez, S Hamedian, J Lofstead, C Maltzahn, K Mohror, ...
+Publication: 2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS …
+
+200. Analysis of High-Tension Cable Median Barrier Crashes and Associated Severities
+Citations:
+Authors: J Ash
+Publication: 
+
+201. Resolving messaging deadlock in a distributed shared memory
+Citations:
+Authors: L Aronovich, R Asher
+Publication: US Patent 8,812,794
+
+202. File Systems and Storage
+Citations:
+Authors: F Giannakos, V Koukis, C Venetsanopoulos, N Koziris, M Lamourine, ...
+Publication: Workshop/Workshop on Trustworthy Elections
+
+203. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+204. Separating data from metadata for robustness and scalability
+Citations:
+Authors: Y Wang
+Publication: 
+
+205. Integrative Learning Experiences: Benchmark Achievements, Connotations, & Preferences
+Citations:
+Authors: E Hanson, A Benjamin
+Publication: 
+
+206. Architectural analysis of the Moqi Inca site
+Citations:
+Authors: S Vaughan
+Publication: 
+
+210. Influential media: insight into the college male's perspective on masculinity
+Citations:
+Authors: V Kuettel, K Planert
+Publication: 
+
+211. A county level analysis of high school dropout rates nationwide
+Citations:
+Authors: B Hallstrand, K Upadhyay
+Publication: 
+
+212. Archidamus' and Pericles' Foreign Policies: An Application of International Relations Theory
+Citations:
+Authors: L Hoggatt
+Publication: 
+
+213. Data corruption in the storage stack: a closer look
+Citations:
+Authors: L Bairavasundaram, G Goodson, B Schroeder, A Arpaci-Dusseau, ...
+Publication: ; login:: the magazine of USENIX & SAGE 33 (3), 6-14
+
+214. " The World Was Ours, We Marched Upon Our Little Corporals Command." The Fall of 1805: Ulm, Austerlitz, Pressburg, and the Three Months that Changed Europe
+Citations:
+Authors: N Zemple
+Publication: 
+
+216. The connection between relational aggression and popularity
+Citations:
+Authors: K Dehn
+Publication: 
+
+218. Computer Recognizes Expert Reviewers
+Citations:
+Authors: D Carver
+Publication: Computer, 77-79
+
+221. LNIVERSITY OF
+Citations:
+Authors: R Aipaci-Dusseau
+Publication: 
+
+223. UNIVERSITY OF
+Citations:
+Authors: M Sivathanu, V ayan Prabhakaran
+Publication: 
+
+227. 2002 reviewers list
+Citations:
+Authors: EM Aboulhamid, G Agrawal, A Akkas, D Albonesi, M Al-Mouhamed, ...
+Publication: IEEE Transactions on Computers 52 (1), 93
+
+230. j WISCONSIN
+Citations:
+Authors: M Sivathanu, V Prabhakaran, F Popovici, T Denehy, A Arpaci-Dusseau, ...
+Publication: 
+
+231. UNIVERSITY OF
+Citations:
+Authors: F Popovici, B Fomey, A Arpaci-Dusseau
+Publication: 
+
+235. A parallel sort merge join algorithm for managing data skew.
+Citations:
+Authors: P Rani, S Rani, A Alok, CG Plaxton, AC Dusseau, DE Culler, KE Schauser, ...
+Publication: Journal of Applied Sciences 8 (12), pp: 659-668
+
+236. The Interaction of Parallel and Sequential Workloads on a Network of Workstations, UC Berkeley
+Citations:
+Authors: RH ARPACI
+Publication: Technical Report
+
+237. Workshop proceedings for gender and natural resource tenure research, 3-4 October 1991
+Citations:
+Authors: N Sheehan
+Publication: Land Tenure Center, University of Wisconsin-Madison
+
+238. Courting the American dream: the social and cultural community of Jewish basketball in Philadelphia, 1920-1945
+Citations:
+Authors: SM Kolman
+Publication: University of Wisconsin--Madison
+
+239. An analysis and evaluation of the market for pharmaceutical and allied products in the field of occupational medicine in twenty-nine Wisconsin counties
+Citations:
+Authors: RJ Bennett
+Publication: University of Wisconsin
+
+240. Influence of treatment upon the prognosis of rheumatic heart disease in childhood
+Citations:
+Authors: LC Bickel
+Publication: 
+
+241. Analysis and discussion of the treatment of Sydenham's chorea
+Citations:
+Authors: EP Cheydleur
+Publication: 
+
+242. Influence of the economic depression in child health and nutrition
+Citations:
+Authors: HL Correll
+Publication: 
+
+243. The Influence of Truck Farming on Soil Fertility
+Citations:
+Authors: J Gaston
+Publication: 
+
+244. Program co-chairs
+Citations:
+Authors: M Baker, E Riedel, AC Arpaci-Dusseau, R Burns, H Gobioff, ...
+Publication: 
+
+247. Measurement & Profiling Readings
+Citations:
+Authors: JM Anderson, LM Berc, J Dean, S Ghemawat, MR Henzinger, STA Leung, ...
+Publication: 
+
+252. Analysis of HDFS Under HBase
+Citations:
+Authors: T Harter, D Borthakur, S Dong, A Aiyer, L Tang, AC Arpaci-Dusseau, ...
+Publication: 
+
+253. FILE SYSTEMS AND STORAGE
+Citations:
+Authors: T HARTER, D BORTHAKUR, S DONG, A AIYER, L TANG, ...
+Publication: 
+
+254. Reviewers for the Software Technology Track
+Citations:
+Authors: A Albano, K Alho, P Amodio, T Anderson, M Arikawa, C Assmann, ...
+Publication: 
+
+255. Moore’s Curse
+Citations:
+Authors: N Agrawal, HS Gunawi, V Prabhakaran, AC Arpaci-Dusseau, ...
+Publication: 
+
+257. Communication Behavior of a Distributed Operating System
+Citations:
+Authors: RH Arpaci
+Publication: 
+
+259. Haryadi S. Gunawi
+Citations:
+Authors: HS Gunawi, S Subramanian, R Vaidyanathan, Y Zhang, ...
+Publication: 
+
+260. Coerced Cache Eviction: Dealing with Misbehaving Disks through Discreet-Mode Journaling
+Citations:
+Authors: A Rajimwale, V Chidambaram, D Ramamurthi, AC Arpaci-Dusseau, ...
+Publication: 
+
+266. David Lilja Patrick Lincoln Mikko Lipasti Jose María Llabería Josep Llosa
+Citations:
+Authors: J Abella, J Abraham, A Abulafia, C Acosta, A Agarwal, A Alameldeen, ...
+Publication: 

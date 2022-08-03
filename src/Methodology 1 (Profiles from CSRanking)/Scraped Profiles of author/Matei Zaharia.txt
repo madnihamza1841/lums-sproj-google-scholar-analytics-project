@@ -1,0 +1,798 @@
+https://scholar.google.com/citations?hl=en&user=I1EvjZsAAAAJ
+Total Citations = 41306
+
+1. A view of cloud computing
+Citations:16950
+Authors: AD JoSEP, RAD KAtz, AD KonWinSKi, LEE Gunho, D PAttERSon, ...
+Publication: Communications of the ACM 53 (4)
+
+2. Spark: Cluster computing with working sets.
+Citations:4455
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: HotCloud 10 (10-10), 95
+
+3. Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing
+Citations:3876
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, MJ Franklin, ...
+Publication: Proceedings of the 9th USENIX conference on Networked Systems Design and …
+
+4. Improving MapReduce performance in heterogeneous environments.
+Citations:1854
+Authors: M Zaharia, A Konwinski, AD Joseph, RH Katz, I Stoica
+Publication: Osdi 8 (4), 7
+
+5. Mesos: A platform for fine-grained resource sharing in the data center.
+Citations:1514
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: NSDI 11 (2011), 22-22
+
+6. Delay scheduling: a simple technique for achieving locality and fairness in cluster scheduling
+Citations:1441
+Authors: M Zaharia, D Borthakur, J Sen Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Proceedings of the 5th European conference on Computer systems, 265-278
+
+7. Mllib: Machine learning in apache spark
+Citations:1028
+Authors: X Meng, J Bradley, B Yavuz, E Sparks, S Venkataraman, D Liu, ...
+Publication: The Journal of Machine Learning Research 17 (1), 1235-1241
+
+8. Dominant Resource Fairness: Fair Allocation of Multiple Resource Types.
+Citations:914
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Nsdi 11 (2011), 24-24
+
+9. Spark sql: Relational data processing in spark
+Citations:837
+Authors: M Armbrust, RS Xin, C Lian, Y Huai, D Liu, JK Bradley, X Meng, T Kaftan, ...
+Publication: Proceedings of the 2015 ACM SIGMOD international conference on management of …
+
+10. Discretized streams: Fault-tolerant streaming computation at scale
+Citations:836
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proceedings of the twenty-fourth ACM symposium on operating systems …
+
+11. Apache spark: a unified engine for big data processing
+Citations:759
+Authors: M Zaharia, RS Xin, P Wendell, T Das, M Armbrust, A Dave, X Meng, ...
+Publication: Communications of the ACM 59 (11), 56-65
+
+12. Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters
+Citations:543
+Authors: M Zaharia, T Das, H Li, S Shenker, I Stoica
+Publication: Proceedings of the 4th USENIX conference on Hot Topics in Cloud Computing, 10-10
+
+13. Managing data transfers in computer clusters with orchestra
+Citations:528
+Authors: M Chowdhury, M Zaharia, J Ma, MI Jordan, I Stoica
+Publication: SIGCOMM 41 (4)
+
+14. Shark: SQL and rich analytics at scale
+Citations:482
+Authors: RS Xin, J Rosen, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+15. Sparrow: distributed, low latency scheduling
+Citations:412
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+16. Job scheduling for multi-user mapreduce clusters
+Citations:403
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Technical Report UCB/EECS-2009-55, EECS Department, University of California …
+
+17. Learning spark: lightning-fast big data analysis
+Citations:372
+Authors: H Karau, A Konwinski, P Wendell, M Zaharia
+Publication: " O'Reilly Media, Inc."
+
+18. Tachyon: Reliable, memory speed storage for cluster computing frameworks
+Citations:303
+Authors: H Li, A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-15
+
+19. Low-cost communication for rural internet kiosks using mechanical backhaul
+Citations:287
+Authors: A Seth, D Kroeker, M Zaharia, S Guo, S Keshav
+Publication: Proceedings of the 12th annual international conference on Mobile computing …
+
+20. A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples
+Citations:273
+Authors: SN Naccache, S Federman, N Veeraraghavan, M Zaharia, D Lee, ...
+Publication: Genome research 24 (7), 1180-1192
+
+21. Multi-resource fair queueing for packet processing
+Citations:189
+Authors: A Ghodsi, V Sekar, M Zaharia, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 1-12
+
+22. Fast and interactive analytics over Hadoop data with Spark
+Citations:161
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M Mccauley, M Franklin, ...
+Publication: Usenix Login 37 (4), 45-51
+
+23. Choosy: Max-min fair sharing for datacenter jobs with constraints
+Citations:150
+Authors: A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 365-378
+
+24. Shark: fast data analysis using coarse-grained distributed memory
+Citations:145
+Authors: C Engle, A Lupher, R Xin, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+25. Faster and more accurate sequence alignment with SNAP
+Citations:127
+Authors: M Zaharia, WJ Bolosky, K Curtis, A Fox, D Patterson, S Shenker, I Stoica, ...
+Publication: arXiv preprint arXiv:1111.5572
+
+26. Constitutional constructions and constitutional decision rules: thoughts on the Carving of Implementation Space
+Citations:113
+Authors: MN Berman
+Publication: Const. Comment. 27, 39
+
+27. An architecture for fast and general data processing on large clusters
+Citations:111
+Authors: M Zaharia
+Publication: Morgan & Claypool
+
+28. Vuvuzela: Scalable private messaging resistant to traffic analysis
+Citations:111
+Authors: J Van Den Hooff, D Lazar, M Zaharia, N Zeldovich
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 137-152
+
+29. Very low-cost internet access using KioskNet
+Citations:96
+Authors: S Guo, MH Falaki, EA Oliver, S Ur Rahman, A Seth, MA Zaharia, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (5), 95-100
+
+30. Gossip‐based search selection in hybrid peer‐to‐peer networks
+Citations:91
+Authors: M Zaharia, S Keshav
+Publication: Concurrency and Computation: Practice and Experience 20 (2), 139-153
+
+31. Noscope: optimizing neural network queries over video at scale
+Citations:90
+Authors: D Kang, J Emmons, F Abuzaid, P Bailis, M Zaharia
+Publication: Proceedings of the VLDB Endowment 10 (11), 1586-1597
+
+32. Scaling spark in the real world: performance and usability
+Citations:82
+Authors: M Armbrust, T Das, A Davidson, A Ghodsi, A Or, J Rosen, I Stoica, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1840-1843
+
+33. Design and implementation of the KioskNet system
+Citations:71
+Authors: S Guo, M Derakhshani, MH Falaki, U Ismail, R Luk, EA Oliver, ...
+Publication: Computer Networks 55 (1), 264-281
+
+34. Scaling the mobile millennium system in the cloud
+Citations:66
+Authors: T Hunter, T Moldovan, M Zaharia, S Merzgui, J Ma, MJ Franklin, P Abbeel, ...
+Publication: Proceedings of the 2nd ACM Symposium on Cloud Computing, 28
+
+35. Weld: A common runtime for high performance data analytics
+Citations:64
+Authors: S Palkar, JJ Thomas, A Shanbhag, D Narayanan, H Pirk, M Schwarzkopf, ...
+Publication: Conference on Innovative Data Systems Research (CIDR)
+
+36. Matrix computations and optimization in apache spark
+Citations:64
+Authors: R Bosagh Zadeh, X Meng, A Ulanov, B Yavuz, L Pu, S Venkataraman, ...
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+37. Above the clouds: A Berkeley view of cloud computing (Technical Report No. UCB/EECS-2009-28)
+Citations:60
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, ...
+Publication: Berkeley, CA: University of California
+
+38. Griffith
+Citations:54
+Authors: M Armbrust, A Fox
+Publication: R., Joseph, AD, Katz, RH, Konwinski, A., Lee, G., Patterson, DA, Rabkin, A …
+
+39. Job scheduling for multi-user mapreduce clusters. EECS Department
+Citations:53
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2009-55, Apr, 2009-55
+
+40. Above the clouds: a Berkeley view of cloud computing
+Citations:53
+Authors: M Ambrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: University of California at Berkeley, February
+
+41. M odel DB: a system for machine learning model management
+Citations:52
+Authors: M Vartak, H Subramanyam, WE Lee, S Viswanathan, S Husnoo, ...
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 14
+
+42. Fairride: Near-optimal, fair cache sharing
+Citations:50
+Authors: Q Pu, H Li, M Zaharia, A Ghodsi, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+43. A Common Substrate for Cluster Computing.
+Citations:49
+Authors: B Hindman, A Konwinski, M Zaharia, I Stoica
+Publication: HotCloud
+
+44. Voodoo-a vector algebra for portable database performance on modern hardware
+Citations:48
+Authors: H Pirk, O Moll, M Zaharia, S Madden
+Publication: Proceedings of the VLDB Endowment 9 (14), 1707-1718
+
+45. Dawnbench: An end-to-end deep learning benchmark and competition
+Citations:47
+Authors: C Coleman, D Narayanan, D Kang, T Zhao, J Zhang, L Nardi, P Bailis, ...
+Publication: Training 100 (101), 102
+
+46. Job scheduling with the fair and capacity schedulers
+Citations:47
+Authors: M Zaharia
+Publication: Hadoop Summit 9
+
+47. Sparkr: Scaling r programs with spark
+Citations:44
+Authors: S Venkataraman, Z Yang, D Liu, E Liang, H Falaki, X Meng, R Xin, ...
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1099 …
+
+48. Graphframes: an integrated api for mixing graph and relational queries
+Citations:40
+Authors: A Dave, A Jindal, LE Li, R Xin, J Gonzalez, M Zaharia
+Publication: Proceedings of the Fourth International Workshop on Graph Data Management …
+
+49. Cloud terminal: secure access to sensitive applications from untrusted systems
+Citations:39
+Authors: L Martignoni, P Poosankam, M Zaharia, J Han, S McCamant, D Song, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+50. The Datacenter Needs an Operating System.
+Citations:39
+Authors: M Zaharia, B Hindman, A Konwinski, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: HotCloud
+
+51. Finding Content in File-Sharing Networks When You Can't Even Spell.
+Citations:39
+Authors: MA Zaharia, A Chandel, S Saroiu, S Keshav
+Publication: IPTPS
+
+52. Discretized streams: A fault-tolerant model for scalable stream processing
+Citations:38
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+53. Tachyon: Memory throughput i/o for cluster computing frameworks
+Citations:35
+Authors: H Li, A Ghodsi, M Zaharia, E Baldeschwieler, S Shenker, I Stoica
+Publication: memory 18 (1)
+
+54. Learning Spark: lightning-fast big data analytics
+Citations:34
+Authors: M Hamstra, M Zaharia
+Publication: O'Reilly & Associates
+
+55. Large-scale estimation in cyberphysical systems using streaming data: a case study with arterial traffic estimation
+Citations:33
+Authors: T Hunter, T Das, M Zaharia, P Abbeel, AM Bayen
+Publication: IEEE Transactions on Automation Science and Engineering 10 (4), 884-898
+
+56. Fast and optimal scheduling over multiple network interfaces
+Citations:33
+Authors: M Zaharia, S Keshav
+Publication: University of Waterloo Technical Report, CS-2007-36
+
+57. Achieving the KS threshold in the general stochastic block model with linearized acyclic belief propagation
+Citations:32
+Authors: E Abbe, C Sandon
+Publication: Advances in Neural Information Processing Systems, 1334-1342
+
+58. ICTD for healthcare in Ghana: two parallel case studies
+Citations:29
+Authors: R Luk, M Zaharia, M Ho, B Levine, PM Aoki
+Publication: 2009 International conference on information and communication technologies …
+
+59. Splinter: Practical private queries on public data
+Citations:27
+Authors: F Wang, C Yun, S Goldwasser, V Vaikuntanathan, M Zaharia
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+60. Stadium: A distributed metadata-private messaging system
+Citations:26
+Authors: N Tyagi, Y Gilad, D Leung, M Zaharia, N Zeldovich
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 423-440
+
+61. Structured streaming: A declarative API for real-time applications in apache spark
+Citations:23
+Authors: M Armbrust, T Das, J Torres, B Yavuz, S Zhu, R Xin, A Ghodsi, I Stoica, ...
+Publication: Proceedings of the 2018 International Conference on Management of Data, 601-613
+
+62. Graysort on apache spark by databricks
+Citations:23
+Authors: R Xin, P Deyhim, A Ghodsi, X Meng, M Zaharia
+Publication: GraySort Competition
+
+63. Dominant resource fairness: Fair allocation of heterogeneous resources in datacenters
+Citations:23
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Proc. of NSDI
+
+64. Making caches work for graph analytics
+Citations:20
+Authors: Y Zhang, V Kiriansky, C Mendis, S Amarasinghe, M Zaharia
+Publication: 2017 IEEE International Conference on Big Data (Big Data), 293-302
+
+65. Sparrow: Scalable scheduling for sub-second parallel jobs
+Citations:20
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2013-29
+
+66. Beyond data and model parallelism for deep neural networks
+Citations:17
+Authors: Z Jia, M Zaharia, A Aiken
+Publication: arXiv preprint arXiv:1807.05358
+
+67. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+68. Nexus: A common substrate for cluster computing
+Citations:15
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, S Shenker, ...
+Publication: Workshop on Hot Topics in Cloud Computing
+
+69. A policy-oriented architecture for opportunistic communication on multiple wireless networks
+Citations:15
+Authors: A Seth, M Zaharia, S Keshav, S Bhattacharyya
+Publication: Unpublished Manuscript. Available at http://blizzard. cs. uwaterloo. ca …
+
+70. An oblivious general-purpose SQL database for the cloud
+Citations:14
+Authors: S Eskandarian, M Zaharia
+Publication: CoRR abs/1710.00458
+
+71. Supporting fast iteration in model building
+Citations:14
+Authors: M Vartak, P Ortiz, K Siegel, H Subramanyam, S Madden, M Zaharia
+Publication: NIPS Workshop LearningSys
+
+72. Performance and scalability of broadcast in Spark
+Citations:14
+Authors: M Chowdhury, M Zaharia, I Stoica
+Publication: press
+
+73. A view of cloud computing
+Citations:13
+Authors: J Lee
+Publication: International Journal of Networked and Distributed Computing 1 (1), 2-8
+
+74. Blazeit: Fast exploratory video queries using neural networks
+Citations:12
+Authors: D Kang, P Bailis, M Zaharia
+Publication: arXiv preprint arXiv:1805.01046
+
+75. Batch sampling: Low overhead scheduling for sub-second prallel jobs
+Citations:12
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: University of California, Berkeley
+
+76. Analysis of dawnbench, a time-to-accuracy machine learning performance benchmark
+Citations:11
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 14-25
+
+77. Filter before you parse: Faster analytics on raw data with sparser
+Citations:11
+Authors: S Palkar, F Abuzaid, P Bailis, M Zaharia
+Publication: Proceedings of the VLDB Endowment 11 (11), 1576-1589
+
+78. Spark: the definitive guide: big data processing made simple
+Citations:11
+Authors: B Chambers, M Zaharia
+Publication: " O'Reilly Media, Inc."
+
+79. On Challenges in Machine Learning Model Management.
+Citations:11
+Authors: S Schelter, F Biessmann, T Januschowski, D Salinas, S Seufert, ...
+Publication: IEEE Data Eng. Bull. 41 (4), 5-15
+
+80. Resilient distributed datasets
+Citations:11
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, M Franklin, ...
+Publication: A fault-tolerant abstraction for in-memory cluster computing in Proceedings …
+
+81. Arthur: Rich post-facto debugging for production analytics applications
+Citations:10
+Authors: A Dave, M Zaharia, I Stoica
+Publication: University of California; Berkeley
+
+82. Optimally Designing Games for Cognitive Science Research
+Citations:10
+Authors: AN Rafferty, M Zaharia, TL Griffiths
+Publication: Annual Conference of the Cognitive Science Society
+
+83. Mistique: A system to store and query model intermediates for model diagnosis
+Citations:9
+Authors: M Vartak, JM F da Trindade, S Madden, M Zaharia
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1285 …
+
+84. Accelerating the Machine Learning Lifecycle with MLflow.
+Citations:9
+Authors: M Zaharia, A Chen, A Davidson, A Ghodsi, SA Hong, A Konwinski, ...
+Publication: IEEE Data Eng. Bull. 41 (4), 39-45
+
+85. Infrastructure for Usable Machine Learning: The Stanford DAWN Project
+Citations:9
+Authors: P Bailis, K Olukotun, C Ré, M Zaharia
+Publication: arXiv preprint arXiv:1705.07538
+
+86. Introduction to spark 2.0 for database researchers
+Citations:9
+Authors: M Armbrust, D Bateman, R Xin, M Zaharia
+Publication: Proceedings of the 2016 International Conference on Management of Data, 2193 …
+
+87. linalg: Matrix computations in apache spark
+Citations:9
+Authors: RB Zadeh, X Meng, B Yavuz, A Staple, L Pu, S Venkataraman, E Sparks, ...
+Publication: arXiv preprint arXiv:1509.02256, 13
+
+88. Above the clouds: A Berkeley view of cloud computing (February 2009)
+Citations:9
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, G Lee, ...
+Publication: URL https://www. eecs. berkeley. edu/Pubs/TechRpts/2009/EECS-2009-28. pdf
+
+89. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+90. Optimizing cache performance for graph analytics
+Citations:8
+Authors: Y Zhang, V Kiriansky, C Mendis, M Zaharia, S Amarasinghe
+Publication: arXiv preprint arXiv:1608.01362
+
+91. Above the Clouds: A View of Cloud Computing
+Citations:8
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Berkeley Reliable Adaptive Distributed systems Laboratory (RADLab)
+
+92. A New Communications API
+Citations:8
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: Electrical Engineering and Computer SciencesUniversity of California at …
+
+93. Enabling innovation below the communication api
+Citations:7
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: EECS Department, University of California, Berkeley, UCB/EECS-2009–141
+
+94. Large-scale online expectation maximization with spark streaming
+Citations:6
+Authors: T Hunter, T Das, M Zaharia, A Bayen, P Abbeel
+Publication: 
+
+95. Design and implementation of the kiosknet system (extended version)
+Citations:6
+Authors: S Guo, MH Falaki, U Ismail, EA Oliver, SU Rahman, A Seth, MA Zaharia, ...
+Publication: David R. Cheriton School Computer Science, Univ. Waterloo, Waterloo, ON …
+
+96. Hypervisors as a foothold for personal computer security: An agenda for the research community
+Citations:5
+Authors: M Zaharia, S Katti, C Grier, V Paxson, S Shenker, I Stoica, D Song
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+97. Adaptive peer-to-peer search
+Citations:5
+Authors: M Zaharia, S Keshav
+Publication: University of Waterloo Technical Report 55
+
+98. Optimizing DNN computation with relaxed graph substitutions
+Citations:4
+Authors: Z Jia, J Thomas, T Warszawski, M Gao, M Zaharia, A Aiken
+Publication: Proc. Conference on Systems and Machine Learning, SysML 19
+
+99. Challenges and Opportunities in DNN-Based Video Analytics: A Demonstration of the BlazeIt Video Query Engine.
+Citations:4
+Authors: D Kang, P Bailis, M Zaharia
+Publication: CIDR
+
+100. Model assertions for debugging machine learning
+Citations:4
+Authors: D Kang, D Raghavan, P Bailis, M Zaharia
+Publication: NeurIPS MLSys Workshop
+
+101. A Thunk to Remember: make-j1000 (and other jobs) on functions-as-a-service infrastructure
+Citations:4
+Authors: S Fouladi, D Iter, S Chatterjee, C Kozyrakis, M Zaharia, K Winstein
+Publication: 
+
+102. Mesos: Flexible resource sharing for the cloud
+Citations:4
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, R Katz, ...
+Publication: USENIX (August 2011)
+
+103. Spark
+Citations:4
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: Cluster Computing with Working Sets. In HotCloud 10
+
+104. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+105. Accelerating deep learning workloads through efficient multi-model execution
+Citations:3
+Authors: D Narayanan, K Santhanam, A Phanishayee, M Zaharia
+Publication: NIPS Workshop on Systems for Machine Learning (December 2018)
+
+106. Accelerating model search with model batching
+Citations:3
+Authors: D Narayanan, K Santhanam, M Zaharia
+Publication: Proceedings of 1st Conference on Systems and Machine Learning (SysML)
+
+107. ObliDB: Oblivious Query Processing using Hardware Enclaves
+Citations:3
+Authors: S Eskandarian, M Zaharia
+Publication: arXiv preprint arXiv:1710.00458
+
+108. SiRen: Leveraging Similar Regions for Efficient and Accurate Variant Calling
+Citations:3
+Authors: K Curtis, A Talwalkar, M Zaharia, A Fox, DA Patterson
+Publication: University of California at Berkeley Berkeley United States
+
+109. Optimally designing games for behavioural research
+Citations:3
+Authors: AN Rafferty, M Zaharia, TL Griffiths
+Publication: Proceedings of the Royal Society A: Mathematical, Physical and Engineering …
+
+110. Nested vector language: Roofline performance for data parallel code
+Citations:3
+Authors: S Palkar, J Thomas, M Zaharia
+Publication: 
+
+111. Lit: Block-wise intermediate representation training for model compression
+Citations:2
+Authors: A Koratana, D Kang, P Bailis, M Zaharia
+Publication: arXiv preprint arXiv:1810.01937
+
+112. What is changing in Big Data
+Citations:2
+Authors: M Zaharia
+Publication: 
+
+113. Large scale estimation in cyberphysical systems using streaming data: a case study with smartphone traces
+Citations:2
+Authors: T Hunter, T Das, M Zaharia, P Abbeel, AM Bayen
+Publication: arXiv preprint arXiv:1212.3393
+
+114. Flexible Resource Sharing for the Cloud
+Citations:2
+Authors: B Hindman, A KONWINSKI, M ZAHARIA, ALI GHODSI, AD JOSEPH, ...
+Publication: Aug
+
+115. Delay scheduling
+Citations:2
+Authors: M Zaharia
+Publication: Proceedings of the 5th European Conference on Computer Systems—EuroSys 10, 265
+
+116. Discretized streams
+Citations:2
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proc. of Twenty-Fourth ACM Symposium on Operating Systems Principles, 423-438
+
+117. Introduction to MapReduce and Hadoop
+Citations:2
+Authors: M Zaharia
+Publication: UC Berkeley RAD Lab
+
+118. From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers
+Citations:1
+Authors: S Fouladi, F Romero, D Iter, Q Li, S Chatterjee, C Kozyrakis, M Zaharia, ...
+Publication: 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19), 475-488
+
+119. Serverless execution of code using cluster resources
+Citations:1
+Authors: A Ghodsi, S Shankar, S Paranjpye, S Xin, M Zaharia
+Publication: US Patent App. 15/581,987
+
+120. Select Via Proxy: Efficient Data Selection For Training Deep Networks
+Citations:1
+Authors: C Coleman, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, J Leskovec, ...
+Publication: 
+
+121. Blazeit: An optimizing query engine for video at scale
+Citations:1
+Authors: D Kang, P Bailis, M Zaharia
+Publication: SysML
+
+122. DIY Hosting for Online Privacy
+Citations:1
+Authors: S Palkar, M Zaharia
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 1-7
+
+123. Beating State-of-the-art By-10000%.
+Citations:1
+Authors: R Xin, UC AMPLab, J Gonzalez, J Rosen, M Zaharia, M Franklin, ...
+Publication: CIDR
+
+124. Distributed Pipeline for Genomic Variant Calling
+Citations:1
+Authors: R Xia, S Sheehan, Y Zhang, A Talwalkar, M Zaharia, J Terhorst, M Jordan, ...
+Publication: NIPS Workshop on BIG Learning
+
+125. High capacity web winding apparatus for use in conjunction with a rotating circular knitting machine
+Citations:1
+Authors: K Reester
+Publication: US Patent 6,557,381
+
+126. Selection Via Proxy: Efficient Data Selection For Deep Learning
+Citations:
+Authors: C Coleman, C Yeh, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, ...
+Publication: arXiv preprint arXiv:1906.11829
+
+127. Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference
+Citations:
+Authors: P Kraft, D Kang, D Narayanan, S Palkar, P Bailis, M Zaharia
+Publication: arXiv preprint arXiv:1906.01974
+
+128. LIT: Learned Intermediate Representation Training for Model Compression
+Citations:
+Authors: A Koratana, D Kang, P Bailis, M Zaharia
+Publication: International Conference on Machine Learning, 3509-3518
+
+129. To Index or Not to Index: Optimizing Exact Maximum Inner Product Search
+Citations:
+Authors: F Abuzaid, G Sethi, P Bailis, M Zaharia
+Publication: 2019 IEEE 35th International Conference on Data Engineering (ICDE), 1250-1261
+
+130. Demonstration of MLflow: A System to Accelerate the Machine Learning Lifecycle
+Citations:
+Authors: C Zumar, A Chen, A Davidson, A Ghodsi, SA Hong, A Konwinski, ...
+Publication: 
+
+131. DIFF: a relational interface for large-scale data explanation
+Citations:
+Authors: F Abuzaid, P Kraft, S Suri, E Gan, E Xu, A Shenoy, A Ananthanarayan, ...
+Publication: Proceedings of the VLDB Endowment 12 (4), 419-432
+
+132. Machine Learning Reveals That Drivers for Persistent Atrial Fibrillation at Termination Sites Show Irregular Rotational Cycles and Domain Size
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, P Clopton, GL Meckler, NM Maniar, ...
+Publication: Circulation 138 (Suppl_1), A14493-A14493
+
+133. Sites Where Ablation Terminated Atrial Fibrillation Identified by Machine Learning Models
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, G Meckler, P Clopton, A Rogers, ...
+Publication: Circulation 138 (Suppl_1), A13161-A13161
+
+134. Abstract 14493
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, P Clopton, G Meckler, N Maniar, ...
+Publication: Circulation 138 (Suppl_1)
+
+135. Structured cluster execution for data streams
+Citations:
+Authors: M Armbrust, T Das, S Xin, M Zaharia
+Publication: US Patent App. 15/581,647
+
+136. Splitability Annotations: Optimizing Black-Box Function Composition in Existing Libraries
+Citations:
+Authors: S Palkar, M Zaharia
+Publication: arXiv preprint arXiv:1810.12297
+
+137. Model Specialization for Inference Via End-to-End Distillation, Pruning, and Cascades
+Citations:
+Authors: D Kang, K Shi, T Ngyuen, S Mallard, P Bailis, M Zaharia
+Publication: 
+
+138. Cluster instance management system
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent App. 15/682,397
+
+139. System for exploring data in a database
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent App. 15/675,619
+
+140. Cluster instance management system
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent 9,769,032
+
+141. System for exploring data in a database
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent 9,760,602
+
+142. SimDex: Exploiting Model Similarity in Exact Matrix Factorization Recommendations
+Citations:
+Authors: F Abuzaid, G Sethi, P Bailis, M Zaharia
+Publication: CoRR
+
+143. selected publications
+Citations:
+Authors: J Kosuth, W Freud, F Market
+Publication: Order, 80-111
+
+144. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+145. Alignment in a SNAP: Cancer Diagnosis in the Genomic Age
+Citations:
+Authors: M Zaharia, B Bolosky, K Curtis, D Patterson, A Fox, D Patterson, ...
+Publication: LABORATORY INVESTIGATION 92, 458A-458A
+
+146. Research Statement
+Citations:
+Authors: M Zaharia
+Publication: 
+
+147. Design, Analysis and Simulation of a System for Free-Text Search in Peer-to-Peer Networks
+Citations:
+Authors: MA Zaharia, S Keshav
+Publication: 
+
+148. Albers, M., Informationelle Selbstbestimmung, Baden-Baden 2005. Albrecht, JP, Das neue EU-Datenschutzrecht–von der Richtlinie zur Verordnung, CR 2016, 88.
+Citations:
+Authors: JP Albrecht, F Jotzo, J Ambrock, M Karg, M Armbrust, M Zaharia, A Fox, ...
+Publication: 
+
+149. BlazeIt: Optimizing Declarative Aggregation and Limit Queries for Neural Network-Based Video Analytics
+Citations:
+Authors: D Kang, P Bailis, M Zaharia
+Publication: 
+
+150. DEBUGGING MACHINE LEARNING VIA MODEL AS
+Citations:
+Authors: D Kang, D Raghavan, P Bailis, M Zaharia
+Publication: 
+
+151. DEMONSTRATION OF THE BLAZEIT VISUAL QUERY ENGINE USING SPECIALIZED NEURAL NETWORKS
+Citations:
+Authors: D Kang, P Bailis, M Zaharia
+Publication: 
+
+152. Exploring the Use of Learning Algorithms for Efficient Performance Profiling
+Citations:
+Authors: S Palkar, S Suri, P Bailis, M Zaharia
+Publication: 
+
+153. Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark
+Citations:
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: 
+
+154. D it R F i (DRF) Dominant Resource Fairness (DRF)
+Citations:
+Authors: A Ghodsi
+Publication: 
+
+155. Research in Operating Systems Sparrow
+Citations:
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: 
+
+156. Dominant Resource Fairness: Fair
+Citations:
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: 
+
+157. Optimally designing games for behavioural
+Citations:
+Authors: AN Rafferty, M Zaharia, TL Griffiths
+Publication: 
+
+158. 大型集群上的快速和通用数据处理架构
+Citations:
+Authors: M Zaharia, C CODE
+Publication: 
+
+159. Improving Hybrid Keyword-Based Search
+Citations:
+Authors: MA Zaharia, S Keshav
+Publication: 
+

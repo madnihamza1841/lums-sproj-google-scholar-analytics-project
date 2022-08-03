@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=vB96fX8AAAAJ
+Total Citations = 44466
+
+1. Using MPI: portable parallel programming with the message-passing interface
+Citations:5893
+Authors: W Gropp, WD Gropp, ADFEE Lusk, E Lusk, A Skjellum
+Publication: MIT press
+
+2. MPI--the Complete Reference: The MPI core
+Citations:4210
+Authors: M Snir, W Gropp, S Otto, S Huss-Lederman, J Dongarra, D Walker
+Publication: MIT press
+
+3. PETSc users manual
+Citations:3169
+Authors: S Balay, S Abhyankar, M Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Argonne National Laboratory
+
+4. A high-performance, portable implementation of the MPI message passing interface standard
+Citations:2898
+Authors: W Gropp, E Lusk, N Doss, A Skjellum
+Publication: Parallel computing 22 (6), 789-828
+
+5. Domain decomposition: parallel multilevel methods for elliptic partial differential equations
+Citations:2653
+Authors: B Smith, P Bjorstad, W Gropp
+Publication: Cambridge university press
+
+6. Efficient management of parallelism in object-oriented numerical software libraries
+Citations:1883
+Authors: S Balay, WD Gropp, LC McInnes, BF Smith
+Publication: Modern software tools for scientific computing, 163-202
+
+7. PETSc web page
+Citations:1098
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: 
+
+8. PETSc web page, 2001
+Citations:713
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, MG Knepley, LC McInnes, ...
+Publication: 
+
+9. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+10. Optimization of collective communication operations in MPICH
+Citations:625
+Authors: R Thakur, R Rabenseifner, W Gropp
+Publication: The International Journal of High Performance Computing Applications 19 (1 …
+
+11. Sourcebook of parallel computing
+Citations:595
+Authors: J Dongarra, I Foster, G Fox, W Gropp, K Kennedy, L Torczon, A White
+Publication: Morgan Kaufmann Publishers
+
+12. Data sieving and collective I/O in ROMIO
+Citations:594
+Authors: R Thakur, W Gropp, E Lusk
+Publication: Proceedings. Frontiers' 99. Seventh Symposium on the Frontiers of Massively …
+
+13. On implementing MPI-IO portably and with high performance.
+Citations:433
+Authors: R Thakur, W Gropp, E Lusk
+Publication: Argonne National Lab., IL (US)
+
+14. PETSc 2.0 users manual
+Citations:419
+Authors: S Balay, WD Gropp, LC McInnes, BF Smith
+Publication: Technical report, Argonne National Laboratory
+
+15. User’s Guide for mpich, a Portable Implementation of MPI
+Citations:399
+Authors: W Gropp, E Lusk
+Publication: Mathematics and Computer Science Division, Argonne National Laboratory
+
+16. Toward exascale resilience
+Citations:376
+Authors: F Cappello, A Geist, B Gropp, L Kale, B Kramer, M Snir
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+17. Parallel netCDF: A high-performance scientific I/O interface
+Citations:366
+Authors: J Li, W Liao, A Choudhary, R Ross, R Thakur, W Gropp, R Latham, ...
+Publication: SC'03: Proceedings of the 2003 ACM/IEEE conference on Supercomputing, 39-39
+
+18. CFD vision 2030 study: a path to revolutionary computational aerosciences
+Citations:323
+Authors: J Slotnick, A Khodadoust, J Alonso, D Darmofal, W Gropp, E Lurie, ...
+Publication: 
+
+19. An adaptive performance modeling tool for GPU architectures
+Citations:320
+Authors: SS Baghsorkhi, M Delahaye, SJ Patel, WD Gropp, WW Hwu
+Publication: ACM Sigplan Notices 45 (5), 105-114
+
+20. PETSc home page
+Citations:308
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, M Knepley, LC McInnes, ...
+Publication: 
+
+21. A comparison of domain decomposition techniques for elliptic partial differential equations and their parallel implementation
+Citations:291
+Authors: DE Keyes, WD Gropp
+Publication: SIAM Journal on Scientific and Statistical Computing 8 (2), s166-s202
+
+22. Toward scalable performance visualization with Jumpshot
+Citations:287
+Authors: O Zaki, E Lusk, W Gropp, D Swider
+Publication: The International Journal of High Performance Computing Applications 13 (3 …
+
+23. Improving the performance of collective operations in MPICH
+Citations:268
+Authors: R Thakur, WD Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+24. Reproducible measurements of MPI performance characteristics
+Citations:264
+Authors: W Gropp, E Lusk
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+25. Toward exascale resilience: 2014 update
+Citations:260
+Authors: F Cappello, A Geist, W Gropp, S Kale, B Kramer, M Snir
+Publication: Supercomputing frontiers and innovations 1 (1), 5-28
+
+26. Multiphysics simulations: Challenges and opportunities
+Citations:237
+Authors: DE Keyes, LC McInnes, C Woodward, W Gropp, E Myra, M Pernice, J Bell, ...
+Publication: The International Journal of High Performance Computing Applications 27 (1 …
+
+27. MPICH2: A new start for MPI implementations
+Citations:231
+Authors: W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+28. Fault tolerance in message passing interface programs
+Citations:227
+Authors: W Gropp, E Lusk
+Publication: The International Journal of High Performance Computing Applications 18 (3 …
+
+29. An abstract-device interface for implementing portable parallel-I/O interfaces
+Citations:216
+Authors: R Thakur, W Gropp, E Lusk
+Publication: Proceedings of 6th Symposium on the Frontiers of Massively Parallel …
+
+30. Optimization Environments and the
+Citations:212
+Authors: W Gropp, JJ Moré
+Publication: Approximation theory and optimization: tributes to MJD Powell, 167
+
+31. Numerical simulation of vortex dynamics in type-II superconductors
+Citations:206
+Authors: WD Gropp, HG Kaper, GK Leaf, DM Levine, M Palumbo, VM Vinokur
+Publication: Journal of Computational Physics 123 (2), 254-266
+
+32. Users guide for ROMIO: A high-performance, portable MPI-IO implementation
+Citations:205
+Authors: R Thakur, E Lusk, W Gropp
+Publication: Argonne National Lab., IL (United States)
+
+33. MPI-2: Extending the message-passing interface
+Citations:204
+Authors: A Geist, W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, W Saphir, ...
+Publication: European Conference on Parallel Processing, 128-135
+
+34. Petsc users manual revision 3.8
+Citations:198
+Authors: S Balay, S Abhyankar, M Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+35. A parallel version of the fast multipole method
+Citations:198
+Authors: L Greengard, WD Gropp
+Publication: Computers & Mathematics with Applications 20 (7), 63-71
+
+36. A message passing interface standard
+Citations:196
+Authors: MPI Mpi
+Publication: International Journal of Supercomputer Applications 8 (3/4), 165-414
+
+37. Modern software tools for scientific computing
+Citations:189
+Authors: E Arge, A Bruaset, HP Langtangen
+Publication: Springer Science & Business Media
+
+38. Exploiting hierarchy in parallel computer networks to optimize collective operation performance
+Citations:186
+Authors: NT Karonis, BR De Supinski, I Foster, W Gropp, E Lusk, J Bresnahan
+Publication: Proceedings 14th International Parallel and Distributed Processing Symposium …
+
+39. High-performance parallel implicit CFD
+Citations:174
+Authors: WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: Parallel Computing 27 (4), 337-362
+
+40. An introduction to domain decomposition methods: algorithms, theory, and parallel implementation
+Citations:163
+Authors: V Dolean, P Jolivet, F Nataf
+Publication: SIAM
+
+41. Parallel I/O prefetching using MPI file caching and I/O signatures
+Citations:160
+Authors: S Byna, Y Chen, XH Sun, R Thakur, W Gropp
+Publication: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, 44
+
+42. Using MPI: portable parallel programming with the message-passing interface. Vol. 1
+Citations:159
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT press
+
+43. Parallel Newton--Krylov--Schwarz algorithms for the transonic full potential equation
+Citations:152
+Authors: XC Cai, WD Gropp, DE Keyes, RG Melvin, DP Young
+Publication: SIAM Journal on Scientific Computing 19 (1), 246-265
+
+44. Parallel programming using C++
+Citations:150
+Authors: G Wilson, P Lu, W Gropp, E Lusk
+Publication: MIT press
+
+45. Method and apparatus for real-time parallel delivery of segments of a large payload file
+Citations:145
+Authors: DC Chan, SY Sim, R Thakur, T Isaacson, WD Gropp
+Publication: US Patent 7,076,553
+
+46. Achieving high sustained performance in an unstructured mesh CFD application
+Citations:137
+Authors: WK Anderson, WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: INSTITUTE FOR COMPUTER APPLICATIONS IN SCIENCE AND ENGINEERING HAMPTON VA
+
+47. Wide-area implementation of the Message Passing Interface
+Citations:131
+Authors: I Foster, J Geisler, W Gropp, N Karonis, E Lusk, G Thiruvathukal, S Tuecke
+Publication: Parallel Computing 24 (12-13), 1735-1749
+
+48. Design and evaluation of nemesis, a scalable, low-latency, message-passing communication subsystem
+Citations:130
+Authors: D Buntinas, G Mercier, W Gropp
+Publication: Sixth IEEE International Symposium on Cluster Computing and the Grid (CCGRID …
+
+49. Optimizing noncontiguous accesses in MPI–IO
+Citations:126
+Authors: R Thakur, W Gropp, E Lusk
+Publication: Parallel Computing 28 (1), 83-105
+
+50. MPI on a Million Processors
+Citations:125
+Authors: P Balaji, D Buntinas, D Goodell, W Gropp, S Kumar, E Lusk, R Thakur, ...
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+51. PETSc user’s manual. Res. Rep. ANL-95/11, Revision 3.0. 0
+Citations:125
+Authors: S Balay, K Buschelman, V Eijkhout, WD Gropp, D Kaushik, MG Knepley
+Publication: Argonne Natl. Lab., Chicago
+
+52. Design and Implementation of MPICH2 over InfiniBand with RDMA Support
+Citations:125
+Authors: J Liu, W Jiang, P Wyckoff, DK Panda, D Ashton, D Buntinas, W Gropp, ...
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+53. Toward realistic performance bounds for implicit CFD codes
+Citations:120
+Authors: WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: Proceedings of parallel CFD 99, 233-240
+
+54. Newton-Krylov-Schwarz methods in CFD
+Citations:111
+Authors: XC Cai, WD Gropp, DE Keyes, MD Tidriri
+Publication: Numerical methods for the Navier-Stokes equations, 17-30
+
+55. Applications-driven parallel I/O
+Citations:110
+Authors: N Galbreath, W Gropp, D Levine
+Publication: Supercomputing'93: Proceedings of the 1993 ACM/IEEE Conference on …
+
+56. From trace generation to visualization: A performance framework for distributed parallel systems
+Citations:107
+Authors: CE Wu, A Bolmarcich, M Snir, D Wootton, F Parpia, A Chan, E Lusk, ...
+Publication: Proceedings of the 2000 ACM/IEEE conference on Supercomputing, 50
+
+57. Globalized Newton-Krylov-Schwarz algorithms and software for parallel implicit CFD
+Citations:107
+Authors: W Gropp, D Keyes, LC Mcinnes, MD Tidriri
+Publication: The International Journal of High Performance Computing Applications 14 (2 …
+
+58. Using mpi-2
+Citations:106
+Authors: W Gropp, E Lusk, R Thakur
+Publication: Using MPI 2
+
+59. Noncontiguous i/o through pvfs
+Citations:102
+Authors: A Ching, A Choudhary, W Liao, R Ross, W Gropp
+Publication: Proceedings. IEEE International Conference on Cluster Computing, 405-414
+
+60. A case for using MPI's derived datatypes to improve I/O performance
+Citations:99
+Authors: R Thakur, W Gropp, E Lusk
+Publication: SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 1-1
+
+61. High performance MPI-2 one-sided communication over InfiniBand
+Citations:97
+Authors: W Jiang, J Liu, HW Jin, DK Panda, W Gropp, R Thakur
+Publication: IEEE International Symposium on Cluster Computing and the Grid, 2004. CCGrid …
+
+62. Using advanced MPI: Modern features of the message-passing interface
+Citations:94
+Authors: W Gropp, T Hoefler, R Thakur, E Lusk
+Publication: MIT Press
+
+63. Noncontiguous i/o accesses through mpi-io
+Citations:93
+Authors: A Ching, A Choudhary, K Coloma, W Liao, R Ross, W Gropp
+Publication: CCGrid 2003. 3rd IEEE/ACM International Symposium on Cluster Computing and …
+
+64. PETSc Users Manual, Argonne National Laboratory
+Citations:92
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Computer, Computational, and Statistical Sciences Division
+
+65. Implementation and evaluation of shared-memory communication and synchronization operations in MPICH2 using the Nemesis communication subsystem
+Citations:89
+Authors: D Buntinas, G Mercier, W Gropp
+Publication: Parallel Computing 33 (9), 634-644
+
+66. Design and implementation of message-passing services for the Blue Gene/L supercomputer
+Citations:85
+Authors: G Almási, C Archer, JG Castanos, JA Gunnels, CC Erway, P Heidelberger, ...
+Publication: IBM Journal of Research and Development 49 (2.3), 393-406
+
+67. MPI+ MPI: a new hybrid approach to parallel programming with MPI plus shared memory
+Citations:84
+Authors: T Hoefler, J Dinan, D Buntinas, P Balaji, B Barrett, R Brightwell, W Gropp, ...
+Publication: Computing 95 (12), 1121-1136
+
+68. An efficient format for nearly constant-time access to arbitrary time intervals in large trace files
+Citations:84
+Authors: A Chan, W Gropp, E Lusk
+Publication: Scientific Programming 16 (2-3), 155-165
+
+69. A comparison of some domain decomposition and ILU preconditioned iterative methods for nonsymmetric elliptic problems
+Citations:82
+Authors: XC Cai, WD Gropp, DE Keyes
+Publication: Numerical Linear Algebra with Applications 1 (5), 477-504
+
+70. PETSc
+Citations:81
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, MG Knepley, LC McInnes, ...
+Publication: See http://www. mcs. anl. gov/petsc
+
+71. Users' Guide to mpich, a Portable Implementation of MPI
+Citations:81
+Authors: P Bridges, N Doss, W Gropp, E Karrels, E Lusk, A Skjellum
+Publication: Argonne National Laboratory 9700, 60439-4801
+
+72. Modeling the performance of an algebraic multigrid cycle on HPC platforms
+Citations:80
+Authors: H Gahvari, AH Baker, M Schulz, UM Yang, KE Jordan, W Gropp
+Publication: Proceedings of the international conference on Supercomputing, 172-181
+
+73. Chameleon parallel programming tools users manual
+Citations:78
+Authors: WD Gropp, B Smith
+Publication: Technical Report ANL-93/23, Argonne National Laboratory, Argonne, IL
+
+74. Hiding I/O latency with pre-execution prefetching for parallel applications
+Citations:77
+Authors: Y Chen, S Byna, XH Sun, R Thakur, W Gropp
+Publication: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, 40
+
+75. High performance file I/O for the Blue Gene/L supercomputer
+Citations:74
+Authors: H Yu, RK Sahoo, C Howson, G Almasi, JG Castanos, M Gupta, JE Moreira, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+76. Parallel computing and domain decomposition
+Citations:74
+Authors: WD Gropp
+Publication: Fifth International Symposium on Domain Decomposition Methods for Partial …
+
+77. A multiplatform study of I/O behavior on petascale supercomputers
+Citations:73
+Authors: H Luu, M Winslett, W Gropp, R Ross, P Carns, K Harms, M Prabhat, ...
+Publication: Proceedings of the 24th International Symposium on High-Performance Parallel …
+
+78. Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics): Preface
+Citations:73
+Authors: M Abe, K Aoki, G Ateniese, R Avanzi, Z Beerliová, O Billet, A Biryukov, ...
+Publication: Lecture Notes in Computer Science (including subseries Lecture Notes in …
+
+79. Performance modeling and tuning of an unstructured mesh CFD application
+Citations:73
+Authors: WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: SC'00: Proceedings of the 2000 ACM/IEEE Conference on Supercomputing, 34-34
+
+80. A high-performance MPI implementation on a shared-memory vector supercomputer
+Citations:73
+Authors: W Gropp, E Lusk
+Publication: Parallel Computing 22 (11), 1513-1526
+
+81. The parallel scalability of the spectral transform method
+Citations:72
+Authors: I Foster, W Gropp, R Stevens
+Publication: Monthly Weather Review 120 (5), 835-850
+
+82. User’s Guide for mpich, a Portable Implementation of MPI. Mathematics and Computer Science Division, Argonne National Laboratory, 1996
+Citations:72
+Authors: WD Gropp, E Lusk
+Publication: ANL-96/6
+
+83. Performance modeling for systematic performance tuning
+Citations:71
+Authors: T Hoefler, W Gropp, W Kramer, M Snir
+Publication: State of the Practice Reports, 6
+
+84. Collective communication on architectures that support simultaneous communication over multiple links
+Citations:71
+Authors: E Chan, R Van De Geijn, W Gropp, R Thakur
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+85. Avoiding hot-spots on two-level direct networks
+Citations:70
+Authors: A Bhatele, N Jain, WD Gropp, LV Kale
+Publication: Proceedings of 2011 International Conference for High Performance Computing …
+
+86. Data transfers between processes in an SMP system: Performance study and application to MPI
+Citations:70
+Authors: D Buntinas, G Mercier, W Gropp
+Publication: 2006 International Conference on Parallel Processing (ICPP'06), 487-496
+
+87. Optimizing the synchronization operations in message passing interface one-sided communication
+Citations:70
+Authors: R Thakur, W Gropp, B Toonen
+Publication: The International Journal of High Performance Computing Applications 19 (2 …
+
+88. MPICH Working Note: Creating a new MPICH device using the Channel interface DRAFT
+Citations:70
+Authors: W Gropp, E Lusk
+Publication: 
+
+89. Scalable, extensible, and portable numerical libraries
+Citations:68
+Authors: W Gropp, B Smith
+Publication: Proceedings of Scalable Parallel Libraries Conference, 87-93
+
+90. Multi-core and network aware MPI topology functions
+Citations:67
+Authors: MJ Rashti, J Green, P Balaji, A Afsahi, W Gropp
+Publication: European MPI Users' Group Meeting, 50-60
+
+91. Formal analysis of mpi-based parallel programs: Present and future
+Citations:67
+Authors: G Gopalakrishnan, RM Kirby, S Siegel, R Thakur, W Gropp, E Lusk, ...
+Publication: Communications of the ACM, vol. 54, no. 12, December 1, 2011, pp. 82-91
+
+92. Remote memory access programming in MPI-3
+Citations:66
+Authors: T Hoefler, J Dinan, R Thakur, B Barrett, P Balaji, W Gropp, K Underwood
+Publication: ACM Transactions on Parallel Computing 2 (2), 9
+
+93. Implementing fast and reusable datatype processing
+Citations:66
+Authors: R Ross, N Miller, WD Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+94. MPI on millions of cores
+Citations:65
+Authors: P Balaji, D Buntinas, D Goodell, W Gropp, T Hoefler, S Kumar, E Lusk, ...
+Publication: Parallel Processing Letters 21 (01), 45-60
+
+95. PMI: A scalable parallel process-management interface for extreme-scale systems
+Citations:65
+Authors: P Balaji, D Buntinas, D Goodell, W Gropp, J Krishna, E Lusk, R Thakur
+Publication: European MPI Users' Group Meeting, 31-41
+
+96. A standard interface for debugger access to message queue information in MPI
+Citations:65
+Authors: J Cownie, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+97. Fine-grained multithreading support for hybrid threaded MPI programming
+Citations:63
+Authors: P Balaji, D Buntinas, D Goodell, W Gropp, R Thakur
+Publication: The International Journal of High Performance Computing Applications 24 (1 …
+
+98. Domain decomposition on parallel computers
+Citations:63
+Authors: WD Gropp, DE Keyes
+Publication: IMPACT of Computing in Science and Engineering 1 (4), 421-439
+
+99. Complexity of parallel implementation of domain decomposition techniques for elliptic partial differential equations
+Citations:63
+Authors: WD Gropp, DE Keyes
+Publication: SIAM Journal on Scientific and Statistical Computing 9 (2), 312-326
+
+100. Implementation and shared-memory evaluation of MPICH2 over the Nemesis communication subsystem
+Citations:62
+Authors: D Buntinas, G Mercier, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+101. Learning from the success of MPI
+Citations:62
+Authors: WD Gropp
+Publication: International Conference on High-Performance Computing, 81-92
+
+102. A scalable process-management environment for parallel programs
+Citations:62
+Authors: R Butler, W Gropp, E Lusk
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+103. A test of moving mesh refinement for 2-D scalar hyperbolic problems
+Citations:62
+Authors: WD Gropp
+Publication: SIAM Journal on Scientific and Statistical Computing 1 (2), 191-197
+
+104. MPICH-GQ: Quality-of-service for message passing programs
+Citations:59
+Authors: A Roy, I Foster, W Gropp, N Karonis, V Sander, B Toonen
+Publication: SC'00: Proceedings of the 2000 ACM/IEEE Conference on Supercomputing, 19-19
+
+105. Domain decomposition methods for partial differential equations
+Citations:59
+Authors: BF Smith
+Publication: Parallel Numerical Algorithms, 225-243
+
+106. Electron injection by a nanowire in the bubble regime
+Citations:56
+Authors: B Shen, Y Li, K Nemeth, H Shang, Y Chae, R Soliday, R Crowell, E Frank, ...
+Publication: Physics of plasmas 14 (5), 053115
+
+107. Thread-safety in an MPI implementation: Requirements and analysis
+Citations:54
+Authors: W Gropp, R Thakur
+Publication: Parallel Computing 33 (9), 595-604
+
+108. Improving the performance of MPI derived datatypes
+Citations:52
+Authors: W Gropp, E Lusk, D Swider
+Publication: Proceedings of the Third MPI Developer’s and User’s Conference, 25-30
+
+109. Sowing MPICH: A case study in the dissemination of a portable environment for parallel scientific computing
+Citations:52
+Authors: W Gropp, E Lusk
+Publication: The International Journal of Supercomputer Applications and High Performance …
+
+110. Domain decomposition methods in computational fluid dynamics
+Citations:52
+Authors: WD Gropp, DE Keyes
+Publication: International journal for numerical methods in fluids 14 (2), 147-165
+
+111. Local uniform mesh refinement with moving grids
+Citations:52
+Authors: WD Gropp
+Publication: SIAM journal on scientific and statistical computing 8 (3), 292-304
+
+112. Dynamic process management in an MPI setting
+Citations:51
+Authors: W Gropp, E Lusk
+Publication: Proceedings. Seventh IEEE Symposium on Parallel and Distributed Processing …
+
+113. MPICH2 User’s Guide Version 1.0. 7 Mathematics and Computer Science Division Argonne National Laboratory
+Citations:50
+Authors: W Gropp, E Lusk, D Ashton, P Balaji, D Buntinas, R Butler, A Chan, ...
+Publication: 
+
+114. A taxonomy of programming models for symmetric multiprocessors and SMP clusters
+Citations:50
+Authors: WW Gropp, EL Lusk
+Publication: Programming models for massively parallel computers, 2-7
+
+115. Using MPI: portable parallel programming with the message-passing interface. Scientific and engineering computation
+Citations:50
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT Press, Cambridge, MA, USA
+
+116. Amphotericin B, its production, and its salts
+Citations:49
+Authors: JD Dutcher, G William, JF Pagano, V John
+Publication: US Patent 2,908,611
+
+117. Test suite for evaluating performance of multithreaded MPI communication
+Citations:47
+Authors: R Thakur, W Gropp
+Publication: Parallel Computing 35 (12), 608-617
+
+118. Tutorial on mpi: The message-passing interface
+Citations:47
+Authors: W Gropp
+Publication: Mathematics and Computer Science Division Argonne National Laboratory …
+
+119. Test suite for evaluating performance of MPI implementations that support MPI_THREAD_MULTIPLE
+Citations:47
+Authors: R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+120. The portable, extensible toolkit for scientific computation
+Citations:47
+Authors: S Balay, W Gropp, LC McInnes, B Smith
+Publication: Argonne National Laboratory
+
+121. User’s guide for mpe extensions for mpi programs
+Citations:47
+Authors: A Chan, W Gropp, E Lusk
+Publication: Technical Report ANL-98/xx, Argonne National Laboratory, 1998. The updated …
+
+122. Issues in developing a thread-safe MPI implementation
+Citations:46
+Authors: W Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+123. MPI the Complete Reference: The MPI-2 Extensions, Vol. 2
+Citations:46
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: MIT Press
+
+124. Components and interfaces of a process management system for parallel programs
+Citations:45
+Authors: R Butler, W Gropp, E Lusk
+Publication: Parallel Computing 27 (11), 1417-1429
+
+125. An implementation and evaluation of the MPI 3.0 one‐sided communication interface
+Citations:44
+Authors: J Dinan, P Balaji, D Buntinas, D Goodell, W Gropp, R Thakur
+Publication: Concurrency and Computation: Practice and Experience 28 (17), 4385-4404
+
+126. LACIO: A new collective I/O strategy for parallel I/O systems
+Citations:44
+Authors: Y Chen, XH Sun, R Thakur, PC Roth, WD Gropp
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 794-804
+
+127. Goals guiding design: PVM and MPI
+Citations:44
+Authors: W Gropp, E Lusk
+Publication: Proceedings. IEEE International Conference on Cluster Computing, 257-265
+
+128. Installation guide for mpich, a portable implementation of MPI
+Citations:44
+Authors: W Gropp, E Lusk
+Publication: Technical Report ANL-96/5, Argonne National Laboratory
+
+129. Domain decomposition with local mesh refinement
+Citations:44
+Authors: WD Gropp, DE Keyes
+Publication: SIAM journal on scientific and statistical computing 13 (4), 967-993
+
+130. A comparison of some domain decomposition algorithms for nonsymmetric elliptic problems
+Citations:44
+Authors: XC Cai, WD Gropp, DE Keyes
+Publication: Fifth International Symposium on Domain Decomposition Methods for Partial …
+
+131. Why are PVM and MPI so different?
+Citations:43
+Authors: W Gropp, E Lusk
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+132. PETSc home page, 2001
+Citations:43
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, M Knepley, LC McInnes, ...
+Publication: 
+
+133. An abstract device definition to support the implementation of a high-level point-to-point message-passing interface
+Citations:43
+Authors: W Gropp, E Lusk
+Publication: Preprint MCS-P342-1193, Mathematics and Computer Science Division, Argonne …
+
+134. PETSc, the portable, extensible toolkit for scientific computation
+Citations:42
+Authors: S Balay, W Gropp, LC McInnes, BF Smith
+Publication: Argonne National Laboratory 2 (17)
+
+135. Experiences with Domain Decomposition
+Citations:42
+Authors: WD Gropp, BF Smith
+Publication: Domain Decomposition Methods in Science and Engineering: The Sixth …
+
+136. Krylov methods preconditioned with incompletely factored matrices on the CM-2
+Citations:42
+Authors: H Berryman, J Saltz, W Gropp, R Mirchandaney
+Publication: Journal of Parallel and Distributed Computing 8 (2), 186-190
+
+137. Leveraging MPI’s one-sided communication interface for shared-memory programming
+Citations:41
+Authors: T Hoefler, J Dinan, D Buntinas, P Balaji, BW Barrett, R Brightwell, ...
+Publication: European MPI Users' Group Meeting, 132-141
+
+138. Hierarchical collectives in mpich2
+Citations:41
+Authors: H Zhu, D Goodell, W Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+139. A model implementation of MPI
+Citations:40
+Authors: N Doss, W Gropp, E Lusk, A Skjellum
+Publication: Technical report, Argonne National Laboratory
+
+140. Practical model-checking method for verifying correctness of MPI programs
+Citations:39
+Authors: S Pervez, G Gopalakrishnan, RM Kirby, R Palmer, R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+141. Formal verification of programs that use MPI one-sided communication
+Citations:39
+Authors: S Pervez, G Gopalakrishnan, RM Kirby, R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+142. Implementing MPI-IO atomic mode without file system support
+Citations:39
+Authors: R Ross, R Latham, W Gropp, R Thakur, B Toonen
+Publication: CCGrid 2005. IEEE International Symposium on Cluster Computing and the Grid …
+
+143. A. Skjellum. Using MPI. Portable Parallel Programming with the Message-Passing Interface
+Citations:39
+Authors: W Gropp, E Lusk
+Publication: The MIT Press, Cambridge, Massachusetts 199 (4)
+
+144. An experimental evaluation of the parallel I/O systems of the IBM SP and Intel Paragon using a production application
+Citations:39
+Authors: R Thakur, W Gropp, E Lusk
+Publication: International Conference of the Austrian Center for Parallel Computation, 24-35
+
+145. Simplified linear equation solvers users manual
+Citations:39
+Authors: W Gropp, B Smith
+Publication: Argonne National Lab., IL (United States)
+
+146. Faster topology-aware collective algorithms through non-minimal communication
+Citations:38
+Authors: P Sack, W Gropp
+Publication: ACM SIGPLAN Notices 47 (8), 45-54
+
+147. Toward efficient support for multithreaded MPI communication
+Citations:38
+Authors: P Balaji, D Buntinas, D Goodell, W Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+148. The MPI communication library: its design and a portable implementation
+Citations:38
+Authors: W Gropp, E Lusk
+Publication: Proceedings of Scalable Parallel Libraries Conference, 160-165
+
+149. The Blue Waters super-system for super-science
+Citations:37
+Authors: B Bode, M Butler, T Dunning, T Hoefler, W Kramer, W Gropp, W Hwu
+Publication: Contemporary high performance computing, 339-366
+
+150. MPI at Exascale
+Citations:37
+Authors: R Thakur, P Balaji, D Buntinas, D Goodell, W Gropp, T Hoefler, S Kumar, ...
+Publication: Procceedings of SciDAC 2, 14-35
+
+151. Programming for exascale computers
+Citations:36
+Authors: W Gropp, M Snir
+Publication: Computing in Science & Engineering 15 (6), 27-35
+
+152. Enabling concurrent multithreaded MPI communication on multicore petascale systems
+Citations:36
+Authors: G Dózsa, S Kumar, P Balaji, D Buntinas, D Goodell, W Gropp, ...
+Publication: European MPI Users' Group Meeting, 11-20
+
+153. Efficient implementation of MPI-2 passive one-sided communication on InfiniBand clusters
+Citations:36
+Authors: W Jiang, J Liu, HW Jin, DK Panda, D Buntinas, R Thakur, WD Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+154. Minimizing synchronization overhead in the implementation of MPI one-sided communication
+Citations:36
+Authors: R Thakur, WD Gropp, B Toonen
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+155. MPI on BlueGene/L: Designing an efficient general purpose messaging solution for a large cellular system
+Citations:36
+Authors: G Almási, C Archer, JG Castaños, M Gupta, X Martorell, JE Moreira, ...
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+156. I/O in parallel applications: The weakest link
+Citations:36
+Authors: R Thakur, E Lusk, W Gropp
+Publication: The International Journal of High Performance Computing Applications 12 (4 …
+
+157. Volume integral equations in non‐linear 3‐D magnetostatics
+Citations:36
+Authors: L Kettunen, K Forsman, D Levine, W Gropp
+Publication: International journal for numerical methods in engineering 38 (16), 2655-2675
+
+158. Parallel netCDF: A scientific high-performance I/O interface
+Citations:35
+Authors: J Li, W Liao, A Choudhary, R Ross, R Thakur, W Gropp, R Latham
+Publication: arXiv preprint cs/0306048
+
+159. Using MPI: Portable Parallel Programming with the Message Passing
+Citations:35
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: Interface
+
+160. Users manual for the Chameleon parallel programming tools
+Citations:35
+Authors: W Gropp, B Smith
+Publication: Argonne National Lab., IL (United States); Office of Naval Research …
+
+161. Implementing efficient dynamic formal verification methods for MPI programs
+Citations:34
+Authors: S Vakkalanka, M DeLisi, G Gopalakrishnan, RM Kirby, R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+162. Implementing MPI on the BlueGene/L supercomputer
+Citations:34
+Authors: G Almási, C Archer, JG Castanos, CC Erway, P Heidelberger, X Martorell, ...
+Publication: European Conference on Parallel Processing, 833-845
+
+163. Installation and user’s guide for mpich, a portable implementation of MPI
+Citations:34
+Authors: W Gropp, E Lusk
+Publication: Technical Report ANL-01/x, Argonne National Laboratory, 2001. The updated …
+
+164. A., Skjellum
+Citations:34
+Authors: W Gropp, E Lusk
+Publication: Using MPI,
+
+165. An introductory exascale feasibility study for FFTs and multigrid
+Citations:33
+Authors: H Gahvari, W Gropp
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+166. Self-consistent MPI performance guidelines
+Citations:33
+Authors: JL Traff, WD Gropp, R Thakur
+Publication: IEEE Transactions on Parallel and Distributed Systems 21 (5), 698-709
+
+167. Natively supporting true one-sided communication in MPI on multi-core systems with InfiniBand
+Citations:33
+Authors: G Santhanaraman, P Balaji, K Gopalakrishnan, R Thakur, W Gropp, ...
+Publication: 2009 9th IEEE/ACM International Symposium on Cluster Computing and the Grid …
+
+168. Solution of dense systems of linear equations arising from integral-equation formulations
+Citations:33
+Authors: K Forsman, W Gropp, L Kettunen, D Levine, J Salonen
+Publication: IEEE Antennas and Propagation Magazine 37 (6), 96-100
+
+169. MPICH ADI implementation reference manual
+Citations:32
+Authors: W Gropp, E Lusk
+Publication: Argonne National Laboratory
+
+170. Petsc 2.0 users manual
+Citations:32
+Authors: B Smith, WD Gropp, LC McInnes, S Balay
+Publication: Argonne National Laboratory, Draft
+
+171. Computational fluid dynamics on parallel processors
+Citations:31
+Authors: WD Gropp, EB Smith
+Publication: Computers & Fluids 18 (3), 289-304
+
+172. Hybrid static/dynamic scheduling for already optimized dense matrix factorization
+Citations:30
+Authors: S Donfack, L Grigori, WD Gropp, V Kale
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+173. Toward performance models of MPI implementations for understanding application scaling issues
+Citations:30
+Authors: T Hoefler, W Gropp, R Thakur, JL Träff
+Publication: European MPI Users' Group Meeting, 21-30
+
+174. Annotations for productivity and performance portability
+Citations:30
+Authors: B Norris, A Hartono, W Gropp
+Publication: Petascale Computing: Algorithms and Applications. Computational Science …
+
+175. Scalable Unix commands for parallel processors: A high-performance implementation
+Citations:30
+Authors: E Ong, E Lusk, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+176. An evaluation of implementation options for MPI one-sided communication
+Citations:29
+Authors: W Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+177. Collective error detection for MPI collective operations
+Citations:29
+Authors: C Falzone, A Chan, E Lusk, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+178. Scalable Unix tools on parallel processors
+Citations:29
+Authors: W Gropp, E Lusk
+Publication: Proceedings of IEEE Scalable High Performance Computing Conference, 56-62
+
+179. Applied mathematics at the US Department of Energy: Past, present and a view to the future
+Citations:28
+Authors: DL Brown, J Bell, D Estep, W Gropp, B Hendrickson, S Keller-McNulty, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+180. Convergence rate estimate for a domain decomposition method
+Citations:28
+Authors: XC Cai, WD Gropp, DE Keyes
+Publication: Numerische Mathematik 61 (1), 153-169
+
+181. Runtime checking of datatype signatures in MPI
+Citations:27
+Authors: WD Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+182. I/O characterization of a portable astrophysics application on the IBM SP and Intel Paragon
+Citations:27
+Authors: R Thakur, E Lusk, W Gropp
+Publication: Argonne National Lab., IL (United States). Mathematics and Computer Science Div.
+
+183. An initial implementation of MPI
+Citations:27
+Authors: NE Doss, W Gropp, E Lusk, A Skjellum
+Publication: Technical Report MCS-P393-1193, Mathematics and Computer Science Division …
+
+184. A test implementation of the MPI draft message-passing standard
+Citations:27
+Authors: W Gropp, E Lusk
+Publication: Argonne National Lab., IL (United States)
+
+185. A formal approach to detect functionally irrelevant barriers in MPI programs
+Citations:26
+Authors: S Sharma, S Vakkalanka, G Gopalakrishnan, RM Kirby, R Thakur, ...
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+186. A multilevel approach to topology-aware collective operations in computational grids
+Citations:26
+Authors: NT Karonis, B De Supinski, I Foster, W Gropp, E Lusk
+Publication: arXiv preprint cs/0206038
+
+187. Using MPI: Portable Parallel Programming with the Message Passing Iinterface
+Citations:26
+Authors: A Skjellum, E Lusk, W Gropp
+Publication: MIT Press
+
+188. The MPI-2 extensions
+Citations:26
+Authors: WD Gropp, S Huss-Lederman
+Publication: MIT Press
+
+189. Résistance génétique des petits ruminants aux helminthes en Afrique
+Citations:26
+Authors: RL Baker
+Publication: Productions Animales 1 (10), 99-100.(1997)
+
+190. The design of data-structure-neutral libraries for the iterative solution of sparse linear systems
+Citations:26
+Authors: BF Smith, WD Gropp
+Publication: Scientific Programming 5 (4), 329-336
+
+191. User's Guide for mUich, a aortadle Implementation of MaI Version 1.2. 2
+Citations:26
+Authors: W Gropp, E Lusk
+Publication: 
+
+192. Architectural constraints to attain 1 exaflop/s for three scientific application classes
+Citations:25
+Authors: A Bhatele, P Jetley, H Gahvari, L Wesolowski, WD Gropp, L Kale
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 80-91
+
+193. Exploring parallel I/O concurrency with speculative prefetching
+Citations:25
+Authors: Y Chen, S Byna, XH Sun, R Thakur, W Gropp
+Publication: 2008 37th International Conference on Parallel Processing, 422-429
+
+194. Revealing the performance of MPI RMA implementations
+Citations:25
+Authors: WD Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+195. Using MPI-2 Advanced Features of the Message Passing Interface, ser. Scientific and Engineering Computation
+Citations:25
+Authors: W Gropp, E Lusk, R Thakur
+Publication: MIT Press Cambridge, MA, USA
+
+196. User’s Guide for MPE: Extensions for MPI Programs
+Citations:25
+Authors: W Gropp, E Lusk
+Publication: Argonne National Laboratory
+
+197. MPICH working note: The second-generation ADI for the MPICH implementation of MPI
+Citations:25
+Authors: W Gropp, E Lusk
+Publication: Mathematics and Computer Science Division, Argonne National Laboratory
+
+198. Parallel multilevel methods for elliptic partial differential equations
+Citations:25
+Authors: BF Smith, P Bjorstad, WD Gropp
+Publication: Domain Decomposition
+
+199. Performance analysis of the lattice Boltzmann model beyond Navier-Stokes
+Citations:24
+Authors: AP Randles, V Kale, J Hammond, W Gropp, E Kaxiras
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+200. Performance expectations and guidelines for MPI derived datatypes
+Citations:24
+Authors: W Gropp, T Hoefler, R Thakur, JL Träff
+Publication: European MPI Users' Group Meeting, 150-159
+
+201. Toward message passing for a million processes: Characterizing MPI on a massive scale Blue Gene/P
+Citations:24
+Authors: P Balaji, A Chan, R Thakur, W Gropp, E Lusk
+Publication: Computer Science-Research and Development 24 (1-2), 11-19
+
+202. Jumpshot-4 Users Guide
+Citations:24
+Authors: A Chan, D Ashton, R Lusk, W Gropp
+Publication: Mathematics and Computer Science Division, Argonne National Laboratory, http …
+
+203. Predicting memory-access cost based on data-access patterns
+Citations:24
+Authors: S Byna, XH Sun, W Gropp, R Thakur
+Publication: 2004 IEEE International Conference on Cluster Computing (IEEE Cat. No …
+
+204. Scalable Log Files for Parallel Program Trace Data DRAFT
+Citations:24
+Authors: A Chan, W Gropp, E Lusk
+Publication: Argonne National Laboratory, Argonne, IL 60439, 1-61
+
+205. PVM and MPI are completely different
+Citations:24
+Authors: W Gropp, E Lusk
+Publication: Science Division, Argonne National Laboratory
+
+206. Modeling the performance of an algebraic multigrid cycle using hybrid mpi/openmp
+Citations:23
+Authors: H Gahvari, W Gropp, KE Jordan, M Schulz, UM Yang
+Publication: 2012 41st International Conference on Parallel Processing, 128-137
+
+207. Scalable memory use in MPI: a case study with MPICH2
+Citations:23
+Authors: D Goodell, W Gropp, X Zhao, R Thakur
+Publication: European MPI Users' Group Meeting, 140-149
+
+208. Investigating high performance RMA interfaces for the MPI-3 standard
+Citations:23
+Authors: V Tipparaju, W Gropp, H Ritzdorf, R Thakur, JL Traff
+Publication: 2009 International Conference on Parallel Processing, 293-300
+
+209. Communication analysis of parallel 3D FFT for flat cartesian meshes on large Blue Gene systems
+Citations:23
+Authors: A Chan, P Balaji, W Gropp, R Thakur
+Publication: International Conference on High-Performance Computing, 350-364
+
+210. Parallel implicit PDE computations: Algorithms and software
+Citations:23
+Authors: WD Gropp, D Keyes, L McInnes, M Tidriri
+Publication: Proceedings of Parallel CFD 97, 333-344
+
+211. MPICH2 User’s Guide version 1.0. 3
+Citations:22
+Authors: W Gropp, E Lusk, D Ashton, P Balaji, D Buntinas, R Butler, A Chan, ...
+Publication: Argonne National Laboratory
+
+212. Users manual for KSP data-structure-neutral codes implementing Krylov space methods
+Citations:22
+Authors: W Gropp, B Smith
+Publication: Argonne National Lab., IL (United States)
+
+213. Using MP1
+Citations:22
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT Press
+
+214. Towards millions of communicating threads
+Citations:21
+Authors: HV Dang, M Snir, W Gropp
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+215. Exascale research: preparing for the post-Moore era
+Citations:21
+Authors: M Snir, WD Gropp, P Kogge
+Publication: 
+
+216. Using MPI: Portable parallel processing with the Message Passing Interface
+Citations:21
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: The MIT Press, Cambridge, MA
+
+217. A Viewpoint on the Quantity" Plane Angle"
+Citations:21
+Authors: WE Eder
+Publication: Metrologia 18 (1), 1
+
+218. Big data and extreme-scale computing: Pathways to convergence-toward a shaping strategy for a future software and data ecosystem for scientific inquiry
+Citations:20
+Authors: M Asch, T Moore, R Badia, M Beck, P Beckman, T Bidot, F Bodin, ...
+Publication: The International Journal of High Performance Computing Applications 32 (4 …
+
+219. Non-data-communication overheads in MPI: analysis on Blue Gene/P
+Citations:20
+Authors: P Balaji, A Chan, W Gropp, R Thakur, E Lusk
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+220. Optimizing of collective communication operations in MPICH
+Citations:20
+Authors: R Thakur, R Rabenseifner, W Gropp
+Publication: ANL/MCS-P1140-0304
+
+221. MPI--the Complete Reference: The MPI Extensions
+Citations:20
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: Mit Press
+
+222. Parallel performance of domain-decomposed preconditioned Krylov methods for PDEs with locally uniform refinement
+Citations:20
+Authors: WD Gropp, DE Keyes
+Publication: SIAM Journal on Scientific and Statistical Computing 13 (1), 128-145
+
+223. A scalable MPI_Comm_split algorithm for exascale computing
+Citations:19
+Authors: P Sack, W Gropp
+Publication: European MPI Users' Group Meeting, 1-10
+
+224. MPI at Exascale: Challenges for Data Structures and Algorithms.
+Citations:19
+Authors: W Gropp
+Publication: PVM/MPI, 3
+
+225. Using MPI—2nd Edition: Portable Parallel Programming with the Message Passing Interface
+Citations:19
+Authors: W Gropp, E Lusk, A Skjellum, R Thahur
+Publication: MIT Press, 467, 468
+
+226. Parallel implicit methods for aerodynamics
+Citations:19
+Authors: XC Cai, WD Gropp, DE Keyes, MD Tidriri
+Publication: Contemporary Mathematics 180, 465-465
+
+227. MPI-eine Einführung: portable parallele Programmierung mit dem Message-Passing Interface
+Citations:18
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: Walter de Gruyter GmbH & Co KG
+
+228. A portable method for finding user errors in the usage of MPI collective operations
+Citations:18
+Authors: C Falzone, A Chan, E Lusk, W Gropp
+Publication: The International Journal of High Performance Computing Applications 21 (2 …
+
+229. Message passing and threads
+Citations:18
+Authors: I Foster, W Gropp, C Kesselman
+Publication: Sourcebook of Parallel Computing,(Month Unknown), 301-317
+
+230. Optimization Environments and the NEOS Server. Approximation Theory and Optimization, MD Buhmann and A. Iserles, eds
+Citations:18
+Authors: W Gropp, JJ Moré
+Publication: Cambridge University Press
+
+231. Users guide for the ANL IBM SP1
+Citations:18
+Authors: W Gropp, E Lusk, SC Pieper
+Publication: Argonne National Lab., IL (United States)
+
+232. Using MPI: Portable Parallel Programming with the Message Passing Interface. 1999
+Citations:18
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT Press
+
+233. Open issues in MPI implementation
+Citations:17
+Authors: R Thakur, W Gropp
+Publication: Asia-Pacific Conference on Advances in Computer Systems Architecture, 327-338
+
+234. Automatic memory optimizations for improving MPI derived datatype performance
+Citations:17
+Authors: S Byna, XH Sun, R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+235. Latency, bandwidth, and concurrent issue limitations in high-performance CFD.
+Citations:17
+Authors: WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: Argonne National Lab., IL (US)
+
+236. Modeling MPI communication performance on SMP nodes: Is it time to retire the ping pong test
+Citations:16
+Authors: W Gropp, LN Olson, P Samfass
+Publication: Proceedings of the 23rd European MPI Users' Group Meeting, 41-50
+
+237. Optimizing sparse data structures for matrix-vector multiply
+Citations:16
+Authors: D Guo, W Gropp
+Publication: The International Journal of High Performance Computing Applications 25 (1 …
+
+238. The importance of non-data-communication overheads in MPI
+Citations:16
+Authors: P Balaji, A Chan, W Gropp, R Thakur, E Lusk
+Publication: The International Journal of High Performance Computing Applications 24 (1 …
+
+239. Providing efficient I/O redundancy in MPI environments
+Citations:16
+Authors: WD Gropp, R Ross, N Miller
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+240. A science-based case for large-scale simulation
+Citations:16
+Authors: P Colella, TH Dunning Jr, WD Gropp, DE Keyes
+Publication: Washington, DC: DOE Office of Science
+
+241. Parallel solution of the three-dimensional time-dependent Ginzburg-Landau equation
+Citations:16
+Authors: N Galbreath, W Gropp, D Gunter, G Leaf, D Levine
+Publication: Argonne National Lab., IL (United States)
+
+242. Early experiences with the IBM SP1 and the high-performance switch
+Citations:16
+Authors: W Gropp
+Publication: Argonne National Lab., IL (United States)
+
+243. Domain decomposition techniques for the parallel solution of nonsymmetric systems of elliptic boundary value problems
+Citations:16
+Authors: DE Keyes, WD Gropp
+Publication: Applied numerical mathematics 6 (4), 281-301
+
+244. Local uniform mesh refinement for elliptic partial differential equations
+Citations:16
+Authors: WD Gropp
+Publication: SIAM J. Sei. Statist. Comput., to appear
+
+245. Performing Arts: the Economic Dilemma; a Study of Problems Common to Theater, Opera, Music, and Dance
+Citations:16
+Authors: WG Bowen
+Publication: New York: Twentieth Century Fund
+
+246. Reducing parallel communication in algebraic multigrid through sparsification
+Citations:15
+Authors: A Bienz, RD Falgout, W Gropp, LN Olson, JB Schroder
+Publication: SIAM Journal on Scientific Computing 38 (5), S332-S357
+
+247. Load balancing for regular meshes on SMPs with MPI
+Citations:15
+Authors: V Kale, W Gropp
+Publication: European MPI Users' Group Meeting, 229-238
+
+248. Processing MPI datatypes outside MPI
+Citations:15
+Authors: R Ross, R Latham, W Gropp, E Lusk, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+249. Scalable Input/Output: achieving system balance
+Citations:15
+Authors: DA Reed, W Gropp, E Lusk
+Publication: MIT Press
+
+250. Improving the performance of MPI collective communication on switched networks
+Citations:15
+Authors: R Thakur, W Gropp
+Publication: Recent Advances in Parallel Virtual Machine and Message Passing Interface …
+
+251. High performance wide area data transfers over high performance networks
+Citations:15
+Authors: P Woodward, P Dickens, W Gropp
+Publication: ipdps, 0254b
+
+252. MPICH Working Note: The implementation of the second generation MPICH ADI
+Citations:15
+Authors: W Gropp, E Lusk
+Publication: Mathematics and Computer Science Division, Argonne National Laboratory, ANL
+
+253. Users' Guide for mpich, a Portable Implementation of MPI. 1996
+Citations:15
+Authors: W Gropp, W Lusk
+Publication: Mathematics and Computer Science Division, Argonne National Laboratory
+
+254. MPICH user’s guide
+Citations:14
+Authors: P Balaji, W Bland, W Gropp, R Latham, H Lu, AJ Pena, K Raffenetti, S Seo, ...
+Publication: Argonne National Laboratory
+
+255. An abstract device definition to support the implementation of a high-level message-passing interface
+Citations:14
+Authors: W Gropp, E Lusk
+Publication: Technical Report MCS-P342-1193, Argonne National Laboratory
+
+256. Domain decomposition techniques for nonsymmetric systems of elliptic boundary value problems: Examples from CFD
+Citations:14
+Authors: DE Keyes, WD Gropp
+Publication: Second International Symposium on Domain Decomposition Methods, 321-339
+
+257. Scalable non-blocking preconditioned conjugate gradient methods
+Citations:13
+Authors: PR Eller, W Gropp
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+258. A decoupled execution paradigm for data-intensive high-end computing
+Citations:13
+Authors: Y Chen, C Chen, XH Sun, WD Gropp, R Thakur
+Publication: 2012 IEEE International Conference on Cluster Computing, 200-208
+
+259. The blue waters super-system for super-science. contemporary hpc architectures, jeffery vetter editor
+Citations:13
+Authors: B Bode, M Butler, T Dunning, W Gropp, T Hoe-fler, W Hwu, W Kramer
+Publication: Sitka Publications, November
+
+260. EcoG: A power-efficient GPU cluster architecture for scientific computing
+Citations:13
+Authors: M Showerman, J Enos, C Steffen, S Treichler, W Gropp, WH Wen-mei
+Publication: Computing in Science & Engineering 13 (2), 83
+
+261. Minimizing MPI resource contention in multithreaded multicore environments
+Citations:13
+Authors: D Goodell, P Balaji, D Buntinas, G Dozsa, W Gropp, S Kumar, ...
+Publication: 2010 IEEE International Conference on Cluster Computing, 1-8
+
+262. Update on libraries for blue waters
+Citations:13
+Authors: W Gropp
+Publication: Joint Laboratory for PetaScale Computation, Bordeaux, France
+
+263. Nonuniformly communicating noncontiguous data: A case study with petsc and mpi
+Citations:13
+Authors: P Balaji, D Buntinas, S Balay, B Smith, R Thakur, W Gropp
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-10
+
+264. NIC-based atomic operations on Myrinet/GM
+Citations:13
+Authors: D Buntinas, D Panda, W Gropp
+Publication: SAN-1 Workshop, High Performance Computer Architecture (HPCA-8) Conference
+
+265. MPICH working note: The second-generation ADI for the MPICH implementation of MPI
+Citations:13
+Authors: E Lusk, W Gropp
+Publication: Technical report, Argonne National Laboratory
+
+266. MPICH model MPI implementation reference manual
+Citations:13
+Authors: W Gropp, E Lusk, N Doss, A Skjellum
+Publication: Technical report, Argonne National Laboratory, Argonne
+
+267. Domain Decomposition. 1996
+Citations:13
+Authors: B Smith, P Bjorstad, W Gropp
+Publication: Cambridge University Press
+
+268. Sk jellum, A.(1994)
+Citations:13
+Authors: W Gropp, E Lusk
+Publication: Using MPI
+
+269. CFD vision 2030 study: A path to revolutionary computational aerosciences: NASA
+Citations:12
+Authors: J Slotnick, A Khodadoust, J Alonso, D Darmofal, W Gropp, E Lurie, ...
+Publication: Rapport technique, Nasa
+
+270. Self-consistent MPI-IO performance requirements and expectations
+Citations:12
+Authors: WD Gropp, D Kimpe, R Ross, R Thakur, JL Träff
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+271. A simple, pipelined algorithm for large, irregular all-gather problems
+Citations:12
+Authors: JL Träff, A Ripke, C Siebert, P Balaji, R Thakur, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+272. Analyzing the impact of supporting out-of-order communication on in-order performance with iWARP
+Citations:12
+Authors: P Balaji, W Feng, S Bhagvat, DK Panda, R Thakur, W Gropp
+Publication: Proceedings of the 2007 ACM/IEEE conference on Supercomputing, 35
+
+273. Portable, extensible toolkit for scientific computation (PETSc)
+Citations:12
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, M Knepley, LC McInnes, ...
+Publication: Argonne National Laboratory
+
+274. Prototype of AM3: active mapper and monitoring module for Myrinet environments
+Citations:12
+Authors: S Baik, CS Hood, WD Gropp
+Publication: 27th Annual IEEE Conference on Local Computer Networks, 2002. Proceedings …
+
+275. MPICH2 design document
+Citations:12
+Authors: D Ashton, W Gropp, E Lusk, R Ross, B Toonen
+Publication: Draft, Argonne National Laboratory, USA 10
+
+276. User Guide for ROMIO: A High Performance
+Citations:12
+Authors: R Thakur, E Lusk, W Gropp
+Publication: Portable MPI-IO Implementation, TM
+
+277. Early applications in the message-passing interface (MPI)
+Citations:12
+Authors: A Skjellum, E Lusk, W Gropp
+Publication: The International journal of supercomputer applications and high performance …
+
+278. portable parallel programming with the message passing interface, Scientific And Engineering Computation Series
+Citations:12
+Authors: W Gropp, E Lusk, A Skjellum, EU MPI
+Publication: MIT Press
+
+279. A. skjellum. Using MPI
+Citations:12
+Authors: W Gropp, E Lusk
+Publication: MIT Press, Cambridge, Massachusetts
+
+280. Analysis of topology-dependent MPI performance on Gemini networks
+Citations:11
+Authors: AJ Peña, RGC Carvalho, J Dinan, P Balaji, R Thakur, W Gropp
+Publication: Proceedings of the 20th European MPI Users' Group Meeting, 61-66
+
+281. MPI 3 and beyond: why MPI is successful and what challenges it faces
+Citations:11
+Authors: W Gropp
+Publication: European MPI Users' Group Meeting, 1-9
+
+282. Runtime support for object-based message-driven parallel applications on heterogeneous clusters
+Citations:11
+Authors: D Kunzman
+Publication: University of Illinois at Urbana-Champaign
+
+283. MPI (Message Passing Interface)
+Citations:11
+Authors: W Gropp
+Publication: Encyclopedia of Parallel Computing, 1184-1190
+
+284. Formal methods applied to high‐performance computing software design: a case study of MPI one‐sided communication‐based locking
+Citations:11
+Authors: S Pervez, G Gopalakrishnan, RM Kirby, R Thakur, W Gropp
+Publication: Software: Practice and Experience 40 (1), 23-43
+
+285. Analytical performance prediction for evaluation and tuning of GPGPU applications
+Citations:11
+Authors: SS Baghsorkhi, M Delahaye, WD Gropp, WH Wen-mei
+Publication: Workshop on EPHAM2009, in Conjunction with CGO, Citeseer
+
+286. Evaluating structured I/O methods for parallel file systems
+Citations:11
+Authors: A Ching, A Choudhary, WK Liao, R Ross, W Gropp
+Publication: International Journal of High Performance Computing and Networking 2 (2 …
+
+287. An evaluation of object-based data transfers on high performance networks
+Citations:11
+Authors: PM Dickens, W Gropp
+Publication: Proceedings 11th IEEE International Symposium on High Performance …
+
+288. NIC-based atomic remote memory operations in Myrinet/GM
+Citations:11
+Authors: D Buntinas, DK Panda, W Gropp
+Publication: IN MYRINET/GM,” IN WORKSHOP ON NOVE USES OF SYSTEM AREA NETWORKS (SAN1
+
+289. MPI–the complete reference (2-volume set)
+Citations:11
+Authors: M Snir, WD Gropp
+Publication: Cambridge, Mass.: MIT Press
+
+290. Modern software tools for scientific computing. chapter Efficient management of parallelism in object-oriented numerical software libraries
+Citations:11
+Authors: S Balay, WD Gropp, LC McInnes, BF Smith
+Publication: Birkhäuser Press 42, 163-202
+
+291. Implementing MPI: The 1994 MPI implementors' workshop
+Citations:11
+Authors: W Gropp, E Lusk
+Publication: Proceedings Scalable Parallel Libraries Conference, 55-59
+
+292. Portable Programming with the Message-Passing Interface
+Citations:11
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: The MIT Press
+
+293. Using MPI: portable parallel programming
+Citations:11
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: I the Message Passing Interface, MIT Press, Cambridge, MA
+
+294. MPICH Web page
+Citations:11
+Authors: W Gropp, E Lusk
+Publication: 
+
+295. PETSc Web page, 2013b
+Citations:11
+Authors: S Balay, J Brown, K Buschelman, WD Gropp, D Kaushik, MG Knepley, ...
+Publication: URL http://www. mcs. anl. gov/petsc
+
+296. Exploring the feasibility of lossy compression for PDE simulations
+Citations:10
+Authors: J Calhoun, F Cappello, LN Olson, M Snir, WD Gropp
+Publication: The International Journal of High Performance Computing Applications 33 (2 …
+
+297. Toward asynchronous and MPI-interoperable active messages
+Citations:10
+Authors: X Zhao, D Buntinas, J Zounmevo, J Dinan, D Goodell, P Balaji, R Thakur, ...
+Publication: 2013 13th IEEE/ACM International Symposium on Cluster, Cloud, and Grid …
+
+298. A case for optimistic coordination in hpc storage systems
+Citations:10
+Authors: P Carns, K Harms, D Kimpe, R Ross, J Wozniak, L Ward, M Curry, ...
+Publication: 2012 SC Companion: High Performance Computing, Networking Storage and …
+
+299. A pipelined algorithm for large, irregular all-gather problems
+Citations:10
+Authors: JL Träff, A Ripke, C Siebert, P Balaji, R Thakur, W Gropp
+Publication: The International Journal of High Performance Computing Applications 24 (1 …
+
+300. Self-consistent MPI performance requirements
+Citations:10
+Authors: JL Träff, W Gropp, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+301. Advanced flow-control mechanisms for the sockets direct protocol over infiniband
+Citations:10
+Authors: P Balaji, S Bhagvat, DK Panda, R Thakur, W Gropp
+Publication: 2007 International Conference on Parallel Processing (ICPP 2007), 73-73
+
+302. Issues in accurate and reliable use of parallel computing in numerical programs
+Citations:10
+Authors: WD Gropp
+Publication: Accuracy and reliability in scientific computing, 253-263
+
+303. The CH3 design for a simple implementation of ADI-3 for MPICH-2 with a TCP-based implementation
+Citations:10
+Authors: D Ashton, W Gropp, R Thakur, B Toonen
+Publication: Technical Report ANL/MCS-P 1156-0504, Mathematics and Computer Science …
+
+304. MPICH Abstract Device Interface Version 3.3 Reference Manual
+Citations:10
+Authors: W Gropp, E Lusk, D Ashton, R Ross, R Thakur, B Toonen
+Publication: Draft MCS-TM-00, Argonne National Laboratory, 2002. http://www-unix. mcs …
+
+305. Exploiting existing software in libraries: Successes, failures, and reasons why
+Citations:10
+Authors: WD Gropp
+Publication: Proceedings of the SIAM Workshop on Object Oriented Methods for Inter …
+
+306. Performance driven programmimg models
+Citations:10
+Authors: WD Gropp
+Publication: Proceedings. Third Working Conference on Massively Parallel Programming …
+
+307. More. Optimization environments and the NEOS server
+Citations:10
+Authors: W Gropp, J Jorge
+Publication: Approximation Theory and Optimization, 167-182
+
+308. Tuning MPI programs for peak performance
+Citations:10
+Authors: W Gropp, E Lusk
+Publication: 
+
+309. Tuning MPI applications for peak performance
+Citations:10
+Authors: W Gropp, R Lusk, R Thakur
+Publication: Tutorial given at SuperComputing 97
+
+310. Grid generation for time dependent problems: Criteria and methods
+Citations:10
+Authors: M Berger, W Gropp, J Oliger
+Publication: 
+
+311. Amphotericin A and its salts
+Citations:10
+Authors: JD Dutcher, G William, JF Pagano, V John
+Publication: US Patent 2,908,612
+
+312. DAME: A runtime-compiled engine for derived datatypes
+Citations:9
+Authors: T Prabhu, W Gropp
+Publication: Proceedings of the 22nd European MPI Users' Group Meeting, 4
+
+313. Enabling the environmentally clean air transportation of the future: a vision of computational fluid dynamics in 2030
+Citations:9
+Authors: JP Slotnick, A Khodadoust, JJ Alonso, DL Darmofal, WD Gropp, EA Lurie, ...
+Publication: Philosophical Transactions of the Royal Society A: Mathematical, Physical …
+
+314. Adaptive strategy for one-sided communication in MPICH2
+Citations:9
+Authors: X Zhao, G Santhanaraman, W Gropp
+Publication: European MPI Users' Group Meeting, 16-26
+
+315. Preparing algebraic multigrid for exascale
+Citations:9
+Authors: AH Baker, RD Falgout, H Gahvari, T Gamblin, W Gropp, TV Kolev, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+316. Extending the MPI-2 generalized request interface
+Citations:9
+Authors: R Latham, W Gropp, R Ross, R Thakur
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+317. Designing a common communication subsystem
+Citations:9
+Authors: D Buntinas, W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+318. MPICH abstract device interface
+Citations:9
+Authors: W Gropp, E Lusk, D Ashton, R Ross, R Thakur, B Toonen
+Publication: Reference Manual, Mathematics and Computer Science Division, Argonne …
+
+319. Efficient communication across the Internet in wide-area MPI
+Citations:9
+Authors: R Vinkat, PM Dickens, W Gropp
+Publication: Conference on Parallel and Distributed Programming Techniques and …
+
+320. MPI: The Complete Reference. Volume 2, The MPI-2 Extensions. Scientific and Engineering Computation
+Citations:9
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: MIT Press, Cambridge, MA, USA,
+
+321. Users manual for doctext: Producing documentation from C source code
+Citations:9
+Authors: W Gropp
+Publication: Technical Report ANL/MCS-TM-206, Argonne National Laboratory
+
+322. Scalable libraries for solving systems of nonlinear equations and unconstrained minimization problems
+Citations:9
+Authors: WD Gropp, LC McInnes, BF Smith
+Publication: Proceedings Scalable Parallel Libraries Conference, 60-67
+
+323. Users guide for the ANL IBM SP-1 draft,"
+Citations:9
+Authors: W Gropp, E Lusk, S Pieper
+Publication: Tech. Rep. ANL/MCS-TM-00, Argonne National Laboratory
+
+324. MPICH-a portable implementation of MPI
+Citations:9
+Authors: W Gropp
+Publication: http://www-unix. mcs. anl. gov/mpi/mpich/
+
+325. Parallel domain decomposition and the solution of nonlinear systems of equations
+Citations:9
+Authors: WD Gropp, DE Keyes
+Publication: Fourth International Symposium on Domain Decomposition Methods for Partial …
+
+326. Domain-decomposable preconditioners for second-order upwind discretizations of multicomponent systems
+Citations:9
+Authors: DE Keyes, WD Gropp
+Publication: Fourth International Symposium on Domain Decomposition Methods for Partial …
+
+327. Solving PDEs on loosely-coupled parallel processors
+Citations:9
+Authors: WD Gropp
+Publication: Parallel Computing 5 (1-2), 165-173
+
+328. Local uniform mesh refinement on vector and parallel processors
+Citations:9
+Authors: WD Gropp
+Publication: Large scale scientific computing, 349-367
+
+329. A Comparison of Domain Decomposition Techniques for Elliptic Partial Differential Equations and Their Parallel Implementation.
+Citations:9
+Authors: WD Gropp, DE Keyes
+Publication: Defense Technical Information Center
+
+330. Towards a more complete understanding of sdc propagation
+Citations:8
+Authors: J Calhoun, M Snir, LN Olson, WD Gropp
+Publication: Proceedings of the 26th International Symposium on High-Performance Parallel …
+
+331. A hybrid format for better performance of sparse matrix-vector multiplication on a GPU
+Citations:8
+Authors: D Guo, W Gropp, LN Olson
+Publication: The International Journal of High Performance Computing Applications 30 (1 …
+
+332. Systematic reduction of data movement in algebraic multigrid solvers
+Citations:8
+Authors: H Gahvari, W Gropp, KE Jordan, M Schulz, UM Yang
+Publication: 2013 IEEE International Symposium on Parallel & Distributed Processing …
+
+333. Efficient multithreaded context ID allocation in MPI
+Citations:8
+Authors: J Dinan, D Goodell, W Gropp, R Thakur, P Balaji
+Publication: European MPI Users' Group Meeting, 57-66
+
+334. Adaptive thread distributions for SpMV on a GPU
+Citations:8
+Authors: D Guo, W Gropp
+Publication: Proceedings of the extreme scaling workshop, 2
+
+335. Software for petascale computing systems
+Citations:8
+Authors: WD Gropp
+Publication: Computing in Science & Engineering 11 (5), 17-21
+
+336. MPICH
+Citations:8
+Authors: W Gropp, E Lusk
+Publication: 
+
+337. Using mpi-2: Advanced features of the message passing interface
+Citations:8
+Authors: W Gropp, E Lusk, R Ross, R Thakur
+Publication: null, xix
+
+338. A User’s View of OpenMP: The Good, The Bad and the Ugly
+Citations:8
+Authors: W Gropp
+Publication: Workshop on OpenMP Applications and Tools (WOMPAT’2000)
+
+339. MPI: The Complete Reference, 2nd
+Citations:8
+Authors: M Snir, W Gropp
+Publication: MIT Press, Boston, MA
+
+340. New Generation Framework For Petroleum Reservoir Simulation
+Citations:8
+Authors: W Gropp, T Morgan, B Smith, T Arbogast, CN Dawson, LL Lake, ...
+Publication: First Annual Report, Advanced Technology Initiative, Argonne National …
+
+341. User’s Guide for MPICH
+Citations:8
+Authors: W Gropp, E Lusk
+Publication: A Portable Implementation of MPI,” Argonne National Laboratory, Mathematics …
+
+342. MPE graphics-scalable X11 graphics in MPI
+Citations:8
+Authors: W Gropp, E Karrels, E Lusk
+Publication: Proceedings Scalable Parallel Libraries Conference, 49-54
+
+343. Implicit domain decomposition algorithms for steady, compressible aerodynamics
+Citations:8
+Authors: WD Gropp, DE Keyes, JS Mounts
+Publication: Contemporary Mathematics 157, 203-203
+
+344. Process of recovering nystatin
+Citations:8
+Authors: V John, G William
+Publication: US Patent 2,786,781
+
+345. MPICH Working Note: the implementation of the second generation ADI
+Citations:8
+Authors: E Lusk, W Gropp
+Publication: Technical report
+
+346. PETSc Users Manual, 2008
+Citations:8
+Authors: S Balay, K Buschelman, V Eijkhout, W Gropp, D Kaushik, M Knepley, ...
+Publication: Argonne National Laboratory
+
+347. e Skjellum, A.(1996). Using MPI–Portable Parallel Programming with the Message Passing Interface
+Citations:8
+Authors: W Gropp, E Lusk
+Publication: The MIT Press, Cambridge, UK
+
+348. Algebraic multigrid on a dragonfly network: First experiences on a Cray XC30
+Citations:7
+Authors: H Gahvari, W Gropp, KE Jordan, M Schulz, UM Yang
+Publication: International Workshop on Performance Modeling, Benchmarking and Simulation …
+
+349. Locality-optimized mixed static/dynamic scheduling for improving load balancing on SMPs
+Citations:7
+Authors: V Kale, A Randles, WD Gropp
+Publication: Proceedings of the 21st European MPI Users' Group Meeting, 115
+
+350. Performance modeling of algebraic multigrid on blue Gene/Q: lessons learned
+Citations:7
+Authors: H Gahvari, W Gropp, KE Jordan, M Schulz, UM Yang
+Publication: 2012 SC Companion: High Performance Computing, Networking Storage and …
+
+351. Understanding the requirements imposed by programming model middleware on a common communication subsystem.
+Citations:7
+Authors: D Buntinas, W Gropp
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+352. Beowulf cluster computing with Linux
+Citations:7
+Authors: G William, L Ewing, S Thomas
+Publication: The MIT Press, Cambridge, Massachusetts London, England
+
+353. MPICH2 Abstract Device Interface Version 3.4 Reference Manual: Draft of May 20
+Citations:7
+Authors: W Gropp
+Publication: http://www-unix. mcs. anl. gov/mpi/mpich/adi3/adi3man. pdf
+
+354. Using MPI-2: advanced features of the message-passing interface
+Citations:7
+Authors: G William, L Ewing, T Rajeev
+Publication: MIT Press
+
+355. SkjellumA. 1999.“Using MPI”
+Citations:7
+Authors: W Gropp, E Lusk
+Publication: Cambridge, MA: MIT Press
+
+356. Wide-area implementation of the message passing standard
+Citations:7
+Authors: I Foster, J Geisler, W Gropp, N Karonis, E Lusk, G e Thiruvathukal, ...
+Publication: Parallel Computing 24
+
+357. DD, Parallel multilevel methods for elliptic PDEs
+Citations:7
+Authors: B Smith, P Bjørstad, W Gropp
+Publication: Cambridge University Press
+
+358. Users manual for bfort: Producing Fortran interfaces to C source code
+Citations:7
+Authors: W Gropp
+Publication: Technical Report ANL/MCS-TM-208, Argonne National Laboratory
+
+359. Developing applications for a heterogeneous computing environment
+Citations:7
+Authors: R Butler, WD Gropp, E Lusk
+Publication: 1993 Workshop on Heterogeneous Processing, VVHP 1993, Held in conjunction …
+
+360. Domain decomposition with local mesh refinement
+Citations:7
+Authors: WD Gropp, DE Keyes
+Publication: INSTITUTE FOR COMPUTER APPLICATIONS IN SCIENCE AND ENGINEERING HAMPTON VA
+
+361. Recursive mesh refinement on hypercubes
+Citations:7
+Authors: WD Gropp, ICF Ipsen
+Publication: BIT Numerical Mathematics 29 (2), 186-211
+
+362. Dynamic Grid Manipulation for PDEs on Hypercube Parallel Processors
+Citations:7
+Authors: WD Gropp
+Publication: Yale University. Department of Computer Science
+
+363. Local uniform mesh refinement on loosely-coupled parallel processors
+Citations:7
+Authors: WD Gropp
+Publication: YALE UNIV NEW HAVEN CT DEPT OF COMPUTER SCIENCE
+
+364. An introduction to performance debugging for parallel computers(mcs-p500-0295)
+Citations:7
+Authors: W Gropp
+Publication: Proc. of the ICASE/LaRC Workshop on Parallel Numerical Algorithms
+
+365. Portable, Extensible Toolkit for Scientific Computation (PETSc)
+Citations:7
+Authors: WD Gropp, BF Smith
+Publication: Available at info. mcs. anl. gov in the directory pub/pdetools via anonymous ftp
+
+366. MPICH User’s Guide
+Citations:6
+Authors: A Amer, P Balaji, W Bland, W Gropp, R Latham, H Lu, L Oden, AJ Pena, ...
+Publication: Version
+
+367. Non-blocking preconditioned conjugate gradient methods for extreme-scale computing
+Citations:6
+Authors: PR Eller, W Gropp
+Publication: Conference proceedings. 17th Copper Mountain Conference on Multigrid Methods …
+
+368. Towards a more fault resilient multigrid solver
+Citations:6
+Authors: J Calhoun, L Olson, M Snir, WD Gropp
+Publication: Proceedings of the Symposium on High Performance Computing, 1-8
+
+369. Toward understanding soft faults in high performance cluster networks
+Citations:6
+Authors: JJ Evans, S Baik, CS Hood, W Gropp
+Publication: International Symposium on Integrated Network Management, 117-120
+
+370. Installation and user's guide to MPICH, a portable implementation of MPI version 1.2. 5
+Citations:6
+Authors: D Ashton, W Gropp, E Lusk
+Publication: The ch nt device for workstations and clusters of Microsoft Windows machines …
+
+371. PETSc Web page. h ttp
+Citations:6
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, MG Knepley, L Mclnnes, ...
+Publication: 
+
+372. PETSc and Overture: Lessons learned developing an interface between components
+Citations:6
+Authors: KR Buschelman, WD Gropp, LC McInnes, BF Smith
+Publication: The Architecture of Scientific Software, 57-68
+
+373. Analyzing the parallel scalability of an implicit unstructured mesh CFD code
+Citations:6
+Authors: WD Gropp, DK Kaushik, DE Keyes, BF Smith
+Publication: International Conference on High-Performance Computing, 395-404
+
+374. Performance visualization for parallel programs
+Citations:6
+Authors: A Chan, W Gropp, E Lusk
+Publication: 
+
+375. MPI: The Complete Reference
+Citations:6
+Authors: G William, M Snir, W Gropp, B Nitzberg, E Lusk
+Publication: MIT Press
+
+376. Optimization Environments and the NEOS Server in MD Buhmann and A. Iserles (eds.), Approximation Theory and Optimization
+Citations:6
+Authors: W Gropp, J Moré
+Publication: Cambridge University Press
+
+377. The second-generation adi for the mpich implementation of mpi
+Citations:6
+Authors: W Gropp, E Lusk
+Publication: MCS Division, Argonne National Laboratory, MPICH working note edition
+
+378. Experiences with the IBM SP1
+Citations:6
+Authors: WD Gropp, E Lusk
+Publication: IBM Systems Journal 34 (2), 249-262
+
+379. The Scalable I/O Initiative
+Citations:6
+Authors: B Bershad, A Chien, A Choudhary, T Cormen, E DeBenedictis, D DeWitt, ...
+Publication: white paper, available through the Concurrent Supercomputing Consortium …
+
+380. Semi-structured refinement and parallel domain decomposition methods
+Citations:6
+Authors: WD Gropp, DE Keyes
+Publication: Unstructured scientific computation on scalable multiprocessors, 187-203
+
+381. PETSc: Portable, extensible toolkit for scientific computation,(2001)
+Citations:6
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, MG Knepley, LC McInnes, ...
+Publication: 
+
+382. Using MPI, 1999
+Citations:6
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT press
+
+383. Users Guide for ROMIO: A High-Performance, Portable MPI-IO Implementation. Mathematics and Computer Science Division, Argonne National Laboratory, October 1997
+Citations:6
+Authors: R Thakur, W Gropp, E Lusk
+Publication: ANL/MCS-TM-234
+
+384. Rethinking key–value store for parallel I/O optimization
+Citations:5
+Authors: A Kougkas, H Eslami, XH Sun, R Thakur, W Gropp
+Publication: The International Journal of High Performance Computing Applications 31 (4 …
+
+385. Decoupled I/O for data-intensive high performance computing
+Citations:5
+Authors: C Chen, Y Chen, K Feng, Y Yin, H Eslami, R Thakur, XH Sun, WD Gropp
+Publication: 2014 43rd International Conference on Parallel Processing Workshops, 312-320
+
+386. Using Advanced MPI: Modern Features of the Message-Passing Interface. Scientific and Engineering Computation
+Citations:5
+Authors: W Gropp, T Hoefler, R Thakur, E Lusk
+Publication: MIT Press
+
+387. MPI-interoperable generalized active messages
+Citations:5
+Authors: X Zhao, P Balaji, W Gropp, R Thakur
+Publication: 2013 International Conference on Parallel and Distributed Systems, 200-207
+
+388. Weighted locality-sensitive scheduling for mitigating noise on multi-core clusters
+Citations:5
+Authors: V Kale, A Bhatele, WD Gropp
+Publication: 2011 18th International Conference on High Performance Computing, 1-10
+
+389. Program optimization through loop vectorization
+Citations:5
+Authors: MJ Garzarán, S Maleki, W Gropp, D Padua
+Publication: 
+
+390. Improving the performance of tensor matrix vector multiplication in cumulative reaction probability based quantum chemistry codes
+Citations:5
+Authors: D Kaushik, W Gropp, M Minkoff, B Smith
+Publication: International Conference on High-Performance Computing, 120-130
+
+391. MPI and hybrid programming models for petascale computing
+Citations:5
+Authors: WD Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+392. Using MPI-2: A problem-based approach
+Citations:5
+Authors: WD Gropp, E Lusk
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+393. Parallel programming models applicable to cluster computing and beyond
+Citations:5
+Authors: RA Kendall, M Sosonkina, WD Gropp, RW Numrich, T Sterling
+Publication: Numerical Solution of Partial Differential Equations on Parallel Computers, 3-54
+
+394. Fault tolerance in message passing interface programs
+Citations:5
+Authors: G William, L Ewing
+Publication: International Journal of High Performance Computing Applications, Fall, 363-372
+
+395. Mpich abstract device interface version 3.4 reference manual draft
+Citations:5
+Authors: W Gropp, E Lusk, D Ashton, R Ross, R Thakur, B Toonen
+Publication: Technical report, Argonne National Laboratory, Mathematics and Computer …
+
+396. Fault tolerance in MPI programs, Special Issue of the J
+Citations:5
+Authors: W Gropp, E Lusk
+Publication: High Perform. Comput. Appl
+
+397. Installation and User’s Guide to MPICH, a Portable Implementation of MPI Version 1.2. 5
+Citations:5
+Authors: W Gropp, E Lusk
+Publication: The ch p4 device for Workstation Networks
+
+398. PETSc home page. htt p
+Citations:5
+Authors: S Balay, K Buschelman, WD Gropp, D Kaushik, LC McInnes, BF Smith
+Publication: 
+
+399. Infrastructure and interfaces for large-scale numerical software.
+Citations:5
+Authors: L Freitag, WD Gropp, PD Hovland, LC McInnes, BF Smith
+Publication: Argonne National Lab., IL (US)
+
+400. Using MPI
+Citations:5
+Authors: A Skjellum, W Gropp, E Lusk
+Publication: MIT Press
+
+401. MPI: The Complete Reference, Volume 2-The MPI-2 Extensions, vol. 2
+Citations:5
+Authors: W GROPP, S HUSS-LEDERMAN, A LUMSDAINE, E LUSK, B NITZBERG, ...
+Publication: The MIT Press
+
+402. MPI: The Complete Reference. Scientific and Engineering Computation Series
+Citations:5
+Authors: W Gropp, M Snir, B Nitzberg, E Lusk
+Publication: The MIT Press, Cambridge, MA
+
+403. The Portable, Extensible, Toolkit for Scientific Computing (PETSc) ver. 22
+Citations:5
+Authors: S Balay, W Gropp, LC McInnes, B Smith
+Publication: 
+
+404. Wi11iam Saphir, and Marc Snir. MPI The Complete Reference: Volume 2, The MPI-2 Extensions
+Citations:5
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg
+Publication: MIT Press, Cambridge, MA
+
+405. PETSc 2.0 Users Manual: Revision 2.0. 16
+Citations:5
+Authors: S Balay, W Gropp, LC McInnes, B Smith
+Publication: Argonne National Lab., IL (United States)
+
+406. PETSc World Wide Web home page
+Citations:5
+Authors: S Balay, W Gropp, LC Mclnnes, B Smith
+Publication: 
+
+407. The MPI message-passing interface standard: overview and status
+Citations:5
+Authors: JJ Dongarra, L Grandinetti, GR Joubert, J Kowalik
+Publication: High Performance Computing: Technology, Methods and Applications 10, 265
+
+408. MPICH ADI Implementation Reference Manual-DRAFT
+Citations:5
+Authors: W Gropp, E Lusk
+Publication: ANL-000, Argonne National Laboratory
+
+409. Using the scalable nonlinear equations solvers package
+Citations:5
+Authors: WD Gropp, LC McInnes, BF Smith
+Publication: Argonne National Lab., IL (United States)
+
+410. PETSc 2.0 User's Manual
+Citations:5
+Authors: WD Gropp, BF Smith, LC McInnes
+Publication: Argonne National Laboratory, draft 11
+
+411. The implementation of the second generation MPICH ADI
+Citations:5
+Authors: W Gropp, E Lusk
+Publication: 
+
+412. Krylov methods with incomplete factorization preconditioners on the CM-2
+Citations:5
+Authors: H Berryman, J Saltz, W Gropp
+Publication: Journal of Parallel and Distributed Computing 8, 186-190
+
+413. Domain decomposition for nonsymmetric systems of equations-Examples from computational fluid dynamics
+Citations:5
+Authors: DE Keyes, WD Gropp
+Publication: Domain decomposition methods, 321-339
+
+414. NUMERICAL ANALYSIS PROGRAM LIBRARY USER'S GUIDE: NAPLUG
+Citations:5
+Authors: JH Bolstad, TF Chan, WD Gropp, FT Luk, RJ LeVeque, EH Grosse, ...
+Publication: 
+
+415. A High-Performance, Portable Implementation of the MPI Message Passing Interface Standard, Argonne National Laboratory, 1996
+Citations:5
+Authors: W Gropp, E Lusk, N Doss, A Skjellum
+Publication: 
+
+416. Using Node Information to Implement MPI Cartesian Topologies
+Citations:4
+Authors: WD Gropp
+Publication: Proceedings of the 25th European MPI Users' Group Meeting, 18
+
+417. Improving performance models for irregular point-to-point communication
+Citations:4
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: arXiv preprint arXiv:1806.02030
+
+418. Nonblocking epochs in MPI one-sided communication
+Citations:4
+Authors: JA Zounmevo, X Zhao, P Balaji, W Gropp, A Afsahi
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+419. Applications of the streamed storage format for sparse matrix operations
+Citations:4
+Authors: D Guo, W Gropp
+Publication: The International Journal of High Performance Computing Applications 28 (1 …
+
+420. Lightweight Scheduling for Balancing the Tradeoff Between Load Balance and Locality.(2014)
+Citations:4
+Authors: V Kale, S Donfack, L Grigori, WD Gropp
+Publication: Poster presented at SC 14
+
+421. Toward Exascale Resilience: 2014 update. Supercomputing Frontiers and Innovations 1, 1 (2014)
+Citations:4
+Authors: F Cappello, A Geist, W Gropp, S Kale, B Kramer, M Snir
+Publication: URL http://superfri. org/superfri/article/view/14
+
+422. Teaching parallel programming: a roundtable discussion
+Citations:4
+Authors: J Mellor-Crummey, W Gropp, M Herlihy
+Publication: XRDS: Crossroads, The ACM Magazine for Students 17 (1), 28-30
+
+423. Multi-Core for HPC: breakthrough or breakdown?
+Citations:4
+Authors: T Sterling, P Kogge, WJ Dally, S Scott, W Gropp, D Keyes, P Beckman
+Publication: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 73
+
+424. FPMPI-2 fast profiling library for MPI
+Citations:4
+Authors: W Gropp, K Buschelman
+Publication: www-unix. mcs. anl. gov/fpmpi 8
+
+425. Implementing MPI-IO atomic mode without file system support
+Citations:4
+Authors: R Latham, W Gropp, R Ross, R Thakur, B Toonen
+Publication: Proceedings of the IEEE Conference on Cluster Computing Conference
+
+426. Parallel programming with MPI
+Citations:4
+Authors: W Gropp, E Lusk
+Publication: Beowulf Cluster Computing with Linux. Massachusetts Institute of Technology …
+
+427. The CH3 Design for a Simple Implementation of ADI-3 for MPICH with a TCP-based Implementation
+Citations:4
+Authors: W Gropp, B Toonen
+Publication: September
+
+428. Parallel I/O
+Citations:4
+Authors: R Thakur, W Gropp
+Publication: Sourcebook of Parallel Computing, Morgan Kaufmann Publishers, 331-355
+
+429. MPICH Abstract Device Interface, Version 3.3
+Citations:4
+Authors: W Gropp, E Lusk
+Publication: MCSD, Argonne National Laboratory, December
+
+430. Using MPI-2: Advanced Features of the Message
+Citations:4
+Authors: W Gropp, E Lusk, R Thakur
+Publication: 
+
+431. The MPI-2 Extensions, volume 2 of MPI: The Complete Reference
+Citations:4
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: The MIT Press, Cambridge, MA, USA
+
+432. MPI-The Complete Reference, Volumes 1 and 2
+Citations:4
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: MIT Press, Cambridge, MA, USA
+
+433. An Introduction to MPI Parallel Programming with the Message Passing Interface
+Citations:4
+Authors: W Gropp, E Lusk
+Publication: Argonne National Laboratory
+
+434. MPI--the Complete Reference. Vol. 2, The MPI-2 Extensions (Scientific and Engineering Computation Series)
+Citations:4
+Authors: W Gropp
+Publication: MIT Press
+
+435. Why we couldn’t use numerical libraries for PETSc
+Citations:4
+Authors: WD Gropp
+Publication: Quality of Numerical Software, 249-254
+
+436. Parallel domain decomposition software
+Citations:4
+Authors: W Gropp, B Smith
+Publication: Domain-Based Parallelism and Problem Decomposition Methods in Computational …
+
+437. Solutions of team problems 13 and 20 using a volume integral formulation
+Citations:4
+Authors: L Kettunen, K Forsman, D Levine, W Gropp
+Publication: Argonne National Lab., IL (United States)
+
+438. Using MPI portable parallel programming model with Message Passing Interface
+Citations:4
+Authors: W Gropp, E Lusk, A Skjelum
+Publication: Cambridge, MA: MIT Press
+
+439. Using MPI MIT Press
+Citations:4
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: Cambridge, MA
+
+440. Solutions of TEAM Problem No. 13 using integral equations in a sequential and parallel computing environment
+Citations:4
+Authors: L Kettunen, K Forsman, D Levine, W Gropp
+Publication: Argonne National Lab., IL (United States)
+
+441. Blockcomm for fortran
+Citations:4
+Authors: W Gropp
+Publication: Technical report, Argonne National Laboratory, 1993.(to appear)
+
+442. Local uniform mesh refinement on loosely-coupled parallel processors
+Citations:4
+Authors: WD Gropp
+Publication: Computers & Mathematics with Applications 15 (5), 375-387
+
+443. FPMPI: A fine-tuning performance profiling library for MPI, November 2001
+Citations:4
+Authors: W Gropp, D Gunter, V Taylor
+Publication: Poster presented at SC2001
+
+444. Users' Guide to mpich, a Portable Implementation of MPI", 1995
+Citations:4
+Authors: P Bridges, N Doss, W Gropp, E Karrels, E Lusk, A Skjellum
+Publication: Available via world wide web from URL= http://www. mcs. anl. gov/mpi/mpich …
+
+445. PETSc Users Manual Technical Report ANL-95/11-Revision 2.1. 3, Argonne National Laboratory, 2002
+Citations:4
+Authors: S Balay, K Buschelman, V Eijkhout, WD Gropp, D Kaushik, M Knepley, ...
+Publication: Google Scholar
+
+446. Domain Decomposition, Parallel Multilevel Methods for Elliptic Partial Differential Equations,(1996)
+Citations:4
+Authors: B Smith, P Bjørstad, W Gropp
+Publication: Cambridge University Press
+
+447. Using MPI-2: Advanced Features of the Message Passing Interface, 1999
+Citations:4
+Authors: W Gropp, R Thakur, E Lusk
+Publication: MIT Press, 0-262-57133-1
+
+448. Locus: a system and a language for program optimization
+Citations:3
+Authors: TSFX Teixeira, C Ancourt, D Padua, W Gropp
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+449. Performance modeling of distributed deep neural networks
+Citations:3
+Authors: SH Hashemi, SA Noghabi, W Gropp, RH Campbell
+Publication: arXiv preprint arXiv:1612.00521
+
+450. Scalability challenges in current MPI one-sided implementations
+Citations:3
+Authors: X Zhao, P Balaji, W Gropp
+Publication: 2016 15th International Symposium on Parallel and Distributed Computing …
+
+451. Tapspmv: Topology-aware parallel sparse matrix vector multiplication
+Citations:3
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: CoRR, vol. abs/1612.08060
+
+452. Rethinking key-value store for parallel i/o optimization
+Citations:3
+Authors: Y Yin, A Kougkas, K Feng, H Eslami, Y Lu, XH Sun, R Thakur, W Gropp
+Publication: 2014 International Workshop on Data Intensive Scalable Computing Systems, 33-40
+
+453. CFD Vision 2030: A path to revolutionary computational aerosciences
+Citations:3
+Authors: J Slotnick, A Khodadoust, J Alonso, D Darmofal, W Gropp, E Lurie, ...
+Publication: NASA/CR-2014-218178, Hampton, VA, USA, Langley Research Center
+
+454. PETSc Users Manual
+Citations:3
+Authors: J Brown, K Buschelman, V Eijkhout, WD Gropp, D Kaushik, MG Knepley, ...
+Publication: Technical Report ANL-95/11-Revision 3.3. Argonne National Laboratory
+
+455. Stable numerical methods for hyperbolic partial differential equations using overlapping domain decomposition
+Citations:3
+Authors: AH Reichert
+Publication: University of Illinois at Urbana-Champaign
+
+456. OpenMP in the Petascale Era: 7th International Workshop on OpenMP, IWOMP 2011, Chicago, Il, USA, June 13-15, 2011, Proceedings
+Citations:3
+Authors: BM Chapman, WD Gropp, K Kumaran, MS Müller
+Publication: Springer Science & Business Media
+
+457. Architectural constraints required to attain 1 Exaflop/s for scientific applications
+Citations:3
+Authors: A Bhatele, P Jetley, H Gahvari, L Wesolowski, WD Gropp, LV Kale
+Publication: Proc. Int. Parallel and Distributed Processing Symposium (IPDPS)
+
+458. An adaptive performance modeling tool for GPU architectures Proceedings of the 15th ACM SIGPLAN symposium on Principles and practice of parallel programming (PPoPP’10)
+Citations:3
+Authors: SS Baghsorkhi, M Delahaye, SJ Patel, WD Gropp, WW Hwu
+Publication: Bangalore, India
+
+459. Grid-based image registration
+Citations:3
+Authors: W Gropp, E Haber, S Heldmann, D Keyes, N Miller, J Schopf, T Yang
+Publication: Grid-Based Problem Solving Environments, 435-448
+
+460. Design and implementation of MPICH2 over InfiniBand with RDMA support. CoRR
+Citations:3
+Authors: J Liu, W Jiang, P Wyckoff, DK Panda, D Ashton, D Buntinas, W Gropp, ...
+Publication: arXiv preprint cs.AR/0310059
+
+461. Building library components that can use any mpi implementation
+Citations:3
+Authors: W Gropp
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+462. Improving the performance of sparse matrix-vector multiplication by blocking
+Citations:3
+Authors: W Gropp, D Kaushik, D Keyes, B Smith
+Publication: Talk presented at SIAM Annual Meeting, July
+
+463. Using Mpi-2: Advanced Features of the Message Passing Interface. 2nd
+Citations:3
+Authors: W Gropp, R Thakur, E Lusk
+Publication: MIT Press
+
+464. Introduction to Performance Issues in Using MPI for Communications and I/O
+Citations:3
+Authors: W Gropp, R Lusk, R Thakur
+Publication: Tutorial from the7th IEEE Symposium on High-Performance Distributed Computing
+
+465. MPI: The complete reference, volume 2, Scientific and Engineering Computation
+Citations:3
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: Cambridge, MA: MIT Press
+
+466. MPICH home page
+Citations:3
+Authors: W Gropp, E Lusk, N Doss, A Skjellum
+Publication: 
+
+467. Porting the MPICH MPI implementation to the sun4 system
+Citations:3
+Authors: W Gropp
+Publication: January
+
+468. MPICH: A highperformance, portable implementation for the MPI Message-Passing interface
+Citations:3
+Authors: W Gropp, E Lusk, A Skjellum, N Doss
+Publication: 
+
+469. Parallel programming tools user's manual
+Citations:3
+Authors: W Gropp, B Smith
+Publication: Technical report, Argonne National Laboratory, 1993.(to appear)
+
+470. Domain decomposition with local mesh refinement
+Citations:3
+Authors: DE Keyes
+Publication: ICASE, NASA Langley Research Center
+
+471. A domain decomposition method with locally uniform mesh refinement
+Citations:3
+Authors: W Gropp, DE Keyes
+Publication: Domain Decomposition Methods, 115-129
+
+472. Toward exascale resilience: 2014 update. Supercomputing frontiers and innovations, 1 (1), 2014. Open Access
+Citations:3
+Authors: F Cappello, A Geist, W Gropp, SKB Kramer, M Snir
+Publication: 
+
+473. PETSc, portable extensible toolkit for scientific computing (web site)
+Citations:3
+Authors: S Balay, WD Gropp, LC McInnes, BF Smith
+Publication: 
+
+474. User's Guide for MPE: Extensions for MPI Programs. Argonne National Laboratory, 1998
+Citations:3
+Authors: W Gropp, E Lusk
+Publication: 
+
+475. PETSc Web page [online](2015)
+Citations:3
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: URL http://www. mcs. anl. gov/petsc
+
+476. Annotations for performance and productivity. 2007
+Citations:3
+Authors: B Norris, A Hartono, W Gropp
+Publication: Preprint ANL/MCS-P1392-0107
+
+477. On Implementing MP1-IO Ponably and with High Perforrnance
+Citations:3
+Authors: R Thakur, W Gropp, E Lusk
+Publication: Proceedings of the 6th Worlcrhop on 1 (0), 23-32
+
+478. Data sieving and collective I
+Citations:3
+Authors: R Thakur, W Gropp, E Lusk
+Publication: O in romio, Frontiers, 182-189
+
+479. Portable Parallel Programming with the Message-Passing Interface, 1994
+Citations:3
+Authors: W Gropp, E Lusk, A Skjellum
+Publication: MIT Press, 0-262-57104-8
+
+480. Toward faster packing and unpacking of mpi datatypes
+Citations:3
+Authors: W Gropp, E Lusk, D Swider
+Publication: Technical report, nd http://www. mcs. anl. gov/mpi/mpich1/papers/index. html
+
+481. Node aware sparse matrix–vector multiplication
+Citations:2
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: Journal of Parallel and Distributed Computing 130, 166-178
+
+482. Using node and socket information to implement MPI Cartesian topologies
+Citations:2
+Authors: WD Gropp
+Publication: Parallel Computing 85, 98-108
+
+483. A user-defined schedule for OpenMP
+Citations:2
+Authors: V Kale, WD Gropp
+Publication: Proceedings of the 2017 Conference on OpenMP, Stonybrook, New York, USA 11, 2017
+
+484. Eliminating contention bottlenecks in multithreaded MPI
+Citations:2
+Authors: HV Dang, M Snir, W Gropp
+Publication: Parallel Computing 69, 1-23
+
+485. Efficient disk-to-disk sorting: a case study in the decoupled execution paradigm
+Citations:2
+Authors: H Eslami, A Kougkas, M Kotsifakou, T Kasampalis, K Feng, Y Lu, W Gropp, ...
+Publication: Proceedings of the 2015 International Workshop on Data-Intensive Scalable …
+
+486. Collective algorithms for multiported torus networks
+Citations:2
+Authors: P Sack, W Gropp
+Publication: ACM Transactions on Parallel Computing 1 (2), 12
+
+487. Is MPI+ X enough for exascale
+Citations:2
+Authors: W Gropp
+Publication: Keynote for international high performance computing forum, Tianjin, China
+
+488. Analyzing the performance of a sparse matrix vector multiply for extreme scale computers
+Citations:2
+Authors: A Bienz, J Calhoun, L Olson, M Snir, WD Gropp
+Publication: The InternationalConference for High Performance Computing Networking …
+
+489. CFD vision 2030 study: a path to revolutionary computational aerosciences
+Citations:2
+Authors: S Jeffrey, A Khodadoust, J Alonso, D Darmofal, W Gropp, E Lurie, ...
+Publication: NASA/CR 218178
+
+490. Lightweight scheduling for balancing the tradeoff between load balance and locality
+Citations:2
+Authors: V Kale, S Donfack, L Grigori, WD Gropp
+Publication: Poster at International Conference on High Performance Computing, Networking …
+
+491. Runtime system design of decoupled execution paradigm for data-intensive high-end computing
+Citations:2
+Authors: K Feng, Y Yin, C Chen, H Eslami, XH Sun, Y Chen, R Thakur, W Gropp
+Publication: 2013 IEEE International Conference on Cluster Computing (CLUSTER), 1-1
+
+492. Portable, Extensible Toolkit for Scientific Computation
+Citations:2
+Authors: WD Gropp, BF Smith
+Publication: PETSc), Available via anonymous ftp at info. mcs. anl. gov in the directory …
+
+493. Parallel adaptive deflated GMRES
+Citations:2
+Authors: DN Wakam, J Erhel, WD Gropp
+Publication: Domain Decomposition Methods in Science and Engineering XX, 631-638
+
+494. PETSc developers manual
+Citations:2
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Technical report, Argonne National Laboratory
+
+495. Scalable memory use in MPI
+Citations:2
+Authors: D Goodell, W Gropp, X Zhao, R Thakur
+Publication: Proc. Recent Adv. in MPI-18th European MPI Users’ Group Meeting, EuroMPI
+
+496. Generalizing smoothed aggregation-based algebraic multigrid
+Citations:2
+Authors: JB Schroder
+Publication: University of Illinois at Urbana-Champaign
+
+497. HadoopJitter: The Ghost in the Cloud and How to Tame It
+Citations:2
+Authors: V Kale, J Mukherjee, I Gupta, W Gropp
+Publication: 
+
+498. On the need for a consortium of capability centers
+Citations:2
+Authors: W Gropp, M Snir
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+499. Implementation and Shared-Memory Evaluation of MPICH2 over the Nemesis Communication Subsystem. sl: Mathematics and Computer Science Division
+Citations:2
+Authors: D Buntinas, G Mercier, W Gropp
+Publication: Argonne National Laboratory
+
+500. MPI web page
+Citations:2
+Authors: W Gropp, E Lusk, D Ashton, P Balaji, D Buntinas, R Butler, A Chan, ...
+Publication: 
+

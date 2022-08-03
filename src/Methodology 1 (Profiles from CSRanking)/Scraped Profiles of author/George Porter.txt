@@ -1,0 +1,508 @@
+https://scholar.google.com/citations?hl=en&user=aWQabOQAAAAJ
+Total Citations = 4228
+
+1. Helios: a hybrid electrical/optical switch architecture for modular data centers
+Citations:887
+Authors: N Farrington, G Porter, S Radhakrishnan, HH Bazzaz, V Subramanya, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 339-350
+
+2. X-trace: A pervasive network tracing framework
+Citations:492
+Authors: R Fonseca, G Porter, RH Katz, S Shenker, I Stoica
+Publication: Proceedings of the 4th USENIX conference on Networked systems design …
+
+3. Inside the social network's (datacenter) network
+Citations:372
+Authors: A Roy, H Zeng, J Bagga, G Porter, AC Snoeren
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 123-137
+
+4. Integrating microsecond circuit switching into the data center
+Citations:240
+Authors: G Porter, R Strong, N Farrington, A Forencich, P Chen-Sun, T Rosing, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 447-458
+
+5. Chronos: Predictable low latency for data center applications
+Citations:169
+Authors: R Kapoor, G Porter, M Tewari, GM Voelker, A Vahdat
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 9
+
+6. The SAHARA model for service composition across multiple providers
+Citations:146
+Authors: B Raman, S Agarwal, Y Chen, M Caesar, W Cui, P Johansson, K Lai, ...
+Publication: International Conference on Pervasive Computing, 1-14
+
+7. Reducing internet auction fraud
+Citations:130
+Authors: B Gavish, CL Tucci
+Publication: Communications of the ACM 51 (ARTICLE), 89-97
+
+8. Scale-out networking in the data center
+Citations:125
+Authors: A Vahdat, M Al-Fares, N Farrington, RN Mysore, G Porter, ...
+Publication: Ieee Micro 30 (4), 29-41
+
+9. xOMB: extensible open middleboxes with commodity servers
+Citations:111
+Authors: JW Anderson, R Braud, R Kapoor, G Porter, A Vahdat
+Publication: Proceedings of the eighth ACM/IEEE symposium on Architectures for networking …
+
+10. Circuit switching under the radar with REACToR
+Citations:96
+Authors: H Liu, F Lu, A Forencich, R Kapoor, M Tewari, GM Voelker, G Papen, ...
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+11. Themis: an i/o-efficient mapreduce
+Citations:90
+Authors: A Rasmussen, M Conley, G Porter, R Kapoor, A Vahdat
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 13
+
+12. TritonSort: A Balanced Large-Scale Sorting System.
+Citations:87
+Authors: A Rasmussen, G Porter, M Conley, HV Madhyastha, RN Mysore, ...
+Publication: NSDI
+
+13. Switching the optical divide: Fundamental challenges for hybrid electrical/optical datacenter networks
+Citations:77
+Authors: HH Bazzaz, M Tewari, G Wang, G Porter, TS Ng, DG Andersen, ...
+Publication: Proceedings of the 2nd ACM Symposium on Cloud Computing, 30
+
+14. IP options are not an option
+Citations:76
+Authors: R Fonseca, G Porter, R Katz, S Shenker, I Stoica
+Publication: University of California at Berkeley, Technical Report UCB/EECS-2005-24
+
+15. {SENIC}: Scalable {NIC} for End-Host Rate Limiting
+Citations:69
+Authors: S Radhakrishnan, Y Geng, V Jeyakumar, A Kabbani, G Porter, A Vahdat
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+16. Encoding, fast and slow: Low-latency video processing using thousands of tiny threads
+Citations:68
+Authors: S Fouladi, RS Wahby, B Shacklett, KV Balasubramaniam, W Zeng, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+17. A multiport microsecond optical circuit switch for data center networking
+Citations:61
+Authors: N Farrington, A Forencich, G Porter, PC Sun, JE Ford, Y Fainman, ...
+Publication: IEEE Photonics Technology Letters 25 (16), 1589-1592
+
+18. A 10 us hybrid optical-circuit/electrical-packet network for datacenters
+Citations:58
+Authors: N Farrington, A Forencich, PC Sun, S Fainman, J Ford, A Vahdat, G Porter, ...
+Publication: Optical Fiber Communication Conference, OW3H. 3
+
+19. Scheduling techniques for hybrid circuit/packet networks
+Citations:55
+Authors: H Liu, MK Mukerjee, C Li, N Feltman, G Papen, S Savage, S Seshan, ...
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+20. Practical TDMA for datacenter ethernet
+Citations:53
+Authors: BC Vattikonda, G Porter, A Vahdat, AC Snoeren
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 225-238
+
+21. The apprentice challenge
+Citations:51
+Authors: JS Moore, G Porter
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 24 (3), 193-216
+
+22. Bullet trains: a study of NIC burst behavior at microsecond timescales
+Citations:46
+Authors: R Kapoor, AC Snoeren, GM Voelker, G Porter
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+23. Rotornet: A scalable, low-complexity, optical datacenter network
+Citations:43
+Authors: WM Mellette, R McGuinness, A Roy, A Forencich, G Papen, AC Snoeren, ...
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+24. Optical networks come of age
+Citations:36
+Authors: D Kilper, K Bergman, VWS Chan, I Monga, G Porter, K Rauschenbach
+Publication: Optics and Photonics News 25 (9), 50-57
+
+25. Hunting mice with microsecond circuit switches
+Citations:35
+Authors: N Farrington, G Porter, Y Fainman, G Papen, A Vahdat
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 115-120
+
+26. A demonstration of ultra-low-latency data center optical circuit switching
+Citations:34
+Authors: N Farrington, G Porter, PC Sun, A Forencich, J Ford, Y Fainman, G Papen, ...
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+27. Effective web service load balancing through statistical monitoring
+Citations:31
+Authors: G Porter, RH Katz
+Publication: Communications of the ACM 49 (3), 48-54
+
+28. FasTrak: enabling express lanes in multi-tenant data centers
+Citations:30
+Authors: R Niranjan Mysore, G Porter, A Vahdat
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+29. Experiences with Tracing Causality in Networked Services.
+Citations:30
+Authors: R Fonseca, MJ Freedman, G Porter
+Publication: INM/WREN 10 (10)
+
+30. scc: cluster storage provisioning informed by application characteristics and SLAs.
+Citations:29
+Authors: HV Madhyastha, J McCullough, G Porter, R Kapoor, S Savage, ...
+Publication: FAST, 23
+
+31. Decoupling storage and computation in hadoop with superdatanodes
+Citations:27
+Authors: G Porter
+Publication: ACM SIGOPS Operating Systems Review 44 (2), 41-46
+
+32. Wideband silicon-photonic thermo-optic switch in a wavelength-division multiplexed ring network
+Citations:26
+Authors: R Aguinaldo, A Forencich, C DeRose, A Lentine, DC Trotter, Y Fainman, ...
+Publication: Optics Express 22 (7), 8205-8218
+
+33. End-to-end scheduling for all-optical data centers
+Citations:25
+Authors: CH Wang, T Javidi, G Porter
+Publication: 2015 IEEE Conference on Computer Communications (INFOCOM), 406-414
+
+34. A scalable, partially configurable optical switch for data center networks
+Citations:22
+Authors: WM Mellette, GM Schuster, G Porter, G Papen, JE Ford
+Publication: Journal of Lightwave Technology 35 (2), 136-144
+
+35. {SKI}: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration
+Citations:21
+Authors: P Fonseca, R Rodrigues, BB Brandenburg
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+36. Tritonsort: A balanced and energy-efficient large-scale sorting system
+Citations:21
+Authors: A Rasmussen, G Porter, M Conley, HV Madhyastha, RN Mysore, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 31 (1), 3
+
+37. Enabling wide-spread communications on optical fabric with megaswitch
+Citations:20
+Authors: L Chen, K Chen, Z Zhu, M Yu, G Porter, C Qiao, S Zhong
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+38. Is memory disaggregation feasible?: A case study with spark sql
+Citations:20
+Authors: PS Rao, G Porter
+Publication: Proceedings of the 2016 Symposium on Architectures for Networking and …
+
+39. Integrated space-division multiplexer for application to data center networks
+Citations:20
+Authors: A Grieco, G Porter, Y Fainman
+Publication: IEEE Journal of Selected Topics in Quantum Electronics 22 (6), 1-6
+
+40. Formal models of Java at the JVM level a survey from the ACL2 perspective
+Citations:17
+Authors: JS Moore, R Krug, H Liu, G Porter
+Publication: In Proc. Workshop on Formal Techniques for Java Programs, in association …
+
+41. Dahu: Commodity switches for direct connect data center networks
+Citations:16
+Authors: S Radhakrishnan, M Tewari, R Kapoor, G Porter, A Vahdat
+Publication: Proceedings of the ninth ACM/IEEE symposium on Architectures for networking …
+
+42. Achieving cost-efficient, data-intensive computing in the cloud
+Citations:15
+Authors: M Conley, A Vahdat, G Porter
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 302-314
+
+43. Sprocket: A serverless video processing framework
+Citations:12
+Authors: L Ao, L Izhikevich, GM Voelker, G Porter
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 263-274
+
+44. An Executable Formal Java Virtual Machine Thread Model.
+Citations:11
+Authors: JS Moore, G Porter
+Publication: Java Virtual Machine Research and Technology Symposium, 91-104
+
+45. NicPic: Scalable and accurate end-host rate limiting
+Citations:10
+Authors: S Radhakrishnan, V Jeyakumar, A Kabbani, G Porter, A Vahdat
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Cloud Computing
+
+46. Directing data center traffic
+Citations:9
+Authors: Y Fainman, G Porter
+Publication: Science 342 (6155), 202-203
+
+47. REACToR: A reconfigurable packet and circuit ToR switch
+Citations:9
+Authors: H Liu, F Lu, R Kapoor, A Forencich, GM Voelker, G Papen, AC Snoeren, ...
+Publication: 2013 IEEE Photonics Society Summer Topical Meeting Series, 235-236
+
+48. COPS: Quality of service vs. Any service at all
+Citations:9
+Authors: R Katz, G Porter, S Shenker, I Stoica, M Tsai
+Publication: International Workshop on Quality of Service, 3-15
+
+49. Using indirect routing to recover from network traffic scheduling estimation error
+Citations:7
+Authors: C Li, MK Mukerjee, DG Andersen, S Seshan, M Kaminsky, G Porter, ...
+Publication: 2017 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+50. See Straight Through Data Center Bandwidth Limitations with X-Rays
+Citations:7
+Authors: G Porter
+Publication: 
+
+51. P-fattree: A multi-channel datacenter network topology
+Citations:5
+Authors: WM Mellette, AC Snoeren, G Porter
+Publication: Proceedings of the 15th ACM Workshop on Hot Topics in Networks, 78-84
+
+52. Tritonsort 2011
+Citations:5
+Authors: A Rasmussen, M Conley, G Porter, A Vahdat
+Publication: 
+
+53. Method of routing packet
+Citations:5
+Authors: M Ji, GM Porter
+Publication: US Patent 7,697,438
+
+54. Towards Decoupling Storage and Computation in Hadoop with SuperDataNodes
+Citations:5
+Authors: G Porter
+Publication: In ACM LADIS
+
+55. The chord ad-hoc routing protocol
+Citations:5
+Authors: G Porter, K Lai, I Stoica, J Condit
+Publication: 
+
+56. Energy-efficient, digitally-driven “fat pipe” silicon photonic circuit switch in the UCSD MORDIA data-center network
+Citations:4
+Authors: R Aguinaldo, A Forencich, C DeRose, A Lentine, DC Trotter, A Starbuck, ...
+Publication: CLEO: Science and Innovations, STu1J. 2
+
+57. The OASIS group at UC Berkeley: Research summary and future directions
+Citations:4
+Authors: G Porter, M Tsai, L Yin, R Katz
+Publication: Technical Report
+
+58. An executable formal JVM thread model
+Citations:4
+Authors: JS Moore, G Porter
+Publication: Java Virtual Machine Research and Technology Symposium (JVM’01)
+
+59. Optical/electrical hybrid switching for datacenter communications
+Citations:3
+Authors: N Farrington, G Porter, A Forencich, J Ford, Y Fainman, A Vahdat, ...
+Publication: OptoElectronics and Communications Conference and Photonics in Switching, MT2_1
+
+60. Dahu: Improved Data Center Multipath Forwarding
+Citations:3
+Authors: S Radhakrishnan, R Kapoor, M Tewari, G Porter, A Vahdat
+Publication: Department of Computer Science and Engineering, University of California …
+
+61. Netbump: User-extensible active queue management with bumps on the wire
+Citations:3
+Authors: M Al-Fares, R Kapoor, G Porter, S Das, H Weatherspoon, B Prabhakar, ...
+Publication: 2012 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+62. Reducing Datacenter Application Latency with Endhost NIC Support
+Citations:3
+Authors: R Kapoor, G Porter, M Tewari, GM Voelker, A Vahdat
+Publication: [Department of Computer Science and Engineering], University of California …
+
+63. Improving distributed application reliability with end-to-end datapath tracing
+Citations:3
+Authors: GM Porter
+Publication: University of California, Berkeley
+
+64. Expanding across time to deliver bandwidth efficiency and low latency
+Citations:2
+Authors: WM Mellette, R Das, Y Guo, R McGuinness, AC Snoeren, G Porter
+Publication: arXiv preprint arXiv:1903.12307
+
+65. Evaluating the performance of software NICs for 100-gb/s datacenter traffic control
+Citations:2
+Authors: R McGuinness, G Porter
+Publication: Proceedings of the 2018 Symposium on Architectures for Networking and …
+
+66. Toward optical switching in the data center
+Citations:2
+Authors: WM Mellette, AC Snoeren, G Porter
+Publication: HPSR
+
+67. Cachecloud: Towards speed-of-light datacenter communication
+Citations:2
+Authors: S Thomas, GM Voelker, G Porter
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+68. Multi-mode waveguide using space-division multiplexing
+Citations:2
+Authors: A Grieco, Y Fainman, G Porter
+Publication: US Patent App. 15/543,557
+
+69. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+70. TritonSort 2014
+Citations:2
+Authors: M Conley, A Vahdat, G Porter
+Publication: Resource 2, 8xlarge
+
+71. A commuting diagram relating threaded and non-threaded JVM models
+Citations:2
+Authors: G Porter, JS Moore
+Publication: Technical report, Honors Thesis, Department of Computer Sciences, University …
+
+72. 61 port 1× 6 selector switch for data center networks
+Citations:1
+Authors: WM Mellette, GM Schuster, G Porter, JE Ford
+Publication: 2016 Optical Fiber Communications Conference and Exhibition (OFC), 1-3
+
+73. Sorting 100 TB on Google Compute Engine
+Citations:1
+Authors: M Conley, A Vahdat, G Porter
+Publication: Department of Computer Science and Engineering, University of California …
+
+74. Characterization of electrically-driven silicon photonic Mach-Zehnder switches
+Citations:1
+Authors: R Aguinaldo, G Porter, G Papen, Y Fainman, S Mookherjea
+Publication: CLEO: Science and Innovations, STh4M. 5
+
+75. Characterization of a silicon-photonic wideband switch in UCSD's MORDIA ring network
+Citations:1
+Authors: R Aguinaldo, A Forencich, C DeRose, A Lentine, A Starbuck, Y Fainman, ...
+Publication: 2014 Optical Interconnects Conference, 102-103
+
+76. Wideband digitally-driven silicon photonic thermo-optic switch in a wavelength-division multiplexed ring network.
+Citations:1
+Authors: R Aguinaldo, A Forencich, C DeRose, AL Lentine, DC Trotter, Y Fainman, ...
+Publication: Optics Express
+
+77. Tinytocs as an experimental laboratory
+Citations:1
+Authors: G Porter
+Publication: 
+
+78. NetBump: User-extensible Active Queue Management with Bumps on the Wire
+Citations:1
+Authors: G Porter, R Kapoor, S Das, M Al-Fares, H Weatherspoon, B Prabhakar, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+79. Delta routing: improving the price-performance of hybrid private networks
+Citations:1
+Authors: G Porter, A Ji
+Publication: 2004 IEEE/IFIP Network Operations and Management Symposium (IEEE Cat. No …
+
+80. Proving properties of java threads
+Citations:1
+Authors: JS Moore, G Porter
+Publication: submitted for publication
+
+81. LEED: A Lightwave Energy-Efficient Datacenter
+Citations:
+Authors: YS Fainman, J Ford, WM Mellette, S Mookherjea, G Porter, AC Snoeren, ...
+Publication: Optical Fiber Communication Conference, M4D. 4
+
+82. Dark Packets and the end of Network Scaling
+Citations:
+Authors: S Thomas, R McGuinness, GM Voelker, G Porter
+Publication: Proceedings of the 2018 Symposium on Architectures for Networking and …
+
+83. Partially configurable optical switching for data center networks
+Citations:
+Authors: WM Mellette, JE Ford, G Porter
+Publication: 2017 IEEE Photonics Conference (IPC), 123-124
+
+84. Nanophotonic Devices and Circuits for Communications
+Citations:
+Authors: Y Fainman, A Grieco, G Porter, J Davis
+Publication: Proceedings of the 3rd ACM International Conference on Nanoscale Computing …
+
+85. Nanophotonics: Technology and application
+Citations:
+Authors: A Grieco, G Porter, Y Fainman
+Publication: 2015 International Conference on Optical MEMS and Nanophotonics (OMN), 1-2
+
+86. Smart Monitor System For Automatic Anomaly Detection@ Baidu
+Citations:
+Authors: X Qu
+Publication: 
+
+87. High-Speed Datacenter Interconnects
+Citations:
+Authors: G Porter, AC Snoeren, G Papen
+Publication: IEEE MICRO 34 (5), 6-7
+
+88. In-network Video Prioritization via iBox Classification Predicates
+Citations:
+Authors: GM Porter, RH Katz
+Publication: 
+
+89. Router-Transparent Packet Annotations
+Citations:
+Authors: G Porter, R Fonseca, S Shenker, I Stoica, RH Katz
+Publication: 
+
+90. Network Management through Packet Annotation
+Citations:
+Authors: A Baste, D Chu, D Joseph, G Porter
+Publication: 
+
+91. Uncovering Request Effect in a 3-Tier System with SLT
+Citations:
+Authors: G Porter
+Publication: 
+
+92. Traffic Matrix Estimation for Low-loss Routing in Hybrid Networks
+Citations:
+Authors: GM Porter
+Publication: Department of Electrical Engineering and Computer Sciences, University of …
+
+93. Always on Stress: The Emotive Impact of Anytime, Anywhere Discussion Boards
+Citations:
+Authors: M Bardolph, G Porter, P Hadjipieris
+Publication: 
+
+94. usenix conference policies
+Citations:
+Authors: G Porter
+Publication: 
+
+95. R2C2: A Network Stack for Rack-scale Computers–Public
+Citations:
+Authors: G Porter
+Publication: 
+
+96. Academic Research Experience
+Citations:
+Authors: G Porter
+Publication: 
+
+97. 2001-02-20
+Citations:
+Authors: JS Moore, GM Porter
+Publication: 
+
+98. 1 Data center network architecture design
+Citations:
+Authors: G Porter
+Publication: 
+
+99. Informed Provisioning of Storage for Cluster Applications
+Citations:
+Authors: HV Madhyastha, JC Mccullough, G Porter, R Kapoor, S Savage, ...
+Publication: 
+
+100. Christos Kozyrakis, Aman Kansal, Sriram Sankar, and Kushagra Vaid 20 Challenges and Opportunities for Extremely Energy-Efficient Processors
+Citations:
+Authors: T Mudge, U Hölzle, AADD Strategy, JE Moreira, JP Karidis, A Vahdat, ...
+Publication: 
+
+101. Alexander Rasmussen University of California San Diego
+Citations:
+Authors: RN Mysore, M Conley, A Pucher, G Porter, A Vahdat
+Publication: 
+

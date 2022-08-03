@@ -1,0 +1,1738 @@
+https://scholar.google.com/citations?hl=en&user=uFJi3IUAAAAJ
+Total Citations = 42204
+
+1. TAG: A tiny aggregation service for ad-hoc sensor networks
+Citations:3904
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 131-146
+
+2. TinyDB: an acquisitional query processing system for sensor networks
+Citations:2529
+Authors: SR Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: ACM Transactions on database systems (TODS) 30 (1), 122-173
+
+3. Telegraphcq: Continuous dataflow processing for an Uncertain world.
+Citations:1933
+Authors: S Chandrasekaran, O Cooper, A Deshpande, MJ Franklin, JM Hellerstein, ...
+Publication: Cidr 2, 4
+
+4. Distributed GraphLab: a framework for machine learning and data mining in the cloud
+Citations:1666
+Authors: Y Low, D Bickson, J Gonzalez, C Guestrin, A Kyrola, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 5 (8), 716-727
+
+5. Model-driven data acquisition in sensor networks
+Citations:1398
+Authors: A Deshpande, C Guestrin, SR Madden, JM Hellerstein, W Hong
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+6. The design of an acquisitional query processor for sensor networks
+Citations:1287
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+7. Blobworld: A system for region-based image indexing and retrieval
+Citations:1163
+Authors: C Carson, M Thomas, S Belongie, JM Hellerstein, J Malik
+Publication: International conference on advances in visual information systems, 509-517
+
+8. Eddies: Continuously adaptive query processing
+Citations:1126
+Authors: R Avnur, JM Hellerstein
+Publication: ACM sigmod record 29 (2), 261-272
+
+9. Online aggregation
+Citations:1101
+Authors: JM Hellerstein, PJ Haas, HJ Wang
+Publication: Acm Sigmod Record 26 (2), 171-182
+
+10. MapReduce online.
+Citations:972
+Authors: T Condie, N Conway, P Alvaro, JM Hellerstein, K Elmeleegy, R Sears
+Publication: Nsdi 10 (4), 20
+
+11. Continuously adaptive continuous queries over streams
+Citations:851
+Authors: S Madden, M Shah, JM Hellerstein, V Raman
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+12. Graphlab: A new framework for parallel machine learning
+Citations:757
+Authors: Y Low, JE Gonzalez, A Kyrola, D Bickson, CE Guestrin, J Hellerstein
+Publication: arXiv preprint arXiv:1408.2041
+
+13. Querying the Internet with PIER
+Citations:709
+Authors: R Huebsch, JM Hellerstein, N Lanham, BT Loo, S Shenker, I Stoica
+Publication: Proceedings of the 29th International Conference on Very large data bases …
+
+14. Generalized search trees for database systems
+Citations:700
+Authors: JM Hellerstein, JF Naughton, A Pfeffer
+Publication: September
+
+15. Potter's wheel: An interactive data cleaning system
+Citations:634
+Authors: V Raman, JM Hellerstein
+Publication: VLDB 1, 381-390
+
+16. MAD skills: new analysis practices for big data
+Citations:569
+Authors: J Cohen, B Dolan, M Dunlap, JM Hellerstein, C Welton
+Publication: Proceedings of the VLDB Endowment 2 (2), 1481-1492
+
+17. Approximate data collection in sensor networks using probabilistic models
+Citations:567
+Authors: D Chu, A Deshpande, JM Hellerstein, W Hong
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 48-48
+
+18. Complex queries in DHT-based peer-to-peer networks
+Citations:492
+Authors: M Harren, JM Hellerstein, R Huebsch, BT Loo, S Shenker, I Stoica
+Publication: International Workshop on Peer-to-Peer Systems, 242-250
+
+19. Implementing declarative overlays
+Citations:478
+Authors: BT Loo, T Condie, JM Hellerstein, P Maniatis, T Roscoe, I Stoica
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 75-90
+
+20. Ripple joins for online aggregation
+Citations:463
+Authors: PJ Haas, JM Hellerstein
+Publication: ACM SIGMOD Record 28 (2), 287-298
+
+21. Extensible/rule based query rewrite optimization in Starburst
+Citations:432
+Authors: H Pirahesh, JM Hellerstein, W Hasan
+Publication: ACM Sigmod Record 21 (2), 39-48
+
+22. On the feasibility of peer-to-peer web indexing and search
+Citations:411
+Authors: J Li, BT Loo, JM Hellerstein, MF Kaashoek, DR Karger, R Morris
+Publication: International Workshop on Peer-to-Peer Systems, 207-215
+
+23. Wrangler: Interactive visual specification of data transformation scripts
+Citations:393
+Authors: S Kandel, A Paepcke, J Hellerstein, J Heer
+Publication: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
+
+24. Graphlab: A new parallel framework for machine learning
+Citations:386
+Authors: Y Low, J Gonzalez, A Kyrola, D Bickson, C Guestrin, JM Hellerstein
+Publication: Conference on uncertainty in artificial intelligence (UAI), 340-349
+
+25. Declarative routing: extensible routing with declarative queries
+Citations:364
+Authors: BT Loo, JM Hellerstein, I Stoica, R Ramakrishnan
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 289-300
+
+26. Predicate migration: Optimizing queries with expensive predicates
+Citations:364
+Authors: JM Hellerstein, M Stonebraker
+Publication: ACM SIGMOD Record 22 (2), 267-276
+
+27. Flux: An adaptive partitioning operator for continuous query systems
+Citations:360
+Authors: MA Shah, JM Hellerstein, S Chandrasekaran, MJ Franklin
+Publication: Proceedings 19th International Conference on Data Engineering (Cat. No …
+
+28. A case for intelligent disks (IDISKs)
+Citations:356
+Authors: K Keeton, DA Patterson, JM Hellerstein
+Publication: ACM SIGMOD Record 27 (3), 42-52
+
+29. Readings in database systems
+Citations:351
+Authors: M Stonebraker
+Publication: Morgan Kaufmann Publishers Inc.
+
+30. Beyond average: Toward sophisticated sensing with queries
+Citations:342
+Authors: JM Hellerstein, W Hong, S Madden, K Stanek
+Publication: Information Processing in Sensor Networks, 63-79
+
+31. The New Jersey data reduction report
+Citations:341
+Authors: D Barbar'a, W DuMouchel, C Faloutsos, PJ Haas, JM Hellerstein, ...
+Publication: IEEE Data Engineering Bulletin
+
+32. Scalable, distributed data structures for internet service construction
+Citations:319
+Authors: SD Gribble, EA Brewer, JM Hellerstein, D Culler
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+33. Behavior of database production rules: Termination, confluence, and observable determinism
+Citations:308
+Authors: A Aiken, J Widom, JM Hellerstein
+Publication: ACM SIGMOD Record 21 (2), 59-68
+
+34. The MADlib analytics library: or MAD skills, the SQL
+Citations:303
+Authors: JM Hellerstein, C Ré, F Schoppmann, DZ Wang, E Fratkin, A Gorajek, ...
+Publication: Proceedings of the VLDB Endowment 5 (12), 1700-1711
+
+35. Declarative networking: language, execution and optimization
+Citations:300
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+36. Adaptive query processing: Technology in evolution
+Citations:290
+Authors: JM Hellerstein, MJ Franklin, S Chandrasekaran, A Deshpande, K Hildrum, ...
+Publication: IEEE Data Eng. Bull. 23 (2), 7-18
+
+37. Enterprise data analysis and visualization: An interview study
+Citations:267
+Authors: S Kandel, A Paepcke, JM Hellerstein, J Heer
+Publication: IEEE Transactions on Visualization and Computer Graphics 18 (12), 2917-2926
+
+38. The case for a hybrid P2P search infrastructure
+Citations:265
+Authors: BT Loo, R Huebsch, I Stoica, JM Hellerstein
+Publication: International workshop on Peer-To-Peer Systems, 141-150
+
+39. The architecture of pier: an internet-scale query processor
+Citations:253
+Authors: R Huebsch, B Chun, JM Hellerstein, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+
+40. TASK: Sensor network in a box
+Citations:249
+Authors: P Buonadonna, D Gay, JM Hellerstein, W Hong, S Madden
+Publication: Proceeedings of the Second European Workshop on Wireless Sensor Networks …
+
+41. Cluster I/O with River: Making the fast case common
+Citations:242
+Authors: RH Arpaci-Dusseau, E Anderson, N Treuhaft, DE Culler, JM Hellerstein, ...
+Publication: Proceedings of the sixth workshop on I/O in parallel and distributed systems …
+
+42. Interactive data analysis: The control project
+Citations:225
+Authors: JM Hellerstein, R Avnur, A Chou, C Hidber, C Olston, V Raman, T Roth, ...
+Publication: Computer 32 (8), 51-59
+
+43. Highly available, fault-tolerant, parallel dataflows
+Citations:222
+Authors: MA Shah, JM Hellerstein, E Brewer
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+44. High-performance sorting on networks of workstations
+Citations:222
+Authors: AC Arpaci-Dusseau, RH Arpaci-Dusseau, DE Culler, JM Hellerstein, ...
+Publication: ACM SIGMOD Record 26 (2), 243-254
+
+45. A case study in building layered DHT applications
+Citations:221
+Authors: Y Chawathe, S Ramabhadran, S Ratnasamy, A LaMarca, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 97-108
+
+46. Architecture of a database system
+Citations:216
+Authors: JM Hellerstein, M Stonebraker, J Hamilton
+Publication: Foundations and Trends® in Databases 1 (2), 141-259
+
+47. Concurrency and recovery in generalized search trees
+Citations:215
+Authors: M Kornacker, C Mohan, JM Hellerstein
+Publication: ACM SIGMOD Record 26 (2), 62-72
+
+48. Static analysis techniques for predicting the behavior of active database rules
+Citations:215
+Authors: A Aiken, JM Hellerstein, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 20 (1), 3-41
+
+49. Quantitative data cleaning for large databases
+Citations:208
+Authors: JM Hellerstein
+Publication: United Nations Economic Commission for Europe (UNECE)
+
+50. The sensor network as a database
+Citations:208
+Authors: R Govindan, J Hellerstein, W Hong, S Madden, M Franklin, S Shenker
+Publication: Technical Report 02-771, Computer Science Department, University of Southern …
+
+51. Declarative networking
+Citations:201
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: Communications of the ACM 52 (11), 87-95
+
+52. The design and implementation of a declarative sensor network system
+Citations:200
+Authors: D Chu, L Popa, A Tavakoli, JM Hellerstein, P Levis, S Shenker, I Stoica
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+53. Voyager: Exploratory analysis via faceted browsing of visualization recommendations
+Citations:192
+Authors: K Wongsuphasawat, D Moritz, A Anand, J Mackinlay, B Howe, J Heer
+Publication: IEEE transactions on visualization and computer graphics 22 (1), 649-658
+
+54. Optimization techniques for queries with expensive methods
+Citations:191
+Authors: JM Hellerstein
+Publication: ACM Transactions on Database Systems (TODS) 23 (2), 113-157
+
+55. Online aggregation and continuous query support in mapreduce
+Citations:190
+Authors: T Condie, N Conway, P Alvaro, JM Hellerstein, J Gerth, J Talbot, ...
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+56. Bolt-on causal consistency
+Citations:185
+Authors: P Bailis, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+57. Probabilistically bounded staleness for practical partial quorums
+Citations:185
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 5 (8), 776-787
+
+58. Enhancing p2p file-sharing with an internet-scale query processor
+Citations:181
+Authors: BT Loo, JM Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+59. On the analysis of indexing schemes
+Citations:180
+Authors: JM Hellerstein, E Koutsoupias, CH Papadimitriou
+Publication: Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on …
+
+60. Consistency Analysis in Bloom: a CALM and Collected Approach.
+Citations:179
+Authors: P Alvaro, N Conway, JM Hellerstein, WR Marczak
+Publication: CIDR, 249-260
+
+61. The Claremont report on database research
+Citations:177
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: ACM Sigmod Record 37 (3), 9-19
+
+62. Using state modules for adaptive query processing
+Citations:171
+Authors: V Raman, A Deshpande, JM Hellerstein
+Publication: Proceedings 19th International Conference on Data Engineering (Cat. No …
+
+63. BayesStore: managing large, uncertain data repositories with probabilistic graphical models
+Citations:161
+Authors: DZ Wang, E Michelakis, M Garofalakis, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 1 (1), 340-351
+
+64. Model-based approximate querying in sensor networks
+Citations:159
+Authors: A Deshpande, C Guestrin, SR Madden, JM Hellerstein, W Hong
+Publication: The VLDB journal 14 (4), 417-443
+
+65. Brief announcement: prefix hash tree
+Citations:154
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: PODC 4, 368-368
+
+66. Highly available transactions: Virtues and limitations
+Citations:151
+Authors: P Bailis, A Davidson, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 7 (3), 181-192
+
+67. Profiler: Integrated statistical analysis and visualization for data quality assessment
+Citations:151
+Authors: S Kandel, R Parikh, A Paepcke, JM Hellerstein, J Heer
+Publication: Proceedings of the International Working Conference on Advanced Visual …
+
+68. Vega-lite: A grammar of interactive graphics
+Citations:147
+Authors: A Satyanarayan, D Moritz, K Wongsuphasawat, J Heer
+Publication: IEEE transactions on visualization and computer graphics 23 (1), 341-350
+
+69. Communication-Efficient Online Detection of Network-Wide Anomalies.
+Citations:147
+Authors: L Huang, XL Nguyen, MN Garofalakis, JM Hellerstein, MI Jordan, ...
+Publication: INFOCOM 7, 134-142
+
+70. TelegraphCQ: An architectural status report
+Citations:145
+Authors: S Krishnamurthy, S Chandrasekaran, O Cooper, A Deshpande, ...
+Publication: IEEE Data Eng. Bull. 26 (1), 11-18
+
+71. Coordination avoidance in database systems
+Citations:143
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 8 (3), 185-196
+
+72. Boom analytics: exploring data-centric, declarative programming for the cloud
+Citations:142
+Authors: P Alvaro, T Condie, N Conway, K Elmeleegy, JM Hellerstein, R Sears
+Publication: Proceedings of the 5th European conference on Computer systems, 223-236
+
+73. Using Probabilistic Models for Data Management in Acquisitional Environments.
+Citations:131
+Authors: A Deshpande, C Guestrin, S Madden, JM Hellerstein, W Hong
+Publication: CIDR 5, 317-328
+
+74. Content integration for e-business
+Citations:123
+Authors: M Stonebraker, JM Hellerstein
+Publication: ACM SIGMOD Record 30 (2), 552-560
+
+75. The declarative imperative: experiences and conjectures in distributed logic
+Citations:122
+Authors: JM Hellerstein
+Publication: ACM SIGMOD Record 39 (1), 5-19
+
+76. Dedalus: Datalog in Time and Space
+Citations:122
+Authors: P Alvaro, WR Marczak, N Conway, JM Hellerstein, D Maier, R Sears
+Publication: International Datalog 2.0 Workshop, 262-281
+
+77. Lifting the burden of history from adaptive query processing
+Citations:122
+Authors: A Deshpande, JM Hellerstein
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+78. Prefix hash tree: An indexing data structure over distributed hash tables
+Citations:122
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: Proceedings of the 23rd ACM symposium on principles of distributed computing 37
+
+79. Query execution techniques for caching expensive methods
+Citations:120
+Authors: JM Hellerstein, JF Naughton
+Publication: ACM SIGMOD Record 25 (2), 423-434
+
+80. CommentSpace: structured support for collaborative visual analysis
+Citations:111
+Authors: W Willett, J Heer, J Hellerstein, M Agrawala
+Publication: Proceedings of the SIGCHI conference on Human Factors in Computing Systems …
+
+81. Data triage: An adaptive architecture for load shedding in telegraphcq
+Citations:110
+Authors: F Reiss, JM Hellerstein
+Publication: 21st International Conference on Data Engineering (ICDE'05), 155-156
+
+82. Proof sketches: Verifiable in-network aggregation
+Citations:109
+Authors: M Garofalakis, JM Hellerstein, P Maniatis
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 996-1005
+
+83. Practical predicate placement
+Citations:106
+Authors: JM Hellerstein
+Publication: ACM SIGMOD Record 23 (2), 325-335
+
+84. The Claremont report on database research
+Citations:104
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: Communications of the ACM 52 (6), 56-65
+
+85. Scalable atomic visibility with RAMP transactions
+Citations:103
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: ACM Transactions on Database Systems (TODS) 41 (3), 15
+
+86. Cost-based optimization for magic: Algebra and implementation
+Citations:101
+Authors: P Seshadri, JM Hellerstein, H Pirahesh, TY Leung, R Ramakrishnan, ...
+Publication: ACM SIGMOD Record 25 (2), 435-446
+
+87. Logic and lattices for distributed programming
+Citations:100
+Authors: N Conway, WR Marczak, P Alvaro, JM Hellerstein, D Maier
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 1
+
+88. Online dynamic reordering for interactive data processing
+Citations:96
+Authors: V Raman, B Raman, JM Hellerstein
+Publication: VLDB 99, 709-720
+
+89. Induced Churn as Shelter from Routing-Table Poisoning.
+Citations:91
+Authors: T Condie, V Kacholia, S Sank, JM Hellerstein, P Maniatis
+Publication: NDSS
+
+90. Usher: Improving data quality with dynamic forms
+Citations:90
+Authors: K Chen, H Chen, N Conway, JM Hellerstein, TS Parikh
+Publication: IEEE Transactions on Knowledge and Data Engineering 23 (8), 1138-1153
+
+91. A wakeup call for internet monitoring systems: The case for distributed triggers
+Citations:86
+Authors: A Jain, JM Hellerstein, S Ratnasamy, D Wetherall
+Publication: Proceedings of HotNets-III, 1-6
+
+92. Nonmyopic informative path planning in spatio-temporal models
+Citations:85
+Authors: A Meliou, A Krause, C Guestrin, JM Hellerstein
+Publication: AAAI 10 (4), 16.7
+
+93. Clock skew based node identification in wireless sensor networks
+Citations:81
+Authors: DJ Huang, WC Teng, CY Wang, HY Huang, JM Hellerstein
+Publication: IEEE GLOBECOM 2008-2008 IEEE Global Telecommunications Conference, 1-5
+
+94. Partial results for online query processing
+Citations:81
+Authors: V Raman, JM Hellerstein
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+95. The sensor spectrum: technology, trends, and requirements
+Citations:77
+Authors: JM Hellerstein, W Hong, SR Madden
+Publication: ACM SIGMOD Record 32 (4), 22-27
+
+96. The potential dangers of causal consistency and an explicit solution
+Citations:75
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 22
+
+97. FATE and DESTINI: A framework for cloud recovery testing
+Citations:74
+Authors: HS Gunawi, T Do, P Joshi, P Alvaro, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: Proceedings of NSDI’11: 8th USENIX Symposium on Networked Systems Design and …
+
+98. Enabling real-time querying of live and historical stream data
+Citations:73
+Authors: F Reiss, K Stockinger, K Wu, A Shoshani, JM Hellerstein
+Publication: 19th International Conference on Scientific and Statistical Database …
+
+99. Independent, open enterprise data integration
+Citations:73
+Authors: JM Hellerstein, M Stonebraker, R Caccia
+Publication: IEEE Data Eng. Bull. 22 (1), 43-49
+
+100. The RD-tree: An index structure for sets
+Citations:72
+Authors: JM Hellerstein, A Pfeffer
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+101. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+102. Readings in database systems
+Citations:71
+Authors: JM Hellerstein, M Stonebraker
+Publication: MIT Press
+
+103. Toward network data independence
+Citations:70
+Authors: JM Hellerstein
+Publication: ACM SIGMOD Record 32 (3), 34-40
+
+104. Range queries over DHTs
+Citations:70
+Authors: S Ratnasamy, JM Hellerstein, S Shenker
+Publication: 
+
+105. A berkeley view of systems challenges for ai
+Citations:69
+Authors: I Stoica, D Song, RA Popa, D Patterson, MW Mahoney, R Katz, ...
+Publication: arXiv preprint arXiv:1712.05855
+
+106. The case for precision sharing
+Citations:63
+Authors: S Krishnamurthy, MJ Franklin, JM Hellerstein, G Jacobson
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+107. Learning and verifying quantified boolean queries by example
+Citations:62
+Authors: A Abouzied, D Angluin, C Papadimitriou, JM Hellerstein, A Silberschatz
+Publication: Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …
+
+108. Evita raced: metacompilation for declarative networks
+Citations:59
+Authors: T Condie, D Chu, JM Hellerstein, P Maniatis
+Publication: Proceedings of the VLDB Endowment 1 (1), 1153-1165
+
+109. Sharing aggregate computation for distributed queries
+Citations:57
+Authors: R Huebsch, M Garofalakis, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+110. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+111. Data gathering tours in sensor networks
+Citations:55
+Authors: A Meliou, D Chu, J Hellerstein, C Guestrin, W Hong
+Publication: Proceedings of the 5th international conference on Information processing in …
+
+112. On a model of indexability and its bounds for range queries
+Citations:54
+Authors: JM Hellerstein, E Koutsoupias, DP Miranker, CH Papadimitriou, ...
+Publication: Journal of the ACM (JACM) 49 (1), 35-55
+
+113. Proactive wrangling: mixed-initiative end-user programming of data transformation scripts
+Citations:53
+Authors: PJ Guo, S Kandel, JM Hellerstein, J Heer
+Publication: Proceedings of the 24th annual ACM symposium on User interface software and …
+
+114. Java support for data-intensive systems: Experiences building the Telegraph dataflow system
+Citations:53
+Authors: MA Shah, MJ Franklin, S Madden, JM Hellerstein
+Publication: ACM Sigmod Record 30 (4), 103-114
+
+115. Informix under control: Online query processing
+Citations:53
+Authors: JM Hellerstein, R Avnur, V Raman
+Publication: Data Mining and Knowledge Discovery 4 (4), 281-314
+
+116. Decoupled query optimization for federated database systems
+Citations:52
+Authors: A Deshpande, JM Hellerstein
+Publication: Proceedings 18th International Conference on Data Engineering, 716-727
+
+117. Potters wheel: an interactive framework for data cleaning and transformation
+Citations:52
+Authors: V Raman, J Hellerstein
+Publication: Working draft
+
+118. Private matching
+Citations:51
+Authors: Y Li, JD Tygar, JM Hellerstein
+Publication: Computer Security in the 21st Century, 25-50
+
+119. Searching for the sorting record: Experiences in tuning NOW-Sort
+Citations:51
+Authors: AC Arpaci-Dusseau, RH Arpaci-Dusseau, DE Culler, JM Hellerstein, ...
+Publication: Symposium on Parallel and Distributed Tools: Proceedings of the SIGMETRICS …
+
+120. Predictive Interaction for Data Transformation.
+Citations:50
+Authors: J Heer, JM Hellerstein, S Kandel
+Publication: CIDR
+
+121. Probabilistic Data Management for Pervasive Computing: The Data Furnace Project.
+Citations:50
+Authors: MN Garofalakis, KP Brown, MJ Franklin, JM Hellerstein, DZ Wang, ...
+Publication: IEEE Data Eng. Bull. 29 (1), 57-63
+
+122. Shreddr: pipelined paper digitization for low-resource organizations
+Citations:49
+Authors: K Chen, A Kannan, Y Yano, JM Hellerstein, TS Parikh
+Publication: Proceedings of the 2nd ACM Symposium on Computing for Development, 3
+
+123. Failure as a service (faas): A cloud service for large-scale, online failure drills
+Citations:47
+Authors: HS Gunawi, T Do, JM Hellerstein, I Stoica, D Borthakur, J Robbins
+Publication: University of California, Berkeley, Berkeley 3
+
+124. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+125. Ground: A Data Context Service.
+Citations:45
+Authors: JM Hellerstein, V Sreekanti, JE Gonzalez, J Dalton, A Dey, S Nag, ...
+Publication: CIDR
+
+126. DataPlay: interactive tweaking and example-driven correction of graphical database queries
+Citations:45
+Authors: A Abouzied, J Hellerstein, A Silberschatz
+Publication: Proceedings of the 25th annual ACM symposium on User interface software and …
+
+127. Out-of-core build of a topological data structure from polygon soup
+Citations:44
+Authors: S McMains, JM Hellerstein, CH Séquin
+Publication: Proceedings of the sixth ACM symposium on Solid modeling and applications …
+
+128. Feral concurrency control: An empirical investigation of modern application integrity
+Citations:43
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+129. Toward sophisticated detection with distributed triggers
+Citations:43
+Authors: L Huang, M Garofalakis, J Hellerstein, A Joseph, N Taft
+Publication: Proceedings of the 2006 SIGCOMM workshop on Mining network data, 311-316
+
+130. Compact histograms for hierarchical identifiers
+Citations:43
+Authors: F Reiss, M Garofalakis, JM Hellerstein
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+131. VIQING: Visual interactive querying
+Citations:43
+Authors: C Olsten, M Stonebraker, A Aiken, JM Hellerstein
+Publication: Proceedings. 1998 IEEE Symposium on Visual Languages (Cat. No. 98TB100254 …
+
+132. Quantifying eventual consistency with PBS
+Citations:42
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: The VLDB Journal 23 (2), 279-302
+
+133. Entirely declarative sensor network systems
+Citations:42
+Authors: D Chu, A Tavakoli, L Popa, J Hellerstein
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+134. Searching for Jim Gray: a technical overview.
+Citations:41
+Authors: JM Hellerstein, DL Tennenhouse
+Publication: Commun. ACM 54 (7), 77-87
+
+135. Lineage-driven fault injection
+Citations:40
+Authors: P Alvaro, J Rosen, JM Hellerstein
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+136. Blazes: Coordination analysis for distributed programs
+Citations:39
+Authors: P Alvaro, N Conway, JM Hellerstein, D Maier
+Publication: 2014 IEEE 30th International Conference on Data Engineering, 52-63
+
+137. Hybrid in-database inference for declarative information extraction
+Citations:39
+Authors: DZ Wang, MJ Franklin, M Garofalakis, JM Hellerstein, ML Wick
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+138. Declarative network monitoring with an underprovisioned query processor
+Citations:38
+Authors: F Reiss, JM Hellerstein
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 56-56
+
+139. Querying probabilistic information extraction
+Citations:37
+Authors: DZ Wang, MJ Franklin, M Garofalakis, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1057-1067
+
+140. Amdb: a design tool for access methods
+Citations:36
+Authors: M Kornacker, MA Shah, JM Hellerstein
+Publication: Computer Science Division, University of California
+
+141. I do declare: consensus in a logic language
+Citations:35
+Authors: P Alvaro, T Condie, N Conway, JM Hellerstein, R Sears
+Publication: ACM SIGOPS Operating Systems Review 43 (4), 25-30
+
+142. Distributing queries over low-power wireless sensor networks
+Citations:35
+Authors: S Madden, JM Hellerstein
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+143. The architectural costs of streaming I/O: A comparison of workstations, clusters, and SMPs
+Citations:35
+Authors: RH Arpaci-Dusseau, AC Arpaci-Dusseau, DE Culler, JM Hellerstein, ...
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+144. Playful query specification with DataPlay
+Citations:34
+Authors: A Abouzied, JM Hellerstein, A Silberschatz
+Publication: Proceedings of the VLDB Endowment 5 (12), 1938-1941
+
+145. Approximating sensor network queries using in-network summaries
+Citations:33
+Authors: A Meliou, C Guestrin, JM Hellerstein
+Publication: Proceedings of the 2009 International Conference on Information Processing …
+
+146. The design and implementation of declarative networks
+Citations:32
+Authors: BT Loo, JM Hellerstein
+Publication: University of California, Berkeley
+
+147. Learning to optimize join queries with deep reinforcement learning
+Citations:31
+Authors: S Krishnan, Z Yang, K Goldberg, J Hellerstein, I Stoica
+Publication: arXiv preprint arXiv:1808.03196
+
+148. Consistency without borders
+Citations:31
+Authors: P Alvaro, P Bailis, N Conway, JM Hellerstein
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 23
+
+149. Control: Continuous output and navigation technology with refinement on-line
+Citations:31
+Authors: R Avnur, JM Hellerstein, B Lo, C Olston, B Raman, V Raman, T Roth, ...
+Publication: ACM SIGMOD Record 27 (2), 567-569
+
+150. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:29
+Authors: K O'Hara, G Gonzalez, A Sellen, G Penney, A Varnavas, H Mentis, ...
+Publication: Communications of the ACM 57 (1), 70-77
+
+151. Designing adaptive feedback for improving data entry accuracy
+Citations:29
+Authors: K Chen, JM Hellerstein, TS Parikh
+Publication: Proceedings of the 23nd annual ACM symposium on User interface software and …
+
+152. Optimization of in-network data reduction
+Citations:28
+Authors: JM Hellerstein, W Wang
+Publication: Proceeedings of the 1st international workshop on Data management for sensor …
+
+153. Datalog redux: experience and conjecture
+Citations:27
+Authors: JM Hellerstein
+Publication: Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+154. BOOM: Data-centric programming in the datacenter
+Citations:27
+Authors: P Alvaro, T Condie, N Conway, K Elmeleegy, JM Hellerstein, RC Sears
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+155. Continuous query optimization
+Citations:27
+Authors: R Avnur, J Hellerstein
+Publication: University of California, Berkeley, Computer Science Division
+
+156. Serverless computing: One step forward, two steps back
+Citations:26
+Authors: JM Hellerstein, J Faleiro, JE Gonzalez, J Schleier-Smith, V Sreekanti, ...
+Publication: arXiv preprint arXiv:1812.03651
+
+157. Boolean bounding predicates for spatial access methods
+Citations:26
+Authors: M Thomas, JM Hellerstein
+Publication: International Conference on Database and Expert Systems Applications, 925-934
+
+158. An interactive framework for data cleaning
+Citations:26
+Authors: V Raman, JM Hellerstein
+Publication: Computer Science Division, University of California
+
+159. Probabilistic declarative information extraction
+Citations:24
+Authors: DZ Wang, E Michelakis, MJ Franklin, M Garofalakis, JM Hellerstein
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 173-176
+
+160. Finally, a use for componentized transport protocols
+Citations:24
+Authors: T Condie, JM Hellerstein, P Maniatis, SRT Roscoe
+Publication: HotNets IV 13
+
+161. HAT, not CAP: towards highly available transactions
+Citations:23
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 14th USENIX conference on Hot Topics in Operating Systems …
+
+162. Online dynamic reordering
+Citations:23
+Authors: V Raman, B Raman, JM Hellerstein
+Publication: The VLDB Journal 9 (3), 247-260
+
+163. Near-neighbor query performance in search trees
+Citations:23
+Authors: S Wang, JM Hellerstein, I Lipkind
+Publication: Computer Science Division, University of California
+
+164. Join algorithms for online aggregation
+Citations:22
+Authors: PJ Haas, JM Hellerstein
+Publication: IBM Thomas J. Watson Research Division
+
+165. Sdlib: a sensor network data and communications library for rapid and robust application development
+Citations:21
+Authors: D Chu, K Lin, A Linares, G Nguyen, JM Hellerstein
+Publication: Proceedings of the 5th international conference on Information processing in …
+
+166. A declarative sensornet architecture.
+Citations:20
+Authors: A Tavakoli, D Chu, JM Hellerstein, P Levis, S Shenker
+Publication: SIGBED Review 4 (3), 55-60
+
+167. Creating a customized access method for blobworld
+Citations:20
+Authors: M Thomas, C Carson, JM Hellerstein
+Publication: Computer Science Division, University of California
+
+168. Beyond viral
+Citations:19
+Authors: M Cebrian, I Rahwan, AS Pentland
+Publication: Communications of the ACM 59 (4), 36-39
+
+169. High performance transactions via early write visibility
+Citations:18
+Authors: JM Faleiro, DJ Abadi, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 10 (5), 613-624
+
+170. Anatomy of a database system
+Citations:18
+Authors: JM Hellerstein, M Stonebraker
+Publication: Readings in Database Systems,
+
+171. Online processing redux
+Citations:18
+Authors: JM Hellerstein
+Publication: IEEE Data Eng. Bull. 20 (3), 20-29
+
+172. Graphscape: A model for automated reasoning about visualization similarity and sequencing
+Citations:17
+Authors: Y Kim, K Wongsuphasawat, J Hullman, J Heer
+Publication: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …
+
+173. Confluence analysis for distributed programs: A model-theoretic approach
+Citations:17
+Authors: WR Marczak, P Alvaro, N Conway, JM Hellerstein, D Maier
+Publication: International Datalog 2.0 Workshop, 135-147
+
+174. BloomUnit: Declarative testing for distributed programs
+Citations:17
+Authors: P Alvaro, A Hutchinson, N Conway, WR Marczak, JM Hellerstein
+Publication: Proceedings of the Fifth International Workshop on Testing Database Systems, 1
+
+175. Parallelizing extensible query optimizers
+Citations:17
+Authors: FM Waas, JM Hellerstein
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+176. Design Considerations for Information Planes.
+Citations:17
+Authors: BN Chun, JM Hellerstein, R Huebsch, P Maniatis, T Roscoe
+Publication: WORLDS
+
+177. Customizable routing with declarative queries
+Citations:17
+Authors: BT Loo, JM Hellerstein, I Stoica
+Publication: 
+
+178. Deconstructing dhts
+Citations:17
+Authors: D Ratajczak, JM Hellerstein
+Publication: IRB-TR-03-042, Intel Research
+
+179. Scalable Spreadsheets for Interactive Data Analysis.
+Citations:17
+Authors: V Raman, A Chou, JM Hellerstein
+Publication: 1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge …
+
+180. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:16
+Authors: T Wadlow, V Gorelik, J Barkat
+Publication: Communications of the ACM 52 (5), 40-45
+
+181. Online query processing: a tutorial
+Citations:16
+Authors: PJ Haas, JM Hellerstein
+Publication: SIGMOD RECORD 30 (2), 623-623
+
+182. Generating personalized spatial analogies for distances and areas
+Citations:15
+Authors: YS Kim, J Hullman, M Agrawala
+Publication: Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …
+
+183. Data in the First Mile.
+Citations:15
+Authors: K Chen, JM Hellerstein, TS Parikh
+Publication: CIDR, 203-206
+
+184. The Network Oracle.
+Citations:15
+Authors: JM Hellerstein, V Paxson, LL Peterson, T Roscoe, S Shenker, D Wetherall
+Publication: IEEE Data Eng. Bull. 28 (1), 3-10
+
+185. Analyzing p2p overlays with recursive queries
+Citations:15
+Authors: BT Loo, R Huebsch, JM Hellerstein, T Roscoe, I Stoica
+Publication: 
+
+186. amdb: A visual access method development tool
+Citations:15
+Authors: MA Shah, M Kornacker, JM Hellerstein
+Publication: Proceedings User Interfaces to Data Intensive Systems, 130-140
+
+187. Optimization and execution techniques for queries with expensive methods
+Citations:15
+Authors: JM Hellerstein
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+188. Maelstrom: Churn as shelter
+Citations:14
+Authors: T Condie, V Kacholia, S Sankararaman, P Maniatis, JM Hellerstein
+Publication: University of California at Berkeley Technical Report No. UCB/EECS-2005-11 …
+
+189. Architectures and algorithms for Internet-scale (P2P) data management
+Citations:14
+Authors: JM Hellerstein
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+190. Query rewrite optimization rules in IBM DB2 universal database
+Citations:14
+Authors: TY Leung, H Pirahesh, JM Hellerstein, P Seshadri
+Publication: Readings in database systems (3rd ed.), 153-168
+
+191. AMDB: an access method debugging tool
+Citations:14
+Authors: M Kornacker, M Shah, JM Hellerstein
+Publication: SIGMOD Conference, 570-571
+
+192. TAG: Tiny AGgregate queries in ad-hoc sensor networks
+Citations:13
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: Proceedings of the Usenix Symposium on Operating Systems Design and …
+
+193. The intelligent disk (IDISK): A revolutionary approach to database computing infrastructure
+Citations:13
+Authors: K Keeton, D Patterson, J Hellerstein, J Kubiatowicz, K Yelick
+Publication: Database 9 (6 S 5)
+
+194. Determinism in partially ordered production systems
+Citations:13
+Authors: JM Hellerstein, M Hsu
+Publication: IBM Almaden Research Center
+
+195. Asynchronous complex analytics in a distributed dataflow architecture
+Citations:12
+Authors: JE Gonzalez, P Bailis, MI Jordan, MJ Franklin, JM Hellerstein, A Ghodsi, ...
+Publication: arXiv preprint arXiv:1510.07092
+
+196. Edelweiss: Automatic storage reclamation for distributed programming
+Citations:12
+Authors: N Conway, P Alvaro, E Andrews, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 7 (6), 481-492
+
+197. A declarative semantics for Dedalus
+Citations:12
+Authors: P Alvaro, TJ Ameloot, JM Hellerstein, WR Marczak, J Van den Bussche
+Publication: 
+
+198. Falling off the cliff: When systems go nonlinear
+Citations:12
+Authors: Y Coady, R Cox, J DeTreville, P Druschel, J Hellerstein, A Hume, ...
+Publication: Proceedings of the 10th conference on Hot Topics in Operating Systems-Volume …
+
+199. Data tweening: incremental visualization of data transforms
+Citations:11
+Authors: M Khan, L Xu, A Nandi, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 10 (6), 661-672
+
+200. Data visualization and social data analysis
+Citations:11
+Authors: J Heer, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 2 (2), 1656-1657
+
+201. Public Health for the Internet φ Towards A New Grand Challenge for Information Management
+Citations:10
+Authors: JM Hellerstein, T Condie, M Garofalakis, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+
+202. PIER on PlanetLab: Initial experience and open problems
+Citations:10
+Authors: R Huebsch, B Chun, JM Hellerstein
+Publication: Technical Report IRB-TR-03-043, Intel Corporation
+
+203. The case for online aggregation
+Citations:10
+Authors: JM Hellerstein
+Publication: Computer Science Technical Report CSD-97-958, University of California, Berkeley
+
+204. Anna: A kvs for any scale
+Citations:9
+Authors: C Wu, J Faleiro, Y Lin, J Hellerstein
+Publication: IEEE Transactions on Knowledge and Data Engineering
+
+205. Improving data quality with dynamic forms
+Citations:9
+Authors: K Chen, H Chen, N Conway, H Dolan, JM Hellerstein, TS Parikh
+Publication: 2009 International Conference on Information and Communication Technologies …
+
+206. Exposing undergraduate students to database system internals
+Citations:9
+Authors: A Ailamaki, JM Hellerstein
+Publication: ACM SIGMOD Record 32 (3), 18-20
+
+207. RESEARCH TRACK: An Analysis Framework for Access Methods
+Citations:9
+Authors: M Kornacker, M Shah, JM Hellerstein
+Publication: UC Berkeley
+
+208. PBS at work: advancing data management with consistency metrics
+Citations:8
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+209. Thinking Big About Tiny Databases.
+Citations:8
+Authors: MJ Franklin, JM Hellerstein, S Madden
+Publication: IEEE Data Eng. Bull. 30 (3), 37-48
+
+210. Declarative networking with distributed recursive query processing
+Citations:8
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: ACM SIGMOD International Conference on Management of Data
+
+211. A DeVIL-ish approach to inconsistency in interactive visualizations
+Citations:7
+Authors: Y Wu, JM Hellerstein, E Wu
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 15
+
+212. Visual debugging techniques for reactive data visualization
+Citations:7
+Authors: J Hoffswell, A Satyanarayan, J Heer
+Publication: Computer Graphics Forum 35 (3), 271-280
+
+213. Querying at Internet scale
+Citations:7
+Authors: B Chun, JM Hellerstein, R Huebsch, SR Jeffery, BT Loo, S Mardanbeigi, ...
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+214. Towards Automatically Checking Thousands of Failures with Micro-specifications.
+Citations:6
+Authors: HS Gunawi, T Do, P Joshi, JM Hellerstein, AC Arpaci-Dusseau, ...
+Publication: HotDep
+
+215. Generalized search tree
+Citations:6
+Authors: JM Hellerstein
+Publication: Encyclopedia of Database Systems, 1222-1224
+
+216. Optimizing declarative sensornets
+Citations:6
+Authors: D Chu, JM Hellerstein, T Lai
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems …
+
+217. Self-Service Data Preparation: Research to Practice.
+Citations:5
+Authors: JM Hellerstein, J Heer, S Kandel
+Publication: IEEE Data Eng. Bull. 41 (2), 23-34
+
+218. Principles of data wrangling: Practical techniques for data preparation
+Citations:5
+Authors: T Rattenbury, JM Hellerstein, J Heer, S Kandel, C Carreras
+Publication: " O'Reilly Media, Inc."
+
+219. People, computers, and the hot mess of real data
+Citations:5
+Authors: JM Hellerstein
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+220. PerfEnforce: a dynamic scaling engine for analytics with performance guarantees
+Citations:5
+Authors: J Ortiz, B Lee, M Balazinska, JL Hellerstein
+Publication: arXiv preprint arXiv:1605.09753
+
+221. Confluence analysis for distributed programs: A model-theoretic approach
+Citations:5
+Authors: WR Marczak, P Alvaro, N Conway, JM Hellerstein, D Maier
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+222. Declarative information extraction in a probabilistic database system
+Citations:5
+Authors: D Wang, E Michelakis, M Garofalakis, MJ Franklin, JM Hellerstein
+Publication: Proc. of the 26th ICDE Conf
+
+223. Automating rendezvous and proxy selection in sensornets
+Citations:5
+Authors: D Chu, JM Hellerstein
+Publication: 2009 International Conference on Information Processing in Sensor Networks …
+
+224. Efficient analysis of live and historical streaming data and its application to cybersecurity
+Citations:5
+Authors: F Reiss, K Stockinger, K Wu, A Shoshani, JM Hellerstein
+Publication: 
+
+225. Re-inventing scholarly information dissemination and use
+Citations:5
+Authors: R Wilensky
+Publication: III Jornadas de Bibliotecas Digitales (JBIDI'02): El Escorial (Madrid), 18 …
+
+226. Looking forward to interactive queries
+Citations:5
+Authors: JM Hellerstein
+Publication: Database Programming and Design 11, 28-59
+
+227. The New Jersey data reduction report
+Citations:5
+Authors: W Dumouchel, C Faloutsos, PJ Haas, JM Hellerstein, Y Ioannidis, ...
+Publication: Data Engineering Bulletin
+
+228. Predicate Migration: Optimizing Queries with
+Citations:5
+Authors: JM Hellerstein
+Publication: University of California at Berkeley
+
+229. Tag,“
+Citations:5
+Authors: S Madden, M Franklin, J Hellerstein, W Hong
+Publication: A Tiny Aggregation Service for Ad-Hoc Sensor Networks
+
+230. SLAOrchestrator: reducing the cost of performance SLAs for cloud data analytics
+Citations:4
+Authors: J Ortiz, B Lee, M Balazinska, J Gehrke, JL Hellerstein
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 547-560
+
+231. Automating rendezvous and proxy selection
+Citations:4
+Authors: DC Chu, JM Hellerstein
+Publication: Technical Report UCB/EECS-2008-84, University of California Berkeley
+
+232. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+233. On using correlation-based synopses during query optimization
+Citations:4
+Authors: AV Deshpande, JM Hellerstein
+Publication: Computer Science Division, University of California
+
+234. Flux: An adaptive partitioning operator for continuous query systems
+Citations:4
+Authors: MS Joseph, JM Hellerstein, S Ch, MJ Franklin
+Publication: In ICDE
+
+235. Towards a theory of indexability
+Citations:4
+Authors: JM Hellerstein, E Koutsoupias, CH Papadimitriou
+Publication: Proc. 16th ACM SIGACT {SIGMOD {SIGART Symp. on Principles of Database Systems
+
+236. Autoscaling tiered cloud storage in Anna
+Citations:3
+Authors: C Wu, V Sreekanti, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 12 (6), 624-638
+
+237. Keeping CALM: When Distributed Consistency is Easy
+Citations:3
+Authors: JM Hellerstein, P Alvaro
+Publication: arXiv preprint arXiv:1901.01930
+
+238. Interactive checks for coordination avoidance
+Citations:3
+Authors: M Whittaker, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 12 (1), 14-27
+
+239. Eliminating Boundaries in Cloud Storage with Anna
+Citations:3
+Authors: C Wu, V Sreekanti, JM Hellerstein
+Publication: arXiv preprint arXiv:1809.00089
+
+240. Multiresolution Cube Estimators for Sensor Network Aggregate Queries
+Citations:3
+Authors: A Meliou, C Guestrin, JM Hellerstein
+Publication: arXiv preprint arXiv:1007.3781
+
+241. Granularity conscious modeling for probabilistic databases
+Citations:3
+Authors: E Michelakis, DZ Wang, M Garofalakis, JM Hellerstein
+Publication: Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007 …
+
+242. Measurement and Analysis of Ultrapeer-based P2P Search Networks
+Citations:3
+Authors: BT Loo, J Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Departmental Papers (CIS), 327
+
+243. The New Jersey Data Reduction Report
+Citations:3
+Authors: JM Hellerstein, Y Ioannidis, HV Jagadish, T Johnson, R Ng, V Poosala, ...
+Publication: Bulletin of the IEEE Computer Society Technical Committee on Data …
+
+244. The Engineering of
+Citations:3
+Authors: HH Thomas, DC Kirby, JE Going
+Publication: 
+
+245. Looking back at postgres
+Citations:2
+Authors: JM Hellerstein
+Publication: arXiv preprint arXiv:1901.01973
+
+246. Chorus: Differential Privacy via Query Rewriting
+Citations:2
+Authors: N Johnson, JP Near, JM Hellerstein, D Song
+Publication: arXiv preprint arXiv:1809.07750
+
+247. Unifacta: profiling-driven string pattern standardization
+Citations:2
+Authors: Z Jin, M Cafarella, H Jagadish, S Kandel, M Minar
+Publication: arXiv preprint arXiv:1803.00701
+
+248. Debugging Distributed Systems with Why-Across-Time Provenance
+Citations:2
+Authors: M Whittaker, C Teodoropol, P Alvaro, JM Hellerstein
+Publication: Proceedings of the ACM Symposium on Cloud Computing
+
+249. Context: The missing piece in the machine learning lifecycle
+Citations:2
+Authors: R Garcia, V Sreekanti, N Yadwadkar, D Crankshaw, JE Gonzalez, ...
+Publication: KDD CMI Workshop 114
+
+250. Blazes: Coordination Analysis and Placement for Distributed Programs
+Citations:2
+Authors: P Alvaro, N Conway, JM Hellerstein, D Maier
+Publication: ACM Transactions on Database Systems (TODS) 42 (4), 23
+
+251. System and method for identifying delimiters in a computer file
+Citations:2
+Authors: AJ Elmore, AE Silberstein, JM Hellerstein, S Kandel
+Publication: US Patent 9,753,928
+
+252. Putting logic-based distributed systems on stable grounds
+Citations:2
+Authors: TJ Ameloot, J Van den Bussche, WR Marczak, P Alvaro, JM Hellerstein
+Publication: Theory and Practice of Logic Programming 16 (4), 378-417
+
+253. Building an urban data science summer program at the University of Washington eScience Institute
+Citations:2
+Authors: A Rokem, C Aragon, A Arendt, B Fiore-Gartland, B Hazelton, J Hellerstein, ...
+Publication: Bloomberg Data for Good Exchange Conference
+
+254. How to build a bad research center.
+Citations:2
+Authors: DA Patterson
+Publication: Commun. ACM 57 (3), 33-36
+
+255. Failure as a Service (FaaS): A cloud service for large-scale,...
+Citations:2
+Authors: HS Gunawi, T Do, JM Hellerstein, I Stoica, D Borthakur, J Robbins
+Publication: 
+
+256. Datalog in Time and Space
+Citations:2
+Authors: P Alvaro, WR Marczak, N Conway, JM Hellerstein, D Maier, R Sears
+Publication: Technical report, EECS Department, University of California, Berkeley
+
+257. Verifiable order statistics for secure aggregation
+Citations:2
+Authors: HC Hsiao, CY Wang, JM Hellerstein, WC Teng, CL Lei
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2009-48
+
+258. Approximating sensor network queries with in-network summaries
+Citations:2
+Authors: A Meliou, C Guestrin, JM Hellerstein
+Publication: Technical Report UCB/EECS-2008-137, EECS Department, UC Berkeley
+
+259. Distributed inference with declarative overlay networks
+Citations:2
+Authors: S Funiak, A Atul, K Chen, JM Hellerstein, C Guestrin
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+260. Proof sketches: Verifiable multi-party aggregation
+Citations:2
+Authors: M Garofalakis, JM Hellerstein, P Maniatis
+Publication: Technical Report UCB/EECS-2006-20, EECS Department, University of California …
+
+261. Induced churn as shelter from routing-table poisoning
+Citations:2
+Authors: TC Varun, V Kacholia, S Sankararaman, JM Hellerstein, P Maniatis
+Publication: In Proc. 13th Annual Network and Distributed System Security Symposium (NDSS
+
+262. Guest editorial to the special issue on data stream processing
+Citations:2
+Authors: J Gehrke, JM Hellerstein
+Publication: The VLDB Journal 13 (4), 317-317
+
+263. Design Considerations for Information Planes
+Citations:2
+Authors: J Hellerstein, P Maniatis, T Roscoe
+Publication: Intel Research, IRB-TR-04-017
+
+264. Decentralized systems need decentralized benchmarks
+Citations:2
+Authors: D Oppenheimer, DA Patterson, JM Hellerstein
+Publication: Computer Science Division, University of California
+
+265. On the generation of 2-dimensional index workloads
+Citations:2
+Authors: JM Hellerstein, L Hellerstein, G Kollios
+Publication: International Conference on Database Theory, 113-130
+
+266. Filter Joins: Cost-Based Optimization for Magic Sets
+Citations:2
+Authors: P Seshadri, JM Hellerstein, R Ramakrishnan
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+267. Distributed GraphLab
+Citations:2
+Authors: Y Low, J Gonzalez, A Kyrola, D Bickson, C Guestrin, J Hellerstein
+Publication: A Framework for Machine Learning and Data Mining in the Cloud,” VLDB 12
+
+268. Making Sense of Asynchrony in Interactive Data Visualizations
+Citations:1
+Authors: Y Wu, L Xu, R Chang, JM Hellerstein, E Wu
+Publication: arXiv preprint arXiv:1806.01499
+
+269. Datatweener: A demonstration of a tweening engine for incremental visualization of data transforms
+Citations:1
+Authors: M Khan, L Xu, A Nandi, JM Hellerstein
+Publication: Proceedings of the VLDB Endowment 10 (12), 1953-1956
+
+270. Restream: Accelerating backtesting and stream replay with serial-equivalent parallel processing
+Citations:1
+Authors: J Schleier-Smith, ET Krogen, JM Hellerstein
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 334-347
+
+271. Coordination Avoidance in Database Systems (Extended Version)
+Citations:1
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: arXiv preprint arXiv:1402.2237
+
+272. How best to build web-scale data managers?
+Citations:1
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1647-1647
+
+273. Building and optimizing declarative networked systems
+Citations:1
+Authors: DC Chu
+Publication: University of California, Berkeley
+
+274. Declarative networking
+Citations:1
+Authors: T Roscoe
+Publication: Encyclopedia of Database Systems, 770-772
+
+275. Declarative network monitoring with an underprovisioned query processor (extended version)
+Citations:1
+Authors: F Reiss, JM Hellerstein
+Publication: Technical report, UC Berkeley
+
+276. Database-Style Aggregation in Sensor Networks
+Citations:1
+Authors: SR Madden, D Culler, MJ Franklin, JM Hellerstein, R Szewczyk, W Hong
+Publication: Demo. In 4th IEEE Workshop on Mobile Computing Systems and Applications …
+
+277. Towards a Crystal Ball for Data Retrieval.
+Citations:1
+Authors: JM Hellerstein
+Publication: NGITS, 0-
+
+278. The case for online aggregation: New challenges in user interfaces, performance goals, and dbms design
+Citations:1
+Authors: JM Hellerstein
+Publication: 
+
+279. The optimal control of ice-storage air-conditioning systems
+Citations:1
+Authors: CW Carey
+Publication: University of Wisconsin-Madison
+
+280. Blobworld: A System for Region-Based Image Indexing and Retrieval (long version)?
+Citations:1
+Authors: C Carson, M Thomas, S Belongie, JM Hellerstein, J Malik
+Publication: Retrieved from the Internet Archive
+
+281. Detecting reports of unsafe foods in consumer product reviews
+Citations:
+Authors: A Maharana, K Cai, J Hellerstein, Y Hswen, M Munsell, V Staneva, ...
+Publication: JAMIA Open
+
+282. DIEL: Transparent Scaling for Interactive Visualization
+Citations:
+Authors: Y Wu, R Chang, E Wu, JM Hellerstein
+Publication: arXiv preprint arXiv:1907.00062
+
+283. System and method for displaying a sample of uniform and outlier rows from a file
+Citations:
+Authors: AJ Elmore, AE Silberstein, JM Hellerstein, SP Kandel
+Publication: US Patent App. 14/491,956
+
+284. Selectivity Estimation with Deep Likelihood Models
+Citations:
+Authors: Z Yang, E Liang, A Kamsetty, C Wu, Y Duan, X Chen, P Abbeel, ...
+Publication: arXiv preprint arXiv:1905.04278
+
+285. Zhongjun Jin Michael Cafarella HV Jagadish Sean Kandel 2
+Citations:
+Authors: M Minar, JM Hellerstein
+Publication: 
+
+286. Indy: a software system for the dense cloud
+Citations:
+Authors: C Wu, JM Faleiro, Y Lin, JM Hellerstein
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 650-650
+
+287. Naughton's Wisconsin Bibliography: A Brief Guide
+Citations:
+Authors: JM Hellerstein
+Publication: arXiv preprint arXiv:1605.05566
+
+288. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+289. Data, Technology and the Challenges of Abundance.
+Citations:
+Authors: JM Hellerstein
+Publication: CIDR
+
+290. BOOM: Experiences in language and tool design for distributed systems (keynote)
+Citations:
+Authors: JM Hellerstein
+Publication: 2013 28th IEEE/ACM International Conference on Automated Software …
+
+291. 翻译: 林子雨
+Citations:
+Authors: JM Hellerstein, M Stonebraker, J Hamilton
+Publication: 
+
+292. Distributed programming and consistency: principles and practice
+Citations:
+Authors: P Alvaro, N Conway, JM Hellerstein
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 27
+
+293. Principles and Practice
+Citations:
+Authors: P Alvaro, N Conway, JM Hellerstein
+Publication: 
+
+294. Proceedings of the VLDB Endowment Volume 4 Issue 5
+Citations:
+Authors: J Blakeley, JM Hellerstein, N Koudas, W Lehner, S Sarawagi, U Röhm
+Publication: VLDB Endowment 4 (5)
+
+295. Relational database: A practical foundation.
+Citations:
+Authors: MT Hoque, VM Avery, D Adams, D Beckett, B Babcock, S Chaudhuri, ...
+Publication: Research Journal of Information Technology 2 (1), pp: 119-130
+
+296. Hydrology and Channel Head Erosion in a Semiarid Discontinuous Ephemeral Stream Network near Oracle, Arizona
+Citations:
+Authors: SB Delong, JP Johnson, KX Whipple, DF Post, D Malmon, D Chu, ...
+Publication: AGU Fall Meeting Abstracts
+
+297. Foundations and Trends® in Databases
+Citations:
+Authors: JM Hellerstein, M Stonebraker, J Hamilton
+Publication: Foundations and Trends® in Databases 1 (2), 141-259
+
+298. Analysis of Relationship between Blood Stream Infection and Clinical Background in Patients' Lactobacillus Therapy by Data Mining
+Citations:
+Authors: K Matsuoka, S Yokoyama, K Watanabe, S Tsumoto
+Publication: Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007 …
+
+299. 2007 Test-of-time Award “Online Aggregation”
+Citations:
+Authors: JM Hellerstein, PJ Haas, HJ Wang
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+300. A need for componentized transport protocols
+Citations:
+Authors: T Condie, JM Hellerstein, P Maniatis, S Rhea, T Roscoe
+Publication: Proceedings of the twentieth ACM symposium on Operating systems principles, 1-10
+
+301. Stonebraker Receives IEEE John von Neumann Medal
+Citations:
+Authors: D DeWitt, M Carey, JM Hellerstein
+Publication: ACM SIGMOD Record 34 (1), 13-15
+
+302. Data Gathering Tours in Sensor Networks
+Citations:
+Authors: A Meliou
+Publication: Networks
+
+303. A comparison of methods for multi-class support vector machines.
+Citations:
+Authors: A Mueen, MS Baba, R Zainuddin, T Acharya, K Ray, J Canny, C Carson, ...
+Publication: Journal of Applied Sciences 7 (8), 679-698
+
+304. Benchmarking DHTs with Queries
+Citations:
+Authors: D Oppenheimer, JM Hellerstein, R Huebsch, DA Patterson
+Publication: University of California at Berkeley
+
+305. Data streams: fresh current or stagnant backwater?(panel)
+Citations:
+Authors: JM Hellerstein, J Widom
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+306. A transmission control scheme for media access in sensor networks.
+Citations:
+Authors: F Hu, IF Akyildiz, W Su, Y Sankarasubramaniam, E Cayirci, G Asada, ...
+Publication: Information Technology Journal 5 (5), 102-114
+
+307. Localization in sparse networks using sweeps.
+Citations:
+Authors: L Shan, J Wang, Y Zhao, Y Liu, B Krishnamachari, D Estrin, S Wicker, ...
+Publication: Information Technology Journal 10 (8), pp: 575-578
+
+308. Energy-Conscious Data Aggregation over Large-Scale Sensor Networks.
+Citations:
+Authors: Q Ma, S Madden, MJ Franklin, J Hellerstein, W Hong, C Intanagonwiwat, ...
+Publication: Information Technology Journal 4 (4), pp: 131-146
+
+309. The cougar approach to in-network query processing in sensor networks.
+Citations:
+Authors: W Wang, B Wang, Z Liu, L Guo, A Manjeshwar, DP Agrawal, A Sengupta, ...
+Publication: Information Technology Journal 10 (1), pp: 30189-30189
+
+310. Index research(panel session)
+Citations:
+Authors: JM Hellerstein, HP Kriegel, D Comet, C Falsutsos, R Ramakrishnan, ...
+Publication: ACM SIGMOD Record 29 (2), 574
+
+311. Bounding Predicates and Insertion Policies for Multidimensional Indexes
+Citations:
+Authors: M Thomas, K Zhang, J Shih, JM Hellerstein
+Publication: Computer Science
+
+312. Persistent distributed data structures to simplify cluster-based Internet services
+Citations:
+Authors: SD Gribble, EA Brewer, D Culler, JM Hellerstein
+Publication: ACM SIGOPS Operating Systems Review 34 (2), 37-38
+
+313. a. Professional Preparation
+Citations:
+Authors: DP Green
+Publication: 
+
+314. Database System Concepts.
+Citations:
+Authors: N Arman, A Aiken, J Hellerstein, J Widom, N Arman, N Arman, K Berman, ...
+Publication: Information Technology Journal 6 (2), 3-41
+
+315. Rule termination analysis based on petri nets.
+Citations:
+Authors: LB hamed, H Belbachir, A Aiken, JM Hellerstein, J Widom, M Atkinson, ...
+Publication: Journal of Applied Sciences 6 (8), 3-41
+
+316. TriGS debugger a tool for debugging active database behavior.
+Citations:
+Authors: H Belbachir, NS Ougouti, A Aiken, J Widom, JM Hellerstein, ...
+Publication: Journal of Applied Sciences 6 (3), pp: 59-68
+
+317. UPDATING REPLICATED FILES IN REAL TIME DISTRIBUTED PROCESSING SYSTEMS (PROTOCOL, CONSISTENCY, LOCKING).
+Citations:
+Authors: J Hellerstein
+Publication: 
+
+318. Updating replicated files in real time distributed processing systems[Ph. D. Thesis]
+Citations:
+Authors: J HELLERSTEIN
+Publication: 
+
+319. Optimal Code from Flow Graphs or Notes on Avoiding Goto Statements
+Citations:
+Authors: MVS Ramanath, MH Solomon
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+320. Computing of trust in wireless networks.
+Citations:
+Authors: T Pazynyuk, GS Oreku, J Li, RG Blakely, H Chan, A Perrig, D Song, ...
+Publication: Information Technology Journal 7 (5), pp: 313-317
+
+321. Films about agriculture and economic development in Latin America
+Citations:
+Authors: F Albert
+Publication: Internationale Agrarfilm-Wettbewerb, Berlin, 1969
+
+322. Professional Preparation
+Citations:
+Authors: A Arendt, J Hellerstein, E Lazowska, S Stone, A Tanweer
+Publication: 
+
+323. SLAOrchestrator: Reducing the Cost of Performance SLAs for Cloud Data Analytics (Tech Report)
+Citations:
+Authors: J Ortiz, B Lee, M Balazinska, J Gehrke, JL Hellerstein
+Publication: 
+
+324. Analysis of Relationship between Blood Stream Infection and Clinical Background in Patients' Lactobacillus Therapy by Data Mining
+Citations:
+Authors: E Michelakis, DZ Wang, M Garofalakis, JM Hellerstein
+Publication: Seventh IEEE International Conference on Data Mining Workshops (ICDMW 2007)
+
+325. 16Looking Back at Postgres
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+326. Indy: A KVS For Any Scale
+Citations:
+Authors: C Wu, JM Faleiro, Y Lin, JM Hellerstein
+Publication: Under submission. Draft: https://tinyurl. com/indy-kvs-pdf
+
+327. Complex () ueries in DHT-based Peer-to-Peer Networks
+Citations:
+Authors: JM Hellerstein, R Huebsch
+Publication: 
+
+328. Online Aggregation Joseph M. Hellerstein Computer Science Division University of California, Berkeley jmh@ cs. berkeley. edu
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+329. Data Engineering
+Citations:
+Authors: RL Cole, MJ Anderson, RJ Bestgen, A Chen, YF Kao, M Pong, D Shak, ...
+Publication: 
+
+330. UC Berkeley SOCC 2012
+Citations:
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: 
+
+331. Aditya Akella, University of Wisconsin-Madison Jean Bacon, University of Cambridge Roger Barga, Microsoft Research Azer Bestavros, Boston University
+Citations:
+Authors: S Bouchenak, E Burtino, J Cao, M Carey, G Chockler, YC Chung, P Costa, ...
+Publication: 
+
+332. Designing the B-1
+Citations:
+Authors: MJ Carey, JM Hellerstein, M Stonebraker
+Publication: 
+
+333. Data Engineering
+Citations:
+Authors: R Barber, P Bendel, M Czech, O Draese, F Ho, N Hrle, S Idreos, MS Kim, ...
+Publication: 
+
+334. Xixuan (Aaron) Feng xfeng@ cs. wisc. edu
+Citations:
+Authors: X Feng, A Kumar, B Recht, C Ré, F Chen, C Ré, M Wang, JM Hellerstein, ...
+Publication: 
+
+335. ADAPTIVE DATAFLOW IN TELEGRAPH
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+336. Almaden Research Center IBM Research Division peterh@ almaden. ibm. com
+Citations:
+Authors: PJ Haas, JM Hellerstein
+Publication: 
+
+337. Data Engineering
+Citations:
+Authors: JM Hellerstein, V Paxson, L Peterson, T Roscoe, S Shenker, D Wetherall, ...
+Publication: Ann Arbor 1001, 48109
+
+338. Health IT Advisory Report
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+339. Data Engineering
+Citations:
+Authors: S Zdonik, M Stonebraker, M Cherniack, M Balazinska, H Balakrishnan, ...
+Publication: 
+
+340. Alexander Aiken Jennifer Widom Joseph M. Hellerstein
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+341. Data Engineering
+Citations:
+Authors: M Stonebraker, M Cherniack, U Cetintemel, M Balazinska, ...
+Publication: 
+
+342. Master Thesis “Advanced Aggregation in Ad-Hoc Sensor Networks”
+Citations:
+Authors: R Wattenhofer, S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: 
+
+343. Computer Science Division University of California, Berkeley jmh@ cs. berkeley. edu
+Citations:
+Authors: JM Hellerstein, PJ Haas, HJ Wang
+Publication: 
+
+344. How Best to Build Web-Scale Data Managers? A Panel Discussion
+Citations:
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann
+Publication: 
+
+345. Bulletin of the Technical Committee on
+Citations:
+Authors: WDM Barbará, C Faloutsos, PJ Haas, JM Hellerstein, Y Ioannidis, ...
+Publication: 
+
+346. Invited Speakers and Their Talk Descriptions
+Citations:
+Authors: JM Hellerstein
+Publication: 
+
+347. The Architecture of PIER: an Internet-Scale Query Processor Under Submission–Do Not Redistribute
+Citations:
+Authors: R Huebsch, B Chun, JM Hellerstein, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+

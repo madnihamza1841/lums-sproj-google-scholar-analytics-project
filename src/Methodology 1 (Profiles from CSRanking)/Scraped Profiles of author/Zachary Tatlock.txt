@@ -1,0 +1,263 @@
+https://scholar.google.com/citations?hl=en&user=jz2Tvk4AAAAJ
+Total Citations = 1041
+
+1. Verdi: A framework for formally verifying distributed system implementations
+Citations:158
+Authors: JR Wilcox, D Woos, P Panchekha, Z Tatlock, X Wang, MD Ernst, ...
+Publication: Proceedings of the 2015 ACM SIGPLAN Conference on Programming Language …
+
+2. Equality saturation: a new approach to optimization
+Citations:131
+Authors: R Tate, M Stepp, Z Tatlock, S Lerner
+Publication: ACM SIGPLAN Notices 44 (1), 264-276
+
+3. SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks.
+Citations:110
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: NDSS
+
+4. Proving optimizations correct using parameterized program equivalence
+Citations:96
+Authors: S Kundu, Z Tatlock, S Lerner
+Publication: ACM Sigplan Notices 44 (6), 327-337
+
+5. Automatically improving accuracy for floating point expressions
+Citations:87
+Authors: P Panchekha, A Sanchez-Stern, JR Wilcox, Z Tatlock
+Publication: ACM SIGPLAN Notices 50 (6), 1-11
+
+6. Establishing browser security guarantees through formal shim verification
+Citations:54
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+7. RoboFlow: A flow-based visual programming language for mobile manipulation tasks
+Citations:43
+Authors: S Alexandrova, Z Tatlock, M Cakmak
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 5537-5544
+
+8. Programming and proving with distributed protocols
+Citations:41
+Authors: I Sergey, JR Wilcox, Z Tatlock
+Publication: Proceedings of the ACM on Programming Languages 2 (POPL), 28
+
+9. Planning for change in a formal verification of the raft consensus protocol
+Citations:41
+Authors: D Woos, JR Wilcox, S Anton, Z Tatlock, MD Ernst, T Anderson
+Publication: Proceedings of the 5th ACM SIGPLAN Conference on Certified Programs and …
+
+10. Jitk: A trustworthy in-kernel interpreter infrastructure
+Citations:38
+Authors: X Wang, D Lazar, N Zeldovich, A Chlipala, Z Tatlock
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+11. Bringing extensibility to verified compilers
+Citations:32
+Authors: Z Tatlock, S Lerner
+Publication: ACM Sigplan Notices 45 (6), 111-121
+
+12. Deep typechecking and refactoring
+Citations:28
+Authors: Z Tatlock, C Tucker, D Shuffelton, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 43 (10), 37-52
+
+13. Verified peephole optimizations for CompCert
+Citations:24
+Authors: E Mullen, D Zuniga, Z Tatlock, D Grossman
+Publication: ACM SIGPLAN Notices 51 (6), 448-461
+
+14. Scalable verification of border gateway protocol configurations with an SMT solver
+Citations:19
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: ACM SIGPLAN Notices 51 (10), 765-780
+
+15. Œuf: minimizing the Coq extraction TCB
+Citations:16
+Authors: E Mullen, S Pernsteiner, JR Wilcox, Z Tatlock, D Grossman
+Publication: Proceedings of the 7th ACM SIGPLAN International Conference on Certified …
+
+16. Toward a standard benchmark format and suite for floating-point analysis
+Citations:16
+Authors: N Damouche, M Martel, P Panchekha, C Qiu, A Sanchez-Stern, Z Tatlock
+Publication: International Workshop on Numerical Software Verification, 63-77
+
+17. Automating formal proofs for reactive systems
+Citations:15
+Authors: D Ricketts, V Robert, D Jang, Z Tatlock, S Lerner
+Publication: ACM SIGPLAN Notices 49 (6), 452-462
+
+18. Programming language abstractions for modularly verified distributed systems
+Citations:10
+Authors: JR Wilcox, I Sergey, Z Tatlock
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+19. Investigating safety of a radiotherapy machine using system models with pluggable checkers
+Citations:10
+Authors: S Pernsteiner, C Loncaric, E Torlak, Z Tatlock, X Wang, MD Ernst, J Jacky
+Publication: International Conference on Computer Aided Verification, 23-41
+
+20. Relay: a new IR for machine learning frameworks
+Citations:9
+Authors: J Roesch, S Lyubomirsky, L Weber, J Pollock, M Kirisame, T Chen, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+21. Formal semantics and automated verification for the border gateway protocol
+Citations:9
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: NetPL, March
+
+22. Verifying that web pages have accessible layout
+Citations:8
+Authors: P Panchekha, AT Geller, MD Ernst, Z Tatlock, S Kamil
+Publication: ACM SIGPLAN Notices 53 (4), 1-14
+
+23. SpaceSearch: a library for building and verifying solver-aided tools
+Citations:8
+Authors: K Weitz, S Lyubomirsky, S Heule, E Torlak, MD Ernst, Z Tatlock
+Publication: Proceedings of the ACM on Programming Languages 1 (ICFP), 25
+
+24. Software verification with ITPs should use binary code extraction to reduce the TCB
+Citations:6
+Authors: R Kumar, E Mullen, Z Tatlock, MO Myreen
+Publication: International Conference on Interactive Theorem Proving, 362-369
+
+25. Bagpipe: Verified BGP configuration checking
+Citations:6
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: Proc. OOPSLA
+
+26. Finding root causes of floating point error
+Citations:5
+Authors: A Sanchez-Stern, P Panchekha, S Lerner, Z Tatlock
+Publication: ACM SIGPLAN Notices 53 (4), 256-269
+
+27. Toward a Dependability Case Language and Workflow for a Radiation Therapy System
+Citations:5
+Authors: MD Ernst, D Grossman, J Jacky, C Loncaric, S Pernsteiner, Z Tatlock, ...
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)} 32, 103-112
+
+28. Finding root causes of floating point error with herbgrind
+Citations:4
+Authors: A Sanchez-Stern, P Panchekha, S Lerner, Z Tatlock
+Publication: arXiv preprint arXiv:1705.10416
+
+29. Programming language tools and techniques for 3D printing
+Citations:4
+Authors: C Nandi, A Caspi, D Grossman, Z Tatlock
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+30. Translating between PEGs and CFGs
+Citations:4
+Authors: R Tate, M Stepp, ZL Tatlock, S Lerner
+Publication: Department of Computer Science and Engineering, University of California …
+
+31. Functional programming for compiling and decompiling computer-aided design
+Citations:1
+Authors: C Nandi, JR Wilcox, P Panchekha, T Blau, D Grossman, Z Tatlock
+Publication: Proceedings of the ACM on Programming Languages 2 (ICFP), 99
+
+32. Formal Semantics and Verification for the Border Gateway Protocol
+Citations:1
+Authors: K Weitz, D Woos, A Krishnamurthy, MD Ernst, Z Tatlock
+Publication: Tech. rep
+
+33. Peek: A formally verified peephole optimization framework for x86
+Citations:1
+Authors: E Mullen, Z Tatlock, D Grossman
+Publication: CoqPL Workshop
+
+34. Parameterized program equivalence checking
+Citations:1
+Authors: Z Tatlock
+Publication: High-Level Verification, 123-145
+
+35. QED at Large: A Survey of Engineering of Formally Verified Software
+Citations:
+Authors: T Ringer, K Palmskog, I Sergey, M Gligoric, Z Tatlock
+Publication: Foundations and Trends® in Programming Languages 5 (2-3), 102-281
+
+36. Icing: Supporting Fast-Math Style Optimizations in a Verified Compiler
+Citations:
+Authors: H Becker, E Darulova, MO Myreen, Z Tatlock
+Publication: International Conference on Computer Aided Verification, 155-173
+
+37. Relay: A High-Level IR for Deep Learning
+Citations:
+Authors: J Roesch, S Lyubomirsky, M Kirisame, J Pollock, L Weber, Z Jiang, ...
+Publication: arXiv preprint arXiv:1904.08368
+
+38. Teaching Rigorous Distributed Systems With Efficient Model Checking
+Citations:
+Authors: E Michael, D Woos, T Anderson, MD Ernst, Z Tatlock
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 32
+
+39. Learning to Adapt: Analyses for Configurable Software
+Citations:
+Authors: J Toman
+Publication: 
+
+40. Combining tools for optimization and analysis of floating-point computations
+Citations:
+Authors: H Becker, P Panchekha, E Darulova, Z Tatlock
+Publication: International Symposium on Formal Methods, 355-363
+
+41. A Graphical Interactive Debugger for Distributed Systems
+Citations:
+Authors: D Woos, Z Tatlock, MD Ernst, TE Anderson
+Publication: arXiv preprint arXiv:1806.05300
+
+42. Pushing the Limits of Compiler Verification
+Citations:
+Authors: EA Mullen
+Publication: 
+
+43. Automatic Formal Verification for EPICS
+Citations:
+Authors: J Jacky, C Loncaric, Z Tatlock, S Pernsteiner, E Torlak, M Ernst, ...
+Publication: 
+
+44. Toward a Standard Benchmark Format and Suite for Floating-Point Analysis
+Citations:
+Authors: A Sanchez-Stern, Z Tatlock
+Publication: Numerical Software Verification: 9th International Workshop, NSV 2016 …
+
+45. Securing C++ Virtual Calls from Memory Corruption Attacks
+Citations:
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: 
+
+46. Visual Robot Programming for Generalizable Mobile Manipulation Tasks
+Citations:
+Authors: S Alexandrova, Z Tatlock, M Cakmak
+Publication: Proceedings of the Tenth Annual ACM/IEEE International Conference on Human …
+
+47. Daniel Ricketts
+Citations:
+Authors: D Ricketts, G Malecha, MM Alvarez, V Gowda, S Lerner, V Robert, D Jang, ...
+Publication: Conference on, pages 248 (257)
+
+48. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+49. Reducing the Costs of Proof Assistant Based Formal Verification or: Conviction without the Burden of Proof
+Citations:
+Authors: ZL Tatlock
+Publication: UC San Diego
+
+50. Equality Saturation: A New Approach to Optimization
+Citations:
+Authors: S Lerner, Z Tatlock, M Stepp, R Tate
+Publication: Logical Methods in Computer Science 7
+
+51. Modular Verification of Web Page Layout
+Citations:
+Authors: P PANCHEKHA, MD ERNST, Z TATLOCK, S KAMIL
+Publication: 
+
+52. Verification of Implementations of Distributed Systems Under Churn
+Citations:
+Authors: R Doenges, JR Wilcox, D Woos, Z Tatlock, K Palmskog
+Publication: 
+

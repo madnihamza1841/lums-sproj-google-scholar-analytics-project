@@ -1,0 +1,468 @@
+https://scholar.google.com/citations?hl=en&user=qq-SXN8AAAAJ
+Total Citations = 1838
+
+1. Scalable k-means++
+Citations:463
+Authors: B Bahmani, B Moseley, A Vattani, R Kumar, S Vassilvitskii
+Publication: Proceedings of the VLDB Endowment 5 (7), 622-633
+
+2. Filtering: a method for solving graph problems in mapreduce
+Citations:203
+Authors: S Lattanzi, B Moseley, S Suri, S Vassilvitskii
+Publication: Proceedings of the twenty-third annual ACM symposium on Parallelism in …
+
+3. Fast clustering using MapReduce
+Citations:192
+Authors: A Ene, S Im, B Moseley
+Publication: Proceedings of the 17th ACM SIGKDD international conference on Knowledge …
+
+4. Fast greedy algorithms in mapreduce and streaming
+Citations:148
+Authors: R Kumar, B Moseley, S Vassilvitskii, A Vattani
+Publication: ACM Transactions on Parallel Computing (TOPC) 2 (3), 14
+
+5. On scheduling in map-reduce and flow-shops
+Citations:114
+Authors: B Moseley, A Dasgupta, R Kumar, T Sarlós
+Publication: Proceedings of the twenty-third annual ACM symposium on Parallelism in …
+
+6. A tutorial on amortized local competitiveness in online scheduling
+Citations:44
+Authors: S Im, B Moseley, K Pruhs
+Publication: ACM SIGACT News 42 (2), 83-97
+
+7. Scheduling heterogeneous processors isn't as easy as you think
+Citations:36
+Authors: A Gupta, S Im, R Krishnaswamy, B Moseley, K Pruhs
+Publication: Proceedings of the twenty-third annual ACM-SIAM symposium on Discrete …
+
+8. An Online Scalable Algorithm for Minimizing ℓk-norms of Weighted Flow Time on Unrelated Machines
+Citations:36
+Authors: S Im, B Moseley
+Publication: Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete …
+
+9. Online scheduling on identical machines using SRPT
+Citations:36
+Authors: K Fox, B Moseley
+Publication: Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete …
+
+10. Local search methods for k-means with outliers
+Citations:30
+Authors: S Gupta, R Kumar, K Lu, B Moseley, S Vassilvitskii
+Publication: Proceedings of the VLDB Endowment 10 (7), 757-768
+
+11. Energy efficient scheduling of parallelizable jobs
+Citations:28
+Authors: K Fox, S Im, B Moseley
+Publication: Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …
+
+12. Online Scalable Scheduling for the ℓk-norms of Flow Time Without Conservation of Work
+Citations:27
+Authors: J Edmonds, S Im, B Moseley
+Publication: Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete …
+
+13. Fast distributed k-center clustering with outliers on massive data
+Citations:26
+Authors: G Malkomes, MJ Kusner, W Chen, KQ Weinberger, B Moseley
+Publication: Advances in Neural Information Processing Systems, 1063-1071
+
+14. Online scheduling with general cost functions
+Citations:25
+Authors: S Im, B Moseley, K Pruhs
+Publication: SIAM Journal on Computing 43 (1), 126-143
+
+15. An online scalable algorithm for average flow time in broadcast scheduling
+Citations:25
+Authors: S Im, B Moseley
+Publication: ACM Transactions on Algorithms (TALG) 8 (4), 39
+
+16. Minimizing maximum response time and delay factor in broadcast scheduling
+Citations:24
+Authors: C Chekuri, S Im, B Moseley
+Publication: European Symposium on Algorithms, 444-455
+
+17. Online scheduling to minimize the maximum delay factor
+Citations:22
+Authors: C Chekuri, B Moseley
+Publication: Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …
+
+18. Learning an image-word embedding for image auto-annotation on the nonlinear latent space
+Citations:22
+Authors: W Liu, X Tang
+Publication: Proceedings of the 13th annual ACM international conference on Multimedia …
+
+19. Efficient massively parallel methods for dynamic programming
+Citations:20
+Authors: S Im, B Moseley, X Sun
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+20. Two-level main memory co-design: Multi-threaded algorithmic primitives, analysis, and simulation
+Citations:20
+Authors: MA Bender, JW Berry, SD Hammond, KS Hemmert, S McCauley, B Moore, ...
+Publication: Journal of Parallel and Distributed Computing 102, 213-228
+
+21. Online scheduling to minimize maximum response time and maximum delay factor
+Citations:20
+Authors: C Chekuri, S Im, B Moseley
+Publication: Theory of Computing 8 (1), 165-195
+
+22. Scheduling jobs with varying parallelizability to reduce variance.
+Citations:19
+Authors: A Gupta, S Im, R Krishnaswamy, B Moseley, K Pruhs
+Publication: SPAA, 11-20
+
+23. Longest wait first for broadcast scheduling
+Citations:17
+Authors: C Chekuri, S Im, B Moseley
+Publication: International Workshop on Approximation and Online Algorithms, 62-74
+
+24. Competitively scheduling tasks with intermediate parallelizability
+Citations:15
+Authors: S Im, B Moseley, K Pruhs, E Torng
+Publication: ACM Transactions on Parallel Computing (TOPC) 3 (1), 4
+
+25. A dynamic programming framework for non-preemptive scheduling problems on multiple machines
+Citations:15
+Authors: S Im, S Li, B Moseley, E Torng
+Publication: Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …
+
+26. Approximation bounds for hierarchical clustering: Average linkage, bisecting k-means, and local search
+Citations:14
+Authors: B Moseley, J Wang
+Publication: Advances in Neural Information Processing Systems, 3094-3103
+
+27. Handling forecast errors while bidding for display advertising
+Citations:14
+Authors: KJ Lang, B Moseley, S Vassilvitskii
+Publication: Proceedings of the 21st international conference on World Wide Web, 371-380
+
+28. Brief announcement: Fast and better distributed mapreduce algorithms for k-center clustering
+Citations:12
+Authors: S Im, B Moseley
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+29. Scheduling parallel DAG jobs online to minimize average flow time
+Citations:11
+Authors: K Agrawal, J Li, K Lu, B Moseley
+Publication: Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …
+
+30. Fast approximate simulation of seismic waves with deep learning
+Citations:10
+Authors: B Moseley, A Markham, T Nissen-Meyer
+Publication: arXiv preprint arXiv:1807.06873
+
+31. Stochastic online scheduling on unrelated machines
+Citations:10
+Authors: V Gupta, B Moseley, M Uetz, Q Xie
+Publication: International Conference on Integer Programming and Combinatorial …
+
+32. Temporal fairness of round robin: Competitive analysis for lk-norms of flow time
+Citations:10
+Authors: S Im, J Kulkarni, B Moseley
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+33. Packet forwarding algorithms in a line network
+Citations:9
+Authors: A Antoniadis, N Barcelo, D Cole, K Fox, B Moseley, M Nugent, K Pruhs
+Publication: Latin American Symposium on Theoretical Informatics, 610-621
+
+34. New approximations for reordering buffer management
+Citations:8
+Authors: S Im, B Moseley
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+35. The complexity of scheduling for p-norms of flow and stretch
+Citations:8
+Authors: B Moseley, K Pruhs, C Stein
+Publication: International Conference on Integer Programming and Combinatorial …
+
+36. New models and algorithms for throughput maximization in broadcast scheduling
+Citations:8
+Authors: C Chekuri, A Gal, S Im, S Khuller, J Li, R McCutchen, B Moseley, ...
+Publication: International Workshop on Approximation and Online Algorithms, 71-82
+
+37. Efficient nonmyopic active search
+Citations:7
+Authors: S Jiang, G Malkomes, G Converse, A Shofner, B Moseley, R Garnett
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+38. Scheduling parallelizable jobs online to minimize the maximum flow time
+Citations:7
+Authors: K Agrawal, J Li, K Lu, B Moseley
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+39. Scheduling in bandwidth constrained tree networks
+Citations:7
+Authors: S Im, B Moseley
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+40. Cooperative set function optimization without communication or coordination
+Citations:6
+Authors: G Malkomes, K Lu, B Hoffman, R Garnett, B Moseley, R Mann
+Publication: Proceedings of the 16th Conference on Autonomous Agents and MultiAgent …
+
+41. Fair scheduling via iterative quasi-uniform sampling
+Citations:5
+Authors: S Im, B Moseley
+Publication: Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …
+
+42. General profit scheduling and the power of migration on heterogeneous machines
+Citations:5
+Authors: S Im, B Moseley
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+43. k-Means Clustering on Two-Level Memory Systems
+Citations:5
+Authors: MA Bender, J Berry, SD Hammond, B Moore, B Moseley, CA Phillips
+Publication: Proceedings of the 2015 International Symposium on Memory Systems, 197-205
+
+44. Stochastic scheduling of heavy-tailed jobs
+Citations:5
+Authors: S Im, B Moseley, K Pruhs
+Publication: 32nd International Symposium on Theoretical Aspects of Computer Science …
+
+45. Speed scaling for stretch plus energy
+Citations:5
+Authors: D Cole, S Im, B Moseley, K Pruhs
+Publication: Operations Research Letters 40 (3), 180-184
+
+46. Minimizing maximum flow time on related machines via dynamic posted pricing
+Citations:4
+Authors: S Im, B Moseley, K Pruhs, C Stein
+Publication: 25th Annual European Symposium on Algorithms (ESA 2017)
+
+47. Bargaining for revenue shares on tree trading networks
+Citations:4
+Authors: A Ghosh, S Kale, K Lang, B Moseley
+Publication: Twenty-Third International Joint Conference on Artificial Intelligence
+
+48. On the randomized competitive ratio of reordering buffer management with non-uniform costs
+Citations:3
+Authors: N Avigdor-Elgrabli, S Im, B Moseley, Y Rabani
+Publication: International Colloquium on Automata, Languages, and Programming, 78-90
+
+49. Hallucination helps: Energy efficient virtual circuit routing
+Citations:3
+Authors: A Antoniadis, S Im, R Krishnaswamy, B Moseley, V Nagarajan, K Pruhs, ...
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+50. Scheduling to Approximate Minimization Objectives on Identical Machines
+Citations:2
+Authors: B Moseley
+Publication: arXiv preprint arXiv:1904.09667
+
+51. Scheduling parallelizable jobs online to maximize throughput
+Citations:2
+Authors: K Agrawal, J Li, K Lu, B Moseley
+Publication: Latin American Symposium on Theoretical Informatics, 755-776
+
+52. Online non-preemptive scheduling on unrelated machines with rejections
+Citations:2
+Authors: G Lucarelli, B Moseley, NK Thang, A Srivastav, D Trystram
+Publication: arXiv preprint arXiv:1802.10309
+
+53. Efficient nonmyopic batch active search
+Citations:2
+Authors: S Jiang, G Malkomes, M Abbott, B Moseley, R Garnett
+Publication: Advances in Neural Information Processing Systems, 1099-1109
+
+54. An O (log log m)-competitive Algorithm for Online Machine Minimization
+Citations:2
+Authors: S Im, B Moseley, K Pruhs, C Stein
+Publication: 2017 IEEE Real-Time Systems Symposium (RTSS), 343-350
+
+55. New challenges in scheduling theory
+Citations:2
+Authors: J Blazewicz, B Moseley, E Pesch, D Trystram, G Zhang
+Publication: Journal of Scheduling 19 (6), 617-618
+
+56. Weighted reordering buffer improved via variants of knapsack covering inequalities
+Citations:2
+Authors: S Im, B Moseley
+Publication: International Colloquium on Automata, Languages, and Programming, 737-748
+
+57. Online non-clairvoyant scheduling to simultaneously minimize all convex functions
+Citations:2
+Authors: K Fox, S Im, J Kulkarni, B Moseley
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+58. Online scheduling algorithms for broadcasting and general cost functions
+Citations:2
+Authors: B Moseley
+Publication: University of Illinois at Urbana-Champaign
+
+59. Scheduling to minimize energy and flow time in broadcast scheduling
+Citations:2
+Authors: B Moseley
+Publication: arXiv preprint arXiv:1007.3747
+
+60. A Conditional Lower Bound on Graph Connectivity in MapReduce
+Citations:1
+Authors: S Im, B Moseley
+Publication: arXiv preprint arXiv:1904.08954
+
+61. On Functional Aggregate Queries with Additive Inequalities
+Citations:1
+Authors: MA Khamis, RR Curtin, B Moseley, HQ Ngo, XL Nguyen, D Olteanu, ...
+Publication: arXiv preprint arXiv:1812.09526
+
+62. Energy efficient scheduling of parallelizable jobs
+Citations:1
+Authors: K Fox, S Im, B Moseley
+Publication: Theoretical Computer Science 726, 30-40
+
+63. Online non-preemptive scheduling to minimize weighted flow-time on unrelated machines
+Citations:1
+Authors: G Lucarelli, B Moseley, NK Thang, A Srivastav, D Trystram
+Publication: arXiv preprint arXiv:1804.08317
+
+64. Scheduling parallel jobs online with convex and concave parallelizability
+Citations:1
+Authors: R Ebrahimi, S McCauley, B Moseley
+Publication: Theory of Computing Systems 62 (2), 304-318
+
+65. Brief announcement: Scheduling parallelizable jobs online to maximize throughput
+Citations:1
+Authors: K Agrawal, J Li, K Lu, B Moseley
+Publication: Proceedings of the 29th ACM Symposium on Parallelism in Algorithms and …
+
+66. Partitioned feasibility tests for sporadic tasks on heterogeneous machines
+Citations:1
+Authors: S Ahuja, K Lu, B Moseley
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+67. A competitive flow time algorithm for heterogeneous clusters under polytope constraints
+Citations:1
+Authors: S Im, J Kulkarni, B Moseley, K Munagala
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+68. Scheduling to minimize energy and flow time in broadcast scheduling
+Citations:1
+Authors: B Moseley
+Publication: Journal of Scheduling 18 (1), 107-118
+
+69. Brief announcement: online batch scheduling for flow objectives
+Citations:1
+Authors: S Im, B Moseley
+Publication: Proceedings of the twenty-fifth annual ACM symposium on Parallelism in …
+
+70. Shortest-Elapsed-Time-First on a Multiprocessor
+Citations:1
+Authors: N Barcelo, S Im, B Moseley, K Pruhs
+Publication: Mediterranean Conference on Algorithms, 82-92
+
+71. On Functional Aggregate Queries with Additive Inequalities
+Citations:
+Authors: M Abo Khamis, RR Curtin, B Moseley, HQ Ngo, XL Nguyen, D Olteanu, ...
+Publication: Proceedings of the 38th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+72. Backprop with Approximate Activations for Memory-efficient Network Training
+Citations:
+Authors: A Chakrabarti, B Moseley
+Publication: arXiv preprint arXiv:1901.07988
+
+73. Matroid Coflow Scheduling
+Citations:
+Authors: S Im, B Moseley, K Pruhs, M Purohit
+Publication: 46th International Colloquium on Automata, Languages, and Programming (ICALP …
+
+74. Non-clairvoyantly Scheduling to Minimize Convex Functions
+Citations:
+Authors: K Fox, S Im, J Kulkarni, B Moseley
+Publication: Algorithmica, 1-19
+
+75. New challenges in scheduling theory
+Citations:
+Authors: J Blazewicz, B Moseley, E Pesch, D Trystram, G Zhang
+Publication: Journal of Scheduling 21 (6), 581-582
+
+76. Efficient nonmyopic active search with applications in drug and materials discovery
+Citations:
+Authors: S Jiang, G Malkomes, B Moseley, R Garnett
+Publication: arXiv preprint arXiv:1811.08871
+
+77. Pre-Synaptic Pool Modification (PSPM): A Supervised Learning Procedure for Spiking Neural Networks
+Citations:
+Authors: B Bagley, B Bordelon, B Moseley, R Wessel
+Publication: arXiv preprint arXiv:1810.03199
+
+78. Breaking Barrier for Non-preemptive Throughput Maximization
+Citations:
+Authors: S Im, S Li, B Moseley
+Publication: International Conference on Integer Programming and Combinatorial …
+
+79. Competitive Greedy Algorithms for Stochastic Unrelated Machine Scheduling
+Citations:
+Authors: V Gupta, B Moseley, M Uetz, Q Xie
+Publication: 13th Workshop on Models and Algorithms for Planning and Scheduling Problems, 227
+
+80. Minimizing Maximum Flow Time on Related Machines via Immediate Dispatch and Dynamic Pricing
+Citations:
+Authors: S Im, B Moseley, K Pruhs, C Stein
+Publication: 13th Workshop on Models and Algorithms for Planning and Scheduling Problems, 32
+
+81. Greed Works-Online Algorithms For Unrelated Machine Stochastic Scheduling
+Citations:
+Authors: V Gupta, B Moseley, M Uetz, Q Xie
+Publication: arXiv preprint arXiv:1703.01634
+
+82. An Applied Algorithmic Foundation for Hierarchical Clustering
+Citations:
+Authors: J Wang, B Moseley
+Publication: Advances in Neural Information Processing Systems, 3096-3105
+
+83. Online Batch Scheduling for Flow Objectives
+Citations:
+Authors: S Im, B Moseley
+Publication: 
+
+84. Online scheduling to minimize the maximum delay factor
+Citations:
+Authors: RCB Moseley
+Publication: In SODA 09: Proceedings of the twentieth annual ACM-SIAM symposium on …
+
+85. Bayesian optimisation for variational quantum eigensolvers
+Citations:
+Authors: B Moseley, M Osborne, S Benjamin
+Publication: quantum 3, 4
+
+86. Efficient Massively Parallel Methods for Dynamic Programming
+Citations:
+Authors: B Moseley, S Im, X Sun
+Publication: 
+
+87. Supplementary Material for Approximation Bounds for Hierarchical Clustering: Average Linkage, Bisecting K-means, and Local Search
+Citations:
+Authors: B Moseley, JR Wang
+Publication: 
+
+88. ICPP 2017 Program Committee
+Citations:
+Authors: A Antoniadis, D Cordeiro, A De Melo, MF Colton, J Fineman, S Gilbert, ...
+Publication: 
+
+89. Supplementary Material for Efficient Nonmyopic Active Search
+Citations:
+Authors: S Jiang, G Malkomes, G Converse, A Shofner, B Moseley, R Garnett
+Publication: 
+
+90. Xiaorui Sun
+Citations:
+Authors: S Im, B Moseley, X Sun, K Onak, J Wilmes, X Chen, I Diakonikolas, ...
+Publication: 
+
+91. Program SPAA 2013
+Citations:
+Authors: N Lynch, R Kumar, B Moseley, S Vassilvitskii, A Vattani, A Matveev, ...
+Publication: 
+
+92. Supplementary Material for Fast Distributed k-Center Clustering with Outliers on Massive Data
+Citations:
+Authors: MJ GustavoMalkomes, WC Kusner, KQ Weinberger, B Moseley
+Publication: 
+
+93. 3.18 MapReduce and Distributed Scheduling
+Citations:
+Authors: BJ Moseley
+Publication: Susanne Albers1, Onno J. Boxma2, and Kirk Pruhs3, 37
+

@@ -1,0 +1,153 @@
+https://scholar.google.com/citations?hl=en&user=j0_fn9oAAAAJ
+Total Citations = 1185
+
+1. Studying and modelling dynamic biological processes using time-series gene expression data
+Citations:309
+Authors: Z Bar-Joseph, A Gitter, I Simon
+Publication: Nature Reviews Genetics 13 (8), 552-564
+
+2. Opportunities and obstacles for deep learning in biology and medicine
+Citations:304
+Authors: T Ching, DS Himmelstein, BK Beaulieu-Jones, AA Kalinin, BT Do, ...
+Publication: Journal of The Royal Society Interface 15 (141), 20170387
+
+3. Discovering pathways by orienting edges in protein interaction networks
+Citations:108
+Authors: A Gitter, J Klein-Seetharaman, A Gupta, Z Bar-Joseph
+Publication: Nucleic acids research 39 (4), e22-e22
+
+4. DREM 2.0: Improved reconstruction of dynamic regulatory networks from time-series expression data
+Citations:85
+Authors: M Schulz, W Devanny, A Gitter, S Zhong, J Ernst, Z Bar-Joseph
+Publication: BMC Systems Biology 6 (1), 104
+
+5. Backup in gene regulatory networks explains differences between binding and knockout results
+Citations:70
+Authors: A Gitter, Z Siegfried, M Klutstein, O Fornes, B Oliva, I Simon, Z Bar‐Joseph
+Publication: Molecular Systems Biology 5 (1), 276
+
+6. Linking the signaling cascades and dynamic regulatory networks controlling stress responses
+Citations:64
+Authors: A Gitter, M Carmi, N Barkai, Z Bar-Joseph
+Publication: Genome Research 23 (2), 365-376
+
+7. Network-based interpretation of diverse high-throughput datasets through the Omics Integrator software package
+Citations:50
+Authors: N Tuncbag, SJC Gosline, A Kedaigle, AR Soltis, A Gitter, E Fraenkel
+Publication: PLoS computational biology 12 (4), e1004879
+
+8. Identifying proteins controlling key disease signaling pathways
+Citations:31
+Authors: A Gitter, Z Bar-Joseph
+Publication: Bioinformatics 29 (13), i227-i236
+
+9. A Network-based Approach for Predicting Missing Pathway Interactions
+Citations:28
+Authors: S Navlakha, A Gitter, Z Bar-Joseph
+Publication: PLoS Computational Biology 8 (8), e1002640
+
+10. Integrated systems biology analysis of KSHV latent infection reveals viral induction and reliance on peroxisome mediated lipid metabolism
+Citations:23
+Authors: ZE Sychev, A Hu, TA DiMaio, A Gitter, ND Camp, WS Noble, ...
+Publication: PLoS pathogens 13 (3), e1006256
+
+11. Computationally efficient measure of topological redundancy of biological and social networks
+Citations:23
+Authors: R Albert, B DasGupta, R Hegde, GS Sivanathan, A Gitter, G Gürsoy, ...
+Publication: Physical Review E 84 (3), 036117
+
+12. CBioC: beyond a prototype for collaborative annotation of molecular interactions from the literature
+Citations:18
+Authors: C Baral, G Gonzalez, A Gitter, C Teegarden, A Zeigler, G Joshi-Topé
+Publication: Computational systems bioinformatics/Life Sciences Society Computational …
+
+13. Computational methods for analyzing dynamic regulatory networks.
+Citations:14
+Authors: A Gitter, Y Lu, Z Bar-Joseph
+Publication: Computational Biology of Transcription Factor Binding 674, 419-441
+
+14. Multitask Learning of Signaling and Regulatory Networks with Application to Studying Human Response to Flu
+Citations:12
+Authors: S Jain, A Gitter, Z Bar-Joseph
+Publication: PLOS Computational Biology 10 (12), e1003943
+
+15. Sharing Information to Reconstruct Patient-Specific Pathways in Heterogeneous Diseases
+Citations:11
+Authors: A Gitter, A Braunstein, A Pagnani, C Baldassi, C Borgs, J Chayes, ...
+Publication: Pacific Symposium on Biocomputing, 39-50
+
+16. Integrating knowledge extracted from biomedical literature: normalization and evidence statements for interactions
+Citations:11
+Authors: G Gonzalez, L Tari, A Gitter, R Leaman, S Nikkila, R Wendt, A Zeigler, ...
+Publication: Proceedings of the Second BioCreative Challenge Workshop-Critical Assessment …
+
+17. Network inference reveals novel connections in pathways regulating growth and defense in the yeast salt response
+Citations:8
+Authors: ME MacGilvray, E Shishkova, D Chasman, M Place, A Gitter, JJ Coon, ...
+Publication: PLOS Computational Biology 13 (5), e1006088
+
+18. Practical model selection for prospective virtual screening
+Citations:6
+Authors: S Liu, M Alnammi, SS Ericksen, AF Voter, GE Ananiev, JL Keck, ...
+Publication: Journal of chemical information and modeling 59 (1), 282-293
+
+19. Open collaborative writing with Manubot
+Citations:3
+Authors: DS Himmelstein, V Rubinetti, DR Slochower, D Hu, VS Malladi, ...
+Publication: PLOS Computational Biology 15 (6), e1007128
+
+20. Unsupervised learning of transcriptional regulatory networks via latent tree graphical models
+Citations:3
+Authors: A Gitter, F Huang, R Valluvan, E Fraenkel, A Anandkumar
+Publication: arXiv preprint arXiv:1609.06335
+
+21. Network Inference with Granger Causality Ensembles on Single-Cell Transcriptomic Data
+Citations:1
+Authors: A Deshpande, LF Chu, R Stewart, A Gitter
+Publication: bioRxiv, 534834
+
+22. Synthesizing Signaling Pathways from Temporal Phosphoproteomic Data
+Citations:1
+Authors: AS Köksal, K Beck, DR Cronin, A McKenna, ND Camp, S Srivastava, ...
+Publication: Cell Reports 24 (13), 3607-3618
+
+23. The SDREM Method for Reconstructing Signaling and Regulatory Response Networks: Applications for Studying Disease Progression.
+Citations:1
+Authors: A Gitter, Z Bar-Joseph
+Publication: Systems Biology of Alzheimer's Disease 1303, 493-506
+
+24. CONSTITUENT TREE-BASED EXTRACTION AND EVALUATION OF PROTEIN-PROTEIN INTERACTIONS FROM BIOMEDICAL LITERATURE
+Citations:1
+Authors: AJ Gitter
+Publication: Arizona State University
+
+25. Predicting kinase inhibitors using bioactivity matrix derived informer sets
+Citations:
+Authors: H Zhang, SS Ericksen, C Lee, GE Ananiev, N Wlodarchak, P Yu, ...
+Publication: PLoS computational biology 15 (8), e1006813
+
+26. Classifying T cell activity in autofluorescence intensity images with convolutional neural networks
+Citations:
+Authors: ZJ Wang, AJ Walsh, MC Skala, A Gitter
+Publication: bioRxiv, 737346
+
+27. Learning Drug Function from Chemical Structure with Convolutional Neural Networks and Random Forests
+Citations:
+Authors: JG Meyer, S Liu, IJ Miller, JJ Coon, A Gitter
+Publication: bioRxiv, 482877
+
+28. Loss-Balanced Task Weighting to Reduce Negative Transfer in Multi-Task Learning
+Citations:
+Authors: S Liu, Y Liang, A Gitter
+Publication: Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence …
+
+29. Lag Penalized Weighted Correlation for Time Series Clustering
+Citations:
+Authors: T Chandereng, A Gitter
+Publication: bioRxiv, 292615
+
+30. Identifying the Signaling Cascades and Regulatory Mechanisms that Control Stress Responses
+Citations:
+Authors: A Gitter
+Publication: CARNEGIE MELLON UNIVERSITY
+

@@ -1,0 +1,453 @@
+https://scholar.google.com/citations?hl=en&user=MZKvGjYAAAAJ
+Total Citations = 3328
+
+1. Bugnet: Continuously recording program execution for deterministic replay debugging
+Citations:392
+Authors: S Narayanasamy, G Pokam, B Calder
+Publication: ACM SIGARCH Computer Architecture News 33 (2), 284-295
+
+2. Automatically classifying benign and harmful data races using replay analysis
+Citations:250
+Authors: S Narayanasamy, Z Wang, J Tigani, A Edwards, B Calder
+Publication: Acm Sigplan Notices 42 (6), 22-31
+
+3. LiteRace: effective sampling for lightweight data-race detection
+Citations:233
+Authors: D Marino, M Musuvathi, S Narayanasamy
+Publication: ACM Sigplan notices 44 (6), 134-143
+
+4. DoublePlay: parallelizing sequential logging and replay
+Citations:197
+Authors: K Veeraraghavan, D Lee, B Wester, J Ouyang, PM Chen, J Flinn, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (1), 3
+
+5. A case for an interleaving constrained shared-memory multi-processor
+Citations:162
+Authors: J Yu, S Narayanasamy
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 325-336
+
+6. Respec: efficient online multiprocessor replayvia speculation and external determinism
+Citations:158
+Authors: D Lee, B Wester, K Veeraraghavan, S Narayanasamy, PM Chen, J Flinn
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 77-90
+
+7. Recording shared memory dependencies using strata
+Citations:149
+Authors: S Narayanasamy, C Pereira, B Calder
+Publication: ACM SIGARCH Computer Architecture News 34 (5), 229-240
+
+8. Catnap: energy proportional multiple network-on-chip.
+Citations:136
+Authors: R Das, S Narayanasamy, S Satpathy, RG Dreslinski
+Publication: ISCA, 320-331
+
+9. Maple: a coverage-driven testing tool for multithreaded programs
+Citations:131
+Authors: J Yu, S Narayanasamy, C Pereira, G Pokam
+Publication: Acm Sigplan Notices 47 (10), 485-502
+
+10. Unbounded page-based transactional memory
+Citations:116
+Authors: W Chuang, S Narayanasamy, G Venkatesh, J Sampson, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (5), 347-358
+
+11. Race detection for event-driven mobile applications
+Citations:98
+Authors: CH Hsiao, J Yu, S Narayanasamy, Z Kong, CL Pereira, GA Pokam, ...
+Publication: ACM SIGPLAN Notices 49 (6), 326-336
+
+12. DRFX: a simple and efficient memory model for concurrent programming languages
+Citations:94
+Authors: D Marino, A Singh, T Millstein, M Musuvathi, S Narayanasamy
+Publication: ACM Sigplan Notices 45 (6), 351-362
+
+13. End-to-end sequential consistency
+Citations:85
+Authors: A Singh, S Narayanasamy, D Marino, T Millstein, M Musuvathi
+Publication: 2012 39th Annual International Symposium on Computer Architecture (ISCA …
+
+14. Detecting and surviving data races using complementary schedules
+Citations:84
+Authors: K Veeraraghavan, PM Chen, J Flinn, S Narayanasamy
+Publication: Proceedings of the twenty-third ACM symposium on operating systems …
+
+15. MLP aware heterogeneous memory system
+Citations:74
+Authors: S Phadke, S Narayanasamy
+Publication: 2011 Design, Automation & Test in Europe, 1-6
+
+16. A case for an SC-preserving compiler
+Citations:73
+Authors: D Marino, A Singh, T Millstein, M Musuvathi, S Narayanasamy
+Publication: ACM SIGPLAN Notices 46 (6), 199-210
+
+17. Chimera: hybrid program analysis for determinism
+Citations:66
+Authors: D Lee, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGPLAN Notices 47 (6), 463-474
+
+18. Automatic logging of operating system effects to guide application-level architecture simulation
+Citations:66
+Authors: S Narayanasamy, C Pereira, H Patil, R Cohn, B Calder
+Publication: ACM SIGMETRICS Performance Evaluation Review 34 (1), 216-227
+
+19. Compute caches
+Citations:62
+Authors: S Aga, S Jeloka, A Subramaniyan, S Narayanasamy, D Blaauw, R Das
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+20. Patching processor design errors with programmable hardware
+Citations:56
+Authors: S Sarangi, S Narayanasamy, B Carneal, A Tiwari, B Calder, J Torrellas
+Publication: IEEE micro 27 (1), 12-25
+
+21. Parallelizing data race detection
+Citations:47
+Authors: B Wester, D Devecsery, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGARCH computer architecture news 41 (1), 27-38
+
+22. Offline symbolic analysis for multi-processor execution replay
+Citations:42
+Authors: D Lee, M Said, S Narayanasamy, Z Yang, C Pereira
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+23. Efficient processor support for DRFx, a memory model with exceptions
+Citations:38
+Authors: A Singh, D Marino, S Narayanasamy, T Millstein, M Musuvathi
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 53-66
+
+24. Tolerating concurrency bugs using transactions as lifeguards
+Citations:35
+Authors: J Yu, S Narayanasamy
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+25. System, method and apparatus for dependency chain processing
+Citations:34
+Authors: S Narayanasamy, H Wang, J Shen, R Rosner, Y Almog, N Schwartz, ...
+Publication: US Patent 7,603,546
+
+26. Bugnet: Recording application-level execution for deterministic replay debugging
+Citations:34
+Authors: S Narayanasamy, G Pokam, B Calder
+Publication: IEEE Micro 26 (1), 100-109
+
+27. Catching accurate profiles in hardware
+Citations:31
+Authors: S Narayanasamy, T Sherwood, S Sair, B Calder, G Varghese
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+28. Patching processor design errors
+Citations:29
+Authors: S Narayanasamy, B Carneal, B Calder
+Publication: 2006 International Conference on Computer Design, 491-498
+
+29. Language-level persistency
+Citations:27
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+30. Using web corpus statistics for program analysis
+Citations:27
+Authors: CH Hsiao, M Cafarella, S Narayanasamy
+Publication: ACM SIGPLAN Notices 49 (10), 49-65
+
+31. Invisimem: Smart memory defenses for memory bus side channel
+Citations:25
+Authors: S Aga, S Narayanasamy
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 94-106
+
+32. When less is more (LIMO): controlled parallelism forimproved efficiency
+Citations:24
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: Proceedings of the 2012 international conference on Compilers, architectures …
+
+33. EFetch: optimizing instruction fetch for event-driven webapplications
+Citations:23
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+34. Sampling techniques for dynamic data-race detection
+Citations:23
+Authors: M Musuvathi, D Marino, S Narayanasamy
+Publication: US Patent 8,418,146
+
+35. Accelerating asynchronous programs through event sneak peek
+Citations:22
+Authors: G Chadha, S Mahlke, S Narayanasamy
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 642-654
+
+36. Offline symbolic analysis to infer total store order
+Citations:22
+Authors: D Lee, M Said, S Narayanasamy, Z Yang
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+37. Machine instruction level race condition detection
+Citations:17
+Authors: AJ Edwards, JJ Tigani, Z Wang, B Calder, S Narayanasamy
+Publication: US Patent 7,861,118
+
+38. Accelerating meta data checks for software correctness and security
+Citations:16
+Authors: W Chuang, S Narayanasamy, B Calder
+Publication: Journal of Instruction-Level Parallelism 9, 1-26
+
+39. A dependency chain clustered micro architecture
+Citations:14
+Authors: S Narayanasamy, H Wang, P Wang, J Shen, B Calder
+Publication: 19th IEEE International Parallel and Distributed Processing Symposium, 10 pp.
+
+40. Bounds checking with taint-based analysis
+Citations:13
+Authors: W Chuang, S Narayanasamy, B Calder, R Jhala
+Publication: International Conference on High-Performance Embedded Architectures and …
+
+41. Persistency for synchronization-free regions
+Citations:12
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: ACM SIGPLAN Notices 53 (4), 46-61
+
+42. Efficiently enforcing strong memory ordering in GPUs
+Citations:9
+Authors: A Singh, S Aga, S Narayanasamy
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 699-712
+
+43. Software profiling for deterministic replay debugging of user code
+Citations:9
+Authors: S Narayanasamy, C Pereira, B Calder
+Publication: FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS 147, 211
+
+44. Genax: a genome sequencing accelerator
+Citations:8
+Authors: D Fujiki, A Subramaniyan, T Zhang, Y Zeng, R Das, D Blaauw, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+45. Optimistic hybrid analysis: Accelerating dynamic analysis through predicated static analysis
+Citations:6
+Authors: D Devecsery, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGPLAN Notices 53 (2), 348-362
+
+46. The silently shifting semicolon
+Citations:6
+Authors: D Marino, T Millstein, M Musuvathi, S Narayanasamy, A Singh
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+47. … And Region Serializability for All
+Citations:6
+Authors: J Ouyang, PM Chen, J Flinn, S Narayanasamy
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Parallelism
+
+48. Ordering constraint management within coherent memory systems
+Citations:5
+Authors: AGA Shaizeen, A Singh, S Narayanasamy
+Publication: US Patent 9,367,461
+
+49. Transient fault prediction based on anomalies in processor events
+Citations:5
+Authors: S Narayanasamy, AK Coskun, B Calder
+Publication: Proceedings of the conference on Design, automation and test in Europe, 1140 …
+
+50. Deterministic replay using processor support and its applications
+Citations:5
+Authors: S Narayanasamy
+Publication: UC San Diego
+
+51. MOCA: Memory object classification and allocation in heterogeneous memory systems
+Citations:4
+Authors: A Narayan, T Zhang, S Aga, S Narayanasamy, A Coskun
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+52. Asyncclock: Scalable inference of asynchronous event causality
+Citations:4
+Authors: CH Hsiao, S Narayanasamy, EMI Khan, CL Pereira, GA Pokam
+Publication: ACM SIGOPS Operating Systems Review 51 (2), 193-205
+
+53. Tarp: Translating acquire-release persistency
+Citations:4
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 
+
+54. InvisiMem: Smart Memory for Trusted Computing
+Citations:4
+Authors: S Aga, S Narayanasamy
+Publication: International Symposium on Computer Architecture
+
+55. Epoch parallelism: one execution is not enough
+Citations:4
+Authors: J Ouyang, K Veeraraghavan, D Lee, P Chen, J Flinn, S Narayanasamy
+Publication: Presentation In Research Vision Session, OSDI
+
+56. CilkSpec: optimistic concurrency for Cilk
+Citations:3
+Authors: S Aga, S Krishnamoorthy, S Narayanasamy
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+57. zfence: Data-less coherence for efficient fences
+Citations:3
+Authors: S Aga, A Singh, S Narayanasamy
+Publication: Proceedings of the 29th ACM on International Conference on Supercomputing …
+
+58. Reducing MapReduce Abstraction Costs for Text-centric Applications
+Citations:2
+Authors: CH Hsiao, M Cafarella, S Narayanasamy
+Publication: 2014 43rd International Conference on Parallel Processing, 40-49
+
+59. Failure-atomic synchronization-free regions
+Citations:1
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: 
+
+60. A safety-first approach to memory models
+Citations:1
+Authors: A Singh, S Narayanasamy, D Marino, T Millstein, M Musuvathi
+Publication: IEEE Micro 33 (3), 96-104
+
+61. Creating converged trace schedules using string matching
+Citations:1
+Authors: S Narayanasamy, Y Hu, S Sair, B Calder
+Publication: 10th International Symposium on High Performance Computer Architecture (HPCA …
+
+62. Survey on Application Specific Operating Systems
+Citations:1
+Authors: R Kumar, SK Narayanasamy, E Perelman, P Gupta
+Publication: 
+
+63. InvisiPage: oblivious demand paging for secure enclaves
+Citations:
+Authors: S Aga, S Narayanasamy
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+64. Language support for memory persistency
+Citations:
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, W Wang, PM Chen, ...
+Publication: IEEE Micro 39 (3), 94-102
+
+65. Characterization of Unnecessary Computations in Web Applications
+Citations:
+Authors: H Golestani, S Mahlke, S Narayanasamy
+Publication: 2019 IEEE International Symposium on Performance Analysis of Systems and …
+
+66. Software wear management for persistent memories
+Citations:
+Authors: V Gogte, W Wang, S Diestelhorst, A Kolli, PM Chen, S Narayanasamy, ...
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 45-63
+
+67. Trusted Computing System With Enhanced Memory
+Citations:
+Authors: S Narayanasamy, AGA Shaizeen
+Publication: US Patent App. 15/485,860
+
+68. EECS 570 Lecture 5 Applications
+Citations:
+Authors: S Narayanasamy
+Publication: 
+
+69. DRF x: An Understandable, High Performance, and Flexible Memory Model for Concurrent Languages
+Citations:
+Authors: D Marino, A Singh, T Millstein, M Musuvathi, S Narayanasamy
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 38 (4), 16
+
+70. End-To-End Sequential Consistency
+Citations:
+Authors: A Singh, S Narayanasamy, D Marino, T Millstein, M Musuvathi, ...
+Publication: IEEE Micro 99 (1), 1
+
+71. Important dates▪ Abstract deadline: August 30, 2012, 11: 59 PM EDT (firm deadline)▪ Paper deadline: September 7, 2012, 11: 59 PM EDT (firm deadline)
+Citations:
+Authors: L Zhang, DM Tullsen, T Aamodt, D Albonesi, R Canal, UPC Barcelona, ...
+Publication: Workshop and tutorial proposals due: September 7 (2012)
+
+72. Efficient Processor Support for DRFx, a Memory Model with Exceptions Full Formal Development
+Citations:
+Authors: A Singh, D Marino, S Narayanasamy, T Millstein, M Musuvathi
+Publication: 
+
+73. Session 3: Innovations in Memory Ordering Models for Parallel Machines-Efficient Processor Support for DRFx, a Memory Model with Exceptions
+Citations:
+Authors: A Singh, D Marino, S Narayanasamy, T Millstein, M Musuvathi
+Publication: Computer Architecture News 39 (1), 53
+
+74. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+75. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+76. Strand Persistency
+Citations:
+Authors: V Gogte, W Wang, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 
+
+77. Iodine: Fast Dynamic Taint Tracking Using Rollback-free Optimistic Hybrid Analysis
+Citations:
+Authors: S Banerjee, D Devecsery, PM Chen, S Narayanasamy
+Publication: Iodine: Fast Dynamic Taint Tracking Using Rollback-free Optimistic Hybrid …
+
+78. An Automated Framework for Memory Allocation in Heterogeneous Memory Systems
+Citations:
+Authors: A Narayan, T Zhang, S Aga, S Narayanasamy, AK Coskun
+Publication: 
+
+79. Deterministic Execution Shipping for Mobile File Synchronization
+Citations:
+Authors: X Dou, J Flinn, PM Chen, S Narayanasamy
+Publication: 
+
+80. Computer Systems Design and Applications Track Greg Byrd–Chair Michael Gschwind–Chair
+Citations:
+Authors: M Breternitz, D Brooks, J Chang, A Cristal, B de Supinski, J Holt, ...
+Publication: 
+
+81. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+
+82. Strengthening Language-Level Memory Models with Compiler-Directed Interference Checks
+Citations:
+Authors: D Marino, A Singh, T Millstein, M Musuvathi, S Narayanasamy
+Publication: 
+
+83. Page-Based Transactional Memory to Provide Fast Virtual Transactions
+Citations:
+Authors: W Chuang, S Narayanasamy, G Pokam, J Sampson, M Van Biesbrouck, ...
+Publication: 
+
+84. Partial Fault Detection Using Speculative Architecture Structures
+Citations:
+Authors: S Narayanasamy, A Coskun, B Calder
+Publication: 
+
+85. Efficient Bounds Checking for C
+Citations:
+Authors: W Chuang, S Narayanasamy, B Calder
+Publication: 
+
+86. Automatic Logging of Operating System Effects to Simplify Application-Level Architecture Simulation
+Citations:
+Authors: S Narayanasamy, C Pereira, H Patil, R Cohn, B Calder
+Publication: 
+
+87. The Case for Region Serializability
+Citations:
+Authors: J Ouyang, PM Chen, J Flinn, S Narayanasamy
+Publication: 
+
+88. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 
+
+89. Efficient Hardware Support for Deterministic Replay Debugging of Memory Races, Interrupts and Self Modifying Code
+Citations:
+Authors: S Narayanasamy, C Pereira, B Calder
+Publication: 
+
+90. Columns and Departments
+Citations:
+Authors: J Renau, K Strauss, L Ceze, W Liu, SR Sarangi, J Tuck, J Torrellas, ...
+Publication: 
+

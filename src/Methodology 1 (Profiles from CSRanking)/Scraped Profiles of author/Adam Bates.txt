@@ -1,0 +1,203 @@
+https://scholar.google.com/citations?hl=en&user=1dVglBkAAAAJ
+Total Citations = 790
+
+1. Trustworthy whole-system provenance for the Linux kernel
+Citations:109
+Authors: A Bates, DJ Tian, KRB Butler, T Moyer
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 319-334
+
+2. Detecting co-residency with active traffic analysis techniques
+Citations:97
+Authors: A Bates, B Mood, J Pletcher, H Pruse, M Valafar, K Butler
+Publication: Proceedings of the 2012 ACM Workshop on Cloud computing security workshop, 1-12
+
+3. Mo (bile) money, mo (bile) problems: analysis of branchless banking applications
+Citations:71
+Authors: B Reaves, J Bowers, N Scaife, A Bates, A Bhartiya, P Traynor, KRB Butler
+Publication: ACM Transactions on Privacy and Security (TOPS) 20 (3), 11
+
+4. Let SDN be your eyes: Secure forensics in data center networks
+Citations:63
+Authors: A Bates, K Butler, A Haeberlen, M Sherr, W Zhou
+Publication: Proceedings of the NDSS workshop on security of emerging network …
+
+5. Towards secure provenance-based access control in cloud environments
+Citations:60
+Authors: A Bates, B Mood, M Valafar, K Butler
+Publication: Proceedings of the third ACM conference on Data and application security and …
+
+6. Fear and Logging in the Internet of Things
+Citations:44
+Authors: Q Wang, WU Hassan, A Bates, C Gunter
+Publication: Network and Distributed Systems Symposium
+
+7. Defending against malicious USB firmware with GoodUSB
+Citations:43
+Authors: DJ Tian, A Bates, K Butler
+Publication: Proceedings of the 31st Annual Computer Security Applications Conference …
+
+8. On detecting co-resident cloud instances using network flow watermarking techniques
+Citations:37
+Authors: A Bates, B Mood, J Pletcher, H Pruse, M Valafar, K Butler
+Publication: International Journal of Information Security 13 (2), 171-189
+
+9. Securing SSL certificate verification through dynamic linking
+Citations:34
+Authors: A Bates, J Pletcher, T Nichols, B Hollembaek, D Tian, KRB Butler, ...
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+10. Take only what you need: leveraging mandatory access control policy to reduce provenance storage costs
+Citations:26
+Authors: A Bates, KRB Butler, T Moyer
+Publication: 7th {USENIX} Workshop on the Theory and Practice of Provenance (TaPP 15)
+
+11. Making {USB} Great Again with {USBFILTER}
+Citations:25
+Authors: DJ Tian, N Scaife, A Bates, K Butler, P Traynor
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 415-430
+
+12. Towards scalable cluster auditing through grammatical inference over provenance graphs
+Citations:22
+Authors: WU Hassan, L Aguse, N Aguse, A Bates, T Moyer
+Publication: Network and Distributed Systems Security Symposium
+
+13. Leveraging USB to Establish Host Identity Using Commodity Devices.
+Citations:21
+Authors: A Bates, R Leonard, H Pruse, D Lowd, KRB Butler
+Publication: NDSS
+
+14. Skill squatting attacks on Amazon Alexa
+Citations:19
+Authors: D Kumar, R Paccagnella, P Murley, E Hennenfent, J Mason, A Bates, ...
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 33-47
+
+15. Forced perspectives: Evaluating an SSL trust enhancement at scale
+Citations:19
+Authors: A Bates, J Pletcher, T Nichols, B Hollembaek, KRB Butler
+Publication: Proceedings of the 2014 conference on internet measurement conference, 503-510
+
+16. Transparent web service auditing via network provenance functions
+Citations:15
+Authors: A Bates, WU Hassan, K Butler, A Dobra, B Reaves, P Cable, T Moyer, ...
+Publication: Proceedings of the 26th International Conference on World Wide Web, 887-895
+
+17. Boxed out: Blocking cellular interconnect bypass fraud at the network edge
+Citations:15
+Authors: B Reaves, E Shernan, A Bates, H Carter, P Traynor
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 833-848
+
+18. Provusb: Block-level provenance-based data protection for usb storage devices
+Citations:10
+Authors: DJ Tian, A Bates, KRB Butler, R Rangaswami
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+19. Accountable wiretapping–or–i know they can hear you now
+Citations:10
+Authors: A Bates, KRB Butler, M Sherr, C Shields, P Traynor, D Wallach
+Publication: Journal of Computer Security 23 (2), 167-195
+
+20. Accountable Wiretapping -or- I know they can hear you now
+Citations:10
+Authors: A Bates, K Butler, M Sherr, C Shields, P Traynor, Wallach, Dan
+Publication: 19th Annual Network & Distributed System Security Symposium
+
+21. SoK:" Plug & Pray" Today–Understanding USB Insecurity in Versions 1 Through C
+Citations:9
+Authors: J Tian, N Scaife, D Kumar, M Bailey, A Bates, K Butler
+Publication: 2018 IEEE Symposium on Security and Privacy (SP), 1032-1047
+
+22. Analysis of Privacy Protections in Fitness Tracking Social Networks-or-You can run, but can you hide?
+Citations:6
+Authors: WU Hassan, S Hussain, A Bates
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 497-512
+
+23. Runtime analysis of whole-system provenance
+Citations:5
+Authors: T Pasquier, X Han, T Moyer, A Bates, O Hermant, D Eyers, J Bacon, ...
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+24. NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage.
+Citations:4
+Authors: WU Hassan, S Guo, D Li, Z Chen, K Jee, Z Li, A Bates
+Publication: NDSS
+
+25. A provenance model for the European union general data protection regulation
+Citations:4
+Authors: BE Ujcich, A Bates, WH Sanders
+Publication: International Provenance and Annotation Workshop, 45-57
+
+26. Towards an accountable software-defined networking architecture
+Citations:4
+Authors: BE Ujcich, A Miller, A Bates, WH Sanders
+Publication: 2017 IEEE Conference on Network Softwarization (NetSoft), 1-5
+
+27. Leveraging data provenance to enhance cyber resilience
+Citations:4
+Authors: T Moyer, K Chadha, R Cunningham, N Schear, W Smith, A Bates, K Butler, ...
+Publication: 2016 IEEE Cybersecurity Development (SecDev), 107-114
+
+28. Cross-app poisoning in software-defined networking
+Citations:3
+Authors: BE Ujcich, S Jero, A Edmundson, Q Wang, R Skowyra, J Landry, A Bates, ...
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+29. Retrofitting Applications with Provenance-Based Security Monitoring
+Citations:3
+Authors: A Bates, K Butler, A Dobra, B Reaves, P Cable, T Moyer, N Schear
+Publication: arXiv preprint arXiv:1609.00266
+
+30. Alidrone: Enabling trustworthy proof-of-alibi for commercial drone compliance
+Citations:2
+Authors: T Liu, A Hojjati, A Bates, K Nahrstedt
+Publication: 2018 IEEE 38th International Conference on Distributed Computing Systems …
+
+31. Taming the costs of trustworthy provenance through policy reduction
+Citations:2
+Authors: A Bates, DJ Tian, G Hernandez, T Moyer, KRB Butler, T Jaeger
+Publication: ACM Transactions on Internet Technology (TOIT) 17 (4), 34
+
+32. Secure and Trustworthy Provenance Collection for Digital Forensics
+Citations:2
+Authors: A Bates, DJ Pohly, KRB Butler
+Publication: Digital Fingerprinting, 141-176
+
+33. Mo (bile) money, mo (bile) problems: analysis of branchless banking applications
+Citations:2
+Authors: B Reaves, N Scaife, A Bates, P Traynor, KR Butler
+Publication: 24th USENIX Security Symposium (USENIX Security 15), 17-32
+
+34. Can Data Provenance Put an End to the Data Breach?
+Citations:
+Authors: A Bates, WU Hassan
+Publication: IEEE Security & Privacy 17 (4), 88-93
+
+35. Emerging Threats in Internet of Things Voice Services
+Citations:
+Authors: D Kumar, R Paccagnella, P Murley, E Hennenfent, J Mason, A Bates, ...
+Publication: IEEE Security & Privacy
+
+36. Deduplicating container provenance with graph grammars
+Citations:
+Authors: W Ul Hassan, M Lemay, A Bates, T Moyer
+Publication: Proceedings of the 9th USENIX Conference on Theory and Practice of …
+
+37. Designing And Leveraging Trustworthy Provenance-Aware Architectures
+Citations:
+Authors: AM Bates
+Publication: University of Florida
+
+38. Securing Operating System Audit Logs
+Citations:
+Authors: R Paccagnella, P Datta, WU Hassan, A Bates, C Fletcher, A Miller
+Publication: 
+
+39. Poster: Attack Surface Modelling in Trigger Action Platforms
+Citations:
+Authors: P Datta, A Bates
+Publication: 
+
+40. Data Provenance for Accountability Mechanisms and Properties
+Citations:
+Authors: BE Ujcich, A Bates, WH Sanders
+Publication: 
+

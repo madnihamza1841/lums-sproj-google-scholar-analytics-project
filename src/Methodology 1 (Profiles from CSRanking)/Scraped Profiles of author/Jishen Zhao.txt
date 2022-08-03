@@ -1,0 +1,393 @@
+https://scholar.google.com/citations?hl=en&user=MDuCskIAAAAJ
+Total Citations = 1692
+
+1. Prime: A novel processing-in-memory architecture for neural network computation in reram-based main memory
+Citations:416
+Authors: P Chi, S Li, C Xu, T Zhang, J Zhao, Y Liu, Y Wang, Y Xie
+Publication: ACM SIGARCH Computer Architecture News 44 (3), 27-39
+
+2. Kiln: Closing the performance gap between systems with and without persistence support
+Citations:185
+Authors: J Zhao, S Li, DH Yoon, Y Xie, NP Jouppi
+Publication: 2013 46th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+3. Pinatubo: A processing-in-memory architecture for bulk bitwise operations in emerging non-volatile memories
+Citations:127
+Authors: S Li, C Xu, Q Zou, J Zhao, Y Lu, Y Xie
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 173
+
+4. FIRM: Fair and high-performance memory control for persistent memory systems
+Citations:91
+Authors: J Zhao, O Mutlu, Y Xie
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+5. A case for efficient hardware/software cooperative management of storage and memory
+Citations:85
+Authors: J Meza, Y Luo, S Khan, J Zhao, Y Xie, O Mutlu
+Publication: 
+
+6. ThyNVM: Enabling software-transparent crash consistency in persistent memory systems
+Citations:83
+Authors: J Ren, J Zhao, S Khan, J Choi, Y Wu, O Mutiu
+Publication: 2015 48th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+7. Fabrication cost analysis and cost-aware design space exploration for 3-D ICs
+Citations:80
+Authors: X Dong, J Zhao, Y Xie
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+8. 3D-NonFAR: Three-dimensional non-volatile FPGA architecture using phase change memory
+Citations:49
+Authors: Y Chen, J Zhao, Y Xie
+Publication: 2010 ACM/IEEE International Symposium on Low-Power Electronics and Design …
+
+9. Optimizing GPU energy efficiency with 3D die-stacking graphics memory and reconfigurable memory interface
+Citations:44
+Authors: J Zhao, G Sun, GH Loh, Y Xie
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 10 (4), 24
+
+10. Cost-aware three-dimensional (3D) many-core multiprocessor design
+Citations:37
+Authors: J Zhao, X Dong, Y Xie
+Publication: Design Automation Conference, 126-131
+
+11. DimNoC: A dim silicon approach towards power-efficient on-chip network
+Citations:36
+Authors: J Zhan, J Ouyang, F Ge, J Zhao, Y Xie
+Publication: 2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC), 1-6
+
+12. Optimizing bandwidth and power of graphics memory with hybrid memory technologies and adaptive data migration
+Citations:36
+Authors: J Zhao, Y Xie
+Publication: 2012 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 81-87
+
+13. Moguls: a model to explore the memory hierarchy for bandwidth improvements
+Citations:30
+Authors: G Sun, C Hughes, C Kim, J Zhao, C Xu, Y Xie, YK Chen
+Publication: 2011 38th Annual International Symposium on Computer Architecture (ISCA …
+
+14. MAGE: adaptive granularity and ECC for resilient and power efficient memory systems
+Citations:26
+Authors: S Li, DH Yoon, K Chen, J Zhao, JH Ahn, JB Brockman, Y Xie, NP Jouppi
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+15. A novel electrochemical microfluidic chip combined with multiple biomarkers for early diagnosis of gastric cancer
+Citations:24
+Authors: Y Xie, X Zhi, H Su, K Wang, Z Yan, N He, J Zhang, D Chen, D Cui
+Publication: Nanoscale research letters 10 (1), 477
+
+16. Core vs. uncore: The heart of darkness
+Citations:22
+Authors: HY Cheng, J Zhan, J Zhao, Y Xie, J Sampson, MJ Irwin
+Publication: 2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC), 1-6
+
+17. Bandwidth-aware reconfigurable cache design with hybrid memory technologies
+Citations:22
+Authors: J Zhao, C Xu, Y Xie
+Publication: Proceedings of the International Conference on Computer-Aided Design, 48-55
+
+18. Basic performance measurements of the intel optane DC persistent memory module
+Citations:20
+Authors: J Izraelevitz, J Yang, L Zhang, J Kim, X Liu, A Memaripour, YJ Soh, ...
+Publication: arXiv preprint arXiv:1903.05714
+
+19. Steal but no force: Efficient hardware undo+ redo logging for persistent memory systems
+Citations:20
+Authors: MA Ogleari, EL Miller, J Zhao
+Publication: 2018 IEEE International Symposium on High Performance Computer Architecture …
+
+20. Hybrid drowsy sram and stt-ram buffer designs for dark-silicon-aware noc
+Citations:20
+Authors: J Zhan, J Ouyang, F Ge, J Zhao, Y Xie
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 24 (10 …
+
+21. Graphh: A processing-in-memory architecture for large-scale graph processing
+Citations:17
+Authors: G Dai, T Huang, Y Chi, J Zhao, G Sun, Y Liu, Y Wang, Y Xie, H Yang
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+22. An energy-efficient 3D CMP design with fine-grained voltage scaling
+Citations:17
+Authors: J Zhao, X Dong, Y Xie
+Publication: 2011 Design, Automation & Test in Europe, 1-4
+
+23. Buri: Scaling big-memory computing with hardware-based memory expansion
+Citations:15
+Authors: J Zhao, S Li, J Chang, JL Byrne, LL Ramirez, K Lim, Y Xie, P Faraboschi
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (3), 31
+
+24. Overview of 3-d architecture design opportunities and techniques
+Citations:15
+Authors: J Zhao, Q Zou, Y Xie
+Publication: IEEE Design & Test 34 (4), 60-68
+
+25. LAP: loop-block aware inclusion properties for energy-efficient asymmetric last level caches
+Citations:12
+Authors: HY Cheng, J Zhao, J Sampson, MJ Irwin, A Jaleel, Y Lu, Y Xie
+Publication: ACM SIGARCH Computer Architecture News 44 (3), 103-114
+
+26. Memory and storage system design with nonvolatile memory technologies
+Citations:12
+Authors: J Zhao, C Xu, P Chi, Y Xie
+Publication: IPSJ Transactions on System LSI Design Methodology 8, 2-11
+
+27. Processing-in-memory for energy-efficient neural network training: A heterogeneous approach
+Citations:10
+Authors: J Liu, H Zhao, MA Ogleari, D Li, J Zhao
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+28. PRESCOTT: Preset-based cross-point architecture for spin-orbit-torque magnetic random access memory
+Citations:10
+Authors: L Chang, Z Wang, AO Glova, J Zhao, Y Zhang, Y Xie, W Zhao
+Publication: 2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 245-252
+
+29. Multiversioned nonvolatile memory hierarchy for persistent memory
+Citations:10
+Authors: DH Yoon, S Li, J Zhao, NP Jouppi
+Publication: US Patent App. 14/774,521
+
+30. Leveraging nonvolatility for architecture design with emerging NVM
+Citations:10
+Authors: S Li, P Chi, J Zhao, KT Cheng, Y Xie
+Publication: 2015 IEEE Non-Volatile Memory System and Applications Symposium (NVMSA), 1-5
+
+31. Approximate image storage with multi-level cell STT-MRAM main memory
+Citations:9
+Authors: H Zhao, L Xue, P Chi, J Zhao
+Publication: 2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 268-275
+
+32. A unified memory network architecture for in-memory computing in commodity servers
+Citations:9
+Authors: J Zhan, I Akgun, J Zhao, A Davis, P Faraboschi, Y Wang, Y Xie
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 29
+
+33. Integrated thermal analysis for processing in die-stacking memory
+Citations:9
+Authors: Y Zhu, B Wang, D Li, J Zhao
+Publication: Proceedings of the Second International Symposium on Memory Systems, 402-414
+
+34. Architectural benefits and design challenges for three-dimensional integrated circuits
+Citations:9
+Authors: J Xie, J Zhao, X Dong, Y Xie
+Publication: 2010 IEEE Asia Pacific Conference on Circuits and Systems, 540-543
+
+35. Leave the cache hierarchy operation as it is: A new persistent memory accelerating approach
+Citations:7
+Authors: CH Lai, J Zhao, CL Yang
+Publication: 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC), 1-6
+
+36. Dynamic memory expansion by data compression
+Citations:7
+Authors: S Li, J Chang, J Zhao
+Publication: US Patent App. 15/115,307
+
+37. Atomically Committing Write Requests
+Citations:7
+Authors: S Li, J Zhao, J Chang, P Ranganathan, A Veitch, KT Lim, M Lillibridge
+Publication: US Patent App. 15/113,824
+
+38. Moguls: A Model to Explore the Memory Hierarchy for Throughput Computing
+Citations:5
+Authors: G Sun
+Publication: Exploring Memory Hierarchy Design with Emerging Memory Technologies, 69-92
+
+39. Pmtest: A fast and flexible testing framework for persistent memory programs
+Citations:4
+Authors: S Liu, Y Wei, J Zhao, A Kolli, S Khan
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+40. Persistence parallelism optimization: A holistic approach from memory bus to RDMA network
+Citations:4
+Authors: X Hu, M Ogleari, J Zhao, S Li, A Basak, Y Xie
+Publication: MICRO
+
+41. Persistent memory versioning and merging
+Citations:4
+Authors: DL Voigt, CB Morrey III, J Zhao, D Chakrabarti, JE Foster
+Publication: US Patent App. 15/507,606
+
+42. Die-stacking architecture
+Citations:4
+Authors: Y Xie, J Zhao
+Publication: Synthesis Lectures on Computer Architecture 10 (2), 1-127
+
+43. Data write to subset of memory devices
+Citations:3
+Authors: R Balasubramonian, N Muralimanohar, GB Lesartre, P Faraboschi, ...
+Publication: US Patent App. 15/500,460
+
+44. Memory device write based on mapping
+Citations:3
+Authors: R Balasubramonian, GB Lesartre, R Schreiber, J Zhao, N Muralimanohar, ...
+Publication: US Patent App. 15/500,754
+
+45. Mapping virtual memory pages to physical memory pages
+Citations:3
+Authors: S Li, J Zhao, J Chang, P Ranganathan, A Veitch, KT Lim
+Publication: US Patent App. 15/031,181
+
+46. History-Assisted Adaptive-Granularity Caches (HAAG $) for High Performance 3D DRAM Architectures
+Citations:3
+Authors: K Chen, S Li, JH Ahn, N Muralimanohar, J Zhao, C Xu, Y Xie, ...
+Publication: Proceedings of the 29th ACM on International Conference on Supercomputing …
+
+47. String figure: A scalable and elastic memory network architecture
+Citations:2
+Authors: M Ogleari, Y Yu, C Qian, E Miller, J Zhao
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+48. Towards fast and energy-efficient binarized neural network inference on fpga
+Citations:2
+Authors: C Fu, S Zhu, H Su, CE Lee, J Zhao
+Publication: arXiv preprint arXiv:1810.02068
+
+49. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+50. Reducing {NVM} Writes with Optimized Shadow Paging
+Citations:2
+Authors: Y Ni, J Zhao, D Bittman, E Miller
+Publication: 10th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 18)
+
+51. Logging in persistent memory: to cache, or not to cache?
+Citations:2
+Authors: M Li, M Ogleari, J Zhao
+Publication: Proceedings of the International Symposium on Memory Systems, 177-179
+
+52. Memory that never forgets: emerging nonvolatile memory and the implication for architecture design
+Citations:2
+Authors: G Sun, J Zhao, M Poremba, C Xu, Y Xie
+Publication: National Science Review 5 (4), 577-592
+
+53. Dswitch: Write-aware dynamic inclusion property switching for emerging asymmetric memory technologies
+Citations:2
+Authors: HY Cheng, J Zhao, J Sampson, MJ Irwin, A Jaleel, Y Lu, Y Xie
+Publication: PSU CSEI6-04, Tech. Rep
+
+54. Vorpal: Vector Clock Ordering For Large Persistent Memory Systems
+Citations:1
+Authors: K Korgaonkar, J Izraelevitz, J Zhao, S Swanson
+Publication: Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …
+
+55. DeepMarks: A Secure Fingerprinting Framework for Digital Rights Management of Deep Learning Models
+Citations:1
+Authors: H Chen, BD Rouhani, C Fu, J Zhao, F Koushanfar
+Publication: Proceedings of the 2019 on International Conference on Multimedia Retrieval …
+
+56. Parana: A parallel neural architecture considering thermal problem of 3d stacked memory
+Citations:1
+Authors: S Yin, S Tang, X Lin, P Ouyang, F Tu, J Zhao, C Xu, S Li, Y Xie, SJ Wei
+Publication: IEEE Transactions on Parallel and Distributed Systems 30 (1), 146-160
+
+57. Layer-wise Performance Bottleneck Analysis of Deep Neural Networks
+Citations:1
+Authors: H Zhao, C Weinshenker, M Ibrahim, A Jog, J Zhao
+Publication: The 1st International Workshop on Architectures for Intelligent Machine
+
+58. Performance implications of processing-in-memory designs on data-intensive applications
+Citations:1
+Authors: B Wang, M Torres, D Li, J Zhao, F Rusu
+Publication: 2016 45th International Conference on Parallel Processing Workshops (ICPPW …
+
+59. Rethinking the memory hierarchy design with nonvolatile memory technologies
+Citations:1
+Authors: J Zhao
+Publication: 
+
+60. Method for production of microcapsules
+Citations:1
+Authors: LG Mapelli, L Dobetti
+Publication: US Patent 6,716,456
+
+61. A Neural-based Program Decompiler
+Citations:
+Authors: C Fu, H Chen, H Liu, X Chen, Y Tian, F Koushanfar, J Zhao
+Publication: arXiv preprint arXiv:1906.12029
+
+62. Towards Safety-Aware Computing System Design in Autonomous Vehicles
+Citations:
+Authors: H Zhao, Y Zhang, P Meng, H Shi, LE Li, T Lou, J Zhao
+Publication: arXiv preprint arXiv:1905.08453
+
+63. SimBNN: A Similarity-Aware Binarized Neural Network Acceleration Framework
+Citations:
+Authors: C Fu, S Zhu, H Chen, F Koushanfar, H Su, J Zhao
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+64. DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks
+Citations:
+Authors: H Chen, C Fu, BD Rouhani, J Zhao, F Koushanfar
+Publication: 
+
+65. Emerging Memory Technologies.
+Citations:
+Authors: Y Xie, J Zhao
+Publication: IEEE Micro 39 (1), 6-7
+
+66. Leveraging MLC STT-RAM for energy-efficient CNN training
+Citations:
+Authors: H Zhao, J Zhao
+Publication: Proceedings of the International Symposium on Memory Systems, 279-290
+
+67. NODE-BASED COMPUTING DEVICES WITH VIRTUAL CIRCUITS
+Citations:
+Authors: S Li, J Zhao, KT Lim, P Faraboschi
+Publication: US Patent App. 15/320,685
+
+68. Breakout Presentations
+Citations:
+Authors: Y Ni, J Zhao, D Bittman, E Miller, C Min, SW Lee, YI Eom, DHC Du, ...
+Publication: 10th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 18)
+
+69. 优化带宽的非易失性混合缓存设计
+Citations:
+Authors: J Zhao, C Xu, T Zhang, Y Xie
+Publication: 计算机科学技术学报 31 (1), 20-35
+
+70. Using memory-style storage to support fault tolerance in data centers
+Citations:
+Authors: X Liu, Q Yi, J Zhao
+Publication: {USENIX} Workshop on Cool Topics on Sustainable Data Centers (CoolDC 16)
+
+71. BACH: A bandwidth-aware hybrid cache hierarchy design with nonvolatile memories
+Citations:
+Authors: J Zhao, C Xu, T Zhang, Y Xie
+Publication: Journal of Computer Science and Technology 31 (1), 20-35
+
+72. O 2 CDMA: Enable An Energy-Efficient OCDMA On The Chip
+Citations:
+Authors: Q Zou, T Zhang, J Zhao, J Ouyang, Y Xie
+Publication: Laser 440, 500
+
+73. DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks
+Citations:
+Authors: H Chen, C Fu, J Zhao, F Koushanfar
+Publication: 
+
+74. Reliable and Flexible Large Scale Memory Network
+Citations:
+Authors: Z Wang, X Liu, J Kim, H Lee, J Zhao
+Publication: 
+
+75. Tor Aamodt, University of British Columbia Murali Annavaram, University of Southern California Rajeev Balasubramonian, University of Utah Yungang Bao, Institute of Computing …
+Citations:
+Authors: G Blake, TE Carlson, A Chtchelkanova, J Clemons, W Elsasser, J Gandhi, ...
+Publication: 
+
+76. FIRM: Fair and HIgh-PerfoRmance Memory Control for Memory Control for Persistent Memory Systems yy
+Citations:
+Authors: J Zhao, O Mutlu, YXJZO Mutlu, Y Xie
+Publication: 
+
+77. Analog and mixed-signal IC design Track
+Citations:
+Authors: J Kim, TC Lee, KH Chen, K Okada, SW Sin, MS Steyaert, Y Xie, NS Kim, ...
+Publication: 
+
+78. CSE530 Project Final Report Bandwidth-Aware Memory Hierarchy Design with Hybrid Memory Technologies
+Citations:
+Authors: C Xu, J Zhao
+Publication: 
+

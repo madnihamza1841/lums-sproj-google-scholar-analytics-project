@@ -1,0 +1,513 @@
+https://scholar.google.com/citations?hl=en&user=O-29z5AAAAAJ
+Total Citations = 8807
+
+1. Remote timing attacks are practical
+Citations:942
+Authors: D Brumley, D Boneh
+Publication: Computer Networks 48 (5), 701-716
+
+2. BitBlaze: A new approach to computer security via binary analysis
+Citations:773
+Authors: D Song, D Brumley, H Yin, J Caballero, I Jager, MG Kang, Z Liang, ...
+Publication: International Conference on Information Systems Security, 1-25
+
+3. All you ever wanted to know about dynamic taint analysis and forward symbolic execution (but might have been afraid to ask)
+Citations:623
+Authors: EJ Schwartz, T Avgerinos, D Brumley
+Publication: 2010 IEEE symposium on Security and privacy, 317-331
+
+4. Towards automatic generation of vulnerability-based signatures
+Citations:360
+Authors: D Brumley, J Newsome, D Song, H Wang, S Jha
+Publication: 2006 IEEE Symposium on Security and Privacy (S&P'06), 15 pp.-16
+
+5. Unleashing mayhem on binary code
+Citations:337
+Authors: SK Cha, T Avgerinos, A Rebert, D Brumley
+Publication: 2012 IEEE Symposium on Security and Privacy, 380-394
+
+6. BAP: A binary analysis platform
+Citations:328
+Authors: D Brumley, I Jager, T Avgerinos, EJ Schwartz
+Publication: International Conference on Computer Aided Verification, 463-469
+
+7. AEG: Automatic exploit generation
+Citations:312
+Authors: T Avgerinos, SK Cha, BLT Hao, D Brumley
+Publication: Internet Society
+
+8. An empirical study of cryptographic misuse in android applications
+Citations:290
+Authors: M Egele, D Brumley, Y Fratantonio, C Kruegel
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+9. Bitshred: feature hashing malware for scalable triage and semantic analysis
+Citations:250
+Authors: J Jang, D Brumley, S Venkataraman
+Publication: Proceedings of the 18th ACM conference on Computer and communications …
+
+10. Virtual appliance management
+Citations:247
+Authors: MSL Lam, CP Sapuntzakis, RUV Chandra, NB Zeldovich, M Rosenblum, ...
+Publication: US Patent 7,890,689
+
+11. Virtual Appliances for Deploying and Maintaining Software.
+Citations:247
+Authors: CP Sapuntzakis, D Brumley, R Chandra, N Zeldovich, J Chow, MS Lam, ...
+Publication: LISA 3, 181-194
+
+12. Automatic patch-based exploit generation is possible: Techniques and implications
+Citations:245
+Authors: D Brumley, P Poosankam, D Song, J Zheng
+Publication: 2008 IEEE Symposium on Security and Privacy (sp 2008), 143-157
+
+13. Privtrans: Automatically partitioning programs for privilege separation
+Citations:232
+Authors: D Brumley, D Song
+Publication: USENIX Security Symposium, 57-72
+
+14. Automatically identifying trigger-based behavior in malware
+Citations:222
+Authors: D Brumley, C Hartwig, Z Liang, J Newsome, D Song, H Yin
+Publication: Botnet Detection, 65-88
+
+15. Q: Exploit Hardening Made Easy.
+Citations:214
+Authors: EJ Schwartz, T Avgerinos, D Brumley
+Publication: USENIX Security Symposium, 25-41
+
+16. Enhancing symbolic execution with veritesting
+Citations:180
+Authors: T Avgerinos, A Rebert, SK Cha, D Brumley
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+17. Cache-based system management architecture with virtual appliances, network repositories, and virtual appliance transceivers
+Citations:168
+Authors: MSL Lam, CP Sapuntzakis, RUV Chandra, NB Zeldovich, M Rosenblum, ...
+Publication: US Patent 7,373,451
+
+18. TIE: Principled Reverse Engineering of Types in Binary Programs.
+Citations:165
+Authors: JH Lee, T Avgerinos, D Brumley
+Publication: NDSS
+
+19. Generic Application-Level Protocol Analyzer and its Language.
+Citations:150
+Authors: N Borisov, D Brumley, HJ Wang, J Dunagan, P Joshi, C Guo
+Publication: NDSS
+
+20. Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation.
+Citations:134
+Authors: D Brumley, J Caballero, Z Liang, J Newsome, D Song
+Publication: USENIX Security Symposium, 15
+
+21. Replayer: Automatic protocol replay by binary analysis
+Citations:127
+Authors: J Newsome, D Brumley, J Franklin, D Song
+Publication: Proceedings of the 13th ACM conference on Computer and communications …
+
+22. {BYTEWEIGHT}: Learning to Recognize Functions in Binary Code
+Citations:124
+Authors: T Bao, J Burket, M Woo, R Turner, D Brumley
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 845-860
+
+23. Program-adaptive mutational fuzzing
+Citations:119
+Authors: SK Cha, M Woo, D Brumley
+Publication: 2015 IEEE Symposium on Security and Privacy, 725-741
+
+24. Vulnerability-Specific Execution Filtering for Exploit Prevention on Commodity Software.
+Citations:119
+Authors: J Newsome, D Brumley, D Song, J Chamcham, X Kovah
+Publication: NDSS
+
+25. RICH: Automatically protecting against integer-based vulnerabilities
+Citations:117
+Authors: D Brumley, T Chiueh, R Johnson, H Lin, D Song
+Publication: figshare
+
+26. Optimizing seed selection for fuzzing
+Citations:116
+Authors: A Rebert, SK Cha, T Avgerinos, J Foote, D Warren, G Grieco, D Brumley
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 861-875
+
+27. Hulk: Eliciting malicious behavior in browser extensions
+Citations:115
+Authors: A Kapravelos, C Grier, N Chachra, C Kruegel, G Vigna, V Paxson
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 641-654
+
+28. Creating vulnerability signatures using weakest preconditions
+Citations:104
+Authors: D Brumley, H Wang, S Jha, D Song
+Publication: 20th IEEE Computer Security Foundations Symposium (CSF'07), 311-325
+
+29. Scheduling black-box mutational fuzzing
+Citations:97
+Authors: M Woo, SK Cha, S Gottlieb, D Brumley
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+30. BitScope: Automatically dissecting malicious binaries
+Citations:95
+Authors: D Brumley, C Hartwig, MG Kang, Z Liang, J Newsome, P Poosankam, ...
+Publication: Technical Report CS-07-133, School of Computer Science, Carnegie Mellon …
+
+31. Blanket execution: Dynamic similarity testing for program binaries and components
+Citations:90
+Authors: M Egele, M Woo, P Chapman, D Brumley
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 303-317
+
+32. Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.
+Citations:89
+Authors: DD Chen, M Woo, D Brumley, M Egele
+Publication: NDSS, 1-16
+
+33. ReDeBug: finding unpatched code clones in entire os distributions
+Citations:88
+Authors: J Jang, A Agrawal, D Brumley
+Publication: 2012 IEEE Symposium on Security and Privacy, 48-62
+
+34. Native x86 decompilation using semantics-preserving structural analysis and iterative control-flow structuring
+Citations:84
+Authors: D Brumley, JH Lee, EJ Schwartz, M Woo
+Publication: Presented as part of the 22nd {USENIX} Security Symposium ({USENIX} Security …
+
+35. Sweeper: A lightweight end-to-end system for defending against fast worms
+Citations:82
+Authors: J Tucek, J Newsome, S Lu, C Huang, S Xanthos, D Brumley, Y Zhou, ...
+Publication: ACM SIGOPS Operating Systems Review 41 (3), 115-128
+
+36. GPS software attacks
+Citations:81
+Authors: T Nighswander, B Ledvina, J Diamond, R Brumley, D Brumley
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+37. SplitScreen: Enabling Efficient, Distributed Malware Detection.
+Citations:53
+Authors: SK Cha, I Moraru, J Jang, J Truelove, D Brumley, DG Andersen
+Publication: NSDI, 377-390
+
+38. Towards automatic software lineage inference
+Citations:47
+Authors: J Jang, M Woo, D Brumley
+Publication: Presented as part of the 22nd {USENIX} Security Symposium ({USENIX} Security …
+
+39. Design space and analysis of worm defense strategies
+Citations:45
+Authors: D Brumley, LH Liu, P Poosankam, D Song
+Publication: Proceedings of the 2006 ACM Symposium on Information, computer and …
+
+40. TACHYON: Tandem execution for efficient live patch testing
+Citations:44
+Authors: M Maurer, D Brumley
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+41. PicoCTF: A game-based computer security competition for high school students
+Citations:41
+Authors: P Chapman, J Burket, D Brumley
+Publication: 2014 {USENIX} Summit on Gaming, Games, and Gamification in Security …
+
+42. SplitScreen: Enabling efficient, distributed malware detection
+Citations:34
+Authors: SK Cha, I Moraru, J Jang, J Truelove, D Brumley, DG Andersen
+Publication: Journal of Communications and Networks 13 (2), 187-200
+
+43. Theory and techniques for automatic generation of vulnerability-based signatures
+Citations:31
+Authors: D Brumley, J Newsome, D Song, H Wang, S Jha
+Publication: IEEE Transactions on Dependable and Secure Computing 5 (4), 224-241
+
+44. Tracking hackers on IRC
+Citations:31
+Authors: D Brumley
+Publication: 
+
+45. A contractual anonymity system
+Citations:30
+Authors: EJ Schwartz, D Brumley, JM Mccune
+Publication: Internet Society
+
+46. Generic application level protocol analyzer
+Citations:28
+Authors: JH Wang, N Borisov, DJ Brumley
+Publication: US Patent 7,975,059
+
+47. Alias analysis for assembly
+Citations:28
+Authors: D Brumley, J Newsome
+Publication: Technical Report CMU-CS-06-180, Carnegie Mellon University School of …
+
+48. Bitshred: Fast, scalable malware triage
+Citations:27
+Authors: J Jang, D Brumley, S Venkataraman
+Publication: Cylab, Carnegie Mellon University, Pittsburgh, PA, Technical Report CMU …
+
+49. Methods and systems for automatically testing software
+Citations:25
+Authors: T Avgerinos, A Rebert, D Brumley
+Publication: US Patent 9,619,375
+
+50. Automated exploit generation
+Citations:23
+Authors: D Brumley, SK Cha, T Avgerinos
+Publication: US Patent 9,135,405
+
+51. Analysis and defense of vulnerabilities in binary code
+Citations:22
+Authors: D Brumley
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+52. Sting: An end-to-end self-healing system for defending against internet worms
+Citations:19
+Authors: D Brumley, J Newsome, D Song
+Publication: Malware Detection, 147-170
+
+53. “invisible intruders: rootkits in practice
+Citations:18
+Authors: D Brumley
+Publication: login: Magazine, Intrusion Detection Special Issue, 1999-9
+
+54. Your exploit is mine: Automatic shellcode transplant for remote exploits
+Citations:17
+Authors: T Bao, R Wang, Y Shoshitaishvili, D Brumley
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 824-839
+
+55. Efficient directionless weakest preconditions
+Citations:17
+Authors: I Jager, D Brumley
+Publication: Technical Report CMU-CyLab-10-002, Carnegie Mellon University, CyLab
+
+56. The BAP handbook
+Citations:16
+Authors: D Brumley, I Jager, EJ Schwartz, S Whitman
+Publication: October
+
+57. Bitshred: Fast, scalable code reuse detection in binary code
+Citations:12
+Authors: J Jang, D Brumley, S Venkataraman
+Publication: CMU-CyLab-10-006 16
+
+58. Platform-independent programs
+Citations:11
+Authors: SK Cha, B Pak, D Brumley, RJ Lipton
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+59. Bitshred: Fast, scalable code reuse detection in binary code (cmu-cylab-10-006)
+Citations:11
+Authors: J Jang, D Brumley
+Publication: CyLab, 28
+
+60. Automatic Problem Generation for Capture-the-Flag Competitions
+Citations:10
+Authors: J Burket, P Chapman, T Becker, C Ganas, D Brumley
+Publication: 2015 {USENIX} Summit on Gaming, Games, and Gamification in Security …
+
+61. Automatically inferring the evolution of malicious activity on the internet
+Citations:10
+Authors: S Venkataraman, D Brumley, S Sen, O Spatscheck
+Publication: figshare
+
+62. Detecting exploitable bugs in binary code
+Citations:9
+Authors: D Brumley, SK Cha, T Avgerinos, A Rebert
+Publication: US Patent 9,183,396
+
+63. BitBlaze: Binary analysis for computer security
+Citations:9
+Authors: D Song, D Brumley, H Yin, J Caballero, I Jager, MG Kang, Z Liang, ...
+Publication: 
+
+64. How Shall We Play a Game?: A Game-theoretical Model for Cyber-warfare Games
+Citations:7
+Authors: T Bao, Y Shoshitaishvili, R Wang, C Kruegel, G Vigna, D Brumley
+Publication: 2017 IEEE 30th Computer Security Foundations Symposium (CSF), 7-21
+
+65. Scaling up DPLL (T) string solvers using context-dependent simplification
+Citations:7
+Authors: A Reynolds, M Woo, C Barrett, D Brumley, T Liang, C Tinelli
+Publication: International Conference on Computer Aided Verification, 453-474
+
+66. Contractual Anonymity
+Citations:7
+Authors: E Schwartz, D Brumley, JM McCune
+Publication: Carnegie Mellon University. Information Networking Institute
+
+67. Sting: An end-to-end self-healing system for defending against zero-day worm attacks on commodity software
+Citations:7
+Authors: J Newsome, D Brumley, D Song, MR Pariente
+Publication: CMU-CS-05-191
+
+68. The Mayhem cyber reasoning system
+Citations:6
+Authors: T Avgerinos, D Brumley, J Davis, R Goulden, T Nighswander, A Rebert, ...
+Publication: IEEE Security & Privacy 16 (2), 52-60
+
+69. Taxonomy and effectiveness of worm defense strategies
+Citations:5
+Authors: D Brumley, LH Liu, P Poosankam, D Song
+Publication: Carnegie Mellon University
+
+70. Saluki: finding taint-style vulnerabilities with static property checking
+Citations:4
+Authors: I Gotovchits, R van Tonder, D Brumley
+Publication: Proceedings of the NDSS Workshop on Binary Analysis Research
+
+71. Automatically deriving pointer reference expressions from binary code for memory dump analysis
+Citations:4
+Authors: Y Fu, Z Lin, D Brumley
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+72. Towards practical automatic generation of multipath vulnerability signatures
+Citations:4
+Authors: D Brumley, Z Liang, J Newsome, D Song
+Publication: Technical Report CMU-CS-07-150, Carnegie Mellon University School of …
+
+73. Towards automatically eliminating integer-based vulnerabilities
+Citations:4
+Authors: D Brumley, D Song, J Slember
+Publication: Carnegie Mellon University, Tech. Rep. CMU-CS-06-136
+
+74. Towards attack-agnostic defenses
+Citations:4
+Authors: D Brumley, D Song
+Publication: figshare
+
+75. Cloud Datacenter SDN Monitoring: Experiences and Challenges
+Citations:3
+Authors: A Roy, D Bansal, D Brumley, HK Chandrappa, P Sharma, R Tewari, ...
+Publication: Proceedings of the Internet Measurement Conference 2018, 464-470
+
+76. Efficient directionless weakest preconditions (cmu-cylab-10-002)
+Citations:3
+Authors: I Jager, D Brumley
+Publication: CyLab, 27
+
+77. Policing the Territory: A Comment on the Emergency Response to Little Children are Sacred
+Citations:3
+Authors: M Schwartz
+Publication: Indigenous Law Bulletin 6 (30), 9-10
+
+78. picoCTF: Teaching 10,000 high school students to hack
+Citations:1
+Authors: P Chapman, D Brumley
+Publication: 
+
+79. Static analysis
+Citations:1
+Authors: D Brumley
+Publication: Encyclopedia of Cryptography and Security, 1254-1256
+
+80. Efficient Directionless Weakest Preconditions
+Citations:1
+Authors: D Brumley, I Jager
+Publication: Technical Report CMU-CyLab-10-002. Carnegie Mellon University, Pittsburgh, PA
+
+81. Mitigating C vulnerabilities
+Citations:1
+Authors: D Brumley
+Publication: 
+
+82. Vine project documentation
+Citations:1
+Authors: D Brumley
+Publication: 
+
+83. The White-Hat Hacking Machine: Meet Mayhem, winner of the DARPA contest to find and repair software vulnerabilities
+Citations:
+Authors: D Brumley
+Publication: IEEE SPECTRUM 56 (2), 30-35
+
+84. The Cyber Grand Challenge and the Future of Cyber-Autonomy
+Citations:
+Authors: D Brumley
+Publication: ; login: 43 (2)
+
+85. The Future of Cyber-Autonomy
+Citations:
+Authors: D Brumley
+Publication: Enigma 2018 (Enigma 2018)
+
+86. Detecting exploitable bugs in binary code
+Citations:
+Authors: D Brumley, SK Cha, T Avgerinos, A Rebert
+Publication: US Patent 9,542,559
+
+87. Invisible intruders: rootkits in practice
+Citations:
+Authors: D Brumley
+Publication: ; login:: the magazine of USENIX & SAGE 40 (2), 69-71
+
+88. Update on Q: Exploit Hardening Made Easy
+Citations:
+Authors: EJ Schwartz, T Avgerinos, D Brumley
+Publication: 
+
+89. Efficient Directionless Weakest Preconditions (CMU-CyLab-10-002)
+Citations:
+Authors: D Brumley, I Jager
+Publication: 
+
+90. Memory balancing for large-scale network simulation in power-law networks
+Citations:
+Authors: H Kim
+Publication: Purdue University
+
+91. A Binary-Centric Approach to Vulnerability Analysis and Defense
+Citations:
+Authors: D Brumley
+Publication: 
+
+92. A crash course in managing security
+Citations:
+Authors: D Brumley
+Publication: ; login:: the magazine of USENIX & SAGE 26 (7), 76-82
+
+93. repeatable security
+Citations:
+Authors: D Brumley
+Publication: ; login:: the magazine of USENIX & SAGE 25 (7), 32-37
+
+94. Blanket Execution: Dynamic Similarity Testing for
+Citations:
+Authors: M Egele, M Woo, P Chapman, D Brumley
+Publication: 
+
+95. Program Committee Chairs
+Citations:
+Authors: W Lee, A Perrig, M Backes, M Abadi, M Bailey, H Bos, L Bauer, D Brumley, ...
+Publication: 
+
+96. Thursday, January 14
+Citations:
+Authors: D Brumley
+Publication: 
+
+97. Reducing the numbers of Aboriginal women in custody: the Karrka Kirnti Aboriginal Women's cultural program [Paper in: Indigenous Women. Newman, Samantha, and Houston, Jacqui …
+Citations:
+Authors: P Maurer
+Publication: Indigenous Law Bulletin 6 (1), 26
+
+98. Automatically Generating Accurate Input Filters for Host-Based Defenses Using Binary Static Analysis
+Citations:
+Authors: D Brumley, Z Liang, J Newsome, D Song
+Publication: 
+
+99. Committee Lists
+Citations:
+Authors: L Meany, K Anagnostakis, S Ioannidis, A Stavrou, A Donnelly, C Kruegel, ...
+Publication: 
+
+100. Program Committee Chairs
+Citations:
+Authors: J He, F Yang
+Publication: 
+
+101. 18-732 Secure Software Systems Static Information Flow Analysis
+Citations:
+Authors: D Brumley
+Publication: 
+
+102. Organizing Committee: Technical Program Committee Chairs
+Citations:
+Authors: C Nita-Rotaru, G Tsudik, L Subramanian, P Traynor, E Al-Shaer, ...
+Publication: 
+

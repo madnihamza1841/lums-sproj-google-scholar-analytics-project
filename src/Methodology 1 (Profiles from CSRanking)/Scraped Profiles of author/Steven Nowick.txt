@@ -1,0 +1,678 @@
+https://scholar.google.com/citations?hl=en&user=gaXiAekAAAAJ
+Total Citations = 5194
+
+1. Applications of asynchronous circuits
+Citations:261
+Authors: CH Van Berkel, MB Josephs, SM Nowick
+Publication: Proceedings of the IEEE 87 (2), 223-233
+
+2. Automatic synthesis of burst-mode asynchronous controllers
+Citations:209
+Authors: SM Nowick
+Publication: Stanford University
+
+3. Synchronization design for digital systems
+Citations:179
+Authors: TH Meng
+Publication: Springer Science & Business Media
+
+4. An introduction to asynchronous circuits design
+Citations:179
+Authors: A Davis, S Nowick
+Publication: Comp. Sci. Dep., Univ. of Utah, Salt Lake City, Tech. Re. UUCS-97-013
+
+5. Exact two-level minimization of hazard-free logic with multiple-input changes
+Citations:167
+Authors: SM Nowick, DL Dill
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+6. Robust interfaces for mixed-timing systems
+Citations:155
+Authors: T Chelcea, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 12 (8), 857-873
+
+7. MOUSETRAP: High-speed transition-signaling asynchronous pipelines
+Citations:146
+Authors: M Singh, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 15 (6), 684-698
+
+8. Robust interfaces for mixed-timing systems with application to latency-insensitive protocols
+Citations:142
+Authors: T Chelcea, SM Nowick
+Publication: Proceedings of the 38th annual Design Automation Conference, 21-26
+
+9. Design of a low-latency asynchronous adder using speculative completion
+Citations:138
+Authors: SM Nowick
+Publication: IEE Proceedings-Computers and Digital Techniques 143 (5), 301-307
+
+10. Synthesis of asynchronous state machines using a local clock
+Citations:134
+Authors: SM Nowick, DL Dill
+Publication: [1991 Proceedings] IEEE International Conference on Computer Design: VLSI in …
+
+11. Speculative completion for the design of high-performance asynchronous dynamic adders
+Citations:133
+Authors: SM Nowick, KY Yun, PA Beerel, AE Dooply
+Publication: Proceedings Third International Symposium on Advanced Research in …
+
+12. Automatic synthesis of locally-clocked asynchronous state machines
+Citations:125
+Authors: SM Nowick, DL Dill
+Publication: 1991 IEEE International Conference on Computer-Aided Design Digest of …
+
+13. High-throughput asynchronous pipelines for fine-grain dynamic datapaths
+Citations:123
+Authors: M Singh, SM Nowick
+Publication: Proceedings Sixth International Symposium on Advanced Research in …
+
+14. A low-latency FIFO for mixed-clock systems
+Citations:122
+Authors: T Chelcea, SM Nowick
+Publication: Proceedings IEEE Computer Society Workshop on VLSI 2000. System Design for a …
+
+15. Minimalist: An environment for the synthesis, verification and testability of burst-mode asynchronous machines
+Citations:112
+Authors: RM Fuhrer, SM Nowick, M Theobald, NK Jha, B Lin, L Plana
+Publication: 
+
+16. Synthesis of 3D asynchronous state machines
+Citations:110
+Authors: KY Yun, DL Dill, SM Nowick
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+17. High-Performance Asynchronous Pipelines: an Overview
+Citations:105
+Authors: S Nowick, M Singh
+Publication: Design & Test of Computers, IEEE 28 (5), 8-22
+
+18. MOUSETRAP: Ultra-high-speed transition-signaling asynchronous pipelines
+Citations:103
+Authors: M Singh, SM Nowick
+Publication: Proceedings 2001 IEEE International Conference on Computer Design: VLSI in …
+
+19. Asynchronous pipeline with latch controllers
+Citations:97
+Authors: M Singh, SM Nowick
+Publication: US Patent 6,958,627
+
+20. Practical asynchronous controller design
+Citations:86
+Authors: SM Nowick, KY Yun, DL Dill
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+21. Sequential optimization of asynchronous and synchronous finite-state machines: Algorithms and tools
+Citations:72
+Authors: RM Fuhrer, SM Nowick
+Publication: Springer Science & Business Media
+
+22. The design of a high-performance cache controller: a case study in asynchronous synthesis
+Citations:68
+Authors: SM Nowick, ME Dean, DL Dill, M Horowitz
+Publication: [1993] Proceedings of the Twenty-sixth Hawaii International Conference on …
+
+23. Low latency FIFO circuits for mixed asynchronous and synchronous systems
+Citations:67
+Authors: T Chelcea, SM Nowick
+Publication: US Patent 6,850,092
+
+24. Modeling and design of asynchronous circuits
+Citations:61
+Authors: MB Josephs, SM Nowick, CH Van Berkel
+Publication: Proceedings of the IEEE 87 (2), 234-242
+
+25. A fast asynchronous Huffman decoder for compressed-code embedded processors
+Citations:61
+Authors: R Benes, SM Nowick, A Wolfe
+Publication: Proceedings Fourth International Symposium on Advanced Research in …
+
+26. Asynchronous circuit design: Motivation, background, & methods
+Citations:61
+Authors: A Davis, SM Nowick
+Publication: Asynchronous Digital Circuit Design, 1-49
+
+27. The design of high-performance dynamic asynchronous pipelines: lookahead style
+Citations:58
+Authors: M Singh, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 15 (11 …
+
+28. Fine-grain pipelined asynchronous adders for high-speed DSP applications
+Citations:57
+Authors: M Singh, SM Nowick
+Publication: Proceedings IEEE Computer Society Workshop on VLSI 2000. System Design for a …
+
+29. High-throughput asynchronous dynamic pipelines
+Citations:56
+Authors: M Singh, SM Nowick
+Publication: US Patent 6,590,424
+
+30. Low-latency asynchronous FIFO's using token rings
+Citations:55
+Authors: T Chelcea, SM Nowick
+Publication: Proceedings Sixth International Symposium on Advanced Research in …
+
+31. UCLOCK: automated design of high-performance unclocked state machines
+Citations:53
+Authors: SM Nowick, B Coates
+Publication: Proceedings 1994 IEEE International Conference on Computer Design: VLSI in …
+
+32. A level-encoded transition signaling protocol for high-throughput asynchronous global communication
+Citations:49
+Authors: PB McGee, MY Agyekum, MA Mohamed, SM Nowick
+Publication: 2008 14th IEEE International Symposium on Asynchronous Circuits and Systems …
+
+33. Symbolic hazard-free minimization and encoding of asynchronous finite state machines
+Citations:49
+Authors: RM Fuhrer, B Lin, SM Nowick
+Publication: Proceedings of the 1995 IEEE/ACM international conference on Computer-aided …
+
+34. Asynchronous design—Part 1: Overview and recent advances
+Citations:48
+Authors: SM Nowick, M Singh
+Publication: IEEE Design & Test 32 (3), 5-18
+
+35. A transition-signaling bundled data NoC switch architecture for cost-effective GALS multicore systems
+Citations:48
+Authors: A Ghiribaldi, D Bertozzi, SM Nowick
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 332-337
+
+36. Optimization of robust asynchronous circuits by local input completeness relaxation
+Citations:46
+Authors: C Jeong, SM Nowick
+Publication: Proceedings of the 2007 Asia and South Pacific Design Automation Conference …
+
+37. An adaptively-pipelined mixed synchronous-asynchronous digital FIR filter chip operating at 1.3 gigahertz
+Citations:46
+Authors: M Singh, JA Tierno, A Rylyakov, S Rylov, SM Nowick
+Publication: Proceedings Eighth International Symposium on Asynchronous Circuits and …
+
+38. Resynthesis and peephole transformations for the optimization of large-scale asynchronous systems
+Citations:45
+Authors: T Chelcea, SM Nowick
+Publication: Proceedings of the 39th annual Design Automation Conference, 405-410
+
+39. A low-overhead asynchronous interconnection network for GALS chip multiprocessors
+Citations:43
+Authors: MN Horak, SM Nowick, M Carlberg, U Vishkin
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+40. Specification and automatic verification of self-timed queues
+Citations:43
+Authors: DL Dill, SM Nowick, RF Sproull
+Publication: Formal Methods in System Design 1 (1), 29-60
+
+41. A high-speed asynchronous decompression circuit for embedded processors
+Citations:42
+Authors: M Benes, A Wolfe, SM Nowick
+Publication: Proceedings Seventeenth Conference on Advanced Research in VLSI, 219-236
+
+42. The design of high-performance dynamic asynchronous pipelines: high-capacity style
+Citations:41
+Authors: M Singh, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 15 (11 …
+
+43. A burst-mode oriented back-end for the Balsa synthesis system
+Citations:40
+Authors: T Chelcea, S Nowick, A Bardsley, D Edwards
+Publication: Proceedings of the conference on Design, automation and test in Europe, 330
+
+44. Block-level relaxation for timing-robust asynchronous circuits based on eager evaluation
+Citations:36
+Authors: C Jeong, SM Nowick
+Publication: 2008 14th IEEE International Symposium on Asynchronous Circuits and Systems …
+
+45. Synthesis of hazard-free customized CMOS complex-gate networks under multiple-input changes
+Citations:36
+Authors: P Kudva, G Gopalakrishnan, H Jacobson, SM Nowick
+Publication: 33rd Design Automation Conference Proceedings, 1996, 77-82
+
+46. Synthesis of asynchronous circuits for stuck-at and robust path delay fault testability
+Citations:35
+Authors: SM Nowick, NK Jha, FC Cheng
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+47. Espresso-HF: a heuristic hazard-free minimizer for two-level logic
+Citations:35
+Authors: M Theobald, SM Nowick, T Wu
+Publication: 33rd Design Automation Conference Proceedings, 1996, 71-76
+
+48. Efficient performance analysis of asynchronous systems based on periodicity
+Citations:34
+Authors: PB McGee, SM Nowick, EG Coffman Jr
+Publication: Proceedings of the 3rd IEEE/ACM/IFIP international conference on Hardware …
+
+49. A low-overhead asynchronous interconnection network for GALS chip multiprocessors
+Citations:33
+Authors: MN Horak, SM Nowick, M Carlberg, U Vishkin
+Publication: 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip, 43-50
+
+50. Test generation for ultra-high-speed asynchronous pipelines
+Citations:32
+Authors: F Shi, Y Makris, SM Nowick, M Singh
+Publication: IEEE International Conference on Test, 2005., 10 pp.-1018
+
+51. Error-correcting unordered codes and hardware support for robust asynchronous global communication
+Citations:31
+Authors: MY Agyekum, SM Nowick
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+52. Circuits and methods for high-capacity asynchronous pipeline
+Citations:31
+Authors: M Singh, SM Nowick
+Publication: US Patent 6,867,620
+
+53. Transformations for the synthesis and optimization of asynchronous distributed control
+Citations:31
+Authors: M Theobald, SM Nowick
+Publication: Proceedings of the 38th annual Design Automation Conference, 263-268
+
+54. Fast heuristic and exact algorithms for two-level hazard-free logic minimization
+Citations:31
+Authors: M Theobald, SM Nowick
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+55. Practical generalizations of asynchronous state machines
+Citations:31
+Authors: KY Yun, DL Dill, SM Nowick
+Publication: 1993 European Conference on Design Automation with the European Event in …
+
+56. Efficient asynchronous protocol converters for two-phase delay-insensitive global communication
+Citations:29
+Authors: A Mitra, WF McLaughlin, SM Nowick
+Publication: 13th IEEE International Symposium on Asynchronous Circuits and Systems …
+
+57. Circuits and methods for high-capacity asynchronous pipeline processing
+Citations:29
+Authors: M Singh, SM Nowick
+Publication: US Patent 7,053,665
+
+58. High-speed non-linear asynchronous pipelines
+Citations:29
+Authors: R Ozdag, P Beerel, M Singh, S Nowick
+Publication: Proceedings of the conference on Design, automation and test in Europe, 1000
+
+59. Practical advances in asynchronous design and in asynchronous/synchronous interfaces
+Citations:29
+Authors: E Brunvand, S Nowick, K Yun
+Publication: Proceedings of the 36th annual ACM/IEEE Design Automation Conference, 104-109
+
+60. A correctness criterion for asynchronous circuit validation and optimization
+Citations:29
+Authors: G Gopalakrishnan, E Brunvand, N Michell, SM Nowick
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+61. Technology mapping and cell merger for asynchronous threshold networks
+Citations:27
+Authors: C Jeong, SM Nowick
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+62. An efficient algorithm for time separation of events in concurrent systems
+Citations:25
+Authors: PB McGee, SM Nowick
+Publication: 2007 IEEE/ACM International Conference on Computer-Aided Design, 180-187
+
+63. Asynchronous digital circuits including arbitration and routing primitives for asynchronous and mixed-timing networks
+Citations:24
+Authors: SM Nowick, M Horak, M Carlberg
+Publication: US Patent 8,362,802
+
+64. An adaptively pipelined mixed synchronous-asynchronous digital FIR filter chip operating at 1.3 gigahertz
+Citations:24
+Authors: M Singh, JA Tierno, A Rylyakov, S Rylov, SM Nowick
+Publication: IEEE transactions on very large scale integration (VLSI) systems 18 (7 …
+
+65. Asynchronous datapath with software-controlled on-chip adaptive voltage scaling for multirate signal processing applications
+Citations:23
+Authors: YW Li, G Patounakis, A Jose, KL Shepard, SM Nowick
+Publication: Ninth International Symposium on Asynchronous Circuits and Systems, 2003 …
+
+66. Special issue on asynchronous circuits and systems
+Citations:23
+Authors: SM Nowick, MB Josephs, CH van Berkel
+Publication: Proceedings of the IEEE 87 (2), 219-222
+
+67. Practicality of state-machine verification of speed-independent circuits
+Citations:23
+Authors: SM Nowick, DL Dill
+Publication: 1989 IEEE International Conference on Computer-Aided Design. Digest of …
+
+68. Architectural optimization for low-power nonpipelined asynchronous systems
+Citations:21
+Authors: LA Plana, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 6 (1), 56-65
+
+69. Asynchronous design—Part 2: Systems and methodologies
+Citations:19
+Authors: SM Nowick, M Singh
+Publication: IEEE Design & Test 32 (3), 19-28
+
+70. A flexible, event-driven digital filter with frequency response independent of input sample rate
+Citations:19
+Authors: C Vezyrtzis, W Jiang, SM Nowick, Y Tsividis
+Publication: IEEE Journal of Solid-State Circuits 49 (10), 2292-2304
+
+71. Low latency FIFO circuit for mixed clock systems
+Citations:19
+Authors: T Chelcea, SM Nowick
+Publication: US Patent 7,197,582
+
+72. Soft mousetrap: A bundled-data asynchronous pipeline scheme tolerant to random variations at ultra-low supply voltages
+Citations:18
+Authors: J Liu, SM Nowick, M Seok
+Publication: 2013 IEEE 19th International Symposium on Asynchronous Circuits and Systems, 1-7
+
+73. Estimation and bounding of energy consumption in burst-mode control circuits
+Citations:18
+Authors: PA Beerel, KY Yun, SM Nowick, PC Yeh
+Publication: Proceedings of the 1995 IEEE/ACM international conference on Computer-aided …
+
+74. Automatic verification of speed-independent circuits with Petri net specifications
+Citations:18
+Authors: DL Dill, SM Nowick, RF Sproull
+Publication: Proceedings 1989 IEEE International Conference on Computer Design: VLSI in …
+
+75. Optimal technology mapping and cell merger for asynchronous threshold networks
+Citations:17
+Authors: C Jeong, SM Nowick
+Publication: 12th IEEE International Symposium on Asynchronous Circuits and Systems …
+
+76. Synthesizing asynchronous circuits: Practice and experience
+Citations:17
+Authors: A Davis
+Publication: Asynchronous digital circuit design, 104-150
+
+77. Variable-length, high-speed asynchronous decoder circuit
+Citations:16
+Authors: M Bene, SM Nowick, A Wolfe
+Publication: US Patent 6,865,668
+
+78. A low-latency adaptive asynchronous interconnection network using bi-modal router nodes
+Citations:13
+Authors: G Gill, SS Attarde, G Lacourba, SM Nowick
+Publication: Proceedings of the Fifth ACM/IEEE International Symposium, 193-200
+
+79. On the existence of hazard-free multi-level logic
+Citations:13
+Authors: SM Nowick, CW O'Donnell
+Publication: Ninth International Symposium on Asynchronous Circuits and Systems, 2003 …
+
+80. A flexible, clockless digital filter
+Citations:12
+Authors: C Vezyrtzis, W Jiang, SM Nowick, Y Tsividis
+Publication: 2013 Proceedings of the ESSCIRC (ESSCIRC), 65-68
+
+81. An asynchronous NoC router in a 14nm FinFET library: comparison to an industrial synchronous counterpart
+Citations:11
+Authors: W Jiang, D Bertozzi, G Miorandi, SM Nowick, W Burleson, G Sadowski
+Publication: Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017 …
+
+82. A lightweight early arbitration method for low-latency asynchronous 2D-mesh NoC's
+Citations:11
+Authors: W Jiang, K Bhardwaj, G Lacourba, SM Nowick
+Publication: Proceedings of the 52nd Annual Design Automation Conference, 203
+
+83. Practical completion detection for 2-of-n delay-insensitive codes
+Citations:11
+Authors: M Cannizzaro, W Jiang, SM Nowick
+Publication: 2010 IEEE International Conference on Computer Design, 151-158
+
+84. Asynchronous protocol converters for two-phase delay-insensitive global communication
+Citations:11
+Authors: WF McLaughlin, A Mitra, SM Nowick
+Publication: IEEE transactions on very large scale integration (VLSI) systems 17 (7), 923-928
+
+85. Designing pipelined delay lines with dynamically-adaptive granularity for low-energy applications
+Citations:10
+Authors: C Vezyrtzis, Y Tsividis, SM Nowick
+Publication: 2012 IEEE 30th International Conference on Computer Design (ICCD), 329-336
+
+86. Fast hazard detection in combinational circuits
+Citations:10
+Authors: C Jeong, SM Nowick
+Publication: Proceedings of the 41st annual Design Automation Conference, 592-595
+
+87. A 1.3 GSample/s 10-tap full-rate variable-latency self-timed FIR filter with clocked interfaces
+Citations:10
+Authors: J Tierno, A Rylyakov, S Rylov, M Singh, P Ampadu, S Nowick, ...
+Publication: International Solid State Circuits Conference
+
+88. An implicit method for hazard-free two-level logic minimization
+Citations:10
+Authors: M Theobald, SM Nowick
+Publication: Proceedings Fourth International Symposium on Advanced Research in …
+
+89. Bi-modal arbitration nodes for a low-latency adaptive asynchronous interconnection network and methods for using the same
+Citations:9
+Authors: SM Nowick, GD Gill, SS Attarde
+Publication: US Patent 9,537,679
+
+90. Asynchronous control circuits
+Citations:8
+Authors: L Lavagno, SM Nowick
+Publication: Logic Synthesis and Verification, 255-284
+
+91. OPTIMISTA: State minimization of asynchronous FSMs for optimum output logic
+Citations:8
+Authors: RM Fuhrer, SM Nowick
+Publication: Proceedings of the 1999 IEEE/ACM international conference on Computer-aided …
+
+92. Concurrency-oriented optimization for low-power asynchronous systems
+Citations:8
+Authors: LA Plana, SM Nowick
+Publication: Proceedings of 1996 International Symposium on Low Power Electronics and …
+
+93. Algorithms for the optimal state assignment of asynchronous state machines
+Citations:8
+Authors: RM Fuhrer, B Lin, SM Nowick
+Publication: Proceedings Sixteenth Conference on Advanced Research in VLSI, 59-75
+
+94. A lattice-based framework for the classification and design of asynchronous pipelines
+Citations:7
+Authors: PB McGee, SM Nowick
+Publication: Proceedings of the 42nd annual Design Automation Conference, 491-496
+
+95. Increasing impartiality and robustness in high-performance n-way asynchronous arbiters
+Citations:6
+Authors: G Miorandi, D Bertozzi, SM Nowick
+Publication: 2015 21st IEEE International Symposium on Asynchronous Circuits and Systems …
+
+96. Methods, media, and means for forming asynchronous logic networks
+Citations:6
+Authors: C Jeong, SM Nowick
+Publication: US Patent 7,729,893
+
+97. Balsa-cube: an optimising back-end for the balsa synthesis system
+Citations:6
+Authors: T Chelcea, SM Nowick, A Bardsley, D Edwards
+Publication: 14th UK Async. Forum
+
+98. High-speed asynchronous decoder circuit for variable-length coded data
+Citations:6
+Authors: M Bene, SM Nowick, A Wolfe
+Publication: US Patent 6,408,421
+
+99. Synthesis of low-power asynchronous circuits in a specified environment
+Citations:6
+Authors: SM Nowich, M Theobald
+Publication: Proceedings of 1997 International Symposium on Low Power Electronics and …
+
+100. Synthesis-for-initializability of asynchronous sequential machines
+Citations:6
+Authors: M Singh, SM Nowick
+Publication: Proceedings International Test Conference 1996. Test and Design Validity …
+
+101. A low-latency asynchronous interconnection network with early arbitration resolution
+Citations:5
+Authors: G Faldamis, W Jiang, G Gill, SM Nowick
+Publication: 2014 19th Asia and South Pacific Design Automation Conference (ASP-DAC), 329-336
+
+102. Synthesis for logical initializability of synchronous finite-state machines
+Citations:5
+Authors: M Singh, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 8 (5), 542-557
+
+103. Optimist: State minimization for optimal 2-level logic implementation
+Citations:5
+Authors: RM Fuhrer, SM Nowick
+Publication: Proceedings of the 1997 IEEE/ACM international conference on Computer-aided …
+
+104. Achieving lightweight multicast in asynchronous nocs using a continuous-time multi-way read buffer
+Citations:4
+Authors: K Bhardwaj, W Jiang, SM Nowick
+Publication: 2017 Eleventh IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8
+
+105. Crossbar replication vs. sharing for virtual channel flow control in asynchronous NoCs: A comparative study
+Citations:4
+Authors: G Miorandi, A Ghiribaldi, SM Nowick, D Bertozzi
+Publication: 2014 22nd International Conference on Very Large Scale Integration (VLSI-SoC …
+
+106. A delay-insensitive bus-invert code and hardware support for robust asynchronous global communication
+Citations:4
+Authors: MY Agyekum, SM Nowick
+Publication: 2011 Design, Automation & Test in Europe, 1-6
+
+107. A cycle-based decomposition method for burst-mode asynchronous controllers
+Citations:4
+Authors: MY Agyekum, SM Nowick
+Publication: 13th IEEE International Symposium on Asynchronous Circuits and Systems …
+
+108. Practical advances in asynchronous design
+Citations:4
+Authors: E Brunvand, S Nowick, K Yun
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+109. Accurate Assessment of Bundled-Data Asynchronous NoCs Enabled by a Predictable and Efficient Hierarchical Synthesis Flow
+Citations:3
+Authors: G Miorandi, M Balboni, SM Nowick, D Bertozzi
+Publication: 2017 23rd IEEE International Symposium on Asynchronous Circuits and Systems …
+
+110. Achieving lightweight multicast in asynchronous networks-on-chip using local speculation
+Citations:3
+Authors: K Bhardwaj, SM Nowick
+Publication: 2016 53nd ACM/EDAC/IEEE Design Automation Conference (DAC), 1-6
+
+111. Event-based data acquisition and digital signal processing in continuous time
+Citations:3
+Authors: Y Tsividis, M Kurchuk, P Martinez-Nuevo, S Nowick, S Patil, B Schell, ...
+Publication: Event-Based Control and Signal Processing (M. Miskowicz, Ed.), CRC Press …
+
+112. Asynchronous digital circuits including arbitration and routing primatives for asynchronous and mixed-timing networks
+Citations:3
+Authors: SM Nowick, M Horak, M Carlberg
+Publication: US Patent 8,766,667
+
+113. The design of low-latency interfaces for mixed-timing systems
+Citations:3
+Authors: T Chelcea, SM Nowick
+Publication: IEEE Workshop on Complexity-Effective Design (ISCA)
+
+114. An introduction to asynchronous system design
+Citations:3
+Authors: A Davis, S Nowick
+Publication: Tech. Report.
+
+115. A continuous-time replication strategy for efficient multicast in asynchronous NoCs
+Citations:2
+Authors: K Bhardwaj, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 27 (2), 350-363
+
+116. Cost-Effective and Flexible Asynchronous Interconnect Technology for GALS Networks-on-Chip
+Citations:1
+Authors: D Bertozzi, G Miorandi, M Tala, SM Nowick
+Publication: 2017 New Generation of CAS (NGCAS), 77-80
+
+117. A high-throughput asynchronous multi-resource arbiter using a pipelined assignment approach
+Citations:1
+Authors: W Jiang, SM Nowick
+Publication: 2017 23rd IEEE International Symposium on Asynchronous Circuits and Systems …
+
+118. Increasing reconfigurability with memristive interconnects
+Citations:1
+Authors: J Demme, B Rajendran, SM Nowick, S Sethumadhavan
+Publication: 2015 33rd IEEE International Conference on Computer Design (ICCD), 351-358
+
+119. Robust and energy-efficient asynchronous dynamic pipelines for ultra-low-voltage operation using adaptive keeper control
+Citations:1
+Authors: Y Chen, M Seok, SM Nowick
+Publication: International Symposium on Low Power Electronics and Design (ISLPED), 267-272
+
+120. An Architecture-Oriented Approach to Code Compression for Embedded Processors
+Citations:1
+Authors: CH Li, SM Nowick
+Publication: Data processing 28, 28
+
+121. Introduction to special issue: Asynchrony in system design
+Citations:1
+Authors: M Singh, SM Nowick
+Publication: ACM Journal on Emerging Technologies in Computing Systems (JETC) 7 (4), 14
+
+122. Towards a Complete Methodology for Synthesizing Bundled-Data Asynchronous Circuits on FPGAs
+Citations:
+Authors: K Bhardwaj, P Mantovani, LP Carloni, SM Nowick
+Publication: 2019 IEEE/ACM International Symposium on Low Power Electronics and Design …
+
+123. Improving the Energy Efficiency of Pipelined Delay Lines Through Adaptive Granularity
+Citations:
+Authors: C Vezyrtzis, Y Tsividis, SM Nowick
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 23 (10 …
+
+124. Methods and media for forming a bound network
+Citations:
+Authors: C Jeong, SM Nowick
+Publication: US Patent 7,840,915
+
+125. Arthur Stanley Nowick In Memoriam
+Citations:
+Authors: JS Nowick, SM Nowick
+Publication: MRS BULLETIN 35 (10), 736-737
+
+126. In Memoriam: Arthur Stanley Nowick
+Citations:
+Authors: JS Nowick, SM Nowick
+Publication: MRS bulletin 35 (10), 736-737
+
+127. parently disparate communities interested in GALS design in their own contexts, in order to facilitate exchange of ideas, models, methodologies, and formal methods applicable …
+Citations:
+Authors: L Carloni, M Casu, S Chakraborty, J Cortadella, M van Hulst, H Solutions, ...
+Publication: Electronic Notes in Theoretical Computer Science 245, 1-2
+
+128. Test generation for ultra-high-speed asynchronous pipelines
+Citations:
+Authors: SM Nowick, M Singh
+Publication: IEEE International Conference on Test, 2005., 10 pp.-1018
+
+129. SPECIAL SECTION ON THE INTERNATIONAL WORKSHOP ON LOGIC SYNTHESIS 2002-EDITORIAL-Guest Editorial
+Citations:
+Authors: S Hassoun, SM Nowick, L Stok
+Publication: IEEE Transactions on Computer Aided Design of Integrated Circuits and …
+
+130. OPTIMIST: Optimal State Minimization for Synchronous FSM’s
+Citations:
+Authors: RM Fuhrer, SM Nowick
+Publication: Sequential Optimization of Asynchronous and Synchronous Finite-State …
+
+131. Burst-Mode Synthesis Path Walkthrough
+Citations:
+Authors: RM Fuhrer, SM Nowick
+Publication: Sequential Optimization of Asynchronous and Synchronous Finite-State …
+
+132. MINIMALIST: An Extensible Toolkit and Framework for Asynchronous Burst-Mode Synthesis
+Citations:
+Authors: RM Fuhrer, SM Nowick
+Publication: Sequential Optimization of Asynchronous and Synchronous Finite-State …
+
+133. CHASM: Optimal State Assignment for Asynchronous FSM’s
+Citations:
+Authors: RM Fuhrer, SM Nowick
+Publication: Sequential Optimization of Asynchronous and Synchronous Finite-State …
+
+134. OPTIMISTA: Asynchronous State Minimization for Optimum Output Logic
+Citations:
+Authors: RM Fuhrer, SM Nowick
+Publication: Sequential Optimization of Asynchronous and Synchronous Finite-State …
+
+135. MINIMALIST: An Environment for the Synthesis, Verification and Testability of Burst-Mode Asynchronous Machines Columbia University Computer Science Dept. Tech Report rCUCS-020-99
+Citations:
+Authors: RM Fuhrer, SM Nowick, M Theobald, NК Jha, B Lin, L Plana
+Publication: 
+

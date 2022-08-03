@@ -1,0 +1,1438 @@
+https://scholar.google.com/citations?hl=en&user=BbzYzsgAAAAJ
+Total Citations = 28285
+
+1. The nesC language: A holistic approach to networked embedded systems
+Citations:2609
+Authors: D Gay, P Levis, R Von Behren, M Welsh, E Brewer, D Culler
+Publication: Acm Sigplan Notices 49 (4), 41-51
+
+2. TinyOS: An operating system for sensor networks
+Citations:1934
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: Ambient intelligence, 115-148
+
+3. Towards robust distributed systems
+Citations:1307
+Authors: EA Brewer
+Publication: PODC 7
+
+4. SEDA: an architecture for well-conditioned, scalable internet services
+Citations:1241
+Authors: M Welsh, D Culler, E Brewer
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 230-243
+
+5. A First Step Towards Automated Detection of Buffer Overrun Vulnerabilities.
+Citations:925
+Authors: DA Wagner, JS Foster, EA Brewer, A Aiken
+Publication: NDSS, 2000-02
+
+6. Pinpoint: Problem determination in large, dynamic internet services
+Citations:919
+Authors: MY Chen, E Kiciman, E Fratkin, A Fox, E Brewer
+Publication: Proceedings International Conference on Dependable Systems and Networks, 595-604
+
+7. A secure environment for untrusted helper applications: Confining the wily hacker
+Citations:894
+Authors: I Goldberg, D Wagner, R Thomas, EA Brewer
+Publication: Proceedings of the 6th conference on USENIX Security Symposium, Focusing on …
+
+8. Cluster-based scalable network services
+Citations:813
+Authors: A Fox, SD Gribble, Y Chawathe, EA Brewer, P Gauthier
+Publication: ACM SIGOPS operating systems review 31 (5), 78-91
+
+9. The Emergence of Networking Abstractions and Techniques in TinyOS.
+Citations:587
+Authors: P Levis, S Madden, D Gay, J Polastre, R Szewczyk, A Woo, EA Brewer, ...
+Publication: NSDI 4, 1-1
+
+10. Adapting to network and client variability via on-demand dynamic distillation
+Citations:552
+Authors: A Fox, SD Gribble, EA Brewer, E Amir
+Publication: ACM SIGOPS Operating Systems Review 30 (5), 160-170
+
+11. CAP Twelve years Later: how the
+Citations:513
+Authors: E Brewer
+Publication: Computer, 23-29
+
+12. Adapting to network and client variation using infrastructural proxies: Lessons and perspectives
+Citations:502
+Authors: A Fox, SD Gribble, Y Chawathe, EA Brewer
+Publication: IEEE Personal Communications 5 (4), 10-19
+
+13. Adapting to network and client variation using infrastructural proxies: Lessons and perspectives
+Citations:502
+Authors: A Fox, SD Gribble, Y Chawathe, EA Brewer
+Publication: IEEE Personal Communications 5 (4), 10-19
+
+14. Hood: a neighborhood abstraction for sensor networks
+Citations:438
+Authors: K Whitehouse, C Sharp, E Brewer, D Culler
+Publication: Proceedings of the 2nd international conference on Mobile systems …
+
+15. Proteus: A high-performance parallel-architecture simulator
+Citations:427
+Authors: EA Brewer, CN Dellarocas, A Colbrook, WE Weihl
+Publication: Massachusetts Institute of Technology
+
+16. The case for technology in developing regions
+Citations:417
+Authors: E Brewer, M Demmer, B Du, M Ho, M Kam, S Nedevschi, J Pal, R Patra, ...
+Publication: Computer 38 (6), 25-38
+
+17. Path-based failure and evolution management
+Citations:405
+Authors: YYM Chen, AJ Accardi, E Kiciman, DA Patterson, A Fox, EA Brewer
+Publication: University of California, Berkeley
+
+18. The Ninja architecture for robust Internet-scale systems and services
+Citations:388
+Authors: SD Gribble, M Welsh, R Von Behren, EA Brewer, D Culler, N Borisov, ...
+Publication: Computer Networks 35 (4), 473-497
+
+19. Scattercast: an architecture for internet broadcast distribution as an infrastructure service
+Citations:388
+Authors: YD Chawathe, EA Brewer
+Publication: University of California, Berkeley
+
+20. WiLDNet: Design and Implementation of High Performance WiFi Based Long Distance Networks.
+Citations:363
+Authors: RK Patra, S Nedevschi, S Surana, A Sheth, L Subramanian, EA Brewer
+Publication: NSDI 1 (1), 1
+
+21. Capriccio: scalable threads for internet services
+Citations:358
+Authors: R Von Behren, J Condit, F Zhou, GC Necula, E Brewer
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 268-281
+
+22. Scalable, distributed data structures for internet service construction
+Citations:319
+Authors: SD Gribble, EA Brewer, JM Hellerstein, D Culler
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+23. Reducing WWW latency and bandwidth requirements by real-time distillation
+Citations:319
+Authors: A Fox, EA Brewer
+Publication: Computer Networks and ISDN Systems 28 (7-11), 1445-1456
+
+24. Why Events Are a Bad Idea (for High-Concurrency Servers).
+Citations:317
+Authors: JR Von Behren, J Condit, EA Brewer
+Publication: HotOS, 19-24
+
+25. Why Events Are a Bad Idea (for High-Concurrency Servers).
+Citations:317
+Authors: JR Von Behren, J Condit, EA Brewer
+Publication: HotOS, 19-24
+
+26. Lessons from giant-scale services
+Citations:316
+Authors: EA Brewer
+Publication: IEEE Internet computing 5 (4), 46-55
+
+27. Flexible power scheduling for sensor networks
+Citations:314
+Authors: B Hohlt, L Doherty, E Brewer, E Brewer, E Brewer
+Publication: Proceedings of the 3rd international symposium on Information processing in …
+
+28. Failure diagnosis using decision trees
+Citations:312
+Authors: M Chen, AX Zheng, J Lloyd, MI Jordan, E Brewer
+Publication: International Conference on Autonomic Computing, 2004. Proceedings., 36-43
+
+29. Off-the-record communication, or, why not to use PGP
+Citations:311
+Authors: N Borisov, I Goldberg, E Brewer
+Publication: Proceedings of the 2004 ACM workshop on Privacy in the electronic society, 77-84
+
+30. RMX: Reliable multicast for heterogeneous networks
+Citations:308
+Authors: Y Chawathe, S McCanne, EA Brewer
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+31. System Design Issues for Internet Middleware Services: Deductions from a Large Client Trace.
+Citations:304
+Authors: SD Gribble, EA Brewer
+Publication: USENIX Symposium on Internet Technologies and Systems
+
+32. A network architecture for heterogeneous mobile computing
+Citations:295
+Authors: EA Brewer, RH Katz, Y Chawathe, SD Gribble, T Hodes, G Nguyen, ...
+Publication: IEEE Personal Communications 5 (5), 8-24
+
+33. Privacy-enhancing technologies for the Internet
+Citations:257
+Authors: I Goldberg, D Wagner, E Brewer
+Publication: Proceedings IEEE COMPCON 97. Digest of Papers, 103-109
+
+34. Borg, omega, and kubernetes
+Citations:250
+Authors: B Burns, B Grant, D Oppenheimer, E Brewer, J Wilkes
+Publication: 
+
+35. A tlas: an infrastructure for global computing
+Citations:237
+Authors: JE Baldeschwieler, RD Blumofe, EA Brewer
+Publication: Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems …
+
+36. Harvest, yield, and scalable tolerant systems
+Citations:224
+Authors: A Fox, EA Brewer
+Publication: Proceedings of the Seventh Workshop on Hot Topics in Operating Systems, 174-178
+
+37. Highly available, fault-tolerant, parallel dataflows
+Citations:222
+Authors: MA Shah, JM Hellerstein, E Brewer
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+38. The challenges of technology research for developing regions
+Citations:208
+Authors: E Brewer, M Demmer, M Ho, RJ Honicky, J Pal, M Plauche, S Surana
+Publication: IEEE Pervasive Computing 5 (2), 15-23
+
+39. SafeDrive: Safe and recoverable extensions using language-based techniques
+Citations:206
+Authors: F Zhou, J Condit, Z Anderson, I Bagrak, R Ennals, M Harren, G Necula, ...
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+40. The case for wireless overlay networks
+Citations:200
+Authors: RH Katz, EA Brewer
+Publication: Mobile Computing, 621-650
+
+41. Autolocker: synchronization inference for atomic sections
+Citations:192
+Authors: B McCloskey, F Zhou, D Gay, E Brewer
+Publication: ACM Sigplan Notices 41 (1), 346-358
+
+42. Experience with Top Gun Wingman: a proxy-based graphical web browser for the 3Com PalmPilot
+Citations:189
+Authors: A Fox, I Goldberg, SD Gribble, DC Lee, A Polito, EA Brewer
+Publication: Middleware’98, 407-424
+
+43. The Claremont report on database research
+Citations:177
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: ACM Sigmod Record 37 (3), 9-19
+
+44. N-smarts: networked suite of mobile atmospheric real-time sensors
+Citations:175
+Authors: R Honicky, EA Brewer, E Paulos, R White
+Publication: Proceedings of the second ACM SIGCOMM workshop on Networked systems for …
+
+45. An investigation of documents from the World Wide Web
+Citations:166
+Authors: A Woodruff, PM Aoki, E Brewer, P Gauthier, LA Rowe
+Publication: Computer Networks and ISDN Systems 28 (7-11), 963-980
+
+46. Toward a common infrastructure for multimedia-networking middleware
+Citations:165
+Authors: S McCanne, E Brewer, R Katz, L Rowe, E Amir, Y Chawathe, ...
+Publication: Proceedings of 7th International Workshop on Network and Operating System …
+
+47. The magic router, an application of fast packet interposing
+Citations:161
+Authors: E Anderson
+Publication: http://www. cs. berkeley. edu/eanders/projects/magicrouter/
+
+48. Value-based web caching
+Citations:160
+Authors: SC Rhea, K Liang, E Brewer
+Publication: Proceedings of the 12th international conference on World Wide Web, 619-628
+
+49. Beyond Pilots: Keeping Rural Wireless Networks Alive.
+Citations:157
+Authors: S Surana, RK Patra, S Nedevschi, M Ramos, L Subramanian, ...
+Publication: NSDI 8, 119-132
+
+50. Self-similarity in file systems
+Citations:157
+Authors: SD Gribble, GS Manku, D Roselli, EA Brewer, TJ Gibson, EL Miller
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 141-150
+
+51. nesC 1.1 language reference manual
+Citations:154
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: May
+
+52. A pseudonymous communications infrastructure for the internet
+Citations:152
+Authors: IA Goldberg, E Brewer
+Publication: University of California, Berkeley
+
+53. Construction of hierarchical networks through extension
+Citations:152
+Authors: EA Brewer, FT Chong
+Publication: US Patent 5,519,694
+
+54. The bay area research wireless access network (barwan)
+Citations:150
+Authors: RH Katz, EA Brewer, E Amir, H Balakrishnan, A Fox, S Gribble, T Hodes, ...
+Publication: COMPCON'96. Technologies for the Information Superhighway Digest of Papers …
+
+55. Packet loss characterization in WiFi-based long distance networks
+Citations:136
+Authors: A Sheth, S Nedevschi, R Patra, S Surana, E Brewer, L Subramanian
+Publication: IEEE INFOCOM 2007-26th IEEE International Conference on Computer …
+
+56. High-level optimization via automated statistical modeling
+Citations:135
+Authors: EA Brewer
+Publication: ACM SIGPLAN Notices 30 (8), 80-91
+
+57. An architecture for internet content distribution as an infrastructure service
+Citations:123
+Authors: Y Chawathe, S McCanne, E Brewer
+Publication: Unpublished, available at http://www. cs. berkeley. edu/yatin/papers
+
+58. The MultiSpace: An Evolutionary Platform for Infrastructural Services.
+Citations:121
+Authors: SD Gribble, M Welsh, EA Brewer, DE Culler
+Publication: USENIX Annual Technical Conference, General Track, 157-170
+
+59. Pushing the cap: Strategies for consistency and availability
+Citations:120
+Authors: E Brewer
+Publication: Computer 45 (2), 23-29
+
+60. A proxy architecture for reliable multicast in heterogeneous environments
+Citations:113
+Authors: Y Chawathe, SA Fink, S McCanne, EA Brewer
+Publication: Proceedings of the sixth ACM international conference on Multimedia, 151-159
+
+61. Intel Mash Maker: join the web
+Citations:106
+Authors: R Ennals, E Brewer, M Garofalakis, M Shadle, P Gandhi
+Publication: ACM SIGMOD Record 36 (4), 27-33
+
+62. The Claremont report on database research
+Citations:105
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: Communications of the ACM 52 (6), 56-65
+
+63. Rethinking wireless for the developing world
+Citations:105
+Authors: L Subramanian, S Surana, R Patra, S Nedevschi, M Ho, E Brewer, ...
+Publication: IRVINE IS BURNING, 43-48
+
+64. How to get good performance from the CM-5 data network
+Citations:104
+Authors: EA Brewer, BC Kuszmaul
+Publication: Proceedings of 8th International Parallel Processing Symposium, 858-867
+
+65. The Ninja architecture for robust Internet-scale systems and services
+Citations:102
+Authors: SD Gribble, M Welsh, R Von Behren, E Brewer, D Culler, N Borisov, ...
+Publication: Computer Networks 35
+
+66. Remote queues: Exposing message queues for optimization and atomicity
+Citations:102
+Authors: EA Brewer, FT Chong, LT Liu, SD Sharma, JD Kubiatowicz
+Publication: SPAA 95, 42-53
+
+67. Deploying a rural wireless telemedicine system: Experiences in sustainability
+Citations:96
+Authors: S Surana, R Patra, S Nedevschi, E Brewer
+Publication: Computer 41 (6), 48-56
+
+68. A low-power, lightweight unit to provide ubiquitous information access application and network support for InfoPad
+Citations:96
+Authors: S Narayanaswamy, S Seshan, E Amir, E Brewer, RW Brodersen, ...
+Publication: IEEE personal Communications 3 (2), 4-17
+
+69. The emergence of a networking primitive in wireless sensor networks
+Citations:93
+Authors: P Levis, E Brewer, D Culler, D Gay, S Madden, N Patel, J Polastre, ...
+Publication: Communications of the ACM 51 (7), 99-106
+
+70. Stasis: flexible transactional storage
+Citations:90
+Authors: R Sears, E Brewer, E Brewer, E Brewer
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+71. A design framework for highly concurrent systems
+Citations:81
+Authors: M Welsh, SD Gribble, EA Brewer, D Culler
+Publication: University of California at Berkeley, Berkeley, CA
+
+72. Fault-tolerant, scalable, wide-area internet service composition
+Citations:80
+Authors: ZM Mao, EA Brewer, RH Katz
+Publication: Computer Science Division, University of California
+
+73. A certain freedom: thoughts on the CAP theorem
+Citations:76
+Authors: E Brewer
+Publication: Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of …
+
+74. Hardware speech recognition for user interfaces in low cost, low power devices
+Citations:73
+Authors: S Nedevschi, RK Patra, EA Brewer
+Publication: Proceedings. 42nd Design Automation Conference, 2005., 684-689
+
+75. TierStore: A Distributed Filesystem for Challenged Networks in Developing Regions.
+Citations:72
+Authors: MJ Demmer, B Du, EA Brewer
+Publication: FAST 8, 1-14
+
+76. Analysis of WWW traffic in Cambodia and Ghana
+Citations:72
+Authors: B Du, M Demmer, E Brewer
+Publication: Proceedings of the 15th international conference on World Wide Web, 771-780
+
+77. SharC: Checking data sharing strategies for multithreaded C
+Citations:71
+Authors: Z Anderson, D Gay, R Ennals, E Brewer
+Publication: ACM SIGPLAN Notices 43 (6), 149-158
+
+78. ASTEC: a new approach to refactoring C
+Citations:71
+Authors: B McCloskey, E Brewer
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 21-30
+
+79. Kubernetes and the path to cloud native
+Citations:70
+Authors: EA Brewer
+Publication: Proceedings of the sixth ACM symposium on cloud computing, 167-167
+
+80. Electrification for “under grid” households in rural Kenya
+Citations:67
+Authors: K Lee, E Brewer, C Christiano, F Meyo, E Miguel, M Podolsky, J Rosa, ...
+Publication: Development Engineering 1, 26-35
+
+81. The Ninja Jukebox.
+Citations:63
+Authors: I Goldberg, SD Gribble, DA Wagner, EA Brewer
+Publication: USENIX Symposium on Internet Technologies and Systems
+
+82. The case for multi-user design for computer aided learning in developing regions
+Citations:61
+Authors: J Pal, US Pawar, EA Brewer, K Toyama
+Publication: Proceedings of the 15th international conference on World Wide Web, 781-789
+
+83. nesC 1.2 language reference manual
+Citations:61
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: Techn. Ber. Aug
+
+84. SMS-based web search for low-end mobile devices
+Citations:60
+Authors: J Chen, L Subramanian, E Brewer
+Publication: Proceedings of the sixteenth annual international conference on Mobile …
+
+85. Multiprocessor runtime support for fine-grained, irregular DAGs
+Citations:58
+Authors: FT Chong, SD Sharma, EA Brewer, J Saltz
+Publication: Parallel Processing Letters 5 (04), 671-683
+
+86. Ambient Intelligence
+Citations:57
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: TinyOS: an operating system for sensor networks ambient intelligence, 115-148
+
+87. Local, sustainable, small-scale cellular networks
+Citations:56
+Authors: K Heimerl, S Hasan, K Ali, E Brewer, T Parikh
+Publication: Proceedings of the Sixth International Conference on Information and …
+
+88. An adaptive, high performance mac for long-distance multihop wireless networks
+Citations:56
+Authors: S Nedevschi, RK Patra, S Surana, S Ratnasamy, L Subramanian, ...
+Publication: Proceedings of the 14th ACM international conference on Mobile computing and …
+
+89. Improving per-node efficiency in the datacenter with new OS abstractions
+Citations:54
+Authors: B Rhoden, K Klues, D Zhu, E Brewer
+Publication: Proceedings of the 2nd ACM Symposium on Cloud Computing, 25
+
+90. The village base station
+Citations:54
+Authors: K Heimerl, E Brewer
+Publication: Proceedings of the 4th ACM Workshop on Networked Systems for Developing …
+
+91. Rose: Compressed, log-structured replication
+Citations:52
+Authors: R Sears, M Callaghan, E Brewer
+Publication: Proceedings of the VLDB Endowment 1 (1), 526-537
+
+92. How computer science serves the developing world
+Citations:51
+Authors: MB Dias, E Brewer
+Publication: Communications of the ACM 52 (6), 74-80
+
+93. A composable framework for secure multi-modal access to Internet services from post-PC devices
+Citations:48
+Authors: SJ Ross, JL Hill, MY Chen, AD Joseph, DE Culler, EA Brewer
+Publication: Mobile Networks and Applications 7 (5), 389-406
+
+94. PaperSpeckle: microscopic fingerprinting of paper
+Citations:47
+Authors: A Sharma, L Subramanian, EA Brewer
+Publication: Proceedings of the 18th ACM conference on Computer and communications …
+
+95. Scalable DC microgrids for rural electrification in emerging regions
+Citations:46
+Authors: PA Madduri, J Poon, J Rosa, M Podolsky, EA Brewer, SR Sanders
+Publication: IEEE Journal of Emerging and Selected Topics in Power Electronics 4 (4 …
+
+96. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+97. Portable high-performance superconducting: high-level platform-dependent optimization
+Citations:46
+Authors: EA Brewer
+Publication: Massachusetts Institute of Technology
+
+98. Ninja: A Framework for Network Services.
+Citations:44
+Authors: JR von Behren, EA Brewer, N Borisov, M Chen, M Welsh, J MacDonald, ...
+Publication: USENIX Annual Technical Conference, General Track, 87-102
+
+99. Anonymous routing in structured peer-to-peer overlays
+Citations:43
+Authors: N Borissov, EA Brewer
+Publication: University of California, Berkeley
+
+100. System support for scalable and fault tolerant internet services
+Citations:43
+Authors: Y Chawathe, EA Brewer
+Publication: Distributed Systems Engineering 6 (1), 23
+
+101. Interference Avoidance and Control.
+Citations:42
+Authors: R Gummadi, RK Patra, H Balakrishnan, EA Brewer
+Publication: HotNets, 13-18
+
+102. Processes and resource management in a scalable many-core OS
+Citations:40
+Authors: K Klues, B Rhoden, Y Zhu, A Waterman, E Brewer
+Publication: HotPar10, Berkeley, CA
+
+103. Using Runtime Paths for Macroanalysis.
+Citations:40
+Authors: MY Chen, E Kiciman, AJ Accardi, A Fox, EA Brewer
+Publication: HotOS, 79-84
+
+104. Combining systems and databases: A search engine retrospective
+Citations:38
+Authors: EA Brewer
+Publication: Readings in Database Systems 4, 247-261
+
+105. The Bay Area Research Wireless Access Network: Towards a Wireless Overlay Internetworking Architecture
+Citations:37
+Authors: RH Katz, EA Brewer
+Publication: Computer Science Division, EECS Department, UC Berkeley
+
+106. Network power scheduling for TinyOS applications
+Citations:36
+Authors: B Hohlt, E Brewer
+Publication: International Conference on Distributed Computing in Sensor Systems, 443-462
+
+107. Prelude: A system for portable parallel software
+Citations:36
+Authors: W Weihl, E Brewer, A Colbrook, C Dellarocas, W Hsieh, A Joseph, ...
+Publication: International Conference on Parallel Architectures and Languages Europe, 971-972
+
+108. Barriers to electrification for" under grid" households in rural kenya
+Citations:35
+Authors: K Lee, E Brewer, C Christiano, F Meyo, E Miguel, M Podolsky, J Rosa, ...
+Publication: National Bureau of Economic Research
+
+109. GSM whitespaces: An opportunity for rural cellular service
+Citations:34
+Authors: S Hasan, K Heimerl, K Harrison, K Ali, S Roberts, A Sahai, E Brewer
+Publication: 2014 IEEE International Symposium on Dynamic Spectrum Access Networks …
+
+110. Disks for data centers
+Citations:33
+Authors: E Brewer, L Ying, L Greenfield, R Cypher, T T'so
+Publication: 
+
+111. Simplifying fault diagnosis in locally managed rural WiFi networks
+Citations:33
+Authors: S Surana, R Patra, E Brewer
+Publication: Proceedings of the 2007 workshop on Networked systems for developing regions, 1
+
+112. Potential of CDMA450 for rural network connectivity
+Citations:33
+Authors: S Nedevschi, S Surana, B Du, R Patra, E Brewer, V Stan, Z Telemobil
+Publication: IEEE Communications Magazine 45 (1), 128-135
+
+113. Ninjamail: the design of a high-performance clustered, distributed e-mail system
+Citations:33
+Authors: JR Von Behren, S Czerwinski, AD Joseph, EA Brewer, J Kubiatowicz
+Publication: Proceedings 2000. International Workshop on Parallel Processing, 151-158
+
+114. Design and verification of smart and scalable DC microgrids for emerging regions
+Citations:32
+Authors: PA Madduri, J Rosa, SR Sanders, EA Brewer, M Podolsky
+Publication: 2013 IEEE Energy Conversion Congress and Exposition, 73-79
+
+115. Dtwiki: a disconnection and intermittency tolerant wiki
+Citations:32
+Authors: B Du, EA Brewer
+Publication: Proceedings of the 17th international conference on World Wide Web, 945-952
+
+116. Expanding rural cellular networks with virtual coverage
+Citations:30
+Authors: K Heimerl, K Ali, J Blumenstock, B Gawalt, E Brewer
+Publication: 10th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+117. JaldiMAC: taking the distance further
+Citations:30
+Authors: Y Ben-David, M Vallentin, S Fowler, E Brewer
+Publication: Proceedings of the 4th ACM workshop on networked systems for developing …
+
+118. Tython: a dynamic simulation environment for sensor networks
+Citations:28
+Authors: M Demmer, P Levis, A Joki, E Brewer, D Culler
+Publication: EECS Department, UCBerkeley, Tech. Rep. UCB/CSD-05-1372
+
+119. When everything is searchable
+Citations:27
+Authors: EA Brewer
+Publication: Communications of the ACM 44 (3), 53-54
+
+120. Developing parallel applications using high-performance simulation
+Citations:27
+Authors: EA Brewer, WE Weihl
+Publication: Workshop on Parallel and Distributed Debugging, 158-168
+
+121. AMP: Program Context Specific Buffer Caching.
+Citations:26
+Authors: F Zhou, JR von Behren, EA Brewer
+Publication: USENIX Annual Technical Conference, General Track, 371-374
+
+122. Computing security in the developing world: A case for multidisciplinary research
+Citations:25
+Authors: Y Ben-David, S Hasan, J Pal, M Vallentin, S Panjwani, P Gutheim, J Chen, ...
+Publication: Proceedings of the 5th ACM workshop on Networked systems for developing …
+
+123. An Algorithm for Concurrent Search Trees.
+Citations:24
+Authors: A Colbrook, EA Brewer, C Dellarocas, WE Weihl
+Publication: ICPP (3), 138-141
+
+124. Analysis of smartphone adoption and usage in a rural community cellular network
+Citations:23
+Authors: K Heimerl, A Menon, S Hasan, K Ali, E Brewer, T Parikh
+Publication: Proceedings of the Seventh International Conference on Information and …
+
+125. Thirty Years Is Long Enough: Getting Beyond C.
+Citations:23
+Authors: EA Brewer, J Condit, B McCloskey, F Zhou
+Publication: HotOS
+
+126. Orthogonal extensions to the WWW user interface using client-side technologies
+Citations:23
+Authors: A Fox, SD Gribble, Y Chawathe, AS Polito, A Huang, B Ling, EA Brewer
+Publication: Symposium on User Interface Software and Technology: Proceedings of the 10 …
+
+127. Message phone: A user study and analysis of asynchronous messaging in rural uganda
+Citations:22
+Authors: K Heimerl, RJ Honicky, E Brewer, T Parikh
+Publication: SOSP Workshop on Networked Systems for Developing Regions (NSDR), 15-18
+
+128. Safe manual memory management
+Citations:20
+Authors: D Gay, R Ennals, E Brewer
+Publication: Proceedings of the 6th international symposium on Memory management, 2-14
+
+129. SEDA: an architecture for highly concurrent server applications
+Citations:20
+Authors: M Welsh, D Culler, E Brewer
+Publication: ACM SIGOPS European Workshop 35 (5), 230-243
+
+130. Spanner, truetime and the cap theorem
+Citations:19
+Authors: E Brewer
+Publication: 
+
+131. Active Certificates: A Framework for Delegation.
+Citations:19
+Authors: N Borisov, EA Brewer
+Publication: NDSS
+
+132. Aspects of a parallel-architecture simulator
+Citations:19
+Authors: EA Brewer
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+133. Aspects of a parallel-architecture simulator
+Citations:19
+Authors: EA Brewer
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+134. A scalable dc microgrid architecture for rural electrification in emerging regions
+Citations:18
+Authors: PA Madduri, J Poon, J Rosa, M Podolsky, E Brewer, S Sanders
+Publication: 2015 IEEE Applied Power Electronics Conference and Exposition (APEC), 703-708
+
+135. Optimal scheduling and power control for TDMA based point to multipoint wireless networks
+Citations:18
+Authors: R Patra, S Surana, S Nedevschi, E Brewer
+Publication: Proceedings of the second ACM SIGCOMM workshop on Networked systems for …
+
+136. The Consumer Side of Search-Introduction
+Citations:18
+Authors: EA Brewer
+Publication: Communications of the ACM-Association for Computing Machinery-CACM 45 (9), 40-41
+
+137. A design framework and a scalable storage platform to simplify internet service construction
+Citations:18
+Authors: SD Gribble, EA Brewer
+Publication: University of California, Berkeley
+
+138. Extensible cluster-based scalable network services
+Citations:18
+Authors: A Fox, SD Gribble, Y Chawathe, EA Brewer, P Gauthier
+Publication: 
+
+139. Enhancing rural connectivity with software defined networks
+Citations:17
+Authors: S Hasan, Y Ben-David, C Scott, E Brewer, S Shenker
+Publication: Proceedings of the 3rd ACM Symposium on Computing for Development, 49
+
+140. Technology insights for rural connectivity
+Citations:17
+Authors: E Brewer
+Publication: Wireless Communication and Development: A Global Perspective
+
+141. A Message Oriented Phone System for Low Cost Connectivity.
+Citations:16
+Authors: RJ Honicky, EA Brewer, O Bakr, MJ Demmer
+Publication: HotNets
+
+142. A multidisciplinary approach to open access village telecenter initiatives: the case of akshaya
+Citations:16
+Authors: J Pal, S Nedevschi, RK Patra, EA Brewer
+Publication: E-Learning and Digital Media 3 (3), 291-316
+
+143. A multidisciplinary approach to open access village telecenter initiatives: the case of akshaya
+Citations:16
+Authors: J Pal, S Nedevschi, RK Patra, EA Brewer
+Publication: E-Learning and Digital Media 3 (3), 291-316
+
+144. A multidisciplinary approach to open access village telecenter initiatives: the case of akshaya
+Citations:16
+Authors: J Pal, S Nedevschi, RK Patra, EA Brewer
+Publication: E-Learning and Digital Media 3 (3), 291-316
+
+145. nesC Language Reference Manual
+Citations:16
+Authors: D Gay, P Levis, D Culler, E Brewer
+Publication: September
+
+146. Proteus: user documentation, version 0.5
+Citations:15
+Authors: EA Brewer, CN Dellarocas
+Publication: 
+
+147. Reducing latency in Tor circuits with unordered delivery
+Citations:14
+Authors: MF Nowlan, DI Wolinsky, B Ford
+Publication: Presented as part of the 3rd {USENIX} Workshop on Free and Open …
+
+148. The long-term viability of large-scale caching
+Citations:14
+Authors: EA Brewer, P Gauthier, D McEvoy
+Publication: 3rd International WWW Caching Workshop
+
+149. Scalable network services
+Citations:14
+Authors: A Fox, SD Gribble, Y Chawathe, E Brewer
+Publication: Proceedings of the 16th ACM Symposium on Operating Systems Principles (SOSP-16)
+
+150. Programming the Internet from the Server-Side with Tcl and Audience1.
+Citations:14
+Authors: A Sah, K Brown, EA Brewer
+Publication: Tcl/Tk Workshop 96, 10-13
+
+151. Method, system, and computer-accessible medium for authentication of paper using a speckle pattern
+Citations:13
+Authors: A Sharma, L Subramanian, EA Brewer
+Publication: US Patent 8,781,153
+
+152. Metamouse: Improving multi-user sharing of existing educational applications
+Citations:13
+Authors: K Heimerl, J Vasudev, KG Buchanan, T Parikh, E Brewer
+Publication: Proceedings of the 4th ACM/IEEE International Conference on Information and …
+
+153. Design of wireless portable systems
+Citations:13
+Authors: E Brewer, T Burd, F Burghardt, A Burstein, R Doering, K Lutz, ...
+Publication: Digest of Papers. COMPCON'95. Technologies for the Information Superhighway …
+
+154. Scalable expanders: exploiting hierarchical random wiring
+Citations:13
+Authors: EA Brewer, FT Chong, T Leighton
+Publication: Annual ACM Symposium on Theory of Computing: Proceedings of the twenty-sixth …
+
+155. A longitudinal study of local, sustainable, small-scale cellular networks
+Citations:12
+Authors: K Heimerl, S Hasan, K Ali, T Parikh, E Brewer
+Publication: Information Technologies & International Development 11 (1), pp. 1-19
+
+156. Method and appartus for providing a high level mobile virtual machine
+Citations:11
+Authors: KK Kuusilinna, RE Honicky, E Brewer
+Publication: US Patent App. 12/713,748
+
+157. Internet technology
+Citations:11
+Authors: D Milojicic
+Publication: IEEE Concurrency, 70-81
+
+158. Delivering high availability for Inktomi search engines
+Citations:11
+Authors: EA Brewer
+Publication: ACM SIGMOD Record 27 (2), 538
+
+159. PRELUDE: A SYSTEM FOR PORTABLE PARALL
+Citations:11
+Authors: W Weihl, E Brewer, A Colbrook, C Dellarocas, W Hsieh, A Joseph, ...
+Publication: Massachusetts Institute of Technology
+
+160. Systems, methods and computer-accessible mediums for authentication and verification of physical objects
+Citations:10
+Authors: A Sharma, L Subramanian, E Brewer
+Publication: US Patent App. 14/005,643
+
+161. An experiment in reducing cellular base station power draw with virtual coverage
+Citations:10
+Authors: K Heimerl, S Hasan, K Ali, T Parikh, E Brewer
+Publication: Proceedings of the 4th Annual Symposium on Computing for Development, 6
+
+162. Rangzen: Circumventing government-imposed communication blackouts
+Citations:10
+Authors: G Fanti, YB David, S Benthall, E Brewer, S Shenker
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2013-128
+
+163. Building dissent networks: Towards effective countermeasures against large-scale communications blackouts
+Citations:10
+Authors: S Hasan, Y Ben-David, G Fanti, E Brewer, S Shenker
+Publication: Presented as part of the 3rd {USENIX} Workshop on Free and Open …
+
+164. Secure rural supply chain management using low cost paper watermarking
+Citations:10
+Authors: A Sharma, L Subramanian, EA Brewer
+Publication: Proceedings of the second ACM SIGCOMM workshop on Networked systems for …
+
+165. OF SEARCH
+Citations:10
+Authors: EA BREWER
+Publication: COMMUNICATIONS OF THE ACM 45 (9), 41
+
+166. Multiprocessor Runtime Support for Fine-Grained Irregular DAGs
+Citations:10
+Authors: FT Chong, SD Sharma, EA Brewer, J Saltz
+Publication: Submitted for publication
+
+167. Segment-based recovery: write-ahead logging revisited
+Citations:9
+Authors: R Sears, E Brewer
+Publication: Proceedings of the VLDB Endowment 2 (1), 490-501
+
+168. Beyond Bug-Finding: Sound Program Analysis for Linux.
+Citations:9
+Authors: ZR Anderson, EA Brewer, J Condit, R Ennals, D Gay, M Harren, ...
+Publication: HotOS
+
+169. A proposed integrated data collection, analysis and sharing platform for impact evaluation
+Citations:8
+Authors: A Kipf, W Brunette, J Kellerstrass, M Podolsky, J Rosa, M Sundt, D Wilson, ...
+Publication: Development Engineering 1, 36-44
+
+170. The evolving braid: how an organization in Uganda achieved reliable communications
+Citations:8
+Authors: M Densmore, B Bellows, J Chuang, E Brewer
+Publication: Proceedings of the Sixth International Conference on Information and …
+
+171. The cilk project
+Citations:8
+Authors: M Frigo, H Prokop, M Frigo, C Leiserson, H Prokop, S Ramachandran, ...
+Publication: Algorithms, 8
+
+172. Parallel software architecture for experimental workflows in computational biology on clouds
+Citations:7
+Authors: L Hodgkinson, J Rosa, EA Brewer
+Publication: International Conference on Parallel Processing and Applied Mathematics, 281-291
+
+173. An online evolutionary approach to developing Internet services
+Citations:7
+Authors: MY Chen, E Kiciman, E Brewer
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 161-164
+
+174. Enabling Rural Connectivity with SDN
+Citations:6
+Authors: S Hasan, YB David, RC Scott, E Brewer, S Shenker
+Publication: Technical Report UCB/EECS-2012–201, University of California at Berkeley
+
+175. Microscopic paper fingerprinting
+Citations:6
+Authors: A Sharma, L Subramanian, EA Brewer
+Publication: SPIE Newsroom
+
+176. Metamouse: Multiple mice for legacy applications
+Citations:6
+Authors: K Heimerl, D Ramachandran, J Pal, E Brewer, T Parikh
+Publication: CHI'09 Extended Abstracts on Human Factors in Computing Systems, 3853-3858
+
+177. Tierstore: A distributed storage system for developing regions
+Citations:6
+Authors: M Demmer, B Du, E Brewer
+Publication: FAST
+
+178. Building a better butterfly: the multiplexed metabutterfly
+Citations:6
+Authors: FT Chong, EA Brewer, FT Leighton, TF Knight
+Publication: Proceedings of the International Symposium on Parallel Architectures …
+
+179. Preventing recursion deadlock in concurrent object-oriented systems
+Citations:6
+Authors: EA Brewer, CA Waldspurger
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+180. A security architecture for the post-PC world
+Citations:6
+Authors: S Ross, J Hill, MY Chen, AD Joseph, DE Culler, EA Brewer
+Publication: 
+
+181. Towards building a community cellular network in the Philippines: Initial site survey observations
+Citations:5
+Authors: MC Barela, MS Blanco, P Martinez, MC Purisima, K Heimerl, M Podolsky, ...
+Publication: Proceedings of the Eighth International Conference on Information and …
+
+182. Increasing the precision of mobile sensing systems through super-sampling
+Citations:5
+Authors: R Honicky, EA Brewer, JF Canny, RC Cohen
+Publication: UrbanSense08, 31
+
+183. The design and evaluation of network power scheduling for sensor networks
+Citations:5
+Authors: BA Hohlt
+Publication: University of California, Berkeley
+
+184. Active connection management in internet services
+Citations:5
+Authors: MY Chen, E Brewer
+Publication: NOMS 2002. IEEE/IFIP Network Operations and Management Symposium.'Management …
+
+185. Algorithms for search trees on message passing architectures
+Citations:5
+Authors: A Colbrook, EA Brewer, CN Dellarocas, WE Weihl
+Publication: IEEE transactions on parallel and distributed systems 7 (2), 97-108
+
+186. Enabling micro-level demand-side grid flexiblity in resource constrained environments
+Citations:4
+Authors: DP de Leon Barido, S Suffian, J Rosa, E Brewer, DM Kammen
+Publication: 2017 IEEE/ACM Second International Conference on Internet-of-Things Design …
+
+187. A case study on designing interfaces for multiple users in developing regions
+Citations:4
+Authors: K Heimerl, J Vasudev, KG Buchanan, T Parikh, E Brewer
+Publication: Proceedings of the First ACM Symposium on Computing for Development, 9
+
+188. Ros: A scalable operating system for parallel applications on many-core architectures
+Citations:4
+Authors: B Rhoden, K Klues, A Waterman, D Zhu, E Brewer
+Publication: In OSDI 10: Under Submission to the 9th USENIX conference on Operating …
+
+189. A radio multiplexing architecture for high throughput point to multipoint wireless networks
+Citations:4
+Authors: R Gummadi, R Patra, S Nedevschi, S Surana, E Brewer
+Publication: Proceedings of the 2008 ACM workshop on Wireless networks and systems for …
+
+190. Program context specific buffer caching with AMP
+Citations:4
+Authors: F Zhou, R von Behren, EA Brewer
+Publication: Computer Science Division, University of California
+
+191. Scalable cluster-based network services
+Citations:4
+Authors: A Fox, S Gribble, Y Chawathe, E Brewer, P Gauthier
+Publication: Proceedings of the 16th ACM Symposium on Operating Systems Principles
+
+192. The Inktomi Search Engine
+Citations:4
+Authors: E Brewer, P Gauthier
+Publication: 
+
+193. Algorithms for Search Trees on Message-Passing Architectures
+Citations:4
+Authors: A Colbrook, EA Brewer, CN Dellarocas, WE Weihl
+Publication: Massachusetts Institute of Technology. Laboratory for Computer Science
+
+194. Scaling Community Cellular Networks with CommunityCellularManager
+Citations:3
+Authors: S Hasan, MC Barela, M Johnson, E Brewer, K Heimerl
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+195. CS262A Midterm Solutions
+Citations:3
+Authors: EA Brewer
+Publication: 
+
+196. Distributed Computing in Sensor Systems
+Citations:3
+Authors: PB Gibbons, TF Abdelzaher, J Aspnes, R Rao
+Publication: Second IEEE International Conference, DCOSS, 18-20
+
+197. Twinkle: Network power scheduling in sensor networks
+Citations:3
+Authors: BA Hohlt, EA Brewer
+Publication: Computer Science Division, University of California
+
+198. Path-based macroanalysis for large, distributed systems
+Citations:3
+Authors: M Chen, A Accardi, E Kiciman, D Patterson, A Fox, E Brewer
+Publication: First Symposium on Networked Systems Design and Implementation
+
+199. MASH: Enabling scalable multipoint collaboration
+Citations:3
+Authors: S McCanne, E Brewer, R Katz, E Amir, Y Chawathe, T Hodes, ...
+Publication: ACM Computing Surveys (CSUR) 31 (2es), 2
+
+200. An investigation of documents for the world wide web
+Citations:3
+Authors: P Aoki, A Woodruff, E Brewer, P Gauthier, L Rowe
+Publication: Proc. of the Fifth World Wide Web Conference
+
+201. GSM timeslot detection and switching for power amplifier duty cycling in community cellular networks
+Citations:2
+Authors: A Vidal, MC Purisima, MT Perez, CA Festin, M Podolsky, E Brewer
+Publication: 2017 International Conference on Computer, Information and Telecommunication …
+
+202. TIER: Technology and Infrastructure for Emerging Regions
+Citations:2
+Authors: EA Brewer
+Publication: 
+
+203. A Multidisciplinary Approach to Open Access Village Telecenter Initiatives: the case of Akshaya
+Citations:2
+Authors: RK PATRA, J PAL, S NEDEVSCHI, EA BREWER
+Publication: E-Learning and Digital Media 3 (3), 291-316
+
+204. SEDA: An Architecture for Scalable, Well-Conditioned Internet Services
+Citations:2
+Authors: M Welsh, D Culler, E Brewer
+Publication: Proceedings of the 18th Symposium on Operating Systems Principles (SOSP-18 …
+
+205. The Case for Wireless Overlay Networks Ch. 23 in Mobile Computing
+Citations:2
+Authors: R Katz, E Brewer
+Publication: Kluwer Academic Publishers
+
+206. Packaging and multiplexing of hierarchical scalable expanders
+Citations:2
+Authors: FT Chong, EA Brewer, FT Leighton, TF Knight
+Publication: International Workshop on Parallel Computer Routing and Communication, 200-214
+
+207. Pipes: Linguistic Support for Ordered Asynchronous Invocations
+Citations:2
+Authors: A Colbrook, EA Brewer, WC Hsieh, P Wang, WE Weihl
+Publication: Massachusetts Institute of Technology
+
+208. Lottery Scheduling
+Citations:2
+Authors: E Brewer
+Publication: Advanced Topics in Computer Systems, www. cs. berkeley. edu/~ brewer/cs262 …
+
+209. Kubernetes and the New Cloud
+Citations:1
+Authors: E Brewer
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1-1
+
+210. Spinning disks and their cloudy future
+Citations:1
+Authors: E Brewer
+Publication: 
+
+211. How Computer Science Serves the Developing World
+Citations:1
+Authors: M BERNARDINE DIAS, E BREWER
+Publication: Communications of the ACM 52 (6), 74-80
+
+212. TierStore: a distributed file system for challenged network in developing regions
+Citations:1
+Authors: M Demmer, B Du, E Brewer
+Publication: ; login:: the magazine of USENIX & SAGE 33 (3), 32-38
+
+213. WiLDNet: Design and implementation of high-performance wifi-based long distance wireless networks
+Citations:1
+Authors: RK Patra, S Nedevschi, S Surana, A Sheth, L Subramanian, E Brewer
+Publication: ACM/USENIX Symposium on Networked Systems Design and Implementation (NSDI)
+
+214. Jibwaa-ozhibii'igewin
+Citations:1
+Authors: D Treuer
+Publication: American Indian Quarterly 30 (1/2), 3
+
+215. Strata: A multi-layer communications library, version 2.0 beta
+Citations:1
+Authors: EA Brewer, R Blumofe
+Publication: February
+
+216. Adaptive routing for fault tolerance and performance
+Citations:1
+Authors: EA Brewer
+Publication: Area Exam, Massachusetts Institute of Technology
+
+217. Portable software for multiprocessor systems
+Citations:1
+Authors: A Colbrook, WE Weihl, EA Brewer, CN Dellarocas, WC Hsieh, AD Joseph, ...
+Publication: Computing & Control Engineering Journal 3 (6), 275-281
+
+218. TIER Solar Controller
+Citations:1
+Authors: M Ramos, E Brewer
+Publication: 
+
+219. Locally Owned, Sustainable, Small-Scale Cellular Networks
+Citations:1
+Authors: K Heimerl, S Hasan, K Ali, J Nerenberg, E Brewer, T Parikh
+Publication: Proceedings of the Sixth International Conference on Information and …
+
+220. Review and Perspectives on Data Sharing and Privacy in Expanding Electricity Access
+Citations:
+Authors: JT Lee, J Freitas, IL Ferrall, DM Kammen, E Brewer, DS Callaway
+Publication: Proceedings of the IEEE 107 (9), 1803-1819
+
+221. Systems, method and computer-accessible mediums for providing secure paper transactions using paper fiber identifiers
+Citations:
+Authors: A Sharma, L Subramanian, E Brewer
+Publication: US Patent 9,727,911
+
+222. Spanner, TrueTime 和 CAP 理论
+Citations:
+Authors: E Brewer
+Publication: 
+
+223. MDB: A Metadata Tracking Microcontroller Micro-Database
+Citations:
+Authors: MT Gibson, J Rosa, EA Brewer
+Publication: Proceedings of the 7th Annual Symposium on Computing for Development, 36
+
+224. Development Engineering
+Citations:
+Authors: A Kipf, W Brunette, J Kellerstrass, M Podolsky, J Rosa, M Sundt, D Wilson, ...
+Publication: 
+
+225. Development Engineering
+Citations:
+Authors: K Lee, E Brewer, C Christiano, F Meyo, E Miguel, M Podolsky, J Rosa, ...
+Publication: 
+
+226. Experience With Top Gun Wingman: A Proxy-Based Graphical Web
+Citations:
+Authors: A Fox, I Goldberg, SD Gribble, DC Lee, A Polito, EA Brewer
+Publication: Middleware’98: IFIP International Conference on Distributed Systems …
+
+227. Last Byte
+Citations:
+Authors: E Brewer, C Agent
+Publication: Communications, 1
+
+228. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+229. Technology for developing regions: Moore's law is not enough
+Citations:
+Authors: EA Brewer
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 1-2
+
+230. CCC Workshop on Computer Science and Global Development
+Citations:
+Authors: E Brewer, T Parikh, B Raman, K Toyama, G Borriello, D Estrin, R Katz, ...
+Publication: 
+
+231. CS262a Midterm Answers Fall 2008
+Citations:
+Authors: E Brewer
+Publication: 
+
+232. Technology for Developing Regions.
+Citations:
+Authors: EA Brewer
+Publication: VLDB, 2
+
+233. Visiting the Digital Divide: women entrepreneurs in Central America
+Citations:
+Authors: H Tapper
+Publication: E-Learning and Digital Media 3 (3), 271-278
+
+234. DHT Geometry and Proximity
+Citations:
+Authors: EA Brewer
+Publication: 
+
+235. Power control and rate management for wireless multimedia CDMA systems.
+Citations:
+Authors: W Wang, D Peng, JH Youn, H Wang, H Sharif, S Banerjee, A Misra, ...
+Publication: Information Technology Journal 6 (5), pp: 854-865
+
+236. Session details: Cluster resource management
+Citations:
+Authors: E Brewer
+Publication: ACM SIGOPS Operating Systems Review 36 (SI)
+
+237. Thinking across Layers: What Do We Want Out of a Network?
+Citations:
+Authors: E Brewer
+Publication: Proceedings of the 10th Symposium on High Performance Interconnects HOT …
+
+238. すべてがサーチ可能になるとき
+Citations:
+Authors: EA Brewer
+Publication: 情報処理 42 (12), 1231-1233
+
+239. Enabling next generation streaming media networks (keynote session)
+Citations:
+Authors: EA Brewer
+Publication: Proceedings of the eighth ACM international conference on Multimedia, 2
+
+240. Persistent distributed data structures to simplify cluster-based Internet services
+Citations:
+Authors: SD Gribble, EA Brewer, D Culler, JM Hellerstein
+Publication: ACM SIGOPS Operating Systems Review 34 (2), 37-38
+
+241. Design and Evaluation of a Continuous Consistency Model for Replicated Services..................... 305 Haifeng Yu and Amin Vahdat, Duke University System Architecture Session …
+Citations:
+Authors: SD Gribble, EA Brewer, JM Hellerstein, D Culler
+Publication: Proceedings of the... Symposium on Operating Systems Design and …
+
+242. Adapting to network and client variation using infrastructural process proxies: lessons and perspectives
+Citations:
+Authors: A Fox, SD Gribble, Y Chawathe, EA Brewer
+Publication: Mobility, 431-446
+
+243. The Evolution Of A Revolution.
+Citations:
+Authors: E Brewer, P Gauthier
+Publication: Inter@ ctive Week 6 (44), 80-82
+
+244. Eylon Caspi, Michael Chu, Randy Huang
+Citations:
+Authors: E Brewer
+Publication: 
+
+245. Experience With Top Gun Wingman: A Proxy-Based Graphical Web Browser for the 3Com PalmPilot
+Citations:
+Authors: A Polito, EA Brewer
+Publication: Middleware'98: IFIP International Conference on Distributed Systems …
+
+246. Software techniques for improving MPP bulk-transfer performance
+Citations:
+Authors: EA Brewer, P Gauthier, A Fox, A Schuett
+Publication: Proceedings of International Conference on Parallel Processing, 406-412
+
+247. Frederic T. Chong" Shamik D. Sharmat Eric A. Brewer
+Citations:
+Authors: J Saltz
+Publication: Toward Teraflop Computing and New Grand Challenge Applications, 291
+
+248. Pipes: linguistic support for ordered asynchronous invocations
+Citations:
+Authors: EA Brewer, A Colbrook, WC Hsieh, P Wang, WE Weihl
+Publication: ACM SIGPLAN Notices 28 (1), 80
+
+249. PRELUDE: A system for portable parallel software. Technical report
+Citations:
+Authors: W Weihl, E Brewer, A Colbrook, C Dellarocas, W Hsieh
+Publication: Massachusetts Inst. of Tech., Cambridge, MA (United States). Lab. for …
+
+250. Algorithms for Search Trees on Message-Passing Architectures
+Citations:
+Authors: EA Brewer, CN Dellarocas, A Colbrook, WE Weihl
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+251. En vedette: Plus
+Citations:
+Authors: E Brewer, O Bourgain
+Publication: 
+
+252. Featured: More
+Citations:
+Authors: E Brewer
+Publication: 
+
+253. Building a Better Butter y: The Multiplexed Metabutter y
+Citations:
+Authors: FT Chong, EA Brewer, FT Leighton, TF Knight Jr
+Publication: 
+
+254. usenix conference policies
+Citations:
+Authors: K Whitehouse, C Sharp, E Brewer
+Publication: 
+
+255. for multiprocessor systems
+Citations:
+Authors: A Colbrook, WE Weihl, EA Brewer, N Chrysanthos, WCH Dellarocas, ...
+Publication: 
+
+256. Segment-oriented Recovery
+Citations:
+Authors: EA Brewer
+Publication: 
+
+257. " Animal House", University of Washington Wind Ensemble, University of Washington Symphonic Band, University of Washington Concert Band, April 28, 2003
+Citations:
+Authors: M Lutch, T Salzman, JB McDavid, CC Chapman, J Pattrick, ES Wiltshire
+Publication: 
+
+258. Student Chamber Music Recital, December 5, 2004
+Citations:
+Authors: S Teske, J Teske, J Lee, Y Jono, C Chi, J Riley, R Chung, D Kosovskiy, ...
+Publication: 
+
+259. Modern Jazz Contingent; Studio Jazz Ensemble II; Studio Jazz Ensemble I, December 8, 2004
+Citations:
+Authors: V Sielert, C McCullough, MJ Contingent, G Bayley, M Noguchi, M Collins, ...
+Publication: 
+
+260. Student Chamber Music Concert, March 7, 2003
+Citations:
+Authors: M Ramos, R Lahiri, J Roe, A Shirvashankara, R Barnes, M Kruse, ...
+Publication: 
+
+261. An Online Evolutionary Approach to Developing Internet Services
+Citations:
+Authors: E Kiciman, E Brewer
+Publication: 
+
+262. Initial investigations into macroprogramming
+Citations:
+Authors: M Welsh, E Brewer
+Publication: 
+
+263. Connecting the Dots: Using Runtime Paths for Macro Analysis
+Citations:
+Authors: M Chen, E Kıcıman, A Accardi, A Fox, E Brewer
+Publication: 
+
+264. Bor-Yuh Evan Chang Curriculum Vitæ
+Citations:
+Authors: GC Necula, K Sen, J Silver, R Bodik, E Brewer
+Publication: Computer Science 1 (510), 847-1745
+
+265. usenix conference policies
+Citations:
+Authors: E Brewer
+Publication: 
+
+266. SYMPOSIUM ORGANIZERS
+Citations:
+Authors: E Brewer, P Chen, M Castro, J Flinn, G Ganger, S Madden, J Mogul, ...
+Publication: 
+
+267. Lightweight Annotations for Modular Memory Safety
+Citations:
+Authors: J Condit, M Harren, B McCloskey, F Zhou, I Bagrak, Z Anderson, E Brewer, ...
+Publication: 
+
+268. LLADD: An Extensible Transactional Storage Layer
+Citations:
+Authors: R Sears, E Brewer
+Publication: 
+
+269. 1.1 Heterogeneity: Thin Clients and Slow Networks
+Citations:
+Authors: A Fox, SDGY Chawathe, EA Brewer
+Publication: 
+
+270. LoCal—A Network Architecture for Localized Electrical Energy Reduction, Generation and Sharing
+Citations:
+Authors: RH Katz, D Culler, S Sanders, E Brewer, K Lutz
+Publication: 
+
+271. Secure Language-Based Adaptive Service Platform (SLAP) for Large-Scale Embedded Sensor Networks BAA 01-06 Networked Embedded Software Technology Technical Topic Area: Open …
+Citations:
+Authors: D Culler, E Brewer, D Wagner
+Publication: 
+
+272. The Context of Capriccio
+Citations:
+Authors: R von Behren, J Condit, F Zhou, GC Necula, E Brewer, C Farcas
+Publication: 
+
+273. Atlas: An Infrastructure for Global Computing
+Citations:
+Authors: JEBRD Blumofey, EA Brewer
+Publication: 
+
+274. System Support for Scalable and
+Citations:
+Authors: Y Chawathe, EA Brewer
+Publication: 
+
+275. Abstractions for Scalable Operating Systems on Manycore Architectures
+Citations:
+Authors: K Klues, B Rhoden, Y Zhu, E Brewer
+Publication: 
+
+276. Stasys: System for adaptable, transactional storage
+Citations:
+Authors: R Sears, E Brewer
+Publication: 
+
+277. Toward a Common Infrastructure for
+Citations:
+Authors: S McCanne, E Brewer, R Katz, L Rowe, E Amir, Y Chawathe, ...
+Publication: 
+
+278. The Flex Interface: Flexible Kernel Support for High-Performance Servers
+Citations:
+Authors: F Zhou, R von Behren, E Brewer
+Publication: 
+
+279. Defense & Security Microscopic paper fingerprinting
+Citations:
+Authors: A Sharma, L Subramanian, EA Brewer
+Publication: 
+
+280. The Evolution of Internet Services
+Citations:
+Authors: RH Katz, EA Brewer, S McCanne
+Publication: 
+
+281. Towards a Societal Scale Scientific Instrument
+Citations:
+Authors: RJ Honicky, E Brewer, E Paulos
+Publication: m-Science, 37
+
+282. LLADD: Extensible Transactional Storage FIXME
+Citations:
+Authors: R Sears, E Brewer
+Publication: 
+
+283. Adapting to Network and Client Variation Using Infrastructural Proxies: Lessons and Perspectives
+Citations:
+Authors: EA Brewer
+Publication: 
+
+284. Poster and Demonstration of Expanding Rural Cellular Networks with Virtual Coverage
+Citations:
+Authors: K Heimerl, K Ali, J Blumenstock, B Gawalt, E Brewer
+Publication: 
+
+285. Parallelization of Fine-grained Irregular DAGs
+Citations:
+Authors: FT Chong, SD Sharmay, EA Brewer, J Saltzx
+Publication: 
+
+286. A Secure Environment for Untrusted Helper Applications
+Citations:
+Authors: IGDWR Thomas, EA Brewer
+Publication: 
+
+287. Frederic T. Chong
+Citations:
+Authors: SD Sharma, EA Brewer, J Saltz
+Publication: 
+

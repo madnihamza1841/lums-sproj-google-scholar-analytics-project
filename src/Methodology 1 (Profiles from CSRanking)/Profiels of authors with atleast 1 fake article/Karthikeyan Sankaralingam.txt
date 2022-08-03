@@ -1,0 +1,160 @@
+
+10. Dyser: Unifying functionality and parallelism specialization for energy-efficient computing
+Citations:153
+Authors: V Govindaraju, CH Ho, T Nowatzki, J Chhugani, N Satish, ...
+Publication: IEEE Micro 32 (5), 38-51
+
+17. Inserting test points to control peak power during scan testing
+Citations:78
+Authors: R Sankaralingam, NA Touba
+Publication: 17th IEEE International Symposium on Defect and Fault Tolerance in VLSI …
+
+21. Sampling+ dmr: practical and low-overhead permanent fault detection
+Citations:61
+Authors: S Nomura, MD Sinclair, CH Ho, V Govindaraju, M De Kruijf, ...
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 201-212
+
+29. Design, integration and implementation of the DySER hardware accelerator into OpenSPARC
+Citations:50
+Authors: J Benson, R Cofell, C Frericks, CH Ho, V Govindaraju, T Nowatzki, ...
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+37. Enabling gpgpu low-level hardware explorations with miaow: An open-source rtl implementation of a gpgpu
+Citations:31
+Authors: R Balasubramanian, V Gangadhar, Z Guo, CH Ho, C Joseph, J Menon, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (2), 21
+
+40. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:27
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+52. Reducing test power during test using programmable scan chain disable
+Citations:16
+Authors: R Sankaralingam, NA Touba
+Publication: Proceedings First IEEE International Workshop on Electronic Design, Test and …
+
+60. Performance evaluation of a DySER FPGA prototype system spanning the compiler, microarchitecture, and hardware implementation
+Citations:13
+Authors: CH Hoy, V Govindarajuz, T Nowatzki, R Nagaraju, Z Marzec, P Agarwal, ...
+Publication: 2015 IEEE International Symposium on Performance Analysis of Systems and …
+
+63. Near-memory data services
+Citations:12
+Authors: B Falsafi, M Stan, K Skadron, N Jayasena, Y Chen, J Tao, R Nair, ...
+Publication: IEEE Micro 36 (1), 6-13
+
+66. Fixing, preventing, and recovering from concurrency bugs
+Citations:11
+Authors: DD Deng, GL Jin, M de Kruijf, A Li, B Liblit, S Lu, SX Qi, JL Ren, ...
+Publication: Science China Information Sciences 58 (5), 1-18
+
+67. Software infrastructure and tools for the TRIPS prototype
+Citations:10
+Authors: B Yoder, J Burrill, R McDonald, K Bush, K Coons, M Gebhart, M Govindan, ...
+Publication: Workshop on Modeling, Benchmarking and Simulation
+
+68. Miaow-an open source rtl implementation of a gpgpu
+Citations:9
+Authors: R Balasubramanian, V Gangadhar, Z Guo, CH Ho, C Joseph, J Menon, ...
+Publication: 2015 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS XVIII), 1-3
+
+71. The design and dynamics of performance measurement systems in the public sector
+Citations:9
+Authors: CJ Heinrich, GR Marschke
+Publication: 
+
+79. Hands-on introduction to computer science at the freshman level
+Citations:6
+Authors: R Balasubramanian, Z York, M Doran, A Biswas, T Girgin, ...
+Publication: Proceedings of the 45th ACM technical symposium on Computer science …
+
+89. EPIC: Platform-as-a-service model for cloud networking
+Citations:4
+Authors: TA Benson, A Akella, S Sahu, A Shaikh
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+97. MIAOW: An open source GPGPU
+Citations:2
+Authors: V Gangadhar, R Balasubramanian, M Drumond, Z Guo, J Menon, ...
+Publication: 2015 IEEE Hot Chips 27 Symposium (HCS), 1-43
+
+100. Prototyping the DySER specialization architecture with OpenSPARC
+Citations:2
+Authors: J Benson, R Cofell, C Frericks, V Govindaraju, CH Ho, Z Marzec, ...
+Publication: 2012 IEEE Hot Chips 24 Symposium (HCS), 1-3
+
+104. Trips assembly language (tasl) manual
+Citations:2
+Authors: B Yoder, J Gibson, J Burrill, R McDonald, D Burger, SW Keckler, ...
+Publication: Computer Science Department, University of Texas at Austin
+
+111. Flashcard effectiveness for second graders
+Citations:1
+Authors: RL Husman
+Publication: 
+
+117. Design and construction of a second-generation hand-powered vehicle for the disabled
+Citations:1
+Authors: KR Ramsey
+Publication: 
+
+137. Can lock-free and combining techniques co-exist? A novel approach on concurrent queue
+Citations:
+Authors: C Min, YI Eom
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+141. 4 Awards
+Citations:
+Authors: TF Wenisch, A Buyuktosunoglu, U Sensors, V Sharma, S Cosemans, ...
+Publication: 
+
+142. 3 Guest Editors’ Introduction: Top Picks from the 2011 Computer Architecture Conferences Paolo Faraboschi and TN Vijaykumar 7 Kilo TM: Hardware Transactional Memory for GPU …
+Citations:
+Authors: WWL Fung, I Singh, A Brownsword, TM Aamodt, B Grot, J Hestness, ...
+Publication: 
+
+143. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: J Mars, L Tang, R Hundt, G Michelogiannakis, N Jiang, DU Becker, ...
+Publication: 
+
+144. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+145. On Varying the Detectability of Symbols to Encode Data Uncertainty
+Citations:
+Authors: DP Huffman
+Publication: 
+
+152. A descriptive study of the current status of physical leisure activities in Wisconsin nursing homes
+Citations:
+Authors: L McKenna
+Publication: 
+
+153. A comparison of Wisconsin area health clubs in regards to participant safety
+Citations:
+Authors: DH Lange
+Publication: 
+
+154. Session 1A Hardware Accelerators
+Citations:
+Authors: MN Bojnordi, E Ipek, D Mahajan, J Park, E Amaro, H Sharma, ...
+Publication: 
+
+156. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+157. 39th Annual International Symposium on Microarchitecture
+Citations:
+Authors: F Mohamood, M Healy, SK Lim, HHS Lee, S Ozdemir, D Sinha, G Memik, ...
+Publication: 
+
+158. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 

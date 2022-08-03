@@ -1,0 +1,2143 @@
+https://scholar.google.com/citations?hl=en&user=93yNuV0AAAAJ
+Total Citations = 19587
+
+1. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+2. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+3. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+4. Exascale computing study: Technology challenges in achieving exascale systems
+Citations:1149
+Authors: K Bergman, S Borkar, D Campbell, W Carlson, W Dally, M Denneau, ...
+Publication: Defense Advanced Research Projects Agency Information Processing Techniques …
+
+5. A case for intelligent RAM
+Citations:843
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: IEEE micro 17 (2), 34-44
+
+6. Optimization of sparse matrix-vector multiplication on emerging multicore platforms
+Citations:808
+Authors: S Williams, L Oliker, R Vuduc, J Shalf, K Yelick, J Demmel
+Publication: SC'07: Proceedings of the 2007 ACM/IEEE Conference on Supercomputing, 1-12
+
+7. Parallel programming in Split-C
+Citations:802
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, ...
+Publication: Supercomputing'93: Proceedings of the 1993 ACM/IEEE Conference on …
+
+8. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+9. A view of the parallel computing landscape
+Citations:695
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+10. Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures
+Citations:689
+Authors: K Datta, M Murphy, V Volkov, S Williams, J Carter, L Oliker, D Patterson, ...
+Publication: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, 4
+
+11. Titanium: a high‐performance Java dialect
+Citations:646
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit, A Krishnamurthy, ...
+Publication: Concurrency and Computation: Practice and Experience 10 (11‐13), 825-836
+
+12. OSKI: A library of automatically tuned sparse matrix kernels
+Citations:564
+Authors: R Vuduc, JW Demmel, KA Yelick
+Publication: Journal of Physics: Conference Series 16 (1), 521
+
+13. The potential of the cell processor for scientific computing
+Citations:450
+Authors: S Williams, J Shalf, L Oliker, S Kamil, P Husbands, K Yelick
+Publication: Proceedings of the 3rd conference on Computing frontiers, 9-20
+
+14. Introduction to UPC and language specification
+Citations:408
+Authors: WW Carlson, JM Draper, DE Culler, K Yelick, E Brooks, K Warren
+Publication: Technical Report CCS-TR-99-157, IDA Center for Computing Sciences
+
+15. Sparsity: Optimization framework for sparse matrix kernels
+Citations:342
+Authors: EJ Im, K Yelick, R Vuduc
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+16. UPC: distributed shared memory programming
+Citations:285
+Authors: T El-Ghazawi, W Carlson, T Sterling, K Yelick
+Publication: John Wiley & Sons
+
+17. UPC: distributed shared memory programming
+Citations:285
+Authors: T El-Ghazawi, W Carlson, T Sterling, K Yelick
+Publication: John Wiley & Sons
+
+18. Optimization and performance modeling of stencil computations on modern microprocessors
+Citations:250
+Authors: K Datta, S Kamil, S Williams, L Oliker, J Shalf, K Yelick
+Publication: SIAM review 51 (1), 129-159
+
+19. Cluster I/O with River: Making the fast case common
+Citations:242
+Authors: RH Arpaci-Dusseau, E Anderson, N Treuhaft, DE Culler, JM Hellerstein, ...
+Publication: Proceedings of the sixth workshop on I/O in parallel and distributed systems …
+
+20. Self-adapting linear algebra algorithms and software
+Citations:240
+Authors: J Demmel, J Dongarra, V Eijkhout, E Fuentes, A Petitet, R Vuduc, ...
+Publication: Proceedings of the IEEE 93 (2), 293-312
+
+21. Communication-avoiding Krylov subspace methods
+Citations:230
+Authors: M Hoemmen
+Publication: UC Berkeley
+
+22. Scalable processors in the billion-transistor era: IRAM
+Citations:230
+Authors: CE Kozyrakis, S Perissakis, D Patterson, T Anderson, K Asanovic, ...
+Publication: Computer 30 (9), 75-78
+
+23. Productivity and performance using partitioned global address space languages
+Citations:204
+Authors: K Yelick, D Bonachea, WY Chen, P Colella, K Datta, J Duell, SL Graham, ...
+Publication: Proceedings of the 2007 international workshop on Parallel symbolic …
+
+24. A whole-genome shotgun approach for assembling and anchoring the hexaploid bread wheat genome
+Citations:185
+Authors: JA Chapman, M Mascher, A Buluç, K Barry, E Georganas, A Session, ...
+Publication: Genome biology 16 (1), 26
+
+25. Optimizing sparse matrix computations for register reuse in SPARSITY
+Citations:177
+Authors: EJ Im, K Yelick
+Publication: International Conference on Computational Science, 127-136
+
+26. Optimizing the performance of sparse matrix-vector multiplication
+Citations:174
+Authors: EJ Im, KA Yelick
+Publication: University of California, Berkeley
+
+27. Implicit and explicit optimizations for stencil computations
+Citations:170
+Authors: S Kamil, K Datta, S Williams, L Oliker, J Shalf, K Yelick
+Publication: Proceedings of the 2006 workshop on Memory system performance and …
+
+28. Optimizing bandwidth limited problems using one-sided communication and overlap
+Citations:166
+Authors: C Bell, D Bonachea, R Nishtala, K Yelick
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+29. Titanium language reference manual
+Citations:163
+Authors: PN Hilfinger, D Bonachea, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: Computer Science
+
+30. A performance analysis of the Berkeley UPC compiler
+Citations:162
+Authors: WY Chen, D Bonachea, J Duell, P Husbands, C Iancu, K Yelick
+Publication: Proceedings of the 17th annual international conference on Supercomputing, 63-73
+
+31. Performance optimizations and bounds for sparse matrix-vector multiply
+Citations:157
+Authors: R Vuduc, JW Demmel, KA Yelick, S Kamil, R Nishtala, B Lee
+Publication: SC'02: Proceedings of the 2002 ACM/IEEE Conference on Supercomputing, 26-26
+
+32. Minimizing communication in sparse matrix solvers
+Citations:144
+Authors: M Mohiyuddin, M Hoemmen, J Demmel, K Yelick
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+33. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 327-337
+
+34. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 327-337
+
+35. Avoiding communication in sparse matrix computations
+Citations:132
+Authors: J Demmel, M Hoemmen, M Mohiyuddin, K Yelick
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-12
+
+36. UPC++: a PGAS extension for C++
+Citations:131
+Authors: Y Zheng, A Kamil, MB Driscoll, H Shan, K Yelick
+Publication: 2014 IEEE 28th International Parallel and Distributed Processing Symposium …
+
+37. Scientific computing kernels on the cell processor
+Citations:126
+Authors: S Williams, J Shalf, L Oliker, S Kamil, P Husbands, K Yelick
+Publication: International Journal of Parallel Programming 35 (3), 263-298
+
+38. Empirical evaluation of the CRAY-T3D: A compiler perspective
+Citations:123
+Authors: RH Arpaci, DE Culler, A Krishnamurthy, SG Steinberg, K Yelick
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 320-331
+
+39. Impact of modern memory subsystems on cache optimizations for stencil computations
+Citations:121
+Authors: S Kamil, P Husbands, L Oliker, J Shalf, K Yelick
+Publication: Proceedings of the 2005 workshop on Memory system performance, 36-43
+
+40. Intelligent RAM (IRAM): Chips that remember and compute
+Citations:120
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 1997 IEEE International Solids-State Circuits Conference. Digest of …
+
+41. Lattice Boltzmann simulation optimization on leading multicore platforms
+Citations:118
+Authors: S Williams, J Carter, L Oliker, J Shalf, K Yelick
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-14
+
+42. SEJITS: Getting productivity and performance with selective embedded JIT specialization
+Citations:110
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Programming Models for Emerging Architectures 1 (1), 1-9
+
+43. When cache blocking of sparse matrix vector multiply works and why
+Citations:109
+Authors: R Nishtala, RW Vuduc, JW Demmel, KA Yelick
+Publication: Applicable Algebra in Engineering, Communication and Computing 18 (3), 297-311
+
+44. Communication optimizations for fine-grained UPC applications
+Citations:108
+Authors: WY Chen, C Iancu, K Yelick
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+45. Modeling the Benefits of Mixed Data and Task Parallelism.
+Citations:106
+Authors: S Chakrabarti, J Demmel, KA Yelick
+Publication: SPAA 95, 74-83
+
+46. Hierarchical work stealing on manycore clusters
+Citations:105
+Authors: SJ Min, C Iancu, K Yelick
+Publication: Fifth Conference on Partitioned Global Address Space Programming Models …
+
+47. An evaluation of current high-performance networks
+Citations:98
+Authors: C Bell, D Bonachea, Y Cote, J Duell, P Hargrove, P Husbands, C Iancu, ...
+Publication: Proceedings International Parallel and Distributed Processing Symposium, 10 pp.
+
+48. Analyses and optimizations for shared address space programs
+Citations:91
+Authors: A Krishnamurthy, K Yelick
+Publication: Journal of Parallel and Distributed Computing 38 (2), 130-144
+
+49. Auto-tuning stencil codes for cache-based multicore platforms
+Citations:83
+Authors: K Datta, KA Yelick
+Publication: University of California, Berkeley
+
+50. The Magellan report on cloud computing for science
+Citations:82
+Authors: K Yelick, S Coghlan, B Draney, RS Canon
+Publication: US Department of Energy, Office of Science, Office of Advanced Scientific …
+
+51. The Magellan report on cloud computing for science
+Citations:82
+Authors: K Yelick, S Coghlan, B Draney, RS Canon
+Publication: US Department of Energy, Office of Science, Office of Advanced Scientific …
+
+52. Optimizing Sparse Matrix Vector Multiplication on SMP.
+Citations:75
+Authors: EJ Im, KA Yelick
+Publication: PPSC
+
+53. Optimizing parallel programs with explicit synchronization
+Citations:75
+Authors: A Krishnamurthy, K Yelick
+Publication: ACM SIGPLAN Notices 30 (6), 196-204
+
+54. Implementing an irregular application on a distributed memory multiprocessor
+Citations:72
+Authors: S Chakrabarti, K Yelick
+Publication: ACM SIGPLAN Notices 28 (7), 169-178
+
+55. Intelligent ram (iram): the industrial setting, applications, and architectures
+Citations:68
+Authors: D Patterson, K Asanovic, A Brown, R Fromm, J Golbus, B Gribstad, ...
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+56. Performance models for evaluation and automatic tuning of symmetric sparse matrix-vector multiply
+Citations:67
+Authors: BC Lee, RW Vuduc, JW Demmel, KA Yelick
+Publication: International Conference on Parallel Processing, 2004. ICPP 2004., 169-176
+
+57. Parallel de bruijn graph construction and traversal for de novo genome assembly
+Citations:65
+Authors: E Georganas, A Buluç, J Chapman, L Oliker, D Rokhsar, K Yelick
+Publication: SC'14: Proceedings of the International Conference for High Performance …
+
+58. Scaling communication-intensive applications on BlueGene/P using one-sided communication and overlap
+Citations:62
+Authors: R Nishtala, PH Hargrove, DO Bonachea, KA Yelick
+Publication: 2009 IEEE International Symposium on Parallel & Distributed Processing, 1-12
+
+59. Unification in combinations of collapse-free regular theories
+Citations:61
+Authors: KA Yelick
+Publication: Journal of Symbolic Computation 3 (1-2), 153-181
+
+60. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+61. Multi-threading and one-sided communication in parallel LU factorization
+Citations:59
+Authors: P Husbands, K Yelick
+Publication: Proceedings of the 2007 ACM/IEEE conference on Supercomputing, 31
+
+62. Connected components on distributed memory machines
+Citations:58
+Authors: A Krishnamurthy, S Lumetta, DE Culler, K Yelick
+Publication: Third DIMACS Implementation Challenge 30, 1-21
+
+63. Hardware/compiler codevelopment for an embedded media processor
+Citations:57
+Authors: C Kozyrakis, D Judd, J Gebis, S Williams, D Patterson, K Yelick
+Publication: Proceedings of the IEEE 89 (11), 1694-1709
+
+64. Languages for high-productivity computing: the DARPA HPCS language project
+Citations:56
+Authors: E Lusk, K Yelick
+Publication: Parallel Processing Letters 17 (01), 89-102
+
+65. Introduction to split-c
+Citations:56
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, S Luna, ...
+Publication: figshare
+
+66. Introduction to split-c
+Citations:56
+Authors: DE Culler, A Dusseau, SC Goldstein, A Krishnamurthy, S Lumetta, S Luna, ...
+Publication: figshare
+
+67. Deadlock-free scheduling of X10 computations with bounded resources
+Citations:55
+Authors: S Agarwal, R Barik, D Bonachea, V Sarkar, RK Shyamasundar, K Yelick
+Publication: Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …
+
+68. Titanium performance and potential: an NPB experimental study
+Citations:53
+Authors: K Datta, D Bonachea, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+69. Memory-intensive benchmarks: IRAM vs. cache-based machines
+Citations:53
+Authors: BR Gaeke, P Husbands, XS Li, L Oliker, KA Yelick, R Biswas
+Publication: Proceedings 16th International Parallel and Distributed Processing Symposium …
+
+70. Optimization of a lattice boltzmann computation on state-of-the-art multicore platforms
+Citations:52
+Authors: S Williams, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Journal of Parallel and Distributed Computing 69 (9), 762-777
+
+71. Auto-tuning the 27-point stencil for multicore
+Citations:51
+Authors: K Datta, S Williams, V Volkov, J Carter, L Oliker, J Shalf, K Yelick
+Publication: In Proc. iWAPT2009: The Fourth International Workshop on Automatic …
+
+72. Randomized load balancing for tree-structured computation
+Citations:51
+Authors: S Chakrabarti, A Ranade, K Yelick
+Publication: Proceedings of IEEE Scalable High Performance Computing Conference, 666-673
+
+73. HipMer: an extreme-scale de novo genome assembler
+Citations:50
+Authors: E Georganas, A Buluç, J Chapman, S Hofmeyr, C Aluru, R Egan, L Oliker, ...
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+74. DARPA's HPCS program: History, models, tools, languages
+Citations:50
+Authors: J Dongarra, R Graybill, W Harrod, R Lucas, E Lusk, P Luszczek, ...
+Publication: Advances in Computers 72, 1-100
+
+75. Making sequential consistency practical in Titanium
+Citations:50
+Authors: A Kamil, J Su, K Yelick, K Yelick
+Publication: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 15
+
+76. Concurrency analysis for parallel programs with textually aligned barriers
+Citations:48
+Authors: A Kamil, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+77. Communication lower bounds and optimal algorithms for programs that reference arrays--Part 1
+Citations:46
+Authors: M Christ, J Demmel, N Knight, T Scanlon, K Yelick
+Publication: arXiv preprint arXiv:1308.0068
+
+78. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+79. Roc-1: Hardware support for recovery-oriented computing
+Citations:45
+Authors: D Oppenheimer, A Brown, J Beck, D Hettena, J Kuroda, N Treuhaft, ...
+Publication: IEEE Transactions on Computers 51 (2), 100-107
+
+80. Tuning collective communication for Partitioned Global Address Space programming models
+Citations:41
+Authors: R Nishtala, Y Zheng, PH Hargrove, KA Yelick
+Publication: Parallel Computing 37 (9), 576-591
+
+81. Hybrid PGAS runtime support for multicore nodes
+Citations:41
+Authors: F Blagojević, P Hargrove, C Iancu, K Yelick
+Publication: Proceedings of the Fourth Conference on Partitioned Global Address Space …
+
+82. Avoiding communication in computing Krylov subspaces
+Citations:40
+Authors: J Demmel, MF Hoemmen, M Mohiyuddin, KA Yelick, M Hoemmen, ...
+Publication: 
+
+83. SPARSITY: Framework for optimizing sparse matrix-vector multiply
+Citations:40
+Authors: EJ Im, KA Yelick, R Vuduc
+Publication: International Journal of High Performance Computing Applications 18 (1), 135-158
+
+84. Optimizing parallel SPMD programs
+Citations:40
+Authors: A Krishnamurthy, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+85. Combining unification algorithms for confined regular equational theories
+Citations:40
+Authors: K Yelick
+Publication: International Conference on Rewriting Techniques and Applications, 365-380
+
+86. Optimizing collective communication on multicores
+Citations:39
+Authors: R Nishtala, KA Yelick
+Publication: Proceedings of the First USENIX conference on Hot topics in parallelism, 18-18
+
+87. Exascale programming challenges
+Citations:38
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: Proceedings of the Workshop on Exascale Programming Challenges, Marina del …
+
+88. Automatic support for irregular computations in a high-level language
+Citations:38
+Authors: J Su, K Yelick
+Publication: 19th IEEE International Parallel and Distributed Processing Symposium, 10 pp.
+
+89. Autotuning sparse matrix-vector multiplication for multicore
+Citations:37
+Authors: JH Byun, R Lin, KA Yelick, J Demmel
+Publication: EECS, UC Berkeley, Tech. Rep
+
+90. Parallel languages and compilers: Perspective from the Titanium experience
+Citations:36
+Authors: K Yelick, P Hilfinger, S Graham, D Bonachea, J Su, A Kamil, K Datta, ...
+Publication: The International Journal of High Performance Computing Applications 21 (3 …
+
+91. Models and scheduling algorithms for mixed data and task parallel programs
+Citations:36
+Authors: S Chakrabarti, J Demmel, K Yelick
+Publication: Journal of Parallel and Distributed Computing 47 (2), 168-184
+
+92. Architectures and technology for extreme scale computing
+Citations:35
+Authors: R Stevens, A White, S Dosanjh, A Geist, B Gorda, K Yelick, J Morrison, ...
+Publication: ASCR Scientific Grand Challenges Workshop Series, Tech. Rep
+
+93. The manycore revolution: Will HPC lead or follow?
+Citations:34
+Authors: J Shalf, J Bashor, D Patterson, K Asanovic, K Yelick, K Keutzer, T Mattson
+Publication: SciDAC Review 14, 40-49
+
+94. Evaluation of architectural support for global address-based communication in large-scale parallel machines
+Citations:34
+Authors: A Krishnamurthy, KE Schauser, CJ Scheiman, RY Wang, DE Culler, ...
+Publication: ACM SIGPLAN Notices 31 (9), 37-48
+
+95. A communication-optimal n-body algorithm for direct interactions
+Citations:33
+Authors: M Driscoll, E Georganas, P Koanantakool, E Solomonik, K Yelick
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+96. A preliminary evaluation of the hardware acceleration of the Cray Gemini interconnect for PGAS languages and comparison with MPI
+Citations:33
+Authors: H Shan, NJ Wright, J Shalf, K Yelick, M Wagner, N Wichmann
+Publication: ACM SIGMETRICS Performance Evaluation Review 40 (2), 92-98
+
+97. Evaluating support for global address space languages on the Cray X1
+Citations:33
+Authors: C Bell, WY Chen, D Bonachea, K Yelick
+Publication: Proceedings of the 18th annual international conference on Supercomputing …
+
+98. Type systems for distributed data sharing
+Citations:31
+Authors: B Liblit, A Aiken, K Yelick
+Publication: International Static Analysis Symposium, 273-294
+
+99. meraligner: A fully parallel sequence aligner
+Citations:30
+Authors: E Georganas, A Buluç, J Chapman, L Oliker, D Rokhsar, K Yelick
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 561-570
+
+100. Porting gasnet to portals: Partitioned global address space (pgas) language support for the cray xt
+Citations:29
+Authors: D Bonachea, PH Hargrove, M Welcome, K Yelick
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+101. Automatic nonblocking communication for partitioned global address space programs
+Citations:29
+Authors: WY Chen, D Bonachea, C Iancu, K Yelick
+Publication: Proceedings of the 21st annual international conference on Supercomputing …
+
+102. A parallel completion procedure for term rewriting systems
+Citations:29
+Authors: KA Yelick, SJ Garland
+Publication: International Conference on Automated Deduction, 109-123
+
+103. Communication avoiding and overlapping for numerical linear algebra
+Citations:28
+Authors: E Georganas, J González-Domínguez, E Solomonik, Y Zheng, J Tourino, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+104. Benchmarking sparse matrix-vector multiply in five minutes
+Citations:28
+Authors: H Gahvari, M Hoemmen, J Demmel, K Yelick
+Publication: SPEC Benchmark Workshop
+
+105. Performance modeling and analysis of cache blocking in sparse matrix vector multiply
+Citations:27
+Authors: R Vuduc, K Yelick
+Publication: 
+
+106. Automatic performance tuning and analysis of sparse triangular solve
+Citations:27
+Authors: R Vuduc, S Kamil, J Hsu, R Nishtala, JW Demmel, KA Yelick
+Publication: ICS
+
+107. Runtime support for portable distributed data structures
+Citations:27
+Authors: CP Wen, S Chakrabarti, E Deprit, A Krishnamurthy, K Yelick
+Publication: Languages, Compilers and Run-Time Systems for Scalable Computers, 111-120
+
+108. Runtime support for portable distributed data structures
+Citations:27
+Authors: CP Wen, S Chakrabarti, E Deprit, A Krishnamurthy, K Yelick
+Publication: Languages, Compilers and Run-Time Systems for Scalable Computers, 111-120
+
+109. Distributed immersed boundary simulation in titanium
+Citations:26
+Authors: E Givelberg, K Yelick
+Publication: SIAM Journal on Scientific Computing 28 (4), 1361-1378
+
+110. Programming in the partitioned global address space model
+Citations:26
+Authors: B Carlson, T El-Ghazawi, B Numrich, K Yelick
+Publication: Tutorial at Supercomputing, 44
+
+111. Programming models for irregular applications
+Citations:26
+Authors: KA Yelick
+Publication: ACM SIGPLAN Notices 28 (1), 28-31
+
+112. Memory Hierarchy Optimizations and Performance Bounds for Sparse A T Ax
+Citations:25
+Authors: R Vuduc, A Gyulassy, JW Demmel, KA Yelick
+Publication: International Conference on Computational Science, 705-714
+
+113. Exascale computing study: Technology challenges in achieving exascale systems, 2008
+Citations:24
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: URL http://www. cse. nd. edu/Reports/2008/TR-2008-13. pdf
+
+114. Model-based memory hierarchy optimizations for sparse matrices
+Citations:24
+Authors: EJ Im, K Yelick
+Publication: Workshop on Profile and Feedback-Directed Compilation 139
+
+115. Communication-avoiding parallel sparse-dense matrix-matrix multiplication
+Citations:23
+Authors: P Koanantakool, A Azad, A Buluç, D Morozov, SY Oh, L Oliker, K Yelick
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+116. The roofline model: A pedagogical tool for auto-tuning kernels on multicore architectures
+Citations:23
+Authors: S Williams, D Patterson, L Oliker, J Shalf, K Yelick
+Publication: Hot Chips 20, 24-26
+
+117. The landscape of parallel computing research: A view from berkeley
+Citations:23
+Authors: A Krste, B Ras, CB Christopher, G James, H Parry, K Kurt, A Patterson, ...
+Publication: EECS techinical report
+
+118. Parallel timing simulation on a distributed memory multiprocessor
+Citations:23
+Authors: CP Wen, KA Yelick
+Publication: Proceedings of 1993 International Conference on Computer Aided Design (ICCAD …
+
+119. ASCR programming challenges for exascale computing
+Citations:22
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: Report of the 2011 Workshop on Exascale Programming Challenges
+
+120. Enforcing textual alignment of collectives using dynamic checks
+Citations:22
+Authors: A Kamil, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+121. Distributed data structures and algorithms for Gröbner basis computation
+Citations:22
+Authors: S Chakrabarti, K Yelick
+Publication: Lisp and Symbolic Computation 7 (2-3), 147-172
+
+122. Extending Unified Parallel C for GPU computing
+Citations:21
+Authors: Y Zheng, C Iancu, PH Hargrove, SJ Min, K Yelick
+Publication: SIAM Conference on Parallel Processing for Scientific Computing (SIAMPP)
+
+123. PERI-auto-tuning memory-intensive kernels for multicore
+Citations:21
+Authors: S Williams, K Datta, J Carter, L Oliker, J Shalf, K Yelick, D Bailey
+Publication: Journal of Physics: Conference Series 125 (1), 012038
+
+124. Optimization of sparse matrix kernels for data mining
+Citations:21
+Authors: EJ Im, K Yelick
+Publication: submitted to First SIAM Conf. on Data Mining
+
+125. Compiling Verilog into timed finite state machines
+Citations:21
+Authors: ST Cheng, RK Brayton, G York, K Yelick, A Saldanha
+Publication: Proceedings. 1995 IEEE International Verilog HDL Conference, 32-39
+
+126. A proposal for a UPC memory consistency model
+Citations:20
+Authors: K Yelick, D Bonachea, C Wallace
+Publication: Lawrence Berkeley National, Tech. Rep. LBNL-54983
+
+127. Multithreading for synchronization tolerance in matrix factorization
+Citations:19
+Authors: A Buttari, J Dongarra, P Husbands, J Kurzak, K Yelick
+Publication: Journal of Physics: Conference Series 78 (1), 012028
+
+128. The landscape of parallel computing research: A view from Berkeley, 2006
+Citations:19
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+129. Multipol: A distributed data structure library
+Citations:19
+Authors: S Chakrabarti, E Deprit, EJ Im, J Jones, A Krishnamurthy, CP Wen, ...
+Publication: Fifth ACM SIGPLAN Symposium on Principles and Practices of Parallel Programming
+
+130. Accelerating applications at scale using one-sided communication
+Citations:18
+Authors: H Shan, B Austin, NJ Wright, E Strohmaier, J Shalf, K Yelick
+Publication: Proceedings of the Conference on Partitioned Global Address Space …
+
+131. An adaptive mesh refinement benchmark for modern parallel programming languages
+Citations:18
+Authors: T Wen, J Su, P Colella, K Yelick, N Keen
+Publication: SC'07: Proceedings of the 2007 ACM/IEEE Conference on Supercomputing, 1-12
+
+132. Exploiting on-chip memory bandwidth in the VIRAM compiler
+Citations:18
+Authors: D Judd, K Yelick, C Kozyrakis, D Martin, D Patterson
+Publication: International Workshop on Intelligent Memory Systems, 122-134
+
+133. A local-view array library for partitioned global address space C++ programs
+Citations:17
+Authors: A Kamil, Y Zheng, K Yelick
+Publication: Proceedings of ACM SIGPLAN International Workshop on Libraries, Languages …
+
+134. Generating permutation instructions from a high-level description
+Citations:17
+Authors: M Narayanan, K Yelick
+Publication: Computer Science Division, University of California
+
+135. Efficient FFTs on iram
+Citations:17
+Authors: R Thomas, K Yelick
+Publication: Proc. Workshop on Media Processors and DSPs
+
+136. Performance analysis of an H. 263 video encoder for VIRAM
+Citations:16
+Authors: TP Nguyen, A Zakhor, K Yelick
+Publication: Proceedings 2000 International Conference on Image Processing (Cat. No …
+
+137. Using Abstraction in Explicity Parallel Programs.
+Citations:16
+Authors: KA Yelick
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+138. An evaluation of one-sided and two-sided communication paradigms on relaxed-ordering interconnect
+Citations:15
+Authors: KZ Ibrahim, PH Hargrove, C Iancu, K Yelick
+Publication: 2014 IEEE 28th international parallel and distributed processing symposium …
+
+139. Hierarchical computation in the SPMD programming model
+Citations:15
+Authors: A Kamil, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 3-19
+
+140. Portable runtime support for asynchronous simulation
+Citations:15
+Authors: CP Wen, K Yelick
+Publication: ICPP (2), 196-205
+
+141. Data structures for irregular applications
+Citations:15
+Authors: K Yelick, S Chakrabarti, E Deprit, J Jones, A Krishnamurthy, CP Wen
+Publication: DIMACS Workshop on Parallel Algorithms for Unstructured and Dynamic Problems 588
+
+142. Performance portable optimizations for loops containing communication operations
+Citations:14
+Authors: C Iancu, W Chen, K Yelick
+Publication: Proceedings of the 22nd annual international conference on Supercomputing …
+
+143. Efficient point-to-point synchronization in UPC
+Citations:14
+Authors: D Bonachea, R Nishtala, P Hargrove, K Yelick
+Publication: 2nd Conf. on Partitioned Global Address Space Programming Models (PGAS06)
+
+144. The optimized sparse kernel interface (OSKI) library: user’s guide for version 1.0. 1b
+Citations:14
+Authors: R Vudac, JW Demmel, KA Yelick
+Publication: Berkeley Benchmarking and OPtimization (BeBOP) Group 15
+
+145. Array prefetching for irregular array accesses in titanium
+Citations:14
+Authors: J Su, K Yelick
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+146. Polynomial-time algorithms for enforcing sequential consistency in SPMD programs with arrays
+Citations:14
+Authors: WY Chen, A Krishnamurthy, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+147. Auto-tuning memory-intensive kernels for multicore
+Citations:13
+Authors: S Williams, K Datta, L Oliker, J Carter, J Shalf, K Yelick
+Publication: Performance Tuning of Scientific Applications. CRC, USA
+
+148. Ten ways to waste a parallel computer.
+Citations:13
+Authors: KA Yelick
+Publication: ISCA, 1
+
+149. Hierarchical pointer analysis for distributed programs
+Citations:13
+Authors: A Kamil, K Yelick
+Publication: International Static Analysis Symposium, 281-297
+
+150. The intelligent disk (IDISK): A revolutionary approach to database computing infrastructure
+Citations:13
+Authors: K Keeton, D Patterson, J Hellerstein, J Kubiatowicz, K Yelick
+Publication: Database 9 (6 S 5)
+
+151. Parallel data structures for symbolic computation
+Citations:13
+Authors: K Yelick, S Chakrabarti, E Deprit, J Jones, A Krishnamurthy, CP Wen
+Publication: Workshop on Parallel Symbolic Languages and Systems 588
+
+152. Benchmarking sparse matrix-vector multiply
+Citations:12
+Authors: H Gahvari
+Publication: Computer Science Division
+
+153. Performance Optimizations and Bounds for Sparse Symmetric Matrix–Multiple Vector Multiply
+Citations:12
+Authors: KAYM de Lorimjer, L Zhong
+Publication: Computer Science
+
+154. Optimizing sparse matrix-vector multiplication for register reuse
+Citations:12
+Authors: E Im, KA Yelick
+Publication: Proceedings of the International Conference on Computational Science
+
+155. Moded type systems for logic programming
+Citations:12
+Authors: KA Yelick, JL Zachary
+Publication: Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+156. On the conditions for efficient interoperability with threads: an experience with PGAS languages using Cray communication domains
+Citations:11
+Authors: KZ Ibrahim, K Yelick
+Publication: Proceedings of the 28th ACM international conference on Supercomputing, 23-32
+
+157. Automatically tuning collective communication for one-sided programming models
+Citations:11
+Authors: R Nishtala
+Publication: UC Berkeley
+
+158. Titanium language reference manual, version 2.19
+Citations:11
+Authors: PN Hilfinger, DO Bonachea, K Datta, D Gay, SL Graham, BR Liblit, G Pike, ...
+Publication: Technical Report UCB/EECS-2005–15
+
+159. On the correctness of a distributed memory Gröbner basis algorithm
+Citations:11
+Authors: S Chakrabarti, K Yelick
+Publication: International Conference on Rewriting Techniques and Applications, 77-91
+
+160. An asynchronous task-based fan-both sparse Cholesky solver
+Citations:10
+Authors: M Jacquelin, Y Zheng, E Ng, K Yelick
+Publication: arXiv preprint arXiv:1608.00044
+
+161. Optimization of parallel particle-to-grid interpolation on leading multicore platforms
+Citations:10
+Authors: K Madduri, J Su, S Williams, L Oliker, S Ethier, K Yelick
+Publication: IEEE Transactions on Parallel and Distributed Systems 23 (10), 1915-1922
+
+162. Yada: Straightforward parallel programming
+Citations:10
+Authors: D Gay, J Galenson, M Naik, K Yelick
+Publication: Parallel Computing 37 (9), 592-609
+
+163. Common runtime support for high performance parallel languages parallel compiler runtime consortium
+Citations:10
+Authors: G Fox, S Ranka, M Scott, AD Malony, J Browne, MC Chen, A Choudhary, ...
+Publication: Proceedings of the Supercomputing'93 Conference, 752-757
+
+164. A Generalized Approach to Equational Unification.
+Citations:10
+Authors: KA Yelick
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+165. Accelerating science: A computing research agenda
+Citations:9
+Authors: VG Honavar, MD Hill, K Yelick
+Publication: arXiv preprint arXiv:1604.02006
+
+166. pOSKI: Parallel optimized sparse kernel interface library
+Citations:9
+Authors: JH Byun, R Lin, JW Demmel, KA Yelick
+Publication: Technical report
+
+167. Scheduling dynamic parallelism on accelerators
+Citations:9
+Authors: F Blagojevic, C Iancu, K Yelick, M Curtis-Maury, DS Nikolopoulos, B Rose
+Publication: Proceedings of the 6th ACM conference on Computing frontiers, 161-170
+
+168. Accelerating time-to-solution for computational science and engineering
+Citations:9
+Authors: J Demmel, J Dongarra, A Fox, S Williams, V Volkov, K Yelick
+Publication: SciDAC Review,(15)
+
+169. Exascale computing study: Technology challenges in achieving exascale systems (2008)
+Citations:9
+Authors: K Bergman, S Borkar, D Campbell, W Carlson, W Dally, M Denneau, ...
+Publication: URL: http://www. science. energy. gov/ascr/Research/CS/DARPAexascale-hardware
+
+170. Performance modeling and optimization of a high energy colliding beam simulation code
+Citations:9
+Authors: H Shan, E Strohmaier, J Qiang, DH Bailey, K Yelick
+Publication: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 97
+
+171. The Case for IRAM
+Citations:9
+Authors: D Patterson, T Anderson, K Yelick
+Publication: Proceedings of HOT Chips 8
+
+172. Portable parallel irregular applications
+Citations:9
+Authors: K Yelick, CP Wen, S Chakrabarti, E Deprit, J Jones, A Krishnamurthy
+Publication: International Workshop on Parallel Symbolic Languages and Systems, 155-173
+
+173. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+174. A computation-and communication-optimal parallel direct 3-body algorithm
+Citations:8
+Authors: P Koanantakool, K Yelick
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+175. Auto-tuning stencil computations on multicore and accelerators
+Citations:8
+Authors: K Datta, S Williams, V Volkov, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Scientific Computing on Multicore and Accelerators, 219-253
+
+176. A decadal DOE plan for providing exascale applications and technologies for DOE mission needs
+Citations:8
+Authors: R Stevens, A White, P Beckman, R Bair, J Hack, J Nichols, A Geist, ...
+Publication: Presentation at Advanced Simulation and Computing Principal Investigators …
+
+177. Getting multicore performance with UPC
+Citations:8
+Authors: Y Zheng, F Blagojevic, D Bonachea, PH Hargrove, S Hofmeyr, C Iancu, ...
+Publication: SIAM Conference on Parallel Processing for Scientific Computing, Seattle …
+
+178. Identifying performance bottlenecks on modern microarchitectures using an adaptable probe
+Citations:8
+Authors: G Griem, L Oliker, J Shalf, K Yelick
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+179. A Hartree-Fock application using UPC++ and the new DArray library
+Citations:7
+Authors: D Ozog, A Kamil, Y Zheng, P Hargrove, JR Hammond, A Malony, ...
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+180. On Holder-Brascamp-Lieb inequalities for torsion-free discrete Abelian groups
+Citations:7
+Authors: M Christ, J Demmel, N Knight, T Scanlon, K Yelick
+Publication: arXiv preprint arXiv:1510.04190
+
+181. Parallel Hessian assembly for seismic waveform inversion using global updates
+Citations:7
+Authors: S French, Y Zheng, B Romanowicz, K Yelick
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 753-762
+
+182. Hierarchical additions to the SPMD programming model
+Citations:7
+Authors: A Kamil, K Yelick
+Publication: Technical Report UCB/EECS-2012-20, University of California, Berkeley
+
+183. Improving memory subsystem performance using ViVA: Virtual vector architecture
+Citations:7
+Authors: J Gebis, L Oliker, J Shalf, S Williams, K Yelick
+Publication: International Conference on Architecture of Computing Systems, 146-158
+
+184. VIRAM: A media-oriented vector processor with embedded DRAM
+Citations:7
+Authors: C Kozyrakis, J Gebis, D Martin, S Williams, I Mavroidis, S Pope, D Jones, ...
+Publication: the Conference Record of the Hot Chips XII Symposium
+
+185. Optimizing sparse matrix kernels for data mining
+Citations:7
+Authors: EJ Im, K Yelick
+Publication: First SIAM Conf. on Data Mining
+
+186. Performance Analysis of an H. 263 video encoder for VIRAM
+Citations:7
+Authors: TPQ Nguyen, A Zakhor, K Yelick
+Publication: Departament of Electrical Engineering and Computer Ciences (University of …
+
+187. 21st century computer architecture
+Citations:6
+Authors: MD Hill, S Adve, L Ceze, MJ Irwin, D Kaeli, M Martonosi, J Torrellas, ...
+Publication: arXiv preprint arXiv:1609.06756
+
+188. Evaluation of PGAS communication paradigms with geometric multigrid
+Citations:6
+Authors: H Shan, A Kamil, S Williams, Y Zheng, K Yelick
+Publication: Proceedings of the 8th International Conference on Partitioned Global …
+
+189. Communication avoiding (CA) and other innovative algorithms
+Citations:6
+Authors: J Demmel, K Yelick
+Publication: The Berkeley Par Lab: Progress in the Parallel Computing Landscape, 243-250
+
+190. The NERSC-Cray center of excellence: Performance optimization for the multicore era
+Citations:6
+Authors: NJ Wright, H Shan, F Blagojevic, H Wasserman, T Drummond, J Shalf, ...
+Publication: CUG Proceedings
+
+191. Report of the workshop on exascale programming challenges
+Citations:6
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shlf, ...
+Publication: Technical Report, US Department of Energy
+
+192. The parallel computing laboratory at uc berkeley: A research agenda based on the berkeley view. EECS Department
+Citations:6
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: University of California, Berkeley, Tech. Rep
+
+193. Compiler and runtime support for scaling adaptive mesh refinement computations in Titanium
+Citations:6
+Authors: JZ Su, T Wen, K Yelick
+Publication: Technical Report UCB-EECS-2006–87
+
+194. Dense and sparse matrix operations on the Cell processor
+Citations:6
+Authors: SW Williams, J Shalf, L Oliker, P Husbands, K Yelick
+Publication: Ernest Orlando Lawrence Berkeley NationalLaboratory, Berkeley, CA (US)
+
+195. Titanium: A High-Performance Java Dialect. ACM 1998 Workshop on Java for High-Performance Network Computing
+Citations:6
+Authors: K Yelick
+Publication: Stanford, California, February
+
+196. Compiling sequential programs for speculative parallelism
+Citations:6
+Authors: CP Wen, K Yelick
+Publication: Proceedings of the International Conference on Parallel and Distributed Systems
+
+197. SPARSity
+Citations:6
+Authors: EJ Im, KA Yelick
+Publication: 
+
+198. Multicore: Fallout of a hardware revolution
+Citations:5
+Authors: K Yelick
+Publication: Invited talk, South Dakota School of Mining and Technology 3
+
+199. Automatic communication performance debugging in PGAS languages
+Citations:5
+Authors: J Su, K Yelick
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+200. Parallelizing the phylogeny problem
+Citations:5
+Authors: JA Jones, KA Yelick
+Publication: Proceedings of the 1995 ACM/IEEE conference on Supercomputing, 25
+
+201. On the correctness of a distributed memory Gr obner basis computation
+Citations:5
+Authors: S Chakrabarti, K Yelick
+Publication: Rewriting Techniques and Applications, Montreal, Canada
+
+202. Parallel data structures for symbolic computation, 1995
+Citations:5
+Authors: K Yelick, S Chakrabarti, E Deprit, J Jones, A Krishnamurthy, C po Wen
+Publication: Computer Science Division, University of California, Berkeley
+
+203. Programming in the Partitioned Global Address Space Model, 2003. Presentation at SC 2003
+Citations:5
+Authors: W Carlson, T El-Ghazawi, B Numrich, K Yelick
+Publication: 
+
+204. March 1999. Optimizing sparse matrix vector multiplication on SMPs
+Citations:5
+Authors: EJ Im, K Yelick
+Publication: Ninth SIAM Conference on Parallel Processing for Scientific Computing
+
+205. Extreme scale de novo metagenome assembly
+Citations:4
+Authors: E Georganas, R Egan, S Hofmeyr, E Goltsman, B Arndt, A Tritt, A Buluç, ...
+Publication: SC18: International Conference for High Performance Computing, Networking …
+
+206. 18 Extreme-Scale De Novo Genome Assembly
+Citations:4
+Authors: E Georganas, S Hofmeyr, L Oliker, R Egan, D Rokhsar, A Buluc, K Yelick
+Publication: Exascale Scientific Applications: Scalability and Performance Portability, 409
+
+207. Communication-avoiding optimization methods for distributed massive-scale sparse inverse covariance estimation
+Citations:4
+Authors: P Koanantakool, A Ali, A Azad, A Buluc, D Morozov, L Oliker, K Yelick, ...
+Publication: arXiv preprint arXiv:1710.10769
+
+208. Implementing High-Performance Geometric Multigrid Solver with Naturally Grained Messages
+Citations:4
+Authors: H Shan, S Williams, Y Zheng, A Kamil, K Yelick
+Publication: 2015 9th International Conference on Partitioned Global Address Space …
+
+209. The great robotics debate
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 56 (7), 5-5
+
+210. Automatic performance tuning (autotuning)
+Citations:4
+Authors: J Demmel, S Williams, K Yelick
+Publication: The Berkeley Par Lab: Progress in the Parallel Computing Landscape, MWD …
+
+211. The roofline model: A pedagogical tool for program analysis and optimization
+Citations:4
+Authors: S Williams, D Patterson, L Oliker, J Shalf, K Yelick
+Publication: 2008 IEEE Hot Chips 20 Symposium (HCS), 1-71
+
+212. Computer architecture: Opportunities and challenges for scalable applications
+Citations:4
+Authors: K Yelick
+Publication: Sandia CSRI Workshop on Next-generation scalable applications: When MPI-only …
+
+213. Programming models: Opportunities and challenges for scalable applications
+Citations:4
+Authors: K Yelick
+Publication: Sandia CSRI Workshop on Next-generation scalable applications: When MPI-only …
+
+214. Optimized collectives for PGAS languages with one-sided communication
+Citations:4
+Authors: D Bonachea, P Hargrove, R Nishtala, M Welcome, K Yelick
+Publication: 
+
+215. Automatic performance tuning for large scale scientific applications
+Citations:4
+Authors: J Demmel, J Dongarra, V Eijkhout, K Yelick
+Publication: IEEE Special Issue on Program Generation, Optimization, and Platform Adaptation
+
+216. A proposal for a UPC memory consistency model, v1. 0
+Citations:4
+Authors: K Yelick, D Bonachea, C Wallace
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+217. Automatic tuning of collective communications in MPI. poster at SIAM Conf. on Parallel Proc., San Francisco
+Citations:4
+Authors: R Nishtala, K Chakrabarti, N Patel, K Sanghavi, J Demmel, K Yelick, ...
+Publication: 
+
+218. Programming with the PGAS model
+Citations:4
+Authors: W Carlson, T El-Ghazawi, R Numric, K Yelick
+Publication: IEEE/ACM SC
+
+219. Chips that remember and compute
+Citations:4
+Authors: D PATTESON
+Publication: Proc. International Solid-State Circuits Conference
+
+220. The Magellan Report on Cloud Computing for Science. December 2011
+Citations:4
+Authors: K Yelick, S Coghlan, B Draney, RS Canon
+Publication: 
+
+221. Introduction to UPC and language specification, CCS-TR--
+Citations:4
+Authors: WW Carlson, JM Draper, DE Culler, K Yelick, E Brooks, K Warren
+Publication: IDA/CCS, Bowie
+
+222. Berkeley dwarfs
+Citations:4
+Authors: D Patterson, K Keutzer, K Asanovica, K Yelick, R Bodik
+Publication: 
+
+223. OSKI: Optimized Sparse Kernel Interface
+Citations:4
+Authors: R Vuduc, J Demmel, K Yelick
+Publication: 
+
+224. Sparse Matrix
+Citations:3
+Authors: T Davis
+Publication: From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. http …
+
+225. Hardware and software in the multicore era
+Citations:3
+Authors: K Yelick
+Publication: HEPiX Meeting, Berkeley, California
+
+226. Beyond UPC
+Citations:3
+Authors: K Yelick
+Publication: Proceedings of the Third Conference on Partitioned Global Address Spaces
+
+227. Resource-efficient, hierarchical auto-tuning of a hybrid lattice Boltzmann computation on the Cray XT4
+Citations:3
+Authors: S Williams, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Ernest Orlando Lawrence Berkeley National Laboratory
+
+228. ExaScale Computing Study: Technology Challenges in Achieving Exascale Systems, DARPA report
+Citations:3
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: 
+
+229. Exascale study group: Technology challenges in achieving exascale systems
+Citations:3
+Authors: PM Kogge, S Borkar, WW Carlson, WJ Dally, M Denneau, PD Franzon, ...
+Publication: DARPA, Tech. Rep.
+
+230. The landscape of parallel computing research: a view from Berkeley. Study report
+Citations:3
+Authors: K Asanovic, R Bodik, B Catanzaro, J Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences, University of California at …
+
+231. Performance and Productivity Opportunities using Global Address Space Programming Models
+Citations:3
+Authors: K Yelick, UC Berkeley
+Publication: Lawrence Berkeley National Laboratory and UC Berkeley
+
+232. Titanium language reference manual
+Citations:3
+Authors: KDDGSL Graham, BRLGPJZ Su, PNHDO Bonachea, KA Yelick
+Publication: Technical Report UCB/EECS-2005-15.1. Tech. rep. Appendices
+
+233. Self adapting linear algebra algorithms and software
+Citations:3
+Authors: J Dongarra, V Eijkhout, E Fuentes, J Demmel, R Vuduc, K Yelick
+Publication: Proceedings of the IEEE special issue on” Program Generation, Optimization …
+
+234. Matrix splitting and reordering for sparse matrix-vector multiply
+Citations:3
+Authors: HJ Moon, R Vuduc, JW Demmel, KA Yelick
+Publication: University of California, Berkeley, Berkeley, CA, USA, Tech. Rep.(to appear)
+
+235. Data sharing analysis for Titanium
+Citations:3
+Authors: B Liblit, A Aiken, K Yelick
+Publication: Computer Science Division, University of California
+
+236. Introduction to upc and language specification
+Citations:3
+Authors: JM Draper, DE Culler, K Yelick, E Brooks, KWWW Carlson
+Publication: Center for Computing Sciences, Institute for Defense Analyses
+
+237. Performance modeling and composition: a case study in cell simulation
+Citations:3
+Authors: SG Steinberg, J Yang, K Yelick
+Publication: Proceedings of International Conference on Parallel Processing, 68-74
+
+238. Bridging the Processor-memory gap,“
+Citations:3
+Authors: D Patterson, K Yelick, T Anderson
+Publication: University of California, Berkeley, Final Report 96_108
+
+239. On the bene t of mixed parallelism
+Citations:3
+Authors: S Chakrabarti, J Demmel, K Yelick
+Publication: Computer science division, University of California
+
+240. A survey of message passing systems'
+Citations:3
+Authors: CP Wen, K Yelick
+Publication: Computer science division, University of California, Berkeley, CA
+
+241. GUPS (Giga-Updates per Second) Benchmark
+Citations:3
+Authors: BR Gaeke, K Yelick
+Publication: Berkeley
+
+242. Moded type systems to support abstraction
+Citations:3
+Authors: JL Zachary, KA Yelick
+Publication: Types in Logic Programming, 229-243
+
+243. November 2002. Performance optimizations and bounds for sparse matrix-vector multiply
+Citations:3
+Authors: R Vuduc, JW Demmel, KA Yelick, S Kamil, R Nishtala, B Lee
+Publication: Proceedings of Supercomputing
+
+244. Introduction to UPC and Language Specification 1999
+Citations:3
+Authors: WW Carlson, JM Draper, DE Culler, K Yelick, E Brooks, K Warren
+Publication: CCS-TR-99-157
+
+245. The Berkeley UPC Compiler
+Citations:3
+Authors: K Yelick
+Publication: URL: http://upc. lbl. gov
+
+246. Auto-tuning Stencil Computations on Diverse Multicore Architectures
+Citations:3
+Authors: K Datta, S Williams, V Volkov, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Parallel and Distributed Computing, 218
+
+247. Performance characterization of de novo genome assembly on leading parallel systems
+Citations:2
+Authors: M Ellis, E Georganas, R Egan, S Hofmeyr, A Buluç, B Cook, L Oliker, ...
+Publication: European Conference on Parallel Processing, 79-91
+
+248. Large-Scale Data Analytics and Its Relationship to Simulation.
+Citations:2
+Authors: RW Leland, R Murphy, BA Hendrickson, K Yelick, J Johnson, J Berry
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+249. The Endgame for Moore's Law: Architecture, Algorithm, and Application Challenges.
+Citations:2
+Authors: K Yelick
+Publication: Federated Computing Research Conference, 6
+
+250. Subdivision surface evaluation as sparse matrix-vector multiplication
+Citations:2
+Authors: M Driscoll, KA Yelick, A Fox
+Publication: Master’s thesis, EECS Department, University of California, Berkeley
+
+251. DEGAS: Dynamic exascale global address space
+Citations:2
+Authors: K Yelick, V Sarkar, J Demmel, M Erez, D Quinlan, S Byna, P Hargrove, ...
+Publication: Technical report, DEGAS Summer Retreat, LBNL
+
+252. Pygas: A partitioned global address space extension for python
+Citations:2
+Authors: M Driscoll, A Kamil, S Kamil, Y Zheng, K Yelick
+Publication: Poster in the PGAS Conference, Citeseer
+
+253. Report of the 2011 workshop on exascale programming challenges
+Citations:2
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: US Department of Energy, Tech. Rep
+
+254. The magellan report on cloud computing for science. science. energy. gov/~/media/ascr/pdf/programdocuments/docs
+Citations:2
+Authors: K Yelick, S Coghlan, B Draney, RS Canon
+Publication: Magellan_Final_Report. pdf, December
+
+255. Titanium
+Citations:2
+Authors: K Yelick, SL Graham, P Hilfinger, D Bonachea, J Su, A Kamil, K Datta, ...
+Publication: Encyclopedia of Parallel Computing, 2049-2055
+
+256. SEJITS: Getting productivity and performance with selective, just-in-time specialization
+Citations:2
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Proc. of PMEA 9
+
+257. Communication-optimal iterative methods
+Citations:2
+Authors: J Demmel, M Hoemmen, M Mohiyuddin, K Yelick
+Publication: Journal of Physics: Conference Series 180 (1), 012040
+
+258. In-Place Auto-tuning of Structured Grid Kernels
+Citations:2
+Authors: S Kamil, C Chan, K Datta, S Williams, J Shalf, L Oliker, K Yelick
+Publication: 
+
+259. Programming models for petascale to exascale
+Citations:2
+Authors: K Yelick
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-1
+
+260. Transforming sparse matrix data structures
+Citations:2
+Authors: R Vuduc, J DEMMEL, K YELICK
+Publication: Georgia Tech College of Computing
+
+261. The roofline model: A pedagogical tool for auto-tuning kernels on multicore architectures Hot Chips 20: Stanford University
+Citations:2
+Authors: S Williams, D Patterson, L Oliker, J Shalf, K Yelick
+Publication: stanford, California, August 24–26
+
+262. Lattice Boltzmann simulation optimization on leading multicore platforms Interational Conf
+Citations:2
+Authors: S Williams, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Parallel and Distributed Computing Systems (IPDPS)
+
+263. Performance Engineering: Understanding and Improving thePerformance of Large-Scale Codes
+Citations:2
+Authors: DH Bailey, R Lucas, P Hovland, B Norris, K Yelick, D Gunter, ...
+Publication: CT Watch Quarterely 3 (LBNL-63730)
+
+264. Compilation techniques for partitioned global address space languages
+Citations:2
+Authors: K Yelick
+Publication: LCPC, 1
+
+265. Performance advantages of partitioned global address space languages
+Citations:2
+Authors: K Yelick
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+266. Software Roadmap to Plug and Play Petaflop/s
+Citations:2
+Authors: B Kramer, J Carter, D Skinner, L Oliker, P Husbands, P Hargrove, J Shalf, ...
+Publication: 
+
+267. Optimizing application performance using one-sided communication
+Citations:2
+Authors: C Bell, D Bonachea, R Nishtala, K Yelick
+Publication: Technical Report to appear, Lawrence Berkeley National Laboratory
+
+268. Titanium: A high-Environment
+Citations:2
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit, A Krishnamurthy, ...
+Publication: Concurrency and Computation: Practice and Experience 17 (7-8), 1079-1107
+
+269. Performance tuning of matrix triple products based on matrix structure
+Citations:2
+Authors: EJ Im, I Bustany, C Ashcraft, JW Demmel, KA Yelick
+Publication: International Workshop on Applied Parallel Computing, 740-746
+
+270. A performance analysis of the Berkeley UPC compiler
+Citations:2
+Authors: PH Parry, C Iancu, K Yelick
+Publication: SC
+
+271. Enforcing sequential consistency for SPMD programs
+Citations:2
+Authors: W Chen, A Krishnamurthy, K Yelick
+Publication: Technical Report CSD-03-1272, University of California, Berkeley 346, 347-350
+
+272. Roc-1: Hardware support for recovery-oriented computing
+Citations:2
+Authors: A Brown, D Hettena, J Kuroda, N Treuhaft, DA Patterson, K Yelick
+Publication: IEEE Trans. Comput
+
+273. E cient FFTs on IRAM
+Citations:2
+Authors: R Thomas, K Yelick
+Publication: Proceedings of the 1st Workshop on Media Processors and DSPs (MICRO-32 …
+
+274. IOPADS ‘99: Input/Output for Parallel and Distributed Systems
+Citations:2
+Authors: RH Arpaci-Dusseau, E Anderson, N Treuhaft, DE Culler, JM Heller-stein, ...
+Publication: Atlanta, GA: May
+
+275. Scaling Processors to 1 Billion Transistors and Beyond: IRAM
+Citations:2
+Authors: S Perissakis, C Kozyrakis, T Anderson, K Asanovic, N Cardwell, R Fromm, ...
+Publication: IEEE Computer
+
+276. Programming support for clusters of multiprocessors (CLUMPs)
+Citations:2
+Authors: K Yelick, D Culler, J Demmel
+Publication: Talk presented at Lawrence Livermore National Laboratories
+
+277. Modeling the benefits of mixed data and task parallelism, in``Seventh Annual ACM Symposium on Parallel Algorithms and Architectures
+Citations:2
+Authors: S Chakrabarti, J Demmel, K Yelick
+Publication: Santa Barbara, CA
+
+278. Runtime Support for Portable Distributed Data Structures, chapter 9. Languages, Compilers, and Runtime Systems for Scalable Computers
+Citations:2
+Authors: CP Wen, S Chakrabarti, E Deprit, A Krishnamurthy, K Yelick
+Publication: Kluwer Academic Publishers
+
+279. Parallel programming in split-C
+Citations:2
+Authors: K Yelick
+Publication: Supercomputing 93: Proceedings of the 1993 ACM/IEEE Conference on …
+
+280. A unified model for shared-memory and message-passing systems
+Citations:2
+Authors: K Goldman, K Yelick
+Publication: 
+
+281. Introduction to UPC and Language Specification, March 1999
+Citations:2
+Authors: WW Carlson, JM Draper, DE Culler, K Yelick, E Brooks, K Warren
+Publication: Available at [29].[7] W. Carlson. Personal communication
+
+282. A case for sensible performance counters. Submitted to the First USENIX Workshop on Hot Topics in Parallelism (Berkeley CA, Mar. 30–31, 2009)
+Citations:2
+Authors: S Bird, A Waterman, K Klues, K Datta, R Liu, R Nishtala, S Williams, ...
+Publication: 
+
+283. Automatic Support for Irregular Computations in a High-Level Language, IPPDS 2005 Denver, USA
+Citations:2
+Authors: J Su, K Yelick
+Publication: IEEE
+
+284. Extending Unified Parallel C for GPU Computing
+Citations:2
+Authors: PH Hargrove, SJ Min, Y Zheng, C Iancu, K Yelick
+Publication: 
+
+285. Implementing an irregular application on a distributed memory architecture
+Citations:2
+Authors: S Chakrabarti, K Yelick
+Publication: Proceedings of the Fourth ACM SIGPLAN Symposium on Principles and Practices …
+
+286. Paul Hilfinger, Susan Graham, David Gay, Phil Colella, and Alex Aiken
+Citations:2
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit, A Krishnamurthy
+Publication: Titanium: A high-performance Java dialect. In ACM [ACM98a], page, 11-13
+
+287. Optimizing sparse matrix computations for register reuse in SPARSITY [G]
+Citations:2
+Authors: YK Im Eun Jin
+Publication: LNCS 2073, 127-136
+
+288. BCL: A cross-platform distributed container library
+Citations:1
+Authors: B Brock, A Buluç, K Yelick
+Publication: arXiv preprint arXiv:1810.13029
+
+289. Indigo: A Domain-Specific Language for Fast, Portable Image Reconstruction
+Citations:1
+Authors: M Driscoll, B Brock, F Ong, J Tamir, HY Liu, M Lustig, A Fox, K Yelick
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+290. BELLA: Berkeley efficient long-read to long-read aligner and overlapper
+Citations:1
+Authors: G Guidi, M Ellis, D Rokhsar, K Yelick, A Buluç
+Publication: bioRxiv, 464420
+
+291. Merbench: Pgas benchmarks for high performance genome assembly
+Citations:1
+Authors: E Georganas, M Ellis, R Egan, S Hofmeyr, A Buluç, B Cook, L Oliker, ...
+Publication: Proceedings of the Second Annual PGAS Applications Workshop, 5
+
+292. Advanced Cyberinfrastructure for Science, Engineering, and Public Policy
+Citations:1
+Authors: VG Honavar, K Yelick, K Nahrstedt, H Rushmeier, J Rexford, MD Hill, ...
+Publication: arXiv preprint arXiv:1707.00599
+
+293. Biological and Environmental Research Exascale Requirements Review. An Office of Science review sponsored jointly by Advanced Scientific Computing Research and Biological and …
+Citations:1
+Authors: A Arkin, DC Bader, R Coffey, K Antypas, D Bard, E Dart, S Dosanjh, ...
+Publication: US Department of Energy, Washington, DC (United States). Advanced Scientific …
+
+294. The Magellan Final Report on Cloud Computing
+Citations:1
+Authors: K Yelick, S Coghlan, B Draney, RS Canon, L Ramakrishnan, A Scovel, ...
+Publication: http://escholarship.org/uc/item/8851p5p9
+
+295. Implementing matrix multiplication on the Cell BE
+Citations:1
+Authors: W Alvaro, J Kurzak, J Dongarra
+Publication: In Scientific Computing with Multicore and Accelerators. Chapman & Hall/CRC …
+
+296. Auto-tuning the 27-point Stencil for Multicore
+Citations:1
+Authors: SW Williams, K Datta, V Volkov, J Carter, L Oliker, J Shalf, K Yelick
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+297. Panel: Programming Language Paradigms: Past, Present, and Future
+Citations:1
+Authors: K Fisher, B Meyer, O Shivers, L Wall, K Yelick
+Publication: Proceedings of the third ACM SIGPLAN conference on History of programming …
+
+298. Titanium Language Reference Manual, Version 2.20
+Citations:1
+Authors: D Bonachea, P Hilfinger, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: 
+
+299. Towards a sequentially consistent memory model for PGAS languages
+Citations:1
+Authors: A Kamil, J Su, K Yelick
+Publication: Proc. ACM/IEEE Conf. Supercomput.
+
+300. Science Driven Supercomputing Architectures: Analyzing Architectural Bottlenecks with Applications and Benchmark Probes
+Citations:1
+Authors: S Kamil, K Yelick, WT Kramer, L Oliker, J Shalf, H Shan, E Strohmaier
+Publication: 
+
+301. Concurrency analysis for parallel programs with textual barriers
+Citations:1
+Authors: A Kamil, K Yelick
+Publication: Submitted
+
+302. Special Issue on Automatic Performance Tuning
+Citations:1
+Authors: K Yelick
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+303. Digital Human: Simulation of the Heart and other Organs
+Citations:1
+Authors: K Yelick
+Publication: University of California
+
+304. Evaluation of Architectural Support for Global Address-Based
+Citations:1
+Authors: A Krishnamurthy, KE Schauser, CJ Scheiman, DE Culler, K Yelick, ...
+Publication: University of California at Berkeley
+
+305. Empirical evaluation of global memory support on the cray-t3d and cray-t3e
+Citations:1
+Authors: A Krishnamurthy, DE Culler, K Yelick
+Publication: CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV
+
+306. Optimizing Sparse Matrix-Vector Computations for Register Reuse
+Citations:1
+Authors: EJ Im, K Yelick
+Publication: Computer Science Division. UC, Berkeley, ejim@ cs. Berkeley. EDU and yelick …
+
+307. diBELLA: Distributed Long Read to Long Read Alignment
+Citations:
+Authors: M Ellis, G Guidi, A Buluç, L Oliker, K Yelick
+Publication: 
+
+308. BCL: A Cross-Platform Distributed Data Structures Library
+Citations:
+Authors: B Brock, A Buluç, K Yelick
+Publication: 
+
+309. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+310. Final Report from The University of Texas at Austin for DEGAS: Dynamic Global Address Space programming environments
+Citations:
+Authors: M Erez, K Yelick, V Sarkar, J Demmel
+Publication: Univ. of Texas, Austin, TX (United States)
+
+311. gLOP: the global and Local Penalty for Capturing Predictive Heterogeneity
+Citations:
+Authors: R Rose, D Lizotte
+Publication: Machine Learning for Healthcare Conference, 134-149
+
+312. Keynotes
+Citations:
+Authors: D Padua, K Yelick, T Conte, J Labarta
+Publication: 2016 28th International Symposium on Computer Architecture and High …
+
+313. 2014 Runtime Systems Summit. Runtime Systems Report
+Citations:
+Authors: V Sarkar, Z Budimlic, M Kulkani
+Publication: USDOE, Washington, DC (United States). Office of Science
+
+314. Biological and Environmental Research Exascale Requirements Review
+Citations:
+Authors: A Arkin, DC Bader, R Coffey, K Antypas, D Bard, E Dart, S Dosanjh, ...
+Publication: 
+
+315. Programming Models for Parallel Computing
+Citations:
+Authors: W Gropp, R Thakur, PH Hargrove, JA Kuehn, S Poole, K Yelick, Y Zheng, ...
+Publication: MIT Press
+
+316. Opportunities and Challenges for Next Generation Computing
+Citations:
+Authors: GD Hager, MD Hill, K Yelick
+Publication: 
+
+317. Center for Scalable Application Development Software
+Citations:
+Authors: K Yelick
+Publication: University of California at Berkeley
+
+318. Center for Scalable Application Development Software
+Citations:
+Authors: J Mellor-Crummey
+Publication: WIlliam Marsh Rice Univ., Houston, TX (United States)
+
+319. Edison-A New Cray Supercomputer Advances Discovery at NERSC
+Citations:
+Authors: S Dosanjh, D Parkinson, K Yelick, D Trebotich, J Broughton, K Antypas, ...
+Publication: LBNL (Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United …
+
+320. Communication Lower Bounds and Optimal Algorithms for Programs That Reference Arrays—Part 1 (REVISED)
+Citations:
+Authors: M Christ, J Demmel, N Knight, T Scanlon, K Yelick
+Publication: 
+
+321. A Communication-Optimal N-Body Algorithm for Direct Interactions
+Citations:
+Authors: P Koanantakool, M Driscoll, E Georganas, E Solomonik, K Yelick
+Publication: 
+
+322. Communication Lower Bounds for Programs that Access Arrays
+Citations:
+Authors: N Knight
+Publication: 
+
+323. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+324. Best paper awards: 26th international parallel and distributed processing symposium (IPDPS 2012)
+Citations:
+Authors: L Oliker, K Yelick
+Publication: Journal of Parallel and Distributed Computing 7 (73), 986
+
+325. Communication–Avoiding Algorithms for Linear Algebra and Beyond
+Citations:
+Authors: N Knight
+Publication: 
+
+326. Keynote address: Moving a science workload to exascale computing
+Citations:
+Authors: K Yelick
+Publication: 2012 IEEE International Symposium on Workload Characterization (IISWC), 1-1
+
+327. Compiling to avoid communication.
+Citations:
+Authors: K Yelick
+Publication: Parallel Architectures and Compiler Techniques (PACT), 157-158
+
+328. Summer Series 2012-Conversation with Kathy Yelick
+Citations:
+Authors: K Yelick, J Miller
+Publication: LBNL (Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United …
+
+329. What is Supercomputing? A Conversation with Kathy Yelick
+Citations:
+Authors: K Yelick
+Publication: LBNL (Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United …
+
+330. Summer Series 2012-Conversation with Kathy Yelick (LBNL Summer Lecture Series)
+Citations:
+Authors: K Yelick
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+331. pOSKI: Parallel Optimized Sparse Kernel Interface Library User’s Guide for Version 1.0. 0 Jong-Ho Byun Richard Lin
+Citations:
+Authors: JW Demmel, KA Yelick
+Publication: 
+
+332. LBNL Computational Research and Theory Facility Groundbreaking. February 1st, 2012
+Citations:
+Authors: K Yelick
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+333. LBNL Computational ResearchTheory Facility Groundbreaking-Full Press Conference. Feb 1st, 2012
+Citations:
+Authors: K Yelick
+Publication: Office of Scientific and Technical Information, Oak Ridge, TN
+
+334. Exascale opportunities and challenges
+Citations:
+Authors: K Yelick
+Publication: Proceedings of the 20th international symposium on High performance …
+
+335. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+336. Technical perspective Abstraction for parallelism
+Citations:
+Authors: K Yelick
+Publication: Communications of the ACM 52 (9), 88-88
+
+337. International Journal of High Performance
+Citations:
+Authors: J Dongarra, J Langou
+Publication: The International Journal of High Performance Computing Applications 23 (1 …
+
+338. Multicore: Fallout from a Computing Evolution
+Citations:
+Authors: K Yelick
+Publication: LBNL (Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United …
+
+339. Multicore: Fallout From a Computing Evolution (LBNL Summer Lecture Series)
+Citations:
+Authors: K Yelick
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+340. PERI-Auto-tuning Memory Intensive Kernels for Multicore
+Citations:
+Authors: DH Bailey, S Williams, K Datta, J Carter, L Oliker, J Shalf, K Yelick, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+341. John Mellor-Crummey, Rice University
+Citations:
+Authors: P Beckman, K Cooper, J Dongarra, W Gropp, E Lusk, B Miller, K Yelick
+Publication: 
+
+342. NERSC 2016: Ultra-Efficient Scientific Platforms
+Citations:
+Authors: WTC Kramer, JM Shalf, EW Bethel, DA Agarwal, MJ Banda, JA Hules, ...
+Publication: 
+
+343. International Journal of High Performance
+Citations:
+Authors: K Yelick, P Hilfinger, S Graham, D Bonachea, J Su, A Kamil, K Datta, ...
+Publication: The International Journal of High Performance Computing Applications 21 (3 …
+
+344. Memory models and concurrency analysis
+Citations:
+Authors: K Yelick
+Publication: Principles and Practice of Parallel Programming: Proceedings of the 12 th …
+
+345. WTEC Panel Report on High-End Computing Research and Development in Japan.
+Citations:
+Authors: R Biswas, J Dongarra, P Paul, AW TRIVELPIECE, K YELICK
+Publication: 
+
+346. Performance Analysis of a High Energy Colliding Beam Simulation Code on Four HPC Architectures
+Citations:
+Authors: H Shan, J Qiang, E Strohmaier, K Yelick
+Publication: 2006 International Conference on Parallel Processing (ICPP'06), 237-244
+
+347. Software Roadmap to Plug and Play Petaflop/s
+Citations:
+Authors: K Yelick
+Publication: 
+
+348. Performance Modeling and Optimization of a High Energy Colliding Beam Simulation Code
+Citations:
+Authors: K Yelick
+Publication: Proceedings of SC2006
+
+349. Use of a high-level language in high performance biomechanics simulations
+Citations:
+Authors: K Yelick, A Solar-Lezama, J Su, D Bonachea, A Kamil
+Publication: Journal of Biomechanics, S435
+
+350. Minisymposia-X Runtime Software Techniques for Enabling High-Performance Applications-Performance Tuning of Matrix Triple Products Based on Matrix Structure
+Citations:
+Authors: EJ Im, I Bustany, C Ashcraft, JW Demmel, KA Yelick
+Publication: Lecture Notes in Computer Science 3732, 740-746
+
+351. Language innovations for HPCS
+Citations:
+Authors: K Yelick
+Publication: Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of …
+
+352. Science-Driven Computing: NERSC's Plan for 2006-2010
+Citations:
+Authors: HD Simon, WTC Kramer, DH Bailey, MJ Banda, E Bethel, JM Craw, ...
+Publication: Ernest Orlando Lawrence Berkeley NationalLaboratory, Berkeley, CA (US)
+
+353. An interface for a self-optimizing sparse matrix kernel library
+Citations:
+Authors: R Vuduc, JW Demmel, KA Yelick
+Publication: 
+
+354. International Journal of High Performance
+Citations:
+Authors: AA Mirin, WB Sawyer
+Publication: The International Journal of High Performance Computing Applications 19 (3 …
+
+355. UPC Distributed Shared Memory Programming, Hoboken
+Citations:
+Authors: T El-Gazawi, W Carlson, T Sterling, K Yelick
+Publication: NJ: John Wiley and Sons
+
+356. Optimizations & Bounds for Sparse Symmetric Matrix-Vector Multiply
+Citations:
+Authors: BC Lee, RW Vuduc, JW Demmel, KA Yelick
+Publication: University of California, Berkeley
+
+357. Special Performance on Automatic Performance Tuning
+Citations:
+Authors: K Yelick
+Publication: INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS 18 (1), 19-20
+
+358. Automatic Performance Tuning of Sparse Matrix Kernels
+Citations:
+Authors: J Demmel, K Yelick, R Vuduc, S Kamil, R Nishtala, B Lee, A Gyulassy, ...
+Publication: 
+
+359. Audio engineering and psychoacoustics, matching signals to the final receiver, the human auditory system.
+Citations:
+Authors: T Surya Gunawan, M Kartiwi, O O. Khalifa, M Berekovic, HJ Stolberg, ...
+Publication: Journal of Applied Sciences 12 (4), 688-699
+
+360. Performance Optimizations and Boundsfor Sparse Matrix-Vector Multiply
+Citations:
+Authors: R Vuduc, J Demmel, K Yelick, S Kamil, R Nishtala, B Lee
+Publication: 
+
+361. Memory-Intensive Benchmarks: IRAM vs. Cache-Based Machines
+Citations:
+Authors: R Biswas, BR Gaeke, P Husbands, XS Li, L Oliker, KA Yelick, B Biegel
+Publication: 
+
+362. Compiling Explicitly Parallel Programs
+Citations:
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit
+Publication: CALIFORNIA UNIV BERKELEY
+
+363. Systems Software for Irregular Parallel Applications
+Citations:
+Authors: K Yelick
+Publication: CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV
+
+364. The Castle Project
+Citations:
+Authors: T Anderson, D Culler, J Demmel, J Feldman, S Graham, P Hilfinger, ...
+Publication: USDOE Oakland Operations Office, Oakland, CA (US)
+
+365. IRREGULAR'00 SEVENTH INTERNATIONAL WORKSHOP ON SOLVING IRREGULARLY STRUCTURED PROBLEMS IN PARALLEL
+Citations:
+Authors: T Davis, S Rajasekeran, S Ranka, J Rolim, C Ashcraft, H ElGindy, ...
+Publication: 
+
+366. Empirical Evaluation of Global Memory Support on the Cray-T3D and
+Citations:
+Authors: A Krishnamurthy, DE Culler, K Yelick
+Publication: University of California at Berkeley
+
+367. The Energy Efﬁeiency of IRAM Architectures
+Citations:
+Authors: B McGaughy, D Patterson, T Anderson, K Yelick
+Publication: 
+
+368. Hagerup, Torben, 185 Hermans, Jan, 125 J Jha, Rakesh, 23 K
+Citations:
+Authors: P Calégari, DA Castañon, S Chakrabarti, G Ciardo, M Cross, J Demmel, ...
+Publication: Journal of Parallel and Distributed Computing 47, 198
+
+369. Systems support for irregular parallel applications
+Citations:
+Authors: K Yelick
+Publication: International Workshop on Parallel Algorithms for Irregularly Structured …
+
+370. Agrawal, Dharma P., 107
+Citations:
+Authors: C Ancourt, S Bae, P Banerjee, R Bordawekar, BC Bromley, MC Carlisle, ...
+Publication: Journal of Parallel and Distributed Computing 38, 289
+
+371. Concurrency-based approaches to parallel programming
+Citations:
+Authors: LV Kale, N Chrisochoides, J Kohl
+Publication: Oak Ridge National Lab., TN (United States); California Univ., Berkeley, CA …
+
+372. Parallel Object-Oriented Software And Tools
+Citations:
+Authors: LV Kale, N Chrisochoidesy, J Kohl, K Yelick
+Publication: 
+
+373. Empirical Evaluation of the CRAY-T3D: A Compiler Perspective
+Citations:
+Authors: SG Steinberg, K Yelick
+Publication: 
+
+374. A Uniﬁed Model for Shared-Memory and
+Citations:
+Authors: K Goldman, K Yelick
+Publication: 
+
+375. Using abstraction in explicity parallel programs. Doctoral thesis
+Citations:
+Authors: KA Yelick
+Publication: Massachusetts Inst. of Tech., Cambridge, MA (United States). Lab. for …
+
+376. Parallel Completion
+Citations:
+Authors: KA Yelick
+Publication: Proceedings of the International Workshop on Parallelization in Inference …
+
+377. Modeling the Benefits of Mixed Data and Task Parallelism
+Citations:
+Authors: J Demmel, K Yelick
+Publication: 
+
+378. Project Landing Page
+Citations:
+Authors: J Demmel, K Yelick, R Vuduc
+Publication: 
+
+379. 2014 IEEE International Parallel & Distributed Processing Symposium (IPDPS)(2014)
+Citations:
+Authors: S Misra, K Pamnany, S Aluru
+Publication: 
+
+380. Performance Optimizations and Bounds for Sparse Matrix Kernels
+Citations:
+Authors: R Vuduc, JW Demmel, KA Yelick, S Kamil, R Nishtala, B Lee
+Publication: 
+
+381. Ayal Zaks (Intel/Technion) Bilha Mendelson (Optitura) Costin Iancu (Lawrence Berkeley National Laboratory) Erik Altman (IBM)
+Citations:
+Authors: G Silberman, G Gao, JL Gaudiot, K Yelick, K Ebcioglu, L Rauchweger, ...
+Publication: 
+
+382. LANGUAGES FOR HIGH-PRODUCTIVITY COMPUTINC, THE DARPA HIPCS LANGUAGE PROJECT
+Citations:
+Authors: L EVVING, K YELICK
+Publication: 
+
+383. Communication Lower Bounds and Optimal Algorithms for Programs that Reference Arrays
+Citations:
+Authors: J Demmel, M Christ, N Knight, T Scanlon, K Yelick
+Publication: 
+
+384. symPACK
+Citations:
+Authors: M Jacquelin, E Ng, K Yelick
+Publication: 
+
+385. symPACK: a solver for sparse Symmetric Matrices
+Citations:
+Authors: M Jacquelin, E Ng, K Yelick, Y Zheng
+Publication: 
+
+386. Global Address Space Applications
+Citations:
+Authors: K Yelick
+Publication: 
+
+387. Operating Systems for Exascale
+Citations:
+Authors: J Shalf, T Sterling, C Iancu, K Yelick, J Kubiatowicz
+Publication: 
+
+388. yelick@ cs. berkeley. edu
+Citations:
+Authors: K Yelick
+Publication: 
+
+389. Computers for the Post-PC Era
+Citations:
+Authors: A Brown, J Beck, K Keeton, R Martin, D Oppenheimer, R Thomas, ...
+Publication: 
+
+390. Network Analogy
+Citations:
+Authors: K Yelick
+Publication: 
+
+391. Exascale Computing Study: Technology challenges in acheiving exascale systems, September 2008
+Citations:
+Authors: P Kogge, K Bergman, S Borkar, D Campbell, W Carlson, W Dally, ...
+Publication: 
+
+392. Message Passing Programming (MPI)
+Citations:
+Authors: K Yelick
+Publication: 
+
+393. CS 267: Optimizing for Uniprocessors—A Case Study in Matrix Multiplication
+Citations:
+Authors: K Yelick
+Publication: 
+
+394. Single Processor Optimizations Matrix Multiplication Case Study
+Citations:
+Authors: K Yelick
+Publication: 
+
+395. CS267/E233
+Citations:
+Authors: K Yelick
+Publication: 
+
+396. Recap of “Sources of Parallelism” Lecture
+Citations:
+Authors: K Yelick, SOR Red-Black, C Gradient
+Publication: 
+
+397. Single Processor Machines: Memory Hierarchies and Processor Features
+Citations:
+Authors: K Yelick
+Publication: 
+
+398. yelick@ cs. berkeley. edu www. cs. berkeley. edu/~ yelick/cs267_sp07
+Citations:
+Authors: K Yelick
+Publication: 
+
+399. A generic parallel architecture
+Citations:
+Authors: K Yelick
+Publication: 
+
+400. HIGH-END COMPUTING RESEARCH AND DEVELOPMENT IN JAPAN
+Citations:
+Authors: AW Trivelpiece, R Biswas, J Dongarra, P Paul, K Yelick
+Publication: 
+
+401. Partitioned Global Address Space Languages for Multilevel Parallelism
+Citations:
+Authors: K Yelick
+Publication: 
+
+402. Center for Scalable Application Development Software (CScADS): Automatic Performance Tuning Workshop
+Citations:
+Authors: K Yelick
+Publication: 
+
+403. The Potential of the Cell Processor for Scientific Computing (2006)
+Citations:
+Authors: S Williams, J Shalf, L Oliker, S Kamil, P Husbands, K Yelick
+Publication: 
+
+404. Lawrence Berkeley National Laboratory, Berkeley, California Vivek Sarkar, Co-Principal Investigator 2 Rice University, Houston, Texas James Demmel, Co-Principal Investigator 3
+Citations:
+Authors: K Yelick
+Publication: 
+
+405. Titanium: A Java Dialect for High Performance Computing
+Citations:
+Authors: K Yelick
+Publication: 
+
+406. Fault Tolerance for Remote Memory Access in Unified Parallel C
+Citations:
+Authors: M Ellis, YA Ji, E Roman, K Yelick
+Publication: 
+
+407. The Eighth Workshop on Solving Irregularly Structured Problems in Parallel
+Citations:
+Authors: EG Ng, P Amestoy, I d'Electronique, S Chatterjee, E Chow, T Davis, ...
+Publication: 
+
+408. DARPA's HPCS Program: History, Models, Tools, Languages
+Citations:
+Authors: E Lusk, P Luszczek, A Snavely, J Vetter, K Yelick, S Alam, R Campbell, ...
+Publication: 
+
+409. Autotuning Scientific Kernels on Multicore Systems
+Citations:
+Authors: S Williams, J Carter, J Demmel, L Oliker, D Patterson, J Shalf, K Yelick, ...
+Publication: Cell 128, 256.0
+
+410. Parallel Spectral Methods: Solving Elliptic Problems with FFTs
+Citations:
+Authors: DH Bailey, K Yelick
+Publication: 
+
+411. CS 267: Applications of Parallel Computers Performance Modeling and Analysis
+Citations:
+Authors: K Yelick
+Publication: 
+
+412. ROADMAP
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, JC Andre, JY Berthou, T Boku, ...
+Publication: 
+
+413. Jack Dongarra Pete Beckman Terry Moore Jean-Claude Andre
+Citations:
+Authors: JY Berthou, T Boku, F Cappello, B Chapman, X Chi, M Hereld, M Heroux, ...
+Publication: 
+
+414. CS 267: Applications of Parallel Computers Graph Partitioning
+Citations:
+Authors: J Demmel, K Yelick
+Publication: 
+
+415. Search eLibrary
+Citations:
+Authors: LL Grigsby
+Publication: 
+
+416. AN IMMERSED BOUNDARY SIMULATION SOFTWARE IN TITANIUM
+Citations:
+Authors: E GIVELBERG, K YELICK
+Publication: 
+
+417. Partitioned Global Address Space Languages on the IBM BlueGene/P
+Citations:
+Authors: R Nishtala, PH Hargrove, DO Bonachea, KA Yelick
+Publication: 
+
+418. Simulating Blood Flow in the Heart with Titanium, A High-Performance Java Dialect
+Citations:
+Authors: S Yau, S Merchant, K Yelick
+Publication: 
+
+419. Memory Hierarchy Optimizations and Performance Bounds for Sparse Ì Ü
+Citations:
+Authors: R Vuduc, A Gyulassy, J Demmel, K Yelick
+Publication: 
+
+420. Generating Permutation Instructions from a High-Level
+Citations:
+Authors: M Narayanan, KA Yelick
+Publication: 
+
+421. Creating Software Technology to Harness the Power of Leadership-class Computing Systems
+Citations:
+Authors: J Mellor-Crummey, P Beckman, J Dongarra, B Miller, K Yelick
+Publication: 
+
+422. pOSKI: An Extensible Autotuning Framework to Perform Optimized SpMVs on Multicore Architectures by Ankit Jain ankit@ berkeley. edu Computer Science Division, University of …
+Citations:
+Authors: K Yelick
+Publication: Department of Electrical Engineering and Computer Sciences, University of …
+
+423. Analyzing Ultrascale Application Communication Requirements
+Citations:
+Authors: J Shalf, L Oliker, K Yelick, S Kamil
+Publication: 
+
+424. CS 267: Applications of Parallel Computers Graph Partitioning
+Citations:
+Authors: K Yelick
+Publication: 
+
+425. IPDPS 2012 Program Co-Chairs Lawrence Berkeley National Laboratory, USA University of California at Berkeley, USA
+Citations:
+Authors: L Oliker, K Yelick
+Publication: 
+
+426. Unified Parallel C (UPC)
+Citations:
+Authors: K Yelick
+Publication: 
+
+427. FP 14.1 Intelligent RAM (IRAM): Chips that remember and compute
+Citations:
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 
+
+428. Jack Dongarra Pete Beckman Terry Moore Patrick Aerts
+Citations:
+Authors: G Aloisio, JC Andre, D Barkai, JY Berthou, T Boku, B Braunschweig, ...
+Publication: 
+

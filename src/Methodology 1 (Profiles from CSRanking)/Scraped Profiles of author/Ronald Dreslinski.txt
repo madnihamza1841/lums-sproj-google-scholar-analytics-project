@@ -1,0 +1,588 @@
+https://scholar.google.com/citations?hl=en&user=4O-rMYEAAAAJ
+Total Citations = 5212
+
+1. The M5 simulator: Modeling networked systems
+Citations:971
+Authors: NL Binkert, RG Dreslinski, LR Hsu, KT Lim, AG Saidi, SK Reinhardt
+Publication: IEEE Micro 26 (4), 52-60
+
+2. Near-threshold computing: Reclaiming moore's law through energy efficient integrated circuits
+Citations:785
+Authors: RG Dreslinski, M Wieckowski, D Blaauw, D Sylvester, T Mudge
+Publication: Proceedings of the IEEE 98 (2), 253-266
+
+3. A survey of multicore processors
+Citations:339
+Authors: G Blake, RG Dreslinski, T Mudge
+Publication: IEEE Signal Processing Magazine 26 (6), 26-37
+
+4. PicoServer: using 3D stacking technology to enable a compact energy efficient chip multiprocessor
+Citations:244
+Authors: T Kgil, S D'Souza, A Saidi, N Binkert, R Dreslinski, T Mudge, S Reinhardt, ...
+Publication: ACM SIGPLAN Notices 41 (11), 117-128
+
+5. Full-system analysis and characterization of interactive smartphone applications
+Citations:195
+Authors: A Gutierrez, RG Dreslinski, TF Wenisch, T Mudge, A Saidi, C Emmons, ...
+Publication: 2011 IEEE International Symposium on Workload Characterization (IISWC), 81-90
+
+6. Composite Cores: Pushing Heterogeneity into a Core
+Citations:163
+Authors: A Lukefahr, S Padmanabha, R Das, F Sleiman, R Dreslinski, T Wenisch, ...
+Publication: Proc. of the 45th Annual International Symposium on Microarchitecture
+
+7. Sirius: An open end-to-end voice and vision personal assistant and its implications for future warehouse scale computers
+Citations:156
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: Proceedings of the Twentieth International Conference on Architectural …
+
+8. Catnap: Energy proportional multiple network-on-chip
+Citations:136
+Authors: R Das, S Narayanasamy, SK Satpathy, RG Dreslinski
+Publication: Proceedings of the 40th annual international symposium on Computer …
+
+9. Energy efficient near-threshold chip multi-processing
+Citations:117
+Authors: B Zhai, RG Dreslinski, D Blaauw, T Mudge, D Sylvester
+Publication: Proceedings of the 2007 international symposium on Low power electronics and …
+
+10. DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers
+Citations:108
+Authors: J Hauswald, Y Kang, MA Laurenzano, Q Chen, C Li, T Mudge, ...
+Publication: Proceedings of the 42nd Annual International Symposium on Computer …
+
+11. Centip3De: A 3930DMIPS/W configurable near-threshold 3D stacked system with 64 ARM Cortex-M3 cores
+Citations:107
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: 2012 IEEE International Solid-State Circuits Conference, 190-192
+
+12. Evolution of thread-level parallelism in desktop applications
+Citations:104
+Authors: G Blake, RG Dreslinski, T Mudge, K Flautner
+Publication: International Symposium on Computer Architecture (ISCA)
+
+13. Sources of error in full-system simulation
+Citations:96
+Authors: A Gutierrez, J Pusdesris, RG Dreslinski, T Mudge, C Sudanthi, ...
+Publication: 2014 IEEE International Symposium on Performance Analysis of Systems and …
+
+14. Adrenaline: Pinpointing and reigning in tail queries with quick voltage boosting
+Citations:80
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, J Mars, L Tang, ...
+Publication: Proceedings of the 2015 IEEE 21st International Symposium on High …
+
+15. Apparatus and methods for generating a selection signal to perform an arbitration in a single cycle between multiple signal inputs having respective data to send
+Citations:70
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent App. 10/037,295
+
+16. CONTENTION MANAGEMENT FOR A HARDWARE TRANSACTIONAL MEMORY
+Citations:69
+Authors: G Blake, TN Mudge, NYS Chong, RG Dreslinski, SD Biles, E Özer
+Publication: US Patent 20,150,154,045
+
+17. Proactive transaction scheduling for contention management
+Citations:65
+Authors: G Blake, RG Dreslinski, T Mudge
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+18. Exploring DRAM organizations for energy-efficient and resilient exascale memories
+Citations:61
+Authors: B Giridhar, M Cieslak, D Duggal, R Dreslinski, HM Chen, R Patti, B Hold, ...
+Publication: Proceedings of SC13: International Conference for High Performance Computing …
+
+19. Reconfigurable energy efficient near threshold cache architectures
+Citations:61
+Authors: RG Dreslinski, GK Chen, T Mudge, D Blaauw, D Sylvester, K Flautner
+Publication: Proceedings of the 41st annual IEEE/ACM International Symposium on …
+
+20. Swizzle-Switch Networks for Many-Core Systems
+Citations:58
+Authors: K Sewell, RG Dreslinski, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: 
+
+21. Performance analysis of system overheads in TCP/IP workloads
+Citations:56
+Authors: NL Binkert, LR Hsu, AG Saidi, RG Dreslinski, AL Schultz, SK Reinhardt
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+22. An energy efficient parallel architecture using near threshold operation
+Citations:55
+Authors: RG Dreslinkski, B Zhai, T Mudge, D Blaauw, D Sylvester
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+23. Assessing the performance limits of parallelized near-threshold computing
+Citations:51
+Authors: N Pinckney, K Sewell, RG Dreslinski, D Fick, T Mudge, D Sylvester, ...
+Publication: DAC Design Automation Conference 2012, 1143-1148
+
+24. Process variation in near-threshold wide SIMD architectures
+Citations:47
+Authors: S Seo, RG Dreslinski, M Woh, Y Park, C Charkrabari, S Mahlke, D Blaauw, ...
+Publication: DAC Design Automation Conference 2012, 980-987
+
+25. Centip3De: A cluster-based NTC architecture with 64 ARM Cortex-M3 cores in 3D stacked 130 nm CMOS
+Citations:45
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 104-117
+
+26. 14.7 a 288µw programmable deep-learning processor with 270kb on-chip weight storage using non-uniform memory hierarchy for mobile intelligence
+Citations:42
+Authors: S Bang, J Wang, Z Li, C Gao, Y Kim, Q Dong, YP Chen, L Fick, X Sun, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 250-251
+
+27. Scaling Towards Kilo-Core Processors with Asymmetric High-Radix Topologies
+Citations:41
+Authors: N Abeyratne, R Das, Q Li, K Sewell, B Giridhar, RG Dreslinski, D Blaauw, ...
+Publication: 
+
+28. A study of mobile device utilization
+Citations:40
+Authors: C Gao, A Gutierrez, M Rajan, RG Dreslinski, T Mudge, CJ Wu
+Publication: 2015 IEEE International Symposium on Performance Analysis of Systems and …
+
+29. Integrated 3D-stacked server designs for increasing physical density of key-value stores
+Citations:40
+Authors: A Gutierrez, M Cieslak, B Giridhar, RG Dreslinski, L Ceze, T Mudge
+Publication: Proceedings of the 19th international conference on Architectural support …
+
+30. Bloom filter guided transaction scheduling
+Citations:40
+Authors: G Blake, RG Dreslinski, T Mudge
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+31. Centip3De: A 64-Core, 3D Stacked, Near-Threshold System
+Citations:38
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: 
+
+32. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:37
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+33. Cache memory system for a data processing apparatus
+Citations:33
+Authors: RG Dreslinski, GK Chen, TN Mudge, DT Blaauw, D Sylvester
+Publication: US Patent 8,335,122
+
+34. A 4.5Tb/s 3.4Tb/s/W 64×64 switch fabric with self-updating least recently granted priority and quality of service arbitration in 45nm CMOS
+Citations:32
+Authors: S Satpathy, K Sewell, T Manville, YP Chen, R Dreslinski, D Sylvester, ...
+Publication: ISSCC
+
+35. Enhanced memory device
+Citations:30
+Authors: B Oh, S Abeyratne, RG Dreslinski, T Mudge
+Publication: US Patent App. 10/002,657
+
+36. A hybrid approach to offloading mobile image classification
+Citations:28
+Authors: J Hauswald, T Manville, Q Zheng, R Dreslinski, C Chakrabarti, T Mudge
+Publication: 2014 IEEE International Conference on Acoustics, Speech and Signal …
+
+37. Energy-Autonomous Wireless Communication for Millimeter-Scale Internet-of-Things Sensor Nodes
+Citations:27
+Authors: Y Chen, N Chiotellis, LX Chuo, C Pfeiffer, Y Shi, RG Dreslinski, A Grbic, ...
+Publication: IEEE Journal on Selected Areas in Communications
+
+38. Diet SODA: A power-efficient processor for digital cameras
+Citations:26
+Authors: S Seo, RG Dreslinski, M Woh, C Chakrabarti, S Mahlke, T Mudge
+Publication: Low-Power Electronics and Design (ISLPED), 2010 ACM/IEEE International …
+
+39. A 1.07 Tbit/s 128×128 swizzle network for SIMD processors
+Citations:24
+Authors: S Satpathy, Z Foo, B Giridhar, R Dreslinski, D Sylvester, T Mudge, ...
+Publication: VLSI Circuits (VLSIC), 2010 IEEE Symposium on, 81-82
+
+40. A study of thread level parallelism on mobile devices
+Citations:21
+Authors: C Gao, A Gutierrez, RG Dreslinski, T Mudge, K Flautner, G Blake
+Publication: 2014 IEEE International Symposium on Performance Analysis of Systems and …
+
+41. WarpPool: Sharing requests with inter-warp coalescing for throughput processors
+Citations:20
+Authors: J Kloosterman, J Beaumont, M Wollman, A Sethia, R Dreslinski, T Mudge, ...
+Publication: Microarchitecture (MICRO), 2015 48th Annual IEEE/ACM International Symposium …
+
+42. WiBench: An open source kernel suite for benchmarking wireless systems
+Citations:20
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE international symposium on workload characterization (IISWC), 123-132
+
+43. A low power software-defined-radio baseband processor for the Internet of Things
+Citations:19
+Authors: Y Chen, S Lu, HS Kim, D Blaauw, RG Dreslinski, T Mudge
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+44. Analyzing nic overheads in network-intensive workloads
+Citations:19
+Authors: NL Binkert, LR Hsu, AG Saidi, RG Dreslinski, AL Schultz, SK Reinhardt
+Publication: Ann Arbor 1001, 48109-2122
+
+45. Near-threshold computing in FinFET technologies: opportunities for improved voltage scalability
+Citations:18
+Authors: N Pinckney, L Shifren, B Cline, S Sinha, S Jeloka, RG Dreslinski, T Mudge, ...
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 76
+
+46. Near Threshold Computing: From Single Core to Many-Core Energy Efficient Architectures.
+Citations:16
+Authors: R Dreslinski Jr
+Publication: 
+
+47. Near Threshold Computing: Overcoming Performance Degradation from Aggressive Voltage Scaling
+Citations:16
+Authors: R Dreslinski, M Wieckowski, D Blaauw, D Sylvester, T Mudge
+Publication: Proc. Workshop Energy-Efficient Design, 44-49
+
+48. When Homogeneous becomes Heterogeneous--Wearout Aware Task Scheduling for Streaming Applications
+Citations:16
+Authors: D Roberts, RG Dreslinski, E Karl, T Mudge, D Sylvester, D Blaauw
+Publication: Workshop on Operating System support for Heterogeneous Multicore …
+
+49. Crossbar circuitry and method of operation of such crossbar circuitry
+Citations:15
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester, RG Dreslinski
+Publication: US Patent 8,108,585
+
+50. Crossbar circuitry and method of operation of such crossbar circuitry
+Citations:15
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester, RG Dreslinski Jr
+Publication: US Patent 8,108,585
+
+51. The Celerity Open-Source 511-Core RISC-V Tiered Accelerator Fabric: Fast Architectures and Design Methodologies for Fast Chips
+Citations:14
+Authors: S Davidson, S Xie, C Torng, K Al-Hawai, A Rovinski, T Ajayi, L Vega, ...
+Publication: IEEE Micro 38 (2), 30-41
+
+52. Celerity: An Open Source RISC-V Tiered Accelerator Fabric
+Citations:14
+Authors: T Ajayi, K Al-Hawaj, A Amarnath, S Dai, S Davidson, P Gao, G Liu, A Lotfi, ...
+Publication: Symp. on High Performance Chips (Hot Chips)
+
+53. SWIFT: A 2.1 Tb/s 32×32 Self-Arbitrating Manycore Interconnect Fabric
+Citations:14
+Authors: S Satpathy, R Dreslinski, TC Ou, D Sylvester, T Mudge, D Blaauw
+Publication: VLSI Circuits (VLSIC), 2011 IEEE Symposium on
+
+54. MBus: an ultra-low power interconnect bus for next generation nanopower systems
+Citations:13
+Authors: P Pannuto, Y Lee, YS Kuo, ZY Foo, B Kempke, G Kim, RG Dreslinski, ...
+Publication: Computer Architecture (ISCA), 2015 ACM/IEEE 42nd Annual International …
+
+55. Hi-Rise: a high-radix switch for 3D integration with single-cycle arbitration
+Citations:13
+Authors: S Jeloka, R Das, RG Dreslinski, T Mudge, D Blaauw
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 471-483
+
+56. VIX: Virtual Input Crossbar for Efficient Switch Allocation
+Citations:13
+Authors: S Rao, S Jeloka, R Das, D Blaauw, R Dreslinski, T Mudge
+Publication: Proceedings of the The 51st Annual Design Automation Conference on Design …
+
+57. Hardware acceleration for similarity measurement in natural language processing
+Citations:13
+Authors: P Tandon, V Qazvinian, J Chang, P Ranganathan, RG Dreslinski, ...
+Publication: Low Power Electronics and Design (ISLPED), 2013 IEEE International Symposium …
+
+58. Architecting an LTE base station with graphics processing units
+Citations:12
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: Signal Processing Systems (SiPS), 2013 IEEE Workshop on, 219-224
+
+59. Data processing apparatus and method for powering down a cache
+Citations:12
+Authors: RG Dreslinski, A Saidi, NC Paver
+Publication: US Patent 20,130,036,270
+
+60. Embedded way prediction for last-level caches
+Citations:12
+Authors: FM Sleiman, RG Dreslinski, TF Wenisch
+Publication: 2012 IEEE 30th international conference on computer design (ICCD), 167-174
+
+61. Limits of Parallelism and Boosting in Dim Silicon
+Citations:11
+Authors: N Pinckney, D Fick, T Mudge, RG Dreslinski, K Sewell, D Sylvester, ...
+Publication: IEEE Micro 33 (5), 30-37
+
+62. High radix self-arbitrating switch fabric with multiple arbitration schemes and quality of service
+Citations:10
+Authors: S Satpathy, R Das, R Dreslinski, T Mudge, D Sylvester, D Blaauw
+Publication: Proceedings of the 49th Annual Design Automation Conference, 406-411
+
+63. Low power interconnects for SIMD computers
+Citations:10
+Authors: M Woh, S Satpathy, RG Dreslinski, D Kershaw, D Sylvester, D Blaauw, ...
+Publication: 2011 Design, Automation & Test in Europe, 1-6
+
+64. Evaluating private vs. shared last-level caches for energy efficiency in asymmetric multi-cores
+Citations:9
+Authors: A Gutierrez, RG Dreslinski, T Mudge
+Publication: 2014 International Conference on Embedded Computer Systems: Architectures …
+
+65. 3.7 A 1920× 1080 30fps 2.3 TOPS/W stereo-depth processor for robust autonomous navigation
+Citations:8
+Authors: Z Li, Q Dong, M Saligane, B Kempke, S Yang, Z Zhang, R Dreslinski, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 62-63
+
+66. Using Graphics Processing Units in an LTE Base Station
+Citations:8
+Authors: Q Zheng, Y Chen, H Lee, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: Journal of Signal Processing Systems 78 (1), 35-47
+
+67. Reevaluating Fast Dual-Voltage Power Rail Switching Circuitry
+Citations:8
+Authors: RG Dreslinski, B Giridhar, N Pinckney, D Blaauw, D Sylvester, T Mudge
+Publication: 10th Annual Workshop on Duplicating, Deconstructing and Debunking
+
+68. Analysis of hardware prefetching across virtual page boundaries
+Citations:8
+Authors: RG Dreslinski, AG Saidi, T Mudge, SK Reinhardt
+Publication: Proceedings of the 4th international conference on Computing frontiers, 13-22
+
+69. Using the m5 simulator
+Citations:8
+Authors: SK Reinhardt, N Binkert, A Saidi, RDK Lim
+Publication: ISCA tutorials and workshops, Jun
+
+70. A Programmable Galois Field Processor for the Internet of Things
+Citations:7
+Authors: Y Chen, S Lu, C Fu, D Blaauw, R Dreslinski Jr, T Mudge, HS Kim
+Publication: Proceedings of the 44th Annual International Symposium on Computer …
+
+71. Exploring Fine-Grained Heterogeneity with Composite Cores
+Citations:7
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, RG Dreslinski, ...
+Publication: IEEE Transactions on Computers 65 (2), 535-547
+
+72. Data processing apparatus having a cache configured to perform tag lookup and data access in parallel, and a method of operating the data processing apparatus
+Citations:7
+Authors: FM Sleiman, RG Dreslinski, TF Wenisch
+Publication: US Patent 8,825,955
+
+73. Data processing apparatus having a cache configured to perform tag lookup and data access in parallel, and a method of operating the data processing apparatus
+Citations:7
+Authors: FM Sleiman, RG Dreslinski, TF Wenisch
+Publication: US Patent 8,825,955
+
+74. Centip3De: a many-core prototype exploring 3D integration and near-threshold computing
+Citations:7
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: Communications of the ACM 56 (11), 97-104
+
+75. The performance potential of an integrated network interface
+Citations:7
+Authors: NL Binkert, RG Dreslinski, EG Hallnor, LR Hsu, SE Raasch, AL Schultz, ...
+Publication: Ann Arbor 1001, 48109-2122
+
+76. Impact of FinFET on Near-Threshold Voltage Scalability
+Citations:6
+Authors: N Pinckney, S Jeloka, R Dreslinski, T Mudge, D Sylvester, D Blaauw, ...
+Publication: IEEE Design & Test 34 (2), 31-38
+
+77. Reining in Long Tails in Warehouse-Scale Computers with Quick Voltage Boosting Using Adrenaline
+Citations:6
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, RG Dreslinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 35 (1), 2
+
+78. Designing Future Warehouse-Scale Computers for Sirius, an End-to-End Voice and Vision Personal Assistant
+Citations:6
+Authors: J Hauswald, MA Laurenzano, Y Zhang, H Yang, Y Kang, C Li, A Rovinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 34 (1), 2
+
+79. Checkpointing Exascale Memory Systems with Existing Memory Technologies
+Citations:5
+Authors: N Abeyratne, HM Chen, B Oh, R Dreslinski, C Chakrabarti, T Mudge
+Publication: Proceedings of the Second International Symposium on Memory Systems, 18-29
+
+80. OuterSPACE: An Outer Product Based Sparse Matrix Multiplication Accelerator
+Citations:4
+Authors: S Pal, J Beaumont, DH Park, A Amarnath, S Feng, C Chakrabarti, HS Kim, ...
+Publication: High Performance Computer Architecture (HPCA), 2018 IEEE International …
+
+81. A 1920 1080 30-frames/s 2.3 TOPS/W Stereo-Depth Processor for Energy-Efficient Autonomous Navigation of Micro Aerial Vehicles
+Citations:4
+Authors: Z Li, Q Dong, M Saligane, B Kempke, L Gong, Z Zhang, R Dreslinski, ...
+Publication: IEEE Journal of Solid-State Circuits 53 (1), 76-90
+
+82. Enhancing DRAM Self-Refresh for Idle Power Reduction
+Citations:4
+Authors: B Oh, N Abeyratne, J Ahn, RG Dreslinski, T Mudge
+Publication: Proceedings of the 2016 International Symposium on Low Power Electronics and …
+
+83. Parallelization techniques for implementing trellis algorithms on graphics processors
+Citations:4
+Authors: Q Zheng, Y Chen, R Dreslinski, C Chakrabarti, A Anastasopoulos, ...
+Publication: 2013 IEEE International Symposium on Circuits and Systems (ISCAS2013), 1220-1223
+
+84. A carbon nanotube transistor based RISC-V processor using pass transistor logic
+Citations:3
+Authors: A Amarnath, S Feng, S Pal, T Ajayi, A Rovinski, RG Dreslinski
+Publication: 2017 IEEE/ACM International Symposium on Low Power Electronics and Design …
+
+85. Single cycle arbitration within an interconnect
+Citations:3
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent 9,514,074
+
+86. Single cycle arbitration within an interconnect
+Citations:3
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent 9,514,074
+
+87. Sirius Implications for Future Warehouse-Scale Computers
+Citations:3
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: IEEE Micro 36 (3), 42-53
+
+88. Swizzle Switch: A self-arbitrating high-radix crossbar for NoC systems
+Citations:3
+Authors: R Dreslinski, K Sewell, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: 2012 IEEE Hot Chips 24 Symposium (HCS), 1-44
+
+89. Reconfigurable multicore server processors for low power operation
+Citations:3
+Authors: RG Dreslinski, D Fick, D Blaauw, D Sylvester, T Mudge
+Publication: International Workshop on Embedded Computer Systems, 247-254
+
+90. Energy-efficient simultaneous thread fetch from different cache levels in a soft real-time SMT processor
+Citations:3
+Authors: E Özer, RG Dreslinski, T Mudge, S Biles, K Flautner
+Publication: International Workshop on Embedded Computer Systems, 12-22
+
+91. The M5 Simulator: Modeling Networked Systems
+Citations:3
+Authors: NLBRG Dreslinski, LR Hsu, KT Lim, AGSSK Reinhardt
+Publication: Ann Arbor 1001, 48109-2121
+
+92. RunaPred: A Hybrid Runahead/Value Prediction Approach
+Citations:3
+Authors: R Dreslinski, E Karl
+Publication: Ann Arbor 1001, 48109-2122
+
+93. Enhanced Memory Device
+Citations:2
+Authors: B Oh, S Abeyratne, RG Dreslinski, T Mudge
+Publication: US Patent App. 15/081,811
+
+94. Enhanced Memory Device
+Citations:2
+Authors: B Oh, S Abeyratne, RG Dreslinski Jr, T Mudge
+Publication: US Patent 20,170,278,561
+
+95. Circuit design advances for ultra-low power sensing platforms
+Citations:2
+Authors: M Wieckowski, RG Dreslinski, T Mudge, D Blaauw, D Sylvester
+Publication: SPIE Defense, Security, and Sensing, 76790W-76790W-7
+
+96. Quality-of-Service for a High-Radix Switch
+Citations:1
+Authors: N Abeyratne, S Jeloka, Y Kang, D Blaauw, RG Dreslinski, R Das, ...
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+97. An Architecture for Low-Power High-Performance Embedded Computing
+Citations:1
+Authors: RG Dreslinski, Q Zheng, RP Higgins, J Hauswald, D Blaauw, T Mudge, ...
+Publication: GOMACTech Conference (GOMAC), Thirty ninth Annual, 423-426
+
+98. Lazy cache invalidation for self-modifying codes
+Citations:1
+Authors: A Gutierrez, J Pusdesris, RG Dreslinski, T Mudge
+Publication: Proceedings of the 2012 international conference on Compilers, architectures …
+
+99. 3DTUBE: A Design Framework for High-Variation Carbon Nanotube-based Transistor Technology
+Citations:
+Authors: A Amarnathy, J Bagherzadehy, J Tan, RG Dreslinski
+Publication: 2019 IEEE/ACM International Symposium on Low Power Electronics and Design …
+
+100. A 1.4 GHz 695 Giga Risc-V Inst/s 496-Core Manycore Processor With Mesh On-Chip Network and an All-Digital Synthesized PLL in 16nm CMOS
+Citations:
+Authors: A Rovinski, C Zhao, K Al-Hawaj, P Gao, S Xie, C Torng, S Davidson, ...
+Publication: 2019 Symposium on VLSI Circuits, C30-C31
+
+101. A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfiguration in 40 nm
+Citations:
+Authors: S Pal, D Park, S Feng, P Gao, J Tan, A Rovinski, S Xie, C Zhao, ...
+Publication: 2019 Symposium on VLSI Technology, C150-C151
+
+102. Tetris: A Streaming Accelerator for Physics-Limited 3D Plane-Wave Ultrasound Imaging
+Citations:
+Authors: BL West, J Zhou, RG Dreslinski, JB Fowlkes, O Kripfgans, C Chakrabarti, ...
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 189
+
+103. Parallelism Analysis of Prominent Desktop Applications: An 18-Year Perspective
+Citations:
+Authors: S Feng, S Pal, Y Yang, RG Dreslinski
+Publication: 2019 IEEE International Symposium on Performance Analysis of Systems and …
+
+104. Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits
+Citations:
+Authors: R Dreslinski, D Wentzloff, M Fayazi, K Kwon, D Blaauw, D Sylvester, ...
+Publication: University of Michigan Ann Arbor United States
+
+105. Configurable arithmetic unit
+Citations:
+Authors: Y Chen, T Mudge, R Dreslinski, S Lu, HS Kim, DT Blaauw, F Cheng
+Publication: US Patent App. 15/626,335
+
+106. A load balancing technique for memory channels
+Citations:
+Authors: B Oh, NS Kim, J Ahn, B Li, RG Dreslinski, T Mudge
+Publication: Proceedings of the International Symposium on Memory Systems, 55-66
+
+107. Apparatus and methods for generating a selection signal to perform an arbitration in a single cycle between multiple signal inputs having respective data to send
+Citations:
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent App. 15/367,218
+
+108. SINGLE CYCLE ARBITRATION
+Citations:
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent 20,170,083,471
+
+109. MBus: A System Integration Bus for the Modular Microscale Computing Class
+Citations:
+Authors: P Pannuto, Y Lee, YS Kuo, ZY Foo, B Kempke, G Kim, RG Dreslinski, ...
+Publication: IEEE Micro 36 (3), 60-70
+
+110. Leveraging Mobile GPUs for Flexible High-speed Wireless Communication
+Citations:
+Authors: Q Zheng, C Gao, T Mudge, R Dreslinski
+Publication: 
+
+111. Parallelism and Boosting Limits of Dim Silicon
+Citations:
+Authors: N Pinckney, D Fick, T Mudge, R Dreslinski, K Sewell, D Sylvester, ...
+Publication: IEEE Micro, 1
+
+112. Vertical interconnect patterns in multi-layer integrated circuits
+Citations:
+Authors: DA Fick, RG Dreslinski, TN Mudge, DT Blaauw, DM Sylvester
+Publication: US Patent 8,381,155
+
+113. DATA PROCESSING APPARATUS AND METHOD FOR POWERING DOWN A CACHE
+Citations:
+Authors: A SAIDI, NC PAVER, RG DRESLINSKI
+Publication: WO Patent 2,013,017,824
+
+114. DATA PROCESSING APPARATUS AND METHOD FOR POWERING DOWN A CACHE
+Citations:
+Authors: A SAIDI, NC PAVER, RG DRESLINSKI
+Publication: WO Patent 2,013,017,824
+
+115. XPoint cache: scaling existing bus-based coherence protocols for 2D and 3D many-core systems
+Citations:
+Authors: RG Dreslinski, T Manville, K Sewell, R Das, N Pinckney, S Satpathy, ...
+Publication: Proceedings of the 21st international conference on Parallel architectures …
+
+116. PicoServer Revisited: On the Profitability of Eliminating Intermediate Cache Levels
+Citations:
+Authors: P Tandon, J Chang, RG Dreslinski, P Ranganathan, T Mudge, ...
+Publication: 
+
+117. An Evaluation Methodology for Exascale Memory Systems
+Citations:
+Authors: RG Dreslinski, B Giridhar, M Cieslak, Y Kang, D Blaauw, T Mudge, ...
+Publication: 
+

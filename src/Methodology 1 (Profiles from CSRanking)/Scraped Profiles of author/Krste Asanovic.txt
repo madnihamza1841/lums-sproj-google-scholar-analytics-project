@@ -1,0 +1,1703 @@
+https://scholar.google.com/citations?hl=en&user=e4I7ihkAAAAJ
+Total Citations = 16159
+
+1. The landscape of parallel computing research: A view from berkeley
+Citations:2466
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+2. Optimizing matrix multiply using PHiPAC: a portable, high-performance, ANSI C coding methodology
+Citations:707
+Authors: J Bilmes, K Asanovic, CW Chin, J Demmel
+Publication: International Conference on Supercomputing 27
+
+3. A view of the parallel computing landscape
+Citations:695
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+4. Unbounded transactional memory
+Citations:674
+Authors: CS Ananian, K Asanovic, BC Kuszmaul, CE Leiserson, S Lie
+Publication: 11th International Symposium on High-Performance Computer Architecture, 316-327
+
+5. Energy-aware lossless data compression
+Citations:595
+Authors: KC Barr, K Asanović
+Publication: ACM Transactions on Computer Systems (TOCS) 24 (3), 250-291
+
+6. Single-chip microprocessor that communicates directly using light
+Citations:560
+Authors: C Sun, MT Wade, Y Lee, JS Orcutt, L Alloatti, MS Georgas, AS Waterman, ...
+Publication: Nature 528 (7583), 534
+
+7. Building many-core processor-to-DRAM networks with monolithic CMOS silicon photonics
+Citations:485
+Authors: C Batten, A Joshi, J Orcutt, A Khilo, B Moss, CW Holzwarth, MA Popovic, ...
+Publication: IEEE Micro 29 (4), 8-21
+
+8. Victim replication: Maximizing capacity while hiding wire delay in tiled chip multiprocessors
+Citations:441
+Authors: M Zhang, K Asanovic
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 336-345
+
+9. Reducing power density through activity migration
+Citations:395
+Authors: S Heo, K Barr, K Asanović
+Publication: Proceedings of the 2003 international symposium on Low power electronics and …
+
+10. Chisel: constructing hardware in a scala embedded language
+Citations:367
+Authors: J Bachrach, H Vo, B Richards, Y Lee, A Waterman, R Avižienis, ...
+Publication: DAC Design Automation Conference 2012, 1212-1221
+
+11. Mondrian memory protection
+Citations:360
+Authors: E Witchel, J Cates, K Asanovic
+Publication: Proceedings of the 10th Int’l Conference on Architectural Support for …
+
+12. Direction-optimizing breadth-first search
+Citations:356
+Authors: S Beamer, K Asanović, D Patterson
+Publication: Scientific Programming 21 (3-4), 137-148
+
+13. Silicon-photonic clos networks for global on-chip communication
+Citations:347
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanovic, ...
+Publication: 2009 3rd ACM/IEEE International Symposium on Networks-on-Chip, 124-133
+
+14. Dynamic zero compression for cache energy reduction
+Citations:253
+Authors: L Villa, M Zhang, K Asanović
+Publication: MICRO 33: Proceedings of the 33rd annual international symposium on Microar …
+
+15. Scalable processors in the billion-transistor era: IRAM
+Citations:232
+Authors: CE Kozyrakis, S Perissakis, D Patterson, T Anderson, K Asanovic, ...
+Publication: IEEE Computer Special Issue: Future Microprocessors-How to use a Billion …
+
+16. The vector-thread architecture
+Citations:222
+Authors: R Krashinsky, C Batten, M Hampton, S Gerding, B Pharris, J Casper, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 52
+
+17. Vector microprocessors
+Citations:201
+Authors: K Asanovic, J Wawrzynek
+Publication: University of California, Berkeley
+
+18. RAMP: Research accelerator for multiple processors
+Citations:191
+Authors: J Wawrzynek, D Patterson, M Oskin, SL Lu, C Kozyrakis, JC Hoe, D Chiou, ...
+Publication: IEEE micro 27 (2), 46-57
+
+19. Phantom: Practical oblivious computation in a secure processor
+Citations:181
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+20. Banked multiported register files for high-frequency superscalar microprocessors
+Citations:178
+Authors: JH Tseng, K Asanovic
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+21. Globally-synchronized frames for guaranteed quality-of-service in on-chip networks
+Citations:174
+Authors: JW Lee, MC Ng, K Asanovic
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 89-100
+
+22. Dynamic fine-grain leakage reduction using leakage-biased bitlines
+Citations:165
+Authors: S Heo, K Barr, M Hampton, K Asanovic
+Publication: Proceedings 29th Annual International Symposium on Computer Architecture …
+
+23. Tessellation: Space-time partitioning in a manycore client OS
+Citations:138
+Authors: R Liu, K Klues, S Bird, S Hofmeyr, K Asanovic, J Kubiatowicz
+Publication: Proceedings of the First USENIX conference on Hot topics in parallelism, 10-10
+
+24. Experimental determination of precision requirements for back-propagation training of artificial neural networks
+Citations:137
+Authors: K Asanovic, N Morgan
+Publication: International Computer Science Institute
+
+25. The Rocket Chip Generator
+Citations:127
+Authors: K Asanovi, R Avizienis, J Bachrach, S Beamer, D Biancolin, C Celio, ...
+Publication: Technical Report No. UCB/EECS-2016-17
+
+26. Exploring the tradeoffs between programmability and efficiency in data-parallel accelerators
+Citations:126
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanović
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 129-140
+
+27. RAMP gold: an FPGA-based architecture simulator for multiprocessors
+Citations:124
+Authors: Z Tan, A Waterman, R Avizienis, Y Lee, H Cook, D Patterson, K Asanović
+Publication: Proceedings of the 47th Design Automation Conference, 463-468
+
+28. Direct addressed caches for reduced power consumption
+Citations:123
+Authors: E Witchel, S Larsen, CS Ananian, K Asanović
+Publication: Proceedings of the 34th annual ACM/IEEE international symposium on …
+
+29. Re-architecting DRAM memory systems with monolithically integrated silicon photonics
+Citations:122
+Authors: S Beamer, C Sun, YJ Kwon, A Joshi, C Batten, V Stojanović, K Asanović
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 129-140
+
+30. Spert-II: A vector microprocessor system
+Citations:120
+Authors: J Wawrzynek, K Asanovic, B Kingsbury, D Johnson, J Beck, N Morgan
+Publication: Computer 29 (3), 79-86
+
+31. Mondrix: Memory isolation for Linux using Mondriaan memory protection
+Citations:115
+Authors: E Witchel, J Rhee, K Asanović
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 31-44
+
+32. SEJITS: Getting productivity and performance with selective embedded JIT specialization
+Citations:110
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Programming Models for Emerging Architectures 1 (1), 1-9
+
+33. The risc-v instruction set manual, volume i: Base user-level isa
+Citations:103
+Authors: A Waterman, Y Lee, DA Patterson, K Asanovic
+Publication: EECS Department, UC Berkeley, Tech. Rep. UCB/EECS-2011-62 116
+
+34. A hardware evaluation of cache partitioning to improve utilization and energy-efficiency while preserving responsiveness
+Citations:102
+Authors: H Cook, M Moreto, S Bird, K Dao, DA Patterson, K Asanovic
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 308-319
+
+35. Highly-associative caches for low-power processors
+Citations:101
+Authors: M Zhang, K Asanovic
+Publication: Kool Chips Workshop, MICRO 33
+
+36. Parallelizing the web browser
+Citations:96
+Authors: CG Jones, R Liu, L Meyerovich, K Asanovic, R Bodik
+Publication: Proceedings of the First USENIX Workshop on Hot Topics in Parallelism
+
+37. Locality exists in graph processing: Workload characterization on an ivy bridge server
+Citations:94
+Authors: S Beamer, K Asanovic, D Patterson
+Publication: 2015 IEEE International Symposium on Workload Characterization, 56-65
+
+38. Designing chip-level nanophotonic interconnection networks
+Citations:86
+Authors: C Batten, A Joshi, V Stojanovć, K Asanović
+Publication: Integrated Optical Interconnect Architectures for Embedded Systems, 81-135
+
+39. Composing parallel software efficiently with lithe
+Citations:84
+Authors: H Pan, B Hindman, K Asanović
+Publication: ACM Sigplan Notices 45 (6), 376-387
+
+40. A 45nm 1.3 GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators
+Citations:83
+Authors: Y Lee, A Waterman, R Avizienis, H Cook, C Sun, V Stojanović, K Asanović
+Publication: ESSCIRC 2014-40th European Solid State Circuits Conference (ESSCIRC), 199-202
+
+41. The RISC-V instruction set manual, volume I: User-level ISA
+Citations:81
+Authors: A Waterman, Y Lee, DA Patterson, K Asanovic
+Publication: CS Division, EECE Department, University of California, Berkeley
+
+42. Energy-efficient register access
+Citations:81
+Authors: JH Tseng, K Asanovic
+Publication: Proceedings 13th Symposium on Integrated Circuits and Systems Design (Cat …
+
+43. The GAP benchmark suite
+Citations:79
+Authors: S Beamer, K Asanović, D Patterson
+Publication: arXiv preprint arXiv:1508.03619
+
+44. Rethinking Hardware Support for Network Analysis and Intrusion Prevention.
+Citations:79
+Authors: V Paxson, K Asanovic, S Dharmapurikar, JW Lockwood, R Pang, ...
+Publication: HotSec
+
+45. A case for FAME: FPGA architecture model execution
+Citations:77
+Authors: Z Tan, A Waterman, H Cook, S Bird, K Asanović, D Patterson
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 290-301
+
+46. Virtual local stores: Enabling software-managed memory hierarchies in mainstream computing environments
+Citations:76
+Authors: H Cook, K Asanovic, DA Patterson
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+47. Replacing global wires with an on-chip network: a power analysis
+Citations:74
+Authors: S Heo, K Asanović
+Publication: Proceedings of the 2005 international symposium on Low power electronics and …
+
+48. Protecting Users by Confining JavaScript with {COWL}
+Citations:73
+Authors: D Stefan, EZ Yang, P Marchenko, A Russo, D Herman, B Karp, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+49. Tessellation: refactoring the OS around explicit resource containers with continuous adaptation
+Citations:73
+Authors: JA Colmenares, G Eads, S Hofmeyr, S Bird, M Moretó, D Chou, ...
+Publication: Proceedings of the 50th Annual Design Automation Conference, 76
+
+50. Instruction sets should be free: The case for risc-v
+Citations:71
+Authors: K Asanović, DA Patterson
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+51. The RISC-V Instruction Set Manual. Volume 1: User-Level ISA, Version 2.0
+Citations:70
+Authors: A Waterman, Y Lee, DA Patterson, K Asanovi
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+52. Intelligent ram (iram): the industrial setting, applications, and architectures
+Citations:68
+Authors: D Patterson, K Asanovic, A Brown, R Fromm, J Golbus, B Gribstad, ...
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+53. Firebox: A hardware building block for 2020 warehouse-scale computers
+Citations:67
+Authors: K Asanovic, D Patterson
+Publication: USENIX FAST 13
+
+54. Leakage-biased domino circuits for dynamic fine-grain leakage reduction
+Citations:67
+Authors: S Heo, K Asanovic
+Publication: 2002 Symposium on VLSI Circuits. Digest of Technical Papers (Cat. No …
+
+55. Distributed memory breadth-first search revisited: Enabling bottom-up search
+Citations:66
+Authors: S Beamer, A Buluc, K Asanovic, D Patterson
+Publication: 2013 IEEE International Symposium on Parallel & Distributed Processing …
+
+56. Way memoization to reduce fetch energy in instruction caches
+Citations:65
+Authors: A Ma, M Zhang, K Asanovic
+Publication: ISCA Workshop on Complexity Effective Design 20, 31
+
+57. SRAM assist techniques for operation in a wide voltage range in 28-nm CMOS
+Citations:64
+Authors: B Zimmer, SO Toh, H Vo, Y Lee, O Thomas, K Asanovic, B Nikolic
+Publication: IEEE Transactions on Circuits and Systems II: Express Briefs 59 (12), 853-857
+
+58. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:62
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+59. Trash day: Coordinating garbage collection in distributed systems
+Citations:61
+Authors: M Maas, T Harris, K Asanović, J Kubiatowicz
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+60. The design of a neuro-microprocessor
+Citations:60
+Authors: J Wawrzynek, K Asanovic, N Morgan
+Publication: IEEE Transactions on Neural Networks 4 (3), 394-399
+
+61. Victim migration: Dynamically adapting between private and shared CMP caches
+Citations:57
+Authors: M Zhang, K Asanovic
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+62. Resource management in the Tessellation manycore OS
+Citations:56
+Authors: JA Colmenares, S Bird, H Cook, P Pearce, D Zhu, J Shalf, S Hofmeyr, ...
+Publication: HotPar10, Berkeley, CA
+
+63. Accelerating multiprocessor simulation with a memory timestamp record
+Citations:55
+Authors: KC Barr, H Pan, M Zhang, K Asanovic
+Publication: IEEE International Symposium on Performance Analysis of Systems and Software …
+
+64. Convergence and scalarization for data-parallel architectures
+Citations:54
+Authors: Y Lee, R Krashinsky, V Grover, SW Keckler, K Asanović
+Publication: Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation …
+
+65. ICSI quicknet software package
+Citations:52
+Authors: D Johnson, D Ellis, C Oei, C Wooters, P Faerber, N Morgan, K Asanovic
+Publication: International Computer Science Institute, http://www. icsi. berkeley. edu …
+
+66. The Berkeley Out-of-Order Machine (BOOM): An industry-competitive, synthesizable, parameterized RISC-V processor
+Citations:51
+Authors: C Celio, DA Patterson, K Asanovic
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+67. Vector processing system with multi-operation, run-time configurable pipelines
+Citations:51
+Authors: K Asanovic
+Publication: US Patent 5,805,875
+
+68. Activity-sensitive flip-flop and latch selection for reduced energy
+Citations:50
+Authors: S Heo, R Krashinsky, K Asanovic
+Publication: IEEE transactions on very large scale integration (vlsi) systems 15 (9 …
+
+69. Per-core DVFS with switched-capacitor converters for energy efficiency in manycore processors
+Citations:49
+Authors: R Jevtić, HP Le, M Blagojević, S Bailey, K Asanović, E Alon, B Nikolić
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 23 (4), 723-730
+
+70. System and method for performing memory operations in a computing system
+Citations:45
+Authors: SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...
+Publication: US Patent 8,321,634
+
+71. METERG: Measurement-based end-to-end performance estimation technique in QoS-capable multiprocessors
+Citations:44
+Authors: JW Lee, K Asanovic
+Publication: 12th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS …
+
+72. RAMP: Research accelerator for multiple processors-a community vision for a shared experimental parallel HW/SW platform
+Citations:44
+Authors: KA Arvind, D Chiou, JC Hoe, C Kozyrakis, S Lu, M Oskin, D Patterson, ...
+Publication: UC Berkeley technical report, UCB/CSD-05-1412
+
+73. Heads and tails: a variable-length instruction format supporting parallel fetch and decode
+Citations:44
+Authors: H Pan, K Asanović
+Publication: Proceedings of the 2001 international conference on Compilers, architecture …
+
+74. Activity-sensitive flip-flop and latch selection for reduced energy
+Citations:41
+Authors: S Heo, R Krashinsky, K Asanovic
+Publication: Proceedings 2001 Conference on Advanced Research in VLSI. ARVLSI 2001, 59-74
+
+75. Architecture des ordinateurs
+Citations:41
+Authors: JL Hennessy
+Publication: International Thomson Publishing France
+
+76. Searching for a parent instead of fighting over children: A fast breadth-first search implementation for graph500
+Citations:40
+Authors: S Beamer, K Asanovic, D Patterson, S Beamer, D Patterson
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+77. An agile approach to building RISC-V microprocessors
+Citations:38
+Authors: Y Lee, A Waterman, H Cook, B Zimmer, B Keller, A Puggelli, J Kwak, ...
+Publication: IEEE Micro 36 (2), 8-20
+
+78. Controlling program execution through binary instrumentation
+Citations:38
+Authors: H Pan, K Asanović, R Cohn, CK Luk
+Publication: ACM SIGARCH Computer Architecture News 33 (5), 45-50
+
+79. Cache refill/access decoupling for vector machines
+Citations:38
+Authors: C Batten, R Krashinsky, S Gerding, K Asanovic
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+80. Miss Tags for Fine-Grain CAM-Tag Cache Resizing
+Citations:38
+Authors: M Zhang, K Asanovic
+Publication: Proceedings of the International Symposium on Low Power Electronics and Design
+
+81. Multithreading decoupled architectures for complexity-effective general purpose computing
+Citations:38
+Authors: M Sung, R Krashinsky, K Asanović
+Publication: ACM SIGARCH Computer Architecture News 29 (5), 56-61
+
+82. Taurus: A holistic language runtime system for coordinating distributed managed-language applications
+Citations:37
+Authors: M Maas, K Asanović, T Harris, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 50 (2), 457-471
+
+83. A RISC-V vector processor with simultaneous-switching switched-capacitor DC–DC converters in 28 nm FDSOI
+Citations:37
+Authors: B Zimmer, Y Lee, A Puggelli, J Kwak, R Jevtić, B Keller, S Bailey, ...
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 930-942
+
+84. The risc-v instruction set manual volume 2: Privileged architecture version 1.7
+Citations:36
+Authors: A Waterman, Y Lee, R Avizienis, DA Patterson, K Asanovic
+Publication: University of California at Berkeley Berkeley United States
+
+85. The RAMP architecture & description language
+Citations:36
+Authors: G Gibeling, A Schultz, K Asanovic
+Publication: 2nd Workshop on Architecture Research using FPGA Platforms
+
+86. The span cache: Software controlled tag checks and cache line size
+Citations:35
+Authors: E Witchel, K Asanovic
+Publication: Workshop on Complexity-Effective Design, 28th ISCA
+
+87. Using PHiPAC to speed error back-propagation learning
+Citations:35
+Authors: J Bilmes, K Asanovic, CW Chin, J Demmel
+Publication: 1997 IEEE International Conference on Acoustics, Speech, and Signal …
+
+88. RAMP blue: Implementation of a manycore 1008 processor system
+Citations:34
+Authors: D Burke, J Wawrzynek, K Asanovic, A Krasnov, A Schultz, G Gibeling, ...
+Publication: Proceedings of the Reconfigurable Systems Summer Institute, 2008
+
+89. SPERT: A VLIW/SIMD microprocessor for artificial neural network computations
+Citations:34
+Authors: K Asanovic, J Beck, BED Kingsbury, P Kohn, N Morgan, J Wawrzynek
+Publication: [1992] Proceedings of the International Conference on Application Specific …
+
+90. Power-optimal pipelining in deep submicron technology
+Citations:33
+Authors: S Heo, K Asanovic
+Publication: Proceedings of the 2004 international symposium on Low power electronics and …
+
+91. Load-sensitive flip-flop characterizations
+Citations:33
+Authors: S Heo, K Asanovic
+Publication: Proceedings IEEE Computer Society Workshop on VLSI 2001. Emerging …
+
+92. A RISC-V vector processor with tightly-integrated switched-capacitor DC-DC converters in 28nm FDSOI
+Citations:32
+Authors: B Zimmer, Y Lee, A Puggelli, J Kwak, R Jevtic, B Keller, S Bailey, ...
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C316-C317
+
+93. Lithe: Enabling efficient composition of parallel libraries
+Citations:32
+Authors: H Pan, B Hindman, K Asanovic
+Publication: Proc. of HotPar 9
+
+94. System and technique for fine-grained computer memory protection
+Citations:32
+Authors: K Asanovic, EJ Witchel
+Publication: US Patent 7,287,140
+
+95. Versatility and versabench: A new metric and a benchmark suite for flexible architectures
+Citations:28
+Authors: RM Rabbah, I Bratt, K Asanovic, A Agarwal
+Publication: 
+
+96. Parallel neural network training on multi-spert
+Citations:28
+Authors: P Farber, K Asanovic
+Publication: Proceedings of 3rd International Conference on Algorithms and Architectures …
+
+97. FireSim: FPGA-accelerated cycle-exact scale-out system simulation in the public cloud
+Citations:25
+Authors: S Karandikar, H Mao, D Kim, D Biancolin, A Amid, D Lee, N Pemberton, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+98. A speculative control scheme for an energy-efficient banked register file
+Citations:25
+Authors: JH Tseng, K Asanovic
+Publication: IEEE Transactions on Computers 54 (6), 741-751
+
+99. Strober: fast and accurate sample-based energy simulation for arbitrary RTL
+Citations:24
+Authors: D Kim, A Izraelevitz, C Celio, H Kim, B Zimmer, Y Lee, J Bachrach, ...
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+100. Distributed-memory breadth-first search on massive graphs
+Citations:23
+Authors: A Buluc, S Beamer, K Madduri, K Asanovic, D Patterson
+Publication: arXiv preprint arXiv:1705.04590
+
+101. T0: A single-chip vector microprocessor with reconfigurable pipelines
+Citations:23
+Authors: K Asanovic, J Beck, B Irissou, BED Kingsbury, J Wawrzynek
+Publication: ESSCIRC'96: Proceedings of the 22nd European Solid-State Circuits Conference …
+
+102. BOOMv2: an open-source out-of-order RISC-V core
+Citations:22
+Authors: C Celio, PF Chiu, B Nikolic, DA Patterson, K Asanovic
+Publication: First Workshop on Computer Architecture Research with RISC-V (CARRV)
+
+103. Reducing pagerank communication via propagation blocking
+Citations:22
+Authors: S Beamer, K Asanović, D Patterson
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+104. Exploring the tradeoffs between programmability and efficiency in data-parallel accelerators
+Citations:22
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanović
+Publication: ACM Transactions on Computer Systems (TOCS) 31 (3), 6
+
+105. Computer architecture
+Citations:22
+Authors: DA Patterson, JL Hennessy
+Publication: Morgan
+
+106. The PHiPAC v1. 0 matrix-multiply distribution
+Citations:21
+Authors: J Bilmes, K Asanovic, CW Chin, J Demmel
+Publication: Computer Science
+
+107. A double-pulsed set-conditional-reset flip-flop
+Citations:20
+Authors: A Ma, K Asanovic
+Publication: Laboratory for Computer Science, Massachusetts Inst. Technology, Cambridge …
+
+108. Exploring the design space of SPMD divergence management on data-parallel architectures
+Citations:19
+Authors: Y Lee, V Grover, R Krashinsky, M Stephenson, SW Keckler, K Asanović
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+109. Context-centric security
+Citations:19
+Authors: M Tiwari, P Mohan, A Osheroff, H Alkaff, E Shi, E Love, D Song, ...
+Publication: Proceedings of the 7th USENIX conference on Hot Topics in Security, 9-9
+
+110. Designing multi-socket systems using silicon photonics
+Citations:19
+Authors: S Beamer, K Asanović, C Batten, A Joshi, V Stojanović
+Publication: Proceedings of the 23rd international conference on Supercomputing, 521-522
+
+111. The landscape of parallel computing research: A view from Berkeley, 2006
+Citations:19
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+112. Torrent architecture manual
+Citations:19
+Authors: K Asanovic, D Johnson
+Publication: University of California at Berkeley
+
+113. PHiPAC: A portable, high-performance, ANSI C coding methodology and its application to matrix multiply
+Citations:19
+Authors: J Bilmes, K Asanovic, J Demmel, D Lam, CW Chin
+Publication: Univ. Tennessee, Knoxville, TN, USA, LAPACK Working Note 111
+
+114. A supercomputer for neural computation
+Citations:19
+Authors: K Asanovic, J Beck, J Feldman, N Morgan, J Wawrzynek
+Publication: Proceedings of 1994 IEEE International Conference on Neural Networks (ICNN …
+
+115. Implementing virtual memory in a vector processor with software restart markers
+Citations:18
+Authors: M Hampton, K Asanović
+Publication: Proceedings of the 20th annual international conference on Supercomputing …
+
+116. Using simulations of reduced precision arithmetic to design a neuro-microprocessor
+Citations:18
+Authors: K Asanović, N Morgan, J Wawrzynek
+Publication: Journal of VLSI signal processing systems for signal, image and video …
+
+117. A Case for OS-Friendly Hardware Accelerators
+Citations:17
+Authors: H Vo, Y Lee, A Waterman, K Asanovic
+Publication: 
+
+118. Compiling for vector-thread architectures
+Citations:17
+Authors: M Hampton, K Asanovic
+Publication: Proceedings of the 6th annual IEEE/ACM international symposium on Code …
+
+119. Branch trace compression for snapshot-based simulation
+Citations:17
+Authors: KC Barr, K Asanovic
+Publication: 2006 IEEE International Symposium on Performance Analysis of Systems and …
+
+120. CNS-1 architecture specification
+Citations:17
+Authors: K Asanovic, J Beck, T Callahan, J Feldman, BS Irissou, B Kingsbury, ...
+Publication: University of California at Berkeley
+
+121. GPUs as an opportunity for offloading garbage collection
+Citations:16
+Authors: M Maas, P Reames, J Morlan, K Asanović, AD Joseph, J Kubiatowicz
+Publication: ACM SIGPLAN Notices 47 (11), 25-36
+
+122. Hardware Works, Software Doesn't: Enforcing Modularity with Mondriaan Memory Protection.
+Citations:16
+Authors: E Witchel, K Asanovic
+Publication: HotOS, 139-144
+
+123. Computer Architecture: A Quantitative Approach
+Citations:16
+Authors: D Goldberg, K Asanovic, JL Hennessy, DA Patterson
+Publication: Morgan Kaufmann Publishers
+
+124. Implementing the scale vector-thread processor
+Citations:14
+Authors: R Krashinsky, C Batten, K Asanović
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 13 (3), 41
+
+125. Energy-exposed instruction sets
+Citations:14
+Authors: K Asanović, M Hampton, R Krashinsky, E Witchel
+Publication: Power aware computing, 79-98
+
+126. Designing a connectionist network supercomputer
+Citations:14
+Authors: K ASANOVIĆ, J Beck, J Feldman, N Morgan, J Wawrzynek
+Publication: International journal of neural systems 4 (04), 317-326
+
+127. SyCHOSys: Compiled energy-performance cycle simulation
+Citations:13
+Authors: R Krashinsky, S Heo, M Zhang, K Asanovic
+Publication: Workshop on Complexity-Effective Design, 27th International Symposium on …
+
+128. SPERT-II: A vector microprocessor system and its application to large problems in backpropagation training
+Citations:13
+Authors: J Wawrzynek, K Asanovic, B Kingsbury, J Beck, D Johnson, N Morgan
+Publication: Advances in Neural Information Processing Systems, 619-625
+
+129. Raven: A 28nm RISC-V vector processor with integrated switched-capacitor DC-DC converters and adaptive clocking
+Citations:12
+Authors: Y Lee, B Zimmer, A Waterman, A Puggelli, J Kwak, R Jevtic, B Keller, ...
+Publication: 2015 IEEE Hot Chips 27 Symposium (HCS), 1-45
+
+130. The Berkeley Out-of-Order Machine (BOOM): An industry-competitive, synthesizable, parameterized RISC-V processor
+Citations:12
+Authors: K Asanovic, DA Patterson, C Celio
+Publication: University of California at Berkeley Berkeley United States
+
+131. Energy-exposed instruction set architectures
+Citations:12
+Authors: K Asanovic
+Publication: Work in Progress Session, HPCA 6
+
+132. T0 engineering data. UC Berkeley CS technical report
+Citations:12
+Authors: K Asanovic, J Beck
+Publication: CSD-97-930
+
+133. A RISC-V processor SoC with integrated power management at submicrosecond timescales in 28 nm FD-SOI
+Citations:11
+Authors: B Keller, M Cochet, B Zimmer, J Kwak, A Puggelli, Y Lee, M Blagojević, ...
+Publication: IEEE Journal of Solid-State Circuits 52 (7), 1863-1875
+
+134. Manycore processor networks with monolithic integrated CMOS photonics
+Citations:11
+Authors: V Stojanovic, A Joshi, C Batten, Y Kwon, K Asanovic
+Publication: 2009 Conference on Lasers and Electro-Optics and 2009 Conference on Quantum …
+
+135. The case for the holistic language runtime system
+Citations:10
+Authors: M Maas, K Asanovic, T Harris, J Kubiatowicz
+Publication: First International Workshop on Rackscale Computing
+
+136. A fast Kohonen net implementation for spert-ii
+Citations:10
+Authors: K Asanović
+Publication: International Work-Conference on Artificial Neural Networks, 792-800
+
+137. Evaluation of RISC-V RTL with FPGA-accelerated simulation
+Citations:9
+Authors: D Kim, C Celio, D Biancolin, J Bachrach, K Asanovic
+Publication: First Workshop on Computer Architecture Research with RISC-V
+
+138. DIABLO: A warehouse-scale computer network simulator using FPGAs
+Citations:9
+Authors: Z Tan, Z Qian, X Chen, K Asanovic, D Patterson
+Publication: ACM SIGPLAN Notices 50 (4), 207-221
+
+139. The RISC-V instruction set.
+Citations:9
+Authors: A Waterman, Y Lee, R Avizienis, H Cook, DA Patterson, K Asanovic
+Publication: Hot Chips Symposium, 1
+
+140. Vector processors
+Citations:9
+Authors: K Asanovic, J Hennessy, D Patterson
+Publication: Ph. D. thesis, Computer Science Division, University of California at Berkeley
+
+141. Globally synchronized frames for guaranteed quality-of-service in on-chip networks
+Citations:8
+Authors: JW Lee, MC Ng, K Asanović
+Publication: Journal of Parallel and Distributed Computing 72 (11), 1401-1411
+
+142. Real-time musical applications on an experimental operating system for multi-core processors
+Citations:8
+Authors: JA Colmenares, I Saxton, E Battenberg, R Avizienis, N Peters, K Asanovic, ...
+Publication: ICMC
+
+143. A hardware accelerator for computing an exact dot product
+Citations:7
+Authors: J Koenig, D Biancolin, J Bachrach, K Asanovic
+Publication: 2017 IEEE 24th Symposium on Computer Arithmetic (ARITH), 114-121
+
+144. Grail Quest: A New Proposal for Hardware-assisted Garbage Collection
+Citations:7
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: Workshop on Architectures and Systems for Big Data
+
+145. Opportunities for fine-grained adaptive voltage scaling to improve system-level energy efficiency
+Citations:7
+Authors: B Keller, B Nikolic, K Asanović
+Publication: EECS Department, University of California
+
+146. An fpga host-multithreaded functional model for sparc v8
+Citations:7
+Authors: Z Tan, K Asanovic, D Patterson
+Publication: 3rd Workshop on Architectural Research Prototyping, at 35th International …
+
+147. Transactors for parallel hardware and software co-design
+Citations:7
+Authors: K Asanovic
+Publication: 2007 IEEE International High Level Design Validation and Test Workshop, 140-142
+
+148. A parameterizable FPGA prototype of a vector-thread processor
+Citations:7
+Authors: J Casper, R Krashinsky, C Batten, K Asanovic
+Publication: Workshop on Architecture Research using FPGA Platforms in the 11th …
+
+149. Programmable neurocomputing
+Citations:7
+Authors: K Asanovic
+Publication: The Handbook of Brain Theory and Neural Networks,
+
+150. A hardware accelerator for tracing garbage collection
+Citations:6
+Authors: M Maas, K Asanović, J Kubiatowicz
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+151. Sub-microsecond adaptive voltage scaling in a 28nm FD-SOI processor SoC
+Citations:6
+Authors: B Keller, M Cochet, B Zimmer, Y Lee, M Blagojevic, J Kwak, A Puggelli, ...
+Publication: ESSCIRC Conference 2016: 42nd European Solid-State Circuits Conference, 269-272
+
+152. Productive design of extensible on-chip memory hierarchies
+Citations:6
+Authors: HC Cook
+Publication: UC Berkeley
+
+153. Joint impact of random variations and RTN on dynamic writeability in 28nm bulk and FDSOI SRAM
+Citations:6
+Authors: B Zimmer, O Thomas, SO Toh, T Vincent, K Asanović, B Nikolić
+Publication: 2014 44th European Solid State Device Research Conference (ESSDERC), 98-101
+
+154. The RISC-V instruction set manual, Volume I: Base user-level ISA version 2.0
+Citations:6
+Authors: A Waterman, Y Lee, DA Patterson, K Asanovic
+Publication: EECS Department, UC Berkeley, Tech. Rep. UCB/EECS-2014-54
+
+155. An assessment of environmental impacts of a nextGen implementation scenario and its implications on policy-making
+Citations:6
+Authors: A Fan
+Publication: Massachusetts Institute of Technology
+
+156. The RAMP Architecture, Language and Compiler
+Citations:6
+Authors: G Gibeling, A Schultz, J Wawrzynek, K Asanovic
+Publication: University of California, Berkeley, Tech. Rep
+
+157. Multimedia instruction sets for general purpose microprocessors: a
+Citations:6
+Authors: NT Slingerland, AJ Smith
+Publication: University of California at Berkeley
+
+158. FASED: FPGA-accelerated simulation and evaluation of DRAM
+Citations:5
+Authors: D Biancolin, S Karandikar, D Kim, J Koenig, A Waterman, J Bachrach, ...
+Publication: Proceedings of the 2019 ACM/SIGDA International Symposium on Field …
+
+159. Reprogrammable Redundancy for SRAM-Based Cache Reduction in a 28-nm RISC-V Processor
+Citations:5
+Authors: B Zimmer, PF Chiu, B Nikolić, K Asanović
+Publication: IEEE Journal of Solid-State Circuits 52 (10), 2589-2600
+
+160. Return of the runtimes: Rethinking the language runtime system for the cloud 3.0 era
+Citations:5
+Authors: M Maas, K Asanović, J Kubiatowicz
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 138-143
+
+161. The RISC-V instruction set manual: User-level ISA version 2.1
+Citations:5
+Authors: A Waterman, Y Lee, D Patterson, K Asanovi
+Publication: Dept. Elect. Eng. Comput. Sci., Univ. California, Berkeley, Berkeley, CA …
+
+162. Resilient design methodology for Energy-Efficient SRAM
+Citations:5
+Authors: B Zimmer, B Nikolic, K Asanovic
+Publication: MS report, EECS, UC Berkeley
+
+163. Datacenter-scale network research on fpgas
+Citations:5
+Authors: Z Tan, K Asanovic, D Patterson
+Publication: Proc. Workshop on Exascale Evaluation and Research Techniques
+
+164. An FPGA-based simulator for datacenter networks
+Citations:5
+Authors: Z Tan, K Asanovic, D Patterson
+Publication: Exascale Evaluation and Research Techniques Workshop (EXERT’10), at ASPLOS 10
+
+165. CMOS photonic processor-memory networks
+Citations:5
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: 2010 IEEE Photonics Society Winter Topicals Meeting Series (WTM), 118-119
+
+166. Dynamically resizable static CMOS logic for fine-grain leakage reduction
+Citations:5
+Authors: S Heo, K Asanovic
+Publication: power (mW) 1 (2), 3
+
+167. Evaluation of a'stall'cache: an efficient restricted onchip instruction cache
+Citations:5
+Authors: K Asanovic, KE Schauser, DA Patterson, EH Frank
+Publication: Proceedings of the Twenty-Fifth Hawaii International Conference on System …
+
+168. The Renewed Case for the Reduced Instruction Set Computer: Avoiding ISA Bloat with Macro-Op Fusion for RISC-V
+Citations:4
+Authors: C Celio, P Dabbelt, DA Patterson, K Asanović
+Publication: arXiv preprint arXiv:1607.02318
+
+169. Vector processors for energy-efficient embedded systems
+Citations:4
+Authors: D Dabbelt, C Schmidt, E Love, H Mao, S Karandikar, K Asanovic
+Publication: Proceedings of the Third ACM International Workshop on Many-core Embedded …
+
+170. Chisel 2.2 Tutorial
+Citations:4
+Authors: J Bachrach, K Asanovic, J Wawrzynek
+Publication: 
+
+171. The Hwacha Microarchitecture Manual, Version 3.8.
+Citations:4
+Authors: Y Lee, A Ou, C Schmidt, S Karandikar, H Mao, K Asanovic
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+172. A case for MVPs: mixed-precision vector processors
+Citations:4
+Authors: A Ou, Q Nguyen, Y Lee, K Asanovic
+Publication: International Workshop on Parallelism in Mobile Platforms (PRISM)(June 2014)
+
+173. The great robotics debate
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 56 (7), 5-5
+
+174. MEMOCODE 2008 co-design contest
+Citations:4
+Authors: P Schaumont, K Asanovic, JC Hoe
+Publication: 2008 6th ACM/IEEE International Conference on Formal Methods and Models for …
+
+175. RingScalar: A complexity-effective out-of-order superscalar microarchitecture
+Citations:4
+Authors: JH Tseng, K Asanovic
+Publication: 
+
+176. Developments in Digital VLSI Design for Artificial Neural Networks
+Citations:4
+Authors: NMK Asanovic, B Kingsbury, J Wawrzynek
+Publication: University of California at Berkeley, Berkeley, California
+
+177. An out-of-order RISC-V processor with resilient low-voltage operation in 28nm CMOS
+Citations:3
+Authors: PF Chiu, C Celio, K Asanović, D Patterson, B Nikolić
+Publication: 2018 IEEE Symposium on VLSI Circuits, 61-62
+
+178. The Hwacha vector-fetch architecture manual, version 3.8. 1
+Citations:3
+Authors: Y Lee, C Schmidt, A Ou, A Waterman, K Asanovic
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+179. Mixed precision vector processors
+Citations:3
+Authors: A Ou, K Asanovic, V Stojanovic
+Publication: EECS Dept., Univ. California, Berkeley, CA, USA, Tech. Rep. UCB/EECS-2015–265
+
+180. GAIL: The graph algorithm iron law
+Citations:3
+Authors: S Beamer, K Asanović, D Patterson
+Publication: Proceedings of the 5th Workshop on Irregular Applications: Architectures and …
+
+181. Author retrospective for optimizing matrix multiply using PHiPAC: a portable high-performance ANSI C coding methodology
+Citations:3
+Authors: J Bilmes, K Asanovic, CW Chin, J Demmel
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 42-44
+
+182. A high-performance oblivious RAM controller on the convey HC-2ex heterogeneous computing platform
+Citations:3
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Workshop on the Intersections of Computer Architecture and Reconfigurable …
+
+183. Guest Editors' Introduction: Hot Chips 21
+Citations:3
+Authors: K Asanović, R Wittig
+Publication: IEEE micro 30 (2), 5-6
+
+184. Design-space exploration for CMOS photonic processor networks
+Citations:3
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: 2010 Conference on Optical Fiber Communication (OFC/NFOEC), collocated …
+
+185. Re-architecting DRAM with monolithically integrated silicon photonics
+Citations:3
+Authors: S Beamer, C Sun, Y Kwon, A Joshi, C Batten, V Stojanovic, K Asanovi
+Publication: Proceedings of the 37th International Symposium on Computer Architecture …
+
+186. Photonic many-core architecture study
+Citations:3
+Authors: NT Bliss, K Asanovic, K Bergman, L Carloni, J Kepner, V Stojanovic
+Publication: Proceedings of the Twelfth Annual Workshop on High Performance Embedded …
+
+187. Building manycore processor-to-DRAM networks using monolithic silicon photonics
+Citations:3
+Authors: A Joshi, C Batten, V Stojanović, K Asanović
+Publication: High Performance Embedded Computing (HPEC) Workshop
+
+188. Scale control processor test-chip
+Citations:3
+Authors: C Batten, R Krashinsky, K Asanovic
+Publication: 
+
+189. Victim migration: Dynamically adapting between private and shared cmp caches
+Citations:3
+Authors: K Asanovic, M Zhang, K Asanović
+Publication: Computer Science and Artificial Intelligence Labratory
+
+190. Versatile tiled-processor architectures: the Raw approach
+Citations:3
+Authors: RM Rabbah, I Bratt, A Agarwal, K Asanovic
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+191. Training neural networks with SPERT-II
+Citations:3
+Authors: K Asanovic
+Publication: Parallel architectures for artificial neural networks: Paradigms and …
+
+192. Keystone: A Framework for Architecting TEEs
+Citations:2
+Authors: D Lee, D Kohlbrenner, S Shinde, D Song, K Asanović
+Publication: arXiv preprint arXiv:1907.10119
+
+193. AutoPhase: Compiler Phase-Ordering for High Level Synthesis with Deep Reinforcement Learning
+Citations:2
+Authors: A Haj-Ali, Q Huang, W Moses, J Xiang, I Stoica, K Asanovic, J Wawrzynek
+Publication: arXiv preprint arXiv:1901.04615
+
+194. Sanctorum: A lightweight security monitor for secure enclaves
+Citations:2
+Authors: I Lebedev, K Hogan, J Drean, D Kohlbrenner, D Lee, K Asanović, D Song, ...
+Publication: arXiv preprint arXiv:1812.10605
+
+195. Generating the next wave of custom silicon
+Citations:2
+Authors: B Nikolic, E Alon, K Asanovic
+Publication: ESSCIRC 2018-IEEE 44th European Solid State Circuits Conference (ESSCIRC), 6-11
+
+196. Cyclist: Accelerating hardware development
+Citations:2
+Authors: J Bachrach, A Magyar, P Dabbelt, P Li, R Lin, K Asanovic
+Publication: 2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD …
+
+197. Microprocessor chip with photonic I/O
+Citations:2
+Authors: C Sun, MT Wade, Y Lee, JS Orcutt, L Alloatti, MS Georgas, AS Waterman, ...
+Publication: 2017 Optical Fiber Communications Conference and Exhibition (OFC), 1-3
+
+198. Full-System Simulation of Java Workloads with RISC-V and the Jikes Research Virtual Machine
+Citations:2
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: 1st Workshop on Computer Architecture Research with RISC-V
+
+199. Reprogrammable redundancy for cache Vminreduction in a 28nm RISC-V processor
+Citations:2
+Authors: B Zimmer, PF Chiu, B Nikolić, K Asanović
+Publication: 2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), 121-124
+
+200. Hwacha Preliminary Evaluation Results, Version 3.8.
+Citations:2
+Authors: Y Lee, C Schmidt, S Karandikar, D Dabbelt, A Ou, K Asanovic
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+201. The RISC-V compressed instruction set manual, version 1.7
+Citations:2
+Authors: A Waterman, Y Lee, DA Patterson, K Asanović
+Publication: EECS Department, University of California, Berkeley, UCB/EECS-2015-157
+
+202. Building an adaptive operating system for predictability and efficiency
+Citations:2
+Authors: G Eads, J Colmenares, S Hofmeyr, S Bird, D Bartolini, D Chou, ...
+Publication: Tech. Rep. UCB/EECS-2014-137, EECS Department, University of California …
+
+203. Using FPGAs to Simulate Novel Datacenter Network Architectures At Scale
+Citations:2
+Authors: Z Tan, K Asanovic, D Patterson
+Publication: Ph. D. dissertation, EECS Department, University of California, Berkeley
+
+204. Tessellation operating system: Building a real-time, responsive, high-throughput client OS for many-core architectures
+Citations:2
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, A Kim, R Poddar, H Alkaff, ...
+Publication: 2011 IEEE Hot Chips 23 Symposium (HCS), 1-1
+
+205. Limits and Opportunities for Designing Manycore Processor-to-Memory Networks using Monolithic Silicon Photonics
+Citations:2
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanovic, ...
+Publication: Workshop on Photonic Interconnects & Computer Architecture. Held in …
+
+206. Accelerating architectural exploration using canonical instruction segments
+Citations:2
+Authors: RF Liu, K Asanovic
+Publication: 2006 IEEE International Symposium on Performance Analysis of Systems and …
+
+207. Banked register file for SMT processors
+Citations:2
+Authors: JH Tseng, K Asanovic
+Publication: Boston Area Architecture Workshop, Boston, MA
+
+208. MIT Course 6.823: Computer System Architecture-Spring 2004. Lecture 16: Cache Coherence
+Citations:2
+Authors: K Asanovic
+Publication: 
+
+209. Advanced CISC Implementations: Pentium 4
+Citations:2
+Authors: K Asanovic
+Publication: Presentation, Massachusetts Institute of Technology Course 6
+
+210. Energy-efﬁcient register access
+Citations:2
+Authors: J Tseng, K Asanovic
+Publication: 13th Symposium on Integrated Circuits and Systems Design (SBCCI'00)
+
+211. Vectorizing SPECint95
+Citations:2
+Authors: K Asanovic
+Publication: Unpublished manuscript extracted from PhD Thesis
+
+212. TO engineering data
+Citations:2
+Authors: K Asanovic, J Beck
+Publication: INTERNATIONAL COMPUTER SCIENCE INSTITUTE-PUBLICATIONS-TR
+
+213. SPERT: A neuro-microprocessor
+Citations:2
+Authors: K Asanović, J Beck, BED Kingsbury, P Kohn, N Morgan, J Wawrzynek
+Publication: VLSI for Neural Networks and Artificial Intelligence, 103-107
+
+214. Evaluation of a" Stall" Cache: An Efficient Restricted On-chip Instruction Cache
+Citations:2
+Authors: KE Schauser, K Asanovic, DA Patterson, EH Frank
+Publication: 
+
+215. Ipm: Interval performance monitoring
+Citations:2
+Authors: K Asanovic
+Publication: 
+
+216. FPGA Accelerated INDEL Realignment in the Cloud
+Citations:1
+Authors: L Wu, D Bruns-Smith, FA Nothaft, Q Huang, S Karandikar, J Le, A Lin, ...
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+217. BROOM: An Open-Source Out-of-Order Processor With Resilient Low-Voltage Operation in 28-nm CMOS
+Citations:1
+Authors: C Celio, PF Chiu, K Asanović, B Nikolić, D Patterson
+Publication: IEEE Micro 39 (2), 52-60
+
+218. Cache Resiliency Techniques for a Low-Voltage RISC-V Out-of-Order Processor in 28-nm CMOS
+Citations:1
+Authors: PF Chiu, C Celio, K Asanović, B Nikolić, D Patterson
+Publication: IEEE Solid-State Circuits Letters 1 (12), 229-232
+
+219. DESSERT: Debugging RTL Effectively with State Snapshotting for Error Replays across Trillions of cycles
+Citations:1
+Authors: D Kim, C Celio, S Karandikar, D Biancolin, J Bachrach, K Asanović
+Publication: 2018 28th International Conference on Field Programmable Logic and …
+
+220. Co-design of deep neural nets and neural net accelerators for embedded vision applications
+Citations:1
+Authors: K Kwon, A Amid, A Gholami, B Wu, K Asanovic, K Keutzer
+Publication: 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), 1-6
+
+221. Hardware Acceleration for Memory to Memory Copies
+Citations:1
+Authors: H Mao, RH Katz, K Asanović
+Publication: 
+
+222. BOOM v2
+Citations:1
+Authors: C Celio, PF Chiu, B Nikolic, D Patterson, K Asanovic
+Publication: CARRV
+
+223. Specialization for energy efficiency using agile development
+Citations:1
+Authors: B Nikolić, J Bachrach, E Alon, K Asanović, D Patterson
+Publication: 2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2
+
+224. Measuring the gap between programmable and fixed-function accelerators: A case study on speech recognition
+Citations:1
+Authors: Y Lee, D Sheffield, A Waterman, M Anderson, K Keutzer, K Asanovic
+Publication: 2013 IEEE Hot Chips 25 Symposium (HCS), 1-2
+
+225. System and Method for Performing Memory Operations In A Computing System
+Citations:1
+Authors: SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...
+Publication: US Patent App. 13/683,367
+
+226. Chisel Manual
+Citations:1
+Authors: J Bachrach, K Asanovic, H Vo
+Publication: 
+
+227. System and method for performing memory operations in a computing system
+Citations:1
+Authors: SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...
+Publication: US Patent 7,925,839
+
+228. Field-Programmable Gate Array (FPGA) Emulation for Computer Architecture
+Citations:1
+Authors: J Wawrzynek, K Asanovic
+Publication: CALIFORNIA UNIV REGENTS BERKELEY
+
+229. C152 Laboratory Exercise 3
+Citations:1
+Authors: K Asanovic
+Publication: University of California, Berkeley
+
+230. Advantages of Silicon Photonics for Multi-socket Systems
+Citations:1
+Authors: S Beamer, K Asanović, C Batten, A Joshi, V Stojanović
+Publication: Association for Computing Machinery
+
+231. The case for malleable stream architectures
+Citations:1
+Authors: C Batten, H Aoki, K Asanovic
+Publication: Workshop on Streaming Systems at MICRO-41, Lake Como, Italy
+
+232. Computer Architecture and Design
+Citations:1
+Authors: JL Gaudiot, S Haghighi, B Mathew, K Asanovic, M Franklin, D Quammen, ...
+Publication: CRC PRESS-TAYLOR & FRANCIS GROUP
+
+233. Continual hashing for efficient fine-grain state inconsistency detection
+Citations:1
+Authors: JW Lee, M King, K Asanovic
+Publication: 2007 25th International Conference on Computer Design, 33-40
+
+234. Eprof: An energy profiler for the iPaq
+Citations:1
+Authors: K Koskelin, K Barr, K Asanovic
+Publication: 2nd Annual Student Oxygen Workshop
+
+235. SPACE: Symbolic processing in associative computing elements
+Citations:1
+Authors: DB Howe, K Asanović
+Publication: VLSI for Neural Networks and Artificial Intelligence, 243-252
+
+236. Spoken natural language understanding as a parallel application
+Citations:1
+Authors: K Asanovic, JR Chapman
+Publication: Proceedings of the conference on CONPAR 88, 508-515
+
+237. MC1. 2
+Citations:1
+Authors: T Akalin, S Aleksic, SA Alexandrov, G Almási, J Alton, AM Andrews, ...
+Publication: 
+
+238. The Berkeley Out-of-Order Machine (BOOM) Design Specification
+Citations:1
+Authors: C Celio, D Patterson, K Asanovic
+Publication: University of California, Berkeley 94720
+
+239. Open-Source EDA Tools and IP, A View from the Trenches
+Citations:
+Authors: E Alon, K Asanović, J Bachrach, B Nikolić
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-3
+
+240. AutoPhase: Compiler Phase-Ordering for HLS with Deep Reinforcement Learning
+Citations:
+Authors: Q Huang, A Haj-Ali, W Moses, J Xiang, I Stoica, K Asanovic, J Wawrzynek
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+241. Nested-Parallelism PageRank on RISC-V Vector Multi-Processors
+Citations:
+Authors: A Amid, B Nikolic, K Asanović
+Publication: 
+
+242. Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research
+Citations:
+Authors: S Karandikar, D Biancolin, A Amid, N Pemberton, A Ou, R Katz, B Nikolic, ...
+Publication: 
+
+243. Instruction sets want to be free
+Citations:
+Authors: K Asanović
+Publication: Book of abstracts, 43-44
+
+244. Chisel 3.0 Tutorial (Beta)
+Citations:
+Authors: J Bachrach, K Asanovic, J Wawrzynek
+Publication: 
+
+245. Circuit and architectural techniques for minimum-energy operation of SRAM-based caches
+Citations:
+Authors: B Zimmer, PF Chiu, K Asanović, B Nikolić
+Publication: 
+
+246. 2015 Index IEEE Transactions on Very Large Scale Integration (VLSI) Systems Vol. 23
+Citations:
+Authors: SM Abbas, G Acconcia, A Afzali-Kusha, N Aghaee, A Aghaie, M Ahmadi, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 23 (12), 3153
+
+247. The RISC-V Compressed Instruction Set Manual Version 1.9 Warning! This draft specification may change before being accepted as standard, so implementations made to this draft …
+Citations:
+Authors: A Waterman, Y Lee, D Patterson, K Asanovic
+Publication: 
+
+248. A Case for MVPs
+Citations:
+Authors: AOQNY Lee, K Asanovic
+Publication: University of California, Berkeley
+
+249. http://cs2013. org
+Citations:
+Authors: C Armstrong, K Asanovic, RF Babiceanu
+Publication: Computer Science Curricula 2013
+
+250. Welcome from general chairs
+Citations:
+Authors: K Asanovic, JW van de Waerdt
+Publication: 2013 IEEE Hot Chips 25 Symposium (HCS), 1-2
+
+251. 2012 Index IEEE Transactions on Circuits and Systems II: Express Briefs Vol. 59
+Citations:
+Authors: JA Abraham, E Akdag, HK Akkurt, M Alioto, A Alvandpour, RE Amaya, ...
+Publication: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—II: EXPRESS BRIEFS 59 (12), 957
+
+252. The Maven vector-thread architecture
+Citations:
+Authors: Y Lee, R Avizienis, A Bishara, R Xia, D Lockhart, C Batten, K Asanovic
+Publication: 2011 IEEE Hot Chips 23 Symposium (HCS), 1-1
+
+253. Big Chips
+Citations:
+Authors: K Asanović, R Wittig
+Publication: IEEE Micro 31 (4), 3-5
+
+254. Specialized versus general-purpose hardware
+Citations:
+Authors: K Asanovic, M Horowitz, B Dally
+Publication: Third Workshop on Computer Architecture Research Directions, 2
+
+255. Par Lab
+Citations:
+Authors: JA Colmenares, I Saxton, E Battenberg, N Peters, K Asanović, ...
+Publication: 
+
+256. VLSI System Design Lecture 5–System Context
+Citations:
+Authors: J Wawrzynek, K Asanović
+Publication: 
+
+257. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+258. Analysis and Design of Manycore Processor-to-DRAM Opto-Electrical Networks with Integrated Silicon Photonics
+Citations:
+Authors: V Stojanovic, K Asanovic
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+259. Designing manycore processor networks using silicon photonics
+Citations:
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanović, ...
+Publication: 2009 IEEE LEOS Annual Meeting Conference Proceedings, 16-17
+
+260. Enabling Software Composability for the Manycore Era
+Citations:
+Authors: H Pan, B Hindman, K Asanovic
+Publication: Unpublished article, March
+
+261. Lithe: Enabling Efficient Composition of Parallel Libraries
+Citations:
+Authors: K Asanovic
+Publication: Talk or presentation, GSRC Annual Symposium 3
+
+262. System and method for performing memory operations in a computing system
+Citations:
+Authors: SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...
+Publication: US Patent 7,398,359
+
+263. GLOBALLY-SYNCHRONIZED FRAMES FOR GUARANTEED QUALITY-OF-SERVICE IN ON-CHIP NETWORKS
+Citations:
+Authors: K Asanovic
+Publication: 
+
+264. CS152 Quiz
+Citations:
+Authors: K Asanovic
+Publication: 
+
+265. CEDA currents: IEEE/ACM MEMOCODE Contest Update
+Citations:
+Authors: P Schaumont, K Asanovic, JC Hoe
+Publication: IEEE Solid-State Circuits Society Newsletter 13 (4), 66-67
+
+266. RAMP Gold Outline Platform and Architecture
+Citations:
+Authors: G Gibeling, J Wawrzynek, K Asanovic, D Burke, Z Tan
+Publication: Poster, GSRC Annual Symposium 29
+
+267. Operating System Support for Parallel Applications on Manycore Platforms
+Citations:
+Authors: R Liu, K Klues, K Asanovic
+Publication: Poster, GSRC Annual Symposium 29
+
+268. RAMP Description Language RDL Overview and Timing
+Citations:
+Authors: G Gibeling, J Wawrzynek, K Asanovic, A Schultz
+Publication: Poster, GSRC Annual Symposium 29
+
+269. Concurrent Systems Theme: Explicitly Parallel Programming Models Group
+Citations:
+Authors: S Amarasinghe, K Asanovic, K Keutzer, J Wawrzynek
+Publication: Talk or presentation, GSRC Workshop 15
+
+270. Concurrent Systems Theme: Natural Programming Models Group
+Citations:
+Authors: S Amarasinghe, K Asanovic, K Keutzer
+Publication: Talk or presentation, GSRC Annual Symposium 20
+
+271. Research accelerator for multiple processors
+Citations:
+Authors: D Patterson, K Asanovíc, D Chiou, J Hoe, C Kozyrakis, SL Lu, M Oskin, ...
+Publication: 2006 IEEE Hot Chips 18 Symposium (HCS), 1-42
+
+272. IEEE MICRO 2006 ANNUAL INDEX, VOL. 26
+Citations:
+Authors: F Abel, A Agarwal, A Ailamaki, H Akkary, AR Alameldeen, J Alastruey, ...
+Publication: Innovations, 87-88
+
+273. Transactors
+Citations:
+Authors: K Asanovic
+Publication: Talk or presentation, GSRC Quarterly Workshop, San Francisco 23
+
+274. Session 1-Integrity and Isolation-Mondrix: Memory Isolation for Linux using Modriaan Memory Protection
+Citations:
+Authors: ERJ Witchel, K Asanovic
+Publication: SIGOPS Operating Systems Review 40 (5), 31-44
+
+275. United States Menu
+Citations:
+Authors: ACHAK Diana, TJT Henderson, S Miller
+Publication: Ann C. Hwang Atsuko Koyama Diana Taylor Jillian T. Henderson 37 (2)
+
+276. PACE: Power-Aware Computing Engines
+Citations:
+Authors: K Asanovic
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+277. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+278. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+279. IEEE MICRO 2004 ANNUAL INDEX, VOL. 24
+Citations:
+Authors: T Abdelrahman, SV Adve, H Akkary, DH Albonesi, D Andrews, K Asanovic, ...
+Publication: Architecture 84, 91
+
+280. 2003 Reviewers list
+Citations:
+Authors: TF Abdelzaher, L Abeni, T Acar, A Adelsbach, N Akar, A Akkas, ...
+Publication: IEEE Transactions on Computers 53 (1), 93
+
+281. Hardware Transactional Memory
+Citations:
+Authors: S Lie, K Asanovic, BC Kuszmaul, CE Leiserson
+Publication: 
+
+282. VLSI System Design Lecture 13–High-Speed I/O
+Citations:
+Authors: J Wawrzynek, K Asanović
+Publication: IEEE JOURNAL OF SOLID-STATE CIRCUITS 38 (5)
+
+283. Spongepaint: A General Purpose C++ Framework for VLSI Layout
+Citations:
+Authors: C Batten, K Asanović
+Publication: 
+
+284. The Heads and Tails Instruction Format
+Citations:
+Authors: H Pan, K Asanovic
+Publication: SCALE Group Research Report, 19
+
+285. Mondriaan Memory Protection: Fine-Grained Protection with Translation
+Citations:
+Authors: E Witchel, K Asanovic
+Publication: SCALE Group Research Report, 7
+
+286. The SCALE Architecture
+Citations:
+Authors: R Krashinsky, C Batten, K Asanovic
+Publication: SCALE Group Research Report, 5
+
+287. Fine-Grain Cache Resizing
+Citations:
+Authors: M Zhang, K Asanovic
+Publication: SCALE Group Research Report, 13
+
+288. Banked Multiported Register File for Superscalar Microprocessors
+Citations:
+Authors: J Tseng, K Asanovic
+Publication: SCALE Group Research Report, 11
+
+289. Fine-grain dynamic leakage reduction
+Citations:
+Authors: S Heo, K Barr, M Hampton, K Asanovic
+Publication: International Symposium on Computer Architecture
+
+290. 6.823 Computer System Architecture, Spring 2002
+Citations:
+Authors: K Asanovic, V Arvind, S Devadas, JC Hoe
+Publication: 
+
+291. 1.2 Very Large Instruction Word Architectures
+Citations:
+Authors: B Mathew
+Publication: Computer Engineering Series, 12
+
+292. 1.3 Vector Processing
+Citations:
+Authors: K Asanovic
+Publication: Computer Engineering Series, 25
+
+293. Complex Instruction Set Evolution in the Sixties and Seventies: Stack and GPR Architectures
+Citations:
+Authors: K Asanovic
+Publication: Evaluation 6, L3-4
+
+294. CS Division, University of California at Berkeley Berkeley CA, 94720
+Citations:
+Authors: J Bilmes, K Asanovíc, CW Chin
+Publication: JSEP 49620 (94-C), 0038
+
+295. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+296. Simulation of Reduced Precision Arithmetic for Digital Neural Networks Using the RAP Machine
+Citations:
+Authors: K Asanovic, N Morgan, J Wawrzynek
+Publication: 
+
+297. Evaluation of a Stall Cache: An Efficient Restricted On-chip
+Citations:
+Authors: KE Schauser, K Asanovic, DA Patterson
+Publication: University of California at Berkeley
+
+298. HPEC 2009
+Citations:
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanović, ...
+Publication: 
+
+299. Replicating and Mitigating Spectre Attacks on an Open Source RISC-V Microarchitecture
+Citations:
+Authors: A Gonzalez, B Korpan, J Zhao, E Younis, K Asanović
+Publication: 
+
+300. International Symposium on Computer Architecture Globally-Synchronized Frames for Guaranteed Quality-of-Service in On-Chip Networks
+Citations:
+Authors: JW Lee, MC Ng, K Asanović
+Publication: 
+
+301. TFE7 fit k|| LLSLL eee eee eeMMeeee|
+Citations:
+Authors: K Asanović, J Beck, J Feldman, N Morgan, J LLLLkkkSk
+Publication: 
+
+302. DRAFT: Return of the Runtimes–Rethinking the Language Runtime System for the Cloud 3.0 Era
+Citations:
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: 
+
+303. SPERT-II: A Vector Microprocessor System and its Application to Large
+Citations:
+Authors: J Wawrzynek, K Asanović, B Kingsbury
+Publication: 
+
+304. Review of paper Mondrix: Memory Isolation for Linux using Mondriaan Memory Protection
+Citations:
+Authors: E Witchel, J Rhee, K Asanovic
+Publication: 
+
+305. Hardware Acceleration of Key-Value Stores
+Citations:
+Authors: S Karandikar, H Mao, A Ou, Y Lee, K Asanovic
+Publication: Memory 21, 63.85
+
+306. RISC-V 指令集手册
+Citations:
+Authors: A Waterman, Y Lee, R Avižienis, D Patterson, K Asanović
+Publication: 
+
+307. Perceptual Interfaces
+Citations:
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris, NB Priyantha, ...
+Publication: 
+
+308. CS 252 Graduate Computer Architecture
+Citations:
+Authors: K Asanovic
+Publication: 
+
+309. usenix conference policies
+Citations:
+Authors: K Asanović
+Publication: 
+
+310. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+311. Research Abstracts-2007
+Citations:
+Authors: M Hampton, K Asanovic
+Publication: 
+
+312. CS 152 Computer Architecture and Engineering
+Citations:
+Authors: K Asanovic
+Publication: Memory 3 (3), 0-1
+
+313. Operand Clustering to Improve Scalability in Superscalar Microprocessors
+Citations:
+Authors: J Tseng, K Asanovic
+Publication: 
+
+314. 5 Guest Editors’ Introduction: Hot Interconnects Keren Bergman, Ron Brightwell, and Fabrizio Petrini 8 Building Many-core Processor-to-DRAM Networks with Monolithic CMOS …
+Citations:
+Authors: C Batten, A Joshi, J Orcutt, A Khilo, BMCW Holzwarth, MA Popovic, H Li, ...
+Publication: 
+
+315. Columns and Departments
+Citations:
+Authors: PH Wang, JD Collins, H Wang, D Kim, B Greene, KM Chan, AB Yunus, ...
+Publication: 
+
+316. 16th Annual IEEE Symposium on High-Performance Interconnects
+Citations:
+Authors: M Tan, P Rosenberg, JS Yeo, M McLaren, S Mathai, T Morris, J Straznicky, ...
+Publication: 
+
+317. Agarwal, Anant· 213 Alves, Marco· 87 Ampadu, Paul· 54
+Citations:
+Authors: K Asanovic, B Baas, M Bakhouya, A Banerjee, C Batten, S Beamer, ...
+Publication: 
+
+318. David Lilja Patrick Lincoln Mikko Lipasti Jose María Llabería Josep Llosa
+Citations:
+Authors: J Abella, J Abraham, A Abulafia, C Acosta, A Agarwal, A Alameldeen, ...
+Publication: 
+
+319. Low-Power Memory Architectures
+Citations:
+Authors: M Zhang, K Asanovic
+Publication: 
+
+320. SPECIAL ISSUE ON ULTRA-LOW VOLTAGE VLSI CIRCUITS AND SYSTEMS FOR GREEN COMPUTING
+Citations:
+Authors: B Zimmer, SO Toh, H Vo, Y Lee, O Thomas, K Asanovic, B Nikolic, ...
+Publication: 
+
+321. Agarwal, Anant, see Holt, Jim.
+Citations:
+Authors: W Ahn, AR Alameldeen, DH Albonesi, RS Amant, TNB Anh, F Arakawa, ...
+Publication: 
+
+322. ISPASS 2007 Reviewers
+Citations:
+Authors: D Albonesi, JN Amaral, C Amza, K Asanovic, R Balasubramonian, ...
+Publication: 
+
+323. Design for MOSIS Educational Program (Research) Testchip for AHIP protocol, ASIC flow, and Leakage Control Through Body Biasing
+Citations:
+Authors: K Asanovic
+Publication: 
+
+324. 5 Guest Editors’ Introduction: Hot Chips 21 Krste Asanovic and Ralph Wittig 7 Power7: IBM’s Next-Generation Server Processor
+Citations:
+Authors: R Kalla, B Sinharoy, WJ Starke, M Floyd, P Conway, ...
+Publication: 
+
+325. The Par Lab Perspective on Computer Architecture
+Citations:
+Authors: K Asanovic
+Publication: 
+
+326. Searching for a Parent Instead of Fighting Over Children: A Hybrid Breadth-First Search Implementation
+Citations:
+Authors: S Beamer, K Asanovic, D Patterson
+Publication: 
+
+327. Research Abstracts-2006
+Citations:
+Authors: R Krashinsky, C Batten, K Asanovic
+Publication: 
+
+328. Energy-Exposed Instruction Set Architectures
+Citations:
+Authors: M Hampton, R Krashinsky, E Witchel, K Asanovic
+Publication: 
+
+329. Software Restart Markers
+Citations:
+Authors: M Hampton, K Asanovic
+Publication: 
+
+330. Context-centric Security
+Citations:
+Authors: MTPMA Osheroff, HAE Shi, ELDSK Asanovic
+Publication: 
+
+331. SyCHOSys: Microprocessor Energy Simulation and Optimization
+Citations:
+Authors: R Krashinsky, K Asanovic
+Publication: 
+
+332. Banked Register Files for Dynamically Scheduled Microprocessors
+Citations:
+Authors: JH Tseng, K Asanovic
+Publication: 
+
+333. Research Abstracts-2006
+Citations:
+Authors: S Gerding, K Asanovic
+Publication: 
+
+334. Reviewers Reviewers
+Citations:
+Authors: S Adve, P Ahuja, H Al-Sukhni, C Alvarez, S Amarasinghe, J Anderson, ...
+Publication: 
+
+335. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+
+336. Conference Officers
+Citations:
+Authors: D Kaeli, M Valero, D Christie, G Sohi, JL Gaudiot, J Emer, LA Barroso, ...
+Publication: 
+
+337. An Analysis of Research Accelerator for Multiple Processors (RAMP) Gold
+Citations:
+Authors: R Johnson, A Waterman, K Asanovic
+Publication: 
+
+338. Tessellation Operating System
+Citations:
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, E Huerta-Yero, A Kim, ...
+Publication: 
+
+339. Retrospective on Optimizing Matrix Multiply using PHiPAC: a Portable High Performance ANSI C Coding Methodology
+Citations:
+Authors: J Bilmes, K Asanovic, CW Chin, J Demmel
+Publication: 
+
+340. Parallel Software Composability
+Citations:
+Authors: K Asanovic
+Publication: 
+

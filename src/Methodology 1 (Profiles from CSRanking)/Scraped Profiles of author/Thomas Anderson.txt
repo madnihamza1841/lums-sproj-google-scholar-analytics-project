@@ -1,0 +1,1303 @@
+https://scholar.google.com/citations?hl=en&user=MYqlcPgAAAAJ
+Total Citations = 47519
+
+1. OpenFlow: enabling innovation in campus networks
+Citations:8764
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69-74
+
+2. Network support for IP traceback
+Citations:2520
+Authors: S Savage, D Wetherall, A Karlin, T Anderson
+Publication: Networking, IEEE/ACM Transactions on 9 (3), 226-237
+
+3. Eraser: A dynamic data race detector for multithreaded programs
+Citations:1708
+Authors: S Savage, M Burrows, G Nelson, P Sobalvarro, T Anderson
+Publication: ACM Transactions on Computer Systems (TOCS) 15 (4), 391-411
+
+4. Efficient software-based fault isolation
+Citations:1658
+Authors: R Wahbe, S Lucco, TE Anderson, SL Graham
+Publication: ACM SIGOPS Operating Systems Review 27 (5), 203-216
+
+5. A case for networks of workstations (NOW)
+Citations:1576
+Authors: T Anderson, R Arpacl, D Culler, M Dahlin, A Dusseau, D Ghormley, ...
+Publication: Hot Interconnects II, 1994. Symposium Record, 43-58
+
+6. Overcoming the Internet impasse through virtualization
+Citations:1291
+Authors: T Anderson, L Peterson, S Shenker, J Turner
+Publication: Computer, 34-41
+
+7. High-speed switch scheduling for local-area networks
+Citations:1264
+Authors: TE Anderson, SS Owicki, JB Saxe, CP Thacker
+Publication: ACM Transactions on Computer Systems (TOCS) 11 (4), 319-352
+
+8. Serverless network file systems
+Citations:1095
+Authors: TE Anderson, MD Dahlin, JM Neefe, DA Patterson, DS Roselli, RY Wang
+Publication: ACM Transactions on Computer Systems (TOCS) 14 (1), 41-79
+
+9. A blueprint for introducing disruptive technology into the Internet
+Citations:1052
+Authors: L Peterson, T Anderson, D Culler, T Roscoe
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 59-64
+
+10. Scheduler activations: Effective kernel support for the user-level management of parallelism
+Citations:943
+Authors: TE Anderson, BN Bershad, ED Lazowska, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 10 (1), 53-79
+
+11. Measuring ISP topologies with Rocketfuel
+Citations:856
+Authors: N Spring, R Mahajan, D Wetherall, T Anderson
+Publication: IEEE/ACM Transactions on Networking (ToN) 12 (1), 2-16
+
+12. A case for intelligent RAM
+Citations:843
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: IEEE micro 17 (2), 34-44
+
+13. The performance of spin lock alternatives for shared-money multiprocessors
+Citations:819
+Authors: TE Anderson
+Publication: IEEE Transactions on Parallel and Distributed Systems 1 (1), 6-16
+
+14. Cooperative caching: Using remote client memory to improve file system performance
+Citations:771
+Authors: MD Dahlin, RY Wang, TE Anderson, DA Patterson
+Publication: Proceedings of the 1st USENIX conference on Operating Systems Design and …
+
+15. A Comparison of File System Workloads.
+Citations:759
+Authors: DS Roselli, JR Lorch, TE Anderson
+Publication: USENIX annual technical conference, general track, 41-54
+
+16. In VINI veritas: realistic and controlled network experimentation
+Citations:758
+Authors: A Bavier, N Feamster, M Huang, L Peterson, J Rexford
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 3-14
+
+17. Modeling TCP latency
+Citations:712
+Authors: N Cardwell, S Savage, T Anderson
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+18. Understanding BGP misconfiguration
+Citations:707
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 3-16
+
+19. The end-to-end effects of Internet path selection
+Citations:665
+Authors: S Savage, A Collins, E Hoffman, J Snell, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 29 (4), 289-299
+
+20. iPlane: An information plane for distributed services
+Citations:647
+Authors: HV Madhyastha, T Isdal, M Piatek, C Dixon, T Anderson, A Krishnamurthy, ...
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+21. Lightweight remote procedure call
+Citations:594
+Authors: B Bershad, T Anderson, E Lazowska, H Levy
+Publication: ACM SIGOPS Operating Systems Review 23 (5), 102-113
+
+22. A DoS-limiting network architecture
+Citations:550
+Authors: X Yang, D Wetherall, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 241-252
+
+23. Do incentives build robustness in BitTorrent
+Citations:549
+Authors: M Piatek, T Isdal, T Anderson, A Krishnamurthy, A Venkataramani
+Publication: Proc. of NSDI 7
+
+24. Detour: Informed Internet routing and transport
+Citations:462
+Authors: S Savage, T Anderson, A Aggarwal, D Becker, N Cardwell, A Collins, ...
+Publication: Ieee Micro 19 (1), 50-59
+
+25. Understanding the performance of TCP pacing
+Citations:457
+Authors: A Aggarwal, S Savage, T Anderson
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+26. Preventing Internet denial-of-service with capabilities
+Citations:397
+Authors: T Anderson, T Roscoe, D Wetherall
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 39-44
+
+27. A Quantitative Analysis of Disk Drive Power Management in Portable Computers.
+Citations:352
+Authors: K Li, R Kumpf, P Horton, TE Anderson
+Publication: USENIX winter 1994, 279-291
+
+28. Towards IP geolocation using delay and topology measurements
+Citations:350
+Authors: E Katz-Bassett, JP John, A Krishnamurthy, D Wetherall, T Anderson, ...
+Publication: Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, 71-84
+
+29. Effects of communication latency, overhead, and bandwidth in a cluster architecture
+Citations:342
+Authors: RP Martin, AM Vahdat, DE Culler, TE Anderson
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 85-97
+
+30. TCP congestion control with a misbehaving receiver
+Citations:333
+Authors: S Savage, N Cardwell, D Wetherall, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 29 (5), 71-78
+
+31. System support for pervasive applications
+Citations:330
+Authors: R Grimm, J Davis, E Lemar, A Macbeth, S Swanson, T Anderson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 22 (4), 421-486
+
+32. Network traffic regulation including consistency based detection and filtering of packets with spoof source addresses
+Citations:325
+Authors: DJ Wetherall, SR Savage, TE Anderson
+Publication: US Patent 7,444,404
+
+33. Taking the sting out of carrier sense: interference cancellation for wireless LANs
+Citations:323
+Authors: D Halperin, T Anderson, D Wetherall
+Publication: Proceedings of the 14th ACM international conference on Mobile computing and …
+
+34. Using smart clients to build scalable services
+Citations:312
+Authors: C Yoshikawa, B Chun, P Eastham, A Vahdat, T Anderson, D Culler
+Publication: Proceedings of the 1997 USENIX Technical Conference, 105
+
+35. Arrakis: The operating system is the control plane
+Citations:298
+Authors: S Peter, J Li, I Zhang, DRK Ports, D Woos, A Krishnamurthy, T Anderson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (4), 11
+
+36. The interaction of parallel and sequential workloads on a network of workstations
+Citations:297
+Authors: RH Arpaci, AC Dusseau, AM Vahdat, LT Liu, TE Anderson, DA Patterson
+Publication: ACM SIGMETRICS Performance Evaluation Review 23 (1), 267-278
+
+37. The interaction of architecture and operating system design
+Citations:296
+Authors: TE Anderson, HM Levy, BN Bershad, ED Lazowska
+Publication: ACM SIGARCH Computer Architecture News 19 (2), 108-120
+
+38. The performance implications of thread management alternatives for shared-memory multiprocessors
+Citations:291
+Authors: TE Anderson, ED Lazowska, HM Levy
+Publication: IEEE Transactions on Computers 38 (12), 1631-1644
+
+39. The causes of path inflation
+Citations:276
+Authors: N Spring, R Mahajan, T Anderson
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+40. WebOS: Operating system services for wide area applications
+Citations:270
+Authors: A Vahdat, T Anderson, M Dahlin, E Belani, D Culler, P Eastham, ...
+Publication: Proceedings. The Seventh International Symposium on High Performance …
+
+41. Inferring link weights using end-to-end measurements
+Citations:263
+Authors: R Mahajan, N Spring, D Wetherall, T Anderson
+Publication: Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, 231-236
+
+42. Moving beyond end-to-end path information to optimize CDN performance
+Citations:251
+Authors: R Krishnan, HV Madhyastha, S Srinivasan, S Jain, A Krishnamurthy, ...
+Publication: Proceedings of the 9th ACM SIGCOMM conference on Internet measurement, 190-201
+
+43. Memspy: Analyzing memory system bottlenecks in programs
+Citations:245
+Authors: M Martonosi, A Gupta, T Anderson
+Publication: ACM SIGMETRICS Performance Evaluation Review 20 (1), 1-12
+
+44. Next century challenges: data-centric networking for invisible computing: the Portolano project at the University of Washington
+Citations:234
+Authors: M Esler, J Hightower, T Anderson, G Borriello
+Publication: Proceedings of the 5th annual ACM/IEEE international conference on Mobile …
+
+45. Improving the performance of log-structured file systems with adaptive methods
+Citations:234
+Authors: JN Matthews, D Roselli, AM Costello, RY Wang, TE Anderson
+Publication: ACM SIGOPS Operating Systems Review 31 (5), 238-251
+
+46. Scalable processors in the billion-transistor era: IRAM
+Citations:230
+Authors: CE Kozyrakis, S Perissakis, D Patterson, T Anderson, K Asanovic, ...
+Publication: Computer 30 (9), 75-78
+
+47. User-level internet path diagnosis
+Citations:224
+Authors: R Mahajan, N Spring, D Wetherall, T Anderson
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 106-119
+
+48. An End to the Middle.
+Citations:223
+Authors: C Dixon, A Krishnamurthy, TE Anderson
+Publication: HotOS 9, 2-2
+
+49. Scriptroute: A Public Internet Measurement Facility.
+Citations:221
+Authors: NT Spring, D Wetherall, TE Anderson
+Publication: USENIX Symposium on Internet Technologies and Systems
+
+50. Quartz: A tool for tuning parallel program performance
+Citations:197
+Authors: TE Anderson, ED Lazowska
+Publication: ACM SIGMETRICS Performance Evaluation Review 18 (1), 115-125
+
+51. Achieving convergence-free routing using failure-carrying packets
+Citations:191
+Authors: K Lakshminarayanan, M Caesar, M Rangan, T Anderson, S Shenker, ...
+Publication: ACM SIGCOMM computer communication review 37 (4), 241-252
+
+52. Privacy-preserving p2p data sharing with oneswarm
+Citations:190
+Authors: T Isdal, M Piatek, A Krishnamurthy, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 111-122
+
+53. Execution characteristics of desktop applications on Windows NT
+Citations:190
+Authors: DC Lee, PJ Crowley, JL Baer, TE Anderson, BN Bershad
+Publication: Proceedings. 25th Annual International Symposium on Computer Architecture …
+
+54. Seattle: a platform for educational cloud computing
+Citations:185
+Authors: J Cappos, I Beschastnikh, A Krishnamurthy, T Anderson
+Publication: ACM SIGCSE Bulletin 41 (1), 111-115
+
+55. One Hop Reputations for Peer to Peer File Sharing Workloads.
+Citations:182
+Authors: M Piatek, T Isdal, A Krishnamurthy, TE Anderson
+Publication: NSDI 8 (1), 1-14
+
+56. High-performance local area communication with fast sockets
+Citations:178
+Authors: SH Rodrigues, TE Anderson, DE Culler
+Publication: Proceedings of the annual conference on USENIX Annual Technical Conference …
+
+57. Consensus routing: The Internet as a distributed system
+Citations:174
+Authors: JP John, E Katz-Bassett, A Krishnamurthy, T Anderson, A Venkataramani
+Publication: Proceedings of the 5th USENIX Symposium on Networked Systems Design and …
+
+58. Reverse traceroute.
+Citations:173
+Authors: E Katz-Bassett, HV Madhyastha, VK Adhikari, C Scott, J Sherry, ...
+Publication: NSDI 10, 219-234
+
+59. SLIC: An Extensibility System for Commodity Operating Systems.
+Citations:172
+Authors: DP Ghormley, SH Rodrigues, D Petrou, TE Anderson
+Publication: USENIX Annual Technical Conference 98
+
+60. Profiling a million user DHT
+Citations:169
+Authors: J Falkner, M Piatek, JP John, A Krishnamurthy, T Anderson
+Publication: Proceedings of the 7th ACM SIGCOMM conference on Internet measurement, 129-134
+
+61. The Nachos instructional operating system
+Citations:167
+Authors: WA Christopher, SJ Procter, TE Anderson
+Publication: USENIX Winter, 481-488
+
+62. User-level interprocess communication for shared memory multiprocessors
+Citations:166
+Authors: BN Bershad, TE Anderson, ED Lazowska, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 9 (2), 175-198
+
+63. Virtual log based file systems for a programmable disk
+Citations:162
+Authors: RY Wang, TE Anderson, DA Patterson
+Publication: Operating systems review 33, 29-44
+
+64. Studying Black Holes in the Internet with Hubble.
+Citations:160
+Authors: E Katz-Bassett, HV Madhyastha, JP John, A Krishnamurthy, D Wetherall, ...
+Publication: NSDI 8, 247-262
+
+65. A quantitative comparison of iterative scheduling algorithms for input-queued switches
+Citations:159
+Authors: N McKeown, TE Anderson
+Publication: Computer Networks and ISDN systems 30 (24), 2309-2326
+
+66. Active names: Flexible location and transport of wide-area resources
+Citations:154
+Authors: A Vahdat, M Dahlin, T Anderson, A Aggarwal
+Publication: Proceedings DARPA Active Networks Conference and Exposition, 291-304
+
+67. Verdi: a framework for implementing and formally verifying distributed systems
+Citations:151
+Authors: JR Wilcox, D Woos, P Panchekha, Z Tatlock, X Wang, MD Ernst, ...
+Publication: ACM SIGPLAN Notices 50 (6), 357-368
+
+68. GLUix: a global layer unix for a network of workstations
+Citations:150
+Authors: DP Ghormley, D Petrou, SH Rodrigues, AM Vahdat, TE Anderson
+Publication: Software: Practice and Experience 28 (9), 929-961
+
+69. F10: A fault-tolerant engineered network
+Citations:144
+Authors: V Liu, D Halperin, A Krishnamurthy, T Anderson
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+70. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: Computer Architecture, 1997. Conference Proceedings. The 24th Annual …
+
+71. Scalable consistency in Scatter
+Citations:142
+Authors: L Glendenning, I Beschastnikh, A Krishnamurthy, T Anderson
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+72. Computer science handbook
+Citations:138
+Authors: AB Tucker
+Publication: CRC press
+
+73. A system architecture for pervasive computing
+Citations:132
+Authors: R Grimm, T Anderson, B Bershad, D Wetherall
+Publication: Proceedings of the 9th workshop on ACM SIGOPS European workshop: beyond the …
+
+74. A quantitative analysis of cache policies for scalable network file systems
+Citations:131
+Authors: MD Dahlin, CJ Mather, RY Wang, TE Anderson, DA Patterson
+Publication: ACM SIGMETRICS Performance Evaluation Review 22 (1), 150-160
+
+75. Programming for pervasive computing environments
+Citations:127
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Technical Report UW-CSE-01-06-01, University of Washington Department of …
+
+76. iPlane Nano: Path Prediction for Peer-to-Peer Applications.
+Citations:124
+Authors: HV Madhyastha, E Katz-Bassett, TE Anderson, A Krishnamurthy, ...
+Publication: NSDI 9, 137-152
+
+77. The CRISIS Wide Area Security Architecture.
+Citations:121
+Authors: E Belani, A Vahdat, TE Anderson, M Dahlin
+Publication: Usenix Security Symposium, 15-30
+
+78. Intelligent RAM (IRAM): Chips that remember and compute
+Citations:120
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 1997 IEEE International Solids-State Circuits Conference. Digest of …
+
+79. Trading capacity for performance in a disk array
+Citations:117
+Authors: X Yu, B Gum, Y Chen, RY Wang, K Li, A Krishnamurthy, TE Anderson
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+80. Negotiation-based routing between neighboring ISPs
+Citations:114
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+81. A structural approach to latency prediction
+Citations:113
+Authors: HV Madhyastha, T Anderson, A Krishnamurthy, N Spring, ...
+Publication: Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, 99-104
+
+82. xFS: A wide area mass storage file system
+Citations:111
+Authors: RY Wang, TE Anderson
+Publication: Proceedings of IEEE 4th Workshop on Workstation Operating Systems. WWOS-III …
+
+83. The case for application-specific operating systems
+Citations:106
+Authors: TE Anderson
+Publication: University of California, Berkeley, Computer Science Division
+
+84. Receiver based management of low bandwidth access links
+Citations:105
+Authors: NT Spring, M Chesire, M Berryman, V Sahasranaman, T Anderson, ...
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+85. Systems directions for pervasive computing
+Citations:104
+Authors: R Grimm, J Davis, B Hendrickson, E Lemar, A MacBeth, S Swanson, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 147-151
+
+86. LogP quantified: The case for low-overhead local area networks
+Citations:103
+Authors: KK Keeton
+Publication: Proc. Symp. on High Performance Interconnects, Aug., 1995
+
+87. Pitfalls for ISP-friendly P2P design.
+Citations:102
+Authors: M Piatek, HV Madhyastha, JP John, A Krishnamurthy, TE Anderson
+Publication: HotNets
+
+88. Phalanx: Withstanding Multimillion-Node Botnets.
+Citations:100
+Authors: C Dixon, TE Anderson, A Krishnamurthy
+Publication: NSDI 8, 45-58
+
+89. Tools for the development of application-specific virtual memory management
+Citations:88
+Authors: K Krueger, D Loftesness, A Vahdat, T Anderson
+Publication: OOPSLA 93, 48-64
+
+90. LIFEGUARD: Practical repair of persistent route failures
+Citations:85
+Authors: E Katz-Bassett, C Scott, DR Choffnes, Í Cunha, V Valancius, N Feamster, ...
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+91. Transparent result caching
+Citations:83
+Authors: A Vahdat, TE Anderson
+Publication: USENIX Annual Technical Conference
+
+92. WebFS: A global cache coherent filesystem
+Citations:82
+Authors: A Vahdat, P Eastham, T Anderson
+Publication: Technical report, Department of Computer Science, UC Berkeley
+
+93. Efficient and Secure Source Authentication with Packet Passports.
+Citations:73
+Authors: X Liu, X Yang, D Wetherall, TE Anderson
+Publication: SRUTI 6, 2-2
+
+94. On the stability of adaptive routing in the presence of congestion control
+Citations:69
+Authors: EJ Anderson, TE Anderson
+Publication: IEEE INFOCOM 2003. Twenty-second Annual Joint Conference of the IEEE …
+
+95. Effectiveness of trace sampling for performance debugging tools
+Citations:68
+Authors: M Martonosi, A Gupta, T Anderson
+Publication: ACM SIGMETRICS Performance Evaluation Review 21 (1), 248-259
+
+96. Leveraging BitTorrent for end host measurements
+Citations:66
+Authors: T Isdal, M Piatek, A Krishnamurthy, T Anderson
+Publication: International Conference on Passive and Active Network Measurement, 32-41
+
+97. High performance packet processing with flexnic
+Citations:64
+Authors: A Kaufmann, SI Peter, NK Sharma, T Anderson, A Krishnamurthy
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 67-81
+
+98. Information plane for determining performance metrics of paths between arbitrary end-hosts on the internet
+Citations:63
+Authors: HV Madhyastha, T Anderson, A Krishnamurthy, A Venkataramani
+Publication: US Patent 7,778,165
+
+99. Tuning memory performance of sequential and parallel programs
+Citations:61
+Authors: M Martonosi, A Gupta, TE Anderson
+Publication: Computer 28 (4), 32-40
+
+100. GENI design principles
+Citations:60
+Authors: LL Peterson, T Anderson, D Blumenthal, D Casey, D Clark, D Estrin, ...
+Publication: Computer 39 (9), 102-105
+
+101. Reverse engineering the Internet
+Citations:59
+Authors: N Spring, D Wetherall, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 3-8
+
+102. Modeling communication pipeline latency
+Citations:59
+Authors: RY Wang, A Krishnamurthy, RP Martin, TE Anderson, DE Culler
+Publication: ACM Sigmetrics Performance Evaluation Review 26 (1), 22-32
+
+103. PoiRoot: Investigating the root cause of interdomain path changes
+Citations:58
+Authors: U Javed, I Cunha, D Choffnes, E Katz-Bassett, T Anderson, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 183-194
+
+104. Anonymous RPC: Low-Latency Protection in a 64-Bit Address Space.
+Citations:57
+Authors: C Yarvin, R Bukowski, T Anderson
+Publication: USENIX Summer, 175-186
+
+105. The NEBULA future internet architecture
+Citations:56
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: The Future Internet Assembly, 16-26
+
+106. Interference Cancellation: Better Receivers for a New Wireless MAC.
+Citations:56
+Authors: D Halperin, MJ Ammer, TE Anderson, D Wetherall
+Publication: HotNets
+
+107. Retaining sandbox containment despite bugs in privileged memory-safe code
+Citations:54
+Authors: J Cappos, A Dadgar, J Rasley, J Samuel, I Beschastnikh, C Barsan, ...
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+108. PCP: Efficient Endpoint Congestion Control.
+Citations:54
+Authors: TE Anderson, A Collins, A Krishnamurthy, J Zahorjan
+Publication: NSDI
+
+109. Robust congestion signaling
+Citations:51
+Authors: D Ely, N Spring, D Wetherall, S Savage, T Anderson
+Publication: Proceedings Ninth International Conference on Network Protocols. ICNP 2001 …
+
+110. One tunnel is (often) enough
+Citations:49
+Authors: S Peter, U Javed, Q Zhang, D Woos, T Anderson, A Krishnamurthy
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 99-110
+
+111. Towards coordinated interdomain traffic engineering
+Citations:47
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: Hotnets
+
+112. Evaluating the power of flexible packet processing for network resource allocation
+Citations:44
+Authors: NK Sharma, A Kaufmann, T Anderson, A Krishnamurthy, J Nelson, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+113. Resolving IP aliases with prespecified timestamps
+Citations:43
+Authors: J Sherry, E Katz-Bassett, M Pimenova, HV Madhyastha, T Anderson, ...
+Publication: Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 172-178
+
+114. Mutually Controlled Routing with Independent ISPs.
+Citations:43
+Authors: R Mahajan, D Wetherall, TE Anderson
+Publication: NSDI
+
+115. The case for informed transport protocols
+Citations:43
+Authors: S Savage, N Cardwell, T Anderson
+Publication: Proceedings of the Seventh Workshop on Hot Topics in Operating Systems, 58-63
+
+116. Planning for change in a formal verification of the raft consensus protocol
+Citations:41
+Authors: D Woos, JR Wilcox, S Anton, Z Tatlock, MD Ernst, T Anderson
+Publication: Proceedings of the 5th ACM SIGPLAN Conference on Certified Programs and …
+
+117. Detecting network misuse
+Citations:40
+Authors: TE Anderson, DJ Wetherall, SR Savage
+Publication: US Patent 8,509,086
+
+118. Distributed solution for regulating network traffic
+Citations:38
+Authors: DJ Wetherall, TE Anderson, SR Savage
+Publication: US Patent 7,058,015
+
+119. MetaSync: File synchronization across multiple untrusted storage services
+Citations:37
+Authors: S Han, H Shen, T Kim, A Krishnamurthy, T Anderson, D Wetherall
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 83-95
+
+120. Efficient, Portable and Robust Extension of Operating System Functionality
+Citations:37
+Authors: A Vahdat, D Ghormley, TE Anderson
+Publication: Computer Science Division (EECS), University of California, Berkeley
+
+121. Experience with a Language for Writing Coherence Protocols.
+Citations:35
+Authors: S Chandra, JR Larus, M Dahlin, B Richards, RY Wang, TE Anderson
+Publication: DSL, 51-66
+
+122. Tor instead of IP
+Citations:34
+Authors: V Liu, S Han, A Krishnamurthy, T Anderson
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 14
+
+123. Oasis: An overlay-aware network stack
+Citations:34
+Authors: HV Madhyastha, A Venkataramani, A Krishnamurthy, T Anderson
+Publication: ACM SIGOPS Operating Systems Review 40 (1), 41-48
+
+124. Design guidelines for robust Internet protocols
+Citations:34
+Authors: T Anderson, S Shenker, I Stoica, D Wetherall
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 125-130
+
+125. The digital studyhall
+Citations:31
+Authors: R Wang, U Sahni, S Sobti, N Garg, JP Singh, M Kam, A Krishnamurthy, ...
+Publication: Computer Science Department, Princeton University, Tech. Rep. TR-723-05
+
+126. Strata: A cross media file system
+Citations:29
+Authors: Y Kwon, H Fingler, T Hunt, S Peter, E Witchel, T Anderson
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 460-477
+
+127. Aster* x: Load-balancing web traffic over wide-area networks
+Citations:29
+Authors: N Handigol, S Seetharaman, M Flajslik, A Gember, N McKeown, ...
+Publication: Proceedings of GENI Engineering Conf 9
+
+128. Expressive privacy control with pseudonyms
+Citations:28
+Authors: S Han, V Liu, Q Pu, S Peter, T Anderson, A Krishnamurthy, D Wetherall
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 291-302
+
+129. Mining temporal invariants from partially ordered logs
+Citations:28
+Authors: I Beschastnikh, Y Brun, MD Ernst, A Krishnamurthy, TE Anderson
+Publication: ACM SIGOPS Operating Systems Review 45 (3), 39-46
+
+130. Progressive and distributed regulation of selected network traffic destined for a network node
+Citations:28
+Authors: D Wetherall, S Savage, T Anderson
+Publication: US Patent App. 10/924,657
+
+131. Experience with a distributed file system implementation
+Citations:28
+Authors: RY Wang, TE Anderson, MD Dahlin
+Publication: Computer Science Division, University of California
+
+132. Robo-line storage: low latency, high capacity storage systems over geographically distributed networks
+Citations:26
+Authors: RH Katz, TE Anderson, JK Ousterhout, DA Patterson
+Publication: 
+
+133. Operating Systems: Principles and Practice
+Citations:25
+Authors: T Anderson, M Dahlin
+Publication: Recursive books
+
+134. Operating system services for wide-area applications
+Citations:25
+Authors: MA Vahdat, TE Anderson, JD Kubiatowicz
+Publication: University of California, Berkeley
+
+135. The Design of Large-Scale, Do-It-Yourself RAIDs
+Citations:25
+Authors: S Asami, N Talagala, T Anderson, K Lutz, D Patterson
+Publication: Nov 10, 1-30
+
+136. Nebula-a future internet that supports trustworthy cloud computing
+Citations:24
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: 
+
+137. Conference reviewing considered harmful
+Citations:24
+Authors: T Anderson
+Publication: ACM SIGOPS Operating Systems Review 43 (2), 108-116
+
+138. Report of NSF workshop on overcoming barriers to disruptive innovation in networking
+Citations:23
+Authors: T Anderson, L Peterson, S Shenker, J Turner
+Publication: National Science Foundation
+
+139. Your core—my problem?(panel session): integration and verification of IP
+Citations:23
+Authors: G Moretti, T Anderson, J Bergeron, A Dixit, P Flake, T Hopes, ...
+Publication: Proceedings of the 38th annual Design Automation Conference, 170-171
+
+140. Turning the Web into a Computer
+Citations:22
+Authors: A Vahdat, M Dahlin, T Anderson
+Publication: University of California at Berkeley
+
+141. Reducing startup latency in web and desktop applications
+Citations:21
+Authors: D Lee, JL Baer, B Bershad, T Anderson
+Publication: Proceedings of the 3rd conference on USENIX Windows NT Symposium-Volume 3, 17-17
+
+142. Satellite: Joint analysis of CDNs and network-level interference
+Citations:20
+Authors: W Scott, T Anderson, T Kohno, A Krishnamurthy
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 195-208
+
+143. The Berkeley Networks of Workstations (NOW) project
+Citations:20
+Authors: TE Anderson, DE Culler, DA Patterson
+Publication: Digest of Papers. COMPCON'95. Technologies for the Information Superhighway …
+
+144. Friendto-friend data sharing with OneSwarm
+Citations:19
+Authors: T Isdal, M Piatek, A Krishnamurthy, T Anderson
+Publication: Department of Computer Science, University of Washington, Tech. Rep …
+
+145. Understanding and mitigating packet corruption in data center networks
+Citations:18
+Authors: D Zhuo, M Ghobadi, R Mahajan, KT Förster, A Krishnamurthy, T Anderson
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+146. FlexNIC: Rethinking Network {DMA}
+Citations:17
+Authors: A Kaufmann, S Peter, T Anderson, A Krishnamurthy
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+147. Towards high-performance application-level storage management
+Citations:16
+Authors: S Peter, J Li, I Zhang, DRK Ports, T Anderson, A Krishnamurthy, ...
+Publication: 6th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 14)
+
+148. Tackling functional verification for virtual components
+Citations:16
+Authors: T Anderson, R Bhagat
+Publication: Integrated System Design 12, 26-31
+
+149. Arrakis: A case for the end of the empire
+Citations:14
+Authors: S Peter, T Anderson
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+150. Independent detection and filtering of undesirable packets
+Citations:14
+Authors: DJ Wetherall, SR Savage, TE Anderson
+Publication: US Patent 8,271,678
+
+151. Radiatus: a Shared-Nothing Server-Side Web Architecture
+Citations:13
+Authors: R Cheng, W Scott, P Ellenbogen, J Howell, F Roesner, A Krishnamurthy, ...
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 237-250
+
+152. Learning from PlanetLab
+Citations:13
+Authors: T Anderson, T Roscoe
+Publication: Proceedings of the 3rd USENIX Workshop on Real Large Distributed Systems …
+
+153. Liveswarms: Adapting bittorrent for end host multicast
+Citations:13
+Authors: M Piatek, C Dixon, A Krishnamurthy, T Anderson
+Publication: University of Washington, Technical TR, 11-01
+
+154. Interdomain routing with negotiation
+Citations:13
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: Tech. Rep. CSE-04-06-02, University of Washington
+
+155. Detecting and preventing undesirable network traffic from being sourced out of a network domain
+Citations:12
+Authors: DJ Wetherall, SR Savage, TE Anderson
+Publication: US Patent 7,970,886
+
+156. The Nachos instructional operating system
+Citations:12
+Authors: TE Anderson, WA Christopher, SJ Procter
+Publication: Retrieved June 22 (2010), 464-473
+
+157. Interposition as an operating system extension mechanism
+Citations:12
+Authors: DP Ghormley, SH Rodrigues, D Petrou, TE Anderson
+Publication: University of California at Berkeley, Berkeley, CA
+
+158. Operating system support for high-performance multiprocessing
+Citations:12
+Authors: TE Anderson
+Publication: University of Washington
+
+159. Distributed service level management for network traffic
+Citations:11
+Authors: TE Anderson, SR Savage, DJ Wetherall
+Publication: US Patent 7,475,141
+
+160. System-level programming abstractions for ubiquitous computing
+Citations:11
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Proc. of the 8th HotOS
+
+161. Operating systems
+Citations:11
+Authors: RA Finkel
+Publication: ACM Computing Surveys (CSUR) 28 (1), 201-203
+
+162. An information plane for internet applications
+Citations:10
+Authors: HV Madhyastha, TE Anderson, A Krishnamurthy
+Publication: University of Washington
+
+163. Practical and efficient internet routing with competing interests
+Citations:10
+Authors: R Mahajan, DJ Wetherall, TE Anderson
+Publication: University of Washington
+
+164. Floem: a programming system for NIC-accelerated network applications
+Citations:9
+Authors: PM Phothilimthana, M Liu, A Kaufmann, S Peter, R Bodik, T Anderson
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+165. Subways: A case for redundant, inexpensive data center edge links
+Citations:9
+Authors: V Liu, D Zhuo, S Peter, A Krishnamurthy, T Anderson
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+166. Combining parallel and sequential workloads on a network of workstations
+Citations:9
+Authors: R Arpaci, A Vahdat, T Anderson, D Patterson
+Publication: Technical report, Computer Science Division, University of California at …
+
+167. Levy
+Citations:9
+Authors: TE Anderson, BN Bershad, ED Lazowska
+Publication: HM Scheduler Activa-tions: Effective Kernel Support for the User-Level …
+
+168. FreeDOM: a new baseline for the web
+Citations:8
+Authors: R Cheng, W Scott, A Krishnamurthy, T Anderson
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 121-126
+
+169. Machiavellian routing: improving internet availability with BGP poisoning
+Citations:8
+Authors: E Katz-Bassett, DR Choffnes, Í Cunha, C Scott, T Anderson, ...
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 11
+
+170. Practical interference cancellation for wireless lans
+Citations:8
+Authors: D Halperin, T Anderson, D Wetherall
+Publication: Proc. of ACM MobiCom
+
+171. Talek: a private publish-subscribe protocol
+Citations:7
+Authors: R Cheng, W Scott, B Parno, A Krishnamurthy, T Anderson
+Publication: Technical Report. University of Washington
+
+172. Open issues in organizing computer systems conferences
+Citations:7
+Authors: JC Mogul, T Anderson
+Publication: ACM SIGCOMM Computer Communication Review 38 (3), 93-102
+
+173. Deepview: Virtual disk failure diagnosis and pattern detection for azure
+Citations:6
+Authors: Q Zhang, G Yu, C Guo, Y Dang, N Swanson, X Yang, R Yao, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+174. {RAIL}: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks
+Citations:6
+Authors: D Zhuo, M Ghobadi, R Mahajan, A Phanishayee, XK Zou, H Guan, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+175. Thread Management for Shared-Memory Multiprocessors.
+Citations:6
+Authors: TE Anderson, BN Bershad, ED Lazowska, HM Levy
+Publication: Computing Handbook, 3rd ed.(1), 53:1-12
+
+176. GENI: global environment for network innovations
+Citations:6
+Authors: L Peterson, T Anderson, D Blumenthal
+Publication: 2014-09-08]. http://www. geni. net
+
+177. Slim:{OS} Kernel Support for a Low-Overhead Container Overlay Network
+Citations:5
+Authors: D Zhuo, K Zhang, Y Zhu, HH Liu, M Rockett, A Krishnamurthy, T Anderson
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+178. Blocking-resistant network services using Unblock
+Citations:5
+Authors: W Scott, R Cheng, J Li, A Krishnamurthy, T Anderson
+Publication: 
+
+179. Building Bit-Tyrant, a (more) strategic BitTorrent client
+Citations:5
+Authors: M Piatek, T Isdal, T Anderson, A Krishnamurthy, A Venkataramani
+Publication: login 32 (4), 8-13
+
+180. Geni facility security
+Citations:5
+Authors: T Anderson, M Reiter
+Publication: GENI Design Document 06 23
+
+181. Causal memory: Definitions, implementation and programming
+Citations:5
+Authors: M Ahamad, G Neiger, P Kohli, J Burns, P Hutto, TE Anderson
+Publication: IEEE Transactions on Parallel and Distributed Systems 1, 6-16
+
+182. Virtual log based file systems for a programmable disk
+Citations:5
+Authors: RYWDA Patterson, TE Anderson, RY Wang
+Publication: Symposium on Operating Systems Design and Implementation (New Orleans LA 22 …
+
+183. A quantitative evaluation of traffic-aware routing strategies
+Citations:4
+Authors: EJ Anderson, TE Anderson, SD Gribble, AR Karlin, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 67-67
+
+184. A study of BGP origin as changes and partial connectivity
+Citations:4
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: Slide Presentation, University of Washington, Asta Networks,(ritual@ cs …
+
+185. Examining web latency: Performance analysis of a wide-area distributed system
+Citations:4
+Authors: S Savage, N Cardwell, G Voelker, A Wolman, T Anderson, H Levy
+Publication: 
+
+186. Democratizing the Network Edge
+Citations:3
+Authors: L Peterson, T Anderson, S Katti, N McKeown, G Parulkar, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 49 (2), 31-36
+
+187. TAS: TCP Acceleration as an OS Service
+Citations:3
+Authors: A Kaufmann, T Stamler, S Peter, NK Sharma, A Krishnamurthy, ...
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 24
+
+188. Rack-level congestion control
+Citations:3
+Authors: D Zhuo, Q Zhang, V Liu, A Krishnamurthy, T Anderson
+Publication: Proceedings of the 15th ACM Workshop on Hot Topics in Networks, 148-154
+
+189. An internet architecture based on the principle of least privilege
+Citations:3
+Authors: V Liu, S Han, A Krishnamurthy, T Anderson
+Publication: University of Washington, Tech. Rep. UW-CSE-12-09-04
+
+190. Geni: Global environment for network innovations distributed services working group
+Citations:3
+Authors: T Anderson, MK Reiter
+Publication: 
+
+191. Tit-for-tat distributed resource allocation
+Citations:3
+Authors: C Dixon, T Bragin, A Krishnamurthy, T Anderson
+Publication: 
+
+192. Internet Measurement: Past, Present and Future
+Citations:3
+Authors: T Anderson, M Crovella, C Diot
+Publication: 
+
+193. Teaching by Layers Considered Harmful for Network Education
+Citations:3
+Authors: D Wetherall, T Anderson
+Publication: 2nd Workshop on Networking Education, SIGCOMM
+
+194. Predictive state restoration in desktop workstation clusters
+Citations:3
+Authors: D Petrou, DP Ghormley, TE Anderson
+Publication: CSD-96-921
+
+195. Bridging the Processor-memory gap,“
+Citations:3
+Authors: D Patterson, K Yelick, T Anderson
+Publication: University of California, Berkeley, Final Report 96_108
+
+196. Quantitative Analysis of Disk Drive Power Management in Portable
+Citations:3
+Authors: K Li, R Kumpf, P Horton, TE Anderson
+Publication: University of California at Berkeley
+
+197. Machine fault tolerance for reliable datacenter systems
+Citations:2
+Authors: D Zhuo, Q Zhang, DRK Ports, A Krishnamurthy, T Anderson
+Publication: Proceedings of 5th Asia-Pacific Workshop on Systems, 3
+
+198. A case for holistic incentive design
+Citations:2
+Authors: M Piatek, T Anderson, A Krishnamurthy
+Publication: Proc. Workshop Future Directions in Distr. Computing (FuDiCo III)
+
+199. Program Chairs' Message
+Citations:2
+Authors: T Anderson, N McKeown
+Publication: ACM SIGCOMM COMPUTER COMMUNICATION REVIEW 36 (4), IV-IV
+
+200. Geni: Conceptual design project execution plan
+Citations:2
+Authors: T Anderson
+Publication: In GENI Design Document GDD-06-07
+
+201. Benefits of negotiated interdomain traffic engineering
+Citations:2
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: University of Washington
+
+202. Earlier Work
+Citations:2
+Authors: S Savage, D Wetherall, A Karlin, T Anderson
+Publication: IEEE/ACM Transactions on Networking 9 (3), 226-237
+
+203. File System Fingerprinting
+Citations:2
+Authors: D Roselli, JN Matthews, TE Anderson
+Publication: Works-In-Progress at the Third Symposium on Operating Systems Design and …
+
+204. Scaling Processors to 1 Billion Transistors and Beyond: IRAM
+Citations:2
+Authors: S Perissakis, C Kozyrakis, T Anderson, K Asanovic, N Cardwell, R Fromm, ...
+Publication: IEEE Computer
+
+205. The Case for Application-Speciﬁc Operating Systems
+Citations:2
+Authors: TE Anderson
+Publication: Proceedings of 3rd IEEE Workshop on Workstation Operating Systems, 92-94
+
+206. Inferring networked system models from behavior traces
+Citations:1
+Authors: I Beschastnikh
+Publication: Proceedings of the 2012 ACM conference on CoNEXT student workshop, 13-14
+
+207. Withstanding multimillion-node botnets
+Citations:1
+Authors: C Dixon, T Anderson, A Krishnamurthy
+Publication: ; login:: the magazine of USENIX & SAGE 33 (4), 22-33
+
+208. iPlane: Measurements and query interface
+Citations:1
+Authors: HV Madhyastha, T Anderson, A Krishnamurthy, A Venkataramani
+Publication: 
+
+209. Digital networking going postal and tale of three schools
+Citations:1
+Authors: R Wang, U Sahni, N Garg, N Dasgupta, S Sobti, T Setia, T Anderson
+Publication: Small Change Magazine
+
+210. Enforceable Network Protocols
+Citations:1
+Authors: DJ Wetherall, TE Anderson
+Publication: UNIV OF WASHINGTON SEATTLE DEPT OF COMPUTER SCIENCE AND ENGINEERING
+
+211. RENDEZVOUS: Self-Organizing Services in an Active Network
+Citations:1
+Authors: DJ Wetherall, TE Anderson
+Publication: WASHINGTON UNIV SEATTLE DEPT OF COMPUTER SCIENCE AND ENGINEERING
+
+212. Investigative Case Study: Protective Wrapping of OTS items in Simulated Environments
+Citations:1
+Authors: T Anderson, M Feng, S Riddle, A Romanovsky
+Publication: TECHNICAL REPORT SERIES-UNIVERSITY OF NEWCASTLE UPON TYNE COMPUTING SCIENCE
+
+213. Who cares about system verification?
+Citations:1
+Authors: T Anderson
+Publication: IEEE Design & Test of Computers, 114
+
+214. The Nachos System
+Citations:1
+Authors: TE Anderson
+Publication: Silberschatz et al., Operating System Concepts, 6th ed., Appendix C, New …
+
+215. Design Principles for a Robust Network Infrastructure
+Citations:1
+Authors: D Wetherall, T Anderson
+Publication: White Paper. Department of Computer Science and Engineering–University of …
+
+216. Your Core-My Problem? Integration and Verification of IP
+Citations:1
+Authors: T Anderson
+Publication: IEEE Design & Test of Computers, 121-123
+
+217. Guest Editors' Introduction: Developing Interconnect Technology
+Citations:1
+Authors: TE Anderson, KM Nichols, V Shen
+Publication: IEEE Micro 16 (1), 10-11
+
+218. The Case for I/O-Device-as-a-Service
+Citations:
+Authors: AA Sani, T Anderson
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 66-72
+
+219. Practical Safe Linux Kernel Extensibility
+Citations:
+Authors: S Miller, K Zhang, D Zhuo, S Xu, A Krishnamurthy, T Anderson
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 170-176
+
+220. Teaching Rigorous Distributed Systems With Efficient Model Checking
+Citations:
+Authors: E Michael, D Woos, T Anderson, MD Ernst, Z Tatlock
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 32
+
+221. A Graphical Interactive Debugger for Distributed Systems
+Citations:
+Authors: D Woos, Z Tatlock, MD Ernst, TE Anderson
+Publication: arXiv preprint arXiv:1806.05300
+
+222. Volur: Concurrent Edge/Core Route Control in Data Center Networks
+Citations:
+Authors: Q Zhang, D Zhuo, V Liu, P Lapukhov, S Peter, A Krishnamurthy, ...
+Publication: arXiv preprint arXiv:1804.06945
+
+223. Efficient, Secure, and Flexible High Speed Packet Processing for Data Centers
+Citations:
+Authors: A Kaufmann
+Publication: 
+
+224. Censorship Resistant Web Applications
+Citations:
+Authors: W Scott
+Publication: 
+
+225. Efficient Security and Privacy Enhancing Solutions in Untrusted Environments
+Citations:
+Authors: S Han
+Publication: 
+
+226. Keynote abstracts
+Citations:
+Authors: AM Vahdat, T Anderson, D Yen, G Papen, T Edsall
+Publication: 2013 IEEE 21st Annual Symposium on High-Performance Interconnects, xv-xix
+
+227. Kademlia: A peer-to-peer information system based on the XOR metric.
+Citations:
+Authors: L Ye, H Zhang, Q Dai, X Jiang, S Jiang, T Peng, T Peng, Q Zheng, ...
+Publication: Information Technology Journal 10 (3), 1084-1093
+
+228. Before and After WOWCS: A literature survey, A list of papers we wish had been submitted.
+Citations:
+Authors: JC Mogul, T Anderson
+Publication: WOWCS
+
+229. Intrusion detection and monitoring for wireless networks.
+Citations:
+Authors: ED Thomas, JA Van Randwyk, EJ Lee, A Stephano, P Tabriz, K Pelon, ...
+Publication: Sandia National Laboratories
+
+230. Forwarding and Control Element Separation (ForCES) Framework Status of this Memo This memo provides information for the Internet community. It does not specify an Internet …
+Citations:
+Authors: T Anderson, R Gopal
+Publication: 
+
+231. UbiGreen
+Citations:
+Authors: T Anderson, E Brewer, M Hearst, R Jain, A Jones, T Kalil, R Reddy, ...
+Publication: 
+
+232. The Castle Project
+Citations:
+Authors: T Anderson, D Culler, J Demmel, J Feldman, S Graham, P Hilfinger, ...
+Publication: USDOE Oakland Operations Office, Oakland, CA (US)
+
+233. Center track: An IP overlay network for tracking dos floods.
+Citations:
+Authors: VM Bhaskaran, AM Natarajan, SN Sivanandam, SM Bellovin, CC Center, ...
+Publication: Information Technology Journal 6 (2), pp: 159-165
+
+234. System Support for Distributed Supercomputing on a Network of Workstations (Now)
+Citations:
+Authors: DE Culler, TE Anderson, DA Patterson
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF COMPUTER SCIENCES
+
+235. The Dynamic Grid Search Interface for the World Wide Web
+Citations:
+Authors: I Hanley, T Anderson, K Adamson
+Publication: APPLIED INFORMATICS-PROCEEDINGS-, 183-190
+
+236. ISCA'98 paper, Execution Characteristics of Desktop Applications on Windows NT
+Citations:
+Authors: D Lee, P Crowley, JL Baer, T Anderson, B Bershad
+Publication: COMPUTER ARCHITECTURE NEWS 26, 1-2
+
+237. A Quick Introduction to C+
+Citations:
+Authors: T Anderson
+Publication: 
+
+238. GLUnix Design
+Citations:
+Authors: D Ghormley, S Rodrigues, K Vetter, A Vahdat, K Wright, T Anderson
+Publication: University of California, Berkeley
+
+239. SPONTANEOUS OVERFEEDING WITH A CAFETERIA DIET-EFFECTS ON 24-H ENERGY-EXPENDITURE AND SUBSTRATE OXIDATION
+Citations:
+Authors: DE LARSON, R RISING, TE ANDERSON, R FERRARO, ...
+Publication: CLINICAL RESEARCH 40 (2), A632-A632
+
+240. DIFFERENCES IN DAY NIGHT BODY CORE TEMPERATURE BETWEEN CAUCASIAN AND PIMA INDIAN MEN
+Citations:
+Authors: R RISING, AM FONTVIEILLE, DE LARSON, R FERRARO, T ANDERSON, ...
+Publication: FASEB JOURNAL 6 (4), A1083-A1083
+
+241. Abstracts: A Latency-Hiding Technique for High-Capacity
+Citations:
+Authors: JA Fine, TE Anderson, MD Dahlin, J Frew, M Olson, DA Patterson
+Publication: University of California at Berkeley
+
+242. Parallel Programs
+Citations:
+Authors: M Martonosi, A Gupta, TE Anderson
+Publication: Computing 9 (2), 185-202
+
+243. Error Recovery
+Citations:
+Authors: PA Lee, T Anderson
+Publication: Fault Tolerance, 143-187
+
+244. Fault Tolerant Systems
+Citations:
+Authors: PA Lee, T Anderson
+Publication: Fault Tolerance, 79-94
+
+245. Error Detection
+Citations:
+Authors: PA Lee, T Anderson
+Publication: Fault Tolerance, 95-121
+
+246. Fault Treatment and Continued Service
+Citations:
+Authors: PA Lee, T Anderson
+Publication: Fault Tolerance, 189-203
+
+247. Cloud Storage MetaSync: Coordinating Storage across Multiple File Synchronization Services
+Citations:
+Authors: S Han, H Shen, T Kim, A Krishnamurthy, T Anderson, D Wetherall
+Publication: 
+
+248. Operating System1
+Citations:
+Authors: WA Christopher, SJ Procter, TE Anderson
+Publication: 
+
+249. Turn Your Storage Stack into a File System
+Citations:
+Authors: Y Kwon, H Fingler, S Peter, E Witchel, T Anderson
+Publication: 
+
+250. A Measurement Study of BGP Misconfiguration
+Citations:
+Authors: R Mahajan, D Wetherall, T Anderson
+Publication: 
+
+251. freedom. js: an Architecture for Serverless Web Applications
+Citations:
+Authors: W Scott, R Cheng, A Krishnamurthy, T Anderson
+Publication: 
+
+252. Introduction to Fishnet
+Citations:
+Authors: T Anderson
+Publication: 
+
+253. Reducing Data Center Network Congestion with Subways
+Citations:
+Authors: V Liu, D Zhuo, S Peter, A Krishnamurthy, T Anderson
+Publication: 
+
+254. Transit as a Service
+Citations:
+Authors: S Peter, U Javed, T Anderson, A Krishnamurthy
+Publication: 
+
+255. Machiavellian Routing: Poisoning BGP for Route Control
+Citations:
+Authors: E Katz-Bassett, T Anderson
+Publication: 
+
+256. Internet Measurements with Prespecified Timestamps
+Citations:
+Authors: J Sherry, M Pimenova, E Katz-Bassett, HV Madhyastha, A Krishnamurthy, ...
+Publication: 
+
+257. FP 14.1 Intelligent RAM (IRAM): Chips that remember and compute
+Citations:
+Authors: D Patterson, T Anderson, N Cardwell, R Fromm, K Keeton, C Kozyrakis, ...
+Publication: 
+
+258. Social Security for the Internet
+Citations:
+Authors: TE Anderson, A Venkataramani
+Publication: 
+
+259. Unspoofable Source Identifiers without Global Trust
+Citations:
+Authors: X Liu, X Yang, D Wetherall, T Anderson
+Publication: 
+
+260. Towards More Robust Internet Protocols
+Citations:
+Authors: T Anderson, S Shenker, I Stoica, D Wetherall
+Publication: 
+

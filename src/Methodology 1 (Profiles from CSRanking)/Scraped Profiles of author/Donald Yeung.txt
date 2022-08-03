@@ -1,0 +1,498 @@
+https://scholar.google.com/citations?hl=en&user=HoDilBYAAAAJ
+Total Citations = 2779
+
+1. The MIT Alewife machine: Architecture and performance
+Citations:652
+Authors: A Agarwal, R Bianchini, D Chaiken, KL Johnson, D Kranz, J Kubiatowicz, ...
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 2-13
+
+2. Sparcle: An evolutionary processor design for large-scale multiprocessors
+Citations:222
+Authors: A Agarwal, J Kubiatowicz, D Kranz, BH Lim, D Yeung, G D'Souza, ...
+Publication: IEEE micro 13 (3), 48-61
+
+3. Biobench: A benchmark suite of bioinformatics applications
+Citations:181
+Authors: K Albayraktaroglu, A Jaleel, X Wu, M Franklin, B Jacob, CW Tseng, ...
+Publication: IEEE International Symposium on Performance Analysis of Systems and Software …
+
+4. Application-level correctness and its impact on fault tolerance
+Citations:178
+Authors: X Li, D Yeung
+Publication: 2007 IEEE 13th International symposium on high performance computer …
+
+5. Design and evaluation of compiler algorithms for pre-execution
+Citations:140
+Authors: D Kim, D Yeung
+Publication: ACM SIGPLAN Notices 37 (10), 159-170
+
+6. Learning-based SMT processor resource distribution via hill-climbing
+Citations:136
+Authors: S Choi, D Yeung
+Publication: 33rd International Symposium on Computer Architecture (ISCA'06), 239-251
+
+7. Physical experimentation with prefetching helper threads on Intel's hyper-threaded processors
+Citations:128
+Authors: D Kim, SSW Liao, PH Wang, J Del Cuvillo, X Tian, X Zou, H Wang, ...
+Publication: International Symposium on Code Generation and Optimization, 2004. CGO 2004 …
+
+8. MGS: a multigrain shared memory system
+Citations:122
+Authors: J Kubiatowicz, A Agarwal, D Yeung
+Publication: 23rd Annual International Symposium on Computer Architecture (ISCA'96), 44-44
+
+9. Transparent threads: Resource sharing in SMT processors for high single-thread performance
+Citations:81
+Authors: GK Dorai, D Yeung
+Publication: Proceedings. International Conference on Parallel Architectures and …
+
+10. The MIT alewife machine
+Citations:56
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proceedings of the IEEE 87 (3), 430-444
+
+11. The efficacy of software prefetching and locality optimizations on future memory systems
+Citations:52
+Authors: AH Badawy, A Aggarwal, D Yeung, CW Tseng
+Publication: Journal of Instruction-Level Parallelism 6 (7)
+
+12. Evaluating the impact of memory system performance on software prefetching and locality optimizations
+Citations:51
+Authors: AHA Badawy, A Aggarwal, D Yeung, CW Tseng
+Publication: Proceedings of the 15th international conference on Supercomputing, 486-500
+
+13. A study of source-level compiler algorithms for automatic construction of pre-execution code
+Citations:46
+Authors: D Kim, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 22 (3), 326-379
+
+14. Studying multicore processor scaling via reuse distance analysis
+Citations:44
+Authors: MJ Wu, M Zhao, D Yeung
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 499-510
+
+15. Coherent profiles: Enabling efficient reuse distance analysis of multicore scaling for loop-based parallel programs
+Citations:43
+Authors: MJ Wu, D Yeung
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+16. Exploiting soft computing for increased fault tolerance
+Citations:43
+Authors: X Li, D Yeung
+Publication: ASGI
+
+17. Experience with fine-grain synchronization in MIMD machines for preconditioned conjugate gradient
+Citations:38
+Authors: D Yeung, A Agarwal
+Publication: ACM SIGPLAN Notices 28 (7), 187-192
+
+18. Exploring optimal cost-performance designs for Raw microprocessors
+Citations:35
+Authors: CA Moritz, D Yeung, A Agarwal
+Publication: Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No …
+
+19. Multi-chain prefetching: Effective exploitation of inter-chain memory parallelism for pointer-chasing codes
+Citations:33
+Authors: N Kohout, S Choi, D Kim, D Yeung
+Publication: Proceedings 2001 International Conference on Parallel Architectures and …
+
+20. The Alewife CMMU: Addressing the multiprocessor communications gap
+Citations:33
+Authors: J Kubiatowicz, D Chaiken, A Agarwal, A Altman, J Babb, D Kranz, BH Lim, ...
+Publication: To appear in HOTCHIPS 94, 1
+
+21. Exploiting application-level correctness for low-cost fault tolerance
+Citations:30
+Authors: X Li, D Yeung
+Publication: J. Instruction-Level Parallelism 10, 1-28
+
+22. SimpleFit: A framework for analyzing design trade-offs in raw architectures
+Citations:27
+Authors: CA Moritz, D Yeung, A Agarwal
+Publication: IEEE Transactions on Parallel and Distributed Systems 12 (7), 730-742
+
+23. Efficient reuse distance analysis of multicore scaling for loop-based parallel programs
+Citations:26
+Authors: MJ Wu, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 31 (1), 1
+
+24. Multigrain shared memory
+Citations:26
+Authors: D Yeung
+Publication: Massachusetts Institute of Technology
+
+25. A general framework for prefetch scheduling in linked data structures and its application to multi-chain prefetching
+Citations:25
+Authors: S Choi, N Kohout, S Pamnani, D Kim, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 22 (2), 214-280
+
+26. Special issue on distributed shared memory systems
+Citations:25
+Authors: V Milutinovic, P Stenstrom
+Publication: Proceedings of the IEEE 87 (3), 399-404
+
+27. Identifying optimal multicore cache hierarchies for loop-based parallel programs via reuse distance analysis
+Citations:22
+Authors: MJ Wu, D Yeung
+Publication: Proceedings of the 2012 ACM SIGPLAN Workshop on Memory Systems Performance …
+
+28. Optimizing SMT processors for high single-thread performance
+Citations:21
+Authors: GK Dorai, D Yeung, S Choi
+Publication: 
+
+29. Experience with improving distributed shared cache performance on tilera's tile processor
+Citations:20
+Authors: I Choi, M Zhao, X Yang, D Yeung
+Publication: IEEE Computer Architecture Letters 10 (2), 45-48
+
+30. Low-cost support for fine-grain synchronization in multiprocessors
+Citations:20
+Authors: D Kranz, BH Lim, A Agarwal, D Yeung
+Publication: Multithreaded Computer Architecture: A Summary of the State of the Art, 139-166
+
+31. Low-cost support for fine-grain synchronization in multiprocessors
+Citations:19
+Authors: D Kranz, BH Lim, A Agarwal
+Publication: Massachusetts Institute of Technology
+
+32. Exploiting application-level information to reduce memory bandwidth consumption
+Citations:16
+Authors: D Agarwal, D Yeung
+Publication: Proceedings of the 4th Workshop on Complexity-Effective Design, held in …
+
+33. Unlocking the true potential of 3-D CPUs with microfluidic cooling
+Citations:14
+Authors: C Serafy, A Bar-Cohen, A Srivastava, D Yeung
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 24 (4 …
+
+34. Multicore Performance Optimization Using Partner Cores.
+Citations:14
+Authors: E Lau, JE Miller, I Choi, D Yeung, SP Amarasinghe, A Agarwal
+Publication: HotPar
+
+35. Using aggressor thread information to improve shared cache management for CMPs
+Citations:14
+Authors: W Liu, D Yeung
+Publication: 2009 18th International Conference on Parallel Architectures and Compilation …
+
+36. The MIT Alewife machine: architecture and performance
+Citations:13
+Authors: A Agarwal, R Bianchini, D Chaiken, KL Johnson, D Kranz, J Kubiatowicz, ...
+Publication: 25 years of the international symposia on Computer architecture (selected …
+
+37. Hill-climbing SMT processor resource distribution
+Citations:12
+Authors: S Choi, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 27 (1), 1
+
+38. Multithreaded computer architecture,"
+Citations:11
+Authors: JB Dennis, GR Gao, RA Iannucci
+Publication: Boston: Kluwer Academic Publishers
+
+39. Transferring performance gain from software prefetching to energy reduction
+Citations:8
+Authors: DN Agarwal, SN Pamnani, G Qu, D Yeung
+Publication: 2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No …
+
+40. Identifying power-efficient multicore cache hierarchies via reuse distance analysis
+Citations:7
+Authors: M Badamo, J Casarona, M Zhao, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 34 (1), 3
+
+41. Continued frequency scaling in 3D ICs through micro-fluidic cooling
+Citations:7
+Authors: C Serafy, A Srivastava, D Yeung
+Publication: Fourteenth Intersociety Conference on Thermal and Thermomechanical Phenomena …
+
+42. High performance 3D stacked DRAM processor architectures with micro-fluidic cooling
+Citations:7
+Authors: C Serafy, B Shi, A Srivastava, D Yeung
+Publication: 2013 IEEE International 3D Systems Integration Conference (3DIC), 1-8
+
+43. Scaling single-program performance on large-scale chip multiprocessors
+Citations:7
+Authors: MJ Wu, D Yeung
+Publication: 
+
+44. Kubiatowicz,“
+Citations:7
+Authors: A Agarwal, B Lim, D Kranz
+Publication: APRIL: A Processor Architecture for Multiprocessing,” Proc. of the 17th …
+
+45. Design space exploration of 3D CPUs and micro-fluidic heatsinks with thermo-electrical-physical co-optimization
+Citations:6
+Authors: C Serafy, A Srivastava, A Bar-Cohen, D Yeung
+Publication: ASME 2015 International Technical Conference and Exhibition on Packaging and …
+
+46. Studying the impact of multicore processor scaling on directory techniques via reuse distance analysis
+Citations:6
+Authors: M Zhao, D Yeung
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+47. How to Choose the Grain Size of a Parallel Computer
+Citations:6
+Authors: D Yeung, WJ Dally, A Agarwal
+Publication: MIT/LCS Technical Report, MIT-LCS-TR-739
+
+48. Scalable Inter-Cluster Communication System for Clustered Multiprocessors
+Citations:5
+Authors: Y Jiang, D Yeung
+Publication: 
+
+49. Sparcle: A multithreaded VLSI processor for parallel computing
+Citations:5
+Authors: A Agarwal, J Babb, D Chaiken, G D'Souza, K Johnson, D Kranz, ...
+Publication: US/Japan Workshop on Parallel Symbolic Computing, 359-361
+
+50. Exploiting Value Prediction for Fault Tolerance
+Citations:4
+Authors: X Li, D Yeung
+Publication: Proceedings of the 3rd Workshop on Dependable Architectures (WDA-III), 29-39
+
+51. Multi-chain prefetching: Exploiting memory parallelism in pointer-chasing codes
+Citations:4
+Authors: N Kohout, S Choi, D Yeung
+Publication: ISCA Workshop on Solving the Memory Wall Problem
+
+52. The mit alewife machine
+Citations:4
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proc. of the IEEE, Special Issue on Distributed Shared Memory
+
+53. Symbiotic cache resizing for cmps with shared llc
+Citations:3
+Authors: I Choi, D Yeung
+Publication: 
+
+54. Enhancing LTP-driven cache management using reuse distance information
+Citations:3
+Authors: W Liu, D Yeung
+Publication: 
+
+55. The scalability of multigrain systems
+Citations:3
+Authors: D Yeung
+Publication: International Conference on Supercomputing: Proceedings of the 13 th …
+
+56. Experience with Fine-Grain Synchronization in MIMD Machines for Preconditioned Conjugate Gradient
+Citations:3
+Authors: D Yeung, A Agarwal
+Publication: Massachusetts Institute of Technology
+
+57. Understanding multicore cache behavior of loop-based parallel programs via reuse distance analysis
+Citations:2
+Authors: MJ Wu, D Yeung
+Publication: 
+
+58. Multi-chain prefetching: exploiting natural memory parallelism in pointer-chasing codes
+Citations:2
+Authors: N Kohout, S Choi, D Yeung
+Publication: Technical Report UMD-SCA-TR-2000-01, University of Maryland at College Park
+
+59. Memory-systems challenges in realizing monolithic computers
+Citations:1
+Authors: M Jagasivamani, C Walden, D Singh, L Kang, S Li, M Asnaashari, ...
+Publication: Proceedings of the International Symposium on Memory Systems, 98-104
+
+60. Guiding locality optimizations for graph computations via reuse distance analysis
+Citations:1
+Authors: AHA Badawy, D Yeung
+Publication: IEEE Computer Architecture Letters 16 (2), 119-122
+
+61. Reducing data movement with approximate computing techniques
+Citations:1
+Authors: SP Crago, D Yeung
+Publication: 2016 IEEE International Conference on Rebooting Computing (ICRC), 1-4
+
+62. Early Experience with Profiling and Optimizing Distributed Shared Cache Performance on Tilera’s Tile Processors
+Citations:1
+Authors: I Choi, M Zhao, X Yang, D Yeung
+Publication: Proc. of the Int’l Workshop on Unique Chips and Systems
+
+63. Low Power System Design by Combining Software prefetching and dynamic voltage scaling
+Citations:1
+Authors: SN Pamnani, DN Agarwal, G Qu, D Yeung
+Publication: Journal of Circuits, Systems, and Computers 16 (05), 745-767
+
+64. Low Power System Design with Performance Enhancement Techniques
+Citations:1
+Authors: SN Pamnani, DN Agarwal, G Qu, D Yeung
+Publication: Circuits, Systems, and Computers 16 (5), 745-767
+
+65. Exploiting Application-Level Information to reduce memory bandwidth consumption
+Citations:1
+Authors: D Agarwal, D Yeung
+Publication: 
+
+66. Using program slicing to drive pre-execution on simultaneous multithreading processors
+Citations:1
+Authors: D Kim, D Yeung
+Publication: 
+
+67. Evaluating the impact of memory system performance on software prefetching and locality optimizations
+Citations:1
+Authors: A Aggarwal, AHA Badawy, CW Tseng, D Yeung
+Publication: In Proceedings of the International Conference on Supercomputing
+
+68. Scalability of Multicast Communication over Wide-Area Networks
+Citations:1
+Authors: D Yeung
+Publication: Laboratory for Computer Science, Cambridge, MA 2139, 1-21
+
+69. Multi-Level Cache Resizing
+Citations:1
+Authors: I Choi, D Yeung
+Publication: tech. rep., UMIACS, University of Maryland, College Park
+
+70. Design and Evaluation of Monolithic Computers Implemented Using Crossbar ReRAM
+Citations:
+Authors: M Jagasivamani, C Walden, D Singh, S Li, L Kang, M Asnaashari, ...
+Publication: 
+
+71. Design for ReRAM-based Main-Memory Architectures
+Citations:
+Authors: M Jagasivamani, C Walden, D Singh, L Kang, S Li, M Asnaashari, ...
+Publication: 
+
+72. Memory-System Design Challenges in Realizing Monolithic Computers
+Citations:
+Authors: M Jagasivamani, C Walden, D Singh, L Kang, S Li, M Asnaashari, ...
+Publication: 
+
+73. Optimizing locality in graph computations using reuse distance profiles
+Citations:
+Authors: AHA Badawy, D Yeung
+Publication: 2017 IEEE 36th International Performance Computing and Communications …
+
+74. Using Multicore Reuse Distance to Study Coherence Directories
+Citations:
+Authors: M Zhao, D Yeung
+Publication: ACM Transactions on Computer Systems (TOCS) 35 (2), 4
+
+75. Multi-cache resizing via greedy coordinate descent
+Citations:
+Authors: IS Choi, D Yeung
+Publication: The Journal of Supercomputing 73 (6), 2402-2429
+
+76. Exploiting Multi-Loop Parallelism on Heterogeneous Microprocessors
+Citations:
+Authors: M Zuzak, D Yeung
+Publication: 
+
+77. Physically Constrained Design Space Modeling for 3D CPUs
+Citations:
+Authors: C Serafy, A Srivastava, D Yeung
+Publication: 
+
+78. Studying Directory Access Patterns via Reuse Distance Analysis and Evaluating Their Impact on Multi-Level Directory Caches
+Citations:
+Authors: M Zhao, D Yeung
+Publication: 
+
+79. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: J Mars, L Tang, R Hundt, G Michelogiannakis, N Jiang, DU Becker, ...
+Publication: 
+
+80. Memory Performance Analysis for Parallel Programs Using Concurrent Reuse Distance
+Citations:
+Authors: MJ Wu, D Yeung
+Publication: 
+
+81. Probabilistic Replacement: Enabling Flexible Use of Shared Caches for CMPs
+Citations:
+Authors: W Liu, D Yeung
+Publication: 
+
+82. Parallelization of the SSCA# 3 Benchmark on the RAW Processor
+Citations:
+Authors: MJ Wu, D Yeung
+Publication: 
+
+83. Data Cache Prefetching
+Citations:
+Authors: Y Solihin, D Yeung
+Publication: Speculative Execution in High Performance Computer Architectures 6, 161
+
+84. Hill-Climbing SMT Processor Resource Scheduler
+Citations:
+Authors: S Choi, D Yeung
+Publication: University of Maryland Technical Report CS-TR-4723 and UMIACS-TR-2005-30
+
+85. Articles in Refereed Conferences
+Citations:
+Authors: D Kim, D Yeung
+Publication: 
+
+86. Multi-Chain Prefetching: Effective Exploitation of Inter-Chain Memory Parallelism for Pointer-Chasing Codes
+Citations:
+Authors: NKSCD Kim, D Yeung
+Publication: Proceedings, 268
+
+87. Scalable Inter-Cluster Communications Systems for Clustered Microprocessors
+Citations:
+Authors: X Jiang, D Yeung
+Publication: Massachusetts Institute of Technology
+
+88. The MIT Alewife Project
+Citations:
+Authors: A Agarwal, R Bianchini, D Chaikent, KL Johnson, D Yeung, J Babb, ...
+Publication: Proceedings of the Conference on Experimental Research in Computer Systems, 39
+
+89. The MIT Alewife machine
+Citations:
+Authors: A Agarwal, R Bianchini, D Chaiken, KL Johnson, D Kranz, J Kubiatowicz, ...
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 2-13
+
+90. The MIT Alewife Machine: Architecture and Performance
+Citations:
+Authors: D Kranz, J Kubiatowicz, BH Limi, K Mackenzie, D Yeung
+Publication: 
+
+91. An evaluation of multiprocessor support for fine-grain synchronization in preconditioned conjugate gradient
+Citations:
+Authors: D Yeung
+Publication: Massachusetts Institute of Technology
+
+92. MIT/LCS/TR-565
+Citations:
+Authors: D Yeung
+Publication: 
+
+93. Approximate and Stochastic Computing
+Citations:
+Authors: A CONINX, P BESSIÈRE, E MAZER, J DROULEZ, R LAURENT, ...
+Publication: 
+
+94. Multi Markov Predictor: A scheme for Speculative Coherent DSMs
+Citations:
+Authors: TVK Gupta, A Dominguez, D Yeung
+Publication: 
+
+95. Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: D Kranz, BH Lim, D Yeung, A Agarwal
+Publication: 
+
+96. Reducing Memory Bandwidth Consumption Via Compiler-Driven Selective Sub-Blocking
+Citations:
+Authors: D Agarwal, W Liu, D Yeung
+Publication: 
+
+97. LOW POWER SYSTEM DESIGN BY COMBINING SOFTWARE PREFETCHING AND DYNAMIC VOLTAGE SCALING 5
+Citations:
+Authors: G QU, D YEUNG
+Publication: 
+
+98. Low Overhead Helper Threads for Software-Based Techniques
+Citations:
+Authors: GK Dorai, D Yeung
+Publication: 
+
+99. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+

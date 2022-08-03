@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=GUAoEcAAAAAJ
+Total Citations = 145278
+
+1. A scalable content-addressable network
+Citations:9933
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 161-172
+
+2. OpenFlow: enabling innovation in campus networks
+Citations:8745
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69-74
+
+3. The Byzantine generals problem
+Citations:5813
+Authors: L Lamport, R Shostak, M Pease
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 4 (3), 382-401
+
+4. Integrated services in the internet architecture: an overview
+Citations:5238
+Authors: D Clark, R Braden, S Shenker
+Publication: 
+
+5. Spark: Cluster computing with working sets.
+Citations:4455
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: HotCloud 10 (10-10), 95
+
+6. Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing
+Citations:3876
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, MJ Franklin, ...
+Publication: Proceedings of the 9th USENIX conference on Networked Systems Design and …
+
+7. Web caching and Zipf-like distributions: Evidence and implications
+Citations:3696
+Authors: L Breslau, P Cao, L Fan, G Phillips, S Shenker
+Publication: Ieee Infocom 1 (1), 126-134
+
+8. MACAW: a media access protocol for wireless LAN's
+Citations:2984
+Authors: V Bharghavan, A Demers, S Shenker, L Zhang
+Publication: ACM SIGCOMM Computer Communication Review 24 (4), 212-225
+
+9. Analysis and simulation of a fair queueing algorithm
+Citations:2933
+Authors: A Demers, S Keshav, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 19 (4), 1-12
+
+10. RSVP: a new resource reservation protocol
+Citations:2542
+Authors: L Zhang, S Deering, D Estrin, S Shenker, D Zappala
+Publication: IEEE Communications Magazine 40 (5), 116-127
+
+11. Search and replication in unstructured peer-to-peer networks
+Citations:2486
+Authors: Q Lv, P Cao, E Cohen, K Li, S Shenker
+Publication: Proceedings of the 16th international conference on Supercomputing, 84-95
+
+12. Epidemic algorithms for replicated database maintenance
+Citations:2295
+Authors: A Demers, D Greene, C Houser, W Irish, J Larson, S Shenker, H Sturgis, ...
+Publication: ACM SIGOPS Operating Systems Review 22 (1), 8-32
+
+13. Recommendations on queue management and congestion avoidance in the Internet
+Citations:2020
+Authors: V Jacobson, B Braden, S Floyd, B Davie, D Estrin, J Crowcroft, S Deering
+Publication: 
+
+14. A data-oriented (and beyond) network architecture
+Citations:1983
+Authors: T Koponen, M Chawla, BG Chun, A Ermolinskiy, KH Kim, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 181-192
+
+15. NOX: towards an operating system for networks
+Citations:1870
+Authors: N Gude, T Koponen, J Pettit, B Pfaff, M Casado, N McKeown, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 38 (3), 105-110
+
+16. Specification of guaranteed quality of service
+Citations:1774
+Authors: S Shenker
+Publication: 
+
+17. Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+Citations:1640
+Authors: D Ganesan, R Govindan, S Shenker, D Estrin
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 5 (4), 11-25
+
+18. A scheduling model for reduced CPU energy
+Citations:1616
+Authors: F Yao, A Demers, S Shenker
+Publication: Proceedings of IEEE 36th annual foundations of computer science, 374-382
+
+19. Mesos: A platform for fine-grained resource sharing in the data center.
+Citations:1514
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: NSDI 11 (2011), 22-22
+
+20. Onix: A distributed control platform for large-scale production networks.
+Citations:1503
+Authors: T Koponen, M Casado, N Gude, J Stribling, L Poutievski, M Zhu, ...
+Publication: OSDI 10, 1-6
+
+21. Scheduling for reduced CPU energy
+Citations:1473
+Authors: M Weiser, B Welch, A Demers, S Shenker
+Publication: Mobile Computing, 449-471
+
+22. Fundamental design issues for the future Internet
+Citations:1471
+Authors: S Shenker
+Publication: IEEE Journal on selected areas in communications 13 (7), 1176-1188
+
+23. Delay scheduling: a simple technique for achieving locality and fairness in cluster scheduling
+Citations:1441
+Authors: M Zaharia, D Borthakur, J Sen Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Proceedings of the 5th European conference on Computer systems, 265-278
+
+24. Analysis and simulation of a fair queueing algorithm
+Citations:1438
+Authors: A Demers, S Keshav, S Shenker
+Publication: Internetworking: Research and experience 1 (1), 3-26
+
+25. Making gnutella-like p2p systems scalable
+Citations:1428
+Authors: Y Chawathe, S Ratnasamy, L Breslau, N Lanham, S Shenker
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+26. Supporting real-time applications in an integrated services packet network: Architecture and mechanism
+Citations:1388
+Authors: DD Clark, S Shenker, L Zhang
+Publication: ACM SIGCOMM Computer Communication Review 22 (4), 14-26
+
+27. Overcoming the Internet impasse through virtualization
+Citations:1290
+Authors: T Anderson, L Peterson, S Shenker, J Turner
+Publication: Computer, 34-41
+
+28. Ethane: Taking control of the enterprise
+Citations:1247
+Authors: M Casado, MJ Freedman, J Pettit, J Luo, N McKeown, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 1-12
+
+29. Trickle: A self-regulating algorithm for code propagation and maintenance in wireless sensor networks
+Citations:1204
+Authors: P Levis, N Patel, D Culler, S Shenker
+Publication: Proc. of the 1st USENIX/ACM Symp. on Networked Systems Design and …
+
+30. A Scalable Architecture to Approximate Fair Bandwidth Allocations in High Speed Networks
+Citations:1155
+Authors: I Stoica, S Shenker, H Zhang, CSF Queueing
+Publication: Proc. of ACM SIGCOMM 98
+
+31. GHT: a geographic hash table for data-centric storage
+Citations:1139
+Authors: S Ratnasamy, B Karp, L Yin, F Yu, D Estrin, R Govindan, S Shenker
+Publication: Proceedings of the 1st ACM international workshop on Wireless sensor …
+
+32. Internet indirection infrastructure
+Citations:1118
+Authors: I Stoica, D Adkins, S Zhuang, S Shenker, S Surana
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 73-86
+
+33. Topologically-aware overlay construction and server selection
+Citations:1110
+Authors: S Ratnasamy, M Handley, R Karp, S Shenker
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+34. Geographic routing without location information
+Citations:1003
+Authors: A Rao, S Ratnasamy, C Papadimitriou, S Shenker, I Stoica
+Publication: Proceedings of the 9th annual international conference on Mobile computing …
+
+35. Controlling high bandwidth aggregates in the network
+Citations:982
+Authors: R Mahajan, SM Bellovin, S Floyd, J Ioannidis, V Paxson, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 32 (3), 62-73
+
+36. Replication strategies in unstructured peer-to-peer networks
+Citations:959
+Authors: E Cohen, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 177-190
+
+37. Dominant Resource Fairness: Fair Allocation of Multiple Resource Types.
+Citations:914
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Nsdi 11 (2011), 24-24
+
+38. Application-level multicast using content-addressable networks
+Citations:859
+Authors: S Ratnasamy, M Handley, R Karp, S Shenker
+Publication: International Workshop on Networked Group Communication, 14-29
+
+39. Adaptive RED: An algorithm for increasing the robustness of RED’s active queue management
+Citations:851
+Authors: S Floyd, R Gummadi, S Shenker
+Publication: Technical report, ICSI 517, 518-522
+
+40. Discretized streams: Fault-tolerant streaming computation at scale
+Citations:836
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proceedings of the twenty-fourth ACM symposium on operating systems …
+
+41. Extending Networking into the Virtualization Layer
+Citations:823
+Authors: B Pfa, J Pettit, T Kopenen, K Amdion, M Casado, S Shenker
+Publication: HotNets-VIII, New York, NY
+
+42. The impact of DHT routing geometry on resilience and proximity
+Citations:781
+Authors: K Gummadi, R Gummadi, S Gribble, S Ratnasamy, S Shenker, I Stoica
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+43. Apache spark: a unified engine for big data processing
+Citations:759
+Authors: M Zaharia, RS Xin, P Wendell, T Das, M Armbrust, A Dave, X Meng, ...
+Publication: Communications of the ACM 59 (11), 56-65
+
+44. Randomized rumor spreading
+Citations:718
+Authors: R Karp, C Schindelhauer, S Shenker, B Vocking
+Publication: Proceedings 41st Annual Symposium on Foundations of Computer Science, 565-574
+
+45. Querying the Internet with PIER
+Citations:709
+Authors: R Huebsch, JM Hellerstein, N Lanham, BT Loo, S Shenker, I Stoica
+Publication: Proceedings of the 29th International Conference on Very large data bases …
+
+46. Data-centric storage in sensornets with GHT, a geographic hash table
+Citations:709
+Authors: S Ratnasamy, B Karp, S Shenker, D Estrin, R Govindan, L Yin, F Yu
+Publication: Mobile networks and applications 8 (4), 427-442
+
+47. OpenDHT: a public DHT service and its uses
+Citations:655
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+48. Pricing in computer networks: Motivation, formulation, and example
+Citations:653
+Authors: R Cocchi, S Shenker, D Estrin, L Zhang
+Publication: IEEE/ACM Transactions on networking 1 (6), 614-627
+
+49. Pricing in computer networks: Reshaping the research agenda
+Citations:595
+Authors: S Shenker, D Clark, D Estrin, S Herzog
+Publication: ACM SIGCOMM Computer Communication Review 26 (2), 19-43
+
+50. A simple algorithm for finding frequent elements in streams and bags
+Citations:590
+Authors: RM Karp, S Shenker, CH Papadimitriou
+Publication: ACM Transactions on Database Systems (TODS) 28 (1), 51-55
+
+51. Observations on the Dynamics of a Congestion Control Algorithm: The E ects of Two-Way Tra c
+Citations:588
+Authors: L Zhang, S Shenker, D Clark
+Publication: Proceedings of ACM Sigcomm 91, 133-147
+
+52. Quasiperiodicity in dissipative systems: a renormalization group analysis
+Citations:579
+Authors: MJ Feigenbaum, LP Kadanoff, SJ Shenker
+Publication: Physica D: Nonlinear Phenomena 5 (2-3), 370-386
+
+53. Information-centric networking: seeing the forest for the trees
+Citations:572
+Authors: A Ghodsi, S Shenker, T Koponen, A Singla, B Raghavan, J Wilcox
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 1
+
+54. On a network creation game
+Citations:563
+Authors: A Fabrikant, A Luthra, E Maneva, CH Papadimitriou, S Shenker
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+55. Sharing the cost of multicast transmissions
+Citations:555
+Authors: J Feigenbaum, CH Papadimitriou, S Shenker
+Publication: Journal of Computer and System Sciences 63 (1), 21-41
+
+56. SANE: A Protection Architecture for Enterprise Networks.
+Citations:547
+Authors: M Casado, T Garfinkel, A Akella, MJ Freedman, D Boneh, N McKeown, ...
+Publication: USENIX Security Symposium 49, 50
+
+57. Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters
+Citations:543
+Authors: M Zaharia, T Das, H Li, S Shenker, I Stoica
+Publication: Presented as part of the
+
+58. Network topology generators: Degree-based vs. structural
+Citations:530
+Authors: H Tangmunarunkit, R Govindan, S Jamin, S Jamin, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 147-159
+
+59. A measurement-based admission control algorithm for integrated service packet networks
+Citations:513
+Authors: S Jamin, PB Danzig, SJ Shenker, L Zhang
+Publication: IEEE/ACM transactions on networking 5 (1), 56-70
+
+60. Less pain, most of the gain: Incrementally deployable icn
+Citations:508
+Authors: SK Fayazbakhsh, Y Lin, A Tootoonchian, A Ghodsi, T Koponen, B Maggs, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 147-158
+
+61. Geographic routing made practical
+Citations:507
+Authors: YJ Kim, R Govindan, B Karp, S Shenker
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+62. Endpoint admission control: Architectural issues and performance
+Citations:493
+Authors: L Breslau, EW Knightly, S Shenker, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 30 (4), 57-69
+
+63. X-trace: A pervasive network tracing framework
+Citations:492
+Authors: R Fonseca, G Porter, RH Katz, S Shenker, I Stoica
+Publication: Proceedings of the 4th USENIX conference on Networked systems design …
+
+64. Complex queries in DHT-based peer-to-peer networks
+Citations:492
+Authors: M Harren, JM Hellerstein, R Huebsch, BT Loo, S Shenker, I Stoica
+Publication: International Workshop on Peer-to-Peer Systems, 242-250
+
+65. On the characteristics and origins of internet flow rates
+Citations:489
+Authors: Y Zhang, L Breslau, V Paxson, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 309-322
+
+66. Routing algorithms for DHTs: Some open questions
+Citations:489
+Authors: S Ratnasamy, I Stoica, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 45-52
+
+67. A BGP-based mechanism for lowest-cost routing
+Citations:487
+Authors: J Feigenbaum, C Papadimitriou, R Sami, S Shenker
+Publication: Distributed Computing 18 (1), 61-72
+
+68. Shark: SQL and rich analytics at scale
+Citations:482
+Authors: RS Xin, J Rosen, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+69. Distributed algorithmic mechanism design: Recent results and future directions
+Citations:482
+Authors: J Feigenbaum, S Shenker
+Publication: Current Trends in Theoretical Computer Science: The Challenge of the New …
+
+70. Data-centric storage in sensornets
+Citations:464
+Authors: S Shenker, S Ratnasamy, B Karp, R Govindan, D Estrin
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 137-142
+
+71. Strategyproof sharing of submodular costs: budget balance versus efficiency
+Citations:464
+Authors: H Moulin, S Shenker
+Publication: Economic Theory 18 (3), 511-533
+
+72. Controlling high-bandwidth flows at the congested router
+Citations:446
+Authors: R Mahajan, S Floyd, D Wetherall
+Publication: Proceedings Ninth International Conference on Network Protocols. ICNP 2001 …
+
+73. Beacon vector routing: Scalable point-to-point routing in wireless sensornets
+Citations:443
+Authors: R Fonseca, S Ratnasamy, J Zhao, CT Ee, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 2nd Conference on Symposium on Networked Systems Design …
+
+74. pfabric: Minimal near-optimal datacenter transport
+Citations:442
+Authors: M Alizadeh, S Yang, M Sharif, S Katti, N McKeown, B Prabhakar, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 435-446
+
+75. Naming in content-oriented architectures
+Citations:419
+Authors: A Ghodsi, T Koponen, J Rajahalme, P Sarolahti, S Shenker
+Publication: Proceedings of the ACM SIGCOMM workshop on Information-centric networking, 1-6
+
+76. ROFL: routing on flat labels
+Citations:415
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, I Stoica, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 363-374
+
+77. A layered naming architecture for the internet
+Citations:413
+Authors: H Balakrishnan, K Lakshminarayanan, S Ratnasamy, S Shenker, I Stoica, ...
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 343-352
+
+78. General characterization parameters for integrated service network elements
+Citations:411
+Authors: S Shenker, J Wroclawski
+Publication: 
+
+79. Accountable internet protocol (aip)
+Citations:410
+Authors: DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 339-350
+
+80. Applying NOX to the Datacenter.
+Citations:409
+Authors: A Tavakoli, M Casado, T Koponen, S Shenker
+Publication: HotNets
+
+81. Job scheduling for multi-user mapreduce clusters
+Citations:403
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Technical Report UCB/EECS-2009-55, EECS Department, University of California …
+
+82. Network virtualization in multi-tenant datacenters
+Citations:381
+Authors: T Koponen, K Amidon, P Balland, M Casado, A Chanda, B Fulton, ...
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+83. Untangling the Web from DNS.
+Citations:379
+Authors: M Walfish, H Balakrishnan, S Shenker
+Publication: NSDI 4, 17-17
+
+84. Serial cost sharing
+Citations:379
+Authors: H Moulin, S Shenker
+Publication: Econometrica: Journal of the Econometric Society, 1009-1037
+
+85. Scaling behavior in a map of a circle onto itself: empirical results
+Citations:367
+Authors: SJ Shenker
+Publication: Physica D: Nonlinear Phenomena 5 (2-3), 405-411
+
+86. A unifying link abstraction for wireless sensor networks
+Citations:359
+Authors: J Polastre, J Hui, P Levis, J Zhao, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 3rd international conference on Embedded networked sensor …
+
+87. Comments on the performance of measurement-based admission control algorithms
+Citations:354
+Authors: L Breslau, S Jamin, S Shenker
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+88. Sequencing in an assembly line with blocking to minimize cycle time
+Citations:348
+Authors: ST McCormick, ML Pinedo, S Shenker, B Wolf
+Publication: Operations Research, 925-935
+
+89. Effective straggler mitigation: Attack of the clones
+Citations:345
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+90. On selfish routing in internet-like environments
+Citations:342
+Authors: L Qiu, YR Yang, Y Zhang, S Shenker
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+91. Practical declarative network management
+Citations:329
+Authors: TL Hinrichs, NS Gude, M Casado, JC Mitchell, S Shenker
+Publication: Proceedings of the 1st ACM workshop on Research on enterprise networking, 1-10
+
+92. Sdx: A software defined internet exchange
+Citations:328
+Authors: A Gupta, L Vanbever, M Shahbaz, SP Donovan, B Schlinker, N Feamster, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 551-562
+
+93. Secure network switching infrastructure
+Citations:324
+Authors: M Casado, N McKeown, D Boneh, MJ Freedman, S Shenker
+Publication: US Patent App. 11/970,976
+
+94. Comparison of measurement-based admission control algorithms for controlled-load service
+Citations:324
+Authors: S Jamin, SJ Shenker, PB Danzig
+Publication: Proceedings of INFOCOM'97 3, 973-980
+
+95. The future of networking, and the past of protocols
+Citations:323
+Authors: S Shenker, M Casado, T Koponen, N McKeown
+Publication: Open Networking Summit 20, 1-30
+
+96. Can heterogeneity make gnutella scalable?
+Citations:321
+Authors: Q Lv, S Ratnasamy, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 94-103
+
+97. Pacman: Coordinated memory caching for parallel jobs
+Citations:311
+Authors: G Ananthanarayanan, A Ghodsi, A Warfield, D Borthakur, S Kandula, ...
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+98. Mostly parallel garbage collection
+Citations:310
+Authors: HJ Boehm, AJ Demers, S Shenker
+Publication: PLDI 91, 157-164
+
+99. Pathlet routing
+Citations:309
+Authors: P Godfrey, I Ganichev, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 111-122
+
+100. DIFS: A distributed index for features in sensor networks
+Citations:309
+Authors: B Greenstein, S Ratnasamy, S Shenker, R Govindan, D Estrin
+Publication: Ad Hoc Networks 1 (2-3), 333-349
+
+101. Making sense of performance in data analytics frameworks
+Citations:307
+Authors: K Ousterhout, R Rasti, S Ratnasamy, S Shenker, BG Chun
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+102. Virtualizing the network forwarding plane
+Citations:306
+Authors: M Casado, T Koponen, R Ramanathan, S Shenker
+Publication: Proceedings of the Workshop on Programmable Routers for Extensible Services …
+
+103. Network operating system for managing and securing networks
+Citations:305
+Authors: M Casado, KE Amidon, PJ Balland III, N Gude, J Pettit, BL Pfaff, ...
+Publication: US Patent 9,083,609
+
+104. Tachyon: Reliable, memory speed storage for cluster computing frameworks
+Citations:303
+Authors: H Li, A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-15
+
+105. Highly resilient, energy efficient multipath routing in wireless sensor networks
+Citations:294
+Authors: D Ganesan, R Govindan, S Shenker, D Estrin
+Publication: 
+
+106. Flush: a reliable bulk transport protocol for multihop wireless networks
+Citations:287
+Authors: S Kim, R Fonseca, P Dutta, A Tavakoli, D Culler, P Levis, S Shenker, ...
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+107. Listen and whisper: Security mechanisms for BGP
+Citations:287
+Authors: L Subramanian, V Roth, I Stoica, S Shenker, R Katz
+Publication: Proc. First Symposium on Networked Systems Design and Implementation (NSDI), 11
+
+108. Critical behavior of a KAM surface: I. Empirical results
+Citations:286
+Authors: SJ Shenker, LP Kadanoff
+Publication: Journal of Statistical Physics 27 (4), 631-656
+
+109. Scaling phenomena in the Internet: Critically examining criticality
+Citations:279
+Authors: W Willinger, R Govindan, S Jamin, V Paxson, S Shenker
+Publication: Proceedings of the National Academy of Sciences 99 (suppl 1), 2573-2580
+
+110. Enforcing network-wide policies in the presence of dynamic middlebox actions using flowtags
+Citations:272
+Authors: SK Fayazbakhsh, L Chiang, V Sekar, M Yu, JC Mogul
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+111. Packet Caches on Routers: The Implications of Universal Redundant Traffic Elimination
+Citations:271
+Authors: A Anand, A Gupta, A Akella, S Seshan, S Shenker
+Publication: 
+
+112. Dynamic behavior of slowly-responsive congestion control algorithms
+Citations:271
+Authors: D Bansal, H Balakrishnan, S Floyd, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 263-274
+
+113. Fabric: a retrospective on evolving SDN
+Citations:269
+Authors: M Casado, T Koponen, S Shenker, A Tootoonchian
+Publication: Proceedings of the first workshop on Hot topics in software defined networks …
+
+114. DDoS defense by offense
+Citations:266
+Authors: M Walfish, M Vutukuru, H Balakrishnan, D Karger, D Karger, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 303-314
+
+115. Making greed work in networks: A game-theoretic analysis of switch service disciplines
+Citations:258
+Authors: SJ Shenker
+Publication: IEEE/ACM Transactions On Networking 3 (6), 819-831
+
+116. A measurement-based admission control algorithm for integrated services packet networks
+Citations:258
+Authors: S Jamin, PB Danzig, S Shenker, L Zhang
+Publication: ACM SIGCOMM Computer Communication Review 25 (4), 2-13
+
+117. Routing as a Service
+Citations:256
+Authors: K Lakshminarayanan, I Stoica, S Shenker, J Rexford
+Publication: Computer Science Division, University of California
+
+118. Minimizing churn in distributed systems
+Citations:255
+Authors: P Godfrey, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 147-158
+
+119. The architecture of pier: an internet-scale query processor
+Citations:253
+Authors: R Huebsch, B Chun, JM Hellerstein, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+
+120. The impact of routing policy on internet paths
+Citations:251
+Authors: H Tangmunarunkit, R Govindan, S Shenker, D Estrin
+Publication: in Proc. 20th IEEE INFOCOM
+
+121. HLP: a next generation inter-domain routing protocol
+Citations:244
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 13-24
+
+122. Middleboxes No Longer Considered Harmful.
+Citations:244
+Authors: M Walfish, J Stribling, MN Krohn, H Balakrishnan, RT Morris, S Shenker
+Publication: OSDI 4, 15-15
+
+123. Attested append-only memory: Making adversaries stick to their word
+Citations:243
+Authors: BG Chun, P Maniatis, S Shenker, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 189-204
+
+124. Internet indirection infrastructure
+Citations:241
+Authors: I Stoica, D Adkins, S Zhuang, S Shenker, S Surana
+Publication: IEEE/ACM Transactions on Networking (TON) 12 (2), 205-218
+
+125. Scaling of multicast trees: Comments on the Chuang-Sirbu scaling law
+Citations:231
+Authors: G Phillips, S Shenker, H Tangmunarunkit
+Publication: ACM SIGCOMM Computer Communication Review 29 (4), 41-51
+
+126. Some observations on the dynamics of a congestion control algorithm
+Citations:231
+Authors: S Shenker, L Zhang, DD Clark
+Publication: ACM SIGCOMM Computer Communication Review 20 (5), 30-39
+
+127. Towards capturing representative AS-level Internet topologies
+Citations:228
+Authors: H Chang, R Govindan, S Jamin, SJ Shenker, W Willinger
+Publication: Computer Networks 44 (6), 737-755
+
+128. A case study in building layered DHT applications
+Citations:221
+Authors: Y Chawathe, S Ramabhadran, S Ratnasamy, A LaMarca, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 97-108
+
+129. Rethinking Packet Forwarding Hardware.
+Citations:218
+Authors: M Casado, T Koponen, D Moon, S Shenker
+Publication: HotNets, 1-6
+
+130. Replay debugging for distributed applications
+Citations:217
+Authors: DM Geels, G Altekar, S Shenker, I Stoica
+Publication: University of California, Berkeley
+
+131. Selfish behavior and stability of the internet:: a game-theoretic analysis of TCP
+Citations:217
+Authors: A Akella, S Seshan, R Karp, S Shenker, C Papadimitriou
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 117-130
+
+132. A scalable web cache consistency architecture
+Citations:214
+Authors: H Yu, L Breslau, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 29 (4), 163-174
+
+133. The sensor network as a database
+Citations:208
+Authors: R Govindan, J Hellerstein, W Hong, S Madden, M Franklin, S Shenker
+Publication: Technical Report 02-771, Computer Science Department, University of Southern …
+
+134. E2: a framework for NFV applications
+Citations:200
+Authors: S Palkar, C Lan, S Han, K Jang, A Panda, S Ratnasamy, L Rizzo, ...
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 121-136
+
+135. The design and implementation of a declarative sensor network system
+Citations:200
+Authors: D Chu, L Popa, A Tavakoli, JM Hellerstein, P Levis, S Shenker, I Stoica
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+136. Revisiting IP multicast
+Citations:192
+Authors: S Ratnasamy, A Ermolinskiy, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 15-26
+
+137. Achieving convergence-free routing using failure-carrying packets
+Citations:191
+Authors: K Lakshminarayanan, M Caesar, M Rangan, T Anderson, S Shenker, ...
+Publication: ACM SIGCOMM computer communication review 37 (4), 241-252
+
+138. Software-defined internet architecture: decoupling architecture from infrastructure
+Citations:184
+Authors: B Raghavan, M Casado, T Koponen, S Ratnasamy, A Ghodsi, S Shenker
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 43-48
+
+139. Enhancing p2p file-sharing with an internet-scale query processor
+Citations:181
+Authors: BT Loo, JM Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+140. On the pitfalls of geographic face routing
+Citations:180
+Authors: YJ Kim, R Govindan, B Karp, S Shenker
+Publication: Proceedings of the 2005 joint workshop on Foundations of mobile computing, 34-43
+
+141. Network element service specification template
+Citations:180
+Authors: S Shenker
+Publication: Network
+
+142. {GRASS}: Trimming Stragglers in Approximation Analytics
+Citations:170
+Authors: G Ananthanarayanan, MCC Hung, X Ren, I Stoica, A Wierman, M Yu
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+143. Rethinking enterprise network control
+Citations:170
+Authors: M Casado, MJ Freedman, J Pettit, J Luo, N Gude, N McKeown, S Shenker
+Publication: IEEE/ACM Transactions on Networking (ToN) 17 (4), 1270-1283
+
+144. Low latency via redundancy
+Citations:169
+Authors: A Vulimiri, PB Godfrey, R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+145. The stationarity of internet path properties: Routing, loss, and throughput
+Citations:168
+Authors: Y Zhang, V Paxson, S Shenker, L Breslau
+Publication: ACIRI Technical report
+
+146. Best-effort versus reservations: A simple comparative analysis
+Citations:166
+Authors: L Breslau, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 28 (4), 3-16
+
+147. Towards a Sensor Network Architecture: Lowering the Waistline.
+Citations:165
+Authors: DE Culler, P Dutta, CT Ee, R Fonseca, J Hui, P Levis, J Polastre, ...
+Publication: HotOS
+
+148. A study of priority pricing in multiple service class networks
+Citations:163
+Authors: R Cocchi, D Estrin, S Shenker, L Zhang
+Publication: ACM SIGCOMM Computer Communication Review 21 (4), 123-130
+
+149. Making greed work in networks: A game-theoretic analysis of switch service disciplines
+Citations:162
+Authors: S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 24 (4), 47-57
+
+150. Fast and interactive analytics over Hadoop data with Spark
+Citations:161
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M Mccauley, M Franklin, ...
+Publication: Usenix Login 37 (4), 45-51
+
+151. Host mobility using an internet indirection infrastructure
+Citations:161
+Authors: S Zhuang, K Lai, I Stoica, R Katz, S Shenker
+Publication: Wireless Networks 11 (6), 741-756
+
+152. Approximate fairness through differential dropping
+Citations:159
+Authors: R Pan, L Breslau, B Prabhakar, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 33 (2), 23-39
+
+153. Uniform versus priority dropping for layered video
+Citations:159
+Authors: S Bajaj, L Breslau, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 28 (4), 131-143
+
+154. Brief announcement: prefix hash tree
+Citations:154
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: PODC 4, 368-368
+
+155. Choosy: Max-min fair sharing for datacenter jobs with constraints
+Citations:150
+Authors: A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 365-378
+
+156. Data-centric storage in sensornets
+Citations:150
+Authors: S Ratnasamy, D Estrin, R Govindan, B Karp, S Shenker, L Yin, F Yu
+Publication: Submitted to SIGCOMM
+
+157. Shark: fast data analysis using coarse-grained distributed memory
+Citations:145
+Authors: C Engle, A Lupher, R Xin, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+158. Average cost pricing versus serial cost sharing: An axiomatic comparison
+Citations:145
+Authors: H Moulin, S Shenker
+Publication: Journal of Economic Theory 64 (1), 178-201
+
+159. Distributed Segment Tree: Support of Range Query and Cover Query over DHT.
+Citations:144
+Authors: C Zheng, G Shen, S Li, S Shenker
+Publication: IPTPS
+
+160. On the implications of Zipf's law for Web caching
+Citations:140
+Authors: LBP Cao, LFG Phillips, S Shenker
+Publication: Proc. of the Third International Web Caching Workshop, Manchester, England
+
+161. Disk-locality in datacenter computing considered irrelevant.
+Citations:138
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: HotOS 13, 12-12
+
+162. NetBricks: Taking the V out of {NFV}
+Citations:136
+Authors: A Panda, S Han, K Jang, M Walls, S Ratnasamy, S Shenker
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+163. Adaptive RED: An algorithm for increasing the robustness of RED
+Citations:136
+Authors: S Floyd
+Publication: http://www. icir. org/floyd/red. html
+
+164. Network topologies, power laws
+Citations:131
+Authors: H Tangmunarunkit, R Govindan, S Jamin, S Shenker, W Willinger
+Publication: and hierarchy. Tech. Report 01-746, Comp. Sci. Dept, USC, submitted for …
+
+165. Combining generational and conservative garbage collection: Framework and implementations
+Citations:131
+Authors: A Demers, M Weiser, B Hayes, H Boehm, D Bobrow, S Shenker
+Publication: Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+166. Lazy cross-link removal for geographic routing
+Citations:129
+Authors: YJKR Govindan, B Karp, S Shenker
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+167. Faster and more accurate sequence alignment with SNAP
+Citations:127
+Authors: M Zaharia, WJ Bolosky, K Curtis, A Fox, D Patterson, S Shenker, I Stoica, ...
+Publication: arXiv preprint arXiv:1111.5572
+
+168. Covariant quantization of supersymmetric string theories: the spinor field of the Ramond-Neveu-Schwarz model
+Citations:124
+Authors: J Cohn, D Friedan, Z Qiu, S Shenker
+Publication: Nuclear Physics B 278 (3), 577-600
+
+169. Off by default!
+Citations:123
+Authors: H Ballani, Y Chawathe, S Ratnasamy, T Roscoe, S Shenker
+Publication: 
+
+170. Prefix hash tree: An indexing data structure over distributed hash tables
+Citations:122
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: Proceedings of the 23rd ACM symposium on principles of distributed computing 37
+
+171. Does AS size determine degree in AS topology?
+Citations:121
+Authors: H Tangmunarunkit, J Doyle, R Govindan, W Willinger, S Jamin, S Shenker
+Publication: ACM SIGCOMM computer communication review 31 (5), 7-8
+
+172. RFC2309: Recommendations on queue management and congestion avoidance in the internet
+Citations:121
+Authors: B Braden, D Clark, J Crowcroft, B Davie, S Deering, D Estrin, S Floyd, ...
+Publication: Internet RFCs
+
+173. Sharing the" cost" of multicast trees: an axiomatic analysis
+Citations:118
+Authors: S Herzog, S Shenker, D Estrin
+Publication: IEEE/ACM transactions on networking 5 (6), 847-860
+
+174. Towards capturing representative AS-level Internet topologies
+Citations:117
+Authors: H Chang, R Govindan, S Jamin, SJ Shenker, W Willinger
+Publication: ACM SIGMETRICS Performance Evaluation Review 30 (1), 280-281
+
+175. A theoretical analysis of feedback flow control
+Citations:116
+Authors: S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 20 (4), 156-165
+
+176. Network support for resource disaggregation in next-generation datacenters
+Citations:114
+Authors: S Han, N Egi, A Panda, S Ratnasamy, G Shi, S Shenker
+Publication: Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 10
+
+177. Constitutional constructions and constitutional decision rules: thoughts on the Carving of Implementation Space
+Citations:113
+Authors: MN Berman
+Publication: Const. Comment. 27, 39
+
+178. Spurring adoption of DHTs with OpenHash, a public DHT service
+Citations:109
+Authors: B Karp, S Ratnasamy, S Rhea, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 195-205
+
+179. Towards an evolvable Internet architecture
+Citations:108
+Authors: S Ratnasamy, S Shenker, S McCanne
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 313-324
+
+180. Optimal and global time synchronization in sensornets
+Citations:108
+Authors: R Karp, J Elson, D Estrin, S Shenker
+Publication: 
+
+181. Troubleshooting blackbox SDN control software with minimal causal sequences
+Citations:107
+Authors: C Scott, A Wundsam, B Raghavan, A Panda, A Or, J Lai, E Huang, Z Liu, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 395-406
+
+182. Random walks in two-dimensional random environments with constrained drift forces
+Citations:107
+Authors: DS Fisher, D Friedan, Z Qiu, SJ Shenker, SH Shenker
+Publication: Physical Review A 31 (6), 3841
+
+183. Two issues in reservation establishment
+Citations:106
+Authors: S Shenker, L Breslau
+Publication: ACM SIGCOMM Computer Communication Review 25 (4), 14-26
+
+184. Service models and pricing policies for an integrated services Internet
+Citations:106
+Authors: S Shenker
+Publication: Public access to the Internet, 315-337
+
+185. Congestion control for best-effort service: why we need a new paradigm
+Citations:103
+Authors: C Lefelhocz, B Lyles, S Shenker, L Zhang
+Publication: IEEE Network 10 (1), 10-19
+
+186. Rollback-recovery for middleboxes
+Citations:102
+Authors: J Sherry, PX Gao, S Basu, A Panda, A Krishnamurthy, C Maciocco, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 227-240
+
+187. An admission control algorithm for predictive real-time service
+Citations:102
+Authors: S Jamin, S Shenker, L Zhang, DD Clark
+Publication: International Workshop on Network and Operating System Support for Digital …
+
+188. A modular network layer for sensorsets
+Citations:101
+Authors: CT Ee, R Fonseca, S Kim, D Moon, A Tavakoli, D Culler, S Shenker, ...
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+189. Query routing in a peer‐to‐peer semantic link network
+Citations:101
+Authors: H Zhuge, J Liu, L Feng, X Sun, C He
+Publication: Computational Intelligence 21 (2), 197-216
+
+190. Fixing the Embarrassing Slowness of OpenDHT on PlanetLab.
+Citations:100
+Authors: SC Rhea, BG Chun, J Kubiatowicz, S Shenker
+Publication: WORLDS 5, 5-5
+
+191. Optimization problems in congestion control
+Citations:100
+Authors: R Karp, E Koutsoupias, C Papadimitriou, S Shenker
+Publication: Proceedings 41st Annual Symposium on Foundations of Computer Science, 66-74
+
+192. Hierarchical scheduling for diverse datacenter workloads
+Citations:99
+Authors: AA Bhattacharya, D Culler, E Friedman, A Ghodsi, S Shenker, I Stoica
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 4
+
+193. An architectural comparison of ST-II and RSVP
+Citations:99
+Authors: DJ Mitzel, D Estrin, S Shenker, L Zhang
+Publication: Proceedings of INFOCOM'94 Conference on Computer Communications, 716-725
+
+194. Network requirements for resource disaggregation
+Citations:96
+Authors: PX Gao, A Narayan, S Karandikar, J Carreira, S Han, R Agarwal, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+195. Architecting for innovation
+Citations:95
+Authors: T Koponen, S Shenker, H Balakrishnan, N Feamster, I Ganichev, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (3), 24-36
+
+196. On characterizing network topologies and analyzing their impact on protocol design
+Citations:95
+Authors: P Radoslavov, H Tangmunarunkit, H Yu, R Govindan, S Shenker, D Estrin
+Publication: 
+
+197. More is less: reducing latency via redundancy
+Citations:94
+Authors: A Vulimiri, O Michel, P Godfrey, S Shenker
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 13-18
+
+198. The emergence of a networking primitive in wireless sensor networks
+Citations:93
+Authors: P Levis, E Brewer, D Culler, D Gay, S Madden, N Patel, J Polastre, ...
+Publication: Communications of the ACM 51 (7), 99-106
+
+199. Hardness results for multicast cost sharing
+Citations:93
+Authors: J Feigenbaum, A Krishnamurthy, R Sami, S Shenker
+Publication: Theoretical Computer Science 304 (1-3), 215-236
+
+200. Modifying TCP's congestion control for high speeds
+Citations:93
+Authors: S Floyd
+Publication: IETF Internet-Draft
+
+201. Learning and implementation on the Internet
+Citations:92
+Authors: E Friedman, S Shenker
+Publication: Working paper
+
+202. Approximation and collusion in multicast cost sharing
+Citations:91
+Authors: A Archer, J Feigenbaum, A Krishnamurthy, R Sami, S Shenker
+Publication: Games and Economic Behavior 47 (1), 36-71
+
+203. Mechanism design for policy routing
+Citations:88
+Authors: J Feigenbaum, R Sami, S Shenker
+Publication: Distributed Computing 18 (4), 293-305
+
+204. Procrastination Might Lead to a Longer and More Useful Life.
+Citations:86
+Authors: P Dutta, DE Culler, S Shenker
+Publication: HotNets
+
+205. Observed structure of addresses in IP traffic
+Citations:85
+Authors: E Kohler, J Li, V Paxson, S Shenker
+Publication: Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, 253-266
+
+206. Ensuring connectivity via data plane mechanisms
+Citations:84
+Authors: J Liu, A Panda, A Singla, B Godfrey, M Schapira, S Shenker
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+207. Leveraging SDN layering to systematically troubleshoot networks
+Citations:82
+Authors: B Heller, C Scott, N McKeown, S Shenker, A Wundsam, H Zeng, ...
+Publication: Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …
+
+208. Internet path inflation due to policy routing
+Citations:82
+Authors: H Tangmunarunkit, R Govindan, S Shenker
+Publication: Scalability and Traffic Control in IP Networks 4526, 188-195
+
+209. The stationarity of internet path properties: Routing, loss
+Citations:82
+Authors: Y Zhang, V Paxson, S Shenker, L Breslau
+Publication: and throughput. Technical report, ACIRI
+
+210. RFC 2212: Specification of guaranteed quality of service
+Citations:82
+Authors: S Shenker, C Partridge, R Guerin
+Publication: IETF, September
+
+211. The case for tiny tasks in compute clusters
+Citations:80
+Authors: K Ousterhout, A Panda, J Rosen, S Venkataraman, R Xin, S Ratnasamy, ...
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+212. On preserving privacy in content-oriented networks
+Citations:80
+Authors: S Arianfar, T Koponen, B Raghavan, S Shenker
+Publication: Proceedings of the ACM SIGCOMM workshop on Information-centric networking, 19-24
+
+213. An architecture for energy management in wireless sensor networks.
+Citations:78
+Authors: X Jiang, J Taneja, J Ortiz, A Tavakoli, P Dutta, J Jeong, DE Culler, P Levis, ...
+Publication: SIGBED Review 4 (3), 31-36
+
+214. Vertex operators in mathematics and physics
+Citations:78
+Authors: D Friedan, Z Qiu, SH Shenker, J Lepowsky, S Mandelstam, IM Singer
+Publication: et al., MSRI Publications, 419
+
+215. Loss and delay accountability for the Internet
+Citations:77
+Authors: K Argyraki, P Maniatis, O Irzak, S Ashish, S Shenker
+Publication: Proceedings of the IEEE International Conference on Network Protocols (ICNP)
+
+216. On selfish routing in internet-like environments
+Citations:77
+Authors: L Qiu, YR Yang, Y Zhang, S Shenker
+Publication: IEEE/ACM Transactions on Networking (TON) 14 (4), 725-738
+
+217. OverCite: A cooperative digital research library
+Citations:77
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, DR Karger, R Morris, ...
+Publication: International Workshop on Peer-to-Peer Systems, 69-79
+
+218. IP options are not an option
+Citations:76
+Authors: R Fonseca, G Porter, R Katz, S Shenker, I Stoica
+Publication: University of California at Berkeley, Technical Report UCB/EECS-2005-24
+
+219. Developing a next-generation Internet architecture
+Citations:75
+Authors: R Braden, D Clark, S Shenker, J Wroclawski
+Publication: White paper, DARPA
+
+220. Local error recovery in SRM: Comparison of two approaches
+Citations:75
+Authors: CG Liu, D Estrin, S Shenker, L Zhang
+Publication: IEEE/ACM Transactions on Networking 6 (6), 686-699
+
+221. Protecting Users by Confining JavaScript with {COWL}
+Citations:73
+Authors: D Stefan, EZ Yang, P Marchenko, A Russo, D Herman, B Karp, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+222. Sharing the “cost” of multicast trees: an axiomatic analysis
+Citations:73
+Authors: S Herzog, S Shenker, D Estrin
+Publication: ACM SIGCOMM Computer Communication Review 25 (4), 315-327
+
+223. Adaptive stream processing using dynamic batch sizing
+Citations:72
+Authors: T Das, Y Zhong, I Stoica, S Shenker
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-13
+
+224. Hidden-action in multi-hop routing
+Citations:72
+Authors: M Feldman, J Chuang, I Stoica, S Shenker
+Publication: Proceedings of the 6th ACM conference on Electronic commerce, 117-126
+
+225. Intelligent design enables architectural evolution
+Citations:70
+Authors: A Ghodsi, S Shenker, T Koponen, A Singla, B Raghavan, J Wilcox
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 3
+
+226. Range queries over DHTs
+Citations:70
+Authors: S Ratnasamy, JM Hellerstein, S Shenker
+Publication: 
+
+227. A scheduling service model and a scheduling architecture for an integrated services packet network
+Citations:70
+Authors: S Shenker, DD Clark, L Zhang
+Publication: preprint
+
+228. Strange objects in the complex plane
+Citations:70
+Authors: M Widom, D Bensimon, LP Kadanoff, SJ Shenker
+Publication: Journal of statistical physics 32 (3), 443-454
+
+229. Diverse Replication for Single-Machine Byzantine-Fault Tolerance.
+Citations:69
+Authors: BG Chun, P Maniatis, S Shenker
+Publication: USENIX Annual Technical Conference, 287-292
+
+230. phost: Distributed near-optimal datacenter transport over commodity network fabric
+Citations:68
+Authors: PX Gao, A Narayan, G Kumar, R Agarwal, S Ratnasamy, S Shenker
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+231. Cap for networks
+Citations:66
+Authors: A Panda, C Scott, A Ghodsi, T Koponen, S Shenker
+Publication: Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …
+
+232. Deconstructing datacenter packet transport
+Citations:65
+Authors: M Alizadeh, S Yang, S Katti, N McKeown, B Prabhakar, S Shenker
+Publication: Proceedings of the 11th ACM Workshop on hot topics in networks, 133-138
+
+233. Practical Data-Centric Storage.
+Citations:63
+Authors: CT Ee, S Ratnasamy, S Shenker
+Publication: NSDI 6, 325-338
+
+234. Dynamic route recomputation considered harmful
+Citations:60
+Authors: M Caesar, M Casado, T Koponen, J Rexford, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 40 (2), 66-71
+
+235. GENI design principles
+Citations:60
+Authors: LL Peterson, T Anderson, D Blumenthal, D Casey, D Clark, D Estrin, ...
+Publication: Computer 39 (9), 102-105
+
+236. Practical hardening of crash-tolerant systems
+Citations:57
+Authors: M Correia, DG Ferro, FP Junqueira, M Serafini
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+237. Per hop behaviors based on dynamic packet states
+Citations:57
+Authors: I Stoica, H Zhang, S Shenker, R Yavatkar, D Stephens, A Malis, Y Bernet, ...
+Publication: draft-stoica-diffserv-dps-00. txt
+
+238. The optimal control of heterogeneous queueing systems: A paradigm for load-sharing and routing
+Citations:56
+Authors: S Shenker, A Weinrib
+Publication: IEEE Transactions on Computers 38 (12), 1724-1735
+
+239. Extending SDN to large-scale networks
+Citations:54
+Authors: J McCauley, A Panda, M Casado, T Koponen, S Shenker
+Publication: Open Networking Summit, 1-2
+
+240. Providing packet obituaries
+Citations:54
+Authors: K Argyraki, P Maniatis, D Cheriton, S Shenker
+Publication: ACM HotNets-III
+
+241. Global synchronization in sensornets
+Citations:54
+Authors: J Elson, RM Karp, CH Papadimitriou, S Shenker
+Publication: Latin American Symposium on Theoretical Informatics, 609-624
+
+242. Efficient network allocations with selfish users
+Citations:54
+Authors: S Shenker
+Publication: Proceedings of the 14th IFIP WG 7.3 International Symposium on Computer …
+
+243. Job scheduling for multi-user mapreduce clusters. EECS Department
+Citations:53
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2009-55, Apr, 2009-55
+
+244. Service architecture and content provision. The network provider as editor
+Citations:53
+Authors: J MacKie-Mason, S Shenker, HR Varian
+Publication: Telecommunications Policy 20 (3), 203-217
+
+245. DDoS defense by offense
+Citations:52
+Authors: M Walfish, M Vutukuru, H Balakrishnan, D Karger, S Shenker
+Publication: ACM Transactions on Computer Systems (TOCS) 28 (1), 3
+
+246. Towards a Modern Communications API.
+Citations:51
+Authors: MJ Demmer, KR Fall, T Koponen, S Shenker
+Publication: HotNets
+
+247. Distributed algorithmic mechanism design
+Citations:51
+Authors: J Feigenbaum, M Schapira, S Shenker
+Publication: Algorithmic Game Theory 14, 363-384
+
+248. Measurement-based admission control algorithms for controlled-load service: A structural examination
+Citations:50
+Authors: S Jamin, S Shenker
+Publication: Univ. of Michigan, Ann Arbor, MI, Rep. CSE-TR-333-97
+
+249. Resolving inter-domain policy disputes
+Citations:48
+Authors: CT Ee, V Ramachandran, BG Chun, K Lakshminarayanan, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 157-168
+
+250. Distributed Quota Enforcement for Spam Control.
+Citations:47
+Authors: M Walfish, JD Zamfirescu, H Balakrishnan, DR Karger, S Shenker
+Publication: NSDI
+
+251. Why let resources idle? Aggressive cloning of jobs with Dolly
+Citations:46
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: Presented as part of the
+
+252. Universal packet scheduling
+Citations:44
+Authors: R Mittal, R Agarwal, S Ratnasamy, S Shenker
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+253. YAMR: Yet another multipath routing protocol
+Citations:44
+Authors: I Ganichev, B Dai, P Godfrey, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 40 (5), 13-19
+
+254. Learning in network contexts: Experimental results from simulations
+Citations:43
+Authors: A Greenwald, EJ Friedman, S Shenker
+Publication: Games and Economic Behavior 35 (1-2), 80-123
+
+255. Sdx: A software defined internet exchange
+Citations:41
+Authors: N Feamster, J Rexford, S Shenker, R Clark, R Hutchins, D Levin, J Bailey
+Publication: Open Networking Summit, 1
+
+256. A new approach to interdomain routing based on secure multi-party computation
+Citations:41
+Authors: D Gupta, A Segal, A Panda, G Segev, M Schapira, J Feigenbaum, ...
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 37-42
+
+257. Measurement-based admission control: what is the research agenda?
+Citations:41
+Authors: L Breslau, S Jamin, S Shenker
+Publication: 1999 Seventh International Workshop on Quality of Service. IWQoS'99.(Cat. No …
+
+258. Keep forwarding: Towards k-link failure resilient routing
+Citations:40
+Authors: B Yang, J Liu, S Shenker, J Li, K Zheng
+Publication: IEEE INFOCOM 2014-IEEE Conference on Computer Communications, 1617-1625
+
+259. Cloud terminal: secure access to sensitive applications from untrusted systems
+Citations:39
+Authors: L Martignoni, P Poosankam, M Zaharia, J Han, S McCamant, D Song, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+260. The Datacenter Needs an Operating System.
+Citations:39
+Authors: M Zaharia, B Hindman, A Konwinski, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: HotCloud
+
+261. Virtual internetwork testbed: Status and research agenda
+Citations:39
+Authors: S Bajaj, L Breslau, D Estrin, K Fall, S Floyd, P Haldar, M Handley, ...
+Publication: Technical Report 98-678, University of Southern California
+
+262. Some conjectures on the behavior of acknowledgement-based transmission control of random access communication channels
+Citations:39
+Authors: S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 15 (1), 245-255
+
+263. Discretized streams: A fault-tolerant model for scalable stream processing
+Citations:38
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+264. On inferring AS-level connectivity from BGP routing tables
+Citations:38
+Authors: H Chang, R Govindan, S Jamin, S Shenker, W Willinger
+Publication: Technical Report UM-CSE-TR-454-02, 2002. http://topology. eecs. umich. edu
+
+265. Epidemic algorithms for replicated database management
+Citations:38
+Authors: A Demers, D Greene, C Hauser, W Irish, J Larson, S Shenker, H Sturgis, ...
+Publication: Proceedings of the 6th Annual ACM Symposium on Principles of Distributed …
+
+266. Integrated services in the internet architecture: an overview, June 1994
+Citations:37
+Authors: R Braden, D Clark, S Shenker
+Publication: Internet RFC 1633
+
+267. Asymptotic resource consumption in multicast reservation styles
+Citations:37
+Authors: DJ Mitzel, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 24 (4), 226-233
+
+268. Verifying reachability in networks with mutable datapaths
+Citations:36
+Authors: A Panda, O Lahav, K Argyraki, M Sagiv, S Shenker
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+269. Slick packets
+Citations:36
+Authors: GTK Nguyen, R Agarwal, J Liu, M Caesar, P Godfrey, S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 39 (1), 205-216
+
+270. A study of reservation dynamics in integrated services packet networks
+Citations:36
+Authors: DJ Mitzel, D Estrin, S Shenker, L Zhang
+Publication: Proceedings of IEEE INFOCOM'96. Conference on Computer Communications 2, 871-879
+
+271. Tachyon: Memory throughput i/o for cluster computing frameworks
+Citations:35
+Authors: H Li, A Ghodsi, M Zaharia, E Baldeschwieler, S Shenker, I Stoica
+Publication: memory 18 (1)
+
+272. Expressing and enforcing flow-based network security policies
+Citations:35
+Authors: T Hinrichs, N Gude, M Casado, J Mitchell, S Shenker
+Publication: University of Chicago, Tech. Rep 9
+
+273. Greed is not enough: Adaptive load sharing in large heterogeneous systems
+Citations:35
+Authors: A Weinrib, S Shenker
+Publication: INFOCOM'88. Networks: Evolution or Revolution, Proceedings. Seventh Annual …
+
+274. Recursively cautious congestion control
+Citations:34
+Authors: R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+275. Holding the Internet Accountable.
+Citations:34
+Authors: DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, ...
+Publication: HotNets
+
+276. Design guidelines for robust Internet protocols
+Citations:34
+Authors: T Anderson, S Shenker, I Stoica, D Wetherall
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 125-130
+
+277. Synchronous and asynchronous learning by responsive learning automata
+Citations:34
+Authors: E Friedman, S Shenker
+Publication: Unpublished manuscript
+
+278. A high performance packet core for next generation cellular networks
+Citations:33
+Authors: ZA Qazi, M Walls, A Panda, V Sekar, S Ratnasamy, S Shenker
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+279. Minimizing faulty executions of distributed systems
+Citations:33
+Authors: C Scott, V Brajkovic, G Necula, A Krishnamurthy, S Shenker
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+280. DoS: Fighting fire with fire
+Citations:33
+Authors: M Walfish, H Balakrishnan, D Karger, S Shenker
+Publication: HotNets
+
+281. Is service priority useful in networks?
+Citations:33
+Authors: S Bajaj, L Breslau, S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 66-77
+
+282. Softflow: A middlebox architecture for open vswitch
+Citations:32
+Authors: EJ Jackson, M Walls, A Panda, J Pettit, B Pfaff, J Rajahalme, T Koponen, ...
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 15-28
+
+283. Observed structure of addresses in IP traffic
+Citations:32
+Authors: E Kohler, J Li, V Paxson, S Shenker
+Publication: IEEE/ACM Transactions on Networking (TON) 14 (6), 1207-1218
+
+284. Analysis and simulation of a fair queueing algorithm
+Citations:32
+Authors: A Demars
+Publication: Proc. ACM SIGCOMM 1989
+
+285. v. Knizhnik and M. Teitelman
+Citations:32
+Authors: M Bershadsky
+Publication: Phys. Lett. B 151, 31
+
+286. {SCL}: Simplifying Distributed {SDN} Control Planes
+Citations:31
+Authors: A Panda, W Zheng, X Hu, A Krishnamurthy, S Shenker
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+287. Fighting coordinated attackers with cross-organizational information sharing
+Citations:31
+Authors: M Allman, E Blanton, V Paxson, S Shenker
+Publication: IRVINE IS BURNING 121
+
+288. Approximation and collusion in multicast cost sharing
+Citations:31
+Authors: J Feigenbaum, A Krishnamurthy, R Sami, S Shenker
+Publication: EC 3, 280-280
+
+289. Alternate path routing and pinning for interdomain multicast routing
+Citations:31
+Authors: D Zappala, D Estrin, S Shenker
+Publication: Technical Report USC CS TR 97-655, U. of South California
+
+290. Elastic scaling of stateful network functions
+Citations:30
+Authors: S Woo, J Sherry, S Han, S Moon, S Ratnasamy, S Shenker
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+291. Verifying isolation properties in the presence of middleboxes
+Citations:30
+Authors: A Panda, O Lahav, K Argyraki, M Sagiv, S Shenker
+Publication: arXiv preprint arXiv:1409.7687
+
+292. What, where, and when: Software fault localization for sdn
+Citations:30
+Authors: RC Scott, A Wundsam, K Zarifis, S Shenker
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+293. Data-driven network connectivity
+Citations:30
+Authors: J Liu, B Yan, S Shenker, M Schapira
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 8
+
+294. A Policy Framework for the Future Internet.
+Citations:30
+Authors: A Seehra, J Naous, M Walfish, D Mazieres, A Nicolosi, S Shenker
+Publication: Hotnets
+
+295. Self-verifying CSFQ
+Citations:30
+Authors: I Stoica, H Zhang, S Shenker
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+296. Asymptotic behavior of global recovery in SRM
+Citations:30
+Authors: S Raman, S McCanne, S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 90-99
+
+297. Specification of predictive quality of service
+Citations:30
+Authors: S Shenker
+Publication: Internet Draft, draft-ietf-intserv-predictive-svc-01. txt
+
+298. Towards practical taint tracking
+Citations:29
+Authors: A Ermolinskiy, S Katti, S Shenker, L Fowler, M McCauley
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2010-92
+
+299. Reduced state routing in the Internet
+Citations:29
+Authors: R Gummadi, R Govindan, N Kothari, B Karp, YJ Kim, S Shenker
+Publication: Proc. ACM HotNets Workshop
+
+300. Beacon vector routing: Scalable point-to-point in wireless sensornets
+Citations:29
+Authors: R Fonseca, S Ratnasamy, D Culler, S Shenker, I Stoica
+Publication: Intel Research, IRB-TR-04 12, 2-15
+
+301. An experiment on learning with limited information: nonconvergence, experimentation cascades, and the advantage of being slow
+Citations:29
+Authors: E Friedman, M Shor, S Shenker, B Sopher
+Publication: Games and Economic Behavior 47 (2), 325-352
+
+302. Flexible and robust large scale multicast using i3
+Citations:29
+Authors: K Lakshminarayanan, A Rao, I Stoica, S Shenker
+Publication: Tech. Rep. CS-02-1187, University of California-Berkeley
+
+303. Managing shared ephemeral teleconferencing state: Policy and mechanism
+Citations:29
+Authors: S Shenker, A Weinrib, E Schooler
+Publication: COST 237 Workshop on Multimedia Services and Network Services, 69-88
+
+304. Route bazaar: Automatic interdomain contract negotiation
+Citations:27
+Authors: I Castro, A Panda, B Raghavan, S Shenker, S Gorinsky
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+305. On the resilience of routing tables
+Citations:27
+Authors: J Feigenbaum, B Godfrey, A Panda, M Schapira, S Shenker, A Singla
+Publication: arXiv preprint arXiv:1207.3732
+
+306. A service model for an integrated services internet
+Citations:26
+Authors: S Shenker, DD Clark, L Zhang
+Publication: work in progress
+
+307. Monotasks: Architecting for performance clarity in data analytics frameworks
+Citations:25
+Authors: K Ousterhout, C Canel, S Ratnasamy, S Shenker
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 184-200
+
+308. Reliable broadcast in unknown fixed-identity networks
+Citations:25
+Authors: L Subramanian, RH Katz, V Roth, S Shenker, I Stoica
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Principles of …
+
+309. Practical and robust geographic routing in wireless networks
+Citations:25
+Authors: YJ Kim, R Govindan, B Karp, S Shenker
+Publication: Conference On Embedded Networked Sensor Systems: Proceedings of the 2 nd …
+
+310. Semantic-free referencing in linked distributed systems
+Citations:25
+Authors: H Balakrishnan, S Shenker, M Walfish
+Publication: International Workshop on Peer-to-Peer Systems, 197-206
+
+311. Ripcord: a modular platform for data center networking
+Citations:24
+Authors: B Heller, D Erickson, N McKeown, R Griffith, I Ganichev, S Whyte, K Zarifis, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 457-458
+
+312. Controlling high-bandwidth aggregates in the network (extended version)
+Citations:24
+Authors: R Mahajan, SM Bellovin, S Floyd, J Ioannidis, V Paxson, S Shenker
+Publication: 
+
+313. Resq: Enabling slos in network function virtualization
+Citations:23
+Authors: A Tootoonchian, A Panda, C Lan, M Walls, K Argyraki, S Ratnasamy, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+314. Incentive compatibility and dynamics of congestion control
+Citations:23
+Authors: P Godfrey, M Schapira, A Zohar, S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 38 (1), 95-106
+
+315. Dominant resource fairness: Fair allocation of heterogeneous resources in datacenters
+Citations:23
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Proc. of NSDI
+
+316. Band to band hopping in one-dimensional maps
+Citations:23
+Authors: SJ Shenker, LP Kadanoff
+Publication: Journal of Physics A: Mathematical and General 14 (2), L23
+
+317. How did we get into this mess? isolating fault-inducing inputs to sdn control software
+Citations:22
+Authors: C Scott, A Wundsam, S Whitlock, A Or, E Huang, K Zarifis, S Shenker
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2013-8
+
+318. Ripcord: A modular platform for data center networking
+Citations:22
+Authors: M Casado, D Erickson, IA Ganichev, R Griffith, B Heller, N Mckeown, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2010-93
+
+319. Bridging the software/hardware forwarding divide
+Citations:21
+Authors: D Moon, J Naous, J Liu, K Zarifis, M Casado, T Koponen, S Shenker, ...
+Publication: uC Berkeley
+
+320. Cookies Along Trust-Boundaries (CAT): Accurate and Deployable Flood Protection.
+Citations:21
+Authors: M Casado, A Akella, P Cao, N Provos, S Shenker
+Publication: SRUTI
+
+321. L~ P. Kadanoff and SJ Shenker
+Citations:21
+Authors: MJ Feigenbaum
+Publication: Physica D 5, 370
+
+322. Some complexity results for stateful network verification
+Citations:20
+Authors: Y Velner, K Alpernas, A Panda, A Rabinovich, M Sagiv, S Shenker, ...
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+323. PRAN: Programmable radio access networks
+Citations:20
+Authors: W Wu, LE Li, A Panda, S Shenker
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 6
+
+324. A declarative sensornet architecture.
+Citations:20
+Authors: A Tavakoli, D Chu, JM Hellerstein, P Levis, S Shenker
+Publication: SIGBED Review 4 (3), 55-60
+
+325. Using hierarchical location names for scalable routing and rendezvous in wireless sensor networks.
+Citations:20
+Authors: F Bian, R Govindan, S Schenker, X Li
+Publication: SenSys 4, 305-306
+
+326. Specification of guaranteed quality of service
+Citations:20
+Authors: R Guerin, C Partridge, S Shenker
+Publication: Request for Comments (Proposed Standard) 2212
+
+327. Understanding and exploiting network traffic redundancy
+Citations:19
+Authors: A Gupta, A Akella, S Seshan, S Shenker, J Wang
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+328. Distributive and additive costsharing of an homogeneous good
+Citations:19
+Authors: H Moulin, S Shenker
+Publication: Games and Economic Behavior 27 (2), 299-330
+
+329. Network architecture and content provision: An economic analysis
+Citations:19
+Authors: JK MacKie-Mason, S Scott, V Hal
+Publication: 
+
+330. Specification of controlled delay quality of service
+Citations:19
+Authors: S Shenker
+Publication: Internet Draft, draft-ietf-intserv-controlled-del-svc-02. txt
+
+331. Revisiting network support for rdma
+Citations:18
+Authors: R Mittal, A Shpiner, A Panda, E Zahavi, A Krishnamurthy, S Ratnasamy, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+332. The case for predicate-oriented debugging of sensornets
+Citations:18
+Authors: A Tavakoli, D Culler, P Levis, S Shenker
+Publication: Proceedings of the 5th Workshop on Hot Topics in Embedded Networked Sensors …
+
+333. Transient behavior in a flexible assembly system
+Citations:18
+Authors: ST McCormick, ML Pinedo, S Shenker, B Wolf
+Publication: International Journal of Flexible Manufacturing Systems 3 (1), 27-44
+
+334. Privacy-preserving interdomain routing at Internet scale
+Citations:17
+Authors: G Asharov, D Demmler, M Schapira, T Schneider, G Segev, S Shenker, ...
+Publication: Proceedings on Privacy Enhancing Technologies 2017 (3), 147-167
+
+335. The quest for resilient (static) forwarding tables
+Citations:17
+Authors: M Chiesa, I Nikolaevskiy, S Mitrović, A Panda, A Gurtov, A Maidry, ...
+Publication: IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer …
+
+336. Enhancing rural connectivity with software defined networks
+Citations:17
+Authors: S Hasan, Y Ben-David, C Scott, E Brewer, S Shenker
+Publication: Proceedings of the 3rd ACM Symposium on Computing for Development, 49
+
+337. A modular sensornet architecture: past, present, and future directions.
+Citations:17
+Authors: A Tavakoli, P Dutta, J Jeong, S Kim, J Ortiz, DE Culler, P Levis, S Shenker
+Publication: SIGBED Review 4 (3), 49-54
+
+338. Patterns of congestion collapse
+Citations:17
+Authors: T Kelly, S Floyd, S Shenker
+Publication: International Computer Science Institute, and University of Cambridge
+
+339. Making greed work in networks: a game-theoretic analysis of gateway service disciplines
+Citations:17
+Authors: S Shenker
+Publication: ACM SIGMETRICS Performance Evaluation Review 18 (1), 241-242
+
+340. On the resiliency of static forwarding tables
+Citations:16
+Authors: M Chiesa, I Nikolaevskiy, S Mitrovic, A Gurtov, A Madry, M Schapira, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 25 (2), 1133-1146
+
+341. Tiered Fault Tolerance for Long-Term Integrity.
+Citations:16
+Authors: BG Chun, P Maniatis, S Shenker, J Kubiatowicz
+Publication: FAST, 267-282
+
+342. Peering peer-to-peer providers
+Citations:16
+Authors: H Balakrishnan, S Shenker, M Walfish
+Publication: International Workshop on Peer-to-Peer Systems, 104-114
+
+343. Asynchronous updates in large parallel systems
+Citations:16
+Authors: AG Greenberg, S Shenker, AL Stolyar
+Publication: ACM SIGMETRICS Performance Evaluation Review 24 (1), 91-103
+
+344. Recursive SDN for carrier networks
+Citations:15
+Authors: J McCauley, Z Liu, A Panda, T Koponen, B Raghavan, J Rexford, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (4), 1-7
+
+345. Nexus: A common substrate for cluster computing
+Citations:15
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, S Shenker, ...
+Publication: Workshop on Hot Topics in Cloud Computing
+
+346. The Network Oracle.
+Citations:15
+Authors: JM Hellerstein, V Paxson, LL Peterson, T Roscoe, S Shenker, D Wetherall
+Publication: IEEE Data Eng. Bull. 28 (1), 3-10
+
+347. Some technical results on continuity, strategy-proofness, and related strategic concepts
+Citations:15
+Authors: S Shenker
+Publication: preprint
+
+348. On the resiliency of randomized routing against multiple edge failures
+Citations:14
+Authors: M Chiesa, A Gurtov, A Madry, S Mitrovic, I Nikolaevskiy, M Shapira, ...
+Publication: 43rd International Colloquium on Automata, Languages, and Programming (ICALP …
+
+349. Reducing latency in Tor circuits with unordered delivery
+Citations:14
+Authors: MF Nowlan, DI Wolinsky, B Ford
+Publication: Presented as part of the 3rd {USENIX} Workshop on Free and Open …
+
+350. Reducing Transient Disconnectivity using Anomaly-Cognizant Forwarding.
+Citations:14
+Authors: A Ermolinskiy, S Shenker
+Publication: HotNets, 91-96
+
+351. Strategyproof sharing of submodular access costs: Budget balance versus efficiency
+Citations:14
+Authors: H Moulin, S Shenker
+Publication: Available at SSRN 42940
+
+352. A variational real-space renormalisation-group transformation based on the cumulant expansion
+Citations:14
+Authors: SJ Shenker, LP Kadanoff, AMM Pruisken
+Publication: Journal of Physics A: Mathematical and General 12 (1), 91
+
+353. Verification in the age of microservices
+Citations:13
+Authors: A Panda, M Sagiv, S Shenker
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 30-36
+
+354. Stabilizing route selection in BGP
+Citations:13
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: IEEE/ACM Transactions on Networking 23 (1), 282-299
+
+355. End-host controlled multicast routing
+Citations:13
+Authors: K Lakshminarayanan, A Rao, I Stoica, S Shenker
+Publication: Computer Networks 50 (6), 807-825
+
+356. Approximate fair allocation of link bandwidth
+Citations:13
+Authors: R Pan, B Prabhakar, L Breslau, S Shenker
+Publication: IEEE Micro 23 (1), 36-43
+
+357. The data-centric revolution in networking
+Citations:13
+Authors: S Shenker
+Publication: Proceedings 2003 VLDB Conference, 15
+
+358. Services or infrastructure: Why we need a network service model
+Citations:13
+Authors: S Shenker, DD Clark, L Zhang
+Publication: Proceedings of lst IEEE International Workshop on Community Networking, 145-149
+
+359. Supersymmetric critical phenomena and the two-dimensional Gaussian model: Explanatory note
+Citations:13
+Authors: D Friedan, SH Shenker
+Publication: 
+
+360. Caching doesn't improve mobile web performance (much)
+Citations:12
+Authors: J Vesuna, C Scott, M Buettner, M Piatek, A Krishnamurthy, S Shenker
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 159-165
+
+361. Hidden-action in network routing
+Citations:12
+Authors: M Feldman, J Chuang, I Stoica, S Shenker
+Publication: IEEE Journal on selected areas in Communications 25 (6), 1161-1172
+
+362. Overcoming barriers to disruptive innovation in networking
+Citations:12
+Authors: T Anderson, L Peterson, S Shenker, J Turner
+Publication: Report of NSF Workshop, 2005
+
+363. Building a flexible and efficient routing infrastructure: Need and challenges
+Citations:12
+Authors: K Lakshminarayanan, I Stoica, S Shenker
+Publication: Computer Science Division, University of California
+
+364. A symptotic analysis of large heterogeneous queueing systems
+Citations:12
+Authors: S Shenker, A Weinrib
+Publication: ACM SIGMETRICS Performance Evaluation Review 16 (1), 56-62
+
+365. unpublished; T. Banks, L. Dixon, D. Friedan and E. Martinec
+Citations:12
+Authors: D Friedan, A Kent, S Shenker, E Witten
+Publication: Nucl. Phys. B 299, 613
+
+366. unpublished; A. Sen
+Citations:12
+Authors: D Friedan, A Kent, S Shenker, E Witten
+Publication: Nucl. Phys. B 278, 289
+
+367. Renormalization group for intermittency in area-preserving mappings
+Citations:12
+Authors: AB Zisook, SJ Shenker
+Publication: Physical Review A 25 (5), 2824
+
+368. New directions for network verification
+Citations:11
+Authors: A Panda, K Argyraki, M Sagiv, M Schapira, S Shenker
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+369. Resilient distributed datasets
+Citations:11
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, M Franklin, ...
+Publication: A fault-tolerant abstraction for in-memory cluster computing in Proceedings …
+
+370. A million cancer genome warehouse
+Citations:11
+Authors: D Haussler, DA Patterson, M Diekhans, A Fox, M Jordan, AD Joseph, ...
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+371. Stable Internet route selection
+Citations:11
+Authors: PB Godfrey, M Caesar, I Haken, S Shenker, I Stoica
+Publication: NANOG40, June
+
+372. SmartSeer: Using a DHT to process continuous queries over peer-to-peer networks
+Citations:11
+Authors: J Kannan, B Yang, S Shenker, P Sharma, S Banerjee, S Basu, SJ Lee
+Publication: Proceedings IEEE INFOCOM 2006. 25TH IEEE International Conference on …
+
+373. Report of NSF workshop on overcoming barriers to disruptive innovation in networking
+Citations:11
+Authors: T Anderson, L Peterson, S Shenker, J Turner
+Publication: National Science Foundation
+
+374. Developing a* search using relational modalities
+Citations:11
+Authors: M Minsky, C Kumar, S Shenker
+Publication: Journal of Encrypted, Low-Energy Information 1, 75-84
+
+375. Sharing multicast costs
+Citations:11
+Authors: S Herzog, S Shenker, D Estrin
+Publication: Internet Economics, 169-212
+
+376. Specification of Guaranteed Quality of Service, IETF
+Citations:11
+Authors: S Shenker
+Publication: RFC2212
+
+377. General Characterization Parameters for Integrated Service Network Elements", RFC 2215
+Citations:11
+Authors: S Shenker, J Wroclawski
+Publication: 
+
+378. Routing support for RSVP
+Citations:11
+Authors: D Estrin, S Shenker, D Zappala
+Publication: Work in Progress
+
+379. unpublished; A. Sen Nucl. Phys. B 278 (1986) 289
+Citations:11
+Authors: D Friedan, A Kent, S Shenker, E Witten
+Publication: Nucl. Phys. B 284, 423
+
+380. A scalable content-addressable network, 2001
+Citations:11
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Schenker
+Publication: Proceedings of the 2001 conference on Applications, technologies …
+
+381. Exploring the limits of static failover routing
+Citations:10
+Authors: M Chiesa, A Gurtov, A Mądry, S Mitrović, I Nikolaevkiy, A Panda, ...
+Publication: arXiv preprint arXiv:1409.0034
+
+382. Rangzen: Circumventing government-imposed communication blackouts
+Citations:10
+Authors: G Fanti, YB David, S Benthall, E Brewer, S Shenker
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2013-128
+
+383. Building dissent networks: Towards effective countermeasures against large-scale communications blackouts
+Citations:10
+Authors: S Hasan, Y Ben-David, G Fanti, E Brewer, S Shenker
+Publication: Presented as part of the 3rd {USENIX} Workshop on Free and Open …
+
+384. Arthur: Rich post-facto debugging for production analytics applications
+Citations:10
+Authors: A Dave, M Zaharia, I Stoica
+Publication: University of California; Berkeley
+
+385. An accountability interface for the Internet
+Citations:10
+Authors: K Argyraki, P Maniatis, O Irzak, S Shenker
+Publication: Proc. 14th ICNP
+
+386. Towards a next generation inter-domain routing protocol
+Citations:10
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: Proceedings of Third Workshop on Hot Topics in Networks (HotNets-III)
+
+387. Aggregate-based congestion control
+Citations:10
+Authors: R Mahajan, SM Bellovin, S Floyd, J Ioannidis, V Paxson, S Shenker
+Publication: ICSI Center for Internet Research (ICIR) AT&T Labs––Research
+
+388. Interdomain Multicast Routing Support for Integrated Services Networks
+Citations:10
+Authors: D Zappala, B Braden, D Estrin, S Shenker
+Publication: 
+
+389. On the Strategy-Proof and Smooth Allocation of Private Goods in Production Economies
+Citations:10
+Authors: S Shenker
+Publication: mimeo, PARC, Xerox Corporation, Palo Alto, CA
+
+390. In Vertex Operators in Mathematical Physics. J. Lepowsky ed
+Citations:10
+Authors: D Friedan, Z Qiu, S Shenker
+Publication: Springer Verlag
+
+391. Performance clarity as a first-class design principle
+Citations:9
+Authors: K Ousterhout, C Canel, M Wolffe, S Ratnasamy, S Shenker
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 1-6
+
+392. Combinatorial optimization in congestion control
+Citations:9
+Authors: R Karp, E Koutsoupias, C Papadimitriou, S Shenker
+Publication: Redondo Beach ‚CA
+
+393. Group Therapy for Systems: Using Link Attestations to Manage Failures.
+Citations:9
+Authors: MJ Freedman, I Stoica, D Mazieres, S Shenker
+Publication: IPTPS
+
+394. Evaluation and enhancement of a unifying link abstraction for sensornets
+Citations:9
+Authors: A Tavakoli, J Taneja, P Dutta, D Culler, S Shenker, I Stoica
+Publication: Under submission
+
+395. COPS: Quality of service vs. Any service at all
+Citations:9
+Authors: R Katz, G Porter, S Shenker, I Stoica, M Tsai
+Publication: International Workshop on Quality of Service, 3-15
+
+396. An architecture for the future Internet
+Citations:9
+Authors: S Shenker
+Publication: Symposium Record Hot Interconnects II, 259-260
+
+397. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+398. Open network interfaces for carrier networks
+Citations:8
+Authors: A Panda, JM McCauley, A Tootoonchian, J Sherry, T Koponen, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (1), 5-11
+
+399. A New Communications API
+Citations:8
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: Electrical Engineering and Computer SciencesUniversity of California at …
+
+400. An investigation of the Internet’s IP-layer connectivity
+Citations:8
+Authors: L Tang, J Li, Y Li, S Shenker
+Publication: Computer Communications 32 (5), 913-926
+
+401. D3: Declarative distributed debugging
+Citations:8
+Authors: BG Chun, K Chen, G Lee, RH Katz, S Shenker
+Publication: Technical report, UC, Berkeley
+
+402. A data-oriented network architecture
+Citations:8
+Authors: T Koponen
+Publication: Teknillinen korkeakoulu
+
+403. Revisiting Internet address: Back to the future
+Citations:8
+Authors: M Vutukuru, N Feamster, M Walfish, H Balakrishnan, S Shenker
+Publication: 
+
+404. Flexibility as an instrument in digital rights management
+Citations:8
+Authors: D Bergemann, T Eisenbach, J Feigenbaum, S Shenker
+Publication: Cowles foundation discussion paper
+
+405. Querying the Internet with PIER
+Citations:8
+Authors: HRJ Hellerstein, N Boona, T Loo, S Shenker, I Stoica
+Publication: Proc. VLDB, 321-332
+
+406. Profit-maximizing multicast pricing by approximating fixed points
+Citations:8
+Authors: A Mehta, S Shenker, VV Vazirani
+Publication: Proceedings of the 4th ACM conference on Electronic commerce, 218-219
+
+407. Exploring congestion control
+Citations:8
+Authors: A Akella, S Seshan, S Shenker, I Stoica
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+408. Learning by distributed automata
+Citations:8
+Authors: EJ Friedman, S Shenker
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+409. How to improve your network performance by asking your provider for worse service
+Citations:7
+Authors: R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 25
+
+410. Strategyproofness, Leontief economies and the Kalai-Smorodinsky solution
+Citations:7
+Authors: EJ Friedman, A Ghodsi, S Shenker, I Stoica
+Publication: Manuscript
+
+411. Enabling innovation below the communication api
+Citations:7
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: EECS Department, University of California, Berkeley, UCB/EECS-2009–141
+
+412. Resolving BGP disputes
+Citations:7
+Authors: CT Ee, V Ramachandran, BG Chun, S Shenker
+Publication: University of California, Berkeley: Technical Reports, EECS-2006-39
+
+413. Querying at Internet scale
+Citations:7
+Authors: B Chun, JM Hellerstein, R Huebsch, SR Jeffery, BT Loo, S Mardanbeigi, ...
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+414. A flow table-based design to approximate fairness
+Citations:7
+Authors: R Pan, L Breslau, B Prbhakar, S Shenker
+Publication: Proceedings 10th Symposium on High Performance Interconnects, 37-42
+
+415. Agents’ privacy in distributed algorithmic mechanisms
+Citations:7
+Authors: J Feigenbaum, N Nisan, V Ramachandran, R Sami, S Shenker
+Publication: Position Paper
+
+416. On characterizing network hierarchy
+Citations:7
+Authors: H Tangmunarunkit, R Govindan, S Jamin, S Shenker, W Willinger
+Publication: Technical Report 3 (782)
+
+417. Strategyproof sharing of submodular costs
+Citations:7
+Authors: H Moulin, S Shenker
+Publication: Economic Theory, to appear
+
+418. Open carrier interface: An open source edge computing framework
+Citations:6
+Authors: M Körner, TM Runge, A Panda, S Ratnasamy, S Shenker
+Publication: Proceedings of the 2018 Workshop on Networking for Emerging Applications and …
+
+419. Enabling Rural Connectivity with SDN
+Citations:6
+Authors: S Hasan, YB David, RC Scott, E Brewer, S Shenker
+Publication: Technical Report UCB/EECS-2012–201, University of California at Berkeley
+
+420. Service Portability
+Citations:6
+Authors: S Singh, S Shenker, G Varghese
+Publication: IRVINE IS BURNING, 49
+
+421. Key consistency in DHTs
+Citations:6
+Authors: S Sankararaman, BG Chun, C Yatin, S Shenker
+Publication: Technical Report UCB/EECS-2005-21, UC Berkeley
+
+422. Recovery timer adaptation in SRM
+Citations:6
+Authors: CG Liu, D Estrin, S Shenker, L Zhang
+Publication: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION, I-2
+
+423. Timer adjustment in SRM
+Citations:6
+Authors: CG Liu, D Estrin, S Shenker, L Zhang
+Publication: 
+
+424. The effect of robust technology on cooperative metamorphic e-voting technology
+Citations:6
+Authors: O NEHRU, A TANENBAUM, C PAPADIMITRIOU, S SHENKER, ...
+Publication: Proceedings of INFOCOM
+
+425. Conformal invariance
+Citations:6
+Authors: D Friedan, Z Qiu, S Shenker
+Publication: Supersymmetry and
+
+426. Cessna: Resilient edge-computing
+Citations:5
+Authors: Y Harchol, A Mushtaq, J McCauley, A Panda, S Shenker
+Publication: Proceedings of the 2018 Workshop on Mobile Edge Communications, 1-6
+
+427. Bridging the GAP: towards approximate graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, S Venkataraman, M Chowdhury, A Akella, S Shenker, ...
+Publication: Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data …
+
+428. Monarch: gaining command on geo-distributed graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, M Chowdhury, A Akella, S Shenker, I Stoica
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+429. Making the internet more evolvable
+Citations:5
+Authors: B Raghavan, T Koponen, A Ghodsi, V Brajkovic, S Shenker
+Publication: Technical Report TR-12–011, ICSI
+
+430. Hypervisors as a foothold for personal computer security: An agenda for the research community
+Citations:5
+Authors: M Zaharia, S Katti, C Grier, V Paxson, S Shenker, I Stoica, D Song
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+431. Defining and enforcing transit policies in a future Internet
+Citations:5
+Authors: J Naous, A Seehra, M Walfish, D Mazieres, A Nicolosi, S Shenker
+Publication: University of Texas at Austin Department of Computer Sciences Technical …
+
+432. The design and implementation of a policy framework for the future Internet
+Citations:5
+Authors: J Naous, A Seehra, M Walfish, D Mazieres, A Nicolosi, S Shenker
+Publication: Submitted to the 2010 USENIX Symposium on Networked Systems Design and …
+
+433. Asynchronous neighbor discovery: Finding needles of connectivity in haystacks of time
+Citations:5
+Authors: P Dutta, D Culler, S Shenker
+Publication: 2008 International Conference on Information Processing in Sensor Networks …
+
+434. WolfB
+Citations:5
+Authors: ST McCormick, ML Pinedo, S Shenker
+Publication: Sequencing in an assembly line with
+
+435. Network operating system for managing and securing networks
+Citations:4
+Authors: M Casado, KE Amidon, PJ Balland III, N Gude, J Pettit, BL Pfaff, ...
+Publication: US Patent App. 15/838,317
+
+436. Net2Text: Query-guided summarization of network forwarding behaviors
+Citations:4
+Authors: R Birkner, D Drachsler-Cohen, L Vanbever, M Vechev
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+437. The deforestation of l2
+Citations:4
+Authors: J McCauley, M Zhao, EJ Jackson, B Raghavan, S Ratnasamy, S Shenker
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 497-510
+
+438. Taking an axe to l2 spanning trees
+Citations:4
+Authors: J McCauley, A Sheng, EJ Jackson, B Raghavan, S Ratnasamy, ...
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 15
+
+439. Mesos: Flexible resource sharing for the cloud
+Citations:4
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, R Katz, ...
+Publication: USENIX (August 2011)
+
+440. Minuet: Rethinking Concurrency Control in Storage Area Networks.
+Citations:4
+Authors: A Ermolinskiy, D Moon, BG Chun, S Shenker
+Publication: FAST 9, 311-324
+
+441. A distributed system for resolving flat names
+Citations:4
+Authors: M Vutukuru, M Walfish, H Balakrishnan, S Shenker
+Publication: Proc. ACM SIGCOMM, poster abstracts, Pisa
+
+442. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+443. Cooperative containment of fast scanning worms
+Citations:4
+Authors: J Kannan, L Subramanian, I Stoica, S Shenker, R Katz
+Publication: Tech. Rep. CSD-04-1359, UC Berkeley
+
+444. Towards an economic analysis of trusted systems
+Citations:4
+Authors: D Bergemann, J Feigenbaum, S Shenker, JM Smith
+Publication: Proceedings, 3rd Annual Workshop on Economics and Information Security, 13-14
+
+445. Internet indirection infrastructure
+Citations:4
+Authors: ISDAS Zhuang, S Shenker, S Surana
+Publication: Proceedings of IPTPS’02
+
+446. Adaptive RED
+Citations:4
+Authors: S Floyd, R Gummadi, S Shenker
+Publication: Analgorithm for increasing the robustness of RED‖, AT …
+
+447. Learning in Networks Contexts: Experimental Results from Simulations
+Citations:4
+Authors: E Friedman, S Shenker, A Greenwald
+Publication: Working Paper
+
+448. C. Wafa
+Citations:4
+Authors: S Hamidi
+Publication: Nucl. Phys. B 279, 465
+
+449. OpenFlow
+Citations:4
+Authors: N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, ...
+Publication: ACM SIGCOMM Computer Communication Review 38 (2), 69
+
+450. Comments on the performance of measurement-based admission control
+Citations:4
+Authors: L Breslau, S Jamin, S Shenker
+Publication: Proc. IEEE INFOCOM.–Mar. 2000.–Р. 1233-1242. 130. Fraleigh С. Provisioning …
+
+451. Spark
+Citations:4
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: Cluster Computing with Working Sets. In HotCloud 10
+
+452. DFS-PERF: A scalable and unified benchmarking framework for distributed file systems
+Citations:3
+Authors: R Gu, Q Dong, H Li, J Gonzalez, Z Zhang, S Wang, Y Huang, S Shenker, ...
+Publication: EECS Dept., Univ. California, Berkeley, Berkeley, CA, USA, Tech. Rep. UCB …
+
+453. STEM+: Allocating Bandwidth Fairly To Tasks
+Citations:3
+Authors: A Lukyanenko, I Nikolaevskiy, D Kuptsov, A Gurtov, A Ghodsi, S Shenker
+Publication: Technical Report TR-14-001
+
+454. Pricing under the Threat of Piracy: Flexibility and Platforms for Digital Goods
+Citations:3
+Authors: D Bergemann, TM Eisenbach, J Feigenbaum, S Shenker
+Publication: Cowles Foundation Discussion Paper
+
+455. Routing Along DAGs
+Citations:3
+Authors: J Liu
+Publication: UC Berkeley
+
+456. Stabilizing route selection in BGP
+Citations:3
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: 
+
+457. A publish/subscribe communications api for data-oriented applications
+Citations:3
+Authors: M Demmer, B Du, A Ermolinsky, K Fall, I Ganichev, T Loponen, J Liu, ...
+Publication: Proceedings of the 5th Symposium on Networked Systems Design and …
+
+458. CAN: Content Addressable Network
+Citations:3
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Shenker
+Publication: 
+
+459. Service Portability: Why http redirect is the model for the future
+Citations:3
+Authors: S Singh, S Shenker, G Varghese
+Publication: ACM SIGCOMM HotNets
+
+460. Posted price profit maximization for multicast by approximating fixed points
+Citations:3
+Authors: A Mehta, S Shenker, VV Vazirani
+Publication: Journal of Algorithms 58 (2), 150-164
+
+461. Interference avoidance in wireless multihop networks
+Citations:3
+Authors: CT Ee, S Shenker, BCW Hong
+Publication: poster session presented at the 2nd Annu. IEEE Commun. Soc. Conf. Sensor and …
+
+462. Measurement and Analysis of Ultrapeer-based P2P Search Networks
+Citations:3
+Authors: BT Loo, J Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Departmental Papers (CIS), 327
+
+463. Internet topology: discovery and policy impact
+Citations:3
+Authors: H Tangmunarunkit, R Govidan, S Shenker, K Park, W Willinger
+Publication: The Internet As a Large-Scale Complex System, Oxford University Press …
+
+464. NewArch: A new architecture for an Internet
+Citations:3
+Authors: D Clark, S Bellovin, B Braden, N Chiappa, T Faber, A Falk, M Handley, ...
+Publication: Report to Next Generation Internet PI Meeting
+
+465. Aggregate-Based Congestion Control and Pushback
+Citations:3
+Authors: S Floyd, V Paxson, S Shenker
+Publication: IEEE/ACM Transactions on Networking
+
+466. Core-stateless fair queuing
+Citations:3
+Authors: I Stoica, S Shenker, F Zhang, V Sundaram, S Routers, ...
+Publication: ACM SIGCOMM Computer communication review, 118-130
+
+467. Network Element Service Specification Template", RFC 2216
+Citations:3
+Authors: S Shenker, J Wroclawski
+Publication: 
+
+468. Two-Pass or Not Two-Pass.....
+Citations:3
+Authors: S Shenker
+Publication: Current Meeting Report, RSVP Working Group, Proceedings of the Thirtieth …
+
+469. Routing on Flat Labels
+Citations:3
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, S Shenker, I Stoica
+Publication: Proc. of ACM SIGCOMM’06, 363-374
+
+470. Abstract interpretation of stateful networks
+Citations:2
+Authors: K Alpernas, R Manevich, A Panda, M Sagiv, S Shenker, S Shoham, ...
+Publication: International Static Analysis Symposium, 86-106
+
+471. Automatic troubleshooting for sdn control software
+Citations:2
+Authors: C Scott, A Wundsam, S Whitlock, A Or, E Huang, K Zarifis, S Shenker
+Publication: online
+
+472. Flexible Resource Sharing for the Cloud
+Citations:2
+Authors: B Hindman, A KONWINSKI, M ZAHARIA, ALI GHODSI, AD JOSEPH, ...
+Publication: Aug
+
+473. Practical data confinement
+Citations:2
+Authors: A Ermolinskiy, S Katti, S Shenker, L Fowler, M Mccauley
+Publication: 
+
+474. Open vSwitch: Extending networking into the virtualization layer
+Citations:2
+Authors: B Pfaff, J Pettit, T Koponen, K Amidon, M Casado, S Shenker
+Publication: Proc. of ACM SIGCOMM HotNets
+
+475. S3: Securing sensitive stuff
+Citations:2
+Authors: S Katti, A Ermolinskiy, M Casado, S Shenker, H Balakrishnan
+Publication: USENIX OSDI
+
+476. On the consistency of dht-based routing
+Citations:2
+Authors: JK Kannan, MC Caesar, I Stoica, S Shenker
+Publication: Technical Report UCB/EECS-2007-22, EECS Department, University of California …
+
+477. Supplement to" Distributed Quota Enforcement for Spam Control"
+Citations:2
+Authors: M Walfish, JD Zamfirescu, H Balakrishnan, D Karger, S Shenker
+Publication: 
+
+478. Architectural support for network trouble-shooting
+Citations:2
+Authors: S Shenker, M Allman, V Paxson
+Publication: NSF FING'2006. http://www. nets-ring. net/Funded/ArehtSupportNet. php
+
+479. SmartSeer: Continuous queries over CiteSeer
+Citations:2
+Authors: J Kannan, B Yang, S Shenker, P Sharma, S Banerjee, S Basu, SJ Lee
+Publication: Computer Science
+
+480. Maté Manual
+Citations:2
+Authors: P Levis, D Gay, D Culler, N Patel, S Shenker
+Publication: Version
+
+481. Towards an Economic Analysis of Trusted Systems
+Citations:2
+Authors: J Feigenbaum, D Bergemann, S Shenker, JM Smith
+Publication: Third Workshop on the Economics of Information Security. Minneapolis, MN
+
+482. Traffic Engineering with Estimated Traffic Matrices
+Citations:2
+Authors: Y Zhang, L Breslau, V Paxson, S Shenker
+Publication: Miami, FL, Oct
+
+483. Discretized streams
+Citations:2
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proc. of Twenty-Fourth ACM Symposium on Operating Systems Principles, 423-438
+
+484. Fundamental Design Issues for the Future lntemet
+Citations:2
+Authors: S Shenker
+Publication: 
+
+485. Is admission control necessary?
+Citations:2
+Authors: S Shenker
+Publication: Infocom'95 Panel" Reservations or No Reservations"
+
+486. Thoughts on load distribution and the role of programmable switches
+Citations:1
+Authors: J McCauley, A Panda, A Krishnamurthy, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 49 (1), 18-23
+
+487. Fair and Efficient Memory Sharing: Confronting Free Riders
+Citations:1
+Authors: EJ Friedman, V Gkatzelis, CA Psomas, S Shenker
+Publication: $33^ rd $ AAAI Conference on Artificial Intelligence (AAAI)
+
+488. Preserving privacy at IXPS
+Citations:1
+Authors: X Hu, A Gupta, N Feamster, A Panda, S Shenker
+Publication: Proceedings of the 2nd Asia-Pacific Workshop on Networking, 43-49
+
+489. Network evolution for dnns
+Citations:1
+Authors: M Alan, A Panda, D Bottini, L Jian, P Kumar, S Shenker
+Publication: SysML, doc/182
+
+490. Distributed shared memory for machine learning
+Citations:1
+Authors: A Tootoonchian, A Panda, A Nematzadeh, S Shenkar
+Publication: Proceedings of SysML
+
+491. An axiomatic approach to congestion control
+Citations:1
+Authors: D Zarchy, R Mittal, M Schapira, S Shenker
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 115-121
+
+492. The berkeley data analysis system (BDAS): An open source platform for big data analytics
+Citations:1
+Authors: I Stoica, M Franklin, M Jordan, A Fox, A Joseph, M Mahoney, R Katz, ...
+Publication: University of California, Berkeley Berkeley United States
+
+493. Modular Safety Verification for Stateful Networks
+Citations:1
+Authors: A PANDA, S SHENKER, Y VELNER
+Publication: arXiv preprint arXiv:1708.05904
+
+494. Datacenter congestion control: Identifying what is essential and making it practical
+Citations:1
+Authors: A Mushtaq, R Mittal, J McCauley, M Alizadeh, S Ratnasamy, S Shenker
+Publication: 
+
+495. Exploring the limits of static resilient routing
+Citations:1
+Authors: M Chiesa, A Gurtov, A Madry, S Mitrovic, I Nikolaevskiy, A Panda, ...
+Publication: Proc. IEEE INFOCOM
+
+496. Dynamic budget-constrained pricing in the cloud
+Citations:1
+Authors: E Friedman, MZ Rácz, S Shenker
+Publication: Canadian Conference on Artificial Intelligence, 114-121
+
+497. SDX: A Software Defined Internet Exchange
+Citations:1
+Authors: L Vanbever, M Shahbaz, S Donovan, B Schlinker, N Feamster
+Publication: Proc. ACM SIGCOMM'14
+
+498. Author retrospective for search and replication in unstructured peer-to-peer networks
+Citations:1
+Authors: Q Lv, P Cao, E Cohen, K Li, S Shenker
+Publication: 25th ACM International Conference on Supercomputing, ICS 2014
+
+499. Brief announcement: techniques for programmatically troubleshooting distributed systems
+Citations:1
+Authors: S Whitlock, C Scott, S Shenker
+Publication: Proceedings of the 2013 ACM symposium on Principles of distributed computing …
+
+500. A cost-benefit analysis of low latency via added utilization
+Citations:1
+Authors: A Vulimiri, P Godfrey, SV Gorge, Z Liu, S Shenker
+Publication: arXiv preprint arXiv:1306.3534
+

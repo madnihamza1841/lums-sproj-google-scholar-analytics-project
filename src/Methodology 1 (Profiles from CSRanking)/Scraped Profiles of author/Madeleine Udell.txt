@@ -1,0 +1,233 @@
+https://scholar.google.com/citations?hl=en&user=tZ9pEDMAAAAJ
+Total Citations = 599
+
+1. Generalized low rank models
+Citations:176
+Authors: M Udell, C Horn, R Zadeh, S Boyd
+Publication: Foundations and Trends in Machine Learning 9 (1)
+
+2. Convex optimization in Julia
+Citations:67
+Authors: M Udell, K Mohan, D Zeng, J Hong, S Diamond, S Boyd
+Publication: Proceedings of the 1st First Workshop for High Performance Technical …
+
+3. Sketchy decisions: Convex low-rank matrix optimization with optimal storage
+Citations:48
+Authors: A Yurtsever, M Udell, JA Tropp, V Cevher
+Publication: arXiv preprint arXiv:1702.06838
+
+4. Maximizing a sum of sigmoids
+Citations:39
+Authors: M Udell, S Boyd
+Publication: 
+
+5. Practical sketching algorithms for low-rank matrix approximation
+Citations:36
+Authors: JA Tropp, A Yurtsever, M Udell, V Cevher
+Publication: SIAM Journal on Matrix Analysis and Applications 38 (4), 1454-1485
+
+6. Bounding duality gap for separable problems with linear constraints
+Citations:32
+Authors: M Udell, S Boyd
+Publication: Computational Optimization and Applications 64 (2), 355-378
+
+7. The sound of apalm clapping: Faster nonsmooth nonconvex optimization with stochastic asynchronous palm
+Citations:21
+Authors: D Davis, B Edmunds, M Udell
+Publication: Advances in Neural Information Processing Systems, 226-234
+
+8. Why Are Big Data Matrices Approximately Low Rank?
+Citations:20
+Authors: M Udell, A Townsend
+Publication: SIAM Journal on Mathematics of Data Science 1 (1), 144-160
+
+9. Randomized single-view algorithms for low-rank matrix approximation
+Citations:17
+Authors: JA Tropp, A Yurtsever, M Udell, V Cevher
+Publication: California Institute of Technology
+
+10. Dynamic assortment personalization in high dimensions
+Citations:17
+Authors: N Kallus, M Udell
+Publication: arXiv preprint arXiv:1610.05604
+
+11. Analyzing patterns of drug use in clinical notes for patient safety
+Citations:17
+Authors: P LePendu, Y Liu, S Iyer, MR Udell, NH Shah
+Publication: AMIA Summits on Translational Science Proceedings 2012, 63
+
+12. Disciplined multi-convex programming
+Citations:16
+Authors: X Shen, S Diamond, M Udell, Y Gu, S Boyd
+Publication: 2017 29th Chinese Control And Decision Conference (CCDC), 895-900
+
+13. Fixed-rank approximation of a positive-semidefinite matrix from streaming data
+Citations:12
+Authors: JA Tropp, A Yurtsever, M Udell, V Cevher
+Publication: Advances in Neural Information Processing Systems, 1225-1234
+
+14. Incorporation of flexible objectives and time-linked simulation with flux balance analysis
+Citations:12
+Authors: EW Birch, M Udell, MW Covert
+Publication: Journal of theoretical biology 345, 12-21
+
+15. Oboe: Collaborative filtering for automl initialization
+Citations:10
+Authors: C Yang, Y Akimoto, D Kim, M Udell
+Publication: arXiv preprint arXiv:1808.03233
+
+16. Causal inference with noisy and missing covariates via matrix factorization
+Citations:9
+Authors: N Kallus, X Mao, M Udell
+Publication: Advances in neural information processing systems, 6921-6932
+
+17. Discovering patient phenotypes using generalized low rank models
+Citations:9
+Authors: A Schuler, V Liu, J Wan, A Callahan, M Udell, DE Stark, NH Shah
+Publication: Biocomputing 2016: Proceedings of the Pacific Symposium, 144-155
+
+18. Revealed preference at scale: Learning personalized preferences from assortment choices
+Citations:8
+Authors: N Kallus, M Udell
+Publication: Proceedings of the 2016 ACM Conference on Economics and Computation, 821-837
+
+19. Fairness under unawareness: Assessing disparity when protected class is unobserved
+Citations:5
+Authors: J Chen, N Kallus, X Mao, G Svacha, M Udell
+Publication: Proceedings of the Conference on Fairness, Accountability, and Transparency …
+
+20. An optimal-storage approach to semidefinite programming using approximate complementarity
+Citations:4
+Authors: L Ding, A Yurtsever, V Cevher, JA Tropp, M Udell
+Publication: arXiv preprint arXiv:1902.03373
+
+21. Factorization for analog-to-digital matrix multiplication
+Citations:4
+Authors: EH Lee, M Udell, SS Wong
+Publication: 2015 IEEE International Conference on Acoustics, Speech and Signal …
+
+22. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+23. Tensor random projection for low memory dimension reduction
+Citations:3
+Authors: Y Sun, Y Guo, JA Tropp, M Udell
+Publication: NeurIPS Workshop on Relational Representation Learning
+
+24. Learning preferences from assortment choices in a heterogeneous population
+Citations:3
+Authors: N Kallus, M Udell
+Publication: CoRR
+
+25. " Introducttion to Spectral Graph Theory
+Citations:3
+Authors: M Udell
+Publication: March
+
+26. Low-Rank Tucker Approximation of a Tensor From Streaming Data
+Citations:2
+Authors: Y Sun, Y Guo, C Luo, J Tropp, M Udell
+Publication: arXiv preprint arXiv:1904.10951
+
+27. Streaming Low-Rank Matrix Approximation with an Application to Scientific Simulation
+Citations:2
+Authors: JA Tropp, A Yurtsever, M Udell, V Cevher
+Publication: arXiv preprint arXiv:1902.08651
+
+28. Graph-regularized generalized low-rank models
+Citations:2
+Authors: M Paradkar, M Udell
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+29. Revenue maximization for broadband service providers using revenue capacity
+Citations:2
+Authors: H Mehmood, M Udell, J Cioffi
+Publication: 2015 IEEE Global Communications Conference (GLOBECOM), 1-7
+
+30. Optimal Design of Efficient Rooftop Photovoltaic Arrays
+Citations:
+Authors: M Udell, O Toole
+Publication: Interfaces 49 (4), 281-294
+
+31. OBOE: Collaborative Filtering for AutoML Model Selection
+Citations:
+Authors: C Yang, Y Akimoto, DW Kim, M Udell
+Publication: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge …
+
+32. Big Data is Low Rank
+Citations:
+Authors: M Udell
+Publication: 
+
+33. “Why Should You Trust My Explanation?” Understanding Uncertainty in LIME Explanations
+Citations:
+Authors: Y Zhang, K Song, Y Sun, S Tan, M Udell
+Publication: arXiv preprint arXiv:1904.12991
+
+34. Low Rank Tucker Approximation of a Tensor from Streaming Data
+Citations:
+Authors: M Udell, Y Sun, Y Guo, C Luo, J Tropp
+Publication: 
+
+35. Optimal-Storage Semidefinite Programming using Approximate Complementarity
+Citations:
+Authors: M Udell, L Ding, V Cevher, J Tropp
+Publication: 
+
+36. Online high rank matrix completion
+Citations:
+Authors: J Fan, M Udell
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+37. Limited memory kelley's method converges for composite convex and submodular objectives
+Citations:
+Authors: S Zhou, S Gupta, M Udell
+Publication: Advances in Neural Information Processing Systems, 4414-4424
+
+38. Frank-Wolfe Style Algorithms for Large Scale Optimization
+Citations:
+Authors: L Ding, M Udell
+Publication: Large-Scale and Distributed Optimization, 215-245
+
+39. Technical Report No. 2017-03 May 2017
+Citations:
+Authors: PSMFS DATA, JA TROPP, ALP YURTSEVER, M UDELL, V CEVHER
+Publication: 
+
+40. Sigmoidal Programming
+Citations:
+Authors: M Udell, S Boyd, I Colloquium
+Publication: 
+
+41. Partitioning Problems for Distributed Optimization
+Citations:
+Authors: M Udell
+Publication: 
+
+42. Sketchy Decisions: Convex Low-Rank Matrix Optimization with Optimal Storage
+Citations:
+Authors: M Udell, A Yurtsever, V Cevher, J Tropp
+Publication: 
+
+43. Supplementary Material: The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM
+Citations:
+Authors: D Davis, M Udell, B Edmunds
+Publication: 
+
+44. PCA on a Data Frame
+Citations:
+Authors: M Udell, S Boyd
+Publication: 
+
+45. Linear Bandits, Matrix Completion, and Recommendation Systems
+Citations:
+Authors: M Udell, R Takapoui
+Publication: 
+
+46. LOCAL PARAMETRIZATIONS VIA LAPLACIAN EIGENFUNCTIONS
+Citations:
+Authors: MR Udell
+Publication: 
+

@@ -1,0 +1,245 @@
+
+36. The Ninja architecture for robust Internet-scale systems and services
+Citations:388
+Authors: SD Gribble, M Welsh, R Von Behren, EA Brewer, D Culler, N Borisov, ...
+Publication: Computer Networks 35 (4), 473-497
+
+56. ICEBERG: An Internet core network architecture for integrated communications
+Citations:237
+Authors: HJ Wang, B Raman, C Chuah, R Biswas, R Gummadi, B Hohlt, X Hong, ...
+Publication: IEEE Personal Communications 7 (4), 10-19
+
+68. Design decisions in SPUR
+Citations:206
+Authors: M Hill, S Eggers, J Larus, G Taylor, G Adams, BK Bose, G Gibson, ...
+Publication: Computer 19 (11), 8-22
+
+82. Input/output behavior of supercomputing applications
+Citations:187
+Authors: EL Miller
+Publication: 
+
+97. The SAHARA model for service composition across multiple providers
+Citations:146
+Authors: B Raman, S Agarwal, Y Chen, M Caesar, W Cui, P Johansson, K Lai, ...
+Publication: International Conference on Pervasive Computing, 1-14
+
+105. A new interface specification methodology and its application to transducer synthesis
+Citations:136
+Authors: G Borriello
+Publication: CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV
+
+109. Synthesis and optimization of interface transducer logic
+Citations:129
+Authors: G Borriello
+Publication: IEEE/ACM Int. Conf. CAD, 247-277
+
+110. Challenges to reliable data transport over heterogeneous wireless networks.
+Citations:126
+Authors: H Balakrishnan
+Publication: 
+
+128. The Ninja architecture for robust Internet-scale systems and services
+Citations:102
+Authors: SD Gribble, M Welsh, R Von Behren, E Brewer, D Culler, N Borisov, ...
+Publication: Computer Networks 35
+
+136. A low-power, lightweight unit to provide ubiquitous information access application and network support for InfoPad
+Citations:96
+Authors: S Narayanaswamy, S Seshan, E Amir, E Brewer, RW Brodersen, ...
+Publication: IEEE personal Communications 3 (2), 4-17
+
+139. Performance measurements of the first raid prototype
+Citations:92
+Authors: AL Chervenak
+Publication: 
+
+181. Griffith
+Citations:55
+Authors: M Armbrust, A Fox
+Publication: R., Joseph, AD, Katz, RH, Konwinski, A., Lee, G., Patterson, DA, Rabkin, A …
+
+182. SPUR: a VLSI multiprocessor workstation
+Citations:55
+Authors: MD Hill, SJ Eggers, JR Larus, GS Taylor, GD Adams, BK Bose, GA Gibson, ...
+Publication: University of California
+
+196. Design and evaluation of an energy agile computing cluster
+Citations:46
+Authors: A Krioukov, S Alspaugh, P Mohan, S Dawson-Haggerty, DE Culler, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2012-13
+
+198. Performance and design evaluation of the RAID-II storage server
+Citations:45
+Authors: PM Chen, EK Lee, AL Drapeau, K Lutz, EL Miller, S Seshan, K Shirriff, ...
+Publication: Distributed and Parallel Databases 2 (3), 243-260
+
+203. The case for design using the World Wide Web
+Citations:43
+Authors: RHKMJ Silva
+Publication: 32nd Design Automation Conference, 579-585
+
+204. A platform for evaluating autonomous intersection management policies
+Citations:42
+Authors: CL Fok, M Hanna, S Gee, TC Au, P Stone, C Julien, S Vishwanath
+Publication: 2012 IEEE/ACM Third International Conference on Cyber-Physical Systems, 87-96
+
+226. TCP performance over satellite channels
+Citations:28
+Authors: TR Henderson
+Publication: Internetworking and Computing Over Satellite Networks, 131-157
+
+236. FireSim: FPGA-accelerated cycle-exact scale-out system simulation in the public cloud
+Citations:25
+Authors: S Karandikar, H Mao, D Kim, D Biancolin, A Amid, D Lee, N Pemberton, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+246. Mobile network tracing
+Citations:23
+Authors: BD Noble, M Satyanarayanan
+Publication: University of California, Berkeley
+
+254. A dynamic clustering technique for physical database design
+Citations:20
+Authors: JM Chang, KS Fu
+Publication: Proceedings of the 1980 ACM SIGMOD international conference on Management of …
+
+270. Mesos: a platform for fine-grained resource sharing in the data center
+Citations:16
+Authors: H Benjamin, K Andy, Z Matei, G Ali, DJ Anthony
+Publication: NSDI 11 (2011)
+
+273. Personal mobility in the ICEBERG integrated communication network
+Citations:16
+Authors: BRRHK Anthony, D Joseph
+Publication: Computer Science
+
+277. Electronics, power electronics, optoelectronics, microwaves, electromagnetics, and radar
+Citations:15
+Authors: RC Dorf
+Publication: CRC press
+
+281. Policy-enabled handoffs across heterogeneous wireless networks
+Citations:15
+Authors: HJ Wang
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+286. Synthesizing transducers from interface specifications
+Citations:14
+Authors: G Borriello
+Publication: VLSI'87, 403-418
+
+289. Above the clouds: A berkeley view of cloud computing. EECS Department
+Citations:13
+Authors: A Michael, F Armando, G Rean, D Anthony, K Randy, K Andy, L Gunho, ...
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2009-28
+
+295. Design of wireless portable systems
+Citations:13
+Authors: E Brewer, T Burd, F Burghardt, A Burstein, R Doering, K Lutz, ...
+Publication: Digest of Papers. COMPCON'95. Technologies for the Information Superhighway …
+
+320. La passe bis
+Citations:9
+Authors: JA Miller
+Publication: La cause freudienne, 207-213
+
+330. Embracing heterogeneity in scheduling MapReduce
+Citations:8
+Authors: G Lee
+Publication: CS267 Project Report
+
+332. A scalable failure recovery model for tree-based overlay networks
+Citations:8
+Authors: D Arnold, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+343. Method of data placement and control in block-divided distributed parity disk array
+Citations:7
+Authors: KD Kim, SW Sok, HY Kim, MJ Kim
+Publication: US Patent 7,653,829
+
+368. Gravity effect in high frequency coaxial pulse tube cryocoolers
+Citations:5
+Authors: X Hou, L Yang, J Cai, J Liang
+Publication: International Cryocooler Conference
+
+380. Learning Spark: Lightning-Fast Big Data Analysis
+Citations:4
+Authors: K Holden, K Andy, W Patrick, Z Matei
+Publication: O’Reilly Media, Inc., California
+
+392. Database engineering, 1987; vol. 6
+Citations:4
+Authors: W Kim
+Publication: IEEE Computer Society Press
+
+394. J.(1993)
+Citations:4
+Authors: A Kahn, A Frankel
+Publication: Reaching out to recovering Jews: A professional partnership with the Jewish …
+
+419. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+420. About page
+Citations:2
+Authors: APA Network
+Publication: Free Speech Network
+
+422. Flexible Resource Sharing for the Cloud
+Citations:2
+Authors: B Hindman, A KONWINSKI, M ZAHARIA, ALI GHODSI, AD JOSEPH, ...
+Publication: Aug
+
+425. Michael Armbrust, Armando Fox. Above the clouds: A berkeley view of cloud computing
+Citations:2
+Authors: R Griffith
+Publication: Technical Report UCB/EECS-2009-28, University of California, Berkeley
+
+426. Implementation of GPS controlled highway construction equipment-phase III
+Citations:2
+Authors: A Vonderohe
+Publication: National Center for Freight and Infrastructure Research and Education
+
+428. Root cause analysis of BGP dynamics
+Citations:2
+Authors: M Caesar
+Publication: 
+
+430. An active service infrastructure for real-time conferencing
+Citations:2
+Authors: Y Chawathe, A Schuett, E Amir, S Fink, T Hodes, A Huang, S Raman, ...
+Publication: Proceedings of the 6th ACM International Multimedia Conference (ACM …
+
+455. ParaSwift: file I/O trace modeling for the future
+Citations:1
+Authors: R Talwadker, K Voruganti
+Publication: 28th Large Installation System Administration Conference (LISA14), 128-141
+
+458. Computer Science Curricula 2013 (CS2013)
+Citations:1
+Authors: M Sahami, S Roach, E Cuadros-Vargas, A Danyluk, R Dodge, K Fisher, ...
+Publication: ACM Press and IEEE Computer Society Press
+
+459. Heterogeneity-Aware Resource Allocation and Scheduling
+Citations:1
+Authors: G Lee, B Chun, YH Katz
+Publication: University of California, Berkeley
+
+472. Application and Network Support for InfoPad
+Citations:1
+Authors: RWB Brewer, F Burghardt, A Burstein, YC Chang, A Fox, JM Gilbert, ...
+Publication: IEEE Personal Communications
+
+474. Managing Intellectual Assets: The Identification, Capture, Maintenance, and Use of the Records of Federally Sponsored Scientific Research
+Citations:1
+Authors: KJ Barata
+Publication: Archival Issues, 129-143
+
+484. Managing Case Files in Congressional Collections: The Hazards of Prophecy
+Citations:1
+Authors: FH Mackaman
+Publication: The Midwestern Archivist 4 (2), 95-104

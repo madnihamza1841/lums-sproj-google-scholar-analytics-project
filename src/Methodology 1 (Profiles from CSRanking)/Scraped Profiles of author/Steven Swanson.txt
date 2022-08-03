@@ -1,0 +1,858 @@
+https://scholar.google.com/citations?hl=en&user=Ly1WbocAAAAJ
+Total Citations = 7650
+
+1. NV-Heaps: making persistent objects fast and safe with next-generation, non-volatile memories
+Citations:583
+Authors: J Coburn, AM Caulfield, A Akel, LM Grupp, RK Gupta, R Jhala, ...
+Publication: ACM Sigplan Notices 47 (4), 105-118
+
+2. Conservation cores: reducing the energy of mature computations
+Citations:515
+Authors: G Venkatesh, J Sampson, N Goulding, S Garcia, V Bryksin, ...
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 205-218
+
+3. Characterizing flash memory: anomalies, observations, and applications
+Citations:449
+Authors: LM Grupp, AM Caulfield, J Coburn, S Swanson, E Yaakobi, PH Siegel, ...
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+4. The bleak future of NAND flash memory
+Citations:332
+Authors: LM Grupp, JD Davis, S Swanson
+Publication: Proceedings of the 10th USENIX conference on File and Storage Technologies, 2-2
+
+5. System support for pervasive applications
+Citations:330
+Authors: R Grimm, J Davis, E Lemar, A Macbeth, S Swanson, T Anderson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 22 (4), 421-486
+
+6. WaveScalar
+Citations:311
+Authors: S Swanson, K Michelson, A Schwerin, M Oskin
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+7. Gordon: using flash memory to build fast, power-efficient clusters for data-intensive applications
+Citations:294
+Authors: AM Caulfield, LM Grupp, S Swanson
+Publication: ACM Sigplan Notices 44 (3), 217-228
+
+8. Moneta: A high-performance storage array architecture for next-generation, non-volatile memories
+Citations:286
+Authors: AM Caulfield, A De, J Coburn, TI Mollow, RK Gupta, S Swanson
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+9. {NOVA}: A Log-structured File System for Hybrid Volatile/Non-volatile Main Memories
+Citations:245
+Authors: J Xu, S Swanson
+Publication: 14th {USENIX} Conference on File and Storage Technologies ({FAST} 16), 323-338
+
+10. Reliably Erasing Data from Flash-Based Solid State Drives.
+Citations:208
+Authors: MYC Wei, LM Grupp, FE Spada, S Swanson
+Publication: FAST 11, 8-8
+
+11. Providing safe, user space access to fast, solid state disks
+Citations:179
+Authors: AM Caulfield, TI Mollov, LA Eisner, A De, J Coburn, S Swanson
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 387-400
+
+12. The greendroid mobile application processor: An architecture for silicon's dark future
+Citations:175
+Authors: N Goulding-Hotta, J Sampson, G Venkatesh, S Garcia, J Auricchio, ...
+Publication: IEEE Micro 31 (2), 86-95
+
+13. ProtectMyPrivacy: detecting and mitigating privacy leaks on iOS devices using crowdsourcing
+Citations:170
+Authors: Y Agarwal, M Hall
+Publication: Proceeding of the 11th annual international conference on Mobile systems …
+
+14. Near-data processing: Insights from a MICRO-46 workshop
+Citations:155
+Authors: R Balasubramonian, J Chang, T Manning, JH Moreno, R Murphy, R Nair, ...
+Publication: IEEE Micro 34 (4), 36-42
+
+15. Onyx: A Prototype Phase Change Memory Storage Array.
+Citations:147
+Authors: A Akel, AM Caulfield, TI Mollov, RK Gupta, S Swanson
+Publication: HotStorage 1, 1
+
+16. Understanding the impact of emerging non-volatile memories on high-performance, io-intensive computing
+Citations:142
+Authors: AM Caulfield, J Coburn, T Mollov, A De, A Akel, J He, A Jagatheesan, ...
+Publication: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+17. The wavescalar architecture
+Citations:137
+Authors: S Swanson, A Schwerin, M Mercaldi, A Petersen, A Putnam, K Michelson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (2), 4
+
+18. QsCores: Trading dark silicon for scalable energy efficiency with quasi-specific cores
+Citations:133
+Authors: G Venkatesh, J Sampson, N Goulding-Hotta, SK Venkata, MB Taylor, ...
+Publication: 2011 44th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+19. Programming for pervasive computing environments
+Citations:127
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Technical Report UW-CSE-01-06-01, University of Washington Department of …
+
+20. Underdesigned and opportunistic computing in presence of hardware variability
+Citations:125
+Authors: P Gupta, Y Agarwal, L Dolecek, N Dutt, RK Gupta, R Kumar, S Mitra, ...
+Publication: IEEE Transactions on Computer-Aided Design of integrated circuits and …
+
+21. Mojim: A reliable and highly-available non-volatile memory system
+Citations:111
+Authors: Y Zhang, J Yang, A Memaripour, S Swanson
+Publication: ACM SIGARCH Computer Architecture News 43 (1), 3-18
+
+22. Systems directions for pervasive computing
+Citations:104
+Authors: R Grimm, J Davis, B Hendrickson, E Lemar, A MacBeth, S Swanson, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 147-151
+
+23. Error characterization and coding schemes for flash memories
+Citations:103
+Authors: E Yaakobi, J Ma, L Grupp, PH Siegel, S Swanson, JK Wolf
+Publication: 2010 IEEE Globecom Workshops, 1856-1860
+
+24. Building a wavecache
+Citations:97
+Authors: SJ Eggers, MA Mercaldi, KA Michelson, MH Oskin, AK Petersen, ...
+Publication: US Patent 7,490,218
+
+25. Inter-core prefetching for multicore processors using migrating helper threads
+Citations:93
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 393-404
+
+26. From ARIES to MARS: Transaction support for next-generation, solid-state drives
+Citations:91
+Authors: J Coburn, T Bunker, M Schwarz, R Gupta, S Swanson
+Publication: Proceedings of the twenty-fourth ACM symposium on operating systems …
+
+27. Willow: A User-Programmable {SSD}
+Citations:85
+Authors: S Seshadri, M Gahagan, S Bhaskaran, T Bunker, A De, Y Jin, Y Liu, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+28. A study of application performance with non-volatile main memory
+Citations:81
+Authors: Y Zhang, S Swanson
+Publication: 2015 31st Symposium on Mass Storage Systems and Technologies (MSST), 1-10
+
+29. Characterization and error-correcting codes for TLC flash memories
+Citations:73
+Authors: E Yaakobi, L Grupp, PH Siegel, S Swanson, JK Wolf
+Publication: 2012 International Conference on Computing, Networking and Communications …
+
+30. Extracting device fingerprints from flash memory by exploiting physical variations
+Citations:67
+Authors: P Prabhu, A Akel, LM Grupp, SY Wing-Kei, GE Suh, E Kan, S Swanson
+Publication: International Conference on Trust and Trustworthy Computing, 188-201
+
+31. Understanding the impact of power loss on flash memory
+Citations:64
+Authors: HW Tseng, L Grupp, S Swanson
+Publication: Proceedings of the 48th Design Automation Conference, 35-40
+
+32. Rethinking flash in the data center
+Citations:61
+Authors: DG Andersen, S Swanson
+Publication: IEEE micro 30 (4), 52-54
+
+33. Refactor, reduce, recycle: Restructuring the i/o stack for the future of storage
+Citations:58
+Authors: S Swanson, AM Caulfield
+Publication: Computer 46 (8), 52-59
+
+34. Quicksan: a storage area network for fast, distributed, solid state disks
+Citations:48
+Authors: AM Caulfield, S Swanson
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 464-474
+
+35. Minerva: Accelerating data analysis in next-generation SSDs
+Citations:47
+Authors: A De, M Gokhale, R Gupta, S Swanson
+Publication: 2013 IEEE 21st Annual International Symposium on Field-Programmable Custom …
+
+36. Area-performance trade-offs in tiled dataflow architectures
+Citations:45
+Authors: S Swanson, A Putnam, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 314-326
+
+37. Efficient complex operators for irregular codes
+Citations:44
+Authors: J Sampson, G Venkatesh, N Goulding-Hotta, S Garcia, S Swanson, ...
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+38. Wavescalar architecture having a wave order memory
+Citations:44
+Authors: MH Oskin, SJ Swanson, SJ Eggers
+Publication: US Patent 7,657,882
+
+39. Greendroid: Exploring the next evolution in smartphone application processors
+Citations:42
+Authors: S Swanson, MB Taylor
+Publication: IEEE Communications Magazine 49 (4), 112-119
+
+40. Instruction scheduling for a tiled dataflow architecture
+Citations:42
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: ACM Sigplan Notices 41 (11), 141-150
+
+41. The harey tortoise: managing heterogeneous write performance in SSDs
+Citations:41
+Authors: LM Grupp, JD Davis, S Swanson
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+42. {DC} Express: Shortest Latency Protocol for Reading Phase Change Memory over {PCI} Express
+Citations:38
+Authors: D Vučinić, Q Wang, C Guyot, R Mateescu, F Blagojević, L Franca-Neto, ...
+Publication: Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …
+
+43. GreenDroid: A mobile application processor for a future of dark silicon
+Citations:37
+Authors: N Goulding, J Sampson, G Venkatesh, S Garcia, J Auricchio, J Babb, ...
+Publication: 2010 IEEE Hot Chips 22 Symposium (HCS), 1-39
+
+44. Modeling power consumption of nand flash memories using flashpower
+Citations:36
+Authors: V Mohan, T Bunker, L Grupp, S Gurumurthi, MR Stan, S Swanson
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+45. Greendroid: An architecture for the dark silicon age
+Citations:36
+Authors: N Goulding-Hotta, J Sampson, Q Zheng, V Bhatt, J Auricchio, S Swanson, ...
+Publication: 17th Asia and South Pacific Design Automation Conference, 100-105
+
+46. NOVA-Fortis: A fault-tolerant non-volatile main memory file system
+Citations:35
+Authors: J Xu, L Zhang, A Memaripour, A Gangadharaiah, A Borase, TB Da Silva, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 478-496
+
+47. On the energy overhead of mobile storage systems
+Citations:35
+Authors: J Li, A Badam, R Chandra, S Swanson, B Worthington, Q Zhang
+Publication: Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …
+
+48. Bluessd: An open platform for cross-layer experiments for nand flash-based ssds
+Citations:35
+Authors: S Lee, K Fleming, J Park, K Ha, A Caulfield, S Swanson, J Kim
+Publication: 
+
+49. Atomic in-place updates for non-volatile main memories with kamino-tx
+Citations:33
+Authors: A Memaripour, A Badam, A Phanishayee, Y Zhou, R Alagappan, ...
+Publication: Proceedings of the Twelfth European Conference on Computer Systems, 499-512
+
+50. The non-volatile memory technology database (nvmdb)
+Citations:33
+Authors: K Suzuki, S Swanson
+Publication: Department of Computer Science & Engineering
+
+51. System and method for implementing transactions using storage device support for atomic updates and flexible interface for managing data logging
+Citations:32
+Authors: S Swanson, J Coburn, T Bunker
+Publication: US Patent App. 14/368,490
+
+52. AutoTiering: automatic data placement manager in multi-tier all-flash datacenter
+Citations:28
+Authors: Z Yang, M Hoseinzadeh, A Andrews, C Mayers, DT Evans, RT Bolt, ...
+Publication: 2017 IEEE 36th International Performance Computing and Communications …
+
+53. Scheduling classes on a college campus
+Citations:27
+Authors: P Fizzano, S Swanson
+Publication: Computational optimization and applications 16 (3), 279-294
+
+54. A survey of trends in non-volatile memory technologies: 2000-2014
+Citations:26
+Authors: K Suzuki, S Swanson
+Publication: 2015 IEEE International Memory Workshop (IMW), 1-4
+
+55. An evaluation of speculative instruction execution on simultaneous multithreaded processors
+Citations:26
+Authors: S Swanson, LK McDowell, MM Swift, SJ Eggers, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 21 (3), 314-340
+
+56. An experimental study of bitmap compression vs. inverted list compression
+Citations:24
+Authors: J Wang, C Lin, Y Papakonstantinou, S Swanson
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+57. Software data spreading: leveraging distributed caches to improve single thread performance
+Citations:23
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: Acm Sigplan Notices 45 (6), 460-470
+
+58. Summarizer: trading communication with computing near storage
+Citations:22
+Authors: G Koo, KK Matam, HV Narra, J Li, HW Tseng, S Swanson, M Annavaram
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+59. KAML: A flexible, high-performance key-value SSD
+Citations:22
+Authors: Y Jin, HW Tseng, Y Papakonstantinou, S Swanson
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+60. Bankshot: Caching slow storage in fast non-volatile memory
+Citations:22
+Authors: MS Bhaskaran, J Xu, S Swanson
+Publication: Proceedings of the 1st Workshop on Interactions of NVM/FLASH with Operating …
+
+61. SSD in-storage computing for list intersection
+Citations:21
+Authors: J Wang, D Park, YS Kee, Y Papakonstantinou, S Swanson
+Publication: Proceedings of the 12th International Workshop on Data Management on New …
+
+62. Safe: Fast, verifiable sanitization for ssds
+Citations:21
+Authors: S Swanson, M Wei
+Publication: University of California, San Diego, Tech. Rep
+
+63. Basic performance measurements of the intel optane DC persistent memory module
+Citations:20
+Authors: J Izraelevitz, J Yang, L Zhang, J Kim, X Liu, A Memaripour, YJ Soh, ...
+Publication: arXiv preprint arXiv:1903.05714
+
+64. Quill: Exploiting fast non-volatile memory by transparently bypassing the file system
+Citations:20
+Authors: LA Eisner, T Mollov, SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+65. Morpheus: creating application objects efficiently for heterogeneous computing
+Citations:19
+Authors: HW Tseng, Q Zhao, Y Zhou, M Gahagan, S Swanson
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+66. From ARIES to MARS: Reengineering transaction management for next-generation, solid-state drives
+Citations:19
+Authors: J Coburn, T Bunker, RK Gupta, S Swanson
+Publication: 
+
+67. Modeling instruction placement on a spatial architecture
+Citations:19
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: Proceedings of the eighteenth annual ACM symposium on Parallelism in …
+
+68. Error correction coding for flash memories
+Citations:18
+Authors: E Yaakobi, J Ma, A Caulfield, L Grupp, S Swanson, PH Siegel, JK Wolf
+Publication: Flash Memory Summit 31, 4-10
+
+69. Welcome to the Entropics: Boot-time entropy in embedded devices
+Citations:17
+Authors: K Mowery, M Wei, D Kohlbrenner, H Shacham, S Swanson
+Publication: 2013 IEEE Symposium on Security and Privacy, 589-603
+
+70. Tackling intracell variability in tlc flash through tensor product codes
+Citations:17
+Authors: R Gabrys, E Yaakobi, L Grupp, S Swanson, L Dolecek
+Publication: 2012 IEEE International Symposium on Information Theory Proceedings, 1000-1004
+
+71. vCorfu: A cloud-scale object store on a shared log
+Citations:16
+Authors: M Wei, A Tai, CJ Rossbach, I Abraham, M Munshed, M Dhawan, J Stabile, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+72. NSF expedition on variability-aware software: Recent results and contributions
+Citations:16
+Authors: L Wanner, L Lai, A Rahimi, M Gottscho, P Mercati, CH Huang, F Sala, ...
+Publication: it-Information Technology 57 (3), 181-198
+
+73. Comparison of SIMCA pattern recognition and library search identification of hazardous compounds from mass spectra
+Citations:16
+Authors: M Sarker, WG Glen, LB Yin, WJ Dunn III, DR Scott, S Swanson
+Publication: Analytica chimica acta 257 (2), 229-238
+
+74. Hippogriffdb: Balancing i/o and gpu bandwidth in big data analytics
+Citations:15
+Authors: J Li, HW Tseng, C Lin, Y Papakonstantinou, S Swanson
+Publication: Proceedings of the VLDB Endowment 9 (14), 1647-1658
+
+75. Ming II: A flexible platform for NAND flash-based research
+Citations:15
+Authors: T Bunker, M Wei, SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+76. Gordon: An improved architecture for data-intensive applications
+Citations:15
+Authors: AM Caulfield, LM Grupp, S Swanson
+Publication: IEEE micro 30 (1), 121-130
+
+77. Dataflow: The road less complex
+Citations:15
+Authors: S Swanson, K Michelson, A Schwerin, M Oskin
+Publication: The Workshop on Complexity-effective Design (WCED), held in conjunction with …
+
+78. H-NVMe: a hybrid framework of NVMe-based storage system in cloud computing environment
+Citations:14
+Authors: Z Yang, M Hoseinzadeh, P Wong, J Artoux, C Mayers, DT Evans, RT Bolt, ...
+Publication: 2017 IEEE 36th International Performance Computing and Communications …
+
+79. Method for reducing latency of accessing data stored in a file system on a computer storage device by caching file system permission information in the computer storage device
+Citations:14
+Authors: S Swanson, A Caulfield, T Mollov
+Publication: US Patent 8,868,867
+
+80. Latency-optimized networks for clustering FPGAs
+Citations:14
+Authors: T Bunker, S Swanson
+Publication: 2013 IEEE 21st Annual International Symposium on Field-Programmable Custom …
+
+81. MILC: inverted list compression in memory
+Citations:13
+Authors: J Wang, C Lin, R He, M Chae, Y Papakonstantinou, S Swanson
+Publication: Proceedings of the VLDB Endowment 10 (8), 853-864
+
+82. Underpowering NAND flash: Profits and perils
+Citations:13
+Authors: HW Tseng, LM Grupp, S Swanson
+Publication: Proceedings of the 50th Annual Design Automation Conference, 162
+
+83. SSD in-storage computing for search engines
+Citations:12
+Authors: J Wang, D Park, Y Papakonstantinou, S Swanson
+Publication: IEEE Transactions on Computers
+
+84. System-level programming abstractions for ubiquitous computing
+Citations:11
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Proc. of the 8th HotOS
+
+85. Hyperloop: group-based NIC-offloading to accelerate replicated transactions in multi-tenant storage systems
+Citations:10
+Authors: D Kim, A Memaripour, A Badam, Y Zhu, HH Liu, J Padhye, S Raindel, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+86. Gullfoss: Accelerating and simplifying data movement among heterogeneous computing and storage resources
+Citations:10
+Authors: HW Tseng, Y Liu, M Gahagan, J Li, Y Jing, SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+87. Building a wavecache
+Citations:10
+Authors: S Eggers, M Mercaldi, K Michelson, M Oskin, A Petersen, A Putnam, ...
+Publication: US Patent App. 11/830,446
+
+88. I/O speculation for the microsecond era
+Citations:9
+Authors: M Wei, M Bjørling, P Bonnet, S Swanson
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 475-481
+
+89. Load-balanced pipeline parallelism
+Citations:9
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: SC'13: Proceedings of the International Conference on High Performance …
+
+90. Reducing control overhead in dataflow architectures
+Citations:9
+Authors: A Petersen, A Putnam, M Mercaldi, A Schwerin, S Eggers, S Swanson, ...
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+91. Full-Scale Higher Harmonic Control Research to Reduce Hub Loads and Noise
+Citations:9
+Authors: S Kottapalli, S Swanson, P LeMasurier, J Wang
+Publication: ANNUAL FORUM PROCEEDINGS-AMERICAN HELICOPTER SOCIETY 49, 1055-1055
+
+92. Exploring energy scalability in coprocessor-dominated architectures for dark silicon
+Citations:8
+Authors: Q Zheng, N Goulding-Hotta, S Ricketts, S Swanson, MB Taylor, ...
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 13 (4s), 130
+
+93. Underclocked software prefetching: More cores, less energy
+Citations:7
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: IEEE Micro 32 (4), 32-41
+
+94. An evaluation of selective depipelining for FPGA-based energy-reducing irregular code coprocessors
+Citations:7
+Authors: J Sampson, M Arora, N Goulding-Hotta, G Venkatesh, J Babb, V Bhatt, ...
+Publication: 2011 21st International Conference on Field Programmable Logic and …
+
+95. Error-Correcting Codes for TLC Flash
+Citations:7
+Authors: E Yaakobi, L Grupp, S Swanson, PH Siegel, JK Wolf
+Publication: University of California San Diego
+
+96. Beyond the datasheet: Using test beds to probe non-volatile memories' dark secrets
+Citations:7
+Authors: LM Grupp, AM Caulfield, J Coburn, JD Davis, S Swanson
+Publication: 2010 IEEE Globecom Workshops, 1930-1935
+
+97. Threads on the cheap: Multithreaded execution in a WaveCache processor
+Citations:7
+Authors: S Swanson, A Schwerin, A Petersen, M Oskin, S Eggers
+Publication: Workshop on Complexity-effective Design (WCED)
+
+98. Configuration by combustion: Online simulated annealing for dynamic hardware configuration
+Citations:7
+Authors: S Swanson, K Michelson, M Oskin
+Publication: ASPLOS X Wild and Crazy Idea Session
+
+99. The bleak future of NAND flash memory
+Citations:6
+Authors: MG Laura, DD John, S Swanson
+Publication: Proceedings of the 10th USENIX Conference on File and Storage Technologies …
+
+100. The microarchitecture of a pipelined wavescalar processor: An RTL-based study
+Citations:6
+Authors: A Putnam, S Swanson, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: Tech. Rep. TR-2005–11–02
+
+101. Towards a universal building block of molecular and silicon computation
+Citations:6
+Authors: S Swanson, M Oskin
+Publication: 1st Workshop on Non-Silicon Computing (NCS-1)
+
+102. The Performance of Ad Hoc Networking Protocols in Highly Mobile Environments
+Citations:6
+Authors: F McSherry, G Miklau, D Patterson, S Swanson, D Wetherall
+Publication: 
+
+103. Orion: a distributed file system for non-volatile main memory and RDMA-capable networks
+Citations:5
+Authors: J Yang, J Izraelevitz, S Swanson
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 221-234
+
+104. Density tradeoffs of non-volatile memory as a replacement for SRAM based last level cache
+Citations:5
+Authors: K Korgaonkar, I Bhati, H Liu, J Gaur, S Manipatruni, S Subramoney, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+105. Hippogriff: Efficiently moving data in heterogeneous computing systems
+Citations:5
+Authors: Y Liu, HW Tseng, M Gahagan, J Li, Y Jin, S Swanson
+Publication: 2016 IEEE 34th International Conference on Computer Design (ICCD), 376-379
+
+106. Reducing the energy cost of irregular code bases in soft processor systems
+Citations:5
+Authors: M Arora, J Sampson, N Goulding-Hotta, J Babb, G Venkatesh, MB Taylor, ...
+Publication: 2011 IEEE 19th Annual International Symposium on Field-Programmable Custom …
+
+107. Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks
+Citations:4
+Authors: J Xu, J Kim, A Memaripour, S Swanson
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+108. Efficient Coding Schemes for Flash Memories
+Citations:4
+Authors: E Yaakobi, L Grupp, S Swanson, PH Siegel, JK Wolf
+Publication: Flash Memory Summit, 142
+
+109. SAFE: Fast, Verifiable Sanitization for SSDs Or: Why encryption alone is not a solution for sanitizing SSDs
+Citations:4
+Authors: S Swanson, M Wei
+Publication: 
+
+110. Scaling the Utilization Wall: The Case for Massively Heterogeneous Multiprocessors
+Citations:4
+Authors: I Ahn, N Goudling, J Sampson, G Venkatesh, M Taylor, SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+111. NVTM: A transactional interface for next-generation non-volatile memories
+Citations:4
+Authors: J Coburn, A Caulfield, L Grupp, A Akel, SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+112. Ziggurat: a tiered file system for non-volatile main memories and disks
+Citations:3
+Authors: S Zheng, M Hoseinzadeh, S Swanson
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 207-219
+
+113. Griffin: uniting CPU and GPU in information retrieval systems for intra-query parallelism
+Citations:3
+Authors: Y Liu, J Wang, S Swanson
+Publication: ACM SIGPLAN Notices 53 (1), 327-337
+
+114. Silver: a scalable, distributed, multi-versioning, always growing (Ag) file system
+Citations:3
+Authors: M Wei, C Rossbach, I Abraham, U Wieder, S Swanson, D Malkhi, A Tai
+Publication: 8th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 16)
+
+115. AppNVM: Software-Defined, Application_Driven SSD
+Citations:3
+Authors: M Bjørling, J Madsen, J Gonzalez, S Swanson, P Bonnet
+Publication: 
+
+116. Spmario: Scale up mapreduce with i/o-oriented scheduling for the GPU
+Citations:2
+Authors: Y Liu, HW Tseng, S Swanson
+Publication: 2016 IEEE 34th International Conference on Computer Design (ICCD), 384-387
+
+117. Wavescalar architecture having a wave order memory
+Citations:2
+Authors: MH Oskin, SJ Swanson, SJ Eggers
+Publication: US Patent 8,612,955
+
+118. Characterizing flash memory: Anomalies, observations, and applications
+Citations:2
+Authors: AM Caulfield, J Coburn, S Swanson, E Yaakobi, PH Siegel, JK Wolf
+Publication: 
+
+119. Vorpal: Vector Clock Ordering For Large Persistent Memory Systems
+Citations:1
+Authors: K Korgaonkar, J Izraelevitz, J Zhao, S Swanson
+Publication: Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …
+
+120. Programmable solid-state storage in future cloud datacenters
+Citations:1
+Authors: J Do, S Sengupta, S Swanson
+Publication: Communications of the ACM 62 (6), 54-62
+
+121. Pangolin: A Fault-Tolerant Persistent Memory Programming Library
+Citations:1
+Authors: L Zhang, S Swanson
+Publication: arXiv preprint arXiv:1904.10083
+
+122. Reducing Instructor Workload in an Introductory Robotics Course via Computational Design
+Citations:1
+Authors: DJ Merrill, S Swanson
+Publication: Proceedings of the 50th ACM Technical Symposium on Computer Science …
+
+123. Improving SSD lifetime with byte-addressable metadata
+Citations:1
+Authors: Y Jin, HW Tseng, Y Papakonstantinou, S Swanson
+Publication: Proceedings of the International Symposium on Memory Systems, 374-384
+
+124. Measuring the complexity-effectiveness of futuregeneration silicon architecture using fpgas: A status report
+Citations:1
+Authors: A Schwerin, S Swanson, M Oskin
+Publication: Proceedings of the 3rd Workshop on Complexity-Effective Design
+
+125. AAV
+Citations:1
+Authors: D Grimm
+Publication: Encyclopedic Reference of Cancer, 1-6
+
+126. General Techniques for Multithreading Algorithms.
+Citations:1
+Authors: P Fizzano, S Swanson
+Publication: PDPTA, 634-640
+
+127. An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
+Citations:
+Authors: J Yang, J Kim, M Hoseinzadeh, J Izraelevitz, S Swanson
+Publication: arXiv preprint arXiv:1908.03583
+
+128. Echidna: mixed-domain computational implementation via decision trees
+Citations:
+Authors: DJ Merrill, J Garza, S Swanson
+Publication: Proceedings of the ACM Symposium on Computational Fabrication, 5
+
+129. Amalgam: Hardware Hacking for Web Developers with Style (Sheets)
+Citations:
+Authors: J Garza, DJ Merrill, S Swanson
+Publication: International Conference on Web Engineering, 315-330
+
+130. Redesigning File Systems for Nonvolatile Main Memory
+Citations:
+Authors: S Swanson
+Publication: IEEE Micro 39 (1), 62-64
+
+131. Trial by Flyer: Building Quadcopters From Scratch in a Ten-Week Capstone Course
+Citations:
+Authors: S Swanson
+Publication: Proceedings of the 50th ACM Technical Symposium on Computer Science …
+
+132. Breeze: User-Level Access to Non-Volatile Main Memories for Legacy Software
+Citations:
+Authors: A Memaripour, S Swanson
+Publication: 2018 IEEE 36th International Conference on Computer Design (ICCD), 413-422
+
+133. Morpheus: Exploring the Potential of Near-Data Processing for Creating Application Objects in Heterogeneous Computing
+Citations:
+Authors: HW Tseng, Q Zhao, Y Zhou, M Gahagan, S Swanson
+Publication: ACM SIGOPS Operating Systems Review 51 (1), 71-83
+
+134. Hardening the NOVA File System
+Citations:
+Authors: J Xu, L Zhang, A Memaripour, A Gangadharaiah, A Borase, TB Da Silva, ...
+Publication: Department of Computer Science and Engineering, University of California …
+
+135. Adonis: Large-Scale Data Stores over a Shared Log
+Citations:
+Authors: M Wei, A Tai, CJ Rossbach, S Fritchie, I Abraham, U Wieder, M Munshed, ...
+Publication: 
+
+136. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+137. 4 Guest Editors’ Introduction: Big Data
+Citations:
+Authors: B Falsafi, B Grot, R Polig, K Atasu, L Chiticariu, C Hagleitner, HP Hofstee, ...
+Publication: 
+
+138. Dark Silicon [Guest editors' introduction]
+Citations:
+Authors: MB Taylor, S Swanson
+Publication: IEEE Micro 33 (5), 6-7
+
+139. Software Considered Harmful: IO Systems for the Future of Storage
+Citations:
+Authors: S Swanson, A Caulfield
+Publication: Computer, 1
+
+140. A latency-optimized hybrid network for clustering FPGAs
+Citations:
+Authors: T Bunker, S Swanson
+Publication: Proceedings of the ACM/SIGDA international symposium on Field programmable …
+
+141. 60 Awards
+Citations:
+Authors: MB Taylor, S Swanson, A Raghavan, L Emurian, L Shao, ...
+Publication: 
+
+142. Coalition threading: combining traditional andnon-traditional parallelism to maximize scalability
+Citations:
+Authors: M Kamruzzaman, S Swanson, DM Tullsen
+Publication: Proceedings of the 21st international conference on Parallel architectures …
+
+143. 68 Awards
+Citations:
+Authors: DI August, S Campanoni, TM Jones, G Holloway, GY Wei, D Brooks, F Li, ...
+Publication: 
+
+144. SAFE: Fast, Verifiable Sanitization for SSDs Or, why Encription Alone is Not Enough for Sanitizing SSDs
+Citations:
+Authors: SJ Swanson, M Wei
+Publication: Department of Computer Science and Engineering, University of California …
+
+145. Destroying Flash Memory-based Storage Devices: Draft V0. 9
+Citations:
+Authors: SJ Swanson
+Publication: Department of Computer Science and Engineering, University of California …
+
+146. Quasi-ASICs: Trading Area for Energy by Exploiting Similarity in Synthesized Cores for Irregular Code
+Citations:
+Authors: G Venkatesh, J Sampson, N Goulding, SJ Swanson, M Taylor
+Publication: Department of Computer Science and Engineering, University of California …
+
+147. Coding for flash memories
+Citations:
+Authors: E Yaakobi
+Publication: UC San Diego
+
+148. 81 AnySP: Anytime Anywhere Anyway Signal Processing Mark Woh, Sangwon Seo, Scott Mahlke, Trevor Mudge
+Citations:
+Authors: C Chakrabarti, K Flautner, M Tiwari, X Li, HMG Wassel, B Mazloom, ...
+Publication: 
+
+149. Deptartment of Computer Science and Engineering University of Washington Technical Report UW-CSE-03-01-01 January 23rd, 2003
+Citations:
+Authors: S Swanson, K Michelson, M Oskin
+Publication: 
+
+150. Griffin: Uniting CPU and GPU in Search Engines for Intra-Query Parallelism
+Citations:
+Authors: Y Liu, J Wang, S Swanson
+Publication: 
+
+151. Summarizer
+Citations:
+Authors: HW Tseng, S Swanson, M Annavaram
+Publication: 
+
+152. Dynamic Near Data Processing Framework for SSDs
+Citations:
+Authors: HW Tseng, S Swanson, M Annavaram
+Publication: 
+
+153. A Log-Structured File System for Hybrid Volatile/Non-Volatile Main Memories
+Citations:
+Authors: J XU, S SWANSON
+Publication: 
+
+154. Transient Fault Detection and Reducing Transient Error Rate
+Citations:
+Authors: J Lugo-Martinez, S Swanson
+Publication: 
+
+155. Md Kamruzzaman
+Citations:
+Authors: M Kamruzzaman, S Swanson, D Tullsen
+Publication: 
+
+156. Gordon
+Citations:
+Authors: AM Caulfield, LM Grupp, S Swanson
+Publication: 
+
+157. Characterizing Flash Memory
+Citations:
+Authors: E Yaakobi, PH Siegel, JK Wolf, S Swanson
+Publication: 
+
+158. Exploring Energy Scalability in Coprocessor-Dominated Architectures for Dark Silicon
+Citations:
+Authors: N Goulding-hotta, S Ricketts, S Swanson
+Publication: 
+
+159. Moneta-Direct: Providing Safe, User Space Access
+Citations:
+Authors: A Caulfield, T Mollov, L Eisner, A De, J Coburn, S Swanson
+Publication: 
+
+160. usenix conference policies
+Citations:
+Authors: S Bhaskaran, T Bunker, A De, M Gahagan, Y Jin, R Liu, S Seshadri, ...
+Publication: 
+
+161. Willow: A User-Programmable SSD
+Citations:
+Authors: SSM Gahagan, S Bhaskaran, T Bunker, A De, Y Jin, Y Liu, S Swanson
+Publication: 
+
+162. SHF: SMALL: Simplifying Electronics Design for Students and Experts
+Citations:
+Authors: S Swanson
+Publication: 
+
+163. SYS: Synchronize Your System with Simple Hardware
+Citations:
+Authors: M Wei, S Swanson
+Publication: 
+
+164. Analog, Mixed-Signal, and RF Circuits Simulation-Assisted Formal Verification of Nonlinear Mixed-Signal Circuits With Bayesian Inference Guidance................
+Citations:
+Authors: L Yin, Y Deng, P Li, MPH Lin, YT He, VWH Hsiao, RG Chang, SY Lee, ...
+Publication: 
+
+165. From ARIES to MARS: Reengineering Transaction Management for Next-Generation, Solid-State Drives
+Citations:
+Authors: CSE UCSD, J Coburn, T Bunker, RK Gupta, S Swanson
+Publication: 
+
+166. My Memory Ain’t What it Used to Be: Directions in Memory Interfaces
+Citations:
+Authors: S Swanson
+Publication: 
+
+167. The Performance of Ad Hoc Networking Protocols in Highly Mobile Environments
+Citations:
+Authors: FMSG Miklau, D Patterson, S Swanson, D Wetherall
+Publication: 
+
+168. CMRR Report Number 31, Winter 2009
+Citations:
+Authors: E Yaakobi, J Ma, A Caulfield, L Grupp, S Swanson, PH Siegel, JK Wolf
+Publication: 
+
+169. Christos Kozyrakis, Aman Kansal, Sriram Sankar, and Kushagra Vaid 20 Challenges and Opportunities for Extremely Energy-Efficient Processors
+Citations:
+Authors: T Mudge, U Hölzle, AADD Strategy, JE Moreira, JP Karidis, A Vahdat, ...
+Publication: 
+
+170. Hans Zima (University of Vienna and JPL)
+Citations:
+Authors: G Almasi, B Mendelson, D Callahan, A Cohen, J Cownie, J Dehnert, ...
+Publication: 
+
+171. ReMOS Technology and the Mighty Morphin Microprocessor
+Citations:
+Authors: N Goulding, G Tummala, E McQuinn, S Swanson
+Publication: 
+

@@ -1,0 +1,230 @@
+
+2. An overview of the BlueGene/L supercomputer
+Citations:603
+Authors: NR Adiga, G Almási, GS Almasi, Y Aridor, R Barik, D Beece, R Bellofatto, ...
+Publication: SC'02: Proceedings of the 2002 ACM/IEEE Conference on Supercomputing, 60-60
+
+3. SESC simulator
+Citations:541
+Authors: J Renau
+Publication: http://sesc. sourceforge. net
+
+13. Volumetric preload measurement by thermodilution: a comparison with transoesophageal echocardiography
+Citations:184
+Authors: CK Hofer, L Furrer, S Matter-Ensner, M Maloigne, R Klaghofer, M Genoni, ...
+Publication: British journal of anaesthesia 94 (6), 748-755
+
+15. General-purpose code acceleration with limited-precision analog computation
+Citations:152
+Authors: R St Amant, A Yazdanbakhsh, J Park, B Thwaites, H Esmaeilzadeh, ...
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 505-516
+
+27. Expressing and verifying probabilistic assertions
+Citations:81
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: ACM SIGPLAN Notices 49 (6), 112-122
+
+29. An overview of the BlueGene/L system software organization
+Citations:77
+Authors: G Almási, R Bellofatto, J Brunheroto, C Caşcaval, JG Castanos, ...
+Publication: Parallel processing letters 13 (04), 561-574
+
+31. Random access in large-scale DNA data storage
+Citations:72
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: Nature biotechnology 36 (3), 242
+
+32. Digital libraries and mobility
+Citations:67
+Authors: CC Marshall, G Golovchinsky, MN Price
+Publication: Communications of the ACM 44 (5), 55-56
+
+35. {TVM}: An automated end-to-end optimizing compiler for deep learning
+Citations:64
+Authors: T Chen, T Moreau, Z Jiang, L Zheng, E Yan, H Shen, M Cowan, L Wang, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+59. Cellular supercomputing with system-on-a-chip
+Citations:37
+Authors: G Almasi, GS Almasi, D Beece, R Bellofatto, G Bhanot, R Bickford, ...
+Publication: 2002 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+78. Back to the futures: Incremental parallelization of existing sequential runtime systems
+Citations:22
+Authors: J Swaine, K Tew, P Dinda, RB Findler, M Flatt
+Publication: ACM Sigplan Notices 45 (10), 583-597
+
+80. Augmenting low-latency HPC network with free-space optical links
+Citations:19
+Authors: I Fujiwara, M Koibuchi, T Ozaki, H Matsutani, H Casanova
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+86. Hardware and software for approximate computing
+Citations:16
+Authors: A Sampson
+Publication: 
+
+102. Scaling up DNA data storage and random access retrieval
+Citations:11
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: BioRxiv, 114553
+
+106. A Hardware-Software Blueprint for Flexible Deep Learning Specialization
+Citations:8
+Authors: T Moreau, T Chen, L Vega, J Roesch, E Yan, L Zheng, J Fromm, Z Jiang, ...
+Publication: arXiv preprint arXiv:1807.04188
+
+108. Clustering billions of reads for DNA data storage
+Citations:8
+Authors: C Rashtchian, K Makarychev, M Rácz, S Ang, D Jevdjic, S Yekhanin, ...
+Publication: Advances in Neural Information Processing Systems, 3360-3371
+
+120. High density DNA data storage library via dehydration with digital microfluidic retrieval
+Citations:6
+Authors: S Newman, AP Stephenson, M Willsey, BH Nguyen, CN Takahashi, ...
+Publication: Nature communications 10 (1), 1706
+
+129. Blue Gene/L, a system-on-a-chip
+Citations:6
+Authors: G Almási, GS Almasi, D Beece, R Bellofatto, G Bhanot, R Bickford, ...
+Publication: Proceedings. IEEE International Conference on Cluster Computing, 349-350
+
+132. Toward general-purpose code acceleration with analog computation
+Citations:5
+Authors: A Yazdanbakhsh, RS Amant, B Thwaites, J Park, H Esmaeilzadeh, ...
+Publication: Workshop on approximate computing across the system stack (WACAS) in …
+
+156. Puddle: A dynamic, error-correcting, full-stack microfluidics platform
+Citations:2
+Authors: M Willsey, AP Stephenson, C Takahashi, P Vaid, BH Nguyen, M Piszczek, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+157. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+185. Probabilistic assertions: Extended semantics and proof
+Citations:1
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: 
+
+186. DNA assembly for nanopore data storage readout
+Citations:
+Authors: R Lopez, YJ Chen, SD Ang, S Yekhanin, K Makarychev, MZ Racz, ...
+Publication: Nature communications 10 (1), 2933
+
+190. Quantifying Molecular Bias in DNA Data Storage
+Citations:
+Authors: YJ Chen, CN Takahashi, L Organick, K Stewart, SD Ang, P Weiss, B Peck, ...
+Publication: BioRxiv, 566554
+
+202. End-to-end DNA archival storage system
+Citations:
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254
+
+204. Scaling up DNA data storage
+Citations:
+Authors: C Takahashi, SD Ang, L Organick, YJ Chen, R Lopez, S Yekhanin, ...
+Publication: Synthetic Biology Conference: Engineering, Evolution, and Design, SEED 2017 …
+
+218. Vincent Lee
+Citations:
+Authors: V Lee
+Publication: 
+
+222. Joseph L. Devietti
+Citations:
+Authors: BF Scholar
+Publication: Symposium on Computer Architecture (to appear at ISCA’12)
+
+225. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+234. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+235. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+237. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+238. A Full-Stack Microfluidics Platform with Multi-Level Feedback Control
+Citations:
+Authors: M Willsey, AP Stephenson, C Takahashi, P Vaid, BH Nguyen, C Betts, ...
+Publication: 
+
+240. SPECIAL SECTION ON EMBEDDED SYSTEMS WEEK (ESWEEK) 2018
+Citations:
+Authors: S Wang, G Ananthanarayanan, T Mitra, M Willsey, VT Lee, A Cheung, ...
+Publication: 
+
+243. Choi, Jong 348
+Citations:
+Authors: A Abdelfattah, S Aga, K Agrawal, M Ahmad, DH Ahn, P Ahrens, A Alaghi, ...
+Publication: 
+
+244. cGCopyright 2012 Laura Effinger-Dean
+Citations:
+Authors: L Effinger-Dean
+Publication: 
+
+245. SECTION A COMPUTER SCIENCE THEORY, METHODS AND TOOLS
+Citations:
+Authors: J Amavi, B Bouchou, A Savary, R González-Alberquilla, FE Frati, L Piñuel, ...
+Publication: 
+
+246. THE COMPUTE
+Citations:
+Authors: J Amavi, B Bouchou, A Savary, R González-Alberquilla, FE Frati, L Piñuel, ...
+Publication: 
+
+248. Tor M. Aamodt 99, 408 Mohamad Abdel-Majeed 111 Jaume Abella 160 Jorge Albericio 310
+Citations:
+Authors: H Ando, M Annavaram, R Ausavarungnirun, R Balasubramanian, ...
+Publication: 
+
+250. ISCA 2016 Program Committee
+Citations:
+Authors: A Seznec, IA Jaleel, NVA Bhattacharjee, A Louri, A Buyuktosunoglu, ...
+Publication: 
+
+254. Abhishek Bhattacharjee, Rutgers Ali Saidi, ARM Andrew Hilton, Duke University Avi Mendelson, Technion
+Citations:
+Authors: BD de Dinechin, B Grot, CJ Wu, C Wilkerson, D Sanchez, D Brooks, ...
+Publication: 
+
+255. ISCA 2014 external reviewers
+Citations:
+Authors: TM Aamodt, J Cong, P Ienne, D Abts, B Coppens, E Ipek, S Adve, CR Das, ...
+Publication: 
+
+256. IISWC-2008 reviewers
+Citations:
+Authors: K Banerjee, L Barnes, B Beckmann, JG Beu, R Bordewaker, P Bose, ...
+Publication: 
+
+257. Input-Covering Schedules for Multithreaded Programs
+Citations:
+Authors: TBLCD Grossman
+Publication: 
+
+259. Das, Chita R. 527 Denzel, Wolfgang E. 156 Draper, Stark C. 38 Dreslinski, Ronald G. 75 Dudnik, Polina 333
+Citations:
+Authors: TM Aamodt, J Abella, E Acar, M Adler, V Akella, O Anderson, ...
+Publication: 
+
+260. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 

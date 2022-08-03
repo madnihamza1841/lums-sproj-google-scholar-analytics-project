@@ -1,0 +1,883 @@
+https://scholar.google.com/citations?hl=en&user=1vwuDM4AAAAJ
+Total Citations = 3408
+
+1. Improved garbled circuit: Free XOR gates and applications
+Citations:536
+Authors: V Kolesnikov, T Schneider
+Publication: International Colloquium on Automata, Languages, and Programming, 486-498
+
+2. Improved garbled circuit building blocks and applications to auctions and computing minima
+Citations:217
+Authors: V Kolesnikov, AR Sadeghi, T Schneider
+Publication: International Conference on Cryptology and Network Security, 1-20
+
+3. Blind seer: A scalable private dbms
+Citations:179
+Authors: V Pappas, F Krell, B Vo, V Kolesnikov, T Malkin, SG Choi, W George, ...
+Publication: 2014 IEEE Symposium on Security and Privacy, 359-374
+
+4. Strong conditional oblivious transfer and computing on intervals
+Citations:159
+Authors: IF Blake, V Kolesnikov
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+5. A secure decentralized data-centric information infrastructure for smart grid
+Citations:153
+Authors: YJ Kim, M Thottan, V Kolesnikov, W Lee
+Publication: IEEE Communications Magazine 48 (11), 58-65
+
+6. Secure two-party computation in sublinear (amortized) time
+Citations:132
+Authors: SD Gordon, J Katz, V Kolesnikov, F Krell, T Malkin, M Raykova, Y Vahlis
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+7. Distributed security architecture for storage area networks
+Citations:119
+Authors: K Murty, V Kolesnikov, D Thanos
+Publication: US Patent App. 10/269,934
+
+8. Secure evaluation of private linear branching programs with medical applications
+Citations:106
+Authors: M Barni, P Failla, V Kolesnikov, R Lazzeretti, AR Sadeghi, T Schneider
+Publication: European Symposium on Research in Computer Security, 424-439
+
+9. A practical universal circuit construction and secure evaluation of private functions
+Citations:90
+Authors: V Kolesnikov, T Schneider
+Publication: Financial Cryptography and Data Security, 83-97
+
+10. Improved OT extension for transferring short secrets
+Citations:88
+Authors: V Kolesnikov, R Kumaresan
+Publication: Annual Cryptology Conference, 54-70
+
+11. System and method for providing secure virtual machines
+Citations:72
+Authors: P Bosch, V Kolesnikov, S Mullender, J Mckie, P Dobbelaere, H Mclellan
+Publication: US Patent 8,856,544
+
+12. Amortizing garbled circuits
+Citations:72
+Authors: Y Huang, J Katz, V Kolesnikov, R Kumaresan, AJ Malozemoff
+Publication: Annual Cryptology Conference, 458-475
+
+13. FleXOR: Flexible garbling for XOR gates that beats free-XOR
+Citations:68
+Authors: V Kolesnikov, P Mohassel, M Rosulek
+Publication: Annual Cryptology Conference, 440-457
+
+14. Tamper-resistant and scalable mutual authentication for machine-to-machine devices
+Citations:55
+Authors: YJ Kim, VY Kolesnikov
+Publication: US Patent App. 14/057,218
+
+15. Malicious-client security in blind seer: a scalable private DBMS
+Citations:54
+Authors: BA Fisch, B Vo, F Krell, A Kumarasubramanian, V Kolesnikov, T Malkin, ...
+Publication: 2015 IEEE Symposium on Security and Privacy, 395-410
+
+16. Gate evaluation secret sharing and secure one-round two-party computation
+Citations:53
+Authors: V Kolesnikov
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+17. Garbled circuits for leakage-resilience: Hardware implementation and evaluation of one-time programs
+Citations:52
+Authors: K Järvinen, V Kolesnikov, AR Sadeghi, T Schneider
+Publication: International Workshop on Cryptographic Hardware and Embedded Systems, 383-397
+
+18. Truly efficient string oblivious transfer using resettable tamper-proof tokens
+Citations:50
+Authors: V Kolesnikov
+Publication: Theory of Cryptography Conference, 327-342
+
+19. Embedded SFE: Offloading server and network using hardware tokens
+Citations:49
+Authors: K Järvinen, V Kolesnikov, AR Sadeghi, T Schneider
+Publication: International Conference on Financial Cryptography and Data Security, 207-221
+
+20. SSTP: A scalable and secure transport protocol for smart grid data collection
+Citations:47
+Authors: YJ Kim, V Kolesnikov, H Kim, M Thottan
+Publication: 2011 IEEE International Conference on Smart Grid Communications …
+
+21. Conditional encrypted mapping and comparing encrypted numbers
+Citations:46
+Authors: IF Blake, V Kolesnikov
+Publication: International Conference on Financial Cryptography and Data Security, 206-220
+
+22. Efficient batched oblivious PRF with applications to private set intersection
+Citations:45
+Authors: V Kolesnikov, R Kumaresan, M Rosulek, N Trieu
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+23. GERI-bell labs smart grid research focus: economic modeling, networking, and security & privacy
+Citations:41
+Authors: K Budka, J Deshpande, J Hobby, YJ Kim, V Kolesnikov, W Lee, ...
+Publication: 2010 First IEEE International Conference on Smart Grid Communications, 208-213
+
+24. Secure multi-user identity module key exchange
+Citations:36
+Authors: VY Kolesnikov
+Publication: US Patent 8,296,836
+
+25. Method and apparatus for resilient end-to-end message protection for large-scale cyber-physical system communications
+Citations:35
+Authors: YJ Kim, VY Kolesnikov, M Thottan
+Publication: US Patent 9,106,413
+
+26. A systematic approach to practically efficient general two-party secure function evaluation protocols and their modular design
+Citations:31
+Authors: V Kolesnikov, AR Sadeghi, T Schneider
+Publication: Journal of Computer Security 21 (2), 283-315
+
+27. Efficient privacy-preserving classification of ECG signals
+Citations:29
+Authors: M Barni, P Failla, R Lazzeretti, A Paus, AR Sadeghi, T Schneider, ...
+Publication: 2009 First IEEE International Workshop on Information Forensics and Security …
+
+28. How to Combine Homomorphic Encryption and Garbled Circuits Improved Circuits and Computing the Minimum Distance Efficiently
+Citations:29
+Authors: V Kolesnikov, A Sadeghi, T Schneider
+Publication: 
+
+29. Secure private database querying system with content hiding bloom filters
+Citations:28
+Authors: VY Kolesnikov
+Publication: US Patent 9,535,658
+
+30. On the limits of privacy provided by order-preserving encryption
+Citations:27
+Authors: V Kolesnikov, A Shikfa
+Publication: Bell Labs Technical Journal 17 (3), 135-146
+
+31. Theory of cryptography
+Citations:27
+Authors: S Halevi, T Rabin
+Publication: third theory of cryptography conference, TCC, 4-7
+
+32. Resilient end-to-end message protection for large-scale cyber-physical system communications
+Citations:25
+Authors: YJ Kim, V Kolesnikov, M Thottan
+Publication: 2012 IEEE Third International Conference on Smart Grid Communications …
+
+33. From Dust to Dawn: Practically Efficient Two-Party Secure Function Evaluation Protocols and their Modular Design.
+Citations:24
+Authors: V Kolesnikov, AR Sadeghi, T Schneider
+Publication: IACR Cryptology ePrint Archive 2010, 79
+
+34. Improved secure two-party computation via information-theoretic garbled circuits
+Citations:21
+Authors: V Kolesnikov, R Kumaresan
+Publication: International Conference on Security and Cryptography for Networks, 205-221
+
+35. Key exchange using passwords and long keys
+Citations:21
+Authors: V Kolesnikov, C Rackoff
+Publication: Theory of Cryptography Conference, 100-119
+
+36. Practical Multi-party Private Set Intersection from Symmetric-Key Techniques.
+Citations:20
+Authors: V Kolesnikov, N Matania, B Pinkas, M Rosulek, N Trieu
+Publication: ACM Conference on Computer and Communications Security, 1257-1272
+
+37. Improved non-interactive zero knowledge with applications to post-quantum signatures
+Citations:19
+Authors: J Katz, V Kolesnikov, X Wang
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+38. One-round secure comparison of integers
+Citations:19
+Authors: IF Blake, V Kolesnikov
+Publication: Journal of Mathematical Cryptology 3 (1), 37-68
+
+39. Swarming secrets
+Citations:18
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov
+Publication: 2009 47th Annual Allerton Conference on Communication, Control, and …
+
+40. Input consistency verification for two-party secure function evaluation
+Citations:17
+Authors: VY Kolesnikov
+Publication: US Patent 8,891,766
+
+41. Securing two-party computation against malicious adversaries
+Citations:17
+Authors: G Baechler, VY Kolesnikov
+Publication: US Patent 8,488,791
+
+42. Password mistyping in two-factor-authenticated key exchange
+Citations:17
+Authors: V Kolesnikov, C Rackoff
+Publication: International Colloquium on Automata, Languages, and Programming, 702-714
+
+43. Client-side script bundle management system
+Citations:16
+Authors: V Kolesnikov, A Sukhachev
+Publication: US Patent 8,910,132
+
+44. MAC aggregation resilient to DoS attacks
+Citations:16
+Authors: V Kolesnikov, W Lee, J Hong
+Publication: 2011 IEEE International Conference on Smart Grid Communications …
+
+45. A survey and analysis of media keying techniques in the session initiation protocol (SIP)
+Citations:15
+Authors: VK Gurbani, V Kolesnikov
+Publication: IEEE Communications Surveys & Tutorials 13 (2), 183-198
+
+46. Richer efficiency/security trade-offs in 2PC
+Citations:14
+Authors: V Kolesnikov, P Mohassel, B Riva, M Rosulek
+Publication: Theory of Cryptography Conference, 229-259
+
+47. Software Run-Time Provenance
+Citations:14
+Authors: HR McLellan, V Kolesnikov
+Publication: US Patent App. 13/189,609
+
+48. Efficient key management system and method
+Citations:13
+Authors: V Kolesnikov, V Gurbani
+Publication: US Patent 9,106,628
+
+49. Using Clamping to Modify Scrolling
+Citations:13
+Authors: JR Hauser, J Singh, JM Kaldor, WS Bailey, V Kolesnikov
+Publication: US Patent App. 13/689,598
+
+50. Infinite Bi-Directional Scrolling
+Citations:13
+Authors: JR Hauser, J Singh, JM Kaldor, WS Bailey, V Kolesnikov
+Publication: US Patent App. 13/689,622
+
+51. DUPLO: unifying cut-and-choose for garbled circuits
+Citations:12
+Authors: V Kolesnikov, JB Nielsen, M Rosulek, N Trieu, R Trifiletti
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+52. Progressive rendering of data sets
+Citations:12
+Authors: V Kolesnikov, A Chien
+Publication: US Patent 9,665,353
+
+53. Public verifiability in the covert model (almost) for free
+Citations:12
+Authors: V Kolesnikov, AJ Malozemoff
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+54. Method and apparatus for two-factor key exchange protocol resilient to password mistyping
+Citations:12
+Authors: V Kolesnikov, C Rackoff
+Publication: US Patent App. 12/121,315
+
+55. Attribute-based key exchange with general policies
+Citations:11
+Authors: V Kolesnikov, H Krawczyk, Y Lindell, A Malozemoff, T Rabin
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+56. Text-Based Communication Services Based On User-Specified Privacy Settings
+Citations:11
+Authors: GR Bruns, L Jagadeesan, V Kolesnikov
+Publication: US Patent App. 13/631,234
+
+57. Message authentication code pre-computation with applications to secure memory
+Citations:11
+Authors: JA Garay, V Kolesnikov, HR McLellan
+Publication: US Patent 8,452,984
+
+58. Secure function evaluation techniques for circuits containing XOR gates with applications to universal circuits
+Citations:11
+Authors: V Kolesnikov, T Schneider
+Publication: US Patent 8,443,205
+
+59. Secret Sharing Krohn-Rhodes: Private and Perennial Distributed Computation.
+Citations:11
+Authors: S Dolev, JA Garay, N Gilboa, V Kolesnikov
+Publication: ICS, 32-44
+
+60. Modular design of efficient secure function evaluation protocols
+Citations:11
+Authors: V Kolesnikov, AR Sadeghi, T Schneider
+Publication: IACR Eprint Archive
+
+61. Advances and impact of secure function evaluation
+Citations:10
+Authors: V Kolesnikov
+Publication: Bell Labs Technical Journal 14 (3), 187-192
+
+62. Клинические проявления изолированных поражений клиновидной пазухи
+Citations:9
+Authors: ВН Колесников, НВ Бойко, ВВ Быкова
+Publication: Российская ринология 25 (1), 31-35
+
+63. Method and apparatus for a scalable and secure transport protocol for sensor data collection
+Citations:9
+Authors: YJ Kim, V Kolesnikov, MK Thottan
+Publication: US Patent 8,935,533
+
+64. Secure Computation with Sublinear Amortized Work.
+Citations:8
+Authors: SD Gordon, J Katz, V Kolesnikov, T Malkin, M Raykova, Y Vahlis
+Publication: IACR Cryptology ePrint Archive 2011, 482
+
+65. Overlaying Circuit Clauses for Secure Computation.
+Citations:7
+Authors: WS Kennedy, V Kolesnikov, GT Wilfong
+Publication: IACR Cryptology ePrint Archive 2016, 685
+
+66. Architecture for cloud computing using order preserving encryption
+Citations:7
+Authors: A Shikfa, V Kolesnikov
+Publication: US Patent App. 13/630,460
+
+67. Efficient verification of input consistency in server-assisted secure function evaluation
+Citations:7
+Authors: V Kolesnikov, R Kumaresan, A Shikfa
+Publication: International Conference on Cryptology and Network Security, 201-217
+
+68. Installation for biochemical sewage treatment
+Citations:7
+Authors: VP Kolesnikov, VD Klimukhin, VK Gordeev-Gavrikov
+Publication: US Patent 6,217,759
+
+69. Overlaying conditional circuit clauses for secure computation
+Citations:6
+Authors: WS Kennedy, V Kolesnikov, G Wilfong
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+70. The Kovdor-2015 experiment: study of the parameters of a conductive layer of dilatancy–diffusion nature (DD layer) in the Archaean crystalline basement of the Baltic shield
+Citations:6
+Authors: AA Zhamaletdinov, EP Velikhov, AN Shevtsov, VV Kolobov, ...
+Publication: Doklady Earth Sciences 474 (2), 641-645
+
+71. Hashing garbled circuits for free
+Citations:6
+Authors: X Fan, C Ganesh, V Kolesnikov
+Publication: Annual International Conference on the Theory and Applications of …
+
+72. Resilient end-to-end message protection for cyber-physical system communications
+Citations:6
+Authors: Y Kim, V Kolesnikov, M Thottan
+Publication: IEEE Transactions on Smart Grid 9 (4), 2478-2487
+
+73. MAC aggregation with message multiplicity
+Citations:6
+Authors: V Kolesnikov
+Publication: International Conference on Security and Cryptography for Networks, 445-460
+
+74. Brief announcement: swarming secrets
+Citations:6
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov
+Publication: Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of …
+
+75. MAC precomputation with applications to secure memory
+Citations:6
+Authors: J Garay, V Kolesnikov, R McLellan
+Publication: International Conference on Information Security, 427-442
+
+76. Secure two-party computation and communication
+Citations:6
+Authors: V Kolesnikov
+Publication: Dissertation Abstracts International 68 (01)
+
+77. A pragmatic introduction to secure multi-party computation
+Citations:5
+Authors: D Evans, V Kolesnikov, M Rosulek
+Publication: Foundations and Trends® in Privacy and Security 2 (2-3), 70-246
+
+78. Protecting against malicious modification in cryptographic operations
+Citations:5
+Authors: VY Kolesnikov, A Kumarasubramanian
+Publication: US Patent 9,509,665
+
+79. Computation of garbled tables in garbled circuit
+Citations:5
+Authors: VY Kolesnikov
+Publication: US Patent 9,124,417
+
+80. Love all, trust few: On trusting intermediaries in HTTP
+Citations:5
+Authors: T Fossati, VK Gurbani, V Kolesnikov
+Publication: Proceedings of the 2015 ACM SIGCOMM Workshop on Hot Topics in Middleboxes …
+
+81. Garbled circuit generation in a leakage-resilient manner
+Citations:5
+Authors: V Kolesnikov, V Kumar
+Publication: US Patent 8,881,295
+
+82. Possibilities of minimal invasive technologies combined with target therapy management of hepatic metastases of colorectal cancer.
+Citations:5
+Authors: Y Gevorkyan, OI Kit, N Soldatkina, V Kolesnikov, D Haragezov, ...
+Publication: Journal of Clinical Oncology 32 (15_suppl), e14620-e14620
+
+83. Light-weight security solution for host-based mobility and multihoming protocols
+Citations:5
+Authors: KG Hampel, VY Kolesnikov
+Publication: US Patent 8,699,708
+
+84. Efficient techniques for achieving secure transactions using tamper-resistant tokens
+Citations:5
+Authors: V Kolesnikov
+Publication: US Patent 8,683,204
+
+85. Secure communication of data between devices
+Citations:4
+Authors: V Kolesnikov, H Huang
+Publication: US Patent App. 15/172,309
+
+86. Study of interaction of ELF–ULF range (0.1–200 Hz) electromagnetic waves with the earth’s crust and the ionosphere in the field of industrial power transmission lines (FENICS …
+Citations:4
+Authors: AA Zhamaletdinov, AN Shevtsov, EP Velikhov, AA Skorokhodov, ...
+Publication: Izvestiya, Atmospheric and oceanic Physics 51 (8), 826-857
+
+87. Towards efficient private distributed computation on unbounded input streams
+Citations:4
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov, Y Yuditsky
+Publication: Journal of Mathematical Cryptology 9 (2), 79-94
+
+88. MAC aggregation resilient to denial-of-service attacks for use in a multi-node data network
+Citations:4
+Authors: VY Kolesnikov, W Lee
+Publication: US Patent 8,621,228
+
+89. TSAF: Tamper-resistant and scalable mutual authentication framework for plug-in EV charging
+Citations:4
+Authors: YJ Kim, V Kolesnikov, M Thottan
+Publication: 2013 IEEE International Conference on Smart Grid Communications …
+
+90. Brief announcement: efficient private distributed computation on unbounded input streams
+Citations:4
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov, Y Yuditsky
+Publication: International Symposium on Distributed Computing, 431-432
+
+91. IBAKE: Identity-Based Authenticated Key Exchange Protocol.
+Citations:4
+Authors: V Kolesnikov, GS Sundaram
+Publication: IACR Cryptology ePrint Archive 2011, 612
+
+92. Efficient secure two-party computation with untrusted hardware tokens (full version)
+Citations:4
+Authors: K Järvinen, V Kolesnikov, AR Sadeghi, T Schneider
+Publication: Towards Hardware-Intrinsic Security, 367-386
+
+93. Financial Cryptography and Data Security
+Citations:4
+Authors: GD Crescenzo, AD Rubin, B Parno, C Kuo, A Perrig
+Publication: 10th International Conference, FC, 252
+
+94. Powder coating with tris (hydroxyethyl) isocyanurate-anhydride reaction product crosslinker
+Citations:4
+Authors: WH Ohrbom, DJ Law, RD Weise
+Publication: US Patent 6,777,495
+
+95. On cut-and-choose oblivious transfer and its variants
+Citations:3
+Authors: V Kolesnikov, R Kumaresan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+96. Effect of circulating tumor cells (CTCs) on metastatic progression in colorectal cancer.
+Citations:3
+Authors: Y Gevorkyan, OI Kit, IA Novikova, N Soldatkina, AV Bakhtin, PB Shulikov, ...
+Publication: Journal of Clinical Oncology 33 (15_suppl), e22026-e22026
+
+97. Privacy-preserving database system
+Citations:3
+Authors: VY Kolesnikov
+Publication: US Patent 8,943,331
+
+98. Two-dimensional investigation of the Earth crust subsurface layer by method of internal sliding contact
+Citations:3
+Authors: VE Kolesnikov, AA Skorokhodov
+Publication: Proc. 10th Int. Conf.“Problems of Geocosmos”(Oct 6–10, 2014, St. Petersburg …
+
+99. Пути улучшения результатов применения аппаратного анастомоза в хирургии рака прямой кишки
+Citations:3
+Authors: ОИ Кит, ЮА Геворкян, НВ Солдаткина
+Publication: Хирургия. Журнал им. НИ Пирогова, 37-42
+
+100. Work in Progress: A secure and lightweight scheme for media keying in the Session Initiation Protocol (SIP)
+Citations:3
+Authors: VK Gurbani, V Kolesnikov
+Publication: Proceedings of the 4th Annual ACM Conference on Principles, Systems and …
+
+101. A secure and lightweight scheme for media keying in the session initiation protocol (SIP): Work in progress
+Citations:3
+Authors: VK Gurbani, V Kolesnikov
+Publication: Principles, Systems and Applications of IP Telecommunications, 32-41
+
+102. SWiM: Secure Wildcard Pattern Matching from OT Extension
+Citations:2
+Authors: V Kolesnikov, M Rosulek, N Trieu
+Publication: International Conference on Financial Cryptography and Data Security, 222-240
+
+103. Secure key exchange and sessions without credentials
+Citations:2
+Authors: R Canetti, V Kolesnikov, C Rackoff, Y Vahlis
+Publication: International Conference on Security and Cryptography for Networks, 40-56
+
+104. Replay attack protection with small state for use in secure group communication
+Citations:2
+Authors: SN Premnath, V Kolesnikov
+Publication: US Patent 8,631,491
+
+105. Efficient private distributed computation on unbounded input streams
+Citations:2
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov, Y Yuditsky
+Publication: arXiv preprint arXiv:1208.4909
+
+106. Universal circuit for secure function evaluation
+Citations:2
+Authors: V Kolesnikov, T Schneider
+Publication: US Patent 8,175,854
+
+107. Modern development of operation processes of sewage purification at combined installations
+Citations:2
+Authors: VP Kolesnikov, EV Vilson
+Publication: Rostov-on-Don: Yug Publishing House
+
+108. : How to Omit Inactive Branches and Implement -Universal Garbled Circuit (Almost) for Free
+Citations:1
+Authors: V Kolesnikov
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+109. реЗульТаТы ЭлеКТроПроФилироВаниЯ на ПосТоЯнном ТоКе В КомПлеКсе с амТЗ По ПроФилЮ, ПересеКаЮЩему ладоЖсКуЮ аномалиЮ
+Citations:1
+Authors: АА Жамалетдинов, ВЕ Колесников, АА Скороходов, АН Шевцов, ...
+Publication: Труды Карельского научного центра Российской академии наук
+
+110. MAC Precomputation with Applications to Secure Memory
+Citations:1
+Authors: JA Garay, V Kolesnikov, R McLellan
+Publication: ACM Transactions on Privacy and Security (TOPS) 19 (2), 6
+
+111. Robust MAC aggregation with short MAC tags
+Citations:1
+Authors: V Kolesnikov
+Publication: US Patent 9,438,425
+
+112. Message authentication code pre-computation with applications to secure memory
+Citations:1
+Authors: JA Garay, V Kolesnikov, HR McLellan
+Publication: US Patent 8,799,679
+
+113. Capability-based communications
+Citations:1
+Authors: GR Bruns, V Kolesnikov
+Publication: US Patent App. 13/726,768
+
+114. Bolt Shadow Workers
+Citations:1
+Authors: V Kolesnikov
+Publication: US Patent App. 13/679,035
+
+115. Securing Host-Based Mobility and Multi-Homing Protocols against On-Path Attackers.
+Citations:1
+Authors: GK Hampel, V Kolesnikov
+Publication: JCM 6 (1), 101-114
+
+116. A security enhancement and proof for Authentication and Key Agreement (AKA)
+Citations:1
+Authors: V Kolesnikov
+Publication: International Conference on Security and Cryptography for Networks, 235-252
+
+117. Combining signal processing and cryptographic protocol design for efficient ECG classification
+Citations:1
+Authors: M Barni, P Failla, V Kolesnikov, R Lazzeretti, AR Sadeghi, T Schneider
+Publication: Proceedings of the 1st International Workshop on Signal Processing in the …
+
+118. Синтез антенной решетки изотропных излучателей для решения задачи компенсации помех
+Citations:1
+Authors: ВН Колесников, СЕ Мищенко, ВВ Шацкий
+Publication: Радиотехника, 26-29
+
+119. Private and Perennial Distributed Computation
+Citations:1
+Authors: S Dolev, J Garay, N Gilboa, V Kolesnikov
+Publication: Workshop on Cryptography and Security in Clouds, 1-5
+
+120. Scalable Private Set Union from Symmetric-Key Techniques
+Citations:
+Authors: V Kolesnikov, M Rosulek, N Trieu, X Wang
+Publication: 
+
+121. Frequency of somatic mutations in the KRAS gene in patients of the South Russia diagnosed with colorectal cancer.
+Citations:
+Authors: DY Gvaldin, OI Kit, EP Omelchuk, DO Kaymakchi, SI Poluektov, DS Petrov, ...
+Publication: Journal of Clinical Oncology 37 (15_suppl), e15081-e15081
+
+122. Covert Security with Public Verifiability: Faster, Leaner, and Simpler
+Citations:
+Authors: C Hong, J Katz, V Kolesnikov, W Lu, X Wang
+Publication: Annual International Conference on the Theory and Applications of …
+
+123. Perennial secure multi-party computation of universal Turing machine
+Citations:
+Authors: S Dolev, JA Garay, N Gilboa, V Kolesnikov, MV Kumaramangalam
+Publication: Theoretical Computer Science 769, 43-62
+
+124. The Murman-2018 Experiment on Remote Sensing in Order to Study the “Impenetrability” Boundary at the Transition between Brittle and Plastic States of the Crystalline Earth’s Crust
+Citations:
+Authors: AA Zhamaletdinov, EP Velikhov, AN Shevtsov, AA Skorokhodov, ...
+Publication: Doklady Earth Sciences 486 (1), 575-579
+
+125. The method of gas absorption and the device for its implementation
+Citations:
+Authors: VP Kolesnikov, AN Kochetov, LI Chernikova
+Publication: US Patent App. 16/093,199
+
+126. Multi-Electrode Electrical Profiling Results in the Northern Ladoga Area
+Citations:
+Authors: VE Kolesnikov, MY Nilov, AA Zhamaletdinov
+Publication: Practical and Theoretical Aspects of Geological Interpretation of …
+
+127. Proving Anything Quickly, Privately, and Elegantly with Secure Computation
+Citations:
+Authors: V Kolesnikov
+Publication: Georgia Institute of Technology
+
+128. Infinite bi-directional scrolling
+Citations:
+Authors: JR Hauser, J Singh, JM Kaldor, WS Bailey, V Kolesnikov
+Publication: US Patent App. 15/940,491
+
+129. Germline mutation of the APC gene with classic form of familial adenomatous polyposis.
+Citations:
+Authors: IY Efimova, OI Kit, YA Gevorkyan, NV Soldatkina, DI Vodolazhsky, ...
+Publication: Journal of Clinical Oncology 36 (15_suppl), e15694-e15694
+
+130. The effect of Newcastle disease virus on tumor proliferation and cellular immunity.
+Citations:
+Authors: AO Sitkovskaya, OI Kit, EY Zlatnik, OG Shulgina, ES Bondarenko, ...
+Publication: Journal of Clinical Oncology 36 (15_suppl), e15174-e15174
+
+131. Scrolling across boundaries in a structured document
+Citations:
+Authors: JR Hauser, J Singh, JM Kaldor, WS Bailey, V Kolesnikov
+Publication: US Patent 9,965,162
+
+132. Circulating tumor cells and their relationship with clinical and morphological characteristics of colorectal cancer
+Citations:
+Authors: OI Kit, VE Kolesnikov, RE Tolmakh, IA Novikova, OG Shul’gina, ...
+Publication: Kazan medical journal 99 (1), 5-9
+
+133. Progressive rendering of data sets
+Citations:
+Authors: V Kolesnikov, A Chien
+Publication: US Patent App. 15/494,311
+
+134. Особенности анатомического строения нижних носовых раковин
+Citations:
+Authors: ИС Пискунов, НВ Бойко, ВН Колесников
+Publication: Российская ринология 25 (3), 10-15
+
+135. Client-side script bundle management system
+Citations:
+Authors: V Kolesnikov, A Sukhachev
+Publication: US Patent 9,690,568
+
+136. Scale Control and Quality Management of Printed Image Parameters
+Citations:
+Authors: OA Novoselskaya, VL Kolesnikov, TV Solov’eva, IV Nagornova, ...
+Publication: Journal of Physics: Conference Series 858 (1), 012022
+
+137. Ultrastructural study of tumor-infiltrating СD4+ Т-lymphocytes in colon cancer.
+Citations:
+Authors: A Grankina, EY Zlatnik, IA Novikova, SY Filippova, AK Logvinov, ...
+Publication: Journal of Clinical Oncology 35 (15_suppl), e23074-e23074
+
+138. Secure function evaluation of tree circuits
+Citations:
+Authors: WS Kennedy, GT Wilfong, V Kolesnikov
+Publication: US Patent 9,614,677
+
+139. DUPLO: Unifying Cut-and-Choose for Garbled Circuits
+Citations:
+Authors: R Trifiletti, JB Nielsen, V Kolesnikov, M Rosulek, N Trieu
+Publication: 
+
+140. Leakage resilient garbled circuit generation using reduced memory hardware token
+Citations:
+Authors: V Kolesnikov, V Kumar
+Publication: US Patent 9,401,804
+
+141. Secure communication of data between devices
+Citations:
+Authors: V Kolesnikov, H Huang
+Publication: US Patent 9,374,222
+
+142. Anonymization of streaming data
+Citations:
+Authors: VY Kolesnikov, GT Wilfong
+Publication: US Patent 9,361,480
+
+143. Риносклерома: описание случая и обзор литературы
+Citations:
+Authors: ВН Колесников, НВ Бойко, ВВ Сунцов
+Publication: Российская ринология 24 (2), 35-38
+
+144. Applied Cryptography and Network Security: 13th International Conference, ACNS 2015, New York, NY, USA, June 2-5, 2015, Revised Selected Papers
+Citations:
+Authors: T Malkin, V Kolesnikov, A Lewko, M Polychronakis
+Publication: Springer
+
+145. Combined surgery for locally advanced colorectal cancer
+Citations:
+Authors: OI Kit, YA Gevorkyan, NV Soldatkina, EN Kolesnikov, VE Kolesnikov, ...
+Publication: Khirurgiia, 42-47
+
+146. MAC aggregation with message multiplicity for use in a multi-node data network
+Citations:
+Authors: VY Kolesnikov
+Publication: US Patent 9,191,324
+
+147. Input consistency verification for server assisted secure function evaluation
+Citations:
+Authors: VY Kolesnikov, R Kumaresan, A Shikfa
+Publication: US Patent 9,178,704
+
+148. Secure function evaluation for a covert client and a semi-honest server using string selection oblivious transfer
+Citations:
+Authors: VY Kolesnikov, R Kumaresan
+Publication: US Patent 8,990,570
+
+149. Secure function evaluation between semi-honest parties
+Citations:
+Authors: VY Kolesnikov, R Kumaresan
+Publication: US Patent 8,977,855
+
+150. Комплексная оценка печатных свойств бумаги для плоской офсетной печати
+Citations:
+Authors: ОА Новосельская, ВЛ Колесников, ПИ Письменский, АО Новиков, ...
+Publication: ВПІ НТУУ «КПІ»
+
+151. Efficient Assurance of Database Server Integrity
+Citations:
+Authors: V Kolesnikov, A Tentes
+Publication: US Patent App. 13/931,847
+
+152. Method of efficient secure function evaluation using resettable tamper-resistant hardware tokens
+Citations:
+Authors: V Kolesnikov
+Publication: US Patent 8,923,519
+
+153. Efficient Network-Based Enforcement of Data Access Rights
+Citations:
+Authors: P Giura, V Kolesnikov, A Tentes, Y Vahlis
+Publication: International Conference on Security and Cryptography for Networks, 236-254
+
+154. System and method for accessing private digital content
+Citations:
+Authors: HGP Bosch, VY Kolesnikov, S Mullender, K Daenen, BAR Theeten
+Publication: US Patent 8,739,306
+
+155. Integrated sewage treatment plant
+Citations:
+Authors: VP Kolesnikov
+Publication: US Patent 8,685,235
+
+156. Лапароскопическая комбинированная резекция сигмовидной кишки, пангистерэктомия с удалением препарата через культю влагалища
+Citations:
+Authors: OI KIT, YUA GEVORKYAN, VE KOLESNIKOV, NV SOLDATKINA, ...
+Publication: 
+
+157. Laparoscopic combined resection of sigmoid colon, panhysterectomy with removal through vagina stump
+Citations:
+Authors: OI Kit, IA Gevorkian, VE Kolesnikov, NV Soldatkina, DA Kharagezov, ...
+Publication: Khirurgiia, 63-65
+
+158. Amortized Sublinear Secure Multi Party Computation
+Citations:
+Authors: D Gordon, J Katz, V Kolesnikov, T Malkin, M Raykova, Y Vahlis
+Publication: 
+
+159. Approximated synthesis of antenna array for interference compensator
+Citations:
+Authors: VN Kolesnikov, SE Mishchenko, VV Shatskii
+Publication: Radioelectronics and Communications Systems 52 (4), 218-221
+
+160. Interference suppression algorithm in reception of an incident electromagnetic wave by a multichannel antenna system
+Citations:
+Authors: VN Kolesnikov, SE Mishchenko, VV Shatskii
+Publication: Automatic Control and Computer Sciences 42 (4), 217-222
+
+161. Practical Secure Function Evaluation
+Citations:
+Authors: V Kolesnikov, T Schneider, V Strehl
+Publication: Workshop der Fachgruppe Kryptographie in der Gesellschaft für Informatik …
+
+162. Secure Task Migration and Interprocess Communication in Reconfigurable, Distributed, Embedded Systems
+Citations:
+Authors: T Schneider, V Kolesnikov, T Schneider, T Schneider, T Schneider, ...
+Publication: 12. International Conference on Financial Cryptography and Data Security (FC …
+
+163. Application of Duamel integral for an analysis of a conducting layer with magnetic losses
+Citations:
+Authors: EV Kolesnikov, VE Kolesnikov
+Publication: Электричество, 40-50
+
+164. Multidimensional subset sum problem
+Citations:
+Authors: V Kolesnikov
+Publication: 
+
+165. COMBINED TREATMENT OF VAPOR-GAS FLOW FROM AMMONIUM-NITRATE
+Citations:
+Authors: ME IVANOV, KM ZAKHAROVA, VP KOLESNIKOV, VA YARKOVAYA, ...
+Publication: KHIMICHESKAYA PROMYSHLENNOST, 296-297
+
+166. DIMACS Miniworkshop on Algorithms and Energy
+Citations:
+Authors: CES Grid, C Edison, W Lee, V Kolesnikov, DL Waltz, ...
+Publication: 
+
+167. Applied Cryptography and Network Security
+Citations:
+Authors: T Malkin, V Kolesnikov, AB Lewko, M Polychronakis
+Publication: 
+
+168. ELECTRICAL PROFILING BY THE METHOD OF EXTERNAL SLIDING DIPOLE (MESD) ON THE ROAD OF HIITOLA-SUISTAMO
+Citations:
+Authors: AA Zhamaletdinov, VE Kolesnikov
+Publication: Глубинное строение и геодинамика ПРИЛАДОЖЬЯ, 36
+
+169. E cient Techniques for Securing O-Chip Memory
+Citations:
+Authors: J Garay, V Kolesnikov, R McLellan
+Publication: C&ESAR 2008, 104
+
+170. Воєнна безпека
+Citations:
+Authors: СТ Полторак, ІС Руснак, РІ Тимошенко, ММ Лобко, ВП Бочарніков, ...
+Publication: 
+
+171. Lapp, Katherine En Punto Solutions Lee, In-Sok Seoul National University Ma, Daegun Department of Mathematical Sci Makita, Toshiaki Mannan, Mohammad Carleton University
+Citations:
+Authors: A Barth, M Blanton, MPGP Briceno, JPGP Callas, J Camp, T Cannoy, ...
+Publication: 
+
+172. Research projects
+Citations:
+Authors: SG Choi, B Fisch, A Keromytis, V Kolesnikov, A Kumarasubramanian, ...
+Publication: 
+
+173. DIMACS Miniworkshop on Algorithms and Energy
+Citations:
+Authors: C Edison
+Publication: 
+
+174. Efficiency Improvements for Two-party Secure Computation
+Citations:
+Authors: V Kolesnikov, R Kumaresan
+Publication: 
+
+175. Improved Garbled Circuit: Free XOR Gates and Applications
+Citations:
+Authors: T Schneider, V Kolesnikov
+Publication: 
+
+176. Secure Key Exchange and Sessions Without Credentials
+Citations:
+Authors: V Kolesnikov, C Rackoff, Y Vahlis
+Publication: 
+

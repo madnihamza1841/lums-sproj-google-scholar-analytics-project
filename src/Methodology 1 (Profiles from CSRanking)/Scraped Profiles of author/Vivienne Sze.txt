@@ -1,0 +1,598 @@
+https://scholar.google.com/citations?hl=en&user=hNWGC5QAAAAJ
+Total Citations = 5303
+
+1. Eyeriss: An energy-efficient reconfigurable accelerator for deep convolutional neural networks
+Citations:870
+Authors: YH Chen, T Krishna, J Emer, V Sze
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 262-263
+
+2. Efficient Processing of Deep Neural Networks: A Tutorial and Survey
+Citations:529
+Authors: V Sze, YH Chen, TJ Yang, J Emer
+Publication: Proceedings of the IEEE 105 (12), 2295-2329
+
+3. Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
+Citations:425
+Authors: YH Chen, J Emer, V Sze
+Publication: International Symposium on Computer Architecture (ISCA)
+
+4. High Efficiency Video Coding (HEVC): Algorithms and Architectures
+Citations:373
+Authors: V Sze, M Budagavi, GJ Sullivan
+Publication: Springer
+
+5. High Throughput CABAC Entropy Coding in HEVC
+Citations:209
+Authors: V Sze, M Budagavi
+Publication: IEEE Transactions on Circuits and Systems for Video Technology 22 (12), 1778 …
+
+6. Designing Energy-Efficient Convolutional Neural Networks Using Energy-Aware Pruning
+Citations:173
+Authors: TJ Yang, YH Chen, V Sze
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+
+7. Core Transform Design in the High Efficiency Video Coding (HEVC) Standard
+Citations:147
+Authors: M Budagavi, A Fuldseth, G Bjontegaard, V Sze, M Sadafale
+Publication: IEEE Journal of Selected Topics in Signal Processing 7 (6), 1029-1041
+
+8. Technologies for Ultradynamic Voltage Scaling
+Citations:121
+Authors: AP Chandrakasan, DC Daly, DF Finchelstein, J Kwong, YK Ramadass, ...
+Publication: Proceedings of the IEEE 98 (2), 191-214
+
+9. Parallel motion estimation in video coding
+Citations:92
+Authors: 
+Publication: US Patent 20,120,257,678
+
+10. Low-Power Impulse UWB Architectures and Circuits
+Citations:92
+Authors: AP Chandrakasan, FS Lee, DD Wentzloff, V Sze, BP Ginsburg, ...
+Publication: Proceedings of the IEEE 97 (2), 332-352
+
+11. Parallel CABAC decoding for video decompression
+Citations:87
+Authors: MU Demircin, V Sze, M Budagavi
+Publication: US Patent 7,932,843
+
+12. Sample adaptive offset (SAO) parameter signaling
+Citations:79
+Authors: V Sze, M Budagavi, W Kim, DK Kwon, M Zhou
+Publication: US Patent 8,923,407
+
+13. CE10: Core transform design for HEVC
+Citations:70
+Authors: A Fuldseth, G Bjøntegaard, M Budagavi, V Sze
+Publication: document JCTVC-G495 of JCT-VC
+
+14. A 0.7-V 1.8-mW H.264/AVC 720p video decoder
+Citations:68
+Authors: V Sze, DF Finchelstein, ME Sinangil, AP Chandrakasan
+Publication: IEEE Journal of Solid-State Circuits 44 (11), 2943-2956
+
+15. Hardware for Machine Learning: Challenges and Opportunities
+Citations:60
+Authors: V Sze, YH Chen, J Emer, A Suleiman, Z Zhang
+Publication: Custom Integrated Circuits Conference (CICC), 2017 IEEE, 1-8
+
+16. An energy-efficient hardware implementation of HOG-based object detection at 1080HD 60 fps with multi-scale support
+Citations:58
+Authors: A Suleiman, V Sze
+Publication: Journal of Signal Processing Systems 84 (3), 325-337
+
+17. Reducing context coded and bypass coded bins to improve context adaptive binary arithmetic coding (CABAC) throughput
+Citations:56
+Authors: V Sze, M Budagavi
+Publication: US Patent 9,584,802
+
+18. A 249-Mpixel/s HEVC video-decoder chip for 4K Ultra-HD applications
+Citations:56
+Authors: M Tikekar, CT Huang, C Juvekar, V Sze, AP Chandrakasan
+Publication: IEEE Journal of Solid-State Circuits 49 (1), 61-72
+
+19. Simplified Context Selection For Entropy Coding of Transform Coefficient Syntax Elements
+Citations:52
+Authors: V Sze
+Publication: US Patent App. 13/539,580
+
+20. Parallel tools in HEVC for high-throughput processing
+Citations:51
+Authors: M Zhou, V Sze, M Budagavi
+Publication: Applications of digital image processing XXXV 8499, 849910
+
+21. NetAdapt: Platform-aware neural network adaptation for mobile applications
+Citations:49
+Authors: TJ Yang, A Howard, B Chen, X Zhang, A Go, M Sandler, V Sze, H Adam
+Publication: European Conference on Computer Vision (ECCV)
+
+22. Unified forward+ inverse transform architecture for HEVC
+Citations:48
+Authors: M Budagavi, V Sze
+Publication: 2012 19th IEEE International Conference on Image Processing, 209-212
+
+23. Context and bypass encoding video
+Citations:46
+Authors: M Budagavi, MU Demircin, V Sze
+Publication: US Patent 9,591,320
+
+24. Cost and coding efficient motion estimation design considerations for high efficiency video coding (HEVC) standard
+Citations:46
+Authors: ME Sinangil, V Sze, M Zhou, AP Chandrakasan
+Publication: IEEE Journal of selected topics in signal processing 7 (6), 1017-1028
+
+25. Quantization matrix compression in video coding
+Citations:45
+Authors: M Zhou, V Sze
+Publication: US Patent 9,143,789
+
+26. System and method for providing high throughput entropy coding using syntax element partitioning
+Citations:45
+Authors: V Sze, AP Chandrakasan
+Publication: US Patent 8,294,603
+
+27. Joint algorithm-architecture optimization of CABAC to increase speed and reduce area cost
+Citations:44
+Authors: V Sze, AP Chandrakasan
+Publication: 2011 IEEE International Conference on Acoustics, Speech and Signal …
+
+28. Method and apparatus for diagonal scan and simplified coding of transform coefficients
+Citations:43
+Authors: V Sze, M Budagavi
+Publication: US Patent 9,154,801
+
+29. Acceleration of Bypass Binary Symbol Processing in Video Coding
+Citations:42
+Authors: V Sze, M Budagavi
+Publication: US Patent App. 13/478,899
+
+30. Parallel CABAC for Low Power Video Coding
+Citations:40
+Authors: V Sze, AP Chandrakasan, M Budagavi, M Zhou
+Publication: Image Processing, 2008. ICIP 2008. 15th IEEE International Conference on …
+
+31. Joint algorithm-architecture optimization of CABAC
+Citations:39
+Authors: V Sze, AP Chandrakasan
+Publication: Journal of Signal Processing Systems 69 (3), 239-252
+
+32. A deeply pipelined CABAC decoder for HEVC supporting level 6.2 high-tier applications
+Citations:38
+Authors: YH Chen, V Sze
+Publication: IEEE Transactions on Circuits and Systems for Video Technology 25 (5), 856-868
+
+33. A highly parallel and scalable CABAC decoder for next generation video coding
+Citations:38
+Authors: V Sze, AP Chandrakasan
+Publication: IEEE Journal of Solid-State Circuits 47 (1), 8-22
+
+34. Multicore processing and efficient on-chip caching for H.264 and future video decoders
+Citations:37
+Authors: DF Finchelstein, V Sze, AP Chandrakasan
+Publication: IEEE transactions on circuits and systems for video technology 19 (11), 1704 …
+
+35. A 0.4-V UWB Baseband Processor
+Citations:37
+Authors: V Sze, AP Chandrakasan
+Publication: Proceedings of the 2007 international symposium on Low power electronics and …
+
+36. A study on HM-2.0 bitstream parsing and error resiliency issue
+Citations:36
+Authors: M Zhou, V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+37. Simplified Binary Arithmetic Coding Engine
+Citations:35
+Authors: V Sze, M Budagavi
+Publication: US Patent App. 13/250,749
+
+38. CE11: Simplified context selection for significant—coeff—flag (JCTVC-C227)
+Citations:35
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+39. A 249Mpixel/s HEVC video-decoder chip for Quad Full HD applications
+Citations:34
+Authors: CT Huang, M Tikekar, C Juvekar, V Sze, A Chandrakasan
+Publication: Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2013 …
+
+40. Context adaptive binary arithmetic coding (CABAC) with scalable throughput and coding efficiency
+Citations:33
+Authors: V Sze, M Budagavi
+Publication: US Patent 9,503,717
+
+41. BoG report on context reduction for CABAC
+Citations:33
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+42. Signaling signed band offset values for sample adaptive offset (SAO) filtering in video coding
+Citations:31
+Authors: V Sze, M Budagavi
+Publication: US Patent 9,031,137
+
+43. Simplified MVD context selection (Extension of E324)
+Citations:29
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+44. Flexible region based sample adaptive offset (SAO) and adaptive loop filter (ALF)
+Citations:28
+Authors: V Sze, M Budagavi
+Publication: US Patent 9,344,743
+
+45. Towards closing the energy gap between HOG and CNN features for embedded vision
+Citations:26
+Authors: A Suleiman, YH Chen, J Emer, V Sze
+Publication: 2017 IEEE International Symposium on Circuits and Systems (ISCAS), 1-4
+
+46. Parallel Context Processing of Coefficient Level
+Citations:26
+Authors: V Sze, M Budagavi
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+47. N-bin arithmetic coding for context adaptive binary arithmetic coding
+Citations:25
+Authors: V Sze, M Budagavi
+Publication: US Patent 7,710,296
+
+48. Massively Parallel CABAC
+Citations:25
+Authors: V Sze, M Budagavi, AP Chandrakasan
+Publication: VCEG-AL21 VCEG 38th Meeting London, UK/Geneva, CH
+
+49. An energy efficient sub-threshold baseband processor architecture for pulsed ultra-wideband communications
+Citations:25
+Authors: V Sze, R Blázquez, M Bhardwaj, A Chandrakasan
+Publication: 2006 IEEE International Conference on Acoustics Speech and Signal Processing …
+
+50. A 58.6 mW real-time programmable object detector with multi-scale multi-object support using deformable parts model on 1920× 1080 video at 30fps
+Citations:24
+Authors: A Suleiman, Z Zhang, V Sze
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+51. Non-CE04: Carriage of large block size quantization matrices with up-sampling
+Citations:24
+Authors: M Zhou, V Sze
+Publication: Texas Instruments Inc., JCTVC-G094, Joint Collaborative Team on Video Coding …
+
+52. Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices
+Citations:23
+Authors: YH Chen, TJ Yang, J Emer, V Sze
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+
+53. Reduced neighboring dependency in context selection of significant—coeff—flag for parallel processing
+Citations:22
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+54. A high throughput CABAC algorithm using syntax element partitioning
+Citations:22
+Authors: V Sze, AP Chandrakasan
+Publication: 2009 16th IEEE International Conference on Image Processing (ICIP), 773-776
+
+55. Hardware-aware motion estimation search algorithm development for high-efficiency video coding (HEVC) standard
+Citations:21
+Authors: ME Sinangil, AP Chandrakasan, V Sze, M Zhou
+Publication: 2012 19th IEEE International Conference on Image Processing, 1529-1532
+
+56. Using Dataflow to Optimize Energy Efficiency of Deep Neural Network Accelerators
+Citations:20
+Authors: YH Chen, J Emer, V Sze
+Publication: IEEE Micro’s Top Picks from the Computer Architecture Conferences 37 (3)
+
+57. Visual-Inertial Odometry on Chip: An Algorithm-and-Hardware Co-design Approach
+Citations:20
+Authors: Z Zhang, A Suleiman, L Carlone, V Sze, S Karaman
+Publication: Robotics: Science and Systems
+
+58. Energy and area-efficient hardware implementation of HEVC inverse transform and dequantization
+Citations:20
+Authors: M Tikekar, CT Huang, V Sze, A Chandrakasan
+Publication: 2014 IEEE International Conference on Image Processing (ICIP), 2100-2104
+
+59. Compact representation of quantization matrices for HEVC
+Citations:20
+Authors: M Zhou, V Sze
+Publication: JCTVC-D024, 1-9
+
+60. A comparison of CABAC throughput for HEVC/H.265 VS. AVC/H.264
+Citations:19
+Authors: V Sze, M Budagavi
+Publication: Signal Processing Systems (SiPS), 2013 IEEE Workshop on, 165-170
+
+61. Memory cost vs. coding efficiency trade-offs for HEVC motion estimation engine
+Citations:19
+Authors: ME Sinangil, AP Chandrakasan, V Sze, M Zhou
+Publication: 2012 19th IEEE International Conference on Image Processing, 1533-1536
+
+62. Description of video coding technology proposal by Texas Instruments Inc
+Citations:19
+Authors: M Budagavi, V Sze, MU Demircin, S Dikbas, M Zhou, AP Chandrakasan
+Publication: ISO/IEC JTC1/SC29/WG11, JCTVCA101
+
+63. Parallelization of CABAC transform coefficient coding for HEVC
+Citations:17
+Authors: V Sze, M Budagavi
+Publication: 2012 Picture Coding Symposium, 509-512
+
+64. Designing hardware for machine learning: The important role played by circuit designers
+Citations:16
+Authors: V Sze
+Publication: IEEE Solid-State Circuits Magazine 9 (4), 46-54
+
+65. Design and Implementation of Next Generation Video Coding Systems (H.265/HEVC Tutorial)
+Citations:16
+Authors: V Sze, M Budagavi
+Publication: IEEE International Symposium on Circuits and Systems (ISCAS), Melbourne …
+
+66. Method and apparatus for video processing in context-adaptive binary arithmetic coding
+Citations:15
+Authors: V Sze, M Budagavi
+Publication: US Patent 8,068,043
+
+67. System and method for optimizing context-adaptive binary arithmetic coding
+Citations:13
+Authors: V Sze, AP Chandrakasan
+Publication: US Patent 8,604,951
+
+68. Reduction in context coded bins for ref—idx and cu—qo—delta
+Citations:12
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+69. HEVC ALF decode complexity analysis and reduction
+Citations:12
+Authors: M Budagavi, V Sze, M Zhou
+Publication: 2011 18th IEEE International Conference on Image Processing, 733-736
+
+70. AHG4: Enable parallel decoding with tiles
+Citations:11
+Authors: M Zhou, V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+71. Navion: A Fully Integrated Energy-Efficient Visual-Inertial Odometry Accelerator for Autonomous Navigation of Nano Drones
+Citations:10
+Authors: A Suleiman, Z Zhang, L Carlone, S Karaman, V Sze
+Publication: IEEE Symposium on VLSI Circuits (VLSI-Circuits)
+
+72. Understanding the Limitations of Existing Energy-Efficient Design Approaches for Deep Neural Networks
+Citations:10
+Authors: YH Chen, TJ Yang, J Emer, V Sze
+Publication: Conference on Systems and Machine Learning (SysML)
+
+73. A Method to Estimate the Energy Consumption of Deep Neural Networks
+Citations:10
+Authors: TJ Yang, YH Chen, J Emer, V Sze
+Publication: Asilomar Conference on Signals, Systems and Computers
+
+74. Entropy coding in HEVC
+Citations:10
+Authors: V Sze, D Marpe
+Publication: High Efficiency Video Coding (HEVC), 209-274
+
+75. FAST: A Framework to Accelerate Super-Resolution Processing on Compressed Videos
+Citations:9
+Authors: Z Zhang, V Sze
+Publication: CVPR Workshop on New Trends in Image Restoration and Enhancement
+
+76. Deeperlab: Single-shot image parser
+Citations:8
+Authors: TJ Yang, MD Collins, Y Zhu, JJ Hwang, T Liu, X Zhang, V Sze, ...
+Publication: arXiv preprint arXiv:1902.05093
+
+77. Tutorial on Hardware Architectures for Deep Neural Networks
+Citations:8
+Authors: J Emer, V Sze, YH Chen
+Publication: eyeriss.mit.edu/tutorial.html
+
+78. Reduced Complexity Adaptive Loop Filter (ALF) for Video Coding
+Citations:8
+Authors: M Budagavi, M Zhou, V Sze
+Publication: US Patent App. 13/348,583
+
+79. Reduction in contexts used for significant_coeff_flag and coefficient level
+Citations:8
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC), Document JCTVC-F132, Torino
+
+80. CE11: Parallelization of HHI_TRANSFORM_CODING (Fixed Diagonal Scan from C227)
+Citations:8
+Authors: V Sze, M Budagavi
+Publication: document JCTVC-F129
+
+81. Parallelization of HHI Transform Coding
+Citations:8
+Authors: V Sze, M Budagavi
+Publication: Joint Collaborative Team on Video Coding (JCT-VC), Document JCTVC-C227 …
+
+82. Rotate Intra Block Copy for Still Image Coding
+Citations:7
+Authors: Z Zhang, V Sze
+Publication: Image Processing (ICIP), 2015 IEEE International Conference on, 4102-4106
+
+83. Method and apparatus for video encoding and/or decoding to prevent start code confusion
+Citations:7
+Authors: V Sze, M Budagavi, A Osamoto, Y Matsuba
+Publication: US Patent App. 13/529,446
+
+84. CABAC throughput requirements for real-time decoding
+Citations:7
+Authors: V Sze, MU Demircin, M Budagavi
+Publication: ITU-T Q 6
+
+85. Low Power Depth Estimation for Time-of-Flight Imaging
+Citations:5
+Authors: J Noraky, V Sze
+Publication: IEEE International Conference on Image Processing
+
+86. Simplified Coefficient Scans for Non-Square Transforms (NSQT) in Video Coding
+Citations:5
+Authors: V Sze, M Budagavi
+Publication: US Patent App. 13/665,587
+
+87. IDCT pruning and scan dependent transform order
+Citations:5
+Authors: M Budagavi, V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC)
+
+88. Description of Core Experiment (CE11): Coefficient scanning and coding
+Citations:5
+Authors: V Sze, K Panusopone, J Chen, T Nguyen, M Coban
+Publication: Proc. JCTVC-D611, 4th Meeting, 20-28
+
+89. Inverse transformation using pruning for video coding
+Citations:4
+Authors: M Budagavi, V Sze
+Publication: US Patent 9,747,255
+
+90. Opportunistic structured light
+Citations:4
+Authors: V Sze, G Dedeoglu, V Sharma
+Publication: US Patent 9,696,145
+
+91. CE11: Reduced Neighboring Dependency in Context Selection of Significant—Coeff—Flag for Parallel Processing (E330)
+Citations:4
+Authors: V Sze
+Publication: Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO …
+
+92. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+93. Depth Estimation Of Non-Rigid Objects For Time-Of-Flight Imaging
+Citations:3
+Authors: J Noraky, V Sze
+Publication: IEEE International Conference on Image Processing (ICIP)
+
+94. A Fully-Integrated Energy-Efficient H.265/HEVC Decoder with eDRAM for Wearable Devices
+Citations:3
+Authors: M Tikekar, V Sze, A Chandrakasan
+Publication: 2017 Symposium on VLSI Circuits Digest of Technical Papers
+
+95. Introduction to the special issue on HEVC extensions and efficient HEVC implementations
+Citations:3
+Authors: JR Ohm, GJ Sullivan, V Sze, T Wiegand, M Budagavi
+Publication: IEEE Transactions on Circuits and Systems for Video Technology 26 (1), 1-3
+
+96. Reduced context dependency at transform edges for parallel context processing
+Citations:3
+Authors: V Sze, M Budagavi
+Publication: US Patent App. 13/415,550
+
+97. CE4: Test Results on Compact Representation of Quantization Matrices
+Citations:3
+Authors: M Zhou, V Sze
+Publication: JCTVC-G083, 1-5
+
+98. BoG report on intra mode coding
+Citations:3
+Authors: V Sze, R Allen
+Publication: Joint Collaborative Team on Video Coding (JCT-VC), Document JCTVC-G1017, Geneva
+
+99. Further Study on Compact Representation of Quantization Matrices
+Citations:3
+Authors: M Zhou, V Sze
+Publication: JCTVC-F085, 1-4
+
+100. Parallel algorithms and architectures for low power video decoding
+Citations:3
+Authors: V Sze
+Publication: Massachusetts Institute of Technology
+
+101. System and Method for Providing Real-Time Super-Resolution for Compressed Videos
+Citations:2
+Authors: Z Zhang, V Sze
+Publication: US Patent App. 15/456,788
+
+102. -Video Compression
+Citations:2
+Authors: DK Kwon, M Budagavi, V Sze, WS Kim
+Publication: Mobile Communications Handbook, 575-602
+
+103. Texas Instruments Inc
+Citations:2
+Authors: M Budagavi, V Sze
+Publication: Minhua Zhou. CE8 Subtest 5
+
+104. A Study on HM3. 0 Parsing Throughput Issue, Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16 WP3 and ISO
+Citations:2
+Authors: M Zhou, V Sze, Y Matsuba
+Publication: IEC JTC1/SC29/WG11 6th Meeting: Torino, IT Jul. 14-22, 2011, Document JCTVC-F068
+
+105. Low Power Adaptive Time-Of-Flight Imaging For Multiple Rigid Objects
+Citations:1
+Authors: J Noraky, C Mathy, A Cheng, V Sze
+Publication: 2019 IEEE International Conference on Image Processing (ICIP), 3517-3521
+
+106. FSMI: Fast computation of Shannon Mutual Information for information-theoretic mapping
+Citations:1
+Authors: Z Zhang, T Henderson, V Sze, S Karaman
+Publication: 2019 International Conference on Robotics and Automation (ICRA), 6912-6918
+
+107. Low Power Depth Estimation of Rigid Objects for Time-of-Flight Imaging
+Citations:1
+Authors: J Noraky, V Sze
+Publication: IEEE Transactions on Circuits and Systems for Video Technology
+
+108. FastDepth: Fast Monocular Depth Estimation on Embedded Systems
+Citations:1
+Authors: D Wofk, F Ma, TJ Yang, S Karaman, V Sze
+Publication: arXiv preprint arXiv:1903.03273
+
+109. Enabling Saccade Latency Measurements with Consumer-Grade Cameras
+Citations:1
+Authors: HY Lai, G Saavedra-Peña, C Sodini, T Heldt, V Sze
+Publication: 2018 25th IEEE International Conference on Image Processing (ICIP), 3169-3173
+
+110. Determination of saccade latency distributions using video recordings from consumer-grade devices
+Citations:1
+Authors: G Saavedra-Peña, HY Lai, V Sze, T Heldt
+Publication: 2018 40th Annual International Conference of the IEEE Engineering in …
+
+111. Decoder Hardware Architecture for HEVC
+Citations:1
+Authors: M Tikekar, CT Huang, C Juvekar, V Sze, A Chandrakasan
+Publication: High Efficiency Video Coding (HEVC), 303-341
+
+112. Measuring Saccade Latency using Smartphone Cameras
+Citations:
+Authors: HY Lai, G Saavedra-Pena, CG Sodini, V Sze, T Heldt
+Publication: IEEE journal of biomedical and health informatics
+
+113. High-throughput Computation of Shannon Mutual Information on Chip
+Citations:
+Authors: P Li, Z Zhang, S Karaman, V Sze
+Publication: Robotics: Science and Systems (RSS)
+
+114. EE2: Workshop on circuits for social good
+Citations:
+Authors: V Sze, A Burdett, S Leon, R Muller, F Sheikh, Y Sinangil, T Stetzler, ...
+Publication: 2018 IEEE International Solid-State Circuits Conference-(ISSCC), 523-525
+
+115. Method and apparatus for diagonal scan and simplified context selection for parallel entropy coding of significance map of transform coefficients
+Citations:
+Authors: V Sze, M Budagavi
+Publication: US Patent App. 15/431,474
+
+116. Core transform design for HEVC with 7 bit coefficients
+Citations:
+Authors: A Fuldseth, G Bjøntegaard, M Budagavi, V Sze
+Publication: 
+
+117. Machine Learning for Circuit Designers
+Citations:
+Authors: V Sze, H Maruyama, N Verma, J Emer, Y Tomita, M Aleksic, D Moloney, ...
+Publication: 
+
+118. Energy-Efficient Hardware for Multi-Modal Object Detection
+Citations:
+Authors: A Suleiman, Z Zhang, V Sze
+Publication: Circuits and Systems for Information Processing, Communications, Multimedia …
+
+119. Low Voltage System Design for Highly Energy Constrained Applications
+Citations:
+Authors: N Verma, J Kwong, YK Ramadass, DC Daly, V Sze, N Ickes, B Ginsburg, ...
+Publication: 
+

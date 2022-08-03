@@ -1,0 +1,160 @@
+
+21. Reverse traceroute
+Citations:173
+Authors: E Katz-Bassett, HV Madhyastha, VK Adhikari, C Scott, J Sherry, ...
+Publication: Proceedings of the 7th USENIX conference on Networked systems design and …
+
+31. {TVM}: An automated end-to-end optimizing compiler for deep learning
+Citations:124
+Authors: T Chen, T Moreau, Z Jiang, L Zheng, E Yan, H Shen, M Cowan, L Wang, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+51. LIFEGUARD: Practical repair of persistent route failures
+Citations:85
+Authors: E Katz-Bassett, C Scott, DR Choffnes, Í Cunha, V Valancius, N Feamster, ...
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+61. Segank: A Distributed Mobile Storage System.
+Citations:67
+Authors: S Sobti, N Garg, F Zheng, J Lai, Y Shao, C Zhang, E Ziskind, ...
+Publication: FAST 4, 239-252
+
+66. Customizable and extensible deployment for mobile/cloud applications
+Citations:61
+Authors: I Zhang, A Szekeres, D Van Aken, I Ackerman, SD Gribble, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+69. PoiRoot: Investigating the root cause of interdomain path changes
+Citations:58
+Authors: U Javed, I Cunha, D Choffnes, E Katz-Bassett, T Anderson, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 183-194
+
+73. Retaining sandbox containment despite bugs in privileged memory-safe code
+Citations:54
+Authors: J Cappos, A Dadgar, J Rasley, J Samuel, I Beschastnikh, C Barsan, ...
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+81. Resolving IP aliases with prespecified timestamps
+Citations:43
+Authors: J Sherry, E Katz-Bassett, M Pimenova, HV Madhyastha, T Anderson, ...
+Publication: Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 172-178
+
+83. The NEBULA future internet architecture
+Citations:39
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: The Future Internet Assembly, 16-26
+
+97. Aster* x: Load-balancing web traffic over wide-area networks
+Citations:29
+Authors: N Handigol, S Seetharaman, M Flajslik, A Gember, N McKeown, ...
+Publication: Proceedings of GENI Engineering Conf 9
+
+104. Nebula-a future internet that supports trustworthy cloud computing
+Citations:24
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: 
+
+108. A brief overview of the NEBULA future internet architecture
+Citations:22
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 81-86
+
+109. Using the middle to meddle with mobile
+Citations:22
+Authors: A Rao, AM Kakhki, A Razaghpanah, A Tang, S Wang, J Sherry, P Gill, ...
+Publication: CCIS, Northeastern University, Tech. Rep., December
+
+121. Learning to optimize tensor programs
+Citations:18
+Authors: T Chen, L Zheng, E Yan, Z Jiang, T Moreau, L Ceze, C Guestrin, ...
+Publication: Advances in Neural Information Processing Systems, 3389-3400
+
+134. Diamond: Automating data management and storage for wide-area, reactive applications
+Citations:12
+Authors: I Zhang, N Lebeck, P Fonseca, B Holt, R Cheng, A Norberg, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+148. A Hardware-Software Blueprint for Flexible Deep Learning Specialization
+Citations:8
+Authors: T Moreau, T Chen, L Vega, J Roesch, E Yan, L Zheng, J Fromm, Z Jiang, ...
+Publication: arXiv preprint arXiv:1807.04188
+
+150. Radiatus: Strong user isolation for scalable web applications
+Citations:8
+Authors: R Cheng, W Scott, P Ellenbogen, J Howell, T Anderson
+Publication: Univ. Washington Tech. Rep
+
+152. Machiavellian routing: improving internet availability with BGP poisoning
+Citations:8
+Authors: E Katz-Bassett, DR Choffnes, Í Cunha, C Scott, T Anderson, ...
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 11
+
+154. Curator: Self-managing storage for enterprise clusters
+Citations:7
+Authors: I Cano, S Aiyar, V Arora, M Bhattacharyya, A Chaganti, C Cheah, B Chun, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+156. Deepview: Virtual disk failure diagnosis and pattern detection for azure
+Citations:6
+Authors: Q Zhang, G Yu, C Guo, Y Dang, N Swanson, X Yang, R Yao, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+157. {RAIL}: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks
+Citations:6
+Authors: D Zhuo, M Ghobadi, R Mahajan, A Phanishayee, XK Zou, H Guan, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+182. Titanium
+Citations:2
+Authors: K Yelick, SL Graham, P Hilfinger, D Bonachea, J Su, A Kamil, K Datta, ...
+Publication: Encyclopedia of Parallel Computing, 2049-2055
+
+189. ADARES: Adaptive Resource Management for Virtual Machines
+Citations:1
+Authors: I Cano, L Chen, P Fonseca, T Chen, C Cheah, K Gupta, R Chandra, ...
+Publication: arXiv preprint arXiv:1812.01837
+
+198. Zooming in on wide-area latencies to a global cloud provider
+Citations:
+Authors: Y Jin, S Renganathan, G Ananthanarayanan, J Jiang, VN Padmanabhan, ...
+Publication: Proceedings of the ACM Special Interest Group on Data Communication, 104-116
+
+202. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+205. Lightweight Data Center TCP Packet Processing
+Citations:
+Authors: A Kaufmann, T Stamler, S Peter, NK Sharma, T Anderson, ...
+Publication: Under Submission
+
+206. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+211. Kademlia: A peer-to-peer information system based on the XOR metric.
+Citations:
+Authors: L Ye, H Zhang, Q Dai, X Jiang, S Jiang, T Peng, T Peng, Q Zheng, ...
+Publication: Information Technology Journal 10 (3), 1084-1093
+
+213. Network-embedded programmable storage and its applications
+Citations:
+Authors: S Sobti, J Lai, Y Shao, N Garg, C Zhang, M Zhang, F Zheng, ...
+Publication: International Conference on Research in Networking, 1143-1155
+
+221. Operating System Support for User-Controlled Privacy
+Citations:
+Authors: A Szekeres, I Zhang, K Bailey, I Ackerman, H Shen, F Roesner, DRK Ports, ...
+Publication: 
+
+224. Gravel: Automated Software Middlebox Verification
+Citations:
+Authors: KZD Zhuo, AAAKX Wang
+Publication: 
+
+234. Network-Embedded Programmable Storage and Its Applications
+Citations:
+Authors: RY Wang, S Sobti, J Lai, Y Shao, N Garg, C Zhang, M Zhang, F Zheng, ...
+Publication: 

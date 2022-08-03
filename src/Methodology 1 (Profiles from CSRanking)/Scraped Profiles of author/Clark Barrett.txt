@@ -1,0 +1,833 @@
+https://scholar.google.com/citations?hl=en&user=BtwmZfQAAAAJ
+Total Citations = 7360
+
+1. Satisfiability modulo theories
+Citations:971
+Authors: C Barrett, C Tinelli
+Publication: Handbook of Model Checking, 305-343
+
+2. The smt-lib standard: Version 2.0
+Citations:758
+Authors: C Barrett, A Stump, C Tinelli
+Publication: Proceedings of the 8th International Workshop on Satisfiability Modulo …
+
+3. CVC4
+Citations:718
+Authors: C Barrett, C Conway, M Deters, L Hadarean, D Jovanović, T King, ...
+Publication: Computer aided verification, 171-177
+
+4. CVC3
+Citations:562
+Authors: C Barrett, C Tinelli
+Publication: Computer Aided Verification, 298-302
+
+5. The satisfiability modulo theories library (SMT-LIB)
+Citations:396
+Authors: C Barrett, A Stump, C Tinelli
+Publication: SMT-LIB. org 15, 18-52
+
+6. CVC Lite: A new implementation of the cooperating validity checker
+Citations:370
+Authors: C Barrett, S Berezin
+Publication: International Conference on Computer Aided Verification, 515-518
+
+7. Reluplex: An efficient SMT solver for verifying deep neural networks
+Citations:329
+Authors: G Katz, C Barrett, DL Dill, K Julian, MJ Kochenderfer
+Publication: International Conference on Computer Aided Verification, 97-117
+
+8. CVC: A cooperating validity checker
+Citations:262
+Authors: A Stump, CW Barrett, DL Dill
+Publication: International Conference on Computer Aided Verification, 500-504
+
+9. Validity checking for combinations of theories with equality
+Citations:258
+Authors: C Barrett, D Dill, J Levitt
+Publication: International Conference on Formal Methods in Computer-Aided Design, 187-201
+
+10. Checking satisfiability of first-order formulas by incremental translation to SAT
+Citations:200
+Authors: CW Barrett, DL Dill, A Stump
+Publication: International Conference on Computer Aided Verification, 236-249
+
+11. A decision procedure for an extensional theory of arrays
+Citations:174
+Authors: A Stump, CW Barrett, DL Dill, J Levitt
+Publication: Proceedings 16th Annual IEEE Symposium on Logic in Computer Science, 29-37
+
+12. A decision procedure for bit-vector arithmetic
+Citations:149
+Authors: CW Barrett, DL Dill, JR Levitt
+Publication: Proceedings 1998 Design and Automation Conference. 35th DAC.(Cat. No …
+
+13. Splitting on demand in SAT modulo theories
+Citations:109
+Authors: C Barrett, R Nieuwenhuis, A Oliveras, C Tinelli
+Publication: International Conference on Logic for Programming Artificial Intelligence …
+
+14. SMT-COMP: Satisfiability modulo theories competition
+Citations:109
+Authors: C Barrett, L De Moura, A Stump
+Publication: International Conference on Computer Aided Verification, 20-23
+
+15. An industrially effective environment for formal hardware verification
+Citations:107
+Authors: CJH Seger, RB Jones, JW O'Leary, T Melham, MD Aagaard, C Barrett, ...
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+16. A DPLL (T) theory solver for a theory of strings and regular expressions
+Citations:93
+Authors: T Liang, A Reynolds, C Tinelli, C Barrett, M Deters
+Publication: International Conference on Computer Aided Verification, 646-662
+
+17. Counterexample-guided quantifier instantiation for synthesis in SMT
+Citations:86
+Authors: A Reynolds, M Deters, V Kuncak, C Tinelli, C Barrett
+Publication: International Conference on Computer Aided Verification, 198-216
+
+18. Solving quantified verification conditions using satisfiability modulo theories
+Citations:83
+Authors: Y Ge, C Barrett, C Tinelli
+Publication: International Conference on Automated Deduction, 167-182
+
+19. 6 years of SMT-COMP
+Citations:77
+Authors: C Barrett, M Deters, L De Moura, A Oliveras, A Stump
+Publication: Journal of Automated Reasoning 50 (3), 243-277
+
+20. TVOC: A translation validator for optimizing compilers
+Citations:75
+Authors: C Barrett, Y Fang, B Goldberg, Y Hu, A Pnueli, L Zuck
+Publication: International Conference on Computer Aided Verification, 291-295
+
+21. A Generalization of Shostak's Method for Combining Decision Procedures
+Citations:72
+Authors: CW Barrett, DL Dill, A Stump
+Publication: International Workshop on Frontiers of Combining Systems, 132-146
+
+22. Cooperating theorem provers: A case study combining HOL-Light and CVC Lite
+Citations:66
+Authors: S McLaughlin, C Barrett, Y Ge
+Publication: Electronic Notes in Theoretical Computer Science 144 (2), 43-51
+
+23. Quantifier instantiation techniques for finite model finding in SMT
+Citations:59
+Authors: A Reynolds, C Tinelli, A Goel, S Krstić, M Deters, C Barrett
+Publication: International Conference on Automated Deduction, 377-391
+
+24. Translation and run-time validation of loop transformations
+Citations:57
+Authors: L Zuck, A Pnueli, B Goldberg, C Barrett, Y Fang, Y Hu
+Publication: Formal Methods in System Design 27 (3), 335-360
+
+25. Handbook of satisfiability
+Citations:51
+Authors: C Barrett, R Sebastiani, SA Seshia, C Tinelli, A Biere, M Heule, ...
+Publication: Satisfiability modulo theories 185, 825-885
+
+26. Into the loops: Practical issues in translation validation for optimizing compilers
+Citations:48
+Authors: B Goldberg, L Zuck, C Barrett
+Publication: Electronic Notes in Theoretical Computer Science 132 (1), 53-71
+
+27. Design and results of the first satisfiability modulo theories competition (SMT-COMP 2005)
+Citations:46
+Authors: C Barrett, L De Moura, A Stump
+Publication: Journal of Automated Reasoning 35 (4), 373-390
+
+28. Checking validity of quantifier-free formulas in combinations of first-order theories
+Citations:46
+Authors: CW Barrett
+Publication: stanford university
+
+29. Towards proving the adversarial robustness of deep neural networks
+Citations:40
+Authors: G Katz, C Barrett, DL Dill, K Julian, MJ Kochenderfer
+Publication: arXiv preprint arXiv:1709.02802
+
+30. A framework for cooperating decision procedures
+Citations:40
+Authors: CW Barrett, DL Dill, A Stump
+Publication: International Conference on Automated Deduction, 79-98
+
+31. A tour of CVC4: how it works, and how to use it
+Citations:38
+Authors: M Deters, A Reynolds, T King, C Barrett, C Tinelli
+Publication: Formal Methods in Computer-Aided Design (FMCAD), 2014, 7-7
+
+32. A tale of two solvers: Eager and lazy approaches to bit-vectors
+Citations:37
+Authors: L Hadarean, K Bansal, D Jovanović, C Barrett, C Tinelli
+Publication: International Conference on Computer Aided Verification, 680-695
+
+33. Solving quantified verification conditions using satisfiability modulo theories
+Citations:37
+Authors: Y Ge, C Barrett, C Tinelli
+Publication: Annals of Mathematics and Artificial Intelligence 55 (1-2), 101
+
+34. Design and results of the 3rd annual satisfiability modulo theories competition (SMT-COMP 2007)
+Citations:37
+Authors: C Barrett, M Deters, A Oliveras, A Stump
+Publication: International Journal on Artificial Intelligence Tools 17 (04), 569-606
+
+35. An abstract decision procedure for a theory of inductive data types
+Citations:35
+Authors: C Barrett, I Shikanian, C Tinelli
+Publication: Journal on Satisfiability, Boolean Modeling and Computation 3, 21-46
+
+36. Deepsafe: A data-driven approach for checking adversarial robustness in neural networks
+Citations:33
+Authors: D Gopinath, G Katz, CS Pasareanu, C Barrett
+Publication: arXiv preprint arXiv:1710.00486
+
+37. Ground-truth adversarial examples
+Citations:30
+Authors: N Carlini, G Katz, C Barrett, DL Dill
+Publication: 
+
+38. The design and implementation of the model constructing satisfiability calculus
+Citations:30
+Authors: D Jovanovic, C Barrett, L De Moura
+Publication: 2013 Formal Methods in Computer-Aided Design, 173-180
+
+39. Automatic generation of invariants in processor verification
+Citations:30
+Authors: JX Su, DL Dill, CW Barrett
+Publication: International Conference on Formal Methods in Computer-Aided Design, 377-388
+
+40. SMTCoq: A plug-in for integrating SMT solvers into Coq
+Citations:29
+Authors: B Ekici, A Mebsout, C Tinelli, C Keller, G Katz, A Reynolds, C Barrett
+Publication: International Conference on Computer Aided Verification, 126-133
+
+41. An abstract decision procedure for satisfiability in the theory of recursive data types
+Citations:29
+Authors: C Barrett, I Shikanian, C Tinelli
+Publication: Electronic Notes in Theoretical Computer Science 174 (8), 23-37
+
+42. Polite theories revisited
+Citations:25
+Authors: D Jovanović, C Barrett
+Publication: International Conference on Logic for Programming Artificial Intelligence …
+
+43. Deciding local theory extensions via e-matching
+Citations:22
+Authors: K Bansal, A Reynolds, T King, C Barrett, T Wies
+Publication: International Conference on Computer Aided Verification, 87-105
+
+44. A practical approach to partial functions in CVC Lite
+Citations:20
+Authors: S Berezin, C Barrett, I Shikanian, M Chechik, A Gurfinkel, DL Dill
+Publication: Electronic Notes in Theoretical Computer Science 125 (3), 13-23
+
+45. A new decision procedure for finite sets and cardinality constraints in SMT
+Citations:19
+Authors: K Bansal, A Reynolds, C Barrett, C Tinelli
+Publication: International Joint Conference on Automated Reasoning, 82-98
+
+46. An efficient SMT solver for string constraints
+Citations:18
+Authors: T Liang, A Reynolds, N Tsiskaridze, C Tinelli, C Barrett, M Deters
+Publication: Formal Methods in System Design 48 (3), 206-234
+
+47. Proof translation and SMT-LIB benchmark certification: A preliminary report
+Citations:18
+Authors: Y Ge, C Barrett
+Publication: SMT 2008: 6th International Workshop on Satisfiability Modulo Theories, 33
+
+48. Reuse of learned information to simplify functional verification of a digital circuit
+Citations:18
+Authors: J Levitt, C Gauthron, C Barrett, L Widdoes
+Publication: US Patent App. 10/340,555
+
+49. P4pktgen: Automated test case generation for p4 programs
+Citations:16
+Authors: A Nötzli, J Khan, A Fingerhut, C Barrett, P Athanas
+Publication: Proceedings of the Symposium on SDN Research, 5
+
+50. Provably minimally-distorted adversarial examples
+Citations:16
+Authors: N Carlini, G Katz, C Barrett, DL Dill
+Publication: arXiv preprint arXiv:1709.10207
+
+51. Pointer analysis, conditional soundness, and proving the absence of errors
+Citations:16
+Authors: CL Conway, D Dams, KS Namjoshi, C Barrett
+Publication: International Static Analysis Symposium, 62-77
+
+52. A proof-producing boolean search engine
+Citations:16
+Authors: C Barrett, S Berezin
+Publication: Program Commitee, 25
+
+53. The SMT-LIB initiative and the rise of SMT (HVC 2010 award talk)
+Citations:15
+Authors: C Barrett, L de Moura, S Ranise, A Stump, C Tinelli
+Publication: Proceedings of the 6th international conference on Hardware and software …
+
+54. Solving quantified bit-vectors using invertibility conditions
+Citations:13
+Authors: A Niemetz, M Preiner, A Reynolds, C Barrett, C Tinelli
+Publication: International Conference on Computer Aided Verification, 236-255
+
+55. Proofs in satisfiability modulo theories
+Citations:13
+Authors: C Barrett, L De Moura, P Fontaine
+Publication: All about proofs, Proofs for all 55 (1), 23-44
+
+56. Partitioned memory models for program analysis
+Citations:12
+Authors: W Wang, C Barrett, T Wies
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+57. Fine grained SMT proofs for the theory of fixed-width bit-vectors
+Citations:12
+Authors: L Hadarean, C Barrett, A Reynolds, C Tinelli, M Deters
+Publication: Logic for Programming, Artificial Intelligence, and Reasoning, 340-355
+
+58. A structured approach to post-silicon validation and debug using symbolic quick error detection
+Citations:12
+Authors: D Lin, E Singh, C Barrett, S Mitra
+Publication: 2015 IEEE International Test Conference (ITC), 1-10
+
+59. Leveraging linear and mixed integer programming for SMT
+Citations:12
+Authors: T King, C Barrett, C Tinelli
+Publication: Proceedings of the 14th Conference on Formal Methods in Computer-Aided …
+
+60. Design and results of the 4th annual satisfiability modulo theories competition (SMT-COMP 2008)
+Citations:12
+Authors: C Barrett, M Deters, A Oliveras, A Stump
+Publication: To appear 6
+
+61. Validating more loop optimizations
+Citations:12
+Authors: Y Hu, C Barrett, B Goldberg, A Pnueli
+Publication: Electronic Notes in Theoretical Computer Science 141 (2), 69-84
+
+62. Combining SAT methods with non-clausal decision heuristics
+Citations:12
+Authors: C Barrett, J Donham
+Publication: Electronic Notes in Theoretical Computer Science 125 (3), 3-12
+
+63. Refutation-based synthesis in SMT
+Citations:11
+Authors: A Reynolds, V Kuncak, C Tinelli, C Barrett, M Deters
+Publication: Formal Methods in System Design, 1-30
+
+64. A decision procedure for regular membership and length constraints over unbounded strings
+Citations:11
+Authors: T Liang, N Tsiskaridze, A Reynolds, C Tinelli, C Barrett
+Publication: International Symposium on Frontiers of Combining Systems, 135-150
+
+65. Designing theory solvers with extensions
+Citations:10
+Authors: A Reynolds, C Tinelli, D Jovanović, C Barrett
+Publication: International Symposium on Frontiers of Combining Systems, 22-40
+
+66. Relational constraint solving in SMT
+Citations:10
+Authors: B Meng, A Reynolds, C Tinelli, C Barrett
+Publication: International Conference on Automated Deduction, 148-165
+
+67. Comparing proof systems for linear real arithmetic with LFSC
+Citations:10
+Authors: A Reynolds, L Hadarean, C Tinelli, Y Ge, A Stump, C Barrett
+Publication: Workshop on Satisfiability Modulo Theories
+
+68. Simplex with sum of infeasibilities for SMT
+Citations:9
+Authors: T King, C Barrett, B Dutertre
+Publication: 2013 Formal Methods in Computer-Aided Design, 189-196
+
+69. ‘Explaining’themselves: The Barrington papers, the board of longitude, and the fate of John Harrison
+Citations:9
+Authors: K Barrett
+Publication: Notes and Records of the Royal Society 65 (2), 145-162
+
+70. Cascade: C assertion checker and deductive engine
+Citations:9
+Authors: N Sethi, C Barrett
+Publication: International Conference on Computer Aided Verification, 166-169
+
+71. Toward scalable verification for safety-critical deep networks
+Citations:8
+Authors: L Kuper, G Katz, J Gottschlich, K Julian, C Barrett, M Kochenderfer
+Publication: arXiv preprint arXiv:1801.05950
+
+72. Lazy proofs for DPLL (T)-based SMT solvers
+Citations:8
+Authors: G Katz, C Barrett, C Tinelli, A Reynolds, L Hadarean
+Publication: 2016 Formal Methods in Computer-Aided Design (FMCAD), 93-100
+
+73. Cascade 2.0
+Citations:8
+Authors: W Wang, C Barrett, T Wies
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+74. Sharing is caring: Combination of theories
+Citations:8
+Authors: D Jovanović, C Barrett
+Publication: International Symposium on Frontiers of Combining Systems, 195-210
+
+75. Algorithms for Verifying Deep Neural Networks
+Citations:7
+Authors: C Liu, T Arnon, C Lazarus, C Barrett, MJ Kochenderfer
+Publication: arXiv preprint arXiv:1903.06758
+
+76. Deepsafe: A data-driven approach for assessing robustness of neural networks
+Citations:7
+Authors: D Gopinath, G Katz, CS Păsăreanu, C Barrett
+Publication: International Symposium on Automated Technology for Verification and …
+
+77. E-QED: electrical bug localization during post-silicon validation enabled by quick error detection and formal methods
+Citations:7
+Authors: E Singh, C Barrett, S Mitra
+Publication: International Conference on Computer Aided Verification, 104-125
+
+78. Scaling up DPLL (T) string solvers using context-dependent simplification
+Citations:7
+Authors: A Reynolds, M Woo, C Barrett, D Brumley, T Liang, C Tinelli
+Publication: International Conference on Computer Aided Verification, 453-474
+
+79. Theory-aided model checking of concurrent transition systems
+Citations:7
+Authors: G Katz, C Barrett, D Harel
+Publication: Proceedings of the 15th Conference on Formal Methods in Computer-Aided …
+
+80. Theory and algorithms for the generation and validation of speculative loop optimizations
+Citations:7
+Authors: Y Hu, C Barrett, B Goldberg
+Publication: Proceedings of the Second International Conference on Software Engineering …
+
+81. Problem solving for the 21st century: Efficient solver for satisfiability modulo theories
+Citations:6
+Authors: C Barrett, D Kroening, T Melham
+Publication: London Mathematical Society and Smith Institute for Industrial Mathematics …
+
+82. " Decision Procedures: An Algorithmic Point of View," by Daniel Kroening and Ofer Strichman, Springer-Verlag, 2008.
+Citations:6
+Authors: C Barrett
+Publication: J. Autom. Reasoning 51 (4), 453-456
+
+83. Satisfiability modulo theories
+Citations:6
+Authors: A Biere, M Heule, H Van Maaren, T Walsch, CC Barrett, R Sebastiani, ...
+Publication: 
+
+84. Run-Time Validation of Speculative Optimizations using CVC.
+Citations:6
+Authors: C Barrett, B Goldberg, L Zuck
+Publication: Electronic Notes in Theoretical Computer Science 89 (2), 89-107
+
+85. Witness runs for counter machines
+Citations:5
+Authors: C Barrett, S Demri, M Deters
+Publication: International Symposium on Frontiers of Combining Systems, 120-150
+
+86. Being careful about theory combination
+Citations:5
+Authors: D Jovanović, C Barrett
+Publication: Formal Methods in System Design 42 (1), 67-90
+
+87. Producing proofs from an arithmetic decision procedure in elliptical LF
+Citations:5
+Authors: A Stump, CW Barrett, DL Dill
+Publication: Electronic Notes in Theoretical Computer Science 70 (2), 29-41
+
+88. Extending SMT solvers to higher-order logic
+Citations:4
+Authors: H Barbosa, A Reynolds, D El Ouraoui, C Tinelli, C Barrett
+Publication: Technical report, The University of Iowa
+
+89. CVC4Sy: Smart and fast term enumeration for syntax-guided synthesis
+Citations:4
+Authors: A Reynolds, H Barbosa, A Nötzil, C Barrett, C Tinelli
+Publication: Computer Aided Verification (CAV)-31st International Conference.(Accepted …
+
+90. Datatypes with shared selectors
+Citations:4
+Authors: A Reynolds, A Viswanathan, H Barbosa, C Tinelli, C Barrett
+Publication: International Joint Conference on Automated Reasoning, 591-608
+
+91. Logic bug detection and localization using symbolic quick error detection
+Citations:4
+Authors: E Singh, D Lin, C Barrett, S Mitra
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
+92. Cascade
+Citations:4
+Authors: W Wang, C Barrett
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+93. Exploring and categorizing error spaces using BMC and SMT
+Citations:4
+Authors: T King, C Barrett
+Publication: Proc. of the 9th Int. Workshop on Satisfiability Modulo Theories (SMT)
+
+94. Symbolic quick error detection using symbolic initial state for pre-silicon verification
+Citations:3
+Authors: MR Fadiheh, J Urdahl, SS Nuthakki, S Mitra, C Barrett, D Stoffel, W Kunz
+Publication: 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE), 55-60
+
+95. Reasoning with Finite Sets and Cardinality Constraints in SMT
+Citations:3
+Authors: K Bansal, C Barrett, A Reynolds, C Tinelli
+Publication: arXiv preprint arXiv:1702.06259
+
+96. Efficient solving of string constraints for security analysis
+Citations:3
+Authors: C Barrett, C Tinelli, M Deters, T Liang, A Reynolds, N Tsiskaridze
+Publication: Proceedings of the Symposium and Bootcamp on the Science of Security, 4-6
+
+97. SMT-Comp, 2008
+Citations:3
+Authors: C Barrett, M Deters, A Oliveras, A Stump
+Publication: 
+
+98. The marabou framework for verification and analysis of deep neural networks
+Citations:2
+Authors: G Katz, DA Huang, D Ibeling, K Julian, C Lazarus, R Lim, P Shah, ...
+Publication: International Conference on Computer Aided Verification, 443-452
+
+99. Processor hardware security vulnerabilities and their detection by unique program execution checking
+Citations:2
+Authors: MR Fadiheh, D Stoffel, C Barrett, S Mitra, W Kunz
+Publication: 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE), 994-999
+
+100. Syntax-guided rewrite rule enumeration for smt solvers
+Citations:2
+Authors: A Nötzli, A Reynolds, H Barbosa, A Niemetz, M Preiner, C Barrett, ...
+Publication: SAT
+
+101. CVC4 at the SMT Competition 2018
+Citations:2
+Authors: C Barrett, H Barbosa, M Brain, D Ibeling, T King, P Meng, A Niemetz, ...
+Publication: arXiv preprint arXiv:1806.08775
+
+102. Post-silicon validation and debug using symbolic quick error detection
+Citations:2
+Authors: S Mitra, C Barrett, D Lin, E Singh
+Publication: US Patent App. 15/577,065
+
+103. EMME: a formal tool for ECMAScript Memory Model Evaluation
+Citations:2
+Authors: C Mattarei, C Barrett, S Guo, B Nelson, B Smith
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+104. Verifying low-level implementations of high-level datatypes
+Citations:2
+Authors: CL Conway, C Barrett
+Publication: International Conference on Computer Aided Verification, 306-320
+
+105. Theory-Aided Model Checking of Concurrent Transition Systems: Supplementary Material
+Citations:2
+Authors: G Katz, C Barrett, D Harel
+Publication: 
+
+106. Verifying deep-RL-driven systems
+Citations:1
+Authors: Y Kazak, C Barrett, G Katz, M Schapira
+Publication: Proceedings of the 2019 Workshop on Network Meets AI & ML, 83-89
+
+107. Towards Bit-Width-Independent Proofs in SMT Solvers
+Citations:1
+Authors: A Niemetz, M Preiner, A Reynolds, Y Zohar, C Barrett, C Tinelli
+Publication: arXiv preprint arXiv:1905.10434
+
+108. Symbolic QED Pre-silicon Verification for Automotive Microcontroller Cores: Industrial Case Study
+Citations:1
+Authors: E Singh, K Devarajegowda, S Simon, R Schnieder, K Ganesan, ...
+Publication: 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+109. Rewrites for SMT solvers using syntax-guided enumeration
+Citations:1
+Authors: A Reynolds, H Barbosa, A Niemetz, A Nötzli, M Preiner, C Barrett, ...
+Publication: SMT Workshop
+
+110. Constraint solving for finite model finding in SMT solvers
+Citations:1
+Authors: A Reynolds, C Tinelli, C Barrett
+Publication: Theory and Practice of Logic Programming 17 (4), 516-558
+
+111. Theory solvers in SMT
+Citations:1
+Authors: C Barrett
+Publication: 
+
+112. Leveraging SMT: Using SMT Solvers to Improve Verification; Using Verification to Improve SMT Solvers
+Citations:1
+Authors: C Barrett, CL Conway
+Publication: Technical report, Department of Computer Science, New York University
+
+113. Sharing is caring
+Citations:1
+Authors: D Jovanovic, C Barrett
+Publication: SMT Workshop
+
+114. Satisfiability Modulo Theories Competition (SMTCOMP) 2010: Rules and Procedures
+Citations:1
+Authors: C Barrett, A Oliveras, M Deters, A Stump
+Publication: 
+
+115. High-Level Abstractions for Simplifying Extended String Constraints in SMT
+Citations:1
+Authors: A Reynolds, A Nötzli, C Barrett, C Tinelli
+Publication: 
+
+116. Extending SMT Solvers to Higher-Order Logic (Technical Report)
+Citations:1
+Authors: H Barbosa, A Reynolds, D El Ouraoui, C Tinelli, C Barrett
+Publication: Technical report, 2019. http://homepage. divms. uiowa. edu/~ hbarbosa/papers …
+
+117. Verifying Bit-vector Invertibility Conditions in Coq
+Citations:
+Authors: B Ekici, A Viswanathan, Y Zohar, C Barrett, C Tinelli
+Publication: arXiv preprint arXiv:1908.09478
+
+118. DRAT-based Bit-Vector Proofs in CVC4
+Citations:
+Authors: A Ozdemir, A Niemetz, M Preiner, Y Zohar, C Barrett
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+119. Selected Extended Papers of NFM 2016: Preface
+Citations:
+Authors: CA Muñoz, S Rayadurgam, O Tkachuk
+Publication: Journal of Automated Reasoning 60 (1), 1-2
+
+120. CoSA: Integrated Verification for Agile Hardware Design
+Citations:
+Authors: C Mattarei, M Mann, C Barrett, RG Daly, D Huff, P Hanrahan
+Publication: 2018 Formal Methods in Computer Aided Design (FMCAD), 1-5
+
+121. SMTCoq: A Plug-In for Integrating SMT Solvers into Coq
+Citations:
+Authors: C Keller, G Katz, A Reynolds, C Barrett
+Publication: Computer Aided Verification: 29th International Conference, CAV 2017 …
+
+122. NASA Formal Methods: 9th International Symposium, NFM 2017, Moffett Field, CA, USA, May 16-18, 2017, Proceedings
+Citations:
+Authors: C Barrett, M Davies, T Kahsai
+Publication: Springer
+
+123. Bit-Precise Reasoning Beyond Bit-Blasting
+Citations:
+Authors: A Biere, C Barrett
+Publication: 
+
+124. Certified Satisfiability Modulo Theories (SMT) Solving for System Verification
+Citations:
+Authors: C Barrett, B Ekici, L Hadarean, G Katz, C Keller, A Mebsout, A Reynolds, ...
+Publication: New York University New York United States
+
+125. Symbolic Quick Error Detection for Pre-Silicon and Post-Silicon Validation: Frequently Asked Questions
+Citations:
+Authors: E Singh, D Lin, C Barrett, S Mitra
+Publication: IEEE Design & Test 33 (6), 55-62
+
+126. An efficient DPLL (T) solver for a theory of strings and regular expressions
+Citations:
+Authors: T Liang, A Reynolds, N Tsiskaridze, C Tinelli, C Barrett, M Deters
+Publication: Formal Methods in System Design, to appear
+
+127. SMT: Where do we go from here?
+Citations:
+Authors: C Barrett
+Publication: SMT, 1
+
+128. Problem Solving for the 21st Century
+Citations:
+Authors: C Barrett, D Kroening, T Melham
+Publication: 
+
+129. Scalable and Accurate SMT-Based Model Checking of Data Flow Systems
+Citations:
+Authors: C Barrett, M Deters
+Publication: NEW YORK UNIV NY
+
+130. The SMT-LIB Initiative and the Rise of SMT (HVC 2010 Award Talk)(Invited Talk)
+Citations:
+Authors: C Barrett, L de Moura, S Ranise, A Stump, C Tinelli
+Publication: LECTURE NOTES IN COMPUTER SCIENCE 1 (6504), 3-3
+
+131. Putting science into words
+Citations:
+Authors: K Barrett
+Publication: Endeavour 1 (35), 3-4
+
+132. Sharing is caring
+Citations:
+Authors: C Barrett
+Publication: Proceedings of the 8th international workshop on satisfiability modulo …
+
+133. Report on NSF Workshop on Symbolic Computation for Constraint Satisfaction
+Citations:
+Authors: A Aiken, R Alur, C Barrett, M Ceberio, L de Moura, S Malik, J Meseguer, ...
+Publication: 
+
+134. SMT 2008: 6th International Workshop on Satisfiability Modulo Theories
+Citations:
+Authors: C Barrett, L de Moura, N Bjørner, A Cimatti, B Dutertre, S Krstic, ...
+Publication: Workshop: July 7, 8
+
+135. This volume contains the selection of papers presented at SMT 2007, the 5th International Workshop on Satisfiability Modulo Theories (formerly called PDPAR). The workshop was …
+Citations:
+Authors: R Majumdar, C Barrett, AC ITC-Irst, TB Cook, A Goel, A Gupta
+Publication: Electronic Notes in Theoretical Computer Science 198, 1-2
+
+136. Preface and Foreword
+Citations:
+Authors: B Cook, R Sebastiani
+Publication: Electronic Notes in Theoretical Computer Science 174 (8), 3-6
+
+137. Ph. D. thesis: Checking the validity of quantifier-free formulas in combinations of first-order theories
+Citations:
+Authors: C Barrett
+Publication: Standford University
+
+138. Proof production in decision procedures
+Citations:
+Authors: A Stump, CW Barrett, DL Dill, C Flanagan
+Publication: 
+
+139. Lattice-based designs of direct sum codebooks for vector quantization
+Citations:
+Authors: CW Barrett, RL Frost
+Publication: Proceedings DCC'95 Data Compression Conference, 436
+
+140. Towards Bit-Width-Independent Proofs in SMT Solvers
+Citations:
+Authors: C Barrett, C Tinelli
+Publication: Automated Deduction–CADE 27: 27th International Conference on Automated …
+
+141. Extending SMT Solvers to Higher-Order Logic
+Citations:
+Authors: C Barrett
+Publication: Automated Deduction–CADE 27: 27th International Conference on Automated …
+
+142. Combining data-driven and symbolic reasoning for Invariant Synthesis in SMT (Work in Progress)
+Citations:
+Authors: H Barbosa, A Reynolds, C Tinelli, C Barrett
+Publication: 
+
+143. Invertibility Conditions for Floating-Point Formulas⋆
+Citations:
+Authors: M Brain, A Niemetz, M Preiner, A Reynolds, C Barrett, C Tinelli
+Publication: 
+
+144. Syntax-Guided Rewrite Rule Enumeration for SMT Solvers
+Citations:
+Authors: A Niemetz, M Preiner, C Barrett, C Tinelli
+Publication: Theory and Applications of Satisfiability Testing–SAT 2019: 22nd …
+
+145. DRAT-based Bit-Vector Proofs in CVC4
+Citations:
+Authors: C Barrett
+Publication: Theory and Applications of Satisfiability Testing–SAT 2019: 22nd …
+
+146. Syntax-Guided Rewrite Rule Enumeration for SMT Solvers
+Citations:
+Authors: C Tinelli
+Publication: 
+
+147. A Generalization of Shostak# x2019; s Method for Combining Decision Procedures
+Citations:
+Authors: CW Barrett, DL Dill, A Stump
+Publication: Frontiers of Combining Systems
+
+148. An Industrially Effective Environment for Hardware Verification
+Citations:
+Authors: C Seger, R Jones, M Aagaard, T Melham, C Barrett, D Syme, F Expert
+Publication: 
+
+149. Formal Methods LNCS 10227
+Citations:
+Authors: C Barrett, M Davies, T Kahsai
+Publication: 
+
+150. Datatypes with Shared Selectors (Technical Report)
+Citations:
+Authors: A Reynolds, A Viswanathan, H Barbosa, C Tinelli, C Barrett
+Publication: 
+
+151. Rewrites for SMT Solvers using Syntax-Guided Enumeration (Work in Progress)
+Citations:
+Authors: A Reynolds, H Barbosa, A Niemetz, A Nötzli, M Preiner, C Barrett, ...
+Publication: 
+
+152. CVC3 Proof Conversion to LFSC
+Citations:
+Authors: A Reynolds, C Tinelli, A Stump, L Hadarean, Y Ge, C Barrett
+Publication: 
+
+153. ITC 2006 Most Significant Paper Award
+Citations:
+Authors: E Singh, C Barrett, S Mitra
+Publication: 
+
+154. Beyond DPLL (T): a new Boolean search framework for model-based theory reasoning
+Citations:
+Authors: C Barrett
+Publication: 
+
+155. An Introduction to Satisfiability Modulo Theories
+Citations:
+Authors: C Barrett, S Seshia
+Publication: 
+
+156. Theory Combination
+Citations:
+Authors: C Barrett
+Publication: 
+
+157. A Generalization of Shostak's Method and it's Relationship to the Nelson-Oppen Combination Procedure
+Citations:
+Authors: CW Barrett, DL Dill, A Stump
+Publication: 
+
+158. From SAT to SMT: Successes and Challenges
+Citations:
+Authors: C Barrett
+Publication: 
+
+159. From Declarative to Computational Proof Checking for LRA
+Citations:
+Authors: A Reynolds, L Hadarean, C Tinelli, Y Ge, A Stump, C Barrett
+Publication: 
+
+160. Satisfiability Modulo Theories in Practice
+Citations:
+Authors: C Barrett
+Publication: 
+
+161. Part I: Theory
+Citations:
+Authors: C Barrett, C Tinelli
+Publication: 
+
+162. SAT Solvers: Theory and Practice
+Citations:
+Authors: C Barrett
+Publication: 
+
+163. Cascade 2016
+Citations:
+Authors: W Wang, C Barrett
+Publication: 
+
+164. Satisfiability Modulo Theories Competition (SMT-COMP) 2006: Rules and Procedures (DRAFT)
+Citations:
+Authors: C Barrett, L de Moura, A Stump
+Publication: 
+
+165. Part II: Practice
+Citations:
+Authors: C Barrett, C Tinelli
+Publication: 
+
+166. SMT-COMP Entry: the Cooperating Validity Checker (CVC)
+Citations:
+Authors: A Stump, C Barrett, D Dill
+Publication: 
+

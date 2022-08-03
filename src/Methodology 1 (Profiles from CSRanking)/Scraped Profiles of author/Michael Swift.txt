@@ -1,0 +1,878 @@
+https://scholar.google.com/citations?hl=en&user=pqIGLH4AAAAJ
+Total Citations = 9492
+
+1. Mnemosyne: Lightweight persistent memory
+Citations:630
+Authors: H Volos, AJ Tack, MM Swift
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 91-104
+
+2. Improving the reliability of commodity operating systems
+Citations:483
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: ACM SIGOPS operating systems review 37 (5), 207-222
+
+3. Method and system for secure running of untrusted content
+Citations:425
+Authors: S Chan, G Jensenworth, MC Goertzel, B Shah, MM Swift, RB Ward
+Publication: US Patent 6,505,300
+
+4. LogTM-SE: Decoupling hardware transactional memory from caches
+Citations:399
+Authors: L Yen, J Bobba, MR Marty, KE Moore, H Volos, MD Hill, MM Swift, ...
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+5. Controlling access to objects on multiple operating systems
+Citations:397
+Authors: DS Montague, PK Misra, MM Swift
+Publication: US Patent 5,675,782
+
+6. Recovering device drivers
+Citations:375
+Authors: MM Swift, M Annamalai, BN Bershad, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 24 (4), 333-360
+
+7. Extensible security system and method for controlling access to objects in a computing environment
+Citations:326
+Authors: CP Van Dyke, PT Brundrett, MM Swift, P Garg, RB Ward
+Publication: US Patent 6,412,070
+
+8. Improving the reliability of commodity operating systems
+Citations:315
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 23 (1), 77-110
+
+9. Performance pathologies in hardware transactional memory
+Citations:275
+Authors: J Bobba, KE Moore, H Volos, L Yen, MD Hill, MM Swift, DA Wood
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 81-91
+
+10. Least privilege via restricted tokens
+Citations:253
+Authors: MM Swift
+Publication: US Patent 6,308,274
+
+11. Supporting nested transactional memory in LogTM
+Citations:241
+Authors: MJ Moravan, J Bobba, KE Moore, L Yen, MD Hill, B Liblit, MM Swift, ...
+Publication: ACM Sigplan Notices 41 (11), 359-370
+
+12. Method for changing passwords on a remote computer
+Citations:234
+Authors: MM Swift, CP Van Dyke, PK Misra
+Publication: US Patent 5,719,941
+
+13. Efficient virtual memory for big memory servers
+Citations:222
+Authors: A Basu, J Gandhi, J Chang, MD Hill, MM Swift
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 237-248
+
+14. Ensuring the integrity of remote boot client data
+Citations:212
+Authors: AD Barr, MM Swift, CT Lenzmeier
+Publication: US Patent 6,189,100
+
+15. Method and apparatus for merging user accounts from a source security domain into a target security domain
+Citations:202
+Authors: MM Swift, R Reichel, PK Misra, MRC Seaman, JW Kelly
+Publication: US Patent 5,768,519
+
+16. System and method of user logon in combination with user authentication for network access
+Citations:197
+Authors: JE Brezak Jr, RB Ward, MM Swift, PJ Leach
+Publication: US Patent 6,401,211
+
+17. FlashTier: a lightweight, consistent and durable storage cache
+Citations:184
+Authors: M Saxena, MM Swift, Y Zhang
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 267-280
+
+18. Security model using restricted tokens
+Citations:184
+Authors: G Jensenworth, P Garg, MM Swift, MC Goertzel, SJ Chan
+Publication: US Patent 6,279,111
+
+19. Method and apparatus for Migrating from a source domain network controller to a target domain network controller
+Citations:172
+Authors: CP Van Dyke, MM Swift, KW Logan, PK Misra
+Publication: US Patent 5,708,812
+
+20. Resource-freeing attacks: improve your cloud performance (at your neighbor's expense)
+Citations:160
+Authors: V Varadarajan, T Kooburat, B Farley, T Ristenpart, MM Swift
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+21. More for your money: exploiting performance heterogeneity in public clouds
+Citations:158
+Authors: B Farley, A Juels, V Varadarajan, T Ristenpart, KD Bowers, MM Swift
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 20
+
+22. Challenge-response authentication and key exchange for a connectionless security protocol
+Citations:144
+Authors: MM Swift, B Shah
+Publication: US Patent 6,377,691
+
+23. Aerie: Flexible file-system interfaces to storage-class memory
+Citations:142
+Authors: H Volos, S Nalli, S Panneerselvam, V Varadarajan, P Saxena, MM Swift
+Publication: Proceedings of the Ninth European Conference on Computer Systems, 14
+
+24. Tokentm: Efficient execution of large transactions with hardware transactional memory
+Citations:139
+Authors: J Bobba, N Goyal, MD Hill, MM Swift, DA Wood
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 127-138
+
+25. FlashVM: Virtual Memory Management on Flash.
+Citations:135
+Authors: M Saxena, MM Swift
+Publication: USENIX Annual Technical Conference
+
+26. Tolerating hardware device failures in software
+Citations:128
+Authors: A Kadav, MJ Renzelmann, MM Swift
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+27. The design and implementation of microdrivers
+Citations:125
+Authors: V Ganapathy, MJ Renzelmann, A Balakrishnan, MM Swift, S Jha
+Publication: ACM SIGOPS Operating Systems Review 42 (2), 168-178
+
+28. Scheduler-based defenses against cross-vm side-channels
+Citations:115
+Authors: V Varadarajan, T Ristenpart, M Swift
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 687-702
+
+29. A placement vulnerability study in multi-tenant public clouds
+Citations:110
+Authors: V Varadarajan, Y Zhang, T Ristenpart, M Swift
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 913-928
+
+30. Nooks: An architecture for reliable device drivers
+Citations:100
+Authors: MM Swift, S Martin, HM Levy, SJ Eggers
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 102-107
+
+31. Per property access control mechanism
+Citations:93
+Authors: P Garg, MM Swift, CP Van Dyke, RB Ward, PT Brundrett
+Publication: US Patent 6,289,458
+
+32. Non-broadcast signature-based transactional memory
+Citations:89
+Authors: DA Wood, MD Hill, MM Swift, MR Marty, L Yen, KE Moore, J Bobba, ...
+Publication: US Patent 8,239,633
+
+33. Redundant memory mappings for fast access to large memories
+Citations:78
+Authors: V Karakostas, J Gandhi, F Ayar, A Cristal, MD Hill, KS McKinley, ...
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 66-78
+
+34. SymDrive: testing drivers without devices
+Citations:77
+Authors: MJ Renzelmann, A Kadav, MM Swift
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+35. Object type specific access control
+Citations:77
+Authors: P Garg, MM Swift, CP Van Dyke, RB Ward, PT Brundrett
+Publication: US Patent 6,625,603
+
+36. Understanding modern device drivers
+Citations:73
+Authors: A Kadav, MM Swift
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 87-98
+
+37. An analysis of persistent memory use with WHISPER
+Citations:71
+Authors: S Nalli, S Haria, MD Hill, MM Swift, H Volos, K Keeton
+Publication: ACM SIGARCH Computer Architecture News 45 (1), 135-148
+
+38. Reducing memory reference energy with opportunistic virtual caching
+Citations:71
+Authors: A Basu, MD Hill, MM Swift
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 297-308
+
+39. Live migration of direct-access devices
+Citations:66
+Authors: A Kadav, MM Swift
+Publication: ACM SIGOPS Operating Systems Review 43 (3), 95-104
+
+40. System and method of proxy authentication in a secured network
+Citations:61
+Authors: MM Swift, N Amit, RB Ward
+Publication: US Patent 7,113,994
+
+41. Providing restartable file systems within computing devices
+Citations:60
+Authors: MM Swift, AC Arpaci-Dusseau, RH Arpaci-Dusseau, S Sundararaman, ...
+Publication: US Patent 8,510,597
+
+42. System and method of proxy authentication in a secured network
+Citations:58
+Authors: MM Swift, N Amit, RB Ward
+Publication: US Patent 7,716,722
+
+43. Efficient memory virtualization: Reducing dimensionality of nested page walks
+Citations:53
+Authors: J Gandhi, A Basu, MD Hill, MM Swift
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+44. Fine-grained fault tolerance using device checkpoints
+Citations:53
+Authors: A Kadav, MJ Renzelmann, MM Swift
+Publication: ACM SIGPLAN Notices 48 (4), 473-484
+
+45. Pathological interaction of locks with transactional memory
+Citations:50
+Authors: H Volos, N Goyal, MM Swift
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+46. Using Computers to Diagnose Computer Problems.
+Citations:49
+Authors: J Redstone, MM Swift, BN Bershad
+Publication: HotOS, 91-86
+
+47. System and method for managing and authenticating services via service principal names
+Citations:48
+Authors: JE Brezak Jr, RB Ward, PJ Leach, MM Swift
+Publication: US Patent 7,308,709
+
+48. Membrane: Operating system support for restartable file systems
+Citations:47
+Authors: S Sundararaman, S Subramanian, A Rajimwale, AC Arpaci-Dusseau, ...
+Publication: ACM Transactions on Storage (TOS) 6 (3), 11
+
+49. xCalls: safe I/O in memory transactions
+Citations:45
+Authors: H Volos, AJ Tack, N Goyal, MM Swift, A Welc
+Publication: Proceedings of the 4th ACM European conference on Computer systems, 247-260
+
+50. Improving the granularity of access control for Windows 2000
+Citations:42
+Authors: MM Swift, A Hopkins, P Brundrett, C Van Dyke, P Garg, S Chan, ...
+Publication: ACM Transactions on Information and System Security (TISSEC) 5 (4), 398-437
+
+51. System and method of user logon in combination with user authentication for network access
+Citations:41
+Authors: JE Brezak Jr, RB Ward, MM Swift, PJ Leach
+Publication: US Patent 6,427,209
+
+52. Microdrivers: A new architecture for device drivers
+Citations:40
+Authors: V Ganapathy, A Balakrishnan, MM Swift, S Jha
+Publication: Network 134, 27.8
+
+53. Peeking behind the curtains of serverless platforms
+Citations:39
+Authors: L Wang, M Li, Y Zhang, T Ristenpart, M Swift
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 133-146
+
+54. FlashVM: Revisiting the Virtual Memory Hierarchy.
+Citations:39
+Authors: M Saxena, MM Swift
+Publication: HotOS, 13-13
+
+55. Energy-efficient address translation
+Citations:36
+Authors: V Karakostas, J Gandhi, A Cristal, MD Hill, KS McKinley, M Nemirovsky, ...
+Publication: 2016 ieee international symposium on high performance computer architecture …
+
+56. Decaf: Moving Device Drivers to a Modern Language.
+Citations:36
+Authors: MJ Renzelmann, MM Swift
+Publication: USENIX Annual Technical Conference
+
+57. Chameleon: operating system support for dynamic processors
+Citations:35
+Authors: S Panneerselvam, MM Swift
+Publication: ACM SIGPLAN Notices 47 (4), 99-110
+
+58. Condition variables and transactional memory: Problem or opportunity
+Citations:35
+Authors: P Dudnik, MM Swift
+Publication: Proceedings of the 4th ACM SIGPLAN Workshop on Transactional Computing
+
+59. Getting real: Lessons in transitioning research simulations into hardware systems
+Citations:32
+Authors: M Saxena, Y Zhang, MM Swift, AC Arpaci-Dusseau, RH Arpaci-Dusseau
+Publication: Presented as part of the 11th {USENIX} Conference on File and Storage …
+
+60. Applying transactional memory to concurrency bugs
+Citations:30
+Authors: H Volos, AJ Tack, MM Swift, S Lu
+Publication: ACM Sigplan Notices 47 (4), 211-222
+
+61. Agile paging: exceeding the best of nested and shadow paging
+Citations:29
+Authors: J Gandhi, MD Hill, MM Swift
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+62. Performance analysis of the memory management unit under scale-out workloads
+Citations:28
+Authors: V Karakostas, OS Unsal, M Nemirovsky, A Cristal, M Swift
+Publication: 2014 IEEE International Symposium on Workload Characterization (IISWC), 1-12
+
+63. Analyzing the effects of disk-pointer corruption
+Citations:28
+Authors: LN Bairavasundaram, M Rungta, N Agrawa, AC Arpaci-Dusseau, ...
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+64. Rethinking security in the era of cloud computing
+Citations:27
+Authors: J Aikat, A Akella, JS Chase, A Juels, M Reiter, T Ristenpart, V Sekar, ...
+Publication: IEEE Security & Privacy
+
+65. BadgerTrap: a tool to instrument x86-64 TLB misses
+Citations:27
+Authors: J Gandhi, A Basu, MD Hill, MM Swift
+Publication: ACM SIGARCH Computer Architecture News 42 (2), 20-23
+
+66. Protecting commodity operating system kernels from vulnerable device drivers
+Citations:27
+Authors: S Butt, V Ganapathy, MM Swift, CC Chang
+Publication: 2009 Annual Computer Security Applications Conference, 301-310
+
+67. A case for an over-provisioned multicore system: Energy efficient processing of multithreaded programs
+Citations:26
+Authors: K Chakraborty, P Wells, G Sohi
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+68. An evaluation of speculative instruction execution on simultaneous multithreaded processors
+Citations:26
+Authors: S Swanson, LK McDowell, MM Swift, SJ Eggers, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 21 (3), 314-340
+
+69. A case for deconstructing hardware transactional memory systems
+Citations:25
+Authors: MD Hill, D Hower, KE Moore, MM Swift, H Volos, DA Wood
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+70. OS support for virtualizing hardware transactional memory
+Citations:24
+Authors: MM Swift, H Volos, N Goyal, L Yen, MD Hill, DA Wood
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+71. Not-so-random numbers in virtualized Linux and the Whirlwind RNG
+Citations:23
+Authors: A Everspaugh, Y Zhai, R Jellinek, T Ristenpart, M Swift
+Publication: 2014 IEEE Symposium on Security and Privacy, 559-574
+
+72. The Best of Both Worlds with On-Demand Virtualization.
+Citations:21
+Authors: T Kooburat, MM Swift
+Publication: HotOS
+
+73. Improving the granularity of access control in Windows NT
+Citations:18
+Authors: MM Swift, P Brundrett, C Van Dyke, P Garg, A Hopkins, S Chan, ...
+Publication: Proceedings of the sixth ACM symposium on Access control models and …
+
+74. Hathi: durable transactions for memory using flash
+Citations:16
+Authors: M Saxena, MA Shah, S Harizopoulos, MM Swift, A Merchant
+Publication: Proceedings of the Eighth International Workshop on Data Management on New …
+
+75. Performance pathologies in hardware transactional memory
+Citations:16
+Authors: J Bobba, KE Moore, H Volos, L Yen, MD Hill, MM Swift, DA Wood
+Publication: IEEE micro 28 (1), 32-41
+
+76. CQSTR: Securing cross-tenant applications with cloud containers
+Citations:15
+Authors: Y Zhai, L Yin, J Chase, T Ristenpart, M Swift
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 223-236
+
+77. Cascaded stalling of induction motors in fault-induced delayed voltage recovery (FIDVR)
+Citations:15
+Authors: H Chen
+Publication: 
+
+78. Range translations for fast virtual memory
+Citations:14
+Authors: J Gandhi, V Karakostas, F Ayar, A Cristal, MD Hill, KS McKinley, ...
+Publication: IEEE Micro 36 (3), 118-126
+
+79. FreshCache: Statically and dynamically exploiting dataless ways
+Citations:14
+Authors: A Basu, DR Hower, MD Hill, MM Swift
+Publication: 2013 IEEE 31st International Conference on Computer Design (ICCD), 286-293
+
+80. Implementation of Crossrealm Referral Handling in the MIT Kerberos Client.
+Citations:14
+Authors: JT Trostle, I Kosinovsky, MM Swift
+Publication: NDSS
+
+81. Determining instances to maintain on at least one cloud responsive to an evaluation of performance characteristics
+Citations:13
+Authors: A Juels, KD Bowers, B Farley, V Varadarajan, T Ristenpart, MM Swift
+Publication: US Patent 9,128,739
+
+82. Revisiting structured storage: A transactional record store
+Citations:13
+Authors: R Grimm, MM Swift, HM Levy
+Publication: University of Washington
+
+83. UNO: uniflying host and smart NIC offload for flexible packet processing
+Citations:12
+Authors: Y Le, H Chang, S Mukherjee, L Wang, A Akella, MM Swift, TV Lakshman
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 506-519
+
+84. Efficient memory management system for computers supporting virtual machines
+Citations:12
+Authors: J Gandhi, MD Hill, MM Swift
+Publication: US Patent 9,619,401
+
+85. I/O memory management unit providing self invalidated mapping
+Citations:12
+Authors: A Basu, MD Hill, MM Swift
+Publication: US Patent 9,547,603
+
+86. Operating systems should manage accelerators
+Citations:12
+Authors: S Panneerselvam, MM Swift
+Publication: Presented as part of the 4th {USENIX} Workshop on Hot Topics in Parallelism
+
+87. Live update for device drivers
+Citations:12
+Authors: MM Swift, D Martin-Guillerez, M Annamalai, BN Bershad, HM Levy
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+88. Devirtualizing memory in heterogeneous systems
+Citations:11
+Authors: S Haria, MD Hill, MM Swift
+Publication: ACM SIGPLAN Notices 53 (2), 637-650
+
+89. Rinnegan: Efficient resource use in heterogeneous architectures
+Citations:11
+Authors: S Panneerselvam, M Swift
+Publication: Proceedings of the 2016 International Conference on Parallel Architectures …
+
+90. A day late and a dollar short: The case for research on cloud billing systems
+Citations:11
+Authors: R Jellinek, Y Zhai, T Ristenpart, M Swift
+Publication: 6th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 14)
+
+91. Bolt: Faster reconfiguration in operating systems
+Citations:9
+Authors: S Panneerselvam, M Swift, NS Kim
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 511-516
+
+92. Microsoft Windows 2000 kerberos change password and set password protocols
+Citations:9
+Authors: M Swift, J Trostle, J Brezak
+Publication: 
+
+93. Virtual memory management system with reduced latency
+Citations:8
+Authors: A Basu, MD Hill, MM Swift
+Publication: US Patent 9,158,704
+
+94. Dessert: Design space exploration tool based on power and energy at system-level
+Citations:8
+Authors: SK Rethinagiri, O Palomar, A Cristal, O Unsal, MM Swift
+Publication: 2014 27th IEEE international System-on-chip conference (SOCC), 48-53
+
+95. Design and prototype of a solid-state cache
+Citations:8
+Authors: M Saxena, MM Swift
+Publication: ACM Transactions on Storage (TOS) 10 (3), 10
+
+96. Titan: Fair packet scheduling for commodity multiqueue NICs
+Citations:7
+Authors: B Stephens, A Singhvi, A Akella, M Swift
+Publication: 2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 431-444
+
+97. Storage-class memory needs flexible interfaces.
+Citations:7
+Authors: H Volos, S Panneerselvam, S Nalli, MM Swift
+Publication: APSys, 11:1-11:7
+
+98. A review of automatic code generation techniques
+Citations:7
+Authors: M Ganapathi, CN Fischer
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+99. Hands-off persistence system (HOPS)
+Citations:6
+Authors: S Haria, S Nalli, MM Swift, MD Hill, H Volos, K Keeton
+Publication: Nonvolatile Memories Workshop
+
+100. Parveen Shakir: A Note and Twelve Poems
+Citations:6
+Authors: CM Naim
+Publication: Center for South Asia, University of Wisconsin–Madison
+
+101. Sheet post-processing device and image formation system
+Citations:5
+Authors: R Hama, R Morita, A Johdai, S Seki, N Nakayama, M Matsui, H Kishi, ...
+Publication: US Patent 9,736,324
+
+102. The lived experience of nurses who encounter the unexpected death of a patient
+Citations:5
+Authors: TL Mumbrue
+Publication: 
+
+103. Loom: Flexible and Efficient {NIC} Packet Scheduling
+Citations:4
+Authors: B Stephens, A Akella, M Swift
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+104. Towards o (1) memory
+Citations:4
+Authors: MM Swift
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 7-11
+
+105. Storage systems for storage-class memory
+Citations:4
+Authors: H Volos, M Swift
+Publication: Proc. of Annual Non-Volatile Memories Workshop (NVMW’11)
+
+106. RoGUE: RDMA over Generic Unconverged Ethernet.
+Citations:3
+Authors: Y Le, B Stephens, A Singhvi, A Akella, MM Swift
+Publication: SoCC, 225-236
+
+107. vDrive: An Efficient and Consistent Virtual I/O System
+Citations:3
+Authors: M Saxena, P Zhou, DA Pease
+Publication: Proc. ACM SOSP
+
+108. Dynamic processors demand dynamic operating systems
+Citations:3
+Authors: S Panneerselvam, MM Swift
+Publication: Proc HotPar’10
+
+109. Past life therapy: an effective psychotherapeutic approach
+Citations:3
+Authors: C Lightbourn
+Publication: 
+
+110. Your programmable nic should be a programmable switch
+Citations:2
+Authors: B Stephens, A Akella, MM Swift
+Publication: Proceedings of the 17th ACM Workshop on Hot Topics in Networks, 36-42
+
+111. Draft: Towards o (1) memory
+Citations:2
+Authors: MM Swift
+Publication: HotOS
+
+112. TapCon: practical third-party attestation for the cloud
+Citations:2
+Authors: Y Zhai, Q Cao, J Chase, M Swift
+Publication: 9th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 17)
+
+113. Firestorm: Operating Systems for Power-Constrained Architectures
+Citations:2
+Authors: S Panneerselvam, MM Swift
+Publication: Technical report. University of Wisconsin--Madison. Retrieved from http …
+
+114. Why panic ()?: improving reliability with restartable file systems
+Citations:2
+Authors: S Sundararaman, S Subramanian, A Rajimwale, AC Arpaci-Dusseau, ...
+Publication: ACM SIGOPS Operating Systems Review 44 (1), 25-29
+
+115. Role of OS for I/O
+Citations:2
+Authors: M Swift, K Aagaard
+Publication: Denmark Strait overflow in the circulation of
+
+116. Frequency Domain Analysis of AC Dipole-dipole Electromagnetic Soundings
+Citations:2
+Authors: SC Johnston
+Publication: 
+
+117. Introduction to the Special Issue on NVM and Storage
+Citations:1
+Authors: CJ Xue, M Swift
+Publication: ACM Transactions on Storage (TOS) 14 (1), 2
+
+118. Agile Paging for Efficient Memory Virtualization
+Citations:1
+Authors: J Gandhi, MD Hill, MM Swift
+Publication: IEEE Micro 37 (3), 80-86
+
+119. Predicting Power Usage of Android Applications
+Citations:1
+Authors: B Bramble, M Swift
+Publication: 
+
+120. Revamping the system interface to storage-class memory
+Citations:1
+Authors: H Volos, MM Swift
+Publication: University of Wisconsin at Madison, Madison, WI
+
+121. Revisiting database storage optimizations on flash
+Citations:1
+Authors: M Saxena, MM Swift
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+122. Device Driver Reliability
+Citations:1
+Authors: MM Swift
+Publication: Advanced Operating Systems and Kernel Applications: Techniques and …
+
+123. A New Model for Managing Configuration Data
+Citations:1
+Authors: AN Tumbde, MM Swift
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+124. Initial Authentication and Pass Through Authentication Using Kerberos V5 and the GSS-API (IAKERB)
+Citations:1
+Authors: M Swift, J Trostle, B Aboba, G Zorn
+Publication: Internet draft (work in progress), draft-ietf-cat-iakerb-08. txt
+
+125. Orcia: Replication for large clusters
+Citations:1
+Authors: M Swift
+Publication: 
+
+126. Frequency of verbal and acoustic adjustments used by cerebral palsied-dysarthric adults when faced with communicative failure
+Citations:1
+Authors: B Ansel
+Publication: 
+
+127. The Need for Transparent Billing in Cloud Computing [J]
+Citations:1
+Authors: R Jellinek, T Ristenpart, M Swift
+Publication: 
+
+128. MOD: Minimally Ordered Durable Datastructures for Persistent Memory
+Citations:
+Authors: S Haria, MD Hill, MM Swift
+Publication: arXiv preprint arXiv:1908.11850
+
+129. On the Impact of Cluster Configuration on RoCE Application Design
+Citations:
+Authors: Y Le, B Stephens, A Akella, MM Swift
+Publication: Proceedings of the 3rd Asia-Pacific Workshop on Networking 2019, 64-70
+
+130. Don't Persist All: Efficient Persistent Data Structures
+Citations:
+Authors: P Mahapatra, MD Hill, MM Swift
+Publication: arXiv preprint arXiv:1905.13011
+
+131. Per-Application Power Delivery
+Citations:
+Authors: A Guliani, MM Swift
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 5
+
+132. {BIBIM}: A Prototype Multi-Partition Aware Heterogeneous New Memory
+Citations:
+Authors: G Park, M Kwon, P Mahapatra, M Swift, M Jung
+Publication: 10th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 18)
+
+133. POSTER-Firestorm: Operating systems for power-constrained architectures
+Citations:
+Authors: S Panneerselvam, M Swift
+Publication: 2016 International Conference on Parallel Architecture and Compilation …
+
+134. Firestorm: Operating Systems for Power-Constrained Architectures
+Citations:
+Authors: M Swift, S Panneerselvam
+Publication: 
+
+135. Proteus: Efficient Resource Use in Heterogeneous Architectures
+Citations:
+Authors: S Panneerselvam, M Swift
+Publication: 
+
+136. Analysis of High-Tension Cable Median Barrier Crashes and Associated Severities
+Citations:
+Authors: J Ash
+Publication: 
+
+137. Citation TR1808 Date May 16, 2014
+Citations:
+Authors: B Bramble, M Swift
+Publication: 
+
+138. Citation TR1797 Date Jun 17, 2013
+Citations:
+Authors: MM Swift, MD Hill, DR Hower, A Basu
+Publication: 
+
+139. FreshCache: Statically and Dynamically Exploiting Dataless Ways
+Citations:
+Authors: MM Swift, MD Hill, DR Hower, A Basu
+Publication: 
+
+140. Precise-Restartable Execution of Parallel Programs
+Citations:
+Authors: G Gupta, GS Sohi
+Publication: 
+
+141. Pre-Columbian Mesoamerican and Caribbean Ballgames: An Example of Cultural Diffusion
+Citations:
+Authors: G Schultz
+Publication: 
+
+142. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+143. Pragmatist or Pretender? Benjamin Franklin and Slavery
+Citations:
+Authors: S McCormick
+Publication: 
+
+144. The Lived Experience of Smokers Working in Smoking Regulated Environments
+Citations:
+Authors: SL Konen
+Publication: 
+
+145. The lived experience of young adults with chronic illness
+Citations:
+Authors: S Gilson
+Publication: 
+
+146. Lived experiences of women prior to the diagnosis of acute coronary syndrome
+Citations:
+Authors: T Zollar
+Publication: 
+
+147. The Lived Experience of Mothers of Soldiers Deployed to a War Zone
+Citations:
+Authors: K Kraus
+Publication: 
+
+148. The Lived Experience of Home Hospice Nurses Managing Patients with Terminal Restlessness
+Citations:
+Authors: M Smith
+Publication: 
+
+149. The School Property Tax and Homestead Credits: Accuracy, Equity, and Contribution to Overall Fiscal Relief
+Citations:
+Authors: V Allen, D Funia, KK Rifelj, M Steinberg
+Publication: University of Wisconsin-Madison, Robert M. La Follette School of Public Affairs
+
+150. Pashtun nationalism and the rise of jihad culture in Pakistan: the crisis of militant Islam in the building of an Islamic state
+Citations:
+Authors: T Goad
+Publication: 
+
+151. Predicting Maximal Heart Rate using Age, Resting Heart Rate, and Weight
+Citations:
+Authors: T Ebnet, E Kosinski, K Menges, M Rice, K Rudy
+Publication: Department of Kinesiology, University of Wisconsin-Eau Claire
+
+152. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+153. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+154. Kerberos Working Group Nicolas Williams INTERNET-DRAFT Sun Microsystems Category: Standards Track Jonathan Trostle Cisco Systems
+Citations:
+Authors: M Swift, J Brezak, B Gossman
+Publication: 
+
+155. Using Multiple Execution Contexts to Speed up Sequential Programs
+Citations:
+Authors: MM Swift
+Publication: 
+
+156. WITHDRAWN PATENT AS PER THE LATEST USPTO WITHDRAWN LIST
+Citations:
+Authors: CJ Sherr, D Quelle, MF Roussel, F Zindy
+Publication: 
+
+157. Carmichael Functions
+Citations:
+Authors: E Bach
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+158. The Case for a Great Lakes Studies Facility at the University of Wisconsin-Milwaukee
+Citations:
+Authors: CH Mortimer
+Publication: 
+
+159. French Right-wing extremism: World War I to the Fifth Republic
+Citations:
+Authors: E Strand
+Publication: 
+
+160. Not-So-Random Numbers
+Citations:
+Authors: A Everspaugh, Y Zhai, R Jellinek, T Ristenpart, M Swift
+Publication: 
+
+161. QuickStart: Booting VMs Faster in the Cloud
+Citations:
+Authors: Y Zhai, A Hittson, T Ristenpart, M Swift
+Publication: 
+
+162. Attestation-based Authorization for Stronger Security in the Cloud
+Citations:
+Authors: YZQCJ Chase, M Swift
+Publication: 
+
+163. Efficient Durability for Lock-based Code
+Citations:
+Authors: S Haria, P Mahapatra, MD Hill, MM Swift
+Publication: 
+
+164. Devirtualizing virtual memory for heterogeneous systems
+Citations:
+Authors: S Haria, MM Swift, MD Hill
+Publication: 
+
+165. Exploiting Heterogeneity in Amazon EC2 for Saving Cost
+Citations:
+Authors: M Jalal, V Varadarjan, M Swift
+Publication: 
+
+166. Practical Third-Party Attestation for the Cloud
+Citations:
+Authors: YZQCJ Chase, M Swift
+Publication: 
+
+167. JAYNEEL GANDHI
+Citations:
+Authors: M Swift, O Ünsal
+Publication: 
+
+168. Kerberos Working Group Karthik Jaganathan Internet Draft Larry Zhu Document: draft-ietf-krb-wg-kerberos-referrals-04. txt John Brezak Category: Standards Track Microsoft
+Citations:
+Authors: M Swift, J Trostle
+Publication: 
+
+169. Scheduler-‐based Defenses against Cross-‐VM Side-‐channels
+Citations:
+Authors: T Ristenpart, M Swift
+Publication: 
+
+170. Optimizing Client-side Resource Utilization in Public Clouds
+Citations:
+Authors: S Haria, M Patil, H Tariq, A Rathi, M Swift
+Publication: 
+
+171. Solid-State Cache Management
+Citations:
+Authors: M Saxena, MM Swift
+Publication: 
+
+172. Configuration Data Deserves a Database
+Citations:
+Authors: A Tumbde, MJ Renzelmann, MM Swift
+Publication: 
+
+173. Permissão para trazer cópias digitais ou duras de tudo ou parte deste trabalho pessoal ou uso de sala de aula é concedido sem taxa contanto que cópias sejam não feito ou …
+Citations:
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: 
+
+174. Univ. of Wisconsin Computer Sciences Technical Report CS-TR-2007-1594, June 2007. Local copy: pdf Also appears as Dagstuhl Seminar Proceedings 07361, editors Albert Cohen …
+Citations:
+Authors: MD Hill, D Hower, KE Moore, MM Swift, H Volos, DA Wood
+Publication: 
+
+175. Solid-state Cache
+Citations:
+Authors: M Saxena, MM Swift
+Publication: 
+

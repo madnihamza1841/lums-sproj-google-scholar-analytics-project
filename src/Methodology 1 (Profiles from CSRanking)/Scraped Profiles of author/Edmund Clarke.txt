@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=_adL2C8AAAAJ
+Total Citations = 71810
+
+1. Model checking
+Citations:13033
+Authors: EM Clarke Jr, O Grumberg, D Kroening, D Peled, H Veith
+Publication: MIT press
+
+2. Automatic verification of finite-state concurrent systems using temporal logic specifications
+Citations:4933
+Authors: EM Clarke, EA Emerson, AP Sistla
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 8 (2), 244-263
+
+3. Design and synthesis of synchronization skeletons using branching time temporal logic
+Citations:4014
+Authors: EM Clarke, EA Emerson
+Publication: Workshop on Logic of Programs, 52-71
+
+4. Symbolic model checking: 1020 states and beyond
+Citations:3938
+Authors: JR Burch, EM Clarke, KL McMillan, DL Dill, LJ Hwang
+Publication: Information and computation 98 (2), 142-170
+
+5. Symbolic model checking without BDDs
+Citations:2647
+Authors: A Biere, A Cimatti, E Clarke, Y Zhu
+Publication: International conference on tools and algorithms for the construction and …
+
+6. Model checking and abstraction
+Citations:2023
+Authors: EM Clarke, O Grumberg, DE Long
+Publication: ACM transactions on Programming Languages and Systems (TOPLAS) 16 (5), 1512-1542
+
+7. Counterexample-guided abstraction refinement
+Citations:1933
+Authors: E Clarke, O Grumberg, S Jha, Y Lu, H Veith
+Publication: International Conference on Computer Aided Verification, 154-169
+
+8. Nusmv 2: An opensource tool for symbolic model checking
+Citations:1885
+Authors: A Cimatti, E Clarke, E Giunchiglia, F Giunchiglia, M Pistore, M Roveri, ...
+Publication: International Conference on Computer Aided Verification, 359-364
+
+9. Formal methods: State of the art and future directions
+Citations:1810
+Authors: EM Clarke, JM Wing
+Publication: ACM Computing Surveys (CSUR) 28 (4), 626-643
+
+10. The complexity of propositional linear temporal logics
+Citations:1376
+Authors: AP Sistla, EM Clarke
+Publication: Journal of the ACM (JACM) 32 (3), 733-749
+
+11. A tool for checking ANSI-C programs
+Citations:1368
+Authors: E Clarke, D Kroening, F Lerda
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+12. Counterexample-guided abstraction refinement for symbolic model checking
+Citations:945
+Authors: E Clarke, O Grumberg, S Jha, Y Lu, H Veith
+Publication: Journal of the ACM (JACM) 50 (5), 752-794
+
+13. Bounded model checking.
+Citations:913
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in computers 58 (11), 117-148
+
+14. Using branching time temporal logic to synthesize synchronization skeletons
+Citations:902
+Authors: EA Emerson, EM Clarke
+Publication: Science of Computer programming 2 (3), 241-266
+
+15. Symbolic model checking using SAT procedures instead of BDDs
+Citations:894
+Authors: A Biere, A Cimatti, EM Clarke, M Fujita, Y Zhu
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 317-320
+
+16. Symbolic model checking for sequential circuit verification
+Citations:775
+Authors: JR Burch, EM Clarke, DE Long, KL McMillan, DL Dill
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+17. Bounded model checking using satisfiability solving
+Citations:768
+Authors: E Clarke, A Biere, R Raimi, Y Zhu
+Publication: Formal methods in system design 19 (1), 7-34
+
+18. NuSMV: A new symbolic model verifier
+Citations:767
+Authors: A Cimatti, E Clarke, F Giunchiglia, M Roveri
+Publication: International conference on computer aided verification, 495-499
+
+19. NuSMV: a new symbolic model checker
+Citations:696
+Authors: A Cimatti, E Clarke, F Giunchiglia, M Roveri
+Publication: International Journal on Software Tools for Technology Transfer 2 (4), 410-425
+
+20. Sequential circuit verification using symbolic model checking
+Citations:659
+Authors: JR Burch, EM Clarke, KL McMillan, DL Dill
+Publication: Proceedings of the 27th ACM/IEEE Design Automation Conference, 46-51
+
+21. Automatic verification of finite state concurrent system using temporal logic specifications: a practical approach
+Citations:652
+Authors: EM Clarke, EA Emerson, AP Sistla
+Publication: Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of …
+
+22. Modular verification of software components in C
+Citations:608
+Authors: S Chaki, EM Clarke, A Groce, S Jha, H Veith
+Publication: IEEE Transactions on Software Engineering 30 (6), 388-402
+
+23. Compositional model checking
+Citations:595
+Authors: EM Clarke, DE Long, KL McMillan
+Publication: [1989] Proceedings. Fourth Annual Symposium on Logic in Computer Science …
+
+24. Characterizing finite Kripke structures in propositional temporal logic
+Citations:513
+Authors: MC Browne, EM Clarke, O Grümberg
+Publication: Theoretical Computer Science 59 (1-2), 115-131
+
+25. Characterizing correctness properties of parallel programs using fixpoints
+Citations:511
+Authors: EA Emerson, EM Clarke
+Publication: International Colloquium on Automata, Languages, and Programming, 169-181
+
+26. Verification tools for finite-state concurrent systems
+Citations:420
+Authors: E Clarke, O Grumberg, D Long
+Publication: Workshop/School/Symposium of the REX Project (Research and Education in …
+
+27. Symbolic model checking with partitioned transition relations
+Citations:409
+Authors: J Burch, EM Clarke, D Long
+Publication: figshare
+
+28. Cognitive computing
+Citations:401
+Authors: DS Modha, R Ananthanarayanan, SK Esser, A Ndirango, AJ Sherbondy, ...
+Publication: Communications of the ACM 54 (8), 62-71
+
+29. Exploiting symmetry in temporal logic model checking
+Citations:360
+Authors: EM Clarke, R Enders, T Filkorn, S Jha
+Publication: Formal methods in system design 9 (1-2), 77-104
+
+30. Spectral transforms for large boolean functions with applications to technology mapping
+Citations:357
+Authors: EM Clarke, KL McMillan, X Zhao, M Fujita, J Yang
+Publication: 30th ACM/IEEE Design Automation Conference, 54-60
+
+31. SATABS: SAT-based predicate abstraction for ANSI-C
+Citations:346
+Authors: E Clarke, D Kroening, N Sharygina, K Yorav
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+32. Behavioral consistency of C and Verilog programs using bounded model checking
+Citations:339
+Authors: E Clarke, D Kroening, K Yorav
+Publication: Proceedings 2003. Design Automation Conference (IEEE Cat. No. 03CH37451 …
+
+33. Efficient generation of counterexamples and witnesses in symbolic model checking
+Citations:303
+Authors: EM Clarke
+Publication: 32nd Design Automation Conference, 427-432
+
+34. Reasoning about Networks with Many Identical Finite-State Processes.
+Citations:303
+Authors: EM Clarke, O Grumberg, MC Browne
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+35. Automatic verification of sequential circuits using temporal logic
+Citations:290
+Authors: MC Browne, EM Clarke, DL Dill, B Mishra
+Publication: IEEE Transactions on Computers, 1035-1044
+
+36. Exploiting symmetry in temporal logic model checking
+Citations:281
+Authors: EM Clarke, T Filkorn, S Jha
+Publication: International Conference on Computer Aided Verification, 450-462
+
+37. Computer-aided verification
+Citations:276
+Authors: EM Clarke, RP Kurshan
+Publication: IEEE Spectrum 33 (6), 61-67
+
+38. Model checking: algorithmic verification and debugging
+Citations:269
+Authors: EM Clarke, EA Emerson, J Sifakis
+Publication: Communications of the ACM 52 (11), 74-84
+
+39. dReal: An SMT Solver for Nonlinear Theories over the Reals
+Citations:259
+Authors: S Gao, S Kong, EM Clarke
+Publication: International conference on automated deduction, 208-214
+
+40. Progress on the state explosion problem in model checking
+Citations:258
+Authors: E Clarke, O Grumberg, S Jha, Y Lu, H Veith
+Publication: Informatics, 176-194
+
+41. Representing circuits more efficiently in symbolic model checking
+Citations:254
+Authors: JRBEM Clarke, DБ Long
+Publication: 28th ACM/IEEE Design Automation Conference, 403-407
+
+42. Predicate abstraction of ANSI-C programs using SAT
+Citations:243
+Authors: E Clarke, D Kroening, N Sharygina, K Yorav
+Publication: Formal Methods in System Design 25 (2-3), 105-127
+
+43. A bayesian approach to model checking biological systems
+Citations:241
+Authors: SK Jha, EM Clarke, CJ Langmead, A Legay, A Platzer, P Zuliani
+Publication: International Conference on Computational Methods in Systems Biology, 218-234
+
+44. Verification of the Futurebus+ cache coherence protocol
+Citations:238
+Authors: EM Clarke, O Grumberg, H Hiraishi, S Jha, DE Long, KL McMillan, ...
+Publication: Computer Hardware Description Languages and Their Applications, 15-30
+
+45. The birth of model checking
+Citations:235
+Authors: EM Clarke
+Publication: 25 Years of Model Checking, 1-26
+
+46. Model checking, abstraction, and compositional verification
+Citations:234
+Authors: DE Long, EM Clarke, RE Bryant, SD Brookes, O Grumberg
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+47. Ranking attack graphs
+Citations:231
+Authors: V Mehta, C Bartzis, H Zhu, E Clarke, J Wing
+Publication: International Workshop on Recent Advances in Intrusion Detection, 127-144
+
+48. Efficient filtering in publish-subscribe systems using binary decision diagrams
+Citations:226
+Authors: A Campailla, S Chaki, E Clarke, S Jha, H Veith
+Publication: Proceedings of the 23rd International Conference on Software Engineering …
+
+49. Abstraction and counterexample-guided refinement in model checking of hybrid systems
+Citations:218
+Authors: E Clarke, A Fehnker, Z Han, B Krogh, J Ouaknine, O Stursberg, ...
+Publication: International journal of foundations of computer science 14 (04), 583-604
+
+50. Bounded Model Checking.
+Citations:207
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Handbook of satisfiability 185 (99), 457-481
+
+51. Symbolic model checking for probabilistic processes
+Citations:207
+Authors: C Baier, EM Clarke, V Hartonas-Garmhausen, M Kwiatkowska, M Ryan
+Publication: International Colloquium on Automata, Languages, and Programming, 430-440
+
+52. Verifying security protocols with Brutus
+Citations:203
+Authors: EM Clarke, S Jha, W Marrero
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 9 (4), 443-487
+
+53. State/event-based software model checking
+Citations:201
+Authors: S Chaki, EM Clarke, J Ouaknine, N Sharygina, N Sinha
+Publication: International Conference on Integrated Formal Methods, 128-147
+
+54. Another look at LTL model checking
+Citations:199
+Authors: E Clarke, O Grumberg, K Hamaguchi
+Publication: International Conference on Computer Aided Verification, 415-427
+
+55. Compositional reasoning in model checking
+Citations:194
+Authors: S Berezin, S Campos, EM Clarke
+Publication: International Symposium on Compositionality, 81-102
+
+56. Verifying Safety Properties of a PowerPC− Microprocessor Using Symbolic Model Checking without BDDs
+Citations:189
+Authors: A Biere, E Clarke, R Raimi, Y Zhu
+Publication: International Conference on Computer Aided Verification, 60-71
+
+57. SAT based abstraction-refinement using ILP and machine learning techniques
+Citations:188
+Authors: E Clarke, A Gupta, J Kukula, O Strichman
+Publication: International Conference on Computer Aided Verification, 265-279
+
+58. Symmetry reductions in model checking
+Citations:188
+Authors: EM Clarke, EA Emerson, S Jha, AP Sistla
+Publication: International Conference on Computer Aided Verification, 147-158
+
+59. Model checking
+Citations:187
+Authors: EM Clarke
+Publication: International Conference on Foundations of Software Technology and …
+
+60. Programming language constructs for which it is impossible to obtain good Hoare axiom systems
+Citations:185
+Authors: EM Clarke Jr
+Publication: Journal of the ACM (JACM) 26 (1), 129-147
+
+61. Avoiding the state explosion problem in temporal logic model checking algorithms
+Citations:183
+Authors: EM Clarke, O Grumberg
+Publication: Carnegie Mellon University, Computer Science Department
+
+62. dReach: δ-Reachability Analysis for Hybrid Systems
+Citations:177
+Authors: S Kong, S Gao, W Chen, E Clarke
+Publication: International Conference on TOOLS and Algorithms for the Construction and …
+
+63. State space reduction using partial order techniques
+Citations:177
+Authors: EM Clarke, O Grumberg, M Minea, D Peled
+Publication: International Journal on Software Tools for Technology Transfer 2 (3), 279-287
+
+64. Another look at LTL model checking
+Citations:177
+Authors: EM Clarke, O Grumberg, K Hamaguchi
+Publication: Formal Methods in System Design 10 (1), 47-71
+
+65. Automated abstraction refinement for model checking large state spaces using SAT based conflict analysis
+Citations:174
+Authors: P Chauhan, E Clarke, J Kukula, S Sapra, H Veith, D Wang
+Publication: International Conference on Formal Methods in Computer-Aided Design, 33-51
+
+66. Using state space exploration and a natural deduction style message derivation engine to verify security protocols
+Citations:169
+Authors: EM Clarke, S Jha, W Marrero
+Publication: Programming Concepts and Methods PROCOMET’98, 87-106
+
+67. Tree-like counterexamples in model checking
+Citations:165
+Authors: E Clarke, S Jha, Y Lu, H Veith
+Publication: Proceedings 17th Annual IEEE Symposium on Logic in Computer Science, 19-29
+
+68. Verification of the Futurebus+ cache coherence protocol
+Citations:162
+Authors: EM Clarke, O Grumberg, H Hiraishi, S Jha, DE Long, KL McMillan, ...
+Publication: Formal Methods in System Design 6 (2), 217-232
+
+69. Hybrid decision diagrams
+Citations:160
+Authors: EM Clarke, M Fujita, X Zhao
+Publication: Proceedings of the 1995 IEEE/ACM international conference on Computer-aided …
+
+70. Solving QBF with counterexample guided refinement
+Citations:159
+Authors: M Janota, W Klieber, J Marques-Silva, E Clarke
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+71. Verifying parameterized networks using abstraction and regular languages
+Citations:153
+Authors: EM Clarke, O Grumberg, S Jha
+Publication: International Conference on Concurrency Theory, 395-407
+
+72. Model checking and the state explosion problem
+Citations:152
+Authors: EM Clarke, W Klieber, M Nováček, P Zuliani
+Publication: LASER Summer School on Software Engineering, 1-30
+
+73. Expressibility results for linear-time and branching-time logics
+Citations:152
+Authors: EM Clarke, IA Draghicescu
+Publication: Workshop/School/Symposium of the REX Project (Research and Education in …
+
+74. Automatic verification of asynchronous circuits using temporal logic
+Citations:152
+Authors: DL Dill, EM Clarke
+Publication: IEE Proceedings E (Computers and Digital Techniques) 133 (5), 276-282
+
+75. Bayesian statistical model checking with application to simulink/stateflow verification
+Citations:147
+Authors: P Zuliani, A Platzer, EM Clarke
+Publication: Proceedings of the 13th ACM international conference on Hybrid systems …
+
+76. Model checking for security protocols
+Citations:147
+Authors: W Marrero, E Clarke, S Jha
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+77. Completeness and complexity of bounded model checking
+Citations:143
+Authors: E Clarke, D Kroening, J Ouaknine, O Strichman
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+78. Symbolic model checking
+Citations:143
+Authors: E Clarke, K McMillan, S Campos, V Hartonas-Garmhausen
+Publication: International conference on computer aided verification, 419-422
+
+79. Statistical model checking for cyber-physical systems
+Citations:136
+Authors: EM Clarke, P Zuliani
+Publication: International Symposium on Automated Technology for Verification and …
+
+80. Verification of hybrid systems based on counterexample-guided abstraction refinement
+Citations:136
+Authors: E Clarke, A Fehnker, Z Han, B Krogh, O Stursberg, M Theobald
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+81. δ-complete decision procedures for satisfiability over the reals
+Citations:133
+Authors: S Gao, J Avigad, EM Clarke
+Publication: International Joint Conference on Automated Reasoning, 286-300
+
+82. Combining decision diagrams and SAT procedures for efficient symbolic model checking
+Citations:131
+Authors: PF Williams, A Biere, EM Clarke, A Gupta
+Publication: International Conference on Computer Aided Verification, 124-138
+
+83. Fast maintenance of semantic integrity assertions using redundant aggregate data
+Citations:128
+Authors: PA Bernstein, BT Blaustein, EM Clarke
+Publication: Readings in Artificial Intelligence and Databases, 457-467
+
+84. Computing differential invariants of hybrid systems as fixedpoints
+Citations:122
+Authors: A Platzer, EM Clarke
+Publication: International Conference on Computer Aided Verification, 176-189
+
+85. Automatic verification of sequential control systems using temporal logic
+Citations:122
+Authors: I Moon, GJ Powers, JR Burch, EM Clarke
+Publication: AIChE Journal 38 (1), 67-75
+
+86. Research on automatic verification of finite-state concurrent systems
+Citations:122
+Authors: EM Clarke, O Grümberg
+Publication: Annual Review of Computer Science 2 (1), 269-290
+
+87. Analytica—A theorem prover in Mathematica
+Citations:121
+Authors: E Clarke, X Zhao
+Publication: International Conference on Automated Deduction, 761-765
+
+88. Statistical model checking in biolab: Applications to the automated analysis of t-cell receptor signaling pathway
+Citations:117
+Authors: EM Clarke, JR Faeder, CJ Langmead, LA Harris, SK Jha, A Legay
+Publication: International Conference on Computational Methods in Systems Biology, 231-250
+
+89. Environment abstraction for parameterized verification
+Citations:117
+Authors: E Clarke, M Talupur, H Veith
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+90. A model checker for authentication protocols
+Citations:117
+Authors: W Marrero, E Clarke, S Jha
+Publication: Proceedings of the DIMACS workshop on design and formal verification of …
+
+91. An improved algorithm for the evaluation of fixpoint expressions
+Citations:117
+Authors: DE Long, A Browne, EM Clarke, S Jha, WR Marrero
+Publication: International Conference on Computer Aided Verification, 338-350
+
+92. Program slicing of hardware description languages
+Citations:115
+Authors: EM Clarke, M Fujita, SP Rajan, T Reps, S Shankar, T Teitelbaum
+Publication: Advanced Research Working Conference on Correct Hardware Design and …
+
+93. Modular translation of Statecharts to SMV
+Citations:113
+Authors: EM Clarke, W Heinle
+Publication: Technical Report CMU-CS-00-XXX, Carnegie Mellon University School of …
+
+94. Bayesian statistical model checking with application to Stateflow/Simulink verification
+Citations:109
+Authors: P Zuliani, A Platzer, EM Clarke
+Publication: Formal Methods in System Design 43 (2), 338-367
+
+95. Hardware verification using ANSI-C programs as a reference
+Citations:109
+Authors: E Clarke, D Kroening
+Publication: Proceedings of the ASP-DAC Asia and South Pacific Design Automation …
+
+96. Formal verification of curved flight collision avoidance maneuvers: A case study
+Citations:107
+Authors: A Platzer, EM Clarke
+Publication: International Symposium on Formal Methods, 547-562
+
+97. Computing quantitative characteristics of finite-state real-time systems
+Citations:104
+Authors: S Campos, E Clarke, W Marrero, M Minea, H Hiraishi
+Publication: RTSS, 266-270
+
+98. Real-time symbolic model checking for discrete time models
+Citations:104
+Authors: SV Campos, EM Clarke
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+99. A language for compositional specification and verification of finite state hardware controllers
+Citations:104
+Authors: EM Clarke, DE Long, KL McMILLAN
+Publication: Proceedings of the IEEE 79 (9), 1283-1292
+
+100. Statistical model checking for Markov decision processes
+Citations:100
+Authors: D Henriques, JG Martins, P Zuliani, A Platzer, EM Clarke
+Publication: 2012 Ninth International Conference on Quantitative Evaluation of Systems, 84-93
+
+101. A parallel algorithm for constructing binary decision diagrams
+Citations:97
+Authors: S Kimura, EM Clarke
+Publication: Proceedings., 1990 IEEE International Conference on Computer Design: VLSI in …
+
+102. Arithmetic strengthening for shape analysis
+Citations:93
+Authors: S Magill, J Berdine, E Clarke, B Cook
+Publication: International Static Analysis Symposium, 419-436
+
+103. 1020 states and beyond
+Citations:92
+Authors: JR Burch, EM Clarke, KL McMillan, DL Dill, J Hwang
+Publication: LICS 90 (5), 428-439
+
+104. Word level predicate abstraction and refinement for verifying RTL verilog
+Citations:91
+Authors: H Jain, D Kroening, N Sharygina, E Clarke
+Publication: Proceedings. 42nd Design Automation Conference, 2005., 445-450
+
+105. Verifying IP-core based system-on-chip designs
+Citations:89
+Authors: P Chauhan, EM Clarke, Y Lu, D Wang
+Publication: Twelfth Annual IEEE International ASIC/SOC Conference (Cat. No. 99TH8454), 27-31
+
+106. Model checking
+Citations:88
+Authors: E Clarke, O Grumberg, D Long
+Publication: Proceedings of the NATO Advanced Study Institute on Deductive program design …
+
+107. Automated assume-guarantee reasoning for simulation conformance
+Citations:87
+Authors: S Chaki, E Clarke, N Sinha, P Thati
+Publication: International Conference on Computer Aided Verification, 534-547
+
+108. Satisfiability modulo odes
+Citations:84
+Authors: S Gao, S Kong, EM Clarke
+Publication: 2013 Formal Methods in Computer-Aided Design, 105-112
+
+109. Efficient verification of sequential and concurrent C programs
+Citations:84
+Authors: S Chaki, E Clarke, A Groce, J Ouaknine, O Strichman, K Yorav
+Publication: Formal Methods in System Design 25 (2-3), 129-166
+
+110. Verifying concurrent message-passing C programs with recursive calls
+Citations:82
+Authors: S Chaki, E Clarke, N Kidd, T Reps, T Touili
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+111. Verus: a tool for quantitative analysis of finite-state real-time systems
+Citations:80
+Authors: S Campos, E Clarke, W Marrero, M Minea
+Publication: ACM SIGPLAN Notices 30 (11), 70-78
+
+112. Verifying parameterized networks
+Citations:79
+Authors: EM Clarke, O Grumberg, S Jha
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 19 (5), 726-750
+
+113. The image computation problem in hybrid systems model checking
+Citations:77
+Authors: A Platzer, EM Clarke
+Publication: International Workshop on Hybrid Systems: Computation and Control, 473-486
+
+114. An improved algorithm for the evaluation of fixpoint expressions
+Citations:77
+Authors: A Browne, EM Clarke, S Jha, DE Long, W Marrero
+Publication: Theoretical Computer Science 178 (1-2), 237-255
+
+115. Computing differential invariants of hybrid systems as fixedpoints
+Citations:76
+Authors: A Platzer, EM Clarke
+Publication: Formal Methods in System Design 35 (1), 98-120
+
+116. Efficient verification of parallel real-time systems
+Citations:76
+Authors: T Yoneda, A Shibayama, BH Schlingloff, EM Clarke
+Publication: International Conference on Computer Aided Verification, 321-332
+
+117. A unified approach for showing language containment and equivalence between various types of ω-automata
+Citations:76
+Authors: EM Clarke, IA Browne, RP Kurshan
+Publication: Colloquium on Trees in Algebra and Programming, 103-116
+
+118. Verification by network decomposition
+Citations:75
+Authors: E Clarke, M Talupur, T Touili, H Veith
+Publication: International Conference on Concurrency Theory, 276-291
+
+119. Multi-terminal binary decision diagrams and hybrid decision diagrams
+Citations:75
+Authors: EM Clarke, M Fujita, X Zhao
+Publication: Representations of discrete functions, 93-108
+
+120. Reachability for linear hybrid automata using iterative relaxation abstraction
+Citations:74
+Authors: SK Jha, BH Krogh, JE Weimer, EM Clarke
+Publication: International Workshop on Hybrid Systems: Computation and Control, 287-300
+
+121. Predicate abstraction with minimum predicates
+Citations:74
+Authors: S Chaki, E Clarke, A Groce, O Strichman
+Publication: Advanced Research Working Conference on Correct Hardware Design and …
+
+122. Combining symbolic model checking with uninterpreted functions for out-of-order processor verification
+Citations:74
+Authors: S Berezin, A Biere, E Clarke, Y Zhu
+Publication: International Conference on Formal Methods in Computer-Aided Design, 369-386
+
+123. A non-prenex, non-clausal QBF solver with game-state learning
+Citations:73
+Authors: W Klieber, S Sapra, S Gao, E Clarke
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+124. Concurrent software verification with states, events, and deadlocks
+Citations:73
+Authors: S Chaki, E Clarke, J Ouaknine, N Sharygina, N Sinha
+Publication: Formal Aspects of Computing 17 (4), 461-483
+
+125. SAT-based counterexample-guided abstraction refinement
+Citations:73
+Authors: EM Clarke, A Gupta, O Strichman
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+126. Counterexamples revisited: Principles, algorithms, applications
+Citations:73
+Authors: E Clarke, H Veith
+Publication: Verification: Theory and Practice, 208-224
+
+127. Model Checking. 2000
+Citations:73
+Authors: EM Clarke, O Grumberg, D Peled
+Publication: MIT press
+
+128. Hierarchical verification of asynchronous circuits using temporal logic
+Citations:73
+Authors: B Mishra, E Clarke
+Publication: Theoretical Computer Science 38, 269-291
+
+129. Verifying the performance of the PCI local bus using symbolic techniques
+Citations:72
+Authors: S Campos, E Clarke, W Marrero, M Minea
+Publication: Proceedings of ICCD'95 International Conference on Computer Design. VLSI in …
+
+130. Handbook of model checking
+Citations:71
+Authors: EM Clarke, TA Henzinger, H Veith, R Bloem
+Publication: Springer
+
+131. Analysis and verification of the HMGB1 signaling pathway
+Citations:71
+Authors: H Gong, P Zuliani, A Komuravelli, JR Faeder, EM Clarke
+Publication: BMC bioinformatics 11 (7), S10
+
+132. Verification of all circuits in a floating-point unit using word-level model checking
+Citations:71
+Authors: YA Chen, E Clarke, PH Ho, Y Hoskote, T Kam, M Khaira, J O'Leary, ...
+Publication: International Conference on Formal Methods in Computer-Aided Design, 19-33
+
+133. Inferring invariants in separation logic for imperative list-processing programs
+Citations:70
+Authors: S Magill, A Nanevski, E Clarke, P Lee
+Publication: SPACE 1 (1), 5.7
+
+134. Automated compositional abstraction refinement for concurrent C programs: A two-level approach
+Citations:66
+Authors: S Chaki, J Ouaknine, K Yorav, E Clarke
+Publication: Electronic Notes in Theoretical Computer Science 89 (3), 417-432
+
+135. SAT based predicate abstraction for hardware verification
+Citations:66
+Authors: E Clarke, M Talupur, H Veith, D Wang
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+136. Learning minimal separating DFA’s for compositional verification
+Citations:65
+Authors: YF Chen, A Farzan, EM Clarke, YK Tsay, BY Wang
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+137. Solving QBF with counterexample guided refinement
+Citations:64
+Authors: M Janota, W Klieber, J Marques-Silva, E Clarke
+Publication: Artificial Intelligence 234, 1-25
+
+138. Delta-decidability over the reals
+Citations:63
+Authors: S Gao, J Avigad, EM Clarke
+Publication: Proceedings of the 2012 27th Annual IEEE/ACM Symposium on Logic in Computer …
+
+139. Proving ptolemy right: The environment abstraction framework for model checking concurrent systems
+Citations:63
+Authors: E Clarke, M Talupur, H Veith
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+140. Orna Grumberg, and Doron A. Peled. Model Checking
+Citations:63
+Authors: EM Clarke Jr
+Publication: The MIT Press
+
+141. Dynamic component substitutability analysis
+Citations:61
+Authors: N Sharygina, S Chaki, E Clarke, N Sinha
+Publication: International Symposium on Formal Methods, 512-528
+
+142. Parthenon: A parallel theorem prover for non-Horn clauses
+Citations:60
+Authors: S Bose, EM Clarke, DE Long, S Michaylov
+Publication: Journal of Automated Reasoning 8 (2), 153-181
+
+143. Verification of a safety-critical railway interlocking system with real-time constraints
+Citations:59
+Authors: V Hartonas-Garmhausen, S Campos, A Cimatti, E Clarke, F Giunchiglia
+Publication: Science of Computer Programming 36 (1), 53-64
+
+144. Analytica–an experiment in combining theorem proving and symbolic computation
+Citations:59
+Authors: A Bauer, E Clarke, X Zhao
+Publication: Journal of Automated Reasoning 21 (3), 295-325
+
+145. Model checking
+Citations:58
+Authors: O Grumberg, EM Clarke, D Peled
+Publication: The MIT Press
+
+146. Characterizing Kripke structures in temporal logic
+Citations:58
+Authors: MC Browne, EM Clarke, O Grümberg
+Publication: Colloquium on Trees in Algebra and Programming, 256-270
+
+147. Counterexample guided abstraction refinement via program execution
+Citations:57
+Authors: D Kroening, A Groce, E Clarke
+Publication: International Conference on Formal Engineering Methods, 224-238
+
+148. ProbVerus: probabilistic symbolic model checking
+Citations:56
+Authors: V Hartonas-Garmhausen, S Campos, E Clarke
+Publication: International AMAST Workshop on Aspects of Real-Time Systems and Concurrent …
+
+149. Word level model checking-Avoiding the Pentium FDIV Error
+Citations:56
+Authors: EM Clarke, M Khaira, X Zhao
+Publication: 33rd Design Automation Conference Proceedings, 1996, 645-648
+
+150. A Methodology for Formal Hardware Verification, with Application to Microprocessors.
+Citations:56
+Authors: DL Beatty, RE Bryant, EM Clarke Jr, AL Fisher, CJH Seger
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+151. On effective axiomatizations of Hoare logics
+Citations:56
+Authors: EM Clarke Jr, SM German, JY Halpern
+Publication: Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+152. Extending automated compositional verification to the full class of omega-regular languages
+Citations:55
+Authors: A Farzan, YF Chen, EM Clarke, YK Tsay, BY Wang
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+153. SML-a high level language for the design and verification of finite state machines
+Citations:55
+Authors: MC Browne, EM Clarke
+Publication: figshare
+
+154. Partial order reductions for security protocol verification
+Citations:54
+Authors: E Clarke, S Jha, W Marrero
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+155. 0. Grumberg, and D. Peled
+Citations:51
+Authors: EM Clarke
+Publication: Model Checking
+
+156. Automatic abstraction in SMT-based unbounded software model checking
+Citations:50
+Authors: A Komuravelli, A Gurfinkel, S Chaki, EM Clarke
+Publication: International Conference on Computer Aided Verification, 846-862
+
+157. Using SAT based image computation for reachability analysis
+Citations:50
+Authors: P Chauhan, EM Clarke, D Kroening
+Publication: School of Computer Science, Carnegie Mellon University
+
+158. Bounded Model Checking, volume 58 of Advances in computers
+Citations:50
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Academic press
+
+159. Synthesis of resource invariants for concurrent programs
+Citations:50
+Authors: E Clarke Jr
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 2 (3), 338-358
+
+160. Assume-guarantee abstraction refinement for probabilistic systems
+Citations:49
+Authors: A Komuravelli, CS Păsăreanu, EM Clarke
+Publication: International Conference on Computer Aided Verification, 310-326
+
+161. Computational challenges in bounded model checking
+Citations:49
+Authors: E Clarke, D Kroening, J Ouaknine, O Strichman
+Publication: International Journal on Software Tools for Technology Transfer 7 (2), 174-183
+
+162. Word level symbolic model checking: A new approach for verifying arithmetic circuits
+Citations:49
+Authors: E Clarke, X Zhao
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+163. Statistical verification of probabilistic properties with unbounded until
+Citations:47
+Authors: HLS Younes, EM Clarke, P Zuliani
+Publication: Brazilian Symposium on Formal Methods, 144-160
+
+164. Statistical model checking of mixed-analog circuits with an application to a third order Δ− Σ modulator
+Citations:47
+Authors: E Clarke, A Donzé, A Legay
+Publication: Haifa Verification Conference, 149-163
+
+165. Esterel: A formal method applied to avionic software development
+Citations:47
+Authors: G Berry, A Bouali, X Fornari, E Ledinot, E Nassor, R De Simone
+Publication: Science of Computer Programming 36 (1), 5-25
+
+166. Spectral transforms for extremely large Boolean functions
+Citations:47
+Authors: EM Clarke
+Publication: Proc. IFIP WG 10.5 Workshop on Applications of the Reed-Muller Expansion in …
+
+167. Integrating ICP and LRA solvers for deciding nonlinear real arithmetic problems
+Citations:45
+Authors: S Gao, M Ganai, F Ivančić, A Gupta, S Sankaranarayanan, EM Clarke
+Publication: Formal Methods in Computer Aided Design, 81-89
+
+168. Verifying the SRT division algorithm using theorem proving techniques
+Citations:45
+Authors: EM Clarke, SM German, X Zhao
+Publication: International Conference on Computer Aided Verification, 111-122
+
+169. Automatic verification of sequential circuit designs
+Citations:45
+Authors: EM Clarke, JR Burch, O Grumberg, DE Long, KL McMillan
+Publication: Philosophical Transactions of the Royal Society of London. Series A …
+
+170. Can message buffers be axiomatized in linear temporal logic?
+Citations:45
+Authors: AP Sistla, EM Clarke, N Francez, AR Meyer
+Publication: Information and Control 63 (1-2), 88-112
+
+171. The Verus tool: A quantitative approach to the formal verification of real-time systems
+Citations:42
+Authors: S Campos, E Clarke, M Minea
+Publication: International Conference on Computer Aided Verification, 452-455
+
+172. Design and synthesis of synchronization skeletons using branching time temporal logic
+Citations:41
+Authors: EM Clarke, EA Emerson
+Publication: 25 Years of Model Checking, 196-215
+
+173. A machine checkable logic of knowledge for specifying security properties of electronic commerce protocols
+Citations:41
+Authors: E Clarke, S Jha, W Marrero
+Publication: Proc. IFIP Working Conference on Programming Concepts and Methods (PROCOMET)
+
+174. Automatic circuit verification using temporal logic: Two new examples
+Citations:41
+Authors: MC Browne, EM Clarke, DL Dill
+Publication: Formal Aspects of VLSI Design, 113-124
+
+175. Non-linear quantification scheduling in image computation
+Citations:40
+Authors: P Chauhan, EM Clarke, S Jha, J Kukula, T Shiple, H Veith, D Wang
+Publication: Proceedings of the 2001 IEEE/ACM international conference on Computer-aided …
+
+176. Automated assume-guarantee reasoning through implicit learning
+Citations:39
+Authors: YF Chen, EM Clarke, A Farzan, MH Tsai, YK Tsay, BY Wang
+Publication: International Conference on Computer Aided Verification, 511-526
+
+177. Verification of evolving software via component substitutability analysis
+Citations:39
+Authors: S Chaki, E Clarke, N Sharygina, N Sinha
+Publication: Formal Methods in System Design 32 (3), 235-266
+
+178. Compiling path expressions into VLSI circuits
+Citations:39
+Authors: TS Anantharaman, EM Clarke, MJ Foster, B Mishra
+Publication: Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of …
+
+179. Programming language constructs for which it is impossible to obtain good Hoare-like axiom systems
+Citations:39
+Authors: EM Clarke Jr
+Publication: Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of …
+
+180. On simulation-based probabilistic model checking of mixed-analog circuits
+Citations:38
+Authors: E Clarke, A Donzé, A Legay
+Publication: Formal Methods in System Design 36 (2), 97-113
+
+181. Verification of supervisory control software using state proximity and merging
+Citations:38
+Authors: F Lerda, J Kapinski, EM Clarke, BH Krogh
+Publication: International Workshop on Hybrid Systems: Computation and Control, 344-357
+
+182. Program slicing for VHDL
+Citations:38
+Authors: EM Clarke, M Fujita, SP Rajan, T Reps, S Shankar, T Teitelbaum
+Publication: International Journal on Software Tools for Technology Transfer 4 (1), 125-137
+
+183. The characterization problem for Hoare logics
+Citations:38
+Authors: EM Clarke, Jr
+Publication: Philosophical Transactions of the Royal Society of London. Series A …
+
+184. Rare-event verification for stochastic hybrid systems
+Citations:37
+Authors: P Zuliani, C Baier, EM Clarke
+Publication: Proceedings of the 15th ACM international conference on Hybrid Systems …
+
+185. State/event software verification for branching-time specifications
+Citations:37
+Authors: S Chaki, E Clarke, O Grumberg, J Ouaknine, N Sharygina, T Touili, ...
+Publication: International Conference on Integrated Formal Methods, 53-69
+
+186. SAT-based algorithms for logic minimization
+Citations:36
+Authors: S Sapra, M Theobald, E Clarke
+Publication: Proceedings 21st International Conference on Computer Design, 510-517
+
+187. Timing analysis of industrial real-time systems
+Citations:35
+Authors: S Campos, E Clarke, W Marrero, M Minea
+Publication: Proceedings of 1995 IEEE Workshop on Industrial-Strength Formal …
+
+188. SAT-based compositional verification using lazy learning
+Citations:34
+Authors: N Sinha, E Clarke
+Publication: International Conference on Computer Aided Verification, 39-54
+
+189. Refining abstractions of hybrid systems using counterexample fragments
+Citations:34
+Authors: A Fehnker, E Clarke, SK Jha, B Krogh
+Publication: International Workshop on Hybrid Systems: Computation and Control, 242-257
+
+190. Decidability and complexity results for security protocols
+Citations:32
+Authors: FL Tiplea, C Enea, CV Bîrjoveanu
+Publication: VISSAS 1, 185-211
+
+191. Learning abstractions for model checking
+Citations:32
+Authors: A Gupta, EM Clarke
+Publication: PhD thesis, Carnegie Mellon University, 2006. 1. 1, 1.2. 2, 7
+
+192. Delta-complete analysis for bounded reachability of hybrid systems
+Citations:31
+Authors: S Gao, S Kong, W Chen, E Clarke
+Publication: arXiv preprint arXiv:1404.7171
+
+193. Automated, compositional and iterative deadlock detection
+Citations:31
+Authors: S Chaki, E Clarke, J Ouaknine, N Sharygina
+Publication: Proceedings. Second ACM and IEEE International Conference on Formal Methods …
+
+194. Verification of SpecC using predicate abstraction
+Citations:31
+Authors: H Jain, D Kroening, E Clarke
+Publication: Proceedings. Second ACM and IEEE International Conference on Formal Methods …
+
+195. Model checking. 1999
+Citations:31
+Authors: EM Clarke, O Grumberg, D Peled
+Publication: Google Scholar, 35-46
+
+196. Program invariants as fixed points
+Citations:31
+Authors: EM Clarke
+Publication: 18th Annual Symposium on Foundations of Computer Science (sfcs 1977), 18-29
+
+197. Efficient craig interpolation for linear diophantine (dis) equations and linear modular equations
+Citations:30
+Authors: H Jain, E Clarke, O Grumberg
+Publication: International Conference on Computer Aided Verification, 254-267
+
+198. Word-level predicate-abstraction and refinement techniques for verifying RTL Verilog
+Citations:30
+Authors: H Jain, D Kroening, N Sharygina, EM Clarke
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+199. A SAT-based algorithm for reparameterization in symbolic simulation
+Citations:30
+Authors: P Chauhan, EM Clarke, D Kroening
+Publication: Proceedings of the 41st annual Design Automation Conference, 524-529
+
+200. J., Grumberg, O., Peled, DA: Model Checking
+Citations:30
+Authors: EM Clarke
+Publication: MIT Press, Cambridge, MA, USA
+
+201. Spectral transforms for large boolean functions with applications to technology mapping
+Citations:30
+Authors: EM Clarke, KL McMillan, X Zhao, M Fujita, J Yang
+Publication: Formal Methods in System Design 10 (2-3), 137-148
+
+202. Risk analysis in project planning: a simple spreadsheet application using Monte-Carlo techniques
+Citations:30
+Authors: R Clarke, A Low
+Publication: Project Appraisal 8 (3), 141-146
+
+203. Using Nuprl for the verification and synthesis of hardware
+Citations:30
+Authors: M Leeser
+Publication: Philosophical Transactions of the Royal Society of London. Series A …
+
+204. Is atherosclerosis fundamental to human aging? Lessons from ancient mummies
+Citations:29
+Authors: EM Clarke, RC Thompson, AH Allam, LS Wann, GP Lombardi, ...
+Publication: Journal of cardiology 63 (5), 329-334
+
+205. Task management in Ada—A critical evaluation for real‐time multiprocessors
+Citations:29
+Authors: ES Roberts, A Evans Jr, CR Morgan, EM Clarke
+Publication: Software: Practice and Experience 11 (10), 1019-1051
+
+206. Computational modeling and verification of signaling pathways in cancer
+Citations:28
+Authors: H Gong, P Zuliani, A Komuravelli, JR Faeder, EM Clarke
+Publication: Algebraic and Numeric Biology, 117-135
+
+207. Equivalence checking using abstract BDDs
+Citations:28
+Authors: S Jha, Y Lu, M Minea, EM Clarke
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+208. Fast spectrum computation for logic functions using binary decision diagrams
+Citations:28
+Authors: M Fujita, JCY Yang, EM Clarke, Z Zhao, P McGeer
+Publication: Proceedings of IEEE International Symposium on Circuits and Systems-ISCAS'94 …
+
+209. Efficient SAT solving for non-clausal formulas using DPLL, graphs, and watched cuts
+Citations:27
+Authors: H Jain, EM Clarke
+Publication: Proceedings of the 46th Annual Design Automation Conference, 563-568
+
+210. Model checking of robotic control systems
+Citations:27
+Authors: S Scherer, F Lerda, EM Clarke
+Publication: figshare
+
+211. Using cutwidth to improve symbolic simulation and boolean satisfiability
+Citations:27
+Authors: D Wang, E Clarke, Y Zhu, J Kukula
+Publication: Sixth IEEE International High-Level Design Validation and Test Workshop, 165-170
+
+212. NuSmv: a reimplementation of smv
+Citations:27
+Authors: A Cimatti, E Clarke, F Giunchiglia, M Roveri
+Publication: Proceeding of the International Workshop on Software Tools for Technology …
+
+213. Automatic verification of asynchronous circuits
+Citations:27
+Authors: E Clarke, B Mishra
+Publication: Workshop on Logic of Programs, 101-115
+
+214. Functional equivalence verification tools in high-level synthesis flows
+Citations:26
+Authors: A Mathur, M Fujita, E Clarke, P Urard
+Publication: IEEE Design & Test of Computers 26 (4), 88-95
+
+215. Model checking in-the-loop: Finding counterexamples by systematic simulation
+Citations:26
+Authors: F Lerda, J Kapinski, H Maka, EM Clarke, BH Krogh
+Publication: 2008 American Control Conference, 2734-2740
+
+216. Model checking: Software and beyond.
+Citations:26
+Authors: EM Clarke, F Lerda
+Publication: J. UCS 13 (5), 639-649
+
+217. A synthesis of two approaches for verifying finite state concurrent systems
+Citations:26
+Authors: EM Clarke, O Grumberg, RP Kurshan
+Publication: International Symposium on Logical Foundations of Computer Science, 81-90
+
+218. Using temporal logic for automatic verification of finite state systems
+Citations:26
+Authors: EM Clarke, MC Browne, EA Emerson, AP Sistla
+Publication: Logics and Models of Concurrent Systems, 3-26
+
+219. Why did ancient people have atherosclerosis?: from autopsies to computed tomography to potential causes
+Citations:25
+Authors: GS Thomas, LS Wann, AH Allam, RC Thompson, DE Michalik, ...
+Publication: Global heart 9 (2), 229-237
+
+220. Multiple state and single state tableaux for combining local and global nodel checking
+Citations:25
+Authors: A Biere, Y Zhu, EM Clarke
+Publication: Correct System Design, 163-179
+
+221. Model checking VHDL with CV
+Citations:25
+Authors: D Déharbe, S Shankar, EM Clarke
+Publication: International Conference on Formal Methods in Computer-Aided Design, 508-514
+
+222. Applications of Multi-Terminal Binary Decision Diagrams.
+Citations:25
+Authors: E Clarke, M Fujita, X Zhao
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+223. Program invariants as fixedpoints
+Citations:25
+Authors: EM Clarke
+Publication: Computing 21 (4), 273-294
+
+224. VeriAgent: an approach to integrating UML and formal verification tools
+Citations:24
+Authors: E Mota, E Clarke, A Groce, W Oliveira, M Falcao, J Kanda
+Publication: Electronic notes in theoretical computer science 95, 111-129
+
+225. Abstract BDDs: a technique for using abstraction in model checking
+Citations:24
+Authors: E Clarke, S Jha, Y Lu, D Wang
+Publication: Advanced Research Working Conference on Correct Hardware Design and …
+
+226. Optimizing Model Checking Based on BDD Characterization.
+Citations:24
+Authors: B Yang, DR O'Hallaron, RE Bryant, EM Clarke, TR Gross
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+227. Combining symbolic computation and theorem proving: Some problems of Ramanujan
+Citations:24
+Authors: E Clarke, X Zhao
+Publication: International Conference on Automated Deduction, 758-763
+
+228. Satisfiability checking of non-clausal formulas using general matings
+Citations:23
+Authors: H Jain, C Bartzis, E Clarke
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+229. Verification of out-of-order processor designs using model checking and a light-weight completion function
+Citations:23
+Authors: S Berezin, E Clarke, A Biere, Y Zhu
+Publication: Formal Methods in System Design 20 (2), 159-186
+
+230. Executable protocol specification in ESL
+Citations:23
+Authors: E Clarke, S German, Y Lu, H Veith, D Wang
+Publication: International Conference on Formal Methods in Computer-Aided Design, 217-236
+
+231. Specifying and verifying systems with multiple clocks
+Citations:22
+Authors: EM Clarke, D Kroening, K Yorav
+Publication: Proceedings 21st International Conference on Computer Design, 48-55
+
+232. Deadlock prevention in flexible manufacturing systems using symbolic model checking
+Citations:22
+Authors: V Hartonas-Garmhausen, EM Clarke, S Campos
+Publication: Proceedings of IEEE International Conference on Robotics and Automation 1 …
+
+233. In search of dependable design
+Citations:21
+Authors: L Hoffman
+Publication: Communications of the ACM 51 (7), 14-16
+
+234. Checking consistency of C and Verilog using predicate abstraction and induction
+Citations:21
+Authors: D Kroening, E Clarke
+Publication: IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004 …
+
+235. Using combinatorial optimization methods for quantification scheduling
+Citations:21
+Authors: P Chauhan, E Clarke, S Jha, J Kukula, H Veith, D Wang
+Publication: Advanced Research Working Conference on Correct Hardware Design and …
+
+236. Reasoning about procedures as parameters
+Citations:21
+Authors: SM German, EM Clarke, JY Halpern
+Publication: Workshop on Logic of Programs, 206-220
+
+237. Verification of SpecC using predicate abstraction
+Citations:20
+Authors: E Clarke, H Jain, D Kroening
+Publication: Formal Methods in System Design 30 (1), 5-28
+
+238. Highlevel verification of control intensive systems using predicate abstraction
+Citations:20
+Authors: E Clarke, O Grumberg, M Talupur, D Wang
+Publication: Formal methods and models for system design, 159-179
+
+239. Automatic abstraction in model checking
+Citations:20
+Authors: Y Lu, EM Clarke
+Publication: PhD thesis, Department of Electrical and Computer Engineering, Carnegie …
+
+240. Efficient variable ordering using aBDD based sampling
+Citations:20
+Authors: Y Lu, J Jain, E Clarke, M Fujita
+Publication: Proceedings of the 37th Annual Design Automation Conference, 687-692
+
+241. VCEGAR: Verilog counterexample guided abstraction refinement
+Citations:19
+Authors: H Jain, D Kroening, N Sharygina, E Clarke
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+242. Temporal logic model checking
+Citations:19
+Authors: E Clarke, A Fehnker, SK Jha, H Veith
+Publication: Handbook of Networked and Embedded Control Systems, 539-558
+
+243. Predicate abstraction and refinement techniques for verifying Verilog
+Citations:19
+Authors: E Clarke, H Jain, D Kroening
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+244. Analysis and verification of real-time systems using quantitative symbolic algorithms
+Citations:19
+Authors: SVA Campos, E Clarke
+Publication: International Journal on Software Tools for Technology Transfer 2 (3), 260-269
+
+245. Verifying the SRT division algorithm using theorem proving techniques
+Citations:19
+Authors: EM Clarke, SM German, X Zhao
+Publication: Formal Methods in System Design 14 (1), 7-44
+
+246. Reasoning about procedures as parameters in the language L4
+Citations:19
+Authors: SM German, EM Clarke, JY Halpern
+Publication: Information and Computation 83 (3), 265-359
+
+247. Escher-a geometrical layout system for recursively defined circuits
+Citations:19
+Authors: EM Clarke, Y Feng
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+248. Proving correctness of coroutines without history variables
+Citations:19
+Authors: EM Clarke
+Publication: Acta Informatica 13 (2), 169-188
+
+249. Model checking: Back and forth between hardware and software
+Citations:18
+Authors: E Clarke, A Gupta, H Jain, H Veith
+Publication: Working Conference on Verified Software: Theories, Tools, and Experiments …
+
+250. Abstraction and assume-guarantee reasoning for automated software verification
+Citations:18
+Authors: S Chaki, E Clarke, D Giannakopoulou, CS Pasareanu
+Publication: 
+
+251. Making predicate abstraction efficient
+Citations:18
+Authors: E Clarke, O Grumberg, M Talupur, D Wang
+Publication: International Conference on Computer Aided Verification, 126-140
+
+252. The algebraic mu-calculus and MTBDDs
+Citations:18
+Authors: C Baier, E Clarke
+Publication: Proc. 5th Workshop on Logic, Language, Information and Computation (WOLLIC …
+
+253. Symmetry and induction in model checking
+Citations:18
+Authors: EM Clarke, S Jha
+Publication: Computer Science Today, 455-470
+
+254. A synthesis of two approaches for verifying finite state concurrent systems
+Citations:18
+Authors: EM Clarke, O Grumberg, RP Kurshan
+Publication: Journal of Logic and Computation 2 (5), 605-618
+
+255. Pathway-gene identification for pancreatic cancer survival via doubly regularized Cox regression
+Citations:17
+Authors: H Gong, TT Wu, EM Clarke
+Publication: BMC systems biology 8 (1), S3
+
+256. Distributed reconfiguration strategies for fault-tolerant multiprocessor systems
+Citations:17
+Authors: EM Clarke, CN Nikolaou
+Publication: IEEE Transactions on Computers, 771-784
+
+257. Learning probabilistic systems from tree samples
+Citations:16
+Authors: A Komuravelli, CS Pasareanu, EM Clarke
+Publication: 2012 27th Annual IEEE Symposium on Logic in Computer Science, 441-450
+
+258. Teaching cardiac electrophysiology modeling to undergraduate students: laboratory exercises and GPU programming for the study of arrhythmias and spiral wave dynamics
+Citations:16
+Authors: E Bartocci, R Singh, FB von Stein, A Amedome, AJJ Caceres, J Castillo, ...
+Publication: Advances in physiology education 35 (4), 427-437
+
+259. A transcriptome analysis by lasso penalized Cox regression for pancreatic cancer survival
+Citations:16
+Authors: TT Wu, H Gong, EM Clarke
+Publication: Journal of Bioinformatics and Computational Biology 9 (supp01), 63-73
+
+260. ANSI-C bounded model checker user manual
+Citations:16
+Authors: E Clarke, D Kroening
+Publication: School of Computer Science, Carnegie Mellon University
+
+261. Efficient verification of security protocols using partial-order reductions
+Citations:16
+Authors: E Clarke, S Jha, W Marrero
+Publication: International Journal on Software Tools for Technology Transfer 4 (2), 173-188
+
+262. Program slicing for design automation: An automatic technique for speeding-up hardware design, simulation, testing, and verification
+Citations:16
+Authors: EM Clarke, M Fujita, SP Rajan, T Reps, S Shankar, T Teitelbaum
+Publication: Unpublished report, Computer Sciences Dept., University of Wisconsin-Madison
+
+263. The Verus language: representing time efficiently with BDDs
+Citations:16
+Authors: S Campos, E Clarke
+Publication: International AMAST Workshop on Aspects of Real-Time Systems and Concurrent …
+
+264. Automatic verification of finite-state concurrent systems
+Citations:16
+Authors: EM Clarke
+Publication: Lecture Notes in Computer Science 815, 1-1
+
+265. Analytica-An experiment in combining theorem proving and symbolic computation
+Citations:16
+Authors: E Clarke, X Zhao
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+266. Temporal logics as query languages for dynamic Bayesian networks: Application to D. Melanogaster embryo development
+Citations:15
+Authors: C Langmead, S Jha, E Clarke
+Publication: Technical report, Carnegie Mellon University
+
+267. Compositional model checking
+Citations:15
+Authors: EM Clarke, DE Long, KL Mcmillan
+Publication: 
+
+268. Model checking algorithms for the mu-calculus
+Citations:15
+Authors: S Berezin, E Clarke, S Jha, W Marrero
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+269. From non-preemptive to preemptive scheduling using synchronization synthesis
+Citations:14
+Authors: P Černý, EM Clarke, TA Henzinger, A Radhakrishna, L Ryzhyk, ...
+Publication: International Conference on Computer Aided Verification, 180-197
+
+270. Towards personalized prostate cancer therapy using delta-reachability analysis
+Citations:14
+Authors: B Liu, S Kong, S Gao, P Zuliani, EM Clarke
+Publication: Proceedings of the 18th International Conference on Hybrid Systems …
+
+271. Parameter synthesis for cardiac cell hybrid models using δ-decisions
+Citations:14
+Authors: B Liu, S Kong, S Gao, P Zuliani, EM Clarke
+Publication: International Conference on Computational Methods in Systems Biology, 99-113
+
+272. Formal analysis for logical models of pancreatic cancer
+Citations:14
+Authors: H Gong, P Zuliani, Q Wang, EM Clarke
+Publication: 2011 50th IEEE Conference on Decision and Control and European Control …
+
+273. The localization reduction and counterexample-guided abstraction refinement
+Citations:14
+Authors: EM Clarke, RP Kurshan, H Veith
+Publication: Time for verification, 61-71
+
+274. My 27-year quest to overcome the state explosion problem
+Citations:14
+Authors: EM Clarke
+Publication: 2009 24th Annual IEEE Symposium on Logic In Computer Science, 3-3
+
+275. A CAPSL connector to Athena
+Citations:14
+Authors: J Millen, H Veith, N Heintze, E Clarke
+Publication: Workshop of Formal Methods and Computer Security. CAV
+
+276. Computer-Aided Verification: 2nd Internatonal Conference, CAV'90, New Brunswick, NJ, USA, June 18-21, 1990. Proceedings
+Citations:14
+Authors: EM Clarke, RP Kurshan
+Publication: Springer Science & Business Media
+
+277. The design and verification of finite state hardware controllers
+Citations:14
+Authors: EM Clarke, S Bose, MC Browne, O Grumberg
+Publication: Carnegie Mellon University, Computer Science Department
+
+278. Completeness and incompleteness theorems for hoare-like axiom systems.
+Citations:14
+Authors: EM Clarke Jr
+Publication: Cornell University
+
+279. Analog circuit verification by statistical model checking
+Citations:13
+Authors: YC Wang, A Komuravelli, P Zuliani, EM Clarke
+Publication: Proceedings of the 16th Asia and South Pacific Design Automation Conference, 1-6
+
+280. Analysis and verification challenges for cyber-physical transportation systems
+Citations:13
+Authors: EM Clarke, B Krogh, A Platzer, R Rajkumar
+Publication: National Workshop for Research on High-Confidence Transportation Cyber …
+
+281. Automatic verification of industrial designs
+Citations:13
+Authors: V Hartonas-Garmhausen, T Kurfess, EM Clarke, D Long
+Publication: Proceedings of 1995 IEEE Workshop on Industrial-Strength Formal …
+
+282. Automatic and hierarchical verification of asynchronous circuits using temporal logic
+Citations:13
+Authors: B Mishra, EM Clarke
+Publication: Carnegie-Mellon University, Department of Computer Science
+
+283. Sreach: A probabilistic bounded delta-reachability analyzer for stochastic hybrid systems
+Citations:12
+Authors: Q Wang, P Zuliani, S Kong, S Gao, EM Clarke
+Publication: International Conference on Computational Methods in Systems Biology, 15-27
+
+284. Symbolic Model Checking of Signaling Pathways in Pancreatic Cancer.
+Citations:12
+Authors: H Gong, Q Wang, P Zuliani, JR Faeder, M Lotze, E Clarke
+Publication: BICoB, 245-
+
+285. Method and system to check correspondence between different representations of a circuit
+Citations:12
+Authors: EM Clarke, D Kroening
+Publication: US Patent 7,418,680
+
+286. Model Checking The MIT Press
+Citations:12
+Authors: EM Clarke, O Grumberg, DA Peled
+Publication: Cambridge, Massachusetts, London, UK
+
+287. Programming distributed applications in Ada: A first approach
+Citations:12
+Authors: SA Schuman, EM Clarke, C Nikolau
+Publication: Proc. 1981 Int. Conf. Parallel Processing
+
+288. Solving QBF with free variables
+Citations:11
+Authors: W Klieber, M Janota, J Marques-Silva, E Clarke
+Publication: International Conference on Principles and Practice of Constraint …
+
+289. Quantifier elimination over finite fields using Gröbner bases
+Citations:11
+Authors: S Gao, A Platzer, EM Clarke
+Publication: International Conference on Algebraic Informatics, 140-157
+
+290. An abstraction technique for real-time verification
+Citations:11
+Authors: EM Clarke, F Lerda, M Talupur
+Publication: Next Generation Design and Verification Methodologies for Distributed …
+
+291. The Verus language: representing time efficiently with BDDs
+Citations:11
+Authors: SVA Campos, E Clarke
+Publication: Theoretical Computer Science 253 (1), 95-118
+
+292. Model Checking.[Sl]
+Citations:11
+Authors: EM CLARKE, O Grumberg, D PELED
+Publication: MIT press
+
+293. E cient generation of counterexamples and witnesses in symbolic model checking
+Citations:11
+Authors: E Clarke, O Grumberg, K McMillan, X Zhao
+Publication: Technical Report CMU-CS-94-204, School of Computer Science, Carnegie Mellon …
+
+294. Program compatibility approaches
+Citations:10
+Authors: E Clarke, N Sharygina, N Sinha
+Publication: International Symposium on Formal Methods for Components and Objects, 243-258
+
+295. Reconsidering CEGAR: Learning good abstractions without refinement
+Citations:10
+Authors: A Gupta, E Clarke
+Publication: 2005 International Conference on Computer Design, 591-598
+
+296. On the semantic foundations of Probabilistic VERUS
+Citations:10
+Authors: C Baier, EM Clarke, V Hartonas-Garmhausen
+Publication: SCHOOL OF COMPUTER SCIENCE RESEARCH REPORTS-UNIVERSITY OF BIRMINGHAM CSR, 7-32
+
+297. Hybrid spectral transform diagrams
+Citations:10
+Authors: EM Clarke, M Fujita, W Heinle
+Publication: Proceedings of ICICS, 1997 International Conference on Information …
+
+298. Software Engineering Institute. Model checking and Abstraction
+Citations:10
+Authors: E Clarke, O Grumberg, D Long
+Publication: ACM Transactions on Programming Languages and Systems 16 (5), 1512-1542
+
+299. The model checking problem for concurrent systems with many similar processes
+Citations:10
+Authors: EM Clarke, O Grumberg
+Publication: Temporal Logic in Specification, 188-201
+
+300. Logics of Program: Workshop, Carnegie-Mellon University, Pittsburgh, PA., June 6-8, 1983
+Citations:10
+Authors: E Clarke, DC Kozen
+Publication: Springer-Verlag
+
+301. Can message buffers be characterized in linear temporal logic?
+Citations:10
+Authors: AP Sistla, EM Clarke, N Francez, Y Gurevich
+Publication: Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of …
+
+302. SMT-based analysis of virtually synchronous distributed hybrid systems
+Citations:9
+Authors: K Bae, PC Ölveczky, S Kong, S Gao, EM Clarke
+Publication: Proceedings of the 19th International Conference on Hybrid Systems …
+
+303. Studies of biological networks with statistical model checking: application to immune system cells.
+Citations:9
+Authors: N Miskov-Zivanov, P Zuliani, EM Clarke, JR Faeder
+Publication: BCB, 728
+
+304. Comparing learning algorithms in automated assume-guarantee reasoning
+Citations:9
+Authors: YF Chen, EM Clarke, A Farzan, F He, MH Tsai, YK Tsay, BY Wang, L Zhu
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+305. Efficient Craig interpolation for linear Diophantine (dis) equations and linear modular equations
+Citations:9
+Authors: H Jain, EM Clarke, O Grumberg
+Publication: Formal Methods in System Design 35 (1), 6-39
+
+306. Sat solver descriptions: Cmusat-base and cmusat
+Citations:9
+Authors: H Jain, E Clarke
+Publication: System description for the SAT competition
+
+307. Tools and Algorithms for the Construction and Analysis of Systems
+Citations:9
+Authors: N Halbwachs, L Zuck
+Publication: Springer Berlin/Heidelberg.
+
+308. Selective quantitative analysis and interval model checking: Verifying different facets of a system
+Citations:9
+Authors: S Campos, EM Clarke, O Grumberg
+Publication: Formal Methods in System Design 17 (2), 163-192
+
+309. Formal verification of VHDL: the model checker CV
+Citations:9
+Authors: D Déharbe, S Shankar, EM Clarke
+Publication: Proceedings. XI Brazilian Symposium on Integrated Circuit Design (Cat. No …
+
+310. Analytica—an experiment in combining theorem proving and symbolic computation
+Citations:9
+Authors: A Bauer, E Clarke, X Zhao
+Publication: International Conference on Artificial Intelligence and Symbolic …
+
+311. Computer-aided verification'90
+Citations:9
+Authors: EM Clarke, N Kurshan, RP Kurshan
+Publication: American Mathematical Society
+
+312. Model Checking of a Diabetes‐Cancer Model
+Citations:8
+Authors: H Gong, P Zuliani, EM Clarke
+Publication: AIP Conference Proceedings 1371 (1), 234-243
+
+313. Model checking–my 27-year quest to overcome the state explosion problem
+Citations:8
+Authors: EM Clarke
+Publication: International Conference on Logic for Programming Artificial Intelligence …
+
+314. Logic for Programming, Artificial Intelligence, and Reasoning: 14th International Conference, LPAR 2007, Yerevan, Armenia, October 15-19, 2007, Proceedings
+Citations:8
+Authors: N Dershowitz, A Voronkov
+Publication: Springer
+
+315. A theory of consistency for modular synchronous systems
+Citations:8
+Authors: RE Bryant, P Chauhan, EM Clarke, A Goel
+Publication: International Conference on Formal Methods in Computer-Aided Design, 523-541
+
+316. Computer-aided verification
+Citations:8
+Authors: RP Kurshan, EM Clarke
+Publication: Kluwer Academic Publishers
+
+317. New and used temporal models: An issue of time
+Citations:8
+Authors: FD Anger, EM Clarke
+Publication: Applied Intelligence 3 (1), 5-15
+
+318. PARTHENON: A parallel theorem prover for non-horn clauses
+Citations:8
+Authors: PE Allen, S Bose, EM Clarke, S Michaylov
+Publication: International Conference on Automated Deduction, 764-765
+
+319. Model checking hybrid systems
+Citations:7
+Authors: EM Clarke, S Gao
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+320. Years of Model Checking
+Citations:7
+Authors: EM Clarke, Q Wang
+Publication: International Andrei Ershov Memorial Conference on Perspectives of System …
+
+321. Verification, Model Checking, and Abstract Interpretation
+Citations:7
+Authors: EA Emerson, KS Namjoshi
+Publication: Springer Berlin/Heidelberg.
+
+322. Combining local and global model checking
+Citations:7
+Authors: A Biere, EM Clarke, Y Zhu
+Publication: Electronic Notes in Theoretical Computer Science 23 (2), 34-45
+
+323. Model checking semi-continuous time models using BDDs
+Citations:7
+Authors: S Campos, M Teixeira, M Minea, A Kuehlmann, E Clarke
+Publication: Electronic Notes in Theoretical Computer Science 23 (2), 75-87
+
+324. O. grumberg, S
+Citations:7
+Authors: EM Clarke
+Publication: Jha, Y. Lu, and H. Veith," Counterexample-Guided Abstraction Refinement," in …
+
+325. andD. A. Peled. Model Checking
+Citations:7
+Authors: EM Clarke, O Grumberg
+Publication: MIT Press 1, 999
+
+326. Symbolic techniques for formally verifying industrial systems
+Citations:7
+Authors: S Campos, EM Clarke, M Minea
+Publication: Science of Computer Programming 29 (1-2), 79-98
+
+327. Model checking. volume 152 of Nato ASI Series F
+Citations:7
+Authors: EM Clarke, O Grumberg, DE Long
+Publication: Springer-Verlag
+
+328. 0. Grumberg, and D
+Citations:7
+Authors: E Clarke
+Publication: Long. Model checking and
+
+329. Parallel symbolic computation algorithms
+Citations:7
+Authors: EM Clarke, DE Long, S Michaylov, SA Schwab, JP Vidal, S Kimura
+Publication: Technical Report CMU-CS-90-182, School of Computer Science, Carnegie Mellon …
+
+330. Peled. D.(1999) Model Checking
+Citations:7
+Authors: EM Clarke, O Grumberg
+Publication: MIT Press, Cambridge, Massachusetts
+
+331. Finding errors in python programs using dynamic symbolic execution
+Citations:6
+Authors: S Sapra, M Minea, S Chaki, A Gurfinkel, EM Clarke
+Publication: IFIP International Conference on Testing Software and Systems, 283-289
+
+332. Statistical model checking for complex stochastic models in systems biology
+Citations:6
+Authors: SK Jha, EM Clarke, CJ Langmead, A Legay, A Platzer, P Zuliani
+Publication: 
+
+333. Method and system to verify a circuit design by verifying consistency between two different language representations of a circuit design
+Citations:6
+Authors: EM Clarke, D Kroening, K Yorav
+Publication: US Patent 7,225,417
+
+334. Doron a. peled
+Citations:6
+Authors: EM Clarke Jr, O Grumberg
+Publication: Model Checking
+
+335. Model checking: Historical perspective and example
+Citations:6
+Authors: EM Clarke, S Berezin
+Publication: International Conference on Automated Reasoning with Analytic Tableaux and …
+
+336. Grumberg, 0., and Long, D.,"
+Citations:6
+Authors: E Clarke
+Publication: Verification tools for finite-state concurrent systems," in A Decede of …
+
+337. Probabilistic reachability analysis of the tap withdrawal circuit in caenorhabditis elegans
+Citations:5
+Authors: MA Islam, Q Wang, RM Hasani, O Balún, EM Clarke, R Grosu, SA Smolka
+Publication: 2016 IEEE International High Level Design Validation and Test Workshop …
+
+338. Formal analysis provides parameters for guiding hyperoxidation in bacteria using phototoxic proteins
+Citations:5
+Authors: Q Wang, N Miskov-Zivanov, C Telmer, EM Clarke
+Publication: Proceedings of the 25th edition on Great Lakes Symposium on VLSI, 315-320
+
+339. Proof generation from delta-decisions
+Citations:5
+Authors: S Gao, S Kong, EM Clarke
+Publication: 2014 16th International Symposium on Symbolic and Numeric Algorithms for …
+
+340. System description: analytica 2
+Citations:5
+Authors: EM Clarke, M Kohlhase, J Ouaknine, K Sutner
+Publication: figshare
+
+341. Model Checker
+Citations:5
+Authors: EM Clarke Jr, O Grumberg, DA Peled
+Publication: England: the MIT Press
+
+342. SAT-based counterexample guided abstraction refinement in model checking
+Citations:5
+Authors: EM Clarke
+Publication: International Conference on Automated Deduction, 1-1
+
+343. Verifikatsiya modeley programmy: Model Checking [Verification of program models: Model checking]
+Citations:5
+Authors: EM Klark, O Gramberg, D Peled
+Publication: Moscow: MTsNMO
+
+344. Formal verification of autonomous systems NASA intelligent systems program
+Citations:5
+Authors: E Clarke, D Garlan, B Krogh, R Simmons, J Wing
+Publication: September
+
+345. A new approach for verifying arithmetic circuits
+Citations:5
+Authors: E Clarke, X Zhao
+Publication: ‘Word level symbolic model checking:
+
+346. Model checking, abstraction, and compositional verification(Ph. D. Thesis)
+Citations:5
+Authors: D LONG, E CLARKE, R BRYANT, S BROOKES, O GRUMBERG
+Publication: 
+
+347. Reasoning about many identical processes
+Citations:5
+Authors: EM Clarke, O Grumberg, M Brown
+Publication: Inform. and Comp
+
+348. A methodology for verifying request processing protocols
+Citations:5
+Authors: CN Nikolaou, EM Clarke, N Francez, SA Schuman
+Publication: ACM SIGCOMM Computer Communication Review 13 (2), 76-83
+
+349. Deploying hash tables and rasterization using Karvel
+Citations:5
+Authors: F CORBATO, P ERDOS, E CLARKE
+Publication: Journal of Encrypted, Decentralized, Amphibious Configurations 84, 77-81
+
+350. Grunberg, 0., and Peled, D.(2000). Model Checking
+Citations:5
+Authors: E Clarke
+Publication: MIT Press
+
+351. Introduction to model checking
+Citations:4
+Authors: EM Clarke, TA Henzinger, H Veith
+Publication: Handbook of Model Checking, 1-26
+
+352. Formal modeling and analysis of pancreatic cancer microenvironment
+Citations:4
+Authors: Q Wang, N Miskov-Zivanov, B Liu, JR Faeder, M Lotze, EM Clarke
+Publication: International Conference on Computational Methods in Systems Biology, 289-305
+
+353. SReach: A bounded model checker for stochastic hybrid systems
+Citations:4
+Authors: Q Wang, P Zuliani, S Kong, S Gao, EM Clarke
+Publication: arXiv preprint arXiv:1404.7206
+
+354. SReach: Combining statistical tests and bounded model checking for nonlinear hybrid systems with parametric uncertainty
+Citations:4
+Authors: Q Wang, P Zuliani, S Kong, S Gao, E Clarke
+Publication: CoRR, abs/1404.7206
+
+355. Grand challenge: Model check software
+Citations:4
+Authors: E Clarke, H Jain, N Sinha
+Publication: NATO Security through Science Series D-Information and Communication …
+
+356. Tutorial: Software model checking
+Citations:4
+Authors: E Clarke, D Kroening
+Publication: International Conference on Formal Engineering Methods, 9-10
+
+357. Ëystem Description: Analytica 2
+Citations:4
+Authors: E Clarke, M Kohlhase, J Ouaknine, K Ëutner
+Publication: CALCULEMUS-2003, 69
+
+358. Behavioral Consistency of C and Verilog Programs
+Citations:4
+Authors: E Clarke, D Kroening, K Yorav
+Publication: Technical Report CMU-CS-03-126, Computer Science Department, School of …
+
+359. SAT-based counterexample guided abstraction refinement
+Citations:4
+Authors: EM Clarke
+Publication: SPIN 2, 1
+
+360. Grand challenge problem: Model check concurrent software
+Citations:3
+Authors: EM Clarke
+Publication: 
+
+361. Bifurcation Analysis of Cardiac Alternans Using -Decidability
+Citations:3
+Authors: MA Islam, G Byrne, S Kong, EM Clarke, R Cleaveland, FH Fenton, ...
+Publication: International Conference on Computational Methods in Systems Biology, 132-146
+
+362. Parameter identification using delta-decisions for biological hybrid systems
+Citations:3
+Authors: B Liu, S Kong, S Gao, E Clarke
+Publication: CMU SCS Technical Report, CMU-CS-13-136
+
+363. Parallel Symbolic Computation on Shared Memory Multiprocessor
+Citations:3
+Authors: EM Clarke, D Long, S Michaylov, SA Schwab, JP Vidal, S Kimura
+Publication: figshare
+
+364. SAT-Based Predicate Abstraction of Programs
+Citations:3
+Authors: E Clarke, D Kroening, N Sharygina, K Yorav
+Publication: figshare
+
+365. Model Checking Overview
+Citations:3
+Authors: EM Clarke Jr
+Publication: Presentation Slides
+
+366. Resurrecting the Analytica theorem prover
+Citations:3
+Authors: E Clarke, M Kohlhase, J Ouaknine, K Sutner
+Publication: The present volume collects together papers summarizing talks given at the …
+
+367. Formal analysis of branch prediction algorithm
+Citations:3
+Authors: S Jha, Y Lu, E Clarke
+Publication: Technical report, Computer Science, Carnegie Mellon University
+
+368. Tools and partial analysis
+Citations:3
+Authors: E Clarke, JM Wing
+Publication: ACM Computing Surveys (CSUR) 28 (4es), 116
+
+369. Word level symbolic model checking
+Citations:3
+Authors: E Clarke, X Zhao
+Publication: 
+
+370. Symbolic computation algorithms on shared memory multiprocessors
+Citations:3
+Authors: EM Clarke, S Kimura, DE Long, S Michaylov, SA Schwab, JP Vidal
+Publication: Shared Memory Multiprocessing, 53
+
+371. Temporal logic model checking: Two techniques for avoiding the state explosion problem
+Citations:3
+Authors: EM Clarke
+Publication: International Conference on Computer Aided Verification, 1-1
+
+372. Reconfiguration Strategies for Reliable Shared Memory Milti-processor Systems
+Citations:3
+Authors: EM Clarke, CN Nikolaou
+Publication: Proc. IEEE Fault-Tolerant Computing, 152-159
+
+373. Approximate algorithms for optimization of busy waiting in parallel programs
+Citations:3
+Authors: EM Clarke, L Liu
+Publication: 20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 255-266
+
+374. High-level modeling and verification of cellular signaling
+Citations:2
+Authors: N Miskov-Zivanov, P Zuliani, Q Wang, EM Clarke, JR Faeder
+Publication: 2016 IEEE International High Level Design Validation and Test Workshop …
+
+375. Optimizing Solution Quality in Synchronization Synthesis
+Citations:2
+Authors: P Černý, EM Clarke, TA Henzinger, A Radhakrishna, L Ryzhyk, ...
+Publication: arXiv preprint arXiv:1511.07163
+
+376. Compositional, approximate, and quantitative reasoning for medical cyber-physical systems with application to patient-specific cardiac dynamics and devices
+Citations:2
+Authors: R Grosu, E Cherry, EM Clarke, R Cleaveland, S Dixit, FH Fenton, S Gao, ...
+Publication: International Symposium On Leveraging Applications of Formal Methods …
+
+377. Three-Dimensional Research Adds New Dimensions [Special Reports]
+Citations:2
+Authors: J Edwards
+Publication: IEEE Signal Processing Magazine 28 (3), 10-13
+
+378. Angiotensin II, but not aldosterone and renin, correlates positively with increased concentrations of N-terminal pro-brain natriuretic peptide in patients with chronic heart …
+Citations:2
+Authors: O Gosling, M Martin, E Clarke, A Smith, E Coombes, M Dawes
+Publication: Heart 91 (9), 1223-1224
+
+379. An iterative framework for simulation conformance
+Citations:2
+Authors: S Chaki, E Clarke, S Jha, H Veith
+Publication: Journal of Logic and Computation 15 (4), 465-488
+
+380. Formal methods: state of the art and future [J]
+Citations:2
+Authors: E Clarke, J Wing
+Publication: ACM Computing Surveys 28 (4), 72-76
+
+381. Dynamic component substitutability analysis
+Citations:2
+Authors: E Clarke, S Chaki, N Sharygina, N Sinha
+Publication: FM 2005: Formal Methods, to appear
+
+382. An expressive verification framework for state/event systems
+Citations:2
+Authors: S Chaki, E Clarke, O Grumberg, J Ouaknine, N Sharygina, T Touili, ...
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+383. Experiments with SAT-Based Symbolic Simulation Using Reparameterization in the Abstraction Refinement Framework
+Citations:2
+Authors: P Chauhan, E Clarke, D Kroening
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+384. Bounded Model Checking-4 Reducing Bounded Model Checking to SAT
+Citations:2
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in Computers 58, 129-133
+
+385. NuSMV: A new symbolic model checker
+Citations:2
+Authors: EM Clarke, A Cimatti, F Giumchiglia, M Roveri
+Publication: Software Tools for Technology Transfer 2 (4), 401
+
+386. Automatic verification of hardware and software systems
+Citations:2
+Authors: EM Clarke
+Publication: ACM SIGSOFT Software Engineering Notes 25 (1), 41-42
+
+387. On the Semantic Foundations of Probabilistic Synchronous Reactive Programs
+Citations:2
+Authors: C Baier, EM Clarke, V Hartonas-Garmhausen
+Publication: Electronic Notes in Theoretical Computer Science 22, 3-28
+
+388. Checking and Abstraction
+Citations:2
+Authors: EM Clarke, O Grumberg, DE Long
+Publication: Proceedings of the Nineteenth Annual ACM Symposium on Principles of …
+
+389. Logic for Computer Science
+Citations:2
+Authors: EM Clarke, S Buss, E Clarke, C Emerson, S German, WG Gottlob, ...
+Publication: Addison Wesley
+
+390. A Language for Compositional Speciﬁcation and Veriﬁcation of Finite State Hardware Controllers
+Citations:2
+Authors: EM CLARKE JR, DE LONG, L MchLLAN
+Publication: 
+
+391. Distributed computing issues in hardware design
+Citations:2
+Authors: EM Clarke
+Publication: Distributed Computing 1 (4), 185-186
+
+392. Optimization of busy waiting in conditional critical regions
+Citations:2
+Authors: L Liu, EM Clarke
+Publication: Center for Research in Computing Techn., Aiken Computation Laboratory, Univ.
+
+393. Pathological Interaction of Programming Language Features
+Citations:2
+Authors: EM Clarke
+Publication: Department of Computer Science, Duke University
+
+394. Forester—Tool for Verification of Programs with Pointers
+Citations:2
+Authors: P Habermehl, L Holik, A Rogalewicz, J Simacek, T Vojnar, A Bouajjani, ...
+Publication: 
+
+395. Efficient filtering in publish-subscribe system
+Citations:2
+Authors: A Campailla, S Chaki, E Clarke, S Jha, H Veith
+Publication: Proc. of the International Conference on Software Engineering (ICSE01), 443-452
+
+396. Formal modeling of biological systems
+Citations:1
+Authors: Q Wang, EM Clarke
+Publication: 2016 IEEE International High Level Design Validation and Test Workshop …
+
+397. Revisiting the complexity of stability of continuous and hybrid systems
+Citations:1
+Authors: S Gao, S Kong, E Clarke
+Publication: arXiv preprint arXiv:1404.7169
+
+398. Community-engaged, problem-based learning in a graduate course designed to implement the New University of Guelph learning outcomes: a comparative case study
+Citations:1
+Authors: W Bettger, S Boyd, S Carson, E Clarke, A Fehr, L Minty, M Racey, J Taylor, ...
+Publication: Teaching and Learning Innovations 16
+
+399. Delta-Complete Reachability Analysis (Part 1)
+Citations:1
+Authors: S Gao, S Kong, EM Clarke
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+400. Floating-point Bugs in Embedded GNU C Library
+Citations:1
+Authors: S Kong, S Gao, EM Clarke
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+401. Extracting proofs from a numericallydriven decision procedure
+Citations:1
+Authors: S Gao, S Kong, M Wang, E Clarke
+Publication: CMU SCS Technical Report CMU-CS-13-104
+
+402. Assumption generation for asynchronous systems by abstraction refinement
+Citations:1
+Authors: Q Yang, EM Clarke, A Komuravelli, M Li
+Publication: International Workshop on Formal Aspects of Component Software, 260-276
+
+403. Perspectives of Systems Informatics: 8th International Andrei Ershov Memorial Conference, PSI 2011, Novosibirsk, Russia, June 27-July 1, 2011, Revised Selected Papers
+Citations:1
+Authors: E Clarke, I Virbitskaite, A Voronkov
+Publication: Springer
+
+404. Logic for Programming, Artificial Intelligence, and Reasoning
+Citations:1
+Authors: A Voronkov
+Publication: Springer Berlin Heidelberg
+
+405. Integrating ICP with DPLL (T) for Nonlinear Real Arithmetic
+Citations:1
+Authors: S Gao, MK Ganai, F Ivančić, S Sankaranarayanan, A Gupta, EM Clarke
+Publication: Under submission
+
+406. Model Checking with the Partial Order Reduction
+Citations:1
+Authors: EM Clarke Jr
+Publication: Computer Science Department, Carnegie Mellon University 18
+
+407. Model Checking Control Software for Nonlinear Dynamic Systems
+Citations:1
+Authors: J Kapinski, A Donze, F Lerda, H Maka, E Clarke, B Krogh
+Publication: AIAA Guidance, Navigation and Control Conference and Exhibit, 6800
+
+408. Advances in counterexample-guided abstraction refinement
+Citations:1
+Authors: EM Clarke, O Strichman
+Publication: figshare
+
+409. Long term use of the B-FIT guide to monitor body condition of budgerigars
+Citations:1
+Authors: E Clarke
+Publication: Nottingham Trent University
+
+410. Verification of infinite-state systems with applications to security
+Citations:1
+Authors: E Clarke, M Minea, FL Ţiplea
+Publication: IOS Press
+
+411. Checking consistency of C and Verilog using predicate abstraction and induction
+Citations:1
+Authors: E Clarke, D Kroening
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+412. The completeness threshold for bounded model checking
+Citations:1
+Authors: E Clarke, D Kroening, J Ouaknine, O Strichman
+Publication: 
+
+413. Hardware verification
+Citations:1
+Authors: EM Clarke Jr, PA Subrahmanyam
+Publication: John Wiley and Sons Ltd.
+
+414. A Survey of Abstract BDDs
+Citations:1
+Authors: E Clarke, Y Lu, H Veith
+Publication: Proceedings of the 4th World Multiconference on Systemics, Cybernetics and …
+
+415. Model Checking and Automata Theory
+Citations:1
+Authors: EM Clarke
+Publication: Model Checking
+
+416. Improving BDD variable ordering using abstract BDDs and sampling
+Citations:1
+Authors: Y Lu, J Jain, E Clarke, M Fujita
+Publication: Proceedings of Intl. Workshop of High Level Deisgn, Verification and Testing
+
+417. Equivalence checking using abstract BDDs
+Citations:1
+Authors: EM Clarke, S Jha, Y Lu, M Minea
+Publication: manuscript
+
+418. September1993.“
+Citations:1
+Authors: R Clarke, A Low
+Publication: Risk analysis in project planning: a simple spreadsheet application using …
+
+419. Temporal Verification of Real-Time Systems
+Citations:1
+Authors: SV Campos, EM Clarke, W MARRERO, M Minea, H Hiraishi
+Publication: IEICE TRANSACTIONS on Information and Systems 78 (7), 796-801
+
+420. Formal Methods in System Design Volume 5 Issue 1-2
+Citations:1
+Authors: L Claesen, M Gordon, RK Brayton, EM Clarke, PA Subrahmanyam
+Publication: Kluwer Academic Publishers 5 (1-2)
+
+421. Parthenon
+Citations:1
+Authors: S Bose, EM Clarke, DE Long, M Spiro
+Publication: Technical report, LICS
+
+422. Automatic verification of asynchronous circuits
+Citations:1
+Authors: B Mishra, EM Clarke
+Publication: Logics of programs
+
+423. The Impact of Multiprocessor Technology on High-Level Language Design.
+Citations:1
+Authors: A Evans Jr, CR Morgan, ES Roberts, EM Clarke
+Publication: BOLT BERANEK AND NEWMAN INC CAMBRIDGE MA
+
+424. Using state space exploration and a natural deduction style message derivation engine to verify security protocols
+Citations:1
+Authors: S Jha, EM Clarke, W Marrero
+Publication: Proceedings of the IFIP Working Conference on Programming Concepts and …
+
+425. 108. Hippocampal Subfield Volumes Relate to Unique Phenotypes of PTSD: International Analysis by the PGC-ENIGMA PTSD Working Group
+Citations:
+Authors: L Salminen, MW Logue, EC Clarke, EL Dennis, JE Iglesias, J Hayes, ...
+Publication: Biological Psychiatry 85 (10), S45
+
+426. 110. Amygdala Subregions Volumes are Associated With PTSD
+Citations:
+Authors: E Clarke, R Morey, R Phillips, C Haswell, K LaBar
+Publication: Biological Psychiatry 85 (10), S46
+
+427. HyCIRCA: Formal Synthesis and Verification Techniques of Autonomous Cyber-Physical Systems
+Citations:
+Authors: RP Goldman, D Bryce, DJ Musliner, MJ Pelican, MA Islam, F Pfenning, ...
+Publication: SMART INFORMATION FLOW TECHNOLOGIES MINNEAPOLIS MN MINNEAPOLIS
+
+428. Genome wide association study of hippocampal subfield volume in PTSD cases and trauma-exposed controls
+Citations:
+Authors: RA Morey, ME Garrett, JS Stevens, E Clarke, CC Haswell, SJH van Rooij, ...
+Publication: bioRxiv, 456988
+
+429. From non-preemptive to preemptive scheduling using synchronization synthesis
+Citations:
+Authors: P Cerny, EM Clarke, TA Henzinger, A Radhakrishna, L Ryzhyk, ...
+Publication: Formal Methods in System Design 50 (2-3), 97-139
+
+430. CyberCardia project: Modeling, verification and validation of implantable cardiac devices
+Citations:
+Authors: MA Islam, H Lim, N Paoletti, H Abbas, Z Jiang, J Cyranka, R Cleaveland, ...
+Publication: 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …
+
+431. Simulation-Based Model Checking for Nondeterministic Systems and Rare Events
+Citations:
+Authors: E Clarke, D Musliner, R Goldman, S Kong, Q Wang
+Publication: Carnegie Mellon University Pittsburgh United States
+
+432. SReach: A Probabilistic Bounded Delta-Reachability Analyzer for Stochastic Hybrid Systems
+Citations:
+Authors: EM Clarke
+Publication: Computational Methods in Systems Biology: 13th International Conference …
+
+433. Heavy parasite burden in an Egyptian mummy
+Citations:
+Authors: DE Michalik, EM Clarke, GS Thomas
+Publication: Journal of cardiology 65 (4), 349-350
+
+434. Statistical Analysis of High-Dimensional Data for Pancreatic Cancer
+Citations:
+Authors: H Gong, TT Wu, E Clarke
+Publication: Molecular Diagnostics and Treatment of Pancreatic Cancer, 133-150
+
+435. Methods And Devices For Edutainment Specifically Designed To Enhance Math Science And Technology Literacy For Girls Through Gender-Specific Design, Subject Integration And …
+Citations:
+Authors: EK Clarke, KA Clarke
+Publication: US Patent App. 13/911,739
+
+436. Extending DPLL-Based QBF Solvers to Handle Free Variables
+Citations:
+Authors: W Klieber, M Janota, J Marques-Silva, E Clarke
+Publication: International Workshop on Quantified Boolean Formulas 20131 Informal …
+
+437. Turing’s Computable Real Numbers and Why They Are Still Important Today
+Citations:
+Authors: EM Clarke
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+438. Extracting Proofs from Branch-and-Prune
+Citations:
+Authors: S Gao, S Kong, M Wang, EM Clarke
+Publication: 
+
+439. Computable Real Numbers and Why They Are Still Important Today
+Citations:
+Authors: E Clarke
+Publication: ACM Turing Centenary Celebration, 10
+
+440. Methods and devices for edutainment specifically designed to enhance math science and technology literacy for girls through gender-specific design, subject integration and …
+Citations:
+Authors: EK Clarke, KA Clarke
+Publication: US Patent App. 13/248,902
+
+441. Teaching cardiac electrophysiology modeling to
+Citations:
+Authors: J Glimm, SA Smolka, EM Cherry, EM Clarke, N Grosso-Applewhite, ...
+Publication: Adv Physiol Educ 35, 427-437
+
+442. Logic for Programming, Artificial Intelligence, and Reasoning
+Citations:
+Authors: EM Clarke, A Voronkov
+Publication: Lecture Notes in Computer Science 6355
+
+443. Trypsin inhibitor content of'parrot cooking diets' and other diet components
+Citations:
+Authors: E Clarke, P Wolf
+Publication: Filander Publishing 4, 47-58
+
+444. Frameworks and Tools for High-Confidence Design of Adaptive, Distributed Embedded Control Systems. Multi-University Research Initiative on High-Confidence Design for …
+Citations:
+Authors: J Sztipanovits, G Karsai, C Tomlin, E Lee, S Sastry, B Krogh, E Clarke, ...
+Publication: VANDERBILT UNIV NASHVILLE TN INST FOR SOFTWARE INTEGRATED SYSTEMS
+
+445. Session 7: Decision Procedures-Efficient Craig Interpolation for Linear Diophantine (Dis) Equations and Linear Modular Equations
+Citations:
+Authors: H Jain, E Clarke, O Grumberg
+Publication: Lecture Notes in Computer Science 5123, 254-267
+
+446. Static Analysis to Enhance the Power of Model Checking for Concurrent Software
+Citations:
+Authors: E Clarke, D Kroening, T Reps
+Publication: 
+
+447. Trypsin inhibitors in parrot diets
+Citations:
+Authors: E Clarke, I Kyriazakis, J Stevens, A Stevenson, L Alexander
+Publication: Nottingham Trent University
+
+448. Influence of presentation on diet selection in budgerigars and zebra finches
+Citations:
+Authors: E Clarke, J Wilkinson, A Stevenson, I Kyriazakis, L Alexander
+Publication: Nottingham Trent University
+
+449. Feeding behaviour and diet selection in budgerigars and zebra finches
+Citations:
+Authors: E Clarke, I Kyriazakis, J Stevens, A Stevenson, L Alexander
+Publication: British Poultry Science, 17-18
+
+450. Special Section on Foundations of Computer Science
+Citations:
+Authors: A Fujiwara
+Publication: IEICE-Transactions on Information and Systems 89 (2), 743-743
+
+451. Analytica V: Towards the Mordell-Weil Theorem
+Citations:
+Authors: EM Clarke, AS Gavlovski, K Sutner, W Windsteiger
+Publication: Calculemus 6, 2-6
+
+452. I штжмш
+Citations:
+Authors: S agar Chaki, E Clarke, N Kidd, T Reps, T Touili
+Publication: 
+
+453. Automatic Test Generation and Monitoring of Infinite States Systems Н
+Citations:
+Authors: D Peled
+Publication: 
+
+454. On the problems and solutions of static analysis for software testing.
+Citations:
+Authors: X Jianyu, DAI Jingguo, EM Clarke, D Kroening, T Ball, B Cook, V Levin, ...
+Publication: Information Technology Journal 11 (10), 9-10
+
+455. Bounded Model Checking for Software
+Citations:
+Authors: E CLARKE
+Publication: Proceedings of TACAS'04
+
+456. ثystem Description: Analytica 2
+Citations:
+Authors: E Clarke, M Kohlhase, J Ouaknine
+Publication: CALCULEMUS-2003, 69
+
+457. ARMIN BIERE
+Citations:
+Authors: A CIMATTI, EM CLARKE, O STRICHMAN, Y ZHU
+Publication: Advances in Computers: Highly Dependable Software 58, 117
+
+458. Verifying Safety Properties of a PowerPCTM'Microprocessor Using Symbolic Model Checking
+Citations:
+Authors: A Biere, E Clarke, R Raimi, Y Zhu
+Publication: Computer Aided Verification: 11th International Conference, CAV'99, Trento …
+
+459. Model Checking: Historical Perspective and Example (Extended Abstract)⋆
+Citations:
+Authors: EM Clarke, S Berezin
+Publication: Automated Reasoning with Analytic Tableaux and Related Methods …
+
+460. Model Checking for Dependable Software-Intensive Systems.
+Citations:
+Authors: EM Clarke, M Fujita, DP Gluch
+Publication: DSN, 764
+
+461. Using SAT Procedures for Reachability Analysis
+Citations:
+Authors: P Chauhan, EM Clarke, D Kroening
+Publication: 
+
+462. Bounded Model Checking-8 Related Work and Conclusions
+Citations:
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in Computers 58, 144-145
+
+463. Bounded Model Checking-5 Techniques for Completeness
+Citations:
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in Computers 58, 134-137
+
+464. Bounded Model Checking-6 Propositional SAT Solvers
+Citations:
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in Computers 58, 138-140
+
+465. Bounded Model Checking-7 Experiments
+Citations:
+Authors: A Biere, A Cimatti, EM Clarke, O Strichman, Y Zhu
+Publication: Advances in Computers 58, 141-143
+
+466. Invited Talks-SAT-Based Counterexample Guided Abstraction Refinement
+Citations:
+Authors: EM Clarke
+Publication: Lecture Notes in Computer Science 2318, 1-1
+
+467. EPSL: Executable Protocol Specification Language
+Citations:
+Authors: EM Clarke, Y Lu, H Veith, D Wang
+Publication: figshare
+
+468. Research Directions in Programming Language Semantics and Formal Program Verification
+Citations:
+Authors: EM Clarke
+Publication: figshare
+
+469. Verification Tools for Embedded Systems
+Citations:
+Authors: E Clarke, D Garlan, B Krogh, R Simmons, J Wing
+Publication: Carnegie Mellon University, Pittsburgh, PA
+
+470. Verification Tools for Autonomous and Embedded Systems
+Citations:
+Authors: R Bryant, E Clarke, D Garlan, B Krogh, R Simmons, J Wing
+Publication: 
+
+471. Program Slicing of Hardware Description
+Citations:
+Authors: EM Clarke, M Fujita, SP Rajan, T Reps, S Shankar, T Teitelbaum
+Publication: 
+
+472. Verifying Safety Properties of a PowerPC (Trade Mark) Microprocessor Using Symbolic Model Checking without BDDs
+Citations:
+Authors: A Biere, E Clarke, R Raimi, Y Zhu
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+473. Accountability in electronic commerce protocols.
+Citations:
+Authors: Y Jiang, H Gong, EA Emerson, EM Clarke, EA Emerson, GJ Holzmann, ...
+Publication: Information Technology Journal 12 (3), Pages: 2293-Pages: 2293
+
+474. 1998 Reviewers List
+Citations:
+Authors: A Agrawala, R Aitken, SG Akl, D Akopian, J Anderson, S Andradottir, ...
+Publication: IEEE Transactions on Computers 48 (1), 95
+
+475. Carnegie Mellon University {emc, sjha, marrero}@ cs. cmu. edu
+Citations:
+Authors: EM Clarke, S Jha
+Publication: Programming Concepts and Methods PROCOMET’98: IFIP TC2/WG2. 2, 2.3 …
+
+476. Combining Symbolic Model Checking with Uninterpreted
+Citations:
+Authors: S Berezin, A Biere, E Clarke, Y Zhu
+Publication: 
+
+477. istituto per la ricerca scientifica e tecnologica
+Citations:
+Authors: V Hartonas-Garmhausen, E Clarke, S Campos, A Cimatti, F Giunchiglia
+Publication: 
+
+478. and Example
+Citations:
+Authors: EM Clarke, S Berezin
+Publication: Automated Reasoning with Analytic Tableaux and Related Methods …
+
+479. ISTITUTO PER LA RICERCA SCIENTIFICA E TECNOLOGICA
+Citations:
+Authors: NSM a reimplementation oF SMv, A Cimatti, E Clarke, F Giunchiglia, ...
+Publication: 
+
+480. Formal Methods in System Design Volume 11 Issue 1
+Citations:
+Authors: EM Clarke
+Publication: Kluwer Academic Publishers 11 (1)
+
+481. School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+Citations:
+Authors: R Harper, C Stone
+Publication: 
+
+482. Equivalence Checking Using Abstract BDDs
+Citations:
+Authors: SJYLM Minea, EM Clarke
+Publication: 
+
+483. Word level model checking
+Citations:
+Authors: EM Clarke
+Publication: International Symposium on Mathematical Foundations of Computer Science, 1-1
+
+484. SATO: An efficient propositional prover.
+Citations:
+Authors: Z Xu, X Jianyu, JR Abrial, JR Abrial, S Berezin, E Clarke, O Grumberg, ...
+Publication: Information Technology Journal 7 (4), pp: 168-177
+
+485. Symbolic Model Checking: BRICS Autumn School on Verification
+Citations:
+Authors: EM Clarke
+Publication: BRICS, Department of Computer Science, University of Aarhus
+
+486. Verus: A Tool for Quantitative Analysis of Finite-State Real-Time Systems(Topical Report)
+Citations:
+Authors: S CAMPOS, E CLARKE, W MARRERO, M MINEA
+Publication: 
+
+487. SPECIAL ISSUE ON SYMBOLIC MODEL CHECKING-INTRODUCTION
+Citations:
+Authors: EM CLARKE
+Publication: FORMAL METHODS IN SYSTEM DESIGN 6 (2), 131-132
+
+488. The Semantic Challenge of
+Citations:
+Authors: HDL Verilog, M Gordon, E Clarke
+Publication: Proceedings, 135
+
+489. Formal Methods in System Design Volume 4 Issue 2
+Citations:
+Authors: RK Brayton, EM Clarke, PA Subrahmanyam
+Publication: Kluwer Academic Publishers 4 (2)
+
+490. Formal Methods in System Design Volume 4 Issue 1
+Citations:
+Authors: J Staunstrup, RK Brayton, EM Clarke, PA Subrahmanyam
+Publication: Kluwer Academic Publishers 4 (1)
+
+491. A unified approach for showing language inclusion and equivalence between various
+Citations:
+Authors: EM Clarke, LA Draghicescu
+Publication: Information Processing Letters 46 (1993), 301-308
+
+492. Splitting trees and partition refinement in real-timemodel checking.
+Citations:
+Authors: R Boudour, M Abadi, L Lamport, M Abadir, K Albin, J Havlicek, ...
+Publication: Information Technology Journal 5 (1), 73-132
+
+493. Formal Methods in System Design Volume 1 Issue 4
+Citations:
+Authors: R Kurshan, RK Brayton, EM Clarke, PA Subrahmanyam
+Publication: Kluwer Academic Publishers 1 (4)
+
+494. Verification of the Futurebus+ Cache Coherence
+Citations:
+Authors: E Clarke, O Grumberg, H Hiraishix, S Jha, D Long, K McMillan, L Ness
+Publication: 
+
+495. Designing Chips that Work: Discussion
+Citations:
+Authors: WA Hunt, MD May, EM Clarke
+Publication: Philosophical Transactions of the Royal Society of London Series A 339, 18-19
+
+496. Automatic Verification of Sequential Circuit Designs: Discussion
+Citations:
+Authors: P Thompson, EM Clarke
+Publication: Philosophical Transactions of the Royal Society of London Series A 339, 120
+
+497. Using Nuprl for the Verification and Synthesis of Hardware: Discussion
+Citations:
+Authors: TF Melham, M Leeser, WA Hunt, EM Clarke
+Publication: Philosophical Transactions of the Royal Society of London Series A 339, 67-68
+
+498. The style and quality of Acta lnformatica depend to referees' evaluations of the form and content of the papers submitted. This time-consuming work is greatly appreciated, and …
+Citations:
+Authors: K Abrahamson, V Diekert, O Ibarra, L Aceto, E Dijkstra, I Adiri, M Jantzen, ...
+Publication: Acta][nforrnatica 29, 793-794
+
+499. Automatic Verification of Sequential Control Systems Using Temporal Logic
+Citations:
+Authors: JR Burch, EM Clarke
+Publication: 
+
+500. Computer-aided Verification: 2nd International Conference, CAV'90, New Brunswick, NJ, USA, June 18 {u2013} 21, 1990: Proceedings
+Citations:
+Authors: EM Clarke
+Publication: Springer-Verlag
+

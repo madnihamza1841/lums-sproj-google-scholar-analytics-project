@@ -1,0 +1,103 @@
+https://scholar.google.com/citations?hl=en&user=rp8dOfAAAAAJ
+Total Citations = 578
+
+1. Let's talk about storage & recovery methods for non-volatile memory database systems
+Citations:131
+Authors: J Arulraj, A Pavlo, SR Dulloor
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+2. Self-Driving Database Management Systems.
+Citations:79
+Authors: A Pavlo, G Angulo, J Arulraj, H Lin, J Lin, L Ma, P Menon, TC Mowry, ...
+Publication: CIDR 4, 1
+
+3. Bridging the archipelago between row-stores and column-stores for hybrid workloads
+Citations:63
+Authors: J Arulraj, A Pavlo, P Menon
+Publication: Proceedings of the 2016 International Conference on Management of Data, 583-598
+
+4. Write-behind logging
+Citations:51
+Authors: J Arulraj, M Perron, A Pavlo
+Publication: Proceedings of the VLDB Endowment 10 (4), 337-348
+
+5. A prolegomenon on OLTP database systems for non-volatile memory
+Citations:51
+Authors: J DeBrabant, J Arulraj, A Pavlo, M Stonebraker, S Zdonik, S Dulloor
+Publication: ADMS@ VLDB
+
+6. An empirical evaluation of in-memory multi-version concurrency control
+Citations:42
+Authors: Y Wu, J Arulraj, J Lin, R Xian, A Pavlo
+Publication: Proceedings of the VLDB Endowment 10 (7), 781-792
+
+7. How to build a non-volatile memory database management system
+Citations:41
+Authors: J Arulraj, A Pavlo
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+8. Production-run software failure diagnosis via hardware performance counters
+Citations:40
+Authors: J Arulraj, PC Chang, G Jin, S Lu
+Publication: Acm Sigplan Notices 48 (4), 101-112
+
+9. SlimDB: A space-efficient key-value storage engine for semi-sorted data
+Citations:23
+Authors: K Ren, Q Zheng, J Arulraj, G Gibson
+Publication: Proceedings of the VLDB Endowment 10 (13), 2037-2048
+
+10. Leveraging the short-term memory of hardware to diagnose production-run software failures
+Citations:22
+Authors: J Arulraj, G Jin, S Lu
+Publication: ACM SIGARCH Computer Architecture News 42 (1), 207-222
+
+11. BzTree: A high-performance latch-free range index for non-volatile memory
+Citations:20
+Authors: J Arulraj, J Levandoski, UF Minhas, PA Larson
+Publication: Proceedings of the VLDB Endowment 11 (5), 553-565
+
+12. Larger-than-memory data management on modern storage hardware for in-memory OLTP database systems
+Citations:13
+Authors: L Ma, J Arulraj, S Zhao, A Pavlo, SR Dulloor, MJ Giardino, J Parkhurst, ...
+Publication: Proceedings of the 12th International Workshop on Data Management on New …
+
+13. Non-Volatile Memory Database Management Systems
+Citations:1
+Authors: J Arulraj, A Pavlo
+Publication: Synthesis Lectures on Data Management 11 (1), 1-191
+
+14. Multi-Tier Buffer Management and Storage System Design for Non-Volatile Memory
+Citations:1
+Authors: J Arulraj, A Pavlo, KT Malladi
+Publication: arXiv preprint arXiv:1901.10938
+
+15. Index Structure Using Atomic Multiword Update Operations
+Citations:
+Authors: JJ Levandoski, UF Minhas, PA Larson, T Wang, JJP Arulraj
+Publication: US Patent App. 16/003,568
+
+16. Automated verification of query equivalence using satisfiability modulo theories
+Citations:
+Authors: Q Zhou, J Arulraj, S Navathe, W Harris, D Xu
+Publication: Proceedings of the VLDB Endowment 12 (11), 1276-1288
+
+17. Data Management on Non-Volatile Memory
+Citations:
+Authors: J Arulraj
+Publication: Proceedings of the 2019 International Conference on Management of Data, 1114 …
+
+18. Predictive Indexing
+Citations:
+Authors: J Arulraj, R Xian, L Ma, A Pavlo
+Publication: arXiv preprint arXiv:1901.07064
+
+19. The Design and Implementation of a Non-Volatile Memory Database Management System
+Citations:
+Authors: J Arulraj
+Publication: Microsoft Research
+
+20. 2018 Theses by Author
+Citations:
+Authors: J ARULRAJ, SP BANGARU, B BLUM, Z CHEN, SJ CHUNG, J DUNIETZ, ...
+Publication: 
+

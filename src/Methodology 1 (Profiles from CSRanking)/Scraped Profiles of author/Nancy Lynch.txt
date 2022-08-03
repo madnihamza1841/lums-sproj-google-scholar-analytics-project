@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=LPTkkxUAAAAJ
+Total Citations = 35450
+
+1. Distributed algorithms
+Citations:5807
+Authors: NA Lynch
+Publication: Elsevier
+
+2. Impossibility of distributed consensus with one faulty process.
+Citations:4973
+Authors: MJ Fischer, NA Lynch, MS Paterson
+Publication: Massachusetts Inst of Tech Cambridge lab for Computer Science
+
+3. Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services
+Citations:1868
+Authors: S Gilbert, N Lynch
+Publication: Acm Sigact News 33 (2), 51-59
+
+4. Consensus in the presence of partial synchrony
+Citations:1504
+Authors: C Dwork, N Lynch, L Stockmeyer
+Publication: Journal of the ACM (JACM) 35 (2), 288-323
+
+5. An introduction to input/output automata
+Citations:1441
+Authors: NA Lynch, MR Tuttle
+Publication: Laboratory for Computer Science, Massachusetts Institute of Technology
+
+6. Hierarchical Correctness Proofs for Distributed Algorithms.
+Citations:1058
+Authors: NA Lynch, MS Tuttle
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+7. Probabilistic simulations for probabilistic processes
+Citations:524
+Authors: R Segala, N Lynch
+Publication: Nordic Journal of Computing 2 (2), 250-273
+
+8. A lower bound for the time to assure interactive consistency
+Citations:521
+Authors: MJ Fischer, NA Lynch
+Publication: GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE
+
+9. A comparison of polynomial time reducibilities
+Citations:502
+Authors: RE Ladner, NA Lynch, AL Selman
+Publication: Theoretical Computer Science 1 (2), 103-123
+
+10. Forward and backward simulations
+Citations:491
+Authors: N Lynch, F Vaandrager
+Publication: Information and Computation 121 (2), 214-233
+
+11. Reaching approximate agreement in the presence of faults
+Citations:475
+Authors: D Dolev, NA Lynch, SS Pinter, EW Stark, WE Weihl
+Publication: Journal of the ACM (JACM) 33 (3), 499-516
+
+12. Hybrid i/o automata
+Citations:460
+Authors: N Lynch, R Segala, F Vaandrager
+Publication: Information and computation 185 (1), 105-157
+
+13. Hybrid i/o automata
+Citations:460
+Authors: N Lynch, R Segala, F Vaandrager
+Publication: Information and computation 185 (1), 105-157
+
+14. A new fault-tolerant algorithm for clock synchronization
+Citations:344
+Authors: JL Welch, N Lynch
+Publication: Information and computation 77 (1), 1-36
+
+15. Probabilistic simulations for probabilistic processes
+Citations:339
+Authors: R Segala, N Lynch
+Publication: International Conference on Concurrency Theory, 481-496
+
+16. Distributed computation in dynamic networks
+Citations:324
+Authors: F Kuhn, N Lynch, R Oshman
+Publication: Proceedings of the forty-second ACM symposium on Theory of computing, 513-522
+
+17. Hybrid i/o automata
+Citations:303
+Authors: N Lynch, R Segala, F Vaandrager, HB Weinberg
+Publication: International Hybrid Systems Workshop, 496-510
+
+18. Hybrid i/o automata
+Citations:303
+Authors: N Lynch, R Segala, F Vaandrager, HB Weinberg
+Publication: International Hybrid Systems Workshop, 496-510
+
+19. An upper and lower bound for clock synchronization
+Citations:296
+Authors: J Lundelius, N Lynch
+Publication: Information and control 62 (2-3), 190-204
+
+20. The theory of timed I/O automata
+Citations:263
+Authors: DK Kaynar, N Lynch, R Segala, F Vaandrager
+Publication: Synthesis Lectures on Distributed Computing Theory 1 (1), 1-137
+
+21. Multilevel atomicity—a new correctness criterion for database concurrency control
+Citations:255
+Authors: NA Lynch
+Publication: ACM Transactions on Database Systems (TODS) 8 (4), 484-502
+
+22. Specifying and using a partitionable group communication service
+Citations:254
+Authors: A Fekete, N Lynch, A Shvartsman
+Publication: ACM Transactions on Computer Systems (TOCS) 19 (2), 171-216
+
+23. Revisiting the Paxos algorithm
+Citations:243
+Authors: R De Prisco, B Lampson, N Lynch
+Publication: International Workshop on Distributed Algorithms, 111-125
+
+24. RAMBO: A reconfigurable atomic memory service for dynamic networks
+Citations:236
+Authors: N Lynch, AA Shvartsman
+Publication: International Symposium on Distributed Computing, 173-190
+
+25. Forward and backward simulations: II. timing-based systems
+Citations:231
+Authors: N Lynch, F Vaandrager
+Publication: Information and Computation 128 (1), 1-25
+
+26. Distributed computing: Models and methods
+Citations:231
+Authors: L Lamport, N Lynch
+Publication: Formal Models and Semantics, 1157-1199
+
+27. The Generalized Railroad Crossing: A Case Study in Formal Verification of Real-Time Systems.
+Citations:222
+Authors: C Heitmeyer, N Lynch
+Publication: NAVAL RESEARCH LAB WASHINGTON DC
+
+28. Electing a leader in a synchronous ring
+Citations:210
+Authors: GN Frederickson, NA Lynch
+Publication: Journal of the ACM (JACM) 34 (1), 98-115
+
+29. A new fault-tolerant algorithm for clock synchronization
+Citations:199
+Authors: J Lundelius, N Lynch
+Publication: Proceedings of the third annual ACM symposium on Principles of distributed …
+
+30. Cryptographic protocols
+Citations:196
+Authors: RA DeMillo, NA Lynch, MJ Merritt
+Publication: Proceedings of the fourteenth annual ACM symposium on Theory of computing …
+
+31. Easy impossibility proofs for distributed consensus problems
+Citations:192
+Authors: MJ Fischer, NA Lynch, M Merritt
+Publication: Distributed Computing 1 (1), 26-39
+
+32. Easy impossibility proofs for distributed consensus problems
+Citations:192
+Authors: MJ Fischer, NA Lynch, M Merritt
+Publication: Distributed Computing 1 (1), 26-39
+
+33. Relativization of questions about log space computability
+Citations:192
+Authors: RE Ladner, NA Lynch
+Publication: Mathematical Systems Theory 10 (1), 19-32
+
+34. Forward and backward simulations for timing-based systems
+Citations:185
+Authors: N Lynch, F Vaandrager
+Publication: Workshop/School/Symposium of the REX Project (Research and Education in …
+
+35. Resource allocation with immunity to limited process failure
+Citations:168
+Authors: MJ Fischer, NA Lynch, JE Burns, A Borodin
+Publication: 20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 234-254
+
+36. GeoQuorums: Implementing Atomic Memory in Mobile Ad Hoc Networks
+Citations:152
+Authors: S Dolev, S Gilbert, NA Lynch, AA Shvartsman, JL Welch
+Publication: International Symposium on Distributed Computing, 306-320
+
+37. Liveness in timed and untimed systems
+Citations:149
+Authors: R Gawlick, R Segala, J Søgaard-Andersen, N Lynch
+Publication: International Colloquium on Automata, Languages, and Programming, 166-177
+
+38. An efficient algorithm for Byzantine agreement without authentication
+Citations:144
+Authors: D Dolev, MJ Fischer, R Fowler, NA Lynch, HR Strong
+Publication: Information and Control 52 (3), 257-274
+
+39. Timed I/O automata: A mathematical framework for modeling and analyzing real-time systems
+Citations:135
+Authors: DK Kaynar, N Lynch, R Segala, F Vaandrager
+Publication: RTSS 2003. 24th IEEE Real-Time Systems Symposium, 2003, 166-177
+
+40. High-level modeling and analysis of the traffic alert and collision avoidance system (TCAS)
+Citations:135
+Authors: C Livadas, J Lygeros, NA Lynch
+Publication: Proceedings of the IEEE 88 (7), 926-948
+
+41. Hybrid I/O automata revisited
+Citations:134
+Authors: N Lynch, R Segala, F Vaandrager
+Publication: International Workshop on Hybrid Systems: Computation and Control, 403-417
+
+42. Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts
+Citations:134
+Authors: NA Lynch, AA Shvartsman
+Publication: Proceedings of IEEE 27th International Symposium on Fault Tolerant Computing …
+
+43. Bounds on the time to reach agreement in the presence of timing uncertainty
+Citations:133
+Authors: H Attiya, C Dwork, N Lynch, L Stockmeyer
+Publication: Journal of the ACM 41 (1), 122-152
+
+44. A proof of the Kahn principle for input/output automata
+Citations:133
+Authors: NA Lynch, EW Stark
+Publication: Information and Computation 82 (1), 81-92
+
+45. Using mappings to prove timing properties
+Citations:132
+Authors: NA Lynch, H Attiya
+Publication: Distributed Computing 6 (2), 121-139
+
+46. Virtual mobile nodes for mobile ad hoc networks
+Citations:131
+Authors: S Dolev, S Gilbert, NA Lynch, E Schiller, AA Shvartsman, JL Welch
+Publication: International Symposium on Distributed Computing, 230-244
+
+47. The BG distributed simulation algorithm
+Citations:131
+Authors: E Borowsky, E Gafni, N Lynch, S Rajsbaum
+Publication: Distributed Computing 14 (3), 127-146
+
+48. Bounds on shared memory for mutual exclusion
+Citations:131
+Authors: JE Burns, NA Lynch
+Publication: Information and Computation 107 (2), 171-184
+
+49. Revisiting the Paxos algorithm
+Citations:130
+Authors: R De Prisco, B Lampson, N Lynch
+Publication: Distributed Algorithms, 111-125
+
+50. On describing the behavior and implementation of distributed systems
+Citations:125
+Authors: NA Lynch, MJ Fischer
+Publication: Theoretical Computer Science 13 (1), 17-43
+
+51. Eventually-serializable data services
+Citations:123
+Authors: A Fekete, D Gupta, V Luchangco, N Lynch, A Shvartsman
+Publication: Theoretical Computer Science 220 (1), 113-156
+
+52. A time-space tradeoff for sorting on non-oblivious machines
+Citations:122
+Authors: A Borodin, MJ Fischer, DG Kirkpatrick, NA Lynch, M Tompa
+Publication: 20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 319-327
+
+53. Global states of a distributed system
+Citations:121
+Authors: MJ Fischer, ND Griffeth, NA Lynch
+Publication: IEEE transactions on Software Engineering, 198-202
+
+54. Log space recognition and translation of parenthesis languages
+Citations:120
+Authors: N Lynch
+Publication: Journal of the ACM (JACM) 24 (4), 583-590
+
+55. A hundred impossibility proofs for distributed computing
+Citations:117
+Authors: N Lynch
+Publication: Proceedings of the eighth annual ACM Symposium on Principles of distributed …
+
+56. Model-based software design and validation
+Citations:116
+Authors: SJ Garland, NA Lynch
+Publication: US Patent 6,289,502
+
+57. Introduction to the theory of nested transactions
+Citations:115
+Authors: N Lynch, M Merritt
+Publication: Theoretical Computer Science 62 (1-2), 123-185
+
+58. Gradient clock synchronization
+Citations:114
+Authors: R Fan, N Lynch
+Publication: Distributed Computing 18 (4), 255-266
+
+59. The theory of timed I
+Citations:113
+Authors: DK Kaynar, N Lynch, R Segala, F Vaandrager
+Publication: O Automata (Synthesis Lectures in Computer Science), Morgan & Claypool …
+
+60. RAMBO II: Rapidly reconfigurable atomic memory for dynamic networks
+Citations:107
+Authors: S Gilbert
+Publication: Massachusetts Institute of Technology
+
+61. Distributed FIFO allocation of identical resources using small shared space
+Citations:106
+Authors: MJ Fischer, NA Lynch, JE Burns, A Borodin
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 11 (1), 90-114
+
+62. Easy impossibility proofs for distributed consensus problems
+Citations:104
+Authors: MJ Fischer, NA Lynch, M Merritt
+Publication: Fault-tolerant distributed computing, 147-170
+
+63. Using I/O automata for developing distributed systems
+Citations:103
+Authors: SJ Garland, NA Lynch
+Publication: Foundations of Component-Based Systems 13, 285312
+
+64. Are wait-free algorithms fast?
+Citations:102
+Authors: H Attiya, N Lynch, N Shavit
+Publication: Journal of the ACM (JACM) 41 (4), 725-763
+
+65. Reliable communication over unreliable channels
+Citations:99
+Authors: Y Afek, H Attiya, A Fekete, M Fischer, N Lynch, Y Mansour, DW Wang, ...
+Publication: Journal of the ACM 41 (6), 1267-1297
+
+66. Atomic data access in distributed hash tables
+Citations:95
+Authors: N Lynch, D Malkhi, D Ratajczak
+Publication: International Workshop on Peer-to-Peer Systems, 295-305
+
+67. Discarding obsolete information in a replicated database system
+Citations:94
+Authors: SK Sarin, NA Lynch
+Publication: IEEE Transactions on Software Engineering, 39-47
+
+68. The impact of synchronous communication on the problem of electing a leader in a ring
+Citations:92
+Authors: GN Frederickson, NA Lynch
+Publication: Proceedings of the sixteenth annual ACM symposium on Theory of computing …
+
+69. Upper bounds for static resource allocation in a distributed system
+Citations:92
+Authors: NA Lynch
+Publication: J. Comput. Syst. Sci. 23 (2), 254-278
+
+70. Specifications and proofs for Ensemble layers
+Citations:91
+Authors: J Hickey, N Lynch, R Van Renesse
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+71. Commutativity-based locking for nested transactions
+Citations:91
+Authors: A Fekete, N Lynch, M Merritt, W Weihl
+Publication: Journal of Computer and System Sciences 41 (1), 65-156
+
+72. On reducibility to complex or sparse sets
+Citations:89
+Authors: N Lynch
+Publication: Journal of the ACM (JACM) 22 (3), 341-345
+
+73. Atomic Transactions: In Concurrent and Distributed Systems
+Citations:88
+Authors: NA Lynch, M Merritt, W Weihl, A Fekete
+Publication: Morgan Kaufmann Publishers Inc.
+
+74. Proving time bounds for randomized distributed algorithms
+Citations:83
+Authors: N Lynch, I Saias, R Segala
+Publication: arXiv preprint math/9409221
+
+75. Fast allocation of nearby resources in a distributed system
+Citations:82
+Authors: NA Lynch
+Publication: Proceedings of the twelfth annual ACM symposium on Theory of computing, 70-81
+
+76. Dynamic input/output automata: a formal model for dynamic systems
+Citations:78
+Authors: PC Attie, NA Lynch
+Publication: International Conference on Concurrency Theory, 137-151
+
+77. Efficiency of synchronous versus asynchronous distributed systems
+Citations:76
+Authors: E Arjomandi, MJ Fischer, NA Lynch
+Publication: Journal of the ACM (JACM) 30 (3), 449-456
+
+78. Perspectives on the CAP Theorem
+Citations:74
+Authors: S Gilbert, N Lynch
+Publication: Computer 45 (2), 30-36
+
+79. IOA: A Language for Specifying, Programming, and Validating Distributed Systems. Draft
+Citations:74
+Authors: SJ Garland, NA Lynch, M Vaziri
+Publication: Unpublished manuscript, September
+
+80. On the formal verification of the TCAS conflict resolution algorithms
+Citations:73
+Authors: J Lygeros, N Lynch
+Publication: Proceedings of the 36th IEEE Conference on Decision and Control 2, 1829-1834
+
+81. Concurrent timestamping made simple
+Citations:72
+Authors: R Gawlick, N Lynch, N Shavit
+Publication: Israel Symposium on Theory of Computing and Systems, 171-183
+
+82. Hybrid Systems: Computation and Control: Third International Workshop, HSCC 2000 Pittsburgh, PA, USA, March 23-25, 2000 Proceedings
+Citations:71
+Authors: N Lynch, B Krogh
+Publication: Springer Science & Business Media
+
+83. I/O automata: A model for discrete event systems
+Citations:71
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+84. Timing-based mutual exclusion
+Citations:69
+Authors: N Lynch, N Shavit
+Publication: [1992] Proceedings Real-Time Systems Symposium, 2-11
+
+85. Rambo: a robust, reconfigurable atomic memory service for dynamic networks
+Citations:68
+Authors: S Gilbert, NA Lynch, AA Shvartsman
+Publication: Distributed Computing 23 (4), 225-272
+
+86. Tight bounds for k-set agreement
+Citations:68
+Authors: S Chaudhuri, M Erlihy, NA Lynch, MR Tuttle
+Publication: Journal of the ACM (JACM) 47 (5), 912-943
+
+87. Data requirements for implementation of n-process mutual exclusion using a single shared variable
+Citations:68
+Authors: JE Burns, P Jackson, NA Lynch, MJ Fischer, GL Peterson
+Publication: Journal of the ACM (JACM) 29 (1), 183-205
+
+88. Efficient replication of large data objects
+Citations:67
+Authors: R Fan, N Lynch
+Publication: International Symposium on Distributed Computing, 75-91
+
+89. Verification of the randomized consensus algorithm of Aspnes and Herlihy: a case study
+Citations:66
+Authors: A Pogosyants, R Segala, N Lynch
+Publication: Distributed Computing 13 (3), 155-186
+
+90. I/O automaton models and proofs for shared-key communication systems
+Citations:66
+Authors: N Lynch
+Publication: Proceedings of the 12th IEEE Computer Security Foundations Workshop, 14-29
+
+91. Timed virtual stationary automata for mobile networks
+Citations:65
+Authors: S Dolev, S Gilbert, L Lahiani, N Lynch, T Nolte
+Publication: International Conference On Principles Of Distributed Systems, 130-145
+
+92. The impossibility of implementing reliable communication in the face of crashes
+Citations:65
+Authors: A Fekete, N Lynch, Y Mansour, J Spinelli
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+93. Concurrency Control for Resilient Nested Transactions.
+Citations:65
+Authors: NA Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+94. Observing branching structure through probabilistic contexts
+Citations:64
+Authors: N Lynch, R Segala, F Vaandrager
+Publication: SIAM Journal on Computing 37 (4), 977-1013
+
+95. High-level modeling and analysis of TCAS
+Citations:64
+Authors: C Livadas, J Lygeros, NA Lynch
+Publication: Proceedings 20th IEEE Real-Time Systems Symposium (Cat. No. 99CB37054), 115-125
+
+96. Safety verification for automated platoon maneuvers: A case study
+Citations:63
+Authors: E Dolginova, N Lynch
+Publication: International Workshop on Hybrid and Real-Time Systems, 154-170
+
+97. Time-bounded task-PIOAs: A framework for analyzing security protocols
+Citations:62
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: International Symposium on Distributed Computing, 238-253
+
+98. Time bounds for real-time process control in the presence of timing uncertainty
+Citations:62
+Authors: H Attiya, NA Lynch
+Publication: [1989] Proceedings. Real-Time Systems Symposium, 268-284
+
+99. Computer-assisted simulation proofs
+Citations:61
+Authors: JF Søgaard-Andersen, SJ Garland, JV Guttag, NA Lynch, A Pogosyants
+Publication: International Conference on Computer Aided Verification, 305-319
+
+100. A lattice-structured proof technique applied to a minimum spanning tree algorithm
+Citations:61
+Authors: JL Welch, L Lamport, N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+101. Liveness in timed and untimed systems
+Citations:60
+Authors: R Segala, R Gawlick, J Søgaard-Andersen, N Lynch
+Publication: Information and Computation 141 (2), 119-171
+
+102. Mutual exclusion using invisible reads and writes
+Citations:60
+Authors: J Burns, NA Lynch
+Publication: In Proceedings of the 18th Annual Allerton Conference on Communication …
+
+103. Compositionality for probabilistic automata
+Citations:59
+Authors: N Lynch, R Segala, F Vaandrager
+Publication: International Conference on Concurrency Theory, 208-221
+
+104. Switched PIOA: Parallel composition via distributed scheduling
+Citations:58
+Authors: L Cheung, N Lynch, R Segala, F Vaandrager
+Publication: Theoretical Computer Science 365 (1-2), 83-108
+
+105. The Byzantine Firing Squad Problem.
+Citations:58
+Authors: JE Burns, NA Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+106. Implementing sequentially consistent shared objects using broadcast and point-to-point communication
+Citations:57
+Authors: A Fekete, MF Kaashoek, N Lynch
+Publication: Journal of the ACM (JACM) 45 (1), 35-69
+
+107. The IOA language and toolset: Support for designing, analyzing, and building distributed systems
+Citations:56
+Authors: SJ Garland, NA Lynch
+Publication: Technical Report MIT/LCS/TR-762, Laboratory for Computer Science …
+
+108. A dynamic view-oriented group communication service
+Citations:56
+Authors: R De Prisco, A Fekete, N Lynch, A Shvartsman
+Publication: Proceedings of the seventeenth annual ACM symposium on Principles of …
+
+109. A Simple and Efficient Byzantine Generals Algorithm.
+Citations:56
+Authors: NA Lynch, MJ Fischer, R Fowler
+Publication: GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE
+
+110. A hierarchy-based fault-local stabilizing algorithm for tracking in sensor networks
+Citations:53
+Authors: M Demirbas, A Arora, T Nolte, N Lynch
+Publication: International Conference on Principles of Distributed Systems, 299-315
+
+111. Task-structured probabilistic I/O automata
+Citations:51
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: 2006 8th International Workshop on Discrete Event Systems, 207-214
+
+112. Action transducers and timed automata
+Citations:50
+Authors: N Lynch, F Vaandrager
+Publication: Formal Aspects of Computing 8 (5), 499-538
+
+113. The data link layer: two impossibility results
+Citations:50
+Authors: N Lynch, Y Mansour, A Fekete
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+114. The virtual node layer: A programming abstraction for wireless sensor networks
+Citations:49
+Authors: M Brown, S Gilbert, N Lynch, C Newport, T Nolte, M Spindel
+Publication: ACM SIGBED Review 4 (3), 7-12
+
+115. Strings of vehicles: Modeling and safety conditions
+Citations:49
+Authors: J Lygeros, N Lynch
+Publication: International Workshop on Hybrid Systems: Computation and Control, 273-288
+
+116. Action transducers and timed automata
+Citations:49
+Authors: F Vaandrager, N Lynch
+Publication: International Conference on Concurrency Theory, 436-455
+
+117. Broadcasting in unreliable radio networks
+Citations:48
+Authors: F Kuhn, N Lynch, C Newport, R Oshman, A Richa
+Publication: Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of …
+
+118. A dynamic primary configuration group communication service
+Citations:48
+Authors: R De Prisco, A Fekete, N Lynch, A Shvartsman
+Publication: International Symposium on Distributed Computing, 64-78
+
+119. A tight lower bound for k-set agreement
+Citations:48
+Authors: S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle
+Publication: Proceedings of 1993 IEEE 34th Annual Foundations of Computer Science, 206-215
+
+120. Safety verification of model helicopter controller using hybrid Input/Output automata
+Citations:46
+Authors: S Mitra, Y Wang, N Lynch, E Feron
+Publication: International Workshop on Hybrid Systems: Computation and Control, 343-358
+
+121. Clock synchronization for wireless networks
+Citations:45
+Authors: R Fan, I Chakraborty, N Lynch
+Publication: International Conference On Principles Of Distributed Systems, 400-414
+
+122. Multicast group communication as a base for a load-balancing replicated data service
+Citations:43
+Authors: R Khazan, A Fekete, N Lynch
+Publication: International Symposium on Distributed Computing, 258-272
+
+123. Early-delivery dynamic atomic broadcast
+Citations:42
+Authors: Z Bar-Joseph, I Keidar, N Lynch
+Publication: International Symposium on Distributed Computing, 1-16
+
+124. Atomic data access in content addressable networks
+Citations:42
+Authors: N Lynch, D Malkhi, D Ratajczak
+Publication: In Proceedings of the 1st International Workshop on Peer-to-Peer Systems
+
+125. Verifying timing properties of concurrent algorithms
+Citations:42
+Authors: V Luchangco, E Söylemez, S Garland, N Lynch
+Publication: Formal Description Techniques VII, 259-273
+
+126. TIOA user guide and reference manual
+Citations:41
+Authors: SJ Garland
+Publication: 
+
+127. On the weakest failure detector ever
+Citations:40
+Authors: R Guerraoui, M Herlihy, P Kuznetsov, N Lynch, C Newport
+Publication: Distributed Computing 21 (5), 353-366
+
+128. Are wait-free algorithms fast?
+Citations:40
+Authors: H Attiya, N Lynch, N Shavit
+Publication: Proceedings [1990] 31st Annual Symposium on Foundations of Computer Science …
+
+129. Multivalued possibilities mappings
+Citations:40
+Authors: NA Lynch
+Publication: Workshop/School/Symposium of the REX Project (Research and Education in …
+
+130. Efficient searching using partial ordering
+Citations:40
+Authors: A Borodin, LJ Guibas, NA Lynch, AC Yao
+Publication: Information Processing Letters, Vol 12, num 2
+
+131. The abstract MAC layer
+Citations:39
+Authors: F Kuhn, N Lynch, C Newport
+Publication: International Symposium on Distributed Computing, 48-62
+
+132. Simulation techniques for proving properties of real-time systems
+Citations:39
+Authors: N Lynch
+Publication: Workshop/School/Symposium of the REX Project (Research and Education in …
+
+133. Nested Transactions and Read/Write Locking.
+Citations:39
+Authors: A Fekete, N Lynch, M Merritt, W Weihl
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+134. Analyzing security protocols using time-bounded task-PIOAs
+Citations:38
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: Discrete Event Dynamic Systems 18 (1), 111-159
+
+135. An inheritance-based technique for building simulation proofs incrementally
+Citations:37
+Authors: I Keidar, RI Khazan, N Lynch, A Shvartsman
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 11 (1), 63-91
+
+136. A modular drinking philosophers algorithm
+Citations:37
+Authors: JL Welch, NA Lynch
+Publication: Distributed Computing 6 (4), 233-244
+
+137. A theory of timestamp-based concurrency control for nested transactions
+Citations:37
+Authors: J Aspnes, A Fekete, NA Lynch, M Merritt, WE Weihl
+Publication: Proceedings of the 14th International Conference on Very Large Data Bases …
+
+138. On the correctness of orphan elimination algorithms
+Citations:37
+Authors: M Herlihy, NA Lynch, M Merritt, W Weihl
+Publication: Massachusetts Institute of Technology. Laboratory for Computer Science
+
+139. Heirarchical correctness proofs for distributed algorithms
+Citations:37
+Authors: MR Tuttle, NA Lynch
+Publication: Massachusetts Institute of Technology, Dept. of Electrical Engineering and …
+
+140. Self-stabilizing robot formations over unreliable networks
+Citations:36
+Authors: S Gilbert, N Lynch, S Mitra, T Nolte
+Publication: ACM Transactions on Autonomous and Adaptive Systems (TAAS) 4 (3), 17
+
+141. The abstract MAC layer
+Citations:35
+Authors: F Kuhn, N Lynch, C Newport
+Publication: Distributed Computing 24 (3-4), 187-206
+
+142. Correctness of vehicle control systems-a case study
+Citations:35
+Authors: HB Weinberg, N Lynch
+Publication: 17th IEEE Real-Time Systems Symposium, 62-72
+
+143. MAC design for analog network coding
+Citations:34
+Authors: M Khabbazian, F Kuhn, N Lynch, M Médard, A ParandehGheibi
+Publication: Proceedings of the 7th ACM ACM SIGACT/SIGMOBILE International Workshop on …
+
+144. Consensus and collision detectors in radio networks
+Citations:34
+Authors: G Chockler, M Demirbas, S Gilbert, N Lynch, C Newport, T Nolte
+Publication: Distributed Computing 21 (1), 55-84
+
+145. Safety verification of an aircraft landing protocol: A refinement approach
+Citations:34
+Authors: S Umeno, N Lynch
+Publication: International Workshop on Hybrid Systems: Computation and Control, 557-572
+
+146. Decomposing broadcast algorithms using abstract MAC layers
+Citations:33
+Authors: M Khabbazian, DR Kowalski, F Kuhn, N Lynch
+Publication: Ad Hoc Networks 12, 219-242
+
+147. Self-stabilizing mobile node location management and message routing
+Citations:33
+Authors: S Dolev, L Lahiani, N Lynch, T Nolte
+Publication: Symposium on Self-Stabilizing Systems, 96-112
+
+148. Verification of automated vehicle protection systems
+Citations:33
+Authors: HB Weinberg, N Lynch, N Delisle
+Publication: International Hybrid Systems Workshop, 101-113
+
+149. Structuring nreliable radio networks
+Citations:32
+Authors: K Censor-Hillel, S Gilbert, F Kuhn, N Lynch, C Newport
+Publication: Distributed computing 27 (1), 1-19
+
+150. Motion coordination using virtual nodes
+Citations:32
+Authors: N Lynch, S Mitra, T Nolte
+Publication: Proceedings of the 44th IEEE Conference on Decision and Control, 2823-2828
+
+151. On formal modeling of agent computations
+Citations:32
+Authors: T Araragi, P Attie, I Keidar, K Kogure, V Luchangco, N Lynch, K Mano
+Publication: International Workshop on Formal Approaches to Agent-Based Systems, 48-62
+
+152. Task allocation in ant colonies
+Citations:31
+Authors: A Cornejo, A Dornhaus, N Lynch, R Nagpal
+Publication: International Symposium on Distributed Computing, 46-60
+
+153. Trade-offs between selection complexity and performance when searching the plane without communication
+Citations:31
+Authors: C Lenzen, N Lynch, C Newport, T Radeva
+Publication: Proceedings of the 2014 ACM symposium on Principles of distributed computing …
+
+154. An Ω (n log n) lower bound on the cost of mutual exclusion
+Citations:30
+Authors: R Fan, N Lynch
+Publication: Proceedings of the twenty-fifth annual ACM symposium on Principles of …
+
+155. A modular proof of correctness for a network synchronizer
+Citations:30
+Authors: A Fekete, N Lynch, L Shrira
+Publication: International Workshop on Distributed Algorithms, 219-256
+
+156. Relativization of the theory of computational complexity
+Citations:30
+Authors: NA Lynch, AR Meyer, MJ Fischer
+Publication: Transactions of the American Mathematical Society 220, 243-287
+
+157. Verifying average dwell time of hybrid systems
+Citations:29
+Authors: S Mitra, D Liberzon, N Lynch
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 8 (1), 3
+
+158. Correctness of communication protocols-a case study
+Citations:29
+Authors: JF Søgaard-Andersen, NA Lynch, BW Lampson
+Publication: 
+
+159. Neighbor discovery in mobile ad hoc networks using an abstract MAC layer
+Citations:28
+Authors: A Cornejo, N Lynch, S Viqar, JL Welch
+Publication: 2009 47th Annual Allerton Conference on Communication, Control, and …
+
+160. Reliable distributed computing on unreliable radio channels
+Citations:28
+Authors: S Dolev, S Gilbert, R Guerraoui, DR Kowalski, C Newport, F Kohn, ...
+Publication: Proceedings of the 2009 MobiHoc S 3 workshop on MobiHoc S 3, 1-4
+
+161. Proving safety properties of the steam boiler controller
+Citations:28
+Authors: G Leeb, N Lynch
+Publication: Formal Methods for Industrial Applications, 318-338
+
+162. Correctness of at-most-once message delivery protocols
+Citations:28
+Authors: BW Lampson, NA Lynch, JF Søgaard-Andersen
+Publication: 
+
+163. A virtual node-based tracking algorithm for mobile networks
+Citations:27
+Authors: T Nolte, N Lynch
+Publication: 27th International Conference on Distributed Computing Systems (ICDCS'07), 1-1
+
+164. Using simulated execution in verifying distributed algorithms
+Citations:27
+Authors: TN Win, MD Ernst, SJ Garland, D Kırlı, NA Lynch
+Publication: International journal on software tools for technology transfer 6 (1), 67-76
+
+165. Input/Output automata: Basic, timed, hybrid, probabilistic, dynamic,...
+Citations:27
+Authors: N Lynch
+Publication: International Conference on Concurrency Theory, 191-192
+
+166. A tradeoff between safety and liveness for randomized coordinated attack
+Citations:27
+Authors: G Varghese, NA Lynch
+Publication: Information and Computation 128 (1), 57-71
+
+167. A coded shared atomic memory algorithm for message passing architectures
+Citations:26
+Authors: VR Cadambe, N Lynch, M Médard, P Musial
+Publication: Distributed Computing 30 (1), 49-73
+
+168. Automated implementation of complex distributed algorithms specified in the IOA language
+Citations:26
+Authors: C Georgiou, N Lynch, P Mavrommatis, JA Tauber
+Publication: International Journal on Software Tools for Technology Transfer 11 (2), 153-171
+
+169. Hybrid systems: computation and control
+Citations:26
+Authors: J Hespanha, A Tiwari
+Publication: Springer Berlin/Heidelberg.
+
+170. Translating timed I/O automata specifications for theorem proving in PVS
+Citations:26
+Authors: H Lim, D Kaynar, N Lynch, S Mitra
+Publication: International Conference on Formal Modeling and Analysis of Timed Systems, 17-31
+
+171. A serialization graph construction for nested transactions
+Citations:26
+Authors: A Fekete, N Lynch, WE Weihl
+Publication: Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of …
+
+172. Probabilistic analysis of a network resource allocation algorithm
+Citations:26
+Authors: NA Lynch, ND Griffeth, MJ Fischer, LJ Guibas
+Publication: Information and Control 68 (1-3), 47-85
+
+173. Log space machines with multiple oracle tapes
+Citations:26
+Authors: N Lynch
+Publication: Theoretical Computer Science 6 (1), 25-39
+
+174. Shared data requirements for implementation of mutual exclusion using a test-and-set primitive
+Citations:25
+Authors: JE Burns, MJ Fischer, P Jackson, NA Lynch, GL Peterson
+Publication: Proceedings of the 1978 International Conference on Parallel Processing, 79-87
+
+175. Keeping mobile robot swarms connected
+Citations:24
+Authors: A Cornejo, F Kuhn, R Ley-Wild, N Lynch
+Publication: International Symposium on Distributed Computing, 496-511
+
+176. A proof of burns n-process mutual exclusion algorithm using abstraction
+Citations:24
+Authors: HE Jensen, NA Lynch
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+177. A theory of atomic transactions
+Citations:24
+Authors: N Lynch, M Merritt, W Weihl, A Fekete
+Publication: International Conference on Database Theory, 41-71
+
+178. Proving safety properties of an aircraft landing protocol using I/O Automata and the PVS theorem prover: A case study
+Citations:23
+Authors: S Umeno, N Lynch
+Publication: International Symposium on Formal Methods, 64-80
+
+179. Using probabilistic I/O automata to analyze an oblivious transfer protocol
+Citations:23
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, R Segala
+Publication: 
+
+180. Counting networks are practically linearizable
+Citations:23
+Authors: N Lynch, N Shavit, A Shvartsman, D Touitou
+Publication: PODC, 280-289
+
+181. Modelling and verification of automated transit systems, using timed automata, invariants and simulations
+Citations:23
+Authors: N Lynch
+Publication: International Hybrid Systems Workshop, 449-463
+
+182. Brief announcement: virtual mobile nodes for mobile ad hoc networks
+Citations:22
+Authors: S Dolev, S Gilbert, NA Lynch, E Schiller, AA Shvartsman, J Welch
+Publication: Proceedings of the twenty-third annual ACM symposium on Principles of …
+
+183. Verification of the randomized consensus algorithm of Aspnes and Herlihy: a case study
+Citations:22
+Authors: A Pogosyants, R Segala, N Lynch
+Publication: Massachusetts Institute of Technology
+
+184. On the Borowsky-Gafni simulation algorithm
+Citations:22
+Authors: NA Lynch, S Rajsbaum
+Publication: ISTCS 96, 4-15
+
+185. Reconciling the theory and practice of (un) reliable wireless broadcast
+Citations:21
+Authors: G Chockler, M Demirbas, S Gilbert, N Lynch, C Newport, T Nolte
+Publication: 25th IEEE International Conference on Distributed Computing Systems …
+
+186. Switched probabilistic I/O automata
+Citations:21
+Authors: L Cheung, N Lynch, R Segala, F Vaandrager
+Publication: International Colloquium on Theoretical Aspects of Computing, 494-510
+
+187. Correctness Conditions for Highly Available Replicated Databases.
+Citations:21
+Authors: N Lynch, B Blaustein, M Siegel
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+188. On structure preserving reductions
+Citations:21
+Authors: N Lynch, RJ Lipton
+Publication: SIAM Journal on Computing 7 (2), 119-126
+
+189. Relativization of the theory of computational complexity.
+Citations:21
+Authors: NA Lynch
+Publication: Massachusetts Institute of Technology
+
+190. Bounds on contention management in radio networks
+Citations:20
+Authors: M Ghaffari, B Haeupler, N Lynch, C Newport
+Publication: International Symposium on Distributed Computing, 223-237
+
+191. Computer-assisted verification of an algorithm for concurrent timestamps
+Citations:20
+Authors: TP Petrov, A Pogosyants, SJ Garland, V Luchangco, NA Lynch
+Publication: Formal Description Techniques IX, 29-44
+
+192. Proving correctness of a vehicle maneuver: Deceleration
+Citations:20
+Authors: NA Lynch, HB Weinberg
+Publication: Second European Workshop on Real-Time and Hybrid Systems, 196-203
+
+193. The cost of radio network broadcast for different models of unreliable links
+Citations:19
+Authors: M Ghaffari, N Lynch, C Newport
+Publication: Proceedings of the 2013 ACM symposium on Principles of distributed computing …
+
+194. Verifying average dwell time by solving optimization problems
+Citations:19
+Authors: S Mitra, N Lynch, D Liberzon
+Publication: International Workshop on Hybrid Systems: Computation and Control, 476-490
+
+195. A comparison of simulation techniques and algebraic techniques for verifying concurrent systems
+Citations:19
+Authors: N Lynch, R Segala
+Publication: Formal Aspects of Computing 7 (3), 231-265
+
+196. Dynamic input/output automata: A formal and compositional model for dynamic systems
+Citations:18
+Authors: PC Attie, NA Lynch
+Publication: Information and Computation 249, 28-75
+
+197. Leader election using loneliness detection
+Citations:18
+Authors: M Ghaffari, N Lynch, S Sastry
+Publication: Distributed Computing 25 (6), 427-450
+
+198. Fault-tolerance through k-connectivity
+Citations:18
+Authors: A Cornejo, N Lynch
+Publication: Workshop on network science and systems issues in multi-robot autonomy: ICRA …
+
+199. Using simulated execution in verifying distributed algorithms
+Citations:18
+Authors: TN Win, MD Ernst, SJ Garland, D Kýrlý, NA Lynch
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+200. QoS preserving totally ordered multicast
+Citations:18
+Authors: Z Bar-Joseph, I Keidar, T Anker, N Lynch
+Publication: 5th Int. Conf. On Prin. Of Dist. Sys.(OPODIS), 143-162
+
+201. A three-level analysis of a simple acceleration maneuver, with uncertainties
+Citations:18
+Authors: N Lynch
+Publication: Proceedings of the Third AMAST Workshop on Real-Time Systems, 1-22
+
+202. Engineering the virtual node layer for reactive MANET routing
+Citations:17
+Authors: J Wu, N Griffeth, C Newport, N Lynch
+Publication: 2011 IEEE 10th International Symposium on Network Computing and Applications …
+
+203. Brief announcement: Hardness of broadcasting in wireless networks with unreliable communication
+Citations:17
+Authors: F Kuhn, N Lynch, C Newport
+Publication: Association for Computing Machinery
+
+204. A general characterization of indulgence
+Citations:17
+Authors: R Guerraoui, N Lynch
+Publication: ACM Transactions on Autonomous and Adaptive Systems (TAAS) 3 (4), 20
+
+205. Brief announcement: Virtual stationary automata for mobile networks
+Citations:17
+Authors: S Dolev, L Lahiani, S Gilbert, N Lynch, T Nolte
+Publication: Annual ACM Symposium on Principles of Distributed Computing: Proceedings of …
+
+206. Approximations to the halting problem
+Citations:17
+Authors: N Lynch
+Publication: Journal of Computer and System Sciences 9 (2), 143-150
+
+207. Distributed Algorithms. c1996
+Citations:17
+Authors: N Lynch
+Publication: Grafo completo: mensagens podem chegar por qualquer canal de comunicação …
+
+208. Ant-inspired density estimation via random walks
+Citations:16
+Authors: C Musco, HH Su, N Lynch
+Publication: Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing …
+
+209. Multi-message broadcast with abstract mac layers and unreliable links
+Citations:16
+Authors: M Ghaffari, E Kantor, N Lynch, C Newport
+Publication: Proceedings of the 2014 ACM symposium on Principles of distributed computing …
+
+210. Using task-structured probabilistic I/O automata to analyze an oblivious transfer protocol
+Citations:16
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: 
+
+211. Hybrid Systems: Computation and Control: Third International Workshop, HSCC 2000, Pittsburgh, PA, USA, March 23-25, 2000: Proceedings
+Citations:16
+Authors: BH Krogh, NA Lynch
+Publication: Springer
+
+212. A correctness condition for memory shared by byzantine processes
+Citations:16
+Authors: D Malkhi, M Reiter, N Lynch
+Publication: Unpublished manuscript, Sept 98
+
+213. Designing algorithms for distributed systems with partially synchronized clocks
+Citations:16
+Authors: S Chaudhuri, R Gawlick, N Lynch
+Publication: Proceedings of the twelfth annual ACM symposium on Principles of distributed …
+
+214. Computational tradeoffs in biological neural networks: Self-stabilizing winner-take-all networks
+Citations:15
+Authors: N Lynch, C Musco, M Parter
+Publication: arXiv preprint arXiv:1610.02084
+
+215. Connectivity service for mobile ad-hoc networks
+Citations:15
+Authors: A Cornejo, N Lynch
+Publication: 2008 Second IEEE International Conference on Self-Adaptive and Self …
+
+216. Specifying and proving properties of timed I/O automata using Tempo
+Citations:15
+Authors: M Archer, H Lim, N Lynch, S Mitra, S Umeno
+Publication: Design Automation for Embedded Systems 12 (1-2), 139-170
+
+217. Tempo: A toolkit for the timed input/output automata formalism
+Citations:15
+Authors: NA Lynch, AA Shvartsman
+Publication: VEROMODO INC BROOKLINE MA
+
+218. Self-stabilization and virtual node layer emulations
+Citations:15
+Authors: T Nolte, N Lynch
+Publication: Symposium on Self-Stabilizing Systems, 394-408
+
+219. A toolbox for proving and maintaining hybrid specifications
+Citations:15
+Authors: MS Branicky, E Dolginova, N Lynch
+Publication: International Hybrid Systems Workshop, 18-30
+
+220. The need for headers: An impossibility result for communication over unreliable channels
+Citations:15
+Authors: A Fekete, N Lynch
+Publication: International Conference on Concurrency Theory, 199-214
+
+221. Modelling shared state in a shared action model
+Citations:15
+Authors: KJ Goldman, NA Lynch
+Publication: [1990] Proceedings. Fifth Annual IEEE Symposium on Logic in Computer Science …
+
+222. A difference in efficiency between synchronous and asynchronous systems
+Citations:15
+Authors: E Arjomandi, MJ Fischer, NA Lynch
+Publication: Proceedings of the thirteenth annual ACM symposium on Theory of computing …
+
+223. Size complexity in context-free grammars forms
+Citations:15
+Authors: S Ginsburg, N Lynch
+Publication: Journal of the ACM (JACM) 23 (4), 582-598
+
+224. “Helping”: several formalizations
+Citations:15
+Authors: N Lynch
+Publication: The Journal of Symbolic Logic 40 (4), 555-566
+
+225. Compiling IOA without global synchronization
+Citations:14
+Authors: JA Tauber, NA Lynch, MJ Tsai
+Publication: Third IEEE International Symposium on Network Computing and Applications …
+
+226. Stalk: A self-stabilizing hierarchical tracking service for sensor networks
+Citations:14
+Authors: M Demirbas, A Arora, T Nolte, N Lynch
+Publication: Technical Report OSU-CISRC-4/03-TR19 Ohio State University
+
+227. Mechanical translation of I/O automaton specifications into first-order logic
+Citations:14
+Authors: A Bogdanov, SJ Garland, NA Lynch
+Publication: International Conference on Formal Techniques for Networked and Distributed …
+
+228. Chapter on distributed computing
+Citations:14
+Authors: L Lamport, N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+229. Reliable broadcast in networks with nonprogrammable servers
+Citations:14
+Authors: H Garcia-Molina, B Kogan, N Lynch
+Publication: [1988] Proceedings. The 8th International Conference on Distributed, 428-437
+
+230. A local broadcast layer for the SINR network model
+Citations:13
+Authors: MM Halldórsson, S Holzer, N Lynch
+Publication: Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …
+
+231. Divine living: Marketing and selling churches as lofts in Toronto, Canada
+Citations:13
+Authors: N Lynch
+Publication: Housing, Theory and Society 31 (2), 192-212
+
+232. On the Role of Scheduling in Simulation-Based Security.
+Citations:13
+Authors: R Canetti, L Cheung, NA Lynch, O Pereira
+Publication: IACR Cryptology ePrint Archive 2007, 102
+
+233. Proving atomicity: An assertional approach
+Citations:13
+Authors: G Chockler, N Lynch, S Mitra, J Tauber
+Publication: International Symposium on Distributed Computing, 152-168
+
+234. A reliable broadcast scheme for sensor networks
+Citations:13
+Authors: C Livadas, NA Lynch
+Publication: 
+
+235. The BG distributed simulation algorithm
+Citations:13
+Authors: E Borowsky, E Gafni, N Lynch, S Rajsbaum
+Publication: Submitted for journal publication
+
+236. Distributed Systems
+Citations:13
+Authors: NA Lynch
+Publication: Morgan Kaufmann Publishers
+
+237. Information-theoretic lower bounds on the storage cost of shared memory emulation
+Citations:12
+Authors: VR Cadambe, Z Wang, N Lynch
+Publication: Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing …
+
+238. Bounded-contention coding for wireless networks in the high SNR regime
+Citations:12
+Authors: K Censor-Hillel, B Haeupler, N Lynch, M Médard
+Publication: International Symposium on Distributed Computing, 91-105
+
+239. Distributed Computing
+Citations:12
+Authors: NA Lynch, AA Shvartsman
+Publication: Springer-Verlag Berlin Heidelberg
+
+240. Compositional security for task-pioas
+Citations:12
+Authors: R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira
+Publication: 20th IEEE Computer Security Foundations Symposium (CSF'07), 125-139
+
+241. Specifying and proving timing properties with TIOA tools
+Citations:12
+Authors: D Kaynar, N Lynch, S Mitra
+Publication: Work in progress session of the 25th IEEE International Real-Time Systems …
+
+242. Decomposing verification of timed I/O automata
+Citations:12
+Authors: DK Kaynar, N Lynch
+Publication: Formal Techniques, Modelling and Analysis of Timed and Fault-Tolerant …
+
+243. Communication and data sharing for dynamic distributed systems
+Citations:12
+Authors: N Lynch, A Shvartsman
+Publication: Future directions in distributed computing, 62-67
+
+244. Hemispherectomy and diaschisis: Rapid improvement in cerebral functions after right hemispherectomy in a six year old child
+Citations:12
+Authors: A Smith, ML Walker, G Myers
+Publication: Archives of Clinical Neuropsychology 3 (1), 1-8
+
+245. Consensus in the Presence of Partial Synchrony (Preliminary Version).
+Citations:12
+Authors: C Dwork, N Lynch, L Stockmeyer
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+246. An efficient Byzantine agreement without authentication
+Citations:12
+Authors: D Dolev, MJ Fischer, R Fowler, N Lynch, R Strong
+Publication: IBM Thomas J. Watson Research Division
+
+247. Optimal Placement of Identical Resources in a Distributed Network.
+Citations:12
+Authors: MJ Fischer, ND Griffeth, LJ Guibas, NA Lynch
+Publication: WASHINGTON UNIV SEATTLE DEPT OF COMPUTER SCIENCE
+
+248. Straight-line program length as a parameter for complexity analysis
+Citations:12
+Authors: NA Lynch
+Publication: Journal of Computer and System Sciences 21 (3), 251-280
+
+249. Modeling computational security in long-lived systems
+Citations:11
+Authors: R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira
+Publication: International Conference on Concurrency Theory, 114-130
+
+250. Specifying and proving properties of timed I/O automata in the TIOA toolkit
+Citations:11
+Authors: M Archer, HP Lim, N Lynch, S Mitra, S Umeno
+Publication: Fourth ACM and IEEE International Conference on Formal Methods and Models …
+
+251. Hybrid I/O Automata
+Citations:11
+Authors: NA Lynch, R Segala, FW Vaandrager
+Publication: Nijmegen Institute for Computing and Information Sciences, Faculty of …
+
+252. Timing conditions for linearizability in uniform counting networks
+Citations:11
+Authors: N Lynch, N Shavit, A Shvartsman, D Touitou
+Publication: Theoretical Computer Science 220 (1), 67-91
+
+253. Distributed algorithms: Lecture notes for 6.852
+Citations:11
+Authors: NA Lynch, KJ Goldman
+Publication: Massachusetts Institute of Technology. Laboratory for Computer Science
+
+254. Quorum consensus in nested transaction systems
+Citations:11
+Authors: KJ Goldman, NA Lynch
+Publication: Proceedings of the sixth annual ACM Symposium on Principles of distributed …
+
+255. Distributed FIFO Allocation of Identical Resources Using Small Shared Space.
+Citations:11
+Authors: MJ Fischer, NA Lynch, JE Burns, A Borodin
+Publication: YALE UNIV NEW HAVEN CT DEPT OF COMPUTER SCIENCE
+
+256. Distributed house-hunting in ant colonies
+Citations:10
+Authors: M Ghaffari, C Musco, T Radeva, N Lynch
+Publication: Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …
+
+257. Asynchronous leader election and mis using abstract mac layer
+Citations:10
+Authors: N Lynch, T Radeva, S Sastry
+Publication: Proceedings of the 8th International Workshop on Foundations of Mobile …
+
+258. The DHCP failover protocol: A formal perspective
+Citations:10
+Authors: R Fan, R Droms, N Griffeth, N Lynch
+Publication: International Conference on Formal Techniques for Networked and Distributed …
+
+259. Proving approximate implementations for probabilistic I/O automata
+Citations:10
+Authors: S Mitra, N Lynch
+Publication: Electronic Notes in Theoretical Computer Science 174 (8), 71-93
+
+260. The impossibility of boosting distributed service resilience
+Citations:10
+Authors: P Attie, R Guerraoui, P Kouznetsov, N Lynch, S Rajsbaum
+Publication: 25th IEEE International Conference on Distributed Computing Systems (ICDCS …
+
+261. Boosting Fault-Tolerance in Asynchronous Message Passing кystems is Impossible
+Citations:10
+Authors: P Attie, N Lynch, S Rajsbaum
+Publication: 
+
+262. The IOA simulator
+Citations:10
+Authors: DK Kaynar, A Chefter, L Dean, S Garland, N Lynch, TN Win, ...
+Publication: Technical Report
+
+263. Designing a caching-based reliable multicast protocol
+Citations:10
+Authors: C Livadas, I Keidar, NA Lynch
+Publication: Proc. International Conference on Dependable Systems and Networks (IEEE/DSN …
+
+264. Relative complexity of algebras
+Citations:10
+Authors: NA Lynch, EK Blum
+Publication: Mathematical systems theory 14 (1), 193-214
+
+265. A time-space tradeoff for sorting and related non-oblivious computations
+Citations:10
+Authors: A Borodin, MJ Fischer, DG Kirkpatrick, NA Lynch, M Tompa
+Publication: ACM SIGACT News 11 (2), 24-24
+
+266. Straight-line program length as a parameter for complexity measures
+Citations:10
+Authors: NA Lynch
+Publication: Proceedings of the tenth annual ACM symposium on Theory of computing, 150-161
+
+267. Derivation complexity in context-free grammar forms
+Citations:10
+Authors: S Ginsburg, N Lynch
+Publication: SIAM Journal on Computing 6 (1), 123-138
+
+268. RADON: Repairable atomic data object in networks
+Citations:9
+Authors: KM Konwar, N Prakash, N Lynch, M Médard
+Publication: arXiv preprint arXiv:1605.05717
+
+269. Simulating fixed virtual nodes for adapting wireline protocols to MANET
+Citations:9
+Authors: J Wu, N Griffeth, N Lynch, C Newport, R Droms
+Publication: 2009 Eighth IEEE International Symposium on Network Computing and …
+
+270. Virtual infrastructure for collision-prone wireless networks
+Citations:9
+Authors: G Chockler, S Gilbert, N Lynch
+Publication: Proceedings of the twenty-seventh ACM symposium on Principles of distributed …
+
+271. NSF workshop on a software research program for the 21 st century
+Citations:9
+Authors: VR Basili, L Belady, B Boehm, F Brooks, J Browne, R DeMillo, SI Feldman, ...
+Publication: ACM SIGSOFT Software Engineering Notes 24 (3), 37-44
+
+272. Trade-offs between message delivery and quiesce times in connection management protocols
+Citations:9
+Authors: J Kleinberg, H Attiya, N Lynch
+Publication: Proceedings Third Israel Symposium on the Theory of Computing and Systems …
+
+273. Quorum consensus in nested-transaction systems
+Citations:9
+Authors: KJ Goldman, N Lynch
+Publication: ACM Transactions on Database Systems (TODS) 19 (4), 537-585
+
+274. A technique for decomposing algorithms which use a single shared variable
+Citations:9
+Authors: NA Lynch, MJ Fischer
+Publication: Journal of Computer and System Sciences 27 (3), 350-377
+
+275. A difference in expressive power between flowcharts and recursion schemes
+Citations:9
+Authors: NA Lynch, EK Blum
+Publication: Theory of Computing Systems 12 (1), 205-211
+
+276. Efficient reducibility between programming systems (Preliminary Report)
+Citations:9
+Authors: NA Lynch, EK Blum
+Publication: Proceedings of the ninth annual ACM symposium on Theory of computing, 228-238
+
+277. A layered architecture for erasure-coded consistent distributed storage
+Citations:8
+Authors: KM Konwar, N Prakash, N Lynch, M Médard
+Publication: Proceedings of the ACM Symposium on Principles of Distributed Computing, 63-72
+
+278. The changing meanings of urban places
+Citations:8
+Authors: N Lynch, D Ley
+Publication: Canadian cities in transition: New directions in the twenty-first century 4
+
+279. Implementing atomic memory in dynamic networks, using an aggressive reconfiguration strategy
+Citations:8
+Authors: S Gilbert, N Lynch, A Shvartsman, R II
+Publication: Tech. Rep., LCS, MIT
+
+280. Hybrid 1/0 automata
+Citations:8
+Authors: NA Lynch, R Segala, FW Vaandrager, HB Weinberg
+Publication: Rep./Centrum voor wiskunde en informatica, Computer science/Dep. of software …
+
+281. Neuro-RAM unit with applications to similarity testing and compression in spiking neural networks
+Citations:7
+Authors: N Lynch, C Musco, M Parter
+Publication: arXiv preprint arXiv:1706.01382
+
+282. Storage-optimized data-atomic algorithms for handling erasures and errors in distributed storage systems
+Citations:7
+Authors: KM Konwar, N Prakash, E Kantor, N Lynch, M Médard, AA Schwarzmann
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+283. Reliably detecting connectivity using local graph traits
+Citations:7
+Authors: A Cornejo, N Lynch
+Publication: International Conference On Principles Of Distributed Systems, 87-102
+
+284. Modeling radio networks
+Citations:7
+Authors: C Newport, N Lynch
+Publication: International Conference on Concurrency Theory, 481-495
+
+285. Automated implementation of complex distributed algorithms specified in the IOA language
+Citations:7
+Authors: C Georgiou, N Lynch, P Mavrommatis, JA Tauber
+Publication: In Proceedings of 18th International Conference on Parallel and Distributed …
+
+286. Brief announcement: Stalk: a self-stabilizing hierarchical tracking service for sensor networks
+Citations:7
+Authors: M Demirbas, A Arora, T Nolte, N Lynch
+Publication: PODC 4, 378-378
+
+287. A formal venture into reliable multicast territory
+Citations:7
+Authors: C Livadas, NA Lynch
+Publication: International Conference on Formal Techniques for Networked and Distributed …
+
+288. A formal treatment of Lamport’s Paxos algorithm
+Citations:7
+Authors: R De Prisco, N Lynch, A Shvartsman, N Immorlica, TN Win
+Publication: Unpublished, October
+
+289. High-level modeling and analysis of an air-traffic management system
+Citations:7
+Authors: N Lynch
+Publication: Hybrid Systems: Computation and Control, 3
+
+290. On the correctness of orphan management algorithms
+Citations:7
+Authors: M Herlihy, N Lynch, M Merritt, W Weihl
+Publication: Journal of the ACM (JACM) 39 (4), 881-930
+
+291. Ant-inspired density estimation via random walks
+Citations:6
+Authors: C Musco, HH Su, NA Lynch
+Publication: Proceedings of the National Academy of Sciences 114 (40), 10534-10541
+
+292. A (truly) local broadcast layer for unreliable radio networks
+Citations:6
+Authors: N Lynch, C Newport
+Publication: Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …
+
+293. Asynchronous failure detectors
+Citations:6
+Authors: A Conrejo, N Lynch, S Sastry
+Publication: Proceedings of the 2012 ACM symposium on Principles of Distributed Computing …
+
+294. Self-stabilizing mobile robot formations with virtual nodes
+Citations:6
+Authors: S Gilbert, N Lynch, S Mitra, T Nolte
+Publication: Symposium on Self-Stabilizing Systems, 188-202
+
+295. The Tempo language user guide and reference manual
+Citations:6
+Authors: NA Lynch, SJ Garland, D Kaynar, L Michel, A Shvartsman
+Publication: Massachusetts Institute of Technology
+
+296. Using task-structured Probabilistic I/O Automata to analyze cryptographic protocols
+Citations:6
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: 
+
+297. Using self-similarity for effecient network testing
+Citations:6
+Authors: C Djouvas, N Griffeth, N Lynch
+Publication: Technical report
+
+298. Application of hybrid I/O automata in safety verification of pitch controller for model helicopter system
+Citations:6
+Authors: S Mitra, Y Wang, N Lynch, E Feron
+Publication: 
+
+299. Automatic verification of the timing properties of MMT automata
+Citations:6
+Authors: ES Söylemez
+Publication: Massachusetts Institute of Technology
+
+300. Reliable at-most-once message delivery protocols
+Citations:6
+Authors: B Lampson, N Lynch, J Søgaard-Andersen, B Lampson
+Publication: Technical Report, MIT Laboratory for Computer Science, to appear
+
+301. Hybrid atomicity for nested transactions
+Citations:6
+Authors: A Fekete, N Lynch, WE Weihl
+Publication: International Conference on Database Theory, 216-230
+
+302. Comparative complexity of grammar forms
+Citations:6
+Authors: S Ginsburg, N Lynch
+Publication: Proceedings of the seventh annual ACM symposium on Theory of computing, 153-158
+
+303. Spiking neural networks: An algorithmic perspective
+Citations:5
+Authors: N Lynch, C Musco, M Parter
+Publication: 5th Workshop on Biological Distributed Algorithms (BDA 2017)
+
+304. Brief announcement: beeping a maximal independent set fast
+Citations:5
+Authors: S Holzer, N Lynch
+Publication: 30th International Symposium on Distributed Computing (DISC)
+
+305. The cost of global broadcast using abstract MAC layers
+Citations:5
+Authors: M Khabbazian, D Kowalski, N Lynch, F Kuhn
+Publication: 
+
+306. Trace-based semantics for probabilistic timed I/O automata
+Citations:5
+Authors: S Mitra, N Lynch
+Publication: International Workshop on Hybrid Systems: Computation and Control, 718-722
+
+307. Testing self-similar networks
+Citations:5
+Authors: C Djouvas, ND Griffeth, NA Lynch
+Publication: Electronic Notes in Theoretical Computer Science 164 (4), 67-82
+
+308. Approximate simulations for task-structured probabilistic I/O automata
+Citations:5
+Authors: S Mitra, N Lynch
+Publication: LICS Workshop on Probabilistic Automata and Logics (PAuL06)
+
+309. An Algorithm for an Intermittently Atomic Data Service Based on Group Communication
+Citations:5
+Authors: R Khazan, N Lynch
+Publication: Proceedings of the International Workshop on Large-Scale Group Communication …
+
+310. Brief announcement: efficient replication of large data objects
+Citations:5
+Authors: R Fan, NA Lynch
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+311. Synthesis of efficient drinking philosophers algorithms
+Citations:5
+Authors: JA Welch, NA Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+312. Modelling real-time systems
+Citations:5
+Authors: N Lynch
+Publication: Foundations of Real-Time Computing Research Initiative, ONR Kickoff Workshop …
+
+313. A General Lower Bound for Electing a Leader in a Ring.
+Citations:5
+Authors: GN Frederickson, NA Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+314. On describing the behaviour and implementation of distributed systems
+Citations:5
+Authors: MJ Fischer, NA Lynch
+Publication: Theoretical Computer Science 13, 17-43
+
+315. Relative complexity of operations on numeric and bit-string algebras
+Citations:5
+Authors: N Lynch, EK Blum
+Publication: Mathematical systems theory 13 (1), 187-207
+
+316. Atomic Data Access in Content Addressable Networks A Position Paper
+Citations:5
+Authors: N Lynch, D Malkhi, D Ratajczak
+Publication: Proceedings of the 1st International Workshop on Peer-to-Peer Systems (IPTPS’02)
+
+317. A basic compositional model for spiking neural networks
+Citations:4
+Authors: N Lynch, C Musco
+Publication: arXiv preprint arXiv:1808.03884
+
+318. ARES: Adaptive, Reconfigurable, Erasure coded, atomic Storage
+Citations:4
+Authors: V Cadambe, N Nicolaou, KM Konwar, N Prakash, N Lynch, M Médard
+Publication: arXiv preprint arXiv:1805.03727
+
+319. Bounded-Contention Coding for the additive network model
+Citations:4
+Authors: K Censor-Hillel, B Haeupler, N Lynch, M Médard
+Publication: Distributed Computing 28 (5), 297-308
+
+320. Partial reversal acyclicity
+Citations:4
+Authors: T Radeva, N Lynch
+Publication: 
+
+321. Converting” Space in Toronto: The Adaptive Reuse of the Former Centennial Japanese United Church to the “Church Lofts
+Citations:4
+Authors: N Lynch
+Publication: The Journal of the Society for the Study of Architecture in Canada
+
+322. Multichord: A resilient namespace management protocol
+Citations:4
+Authors: N Lynch, I Stoica
+Publication: 
+
+323. Simulating nondeterministic systems at multiple levels of abstraction
+Citations:4
+Authors: DK Kaynar, A Chefter, L Dean, SJ Garland, NA Lynch, TN Win, ...
+Publication: LAB
+
+324. Conditions for safe deceleration of strings of vehicles
+Citations:4
+Authors: J Lygeros, N Lynch
+Publication: 
+
+325. Proving Correctness of a Controller Algorithm for the RAID Level 5 System
+Citations:4
+Authors: M Vaziri, N Lynch, J Wing
+Publication: Digest of Papers. Twenty-Eighth Annual International Symposium on Fault …
+
+326. Proving performance properties (even probabilistic ones)
+Citations:4
+Authors: N Lynch
+Publication: Formal Description Techniques VII, 3-20
+
+327. Forward and backward simulations part I: Untimed systems (replaces TM-486)
+Citations:4
+Authors: N Lynch, F Vaandrager
+Publication: Massachusetts Institute of Technology
+
+328. Distributed Algorithms. Fall 1990 Lecture Notes for 6.852
+Citations:4
+Authors: N Lynch, I Saias
+Publication: MIT/LCS/RSS 16, Laboratory for Computer Science, MIT, Cambridge, MA
+
+329. Nested Transactions, Conflict-Based Locking, and Dynamic Atomicity.
+Citations:4
+Authors: A Fekete, N Lynch, M Merritt, W Weihl
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+330. Multilevel atomicity
+Citations:4
+Authors: NA Lynch
+Publication: Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database …
+
+331. Costs of task allocation with local feedback: Effects of colony size and extra workers in social insects and other multi-agent systems
+Citations:3
+Authors: T Radeva, A Dornhaus, N Lynch, R Nagpal, HH Su
+Publication: PLoS computational biology 13 (12), e1005904
+
+332. Searching without communicating: tradeoffs between performance and selection complexity
+Citations:3
+Authors: C Lenzen, N Lynch, C Newport, T Radeva
+Publication: Distributed Computing 30 (3), 169-191
+
+333. Distributed computing theory: algorithms, impossibility results, models, and proofs
+Citations:3
+Authors: KP Lecture
+Publication: Symposium on Theory of Computing
+
+334. Distributed Computing (21 conf.)
+Citations:3
+Authors: A Pelc
+Publication: Springer
+
+335. Proceedings Third International Workshop on Hybrid Systems: Computation and Control (HSCC 2000), Pittsburgh
+Citations:3
+Authors: NA LYNCH
+Publication: Lecture Notes in Computer Science 1790
+
+336. I/O automaton model of operating system primitives
+Citations:3
+Authors: D Yates, N Lynch, V Luchangco, M Seltzer
+Publication: Master's thesis, Harvard University and MIT
+
+337. Challenges for theory of computing
+Citations:3
+Authors: A Condon, H Edelsbrunner, EA Emerson, L Fortnow, S Haber, R Karp, ...
+Publication: Report of a National Science Foundation-sponsored workshop on research in …
+
+338. The IOA language and toolset: Support for mathematics-based distributed programming
+Citations:3
+Authors: SJ Garland, NA Lynch
+Publication: Submitted for publication
+
+339. Upper and lower bounds on the number of faults a system can withstand without repairs
+Citations:3
+Authors: M Goemans, N Lynch, I Saias
+Publication: Dependable Computing for Critical Applications 4, 399-409
+
+340. An automata-theoretic model for UNITY
+Citations:3
+Authors: MF Nour
+Publication: Massachusetts Institute of Technology
+
+341. Multilevel Atomicity-A New Correctness Criterion for Distributed Databases.
+Citations:3
+Authors: NA Lynch
+Publication: GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE
+
+342. Complexity-class-encoding sets
+Citations:3
+Authors: NA Lynch
+Publication: J. Comput. Syst. Sci. 13 (1), 100-118
+
+343. Leader election in SINR model with arbitrary power control
+Citations:2
+Authors: MM Halldórsson, S Holzer, EA Markatou, N Lynch
+Publication: Theoretical Computer Science
+
+344. Task-structured probabilistic I/O automata
+Citations:2
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: Journal of Computer and System Sciences 94, 63-97
+
+345. Computing in additive networks with bounded-information codes
+Citations:2
+Authors: K Censor-Hillel, E Kantor, N Lynch, M Parter
+Publication: International Symposium on Distributed Computing, 405-419
+
+346. Firefly synchronization with asynchronous wake-up
+Citations:2
+Authors: D Alistarh, A Cornejo, M Ghaffari, N Lynch
+Publication: Workshop on Biological Distributed Algorithms (BDA 2014)
+
+347. Coded emulation of shared atomic memory for message passing architectures
+Citations:2
+Authors: VR Cadambe, N Lynch, M Médard, P Musial
+Publication: 
+
+348. Altared places: the reuse of urban churches as loft living in the post-secular and post-industrial city
+Citations:2
+Authors: NA Lynch
+Publication: University of British Columbia
+
+349. Environment characterization for non-recontaminating frontier-based robotic exploration
+Citations:2
+Authors: M Volkov, A Cornejo, N Lynch, D Rus
+Publication: International Conference on Principles and Practice of Multi-Agent Systems …
+
+350. Brief announcement: Partial reversal acyclicity
+Citations:2
+Authors: T Radeva, N Lynch
+Publication: In Proceedings of the 30th Annual ACM SIGACT-SIGOPS Symposium on Principles …
+
+351. Automated Formal Verification of the DHCP Failover Protocol Using Timeout Order Abstraction
+Citations:2
+Authors: S Umeno, N Lynch
+Publication: 2010 15th IEEE International Conference on Engineering of Complex Computer …
+
+352. Modeling Computational Security in Long-Lived Systems, Version 2.
+Citations:2
+Authors: R Canetti, L Cheung, DK Kaynar, NA Lynch, O Pereira
+Publication: IACR Cryptology ePrint Archive 2008, 492
+
+353. TIOA Tutorial
+Citations:2
+Authors: SJ Garland, D Kaynar, NA Lynch, JA Tauber, M Vaziri
+Publication: Computer Science and Artificial Intelligence Laboratory, Massachusetts …
+
+354. Some perspectives on PODC
+Citations:2
+Authors: N Lynch
+Publication: Distributed Computing 16 (2), 71-74
+
+355. Formal Modeling, Analysis, and Design of Network Protocols—A Case Study in Reliable Multicast
+Citations:2
+Authors: C Livadas, I Keidar, N Lynch
+Publication: Doctor of Science Thesis, Dept. of Electrical Engineering and Computer Science
+
+356. A formal model for dynamic computation
+Citations:2
+Authors: PC Attie, NA Lynch
+Publication: Tech. report, MIT Lab. for Computer Science. To appear
+
+357. Mathematical Modelling/Specification/Verification/Performance Analysis/Fault-Tollerance Analysis for Network Services
+Citations:2
+Authors: N Lynch
+Publication: ARPA Active Nets Workshop
+
+358. At-most-once message delivery A case study in algorithm verification
+Citations:2
+Authors: B Lampson, N Lynch, J Søgaard-Andersen
+Publication: International Conference on Concurrency Theory, 317-324
+
+359. Optimal placement of identical resources in a tree
+Citations:2
+Authors: MJ Fischer, ND Griffeth, L Guibas, NA Lynch
+Publication: Inf. Comput. 96 (1), 1-54
+
+360. Accessibility of values as a determinant of relative complexity in algebras
+Citations:2
+Authors: NA Lynch
+Publication: J. Comput. Syst. Sci. 24 (1), 101-113
+
+361. Performance of Distributed and Decentralized Control Models for Fully Distributed Processing Systems. Initial Simulation Studies
+Citations:2
+Authors: PH Enslow Jr, TG Saponas
+Publication: GEORGIA INST OF TECH ATLANTA SCHOOL OFINFORMATION AND COMPUTER SCIENCE
+
+362. Sets that don't help
+Citations:2
+Authors: N Lynch, A Meyer, M Fischer
+Publication: Proceedings of the fifth annual ACM symposium on Theory of computing, 130-134
+
+363. How to Color a French Flag--Biologically Inspired Algorithms for Scale-Invariant Patterning
+Citations:1
+Authors: A Ancona, A Bajwa, N Lynch, F Mallmann-Trenn
+Publication: arXiv preprint arXiv:1905.00342
+
+364. Winner-Take-All Computation in Spiking Neural Networks
+Citations:1
+Authors: N Lynch, C Musco, M Parter
+Publication: arXiv preprint arXiv:1904.12591
+
+365. Integrating Temporal Information to Spatial Information in a Neural Circuit
+Citations:1
+Authors: MB Wang, N Lynch
+Publication: arXiv preprint arXiv:1903.01217
+
+366. Self-stabilizing task allocation in spite of noise
+Citations:1
+Authors: A Dornhaus, N Lynch, F Mallmann-Trenn, D Pajak, T Radeva
+Publication: arXiv preprint arXiv:1805.03691
+
+367. Brief Announcement: On Simple Back-Off in Unreliable Radio Networks
+Citations:1
+Authors: S Gilbert, N Lynch, C Newport, D Pajak
+Publication: 32nd International Symposium on Distributed Computing (DISC 2018)
+
+368. Ant-inspired dynamic task allocation via gossiping
+Citations:1
+Authors: HH Su, L Su, A Dornhaus, N Lynch
+Publication: International Symposium on Stabilization, Safety, and Security of …
+
+369. New perspectives on algorithmic robustness inspired by ant colony house-hunting
+Citations:1
+Authors: T Radeva, C Musco, N Lynch
+Publication: 5th Workshop on Biological Distributed Algorithms (BDA 2017)
+
+370. Brief announcement: Distributed task allocation in ant colonies
+Citations:1
+Authors: A Dornhaus, N Lynch, T Radeva, HH Su
+Publication: Proceedings of the 29th International Symposium on Distributed Computing …
+
+371. Timed and Probabilistic I/O Automata
+Citations:1
+Authors: N Lynch
+Publication: 2013 28th Annual ACM/IEEE Symposium on Logic in Computer Science, 12-12
+
+372. Modeling radio networks
+Citations:1
+Authors: C Newport, N Lynch
+Publication: Distributed Computing 24 (2), 101-118
+
+373. Distributed computing theory through the ages
+Citations:1
+Authors: N Lynch
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems&Networks (DSN …
+
+374. Self-Stabilizing Message Routing in Mobile ad hoc Networks
+Citations:1
+Authors: N Lynch, L Lahiani, S Dolev, T Nolte
+Publication: 
+
+375. Modeling bounded computation in long-lived systems
+Citations:1
+Authors: R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira
+Publication: Cryptology ePrint Archive, Report 2007/406
+
+376. A general characterization of indulgence
+Citations:1
+Authors: R Guerraoui, N Lynch
+Publication: Symposium on Self-Stabilizing Systems, 16-34
+
+377. Probabilistic timed I/O automata with continuous state spaces
+Citations:1
+Authors: S Mitra, NA Lynch
+Publication: Preliminary version available at http://theory. lcs. mit. edu/mitras …
+
+378. The TIOA Language Version 0.21
+Citations:1
+Authors: D Kaynar, N Lynch, S Mitra, S Garland
+Publication: Unpublished manuscript
+
+379. Using probabilistic I/O automata to improve the analysis of cryptographic protocols
+Citations:1
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: Ercim News 63, 40
+
+380. Systematic removal of nondeterminism for code generation in i/o automata
+Citations:1
+Authors: M Vaziri, JA Tauber, MJ Tsai, N Lynch
+Publication: 
+
+381. Fault-Tolerant Distributed Storage
+Citations:1
+Authors: G Chockler, N Lynch
+Publication: MIT Computer Science and Artificial Intelligence Laboratory
+
+382. IOA user guide and reference manual1
+Citations:1
+Authors: SJ Garland, NA Lynch, JA Tauber, M Vaziri
+Publication: 
+
+383. Timed I/O automata
+Citations:1
+Authors: NA Lynch, R Segala, F Vaandrager, DK Kaynar
+Publication: preparation
+
+384. Implementing atomic objects in a dynamic environment
+Citations:1
+Authors: N Lynch
+Publication: Proceedings of the twentieth annual ACM symposium on Principles of …
+
+385. Hybrid Systems: Computation and Control-Third International Workshop, HSCC 2000. Pittsburg, PA, USA, March 2000. Proceedings.
+Citations:1
+Authors: N Lynch, BH Krogh
+Publication: Lecture Notes in Computer Science 1790
+
+386. Hybrid atomicity for nested transactions
+Citations:1
+Authors: A Fekete, N Lynch, WE Weihl
+Publication: Theoretical computer science 149 (1), 151-178
+
+387. A tight lower bound for processor coordination
+Citations:1
+Authors: S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle
+Publication: Responsive Computer Systems: Steps Toward Fault-Tolerant Real-Time Systems, 1-18
+
+388. Time Bounds for Real-time Process Control în the Presence of Timing Uncertainty
+Citations:1
+Authors: NA Lynch, H Attiya
+Publication: Information and Computation
+
+389. A correctness proof for a network synchronizer
+Citations:1
+Authors: H Devarajan, A Fekete, N Lynch, L Shrira
+Publication: Massachusetts Institute of Technology, Dept. of Electrical Engineering and …
+
+390. Theory of Real-Time Systems—Project Survey
+Citations:1
+Authors: H Attiya, NA Lynch
+Publication: Foundations of Real-Time Computing: Formal Specifications and Methods, 111-138
+
+391. Timestamp ordering and nested transactions
+Citations:1
+Authors: JD Aspnes
+Publication: Massachusetts Institute of Technology
+
+392. Easy Impossibility Proofs for Distributed Consensus Problems
+Citations:1
+Authors: NA Lynch, M Merritt
+Publication: Proceedings of the Fourth Annual ACM Symposium on Principles of Distributed …
+
+393. Probabilistic Analysis of a Network Resource Allocation Algorithm.
+Citations:1
+Authors: NA Lynch, N Griffeth, MJ Fischer, LJ Guibas
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+394. Relative complexity of programming systems
+Citations:1
+Authors: NA Lynch
+Publication: Georgia Institute of Technology
+
+395. A quantifier characterization for nondeterministic log space
+Citations:1
+Authors: RJ Lipton, N Lynch
+Publication: ACM SIGACT News 7 (4), 24-25
+
+396. Information and Control
+Citations:1
+Authors: ER Berlekamp, RL Graham, A Salomaa, SA Cook, R Karp, RI Soare, ...
+Publication: Coding theory and the Mathieu groups 18, 40-64
+
+397. On Simple Back-Off in Unreliable Radio Networks
+Citations:
+Authors: S Gilbert, N Lynch, C Newport, D Pajak
+Publication: Theoretical Computer Science
+
+398. 2019 Principles of Distributed Computing Doctoral Dissertation Award
+Citations:
+Authors: P Jayanti, NA Lynch, B Patt-Shamir, U Schmid
+Publication: Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …
+
+399. How to Color a French Flag
+Citations:
+Authors: B Ancona, A Bajwa, N Lynch, F Mallmann-Trenn
+Publication: International Colloquium on Structural Information and Communication …
+
+400. Spike-Based Winner-Take-All Computation: Fundamental Limits and Order-Optimal Circuits
+Citations:
+Authors: L Su, CJ Chang, N Lynch
+Publication: arXiv preprint arXiv:1904.10399
+
+401. Collaboratively Learning the Best Option on Graphs, Using Bounded Local Memory
+Citations:
+Authors: L Su, M Zubeldia, N Lynch
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (1 …
+
+402. Ant-inspired density estimation via random walks (vol 114, pg 10534, 2017)
+Citations:
+Authors: C Musco, HH Su, NA Lynch
+Publication: PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF …
+
+403. The SNOW Theorem Revisited
+Citations:
+Authors: KM Konwar, W Lloyd, H Lu, N Lynch
+Publication: arXiv preprint arXiv:1811.10577
+
+404. Layered Distributed Storage System and Techniques for Edge Computing Systems
+Citations:
+Authors: KM Konwar, PN Moorthy, M Medard, NA Lynch
+Publication: US Patent App. 15/986,202
+
+405. Storage-Optimized Data-Atomic Systems and Techniques for Handling Erasures and Errors in Distributed Storage Systems
+Citations:
+Authors: M Medard, KM Konwar, PN Moorthy, NA Lynch, E Kantor, ...
+Publication: US Patent App. 15/838,966
+
+406. Collaboratively Learning the Best Option, Using Bounded Memory
+Citations:
+Authors: L Su, M Zubeldia, N Lynch
+Publication: arXiv preprint arXiv:1802.08159
+
+407. On Simple Back-Off in Complicated Radio Networks.
+Citations:
+Authors: S Gilbert, NA Lynch, C Newport, D Pajak
+Publication: CoRR
+
+408. Beeping a Maximal Independent Set Fast
+Citations:
+Authors: S Holzer, N Lynch
+Publication: arXiv preprint arXiv:1704.07133
+
+409. An Efficient Communication Abstraction for Dense Wireless Networks
+Citations:
+Authors: MM Halldórsson, F Kuhn, N Lynch, C Newport
+Publication: 31st International Symposium on Distributed Computing (DISC 2017)
+
+410. ANT-INSPIRED DENSITY ESTIMATION VIA RANDOM WALKS
+Citations:
+Authors: N Lynch, C Musco, HH Su
+Publication: 
+
+411. A Comprehensive Theory of Algorithms for Wireless Networks and Mobile Systems
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE CAMBRIDGE United States
+
+412. Ant-Inspired Density Estimation via Random Walks (Extended Abstact)
+Citations:
+Authors: C Musco, HH Su, N Lynch
+Publication: 
+
+413. Computer-Assisted Verification of an Algorithm for Concurrent
+Citations:
+Authors: TP Petrov, A Pogosyants, SJ Garland, V Luchangco, NA Lynch
+Publication: Formal Description Techniques IX: Theory, application and tools, 29
+
+414. Consensus using Asynchronous Failure Detectors
+Citations:
+Authors: N Lynch, S Sastry
+Publication: arXiv preprint arXiv:1502.02538
+
+415. Athena lecture: distributed computing theory for wireless networks and mobile systems
+Citations:
+Authors: NA Lynch
+Publication: Proceedings of the 2013 ACM symposium on Principles of distributed computing …
+
+416. Special issue on DISC 2010
+Citations:
+Authors: NA Lynch, AA Shvartsman
+Publication: Distributed Computing 26 (3), 139-139
+
+417. Soma Chaudhuri, Maurice Herlihy”
+Citations:
+Authors: NA Lynch, MR Tuttle
+Publication: Responsive Computer Systems: Steps Toward Fault-Tolerant Real-Time Systems …
+
+418. Multiobjective evolutionary algorithms: A comparative case study and the strength pareto approach
+Citations:
+Authors: Y Wei, K Sukumar, C Vecchiola, D Karunamoorthy, R Buyya, J Seltzer, ...
+Publication: Cloud Computing: Methodology, Systems, and Applications 7 (1), 1-1
+
+419. K-set Consensus and the Consensus Hierarchy
+Citations:
+Authors: S Chaudhuri, J Welch, N Lynch
+Publication: Morgan & Claypool Publishers
+
+420. Reductions and Simulations in Distributed Computing
+Citations:
+Authors: S Rajsbaum, C Travers, N Lynch
+Publication: Morgan & Claypool Publishers
+
+421. The impossibility of boosting distributed service resilience
+Citations:
+Authors: P Attie, R Guerraoui, P Kuznetsov, N Lynch, S Rajsbaum
+Publication: Information and Computation 209 (6), 927-950
+
+422. Self-adaptive clock synchronization based on clock precision differences
+Citations:
+Authors: J Abate, B Abali, CB Stunkel, C Benveniste, H Abdel-Ghaffar, C Adams, ...
+Publication: Computer Network Time Synchronization: The Network Time Protocol on Earth …
+
+423. MR2817182 (2012g: 68020) 68M14 (68M15)
+Citations:
+Authors: P Attie, R Guerraoui, P Kuznetsov, N Lynch, S Rajsbaum
+Publication: Inform. and Comput 209 (6), 927-950
+
+424. Abstract MAC Layers
+Citations:
+Authors: N Lynch
+Publication: 
+
+425. Keynote:“Distributed computing theory through the ages”
+Citations:
+Authors: N Lynch
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems & Networks …
+
+426. Broadcasting in Unreliable Radio Networks
+Citations:
+Authors: R Oshman, A Richa, C Newport, N Lynch, F Kuhn
+Publication: 
+
+427. Broadcasting in Unreliable Radio Networks
+Citations:
+Authors: N Lynch, R Oshman, A Richa, C Newport, N Lynch, F Kuhn
+Publication: MIT-CSAIL-TR-2010-029
+
+428. Distinguished Lecture Series
+Citations:
+Authors: N LYNCH
+Publication: University Of Oklahoma
+
+429. The Cost of Global Broadcast Using Abstract MAC Layers
+Citations:
+Authors: N Lynch, F Kuhn, D Kowalski, M Khabbazian
+Publication: 
+
+430. Timeout Order Abstraction for Formal Verification of Loosely Synchronized Real-Time Distributed Systems (Draft)
+Citations:
+Authors: S Umeno, N Lynch
+Publication: 
+
+431. 6.045: Automata, Computability, and Complexity Or, Great Ideas in Theoretical Computer Science Spring, 2010
+Citations:
+Authors: N Lynch
+Publication: 
+
+432. Appendices for the Submitted Paper
+Citations:
+Authors: S Umeno, N Lynch
+Publication: 
+
+433. Distributed Computation in Dynamic Networks
+Citations:
+Authors: R Oshman, N Lynch, F Kuhn
+Publication: 
+
+434. Brief announcement: minimum spanning trees and cone-based topology control
+Citations:
+Authors: A Cornejo, N Lynch
+Publication: Proceedings of the 28th ACM symposium on Principles of distributed computing …
+
+435. Keeping Mobile Robots Connected
+Citations:
+Authors: N Lynch, R Ley-Wild, F Kuhn, A Cornejo
+Publication: 
+
+436. Modeling Radio Networks
+Citations:
+Authors: N Lynch, C Newport
+Publication: 
+
+437. The Abstract MAC Layer
+Citations:
+Authors: C Newport, N Lynch, F Kuhn
+Publication: 
+
+438. Calvin C. Newport
+Citations:
+Authors: R Guerraoui, M Herlihy, P Kouznetsov, N Lynch
+Publication: Education 617, 253-1922
+
+439. Timeout Order Abstraction for Time-Parametric Verification of Loosely Synchronized Real-Time Distributed Systems
+Citations:
+Authors: S Umeno, N Lynch
+Publication: Artist Consortium
+
+440. Keeping Mobile Robots Connected
+Citations:
+Authors: A Cornejo, F Kuhn, R Ley-Wild, N Lynch
+Publication: 
+
+441. An Extensible and Scalable Framework for Formal Modeling, Analysis, and Development of Distributed Systems
+Citations:
+Authors: NA Lynch, LD Michel, AA Shvartsman
+Publication: VEROMODO INC BROOKLINE MA
+
+442. Modeling Computational Security in Long-Lived Systems, Version 2
+Citations:
+Authors: N Lynch, O Pereira, D Kaynar, L Cheung, R Canetti
+Publication: 
+
+443. Cooperative Networked Control of Dynamical Peer-to-Peer Vehicle Systems
+Citations:
+Authors: GE Dullerud, F Bullo, E Feron, E Frazzoli, PR Kumar, S Lall, D Liberzon, ...
+Publication: ILLINOIS UNIV CHAMPAIGN
+
+444. Algorithms for Data Sharing, Coordination, and Communication in Dynamic Network Settings
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+445. Fault Tolerant Real-Time Networks
+Citations:
+Authors: A Zakhor, T Henzinger, K Trevedi, M Ammar, N Lynch, K Shin
+Publication: CALIFORNIA UNIV REGENTS BERKELEY
+
+446. My Early Days in Distributed Computing Theory: 1979-1982 (DISC 20th Anniversary: Invited Talk)
+Citations:
+Authors: N Lynch
+Publication: Lecture Notes in Computer Science 1 (4731), 505-505
+
+447. DISC 20th Anniversary: Invited Talk My Early Days in Distributed Computing Theory
+Citations:
+Authors: N Lynch
+Publication: Distributed Computing, 505
+
+448. My early days in distributed computing theory: 1979–1982
+Citations:
+Authors: N Lynch
+Publication: International Symposium on Distributed Computing, 579-579
+
+449. An Lower Bound on the Cost of Mutual Exclusion
+Citations:
+Authors: N Lynch, R Fan, N Lynch
+Publication: 
+
+450. Analyzing Security Protocols using Probabilistic I/O Automata
+Citations:
+Authors: N Lynch
+Publication: 
+
+451. Using Task-Structured PIOAs to Analyze Cryptographic Protocols
+Citations:
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: 
+
+452. Formal and computational analysis of cryptographic protocols based on task-PIOAs
+Citations:
+Authors: R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala
+Publication: 2006 Workshop on Cryptography and Related Mathematics
+
+453. A Framework for Modeling and Analyzing Complex Distributed Systems
+Citations:
+Authors: NA Lynch, AA Shvartsman
+Publication: VEROMODO INC BROOKLINE MA
+
+454. Self-Stabilizing Mobile Node Location Management and Message
+Citations:
+Authors: S Dolev, L Lahiani, N Lynch, T Nolte
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+455. Using Self-Similarity to Increase Network Testing Effectiveness
+Citations:
+Authors: C Djouvas, ND Griffeth, NA Lynch
+Publication: 
+
+456. Calvin C. Newport
+Citations:
+Authors: K Censor-Hillel, S Gilbert, F Kuhn, N Lynch, CN Structuring, A Cornejo
+Publication: Simulation 81 (4), 307-323
+
+457. 6.045 J/18.400 J Automata, Computability, and Complexity, Spring 2005
+Citations:
+Authors: N Lynch
+Publication: 
+
+458. Building Blocks for High Performance, Fault-Tolerant Distributed Systems
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+459. Control Automata
+Citations:
+Authors: L Cheung, N Lynch, R Segala, F Vaandrager
+Publication: 
+
+460. Intervention of Uterine Artery Embolism in Treating Hysteromyoma
+Citations:
+Authors: Z LIU, L CHEN, C LI
+Publication: Journal of Linyi Medical College, 25
+
+461. Seth Gilbert
+Citations:
+Authors: NA Lynch
+Publication: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+
+462. Working with mike on distributed computing theory, 1978--1992
+Citations:
+Authors: N Lynch
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+463. Modeling, Analyzing, and Designing Network Protocols—A Case Study on Retransmission-Based Reliable Multicast Protocols
+Citations:
+Authors: C Livadas, I Keidar, N Lynch
+Publication: Doctor of Philosophy Thesis, Dept. of Electrical Engineering and Computer …
+
+464. Software assurance.
+Citations:
+Authors: N Lynch, S Garland
+Publication: Technology Review 106 (1), 44-46
+
+465. Efficient Replication of Large Data Objects (Brief Announcement)
+Citations:
+Authors: R Fan, N Lynch
+Publication: PROCEEDINGS OF THE ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED …
+
+466. Part I-Foundations of Distributed Systems: What Do We Still Expect from Theory? 12 Communication and Data Sharing for Dynamic Distributed Systems
+Citations:
+Authors: N Lynch, A Shvartsman
+Publication: Lecture Notes in Computer Science 2584, 62-67
+
+467. Working With Mike on Distributed Computing Theory
+Citations:
+Authors: N Lynch
+Publication: 
+
+468. López-Ortiz, Alejandro, 66
+Citations:
+Authors: N Lynch, B Awerbuch, Y Bartal, A Fiat, S Jain, M Jantzen, A Kurganskyy, ...
+Publication: Information and Computation 185, 328
+
+469. Verification of an attitude control system
+Citations:
+Authors: VU Ha
+Publication: Massachusetts Institute of Technology
+
+470. A Dynamic Primary View
+Citations:
+Authors: R De Prisco, A Fekete, N Lynch, A Shvartsman
+Publication: 
+
+471. On Formal Modeling of Agent Computations
+Citations:
+Authors: V Luchangco, N Lynch, K Mano
+Publication: Formal Approaches to Agent-Based Systems: First International Workshop …
+
+472. Decomposing Large, Complex, Concurrent Systems into Manageable Building Blocks
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+473. 6.852 J/18.437 J Distributed Algorithms, Fall 2001
+Citations:
+Authors: NA Lynch
+Publication: 
+
+474. Stephen J. Garland
+Citations:
+Authors: N Lynch
+Publication: Foundations of Component-Based Systems, 285
+
+475. QoS Preserving Totally Ordered Multicast Ziv Bar-Joseph Lab for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139, USA
+Citations:
+Authors: T Anker, N Lynch
+Publication: 
+
+476. Graph Theory with Applications to Engineering and Computer Science.
+Citations:
+Authors: KQ Yan, A Silberschatz, P Galvin, G Gagne, A Silberschatz, P Galvin, ...
+Publication: Information Technology Journal 3 (3), pp: 469-480-pp: 469-480
+
+477. This document was made by OCR from a scan of the technical report. It has not been edited or proofread and is not meant for human consumption, but only for search engines. To …
+Citations:
+Authors: R De Prisco, B Lampson, N Lynch
+Publication: Theoretical Computer Science 243, 35-91
+
+478. Tight bounds for k-set agreement
+Citations:
+Authors: M Herlihy, NA Lynch, MR Tuttle
+Publication: Journal of the ACM
+
+479. Implicit memory in Alzheimer's disease: literature review and analysis:[a thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in …
+Citations:
+Authors: NA Lynch
+Publication: University of Michigan
+
+480. DRAFT: PLEASE DO NOT DISTRIBUTE WIDELY
+Citations:
+Authors: P Attie, N Lynch
+Publication: 
+
+481. Handout 2-Course Reading List-Fall Term 2002 1. Shared memory, known set of participants
+Citations:
+Authors: N Lynch
+Publication: Journal of the ACM 45 (3), 451-500
+
+482. A Dynamic View-Oriented Group Communication Service
+Citations:
+Authors: RDPA Fekete, N Lynch, A Shvartsman
+Publication: 
+
+483. Solutions to Selected Exercises: Distributed Algorithms
+Citations:
+Authors: NA Lynch, S Batzoglu, V Bokyo
+Publication: Morgan Kaufmann
+
+484. Information and Computation Author Index
+Citations:
+Authors: JA Aslam, M Bezem, G Buntrock, SE Decatur, R Gawlick, K Iwama, ...
+Publication: Information and Computation 141, 205
+
+485. Proving Correctness of a Controller Algorithm for the RAID Level
+Citations:
+Authors: M Vaziri, N Lynch
+Publication: 
+
+486. Applications of the Theory of Distributed and Real Time Systems to the Development of Large-Scale Timing Based Systems.
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+487. In Memory of Anna Pogosyants
+Citations:
+Authors: NA Lynch
+Publication: Proceedings of the 11th International Workshop on Distributed Algorithms, 20-21
+
+488. A Unified Framework for Verification and Complexity Analysis of Real-Time and Distributed Systems
+Citations:
+Authors: N Lynch
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+489. Applications of the Theory of Distributed and Real Time Systems to the Development of Large-Scale Timing-Based Systems(Progress Report, 1 Oct.- 31 Nov. 1996)
+Citations:
+Authors: N LYNCH
+Publication: 
+
+490. Anya Pogosyants-In memory
+Citations:
+Authors: N Lynch
+Publication: DISTRIBUTED ALGORITHMS, PROCEEDINGS 1320, 20-21
+
+491. Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts
+Citations:
+Authors: NALAA Shvartsman
+Publication: Digest of Papers: Twenty-Seventh Annual International Symposium on Fault …
+
+492. Modelling and Verification of Automated Transit Systems, Using Timed Automata, Invariants and
+Citations:
+Authors: N Lynch
+Publication: Hybrid Systems III: Verification and Control 3, 449
+
+493. Applications of the Theory of Distributed and Real Time Systems to the Development of Large Scale Timing Based Systems(Quarterly Report, 1 Jul.- 30 Sep. 1996)
+Citations:
+Authors: N LYNCH
+Publication: 
+
+494. Applications of the theory of distributed and real time systems to the development of large-scale timing based systems(Progress Report, 1 Nov. 1995- 31 Dec. 1995)
+Citations:
+Authors: N LYNCH
+Publication: 
+
+495. CONSTANCE HEITMEYER
+Citations:
+Authors: N LYNCH
+Publication: Formal methods for real-time computing 5, 83
+
+496. Information and Computation w Author Index
+Citations:
+Authors: J Case, M Changizi, Y Han, D Harel, S Jain, J Kilian, N Lynch, IA Mason, ...
+Publication: information and computation 128, 139
+
+497. Implementing Sequentially Consistant Shared Objects using Broadcast and Point-To-Point Communications
+Citations:
+Authors: A Feteke, MF Kaashoek, N Lynch
+Publication: Massachusetts Institute of Technology
+
+498. Organization committee
+Citations:
+Authors: P Amer, G Bochmann, T Bolognesi, E Brinksma, A Cavalli, JP Courtiat, ...
+Publication: Formal Description Techniques VII
+
+499. Forvvard and Backvvard Simulations
+Citations:
+Authors: N LYNCH, F VAANIDRAGER
+Publication: 
+
+500. ACTION TRANSDUCERS AND TIMED AUTOMATA (replaces TM-480)
+Citations:
+Authors: F Vaandrager, N Lynch
+Publication: Massachusetts Institute of Technology
+

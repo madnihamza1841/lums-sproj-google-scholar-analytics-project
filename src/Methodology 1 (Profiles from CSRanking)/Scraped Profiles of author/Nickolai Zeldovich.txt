@@ -1,0 +1,638 @@
+https://scholar.google.com/citations?hl=en&user=DJ6--hMAAAAJ
+Total Citations = 9438
+
+1. CryptDB: protecting confidentiality with encrypted query processing
+Citations:1041
+Authors: RA Popa, C Redfield, N Zeldovich, H Balakrishnan
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+2. Making information flow explicit in HiStar
+Citations:728
+Authors: N Zeldovich, S Boyd-Wickizer, E Kohler, D Mazières
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+3. An Analysis of Linux Scalability to Many Cores.
+Citations:423
+Authors: S Boyd-Wickizer, AT Clements, Y Mao, A Pesterev, MF Kaashoek, ...
+Publication: OSDI 10 (13), 86-93
+
+4. Relational cloud: A database-as-a-service for the cloud
+Citations:397
+Authors: C Curino, EPC Jones, RA Popa, N Malviya, E Wu, S Madden, ...
+Publication: 
+
+5. Reusable garbled circuits and succinct functional encryption
+Citations:303
+Authors: S Goldwasser, Y Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: Proceedings of the forty-fifth annual ACM symposium on Theory of computing …
+
+6. An ideal-security protocol for order-preserving encoding
+Citations:291
+Authors: RA Popa, FH Li, N Zeldovich
+Publication: 2013 IEEE Symposium on Security and Privacy, 463-477
+
+7. Proving program termination
+Citations:290
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+8. Processing analytical queries over encrypted data
+Citations:282
+Authors: S Tu, MF Kaashoek, S Madden, N Zeldovich
+Publication: Proceedings of the VLDB Endowment 6 (5), 289-300
+
+9. Algorand: Scaling byzantine agreements for cryptocurrencies
+Citations:273
+Authors: Y Gilad, R Hemo, S Micali, G Vlachos, N Zeldovich
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 51-68
+
+10. Securing Distributed Systems with Information Flow Control.
+Citations:273
+Authors: N Zeldovich, S Boyd-Wickizer, D Mazieres
+Publication: NSDI 8, 293-308
+
+11. Virtual appliance management
+Citations:247
+Authors: MSL Lam, CP Sapuntzakis, RUV Chandra, NB Zeldovich, M Rosenblum, ...
+Publication: US Patent 7,890,689
+
+12. Virtual Appliances for Deploying and Maintaining Software.
+Citations:247
+Authors: CP Sapuntzakis, D Brumley, R Chandra, N Zeldovich, J Chow, MS Lam, ...
+Publication: LISA 3, 181-194
+
+13. Improving application security with data flow assertions
+Citations:202
+Authors: A Yip, X Wang, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+14. The collective: A cache-based system management architecture
+Citations:199
+Authors: R Chandra, N Zeldovich, C Sapuntzakis, MS Lam
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+15. Energy management in mobile devices with the Cinder operating system
+Citations:171
+Authors: A Roy, SM Rumble, R Stutsman, P Levis, D Mazières, N Zeldovich
+Publication: Proceedings of the sixth conference on Computer systems, 139-152
+
+16. Cache-based system management architecture with virtual appliances, network repositories, and virtual appliance transceivers
+Citations:168
+Authors: MSL Lam, CP Sapuntzakis, RUV Chandra, NB Zeldovich, M Rosenblum, ...
+Publication: US Patent 7,373,451
+
+17. The scalable commutativity rule: Designing scalable software for multicore processors
+Citations:158
+Authors: AT Clements, MF Kaashoek, N Zeldovich, RT Morris, E Kohler
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (4), 10
+
+18. Event-driven programming for robust software
+Citations:158
+Authors: F Dabek, N Zeldovich, F Kaashoek, D Mazières, R Morris
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 186-189
+
+19. CryptDB: Processing queries on an encrypted database.
+Citations:139
+Authors: RA Popa, CMS Redfield, N Zeldovich, H Balakrishnan
+Publication: Commun. ACM 55 (9), 103-111
+
+20. How to run turing machines on encrypted data
+Citations:137
+Authors: S Goldwasser, YT Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: Annual Cryptology Conference, 536-553
+
+21. Using Crash Hoare logic for certifying the FSCQ file system
+Citations:131
+Authors: H Chen, D Ziegler, T Chajed, A Chlipala, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 18-37
+
+22. Building web applications on top of encrypted data using Mylar
+Citations:126
+Authors: RA Popa, E Stark, S Valdez, J Helfer, N Zeldovich, H Balakrishnan
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+23. Improving network connection locality on multicore systems
+Citations:124
+Authors: A Pesterev, J Strauss, N Zeldovich, RT Morris
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 337-350
+
+24. Towards optimization-safe systems: Analyzing the impact of undefined behavior
+Citations:123
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+25. Vuvuzela: Scalable private messaging resistant to traffic analysis
+Citations:110
+Authors: J Van Den Hooff, D Lazar, M Zaharia, N Zeldovich
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 137-152
+
+26. Multiprocessor Support for Event-Driven Programs.
+Citations:110
+Authors: N Zeldovich, A Yip, F Dabek, RT Morris, D Mazieres, MF Kaashoek
+Publication: USENIX Annual Technical Conference, General Track, 239-252
+
+27. Scalable address spaces using RCU balanced trees
+Citations:108
+Authors: AT Clements, MF Kaashoek, N Zeldovich
+Publication: ACM SIGPLAN Notices 47 (4), 199-210
+
+28. Tolerating Malicious Device Drivers in Linux.
+Citations:107
+Authors: S Boyd-Wickizer, N Zeldovich
+Publication: USENIX annual technical conference
+
+29. Non-scalable locks are dangerous
+Citations:106
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: Proceedings of the Linux Symposium, 119-130
+
+30. Hardware Enforcement of Application Security Policies Using Tagged Memory.
+Citations:104
+Authors: N Zeldovich, H Kannan, M Dalton, C Kozyrakis
+Publication: OSDI 8, 225-240
+
+31. Linux kernel vulnerabilities: State-of-the-art defenses and open problems
+Citations:101
+Authors: H Chen, Y Mao, X Wang, D Zhou, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the Second Asia-Pacific Workshop on Systems, 5
+
+32. Intrusion Recovery Using Selective Re-execution.
+Citations:96
+Authors: T Kim, X Wang, N Zeldovich, MF Kaashoek
+Publication: OSDI, 89-104
+
+33. Software fault isolation with API integrity and multi-principal modules
+Citations:93
+Authors: Y Mao, H Chen, D Zhou, X Wang, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+34. Multi-Key Searchable Encryption.
+Citations:92
+Authors: RA Popa, N Zeldovich
+Publication: IACR Cryptology ePrint Archive 2013, 508
+
+35. Locating cache performance bottlenecks using data profiling
+Citations:90
+Authors: A Pesterev, N Zeldovich, RT Morris
+Publication: Proceedings of the 5th European conference on Computer systems, 335-348
+
+36. Improving Integer Security for Systems with {KINT}
+Citations:89
+Authors: X Wang, H Chen, Z Jia, N Zeldovich, MF Kaashoek
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+37. RadixVM: Scalable address spaces for multithreaded applications
+Citations:78
+Authors: AT Clements, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 211-224
+
+38. Nemesis: Preventing Authentication & [and] Access Control Vulnerabilities in Web Applications
+Citations:76
+Authors: M Dalton, C Kozyrakis, N Zeldovich
+Publication: USENIX Association
+
+39. Cphash: A cache-partitioned hash table
+Citations:74
+Authors: Z Metreveli, N Zeldovich, MF Kaashoek
+Publication: ACM SIGPLAN Notices 47 (8), 319-320
+
+40. Methods and apparatus for securing a database
+Citations:73
+Authors: H Balakrishnan, RA Popa, N Zeldovich
+Publication: US Patent 9,087,212
+
+41. Preventing Use-after-free with Dangling Pointers Nullification.
+Citations:71
+Authors: B Lee, C Song, Y Jang, T Wang, T Kim, L Lu, W Lee
+Publication: NDSS
+
+42. Undefined behavior: what happened to my code?
+Citations:71
+Authors: X Wang, H Chen, A Cheung, Z Jia, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the Asia-Pacific Workshop on Systems, 9
+
+43. Interactive Performance Measurement with VNCPlay.
+Citations:71
+Authors: N Zeldovich, R Chandra
+Publication: USENIX Annual Technical Conference, FREENIX Track, 189-198
+
+44. Secure In-Band Wireless Pairing.
+Citations:68
+Authors: S Gollakota, N Ahmed, N Zeldovich, D Katabi
+Publication: USENIX security symposium, 1-16
+
+45. CryptDB: A practical encrypted relational DBMS
+Citations:61
+Authors: RA Popa, N Zeldovich, H Balakrishnan
+Publication: Technical Report MITCSAIL-TR-2011-005, MIT Computer Science and Artificial …
+
+46. Practical and effective sandboxing for non-root users
+Citations:58
+Authors: T Kim, N Zeldovich
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+47. Why does cryptographic software fail?: a case study and open problems
+Citations:57
+Authors: D Lazar, H Chen, X Wang, N Zeldovich
+Publication: Proceedings of 5th Asia-Pacific Workshop on Systems, 7
+
+48. A trigger-based middleware cache for ORMs
+Citations:44
+Authors: P Gupta, N Zeldovich, S Madden
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+49. Separating web applications from user data storage with BSTORE
+Citations:42
+Authors: R Chandra, P Gupta, N Zeldovich
+Publication: Proceedings of the 2010 USENIX conference on Web application development, 1-1
+
+50. Intrusion recovery for database-backed web applications
+Citations:41
+Authors: R Chandra, T Kim, M Shah, N Narula, N Zeldovich
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+51. Sieve: Cryptographically enforced access control for user data in untrusted clouds
+Citations:39
+Authors: F Wang, J Mickens, N Zeldovich, V Vaikuntanathan
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+52. Detecting covert timing channels with time-deterministic replay
+Citations:37
+Authors: A Chen, WB Moore, H Xiao, A Haeberlen, LTX Phan, M Sherr, W Zhou
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+53. Jitk: A trustworthy in-kernel interpreter infrastructure
+Citations:37
+Authors: X Wang, D Lazar, N Zeldovich, A Chlipala, Z Tatlock
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+54. Succinct Functional Encryption and Applications: Reusable Garbled Circuits and Beyond.
+Citations:36
+Authors: S Goldwasser, YT Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: IACR Cryptology ePrint Archive 2012, 733
+
+55. Versum: Verifiable computations over large public logs
+Citations:34
+Authors: J van den Hooff, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+56. Delegating network security with more information
+Citations:31
+Authors: J Naous, R Stutsman, D Mazieres, N McKeown, N Zeldovich
+Publication: Proceedings of the 1st ACM workshop on Research on enterprise networking, 19-26
+
+57. Alpenhorn: Bootstrapping secure communication without leaking metadata
+Citations:27
+Authors: D Lazar, N Zeldovich
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+58. Stadium: A distributed metadata-private messaging system
+Citations:26
+Authors: N Tyagi, Y Gilad, D Leung, M Zaharia, N Zeldovich
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 423-440
+
+59. Efficient patch-based auditing for web application vulnerabilities
+Citations:26
+Authors: T Kim, R Chandra, N Zeldovich
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+60. Experiences in cyber security education: The MIT Lincoln laboratory capture-the-flag exercise.
+Citations:25
+Authors: J Werther, M Zhivich, T Leek, N Zeldovich
+Publication: CSET
+
+61. Nail: A practical tool for parsing and generating data formats
+Citations:23
+Authors: J Bangert, N Zeldovich
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+62. Cryptographic treatment of CryptDB's adjustable join
+Citations:20
+Authors: RA Popa, N Zeldovich
+Publication: 
+
+63. OpLog: a library for scaling update-heavy data structures
+Citations:19
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+64. Report on the NSF workshop on formal methods for security
+Citations:18
+Authors: S Chong, J Guttman, A Datta, A Myers, B Pierce, P Schaumont, ...
+Publication: arXiv preprint arXiv:1608.00678
+
+65. Specifying crash safety for storage systems
+Citations:18
+Authors: H Chen, D Ziegler, A Chlipala, MF Kaashoek, E Kohler, N Zeldovich
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+66. Guidelines for Using the CryptDB System Securely.
+Citations:17
+Authors: RA Popa, N Zeldovich, H Balakrishnan
+Publication: IACR Cryptology ePrint Archive 2015, 979
+
+67. Scaling a file system to many cores using an operation log
+Citations:16
+Authors: SS Bhat, R Eqbal, AT Clements, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 69-86
+
+68. Systematic analysis of defenses against return-oriented programming
+Citations:16
+Authors: R Skowyra, K Casteel, H Okhravi, N Zeldovich, W Streilein
+Publication: International Workshop on Recent Advances in Intrusion Detection, 82-102
+
+69. Verifying a high-performance crash-safe file system using a tree specification
+Citations:14
+Authors: H Chen, T Chajed, A Konradi, S Wang, A İleri, A Chlipala, MF Kaashoek, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 270-286
+
+70. Hare: a file system for non-cache-coherent multicores
+Citations:14
+Authors: C Gruenwald III, F Sironi, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the Tenth European Conference on Computer Systems, 30
+
+71. Authenticated storage using small trusted hardware
+Citations:14
+Authors: HJ Yang, V Costan, N Zeldovich, S Devadas
+Publication: Proceedings of the 2013 ACM workshop on Cloud computing security workshop, 35-46
+
+72. Making Linux protection mechanisms egalitarian with UserFS
+Citations:14
+Authors: T Kim, N Zeldovich
+Publication: USENIX Association
+
+73. Flare: Optimizing apache spark with native compilation for scale-up architectures and medium-size data
+Citations:12
+Authors: G Essertel, R Tahboub, J Decker, K Brown, K Olukotun, T Rompf
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+74. Amber: Decoupling user data from web applications
+Citations:12
+Authors: T Chajed, J Gjengset, J Van Den Hooff, MF Kaashoek, J Mickens, ...
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+75. Pika: A network service for multikernel operating systems
+Citations:11
+Authors: NZ Beckmann, C Gruenwald III, CR Johnson, H Kasture, F Sironi, ...
+Publication: 
+
+76. Asynchronous intrusion recovery for interconnected web services
+Citations:11
+Authors: R Chandra, T Kim, N Zeldovich
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+77. Recovering from intrusions in distributed systems with DARE
+Citations:11
+Authors: T Kim, R Chandra, N Zeldovich
+Publication: Proceedings of the Asia-Pacific Workshop on Systems, 10
+
+78. Securing untrustworthy software using information flow control
+Citations:11
+Authors: N Zeldovich
+Publication: Stanford University
+
+79. Practical always-on taint tracking on mobile devices
+Citations:9
+Authors: J Paupore, E Fernandes, A Prakash, S Roy, X Ou
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+80. Security bugs in embedded interpreters
+Citations:9
+Authors: H Chen, C Cutler, T Kim, Y Mao, X Wang, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the 4th Asia-Pacific Workshop on Systems, 17
+
+81. Certifying a file system using crash hoare logic: correctness in the presence of crashes
+Citations:7
+Authors: T Chajed, H Chen, A Chlipala, MF Kaashoek, N Zeldovich, D Ziegler
+Publication: Communications of the ACM 60 (4), 75-84
+
+82. How to compute with data you can't see
+Citations:7
+Authors: RA Popa, N Zeldovich
+Publication: IEEE Spectrum 8 (52), 42-47
+
+83. Language support for efficient computation over encrypted data
+Citations:7
+Authors: M Shah, E Stark, RA Popa, N Zeldovich
+Publication: Off the Beaten Track Workshop
+
+84. Retroactive auditing
+Citations:7
+Authors: X Wang, N Zeldovich, MF Kaashoek
+Publication: Proceedings of the Second Asia-Pacific Workshop on Systems, 9
+
+85. A differential approach to undefined behavior detection
+Citations:6
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (1), 1
+
+86. Identifying information disclosure in web applications with retroactive auditing
+Citations:6
+Authors: H Chen, T Kim, X Wang, N Zeldovich, MF Kaashoek
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+87. A software approach to unifying multicore caches
+Citations:6
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+88. Vault: Fast bootstrapping for cryptocurrencies
+Citations:5
+Authors: D Leung
+Publication: Massachusetts Institute of Technology
+
+89. The scalable commutativity rule: designing scalable software for multicore processors
+Citations:5
+Authors: AT Clements, MF Kaashoek, E Kohler, RT Morris, N Zeldovich
+Publication: Communications of the ACM 60 (8), 83-90
+
+90. A differential approach to undefined behavior detection
+Citations:5
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: Communications of the ACM 59 (3), 99-106
+
+91. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: D Lindley
+Publication: Communications of the ACM 52 (10), 11-13
+
+92. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: S Benford, C Magerkurth, P Ljungstrand
+Publication: Communications of the ACM 48 (3), 54-57
+
+93. Karaoke: Distributed private messaging immune to passive traffic analysis
+Citations:4
+Authors: D Lazar, Y Gilad, N Zeldovich
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+94. Securing web applications by blindfolding the server
+Citations:4
+Authors: RA Popa, E Stark, S Valdez, J Helfer, N Zeldovich, H Balakrishnan
+Publication: Proceedings of the USENIX Symposium of Networked Systems Design and …
+
+95. Overcoming the Worst-Case Curse for Cryptographic Constructions.
+Citations:4
+Authors: S Goldwasser, YT Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: IACR Cryptology ePrint Archive 2013, 229
+
+96. Hyperprobe: towards virtual machine extrospection
+Citations:3
+Authors: J Xiao, L Lu, H Huang, H Wang
+Publication: 2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16)
+
+97. Nail: A practical interface generator for data formats
+Citations:3
+Authors: J Bangert, N Zeldovich
+Publication: 2014 IEEE Security and Privacy Workshops, 158-166
+
+98. Review of\CryptDB: Protecting Confidentiality with Encrypted Query Processing
+Citations:3
+Authors: RA Popa, CMS Redfield, N Zeldovich, H Balakrishnan
+Publication: May 16, 85100
+
+99. Vault: Fast Bootstrapping for the Algorand Cryptocurrency.
+Citations:2
+Authors: D Leung, A Suhl, Y Gilad, N Zeldovich
+Publication: NDSS
+
+100. Verifying concurrent software using movers in {CSPEC}
+Citations:2
+Authors: T Chajed, F Kaashoek, B Lampson, N Zeldovich
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+101. Veil: Private Browsing Semantics Without Browser-side Assistance.
+Citations:2
+Authors: F Wang, J Mickens, N Zeldovich
+Publication: NDSS
+
+102. Decor+ LAMI: A scalable blockchain protocol
+Citations:2
+Authors: P Camacho, SD Lerner
+Publication: Tech. Rep., 2016.[Online]. Available: https://scalingbitcoin. org/papers …
+
+103. Towards certified storage systems
+Citations:2
+Authors: H Chen, D Ziegler, A Chlipala, MF Kaashoek, E Kohler, N Zeldovich
+Publication: Proceedings of the 15th Workshop on Hot Topics in Operating Systems (HotOS …
+
+104. Optimizing unit test execution in large software programs using dependency analysis
+Citations:2
+Authors: T Kim, R Chandra, N Zeldovich
+Publication: Proceedings of the 4th Asia-Pacific Workshop on Systems, 19
+
+105. Concurrency control for multiprocessor event-driven systems
+Citations:2
+Authors: N Zeldovich
+Publication: Massachusetts Institute of Technology
+
+106. Secure sharing
+Citations:1
+Authors: RA Popa, N Zeldovich, S Verma, RS Battat, AD Burrow
+Publication: US Patent 9,954,684
+
+107. Providing caching abstractions for web applications
+Citations:1
+Authors: P Gupta
+Publication: Massachusetts Institute of Technology
+
+108. Stephen Tu
+Citations:1
+Authors: W Zheng, S Tu, E Kohler, B Liskov, J DeBrabant, A Pavlo, M Stonebraker, ...
+Publication: University of California, Berkeley 2010
+
+109. Argosy: verifying layered storage systems with recovery refinement
+Citations:
+Authors: T Chajed, J Tassarotti, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+110. Extracting and optimizing formally verified code for systems programming
+Citations:
+Authors: E Ioannidis, F Kaashoek, N Zeldovich
+Publication: NASA Formal Methods Symposium, 228-236
+
+111. Secure sharing
+Citations:
+Authors: RA Popa, N Zeldovich, S Verma, RS Battat, AD Burrow
+Publication: US Patent App. 15/933,563
+
+112. Proving confidentiality in a file system using DISKSEC
+Citations:
+Authors: A Ileri, T Chajed, A Chlipala, F Kaashoek, N Zeldovich
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+113. Oort: User-Centric Cloud Storage with Global Queries
+Citations:
+Authors: T Chajed, J Gjengset, MF Kaashoek, J Mickens, R Morris, N Zeldovich
+Publication: 
+
+114. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+115. VerSum
+Citations:
+Authors: N Zeldovich, J van den Hooff, MF Kaashoek
+Publication: 
+
+116. Tackling The Challenges of Big Data
+Citations:
+Authors: N Zeldovich
+Publication: Massachusetts Institute of Technology
+
+117. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+118. Stephen Tu
+Citations:
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik, W Zheng, E Kohler, ...
+Publication: University of California, Berkeley 2010
+
+119. ERROR REPORTS
+Citations:
+Authors: R Cox, CF MP, XY MP, N Zeldovich, A Clements, YM Price, H Mitake
+Publication: context 7926 (7932), 7939-8008
+
+120. Yodel: Strong Metadata Security for Real-Time Voice Calls
+Citations:
+Authors: D Lazar, Y Gilad, N Zeldovich
+Publication: 
+
+121. A Practical Tool for Parsing and Generating Data Formats
+Citations:
+Authors: J BANGERT, N ZELDOVICH
+Publication: 
+
+122. Extending a verified file system with concurrency
+Citations:
+Authors: T Chajed, A Chlipala, MF Kaashoek, N Zeldovich
+Publication: 
+
+123. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+124. Dude, where’s my code?
+Citations:
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: 
+
+125. Intrusion Recovery using Selective Re-execution
+Citations:
+Authors: N Zeldovich
+Publication: 
+
+126. Extracting parallelism in OS kernels using type-safe languages
+Citations:
+Authors: C Cutler, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+127. Paper Presentation: Separating Web Applications from User Data Storage with BSTORE
+Citations:
+Authors: R Chandra, P Gupta, N Zeldovich
+Publication: 
+

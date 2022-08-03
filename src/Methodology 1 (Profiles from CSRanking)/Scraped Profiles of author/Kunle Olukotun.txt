@@ -1,0 +1,1303 @@
+https://scholar.google.com/citations?hl=en&user=IzXDyR8AAAAJ
+Total Citations = 18692
+
+1. Map-reduce for machine learning on multicore
+Citations:1515
+Authors: CT Chu, SK Kim, YA Lin, YY Yu, G Bradski, K Olukotun, AY Ng
+Publication: Advances in neural information processing systems, 281-288
+
+2. Niagara: A 32-way multithreaded sparc processor
+Citations:1203
+Authors: P Kongetira, K Aingaran, K Olukotun
+Publication: IEEE micro 25 (2), 21-29
+
+3. The case for a single-chip multiprocessor
+Citations:1063
+Authors: K Olukotun, BA Nayfeh, L Hammond, K Wilson, K Chang
+Publication: ACM Sigplan Notices 31 (9), 2-11
+
+4. STAMP: Stanford transactional applications for multi-processing
+Citations:1057
+Authors: CC Minh, JW Chung, C Kozyrakis, K Olukotun
+Publication: 2008 IEEE International Symposium on Workload Characterization, 35-46
+
+5. Transactional memory coherence and consistency
+Citations:897
+Authors: L Hammond, V Wong, M Chen, BD Carlstrom, JD Davis, B Hertzberg, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 102
+
+6. A single-chip multiprocessor
+Citations:583
+Authors: BA Nayfeh, K Olukotun
+Publication: Computer 30 (9), 79-85
+
+7. The stanford hydra cmp
+Citations:491
+Authors: L Hammond, BA Hubbert, M Siu, MK Prabhu, M Chen, K Olukolun
+Publication: IEEE micro 20 (2), 71-84
+
+8. Data speculation support for a chip multiprocessor
+Citations:486
+Authors: L Hammond, M Willey, K Olukotun
+Publication: ACM SIGOPS Operating Systems Review 32 (5), 58-69
+
+9. An effective hybrid transactional memory system with strong isolation guarantees
+Citations:402
+Authors: CC Minh, M Trautmann, JW Chung, A McDonald, N Bronson, J Casper, ...
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 69-80
+
+10. The future of microprocessors
+Citations:347
+Authors: K Olukotun, L Hammond
+Publication: Queue 3 (7), 26-29
+
+11. Accelerating CUDA graph algorithms at maximum warp
+Citations:342
+Authors: S Hong, SK Kim, T Oguntebi, K Olukotun
+Publication: Acm Sigplan Notices 46 (8), 267-276
+
+12. REMARC: Reconfigurable multimedia array coprocessor
+Citations:326
+Authors: T Miyamori, K Olukotun
+Publication: IEICE Transactions on information and systems 82 (2), 389-397
+
+13. Efficient parallel graph exploration on multi-core CPU and GPU
+Citations:290
+Authors: S Hong, T Oguntebi, K Olukotun
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+14. Architectural semantics for practical transactional memory
+Citations:286
+Authors: A McDonald, JW Chung, BD Carlstrom, CC Minh, H Chafi, C Kozyrakis, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 53-65
+
+15. Green-Marl: a DSL for easy and efficient graph analysis
+Citations:273
+Authors: S Hong, H Chafi, E Sedlar, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 349-362
+
+16. Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs
+Citations:268
+Authors: T Rompf, M Odersky
+Publication: Acm Sigplan Notices 46 (2), 127-136
+
+17. Liszt: a domain specific language for building portable mesh-based PDE solvers
+Citations:245
+Authors: Z DeVito, N Joubert, F Palacios, S Oakley, M Medina, M Barrientos, ...
+Publication: Proceedings of 2011 International Conference for High Performance Computing …
+
+18. In search of speculative thread-level parallelism
+Citations:239
+Authors: JT Oplinger, DL Heine, MS Lam
+Publication: 1999 International Conference on Parallel Architectures and Compilation …
+
+19. A quantitative analysis of reconfigurable coprocessors for multimedia applications
+Citations:218
+Authors: T Miyamori, U Olukotun
+Publication: Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No …
+
+20. The Atomos transactional programming language
+Citations:198
+Authors: BD Carlstrom, A McDonald, H Chafi, JW Chung, CC Minh, C Kozyrakis, ...
+Publication: ACM SIGPLAN Notices 41 (6), 1-13
+
+21. A heterogeneous parallel framework for domain-specific languages
+Citations:197
+Authors: KJ Brown, AK Sujeeth, HJ Lee, T Rompf, H Chafi, M Odersky, K Olukotun
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+22. A practical concurrent binary search tree
+Citations:194
+Authors: NG Bronson, J Casper, H Chafi, K Olukotun
+Publication: ACM Sigplan Notices 45 (5), 257-268
+
+23. OptiML: an implicitly parallel domain-specific language for machine learning
+Citations:193
+Authors: A Sujeeth, HJ Lee, K Brown, T Rompf, H Chafi, M Wu, A Atreya, ...
+Publication: Proceedings of the 28th International Conference on Machine Learning (ICML …
+
+24. A domain-specific approach to heterogeneous parallelism
+Citations:180
+Authors: H Chafi, AK Sujeeth, KJ Brown, HJ Lee, AR Atreya, K Olukotun
+Publication: ACM SIGPLAN Notices 46 (8), 35-46
+
+25. The Jrpm system for dynamically parallelizing Java programs
+Citations:178
+Authors: MK Chen, K Olukotun
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+26. Programming with transactional coherence and consistency (TCC)
+Citations:165
+Authors: L Hammond, BD Carlstrom, V Wong, B Hertzberg, M Chen, C Kozyrakis, ...
+Publication: ACM SIGOPS Operating Systems Review 38 (5), 1-13
+
+27. checkTc and minTc: Timing verification and optimal clocking of synchronous digital circuits
+Citations:161
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Computer-Aided Design, 1990. ICCAD-90. Digest of Technical Papers., 1990 …
+
+28. A scalable, non-blocking approach to transactional memory
+Citations:160
+Authors: H Chafi, J Casper, BD Carlstrom, A McDonald, CC Minh, W Baek, ...
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+29. DRAM power management
+Citations:151
+Authors: LD Kohn, KA Olukotun, MK Wong
+Publication: US Patent 6,938,119
+
+30. Maximizing CMP throughput with mediocre cores
+Citations:150
+Authors: JD Davis, J Laudon, K Olukotun
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+31. Analysis and design of latch-controlled synchronous digital circuits
+Citations:146
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+32. Evaluation of design alternatives for a multiprocessor microprocessor
+Citations:143
+Authors: BA Nayfeh, L Hammond, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 24 (2), 67-77
+
+33. Software and hardware for exploiting speculative parallelism with a multiprocessor
+Citations:138
+Authors: J Oplinger, D Heine, SW Liao, BA Nayfeh, MS Lam, K Olukotun
+Publication: Technical Report CSL-TR-97-715, Stanford University
+
+34. Delite: A compiler architecture for performance-oriented embedded domain-specific languages
+Citations:135
+Authors: AK Sujeeth, KJ Brown, H Lee, T Rompf, H Chafi, M Odersky, K Olukotun
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 13 (4s), 134
+
+35. Java as a specification language for hardware-software systems
+Citations:135
+Authors: R Helaihel, K Olukotun
+Publication: Proceedings of the 1997 IEEE/ACM international conference on Computer-aided …
+
+36. Multi-core multi-thread processor
+Citations:132
+Authors: LD Kohn, KA Olukotun, MK Wong
+Publication: US Patent 7,209,996
+
+37. The common case transactional behavior of multithreaded programs
+Citations:130
+Authors: JW Chung, H Chafi, CC Minh, A McDonald, B Carlstrom, C Kozyrakis, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+38. Language virtualization for heterogeneous parallel computing
+Citations:129
+Authors: H Chafi, Z DeVito, A Moors, T Rompf, AK Sujeeth, P Hanrahan, M Odersky, ...
+Publication: ACM Sigplan Notices 45 (10), 835-847
+
+39. Global convergence of stochastic gradient descent for some non-convex matrix problems
+Citations:122
+Authors: C De Sa, K Olukotun, C Ré
+Publication: arXiv preprint arXiv:1411.1134
+
+40. Using thread-level speculation to simplify manual parallelization
+Citations:122
+Authors: MK Prabhu, K Olukotun
+Publication: ACM Sigplan Notices 38 (10), 1-12
+
+41. Exposing speculative thread parallelism in SPEC2000
+Citations:118
+Authors: MK Prabhu, K Olukotun
+Publication: Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of …
+
+42. Hardware acceleration of database operations
+Citations:114
+Authors: J Casper, K Olukotun
+Publication: Proceedings of the 2014 ACM/SIGDA international symposium on Field …
+
+43. Energy-efficient abundant-data computing: The N3XT 1,000 x
+Citations:107
+Authors: MMS Aly, M Gao, G Hills, CS Lee, G Pitner, MM Shulaker, TF Wu, ...
+Publication: Computer 48 (12), 24-33
+
+44. Optimizing data structures in high-level programs: new directions for extensible compilers based on staging
+Citations:106
+Authors: T Rompf, AK Sujeeth, N Amin, KJ Brown, V Jovanovic, HJ Lee, ...
+Publication: Acm Sigplan Notices 48 (1), 497-510
+
+45. Chip multiprocessor architecture: techniques to improve throughput and latency
+Citations:101
+Authors: K Olukotun, L Hammond, J Laudon
+Publication: Synthesis Lectures on Computer Architecture 2 (1), 1-145
+
+46. Improving the performance of speculatively parallel applications on the Hydra CMP
+Citations:100
+Authors: K Olukotun, L Hammond, M Willey
+Publication: STANFORD UNIV CA COMPUTER SYSTEMS LAB
+
+47. Multi-core multi-thread processor
+Citations:98
+Authors: KA Olukotun
+Publication: US Patent 7,873,785
+
+48. The OpenTM transactional application programming interface
+Citations:98
+Authors: W Baek, CC Minh, M Trautmann, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+49. Tradeoffs in transactional memory virtualization
+Citations:98
+Authors: JW Chung, CC Minh, A McDonald, T Skare, H Chafi, BD Carlstrom, ...
+Publication: ACM Sigplan Notices 41 (11), 371-381
+
+50. Characterization of TCC on chip-multiprocessors
+Citations:98
+Authors: A McDonald, JW Chung, H Chafi, CC Minh, BD Carlstrom, L Hammond, ...
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+51. Transactional coherence and consistency: Simplifying parallel hardware and software
+Citations:92
+Authors: L Hammond, BD Carlstrom, V Wong, M Chen, C Koryrakis, K Olukotun
+Publication: IEEE Micro 24 (6), 92-103
+
+52. Taming the wild: A unified analysis of hogwild-style algorithms
+Citations:85
+Authors: CM De Sa, C Zhang, K Olukotun, C Ré
+Publication: Advances in neural information processing systems, 2674-2682
+
+53. Testing implementations of transactional memory
+Citations:82
+Authors: C Manovit, S Hangal, H Chafi, A McDonald, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+54. Request arbitration in multi-core processor
+Citations:81
+Authors: KA Olukotun
+Publication: US Patent 7,133,950
+
+55. Exploiting method-level parallelism in single-threaded Java programs
+Citations:81
+Authors: MK Chen, K Olukotun
+Publication: Proceedings. 1998 International Conference on Parallel Architectures and …
+
+56. Eigenbench: A simple exploration tool for orthogonal TM characteristics
+Citations:80
+Authors: S Hong, T Oguntebi, J Casper, N Bronson, C Kozyrakis, K Olukotun
+Publication: IEEE International Symposium on Workload Characterization (IISWC'10), 1-11
+
+57. Emptyheaded: A relational engine for graph processing
+Citations:79
+Authors: CR Aberger, A Lamb, S Tu, A Nötzli, K Olukotun, C Ré
+Publication: ACM Transactions on Database Systems (TODS) 42 (4), 20
+
+58. Increasing cache port efficiency for dynamic superscalar microprocessors
+Citations:78
+Authors: K Olukotun, M Rosenblum, KM Wilson
+Publication: 23rd Annual International Symposium on Computer Architecture (ISCA'96), 147-147
+
+59. Exploring the design space for a shared-cache multiprocessor
+Citations:78
+Authors: BA Nayfeh, K Olukotun
+Publication: Proceedings of 21 International Symposium on Computer Architecture, 166-175
+
+60. Analysis and design of latch-controlled synchronous digital circuits
+Citations:78
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+61. A software-hardware cosynthesis approach to digital system simulation
+Citations:77
+Authors: KA Olukotun, R Helaihel, J Levitt, R Ramirez
+Publication: IEEE Micro 14 (4), 48-58
+
+62. A general method for compiling event-driven simulations
+Citations:76
+Authors: RS French
+Publication: 32nd Design Automation Conference, 151-156
+
+63. A practical FPGA-based framework for novel CMP research
+Citations:75
+Authors: S Wee, J Casper, N Njoroge, Y Tesylar, D Ge, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 2007 ACM/SIGDA 15th international symposium on Field …
+
+64. A timing model of synchronous digital circuits,"
+Citations:75
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Computer
+
+65. On fast parallel detection of strongly connected components (SCC) in small-world graphs
+Citations:74
+Authors: S Hong, NC Rodia, K Olukotun
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+66. Multicore processors and systems
+Citations:74
+Authors: K Olukotun
+Publication: Springer
+
+67. Atlas: A chip-multiprocessor with transactional memory support
+Citations:73
+Authors: N Njoroge, J Casper, S Wee, Y Teslyar, D Ge, C Kozyrakis, K Olukotun
+Publication: 2007 Design, Automation & Test in Europe Conference & Exhibition, 1-6
+
+68. Implementing domain-specific languages for heterogeneous parallel computing
+Citations:71
+Authors: HJ Lee, K Brown, A Sujeeth, H Chafi, T Rompf, M Odersky, K Olukotun
+Publication: Ieee Micro 31 (5), 42-53
+
+69. Building-blocks for performance oriented DSLs
+Citations:69
+Authors: T Rompf, AK Sujeeth, HJ Lee, KJ Brown, H Chafi, M Odersky, K Olukotun
+Publication: arXiv preprint arXiv:1109.0778
+
+70. A highly scalable restricted boltzmann machine fpga implementation
+Citations:69
+Authors: SK Kim, LC McAfee, PL McMahon, K Olukotun
+Publication: 2009 International Conference on Field Programmable Logic and Applications …
+
+71. Composition and reuse with compiled domain-specific languages
+Citations:68
+Authors: AK Sujeeth, T Rompf, KJ Brown, HJ Lee, H Chafi, V Popic, M Wu, ...
+Publication: European Conference on Object-Oriented Programming, 52-78
+
+72. TEST: a tracer for extracting speculative threads
+Citations:68
+Authors: M Chen, K Olukotun
+Publication: International Symposium on Code Generation and Optimization, 2003. CGO 2003 …
+
+73. Method and apparatus for cycle-based computation
+Citations:61
+Authors: TM Mcwilliams, JB Rubin, DE Pappas, OA Olukotun, JM Broughton, ...
+Publication: US Patent 7,036,114
+
+74. Automatic generation of efficient accelerators for reconfigurable hardware
+Citations:60
+Authors: D Koeplinger, R Prabhakar, Y Zhang, C Delimitrou, C Kozyrakis, ...
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+75. Understanding and optimizing asynchronous low-precision stochastic gradient descent
+Citations:59
+Authors: C De Sa, M Feldman, C Ré, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 561-574
+
+76. Exploiting coarse-grain parallelism in the MPEG-2 algorithm
+Citations:59
+Authors: E Iwata, K Olukotun
+Publication: Computer Systems Lab, Stanford University, Tech. Rep. CSL-TR-98-771
+
+77. Designing high bandwidth on-chip caches
+Citations:59
+Authors: KM Wilson, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 25 (2), 121-132
+
+78. Hardware system synthesis from domain-specific languages
+Citations:53
+Authors: N George, HJ Lee, D Novo, T Rompf, KJ Brown, AK Sujeeth, M Odersky, ...
+Publication: 2014 24th International Conference on Field Programmable Logic and …
+
+79. Transactional collection classes
+Citations:52
+Authors: BD Carlstrom, A McDonald, M Carbin, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of …
+
+80. Transactional predication: high-performance concurrent sets and maps for stm
+Citations:50
+Authors: NG Bronson, J Casper, H Chafi, K Olukotun
+Publication: Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of …
+
+81. Simplifying scalable graph processing with a domain-specific language
+Citations:48
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: Proceedings of Annual IEEE/ACM International Symposium on Code Generation …
+
+82. The impact of shared-cache clustering in small-scale shared-memory multiprocessors
+Citations:48
+Authors: BA Nayfeh, K Olukotun, JP Singh
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+83. Dawnbench: An end-to-end deep learning benchmark and competition
+Citations:47
+Authors: C Coleman, D Narayanan, D Kang, T Zhao, J Zhang, L Nardi, P Bailis, ...
+Publication: Training 100 (101), 102
+
+84. A large-scale architecture for restricted boltzmann machines
+Citations:46
+Authors: SK Kim, PL McMahon, K Olukotun
+Publication: 2010 18th IEEE Annual International Symposium on Field-Programmable Custom …
+
+85. Digital system simulation: Methodologies and examples
+Citations:45
+Authors: K Olukotun, M Heinrich, D Ofelt
+Publication: Proceedings 1998 Design and Automation Conference. 35th DAC.(Cat. No …
+
+86. Locality-aware mapping of nested parallel patterns on gpus
+Citations:44
+Authors: HJ Lee, KJ Brown, AK Sujeeth, T Rompf, K Olukotun
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 63-74
+
+87. Ubiquitous parallel computing from Berkeley, Illinois, and Stanford
+Citations:44
+Authors: B Catanzaro, A Fox, K Keutzer, D Patterson, BY Su, M Snir, K Olukotun, ...
+Publication: IEEE micro 30 (2), 41-55
+
+88. Verifying correct pipeline implementation for microprocessors
+Citations:43
+Authors: J Levitt, K Olukotun
+Publication: Proceedings of the 1997 IEEE/ACM international conference on Computer-aided …
+
+89. The hierarchical multi-bank DRAM: A high-performance architecture for memory integrated with processors
+Citations:43
+Authors: T Yamauchi, L Hammond, K Olukotun
+Publication: Proceedings Seventeenth Conference on Advanced Research in VLSI, 303-319
+
+90. A scalable formal verification methodology for pipelined microprocessors
+Citations:43
+Authors: J Levitt, K Olukotun
+Publication: 33rd Design Automation Conference Proceedings, 1996, 558-563
+
+91. Performance optimization of pipelined primary cache
+Citations:43
+Authors: K Olukotun, T Mudge, R Brown
+Publication: ACM SIGARCH Computer Architecture News 20 (2), 181-190
+
+92. Surgical precision JIT compilers
+Citations:39
+Authors: T Rompf, AK Sujeeth, KJ Brown, HJ Lee, H Chafi, K Olukotun
+Publication: Acm Sigplan Notices 49 (6), 41-52
+
+93. Transactional execution of Java programs
+Citations:39
+Authors: B Carlstrom, JW Chung, H Chafi, A McDonald, C Cao Minh, L Hammond, ...
+Publication: 
+
+94. Rationale, design and performance of the hydra multiprocessor
+Citations:39
+Authors: K Olukotun, J Bergmann, KY Chang, B Nayfeh
+Publication: Computer Systems Laboratory, Stanford University, CA, 1-19
+
+95. Generating configurable hardware from parallel patterns
+Citations:38
+Authors: R Prabhakar, D Koeplinger, KJ Brown, HJ Lee, C De Sa, C Kozyrakis, ...
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 651-665
+
+96. Have abstraction and eat performance, too: Optimized heterogeneous computing with parallel patterns
+Citations:37
+Authors: KJ Brown, HJ Lee, T Romp, AK Sujeeth, C De Sa, C Aberger, K Olukotun
+Publication: 2016 IEEE/ACM International Symposium on Code Generation and Optimization …
+
+97. Runtime automatic speculative parallelization
+Citations:37
+Authors: B Hertzberg, K Olukotun
+Publication: International Symposium on Code Generation and Optimization (CGO 2011), 64-73
+
+98. TAPE: A transactional application profiling environment
+Citations:36
+Authors: H Chafi, CC Minh, A McDonald, BD Carlstrom, JW Chung, L Hammond, ...
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+99. Plasticine: A reconfigurable architecture for parallel patterns
+Citations:35
+Authors: R Prabhakar, Y Zhang, D Koeplinger, M Feldman, T Zhao, S Hadjis, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+100. The information-form data association filter
+Citations:35
+Authors: B Schumitsch, S Thrun, G Bradski, K Olukotun
+Publication: Advances in Neural Information Processing Systems, 1193-1200
+
+101. A preliminary investigation into parallel routing on a hypercube computer
+Citations:34
+Authors: OA Olukotun, TN Mudge
+Publication: Proceedings of the 24th ACM/IEEE Design Automation Conference, 814-820
+
+102. Graphops: A dataflow library for graph analytics acceleration
+Citations:33
+Authors: T Oguntebi, K Olukotun
+Publication: Proceedings of the 2016 ACM/SIGDA International Symposium on Field …
+
+103. Forge: generating a high performance DSL implementation from a declarative specification
+Citations:33
+Authors: AK Sujeeth, A Gibbons, KJ Brown, HJ Lee, T Rompf, M Odersky, ...
+Publication: Acm Sigplan Notices 49 (3), 145-154
+
+104. The benefits of clustering in shared address space multiprocessors: An applications-driven investigation
+Citations:33
+Authors: A Erlichson, BA Nayfeh, JP Singh, K Olukotun
+Publication: Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …
+
+105. High-accuracy low-precision training
+Citations:32
+Authors: C De Sa, M Leszczynski, J Zhang, A Marzoev, CR Aberger, K Olukotun, ...
+Publication: arXiv preprint arXiv:1803.03383
+
+106. Hardware acceleration of transactional memory on commodity systems
+Citations:32
+Authors: J Casper, T Oguntebi, S Hong, NG Bronson, C Kozyrakis, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 27-38
+
+107. Implementing and evaluating nested parallel transactions in software transactional memory
+Citations:32
+Authors: W Baek, N Bronson, C Kozyrakis, K Olukotun
+Publication: Proceedings of the twenty-second annual ACM symposium on Parallelism in …
+
+108. Considerations in the Design of Hydra: a Multiprocessor-on-a-Chip Microarchitecture
+Citations:31
+Authors: L Hammond, K Olukotun
+Publication: Stanford University Technical Report No. CSL-TR-98-749
+
+109. The design of a GaAs micro-supercomputer
+Citations:30
+Authors: TN Mudge, RB Brown, WP Birmingham, JA Dykstra, AI Kayssi, RJ Lomax, ...
+Publication: System Sciences, 1991. Proceedings of the Twenty-Fourth Annual Hawaii …
+
+110. Ensuring rapid mixing and low bias for asynchronous Gibbs sampling
+Citations:29
+Authors: C De Sa, K Olukotun, C Ré
+Publication: JMLR workshop and conference proceedings 48, 1567
+
+111. CCSTM: A library-based STM for Scala
+Citations:28
+Authors: NG Bronson, H Chafi, K Olukotun
+Publication: def 9, 10
+
+112. Go meta! A case for generative programming and dsls in performance critical systems
+Citations:24
+Authors: T Rompf, KJ Brown, HJ Lee, AK Sujeeth, M Jonnalagedda, N Amin, ...
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+113. Transactional memory: The hardware-software interface
+Citations:24
+Authors: A McDonald, BD Carlstrom, JW Chung, CC Minh, H Chafi, C Kozyrakis, ...
+Publication: IEEE micro 27 (1), 67-76
+
+114. Executing Java programs with transactional memory
+Citations:24
+Authors: BD Carlstrom, JW Chung, H Chafi, A McDonald, CC Minh, L Hammond, ...
+Publication: Science of Computer Programming 63 (2), 111-129
+
+115. Targeting Dynamic Compilation for Embedded Environments.
+Citations:24
+Authors: MK Chen, K Olukotun
+Publication: Java Virtual Machine Research and Technology Symposium, 151-164
+
+116. Feedback-directed barrier optimization in a strongly isolated STM
+Citations:23
+Authors: NG Bronson, C Kozyrakis, K Olukotun
+Publication: ACM SIGPLAN Notices 44 (1), 213-225
+
+117. Method and apparatus for simulation processor
+Citations:23
+Authors: TM Mcwilliams, JB Rubin, MW Parkin, OA Olukotun, DE Pappas, ...
+Publication: US Patent 7,043,596
+
+118. A single chip multiprocessor integrated with DRAM
+Citations:22
+Authors: T Yamauchi, L Hammond, K Olukotun
+Publication: Workshop on Mixing Logic and DRAM, held at the 24th International Symposium …
+
+119. Efficient state representation for symbolic simulation
+Citations:21
+Authors: V Bertacco, K Olukotun
+Publication: Proceedings 2002 Design Automation Conference (IEEE Cat. No. 02CH37324), 99-104
+
+120. Spatial: A language and compiler for application accelerators
+Citations:20
+Authors: D Koeplinger, M Feldman, R Prabhakar, Y Zhang, S Hadjis, R Fiszel, ...
+Publication: ACM Sigplan Notices 53 (4), 296-311
+
+121. High bandwidth on-chip cache design
+Citations:20
+Authors: KM Wilson, K Olukotun
+Publication: IEEE Transactions on Computers 50 (4), 292-307
+
+122. FARM: A prototyping environment for tightly-coupled, heterogeneous architectures
+Citations:19
+Authors: T Oguntebi, S Hong, J Casper, N Bronson, C Kozyrakis, K Olukotun
+Publication: 2010 18th IEEE Annual International Symposium on Field-Programmable Custom …
+
+123. Flare: Native compilation for heterogeneous workloads in Apache Spark
+Citations:18
+Authors: GM Essertel, RY Tahboub, JM Decker, KJ Brown, K Olukotun, T Rompf
+Publication: arXiv preprint arXiv:1703.08219
+
+124. The Identity Management Kalman Filter (IMKF).
+Citations:18
+Authors: B Schumitsch, S Thrun, LJ Guibas, K Olukotun
+Publication: Robotics: science and systems
+
+125. EMEURO: A framework for generating multi-purpose accelerators via deep learning
+Citations:17
+Authors: L McAfee, K Olukotun
+Publication: 2015 IEEE/ACM International Symposium on Code Generation and Optimization …
+
+126. A chip prototyping substrate: the flexible architecture for simulation and testing (FAST)
+Citations:17
+Authors: JD Davis, SE Richardson, C Charitsis, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 33 (4), 34-43
+
+127. Multilevel optimization in the design of a high-performance GaAs microcomputer
+Citations:17
+Authors: OA Olukotun, RB Brown, RJ Lomax, TN Mudge, KA Sakallah
+Publication: IEEE journal of solid-state circuits 26 (5), 763-767
+
+128. Building and using the atlas transactional memory system
+Citations:14
+Authors: N Njoroge, S Wee, J Casper, J Burdick, Y Teslyar, C Kozyrakis, ...
+Publication: Workshop on Architecture Research using FPGA Platforms, 12th International …
+
+129. Old techniques for new join algorithms: A case study in RDF processing
+Citations:13
+Authors: CR Aberger, S Tu, K Olukotun, C Ré
+Publication: 2016 IEEE 32nd International Conference on Data Engineering Workshops (ICDEW …
+
+130. A single chip multiprocessor integrated with high density DRAM
+Citations:13
+Authors: T Yamauchi, L Hammond, OA Olukotun, K Arimoto
+Publication: IEICE TRANSACTIONS ON ELECTRONICS E SERIES C 82, 1567-1577
+
+131. Implementing a cache for a high-performance GaAs microprocessor
+Citations:13
+Authors: OA Olukotun, TN Mudge, RB Brown
+Publication: ACM SIGARCH Computer Architecture News 19 (3), 138-147
+
+132. Algorithms for timing verification and optimal clocking of synchronous digital circuits
+Citations:13
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+133. Flare: Optimizing apache spark with native compilation for scale-up architectures and medium-size data
+Citations:12
+Authors: G Essertel, R Tahboub, J Decker, K Brown, K Olukotun, T Rompf
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+134. EmptyHeaded: boolean algebra based graph processing
+Citations:12
+Authors: CR Aberger, A Nötzli, K Olukotun, C Ré
+Publication: ArXiv e-prints
+
+135. Rapidly mixing Gibbs sampling for a class of factor graphs using hierarchy width
+Citations:12
+Authors: CM De Sa, C Zhang, K Olukotun, C Ré
+Publication: Advances in neural information processing systems, 3097-3105
+
+136. ATLAS: A Scalable Emulator for Transactional Parallel Systems
+Citations:12
+Authors: C Kozyrakis, K Olukotun
+Publication: Workshop on Architecture Research using FPGA Platforms, 11th International …
+
+137. Multilevel optimization of pipelined caches
+Citations:12
+Authors: K Olukotun, TN Mudge, RB Brown
+Publication: IEEE transactions on computers 46 (10), 1093-1102
+
+138. Analysis of dawnbench, a time-to-accuracy machine learning performance benchmark
+Citations:11
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 14-25
+
+139. Making nested parallel transactions practical using lightweight hardware support
+Citations:11
+Authors: W Baek, N Bronson, C Kozyrakis, K Olukotun
+Publication: Proceedings of the 24th ACM International Conference on Supercomputing, 61-71
+
+140. Towards soft optimization techniques for parallel cognitive applications
+Citations:11
+Authors: W Baek, JW Chung, CC Minh, C Kozyrakis, K Olukotun
+Publication: Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …
+
+141. Cache bank interface unit
+Citations:11
+Authors: K Olukotun
+Publication: US Patent App. 10/855,658
+
+142. A flexible architecture for simulation and testing (FAST) multiprocessor systems
+Citations:10
+Authors: JD Davis, L Hammond, K Olukotun
+Publication: Proceedings of the Workshop on Architecture Research using FPGA Platforms …
+
+143. Characterizing adversarial examples based on spatial consistency information for semantic segmentation
+Citations:9
+Authors: C Xiao, R Deng, B Li, F Yu, M Liu, D Song
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 217-234
+
+144. Infrastructure for Usable Machine Learning: The Stanford DAWN Project
+Citations:9
+Authors: P Bailis, K Olukotun, C Ré, M Zaharia
+Publication: arXiv preprint arXiv:1705.07538
+
+145. Are single-chip multiprocessors in reach?
+Citations:9
+Authors: R Bergamaschi, I Bolsens, R Gupta, R Harr, A Jerraya, K Keutzer, ...
+Publication: IEEE Design & Test of Computers 18 (1), 82-89
+
+146. Emulation and prototyping of digital systems
+Citations:9
+Authors: R Helaihel, K Olukotun
+Publication: Hardware/Software co-design, 339-366
+
+147. Mind the gap: bridging multi-domain query workloads with EmptyHeaded
+Citations:8
+Authors: CR Aberger, A Lamb, K Olukotun, C Ré
+Publication: Proceedings of the VLDB Endowment 10 (12), 1849-1852
+
+148. Automatic support for multi-module parallelism from computational patterns
+Citations:8
+Authors: N George, HJ Lee, D Novo, M Owaida, D Andrews, K Olukotun, P Ienne
+Publication: 2015 25th International Conference on Field Programmable Logic and …
+
+149. Transactional coherence and consistency
+Citations:8
+Authors: L Hammond, BD Carlstrom, V Wong, M Chen, C Kozyrakis, K Olukotun
+Publication: In ISCA 31
+
+150. Implementing and evaluating a model checker for transactional memory systems
+Citations:7
+Authors: W Baek, N Bronson, C Kozyrakis, K Olukotun
+Publication: 2010 15th IEEE International Conference on Engineering of Complex Computer …
+
+151. DBT86: A dynamic binary translation research framework for the CMP era
+Citations:7
+Authors: B Hertzberg, K Olukotun
+Publication: PESPMA 2009, 41
+
+152. JMTP: an architecture for exploiting concurrency in embedded Java applications with real-time considerations
+Citations:7
+Authors: R Helaihel, K Olukotun
+Publication: Proceedings of the 1999 IEEE/ACM international conference on Computer-aided …
+
+153. Beyond parallel programming with domain specific languages
+Citations:6
+Authors: K Olukotun
+Publication: ACM SIGPLAN Notices 49 (8), 179-180
+
+154. A case of system-level hardware/software co-design and co-verification of a commodity multi-processor system with custom hardware
+Citations:6
+Authors: S Hong, T Oguntebi, J Casper, N Bronson, C Kozyrakis, K Olukotun
+Publication: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware …
+
+155. Testing memory consistency of shared-memory multiprocessors
+Citations:6
+Authors: C Manovit, OA Olukotun
+Publication: Stanford University
+
+156. Timing Verification and Optimal Clocking of Synchronous Digital Circuits
+Citations:6
+Authors: K Sakallah, TN Mudge, OA Olukotun
+Publication: Proceedings of the International Conference on Computer-Aided Design, 552-555
+
+157. Technical report: On fast parallel detection of strongly connected components (SCC) in small-world graphs
+Citations:5
+Authors: S Hong, NC Rodia, K Olukotun
+Publication: Stanford University, Tech. Rep
+
+158. Optimizing data structures in high-level programs: New directions for extensible compilers based on staging
+Citations:5
+Authors: T Rompf, A Sujeeth, N Amin, K Brown, V Jovanovic, H Lee, ...
+Publication: Proceedings of the 40th Symposium on Principles of Programming Languages …
+
+159. Towards pervasive parallelism
+Citations:5
+Authors: K Olukotun
+Publication: Barcelona Multicore Workshop (BMW2008)
+
+160. An application analysis framework for polymorphic chip multiprocessors
+Citations:5
+Authors: A Thomas, K Olukotun
+Publication: 19th IEEE International Parallel and Distributed Processing Symposium, 10 pp.
+
+161. The Jrpm system for dynamically parallelizing sequential Java programs
+Citations:5
+Authors: MK Chen, K Olukotun
+Publication: IEEE Micro 23 (6), 26-35
+
+162. LevelHeaded: A Unified Engine for Business Intelligence and Linear Algebra Querying
+Citations:4
+Authors: C Aberger, A Lamb, K Olukotun, C Ré
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 449-460
+
+163. Tech Report: Compiling Green-Marl into GPS
+Citations:4
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: Technical report, Stanford University, October 2012. http://ppl. stanford …
+
+164. High performance embedded domain specific languages
+Citations:4
+Authors: K Olukotun
+Publication: ACM SIGPLAN Notices 47 (9), 139-140
+
+165. Hardware/software co-design for high performance computing: Challenges and opportunities
+Citations:4
+Authors: XS Hu, RC Murphy, S Dosanjh, K Olukotun, S Poole
+Publication: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware …
+
+166. Improving software concurrency with hardware-assisted memory snapshot
+Citations:4
+Authors: JW Chung, J Seo, W Baek, C CaoMinh, A McDonald, C Kozyrakis, ...
+Publication: Proceedings of the twentieth annual symposium on Parallelism in algorithms …
+
+167. Ased: availability, security, and debugging support usingtransactional memory
+Citations:4
+Authors: JW Chung, W Baek, NG Bronson, J Seo, C Kozyrakis, K Olukotun
+Publication: Proceedings of the twentieth annual symposium on Parallelism in algorithms …
+
+168. High performance cache architectures to support dynamic superscalar microprocessors
+Citations:4
+Authors: KM Wilson, OA Olukotun
+Publication: Computer Systems Laboratory, Stanford University
+
+169. Automating architectural exploration with a fast simulator
+Citations:4
+Authors: K Olukotun, R Helaihel
+Publication: Notes of the Workshop on Hardware-Software Co-design
+
+170. Technology-organization tradeoffs in the architecture of a high-performance processor.
+Citations:3
+Authors: OA Olukotun
+Publication: 
+
+171. Hierarchical gate-array routing on a hypercube multiprocessor
+Citations:3
+Authors: OA Olukotun, TN Mudge
+Publication: Journal of Parallel and Distributed Computing 8 (4), 313-324
+
+172. Big data analytics with delite
+Citations:2
+Authors: KJ Brown, AK Sujeeth, H Lee, T Rompf, CD Sa, M Odersky, K Olukotun
+Publication: 
+
+173. Project lancet: Surgical precision JIT compilers
+Citations:2
+Authors: T Rompf, AK Sujeethy, KJ Browny, H Lee, H Chazy, K Olukotuny, ...
+Publication: International Conference on Programming Language Design and Implementation …
+
+174. Compiling GreenMarl into GPS
+Citations:2
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: 
+
+175. Lightweight modular staging
+Citations:2
+Authors: T Rompf, M Odersky, A Sujeeth, H Chafi, K Brown, HJ Lee, K Olukotun
+Publication: Proceedings of the Ninth International Conference on Generative Programming …
+
+176. DCP: an algorithm for datapath/control partitioning of synthesizable RTL models
+Citations:2
+Authors: VJ Lam, KA Olukotun
+Publication: Proceedings International Conference on Computer Design. VLSI in Computers …
+
+177. Cache Architectures for a High-Performance GaAs Microprocessor,"
+Citations:2
+Authors: OA Olukotun, TN Mudge, RB Brown
+Publication: Proceedings of the 18th International Symposium on Computer Architecture …
+
+178. The atomoσ transactional programming language
+Citations:2
+Authors: BD Carlstrom, A Mcdonald, H Chafi, J Chung, CC Minh, C Kozyrakis, ...
+Publication: 
+
+179. Taurus: An Intelligent Data Plane
+Citations:1
+Authors: T Swamy, A Rucker, M Shahbaz, N Yadwadkar, Y Zhang, K Olukotun
+Publication: 
+
+180. Practical Design Space Exploration
+Citations:1
+Authors: L Nardi, D Koeplinger, K Olukotun
+Publication: arXiv preprint arXiv:1810.05236
+
+181. Author's retrospective for: improving the performance of speculatively parallel applications on the hydra CMP
+Citations:1
+Authors: K Olukotun, L Hammond, M Willey
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 51-53
+
+182. Utilizing static analysis and code generation to accelerate neural networks
+Citations:1
+Authors: L McAfee, K Olukotun
+Publication: arXiv preprint arXiv:1206.6466
+
+183. Can We Still Keep the Faith?: A debate on the Future of Multi-Core Systems
+Citations:1
+Authors: R Goering, J Gustafson, G Smith, K Olukotun, G Amdahl, PH Madden
+Publication: 2007 ACM/SIGDA Dinner and Open Member Meeting, 3
+
+184. The software stack for transactional memory
+Citations:1
+Authors: BD Carlstrom, JW Chung, CKK Olukotun
+Publication: First Workshop on Tools for Multicore Systems (STMCS)
+
+185. A new approach to programming and prototyping parallel systems
+Citations:1
+Authors: K Olukotun
+Publication: Proceedings of the 12th international conference on High Performance …
+
+186. Smart memories: A configurable processor architecture for high productivity parallel programming
+Citations:1
+Authors: A Solomatnikov, A Firoozshahian, F Labonte, M Horowitz, C Kozyrakis, ...
+Publication: Proceedings of the 30th GOMACTech Conference
+
+187. A Flexible, Efficient Concurrent Garbage Collector for Speculative Thread Processors
+Citations:1
+Authors: M Chen, K Olukotun
+Publication: Stanford University Computer Systems Lab Technical Report CSL-TR-03-K01
+
+188. Designing high bandwidth on-chip caches
+Citations:1
+Authors: K Olukotun, KM Wilson
+Publication: isca, 121
+
+189. Technology-organization Tradeoffs in the Architecture of a High Performance Processor (microprocessor).
+Citations:1
+Authors: OA OLUKOTUN
+Publication: THE UNIVERSITY OF MICHIGAN
+
+190. A New Approach to Speculation in the Hydra Single-Chip Multiprocessor
+Citations:1
+Authors: K Olukotun
+Publication: 
+
+191. Elastic RSS: Co-Scheduling Packets and Cores Using Programmable NICs
+Citations:
+Authors: A Rucker, T Swamy, M Shahbaz, K Olukotun
+Publication: Proceedings of the 3rd Asia-Pacific Workshop on Networking 2019, 71-77
+
+192. Scalable interconnects for reconfigurable spatial architectures
+Citations:
+Authors: Y Zhang, A Rucker, M Vilim, R Prabhakar, W Hwang, K Olukotun
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+193. Efficient Multiway Hash Join on Reconfigurable Hardware
+Citations:
+Authors: K Olukotun, R Prabhakar, R Singhal, JD Ullman, Y Zhang
+Publication: arXiv preprint arXiv:1905.13376
+
+194. Polystore++: Accelerated Polystore System for Heterogeneous Workloads
+Citations:
+Authors: R Singhal, N Zhang, L Nardi, M Shahbaz, K Olukotun
+Publication: arXiv preprint arXiv:1905.10336
+
+195. DeepFreak: Learning Crystallography Diffraction Patterns with Automated Machine Learning
+Citations:
+Authors: A Souza, LB Oliveira, S Hollatz, M Feldman, K Olukotun, JM Holton, ...
+Publication: arXiv preprint arXiv:1904.11834
+
+196. DiffraNet: Automatic Classification of Serial Crystallography Diffraction Patterns
+Citations:
+Authors: A Souza, LB Oliveira, S Hollatz, M Feldman, K Olukotun, JM Holton, ...
+Publication: 
+
+197. Exploring the Utility of Developer Exhaust
+Citations:
+Authors: J Zhang, M Lam, S Wang, P Varma, L Nardi, K Olukotun, C Ré
+Publication: Proceedings of the Second Workshop on Data Management for End-To-End Machine …
+
+198. Plasticine: A Reconfigurable Accelerator for Parallel Patterns
+Citations:
+Authors: R Prabhakar, Y Zhang, D Koeplinger, M Feldman, T Zhao, S Hadjis, ...
+Publication: IEEE Micro 38 (3), 20-31
+
+199. LevelHeaded: Making Worst-Case Optimal Joins Work in the Common Case
+Citations:
+Authors: CR Aberger, A Lamb, K Olukotun, C Ré
+Publication: arXiv preprint arXiv:1708.07859
+
+200. Scaling data analytics with moore's law
+Citations:
+Authors: K Olukotun
+Publication: Proceedings of the 2016 International Conference on Parallel Architectures …
+
+201. Special issue on Computer Architecture and High Performance Computing
+Citations:
+Authors: A Melo, JL Gaudiot, L DeRose, K Olukotun, A Zomaya
+Publication: INTERNATIONAL JOURNAL OF PARALLEL PROGRAMMING 42 (1), 1-3
+
+202. Computer Systems Laboratory Stanford University, CA 94.305
+Citations:
+Authors: R HELAIHEL, K OLUKOTUN
+Publication: Hardware/Software Co-Design 310, 339
+
+203. Multi-core multi-thread processor crossbar architecture
+Citations:
+Authors: KA Olukotun
+Publication: US Patent 8,463,996
+
+204. Introduction to domain specific programming approach for heterogeneous multicore
+Citations:
+Authors: Y Tawara, T Yamauchi, K Olukotun
+Publication: 
+
+205. Panel Statement
+Citations:
+Authors: P Stenstrom, D Burger, W Hwu, V Kumar, K Olukotun, D Padua, B Smith
+Publication: Proceedings of the 2011 IEEE International Parallel & Distributed Processing …
+
+206. IPDPS 2011 Wednesday 25th Year Panel: What's ahead?
+Citations:
+Authors: P Stenström, D Burger, W Hwu, V Kumar, K Olukotun, D Padua, B Smith
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 877-877
+
+207. Panel statement
+Citations:
+Authors: B Smith, K Olukotun, V Kumar, W Hwu, D Padua, D Burger, P Stenström
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 877
+
+208. Hardware Acceleration of Transactional Memory on Commodity Systems
+Citations:
+Authors: JCTOS Hong, NG Bronson, CKK Olukotun
+Publication: 
+
+209. 4 Guest Editor’s Introduction: CPUs, GPUs, and Hybrid Computing David Brooks 7 GPUs and the Future of Parallel Computing
+Citations:
+Authors: SW Keckler, WJ Dally, B Khailany, M Garland, D Glasco, D Rohr, M Bach, ...
+Publication: 
+
+210. Chip multiprocessor architecture: A programmability-driven approach
+Citations:
+Authors: K Olukotun
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+211. Extreme scale computing: Challenges and opportunities
+Citations:
+Authors: J Torrellas, B Gropp, V Sarkar, J Moreno, K Olukotun
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+212. The stanford pervasive parallelism lab
+Citations:
+Authors: C Kozyrakis, K Olukotun
+Publication: 2009 IEEE Hot Chips 21 Symposium (HCS), 1-29
+
+213. 新世代マイクロプロセッサアーキテクチャ (後編): 3. 実例 1. Niagara: 32 ウェイマルチスレッド SPARC プロセッサ
+Citations:
+Authors: 五島正裕
+Publication: 情報処理 46 (11), 1236-1243
+
+214. 1. Niagara: 32 ウェイマルチスレッド SPARC プロセッサ (実例,< 特集> 新世代マイクロプロセッサアーキテクチャ (後編))
+Citations:
+Authors: 坂井修一， 五島正裕
+Publication: 情報処理 46 (11), 1236-1243
+
+215. Hot topic: low power multi-core architectures [Special Session]
+Citations:
+Authors: T Mudge, K Flautner, G Martin, K Olukotun
+Publication: ISLPED'05. Proceedings of the 2005 International Symposium on Low Power …
+
+216. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+217. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+218. Hot Topic: Low Power Multi-core Architectures
+Citations:
+Authors: T Mudge, K Flautner, G Martin, K Olukotun
+Publication: International Symposium on Low Power Electronics and Design: Proceedings of …
+
+219. Digest of Technical Papers, ISSCC'97 Digest of Technical Papers, ISSCC'97, 256-257, 1997
+Citations:
+Authors: T MIYAMORI, K OLUKOTUN
+Publication: IEICE transactions on information and systems 82 (2), 389-397
+
+220. Image and Video Compression Standards Image and Video Compression Standards, 1995
+Citations:
+Authors: T MIYAMORI, K OLUKOTUN, Z LI, K AIZAWA, D HANDOKO, ...
+Publication: IEICE transactions on information and systems 82 (2), 389-397
+
+221. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+222. The Hierarchical Multi-Bank DRAM: A High-Performance Architecture for Memory Integrated with Processors
+Citations:
+Authors: LH Tadaaki Yamauchi, K Olukotun
+Publication: Seventeenth Conference on Advanced Research in VLSI: Proceedings, September …
+
+223. A single-chip multiprocessor.
+Citations:
+Authors: H Muneer, AB Brown, S Ratham, G Slavenburg, BD Theelen, ...
+Publication: Information Technology Journal 5 (1), pp: 319-326
+
+224. The Impact of Shared-Cache Clustering in
+Citations:
+Authors: SSSM Multiprocessors, BA Nayfeh, K Olukotun, JP Singh
+Publication: Proceedings, 74
+
+225. Measuring Process Migration Effects Using an MP Simulator
+Citations:
+Authors: A Ladd, T Mudge, O Olukotun
+Publication: Scalable Shared Memory Multiprocessors, 97-129
+
+226. Analysis and Design of Latch-Controlled
+Citations:
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+227. Interconnecting off-the-shelf microprocessors
+Citations:
+Authors: HB AI-Sadoun, OA OJukotun, TN Mudge
+Publication: afips, 175
+
+228. Efficient Multiway Hash Join on Reconfigurable Hardware
+Citations:
+Authors: R Singhal, Y Zhang, JD Ullman, R Prabhakar, K Olukotun
+Publication: 
+
+229. VERIFICATION AND FAULT TOLERANCE
+Citations:
+Authors: K Olukotun
+Publication: 
+
+230. Serving Recurrent Neural Networks Efficiently with a Spatial Accelerator
+Citations:
+Authors: T Zhao, Y Zhang, K Olukotun
+Publication: 
+
+231. High-Accuracy Low-Precision Training
+Citations:
+Authors: CR Aberger, C De Sa, M Leszczynski, A Marzoev, K Olukotun, C Ré, ...
+Publication: 
+
+232. Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark
+Citations:
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: 
+
+233. Making supercomputing enjoyable: Improving virtualization and compilation efficiency of high-performance domain-specific languages embedded in Scala
+Citations:
+Authors: B Perović, M Odersky, V Jovanović, K Olukotun, KJ Brown
+Publication: 
+
+234. Avoiding Game Over: Bringing Design to the Next Level
+Citations:
+Authors: M HOROWITZ, D ENGLER, PAT HANRAHAN, P LEVIS, S MITRA, ...
+Publication: 
+
+235. Workshop on Advancing Computer Architecture Research (ACAR-II) Laying a New Foundation for IT: Computer Architecture for 2025 and Beyond
+Citations:
+Authors: LE Dwarkadas, B Feiereisen, D Jimenez, M Hill, M Kim, J Larus, ...
+Publication: 
+
+236. Characterizing Data Locality in Parallel Graph Algorithms
+Citations:
+Authors: N Rodia, K Olukotun
+Publication: 
+
+237. The Stanford Hydra Chip Multiprocessor
+Citations:
+Authors: K Olukotun
+Publication: 
+
+238. CEARCH: Cognition Enabled Architecture
+Citations:
+Authors: C Archer, R Chaung, K Goolsbey, M Hall, C Kozyrakis, K Olukotun, ...
+Publication: 
+
+239. Characterizing Parallel Graph Analysis Algorithms on Multicore Systems
+Citations:
+Authors: N Rodia, K Olukotun
+Publication: 
+
+240. On behalf of the Organizing Committee, welcome to the 2015 International Symposium on Code Generation and Optimization held at the San Francisco Airport Marriott Waterfront.
+Citations:
+Authors: A Smith, K Olukotun
+Publication: 
+
+241. A Simulation-Based Study of Graph Algorithm Characteristics
+Citations:
+Authors: N Rodia, K Olukotun
+Publication: 
+
+242. A Data-Centric Parallel Architecture for High Performance Graph Processing
+Citations:
+Authors: T Oguntebi, N Rodia, S Hong, K Olukotun
+Publication: Crossings 27550, 36790
+
+243. A Domain-Specific Approach
+Citations:
+Authors: KJ Brown, AK Sujeeth, HJ Lee, H Chafi, K Olukotun
+Publication: 
+
+244. DELITE: A Domain Specific Approach To Pervasive Heterogeneous Parallelism
+Citations:
+Authors: H Chafi, A Sujeeth, D Makarov, NG Bronson, K Olukotun
+Publication: 
+
+245. Technical Program Committee (cont.)
+Citations:
+Authors: T Inoue, AB Kahng, L Lavagno, S Malik, A Mantooth, T Meng, M Murray, ...
+Publication: 
+
+246. Chairs and Committees
+Citations:
+Authors: JL Baer, S Abraham, S Adve, T Anderson, P Chen, F Dahlgren, P Dubey, ...
+Publication: 
+
+247. HPCA 1997 Chairs and Committees
+Citations:
+Authors: MJ Flynn, LM Ni, DP Agrawal, A Cox, J Duato, J Fortes, G Gao, M Hill, ...
+Publication: 
+
+248. Conference Co-Chairs
+Citations:
+Authors: J Bondi, J Smith, S Adve, T Austin, R Belgard, CP Bose, T Conte, ...
+Publication: 
+
+249. ARVLSI’97 Committees
+Citations:
+Authors: RB Brown, AT Ishii, MC Papaefthymiou, TN Mudge, CS June, B Ackland, ...
+Publication: 
+
+250. INESC/IST
+Citations:
+Authors: S Minato, FN Najm, SR Nassif, M Rencz, C Su, JK Rho, ...
+Publication: 
+
+251. Applications and Algorithms Track-Chair
+Citations:
+Authors: A Zomaya, K Olukotun, L de Rose, R Azevedo, C Badue, MCS Boeres, ...
+Publication: 
+
+252. ICCAD-2007 AWARDS
+Citations:
+Authors: S Zhang, KS Chatha, T Yoshimura, A Iwata, G Amdahl, R Goering, ...
+Publication: 
+
+253. 31st Annual International Symposium on Computer Architecture ISCA 2004
+Citations:
+Authors: T Agerwala, M Taylor, W Lee, J Miller, D Wentzlaff, B Greenwald, ...
+Publication: 
+
+254. SBAC-PAD 2010
+Citations:
+Authors: IBM José Moreira, V Rebello, G Bilardi, N Amato, D Bader, A Coutinho, ...
+Publication: 
+
+255. Columns and Departments
+Citations:
+Authors: PH Wang, JD Collins, H Wang, D Kim, B Greene, KM Chan, AB Yunus, ...
+Publication: 
+
+256. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+257. Local Arrangements Chair: Kshitij Doshi, Intel Corp.
+Citations:
+Authors: M Annavaram, I Bahar, D Brooks, D Burger, B Calder, C Chakrabarti, ...
+Publication: 
+
+258. 5 Guest Editors’ Introduction: Hot Chips 21 Krste Asanovic and Ralph Wittig 7 Power7: IBM’s Next-Generation Server Processor
+Citations:
+Authors: R Kalla, B Sinharoy, WJ Starke, M Floyd, P Conway, ...
+Publication: 
+
+259. Session 1: Multicore Systems
+Citations:
+Authors: J Chen, LK John, H Feng, E Li, Y Chen, Y Zhang, P Apparao, R Iyer, ...
+Publication: 
+
+260. SBAC-PAD 2010
+Citations:
+Authors: G Almasi, J Almeida, N Amato, C Amorim, G Araujo, D Bader, P Balaji, ...
+Publication: 
+

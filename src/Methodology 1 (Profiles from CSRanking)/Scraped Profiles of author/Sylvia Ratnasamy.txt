@@ -1,0 +1,673 @@
+https://scholar.google.com/citations?hl=en&user=sAdDcvQAAAAJ
+Total Citations = 34823
+
+1. A scalable content-addressable network
+Citations:9933
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 161-172
+
+2. The Byzantine generals problem
+Citations:5813
+Authors: L Lamport, R Shostak, M Pease
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 4 (3), 382-401
+
+3. Making gnutella-like p2p systems scalable
+Citations:1428
+Authors: Y Chawathe, S Ratnasamy, L Breslau, N Lanham, S Shenker
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+4. GHT: a geographic hash table for data-centric storage
+Citations:1139
+Authors: S Ratnasamy, B Karp, L Yin, F Yu, D Estrin, R Govindan, S Shenker
+Publication: Proceedings of the 1st ACM international workshop on Wireless sensor …
+
+5. Topologically-aware overlay construction and server selection
+Citations:1110
+Authors: S Ratnasamy, M Handley, R Karp, S Shenker
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+6. Geographic routing without location information
+Citations:1003
+Authors: A Rao, S Ratnasamy, C Papadimitriou, S Shenker, I Stoica
+Publication: Proceedings of the 9th annual international conference on Mobile computing …
+
+7. Application-level multicast using content-addressable networks
+Citations:859
+Authors: S Ratnasamy, M Handley, R Karp, S Shenker
+Publication: International Workshop on Networked Group Communication, 14-29
+
+8. Reducing Network Energy Consumption via Sleeping and Rate-Adaptation.
+Citations:812
+Authors: S Nedevschi, L Popa, G Iannaccone, S Ratnasamy, D Wetherall
+Publication: NsDI 8, 323-336
+
+9. Reducing Network Energy Consumption via Sleeping and Rate-Adaptation.
+Citations:812
+Authors: S Nedevschi, L Popa, G Iannaccone, S Ratnasamy, D Wetherall
+Publication: NsDI 8, 323-336
+
+10. The impact of DHT routing geometry on resilience and proximity
+Citations:781
+Authors: K Gummadi, R Gummadi, S Gribble, S Ratnasamy, S Shenker, I Stoica
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+11. Making middleboxes someone else's problem: network processing as a cloud service
+Citations:726
+Authors: J Sherry, S Hasan, C Scott, A Krishnamurthy, S Ratnasamy, V Sekar
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 13-24
+
+12. Data-centric storage in sensornets with GHT, a geographic hash table
+Citations:709
+Authors: S Ratnasamy, B Karp, S Shenker, D Estrin, R Govindan, L Yin, F Yu
+Publication: Mobile networks and applications 8 (4), 427-442
+
+13. RouteBricks: exploiting parallelism to scale software routers
+Citations:696
+Authors: M Dobrescu, N Egi, K Argyraki, BG Chun, K Fall, G Iannaccone, A Knies, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+14. OpenDHT: a public DHT service and its uses
+Citations:655
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+15. Routing algorithms for DHTs: Some open questions
+Citations:489
+Authors: S Ratnasamy, I Stoica, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 45-52
+
+16. Design and implementation of a consolidated middlebox architecture
+Citations:467
+Authors: V Sekar, N Egi, S Ratnasamy, MK Reiter, G Shi
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+17. Data-centric storage in sensornets
+Citations:464
+Authors: S Shenker, S Ratnasamy, B Karp, R Govindan, D Estrin
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 137-142
+
+18. FairCloud: sharing the network in cloud computing
+Citations:445
+Authors: L Popa, G Kumar, M Chowdhury, A Krishnamurthy, S Ratnasamy, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 187-198
+
+19. Beacon vector routing: Scalable point-to-point routing in wireless sensornets
+Citations:443
+Authors: R Fonseca, S Ratnasamy, J Zhao, CT Ee, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 2nd Conference on Symposium on Networked Systems Design …
+
+20. A layered naming architecture for the internet
+Citations:413
+Authors: H Balakrishnan, K Lakshminarayanan, S Ratnasamy, S Shenker, I Stoica, ...
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 343-352
+
+21. Can heterogeneity make gnutella scalable?
+Citations:321
+Authors: Q Lv, S Ratnasamy, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 94-103
+
+22. DIFS: A distributed index for features in sensor networks
+Citations:309
+Authors: B Greenstein, S Ratnasamy, S Shenker, R Govindan, D Estrin
+Publication: Ad Hoc Networks 1 (2-3), 333-349
+
+23. Making sense of performance in data analytics frameworks
+Citations:307
+Authors: K Ousterhout, R Rasti, S Ratnasamy, S Shenker, BG Chun
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+24. Inference of multicast routing trees and bottleneck bandwidths using end-to-end measurements
+Citations:293
+Authors: S Ratnasamy, S McCanne
+Publication: IEEE INFOCOM'99. Conference on Computer Communications. Proceedings …
+
+25. A case study in building layered DHT applications
+Citations:221
+Authors: Y Chawathe, S Ramabhadran, S Ratnasamy, A LaMarca, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 97-108
+
+26. E2: a framework for NFV applications
+Citations:200
+Authors: S Palkar, C Lan, S Han, K Jang, A Panda, S Ratnasamy, L Rizzo, ...
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 121-136
+
+27. Revisiting IP multicast
+Citations:192
+Authors: S Ratnasamy, A Ermolinskiy, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 15-26
+
+28. Blindbox: Deep packet inspection over encrypted traffic
+Citations:188
+Authors: J Sherry, C Lan, RA Popa, S Ratnasamy
+Publication: ACM SIGCOMM Computer communication review 45 (4), 213-226
+
+29. Software-defined internet architecture: decoupling architecture from infrastructure
+Citations:184
+Authors: B Raghavan, M Casado, T Koponen, S Ratnasamy, A Ghodsi, S Shenker
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 43-48
+
+30. Skilled in the Art of Being Idle: Reducing Energy Waste in Networked Systems.
+Citations:173
+Authors: S Nedevschi, J Chandrashekar, J Liu, B Nordman, S Ratnasamy, N Taft
+Publication: NSDI 9, 381-394
+
+31. Low latency via redundancy
+Citations:169
+Authors: A Vulimiri, PB Godfrey, R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+32. Coping with irregular spatio-temporal sampling in sensor networks
+Citations:166
+Authors: D Ganesan, S Ratnasamy, H Wang, D Estrin
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 125-130
+
+33. A cost comparison of datacenter network architectures
+Citations:161
+Authors: L Popa, S Ratnasamy, G Iannaccone, A Krishnamurthy, I Stoica
+Publication: Proceedings of the 6th International COnference, 16
+
+34. Brief announcement: prefix hash tree
+Citations:154
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: PODC 4, 368-368
+
+35. Data-centric storage in sensornets
+Citations:150
+Authors: S Ratnasamy, D Estrin, R Govindan, B Karp, S Shenker, L Yin, F Yu
+Publication: Submitted to SIGCOMM
+
+36. NetBricks: Taking the V out of {NFV}
+Citations:136
+Authors: A Panda, S Han, K Jang, M Walls, S Ratnasamy, S Shenker
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+37. MegaPipe: a new programming interface for scalable network I/O
+Citations:133
+Authors: S Han, S Marshall, BG Chun, S Ratnasamy
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+38. The middlebox manifesto: enabling innovation in middlebox deployment
+Citations:133
+Authors: V Sekar, S Ratnasamy, MK Reiter, N Egi, G Shi
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 21
+
+39. Off by default!
+Citations:123
+Authors: H Ballani, Y Chawathe, S Ratnasamy, T Roscoe, S Shenker
+Publication: 
+
+40. Prefix hash tree: An indexing data structure over distributed hash tables
+Citations:122
+Authors: S Ramabhadran, S Ratnasamy, JM Hellerstein, S Shenker
+Publication: Proceedings of the 23rd ACM symposium on principles of distributed computing 37
+
+41. Network support for resource disaggregation in next-generation datacenters
+Citations:114
+Authors: S Han, N Egi, A Panda, S Ratnasamy, G Shi, S Shenker
+Publication: Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 10
+
+42. Spurring adoption of DHTs with OpenHash, a public DHT service
+Citations:109
+Authors: B Karp, S Ratnasamy, S Rhea, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 195-205
+
+43. Towards an evolvable Internet architecture
+Citations:108
+Authors: S Ratnasamy, S Shenker, S McCanne
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 313-324
+
+44. Rollback-recovery for middleboxes
+Citations:102
+Authors: J Sherry, PX Gao, S Basu, A Panda, A Krishnamurthy, C Maciocco, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 227-240
+
+45. SoftNIC: A software NIC to augment hardware
+Citations:102
+Authors: S Han, K Jang, A Panda, S Palkar, D Han, S Ratnasamy
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+46. Network requirements for resource disaggregation
+Citations:96
+Authors: PX Gao, A Narayan, S Karandikar, J Carreira, S Han, R Agarwal, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+47. CloudPolice: taking access control out of the network
+Citations:96
+Authors: L Popa, M Yu, SY Ko, S Ratnasamy, I Stoica
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 7
+
+48. Can software routers scale?
+Citations:95
+Authors: K Argyraki, S Baset, BG Chun, K Fall, G Iannaccone, A Knies, E Kohler, ...
+Publication: Proceedings of the ACM SIGCOMM Workshop on Programmable Routers for …
+
+49. Building Extensible Networks with Rule-Based Forwarding.
+Citations:94
+Authors: L Popa, N Egi, S Ratnasamy, I Stoica
+Publication: OSDI, 379-392
+
+50. Toward predictable performance in software packet-processing platforms
+Citations:93
+Authors: M Dobrescu, K Argyraki, S Ratnasamy
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+51. Not-a-Bot: Improving Service Availability in the Face of Botnet Attacks.
+Citations:92
+Authors: R Gummadi, H Balakrishnan, P Maniatis, S Ratnasamy
+Publication: NSDI 9, 307-320
+
+52. A wakeup call for internet monitoring systems: The case for distributed triggers
+Citations:86
+Authors: A Jain, JM Hellerstein, S Ratnasamy, D Wetherall
+Publication: Proceedings of HotNets-III, 1-6
+
+53. The case for tiny tasks in compute clusters
+Citations:80
+Authors: K Ousterhout, A Panda, J Rosen, S Venkataraman, R Xin, S Ratnasamy, ...
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+54. A survey of enterprise middlebox deployments
+Citations:76
+Authors: J Sherry, S Ratnasamy, JS At
+Publication: 
+
+55. Range queries over DHTs
+Citations:70
+Authors: S Ratnasamy, JM Hellerstein, S Shenker
+Publication: 
+
+56. A measurement-based deployment proposal for IP anycast
+Citations:69
+Authors: H Ballani, P Francis, S Ratnasamy
+Publication: Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, 231-244
+
+57. phost: Distributed near-optimal datacenter transport over commodity network fabric
+Citations:68
+Authors: PX Gao, A Narayan, G Kumar, R Agarwal, S Ratnasamy, S Shenker
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+58. Scalable routing on flat names
+Citations:68
+Authors: A Singla, P Godfrey, K Fall, G Iannaccone, S Ratnasamy
+Publication: Proceedings of the 6th International COnference, 20
+
+59. Practical Data-Centric Storage.
+Citations:63
+Authors: CT Ee, S Ratnasamy, S Shenker
+Publication: NSDI 6, 325-338
+
+60. Embark: Securely outsourcing middleboxes to the cloud
+Citations:61
+Authors: C Lan, J Sherry, RA Popa, S Ratnasamy, Z Liu
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+61. An adaptive, high performance mac for long-distance multihop wireless networks
+Citations:56
+Authors: S Nedevschi, RK Patra, S Surana, S Ratnasamy, L Subramanian, ...
+Publication: Proceedings of the 14th ACM international conference on Mobile computing and …
+
+62. Hot Data Centers vs. Cool Peers.
+Citations:50
+Authors: S Nedevschi, S Ratnasamy, J Padhye, I Reserch
+Publication: HotPower
+
+63. Building a power-proportional software router
+Citations:47
+Authors: L Niccolini, G Iannaccone, S Ratnasamy, J Chandrashekar, L Rizzo
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+64. Universal packet scheduling
+Citations:44
+Authors: R Mittal, R Agarwal, S Ratnasamy, S Shenker
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+65. Scaling end-to-end multicast transports with a topologically-sensitive group formation protocol
+Citations:43
+Authors: S Ratnasamy, S McCanne
+Publication: Proceedings. Seventh International Conference on Network Protocols, 79-88
+
+66. Routing tables: Is smaller really much better?
+Citations:41
+Authors: KR Fall, B Godfrey, G Iannaccone, S Ratnasamy
+Publication: HotNets
+
+67. Recursively cautious congestion control
+Citations:34
+Authors: R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+68. A high performance packet core for next generation cellular networks
+Citations:33
+Authors: ZA Qazi, M Walls, A Panda, V Sekar, S Ratnasamy, S Shenker
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+69. Not-a-bot (nab): Improving service availability in the face of botnet attacks
+Citations:32
+Authors: R Gummadi, H Balakrishnan, P Maniatis, S Ratnasamy
+Publication: USENIX Association
+
+70. Elastic scaling of stateful network functions
+Citations:30
+Authors: S Woo, J Sherry, S Han, S Moon, S Ratnasamy, S Shenker
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+71. Controlling parallelism in a multicore software router
+Citations:30
+Authors: M Dobrescu, K Argyraki, G Iannaccone, M Manesh, S Ratnasamy
+Publication: Proceedings of the Workshop on Programmable Routers for Extensible Services …
+
+72. Beacon vector routing: Scalable point-to-point in wireless sensornets
+Citations:29
+Authors: R Fonseca, S Ratnasamy, D Culler, S Shenker, I Stoica
+Publication: Intel Research, IRB-TR-04 12, 2-15
+
+73. Scalable cluster router
+Citations:27
+Authors: G Iannaccone, S Ratnasamy, M Manesh, K Argyraki, BG Chun, K Fall, ...
+Publication: US Patent 8,904,028
+
+74. Monotasks: Architecting for performance clarity in data analytics frameworks
+Citations:25
+Authors: K Ousterhout, C Canel, S Ratnasamy, S Shenker
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 184-200
+
+75. Routebricks: enabling general purpose network infrastructure
+Citations:24
+Authors: K Fall, G Iannaccone, M Manesh, S Ratnasamy, K Argyraki, M Dobrescu, ...
+Publication: ACM SIGOPS Operating Systems Review 45 (1), 112-125
+
+76. Resq: Enabling slos in network function virtualization
+Citations:23
+Authors: A Tootoonchian, A Panda, C Lan, M Walls, K Argyraki, S Ratnasamy, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+77. Safebricks: Shielding network functions in the cloud
+Citations:21
+Authors: R Poddar, C Lan, RA Popa, S Ratnasamy
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+78. Improved forwarding architecture and resource management for multi-core software routers
+Citations:21
+Authors: N Egi, A Greenhalgh, M Handley, G Iannaccone, M Manesh, L Mathy, ...
+Publication: 2009 Sixth IFIP International Conference on Network and Parallel Computing …
+
+79. Load balanced and efficient hierarchical data-centric storage in sensor networks
+Citations:19
+Authors: Y Zhao, Y Chen, S Ratnasamy
+Publication: 2008 5th Annual IEEE Communications Society Conference on Sensor, Mesh and …
+
+80. Database breakpoint apparatus and method
+Citations:19
+Authors: EL Barsness, MB Brutman, RD Dettinger, M Majd, BE Olson, ...
+Publication: US Patent 7,363,617
+
+81. Revisiting network support for rdma
+Citations:18
+Authors: R Mittal, A Shpiner, A Panda, E Zahavi, A Krishnamurthy, S Ratnasamy, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+82. NetComplex: A Complexity Metric for Networked System Designs.
+Citations:16
+Authors: BG Chun, S Ratnasamy, E Kohler
+Publication: NSDI 8, 393-406
+
+83. NetComplex: A Complexity Metric for Networked System Designs.
+Citations:16
+Authors: BG Chun, S Ratnasamy, E Kohler
+Publication: NSDI 8, 393-406
+
+84. Awstream: Adaptive wide-area streaming analytics
+Citations:13
+Authors: B Zhang, X Jin, S Ratnasamy, J Wawrzynek, EA Lee
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+85. Improved parallelism and scheduling in multi-core software routers
+Citations:13
+Authors: N Egi, G Iannaccone, M Manesh, L Mathy, S Ratnasamy
+Publication: The Journal of Supercomputing 63 (1), 294-322
+
+86. A case for performance-centric network allocation
+Citations:13
+Authors: G Kumar, M Chowdhury, S Ratnasamy, I Stoica
+Publication: Presented as part of the
+
+87. Hold'em or fold'em?: aggregation queries under performance variations
+Citations:11
+Authors: G Kumar, G Ananthanarayanan, S Ratnasamy, I Stoica
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 7
+
+88. Performance clarity as a first-class design principle
+Citations:9
+Authors: K Ousterhout, C Canel, M Wolffe, S Ratnasamy, S Shenker
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 1-6
+
+89. Rule-based Forwarding (RBF): Improving Internet's flexibility and security.
+Citations:9
+Authors: L Popa, I Stoica, S Ratnasamy
+Publication: HotNets
+
+90. Capturing complexity in networked systems design: The case for improved metrics
+Citations:9
+Authors: S Ratnasamy
+Publication: IRVINE IS BURNING, 91
+
+91. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+92. Open network interfaces for carrier networks
+Citations:8
+Authors: A Panda, JM McCauley, A Tootoonchian, J Sherry, T Koponen, ...
+Publication: ACM SIGCOMM Computer Communication Review 46 (1), 5-11
+
+93. Understanding the packet processing capabilities of multi-core servers
+Citations:8
+Authors: N Egi, M Dobrescu, J Du, K Argyraki, BG Chun, K Fall, G Iannaccone, ...
+Publication: Technical Report LABOS-REPORT-2009-001, EPFL, Switzerland
+
+94. Understanding the packet forwarding capability of general-purpose processors
+Citations:8
+Authors: K Argyraki, K Fall, G Iannaccone, A Knies, M Manesh, S Ratnasamy
+Publication: Intel Res., Berkeley, CA, USA, Tech. Rep. IRB-TR-08-44
+
+95. How to improve your network performance by asking your provider for worse service
+Citations:7
+Authors: R Mittal, J Sherry, S Ratnasamy, S Shenker
+Publication: Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 25
+
+96. Netcalls: End host function calls to network traffic processing services
+Citations:7
+Authors: J Sherry, DC Kim, SS Mahalingam, A Tang, S Wang, S Ratnasamy
+Publication: Technical Report EECS-2012-175, UCB
+
+97. Understanding the packet processing capability of multi-core servers
+Citations:7
+Authors: N Egi, M Dobrescu, J Du, K Argyraki, BG Chun, K Fall, G Iannaccone, ...
+Publication: Technical report, Intel Technical Report
+
+98. Open carrier interface: An open source edge computing framework
+Citations:6
+Authors: M Körner, TM Runge, A Panda, S Ratnasamy, S Shenker
+Publication: Proceedings of the 2018 Workshop on Networking for Emerging Applications and …
+
+99. Evaluating the suitability of server network cards for software routers
+Citations:5
+Authors: M Manesh, K Argyraki, M Dobrescu, N Egi, K Fall, G Iannaccone, E Kohler, ...
+Publication: Proceedings of the Workshop on Programmable Routers for Extensible Services …
+
+100. Droplet: Decentralized authorization for IoT data streams
+Citations:4
+Authors: H Shafagh, L Burkhalter, S Duquennoy, A Hithnawi, S Ratnasamy
+Publication: arXiv preprint arXiv:1806.02057
+
+101. Net2Text: Query-guided summarization of network forwarding behaviors
+Citations:4
+Authors: R Birkner, D Drachsler-Cohen, L Vanbever, M Vechev
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+102. The deforestation of l2
+Citations:4
+Authors: J McCauley, M Zhao, EJ Jackson, B Raghavan, S Ratnasamy, S Shenker
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 497-510
+
+103. Taking an axe to l2 spanning trees
+Citations:4
+Authors: J McCauley, A Sheng, EJ Jackson, B Raghavan, S Ratnasamy, ...
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 15
+
+104. Evaluating Software Switches: Hard or Hopeless?
+Citations:3
+Authors: V Fang, T Lvai, S Han, S Ratnasamy, B Raghavan, J Sherry
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+105. Large-scale computation not at the cost of expressiveness
+Citations:3
+Authors: S Han, S Ratnasamy
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+106. CAN: Content Addressable Network
+Citations:3
+Authors: S Ratnasamy, P Francis, M Handley, R Karp, S Shenker
+Publication: 
+
+107. A trace-based study of domain name system (DNS). implementation issues, usage patterns, and performance
+Citations:3
+Authors: S Ratnasamy, JM Gonzalez
+Publication: May
+
+108. A complexity metric for networked system designs
+Citations:2
+Authors: BG Chun, S Ratnasamy, E Kohler
+Publication: Proceedings of USENIX Networked Systems Design and Implementation (NSDI)
+
+109. An Experiment in Deploying Next Generation Network Protocols
+Citations:2
+Authors: H Ballani, A Ermolinskiy, S Ratnasamy, P Francis
+Publication: Cornell University
+
+110. TimeCrypt: A Scalable Private Time Series Data Store
+Citations:1
+Authors: L Burkhalter, H Shafagh, A Hithnawi, S Ratnasamy
+Publication: arXiv preprint arXiv:1811.03457
+
+111. Datacenter congestion control: Identifying what is essential and making it practical
+Citations:1
+Authors: A Mushtaq, R Mittal, J McCauley, M Alizadeh, S Ratnasamy, S Shenker
+Publication: 
+
+112. A scalable, efficient Content-Adressable Network
+Citations:1
+Authors: S Ratnasamy, QE Proposal
+Publication: Qualifying exam proposal, University of California, Berkeley
+
+113. Scaling Multicast Transports Through End-to-end Topology Discovery
+Citations:1
+Authors: S Ratnasamy
+Publication: UNIVERSITY of CALIFORNIA at BERKELEY
+
+114. A framework for the automated discovery of predictors through genetic programming and its application to branch and data value prediction
+Citations:1
+Authors: JM González, S Ratnasamy
+Publication: CS252 Project Final Report, UC Berkeley
+
+115. Universal scaling controller for software network functions
+Citations:
+Authors: D Naylor, D Di Proietto, M Mussomele, K Fall, S Ratnasamy, C Torek
+Publication: US Patent App. 16/039,267
+
+116. Modular system framework for software network function automation
+Citations:
+Authors: D Di Proietto, A Panda, M Walls, N Sun, B Raghavan, S Ratnasamy
+Publication: US Patent App. 16/102,375
+
+117. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+118. Distributed anticipatory bidirectional packet steering for software network functions
+Citations:
+Authors: D Di Proietto, B Raghavan, S Ratnasamy, J Sherry, M Walls
+Publication: US Patent App. 15/972,015
+
+119. a byte of ICSI
+Citations:
+Authors: S Ratnasamy, WACM Grace, M Hopper
+Publication: 
+
+120. HW Databases, Where art Thou?
+Citations:
+Authors: S Han, A Panda, S Ratnasamy
+Publication: 
+
+121. Justine Sherry
+Citations:
+Authors: S Ratnasamy
+Publication: 
+
+122. Design and Implementation of a Cluster-based Software Router
+Citations:
+Authors: N Egi, M Dobrescu, K Argyraki, BG Chun, K Fall, G Iannaccone, A Knies, ...
+Publication: 
+
+123. OpenDHT
+Citations:
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+124. Dept. of Electrical Eng. & Comp. Sci. 2 ACIRI University of California, Berkeley AT&T Center for Internet Research at ICSI Berkeley, CA, USA Berkeley, CA, USA
+Citations:
+Authors: AS Content, A Network, S Ratnasamy, P Francis, M Handley, R Karp, ...
+Publication: 
+
+125. ee228 Project Proposal
+Citations:
+Authors: S Ratnasamy
+Publication: 
+
+126. Inference of Multicast Routing Trees and Bottleneck Bandwidths using
+Citations:
+Authors: S Ratnasamy, S McCanne
+Publication: University of California at Berkeley
+
+127. Distance Vector Routing
+Citations:
+Authors: S Ratnasamy
+Publication: 
+
+128. Reducing network energy consumption via sleeping and rate-adaptation
+Citations:
+Authors: S Ratnasamy, S Nedevschi, L Popa, G Iannaccone, D Wetherall
+Publication: 
+
+129. Monotasks
+Citations:
+Authors: K Ousterhout, C Canel, S Ratnasamy, S Shenker
+Publication: 
+
+130. Load balanced and Efficient Hierarchical Data-Centric Storage in Sensor Networks
+Citations:
+Authors: S Ratnasamy
+Publication: 
+
+131. PlanetLab: a foundation on which the next Internet can emerge
+Citations:
+Authors: D Culler, T Roscoe, B Chun, S Ratnasamy
+Publication: 
+
+132. Symposium Organizers
+Citations:
+Authors: T Anderson, M Baker, H Balakrishnan, E Brewer, S Gribble, S McCanne, ...
+Publication: 
+
+133. Addressing in Sensor Networks
+Citations:
+Authors: S Ratnasamy
+Publication: 
+
+134. The Impact of DHT Routing Geometry on Resilience and Proximity
+Citations:
+Authors: S Ratnasamy, S Shenker
+Publication: 
+

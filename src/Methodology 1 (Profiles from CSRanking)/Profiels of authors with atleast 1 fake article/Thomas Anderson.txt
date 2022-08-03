@@ -1,0 +1,145 @@
+
+16. In VINI veritas: realistic and controlled network experimentation
+Citations:758
+Authors: A Bavier, N Feamster, M Huang, L Peterson, J Rexford
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 3-14
+
+42. Moving beyond end-to-end path information to optimize CDN performance
+Citations:251
+Authors: R Krishnan, HV Madhyastha, S Srinivasan, S Jain, A Krishnamurthy, ...
+Publication: Proceedings of the 9th ACM SIGCOMM conference on Internet measurement, 190-201
+
+58. Reverse traceroute.
+Citations:173
+Authors: E Katz-Bassett, HV Madhyastha, VK Adhikari, C Scott, J Sherry, ...
+Publication: NSDI 10, 219-234
+
+64. Studying Black Holes in the Internet with Hubble.
+Citations:160
+Authors: E Katz-Bassett, HV Madhyastha, JP John, A Krishnamurthy, D Wetherall, ...
+Publication: NSDI 8, 247-262
+
+67. Verdi: a framework for implementing and formally verifying distributed systems
+Citations:151
+Authors: JR Wilcox, D Woos, P Panchekha, Z Tatlock, X Wang, MD Ernst, ...
+Publication: ACM SIGPLAN Notices 50 (6), 357-368
+
+70. The energy efficiency of IRAM architectures
+Citations:144
+Authors: R Fromm, S Perissakis, N Cardwell, C Kozyrakis, B McGaughy, ...
+Publication: Computer Architecture, 1997. Conference Proceedings. The 24th Annual …
+
+72. Computer science handbook
+Citations:138
+Authors: AB Tucker
+Publication: CRC press
+
+75. Programming for pervasive computing environments
+Citations:127
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Technical Report UW-CSE-01-06-01, University of Washington Department of …
+
+85. Systems directions for pervasive computing
+Citations:104
+Authors: R Grimm, J Davis, B Hendrickson, E Lemar, A MacBeth, S Swanson, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 147-151
+
+86. LogP quantified: The case for low-overhead local area networks
+Citations:103
+Authors: KK Keeton
+Publication: Proc. Symp. on High Performance Interconnects, Aug., 1995
+
+90. LIFEGUARD: Practical repair of persistent route failures
+Citations:85
+Authors: E Katz-Bassett, C Scott, DR Choffnes, Í Cunha, V Valancius, N Feamster, ...
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+107. Retaining sandbox containment despite bugs in privileged memory-safe code
+Citations:54
+Authors: J Cappos, A Dadgar, J Rasley, J Samuel, I Beschastnikh, C Barsan, ...
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+125. The digital studyhall
+Citations:31
+Authors: R Wang, U Sahni, S Sobti, N Garg, JP Singh, M Kam, A Krishnamurthy, ...
+Publication: Computer Science Department, Princeton University, Tech. Rep. TR-723-05
+
+127. Aster* x: Load-balancing web traffic over wide-area networks
+Citations:29
+Authors: N Handigol, S Seetharaman, M Flajslik, A Gember, N McKeown, ...
+Publication: Proceedings of GENI Engineering Conf 9
+
+151. Radiatus: a Shared-Nothing Server-Side Web Architecture
+Citations:13
+Authors: R Cheng, W Scott, P Ellenbogen, J Howell, F Roesner, A Krishnamurthy, ...
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 237-250
+
+160. System-level programming abstractions for ubiquitous computing
+Citations:11
+Authors: R Grimm, J Davis, E Lemar, A MacBeth, S Swanson, S Gribble, ...
+Publication: Proc. of the 8th HotOS
+
+161. Operating systems
+Citations:11
+Authors: RA Finkel
+Publication: ACM Computing Surveys (CSUR) 28 (1), 201-203
+
+173. Deepview: Virtual disk failure diagnosis and pattern detection for azure
+Citations:6
+Authors: Q Zhang, G Yu, C Guo, Y Dang, N Swanson, X Yang, R Yao, ...
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+174. {RAIL}: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks
+Citations:6
+Authors: D Zhuo, M Ghobadi, R Mahajan, A Phanishayee, XK Zou, H Guan, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+187. TAS: TCP Acceleration as an OS Service
+Citations:3
+Authors: A Kaufmann, T Stamler, S Peter, NK Sharma, A Krishnamurthy, ...
+Publication: Proceedings of the Fourteenth EuroSys Conference 2019, 24
+
+206. Inferring networked system models from behavior traces
+Citations:1
+Authors: I Beschastnikh
+Publication: Proceedings of the 2012 ACM conference on CoNEXT student workshop, 13-14
+
+222. Volur: Concurrent Edge/Core Route Control in Data Center Networks
+Citations:
+Authors: Q Zhang, D Zhuo, V Liu, P Lapukhov, S Peter, A Krishnamurthy, ...
+Publication: arXiv preprint arXiv:1804.06945
+
+223. Efficient, Secure, and Flexible High Speed Packet Processing for Data Centers
+Citations:
+Authors: A Kaufmann
+Publication: 
+
+224. Censorship Resistant Web Applications
+Citations:
+Authors: W Scott
+Publication: 
+
+225. Efficient Security and Privacy Enhancing Solutions in Untrusted Environments
+Citations:
+Authors: S Han
+Publication: 
+
+227. Kademlia: A peer-to-peer information system based on the XOR metric.
+Citations:
+Authors: L Ye, H Zhang, Q Dai, X Jiang, S Jiang, T Peng, T Peng, Q Zheng, ...
+Publication: Information Technology Journal 10 (3), 1084-1093
+
+229. Intrusion detection and monitoring for wireless networks.
+Citations:
+Authors: ED Thomas, JA Van Randwyk, EJ Lee, A Stephano, P Tabriz, K Pelon, ...
+Publication: Sandia National Laboratories
+
+233. Center track: An IP overlay network for tracking dos floods.
+Citations:
+Authors: VM Bhaskaran, AM Natarajan, SN Sivanandam, SM Bellovin, CC Center, ...
+Publication: Information Technology Journal 6 (2), pp: 159-165
+
+256. Internet Measurements with Prespecified Timestamps
+Citations:
+Authors: J Sherry, M Pimenova, E Katz-Bassett, HV Madhyastha, A Krishnamurthy, ...
+Publication: 

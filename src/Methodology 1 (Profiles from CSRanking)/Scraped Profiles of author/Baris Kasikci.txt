@@ -1,0 +1,158 @@
+https://scholar.google.com/citations?hl=en&user=y5J0h7gAAAAJ
+Total Citations = 606
+
+1. Foreshadow: Extracting the keys to the intel SGX kingdom with transient out-of-order execution
+Citations:174
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 991–1008
+
+2. Data Races vs. Data Race Bugs: Telling the Difference with Portend
+Citations:104
+Authors: B Kasikci, C Zamfir, G Candea
+Publication: [ASPLOS] International Conference Architectural Support for Programming …
+
+3. RaceMob: Crowdsourced data race detection
+Citations:75
+Authors: B Kasikci, C Zamfir, G Candea
+Publication: [SOSP] ACM Symposium on Operating Systems Principles, 406-422
+
+4. Droidsieve: Fast and accurate classification of obfuscated android malware
+Citations:65
+Authors: G Suarez-Tangil, SK Dash, M Ahmadi, J Kinder, G Giacinto, L Cavallaro
+Publication: Proceedings of the Seventh ACM on Conference on Data and Application …
+
+5. Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures
+Citations:47
+Authors: B Kasikci, B Schubert, C Pereira, G Pokam, G Candea
+Publication: [SOSP] ACM Symposium on Operating Systems Principles
+
+6. Foreshadow-NG: Breaking the virtual memory abstraction with transient out-of-order execution
+Citations:40
+Authors: O Weisse, J Van Bulck, M Minkin, D Genkin, B Kasikci, F Piessens, ...
+Publication: 
+
+7. Efficient Tracing of Cold Code via Bias-Free Sampling
+Citations:18
+Authors: B Kasikci, T Ball, G Candea, J Erickson, M Musuvathi
+Publication: [USENIX ATC] 2014 USENIX Annual Technical Conference
+
+8. Automated Classification of Data Races Under Both Strong and Weak Memory Models
+Citations:16
+Authors: B Kasikci, C Zamfir, G Candea
+Publication: [TOPLAS] ACM Transactions on Programming Languages and Systems 37 (3), 8
+
+9. Automated debugging for arbitrarily long executions
+Citations:14
+Authors: C Zamfir, BCC Kasikci, J Kinder, E Bugnion, G Candea
+Publication: [HotOS] Workshop on Hot Topics in Operating Systems
+
+10. Lockout: Efficient Testing for Deadlock Bugs
+Citations:13
+Authors: A Kheradmand, B Kasikci, G Candea
+Publication: [WODET] Workshop on Determinism and Correctness in Parallel Programming
+
+11. Cntr: Lightweight {OS} Containers
+Citations:10
+Authors: J Thalheim, P Bhatotia, P Fonseca, B Kasikci
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 199-212
+
+12. Scalable modeling of software product line variability
+Citations:8
+Authors: B Kasikci, S Bilgen
+Publication: [SCALE], Workshop on Scalable Modeling Techniques for Software Product Lines …
+
+13. Lazy diagnosis of in-production concurrency bugs
+Citations:5
+Authors: B Kasikci, W Cui, X Ge, B Niu
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 582-598
+
+14. CORD: A Collaborative Framework for Distributed Data Race Detection
+Citations:5
+Authors: B Kasikci, C Zamfir, G Candea
+Publication: [HotDep] Presented as part of the Eighth Workshop on Hot Topics in System …
+
+15. {REPT}: Reverse Debugging of Failures in Deployed Software
+Citations:4
+Authors: W Cui, X Ge, B Kasikci, B Niu, U Sharma, R Wang, I Yun
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+16. Failure Sketches: A Better Way to Debug
+Citations:4
+Authors: B Kasikci, C Pereira, G Pokam, B Schubert, M Musuvathi, G Candea
+Publication: [HotOS] 15th Workshop on Hot Topics in Operating Systems
+
+17. Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn
+Citations:2
+Authors: M Gallagher, L Biernacki, S Chen, ZB Aweke, SF Yitbarek, MT Aga, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+18. Techniques for Detection, Root Cause Diagnosis, and Classification of In-Production Concurrency Bugs
+Citations:1
+Authors: B Kasikci
+Publication: EPFL
+
+19. Etkin Yeniden Kullanım: Yazılım Ürün Hatlarında Değişkenliğin Modellenmesi
+Citations:1
+Authors: B Kasikci, S Bilgen, ODTÜE Elektronik
+Publication: 
+
+20. Huron: hybrid false sharing detection and repair
+Citations:
+Authors: TA Khan, Y Zhao, G Pokam, B Mozafari, B Kasikci
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+21. DREDGE: Dynamic Repartitioning during Dynamic Graph Execution
+Citations:
+Authors: A McCrabb, E Winsor, V Bertacco
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-6
+
+22. Towards Automatic Inference of Inductive Invariants
+Citations:
+Authors: H Ma, A Goel, JB Jeannin, M Kapritsos, B Kasikci, KA Sakallah
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 30-36
+
+23. Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow
+Citations:
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: IEEE Micro 39 (3), 66-74
+
+24. Vulnerability-tolerant secure architectures
+Citations:
+Authors: T Austin, V Bertacco, B Kasikci, S Malik, M Tiwari
+Publication: Proceedings of the International Conference on Computer-Aided Design, 46
+
+25. SysTEX'18: 2018 Workshop on System Software for Trusted Execution
+Citations:
+Authors: B Kasikci, M Silberstein
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+26. Accurately Classifying Data Races with Portend
+Citations:
+Authors: B Kasikci, C Zamfir, G Candea
+Publication: 
+
+27. Automated Classification and Prioritization of Data Races
+Citations:
+Authors: B Kasikci
+Publication: 
+
+28. NDA: Preventing Speculative Execution Attacks at Their Source
+Citations:
+Authors: O Weisse, I Neal, K Loughlin, T Wenisch, B Kasikci
+Publication: 
+
+29. Data Races vs. Data Race Bugs
+Citations:
+Authors: B Kasikci, C Zamfir, C George, C Klauser
+Publication: 
+
+30. Teaching Statement
+Citations:
+Authors: B Kasikci
+Publication: 
+
+31. Dissertation Research
+Citations:
+Authors: B Kasikci
+Publication: 
+

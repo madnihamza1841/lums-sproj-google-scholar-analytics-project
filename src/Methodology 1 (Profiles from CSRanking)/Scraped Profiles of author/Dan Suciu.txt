@@ -1,0 +1,2408 @@
+https://scholar.google.com/citations?hl=en&user=SIxd6jgAAAAJ
+Total Citations = 30039
+
+1. Data on the Web: from relations to semistructured data and XML
+Citations:2188
+Authors: S Abiteboul, P Buneman, D Suciu
+Publication: Morgan Kaufmann
+
+2. A query language for XML
+Citations:1369
+Authors: A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu
+Publication: Computer networks 31 (11-16), 1155-1169
+
+3. Efficient query evaluation on probabilistic databases
+Citations:1148
+Authors: N Dalvi, D Suciu
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 16 (4 …
+
+4. Efficient query evaluation on probabilistic databases
+Citations:1148
+Authors: N Dalvi, D Suciu
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 16 (4 …
+
+5. Index structures for path expressions
+Citations:948
+Authors: T Milo, D Suciu
+Publication: International Conference on Database Theory, 277-295
+
+6. A query language and optimization techniques for unstructured data
+Citations:907
+Authors: P Buneman, S Davidson, G Hillebrand, D Suciu
+Publication: ACM SIGMOD Record 25 (2), 505-516
+
+7. Storing semistructured data with STORED
+Citations:823
+Authors: A Deutsch, M Fernandez, D Suciu
+Publication: ACM SIGMOD Record 28 (2), 431-442
+
+8. XMill: an efficient compressor for XML data
+Citations:763
+Authors: H Liefke, D Suciu
+Publication: ACM Sigmod Record 29 (2), 153-164
+
+9. Xml-ql: A query language for xml
+Citations:665
+Authors: A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu
+Publication: 
+
+10. Schema mediation in peer data management systems
+Citations:586
+Authors: AY Halevy, ZG Ives, D Suciu, I Tatarinov
+Publication: Proceedings 19th International Conference on Data Engineering (Cat. No …
+
+11. Adding structure to unstructured data
+Citations:535
+Authors: P Buneman, S Davidson, M Fernandez, D Suciu
+Publication: International Conference on Database Theory, 336-350
+
+12. SilkRoute: trading between relations and XML
+Citations:454
+Authors: M Fernández, WC Tan, D Suciu
+Publication: Computer Networks 33 (1-6), 723-745
+
+13. Catching the boat with Strudel: Experiences with a web-site management system
+Citations:454
+Authors: M Fernandez, D Florescu, J Kang, A Levy, D Suciu
+Publication: ACM SIGMOD Record 27 (2), 414-425
+
+14. Probabilistic databases
+Citations:438
+Authors: D Suciu
+Publication: Encyclopedia of Database Systems, 2150-2155
+
+15. Efficient top-k query evaluation on probabilistic data
+Citations:431
+Authors: C Re, N Dalvi, D Suciu
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 886-895
+
+16. Boosting the accuracy of differentially private histograms through consistency
+Citations:427
+Authors: M Hay, V Rastogi, G Miklau, D Suciu
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1021-1032
+
+17. Stream processing of XPath queries with predicates
+Citations:424
+Authors: AK Gupta, D Suciu
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+18. Containment and equivalence for a fragment of XPath
+Citations:392
+Authors: G Miklau, D Suciu
+Publication: Journal of the ACM (JACM) 51 (1), 2-45
+
+19. Typechecking for XML transformers
+Citations:391
+Authors: T Milo, D Suciu, V Vianu
+Publication: Journal of Computer and System Sciences 66 (1), 66-97
+
+20. Optimizing regular path expressions using graph schemas
+Citations:391
+Authors: M Fernandez, D Suciu
+Publication: Proceedings 14th International Conference on Data Engineering, 14-23
+
+21. Containment and equivalence for an XPath fragment
+Citations:352
+Authors: G Miklau, D Suciu
+Publication: Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on …
+
+22. Controlling access to published data using cryptography
+Citations:350
+Authors: G Miklau, D Suciu
+Publication: Proceedings of the 29th international conference on Very large data bases …
+
+23. Management of probabilistic data: foundations and challenges
+Citations:348
+Authors: N Dalvi, D Suciu
+Publication: Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+24. UnQL: a query language and algebra for semistructured data based on structural recursion
+Citations:336
+Authors: P Buneman, M Fernandez, D Suciu
+Publication: The VLDB Journal 9 (1), 76-110
+
+25. The piazza peer data management system
+Citations:334
+Authors: AY Halevy, ZG Ives, J Madhavan, P Mork, D Suciu, I Tatarinov
+Publication: IEEE Transactions on Knowledge and Data Engineering 16 (7), 787-798
+
+26. Processing XML streams with deterministic automata
+Citations:315
+Authors: TJ Green, G Miklau, M Onizuka, D Suciu
+Publication: International Conference on Database Theory, 173-189
+
+27. Event queries on correlated probabilistic streams
+Citations:311
+Authors: C Ré, J Letchner, M Balazinksa, D Suciu
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+28. Comprehension syntax
+Citations:296
+Authors: P Buneman, L Libkin, D Suciu, V Tannen, L Wong
+Publication: ACM Sigmod Record 23 (1), 87-96
+
+29. What can database do for peer-to-peer?
+Citations:291
+Authors: SD Gribble, AY Halevy, ZG Ives, M Rodrig, D Suciu
+Publication: WebDB 1, 31-36
+
+30. A query language for a web-site management system
+Citations:280
+Authors: M Fernandez, D Florescu, A Levy, D Suciu
+Publication: SIGMOD record 26 (3), 4-11
+
+31. A formal analysis of information disclosure in data exchange
+Citations:273
+Authors: G Miklau, D Suciu
+Publication: Journal of Computer and System Sciences 73 (3), 507-534
+
+32. Processing XML streams with deterministic automata and stream indexes
+Citations:264
+Authors: TJ Green, A Gupta, G Miklau, M Onizuka, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 29 (4), 752-788
+
+33. The Piazza peer data management project
+Citations:264
+Authors: I Tatarinov, Z Ives, J Madhavan, A Halevy, D Suciu, N Dalvi, XL Dong, ...
+Publication: ACM Sigmod Record 32 (3), 47-52
+
+34. SilkRoute: A framework for publishing relational data in XML
+Citations:255
+Authors: M Fernández, Y Kadiyska, D Suciu, A Morishima, WC Tan
+Publication: ACM Transactions on Database Systems (TODS) 27 (4), 438-493
+
+35. Method for converting relational data into XML
+Citations:254
+Authors: MF Fernandez, A Morishima, D Suciu, WC Tan
+Publication: US Patent 6,785,673
+
+36. Query optimization in the presence of limited access patterns
+Citations:247
+Authors: D Florescu, A Levy, I Manolescu, D Suciu
+Publication: ACM SIGMOD Record 28 (2), 311-322
+
+37. The boundary between privacy and utility in data publishing
+Citations:241
+Authors: V Rastogi, D Suciu, S Hong
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+38. MYSTIQ: a system for finding more answers by using probabilities
+Citations:239
+Authors: J Boulos, N Dalvi, B Mandhani, S Mathur, C Re, D Suciu
+Publication: Proceedings of the 2005 ACM SIGMOD international conference on Management of …
+
+39. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+40. STRUDEL: a Web site management system
+Citations:224
+Authors: M Fernandez, D Florescu, J Kang, A Levy, D Suciu
+Publication: SIGMOD Conference, 549-552
+
+41. Probabilistic databases: diamonds in the dirt.
+Citations:210
+Authors: NN Dalvi, C Ré, D Suciu
+Publication: Commun. ACM 52 (7), 86-94
+
+42. Query containment for conjunctive queries with regular expressions
+Citations:205
+Authors: D Florescu, A Levy, D Suciu
+Publication: PODS 9, 139-148
+
+43. Method for converting relational data into a structured document
+Citations:203
+Authors: MF Fernandez, D Suciu, WC Tan
+Publication: US Patent 6,604,100
+
+44. A formal perspective on the view selection problem
+Citations:200
+Authors: R Chirkova, AY Halevy, D Suciu
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 11 (3 …
+
+45. Privacy-preserving data integration and sharing
+Citations:194
+Authors: C Clifton, M Kantarcioǧlu, AH Doan, G Schadow, J Vaidya, A Elmagarmid, ...
+Publication: Proceedings of the 9th ACM SIGMOD workshop on Research issues in data mining …
+
+46. Declarative specification of Web sites with S
+Citations:192
+Authors: M Fernández, D Florescu, A Levy, D Suciu
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 9 (1 …
+
+47. Semistructured data and XML
+Citations:180
+Authors: D Suciu
+Publication: Information organization and databases, 9-30
+
+48. Approximate lineage for probabilistic databases
+Citations:174
+Authors: C Ré, D Suciu
+Publication: Proceedings of the VLDB Endowment 1 (1), 797-808
+
+49. Efficient evaluation of XML middle-ware queries
+Citations:174
+Authors: M Fernandez, A Morishima, D Suciu
+Publication: ACM SIGMOD Record 30 (2), 103-114
+
+50. Domain-independent queries on databases with external functions
+Citations:171
+Authors: D Suciu
+Publication: Theoretical Computer Science 190 (2), 279-315
+
+51. Large-scale deduplication with constraints using dedupalog
+Citations:162
+Authors: A Arasu, C Ré, D Suciu
+Publication: 2009 IEEE 25th International Conference on Data Engineering, 952-963
+
+52. SnipSuggest: Context-aware autocompletion for SQL
+Citations:161
+Authors: N Khoussainova, YC Kwon, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 4 (1), 22-33
+
+53. Distributed query evaluation on semistructured data
+Citations:158
+Authors: D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 27 (1), 1-62
+
+54. Query caching and view selection for XML databases
+Citations:154
+Authors: B Mandhani, D Suciu
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+55. The complexity of causality and responsibility for query answers and non-answers
+Citations:151
+Authors: A Meliou, W Gatterbauer, KF Moore, D Suciu
+Publication: Proceedings of the VLDB Endowment 4 (1), 34-45
+
+56. Materialized views in probabilistic databases: for information exchange and query optimization
+Citations:146
+Authors: C Ré, D Suciu
+Publication: Proceedings of the 33rd international conference on Very large data bases, 51-62
+
+57. Towards correcting input data errors probabilistically using integrity constraints
+Citations:144
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Proceedings of the 5th ACM international workshop on Data engineering for …
+
+58. Programming constructs for unstructured data
+Citations:142
+Authors: P Buneman, SB Davidson, D Suciu
+Publication: IRCS Technical Reports Series, 121
+
+59. Communication steps for parallel query processing
+Citations:137
+Authors: P Beame, P Koutris, D Suciu
+Publication: Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …
+
+60. Relationship privacy: output perturbation for queries with joins
+Citations:125
+Authors: V Rastogi, M Hay, G Miklau, D Suciu
+Publication: Proceedings of the twenty-eighth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+61. XML with data values: typechecking revisited
+Citations:122
+Authors: N Alon, T Milo, F Neven, D Suciu, V Vianu
+Publication: Journal of Computer and System Sciences 66 (4), 688-727
+
+62. Structured querying of Web text
+Citations:121
+Authors: MJ Cafarella, C Re, D Suciu, O Etzioni, M Banko
+Publication: 3rd Biennial Conference on Innovative Data Systems Research (CIDR), Asilomar …
+
+63. Querying XML data
+Citations:121
+Authors: A Deutsch, MF Fernandez, D Florescu, AY Levy, D Maier, D Suciu
+Publication: IEEE Data Eng. Bull. 22 (3), 10-18
+
+64. Distributed evalulation of directory queries using a topology cache
+Citations:120
+Authors: S Amer-Yahia, D Srivastava, D Suciu
+Publication: US Patent 6,980,985
+
+65. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+66. Topological queries in spatial databases
+Citations:115
+Authors: CH Papadimitriou, D Suciu, V Vianu
+Publication: Journal of Computer and System Sciences 58 (1), 29-53
+
+67. An overview of semistructured data
+Citations:115
+Authors: D Suciu
+Publication: 
+
+68. Data markets in the cloud: An opportunity for the database community
+Citations:112
+Authors: M Balazinska, B Howe, D Suciu
+Publication: Proc. of the VLDB Endowment 4 (12), 1482-1485
+
+69. Query-based data pricing
+Citations:105
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: Journal of the ACM (JACM) 62 (5), 43
+
+70. A theory of pricing private data
+Citations:105
+Authors: C Li, DY Li, G Miklau, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 39 (4), 34
+
+71. The dichotomy of conjunctive queries on probabilistic structures
+Citations:105
+Authors: N Dalvi, D Suciu
+Publication: arXiv preprint cs/0612102
+
+72. Schema mediation for large-scale semantic data sharing
+Citations:96
+Authors: Y Halevy, G Ives, D Suciu, I Tatarinov
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 14 (1 …
+
+73. Type inference for queries on semistructured data
+Citations:93
+Authors: T Milo, D Suciu
+Publication: Proceedings of the eighteenth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+74. A formal approach to finding explanations for database queries
+Citations:92
+Authors: S Roy, D Suciu
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+75. Answering queries from statistics and probabilistic views
+Citations:92
+Authors: N Dalvi, D Suciu
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+76. Causality in databases
+Citations:91
+Authors: A Meliou, W Gatterbauer, JY Halpern, C Koch, KF Moore, D Suciu
+Publication: IEEE Data Eng. Bull. 33 (ARTICLE), 59-67
+
+77. Publishing relational data in xml: the silkroute approach
+Citations:91
+Authors: MF Fernandez, A Morishima, D Suciu, WC Tan
+Publication: IEEE Data Eng. Bull. 24 (2), 12-19
+
+78. Query decomposition and view maintenance for query languages for unstructured data
+Citations:90
+Authors: D Suciu
+Publication: VLDB 96, 3-6
+
+79. On database theory and XML
+Citations:89
+Authors: D Suciu
+Publication: ACM SIGMOD Record 30 (3), 39-45
+
+80. The dichotomy of probabilistic inference for unions of conjunctive queries
+Citations:87
+Authors: N Dalvi, D Suciu
+Publication: Journal of the ACM (JACM) 59 (6), 30
+
+81. Cascadia: a system for specifying, detecting, and managing RFID events
+Citations:87
+Authors: E Welbourne, N Khoussainova, J Letchner, Y Li, M Balazinska, G Borriello, ...
+Publication: Proceedings of the 6th international conference on Mobile systems …
+
+82. Skew in parallel query processing
+Citations:85
+Authors: P Beame, P Koutris, D Suciu
+Publication: Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of …
+
+83. Parallel evaluation of conjunctive queries
+Citations:84
+Authors: P Koutris, D Suciu
+Publication: Proceedings of the thirtieth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+84. The XML typechecking problem
+Citations:84
+Authors: D Suciu
+Publication: ACM SIGMOD Record 31 (1), 89-96
+
+85. Deciding containment for queries with complex objects and aggregations
+Citations:84
+Authors: AY Levy, D Suciu
+Publication: Proc. of PODS, Tucson, Arizona
+
+86. Query evaluation on probabilistic databases.
+Citations:83
+Authors: C Ré, NN Dalvi, D Suciu
+Publication: IEEE Data Eng. Bull. 29 (1), 25-31
+
+87. XML query languages: Experiences and exemplars
+Citations:83
+Authors: M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, ...
+Publication: 
+
+88. A case for a collaborative query management system
+Citations:82
+Authors: N Khoussainova, M Balazinska, W Gatterbauer, YC Kwon, D Suciu
+Publication: arXiv preprint arXiv:0909.1778
+
+89. Parallel skyline queries
+Citations:78
+Authors: FN Afrati, P Koutris, D Suciu, JD Ullman
+Publication: Theory of Computing Systems 57 (4), 1008-1037
+
+90. Lifted inference seen from the other side: The tractable features
+Citations:78
+Authors: A Jha, V Gogate, A Meliou, D Suciu
+Publication: Advances in Neural Information Processing Systems, 973-981
+
+91. From theory to practice: Efficient join query evaluation in a parallel database system
+Citations:76
+Authors: S Chu, M Balazinska, D Suciu
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+92. XMLTK: An XML toolkit for scalable XML stream processing
+Citations:76
+Authors: I Avila-Campillo, TJ Green, A Gupta, M Onizuka, D Raven, D Suciu
+Publication: Database Research Group (CIS), 2
+
+93. Method and apparatus for web site management
+Citations:74
+Authors: MF Fernandez, DD Florescu, J Kang, AY Levy, D Suciu
+Publication: US Patent 5,956,720
+
+94. Demonstration of the Myria big data management service
+Citations:73
+Authors: D Halperin, V Teixeira de Almeida, LL Choo, S Chu, P Koutris, D Moritz, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+95. Foundations of probabilistic answers to queries
+Citations:73
+Authors: D Suciu, NN Dalvi
+Publication: SIGMOD Conference, 963
+
+96. Distributed xquery
+Citations:72
+Authors: C Re, JF Brinkley, KP Hinshaw, D Suciu
+Publication: 
+
+97. What can peer-to-peer do for databases, and vice versa?
+Citations:72
+Authors: S Gribble, A Halevy, Z Ives, M Rodrig, D Suciu
+Publication: In Proceedings of the WebDB
+
+98. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+99. An extensible compressor for XML data
+Citations:70
+Authors: H Liefke, D Suciu
+Publication: ACM Sigmod Record 29 (1), 57-62
+
+100. Optimization of run-time management of data intensive web-sites
+Citations:70
+Authors: D Florescu, A Levy, D Suciu, K Yagoub
+Publication: VLDB 99, 7-10
+
+101. Dynamically distributed query evaluation
+Citations:67
+Authors: T Jim, D Suciu
+Publication: Syntax 2, D3log
+
+102. Verifying integrity constraints on web sites
+Citations:66
+Authors: M Fernandez, D Florescu, A Levy, D Suciu
+Publication: IJCAI 99, 614-619
+
+103. A query language and processor for a web-site management system
+Citations:65
+Authors: M Fernandez, D Florescu, A Levy, D Suciu
+Publication: Proc. of the Workshop on Semi-structured Data, Tucson, Arizona, 26-33
+
+104. Knowledge compilation meets database theory: compiling queries to decision diagrams
+Citations:64
+Authors: A Jha, D Suciu
+Publication: Theory of Computing Systems 52 (3), 403-440
+
+105. Probabilistic Event Extraction from RFID Data.
+Citations:64
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: ICDE 8, 1480-1482
+
+106. Physical access control for captured RFID data
+Citations:64
+Authors: T Kriplean, E Welbourne, N Khoussainova, V Rastogi, M Balazinska, ...
+Publication: IEEE Pervasive Computing 6 (4), 48-55
+
+107. XML: model, schemas, types, logics, and queries
+Citations:63
+Authors: N Klarlund, T Schwentick, D Suciu
+Publication: Logics for Emerging Applications of Databases, 1-41
+
+108. Xml-ql: A query language for XML, 1998
+Citations:62
+Authors: A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu
+Publication: 
+
+109. Translating XSLT programs to Efficient SQL queries
+Citations:60
+Authors: S Jain, R Mahajan, D Suciu
+Publication: Proceedings of the 11th international conference on World Wide Web, 616-626
+
+110. Tiresias: the database oracle for how-to queries
+Citations:58
+Authors: A Meliou, D Suciu
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+111. View maintenance for unstructured databases
+Citations:58
+Authors: D Suciu
+Publication: US Patent 5,999,926
+
+112. Perfxplain: debugging mapreduce job performance
+Citations:57
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (7), 598-609
+
+113. Asymptotic conditional probabilities for conjunctive queries
+Citations:56
+Authors: N Dalvi, G Miklau, D Suciu
+Publication: International Conference on Database Theory, 289-305
+
+114. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+115. A framework for using reference ontologies as a foundation for the semantic web
+Citations:55
+Authors: JF Brinkley, D Suciu, LT Detwiler, JH Gennari, C Rosse, SI Group
+Publication: AMIA Annual Symposium Proceedings 2006, 96
+
+116. Method and apparatus for restructuring data in semi-structured databases
+Citations:54
+Authors: P Buneman, SB Davidson, D Suciu
+Publication: US Patent 5,978,790
+
+117. Toward practical query pricing with QueryMarket
+Citations:53
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: proceedings of the 2013 ACM SIGMOD international conference on management of …
+
+118. Typechecking XML views of relational databases
+Citations:53
+Authors: N Alon, T Milo, F Neven, D Suciu, V Vianu
+Publication: ACM Transactions on Computational Logic (TOCL) 4 (3), 315-354
+
+119. Bounded fixpoints for complex objects
+Citations:53
+Authors: D Suciu
+Publication: Database Programming Languages (DBPL-4), 263-281
+
+120. Computing query probability with incidence algebras
+Citations:52
+Authors: N Dalvi, K Schnaitter, D Suciu
+Publication: Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+121. Typechecking for semistructured data
+Citations:52
+Authors: D Suciu
+Publication: International workshop on database programming languages, 1-20
+
+122. Database processing using schemas
+Citations:52
+Authors: MF Fernandez, D Suciu
+Publication: US Patent 6,052,686
+
+123. Why so? or why no? functional causality for explaining query answers
+Citations:48
+Authors: A Meliou, W Gatterbauer, KF Moore, D Suciu
+Publication: arXiv preprint arXiv:0912.5340
+
+124. Computing probabilistic answers to queries
+Citations:48
+Authors: N Dalvi, D Suciu
+Publication: US Patent 7,363,299
+
+125. An evaluation of distributed concurrency control
+Citations:47
+Authors: R Harding, D Van Aken, A Pavlo, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 10 (5), 553-564
+
+126. Probabilistic databases with MarkoViews
+Citations:47
+Authors: A Jha, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (11), 1160-1171
+
+127. Tracing data errors with view-conditioned causality
+Citations:47
+Authors: A Meliou, W Gatterbauer, S Nath, D Suciu
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+128. Regular paths in sparql: Querying the nci thesaurus
+Citations:47
+Authors: LT Detwiler, D Suciu, JF Brinkley
+Publication: AMIA Annual Symposium Proceedings 2008, 161
+
+129. Believe it or not: adding belief annotations to databases
+Citations:44
+Authors: W Gatterbauer, M Balazinska, N Khoussainova, D Suciu
+Publication: Proceedings of the VLDB Endowment 2 (1), 1-12
+
+130. Query evaluation on distributed semi-structured data
+Citations:43
+Authors: D Suciu
+Publication: US Patent 6,076,087
+
+131. Reverse data management
+Citations:41
+Authors: A Meliou, W Gatterbauer, D Suciu
+Publication: Proceedings of the VLDB Endowment 4 (12)
+
+132. Efficient evaluation of having queries on a probabilistic database
+Citations:41
+Authors: C Ré, D Suciu
+Publication: International Symposium on Database Programming Languages, 186-200
+
+133. Method for using region-sets to focus searches in hierarchical structures
+Citations:41
+Authors: G Jacobson, B Krishnamurthy, D Srivastava, D Suciu
+Publication: US Patent 5,970,489
+
+134. The trichotomy of HAVING queries on a probabilistic database
+Citations:40
+Authors: C Ré, D Suciu
+Publication: The VLDB Journal 18 (5), 1091
+
+135. The Myria Big Data Management and Analytics System and Cloud Services.
+Citations:38
+Authors: J Wang, T Baker, M Balazinska, D Halperin, B Haynes, B Howe, ...
+Publication: CIDR
+
+136. How to price shared optimizations in the cloud
+Citations:38
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (6), 562-573
+
+137. Probabilistic rfid data management
+Citations:38
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: Technical Reprot TR2007-03-01, University of Washington, Seattle, Washington
+
+138. Storing semistructured data in relations
+Citations:37
+Authors: A Deutsch, M Fernandez, D Suciu
+Publication: Proceedings of the Workshop on Query processing for Semistructured data and …
+
+139. Queries and materialized views on probabilistic databases
+Citations:36
+Authors: N Dalvi, C Re, D Suciu
+Publication: Journal of Computer and System Sciences 77 (3), 473-490
+
+140. Declarative specification of data-intensive web sites
+Citations:36
+Authors: M Fernández, D Suciu, I Tatarinov
+Publication: ACM SIGPLAN Notices 35 (1), 135-148
+
+141. On two forms of structural recursion
+Citations:36
+Authors: D Suciu, L Wong
+Publication: International Conference on Database Theory, 111-124
+
+142. Any algorithm in the complex object algebra with powerset needs exponential space to compute transitive closure
+Citations:36
+Authors: D Suciu, J Paredaens
+Publication: Technical Reports (CIS), 303
+
+143. vSPARQL: A view definition language for the semantic web
+Citations:35
+Authors: M Shaw, LT Detwiler, N Noy, J Brinkley, D Suciu
+Publication: Journal of Biomedical Informatics 44 (1), 102-117
+
+144. Navigating Extracted Data with Schema Discovery.
+Citations:34
+Authors: MJ Cafarella, D Suciu, O Etzioni
+Publication: WebDB, 1-6
+
+145. A query language for NC
+Citations:34
+Authors: D Suciu, V Breazu-Tannen
+Publication: International Workshop on Logic and Computational Complexity, 503-514
+
+146. HoTTSQL: Proving query rewrites with univalent SQL semantics
+Citations:33
+Authors: S Chu, K Weitz, A Cheung, D Suciu
+Publication: ACM SIGPLAN Notices 52 (6), 510-524
+
+147. Causality and explanations in databases
+Citations:33
+Authors: A Meliou, S Roy, D Suciu
+Publication: Proceedings of the VLDB Endowment 7 (13), 1715-1716
+
+148. Optimizing large-scale Semi-Naïve datalog evaluation in hadoop
+Citations:31
+Authors: M Shaw, P Koutris, B Howe, D Suciu
+Publication: International Datalog 2.0 Workshop, 165-176
+
+149. Peex: Extracting probabilistic events from RFID data
+Citations:31
+Authors: N Khoussainova, M Balazinska, D Suciu
+Publication: In ICDE
+
+150. A query language for {XML}
+Citations:31
+Authors: D Florescu, A Deutsch, A Levy, D Suciu, M Fernandez
+Publication: Proceedings of Eighth International World Wide Web Conference, 11-14
+
+151. Management of semistructured data
+Citations:31
+Authors: D Suciu
+Publication: ACM SIGMOD Record 26 (4), 4-7
+
+152. Worst-case optimal algorithms for parallel query processing
+Citations:30
+Authors: P Koutris, P Beame, D Suciu
+Publication: 19th International Conference on Database Theory (ICDT 2016)
+
+153. Symmetric weighted first-order model counting
+Citations:29
+Authors: P Beame, G Van den Broeck, E Gribkoff, D Suciu
+Publication: Proceedings of the 34th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+154. Querymarket demonstration: Pricing for online data markets
+Citations:29
+Authors: P Koutris, P Upadhyaya, M Balazinska, B Howe, D Suciu
+Publication: Proceedings of the VLDB Endowment 5 (12), 1962-1965
+
+155. Bridging the gap between intensional and extensional query evaluation in probabilistic databases
+Citations:29
+Authors: A Jha, D Olteanu, D Suciu
+Publication: Proceedings of the 13th International Conference on Extending Database …
+
+156. Database access system with optimizable expressions
+Citations:29
+Authors: P Buneman, SB Davidson, D Suciu
+Publication: US Patent 5,960,425
+
+157. Managing probabilistic data with mystiq: The can-do, the could-do, and the can’t-do
+Citations:28
+Authors: C Re, D Suciu
+Publication: International Conference on Scalable Uncertainty Management, 5-18
+
+158. Incorporating uncertainty metrics into a general-purpose data integration system
+Citations:28
+Authors: B Louie, L Detwiler, N Dalvi, R Shaker, P Tarczy-Hornoch, D Suciu
+Publication: 19th International Conference on Scientific and Statistical Database …
+
+159. On the tractability of query compilation and bounded treewidth
+Citations:27
+Authors: A Jha, D Suciu
+Publication: Proceedings of the 15th International Conference on Database Theory, 249-261
+
+160. Session-based browsing for more effective query reuse
+Citations:27
+Authors: N Khoussainova, YC Kwon, WT Liao, M Balazinska, W Gatterbauer, ...
+Publication: International Conference on Scientific and Statistical Database Management …
+
+161. View Selection for Stream Processing.
+Citations:27
+Authors: AK Gupta, AY Halevy, D Suciu
+Publication: WebDB, 83-88
+
+162. Efficient compilation of high-level data parallel algorithms
+Citations:27
+Authors: D Suciu, V Tannen
+Publication: Proceedings of the sixth annual ACM symposium on Parallel algorithms and …
+
+163. Cryptographically Enforced Conditional Access for XML.
+Citations:26
+Authors: G Miklau, D Suciu
+Publication: WebDB, 101-106
+
+164. Boosting the accuracy of differentially-private queries through consistency
+Citations:25
+Authors: M Hay, V Rastogi, G Miklau, D Suciu
+Publication: 36th International Conference on Very Large Databases (VLDB)
+
+165. Data conflict resolution using trust mappings
+Citations:25
+Authors: W Gatterbauer, D Suciu
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+166. The view selection problem for XML content based routing
+Citations:25
+Authors: AK Gupta, D Suciu, AY Halevy
+Publication: Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on …
+
+167. Overview of Strudel - A Web-Site Management System
+Citations:25
+Authors: MF Fernandez, D Florescu, J Kang, AY Levy, D Suciu
+Publication: Networking and Information Systems 1 (1), 115-140
+
+168. Approximate lifted inference with probabilistic databases
+Citations:24
+Authors: W Gatterbauer, D Suciu
+Publication: Proceedings of the VLDB Endowment 8 (5), 629-640
+
+169. A dichotomy on the complexity of consistent query answering for atoms with simple keys
+Citations:24
+Authors: P Koutris, D Suciu
+Publication: arXiv preprint arXiv:1212.6636
+
+170. Integrating and ranking uncertain scientific data
+Citations:24
+Authors: L Detwiler, W Gatterbauer, B Louie, D Suciu, P Tarczy-Hornoch
+Publication: 2009 IEEE 25th International Conference on Data Engineering, 1235-1238
+
+171. Generating application ontologies from reference ontologies
+Citations:24
+Authors: M Shaw, LT Detwiler, JF Brinkley, D Suciu
+Publication: AMIA Annual Symposium Proceedings 2008, 672
+
+172. Focusing search in hierarchical structures with directory sets
+Citations:24
+Authors: G Jacobson, B Krishnamurthy, D Srivastava, D Suciu
+Publication: Conference on Information and Knowledge Management: Proceedings of the …
+
+173. Research directions for principles of data management (abridged)
+Citations:23
+Authors: S Abiteboul, M Arenas, P Barceló, M Bienvenu, D Calvanese, C David, ...
+Publication: ACM SIGMOD Record 45 (4), 5-17
+
+174. Embracing Uncertainty in Large-Scale Computational Astrophysics.
+Citations:23
+Authors: D Suciu, AJ Connolly, B Howe
+Publication: MUD, 63-77
+
+175. Implementing a tamper-evident database system
+Citations:23
+Authors: G Miklau, D Suciu
+Publication: Annual Asian Computing Science Conference, 28-48
+
+176. Distributed evaluation of network directory queries
+Citations:23
+Authors: S Amer-Yahia, D Srivastava, D Suciu
+Publication: IEEE Transactions on Knowledge and Data Engineering 16 (4), 474-486
+
+177. Understanding the complexity of lifted inference and asymmetric weighted model counting
+Citations:22
+Authors: E Gribkoff, G Van den Broeck, D Suciu
+Publication: Workshops at the Twenty-Eighth AAAI Conference on Artificial Intelligence
+
+178. Understanding cardinality estimation using entropy maximization
+Citations:22
+Authors: C Ré, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 37 (1), 6
+
+179. Bringing Provenance to Its Full Potential Using Causal Reasoning.
+Citations:22
+Authors: A Meliou, W Gatterbauer, D Suciu
+Publication: TaPP
+
+180. Explaining query answers with explanation-ready databases
+Citations:21
+Authors: S Roy, L Orr, D Suciu
+Publication: Proceedings of the VLDB Endowment 9 (4), 348-359
+
+181. Oblivious bounds on the probability of boolean functions
+Citations:21
+Authors: W Gatterbauer, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 39 (1), 5
+
+182. Declarative framework for deduplication
+Citations:21
+Authors: A Arasu, C Re, D Suciu
+Publication: US Patent 8,200,640
+
+183. Query evaluation with soft-key constraints
+Citations:21
+Authors: A Jha, V Rastogi, D Suciu
+Publication: Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on …
+
+184. Management of data with uncertainties.
+Citations:21
+Authors: C Re, D Suciu
+Publication: CIKM 7, 6-8
+
+185. Queries on distributed unstructured databases
+Citations:21
+Authors: D Suciu
+Publication: US Patent 5,987,449
+
+186. Communication steps for parallel query processing
+Citations:20
+Authors: P Beame, P Koutris, D Suciu
+Publication: Journal of the ACM (JACM) 64 (6), 40
+
+187. A framework for XML-based integration of data, visualization and analysis in a biomedical domain
+Citations:20
+Authors: N Bales, J Brinkley, ES Lee, S Mathur, C Re, D Suciu
+Publication: International XML Database Symposium, 207-221
+
+188. Method for using region-sets to focus searches in hierarchical structures
+Citations:20
+Authors: G Jacobson, B Krishnamurthy, D Srivastava, D Suciu
+Publication: US Patent 6,134,553
+
+189. SlimShot: in-database probabilistic inference for knowledge bases
+Citations:19
+Authors: E Gribkoff, D Suciu
+Publication: Proceedings of the VLDB Endowment 9 (7), 552-563
+
+190. Lower bounds for exact model counting and applications in probabilistic databases
+Citations:19
+Authors: P Beame, J Li, S Roy, D Suciu
+Publication: arXiv preprint arXiv:1309.6815
+
+191. A discussion on pricing relational data
+Citations:19
+Authors: M Balazinska, B Howe, P Koutris, D Suciu, P Upadhyaya
+Publication: In Search of Elegance in the Theory and Practice of Computation, 167-173
+
+192. Efficient top-K query evaluation on probabilistic data
+Citations:19
+Authors: D Suciu, C Re
+Publication: US Patent 7,814,113
+
+193. Managing web data
+Citations:19
+Authors: D Suciu
+Publication: SIGMOD Conference, 510
+
+194. Data on the Web: From Relational to Semistructured Data and XML
+Citations:19
+Authors: S Abiteboul, P Buneman, D Suciu
+Publication: 
+
+195. Cellular automata
+Citations:19
+Authors: TJ Green, X Sa, G Miklau, M Onizuka, D Suciu
+Publication: 
+
+196. Web-site management: The Strudel approach
+Citations:18
+Authors: M Fernandez, D Florescu, A Levy, D Suciu
+Publication: 
+
+197. Query processing on probabilistic data: A survey
+Citations:17
+Authors: G Van den Broeck, D Suciu
+Publication: Foundations and Trends® in Databases 7 (3-4), 197-341
+
+198. A worst-case optimal multi-round algorithm for parallel computation of conjunctive queries
+Citations:17
+Authors: B Ketsman, D Suciu
+Publication: Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+199. Distributed XQuery-based integration and visualization of multimodality brain mapping data
+Citations:17
+Authors: LT Detwiler, D Suciu, JD Franklin, EB Moore, AV Poliakov, ES Lee, ...
+Publication: Frontiers in neuroinformatics 3, 2
+
+200. A theory of pricing private data
+Citations:16
+Authors: C Li, DY Li, G Miklau, D Suciu
+Publication: Communications of the ACM 60 (12), 79-86
+
+201. A data model and algebra for XML query
+Citations:16
+Authors: M Fernandez, J Simeon, D Suciu, P Wadler
+Publication: 
+
+202. LaraDB: A minimalist kernel for linear and relational algebra computation
+Citations:15
+Authors: D Hutchison, B Howe, D Suciu
+Publication: Proceedings of the 4th ACM SIGMOD Workshop on Algorithms and Systems for …
+
+203. What do Shannon-type Inequalities, Submodular Width, and Disjunctive Datalog have to do with one another?
+Citations:15
+Authors: M Abo Khamis, HQ Ngo, D Suciu
+Publication: Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+204. Structured Queries Over Web Text.
+Citations:15
+Authors: MJ Cafarella, O Etzioni, D Suciu
+Publication: IEEE Data Eng. Bull. 29 (4), 45-51
+
+205. A structure-based approach to querying semi-structured data
+Citations:15
+Authors: M Fernandez, L Popa, D Suciu
+Publication: International Workshop on Database Programming Languages, 136-159
+
+206. Automatic enforcement of data use policies with datalawyer
+Citations:14
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+207. General database statistics using entropy maximization
+Citations:14
+Authors: R Kaushik, C Ré, D Suciu
+Publication: International Symposium on Database Programming Languages, 84-99
+
+208. Consistent histograms in the presence of distinct value counts
+Citations:14
+Authors: R Kaushik, D Suciu
+Publication: Proceedings of the VLDB Endowment 2 (1), 850-861
+
+209. Access control over uncertain data
+Citations:14
+Authors: V Rastogi, D Suciu, E Welbourne
+Publication: Proceedings of the VLDB Endowment 1 (1), 821-832
+
+210. Domain-independent queries on databases with external functions
+Citations:14
+Authors: D Suciu
+Publication: International Conference on Database Theory, 177-190
+
+211. Computing join queries with functional dependencies
+Citations:13
+Authors: M Abo Khamis, HQ Ngo, D Suciu
+Publication: Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+212. Quantifying Causal Effects on Query Answering in Databases.
+Citations:13
+Authors: B Salimi, LE Bertossi, D Suciu, G Van den Broeck
+Publication: TaPP
+
+213. The most probable database problem
+Citations:13
+Authors: E Gribkoff, G Van den Broeck, D Suciu
+Publication: Proceedings of the First international workshop on Big Uncertain Data (BUDA …
+
+214. MIRA-UPPER LIMB REHABILITATION SYSTEM USING MICROSOFT KINECT.
+Citations:13
+Authors: A Călin, A Cantea, A Dascălu, C Mihaiu, DAN Suciu
+Publication: Studia Universitatis Babes-Bolyai, Informatica 56 (4)
+
+215. Dynamic XML–Based Exchange of Relational Data: Application to the Human Brain Project
+Citations:13
+Authors: Z Tang, Y Kadiyska, H Li, D Suciu, JF Brinkley
+Publication: AMIA Annual Symposium Proceedings 2003, 649
+
+216. Bias in olap queries: Detection, explanation, and removal
+Citations:12
+Authors: B Salimi, J Gehrke, D Suciu
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1021 …
+
+217. Expressing privacy policies using authorization views
+Citations:12
+Authors: V Rastogi, E Welbourne, N Khoussainova, T Kriplean, M Balazinska, ...
+Publication: Proceedings of 9th international conference on ubiquitous computing …
+
+218. Run-time management of data intensive Web-sites
+Citations:12
+Authors: D Florescu, A Levy, D Suciu, K Yagoub
+Publication: 
+
+219. Parallel programming languages for collections
+Citations:12
+Authors: D Suciu
+Publication: 
+
+220. Dissociation and propagation for approximate lifted inference with standard relational database management systems
+Citations:11
+Authors: W Gatterbauer, D Suciu
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 26 (1 …
+
+221. Model counting of query expressions: Limitations of propositional methods
+Citations:11
+Authors: P Beame, J Li, S Roy, D Suciu
+Publication: arXiv preprint arXiv:1312.4125
+
+222. Special issue on uncertain and probabilistic databases
+Citations:11
+Authors: PJ Haas, D Suciu
+Publication: The VLDB Journal 18 (5), 987-988
+
+223. Implementing NOT EXISTS Predicates over a Probabilistic Database.
+Citations:11
+Authors: TY Wang, C Re, D Suciu
+Publication: QDB/MUD, 73-86
+
+224. Managing Integrity for Data Exchanged on the Web.
+Citations:11
+Authors: G Miklau, D Suciu
+Publication: WebDB, 13-18
+
+225. From searching text to querying XML streams
+Citations:11
+Authors: D Suciu
+Publication: Journal of discrete algorithms 2 (1), 17-32
+
+226. Fixpoints and bounded fixpoints for complex objects
+Citations:10
+Authors: D Suciu
+Publication: 
+
+227. Algorithmic aspects of parallel data processing
+Citations:9
+Authors: P Koutris, S Salihoglu, D Suciu
+Publication: Foundations and Trends® in Databases 8 (4), 239-370
+
+228. Lifted probabilistic inference: A guide for the database researcher
+Citations:9
+Authors: E Gribkoff, D Suciu, G Van den Broeck
+Publication: Bulletin of the Technical Committee on Data Engineering 37 (3), 6-17
+
+229. The World Wide Web and Databases: Third International Workshop WebDB2000, Dallas, TX, USA, May 18-19, 2000. Selected Papers
+Citations:9
+Authors: D Suciu, G Vossen
+Publication: Springer
+
+230. Price-optimal querying with data apis
+Citations:8
+Authors: P Upadhyaya, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 9 (14), 1695-1706
+
+231. Confidentiality and integrity in distributed data exchange
+Citations:8
+Authors: G Miklau, D Suciu
+Publication: University of Washington
+
+232. A scalable algorithm for query minimization
+Citations:8
+Authors: IK Kunen, D Suciu
+Publication: 
+
+233. Dane w sieci www: od relacji do modelu semistrukturalnego i XML
+Citations:8
+Authors: S Abiteboul, P Buneman, D Suciu, P Brągoszewski, P Pęzik, ...
+Publication: Mikom
+
+234. A query language for NC
+Citations:8
+Authors: D Suciu, V Tannen
+Publication: journal of computer and system sciences 55 (2), 299-321
+
+235. Implementation and analysis of a parallel collection query language
+Citations:8
+Authors: D Suciu
+Publication: VLDB, 366-377
+
+236. Exact model counting of query expressions: Limitations of propositional methods
+Citations:7
+Authors: P Beame, J Li, S Roy, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 42 (1), 1
+
+237. Big data begets big database theory
+Citations:7
+Authors: D Suciu
+Publication: British National Conference on Databases, 1-5
+
+238. Context-aware suggestions for structured queries
+Citations:7
+Authors: N Khoussainova, Y Kwon, M Balazinska, D Suciu
+Publication: US Patent App. 13/631,356
+
+239. SQL on an encrypted database: technical perspective
+Citations:7
+Authors: D Suciu
+Publication: Communications of the ACM 55 (9), 102-102
+
+240. Reasoning About Web-Site Structure.
+Citations:7
+Authors: MF Fernandez, D Florescu, AY Levy, D Suciu
+Publication: KRDB, 10.1-10.9
+
+241. Probabilistic database summarization for interactive data exploration
+Citations:6
+Authors: L Orr, M Balazinska, D Suciu
+Publication: Proceedings of the VLDB Endowment 10 (10), 1154-1165
+
+242. Stop That Query! The Need for Managing Data Use.
+Citations:6
+Authors: P Upadhyaya, NR Anderson, M Balazinska, B Howe, R Kaushik, ...
+Publication: CIDR
+
+243. Method for prevention of recursive loops between network elements
+Citations:6
+Authors: T Jim, D Suciu
+Publication: US Patent 7,159,032
+
+244. Database and XML technologies
+Citations:6
+Authors: Z Bellahsène, S Bressan
+Publication: Springer Berlin/Heidelberg.
+
+245. Equivalence and normal forms for the restricted and bounded fixpoint in the nested algebra
+Citations:6
+Authors: M Gyssens, D Suciu, D Van Gucht
+Publication: Information and Computation 164 (1), 85-117
+
+246. The complexity of the evaluation of complex algebra expressions
+Citations:6
+Authors: D Suciu, J Paredaens
+Publication: journal of computer and system sciences 55 (2), 322-343
+
+247. The Restricted and Bounded Fixpoint Closures of the Nested Algebra are Equivalent
+Citations:6
+Authors: M Gyssens, D Suciu, D Van Gucht
+Publication: In Proceedings of DBPL'95
+
+248. Capuchin: Causal database repair for algorithmic fairness
+Citations:5
+Authors: B Salimi, L Rodriguez, B Howe, D Suciu
+Publication: arXiv preprint arXiv:1902.08283
+
+249. Zaliql: causal inference from observational data at scale
+Citations:5
+Authors: B Salimi, C Cole, DRK Ports, D Suciu
+Publication: Proceedings of the VLDB Endowment 10 (12), 1957-1960
+
+250. Answering conjunctive queries with inequalities
+Citations:5
+Authors: P Koutris, T Milo, S Roy, D Suciu
+Publication: Theory of Computing Systems 61 (1), 2-30
+
+251. A Guide to Formal Analysis of Join Processing in Massively Parallel Systems.
+Citations:5
+Authors: P Koutris, D Suciu
+Publication: SIGMOD Record 45 (4), 18-27
+
+252. Lara: A key-value algebra underlying arrays and relations
+Citations:5
+Authors: D Hutchison, B Howe, D Suciu
+Publication: arXiv preprint arXiv:1604.03607
+
+253. Communication cost in parallel query processing
+Citations:5
+Authors: P Beame, P Koutris, D Suciu
+Publication: arXiv preprint arXiv:1602.06236
+
+254. A dataflow graph transformation language and query rewriting system for RDF ontologies
+Citations:5
+Authors: M Shaw, LT Detwiler, JF Brinkley, D Suciu
+Publication: International Conference on Scientific and Statistical Database Management …
+
+255. A unifying framework for combining content-based image retrieval with relational database queries for biomedical applications
+Citations:5
+Authors: I Atmosukarto, RS Travillian, JD Franklin, LG Shapiro, JF Brinkley, ...
+Publication: 
+
+256. 05061 Abstracts Collection--Foundations of Semistructured Data
+Citations:5
+Authors: F Neven, T Schwentick, D Suciu
+Publication: Dagstuhl Seminar Proceedings
+
+257. Containment and equivalence of Tree Patterns
+Citations:5
+Authors: G Miklau, D Suciu
+Publication: In 21th ACM Symposium on Principles of Database Systems
+
+258. What do Shannon-type Inequalities, Submodular Width, and Disjunctive Datalog have to do with one another?
+Citations:4
+Authors: MA Khamis, HQ Ngo, D Suciu
+Publication: arXiv preprint arXiv:1612.02503
+
+259. Affordable Analytics on Expensive Data.
+Citations:4
+Authors: P Upadhyaya, M Unutzer, M Balazinska, D Suciu, H Hacigümüs
+Publication: Data4U@ VLDB, 19
+
+260. The power of data use management in action
+Citations:4
+Authors: P Upadhyaya, N Anderson, M Balazinska, B Howe, R Kaushik, ...
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+261. Knowledge and Data Engineering
+Citations:4
+Authors: X Luo, C Zhang
+Publication: 
+
+262. Probabilistic Databases
+Citations:4
+Authors: C Koch, D Olteanu, C Re, D Suciu
+Publication: Morgan-Claypool, San Francisco
+
+263. Managing Structured Collections of Community Data.
+Citations:4
+Authors: W Gatterbauer, D Suciu
+Publication: CIDR, 207-210
+
+264. Why so? or Why no
+Citations:4
+Authors: A Meliou, W Gatterbauer, KF Moore, D Suciu
+Publication: Functional causality for explaining query answers. CoRR, abs/0912.5340
+
+265. Efficient top-k query evaluation on probabilistic data (extended version
+Citations:4
+Authors: C Ré, N Dalvi, D Suciu
+Publication: 
+
+266. Semistructured data and XML
+Citations:4
+Authors: D Suciu
+Publication: Handbook of massive data sets, 743-788
+
+267. Report on WebDB'2000: 3rd International Workshop on the Web and Databases.
+Citations:4
+Authors: D Suciu, G Vossen
+Publication: SIGKDD Explorations 2 (1), 80-82
+
+268. Warehousing and incremental evaluation for Web Site management.
+Citations:4
+Authors: MF Fernández, D Florescu, AY Levy, D Suciu
+Publication: BDA
+
+269. Interventional fairness: Causal database repair for algorithmic fairness
+Citations:3
+Authors: B Salimi, L Rodriguez, B Howe, D Suciu
+Publication: Proceedings of the 2019 International Conference on Management of Data, 793-810
+
+270. Axiomatic foundations and algorithms for deciding semantic equivalences of SQL queries
+Citations:3
+Authors: S Chu, B Murphy, J Roesch, A Cheung, D Suciu
+Publication: Proceedings of the VLDB Endowment 11 (11), 1482-1495
+
+271. Demonstration of the cosette automated sql prover
+Citations:3
+Authors: S Chu, D Li, C Wang, A Cheung, D Suciu
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+272. Lifted probabilistic inference in relational models
+Citations:3
+Authors: G Van den Broeck, D Suciu
+Publication: UAI tutorials
+
+273. Tiresias: a demonstration of how-to queries
+Citations:3
+Authors: A Meliou, Y Song, D Suciu
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+274. Default-all is dangerous!
+Citations:3
+Authors: W Gatterbauer, A Meliou, D Suciu
+Publication: arXiv preprint arXiv:1105.4395
+
+275. Optimal upper and lower bounds for boolean expressions by dissociation
+Citations:3
+Authors: W Gatterbauer, D Suciu
+Publication: arXiv preprint arXiv:1105.2813
+
+276. Query Containment of Tier-2 Queries over a Probabilistic Database.
+Citations:3
+Authors: KF Moore, V Rastogi, C Ré, D Suciu
+Publication: MUD, 47-62
+
+277. A demonstration of cascadia through a digital diary application
+Citations:3
+Authors: N Khoussainova, E Welbourne, M Balazinska, G Borriello, G Cole, ...
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+278. Database theory column: Probabilistic databases
+Citations:3
+Authors: D Suciu
+Publication: SIGACT News 39 (2), 111-124
+
+279. Database theory(ICDT 2007)
+Citations:3
+Authors: T Schwentick, D Suciu
+Publication: Lecture notes in computer science
+
+280. Managing Imprecisions with Probabilistic Databases.
+Citations:3
+Authors: D Suciu
+Publication: TDM, 1
+
+281. XML: Some hyperlinks minus the hype
+Citations:3
+Authors: P Wadler, P Wadler, P Wadler, BC Pierce, J McHugh, S Abiteboul, ...
+Publication: 
+
+282. Modeling integrity in data exchange
+Citations:3
+Authors: G Miklau, D Suciu
+Publication: Workshop on Secure Data Management, 41-54
+
+283. Enabling Secure Data Exchange.
+Citations:3
+Authors: G Miklau, D Suciu
+Publication: IEEE Data Eng. Bull. 27 (1), 34-41
+
+284. Results visualization in the xbrain xml interface to a relational database
+Citations:3
+Authors: Z Tang, Y Kadiyska, D Suciu, JF Brinkley
+Publication: In Proceedings, MedInfo
+
+285. What can databases do for peer-to peer
+Citations:3
+Authors: ZIA Halevy, M Rodrig, D Suciu
+Publication: WebDB. In WebDB
+
+286. al. Report on webdb 2000
+Citations:3
+Authors: D Suciu, G Vossen
+Publication: 3rd International Workshop on the Web and databases 112
+
+287. Catching the boat with Strudel: Experience with a Web-site management system
+Citations:3
+Authors: D Florescu, M Fernandez, J Kang, A Levy, D Suciu
+Publication: Proceedings of ACM SIGMOD Conference on Management of Data
+
+288. Guest editorial: Special issue on semistructured data
+Citations:3
+Authors: D Suciu, G Vossen
+Publication: Information Systems 8 (23), 517-519
+
+289. Computational Astrophysics
+Citations:3
+Authors: S Falle, SS Komissarov, DA Clarke, MJ West
+Publication: ASP Conf. Ser. 123, 66
+
+290. Reuse Anomaly in Object-Oriented Concurrent Programming
+Citations:3
+Authors: DM Suciu
+Publication: Studia Universitatis “Babes-Bolyai”, Informatica 42 (2), 74-89
+
+291. Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities
+Citations:2
+Authors: W Cai, M Balazinska, D Suciu
+Publication: Proceedings of the 2019 International Conference on Management of Data, 18-35
+
+292. Boolean tensor decomposition for conjunctive queries with negation
+Citations:2
+Authors: M Abo Khamis, HQ Ngo, D Olteanu, D Suciu
+Publication: Schloss Dagstuhl
+
+293. Improving High Contention OLTP Performance via Transaction Scheduling
+Citations:2
+Authors: G Prasaad, A Cheung, D Suciu
+Publication: arXiv preprint arXiv:1810.01997
+
+294. HypDB: a demonstration of detecting, explaining and resolving bias in OLAP queries
+Citations:2
+Authors: B Salimi, C Cole, P Li, J Gehrke, D Suciu
+Publication: Proceedings of the VLDB Endowment 11 (12), 2062-2065
+
+295. A note on the hardness of the critical tuple problem
+Citations:2
+Authors: EV Kostylev, D Suciu
+Publication: arXiv preprint arXiv:1804.00443
+
+296. Communication Cost in Parallel Query Evaluation: A Tutorial
+Citations:2
+Authors: D Suciu
+Publication: Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+297. Non-intrusive tongue tracking and its applicability in post-stroke rehabilitation
+Citations:2
+Authors: DM Suciu, BA Pop, R Urdea, B Mursa
+Publication: OTM Confederated International Conferences" On the Move to Meaningful …
+
+298. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+299. A model of multimodal fusion for medical applications
+Citations:2
+Authors: S Yang, I Atmosukarto, J Franklin, JF Brinkley, D Suciu, LG Shapiro
+Publication: Multimedia Content Access: Algorithms and Systems III 7255, 72550H
+
+300. Semi-Structured Data Model
+Citations:2
+Authors: D Suciu
+Publication: Encyclopedia of Database Systems, 2601-2605
+
+301. Evaluating queries in the presence of soft key constraints
+Citations:2
+Authors: A Jha, V Rastogi, D Suciu
+Publication: PODS
+
+302. Database Theory–ICDT 2007: 11th International Conference, Barcelona, Spain, January 10-12, 2007, Proceedings
+Citations:2
+Authors: T Schwentick, D Suciu
+Publication: Springer
+
+303. A performant XQuery to SQL translator
+Citations:2
+Authors: C Re, JF Brinkley, D Suciu
+Publication: University of Washington
+
+304. Node identification schemes for efficient xml retrieval
+Citations:2
+Authors: F Weigel, KU Schulz, H Meuss
+Publication: Dagstuhl Seminar Proceedings
+
+305. XQuery: a query language for XML
+Citations:2
+Authors: A Deutsch, M Fern, B Ez, D Florescu, D Alonlevy, D Suciu
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+306. A declarative query interface for large semantic networks
+Citations:2
+Authors: P Mork, D Suciu, JF Brinkley, C Rosse
+Publication: Proceedings of the AMIA Symposium, 1110
+
+307. Web Data and the Resurrection of Database Theory.
+Citations:2
+Authors: D Suciu
+Publication: RIDE-DM
+
+308. 3. Avaliação
+Citations:2
+Authors: S Abiteboul, P Buneman, D Suciu
+Publication: SIGMOD Record 29 (1), 68-79
+
+309. Using Scalable Statecharts for Active Objects Internal Concurrency Modeling
+Citations:2
+Authors: DM Suciu
+Publication: Department of Computer Science,\Babes-Bolyai" University
+
+310. Extending Statecharts for Concurrent Objects Modeling
+Citations:2
+Authors: DM Suciu
+Publication: Studia Universitatis “Babes-Bolyai”, Informatica 44 (1), 37-44
+
+311. Data on the Web: From Relations to
+Citations:2
+Authors: S Abiteboul, P Buneman, D Suciu
+Publication: Morgan Kaufmann Series in Data
+
+312. A Query Language for XML.
+Citations:2
+Authors: MF Fernandez, D Suciu
+Publication: QL
+
+313. Panel session: Metadata for database interoperation
+Citations:2
+Authors: S Cluet, R Connor, R Hull, D Maier, F Matthes, D Suciu
+Publication: International Workshop on Database Programming Languages, 35-37
+
+314. Optimizing regular path expressions using graph schemas(full version)
+Citations:2
+Authors: M Fernandez, D Suciu
+Publication: manuscript available from http://www. research. att. com/~{mff, suciu …
+
+315. Semistructured data in the real world: XML
+Citations:2
+Authors: D Suciu
+Publication: Technical report, AT&T Labs
+
+316. XML Stream Processing
+Citations:2
+Authors: D Suciu
+Publication: CS. washington. edu/h0mes/suciu. 2oo3 一 l0
+
+317. HypDB: Detect, Explain And Resolve Bias in OLAP
+Citations:1
+Authors: B Salimi, J Gehrke, D Suciu
+Publication: arXiv preprint arXiv:1803.04562
+
+318. Recent trends in knowledge compilation (Dagstuhl Seminar 17381)
+Citations:1
+Authors: A Darwiche, P Marquis, D Suciu, S Szeider
+Publication: Dagstuhl Reports 7 (9)
+
+319. A Demonstration of Interactive Analysis of Performance Measurements with Viska
+Citations:1
+Authors: H Gudmundsdottir, B Salimi, M Balazinska, DRK Ports, D Suciu
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+320. Lifted Inference in Probabilistic Databases.
+Citations:1
+Authors: D Suciu
+Publication: Description Logics
+
+321. SQB: Session-based Query Browsing for More Effective Query Reuse
+Citations:1
+Authors: N Khoussainova, Y Kwon, WT Liao, M Balazinska, W Gatterbauer, ...
+Publication: Technical Report 2011-04-02, Department of Computer Science and Engineering …
+
+322. Detecting anomalies in data streams using statecharts.
+Citations:1
+Authors: VM Scuturici, DM Suciu, R Vuillemot, AM Ouksel, L Brunie
+Publication: EGC, 635-636
+
+323. Visual Detection of Rare Events Using Statechart
+Citations:1
+Authors: DM Suciu, R Vuillemot, M Scuturici, IL LIRIS
+Publication: IEEE VisWeek Compendium, VAST Contest, Piscataway, NJ, IEEE
+
+324. Queries and materialized views on probabilistic databases
+Citations:1
+Authors: N Dalvi, C Ré, D Suciu
+Publication: JCSS
+
+325. Probabilistic databases: Diamonds in the dirt (extended version)
+Citations:1
+Authors: N Dalvi, C Ré, D Suciu
+Publication: CACM
+
+326. Censoring and pricing data
+Citations:1
+Authors: P Buneman, D Suciu
+Publication: Manuscript, July
+
+327. Efficient evaluation of
+Citations:1
+Authors: C Ré, D Suciu
+Publication: Database Programming Languages, 186-200
+
+328. The boundary between privacy and utility in data anonymization
+Citations:1
+Authors: V Rastogi, D Suciu, S Hong
+Publication: arXiv preprint cs/0612103
+
+329. Indexing Heterogeneous Data
+Citations:1
+Authors: N Dalvi, D Suciu
+Publication: 
+
+330. XViz: a tool for visualizing XPath expressions
+Citations:1
+Authors: B Handy, D Suciu
+Publication: International XML Database Symposium, 134-148
+
+331. Database Programming Languages: 8th International Workshop, DBPL 2001, Frascati, Italy, September 8-10, 2001. Revised Papers
+Citations:1
+Authors: G Grahne, G Ghelli
+Publication: Springer
+
+332. Query Evaluation-Processing XML Streams with Deterministic Automata
+Citations:1
+Authors: TJ Green, G Miklau, M Onizuka, D Suciu
+Publication: Lecture Notes in Computer Science 2572, 173-189
+
+333. Bio-PDMS: A structural ontology driven peer data management system (PDMS) for biology
+Citations:1
+Authors: P Tarczy-Hornoch, JF Brinkley, R Shaker, P Mork, L Donelson, M Barrier, ...
+Publication: 
+
+334. Foundations of Semistructured Data
+Citations:1
+Authors: A Mendelzon, T Schwentick, D Suciu
+Publication: Schloss Dagstuhl Seminar
+
+335. Reminiscences on influential papers
+Citations:1
+Authors: KA Ross
+Publication: ACM SIGMOD Record 30 (3), 101-104
+
+336. Silkroute: Trading between relations and xml
+Citations:1
+Authors: M Fern, D Suciu
+Publication: Procceding of WWW Conference
+
+337. Semantics on the World Wide Web
+Citations:1
+Authors: L Tanca, D Suciu
+Publication: COMPUTER SYSTEMS SCIENCE AND ENGINEERING 14 (2), 67-68
+
+338. Topological queries in spatial databases
+Citations:1
+Authors: D Suciu, V Vianu
+Publication: Journal of Computer and System Sciences
+
+339. Queries on databases with user-defined functions
+Citations:1
+Authors: D Suciu
+Publication: Technical Reports (CIS), 282
+
+340. Mixed XML/relational data processing
+Citations:1
+Authors: Y Kadiyska, D Suciu
+Publication: Informal Proc. of the workshop on programming language technologies for XML …
+
+341. Specification, Detection, and Notification of RFID Events with Cascadia
+Citations:1
+Authors: E Welbourne, G Cole, N Khoussainova, J Letchner, Y Li, M Balazinska, ...
+Publication: Pearson Publishers
+
+342. Data Management for Causal Algorithmic Fairness
+Citations:
+Authors: B Salimi, B Howe, D Suciu
+Publication: arXiv preprint arXiv:1908.07924
+
+343. CAPUCHIN: CAUSAL DATABASE REPAIR FOR ALGORITHMIC
+Citations:
+Authors: B Salimi, L Rodriguez, B Howe, D Suciu
+Publication: 
+
+344. USING LATENCY METRICS IN NOSQL DATABASE PERFORMANCE BENCHMARKING.
+Citations:
+Authors: CF ANDOR, B PÂRV, DANM SUCIU
+Publication: Studia Universitatis Babes-Bolyai, Informatica 64 (1)
+
+345. Bag Query Containment and Information Theory
+Citations:
+Authors: M Abo Khamis, PG Kolaitis, HQ Ngo, D Suciu
+Publication: arXiv preprint arXiv:1906.09727
+
+346. Dagstuhl Manifestos, Vol. 7, Issue 1 ISSN 2193-2433
+Citations:
+Authors: S Abiteboul, M Arenas, P Barceló, M Bienvenu, D Calvanese, C David, ...
+Publication: 
+
+347. Integrity Constraints Revisited: From Exact to Approximate Implication
+Citations:
+Authors: B Kenig, D Suciu
+Publication: arXiv preprint arXiv:1812.09987
+
+348. Algorithmic Aspects of Parallel Query Processing
+Citations:
+Authors: P Koutris, S Salihoglu, D Suciu
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1659 …
+
+349. Dagstuhl Reports, Vol. 7, Issue 9 ISSN 2192-5283
+Citations:
+Authors: A Dawar, E Grädel, PG Kolaitis, T Schwentick, JC Blanchette, C Fuhs, ...
+Publication: 
+
+350. Boolean Tensor Decomposition for Conjunctive Queries with Negation
+Citations:
+Authors: MA Khamis, HQ Ngo, D Olteanu, D Suciu
+Publication: arXiv preprint arXiv:1712.07445
+
+351. ZaliQL: A SQL-Based Framework for Drawing Causal Inference from Big Data
+Citations:
+Authors: B Salimi, D Suciu
+Publication: arXiv preprint arXiv:1609.03540
+
+352. Worst-Case Optimal Algorithms for Parallel Query Processing
+Citations:
+Authors: P Beame, P Koutris, D Suciu
+Publication: arXiv preprint arXiv:1604.01848
+
+353. SlimShot: Probabilistic inference for web-scale knowledge bases
+Citations:
+Authors: E Gribkoff, D Suciu
+Publication: Workshops at the Thirtieth AAAI Conference on Artificial Intelligence
+
+354. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+355. The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2015
+Citations:
+Authors: F Afrati, F Neven, D Suciu
+Publication: Proceedings of the 34th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+356. Lifted Inference in Probabilistic Databases--An Overview
+Citations:
+Authors: D Suciu
+Publication: Banff International Research Station for Mathematical Innovation and Discovery
+
+357. Communication Cost in Parallel Query Processing.
+Citations:
+Authors: D Suciu
+Publication: EDBT/ICDT Workshops, 27
+
+358. Multi-join Query Evaluation on Big Data Lecture
+Citations:
+Authors: D Suciu
+Publication: 
+
+359. Symmetry in Probabilistic Databases.
+Citations:
+Authors: G Van den Broeck, D Suciu, P Beame, E Gribkoff, W Meert, A Darwiche
+Publication: AMW
+
+360. 3.22 Linear programming and integer linear programming for logical satisfiability problems
+Citations:
+Authors: I Pratt-Hartmann, D Suciu
+Publication: Querying and Reasoning Under Expressive Constraints, 17
+
+361. Session details: Awards session
+Citations:
+Authors: W Fan, F Geerts, D Suciu
+Publication: Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of …
+
+362. The database group at the University of Washington.
+Citations:
+Authors: M Balazinska, B Howe, D Suciu
+Publication: SIGMOD Record 43 (1), 39-44
+
+363. CJLIS 期刊参考文献格式
+Citations:
+Authors: J CAO
+Publication: 数据与情报科学学报 5 (4), 93-93
+
+364. Technical Perspective-SQL on an Encrypted Database
+Citations:
+Authors: D Suciu
+Publication: Communications of the ACM-Association for Computing Machinery-CACM 55 (9), 102
+
+365. EXTENDING UML STATE DIAGRAMS WITH BEHAVIORAL PATTERNS
+Citations:
+Authors: DM Suciu
+Publication: UNIVERSITATIS BABEŞ-BOLYAI INFORMATICA, 77
+
+366. Tractability in probabilistic databases
+Citations:
+Authors: D Suciu
+Publication: Proceedings of the 14th International Conference on Database Theory, 1-2
+
+367. A FRAMEWORK FOR ACTIVE OBJECTS IN. NET.
+Citations:
+Authors: DM Suciu, A Cut
+Publication: Studia Universitatis Babes-Bolyai, Informatica 55 (1)
+
+368. Computing Query Probability with Incidence Algebras Technical Report UW-CSE-10-03-02 University of Washington
+Citations:
+Authors: N Dalvi, K Schnaitter, D Suciu
+Publication: 
+
+369. Definitions matter: reconciling differential and adversarial privacy: invited talk
+Citations:
+Authors: D Suciu
+Publication: Proceedings of the 2010 EDBT/ICDT Workshops, 26
+
+370. An application for creating and debugging vSPARQL view definitions
+Citations:
+Authors: M Shaw, LT Detwiler, JF Brinkley, D Suciu
+Publication: 
+
+371. Semi-Structured Query Languages
+Citations:
+Authors: D Suciu
+Publication: Encyclopedia of Database Systems, 2610-2612
+
+372. XML Compression
+Citations:
+Authors: J R. Haritsa, D Suciu
+Publication: Encyclopedia of Database Systems, 3579-3584
+
+373. Using Probabilistic Views for Large-Scale Statistical Inference.
+Citations:
+Authors: D Suciu
+Publication: SBBD, 259
+
+374. Introduction to ICDT 2007 special section
+Citations:
+Authors: T Schwentick, D Suciu
+Publication: ACM Transactions on Database Systems (TODS) 33 (4), 27
+
+375. Systems aspects of probabilistic data management
+Citations:
+Authors: M Balazinska, C Ré, D Suciu
+Publication: Proceedings of the VLDB Endowment 1 (2), 1520-1521
+
+376. A Tamper-Resistant and Portable Healthcare Folder
+Citations:
+Authors: L Bouganim, G Gardarin, P Kesmarszky, P Pucheral, I Sandu-Popa, ...
+Publication: 
+
+377. An interview with Jan Paredaens
+Citations:
+Authors: J Van den Bussche, D Van Gucht
+Publication: Jan Paredaens is turning 60 on the first of October, 2007. On the occasion …
+
+378. Orderings on Annotated Collections
+Citations:
+Authors: C Re, D Suciu, V Tannen
+Publication: Jan Paredaens is turning 60 on the first of October, 2007. On the occasion …
+
+379. Special issue on database theory
+Citations:
+Authors: D Suciu
+Publication: Journal of Computer and System Sciences 73 (4), 537-537
+
+380. Materialized Views in Probabilistic Databases
+Citations:
+Authors: C Ré, D Suciu
+Publication: 
+
+381. Special issue 2004 PODS-Introduction
+Citations:
+Authors: D Suciu, V Vianu
+Publication: Journal of the ACM-Association for Computing Machinery 53 (2), 207-207
+
+382. SIGMOD/PODS CONFERENCE 2004-Foreword
+Citations:
+Authors: D Suciu, G Weikum
+Publication: ACM Transactions on Database Systems-TODS 30 (4), 887-887
+
+383. Data on the web</title> author="'Serge Abiteboul'
+Citations:
+Authors: P Buneman, D Suciu
+Publication: Foundations of Intelligent Systems: 15th International Symposium, ISMIS 2005 …
+
+384. Automatic XQuery Generation and Generalized Visualization for an XML Interface to a Relational Database
+Citations:
+Authors: ES Lee, D Suciu, JF Brinkley
+Publication: AMIA Annual Symposium Proceedings 2005, 1019
+
+385. Exploiting Structural Similarity For Effective Web Information Extraction
+Citations:
+Authors: E Masciari, S Flesca, G Manco, L Pontieri, A Pugliese
+Publication: Dagstuhl Seminar Proceedings
+
+386. Report on the 9th International Workshop on Data Base Programming Languages.
+Citations:
+Authors: G Lausen, D Suciu
+Publication: SIGMOD Record 33 (1), 145-147
+
+387. Neuroinformatics Tools for Language Mapping
+Citations:
+Authors: JF Brinkley, DP Corina, D Suciu, AV Poliakov, RF Martin, KP Hinshaw, ...
+Publication: 
+
+388. Forword.
+Citations:
+Authors: D Suciu
+Publication: PODS, iii
+
+389. Special Issue on PODS 2001
+Citations:
+Authors: R Fagin, A Lotem, M Naor, KS Larsen, D Achlioptas, N Alon, T Milo, ...
+Publication: 
+
+390. Achlioptas, Dimitris, 671 Agarwal, Pankaj K., 207 Alon, Noga, 688 Arge, Lars, 207 B
+Citations:
+Authors: S Ben-David, M Benedikt, V Carchiolo, Z Chen, NN Dalvi, N Eiron, ...
+Publication: Journal of Computer and System Sciences 66, 853
+
+391. Special Issue on PODS 2000
+Citations:
+Authors: JF Lynch, T Millstein, A Halevy, M Friedman, M Spielmann, T Milo, ...
+Publication: 
+
+392. Data on the Web: From Relational to Semi-structured Data and XML
+Citations:
+Authors: F Berzal, N Marn
+Publication: SIGMOD RECORD 32 (4), 109-110
+
+393. XCube: XML for data warehouses.
+Citations:
+Authors: Y Zhao, T Ma, F Liu, D Barashev, B Novikov, K Park Byung, H Hyoil, ...
+Publication: Information Technology Journal 9 (1), pp: 1-10
+
+394. Report on the Eighth International Workshop on Knowledge Representation Meets Databases (KRDB), September 15, 2001
+Citations:
+Authors: M Lenzerini, D Nardi, W Nutt, D Suciu
+Publication: 
+
+395. Query Optimization for XML</Title
+Citations:
+Authors: J McHugh, J Widom, S Abiteboul, MF Fernandez, D Suciu
+Publication: Advances in Databases: 18th British National Conference on Databases, BNCOD …
+
+396. Typechecking XML Views of Relational Databases'
+Citations:
+Authors: NAT Milo, D Suciu, V Vianu
+Publication: 2001 IEEE Conference on Logic and Computer Science (LICS 2001), 421
+
+397. The World Wide Web and databases: Third International Workshop WebDB 2000, Dallas, TX, USA, May 18-19, 2000; selected papers
+Citations:
+Authors: International Workshop WebDB
+Publication: Springer
+
+398. Report on the 8^ t^ h International Workshop on Knowledge Representation Meets Databases (KRDB)
+Citations:
+Authors: M Lenzerini, D Nardi, W Nutt, D Suciu
+Publication: SIGMOD Record 30 (4), 92-93
+
+399. ACTIVECASE-TOOL FOR DESIGN OF CONCURRENT OBJECT-ORIENTED APPLICATIONS
+Citations:
+Authors: DM Suciu
+Publication: 
+
+400. doi: 10.1006 Âinco. 2001.3025, available online at http: ÂÂwww. idealibrary. com on
+Citations:
+Authors: R Alur, S Crvenkovic, I Dolinka, D Duggan, Z Esik, R Gennaro, M Gyssens, ...
+Publication: Information and Computation 164, 370
+
+401. Noga Alon Tel Aviv University noga@ math. tau. ac. il
+Citations:
+Authors: D Suciu, V Vianu
+Publication: 
+
+402. Of XML and databases (panel session): where's the beef?
+Citations:
+Authors: J Widom, A Bosworth, B Lindsay, M Stonebraker, D Suciu, ...
+Publication: ACM SIGMOD Record 29 (2), 576
+
+403. XQuery 1.0: An XML query language.
+Citations:
+Authors: H Wang, J Li, H Gao, S Abiteboul, P Buneman, D Suciu, DA Beech, ...
+Publication: Information Technology Journal 6 (5), 68-79
+
+404. JME Hyland and C.-HL Ong. On Full Abstraction for PCF. Samson Abramsky, Radha Jagadeesan, and Pasquale Malacaria. Full Abstraction for PCF. AP Kopylov. Decidability of Linear …
+Citations:
+Authors: U Nestmann, BCPDC Encodings, M Gyssens, D Suciu, N Forms, ...
+Publication: Information and Computation 162, 266
+
+405. Bach pedersen. Evaluating XML-extened OLAP queries based on physical algebra.
+Citations:
+Authors: M Ykhlef, S Abiteboul, P Buneman, D Suciu, T Berners-Lee, R Cailliau, ...
+Publication: Information Technology Journal 8 (4), 454-459
+
+406. The session co-chairs are grateful to the reviewers for their careful comments and insightful suggestions: Alan Ableson, Dianne Cook, Paul Kearney, Steven Salzburg, Evan Steeg …
+Citations:
+Authors: PK Gerster, K Shim, D Suciu, E Knorr
+Publication: Pacific Symposium on Biocomputing 4, 124-125
+
+407. A Data Model and Algebra for XML Query
+Citations:
+Authors: D Suciu, P Wadler
+Publication: 
+
+408. Verifying Integrity Constraints on Web Sites
+Citations:
+Authors: D Florescu, A Levy, D Suciu
+Publication: In IJCAI
+
+409. Is Web-site Management a Database Problem?
+Citations:
+Authors: D Florescu, A Levy, D Suciu
+Publication: VLDB, 696
+
+410. Warehousing and Incremental Evaluation for Web Site Management
+Citations:
+Authors: D Florescu, A Levy, D Suciu
+Publication: 
+
+411. CoPa: a Parallel Programming Language for Collections
+Citations:
+Authors: D Suciu, V Tanneny
+Publication: University of Pennsylvania, Institute for
+
+412. Structural map: A new index for efficient XML path expression processing.
+Citations:
+Authors: SC Haw, CS Lee, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, ...
+Publication: Journal of Applied Sciences 7 (20), 68-88
+
+413. Specifying Representations...
+Citations:
+Authors: N Ramsey, M Fernandez
+Publication: Transactions 19 (3)
+
+414. Data on the Web: From Relations to Semistructured Data and XML</title
+Citations:
+Authors: S Abiteboul, P Buneman, D Suciu, N Walsh
+Publication: World Wide Web 2, 97-107
+
+415. Institute for Research in Cognitive Science
+Citations:
+Authors: D Suciu
+Publication: 
+
+416. Domain-Independent Queries on Databases
+Citations:
+Authors: D Suciu
+Publication: Database Theory-ICDT'95: 5th International Conference, Prague, Czech …
+
+417. On polynomially bounded fixpoint constructs for nested databases
+Citations:
+Authors: M GYSSENS, D Suciu, D van Gucht
+Publication: 
+
+418. QUERYING NESTED COLLECTIONS LIMSOON WONG A DISSERTATION IN COMPUTER AND INFORMATION SCIENCE
+Citations:
+Authors: P Buneman, M Steedman
+Publication: University of Pennsylvania
+
+419. Department of Computer and Information Science University of Pennsylvania Philadelphia, PA 19104-6389 Email: suciu@ saul. cis. upenn. edu
+Citations:
+Authors: D Suciu
+Publication: 
+
+420. A Shared-Memory Multiprocessor Implementation of Data-Parallel Operators for ML
+Citations:
+Authors: D Suciu, L Huelsbergen
+Publication: 
+
+421. I10] I11] I12]
+Citations:
+Authors: P Buneman, L Libkin, D Suciu, V Tannen, LWCSS Record
+Publication: 
+
+422. Sequentiality
+Citations:
+Authors: D Suciu
+Publication: 
+
+423. Data on the Web</title
+Citations:
+Authors: D Suciu
+Publication: ACM TODS 7 (3), 381-416
+
+424. Building and Querying Probabilistic Models for Open World Database Systems
+Citations:
+Authors: L Orr, M Balazinska, D Suciu
+Publication: 
+
+425. Performance-Based Service Level Agreements for Data Analytics in the Cloud
+Citations:
+Authors: J Ortiz, M Balazinska, D Suciu, H Hajishirzi
+Publication: 
+
+426. Tiresias
+Citations:
+Authors: A Meliou, D Suciu
+Publication: 
+
+427. Believe It or Not–Adding belief annota ons to databases
+Citations:
+Authors: W GaFerbauer, M Balazinska, N Khoussainova, D Suciu
+Publication: 
+
+428. General Terms
+Citations:
+Authors: D Jia, WG Yee, O Frieder
+Publication: 
+
+429. All you need is ASK: Leveraging Application-Specific Knowledge to Build Databases
+Citations:
+Authors: C Yan, G Prasaad, A Cheung, D Suciu
+Publication: 
+
+430. " Offizielle" elektronische Version der Publikation (entsprechend ihrem Digital Object Identifier-DOI)
+Citations:
+Authors: S Abiteboul, M Arenas, P Barceló, M Bienvenu, D Calvanese, C David, ...
+Publication: 
+
+431. Workshop Organization
+Citations:
+Authors: AHF Laender, J Freire, D Suciu, MM Moro, V Braganholo, C Davis Jr, ...
+Publication: 
+
+432. Efficient Evaluation of HAVING Queries on a Probabilistic Database University of Washington TR:# 2007-06-01
+Citations:
+Authors: C Ré, D Suciu
+Publication: 
+
+433. Data Conflict Resolution Using Trust Mappings Wolfgang Gatterbauer
+Citations:
+Authors: D Suciu
+Publication: 
+
+434. PRINCIPLES OF DATABASE SYSTEMS (PODS 2014)
+Citations:
+Authors: M Grohe, S Abiteboul, P Barcelo, J van den Bussche, A Cali, S Cohen, ...
+Publication: 
+
+435. Computer Science Colloquium Querying Probabilistic Data
+Citations:
+Authors: D Suciu
+Publication: 
+
+436. XML toolkit
+Citations:
+Authors: D SUCIU
+Publication: http://www. cs. washington. edu/homes/suciu/XMLTK
+
+437. Letter from the Special Issue Editor
+Citations:
+Authors: E Gribkoff, D Suciu
+Publication: 
+
+438. Probabilistic Data Integration Systems
+Citations:
+Authors: D Suciu
+Publication: 
+
+439. AT&T Labs| Research suciu@ research. att. com
+Citations:
+Authors: D Suciu
+Publication: 
+
+440. The XML TÝpechecking Problem
+Citations:
+Authors: D Suciu
+Publication: 
+
+441. Data Engineering
+Citations:
+Authors: E Gribkoff, D Suciu, G Van den Broeck, C Ré, AA Sadeghian, Z Shan, ...
+Publication: 
+
+442. CSCS20 Committees
+Citations:
+Authors: I Dumitrache, AM Florea, AEF Seghrouchni, D Tufiú, FG Filip, ...
+Publication: 
+
+443. APPLICATION FRAMEWORK REUSE USING CASE TOOLS
+Citations:
+Authors: DANM SUCIU
+Publication: 
+
+444. Database Theory 2005 Guest Editor: Dan Suciu
+Citations:
+Authors: D Suciu, D Leinders, J Van den Bussche, W Martens, J Niehren, W Faber, ...
+Publication: 
+
+445. DATABASE: CREATION, MANAGEMENT AND UTILIZATION
+Citations:
+Authors: G Vossen, D Shasha, S Amer-Yahia, R Baeza-Yates, P Bonnet, ...
+Publication: 
+
+446. Database Theory 2004
+Citations:
+Authors: M Benedikt, M Bawa, A Gionis, H Garcia-Molina, R Motwani, E Cohen, ...
+Publication: 
+
+447. HSU CN.. 521
+Citations:
+Authors: E Bertino, B Catantia, S Chakravarthy, L Chiesa, I Cicekii, S Cluet, ...
+Publication: 
+
+448. Declarative Specification of Web Sites with
+Citations:
+Authors: M Fernandez, D Florescu, A Levy, D Suciu
+Publication: 
+
+449. XSym 2004: database and XML technologies(Toronto ON, 29-30 August 2004)
+Citations:
+Authors: Z Bellahsène, T Milo, M Rys, D Suciu, R Unland
+Publication: Lecture notes in computer science
+
+450. The world wide web and databases(Dallas TX, 18-19 May 2000, selected papers)
+Citations:
+Authors: D Suciu, G Vossen
+Publication: Lecture notes in computer science
+
+451. Privacy and Data Uncertainty
+Citations:
+Authors: V Rastogi, D Suciu
+Publication: 
+
+452. GenDGen: A Generic Framework for Synthetic Data Generation
+Citations:
+Authors: AK Gupta, D Suciu
+Publication: 
+
+453. Ш и гвзиж виз жгб Хг а Фг Шг ви г Ю л Д ми в зиж иЕ
+Citations:
+Authors: IM Lenzerini, D Nardi, W Nutt, D Suciu
+Publication: 
+
+454. Technical Report UW-CSE-11-03-01
+Citations:
+Authors: P Koutris, D Suciu
+Publication: 
+
+455. Declarative Specification of Data-intensive Web sites
+Citations:
+Authors: D Suciu, I Tatarinov
+Publication: 
+
+456. Vibhor Rastogi
+Citations:
+Authors: G Borriello, D Suciu, T Kohno
+Publication: 
+
+457. A Demonstration of ScenicPeex Through a Digital Diary Application
+Citations:
+Authors: N Khoussainova, E Welbourne, M Balazinska, G Borriello, J Letchner, ...
+Publication: 
+
+458. XML: Model, Schemas, Types, Logics and Queries DRAFT
+Citations:
+Authors: N Klarlund, T Schwentick, D Suciu
+Publication: 
+
+459. Guy Jacobson
+Citations:
+Authors: D Srivastava, D Suciu
+Publication: 
+
+460. Noga Alon Tel Aviv University noga@ tau. math. ac. il
+Citations:
+Authors: D Suciu, V Vianu
+Publication: 
+
+461. Bulletin of the Technical Committee on
+Citations:
+Authors: M Fernandez, A Morishima, D Suciu, WC Tan
+Publication: 
+
+462. Containment for XPath" year=" 2002"
+Citations:
+Authors: A Watt, S Abiteboul, P Bunemann, D Suciu, G Miklau, D Suciu
+Publication: XPath Essentials" isbn=" 0471205486"
+
+463. DBPL 2003: database programming languages(Potsdam, 6-8 September 2003, revised papers)
+Citations:
+Authors: G Lausen, D Suciu
+Publication: Lecture notes in computer science
+
+464. Database Programming Languages (DBPL-5)
+Citations:
+Authors: M Gyssens, D Suciu, D Van Gucht
+Publication: 
+
+465. Materialized Views in Probabilistic Databases For Information Exchange and Query Optimization (Full Version) University of Washington Technical Report# TR2007-03-02
+Citations:
+Authors: C Ré, D Suciu
+Publication: 
+
+466. Noga Alon Tel Aviv University noga@ post. tau. ac. il
+Citations:
+Authors: D Suciu, V Vianu
+Publication: 
+
+467. The Capability Maturity Model [4] is an orderly way for organizations to determine the capabilities of their current processes for developing software and to establish …
+Citations:
+Authors: S Chaudhuri, D Kossmann, J Chomicki, H Mannila, L Gravano, ...
+Publication: 
+
+468. Probabilistic Query Answering Using Views
+Citations:
+Authors: N Dalvi, D Suciu
+Publication: 
+
+469. Philip A Bernstein
+Citations:
+Authors: C Faloutsos, D Suciu
+Publication: University of California Berkeley 2671, 21
+
+470. Output Perturbation for Sensitive Queries
+Citations:
+Authors: V Rastogi, M Hay, G Miklau, D Suciu
+Publication: 
+
+471. Overview of Strudel-A Web-Site Management System
+Citations:
+Authors: MFDFJ Kang, A Levy, D Suciu
+Publication: 
+
+472. Techniques for managing probabilistic data
+Citations:
+Authors: D Suciu
+Publication: 
+
+473. XMLTУ: An XML Tool it for Scalable XML Stream Processing
+Citations:
+Authors: I Avila-Campillo, TJ Green, A Gupta, M Onizuka, D Raven, D Suciu
+Publication: 
+
+474. Adversarial Privacy: Achieving Attacker-Oriented Privacy
+Citations:
+Authors: V Rastogi, D Suciu
+Publication: 
+
+475. Distributed Evaluation of Network Directory Queries
+Citations:
+Authors: SAYD Srivastava, D Suciu
+Publication: 
+
+476. Applying the Probabilistic Method to Global Data Sharing
+Citations:
+Authors: N Dalvi, D Suciu
+Publication: 
+
+477. Database Programming Languages (DBPL-5)
+Citations:
+Authors: P Buneman, S Davidson, D Suciu
+Publication: 
+
+478. Database Theory Column1
+Citations:
+Authors: D Suciu
+Publication: 
+
+479. UW TR:# TR2008-03-02
+Citations:
+Authors: C Ré, D Suciu
+Publication: 
+
+480. Bibliographic Notes
+Citations:
+Authors: D Suciu, N Dalvi
+Publication: 
+
+481. General Database Statistics Using Entropy Maximization TR: 2009-05-01
+Citations:
+Authors: R Kaushik, C Ré, D Suciu
+Publication: 
+

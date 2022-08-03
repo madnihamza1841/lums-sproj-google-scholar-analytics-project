@@ -1,0 +1,648 @@
+https://scholar.google.com/citations?hl=en&user=kTTBpJkAAAAJ
+Total Citations = 7957
+
+1. Non-interactive verifiable computing: Outsourcing computation to untrusted workers
+Citations:950
+Authors: R Gennaro, C Gentry, B Parno
+Publication: Annual Cryptology Conference, 465-482
+
+2. Distributed detection of node replication attacks in sensor networks
+Citations:815
+Authors: B Parno, A Perrig, V Gligor
+Publication: IEEE Symposium on Security and Privacy
+
+3. Flicker: An execution infrastructure for TCB minimization
+Citations:774
+Authors: JM McCune, BJ Parno, A Perrig, MK Reiter, H Isozaki
+Publication: ACM SIGOPS Operating Systems Review 42 (4), 315-328
+
+4. Challenges in securing vehicular networks
+Citations:563
+Authors: B Parno, A Perrig
+Publication: Workshop on hot topics in networks (HotNets-IV), 1-6
+
+5. Pinocchio: Nearly practical verifiable computation
+Citations:488
+Authors: B Parno, J Howell, C Gentry, M Raykova
+Publication: 2013 IEEE Symposium on Security and Privacy, 238-252
+
+6. Quadratic span programs and succinct NIZKs without PCPs
+Citations:348
+Authors: R Gennaro, C Gentry, B Parno, M Raykova
+Publication: Annual International Conference on the Theory and Applications of …
+
+7. How to delegate and verify in public: Verifiable computation from attribute-based encryption
+Citations:315
+Authors: B Parno, M Raykova, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 422-439
+
+8. Securing anti-virus software with virtualization
+Citations:314
+Authors: JH Wang, JR Lorch, BJ Parno
+Publication: US Patent 8,307,443
+
+9. Phoolproof phishing prevention
+Citations:266
+Authors: B Parno, C Kuo, A Perrig
+Publication: International Conference on Financial Cryptography and Data Security, 1-19
+
+10. Portcullis: Protecting connection setup from denial-of-capability attacks
+Citations:231
+Authors: B Parno, D Wendlandt, E Shi, A Perrig, B Maggs, YC Hu
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 289-300
+
+11. User-driven access control: Rethinking permission granting in modern operating systems
+Citations:228
+Authors: F Roesner, T Kohno, A Moshchuk, B Parno, HJ Wang, C Cowan
+Publication: 2012 IEEE Symposium on Security and Privacy, 224-238
+
+12. Permacoin: Repurposing bitcoin work for data preservation
+Citations:178
+Authors: A Miller, A Juels, E Shi, B Parno, J Katz
+Publication: 2014 IEEE Symposium on Security and Privacy, 475-490
+
+13. Bootstrapping trust in commodity computers
+Citations:167
+Authors: B Parno, JM McCune, A Perrig
+Publication: 2010 IEEE Symposium on Security and Privacy, 414-429
+
+14. IronFleet: proving practical distributed systems correct
+Citations:165
+Authors: C Hawblitzel, J Howell, M Kapritsos, JR Lorch, B Parno, ML Roberts, ...
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 1-17
+
+15. Process mining
+Citations:143
+Authors: WMP van der Aalst
+Publication: Encyclopedia of Database Systems, 2171-2173
+
+16. Ironclad apps: End-to-end security via automated full-system verification
+Citations:141
+Authors: C Hawblitzel, J Howell, JR Lorch, A Narayan, B Parno, D Zhang, B Zill
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+17. Bootstrapping Trust in a "Trusted" Platform.
+Citations:135
+Authors: B Parno
+Publication: HotSec
+
+18. Geppetto: Versatile verifiable computation
+Citations:116
+Authors: C Costello, C Fournet, J Howell, M Kohlweiss, B Kreuter, M Naehrig, ...
+Publication: 2015 IEEE Symposium on Security and Privacy, 253-270
+
+19. CLAMP: Practical prevention of large-scale data leaks
+Citations:102
+Authors: B Parno, JM McCune, D Wendlandt, DG Andersen, A Perrig
+Publication: 2009 30th IEEE Symposium on Security and Privacy, 154-169
+
+20. Memoir: Practical state continuity for protected modules
+Citations:96
+Authors: B Parno, JR Lorch, JR Douceur, J Mickens, JM McCune
+Publication: 2011 IEEE Symposium on Security and Privacy, 379-394
+
+21. Secure sensor network routing: A clean-slate approach
+Citations:94
+Authors: B Parno, M Luk, E Gaustad, A Perrig
+Publication: Proceedings of the 2006 ACM CoNEXT conference, 11
+
+22. Resolving the conflict between generality and plausibility in verified computation
+Citations:92
+Authors: S Setty, B Braun, V Vu, AJ Blumberg, B Parno, M Walfish
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 71-84
+
+23. How low can you go?: recommendations for hardware-supported minimal TCB code execution
+Citations:87
+Authors: JM McCune, B Parno, A Perrig, MK Reiter, A Seshadri
+Publication: ACM SIGARCH Computer Architecture News 36 (1), 14-25
+
+24. Pinocchio coin: building zerocoin from a succinct pairing-based proof system
+Citations:83
+Authors: G Danezis, C Fournet, M Kohlweiss, B Parno
+Publication: Proceedings of the First ACM workshop on Language support for privacy …
+
+25. Unidirectional Key Distribution Across Time and Space with Applications to RFID Security.
+Citations:83
+Authors: A Juels, R Pappu, B Parno
+Publication: USENIX Security Symposium, 75-90
+
+26. Minimal TCB code execution
+Citations:83
+Authors: JM McCune, B Parno, A Perrig, MK Reiter, A Seshadri
+Publication: 2007 IEEE Symposium on Security and Privacy (SP'07), 267-272
+
+27. Bootstrapping trust in modern computers
+Citations:78
+Authors: B Parno, JM McCune, A Perrig
+Publication: Springer Science & Business Media
+
+28. Shroud: Ensuring private access to large-scale data in the data center
+Citations:71
+Authors: JR Lorch, B Parno, J Mickens, M Raykova, J Schiffman
+Publication: Presented as part of the 11th {USENIX} Conference on File and Storage …
+
+29. Vale: Verifying high-performance cryptographic assembly code
+Citations:49
+Authors: B Bond, C Hawblitzel, M Kapritsos, KRM Leino, JR Lorch, B Parno, ...
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 917-934
+
+30. Personal identification combining proximity sensing with biometrics
+Citations:49
+Authors: CSF Smowton, R Chaiken, W Cui, OH Foehr, JR Lorch, D Molnar, ...
+Publication: US Patent 9,152,868
+
+31. User-driven access control
+Citations:45
+Authors: F Roesner, T Kohno, A Moshchuk, BJ Parno, HJ Wang
+Publication: US Patent 9,106,650
+
+32. Embassies: Radically refactoring the web
+Citations:45
+Authors: J Howell, B Parno, JR Douceur, M Dahlin, V Shmatikov, B Krishnamurthy, ...
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+33. Method and apparatus for secure online transactions
+Citations:41
+Authors: B Parno, C Kuo, A Perrig
+Publication: US Patent 8,352,738
+
+34. Gray failure: The achilles' heel of cloud-scale systems
+Citations:39
+Authors: P Huang, C Guo, L Zhou, JR Lorch, Y Dang, M Chintalapati, R Yao
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 150-155
+
+35. Lockdown: Towards a safe and practical architecture for security applications on commodity platforms
+Citations:36
+Authors: A Vasudevan, B Parno, N Qu, VD Gligor, A Perrig
+Publication: International Conference on Trust and Trustworthy Computing, 34-54
+
+36. Lockdown: A Safe and Practical Environment for Security Applications (CMU-CyLab-09-011)
+Citations:32
+Authors: A Vasudevan, B Parno, N Qu, VD Gligor, A Perrig
+Publication: figshare
+
+37. Lockdown: A Safe and Practical Environment for Security Applications (CMU-CyLab-09-011)
+Citations:32
+Authors: A Vasudevan, B Parno, N Qu, VD Gligor, A Perrig
+Publication: figshare
+
+38. Komodo: Using verification to disentangle secure-enclave hardware from software
+Citations:28
+Authors: A Ferraiuolo, A Baumann, C Hawblitzel, B Parno
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 287-305
+
+39. Hash first, argue later: Adaptive verifiable computations on outsourced data
+Citations:26
+Authors: D Fiore, C Fournet, E Ghosh, M Kohlweiss, O Ohrimenko, B Parno
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+40. Toward Practical Private Access to Data Centers via Parallel ORAM.
+Citations:23
+Authors: JR Lorch, JW Mickens, B Parno, M Raykova, J Schiffman
+Publication: IACR Cryptology ePrint Archive 2012, 133
+
+41. SNAPP: Stateless network-authenticated path pinning
+Citations:22
+Authors: B Parno, A Perrig, D Andersen
+Publication: Proceedings of the 2008 ACM symposium on Information, computer and …
+
+42. Methods and apparatuses for user-verifiable execution of security-sensitive code
+Citations:21
+Authors: JM McCune, AM Perrig, A Datta, VD Gligor, Y Li, BJ Parno, A Vasudevan, ...
+Publication: US Patent 8,627,414
+
+43. How to Run {POSIX} Apps in a Minimal Picoprocess
+Citations:21
+Authors: J Howell, B Parno, JR Douceur
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+44. Everest: Towards a verified, drop-in replacement of HTTPS
+Citations:20
+Authors: K Bhargavan, B Bond, A Delignat-Lavaud, C Fournet, C Hawblitzel, ...
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+45. Cinderella: Turning shabby X. 509 certificates into elegant anonymous credentials with the magic of verifiable computation
+Citations:20
+Authors: A Delignat-Lavaud, C Fournet, M Kohlweiss, B Parno
+Publication: 2016 IEEE Symposium on Security and Privacy (SP), 235-254
+
+46. Utilization of a protected module to prevent offline dictionary attacks
+Citations:19
+Authors: SE Schechter, DA Molnar, JR Lorch, BC Bond, BJ Parno
+Publication: US Patent 9,294,281
+
+47. Trust extension as a mechanism for secure code execution on commodity computers
+Citations:19
+Authors: BJ Parno
+Publication: Carnegie Mellon University
+
+48. An Analysis of Database-Driven Mail Servers.
+Citations:17
+Authors: N Elprin, B Parno
+Publication: Lisa 17, 15-22
+
+49. Automated verification of a software system
+Citations:14
+Authors: C Hawblitzel, B Parno, JR Lorch, JR Howell, BD Zill
+Publication: US Patent 9,536,093
+
+50. Key distribution in unidirectional channels with applications to RFID
+Citations:14
+Authors: A Juels, B Parno
+Publication: US Patent 8,031,875
+
+51. The trusted platform module (TPM) and sealed storage
+Citations:11
+Authors: B Parno
+Publication: TPM Documentation. June 21st
+
+52. End-to-end security for hardware running verified software
+Citations:9
+Authors: C Hawblitzel, B Parno, JR Lorch, JR Howell, BD Zill
+Publication: US Patent 9,363,087
+
+53. The web interface should be radically refactored
+Citations:9
+Authors: JR Douceur, J Howell, B Parno, M Walfish, X Xiong
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 10
+
+54. Internet ballistics: Retrieving forensic data from network scans
+Citations:9
+Authors: B Parno, T Bartoletti
+Publication: Poster Presented at the 13th USENIX Security Symp., San Diego, CA
+
+55. A Note on the Unsoundness of vnTinyRAM's SNARK.
+Citations:8
+Authors: B Parno
+Publication: IACR Cryptology ePrint Archive 2015, 437
+
+56. Help me help you: Using trustworthy host-based information in the network
+Citations:8
+Authors: B Parno, Z Zhou, A Perrig
+Publication: Technical Report CMU-CyLab--, Carnegie Mellon University, Cylab, Nov.. In …
+
+57. An execution infrastructure for TCB minimization
+Citations:8
+Authors: JM McCune, B Parno, A Perrig, MK Reiter, H Isozaki
+Publication: figshare
+
+58. Talek: a private publish-subscribe protocol
+Citations:7
+Authors: R Cheng, W Scott, B Parno, A Krishnamurthy, T Anderson
+Publication: Technical Report. University of Washington
+
+59. Providing consistent security information
+Citations:7
+Authors: JR Douceur, B Parno, RW Reeder
+Publication: US Patent 9,432,401
+
+60. Using trustworthy host-based information in the network
+Citations:7
+Authors: B Parno, Z Zhou, A Perrig
+Publication: Proceedings of the seventh ACM workshop on Scalable trusted computing, 33-44
+
+61. Trust extension for commodity computers
+Citations:7
+Authors: B Parno
+Publication: Communications of the ACM 55
+
+62. Memoir—formal specs and correctness proofs
+Citations:7
+Authors: JJD Douceur, J Lorch, B Parno, J Mickens, JM McCune
+Publication: 
+
+63. Don’t Talk to Zombies: Mitigating DDoS Attacks via Attestation
+Citations:6
+Authors: B Parno, Z Zhou, A Perrig
+Publication: June
+
+64. Roots of Trust
+Citations:5
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 35-40
+
+65. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: D Lindley
+Publication: Communications of the ACM 52 (10), 11-13
+
+66. A verified, efficient embedding of a verifiable assembly language
+Citations:4
+Authors: A Fromherz, N Giannarakis, C Hawblitzel, B Parno, A Rastogi, N Swamy
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 63
+
+67. Personal Identification Combining Proximity Sensing with Biometrics
+Citations:4
+Authors: CSF Smowton, R Chaiken, W Cui, OH Foehr, JR Lorch, D Molnar, ...
+Publication: US Patent App. 14/846,172
+
+68. Countermeasures against government-scale monetary forgery
+Citations:4
+Authors: A Acquisti, N Christin, B Parno, A Perrig
+Publication: International Conference on Financial Cryptography and Data Security, 262-266
+
+69. Free flowing powder
+Citations:4
+Authors: CAL Maris, SM Oosterbosch
+Publication: US Patent 7,037,976
+
+70. Providing intent-based access to user-owned resources
+Citations:3
+Authors: F Roesner, T Kohno, A Moshchuk, BJ Parno, HJ Wang
+Publication: US Patent App. 13/368,334
+
+71. Flicker: Minimal TCB code execution
+Citations:3
+Authors: J McCune, B Parno, A Perrig, M Reiter, H Isozaki
+Publication: 
+
+72. FANFARE for the common flow
+Citations:3
+Authors: E Shi
+Publication: figshare
+
+73. Missive: Fast application launch from an untrusted buffer cache
+Citations:2
+Authors: J Howell, J Elson, B Parno, JR Douceur
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 145-156
+
+74. SAV-V: Securing Anti-Virus with Virtualization
+Citations:2
+Authors: JR Lorch, B Parno, HJ Wang
+Publication: Microsoft Research TechReport
+
+75. 1 Browser Enhancements for Preventing Phishing Attacks
+Citations:2
+Authors: C Kuo, B Parno, A Perrig
+Publication: Phishing and countermeasures: Understanding the increasing problem of …
+
+76. Defending a P2P digital preservation system
+Citations:2
+Authors: B Parno, M Roussopoulos
+Publication: IEEE Transactions on Dependable and Secure Computing 1 (4), 209-222
+
+77. EverCrypt: A Fast, Verified, Cross-Platform Cryptographic Provider
+Citations:1
+Authors: J Protzenko, B Parno, A Fromherz, C Hawblitzel, M Polubelova, ...
+Publication: IACR Cryptology ePrint Archive 757, 2019
+
+78. Missive: Fast appliance launch from an untrusted buffer cache
+Citations:1
+Authors: J Howell, J Elson, B Parno, JJD Douceur
+Publication: 
+
+79. Challenges in bootstrapping trust in secure hardware
+Citations:1
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 41-50
+
+80. Architectures for Practical Client–Side Security
+Citations:1
+Authors: V Gligor, J McCune, B Parno, A Perrig, A Vasudevan, Z Zhou
+Publication: Trustworthy Computing 2010
+
+81. Dependable and Secure Computing
+Citations:1
+Authors: H Wang, D Zhang, K Shin, B Parno, M Roussopoulos, A Bondavalli, ...
+Publication: IEEE Transactions on 1 (4), 193
+
+82. Utilization of a protected module to prevent offline dictionary attacks
+Citations:
+Authors: SE Schechter, DA Molnar, JR Lorch, BC Bond, BJ Parno
+Publication: US Patent 9,544,280
+
+83. Peer-reviewed publications
+Citations:
+Authors: H Kang
+Publication: Cancer 2 (4), 405-413
+
+84. End-to-end security for hardware running verified software
+Citations:
+Authors: C Hawblitzel, JR Lorch, JR Howell, BD Zill, B Parno
+Publication: US Patent App. 15/144,200
+
+85. Securing anti-virus software with virtualization
+Citations:
+Authors: JH Wang, JR Lorch, BJ Parno
+Publication: US Patent 9,230,100
+
+86. Network Adversary Attacks against Secure Encryption Schemes
+Citations:
+Authors: VD Gligor, B Parno, JS Shin
+Publication: IEICE Transactions on Communications 98 (2), 267-279
+
+87. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+88. Permacoin: Repurposing Bitcoin Work for Data Preservation
+Citations:
+Authors: E Shi, B Parno, A Miller, J Katz, A Juels
+Publication: 
+
+89. Fifth ACM cloud computing security workshop (CCSW 2013)
+Citations:
+Authors: A Juels, B Parno
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+90. The first workshop on language support for privacy-enhancing technologies (PETShop'13)
+Citations:
+Authors: M Franz, A Holzer, R Majumdar, B Parno, H Veith
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+91. The 10-Kilobyte Web Browser
+Citations:
+Authors: J Howell, B Parno, JR Douceur
+Publication: ; login:: the magazine of USENIX & SAGE 38 (6), 6-9
+
+92. PETShop'13: Proceedings of the First ACM Workshop on Language Support for Privacy-enhancing Technologies
+Citations:
+Authors: M Franz, A Holzer, R Majumdar, B Parno, H Veith
+Publication: First ACM Workshop on Language Support for Privacy-enhancing Technologies
+
+93. Pinocchio coin: building zerocoin from a succinct pairing-based proof system.
+Citations:
+Authors: C Fournet, G Danezis, B Parno, M Kohlweiss
+Publication: 
+
+94. Eratosthenes: Radically Refactoring the Web
+Citations:
+Authors: J Howell, B Parno, JJD Douceur
+Publication: 
+
+95. Refactoring the Web Interface
+Citations:
+Authors: J Howell, B Parno, JJD Douceur
+Publication: 
+
+96. How Do We Make Sense of Platform State?
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 25-33
+
+97. Implementing Trust Bootstrapping: Open Source Tools
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 59-60
+
+98. Can We Use Platform Information Remotely?
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 19-24
+
+99. What Do We Need to Know? Techniques for Recording Platform State
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 3-11
+
+100. Human Factors & Usability
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 61-72
+
+101. Limitations
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 73-74
+
+102. Refactoring the Web Interface
+Citations:
+Authors: JR Douceur, J Howell, B Parno, M Walfish
+Publication: SOSP 2011 Poster Session
+
+103. Validating the Process
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 51-52
+
+104. Monetary Forgery in the Digital Age: Will Physical-Digital Cash Be a Solution
+Citations:
+Authors: N Christin, A Acquisti, B Parno, A Perrig
+Publication: ISJLP 7, 171
+
+105. Can We Use Platform Information Locally?
+Citations:
+Authors: B Parno, JM McCune, A Perrig
+Publication: Bootstrapping Trust in Modern Computers, 13-18
+
+106. Optimal parameter selection for efficient memory integrity verification using merkle hash trees.
+Citations:
+Authors: C Chang, L Gao, H Kou, X Liu, Z Qin, G Xu, F Stumpf, A Fuchs, ...
+Publication: Information Technology Journal 9 (1), pp: 1-10
+
+107. Don’t Talk to Zombies: Mitigating DDoS Attacks via Attestation (CMU-CyLab-09-009)
+Citations:
+Authors: B Parno, Z Zhou, A Perrig
+Publication: 
+
+108. Netattest
+Citations:
+Authors: B Parno, Z Zhou, A Perrig
+Publication: 
+
+109. thaNks tO Our summarIzers
+Citations:
+Authors: K Borders, A Brown, JA Calandrino, W Enck, S Gianvecchio, D King, ...
+Publication: 
+
+110. Flicker: An execution infrastructure for TCB minimization.
+Citations:
+Authors: R He, Z Qin, S Wu, EM Gallery, CJ Mitchell, A Martin, E Gallery, GH Kim, ...
+Publication: Information Technology Journal 9 (2), pp: 282-323-pp: 282-323
+
+111. Additional reading
+Citations:
+Authors: C Carson, O Dickey, D Mathis, B Grofman, J Lewis, C Ogletree Jr, ...
+Publication: Sex from Plato to Paglia: AL 1, 410
+
+112. Problem Set 3
+Citations:
+Authors: J Hendricks, J Pang, B Parno
+Publication: 
+
+113. How to Subvert LOCKSS
+Citations:
+Authors: B Parno
+Publication: 
+
+114. How to Subvert LOCKSS and What the LOCKSSmith Can Do About It
+Citations:
+Authors: B Parno
+Publication: 
+
+115. Hash First, Argue Later
+Citations:
+Authors: D Fiore, C Fournet, E Ghosh, M Kohlweiss, O Ohrimenko, B Parno
+Publication: 
+
+116. Ironclad Apps: End-to-End Security via Automated Full-System Verification
+Citations:
+Authors: D Zhang, A Narayan, J Lorch, C Hawblitzel, J Howell, B Parno, B Zill
+Publication: 
+
+117. Program Committee Co-chairs
+Citations:
+Authors: B Parno, C Kruegel
+Publication: 
+
+118. Úlfar Erlingsson Google
+Citations:
+Authors: B Parno, M Backes, D Balzarotti, G Barthe, L Bauer, K Bhargavan, ...
+Publication: 
+
+119. Message from the Program Committee Co-Chairs
+Citations:
+Authors: U Erlingsson, B Parno
+Publication: 
+
+120. Extracting from F* to C: a progress report
+Citations:
+Authors: P Wang, K Bhargavan, JK Zinzindohoué, A Anand, C Fournet, B Parno, ...
+Publication: 
+
+121. Embassies: Radically refactoring the web
+Citations:
+Authors: JR Douceur, J Howell, B Parno
+Publication: 
+
+122. Practical Perl Tools: Parsing Command Lines
+Citations:
+Authors: S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...
+Publication: 
+
+123. Unidirectional Key Distribution Across Time and Space with Applications to RFID Security Ari Juels RSA Laboratories
+Citations:
+Authors: R Pappu, B Parno
+Publication: 
+
+124. EN Elnozahy (Mootaz), IBM, USA
+Citations:
+Authors: G Fohler, B Garbinato, H Giese, A Girault, FGP Greve, J Goossens, ...
+Publication: 
+
+125. Toward practical argument systems for verifiable computation
+Citations:
+Authors: AJ Blumberg, B Parno, V Shmatikov
+Publication: 
+
+126. Research Proposal: Analyze & Thwart Adversaries in the LOCKSS System
+Citations:
+Authors: B Parno
+Publication: 
+
+127. Quadratic Span Programs for Efficient Verifiable Computations
+Citations:
+Authors: R Gennaro, C Gentry, B Parno, M Raykova
+Publication: 
+
+128. 2004 Index IEEE Transactions on Dependable and Secure Computing Vol.
+Citations:
+Authors: V Atluri, A Avizienis, W Bartlett, TN Blalock, A Bondavalli, S Chiaradonna, ...
+Publication: Computer 11, 33
+
+129. Predicting Adversary Infiltration in the LOCKSS P2P Digital Preservation System
+Citations:
+Authors: B Parno, M Roussopoulos
+Publication: 
+

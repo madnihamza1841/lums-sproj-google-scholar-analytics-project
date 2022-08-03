@@ -1,0 +1,1753 @@
+https://scholar.google.com/citations?hl=en&user=HaI6LesAAAAJ
+Total Citations = 19463
+
+1. MPI: the complete reference (Vol. 2)
+Citations:4232
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: The MIT Press
+
+2. MPI–The Complete Reference, 2nd edn. The MPI Core, vol. 1
+Citations:3933
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: MIT Press, Cambridge
+
+3. The NYU Ultracomputer: Designing an MIMD Shared Memory Parallel Computer
+Citations:931
+Authors: A Gottlieb, R Grishman, CP Kruskal, KP McAuliffe, L Rudolph, M Snir
+Publication: Computers, IEEE Transactions on 100 (2), 175-189
+
+4. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+5. The performance of multistage interconnection networks for multiprocessors
+Citations:697
+Authors: CP Kruskal, M Snir
+Publication: IEEE transactions on computers, 1091-1098
+
+6. Efficient and correct execution of parallel programs that share memory
+Citations:425
+Authors: D Shasha, M Snir
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 10 (2), 282-312
+
+7. Toward exascale resilience
+Citations:376
+Authors: F Cappello, A Geist, B Gropp, L Kale, B Kramer, M Snir
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+8. The power of parallel prefix
+Citations:328
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: IEEE Transactions on Computers 100 (10), 965-968
+
+9. A Model for Hierarchical Memory
+Citations:323
+Authors: A Aggarwal, B Alpern, AK Chandra, M Snir:
+Publication: Proceedings of the nnual ACM Symposium on Theory of Computing 19, 305-314
+
+10. Blue Gene: A vision for protein science using a petaflop supercomputer
+Citations:321
+Authors: F Allen, G Almasi, W Andreoni, D Beece, BJ Berne, A Bright, J Brunheroto, ...
+Publication: IBM systems journal 40 (2), 310-327
+
+11. Communication complexity of PRAMs
+Citations:297
+Authors: A Aggarwal, AK Chandra, M Snir
+Publication: Theoretical Computer Science 71 (1), 3-28
+
+12. The NYU Ultracomputer—designing a MIMD, shared-memory parallel machine
+Citations:286
+Authors: A Gottlieb, R Grishman, CP Kruskal, KP McAuliffe, L Rudolph, M Snir
+Publication: ACM SIGARCH Computer Architecture News 10 (3), 27-42
+
+13. SP2 system architecture
+Citations:285
+Authors: T Agerwala, JL Martin, JH Mirza, DC Sadler, DM Dias, M Snir
+Publication: IBM Systems Journal 34 (2), 414-446
+
+14. Computing on an anonymous ring
+Citations:275
+Authors: H Attiya, M Snir, MK Warmuth
+Publication: Journal of the ACM (JACM) 35 (4), 845-875
+
+15. MPI: The Complete Reference—The MPI Core, Vol. 1
+Citations:270
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: MIT, Cambridge
+
+16. Addressing failures in exascale computing
+Citations:268
+Authors: M Snir, RW Wisniewski, JA Abraham, SV Adve, S Bagchi, P Balaji, J Belak, ...
+Publication: The International Journal of High Performance Computing Applications 28 (2 …
+
+17. Getting up to speed: The future of supercomputing
+Citations:262
+Authors: National Research Council
+Publication: National Academies Press
+
+18. Toward exascale resilience: 2014 update
+Citations:260
+Authors: F Cappello, A Geist, W Gropp, S Kale, B Kramer, M Snir
+Publication: Supercomputing frontiers and innovations 1 (1), 5-28
+
+19. MPI: a standard message passing interface
+Citations:242
+Authors: DW Walker, JJ Dongarra
+Publication: Supercomputer 12, 56-68
+
+20. A complexity theory of efficient parallel algorithms
+Citations:239
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: Theoretical Computer Science 71 (1), 95-132
+
+21. Hierarchical memory with block transfer
+Citations:239
+Authors: A Aggarwal, AK Chandra, M Snir
+Publication: 28th Annual Symposium on Foundations of Computer Science (SFCS 1987), 204-216
+
+22. Probabilities over rich languages, testing and randomness
+Citations:224
+Authors: H Gaifman, M Snir
+Publication: The journal of symbolic logic 47 (3), 495-548
+
+23. On communication latency in PRAM computations
+Citations:215
+Authors: A Aggarwal, AK Chandra, M Snir
+Publication: 1st Annual ACM Symposium on Parallel Algorithms and Architectures, SPAA 1989 …
+
+24. MPI-2: Extending the message-passing interface
+Citations:204
+Authors: A Geist, W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, W Saphir, ...
+Publication: European Conference on Parallel Processing, 128-135
+
+25. Generic topology mapping strategies for large-scale parallel architectures
+Citations:202
+Authors: T Hoefler, M Snir
+Publication: Proceedings of the international conference on Supercomputing, 75-84
+
+26. Proving program termination
+Citations:201
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+27. Efficient synchronization of multiprocessors with shared memory
+Citations:198
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 10 (4), 579-601
+
+28. A message passing interface standard
+Citations:196
+Authors: MPI Mpi
+Publication: International Journal of Supercomputer Applications 8 (3/4), 165-414
+
+29. Parallel programming must be deterministic by default
+Citations:189
+Authors: RL Bocchino Jr, VS Adve, SV Adve, M Snir
+Publication: Proceedings of the First USENIX conference on Hot topics in parallelism, 4-4
+
+30. A message passing standard for MPP and workstations
+Citations:184
+Authors: JJ Dongarra, SW Otto, M Snir, D Walker
+Publication: Communications of the ACM 39 (7), 84-90
+
+31. On parallel searching
+Citations:182
+Authors: M Snir
+Publication: SIAM Journal on Computing 14 (3), 688-708
+
+32. Random walks on weighted graphs and applications to on-line algorithms
+Citations:176
+Authors: D Coppersmith, P Doyle, P Raghavan, M Snir
+Publication: Journal of the ACM 40 (3), 421-453
+
+33. CCL: A portable and tunable collective communication library for scalable parallel computers
+Citations:167
+Authors: V Bala, J Bruck, R Cypher, P Elustondo, A Ho, CT Ho, S Kipnis, M Snir
+Publication: IEEE Transactions on Parallel and Distributed Systems 6 (2), 154-164
+
+34. Memory versus randomization in on-line algorithms
+Citations:167
+Authors: P Raghavan, M Snir
+Publication: International Colloquium on Automata, Languages, and Programming, 687-703
+
+35. MPI, The Complete Reference. Scientific and Engineering Computation
+Citations:166
+Authors: M Snir, SW Otto, S Huss-Lederman, DW Walker, J Dongarra
+Publication: The MIT Press
+
+36. Overview of the MPI-IO Parallel I/O Interface
+Citations:158
+Authors: P Corbett, D Feitelson, S Fineberg, Y Hsu, B Nitzberg, JP Prost, M Snir, ...
+Publication: High Performance Mass Storage and Parallel I/O: Technologies and Applications
+
+37. A unified theory of interconnection network structure
+Citations:152
+Authors: CP Kruskal, M Snir
+Publication: Theoretical Computer Science 48, 75-94
+
+38. Parallel file systems for the IBM SP computers
+Citations:145
+Authors: PF Corbett, DG Feitelson, JP Prost, GS Almasi, SJ Baylor, AS Bolmarcich, ...
+Publication: IBM Systems Journal 34 (2), 222-248
+
+39. Java programming for high-performance numerical computing
+Citations:137
+Authors: JE Moreira, SP Midkiff, M Gupta, PV Artigas, M Snir, RD Lawrence
+Publication: IBM Systems Journal 39 (1), 21-56
+
+40. Uncoordinated checkpointing without domino effect for send-deterministic mpi applications
+Citations:135
+Authors: A Guermouche, T Ropars, E Brunet, M Snir, F Cappello
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 989-1000
+
+41. Big data, but are we ready?
+Citations:133
+Authors: O Trelles, P Prins, M Snir, RC Jansen
+Publication: Nature Reviews Genetics 12 (3), 224
+
+42. An introduction to the MPI standard
+Citations:129
+Authors: JJ Dongarra, SW Otto, M Snir, D Walker
+Publication: Communications of the ACM 18
+
+43. Depth-size trade-offs for parallel prefix computation
+Citations:119
+Authors: M Snir
+Publication: Journal of Algorithms 7 (2), 185-201
+
+44. Fault prediction under the microscope: A closer look into hpc systems
+Citations:118
+Authors: A Gainaru, F Cappello, M Snir, W Kramer
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+45. Lower bounds on probabilistic linear decision trees
+Citations:117
+Authors: M Snir
+Publication: Theoretical Computer Science 38, 69-82
+
+46. The communication software and parallel environment of the IBM SP2
+Citations:114
+Authors: M Snir, P Hochschild, DD Frye, KJ Gildea
+Publication: IBM systems journal 34 (2), 205-221
+
+47. The distribution of waiting times in clocked multistage interconnection networks
+Citations:112
+Authors: CP Kruskal, M Snir, A Weiss
+Publication: IEEE Transactions on Computers 37 (11), 1337-1352
+
+48. From trace generation to visualization: A performance framework for distributed parallel systems
+Citations:107
+Authors: CE Wu, A Bolmarcich, M Snir, D Wootton, F Parpia, A Chan, E Lusk, ...
+Publication: Proceedings of the 2000 ACM/IEEE conference on Supercomputing, 50
+
+49. Some exact complexity results for straight-line computations over semirings
+Citations:105
+Authors: M Jerrum, M Snir
+Publication: Journal of the ACM (JACM) 29 (3), 874-897
+
+50. Issues Related to MIMD Shared-memory Computers: The NYU Ultracomputer Approach.
+Citations:93
+Authors: J Edler, A Gottlieb, CP Kruskal, KP McAuliffe, L Rudolph, M Snir, PJ Teller, ...
+Publication: Conference Proceedings-Annual Symposium on Computer Architecture, 126-135
+
+51. MPI-IO: A parallel le I/O interface for MPI, version 0.4
+Citations:90
+Authors: P Corbett, Y Hsu, JP Prost, M Snir, S Fineberg, B Nitzberg, B Traversat, ...
+Publication: NAS Technical Report NAS–95–002, NASA Ames Research Center, Moffett Field …
+
+52. Damaris: How to efficiently leverage multicore parallelism to achieve scalable, jitter-free I/O
+Citations:89
+Authors: M Dorier, G Antoniu, F Cappello, M Snir, L Orf
+Publication: 2012 IEEE International Conference on Cluster Computing, 155-163
+
+53. Method of maintaining data coherency in a computer system having a plurality of interconnected nodes
+Citations:81
+Authors: K Ekanadham, BH Lim, PC Pattnaik, M Snir
+Publication: US Patent 6,085,295
+
+54. Taming parallel I/O complexity with auto-tuning
+Citations:75
+Authors: B Behzad, HVT Luu, J Huchette, S Byna, R Aydt, Q Koziol, M Snir
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+55. Efficient parallel algorithms for graph problems
+Citations:74
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: Algorithmica 5 (1-4), 43-64
+
+56. A note on n-body computations with cutoffs
+Citations:73
+Authors: M Snir
+Publication: Theory of Computing Systems 37 (2), 295-318
+
+57. Performance modeling for systematic performance tuning
+Citations:71
+Authors: T Hoefler, W Gropp, W Kramer, M Snir
+Publication: State of the Practice Reports, 6
+
+58. NUMA-aware shared-memory collective communication for MPI
+Citations:70
+Authors: S Li, T Hoefler, M Snir
+Publication: Proceedings of the 22nd international symposium on High-performance parallel …
+
+59. On communication determinism in parallel HPC applications
+Citations:70
+Authors: F Cappello, A Guermouche, M Snir
+Publication: 2010 Proceedings of 19th International Conference on Computer Communications …
+
+60. Optimizing array reference checking in Java programs
+Citations:66
+Authors: SP Midkiff, JE Moreira, M Snir
+Publication: IBM Systems journal 37 (3), 409-453
+
+61. Better computing on the anonymous ring
+Citations:65
+Authors: H Attiya, M Snir
+Publication: Journal of Algorithms 12 (2), 204-238
+
+62. Ghost cell pattern
+Citations:62
+Authors: FB Kjolstad, M Snir
+Publication: Proceedings of the 2010 Workshop on Parallel Programming Patterns, 4
+
+63. Using visualization tools to understand concurrency
+Citations:62
+Authors: D Zernik, M Snir, D Malki
+Publication: IEEE Software 9 (3), 87-92
+
+64. Memory versus randomization in on-line algorithms
+Citations:61
+Authors: P Rajhavan, M Snir
+Publication: IBM Journal of Research and Development 38 (6), 683-707
+
+65. The IBM external user interface for scalable parallel systems
+Citations:61
+Authors: V Bala, J Bruck, R Bryant, R Cypher, P De Jong, P Elustondon, D Frye, ...
+Publication: Parallel Computing 20 (4), 445-462
+
+66. Hydee: Failure containment without event logging for large scale send-deterministic mpi applications
+Citations:59
+Authors: A Guermouche, T Ropars, M Snir, F Cappello
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+67. Method and apparatus for efficient virtual memory management
+Citations:57
+Authors: Y Shuf, H Franke, M Gupta, M Snir
+Publication: US Patent 6,886,085
+
+68. Automatic tuning matrix multiplication performance on graphics hardware
+Citations:56
+Authors: C Jiang, M Snir
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+69. Demonstrating the scalability of a molecular dynamics application on a petaflops computer
+Citations:56
+Authors: GS Almasi, C Caşcaval, JG Castaños, M Denneau, W Donath, ...
+Publication: International Journal of Parallel Programming 30 (4), 317-351
+
+70. A complexity theory of efficient parallel algorithms
+Citations:55
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: International Colloquium on Automata, Languages, and Programming, 333-346
+
+71. EFFICIENT PARALLEL ALGORITHMS FOR GRAPH PROBLEMS.
+Citations:55
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: Proceedings of the International Conference on Parallel Processing, 869-876
+
+72. A framework for measuring supercomputer productivity
+Citations:54
+Authors: M Snir, DA Bader
+Publication: The International Journal of High Performance Computing Applications 18 (4 …
+
+73. The NYU ultracomputer- Designing an MIMD shared memory parallel computer(Multiple Instruction Multiple Data stream)
+Citations:54
+Authors: A Gottlieb, R Grishman, KP MCAULIFFE, M SNIR, CP KRUSKAL, ...
+Publication: IEEE Transactions on Computers 32, 175-189
+
+74. Adaptive switching apparatus for multi-stage networks
+Citations:52
+Authors: HT Olnowich, J Bruck, M Snir, E Upfal
+Publication: US Patent 5,345,229
+
+75. Scheduling the I/O of HPC applications under congestion
+Citations:47
+Authors: A Gainaru, G Aupy, A Benoit, F Cappello, Y Robert, M Snir
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 1013-1022
+
+76. Mpi programming environment for ibm sp1/sp2
+Citations:46
+Authors: H Franke, CE Wu, M Riviere, P Pattnaik, M Snir
+Publication: Proceedings of 15th International Conference on Distributed Computing …
+
+77. Esoftcheck: Removal of non-vital checks for fault tolerance
+Citations:45
+Authors: J Yu, MJ Garzaran, M Snir
+Publication: 2009 International Symposium on Code Generation and Optimization, 35-46
+
+78. Overview of the MPI-IO Parallel I/O Interface
+Citations:45
+Authors: P Corbett, D Feitelson, S Fineberg, Y Hsu, JP Prost, M Snir, B Traversat, ...
+Publication: Input/Output in Parallel and Distributed Computer Systems, 127-146
+
+79. High performance FORTRAN language specification
+Citations:45
+Authors: HPF Forum
+Publication: Scientific Programming 2 (1), 1-170
+
+80. Enabling MPI interoperability through flexible communication endpoints
+Citations:44
+Authors: J Dinan, P Balaji, D Goodell, D Miller, M Snir, R Thakur
+Publication: Proceedings of the 20th European MPI Users' Group Meeting, 13-18
+
+81. Ubiquitous parallel computing from Berkeley, Illinois, and Stanford
+Citations:44
+Authors: B Catanzaro, A Fox, K Keutzer, D Patterson, BY Su, M Snir, K Olukotun, ...
+Publication: IEEE micro 30 (2), 41-55
+
+82. Calling names on nameless networks
+Citations:44
+Authors: B Schieber, M Snir
+Publication: Information and Computation 113 (1), 80-101
+
+83. Applications of Ramsey's theorem to decision tree complexity
+Citations:44
+Authors: S Moran, M Snir, U Manber
+Publication: Journal of the ACM (JACM) 32 (4), 938-949
+
+84. MPI-The complete reference, the MPI core, V2
+Citations:43
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: London: The MIT Press
+
+85. The NYU ultracomputer-Designing an MIMD shared memory parallel computer
+Citations:43
+Authors: L RUDOLPH, M SNIR
+Publication: IEEE Transactions on Computers 100 (32)
+
+86. On the depth complexity of formulas
+Citations:41
+Authors: E Shamir, M Snir
+Publication: Mathematical Systems Theory 13 (1), 301-322
+
+87. Optimizing the Barnes-Hut algorithm in UPC
+Citations:40
+Authors: J Zhang, B Behzad, M Snir
+Publication: SC'11: Proceedings of 2011 International Conference for High Performance …
+
+88. MPI--the Complete Reference: The MPI-2 extentions
+Citations:38
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, BN Ewing Lusk, W Saphir, ...
+Publication: MIT press
+
+89. Programming for exascale computers
+Citations:36
+Authors: W Gropp, M Snir
+Publication: Computing in Science & Engineering 15 (6), 27-35
+
+90. TLB consistency on highly-parallel shared-memory multiprocessors
+Citations:36
+Authors: PJ Teller, R Kenner, M Snir
+Publication: Ultracomputer Research Laboratory, Univ., Courant Inst. of Mathematical …
+
+91. Transformation for class immutability
+Citations:35
+Authors: F Kjolstad, D Dig, G Acevedo, M Snir
+Publication: Proceedings of the 33rd International Conference on Software Engineering, 61-70
+
+92. FlipIt: An LLVM based fault injector for HPC
+Citations:34
+Authors: J Calhoun, L Olson, M Snir
+Publication: European Conference on Parallel Processing, 547-558
+
+93. Failure prediction for HPC systems and applications: Current situation and open issues
+Citations:32
+Authors: A Gainaru, F Cappello, M Snir, W Kramer
+Publication: The International Journal of High Performance Computing Applications 27 (3 …
+
+94. VLSI COMBINING NETWORK FOR THE NYU ULTRACOMPUTER.
+Citations:32
+Authors: S Dickey, R Kenner, M Snir, J Solworth
+Publication: Unknown Host Publication Title, 110-113
+
+95. Argobots: A lightweight low-level threading and tasking framework
+Citations:31
+Authors: S Seo, A Amer, P Balaji, C Bordage, G Bosilca, A Brooks, P Carns, ...
+Publication: IEEE Transactions on Parallel and Distributed Systems 29 (3), 512-526
+
+96. Enabling communication concurrency through flexible MPI endpoints
+Citations:31
+Authors: J Dinan, RE Grant, P Balaji, D Goodell, D Miller, M Snir, R Thakur
+Publication: The International Journal of High Performance Computing Applications 28 (4 …
+
+97. Improving parallel I/O autotuning with performance modeling
+Citations:31
+Authors: B Behzad, S Byna, SM Wild, M Prabhat, M Snir
+Publication: Proceedings of the 23rd international symposium on High-performance parallel …
+
+98. MPI-2: Extensions to the Message-Passing Interface
+Citations:31
+Authors: E Lusk, B Saphir, M Snir
+Publication: MPI Standard 2
+
+99. ON THE DISTRIBUTION OF DELAYS IN BUFFERED MULTISTAGE INTERCONNECTION NETWORKS FOR UNIFORM AND NONUNIFORM TRAFFIC.
+Citations:31
+Authors: CP Kruskal, M Snir, A Weiss
+Publication: Proceedings of the International Conference on Parallel Processing, 215-219
+
+100. Techniques for parallel manipulation of sparse matrices
+Citations:29
+Authors: CP Kruskal, L Rudolph, M Snir
+Publication: Theoretical Computer Science 64 (2), 135-157
+
+101. MPI-F: An Efficient Implementation of MPI on IBM-SP1
+Citations:28
+Authors: H Franke, P Hochschild, P Pattnaik, M Snir
+Publication: 1994 International Conference on Parallel Processing Vol. 3 3, 197-201
+
+102. Circuit partitioning with size and connection constraints
+Citations:27
+Authors: Y Perl, M Snir
+Publication: Networks 13 (3), 365-375
+
+103. Prism: An integrated architecture for scalable shared memory
+Citations:25
+Authors: K Ekanadham, BH Lim, P Pattnaik, M Snir
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+104. An experimental study to determine task size for rollback recovery systems
+Citations:25
+Authors: SJ Upadhyaya, KK Saluja
+Publication: IEEE Transactions on Computers 37 (7), 872-877
+
+105. The ultraswitch--A VLSI network node for parallel processing
+Citations:24
+Authors: Courant Institute of Mathematical Sciences. Computer Science Department
+Publication: 
+
+106. On the theory of spatial and temporal locality
+Citations:23
+Authors: M Snir, J Yu
+Publication: 
+
+107. Lower bounds on the number of multiplications and the number of additions in monotone computations
+Citations:23
+Authors: E Shamir, M Snir
+Publication: IBM Thomas J. Watson Research Division
+
+108. On parallel search
+Citations:22
+Authors: M Snir
+Publication: IN PROC. ACM SYMP. DISTRIBUTED ALGORITHMS
+
+109. Towards millions of communicating threads
+Citations:21
+Authors: HV Dang, M Snir, W Gropp
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+110. Exascale research: preparing for the post-Moore era
+Citations:21
+Authors: M Snir, WD Gropp, P Kogge
+Publication: 
+
+111. Distributed monitoring and management of exascale systems in the argo project
+Citations:20
+Authors: S Perarnau, R Thakur, K Iskra, K Raffenetti, F Cappello, R Gupta, ...
+Publication: IFIP International Conference on Distributed Applications and Interoperable …
+
+112. Computer and information science and engineering: one discipline, many specialties
+Citations:20
+Authors: M Snir
+Publication: Communications of the ACM 54 (3), 38-43
+
+113. Generalized communicators in the message passing interface
+Citations:19
+Authors: ED Demaine, I Foster, C Kesselman, M Snir
+Publication: IEEE Transactions on Parallel and Distributed Systems 12 (6), 610-616
+
+114. Automatic datatype generation and optimization
+Citations:18
+Authors: F Kjolstad, T Hoefler, M Snir
+Publication: ACM SIGPLAN Notices 47 (8), 327-328
+
+115. An effect system and language for deterministic-by-default parallel programming
+Citations:18
+Authors: RL Bocchino Jr
+Publication: University of Illinois at Urbana-Champaign
+
+116. Message proxies for efficient, protected communication on smp clusters
+Citations:18
+Authors: BH Lim, P Heidelberger, P Pattnaik, M Snir
+Publication: Proceedings Third International Symposium on High-Performance Computer …
+
+117. MPI
+Citations:18
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: The Complete Reference
+
+118. Damaris: Addressing performance variability in data management for post-petascale simulations
+Citations:17
+Authors: M Dorier, G Antoniu, F Cappello, M Snir, R Sisneros, O Yildiz, S Ibrahim, ...
+Publication: ACM Transactions on Parallel Computing (TOPC) 3 (3), 15
+
+119. A near-memory processor for vector, streaming and bit manipulation workloads
+Citations:17
+Authors: M Wei, M Snir, J Torrellas, RB Tremaine
+Publication: 
+
+120. Improved MPI all-to-all communication on a Giganet SMP cluster
+Citations:17
+Authors: J Träff
+Publication: Recent Advances in Parallel Virtual Machine and Message Passing Interface …
+
+121. Gluon: A communication-optimizing substrate for distributed heterogeneous graph analytics
+Citations:16
+Authors: R Dathathri, G Gill, L Hoang, HV Dang, A Brooks, N Dryden, M Snir, ...
+Publication: ACM SIGPLAN Notices 53 (4), 752-768
+
+122. Logaider: A tool for mining potential correlations of hpc log events
+Citations:16
+Authors: S Di, R Gupta, M Snir, E Pershey, F Cappello
+Publication: 2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid …
+
+123. MPI: the complete Reference
+Citations:16
+Authors: S Marc, G William
+Publication: http:'/www. netiib. org/utk/papers/mpi-book/mpi-book. html
+
+124. MPI: The Complete Reference, 336
+Citations:15
+Authors: M Snir, SW Otto, S Huss-Lederman, DW Walker, J Dongarra
+Publication: MIT Press, Cambridge, Massachusetts
+
+125. Reducing waste in extreme scale systems through introspective analysis
+Citations:14
+Authors: L Bautista-Gomez, A Gainaru, S Perarnau, D Tiwari, S Gupta, ...
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+126. Pattern-driven parallel I/O tuning
+Citations:14
+Authors: B Behzad, S Byna, M Snir
+Publication: Proceedings of the 10th Parallel Data Storage Workshop, 43-48
+
+127. Improved MPI collectives for MPI processes in shared address spaces
+Citations:14
+Authors: S Li, T Hoefler, C Hu, M Snir
+Publication: Cluster computing 17 (4), 1139-1155
+
+128. MPI: The Complete Reference. Massachusetts Institute of Technology
+Citations:14
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: MIT Press, ISBN-0262-6921-63
+
+129. Cost-performance tradeoffs for interconnection networks
+Citations:14
+Authors: CP Kruskal, M Snir
+Publication: Discrete Applied Mathematics 37, 359-385
+
+130. Efficient software checking for fault tolerance
+Citations:13
+Authors: J Yu, MJ Garzaran, M Snir
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5
+
+131. MPI on IBM SP1/SP2: Current status and future directions
+Citations:13
+Authors: H Franke, P Hochschild, P Pattnaik, JP Prost, M Snir
+Publication: Proceedings Scalable Parallel Libraries Conference, 39-48
+
+132. An efficient implementation of MPI
+Citations:13
+Authors: H Franke, P Hochschild, P Pattnaik, M Snir
+Publication: Programming Environments for Massively Parallel Distributed Systems, 219-229
+
+133. I/O limitations of multi-chip VLSI systems
+Citations:13
+Authors: M Snir
+Publication: Annual Allerton Conference on Communication, Control, and Computing, 19 th …
+
+134. Optimal interconnection networks of parallel processors: The importance of being square.
+Citations:13
+Authors: C Kruskal, M. Snir
+Publication: Distributed Computing and Computer Communications
+
+135. Doing Moore with Less--Leapfrogging Moore's Law with Inexactness for Supercomputing
+Citations:12
+Authors: S Leyffer, SM Wild, M Fagan, M Snir, K Palem, K Yoshii, H Finkel
+Publication: arXiv preprint arXiv:1610.02606
+
+136. Dynamic model-driven parallel I/O performance tuning
+Citations:12
+Authors: B Behzad, S Byna, SM Wild, M Snir
+Publication: 2015 IEEE International Conference on Cluster Computing, 184-193
+
+137. Bringing the HPC Programmer’s IDE into the 21st Century through Refactoring
+Citations:12
+Authors: DDF Kjolstad, M Snir
+Publication: SPLASH 2010 Workshop on Concurrency for the Application Programmer (CAP’10 …
+
+138. Scalable parallel computers and scalable parallel codes: From theory to practice
+Citations:12
+Authors: M Snir
+Publication: Heinz Nixdorf Symposium at the University of Paderborn, 176-184
+
+139. An implementation of a combining network for the NYU Ultracomputer
+Citations:12
+Authors: S Dickey, R Kenner, M Snir
+Publication: Courant Institute of Mathematical Sciences, New York University
+
+140. The importance of being square
+Citations:12
+Authors: CP Kruskal, M Snir
+Publication: ACM SIGARCH Computer Architecture News 12 (3), 91-98
+
+141. Automatic generation of i/o kernels for hpc applications
+Citations:11
+Authors: B Behzad, HV Dang, F Hariri, W Zhang, M Snir
+Publication: 2014 9th Parallel Data Storage Workshop, 31-36
+
+142. Writing parallel libraries with MPI-common practice, issues, and extensions
+Citations:11
+Authors: T Hoefler, M Snir
+Publication: European MPI Users' Group Meeting, 345-355
+
+143. What are the Top Ten most Influential Parallel and Distributed Processing concepts of the past millenium?
+Citations:11
+Authors: MD Theys, S Ali, HJ Siegel, M Chandy, K Hwang, K Kennedy, L Sha, ...
+Publication: Journal of Parallel and Distributed Computing 61 (12), 1827-1841
+
+144. MPI–the complete reference (2-volume set)
+Citations:11
+Authors: M Snir, WD Gropp
+Publication: Cambridge, Mass.: MIT Press
+
+145. Languages, compilers, and runtime systems support for parallel input-output
+Citations:11
+Authors: A Choudhary, I Foster, G Fox, K Kennedy, C Kesselman, C Koelbel, ...
+Publication: Scalable I/O Initiative Working Paper Number 3
+
+146. Some results on multistage interconnection networks for multiprocessors
+Citations:11
+Authors: Courant Institute of Mathematical Sciences. Computer Science Department
+Publication: 
+
+147. The covering problem of complete uniform hypergraphs
+Citations:11
+Authors: M Snir
+Publication: Discrete Mathematics 27 (1), 103-105
+
+148. Exploring the feasibility of lossy compression for PDE simulations
+Citations:10
+Authors: J Calhoun, F Cappello, LN Olson, M Snir, WD Gropp
+Publication: The International Journal of High Performance Computing Applications 33 (2 …
+
+149. Scheduling the I/O of HPC applications under congestion
+Citations:10
+Authors: A Gainaru, G Aupy, A Benoit, F Cappello, Y Robert, M Snir
+Publication: 
+
+150. Randomized Routing with Shorter Paths
+Citations:10
+Authors: E Upfal, S Pelegrin, M Snir
+Publication: IEEE Transactions on Parallel and Distributed Systems 7 (4), 356-362
+
+151. MPI: The complete reference. 1996
+Citations:10
+Authors: M Snir, SW Otto, S Huss-Lederman, DW Walker, J Dongarra
+Publication: MIT Press
+
+152. A lightweight communication runtime for distributed graph analytics
+Citations:9
+Authors: HV Dang, R Dathathri, G Gill, A Brooks, N Dryden, A Lenharth, L Hoang, ...
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+153. MPI: A message-passing interface standard
+Citations:9
+Authors: E Lusk, S Huss, B Saphir, M Snir
+Publication: International Journal of Supercomputer Applications 8 (3/4), 623
+
+154. Programming patterns for architecture-level software optimizations on frequent pattern mining
+Citations:9
+Authors: M Wei, C Jiang, M Snir
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 336-345
+
+155. MPI-F: an MPI prototype implementation on IBM SP1
+Citations:9
+Authors: H Franke, P Hochschild, P Pattnaik, JP Prost, M Snir
+Publication: Environments and Tools for Parallel Scientific Computing, 43-55
+
+156. University of Illinois at Urbana-Champaign
+Citations:9
+Authors: T Saif
+Publication: Private Communication
+
+157. Towards a more complete understanding of sdc propagation
+Citations:8
+Authors: J Calhoun, M Snir, LN Olson, WD Gropp
+Publication: Proceedings of the 26th International Symposium on High-Performance Parallel …
+
+158. Software abstractions and methodologies for HPC simulation codes on future architectures
+Citations:8
+Authors: A Dubey, S Brandt, R Brower, M Giles, P Hovland, DQ Lamb, F Loffler, ...
+Publication: arXiv preprint arXiv:1309.1780
+
+159. Detecting and recovering from in-core hardware faults through software anomaly treatment
+Citations:8
+Authors: P Ramachandran
+Publication: University of Illinois at Urbana-Champaign
+
+160. A transformation to convert packing code to compact datatypes for efficient zero-copy data transfer
+Citations:8
+Authors: F Kjolstad, T Hoefler, M Snir
+Publication: 
+
+161. Establishing a master’s degree programme in Bioinformatics: challenges and opportunities
+Citations:8
+Authors: NV Sahinidis, MT Harandi, MT Heath, L Murphy, M Snir, RP Wheeler, ...
+Publication: IEE Proceedings Systems Biology, 269-275
+
+162. What should we expect from parallel language standards?
+Citations:8
+Authors: CM Pancake
+Publication: The International Journal of Supercomputing Applications 6 (1), 112-117
+
+163. " NETSIM" Network Simulator for the Ultracomputer
+Citations:8
+Authors: M Snir
+Publication: Ultracomputer Research Laboratory, Univ., Courant Inst. of Mathematical …
+
+164. S., Dongarra, J.(1996) MPI: The Complete Reference
+Citations:8
+Authors: MO Snir
+Publication: The MIT Press
+
+165. Miniamr-a miniapp for adaptive mesh refinement
+Citations:7
+Authors: A Sasidharan, M Snir
+Publication: 
+
+166. Design of a multithreaded Barnes-Hut algorithm for multicore clusters
+Citations:7
+Authors: J Zhang, B Behzad, M Snir
+Publication: IEEE Transactions on parallel and distributed systems 26 (7), 1861-1873
+
+167. Techniques for efficient software checking
+Citations:7
+Authors: J Yu, MJ Garzarán, M Snir
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 16-31
+
+168. Java for numerically intensive computing: From Flops to Gigaflops
+Citations:7
+Authors: SP Midkiff, JE Moreira, M Snir
+Publication: Frontiers of Massively Parallel Computation, 1999. Frontiers' 99. The …
+
+169. Memoryless communications adapter including queueing and matching primitives for scalable distributed parallel computer systems
+Citations:7
+Authors: K Ekanadham, H Franke, DJ Joseph, P Pattnaik, M Snir
+Publication: US Patent 5,745,781
+
+170. Generalized communicators in the message passing interface
+Citations:7
+Authors: I Foster, C Kesselman, M Snir
+Publication: Proceedings. Second MPI Developer's Conference, 42-49
+
+171. Scalable parallel computing: the IBM 9076 scalable POWERparallel 1
+Citations:7
+Authors: M Snir
+Publication: Proceedings of the fifth annual ACM symposium on Parallel algorithms and …
+
+172. Extensions for Programming on Distributed-Memory Machines, Compilers and Run-time Environments for Distributed Memory Machines
+Citations:7
+Authors: D Malki, M Snir, C Nicke
+Publication: Elsevier
+
+173. Cost-bandwidth tradeoffs for communication networks
+Citations:7
+Authors: CP Kruskal, M Snir
+Publication: 1st Annual ACM Symposium on Parallel Algorithms and Architectures, SPAA 1989 …
+
+174. Comparisons between linear functions can help
+Citations:7
+Authors: M Snir
+Publication: Theoretical Computer Science 19 (3), 321-330
+
+175. Aluminum: An asynchronous, GPU-aware communication library optimized for large-scale training of deep neural networks on HPC systems
+Citations:6
+Authors: N Dryden, N Maruyama, T Moon, T Benson, A Yoo, M Snir, B Van Essen
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+176. Understanding the propagation of error due to a silent data corruption in a sparse matrix vector multiply
+Citations:6
+Authors: J Calhoun, M Snir, L Olson, M Garzaran
+Publication: 2015 IEEE International Conference on Cluster Computing, 541-542
+
+177. Towards a more fault resilient multigrid solver
+Citations:6
+Authors: J Calhoun, L Olson, M Snir, WD Gropp
+Publication: Proceedings of the Symposium on High Performance Computing, 1-8
+
+178. The future of supercomputing
+Citations:6
+Authors: M Snir
+Publication: Proceedings of the 28th ACM international conference on Supercomputing, 261-262
+
+179. Damaris: Leveraging Multicore Parallelism to Mask I/O Jitter
+Citations:6
+Authors: M Dorier, G Antoniu, F Cappello, M Snir, L Orf
+Publication: 
+
+180. A new locality metric and case studies for hpcs benchmarks
+Citations:6
+Authors: J Yu, S Baghsorkhi, M Snir
+Publication: 
+
+181. MPI-IO, a message-passing interface for concurrent I
+Citations:6
+Authors: Thomas J. Watson IBM Research Center. Research Division, JP Prost, ...
+Publication: 
+
+182. Exact balancing is not always good
+Citations:6
+Authors: M Snir
+Publication: Information processing letters 22 (2), 97-102
+
+183. Proving lower bounds for linear decision trees
+Citations:6
+Authors: M Snir
+Publication: International Colloquium on Automata, Languages, and Programming, 305-315
+
+184. Lower bounds on VLSI implementations of communication networks
+Citations:6
+Authors: M Snir
+Publication: New York University. Courant Institute of Mathematical Sciences. Computer …
+
+185. PPL: an abstract runtime system for hybrid parallel programming
+Citations:5
+Authors: A Brooks, HV Dang, N Dryden, M Snir
+Publication: Proceedings of the First International Workshop on Extreme Scale Programming …
+
+186. Refactoring for immutability
+Citations:5
+Authors: FB Kjolstad, D Dig, G Acevedo, M Snir
+Publication: 
+
+187. MPI: The Compete Reference.
+Citations:5
+Authors: M Snir, S Otto, S Huss-Lederman, D Walker, J Dongarra
+Publication: Computers & Mathematics with Applications 31 (11), 140-140
+
+188. Parallel I/O: Getting Ready for Prime Time
+Citations:5
+Authors: D Reed, C Catlett, A Choudhary, D Kotz, M Snir
+Publication: IEEE Concurrency, 64-71
+
+189. MPI programming environment for IBM SP1
+Citations:5
+Authors: H Franke, CE Wu, M Riviere, P Pattnaik, M Snir
+Publication: URL: http://ibm. tc. cornell. edu/ibm/pps/doc/mpif/paper mpif. ps
+
+190. User-friendly and efficient parallel I/Os using the Vesta parallel file system
+Citations:5
+Authors: PF Corbett, DG Feitelson, JP Prost, M Snir
+Publication: Becker et al.[BLT94], 23-38
+
+191. Size-depth trade-offs for monotone arithmetic circuits
+Citations:5
+Authors: M Snir
+Publication: Theoretical computer science 82 (1), 85-93
+
+192. On the size complexity of monotone formulas
+Citations:5
+Authors: M Snir
+Publication: International Colloquium on Automata, Languages, and Programming, 621-631
+
+193. A direct approach to the parallel evaluation of rational expressions with a small number of processors
+Citations:5
+Authors: M Snir, AB Barak
+Publication: IEEE Transactions on Computers, 933-937
+
+194. Getting Up To Speed: The Future of Supercomputing, 2005
+Citations:5
+Authors: S Graham, M Snir, C Patterson
+Publication: National Academy Press
+
+195. Exploring Properties and Correlations of Fatal Events in a Large-Scale HPC System
+Citations:4
+Authors: S Di, H Guo, R Gupta, ER Pershey, M Snir, F Cappello
+Publication: IEEE Transactions on Parallel and Distributed Systems 30 (2), 361-374
+
+196. Predicting HPC parallel program performance based on LLVM compiler
+Citations:4
+Authors: W Zhang, M Hao, M Snir
+Publication: Cluster Computing 20 (2), 1179-1192
+
+197. Parallel Programming Language 1 (PPL1) V0. 9-Draft
+Citations:4
+Authors: M Snir
+Publication: 
+
+198. MPI-IO: A Parallel File I
+Citations:4
+Authors: Thomas J. Watson IBM Research Center. Research Division, P Corbett, ...
+Publication: 
+
+199. Parallel Computation Models—Some Useful Questions
+Citations:4
+Authors: M Snir
+Publication: Opportunities and Constraints of Parallel Computing, 139-145
+
+200. Some results on Packet-Switching Networks for Multiprocessing
+Citations:4
+Authors: CP Kruskal, M Snir
+Publication: 
+
+201. Improving Strong-Scaling of CNN Training by Exploiting Finer-Grained Parallelism
+Citations:3
+Authors: N Dryden, N Maruyama, T Benson, T Moon, M Snir, B Van Essen
+Publication: arXiv preprint arXiv:1903.06681
+
+202. Overcoming the power wall by exploiting inexactness and emerging cots architectural features: Trading precision for improving application quality
+Citations:3
+Authors: M Fagan, J Schlachter, K Yoshii, S Leyffer, K Palem, M Snir, SM Wild, ...
+Publication: 2016 29th IEEE International System-on-Chip Conference (SOCC), 241-246
+
+203. Computing What Fits
+Citations:3
+Authors: E Shein
+Publication: Communications of the ACM 57 (11), 16-19
+
+204. Navigating the blue waters: Online failure prediction in the petascale era
+Citations:3
+Authors: A Gainaru, MS Bouguerra, F Cappello, M Snir, W Kramer
+Publication: Argonne National Laboratory Technical Report, ANL/MCS-P5219–1014
+
+205. US Department of Energy fault management workshop
+Citations:3
+Authors: A Geist, S Borkar, E Roman, B Still, RC SNL, J Wu, C Engelmann, ...
+Publication: Workshop report submitted to the US Department of Energy
+
+206. Accelerating sparse matrix vector multiplication on many-core GPUs
+Citations:3
+Authors: W Xu, Z Liu, D Fan, S Jiao, X Ye, F Song, C Yan
+Publication: World Academy of Science, Engineering and Technology 6 (1), 71-78
+
+207. Computing and information science and engineering: Quo vadimus
+Citations:3
+Authors: M Snir
+Publication: Technical Report 13-2008-1, University of Illinois at Urbana Champaign, 2008 …
+
+208. NRCUC on the Future of Supercomputing, Getting up to speed the future of supercomputing
+Citations:3
+Authors: SL Graham, M Snir, CA Patterson
+Publication: Washington, DC: National Academies Press
+
+209. MPI: The complete reference, volume 2, Scientific and Engineering Computation
+Citations:3
+Authors: W Gropp, S Huss-Lederman, A Lumsdaine, E Lusk, B Nitzberg, W Saphir, ...
+Publication: Cambridge, MA: MIT Press
+
+210. Issues and directions in scalable parallel computing
+Citations:3
+Authors: M Snir
+Publication: Proceedings of the 12th Annual ACM Symposium on Principles of Distributed …
+
+211. DavidWalker, andJack Dongarra. MPI-The Complete Reference. Volume 1-The MPI-1 Core
+Citations:3
+Authors: M Snir, S Otto, S Huss-Lederman
+Publication: The MIT Press 199 (8)
+
+212. The Message Passing Interface (MPI) standard, 1998
+Citations:3
+Authors: J Dongarra, S Huss-Lederman, S Otto, M Snir, D Walkel
+Publication: 
+
+213. Eliminating contention bottlenecks in multithreaded MPI
+Citations:2
+Authors: HV Dang, M Snir, W Gropp
+Publication: Parallel Computing 69, 1-23
+
+214. Improving the trust in results of numerical simulations and scientific data analytics
+Citations:2
+Authors: F Cappello, E Constantinescu, P Hovland, T Peterka, C Phillips, M Snir, ...
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+215. Analyzing the performance of a sparse matrix vector multiply for extreme scale computers
+Citations:2
+Authors: A Bienz, J Calhoun, L Olson, M Snir, WD Gropp
+Publication: The InternationalConference for High Performance Computing Networking …
+
+216. Recent advances in the Message Passing Interface
+Citations:2
+Authors: JG Blas, J Carretero
+Publication: The International Journal of High Performance Computing Applications 28 (4 …
+
+217. Comparing archival policies for Blue Waters
+Citations:2
+Authors: F Cappello, M Jacquelin, L Marchal, Y Robert, M Snir
+Publication: 2011 18th International Conference on High Performance Computing, 1-10
+
+218. Distributed Memory Multiprocessor
+Citations:2
+Authors: M Snir
+Publication: Encyclopedia of Parallel Computing
+
+219. Performance engineering: a must for petascale and beyond
+Citations:2
+Authors: T Hoefler, M Snir
+Publication: 3rd International Workshop on Large-Scale System and Application Performance …
+
+220. On the need for a consortium of capability centers
+Citations:2
+Authors: W Gropp, M Snir
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+221. Shared memory programming on distributed memory systems
+Citations:2
+Authors: M Snir
+Publication: Proceedings of the Third Conference on Partitioned Global Address Space …
+
+222. A Brief Description of the NMP ISA and Benchmarks
+Citations:2
+Authors: M Wei, M Snir, J Torrellas, RB Tremaine
+Publication: 
+
+223. Getting up to speed
+Citations:2
+Authors: SL Graham, M Snir, CA Patterson
+Publication: The future of supercomputing. Report of National Research Council of the …
+
+224. The Complete Reference: Volume 2, the MPI-2 Extensions
+Citations:2
+Authors: W Gropp, S Huss-Lederman, A Limsdaine, E Lusk, W Saphir, M Snir
+Publication: MIT Press, 1000
+
+225. MPI-F: Current status and future directions
+Citations:2
+Authors: H Franke, P Hochschild, P Pattnaik, JP Prost, M Snir
+Publication: Proc. Scalable Parallel Libraries Conference, Mississippi State, October …
+
+226. Nicke–C Extensions for Programming on Distributed-Memory Machines
+Citations:2
+Authors: D Malki, M Snir
+Publication: Advances in Parallel Computing 3, 103-118
+
+227. Aspects of the parallel program execution: work, time and the current state
+Citations:2
+Authors: D Zernik, L Rudolph, M Snir
+Publication: [1991] Proceedings the Fifth Israel Conference on Computer Systems and …
+
+228. The NYU ultracomputer--A general-purpose parallel processor
+Citations:2
+Authors: A Gottlieb, R Grishman, CP Kruskal, KP McAuliffe, L Rudolph, M Snir
+Publication: Courant Institute of Mathematical Sciences, New York University
+
+229. MPI-3 hybrid programming proposal, version 7
+Citations:2
+Authors: M Snir
+Publication: 
+
+230. Optimizing I/O Performance of HPC Applications with Autotuning
+Citations:1
+Authors: B Behzad, S Byna, M Snir
+Publication: ACM Transactions on Parallel Computing (TOPC) 5 (4), 15
+
+231. Overcoming the Power Wall by Exploiting Inexactness and Emerging COTS Architectural
+Citations:1
+Authors: M Fagan, J Schlachter, K Yoshii, S Leyffer, K Palem, M Snir, S Wild, C Enz
+Publication: 29th IEEE INTERNATIONAL SYSTEM-ON-CHIP CONFERENCE
+
+232. Programming Models for High-Performance Computing
+Citations:1
+Authors: M Snir
+Publication: 2013 13th IEEE/ACM International Symposium on Cluster, Cloud, and Grid …
+
+233. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+234. Reduce and Scan
+Citations:1
+Authors: M Snir
+Publication: Encyclopedia of Parallel Computing
+
+235. Performance engineering: a must for petaflops and beyond
+Citations:1
+Authors: T Hoefler, M Snir
+Publication: Proceedings of the Workshop on Large-Scale System and Application …
+
+236. Parallel Computing Research at Illinois The UPCRC Agenda
+Citations:1
+Authors: R Kumar, D Marinov, D Padua, M Parthasarathy, S Patel, D Roth, M Snir, ...
+Publication: 
+
+237. Generalized Communicators in MPI
+Citations:1
+Authors: I Foster, C Kesselman, M Snir
+Publication: IEEE Transactions on Parallel and Distributed Systems 12 (6), 610-616
+
+238. MPI: The Complete Reference
+Citations:1
+Authors: SWOSH Lederman, M Snir
+Publication: Mass.: MIT Press
+
+239. Scalable parallel systems: past, present and future (from an IBM perspective)
+Citations:1
+Authors: M Snir
+Publication: Proceedings of Massively Parallel Processing Using Optical Interconnections …
+
+240. Guest editor's foreword special issue on parallel computing
+Citations:1
+Authors: M Snir
+Publication: Algorithmica 15 (2), 103-103
+
+241. The NYU Ultracomputer: An MIMD shared memory parallel computer
+Citations:1
+Authors: A Gottlieb, R Grishman, CP Kruskal, KP McAuliffe, L Rudolph, M Snir
+Publication: Supercomputers: Design and applications
+
+242. New York University (NYU) Ultracomputer--A General-Purpose Parallel Processor
+Citations:1
+Authors: A Gottlieb, R Grishman, CP Kruskal, KP McAuliffe, L Rudolph, M Snir
+Publication: Real-Time Signal Processing IV 298, 64-73
+
+243. Comments on Lens and Hypertrees-Or the Perfect-shuffle Again
+Citations:1
+Authors: M Snir
+Publication: Courant Institute of Mathematical Sciences, New York University
+
+244. On the size complexity of monotone formulas
+Citations:1
+Authors: M Snir
+Publication: University of Edinburgh. Department of Computer Science
+
+245. Characterizing and Understanding HPC Job Failures Over The 2K-Day Life of IBM BlueGene/Q System
+Citations:
+Authors: S Di, H Guo, E Pershey, M Snir, F Cappello
+Publication: 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+246. Toward Training a Large 3D Cosmological CNN with Hybrid Parallelization
+Citations:
+Authors: Y Oyama, N Maruyama, N Dryden, P Harrington, J Balewski, S Matsuoka, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+247. Guest Editorial: Special Issue on Network and Parallel Computing for Emerging Architectures and Applications
+Citations:
+Authors: F Zhang, J Zhai, M Snir, H Jin, H Kasahara, M Valero
+Publication: International Journal of Parallel Programming, 1-2
+
+248. ScaDL 2019 Keynote Talk
+Citations:
+Authors: M Snir
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium …
+
+249. Automatic generation of benchmarks for I/O-intensive parallel applications
+Citations:
+Authors: M Hao, W Zhang, Y Zhang, M Snir, LT Yang
+Publication: Journal of Parallel and Distributed Computing 124, 1-13
+
+250. Network and Parallel Computing: 15th IFIP WG 10.3 International Conference, NPC 2018, Muroran, Japan, November 29–December 1, 2018, Proceedings
+Citations:
+Authors: F Zhang, J Zhai, M Snir, H Jin, H Kasahara, M Valero
+Publication: Springer
+
+251. Technical perspective: The future of MPI
+Citations:
+Authors: M Snir
+Publication: Communications of the ACM 61 (10)
+
+252. The future of MPI: technical perspective
+Citations:
+Authors: M Snir
+Publication: Communications of the ACM 61 (10), 105-105
+
+253. Neural network based silent error detector
+Citations:
+Authors: C Wang, N Dryden, F Cappello, M Snir
+Publication: 2018 IEEE International Conference on Cluster Computing (CLUSTER), 168-178
+
+254. FULT: Fast user-level thread scheduling using bit-vectors
+Citations:
+Authors: HV Dang, M Snir
+Publication: 47th International Conference on Parallel Processing, ICPP 2018, a71
+
+255. LCI: Fast and generic concurrent communication engine
+Citations:
+Authors: HV Dang, M Snir
+Publication: 
+
+256. LCI: Low-level communication interface for asynchronous distributed-memory task model
+Citations:
+Authors: HV Dang, M Snir
+Publication: 
+
+257. The informal guide to ACM fellow nominations.
+Citations:
+Authors: M Snir
+Publication: Commun. ACM 60 (7), 32-34
+
+258. Overcoming the Power Wall by Exploiting Application Inexactness and Emerging COTS Architectural Features
+Citations:
+Authors: M Fagan, J Schlachter, K Yoshii, S Leyffer, K Palem, M Snir, SM Wild, ...
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+259. A General Space-filling Curve Algorithm for Partitioning 2D Meshes
+Citations:
+Authors: A Sasidharan, JM Dennis, M Snir
+Publication: 2015 IEEE 17th International Conference on High Performance Computing and …
+
+260. Programming on Distributed-Memory Machines
+Citations:
+Authors: D Malki, M Snir
+Publication: Languages, Compilers and Run-time Environments for Distributed Memory …
+
+261. Josep Torrellas (I2PC Director) Sarita V. Adve Vikram S. Adve Danny Dig
+Citations:
+Authors: MN Do, MJ Garzaran, JC Hart, TS Huang, WH Wen-mei, ST King, ...
+Publication: 
+
+262. Programming models for extreme-scale computing
+Citations:
+Authors: M Snir
+Publication: Proceedings of the 2013 ACM symposium on Principles of distributed computing …
+
+263. An Efficient Implementation of MPI
+Citations:
+Authors: M Snir
+Publication: Programming Environments for Massively Parallel Distributed Systems: Working …
+
+264. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+265. Message from the General Co-chairs
+Citations:
+Authors: W Cai, RSM Goh, M Snir
+Publication: Proceedings of the International Conference on Parallel and Distributed …
+
+266. Effective architectural support for detecting concurrency bugs
+Citations:
+Authors: A Muzahid
+Publication: University of Illinois at Urbana-Champaign
+
+267. CGPOP Illustrated
+Citations:
+Authors: B Behzad, J Zhang, T Hoefler, M Snir
+Publication: 
+
+268. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: MD Catonsville, B Adolf, S Borkar, N DeBardeleben, M Heroux, D Rogers, ...
+Publication: 
+
+269. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: JD DOD, B Harrod, T Hoang, L Nowell, B Adolf, S Borkar, ...
+Publication: 
+
+270. Hardware atomicity for compiler-directed control speculation
+Citations:
+Authors: N Neelakantam
+Publication: University of Illinois at Urbana-Champaign
+
+271. Exascale and Beyond: Configuring, Reasoning, Scaling. Report of the 2011 Workshop on Architectures II: Exascale and Beyond, held August 8-10, Albuquerque, NM
+Citations:
+Authors: S Booth, D Campbell, A Chien, R Lethin, L Mullin, A Rodrigues, R Sass, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+272. Proceedings of the 16th international workshop on high-level parallel programming models and supportive environments
+Citations:
+Authors: T Hoefler, R Eigenmann, M Gerndt, F Müller, C Rasmussen, M Schulz, ...
+Publication: IEEE International Symposium on Parallel and Distributed Processing …
+
+273. Top publications last week by reads
+Citations:
+Authors: H Ney, R Schluter, S Ortmanns, S Kanthak, F Wessel
+Publication: Document Analysis and Recognition 14 (3), 273-288
+
+274. Refactoring transformations for maintainable, scalable and efficient parallelism
+Citations:
+Authors: FB Kjolstad
+Publication: 
+
+275. Advice to members seeking ACM distinction
+Citations:
+Authors: M Snir, T Whitney
+Publication: Communications of the ACM 53 (7), 40-41
+
+276. Enabling Architectures for Large-Scale Applications (Presentation).
+Citations:
+Authors: RC Murphy, MA Heroux, M Snir, B Gropp
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+277. Practical Time Travel of Multiprocessor Systems
+Citations:
+Authors: P Montesinos Ortego
+Publication: University of Illinois at Urbana-Champaign
+
+278. Universal parallel computing research center at Illinois
+Citations:
+Authors: M Snir
+Publication: 2009 IEEE Hot Chips 21 Symposium (HCS), 1-36
+
+279. Bolstering US Supercomputing
+Citations:
+Authors: SL Graham, M Snir, CA Patterson
+Publication: Issues in Science and Technology 21 (4), 28-32
+
+280. Workshop organizers
+Citations:
+Authors: DA Bader, S Aluru, NM Amato, F Dehne, K Dill, R Dunbrack, G Gao, ...
+Publication: Omni
+
+281. Study Process
+Citations:
+Authors: SL Graham, M Snir
+Publication: 
+
+282. International Journal of High Performance
+Citations:
+Authors: M Snir, DA Bader
+Publication: The International Journal of High Performance Computing Applications 18 (4 …
+
+283. best papers from the 2002 international parallel and distributed processing symposium
+Citations:
+Authors: M Snir
+Publication: Journal of Parallel and Distributed Computing 63 (9)
+
+284. Proceedings of the seventh ACM Symposium on Principles and Practice of Parallel Programming-Atlanta, Georgia-4-6 May 1999-Foreword
+Citations:
+Authors: AA Chien, M Snir
+Publication: ACM SIGPLAN NOTICES 34 (8), IV-IV
+
+285. Number One (G321-0134)
+Citations:
+Authors: EC Plachy, PA Hausler, DW McDavid, R Youngs, D Redmond-Pyle, ...
+Publication: IBM Systems Journal 38 (4), 698
+
+286. Scalable Shared Memory and Shared Memory Clustering
+Citations:
+Authors: M Snir
+Publication: High Performance Computing Systems and Applications, 15-15
+
+287. PRISM-a design for scalable shared memory
+Citations:
+Authors: E Kattamuri, BH Lim, P Pattnaik, M Snir
+Publication: Proceedings Innovative Architecture for Future Generation High-Performance …
+
+288. Published in Communications of the ACM, Vol. 39, No. 7, pp. 84-90, July 1996.
+Citations:
+Authors: JJ Dongarra, SW Otto, M Snir, D Walker
+Publication: Communications of the ACM 39 (7), 84-90
+
+289. For a Massive Number of Massively Parallel Machines: What are the Target Applications, Who are the Target Users, and What New R&D is Needed to Hit the Target?
+Citations:
+Authors: WM Farmer, RF Freund, M Furtney, P Messina, LM Ni, CL Seitz, M Snir
+Publication: Proceedings of the 10th International Parallel Processing Symposium, 631-634
+
+290. Special issue on parallel computing-Foreword
+Citations:
+Authors: M Snir
+Publication: ALGORITHMICA 15 (2), 103-103
+
+291. Designing a Scalable Parallel System: the IBM SP2
+Citations:
+Authors: T Agerwala, JH Mirza, M Snir
+Publication: Advances in Parallel Computing 10, 133-156
+
+292. MPI-IO: A parallel file I/O interface
+Citations:
+Authors: P Corbett, D Feitelson, Y Hsu, J Prost, M Snir, B Nitzberg, B Traversat, ...
+Publication: Research report 19841
+
+293. Collective I/O with Vesta Parallel File System
+Citations:
+Authors: JP Prost, M Snir, P Corbett, D Feitelson, Y Hsu
+Publication: Supercomputing Conference, Washington, DC
+
+294. Communications and Communications/Computations Libraries for Multicomputers MPI-F: an MPI Prototype Implementation on IBM SP1
+Citations:
+Authors: H Franke, P Hochschild, P Pattnaik, JP Prost, M Snir
+Publication: Proceedings of the Second Workshop on Environments and Tools for Parallel …
+
+295. Computer Architectures and Programming Models for Scalable Parallel Computing
+Citations:
+Authors: M Snir
+Publication: Proceedings of the ACM Symposium on Principles of Programming Languages 20, 1-1
+
+296. ROYCHOWDHLJRY, VWANI P., 516
+Citations:
+Authors: B SCHIEBER, HS SCHWEITZER, D SEESE, H SCHACHNAI, SS SKIENA, ...
+Publication: Journal of Algorithms 12, 706-707
+
+297. Program Visualization for Multicomputers
+Citations:
+Authors: D Zernik, D Malki, M Snir
+Publication: Hebrew University of Jerusalem. Leibniz Center for Research in Computer …
+
+298. A Unified Theory of Interconnection Network Structure, Rev. Ed
+Citations:
+Authors: CP Kruskal, M Snir
+Publication: Courant Institute of Mathematical Sciences, New York University
+
+299. Subject access in online catalogs: Design model
+Citations:
+Authors: ED Demaine, I Foster, C Kesselman, M Snir
+Publication: 1202 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE—November 2000 …
+
+300. Research Multiprocessors
+Citations:
+Authors: KP McAuliffe, L Rudolph, M Snir, CU Linster, J Volkert
+Publication: Tutorial supercomputers: design and applications, 250
+
+301. Department of Computer Science, Hebrew University, Jerusaiem. Israei
+Citations:
+Authors: M Snir
+Publication: 
+
+302. On the Partitioning of Regular Networks
+Citations:
+Authors: M Snir
+Publication: Courant Institute of Mathematical Sciences, New York University
+
+303. On the complexity of simplifying quadratic forms
+Citations:
+Authors: M Snir
+Publication: Information Processing Letters 12 (5), 217-220
+
+304. Balancing is Not Always Good
+Citations:
+Authors: M Snir
+Publication: New York University. Courant Institute of Mathematical Sciences. Computer …
+
+305. 251 Mercer Street, New York, NY 10012
+Citations:
+Authors: M Snir
+Publication: Proceedings, 224
+
+306. CROSSBAR 1616: A Neophyte Incursion Into VLSI Design
+Citations:
+Authors: M Snir
+Publication: University of Edinburgh, Department of Computer Science
+
+307. Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics
+Citations:
+Authors: R Dathathri, G Gill, L Hoang, V Jatala, K Pingali, VK Nandivada, HV Dang, ...
+Publication: 
+
+308. University of Illinois at Urbana-Champaign
+Citations:
+Authors: M Snir
+Publication: 
+
+309. Network and Parallel Computing
+Citations:
+Authors: F Zhang, J Zhai, M Snir, H Jin, H Kasahara, M Valero
+Publication: 
+
+310. Scalable CNN Training on Large-Scale HPC Systems
+Citations:
+Authors: N Dryden, N Maruyama, T Benson, T Moon, M Snir, B Van Essen
+Publication: 
+
+311. Improving the trust in results of numerical simulations and scientific data analytics
+Citations:
+Authors: TPC Phillips, M Snir, S Wild
+Publication: 
+
+312. Space-filling Curves for Domain Decomposition in Scientific Simulations
+Citations:
+Authors: A Sasidharan, M Snir
+Publication: 
+
+313. External Review Committee
+Citations:
+Authors: JN Amaral, D Barthou, M Bond, W Ahn, J Cavazos, A Darte, B Demsky, ...
+Publication: 
+
+314. Ayal Zaks (Intel/Technion) Bilha Mendelson (Optitura) Costin Iancu (Lawrence Berkeley National Laboratory) Erik Altman (IBM)
+Citations:
+Authors: G Silberman, G Gao, JL Gaudiot, K Yelick, K Ebcioglu, L Rauchweger, ...
+Publication: 
+
+315. IPDPS 2017 Organization
+Citations:
+Authors: M Taufer, M Snir, P Fraigniaud, RD Moser, G Biros, H Hunter, R Senger, ...
+Publication: 
+
+316. Programming Patterns for Architecture-Level Software Optimizations on Frequent Pattern Mining
+Citations:
+Authors: MWC Jiang, M Snir
+Publication: 
+
+317. 4th International Workshop on High Performance Computational Biology HiCOMB 2005
+Citations:
+Authors: S Aluru, DA Bader, NM Amato, F Dehne, K Dill, R Dunbrack, G Gao, ...
+Publication: 
+
+318. Gradient Quantization for Data-Parallel DNN Training
+Citations:
+Authors: N Dryden, B Van Essen, M Snir
+Publication: 
+
+319. Application of Numerical Accuracy to the Selection of Lossy Compression Error Tolerances
+Citations:
+Authors: J Calhoun, L Olson, M Snir
+Publication: 
+
+320. Reducing Waste in Large Scale Systems through Introspective Analysis
+Citations:
+Authors: L Bautista-Gomez, A Gainaru, S Perarnau, D Tiwari, S Gupta, ...
+Publication: 
+
+321. Scalable Parallel Systems
+Citations:
+Authors: M Snir
+Publication: 
+
+322. PGAS with Lightweight Threads and the Barnes-Hut Algorithm
+Citations:
+Authors: HV Dang, A Brooks, N Dryden, M Snir
+Publication: 
+
+323. Space-filling curves for Partitioning Adaptively Refined Meshes
+Citations:
+Authors: A Sasidharan, M Snir
+Publication: 
+
+324. 7 HiCOMB Workshop on High Performance Computational Biology
+Citations:
+Authors: S Aluru, NM Amato, F Dehne, A Gursoy, S Istrail, CJ JaJa, J Moreira, ...
+Publication: 
+
+325. Parallel Programming Beyond Multicore
+Citations:
+Authors: M Snir
+Publication: 
+
+326. An asynchronous runtime system using RDMA and lightweight tasks
+Citations:
+Authors: HV Dang, A Brooks, N Dryden, M Snir
+Publication: 
+
+327. DIMACS Workshop on Parallelism: A 2020 Vision
+Citations:
+Authors: R Wright, DD Director, M Goodrich, S Muthukrishnan, S Suri, J Gustafson, ...
+Publication: 
+
+328. Automatic Generation of I/O Trace Generators for HPC Applications
+Citations:
+Authors: B Behzad, HV Dang, F Hariri, W Zhang, M Snir
+Publication: 
+
+329. Lqqhnss LqhmEnqs Ktcdqckd+ Eknqhc
+Citations:
+Authors: C Weems, M Snir, H Attiya, J Dongarra, R Nair, KK Pingali
+Publication: 
+
+330. ROADMAP
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, JC Andre, JY Berthou, T Boku, ...
+Publication: 
+
+331. Jack Dongarra Pete Beckman Terry Moore Jean-Claude Andre
+Citations:
+Authors: JY Berthou, T Boku, F Cappello, B Chapman, X Chi, M Hereld, M Heroux, ...
+Publication: 
+
+332. Optimizing the Barnes-Hut Algorithm for Multicore Clusters
+Citations:
+Authors: J Zhang, B Behzad, M Snir
+Publication: 
+
+333. CCGrid 2013
+Citations:
+Authors: M Snir
+Publication: 
+
+334. Exascale Computing: Opportunities and Challenges
+Citations:
+Authors: M Snir
+Publication: 
+
+335. Computer Architecture Research for a New Century-To Do or Not To Do?
+Citations:
+Authors: JL Baer, D Bhandarkar, T Mudge, J Smith, M Snir, W Zwaenepoel
+Publication: 
+
+336. Raymond K. Kostuk
+Citations:
+Authors: M Snir
+Publication: 
+
+337. Technical Session 1: GPU and Many-core Simulations
+Citations:
+Authors: RY de Camargo, PA Jambhlekar, M Mishra, S Subramaniam, S Tabik, ...
+Publication: 
+
+338. Peter Corbett
+Citations:
+Authors: S Fineberg, Y Hsu, B Nitzberg, JP Prost, M Snir, B Traversat, P Wong
+Publication: 
+
+339. Al Geist and WilliamGropp 2 and Steve Huss-Lederman 3 and Andrew Lumsdaine 4 and Ewing Lusk 2 and WilliamSaphir 5 and Tony Skjellum 6 and
+Citations:
+Authors: M Snir
+Publication: 
+
+340. S. H uss-Lederman, D. Walker, andJ. Dongarra. MPI-The CompleteReference, volume 1, The MPI Core
+Citations:
+Authors: M Snir, S Otto
+Publication: MIT Press, 1 (99), 8
+
+341. MPI3: Hybrid Programming
+Citations:
+Authors: M Snir
+Publication: 
+
+342. MPI-2: Extending the Message-Passing Interface
+Citations:
+Authors: M Snir
+Publication: 
+
+343. FTXS committees
+Citations:
+Authors: FD Katz, A Fox, Z Kalbarczyk, S Monnet, T Nanya, N Neves, S Scott, ...
+Publication: 
+
+344. Local Arrangements Chairs
+Citations:
+Authors: M Snir, L Rauchwerger
+Publication: 
+
+345. N-Body Pattern Language
+Citations:
+Authors: D Dig, R Johnson, M Snir
+Publication: 
+
+346. A PROPOSAL FOR HYBRID PROGRAMMING SUPPORT ON HPC PLATFORMS
+Citations:
+Authors: M SNIR
+Publication: 
+
+347. A Language for Deterministic-by-Default Parallel Programming⋆
+Citations:
+Authors: RL Bocchino Jr, S Heumann, N Honarmand, R Komuravelli, J Overbey, ...
+Publication: 
+
+348. Datatype Extraction
+Citations:
+Authors: F Kjolstad, T Hoefler, D Dig, M Snir
+Publication: 
+
+349. International Exascale Roadmap 1.0
+Citations:
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: 
+
+350. Keynote Address Scalable arallel Computing at IBM: Past, Present and Future
+Citations:
+Authors: M Snir
+Publication: 
+

@@ -1,0 +1,300 @@
+
+3. Provable data possession at untrusted stores
+Citations:2489
+Authors: G Ateniese, R Burns, R Curtmola, J Herring, L Kissner, Z Peterson, ...
+Publication: Proceedings of the 14th ACM conference on Computer and communications …
+
+21. On scaling decentralized blockchains
+Citations:527
+Authors: K Croman, C Decker, I Eyal, AE Gencer, A Juels, A Kosba, A Miller, ...
+Publication: International Conference on Financial Cryptography and Data Security, 106-125
+
+34. Robust physical-world attacks on deep learning models
+Citations:373
+Authors: K Eykholt, I Evtimov, E Fernandes, B Li, A Rahmati, C Xiao, A Prakash, ...
+Publication: arXiv preprint arXiv:1707.08945
+
+38. Remote data checking using provable data possession
+Citations:355
+Authors: G Ateniese, R Burns, R Curtmola, J Herring, O Khan, L Kissner, ...
+Publication: ACM Transactions on Information and System Security (TISSEC) 14 (1), 12
+
+40. Ghost talk: Mitigating EMI signal injection attacks against analog sensors
+Citations:321
+Authors: DF Kune, J Backes, SS Clark, D Kramer, M Reynolds, K Fu, Y Kim, W Xu
+Publication: 2013 IEEE Symposium on Security and Privacy, 145-159
+
+52. On the feasibility of internet-scale author identification
+Citations:239
+Authors: A Narayanan, H Paskov, NZ Gong, J Bethencourt, E Stefanov, ECR Shin, ...
+Publication: 2012 IEEE Symposium on Security and Privacy, 300-314
+
+66. Phantom: Practical oblivious computation in a secure processor
+Citations:181
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+74. Contextual policy enforcement in android applications with permission event graphs.
+Citations:154
+Authors: KZ Chen, NM Johnson, V D'Silva, S Dai, K MacNamara, TR Magrino, ...
+Publication: NDSS, 234
+
+90. Joint link prediction and attribute inference using a social-attribute network
+Citations:119
+Authors: NZ Gong, A Talwalkar, L Mackey, L Huang, ECR Shin, E Stefanov, ER Shi, ...
+Publication: ACM Transactions on Intelligent Systems and Technology (TIST) 5 (2), 27
+
+99. Cyber SA: Situational awareness for cyber defense
+Citations:110
+Authors: P Barford, M Dacier, TG Dietterich, M Fredrikson, J Giffin, S Jajodia, S Jha, ...
+Publication: Cyber situational awareness, 3-13
+
+108. BitScope: Automatically dissecting malicious binaries
+Citations:95
+Authors: D Brumley, C Hartwig, MG Kang, Z Liang, J Newsome, P Poosankam, ...
+Publication: Technical Report CS-07-133, School of Computer Science, Carnegie Mellon …
+
+118. Sweeper: A lightweight end-to-end system for defending against fast worms
+Citations:82
+Authors: J Tucek, J Newsome, S Lu, C Huang, S Xanthos, D Brumley, Y Zhou, ...
+Publication: ACM SIGOPS Operating Systems Review 41 (3), 115-128
+
+125. Differential slicing: Identifying causal execution differences for security applications
+Citations:75
+Authors: NM Johnson, J Caballero, KZ Chen, S McCamant, P Poosankam, ...
+Publication: 2011 IEEE Symposium on Security and Privacy, 347-362
+
+126. Protecting Users by Confining JavaScript with {COWL}
+Citations:73
+Authors: D Stefan, EZ Yang, P Marchenko, A Russo, D Herman, B Karp, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+137. Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts
+Citations:64
+Authors: R Cheng, F Zhang, J Kos, W He, N Hynes, N Johnson, A Juels, A Miller, ...
+Publication: 2019 IEEE European Symposium on Security and Privacy (EuroS&P), 185-200
+
+141. Jointly predicting links and inferring attributes using a social-attribute network (san)
+Citations:62
+Authors: NZ Gong, A Talwalkar, L Mackey, L Huang, ECR Shin, E Stefanov, ...
+Publication: arXiv preprint arXiv:1112.3265
+
+146. Take Two Software Updates and See Me in the Morning: The Case for Software Security Evaluations of Medical Devices.
+Citations:59
+Authors: S Hanna, R Rolles, A Molina-Markham, P Poosankam, J Blocki, K Fu, ...
+Publication: HealthSec
+
+153. StackPi: a new defense mechanism against IP spoofing and DDoS attacks
+Citations:53
+Authors: APDSA Yaar
+Publication: Update
+
+166. Detecting dangerous queries: A new approach for chosen ciphertext security
+Citations:40
+Authors: S Hohenberger, A Lewko, B Waters
+Publication: Annual International Conference on the Theory and Applications of …
+
+171. Privacy-preserving aggregation of Time-series data
+Citations:38
+Authors: R Shi, R Chow, THH Chan
+Publication: US Patent 8,555,400
+
+177. Recent results in computer security for medical devices
+Citations:34
+Authors: SS Clark, K Fu
+Publication: International Conference on Wireless Mobile Communication and Healthcare …
+
+184. Eternal war in memory
+Citations:30
+Authors: L Szekeres, M Payer, LT Wei, R Sekar
+Publication: IEEE Security & Privacy 12 (3), 45-53
+
+187. Crash analysis with BitBlaze
+Citations:29
+Authors: C Miller, J Caballero, NM Johnson, MG Kang, S McCamant, ...
+Publication: at BlackHat USA
+
+213. Physical adversarial examples for object detectors
+Citations:17
+Authors: K Eykholt, I Evtimov, E Fernandes, B Li, A Rahmati, F Tramer, A Prakash, ...
+Publication: arXiv preprint arXiv:1807.07769
+
+218. Reciprocal versus parasocial relationships in online social networks
+Citations:16
+Authors: NZ Gong, W Xu
+Publication: Social Network Analysis and Mining 4 (1), 184
+
+256. Contextual policy enforcement in android programs with permission event graphs
+Citations:7
+Authors: K Chen, N Johnson, V D'Silva, S Dai, T Magrino, K Macnamarra, E Wu, ...
+Publication: 
+
+261. Towards efficient data valuation based on the shapley value
+Citations:6
+Authors: R Jia, D Dao, B Wang, FA Hubis, N Hynes, NM Gurel, B Li, C Zhang, ...
+Publication: arXiv preprint arXiv:1902.10275
+
+265. Designing Privacy-preserving Smart Meters with Low-cost Microcontrollers.
+Citations:6
+Authors: A Molina-Markham, G Danezis, K Fu, PJ Shenoy, DE Irwin
+Publication: IACR Cryptology ePrint Archive 2011, 544-544
+
+268. Looking for diamonds in the dessert-extending automatic protocol generation to three-party authentication and key distribution
+Citations:6
+Authors: A Perrig
+Publication: Proc. of IEEE Computer Security Foundation Workshop, July 2000
+
+283. Asymbolicexecutionframe workforjavascript
+Citations:4
+Authors: AD saxenaP
+Publication: securityandPrivacy (sP), 2010IEEEsym posiumon. IEEE 513, 528
+
+288. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+294. A high-performance oblivious RAM controller on the convey HC-2ex heterogeneous computing platform
+Citations:3
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Workshop on the Intersections of Computer Architecture and Reconfigurable …
+
+305. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+310. Using EEG-based BCI devices to subliminally probe for private information
+Citations:2
+Authors: M Frank, T Hwu, S Jain, RT Knight, I Martinovic, P Mittal, D Perito, ...
+Publication: Proceedings of the 2017 on Workshop on Privacy in the Electronic Society …
+
+312. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+327. Duet: An Expressive Higher-order Language and Linear Type System for Statically Enforcing Differential Privacy
+Citations:1
+Authors: JP Near, D Darais, C Abuah, T Stevens, P Gaddamadugu, L Wang, ...
+Publication: 
+
+330. Security and privacy in cloud computing: A survey.
+Citations:1
+Authors: AM Talib, R Atan, R Abdullah, MAA Murad, G Ateniese, R Burns, ...
+Publication: Journal of Software Engineering 6 (3), pp: 598-609
+
+331. Guest Editorial: Wireless Sensor Networks
+Citations:1
+Authors: YS Chen, YC Tseng, Y Zhang, F Zhao
+Publication: Telecommunication Systems 26 (2), 125-127
+
+334. Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms
+Citations:
+Authors: R Jia, D Dao, B Wang, FA Hubis, NM Gurel, B Li, C Zhang, CJ Spanos, ...
+Publication: arXiv preprint arXiv:1908.08619
+
+343. Building a Secure Data Market on Blockchain
+Citations:
+Authors: N Johnson
+Publication: 
+
+351. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+357. The IEEE Symposium on Security and Privacy Is Moving to San Francisco
+Citations:
+Authors: PG Neumann, U Lindqvist
+Publication: IEEE Security & Privacy 10 (2), 65-66
+
+361. Loop-Extended Symbolic Execution on Binary Programs
+Citations:
+Authors: PSP Poosankam, SMCD Song
+Publication: 
+
+364. One-Dimensional Stable Distributions.
+Citations:
+Authors: Y Zhu, X Sun, Z Xia, L Chen, T Li, D Zhang, D Boneh, B Waters, N Cao, ...
+Publication: Information Technology Journal 13 (5), pp: 535-554
+
+368. Secure group communications using key graphs.
+Citations:
+Authors: C Ma, J Ao, D Boneh, C Gentry, B Waters, R Canetti, J Garay, G Itkis, ...
+Publication: Information Technology Journal 7 (7), pp: 258–275-pp: 258–275
+
+373. A pairwise key predistribution scheme for wireless sensor networks.
+Citations:
+Authors: N Sugandhi, S Mirdula, D Manivannan, R Ranjini, DHS Minu, H Chan, ...
+Publication: Journal of Artificial Intelligence 5 (4), pp: 197-213
+
+374. Efficient collision search attacks on SHA-0.
+Citations:
+Authors: T Qin, H Chen, IF Akyildiz, W Su, Y Sankarasubramaniam, E Cayirci, ...
+Publication: Information Technology Journal 11 (1), 393-422
+
+375. PDCS: Security and privacy support for data-centric sensor networks.
+Citations:
+Authors: Z Ruan, X Sun, W Liang, D Sun, Z Xia, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 9 (7), 393-422
+
+376. Key predistribution scheme using keyed-hash chain and multipath key reinforcement for wireless sensor networks.
+Citations:
+Authors: H Ren, X Sun, Z Ruan, B Wang, IF Akyildiz, W Su, ...
+Publication: Information Technology Journal 10 (1), 393-422
+
+384. 12th USENIX Security Symposium
+Citations:
+Authors: V Paxson, S Bellovin, D Boneh, C Cowan, D Dean, K Fu, P Gutmann, ...
+Publication: 
+
+385. Supplementary Material: Towards Efficient Data Valuation Based on the Shapley Value
+Citations:
+Authors: R Jia, D Dao, B Wang, FA Hubis, N Hynes, NM Gurel, B Li, C Zhang, ...
+Publication: 
+
+391. Poornachandran, Prabaharan 258 Purl, Justin 197 Qi, Yanjun 50 R, Vinayakumar 258 Rigaki, Maria 70
+Citations:
+Authors: C Larimer, DC Le, NA Le-Khac, YM Leong, K Li, R Li, Q Liao, D Lillis, ...
+Publication: 
+
+392. SPW 2018
+Citations:
+Authors: N Carlini, D Wagner, J Saxe, R Harang, C Wild, H Sanders, P Chong, ...
+Publication: 
+
+399. Memory Safety, Wednesday, August 12, 2: 00 pm–3: 30 pm
+Citations:
+Authors: D Molnar, XC Li, DA Wagner, P Ratanaworabhan, B Livshits, B Zorn, ...
+Publication: 
+
+400. Privacy and Security in Mobile Systems (PRISMS)
+Citations:
+Authors: M Andersen, P Annadata, V Arena, M Areno, M Asif, S Babar, M Baltatu, ...
+Publication: 
+
+407. 2009 30th IEEE Symposium on Security and Privacy
+Citations:
+Authors: FD Garcia, P van Rossum, R Verdult, RW Schreur
+Publication: 
+
+408. Message from the General Chair _ viii Message from the Program Chairs _ x External Reviewers _ xi
+Citations:
+Authors: H Yu, P Gibbons, M Kaminsky, F Xiao, P Venkitasubramaniam, L Tong, ...
+Publication: 
+
+409. SecureComm 2005 Technical Program Committee
+Citations:
+Authors: N Asokan, G Ateniese, T Aura, F Bao, B Bhargava, L Buttyan, R Deng, ...
+Publication: 
+
+413. MADHU, K. CMU-CS-02-156 MAHAMUD, Shyjan CMU-CS-02-161 MALIN, Bradley CMU-CS-02-189 MAHABOOB, Habeeb CMU-CS-02-155
+Citations:
+Authors: V MAHENDRA, M MATEAS, A MEYERSON, RC MILLER, M MOLL, ...
+Publication: 
+
+418. SUBRAMANI, K. CMU-CS-04-179
+Citations:
+Authors: UA ACAR, E AIROLDI, A AKELLA, R ARUNACHALAM, GE BLELLOCH, ...
+Publication: 

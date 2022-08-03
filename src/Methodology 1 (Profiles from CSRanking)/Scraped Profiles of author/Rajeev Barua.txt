@@ -1,0 +1,473 @@
+https://scholar.google.com/citations?hl=en&user=NaIdl8EAAAAJ
+Total Citations = 4544
+
+1. Baring it all to software: The raw machine
+Citations:905
+Authors: E Waingold, M Taylor, V Sarkar, V Lee, W Lee, J Kim, M Frank, P Finch, ...
+Publication: Massachusetts Institute of Technology
+
+2. An optimal memory allocation scheme for scratch-pad-based embedded systems
+Citations:395
+Authors: O Avissar, R Barua, D Stewart
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 1 (1), 6-26
+
+3. Space-time scheduling of instruction-level parallelism on a raw machine
+Citations:356
+Authors: W Lee, R Barua, M Frank, D Srikrishna, J Babb, V Sarkar, S Amarasinghe
+Publication: ACM SIGPLAN Notices 33 (11), 46-57
+
+4. Compiler-decided dynamic memory allocation for scratch-pad based embedded systems
+Citations:264
+Authors: S Udayakumaran, R Barua
+Publication: Proceedings of the 2003 international conference on Compilers, architecture …
+
+5. Dynamic allocation for scratch-pad memory using compile-time decisions
+Citations:254
+Authors: S Udayakumaran, A Dominguez, R Barua
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 5 (2), 472-511
+
+6. Maps: a compiler-managed memory system for raw machines
+Citations:179
+Authors: R Barua, W Lee, S Amarasinghe, A Agarwal
+Publication: ACM SIGARCH Computer Architecture News 27 (2), 4-15
+
+7. Heap data allocation to scratch-pad memory in embedded systems
+Citations:178
+Authors: A Dominguez, S Udayakumaran, R Barua
+Publication: Journal of Embedded Computing 1 (4), 521-540
+
+8. Parallelizing applications into silicon
+Citations:146
+Authors: J Babb, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: Seventh Annual IEEE Symposium on Field-Programmable Custom Computing …
+
+9. Heterogeneous memory management for embedded systems
+Citations:128
+Authors: O Avissar, R Barua, D Stewart
+Publication: Proceedings of the 2001 international conference on Compilers, architecture …
+
+10. The raw benchmark suite: Computation structures for general purpose computing
+Citations:114
+Authors: J Babb, M Frank, V Lee, E Waingold, R Barua, M Taylor, J Kim, ...
+Publication: Proceedings. The 5th Annual IEEE Symposium on Field-Programmable Custom …
+
+11. Compiler support for scalable and efficient memory systems
+Citations:109
+Authors: R Barua, W Lee, S Arnarasinghe, A Agarwal
+Publication: IEEE Transactions on Computers 50 (11), 1234-1247
+
+12. The RAW compiler project
+Citations:107
+Authors: A Agarwal, S Amarasinghe, R Barua, M Frank, W Lee, V Sarkar, ...
+Publication: Proceedings of the Second SUIF Compiler Workshop, Stanford, CA
+
+13. Contention-Free Periodic Message Scheduler Medium Access Control in Wireless Sensor/Actuator Networks.
+Citations:96
+Authors: TW Carley, MA Ba, R Barua, DB Stewart
+Publication: RTSS, 298-307
+
+14. Memory bank disambiguation using modulo unrolling for Raw machines
+Citations:94
+Authors: R Barua, W Lee, S Amarasinghe, A Agarwal
+Publication: Proceedings. Fifth International Conference on High Performance Computing …
+
+15. Memory allocation for embedded systems with a compile-time-unknown scratch-pad size
+Citations:82
+Authors: N Nguyen, A Dominguez, R Barua
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+16. Lazy binary-splitting: a run-time adaptive work-stealing scheduler
+Citations:67
+Authors: A Tzannes, GC Caragea, R Barua, U Vishkin
+Publication: ACM Sigplan Notices 45 (5), 179-190
+
+17. A compiler-level intermediate representation based binary analysis and rewriting system
+Citations:66
+Authors: K Anand, M Smithson, K Elwazeer, A Kotha, J Gruen, N Giles, R Barua
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 295-308
+
+18. Scalable variable and data type detection in a binary rewriter
+Citations:58
+Authors: K ElWazeer, K Anand, A Kotha, M Smithson, R Barua
+Publication: ACM SIGPLAN Notices 48 (6), 51-60
+
+19. MemSafe: ensuring the spatial and temporal memory safety of C at runtime
+Citations:54
+Authors: MS Simpson, RK Barua
+Publication: Software: Practice and Experience 43 (1), 93-128
+
+20. Automatic parallelization in a binary rewriter
+Citations:52
+Authors: A Kotha, K Anand, M Smithson, G Yellareddy, R Barua
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+21. Binary rewriting without relocation information
+Citations:51
+Authors: RK Barua, M Smithson
+Publication: US Patent 8,510,723
+
+22. Retrofitting security in cots software with binary rewriting
+Citations:47
+Authors: P O’sullivan, K Anand, A Kotha, M Smithson, R Barua, AD Keromytis
+Publication: IFIP International Information Security Conference, 154-172
+
+23. Memory overflow protection for embedded systems using run-time checks, reuse, and compression
+Citations:40
+Authors: S Biswas, T Carley, M Simpson, B Middha, R Barua
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 5 (4), 719-752
+
+24. MTSS: Multitask stack sharing for embedded systems
+Citations:35
+Authors: B Middha, M Simpson, R Barua
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 7 (4), 46
+
+25. Communication-minimal partitioning of parallel loops and data arrays for cache-coherent distributed-memory multiprocessors
+Citations:35
+Authors: R Barua, D Kranz, A Agarwal
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+26. Segment protection for embedded systems using run-time checks
+Citations:34
+Authors: M Simpson, B Middha, R Barua
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+27. Binary rewriting without relocation information
+Citations:30
+Authors: M Smithson, K Anand, A Kotha, K Elwazeer, N Giles, R Barua
+Publication: University of Maryland, Tech. Rep
+
+28. Instruction cache locking inside a binary rewriter
+Citations:30
+Authors: K Anand, R Barua
+Publication: Proceedings of the 2009 international conference on Compilers, architecture …
+
+29. An integrated scratch-pad allocator for affine and non-affine code
+Citations:30
+Authors: S Udayakumaran, R Barua
+Publication: Proceedings of the conference on Design, automation and test in Europe …
+
+30. Scratch-pad memory allocation without compiler support for java applications
+Citations:29
+Authors: N Nguyen, A Dominguez, R Barua
+Publication: Proceedings of the 2007 international conference on Compilers, architecture …
+
+31. Execution history guided instruction prefetching
+Citations:29
+Authors: Y Zhang, S Haga, R Barua
+Publication: Proceedings of the 16th international conference on Supercomputing, 199-208
+
+32. Memory allocation for embedded systems with a compile-time-unknown scratch-pad size
+Citations:26
+Authors: N Nguyen, A Dominguez, R Barua
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 8 (3), 21
+
+33. Compiler-driven dynamic memory allocation methodology for scratch-pad based embedded systems
+Citations:26
+Authors: RK Barua, S Udayakumaran
+Publication: US Patent 7,367,024
+
+34. Static binary rewriting without supplemental information: Overcoming the tradeoff between coverage and correctness
+Citations:25
+Authors: M Smithson, K ElWazeer, K Anand, A Kotha, R Barua
+Publication: 2013 20th Working Conference on Reverse Engineering (WCRE), 52-61
+
+35. Decompilation to compiler high IR in a binary rewriter
+Citations:25
+Authors: K Anand, M Smithson, A Kotha, K Elwazeer, R Barua
+Publication: University of Maryland, Tech. Rep
+
+36. Recursive function data allocation to scratch-pad memory
+Citations:25
+Authors: A Dominguez, N Nguyen, RK Barua
+Publication: Proceedings of the 2007 international conference on Compilers, architecture …
+
+37. Compiler-directed customization of ASIP cores
+Citations:23
+Authors: T Gupta, RE Ko, R Barua
+Publication: Proceedings of the tenth international symposium on Hardware/software …
+
+38. EPIC instruction scheduling based on optimal approaches
+Citations:23
+Authors: S Haga, R Barua
+Publication: Proc. First Annual Workshop on Explicitly Parallel Instruction Computing …
+
+39. The sensitivity of communication mechanisms to bandwidth and latency
+Citations:23
+Authors: FT Chong, R Barua, F Dahlgren, JD Kubiatowicz, A Agarwal
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+40. Lazy scheduling: A runtime adaptive scheduler for declarative parallelism
+Citations:20
+Authors: A Tzannes, GC Caragea, U Vishkin, R Barua
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 36 (3), 10
+
+41. Automatic parallelization using binary rewriting
+Citations:20
+Authors: RK Barua, A Kotha
+Publication: US Patent 8,645,935
+
+42. Dynamic functional unit assignment for low power
+Citations:20
+Authors: S Haga, N Reeves, R Barua, D Marculescu
+Publication: The Journal of Supercomputing 31 (1), 47-62
+
+43. Toolchain for programming, simulating and studying the XMT many-core architecture
+Citations:18
+Authors: F Keceli, A Tzannes, GC Caragea, R Barua, U Vishkin
+Publication: 2011 IEEE International Symposium on Parallel and Distributed Processing …
+
+44. Resource-aware compiler prefetching for many-cores
+Citations:18
+Authors: GC Caragea, A Tzannes, F Keceli, R Barua, U Vishkin
+Publication: 2010 Ninth International Symposium on Parallel and Distributed Computing …
+
+45. Efficient multiprogramming for multicores with SCAF
+Citations:16
+Authors: T Creech, A Kotha, R Barua
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+46. Implementation and performance evaluation of a distributed conjugate gradient method in a cloud computing environment
+Citations:14
+Authors: L Ismail, R Barua
+Publication: Software: Practice and Experience 43 (3), 281-304
+
+47. Maps: a compiler-managed memory system for software-exposed architectures
+Citations:13
+Authors: RK Barua
+Publication: Massachusetts Institute of Technology
+
+48. Instruction-cache locking for improving embedded systems performance
+Citations:12
+Authors: K Anand, R Barua
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 14 (3), 53
+
+49. Recovery of object oriented features from c++ binaries
+Citations:11
+Authors: K Yoo, R Barua
+Publication: 2014 21st Asia-Pacific Software Engineering Conference 1, 231-238
+
+50. Reducing code size in VLIW instruction scheduling
+Citations:11
+Authors: S Haga, A Webber, Y Zhang, N Nguyen, R Barua
+Publication: Journal of Embedded Computing 1 (3), 415-433
+
+51. Analysis of compression algorithms for program data
+Citations:10
+Authors: M Simpson, S Biswas, R Barua
+Publication: University of Maryland
+
+52. Affine loop optimization based on modulo unrolling in chapel
+Citations:9
+Authors: A Sharma, D Smith, J Koehler, R Barua, M Ferguson
+Publication: Proceedings of the 8th International Conference on Partitioned Global …
+
+53. Baring it all to software: The raw machine
+Citations:7
+Authors: EW Michael, M Taylor, V Sarkar, W Lee, V Lee, J Kim, M Frank, P Finch, ...
+Publication: IEEE Computer
+
+54. Dynodet: Detecting dynamic obfuscation in malware
+Citations:6
+Authors: D Kim, A Majlesi-Kupaei, J Roy, K Anand, K ElWazeer, D Buettner, ...
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+55. Aesop: The autoparallelizing compiler for shared memory computers
+Citations:5
+Authors: TCA Kotha, R Barua
+Publication: Department of Electrical and Computer Engineering, University of Maryland …
+
+56. Addressing partitioned arrays in distributed memory multiprocessors-the software virtual memory approach
+Citations:5
+Authors: R Barua, D Kranz, A Agarwal
+Publication: Proceedings of the Fifth MIT Student Workshop on Scalable Computing …
+
+57. Global partitioning of parallel loops and data arrays for caches and distributed memory in multiprocessors
+Citations:5
+Authors: RK Barua
+Publication: Massachusetts Institute of Technology
+
+58. Easy PRAM-based high-performance parallel programming with ICE
+Citations:4
+Authors: F Ghanim, U Vishkin, R Barua
+Publication: IEEE Transactions on Parallel and Distributed Systems 29 (2), 377-390
+
+59. A stack memory abstraction and symbolic analysis framework for executables
+Citations:4
+Authors: K Anand, K Elwazeer, A Kotha, M Smithson, R Barua, A Keromytis
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 25 (2), 19
+
+60. RL-Bin, robust low-overhead binary rewriter
+Citations:3
+Authors: A Majlesi-Kupaei, D Kim, K Anand, K ElWazeer, R Barua
+Publication: Proceedings of the 2017 Workshop on Forming an Ecosystem Around Software …
+
+61. Affine parallelization using dependence and cache analysis in a binary rewriter
+Citations:3
+Authors: A Kotha, K Anand, T Creech, K Elwazeer, M Smithson, G Yellareddy, ...
+Publication: IEEE Transactions on Parallel and Distributed Systems 26 (8), 2154-2163
+
+62. Affine parallelization of loops with run-time dependent bounds from binaries
+Citations:3
+Authors: A Kotha, K Anand, T Creech, K ElWazeer, M Smithson, R Barua
+Publication: European Symposium on Programming Languages and Systems, 554-574
+
+63. An accurate stack memory abstraction and symbolic analysis framework for executables
+Citations:3
+Authors: K Anand, K Elwazeer, A Kotha, M Smithson, R Barua, A Keromytis
+Publication: 2013 IEEE International Conference on Software Maintenance, 90-99
+
+64. Issues in writing a parallel compiler starting from a serial compiler
+Citations:3
+Authors: A Tzannes, R Barua, G Caragea, U Vishkin
+Publication: draft. Technical report
+
+65. System to discover and analyze evasive malware
+Citations:2
+Authors: R Barua, K Anand, A Kotha, K Elwazeer
+Publication: US Patent 9,900,324
+
+66. Transparently space sharing a multicore among multiple processes
+Citations:2
+Authors: T Creech, R Barua
+Publication: ACM Transactions on Parallel Computing (TOPC) 3 (3), 17
+
+67. Resource-Aware Compiler Prefetching for Fine-Grained Many-Cores
+Citations:2
+Authors: GC Caragea, A Tzannes, F Keceli, R Barua, U Vishkin
+Publication: International Journal of Parallel Programming 39 (5), 615-638
+
+68. The compiler for the XMTC parallel language: Lessons for compiler developers and in-depth description
+Citations:2
+Authors: A Tzannes, GC Caragea, U Vishkin, R Barua
+Publication: 
+
+69. Binary rewriting system
+Citations:1
+Authors: R Barua, K Anand, A Kotha, K Elwazeer
+Publication: US Patent 9,448,788
+
+70. Poster: Easy pram-based high-performance parallel programming with ice
+Citations:1
+Authors: F Ghanim, R Barua, U Vishkin
+Publication: 2016 International Conference on Parallel Architecture and Compilation …
+
+71. Prospects for FPGA-based Reprogrammable Systems
+Citations:1
+Authors: R Barua
+Publication: MIT/LCS
+
+72. 2018 Index IEEE Transactions on Parallel and Distributed Systems Vol. 29
+Citations:
+Authors: TK Aasawat, P Abad, S Abadal, A Abdelfattah, TF Abdelzaher, S Abdulah, ...
+Publication: IEEE Transactions on Parallel and Distributed Systems 30 (1), 1
+
+73. A Hybrid Static Tool to Increase the Usability and Scalability of Dynamic Detection of Malware
+Citations:
+Authors: D Kim, D Mirsky, A Majlesi-Kupaei, R Barua
+Publication: 2018 13th International Conference on Malicious and Unwanted Software …
+
+74. Improving Run-Time Scheduling for General-Purpose Parallel Code
+Citations:
+Authors: A Tzannes, R Barua, U Vishkin
+Publication: 2011 International Conference on Parallel Architectures and Compilation …
+
+75. Article 21 (32 pages)-Memory Allocation for Embedded Systems with a Compile-Time--Unknown Scratch-Pad Size
+Citations:
+Authors: N Nguyen, A Dominguez, R Barua
+Publication: ACM Transactions on Embedded Computer Systems 8 (3)
+
+76. Compiler-Decided Dynamic Memory Allocation for Scratch-Pad Based Embedded Systems
+Citations:
+Authors: R Barua
+Publication: 
+
+77. Memory optimization
+Citations:
+Authors: RK Barua
+Publication: Language, Compiler and Tool Support for Embedded Systems: Proceedings of the …
+
+78. 2002 reviewers list
+Citations:
+Authors: EM Aboulhamid, G Agrawal, A Akkas, D Albonesi, M Al-Mouhamed, ...
+Publication: IEEE Transactions on Computers 52 (1), 93
+
+79. Section III Communication Optimizations-Chapter 9 Optimal Tiling for Minimizing Communication in Distributed Shared-Memory Multiprocessors
+Citations:
+Authors: A Agarwal, D Kranz, R Barua, V Natarajan
+Publication: Lecture Notes in Computer Science 1808, 285-338
+
+80. Optimal tiling for minimizing communication in distributed shared-memory multiprocessors
+Citations:
+Authors: A Agarwal, D Kranz, R Barua, V Natarajan
+Publication: Compiler optimizations for scalable parallel systems, 285-338
+
+81. Parallelizing Applications into Silicon
+Citations:
+Authors: JB Martin, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: In Proceedings of the IEEE Workshop on FPGAs for Custom Computing Machines
+
+82. evi rs List
+Citations:
+Authors: B Abali, AE Abbadi, T Abdelrahman, M Aboelaze, AA Abonamah, ...
+Publication: IEEE Transactions on Computers 45 (1)
+
+83. Tor M. Aamodt 99, 408 Mohamad Abdel-Majeed 111 Jaume Abella 160 Jorge Albericio 310
+Citations:
+Authors: H Ando, M Annavaram, R Ausavarungnirun, R Balasubramanian, ...
+Publication: 
+
+84. a. Education
+Citations:
+Authors: R Barua
+Publication: 
+
+85. The ICE Language and Compiler: Manual and Tutorial
+Citations:
+Authors: F Ghanim, U Vishkin, R Barua
+Publication: 
+
+86. бг ведзжй ж! д
+Citations:
+Authors: R Barua
+Publication: 
+
+87. Affine Loop Optimization using Modulo Unrolling in CHAPEL
+Citations:
+Authors: A Sharma, J Koehler, R Barua, LTS POC, M Ferguson
+Publication: 
+
+88. Space-time scheduling of instruction level parallelism
+Citations:
+Authors: W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+89. SC Nandy BL Narayan
+Citations:
+Authors: S Bandyopadhyay, S Bandyopadhyay, P Banerjee, H Banka, R Barua, ...
+Publication: 
+
+90. Reviewers Reviewers
+Citations:
+Authors: S Adve, P Ahuja, H Al-Sukhni, C Alvarez, S Amarasinghe, J Anderson, ...
+Publication: 
+
+91. Matthew Frank, Rajeev Barua, and Saman Amarasinghe Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: J Babb, M Rinard, CA Moritz, W Lee
+Publication: 
+
+92. Parallelizing Applications into Smart Memories
+Citations:
+Authors: J Babb, M Rinard, A Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: 
+
+93. AU THOR IN DEX
+Citations:
+Authors: B Aball, A Agarwal, CC Aggarwal, E Altman, S Amarasinghe, A Antola, ...
+Publication: 
+
+94. Technical Report: Run-Time Checks for Memory Safety
+Citations:
+Authors: M Simpson, R Barua
+Publication: 
+

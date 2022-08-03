@@ -1,0 +1,155 @@
+
+1. A view of cloud computing
+Citations:16803
+Authors: AD JoSEP, RAD KAtz, AD KonWinSKi, LEE Gunho, D PAttERSon, ...
+Publication: Communications of the ACM 53 (4)
+
+6. Recovery-oriented computing (ROC): Motivation, definition, techniques, and case studies
+Citations:603
+Authors: D Patterson, A Brown, P Broadwell, G Candea, M Chen, J Cutler, ...
+Publication: Technical Report UCB//CSD-02-1175, UC Berkeley Computer Science
+
+18. A network architecture for heterogeneous mobile computing
+Citations:295
+Authors: EA Brewer, RH Katz, Y Chawathe, SD Gribble, T Hodes, G Nguyen, ...
+Publication: IEEE Personal Communications 5 (5), 8-24
+
+23. Cloudstone: Multi-platform, multi-language benchmark and measurement tools for web 2.0
+Citations:226
+Authors: W Sobel, S Subramanyam, A Sucharitakul, J Nguyen, H Wong, ...
+Publication: Proc. of CCA 8, 228
+
+42. Combining visualization and statistical analysis to improve operator confidence and efficiency for failure detection and localization
+Citations:122
+Authors: P Bodic, G Friedman, L Biewald, H Levine, G Candea, K Patel, G Tolle, ...
+Publication: Second International Conference on Autonomic Computing (ICAC'05), 89-100
+
+46. SEJITS: Getting productivity and performance with selective embedded JIT specialization
+Citations:110
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Programming Models for Emerging Architectures 1 (1), 1-9
+
+55. A low-power, lightweight unit to provide ubiquitous information access application and network support for InfoPad
+Citations:96
+Authors: S Narayanaswamy, S Seshan, E Amir, E Brewer, RW Brodersen, ...
+Publication: IEEE personal Communications 3 (2), 4-17
+
+124. Portable parallel performance from sequential, productive, embedded domain-specific languages
+Citations:17
+Authors: S Kamil, D Coetzee, S Beamer, H Cook, E Gonina, J Harper, J Morlan, ...
+Publication: ACM SIGPLAN Notices 47 (8), 303-304
+
+143. The MeetingMachine: Interactive workspace support for nomadic users
+Citations:12
+Authors: V Vijayaraghavan
+Publication: 2003 Proceedings Fifth IEEE Workshop on Mobile Computing Systems and …
+
+157. M-CAFE: Managing MOOC student feedback with collaborative filtering
+Citations:9
+Authors: M Zhou, A Cliff, A Huang, S Krishnan, B Nonnecke, K Uchino, S Joseph, ...
+Publication: Proceedings of the Second (2015) ACM Conference on Learning@ Scale, 309-312
+
+184. Taking Advantage of Scale by Analyzing Frequent Constructed-Response, Code Tracing Wrong Answers
+Citations:4
+Authors: K Stephens-Martinez, A Ju, K Parashar, R Ongowarsito, N Jain, S Venkat, ...
+Publication: Proceedings of the 2017 ACM Conference on International Computing Education …
+
+219. Reducing recovery time in a small recursively restartable system
+Citations:2
+Authors: C George, J Cutler, O Fox, R Doshi, P Garg, R Gowda
+Publication: In DSN
+
+230. Distributed Pipeline for Genomic Variant Calling
+Citations:1
+Authors: R Xia, S Sheehan, Y Zhang, A Talwalkar, M Zaharia, J Terhorst, M Jordan, ...
+Publication: NIPS Workshop on BIG Learning
+
+233. Stephen Tu
+Citations:1
+Authors: W Zheng, S Tu, E Kohler, B Liskov, J DeBrabant, A Pavlo, M Stonebraker, ...
+Publication: University of California, Berkeley 2010
+
+234. Microreboot–A Technique for Cheap Recovery
+Citations:1
+Authors: C George, S Kawamoto, Y Fujiki, G Friedman, O Fox
+Publication: 
+
+250. Research on the Architecture of Data-Intensive Computing Platform
+Citations:
+Authors: K Hou, J Zhang, X Fang
+Publication: Journal of Software Engineering 9, 686-701
+
+254. Conroy, S. 183 Cooke, JC 178, 155 Cooper, A. 185 Copperman, J. 181
+Citations:
+Authors: J Corlyon, M Courtney, P Cox, N Cronin, D Crimmins, M Csikszentmihalyi, ...
+Publication: In Care and After: A Positive Perspective, 198
+
+255. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+260. On the effectiveness of DNS-based server selection.
+Citations:
+Authors: R Mu, F Zhao, A Aboulnaga, K Salem, AA Soror, UF Minhas, P Kokosielis, ...
+Publication: Journal of Software Engineering 9 (3), 13-20
+
+261. SecureMR: A service integrity assurance framework for mapreduce.
+Citations:
+Authors: G Sujitha, M Varadharajan, YV Rao, R Sridev, MKS Gauthaum, ...
+Publication: Information Technology Journal 12 (12), 50-58
+
+268. BIGGIE: A Distributed Pipeline for Genomic Variant Calling
+Citations:
+Authors: R Xia, S Sheehan, Y Zhang, A Talwalkar, M Zaharia, J Terhorst, M Jordan, ...
+Publication: Bioinformatics 25, 2078-9
+
+271. Stephen Tu
+Citations:
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik, W Zheng, E Kohler, ...
+Publication: University of California, Berkeley 2010
+
+272. CoUm. J. BUBl
+Citations:
+Authors: S Conroy, A Cooper, J Copperman, J Corlyon, M Courtney, P Cox, V Cree, ...
+Publication: In Care and After: A Positive Perspective, 198
+
+284. IBM cloud computing powering a smarter planet.
+Citations:
+Authors: Z Yong-Ping, Z Gong-Xuan, Z Zhao-Meng, GS Almasi, A Gottlieb, ...
+Publication: Information Technology Journal 13 (2), 50-58
+
+285. Department of Electrical Engineering and Computer Sciences
+Citations:
+Authors: PID Si
+Publication: 1981 Ultrasonics Symposium: Proceedings, 240
+
+293. Gregory Abowd, Georgia Tech
+Citations:
+Authors: R Accorsi, M Adler, S Ahuja, F Al-Bin-Ali, J Bacon, V Bahl, M Baker, ...
+Publication: 
+
+295. Gregory Abowd, Georgia Tech Mustaque Ahamad, Georgia Tech
+Citations:
+Authors: L Arnstein, J Bacon, M Baker, R Balon, J Barton, M Beigl, G Borriello, ...
+Publication: 
+
+297. Mark Adler, Nokia Jalal Al-Muhtadi, King Saud Univ.
+Citations:
+Authors: G Anders, M Baker, M Balazinska, S Banerjee, S Banerjee, J Bardram, ...
+Publication: 
+
+301. usenix conference policies
+Citations:
+Authors: P Bodík, G Bronevetsky, J MacDonald, P Narasimhan, A Oliner, I Cohen, ...
+Publication: 
+
+303. Looking Inside the Virtualization Layer for Performance, Security and Software Fault Tolerance………………………………… 3
+Citations:
+Authors: A Polze, D Montesi, H Castro, W Kurschl, A Schmidt, K Vanmechelen, ...
+Publication: 
+
+304. Suman Banerjee, University of
+Citations:
+Authors: M Beaudoin-Lafon, M Beer, G Bell, R Bodoff, C Borcea, G Borriello, ...
+Publication: 

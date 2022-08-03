@@ -1,0 +1,363 @@
+https://scholar.google.com/citations?hl=en&user=xd_8IiIAAAAJ
+Total Citations = 1643
+
+1. Semantic security for the wiretap channel
+Citations:134
+Authors: M Bellare, S Tessaro, A Vardy
+Publication: Annual Cryptology Conference, 294-311
+
+2. Optimal resilience for erasure-coded Byzantine distributed storage
+Citations:128
+Authors: C Cachin, S Tessaro
+Publication: International Conference on Dependable Systems and Networks (DSN'06), 115-124
+
+3. Obfuscation of probabilistic circuits and applications
+Citations:82
+Authors: R Canetti, H Lin, S Tessaro, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 468-497
+
+4. The locality of searchable symmetric encryption
+Citations:72
+Authors: D Cash, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+5. The equivalence of the random oracle model and the ideal cipher model, revisited
+Citations:69
+Authors: T Holenstein, R Künzler, S Tessaro
+Publication: Proceedings of the forty-third annual ACM symposium on Theory of computing …
+
+6. Asynchronous verifiable information dispersal
+Citations:67
+Authors: C Cachin, S Tessaro
+Publication: 24th IEEE Symposium on Reliable Distributed Systems (SRDS'05), 191-201
+
+7. Random oracles with (out) programmability
+Citations:60
+Authors: M Fischlin, A Lehmann, T Ristenpart, T Shrimpton, M Stam, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+8. Multi-instance security and its application to password-based cryptography
+Citations:59
+Authors: M Bellare, T Ristenpart, S Tessaro
+Publication: Annual Cryptology Conference, 312-329
+
+9. Indistinguishability obfuscation from trilinear maps and block-wise local PRGs
+Citations:54
+Authors: H Lin, S Tessaro
+Publication: Annual International Cryptology Conference, 630-660
+
+10. To Hash or Not to Hash Again? (In)Differentiability Results for and HMAC
+Citations:49
+Authors: Y Dodis, T Ristenpart, J Steinberger, S Tessaro
+Publication: Annual Cryptology Conference, 348-366
+
+11. Domain extension of public random functions: Beyond the birthday barrier
+Citations:47
+Authors: U Maurer, S Tessaro
+Publication: Annual International Cryptology Conference, 187-204
+
+12. Communication locality in secure multi-party computation
+Citations:46
+Authors: E Boyle, S Goldwasser, S Tessaro
+Publication: Theory of Cryptography Conference, 356-376
+
+13. A cryptographic treatment of the wiretap channel
+Citations:45
+Authors: M Bellare, S Tessaro, A Vardy
+Publication: arXiv preprint arXiv:1201.2205
+
+14. Key-alternating ciphers and key-length extension: exact bounds and multi-user security
+Citations:41
+Authors: VT Hoang, S Tessaro
+Publication: Annual International Cryptology Conference, 3-32
+
+15. Poly-many hardcore bits for any one-way function and a framework for differing-inputs obfuscation
+Citations:41
+Authors: M Bellare, I Stepanovs, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+16. Oblivious parallel RAM: improved efficiency and generic constructions
+Citations:39
+Authors: B Chen, H Lin, S Tessaro
+Publication: Theory of Cryptography Conference, 205-234
+
+17. Scrypt is maximally memory-hard
+Citations:38
+Authors: J Alwen, B Chen, K Pietrzak, L Reyzin, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+18. Taostore: Overcoming asynchronicity in oblivious data storage
+Citations:29
+Authors: C Sahin, V Zakhary, A El Abbadi, H Lin, S Tessaro
+Publication: 2016 IEEE Symposium on Security and Privacy (SP), 198-217
+
+19. How to build an ideal cipher: the indifferentiability of the Feistel construction
+Citations:29
+Authors: JS Coron, T Holenstein, R Künzler, J Patarin, Y Seurin, S Tessaro
+Publication: Journal of cryptology 29 (1), 61-114
+
+20. On the relationship between functional encryption, obfuscation, and fully homomorphic encryption
+Citations:29
+Authors: J Alwen, M Barbosa, P Farshim, R Gennaro, SD Gordon, S Tessaro, ...
+Publication: IMA International Conference on Cryptography and Coding, 65-84
+
+21. The exact PRF security of truncation: Tight bounds for keyed sponges and truncated CBC
+Citations:28
+Authors: P Gaži, K Pietrzak, S Tessaro
+Publication: Annual Cryptology Conference, 368-387
+
+22. Hash-function based PRFs: AMAC and its multi-user security
+Citations:27
+Authors: M Bellare, DJ Bernstein, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+23. Computational indistinguishability amplification: Tight product theorems for system composition
+Citations:27
+Authors: U Maurer, S Tessaro
+Publication: Annual International Cryptology Conference, 355-373
+
+24. Information-theoretic indistinguishability via the chi-squared method
+Citations:26
+Authors: W Dai, VT Hoang, S Tessaro
+Publication: Annual International Cryptology Conference, 497-523
+
+25. Bounds on inference
+Citations:26
+Authors: FP Calmon, M Varia, M Médard, MM Christiansen, KR Duffy, S Tessaro
+Publication: 2013 51st Annual Allerton Conference on Communication, Control, and …
+
+26. Polynomial-time, semantically-secure encryption achieving the secrecy capacity
+Citations:25
+Authors: M Bellare, S Tessaro
+Publication: arXiv preprint arXiv:1201.3160
+
+27. On the complexity of scrypt and proofs of space in the parallel random oracle model
+Citations:24
+Authors: J Alwen, B Chen, C Kamath, V Kolmogorov, K Pietrzak, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+28. Contention in cryptoland: obfuscation, leakage and UCE
+Citations:24
+Authors: M Bellare, I Stepanovs, S Tessaro
+Publication: Theory of Cryptography Conference, 542-564
+
+29. Security amplification for the cascade of arbitrarily weak PRPs: Tight bounds via the interactive hardcore lemma
+Citations:24
+Authors: S Tessaro
+Publication: Theory of Cryptography Conference, 37-54
+
+30. Optimally secure block ciphers from ideal primitives
+Citations:22
+Authors: S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+31. Efficient and optimally secure key-length extension for block ciphers via randomized cascading
+Citations:20
+Authors: P Gaži, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+32. Foundations of homomorphic secret sharing
+Citations:19
+Authors: E Boyle, N Gilboa, Y Ishai, H Lin, S Tessaro
+Publication: 9th Innovations in Theoretical Computer Science Conference (ITCS 2018)
+
+33. Message-recovery attacks on Feistel-based format preserving encryption
+Citations:19
+Authors: M Bellare, VT Hoang, S Tessaro
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+34. Provably robust sponge-based PRNGs and KDFs
+Citations:17
+Authors: P Gaži, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+35. Amplification of chosen-ciphertext security
+Citations:15
+Authors: H Lin, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+36. A hardcore lemma for computational indistinguishability: Security amplification for arbitrarily weak prgs with optimal stretch
+Citations:15
+Authors: U Maurer, S Tessaro
+Publication: Theory of Cryptography Conference, 237-254
+
+37. Two-round man-in-the-middle security from LPN
+Citations:13
+Authors: D Cash, E Kiltz, S Tessaro
+Publication: Theory of Cryptography Conference, 225-248
+
+38. Bounded-collusion identity-based encryption from semantically-secure public-key encryption: Generic constructions with short ciphertexts
+Citations:13
+Authors: S Tessaro, DA Wilson
+Publication: International Workshop on Public Key Cryptography, 257-274
+
+39. The multi-user security of double encryption
+Citations:12
+Authors: VT Hoang, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+40. Revisiting AES-GCM-SIV: Multi-user security, faster key derivation, and better bounds
+Citations:11
+Authors: P Bose, VT Hoang, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+41. Secret-key cryptography from ideal primitives: A systematic overview
+Citations:11
+Authors: P Gaži, S Tessaro
+Publication: 2015 IEEE Information Theory Workshop (ITW), 1-5
+
+42. An equational approach to secure multi-party computation
+Citations:10
+Authors: D Micciancio, S Tessaro
+Publication: Proceedings of the 4th conference on Innovations in Theoretical Computer …
+
+43. Basing PRFs on constant-query weak PRFs: Minimizing assumptions for efficient symmetric cryptography
+Citations:10
+Authors: U Maurer, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+44. Public-seed pseudorandom permutations
+Citations:7
+Authors: P Soni, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+45. Generic security of NMAC and HMAC with input whitening
+Citations:7
+Authors: P Gaži, K Pietrzak, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+46. Relaxing full-codebook security: a refined analysis of key-length extension schemes
+Citations:6
+Authors: P Gaži, J Lee, Y Seurin, J Steinberger, S Tessaro
+Publication: International Workshop on Fast Software Encryption, 319-341
+
+47. A modular design for hash functions: Towards making the mix-compress-mix approach practical
+Citations:6
+Authors: A Lehmann, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+48. The multi-user security of GCM, revisited: Tight bounds for nonce randomization
+Citations:3
+Authors: VT Hoang, S Tessaro, A Thiruvengadam
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+49. Secret-Key Authentication Beyond the Challenge-Response Paradigm: Definitional Issues and New Protocols
+Citations:3
+Authors: P Mol, S Tessaro
+Publication: Manuscript, December
+
+50. Abstract storage devices
+Citations:3
+Authors: R König, U Maurer, S Tessaro
+Publication: International Conference on Current Trends in Theory and Practice of …
+
+51. Privacy and efficiency tradeoffs for multiword top k search with linear additive rank scoring
+Citations:2
+Authors: D Agun, J Shao, S Ji, S Tessaro, T Yang
+Publication: Proceedings of the 2018 World Wide Web Conference, 1725-1734
+
+52. Tight Bounds for Keyed Sponges and Truncated CBC.
+Citations:2
+Authors: P Gazi, K Pietrzak, S Tessaro
+Publication: IACR Cryptology ePrint Archive 2015, 53
+
+53. To hash or not to hash, again
+Citations:2
+Authors: Y Dodis, T Ristenpart, J Steinberger, S Tessaro
+Publication: On the Indifferentiability of the Second Iterate and HMAC
+
+54. Computational indistinguishability amplification
+Citations:2
+Authors: SM Tessaro
+Publication: ETH Zurich
+
+55. Tight time-memory trade-offs for symmetric encryption
+Citations:1
+Authors: J Jaeger, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+56. Provable time-memory trade-offs: symmetric cryptography against memory-bounded adversaries
+Citations:1
+Authors: S Tessaro, A Thiruvengadam
+Publication: Theory of Cryptography Conference, 3-32
+
+57. The curse of small domains: new attacks on format-preserving encryption
+Citations:1
+Authors: VT Hoang, S Tessaro, N Trieu
+Publication: Annual International Cryptology Conference, 221-251
+
+58. Understanding the security challenges of oblivious cloud storage with asynchronous accesses
+Citations:1
+Authors: C Sahin, A Magat, V Zakhary, A El Abbadi, H Lin, S Tessaro
+Publication: 2017 IEEE 33rd International Conference on Data Engineering (ICDE), 1377-1378
+
+59. Memory-Hard Functions from Cryptographic Primitives
+Citations:
+Authors: B Chen, S Tessaro
+Publication: Annual International Cryptology Conference, 543-572
+
+60. Seedless Fruit is the Sweetest: Random Number Generation, Revisited.
+Citations:
+Authors: S Coretti, Y Dodis, H Karthikeyan, S Tessaro
+Publication: IACR Cryptology ePrint Archive 2019, 198
+
+61. Naor-reingold goes public: The complexity of known-key security
+Citations:
+Authors: P Soni, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+62. Pharos: Privacy Hazards of Replicating ORAM Stores
+Citations:
+Authors: V Zakhary, C Sahin, A El Abbadi, H Lin, S Tessaro
+Publication: Proceedings of the 21th International Conference on Extending Database …
+
+63. Simultaneous Secrecy and Reliability Amplification for a General Channel Model
+Citations:
+Authors: R Impagliazzo, R Jaiswal, V Kabanets, BM Kapron, V King, S Tessaro
+Publication: Theory of Cryptography Conference, 235-261
+
+64. Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD)
+Citations:
+Authors: T Rabin, N Smart, D Wichs, C Gentry, Z Brakerski, S Tessaro, S Halevi, ...
+Publication: IBM THOMAS J WATSON RESEARCH CENTER YORKTOWN HEIGHTS NY
+
+65. A Cryptographic Treatment of the Wiretap Channel
+Citations:
+Authors: AV Mihir Bellare, Stefano Tessaro
+Publication: https://arxiv.org/abs/1201.2205
+
+66. A new design for low-depth compression functions from length preserving public random functions
+Citations:
+Authors: J Lui
+Publication: ETH, Swiss Federal Institute of Technology, Department of Computer Science …
+
+67. Brief Announcements-Asynchronous Verifiable Information Dispersal
+Citations:
+Authors: C Cachin, S Tessaro
+Publication: Lecture Notes in Computer Science 3724, 503-504
+
+68. Semantic Security for the Wiretap Channel
+Citations:
+Authors: S Tessaro
+Publication: 
+
+69. C i i L li i Communication Locality in Secure Multi Party Secure Multi-Party Computation
+Citations:
+Authors: E Boyle, S Goldwasser, S Tessaro, MIT Weizmann
+Publication: 
+
+70. Search this site
+Citations:
+Authors: S Suri, Ö Eğecioğlu, TF Gonzalez, W van Dam, J Gilbert, YX Wang, ...
+Publication: 
+
+71. The Locality of Searchable Symmetric Encryption
+Citations:
+Authors: S Tessaro, D Cash
+Publication: 
+
+72. Obfuscating Many-to-one Functional Re-encryption, and its Connection to Fully-Homomorphic Encryption
+Citations:
+Authors: S Tessaro, DA Wilson
+Publication: 
+

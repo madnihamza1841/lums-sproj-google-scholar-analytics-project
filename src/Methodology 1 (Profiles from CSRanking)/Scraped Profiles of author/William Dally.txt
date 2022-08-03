@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=YZHj-Y4AAAAJ
+Total Citations = 54320
+
+1. Route packets, not wires: on-chip inteconnection networks
+Citations:4041
+Authors: WJ Dally, B Towles
+Publication: Proceedings of the 38th annual Design Automation Conference, 684-689
+
+2. Principles and practices of interconnection networks
+Citations:3709
+Authors: WJ Dally, BP Towles
+Publication: Elsevier
+
+3. Deadlock-free message routing in multiprocessor interconnection networks
+Citations:2708
+Authors: WJ Dally, CL Seitz
+Publication: California Institute of Technology
+
+4. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding
+Citations:2320
+Authors: S Han, H Mao, WJ Dally
+Publication: arXiv preprint arXiv:1510.00149
+
+5. Virtual-channel flow control
+Citations:1708
+Authors: WJ Dally
+Publication: IEEE Transactions on Parallel and Distributed systems 3 (2), 194-205
+
+6. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size
+Citations:1548
+Authors: FN Iandola, S Han, MW Moskewicz, K Ashraf, WJ Dally, K Keutzer
+Publication: arXiv preprint arXiv:1602.07360
+
+7. Learning both weights and connections for efficient neural network
+Citations:1492
+Authors: S Han, J Pool, J Tran, W Dally
+Publication: Advances in neural information processing systems, 1135-1143
+
+8. Performance analysis of k-ary n-cube interconnection networks
+Citations:1300
+Authors: WJ Dally
+Publication: IEEE transactions on Computers 39 (6), 775-785
+
+9. The torus routing chip
+Citations:1192
+Authors: WJ Dally, CL Seitz
+Publication: Distributed computing 1 (4), 187-196
+
+10. Digital systems engineering
+Citations:1189
+Authors: WJ Dally, WJ Dally, JW Poulton
+Publication: Cambridge university press
+
+11. Exascale computing study: Technology challenges in achieving exascale systems
+Citations:1148
+Authors: K Bergman, S Borkar, D Campbell, W Carlson, W Dally, M Denneau, ...
+Publication: Defense Advanced Research Projects Agency Information Processing Techniques …
+
+12. Memory access scheduling
+Citations:1048
+Authors: S Rixner, WJ Dally, UJ Kapasi, P Mattson, JD Owens
+Publication: ACM SIGARCH Computer Architecture News 28 (2), 128-138
+
+13. The GPU computing era
+Citations:928
+Authors: J Nickolls, WJ Dally
+Publication: IEEE micro 30 (2), 56-69
+
+14. EIE: efficient inference engine on compressed deep neural network
+Citations:904
+Authors: S Han, X Liu, H Mao, J Pu, A Pedram, MA Horowitz, WJ Dally
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+15. Deadlock-free adaptive routing in multicomputer networks using virtual channels
+Citations:709
+Authors: WJ Dally, H Aoki
+Publication: IEEE transactions on Parallel and Distributed Systems 4 (4), 466-475
+
+16. A delay model and speculative architecture for pipelined routers
+Citations:638
+Authors: LS Peh, WJ Dally
+Publication: Proceedings HPCA Seventh International Symposium on High-Performance …
+
+17. Design tradeoffs for tiled CMP on-chip networks
+Citations:613
+Authors: J Balfour, WJ Dally
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 390-401
+
+18. Sequoia: Programming the memory hierarchy
+Citations:585
+Authors: K Fatahalian, DR Horn, TJ Knight, L Leem, M Houston, JY Park, M Erez, ...
+Publication: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 83
+
+19. Research challenges for on-chip interconnection networks
+Citations:534
+Authors: JD Owens, WJ Dally, R Ho, DN Jayasimha, SW Keckler, LS Peh
+Publication: IEEE micro 27 (5), 96-108
+
+20. The limitations to delay-insensitivity in asynchronous circuits
+Citations:527
+Authors: AJ Martin
+Publication: Beauty is our business, 302-311
+
+21. Smart memories: A modular reconfigurable architecture
+Citations:507
+Authors: K Mai, T Paaske, N Jayasena, R Ho, WJ Dally, M Horowitz
+Publication: ACM SIGARCH Computer Architecture News 28 (2), 161-171
+
+22. GPUs and the future of parallel computing
+Citations:488
+Authors: SW Keckler, WJ Dally, B Khailany, M Garland, D Glasco
+Publication: IEEE Micro 31 (5), 7-17
+
+23. Flattened butterfly: a cost-efficient topology for high-radix networks
+Citations:477
+Authors: J Kim, WJ Dally, D Abts
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 126-137
+
+24. Point sample rendering
+Citations:475
+Authors: JP Grossman, WJ Dally
+Publication: Rendering techniques’ 98, 181-192
+
+25. Virtual-channel flow control
+Citations:470
+Authors: WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 18 (2SI), 60-68
+
+26. A detailed and flexible cycle-accurate network-on-chip simulator
+Citations:455
+Authors: N Jiang, DU Becker, G Michelogiannakis, J Balfour, B Towles, DE Shaw, ...
+Publication: 2013 IEEE International Symposium on Performance Analysis of Systems and …
+
+27. Flattened butterfly topology for on-chip networks
+Citations:455
+Authors: J Kim, J Balfour, W Dally
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+28. Imagine: Media processing with streams
+Citations:444
+Authors: B Khailany, WJ Dally, UJ Kapasi, P Mattson, J Namkoong, JD Owens, ...
+Publication: IEEE micro 21 (2), 35-46
+
+29. Programmable stream processors
+Citations:411
+Authors: UJ Kapasi, S Rixner, WJ Dally, B Khailany, JH Ahn, P Mattson, JD Owens
+Publication: Computer 36 (8), 54-62
+
+30. Merrimac: Supercomputing with streams
+Citations:392
+Authors: WJ Dally, F Labonte, A Das, P Hanrahan, JH Ahn, J Gummaraju, M Erez, ...
+Publication: SC'03: Proceedings of the 2003 ACM/IEEE conference on Supercomputing, 35-35
+
+31. Register organization for media processing
+Citations:360
+Authors: S Rixner, WJ Dally, B Khailany, P Mattson, UJ Kapasi, JD Owens
+Publication: Proceedings Sixth International Symposium on High-Performance Computer …
+
+32. The J-Machine multicomputer: An architectural evaluation
+Citations:359
+Authors: MD Noakes, DA Wallach, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 224-235
+
+33. A bandwidth-efficient architecture for media processing
+Citations:338
+Authors: S Rixner, WJ Dally, UJ Kapasi, B Khailany, A López-Lagunas, PR Mattson, ...
+Publication: Proceedings. 31st Annual ACM/IEEE International Symposium on …
+
+34. The message-driven processor: A multicomputer processing node with efficient mechanisms
+Citations:316
+Authors: WJ Dally, JAS Fiske, JS Keen, RA Lethin, MD Noakes, PR Nuth, ...
+Publication: IEEE Micro 12 (2), 23-39
+
+35. Trained ternary quantization
+Citations:313
+Authors: C Zhu, S Han, H Mao, WJ Dally
+Publication: arXiv preprint arXiv:1612.01064
+
+36. The Imagine stream processor
+Citations:308
+Authors: UJ Kapasi, WJ Dally, S Rixner, JD Owens, B Khailany
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+37. A VLSI architecture for concurrent data structures
+Citations:298
+Authors: JW Dally
+Publication: Springer Science & Business Media
+
+38. Transmitter equalization for 4-Gbps signaling
+Citations:292
+Authors: WJ Dally, J Poulton
+Publication: IEEE Micro 17 (1), 48-56
+
+39. The m-machine multicomputer
+Citations:275
+Authors: M Fillo, SW Keckler, WJ Dally, NP Carter, A Chang, Y Gurevich, WS Lee
+Publication: International Journal of Parallel Programming 25 (3), 183-212
+
+40. Green-Marl: a DSL for easy and efficient graph analysis
+Citations:273
+Authors: S Hong, H Chafi, E Sedlar, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 349-362
+
+41. A 14-mW 6.25-Gb/s transceiver in 90-nm CMOS
+Citations:273
+Authors: J Poulton, R Palmer, AM Fuller, T Greer, J Eyles, WJ Dally, M Horowitz
+Publication: IEEE Journal of Solid-State Circuits 42 (12), 2745-2757
+
+42. The J-machine: A fine grain concurrent computer
+Citations:271
+Authors: WJ Dally, A Chien, S Fiske, W Horwat, J Keen
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER
+
+43. Low-power area-efficient high-speed I/O circuit techniques
+Citations:270
+Authors: MJE Lee, WJ Dally, P Chiang
+Publication: IEEE Journal of Solid-State Circuits 35 (11), 1591-1599
+
+44. Microarchitecture of a high-radix router
+Citations:262
+Authors: J Kim, WJ Dally, B Towles, AK Gupta
+Publication: ACM SIGARCH Computer Architecture News 33 (2), 420-431
+
+45. Liszt: a domain specific language for building portable mesh-based PDE solvers
+Citations:245
+Authors: Z DeVito, N Joubert, F Palacios, S Oakley, M Medina, M Barrientos, ...
+Publication: Proceedings of 2011 International Conference for High Performance Computing …
+
+46. Energy-efficient mechanisms for managing thread context in throughput processors
+Citations:245
+Authors: M Gebhart, DR Johnson, D Tarjan, SW Keckler, WJ Dally, E Lindholm, ...
+Publication: 2011 38th Annual International Symposium on Computer Architecture (ISCA …
+
+47. Express Cubes: Improving the Performance of k-ary n-cube Interconnection Networks
+Citations:245
+Authors: WJ Dally
+Publication: IEEE Transactions on Computers 40 (9), 1016-1023
+
+48. The blackwidow high-radix clos network
+Citations:241
+Authors: S Scott, D Abts, J Kim, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 16-28
+
+49. Scnn: An accelerator for compressed-sparse convolutional neural networks
+Citations:233
+Authors: A Parashar, M Rhu, A Mukkara, A Puglielli, R Venkatesan, B Khailany, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+50. A low-power multiplying DLL for low-jitter multigigahertz clock generation in highly integrated digital chips
+Citations:233
+Authors: R Farjad-Rad, W Dally, HT Ng, R Senthinathan, MJE Lee, R Rathi, ...
+Publication: IEEE Journal of Solid-State Circuits 37 (12), 1804-1812
+
+51. Ese: Efficient speech recognition engine with sparse lstm on fpga
+Citations:201
+Authors: S Han, J Kang, H Mao, Y Hu, X Li, Y Li, D Xie, H Luo, S Yao, Y Wang, ...
+Publication: Proceedings of the 2017 ACM/SIGDA International Symposium on Field …
+
+52. Efficient embedded computing
+Citations:199
+Authors: WJ Dally, J Balfour, D Black-Shaffer, J Chen, RC Harting, V Parikh, J Park, ...
+Publication: Computer 41 (7), 27-32
+
+53. GOAL: a load-balanced adaptive routing algorithm for torus networks
+Citations:189
+Authors: A Singh, WJ Dally, AK Gupta, B Towles
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+54. Architecture of a message-driven processor
+Citations:184
+Authors: WJ Dally, L Chao, A Chien, S Hassoun, W Horwat, J Kaplan, P Song, ...
+Publication: Proceedings of the 14th annual international symposium on Computer …
+
+55. Flit-reservation flow control
+Citations:175
+Authors: LS Peh, WJ Dally
+Publication: Proceedings Sixth International Symposium on High-Performance Computer …
+
+56. Multiprocessor coupling system with integrated compile and run time scheduling for parallelism
+Citations:174
+Authors: SW Keckler, WJ Dally
+Publication: US Patent 5,574,939
+
+57. Evaluating the imagine stream architecture
+Citations:167
+Authors: JH Ahn, WJ Dally, B Khailany, UJ Kapasi, A Das
+Publication: Proceedings. 31st Annual International Symposium on Computer Architecture …
+
+58. Architecture of the Avici terabit switch/router
+Citations:162
+Authors: W Dally, P Carvey, L Dennison
+Publication: Proceedings of Hot Interconnects Symposium VI 1998, 41-50
+
+59. Processor coupling: Integrating compile time and runtime scheduling for parallelism
+Citations:161
+Authors: SW Keckler, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 20 (2), 202-213
+
+60. The reliable router: A reliable and high-performance communication substrate for parallel computers
+Citations:156
+Authors: WJ Dally, LR Dennison, D Harris, K Kan, T Xanthopoulos
+Publication: International Workshop on Parallel Computer Routing and Communication, 241-255
+
+61. How scaling will change processor architecture
+Citations:153
+Authors: M Horowitz, W Dally
+Publication: 2004 IEEE International Solid-State Circuits Conference (IEEE Cat. No …
+
+62. Jitter transfer characteristics of delay-locked loops-theories and design techniques
+Citations:152
+Authors: MJE Lee, WJ Dally, T Greer, HT Ng, R Farjad-Rad, J Poulton, ...
+Publication: IEEE Journal of Solid-State Circuits 38 (4), 614-621
+
+63. A delay model for router microarchitectures
+Citations:151
+Authors: LS Peh, WJ Dally
+Publication: IEEE Micro 21 (1), 26-34
+
+64. A programming system for the imagine media processor
+Citations:146
+Authors: P Mattson, WJ Dally
+Publication: PhD thesis, Stanford University
+
+65. Concurrent aggregates(CA)
+Citations:146
+Authors: AA Chien, WJ Dally
+Publication: ACM Sigplan Notices 25 (3), 177-186
+
+66. Network and processor architecture for message-driven computers
+Citations:144
+Authors: W Dally
+Publication: VLSI and parallel computation, 140-222
+
+67. Elastic buffer flow control for on-chip networks
+Citations:140
+Authors: G Michelogiannakis, WJ Dally
+Publication: IEEE Transactions on computers 62 (2), 295-309
+
+68. Guaranteed scheduling for switches with configuration overhead
+Citations:140
+Authors: B Towles, WJ Dally
+Publication: IEEE/ACM Transactions on Networking 11 (5), 835-847
+
+69. Concurrent aggregates: supporting modularity in massively parallel programs
+Citations:136
+Authors: AA Chien
+Publication: MIT Press
+
+70. Deep gradient compression: Reducing the communication bandwidth for distributed training
+Citations:135
+Authors: Y Lin, S Han, H Mao, Y Wang, WJ Dally
+Publication: arXiv preprint arXiv:1712.01887
+
+71. Efficient conditional operations for data-parallel architectures
+Citations:135
+Authors: UJ Kapasi, WJ Dally, S Rixner, PR Mattson, JD Owens, B Khailany
+Publication: Proceedings 33rd Annual IEEE/ACM International Symposium on …
+
+72. Message-driven processor in a concurrent computer
+Citations:135
+Authors: WJ Dally, AA Chien, WP Horwat, S Fiske
+Publication: US Patent 5,212,778
+
+73. Memory system with global address translation
+Citations:132
+Authors: NP Carter, SW Keckler, WJ Dally
+Publication: US Patent 6,003,123
+
+74. System design of the J-machine
+Citations:132
+Authors: M Noakes, WJ Dally
+Publication: Proceedings of the sixth MIT conference on Advanced research in VLSI, 179-194
+
+75. Exploiting fine-grain thread level parallelism on the MIT multi-ALU processor
+Citations:131
+Authors: SW Keckler, WJ Dally, D Maskit, NP Carter, A Chang, WS Lee
+Publication: ACM SIGARCH Computer Architecture News 26 (3), 306-317
+
+76. A programmable 512 GOPS stream processor for signal, image, and video processing
+Citations:126
+Authors: BK Khailany, T Williams, J Lin, EP Long, M Rygh, DFW Tovey, WJ Dally
+Publication: IEEE Journal of Solid-State Circuits 43 (1), 202-213
+
+77. Evaluating bufferless flow control for on-chip networks
+Citations:124
+Authors: G Michelogiannakis, D Sanchez, WJ Dally, C Kozyrakis
+Publication: 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip, 9-16
+
+78. Low-power low-jitter variable delay timing circuit
+Citations:124
+Authors: WJ Dally, R Farjad-Rad, TJ Stone, X Yu, JW Poulton
+Publication: US Patent 6,316,987
+
+79. Internet switch router
+Citations:122
+Authors: WJ Dally, PP Carvey, LR Dennison, PA King
+Publication: US Patent 6,370,145
+
+80. Wire-efficient VLSI multiprocessor communication networks
+Citations:120
+Authors: WJ Dally
+Publication: Massachusetts Institute of Technology, Microsystems Program Office
+
+81. Media processing applications on the Imagine stream processor
+Citations:117
+Authors: JD Owens, S Rixner, UJ Kapasi, P Mattson, B Towles, B Serebrin, ...
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+82. Indirect adaptive routing on large scale interconnection networks
+Citations:114
+Authors: N Jiang, J Kim, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 220-231
+
+83. Hardware support for fast capability-based addressing
+Citations:112
+Authors: NP Carter, SW Keckler, WJ Dally
+Publication: ACM SIGPLAN Notices 29 (11), 319-327
+
+84. Exascale software study: Software challenges in extreme scale systems
+Citations:111
+Authors: S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, E Elnohazy, ...
+Publication: DARPA IPTO, Air Force Research Labs, Tech. Rep, 1-153
+
+85. Compilation for explicitly managed memory hierarchies
+Citations:108
+Authors: TJ Knight, JY Park, M Ren, M Houston, M Erez, K Fatahalian, A Aiken, ...
+Publication: PPoPP, 226-236
+
+86. Optimizing data structures in high-level programs: new directions for extensible compilers based on staging
+Citations:106
+Authors: T Rompf, AK Sujeeth, N Amin, KJ Brown, V Jovanovic, HJ Lee, ...
+Publication: Acm Sigplan Notices 48 (1), 497-510
+
+87. Unifying primary cache, scratch, and register file memories in a throughput processor
+Citations:106
+Authors: M Gebhart, SW Keckler, B Khailany, R Krashinsky, WJ Dally
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 96-106
+
+88. Compiling for stream processing
+Citations:105
+Authors: A Das, WJ Dally, P Mattson
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+89. Worst-case traffic for oblivious routing functions
+Citations:101
+Authors: B Towles, WJ Dally
+Publication: Proceedings of the fourteenth annual ACM symposium on Parallel algorithms …
+
+90. VLSI architecture: past, present, and future
+Citations:99
+Authors: WJ Dally, S Lacy
+Publication: Proceedings 20th Anniversary Conference on Advanced Research in VLSI, 232-241
+
+91. GAD: A 12-GS/s CMOS 4-bit A/D converter for an equalized multi-level link
+Citations:97
+Authors: W Ellersick, CKK Yang, M Horowitz, W Dally
+Publication: 1999 Symposium on VLSI Circuits. Digest of Papers (IEEE Cat. No. 99CH36326 …
+
+92. Memory system including guarded pointers
+Citations:97
+Authors: NP Carter, SW Keckler, WJ Dally
+Publication: US Patent 5,845,331
+
+93. Stream processors: Progammability and efficiency
+Citations:94
+Authors: WJ Dally, UJ Kapasi, B Khailany, JH Ahn, A Das
+Publication: Queue 2 (1), 52
+
+94. Polygon rendering on a stream architecture
+Citations:94
+Authors: JD Owens, WJ Dally, UJ Kapasi, S Rixner, P Mattson, B Mowery
+Publication: Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware …
+
+95. Design of a self-timed VLSI multicomputer communication controller
+Citations:94
+Authors: WJ Dally, P Song
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+96. The J-machine network
+Citations:91
+Authors: PR Nuth, WJ Dally
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+97. Globally adaptive load-balanced routing on tori
+Citations:89
+Authors: A Singh, WJ Dally, B Towles, AK Gupta
+Publication: IEEE computer architecture letters 3 (1), 2-2
+
+98. The role of custom design in ASIC chips
+Citations:88
+Authors: WJ Dally, A Chang
+Publication: Proceedings of the 37th Annual Design Automation Conference, 643-647
+
+99. Express channels for diminishing latency and increasing throughput in an interconnection network
+Citations:88
+Authors: WJ Dally
+Publication: US Patent 5,475,857
+
+100. Phase controlled oscillator
+Citations:87
+Authors: WJ Dally, R Farjad-Rad, JW Poulton, TH Greer III, HT Ng, TJ Stone
+Publication: US Patent 6,617,936
+
+101. Allocator implementations for network-on-chip routers
+Citations:86
+Authors: DU Becker, WJ Dally
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+102. Architecture and implementation of the Reliable Router
+Citations:86
+Authors: WJ Dally, LR Dennison, D Harris, K Kan, T Xanthopoulos
+Publication: Symposium Record Hot Interconnects II, 197-208
+
+103. A 14mW 6.25 Gb/s transceiver in 90nm CMOS for serial chip-to-chip communications
+Citations:83
+Authors: R Palmer, J Poulton, WJ Dally, J Eyles, AM Fuller, T Greer, M Horowitz, ...
+Publication: 2007 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+104. Scaling the power wall: a path to exascale
+Citations:82
+Authors: O Villa, DR Johnson, M O'Connor, E Bolotin, D Nellans, J Luitjens, ...
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+105. Exascale software study: Software challenges in extreme scale systems
+Citations:82
+Authors: V Sarkar, S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, ...
+Publication: ExaScale Computing Study, DARPA IPTO 1
+
+106. Experience with CST: Programming and implementation
+Citations:81
+Authors: W Horwat, AA Chien, WJ Dally
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER
+
+107. An energy-efficient processor architecture for embedded systems
+Citations:80
+Authors: J Balfour, W Dally, D Black-Schaffer, V Parikh, JS Park
+Publication: IEEE Computer Architecture Letters 7 (1), 29-32
+
+108. A 90 mW 4 Gb/s equalized I/O circuit with input offset cancellation
+Citations:80
+Authors: MJE Lee, W Dally, P Chiang
+Publication: 2000 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+109. Top ten exascale research challenges
+Citations:78
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: DOE ASCAC subcommittee report, 1-86
+
+110. Communication system with low power, DC-balanced serial link
+Citations:78
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,199,728
+
+111. Method and system for guaranteeing quality of service in a multi-plane cell switch
+Citations:77
+Authors: G Ramamurthy, G Meempat, WJ Dally
+Publication: US Patent 7,292,580
+
+112. Composite trunking
+Citations:77
+Authors: PP Carvey, WJ Dally, LR Dennison
+Publication: US Patent 6,359,879
+
+113. Digital transmitter with equalization
+Citations:74
+Authors: WJ Dally
+Publication: US Patent 6,266,379
+
+114. Finite-grain message passing concurrent computers
+Citations:73
+Authors: WJ Dally
+Publication: Proceedings of the third conference on Hypercube concurrent computers and …
+
+115. Cost-efficient dragonfly topology for large-scale systems
+Citations:72
+Authors: J Kim, W Dally, S Scott, D Abts
+Publication: IEEE micro 29 (1), 33-40
+
+116. Adaptive source routing and packet processing
+Citations:71
+Authors: D Chiou, L Dennison, W Dally
+Publication: US Patent App. 10/815,458
+
+117. Computer architecture is all about interconnect
+Citations:71
+Authors: WJ Dally
+Publication: Pro. Th Int. Symp. High-Performance Comput. Archit., 2002, 1-11
+
+118. Adaptive routing in high-radix clos network
+Citations:70
+Authors: J Kim, WJ Dally, J Dally, D Abts
+Publication: SC'06: Proceedings of the 2006 ACM/IEEE Conference on Supercomputing, 7-7
+
+119. Exploring the VLSI scalability of stream processors
+Citations:70
+Authors: B Khailany, WJ Dally, S Rixner, UJ Kapasi, JD Owens, B Towles
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+120. System and method for performing efficient conditional vector operations for data parallel architectures involving both input and conditional vector values
+Citations:69
+Authors: WJ Dally, S Rixner, JD Owens, UJ Kapasi
+Publication: US Patent 7,100,026
+
+121. 0.622-8.0 Gbps 150 mW serial IO macrocell with fully flexible preemphasis and equalization
+Citations:69
+Authors: R Farjad-Rad, HT Ng, MJE Lee, R Senthinathan, WJ Dally, A Nguyen, ...
+Publication: 2003 Symposium on VLSI Circuits. Digest of Technical Papers (IEEE Cat. No …
+
+122. The VLSI implementation and evaluation of area-and energy-efficient streaming media processors
+Citations:69
+Authors: B Khailany, WJ Dally
+Publication: stanford university
+
+123. Composition and reuse with compiled domain-specific languages
+Citations:68
+Authors: AK Sujeeth, T Rompf, KJ Brown, HJ Lee, H Chafi, V Popic, M Wu, ...
+Publication: European Conference on Object-Oriented Programming, 52-78
+
+124. A 33-mW 8-Gb/s CMOS clock multiplier and CDR for highly integrated I/Os
+Citations:67
+Authors: R Farjad-Rad, A Nguyen, JM Tran, T Greer, J Poulton, WJ Dally, ...
+Publication: IEEE Journal of Solid-State Circuits 39 (9), 1553-1561
+
+125. Methods and apparatus for event-driven routing
+Citations:67
+Authors: WJ Dally, PP Carvey, LR Dennison, PA King
+Publication: US Patent 6,285,679
+
+126. Scalable switching fabrics for internet routers
+Citations:67
+Authors: WJ Dally
+Publication: Computer Systems Laboratory, Stanford University and Avici Systems
+
+127. Evaluation of mechanisms for fine-grained parallel programs in the J-machine and the CM-5
+Citations:67
+Authors: E Spertus, SC Goldstein, KE Schauser, T Von Eicken, DE Culler, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 302-313
+
+128. Universal mechanisms for concurrency
+Citations:67
+Authors: WJ Dally, DS Wills
+Publication: International Conference on Parallel Architectures and Languages Europe, 19-33
+
+129. The J-machine: System support for Actors
+Citations:67
+Authors: WJ Dally
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER
+
+130. Deep generative adversarial networks for compressed sensing automates MRI
+Citations:66
+Authors: M Mardani, E Gong, JY Cheng, S Vasanawala, G Zaharchuk, M Alley, ...
+Publication: arXiv preprint arXiv:1706.00051
+
+131. A compile-time managed multi-level register file hierarchy
+Citations:66
+Authors: M Gebhart, SW Keckler, WJ Dally
+Publication: 2011 44th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+132. Prefix search circuitry and method
+Citations:66
+Authors: GM Waters, LR Dennison, PP Carvey, WJ Dally, WF Mann
+Publication: US Patent 6,430,527
+
+133. MARS: A multiprocessor-based programmable accelerator
+Citations:66
+Authors: P Agrawal, WJ Dally, WC Fischer, HV Jagadish, AS Krishnakumar, ...
+Publication: IEEE Design & Test of Computers 4 (5), 28-36
+
+134. Apparatus and method for packet scheduling
+Citations:64
+Authors: WJ Dally, PP Carvey, PA Beliveau, WF Mann, LR Dennison
+Publication: US Patent 6,891,834
+
+135. Stream register files with indexed access
+Citations:63
+Authors: N Jayasena, M Erez, JH Ahn, WJ Dally
+Publication: 10th International Symposium on High Performance Computer Architecture (HPCA …
+
+136. System and method for performing compound vector operations
+Citations:63
+Authors: WJ Dally, SW Rixner, JP Grossman, CJ Buehler
+Publication: US Patent 6,192,384
+
+137. Communication scheduling
+Citations:63
+Authors: P Mattson, WJ Dally, S Rixner, UJ Kapasi, JD Owens
+Publication: ACM SIGARCH Computer Architecture News 28 (5), 82-92
+
+138. Stream scheduling
+Citations:63
+Authors: UJ Kapasi, P Mattson, WJ Dally, JD Owens, B Towles
+Publication: STANFORD UNIV CA COMPUTER SYSTEMS LAB
+
+139. A second-order semidigital clock recovery circuit based on injection locking
+Citations:62
+Authors: HT Ng, R Farjad-Rad, MJE Lee, WJ Dally, T Greer, J Poulton, ...
+Publication: IEEE Journal of Solid-State Circuits 38 (12), 2101-2110
+
+140. Interconnect-limited VLSI architecture
+Citations:61
+Authors: WJ Dally
+Publication: Proceedings of the IEEE 1999 International Interconnect Technology …
+
+141. Digital transmitter with equalization
+Citations:60
+Authors: WJ Dally
+Publication: US Patent 6,542,555
+
+142. A tracking clock recovery receiver for 4-Gbps signaling
+Citations:58
+Authors: J Poulton, WI Dally, S Tell
+Publication: IEEE micro 18 (1), 25-27
+
+143. Digital transmitter
+Citations:57
+Authors: WJ Dally
+Publication: US Patent 7,099,404
+
+144. A hardware logic simulation system
+Citations:56
+Authors: P Agrawal, WJ Dally
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+145. Methods and apparatus for event-driven routing
+Citations:55
+Authors: WJ Dally, PP Carvey, LR Dennison, PA King
+Publication: US Patent 6,654,381
+
+146. Decoupled value prediction on trace processors
+Citations:55
+Authors: SJ Lee, Y Wang, PC Yew
+Publication: Proceedings Sixth International Symposium on High-Performance Computer …
+
+147. Exploring the regularity of sparse structure in convolutional neural networks
+Citations:54
+Authors: H Mao, S Han, J Pool, W Li, X Liu, Y Wang, WJ Dally
+Publication: arXiv preprint arXiv:1705.08922
+
+148. Scatter-add in data parallel architectures
+Citations:54
+Authors: JH Ahn, M Erez, WJ Dally
+Publication: 11th International Symposium on High-Performance Computer Architecture, 132-142
+
+149. Programmable processing elements interconnected by a communication network including field operation unit for performing field operations
+Citations:54
+Authors: P Agrawal, WJ Dally, AS Krishnakumar
+Publication: US Patent 5,093,920
+
+150. Throughput-centric routing algorithm design
+Citations:53
+Authors: B Towles, WJ Dally, S Boyd
+Publication: Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and …
+
+151. Concurrent event handling through multithreading
+Citations:53
+Authors: SW Keckler, A Chang, W Chatterjee, WJ Dally
+Publication: IEEE Transactions on computers 48 (9), 903-916
+
+152. Object-oriented concurrent programming in CST
+Citations:53
+Authors: WJ Dally, AA Chien
+Publication: Proceedings of the third conference on Hypercube concurrent computers and …
+
+153. A tuning framework for software-managed memory hierarchies
+Citations:52
+Authors: M Ren, JY Park, M Houston, A Aiken, WJ Dally
+Publication: Proceedings of the 17th international conference on Parallel architectures …
+
+154. Architectural support for the stream execution model on general-purpose processors
+Citations:52
+Authors: J Gummaraju, M Erez, J Coburn, M Rosenblum, WJ Dally
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+155. The design space of data-parallel memory systems
+Citations:52
+Authors: JH Ahn, M Erez, WJ Dally
+Publication: SC'06: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 2-2
+
+156. Phase controlled oscillator circuit with input signal coupler
+Citations:52
+Authors: WJ Dally, R Farjad-Rad, JW Poulton, TH Greer III, HT Ng, TJ Stone
+Publication: US Patent 6,861,916
+
+157. Apparatus and method for efficient prefix search
+Citations:52
+Authors: GM Waters, LR Dennison, PP Carvey, WJ Dally, WF Mann
+Publication: US Patent 6,522,632
+
+158. Apparatus and methods for connecting modules using remote switching
+Citations:51
+Authors: PP Carvey, WJ Dally, LR Dennison
+Publication: US Patent 6,606,656
+
+159. A portable runtime interface for multi-level memory hierarchies
+Citations:50
+Authors: M Houston, JY Park, M Ren, T Knight, K Fatahalian, A Aiken, W Dally, ...
+Publication: Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of …
+
+160. Irregular network
+Citations:50
+Authors: WJ Dally, WF Mann, PP Carvey
+Publication: US Patent 7,043,562
+
+161. A mechanism for efficient context switching
+Citations:49
+Authors: PR Nuth, WJ Dally
+Publication: [1991 Proceedings] IEEE International Conference on Computer Design: VLSI in …
+
+162. Locality-preserving randomized oblivious routing on torus networks
+Citations:48
+Authors: A Singh, WJ Dally, B Towles, AK Gupta
+Publication: Proceedings of the fourteenth annual ACM symposium on Parallel algorithms …
+
+163. DSD: regularizing deep neural networks with dense-sparse-dense training flow
+Citations:47
+Authors: S Han, J Pool, S Narang, H Mao, S Tang, E Elsen, B Catanzaro, J Tran, ...
+Publication: arXiv preprint arXiv:1607.04381 3 (6)
+
+164. A 0.54 pJ/b 20 Gb/s ground-referenced single-ended short-reach serial link in 28 nm CMOS for advanced packaging applications
+Citations:47
+Authors: JW Poulton, WJ Dally, X Chen, JG Eyles, TH Greer, SG Tell, JM Wilson, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (12), 3206-3218
+
+165. Load-balanced routing
+Citations:46
+Authors: A Singh, WJ Dally
+Publication: US Patent 7,633,940
+
+166. An 84-mW 4-Gb/s clock and data recovery circuit for serial link applications
+Citations:46
+Authors: MJE Lee, WJ Dally, JW Poulton, P Chiang, SE Greenwood
+Publication: 2001 Symposium on VLSI Circuits. Digest of Technical Papers (IEEE Cat. No …
+
+167. Simultaneous bidirectional signalling for IC systems
+Citations:46
+Authors: K Lam, LR Dennison, WJ Dally
+Publication: Proceedings., 1990 IEEE International Conference on Computer Design: VLSI in …
+
+168. Fabric router with flit caching
+Citations:45
+Authors: W Dally, P Carvey, PA King, W Mann, L Dennison
+Publication: US Patent App. 10/926,122
+
+169. Flattened butterfly processor interconnect network
+Citations:44
+Authors: DC Abts, J Kim, WJ Dally
+Publication: US Patent 8,285,789
+
+170. The delta tree: An object-centered approach to image-based rendering
+Citations:44
+Authors: WJ Dally, L McMillan, G Bishop, H Fuchs
+Publication: 
+
+171. Digital transmitter
+Citations:43
+Authors: WJ Dally
+Publication: US Patent 7,602,858
+
+172. Executing irregular scientific applications on stream architectures
+Citations:43
+Authors: M Erez, JH Ahn, J Gummaraju, M Rosenblum, WJ Dally
+Publication: Proceedings of the 21st annual international conference on Supercomputing …
+
+173. Adaptive channel queue routing on k-ary n-cubes
+Citations:43
+Authors: A Singh, WJ Dally, AK Gupta, B Towles
+Publication: Proceedings of the sixteenth annual ACM symposium on Parallelism in …
+
+174. DSD: Dense-sparse-dense training for deep neural networks
+Citations:42
+Authors: S Han, J Pool, S Narang, H Mao, E Gong, S Tang, E Elsen, P Vajda, ...
+Publication: arXiv preprint arXiv:1607.04381
+
+175. A hierarchical thread scheduler and register file for energy-efficient throughput processors
+Citations:42
+Authors: M Gebhart, DR Johnson, D Tarjan, SW Keckler, WJ Dally, E Lindholm, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (2), 8
+
+176. High-speed, low-power inter-chip transmission system
+Citations:42
+Authors: WJ Dally, DK Hartman
+Publication: US Patent 6,614,268
+
+177. Digital transmitter
+Citations:41
+Authors: WJ Dally
+Publication: US Patent 7,602,857
+
+178. System and method for performing address-based SRAM access assists
+Citations:40
+Authors: ME Sinangil, WJ Dally
+Publication: US Patent 9,208,900
+
+179. Packet chaining: Efficient single-cycle allocation for on-chip networks
+Citations:40
+Authors: G Michelogiannakis, N Jiang, D Becker, WJ Dally
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+180. Internet switch router
+Citations:40
+Authors: WJ Dally, PP Carvey, LR Dennison, PA King
+Publication: US Patent 7,187,679
+
+181. Effects of fertilisers on plant species composition and conservation interest of UK grassland
+Citations:40
+Authors: RS Smith
+Publication: British Grassland Society (BGS)
+
+182. Digital transmitter
+Citations:39
+Authors: WJ Dally
+Publication: US Patent 7,715,494
+
+183. The even/odd synchronizer: A fast, all-digital, periodic synchronizer
+Citations:39
+Authors: WJ Dally, SG Tell
+Publication: 2010 IEEE Symposium on Asynchronous Circuits and Systems, 75-84
+
+184. Digital transmitter
+Citations:39
+Authors: WJ Dally
+Publication: US Patent 7,580,474
+
+185. Weighted fair share scheduler for large input-buffered high-speed cross-point packet/cell switches
+Citations:39
+Authors: G Meempat, G Ramamurthy, WJ Dally
+Publication: US Patent 7,292,594
+
+186. Analysis and performance results of a molecular modeling application on Merrimac
+Citations:39
+Authors: M Erez, JH Ahn, A Garg, WJ Dally, E Darve
+Publication: Proceedings of the 2004 ACM/IEEE conference on Supercomputing, 42
+
+187. Comparing Reyes and OpenGL on a stream architecture
+Citations:39
+Authors: JD Owens, B Khailany, B Towles, WJ Dally
+Publication: Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware …
+
+188. CMOS high-speed I/Os-present and future
+Citations:38
+Authors: MJE Lee, WJ Dally, R Farjad-Rad, HT Ng, R Senthinathan, J Edmondson, ...
+Publication: Proceedings 21st International Conference on Computer Design, 454-461
+
+189. VLSI design and verification of the Imagine processor
+Citations:37
+Authors: B Khailany, WJ Dally, A Chang, UJ Kapasi, J Namkoong, B Towles
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+190. An efficient, protected message interface
+Citations:37
+Authors: WS Lee, WJ Dally, SW Keckler, NP Carter, A Chang
+Publication: Computer 31 (11), 69-75
+
+191. The named-state register file: Implementation and performance
+Citations:37
+Authors: PR Nuth, WJ Dally
+Publication: Proceedings of 1995 1st IEEE Symposium on High Performance Computer …
+
+192. Low energy flip-flops
+Citations:35
+Authors: W Dally, J Alben
+Publication: US Patent 8,742,796
+
+193. Network congestion avoidance through speculative reservation
+Citations:35
+Authors: N Jiang, DU Becker, G Michelogiannakis, WJ Dally
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+194. A 0.2-2 GHz 12 mW multiplying DLL for low-jitter clock synthesis in highly-integrated data communication chips
+Citations:35
+Authors: R Farjad-Rad, W Dally, HT Ng, J Poulton, T Stone, R Rathi, E Lee, ...
+Publication: 2002 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+195. Migration in single chip multiprocessors
+Citations:35
+Authors: KA Shaw, WJ Dally
+Publication: IEEE Computer Architecture Letters 1 (1), 12-12
+
+196. Implementation of atomic primitives on distributed shared memory multiprocessors
+Citations:35
+Authors: MM Michael, ML Scott
+Publication: Proceedings of 1995 1st IEEE Symposium on High Performance Computer …
+
+197. Architecting an energy-efficient dram system for gpus
+Citations:34
+Authors: N Chatterjee, M O’Connor, D Lee, DR Johnson, SW Keckler, M Rhu, ...
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+198. A deep neural network compression pipeline: Pruning, quantization, huffman encoding
+Citations:34
+Authors: S Han, H Mao, WJ Dally
+Publication: arXiv preprint arXiv:1510.00149 10
+
+199. Memory hierarchy design for stream computing
+Citations:34
+Authors: NS Jayasena, WJ Dally
+Publication: Stanford University
+
+200. M-Machine architecture v1
+Citations:34
+Authors: WJ Dally, SW Keckler, N Carter, A Chang, M Fillo, WS Lee
+Publication: 0. Technical Report–MIT Concurrent VLSI Architecture Memo 58, Massachusetts …
+
+201. SRAM voltage assist
+Citations:33
+Authors: WJ Dally
+Publication: US Patent 9,460,776
+
+202. Elastic interconnects: Repeater-inserted long wiring capable of compressing and decompressing data
+Citations:33
+Authors: M Mizuno, WJ Dally, H Onishi
+Publication: 2001 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+203. Low-latency plesiochronous data retiming
+Citations:33
+Authors: LR Dennison, WJ Dally, D Xanthopoulos
+Publication: Proceedings Sixteenth Conference on Advanced Research in VLSI, 304-315
+
+204. Booksim 2.0 user’s guide
+Citations:31
+Authors: N Jiang, G Michelogiannakis, D Becker, B Towles, WJ Dally
+Publication: Standford University
+
+205. Data communications circuit with multi-stage multiplexing
+Citations:31
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,460,565
+
+206. A 20-Gb/s 0.13-/spl mu/m CMOS serial link transmitter using an LC-PLL to directly drive the output multiplexer
+Citations:31
+Authors: P Chiang, WJ Dally, MJE Lee, R Senthinathan, Y Oh, MA Horowitz
+Publication: IEEE journal of solid-state circuits 40 (4), 1004-1011
+
+207. Router with virtual channel allocation
+Citations:31
+Authors: WJ Dally, PP Carvey, LR Dennison, PA King
+Publication: US Patent 6,563,831
+
+208. A hardware architecture for switch-level simulation
+Citations:31
+Authors: WJ Dally, RE Bryant
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+209. Efficient sparse-winograd convolutional neural networks
+Citations:30
+Authors: X Liu, J Pool, S Han, WJ Dally
+Publication: arXiv preprint arXiv:1802.06367
+
+210. The end of denial architecture and the rise of throughput computing
+Citations:30
+Authors: WJ Dally
+Publication: Keynote speech at Desgin Automation Conference
+
+211. Router designs for elastic buffer on-chip networks
+Citations:30
+Authors: G Michelogiannakis, WJ Dally
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+212. Topology optimization of interconnection networks
+Citations:30
+Authors: AK Gupta, WJ Dally
+Publication: Computer Architecture Letters 5 (1), 10-13
+
+213. High performance bidirectional signalling in VLSI systems
+Citations:30
+Authors: LR Dennison, WS Lee, WJ Dally
+Publication: Research on Integrated Systems: Proceedings of the 1993 Symposium
+
+214. System, method, and computer program product for improved power efficiency during program code execution
+Citations:29
+Authors: WJ Dally
+Publication: US Patent 9,235,392
+
+215. Dragonfly processor interconnect network
+Citations:29
+Authors: J Kim, DC Abts, SL Scott, WJ Dally
+Publication: US Patent App. 12/195,198
+
+216. Multistage digital cross connect with synchronized configuration switching
+Citations:29
+Authors: WJ Dally
+Publication: US Patent 7,301,941
+
+217. Image encoder, image encoding method, image decoder, image decoding method, and distribution media
+Citations:28
+Authors: Y Yagasaki, T Suzuki
+Publication: US Patent 6,643,328
+
+218. Architecture and design of the MARS hardware accelerator
+Citations:28
+Authors: P Agrawal, WJ Dally, AK Ezzat, WC Fischer, HV Jagadish, ...
+Publication: 24th ACM/IEEE Design Automation Conference, 101-107
+
+219. Signaling system with low-power automatic gain control
+Citations:27
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,498,882
+
+220. Methods and apparatus for event-driven routing
+Citations:27
+Authors: W Dally, P Carvey, L Dennison, P King
+Publication: US Patent App. 10/673,912
+
+221. Micro-optimization of floating-point operations
+Citations:27
+Authors: WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 17 (2), 283-289
+
+222. An object oriented architecture
+Citations:27
+Authors: WJ Dally, JT Kajiya
+Publication: IEEE Computer Society Press
+
+223. Adaptive backpressure: Efficient buffer management for on-chip networks
+Citations:26
+Authors: DU Becker, N Jiang, G Michelogiannakis, WJ Dally
+Publication: 2012 IEEE 30th International Conference on Computer Design (ICCD), 419-426
+
+224. Digital transmitter
+Citations:26
+Authors: WJ Dally
+Publication: US Patent 8,254,491
+
+225. System and method for performing efficient conditional vector operations for data parallel architectures involving both input and conditional vector values
+Citations:25
+Authors: S Rixner, JD Owens, UJ Kapasi, WJ Dally
+Publication: US Patent 7,818,539
+
+226. Operand registers and explicit operand forwarding
+Citations:25
+Authors: J Balfour, R Harting, W Dally
+Publication: IEEE Computer Architecture Letters 8 (2), 60-63
+
+227. Clock multiplying delay-locked loop for data communications
+Citations:25
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 6,952,431
+
+228. Low-power low-jitter variable delay timing circuit
+Citations:25
+Authors: WJ Dally, R Farjad-Rad, TJ Stone, X Yu, JW Poulton
+Publication: US Patent 6,476,656
+
+229. Buffer-space efficient and deadlock-free scheduling of stream applications on multi-core architectures
+Citations:24
+Authors: J Park, WJ Dally
+Publication: Proceedings of the twenty-second annual ACM symposium on Parallelism in …
+
+230. Digital clock recovery circuit
+Citations:24
+Authors: WJ Dally, JH Edmondson, R Farjad-Rad
+Publication: US Patent 7,257,183
+
+231. Data communications circuit with multi-stage multiplexing
+Citations:24
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 6,674,772
+
+232. Combined phase comparator and charge pump circuit
+Citations:24
+Authors: WJ Dally, R Farjad-Rad, TJ Stone, X Yu, JW Poulton
+Publication: US Patent 6,275,072
+
+233. High-performance electrical signaling
+Citations:24
+Authors: WJ Dally, MJE Lee, FT An, J Poulton, S Tell
+Publication: Proceedings. Fifth International Conference on Massively Parallel Processing …
+
+234. Fine-grained DRAM: energy-efficient DRAM for extreme bandwidth systems
+Citations:23
+Authors: M O’Connor, N Chatterjee, D Lee, J Wilson, A Agrawal, SW Keckler, ...
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+235. Digital transmitter
+Citations:23
+Authors: WJ Dally
+Publication: US Patent 7,706,464
+
+236. Digital transmitter
+Citations:23
+Authors: WJ Dally
+Publication: US Patent 7,526,046
+
+237. Two-level scheduler for multi-threaded processing
+Citations:22
+Authors: WJ Dally, SW Keckler, D Tarjan, JE Lindholm, MA Gebhart, DR Johnson
+Publication: US Patent 8,732,711
+
+238. Method and apparatus for data recovery
+Citations:22
+Authors: WJ Dally
+Publication: US Patent 7,489,739
+
+239. Multistage digital cross connect with integral frame timing
+Citations:22
+Authors: WJ Dally
+Publication: US Patent 6,870,838
+
+240. Network endpoint congestion control for fine-grained communication
+Citations:21
+Authors: N Jiang, L Dennison, WJ Dally
+Publication: SC'15: Proceedings of the International Conference for High Performance …
+
+241. SLIP: reducing wire energy in the memory hierarchy
+Citations:21
+Authors: S Das, TM Aamodt, WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 349-361
+
+242. Digital design: A systems approach
+Citations:21
+Authors: WJ Dally, RC Harting
+Publication: Cambridge University Press
+
+243. Prefix search method
+Citations:21
+Authors: GM Waters, LR Dennison, PP Carvey, WJ Dally, WF Mann
+Publication: US Patent 7,130,847
+
+244. A second-order semi-digital clock recovery circuit based on injection locking
+Citations:21
+Authors: MJE Lee, WJ Dally, J Poulton, T Greer, J Edmondson, R Farjad-Rad, ...
+Publication: 2003 IEEE International Solid-State Circuits Conference, 2003. Digest of …
+
+245. Method, apparatus, and computer program product in a processor for dynamically during runtime allocating memory for in-memory hardware tracing
+Citations:20
+Authors: M Ra'ed, AE Mericas, WJ Starke
+Publication: US Patent 7,992,051
+
+246. Hierarchical instruction register organization
+Citations:20
+Authors: D Black-Schaffer, J Balfour, W Dally, V Parikh, JS Park
+Publication: IEEE Computer Architecture Letters 7 (2), 41-44
+
+247. Register pointer architecture for efficient embedded processors
+Citations:20
+Authors: JS Park, SB Park, JD Balfour, D Black-Schaffer, C Kozyrakis, WJ Dally
+Publication: Proceedings of the conference on Design, automation and test in Europe, 600-605
+
+248. System and method for implementing conditional vector operations in which an input vector containing multiple operands to be used in conditional operations is divided into two …
+Citations:20
+Authors: WJ Dally, SW Rixner, J Owens, UJ Kapasi
+Publication: US Patent 6,269,435
+
+249. Apparatus and methods for connecting modules using remote switching
+Citations:20
+Authors: PP Carvey, WJ Dally, LR Dennison
+Publication: US Patent 6,205,532
+
+250. Thread prioritization: A thread scheduling mechanism for multiple-context parallel processors
+Citations:20
+Authors: S Fiske, WJ Dally
+Publication: Future Generation Computer Systems 11 (6), 503-518
+
+251. Photovoltaic system protection
+Citations:19
+Authors: AJ Ponec, D Hau, BA Johnson, DJM Maren, WJ Dally
+Publication: US Patent App. 10/056,862
+
+252. Darwin: A genomics co-processor provides up to 15,000 x acceleration on long read assembly
+Citations:19
+Authors: Y Turakhia, G Bejerano, WJ Dally
+Publication: ACM SIGPLAN Notices 53 (2), 199-213
+
+253. Reuse distance-based probabilistic cache replacement
+Citations:19
+Authors: S Das, TM Aamodt, WJ Dally
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 12 (4), 33
+
+254. Digital transmitter
+Citations:19
+Authors: WJ Dally
+Publication: US Patent 8,259,841
+
+255. Merrimac: high-performance and highly-efficient scientific computing with streams
+Citations:19
+Authors: M Erez, WJ Dally
+Publication: Dissertation Abstracts International 67 (11)
+
+256. Fault tolerance techniques for the merrimac streaming supercomputer
+Citations:19
+Authors: M Erez, N Jayasena, TJ Knight, WJ Dally
+Publication: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 29
+
+257. Hypercubes
+Citations:19
+Authors: JP Brown, R Otter, WJ Dally, BP Towles, FT Leighton, RF Barrett, ...
+Publication: Practical Computing 5 (4), 97-99
+
+258. Hierarchical memory addressing
+Citations:18
+Authors: WJ Dally
+Publication: US Patent 8,982,140
+
+259. Digital transmitter
+Citations:18
+Authors: WJ Dally
+Publication: US Patent 8,311,147
+
+260. Explaining the gap between ASIC and custom power: a custom perspective
+Citations:18
+Authors: A Chang, WJ Dally
+Publication: Proceedings of the 42nd annual Design Automation Conference, 281-284
+
+261. ESE: efficient speech recognition engine with compressed LSTM on FPGA
+Citations:17
+Authors: S Han, J Kang, H Mao, Y Hu, X Li, Y Li, D Xie, H Luo, S Yao, Y Wang, ...
+Publication: arXiv preprint arXiv 1612
+
+262. Ground referenced single-ended signaling
+Citations:17
+Authors: JW Poulton, TH Greer III, WJ Dally
+Publication: US Patent 8,611,437
+
+263. 21st century digital design tools
+Citations:17
+Authors: WJ Dally, C Malachowsky, SW Keckler
+Publication: Proceedings of the 50th Annual Design Automation Conference, 94
+
+264. Digital transmitter
+Citations:17
+Authors: WJ Dally
+Publication: US Patent 8,243,847
+
+265. Digital transmitter
+Citations:17
+Authors: WJ Dally
+Publication: US Patent 8,238,467
+
+266. Digital transmitter
+Citations:17
+Authors: WJ Dally
+Publication: US Patent 7,564,920
+
+267. Interconnection Networks
+Citations:17
+Authors: WJ Dally, L Chao, A Chien, S Hassoun, W Horwat, J Kaplan, P Song, ...
+Publication: 
+
+268. Design and implementation of the message-driven processor
+Citations:17
+Authors: WJ Dally, S Ahmed, P Carrick, A Chien, R Davison, J Fiske, G Fyler, ...
+Publication: Proc. Brown/MIT Conference on Advanced Research in VLSI and Parallel Systems …
+
+269. Experience with concurrent aggregates (CA): Implementation and programming
+Citations:17
+Authors: AA Chien, WJ Dally
+Publication: Proceedings of the Fifth Distributed Memory Computing Conference, 1990. 2 …
+
+270. Channel reservation protocol for over-subscribed channels and destinations
+Citations:16
+Authors: G Michelogiannakis, N Jiang, D Becker, WJ Dally
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+271. Digital transmitter
+Citations:16
+Authors: WJ Dally
+Publication: US Patent 8,238,470
+
+272. Evaluating elastic buffer and wormhole flow control
+Citations:16
+Authors: G Michelogiannakis, D Becker, W Dally
+Publication: IEEE Transactions on Computers 60 (6), 896-903
+
+273. Phase controlled oscillator circuit with input signal coupler
+Citations:16
+Authors: WJ Dally, R Farjad-Rad, JW Poulton, TH Greer III, HT Ng, TJ Stone
+Publication: US Patent 7,078,979
+
+274. Architectures for a single-stage grooming switch
+Citations:16
+Authors: WJ Dally, J Edmondson, DA Priore, E Wu, JW Poulton
+Publication: US Patent 6,807,186
+
+275. A stream processor development platform
+Citations:16
+Authors: B Serebrin, JD Owens, CH Chen, SP Crago, UJ Kapasi, B Khailany, ...
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+276. Exploring the granularity of sparsity in convolutional neural networks
+Citations:15
+Authors: H Mao, S Han, J Pool, W Li, X Liu, Y Wang, WJ Dally
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+277. Data-driven charge-pump transmitter for differential signaling
+Citations:15
+Authors: JW Poulton, TH Greer III, WJ Dally
+Publication: US Patent 9,338,036
+
+278. A 28 nm 2 Mbit 6 T SRAM with highly configurable low-voltage write-ability assist implementation and capacitor-based sense-amplifier input offset compensation
+Citations:15
+Authors: ME Sinangil, JW Poulton, MR Fojtik, TH Greer III, SG Tell, AJ Gotterba, ...
+Publication: IEEE Journal of Solid-State Circuits 51 (2), 557-567
+
+279. Digital Transmitter
+Citations:15
+Authors: WJ Dally
+Publication: US Patent 8,681,837
+
+280. Processor with enhanced combined-arithmetic capability
+Citations:15
+Authors: B Khailany, WJ Dally, R Rao, DF Tovey
+Publication: US Patent 8,122,078
+
+281. Data transfer bus communication using single request to perform command and return data to destination indicated in context to allow thread context switch
+Citations:15
+Authors: R Gelinas, WP Hays, S Katzman, WJ Dally
+Publication: US Patent 7,162,615
+
+282. Prefix search circuitry and method
+Citations:15
+Authors: G Waters, L Dennison, P Carvey, W Dally, W Mann
+Publication: US Patent App. 10/167,689
+
+283. Fault tolerant adaptive routing in multicomputer networks
+Citations:15
+Authors: T Xanthopoulos
+Publication: Massachusetts Institute of Technology
+
+284. System of express channels in an interconnection network that automatically bypasses local channel addressable nodes
+Citations:15
+Authors: WJ Dally
+Publication: US Patent 5,367,642
+
+285. Performance evaluation of ephemeral logging
+Citations:15
+Authors: JS Keen, WJ Dally
+Publication: ACM SIGMOD Record 22 (2), 187-196
+
+286. Experiments with Dataflow on a General-Purpose Parallel Computer.
+Citations:15
+Authors: E Spertus, WJ Dally
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+287. A 0.54 pJ/b 20Gb/s ground-referenced single-ended short-haul serial link in 28nm CMOS for advanced packaging applications
+Citations:14
+Authors: JW Poulton, WJ Dally, X Chen, JG Eyles, TH Greer, SG Tell, CT Gray
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+288. Power efficient supercomputing
+Citations:14
+Authors: W Dally
+Publication: Accelerator-based Computing and Manycore Workshop (presentation) 1
+
+289. High performance RISC instruction set digital signal processor having circular buffer and looping controls
+Citations:14
+Authors: WJ Dally, WP Hays, R Gelinas, S Katzman, S Rosen, S Ericsson
+Publication: US Patent 7,401,205
+
+290. Tradeoff between data-, instruction-, and thread-level parallelism in stream processors
+Citations:14
+Authors: JH Ahn, M Erez, WJ Dally
+Publication: Proceedings of the 21st annual international conference on Supercomputing …
+
+291. Computer Architecture in the Many-Core Era.
+Citations:14
+Authors: WJ Dally
+Publication: ICCD, 1
+
+292. Photonic switch using time-slot interchange
+Citations:14
+Authors: PP Carvey, WJ Dally
+Publication: US Patent 6,934,471
+
+293. High speed, low-power inter-chip transmission system
+Citations:14
+Authors: WJ Dally, DK Hartman
+Publication: US Patent 6,426,656
+
+294. The message driven processor: An integrated multicomputer processing element
+Citations:14
+Authors: WJ Dally, A Chien, JAS Fiske, G Fyler, W Horwat, JS Keen, RA Lethin, ...
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+295. A network element based fault tolerant processor
+Citations:14
+Authors: TA Abler
+Publication: Massachusetts Institute of Technology
+
+296. Conflict-free register allocation using a multi-bank register file with input operand alignment
+Citations:13
+Authors: A Patney, WJ Dally
+Publication: US Patent 8,555,035
+
+297. The J-Machine architecture and evaluation
+Citations:13
+Authors: WJ Dally, JS Keen, MD Noakes
+Publication: Digest of Papers. Compcon Spring, 183-188
+
+298. The reconfigurable arithmetic processor
+Citations:13
+Authors: S Fiske, WJ Dally
+Publication: [1988] The 15th Annual International Symposium on Computer Architecture …
+
+299. Directions in concurrent computing
+Citations:13
+Authors: WJ Dally
+Publication: Proceedings of the IEEE
+
+300. Principles and practices of interconnection networks. 2004
+Citations:13
+Authors: WJ Dally, B Towles
+Publication: Morgan Kaufmann
+
+301. Predictive current sensing
+Citations:12
+Authors: WJ Dally
+Publication: US Patent 9,639,102
+
+302. Pulsed current sensing
+Citations:12
+Authors: WJ Dally
+Publication: US Patent 9,389,617
+
+303. Photovoltaic System Protection
+Citations:12
+Authors: AJ Ponec, D Hau, BA Johnson, DJM Maren, WJ Dally
+Publication: US Patent App. 14/722,138
+
+304. Prefix search circuitry and method
+Citations:12
+Authors: GM Waters, LR Dennison, PP Carvey, WJ Dally, WF Mann
+Publication: US Patent 7,668,890
+
+305. System and method for re-ordering memory references for access to memory
+Citations:12
+Authors: WJ Dally, SW Rixner
+Publication: US Patent 7,216,214
+
+306. High-speed, low-power crossbar switch
+Citations:12
+Authors: WJ Dally, DK Hartman
+Publication: US Patent 6,965,299
+
+307. Route packets, not wires
+Citations:12
+Authors: WJ Dally, B Towles
+Publication: Proceedings of the Design Automation Conference (DAC), 18-22
+
+308. VLSI datapath choices: Cell-based versus full-custom
+Citations:12
+Authors: ALP Chang
+Publication: Massachusetts Institute of Technology
+
+309. Extended ephemeral logging: log storage management for applications with long lived transactions
+Citations:12
+Authors: JS Keen, WJ Dally
+Publication: ACM Transactions on Database Systems (TODS) 22 (1), 1-42
+
+310. Message-Driven Processor Architecture
+Citations:12
+Authors: W Dally, A Chien, S Fiske, W Horwat, J Keen
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER
+
+311. Ground-referenced single-ended signaling connected graphics processing unit multi-chip module
+Citations:11
+Authors: WJ Dally, JM Alben, JW Poulton, TH Greer III
+Publication: US Patent 9,170,980
+
+312. DOE advanced scientific computing advisory subcommittee (ASCAC) report: top ten exascale research challenges
+Citations:11
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+313. Interconnection network router arrangements and methods therefor
+Citations:11
+Authors: JJ Kim, WJ Dally
+Publication: US Patent 8,228,930
+
+314. Embracing heterogeneity–parallel programming for changing hardware
+Citations:11
+Authors: MD Linderman, J Balfour, TH Meng, WJ Dally
+Publication: HOTPAR’09: USENIX Workshop on Hot Topics in Parallelism
+
+315. Phase controlled oscillator circuit with input signal coupler
+Citations:11
+Authors: WJ Dally, R Farjad-Rad, JW Poulton, TH Greer III, HT Ng, TJ Stone
+Publication: US Patent 7,414,489
+
+316. Internet switch router
+Citations:11
+Authors: W Dally, P Carvey, L Dennison, P King
+Publication: US Patent App. 10/017,362
+
+317. On-Chip Interconnection Networks
+Citations:11
+Authors: WJ Dally, B Towles, NWR Packet
+Publication: Proceedings of DAC
+
+318. The MIT Multi-ALU Processor
+Citations:11
+Authors: S Keckler, WJ Dally, A Chang, NP Carter, WS Lee
+Publication: Hot Chips IX, 1-8
+
+319. Multithreaded computer architecture,"
+Citations:11
+Authors: JB Dennis, GR Gao, RA Iannucci
+Publication: Boston: Kluwer Academic Publishers
+
+320. A universal parallel computer architecture
+Citations:11
+Authors: WJ Dally
+Publication: New Generation Computing 11 (3-4), 227-249
+
+321. Pi: A parallel architecture interface
+Citations:11
+Authors: DS Wills, WJ Dally
+Publication: [Proceedings 1992] The Fourth Symposium on the Frontiers of Massively …
+
+322. The J-machine network
+Citations:11
+Authors: W Dally
+Publication: Proc Intnl Conf on Computer Design. IEEE VLSI in Computer & Processor, 420-423
+
+323. Network and processor architecture for message-driven computing
+Citations:11
+Authors: WJ Dally
+Publication: VLSI and Parallel Processing, 140-222
+
+324. A 1.17 pJ/b 25Gb/s/pin ground-referenced single-ended serial link for off-and on-package communication in 16nm CMOS using a process-and temperature-adaptive voltage regulator
+Citations:10
+Authors: JM Wilson, WJ Turner, JW Poulton, B Zimmer, X Chen, SS Kudva, S Song, ...
+Publication: 2018 IEEE International Solid-State Circuits Conference-(ISSCC), 276-278
+
+325. Current-parking switching regulator downstream controller pre-driver
+Citations:10
+Authors: WJ Dally
+Publication: US Patent 9,804,621
+
+326. Current-parking switching regulator upstream controller
+Citations:10
+Authors: WJ Dally
+Publication: US Patent 9,459,635
+
+327. On-package multiprocessor ground-referenced single-ended interconnect
+Citations:10
+Authors: WJ Dally, BK Khailany, JW Poulton, TH Greer III, CT Gray
+Publication: US Patent 8,854,123
+
+328. Fine-grain dynamic instruction placement for L0 scratch-pad memory
+Citations:10
+Authors: J Park, J Balfour, WJ Dally
+Publication: Proceedings of the 2010 international conference on Compilers, architectures …
+
+329. Digital transmit phase trimming
+Citations:10
+Authors: WJ Dally
+Publication: US Patent 7,627,069
+
+330. Time slot interchanger
+Citations:10
+Authors: WJ Dally
+Publication: US Patent 7,260,092
+
+331. Transition-time control in a high-speed data transmitter
+Citations:10
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,187,721
+
+332. Streams and vectors: A memory system perspective
+Citations:10
+Authors: N Jayasena, WJ Dally
+Publication: 6th WorkShop on Media and Streaming Processors
+
+333. A streaming supercomputer
+Citations:10
+Authors: W Dally, P Hanrahan, R Fedkiw
+Publication: Whitepaper, Sep
+
+334. Evaluating the locality benefits of active messages
+Citations:10
+Authors: E Spertus, WJ Dally
+Publication: ACM SIGPLAN Notices 30 (8), 189-198
+
+335. Multi-stage power supply with fast transient response
+Citations:9
+Authors: WJ Dally
+Publication: US Patent 9,178,421
+
+336. Conflict-free register allocation
+Citations:9
+Authors: A Patney, WJ Dally
+Publication: US Patent 8,832,671
+
+337. System and method for explicitly managing cache coherence
+Citations:9
+Authors: WJ Dally
+Publication: US Patent 8,788,761
+
+338. On-chip active messages for speed, scalability, and efficiency
+Citations:9
+Authors: RC Harting, WJ Dally
+Publication: IEEE Transactions on Parallel and Distributed Systems 26 (2), 507-515
+
+339. Dual-trigger low-energy flip-flop circuit
+Citations:9
+Authors: WJ Dally, JM Alben, JW Poulton, GEF Yang
+Publication: US Patent 8,487,681
+
+340. Composite trunking
+Citations:9
+Authors: PP Carvey, WJ Dally, LR Dennison
+Publication: US Patent 7,920,555
+
+341. Low power, DC-balanced serial link
+Citations:9
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,088,270
+
+342. Low power architectures
+Citations:9
+Authors: W Dally
+Publication: ISSCC, Panel Talk on “When Processors Hit the Power Wall
+
+343. Named state and efficient context switching
+Citations:9
+Authors: PR Nuth, WJ Dally
+Publication: Multithreaded Computer Architecture: A summary of the state of the art, 201-212
+
+344. A fast translation method for paging on top of segmentation
+Citations:9
+Authors: WJ Dally
+Publication: IEEE Transactions on Computers 41 (2), 247-250
+
+345. Control of a soft-switched variable frequency buck regulator
+Citations:8
+Authors: WJ Dally
+Publication: US Patent 9,231,477
+
+346. Ground-referenced single-ended system-on-package
+Citations:8
+Authors: WJ Dally, JW Poulton, TH Greer III, BK Khailany, CT Gray
+Publication: US Patent 9,171,607
+
+347. Digital transmitter
+Citations:8
+Authors: WJ Dally
+Publication: US Patent 8,761,235
+
+348. Single-trigger low-energy flip-flop circuit
+Citations:8
+Authors: JM Alben, WJ Dally
+Publication: US Patent 8,436,669
+
+349. Low-clock-energy, fully-static latch circuit
+Citations:8
+Authors: WJ Dally
+Publication: US Patent 8,373,483
+
+350. High-radix interprocessor communications system and method
+Citations:8
+Authors: SL Scott, DC Abts, WJ Dally
+Publication: US Patent 8,184,626
+
+351. Moving the needle, computer architecture research in academe and industry
+Citations:8
+Authors: WJ Dally
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 1-1
+
+352. The end of denial architecture
+Citations:8
+Authors: W Dally
+Publication: Keynote at Design Automation Conference (DAC’09)
+
+353. Low power, DC-balanced serial link transmitter
+Citations:8
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,061,406
+
+354. Bufferd flow control
+Citations:8
+Authors: WJ Dally, B Towles
+Publication: Principles and Practices of Interconnection Networks, 233-256
+
+355. Towles В
+Citations:8
+Authors: W Dally
+Publication: Principles and Practices of Interconnection Networks
+
+356. Scalable opto-electronic network (SOEnet)
+Citations:8
+Authors: AK Gupta, WJ Dally, A Singh, B Towles
+Publication: Proceedings 10th Symposium on High Performance Interconnects, 71-76
+
+357. Monolithic chaotic communications system
+Citations:8
+Authors: P Chiang, W Dally, E Lee
+Publication: ISCAS 2001. The 2001 IEEE International Symposium on Circuits and Systems …
+
+358. The effects of explicitly parallel mechanisms on the Multi-ALU processor cluster pipeline
+Citations:8
+Authors: A Chang, WJ Dally, SW Keckler, NP Carter, WS Lee
+Publication: Proceedings International Conference on Computer Design. VLSI in Computers …
+
+359. Tomorrow’s Computing Engines
+Citations:8
+Authors: W Dally
+Publication: keynote speech, Fourth Int’l Symp. High-Performance Computer Architecture
+
+360. The MAP instruction set reference manual v1. 0
+Citations:8
+Authors: WJ Dally, SW Keckler, N Carter, A Chang, M Fillo, WS Lee
+Publication: Concurrent VLSI Architecture Memo 59, Massachusetts Institute of Technology …
+
+361. Ground-referenced single-ended memory interconnect
+Citations:7
+Authors: WJ Dally
+Publication: US Patent 9,153,314
+
+362. Ground-referenced single-ended signaling connected graphics processing unit multi-chip module
+Citations:7
+Authors: WJ Dally, JM Alben, JW Poulton, TH Greer III
+Publication: US Patent 9,153,539
+
+363. Ground-referenced single-ended memory interconnect
+Citations:7
+Authors: WJ Dally, BK Khailany, TH Greer III, JW Poulton
+Publication: US Patent 9,147,447
+
+364. Multi-phase ground-referenced single-ended signaling
+Citations:7
+Authors: WJ Dally, JW Poulton, TH Greer III
+Publication: US Patent 9,076,551
+
+365. Ground referenced single-ended signaling
+Citations:7
+Authors: JW Poulton, TH Greer III, WJ Dally
+Publication: US Patent 9,071,244
+
+366. Timing calibration for on-chip interconnect
+Citations:7
+Authors: R Palmer, JW Poulton, TH Greer III, WJ Dally
+Publication: US Patent 8,941,430
+
+367. Latch circuit with a bridging device
+Citations:7
+Authors: I Elkin, WJ Dally, JM Alben
+Publication: US Patent 8,659,337
+
+368. Load balancing for communications within a multiprocessor computer system
+Citations:7
+Authors: SL Scott, DC Abts, WJ Dally
+Publication: US Patent 7,864,792
+
+369. Vehicle performance evaluation test method and apparatus
+Citations:7
+Authors: S Sakamoto, J Takeda, N Okochi, T Ogawa, O Takenaka
+Publication: US Patent 6,681,620
+
+370. Irregular network
+Citations:7
+Authors: WJ Dally, WF Mann, PP Carvey
+Publication: US Patent 6,598,145
+
+371. A single-chip terabit switch
+Citations:7
+Authors: W Dally, W Dettloff, J Eyles, T Greer, J Poulton, T Stone, S Tell
+Publication: Hot Chips 13
+
+372. Retrospective: the J-machine
+Citations:7
+Authors: WJ Dally, A Chien, S Fiske, W Horwat, R Lethin, M Noakes, P Nuth, ...
+Publication: 25 years of the international symposia on Computer architecture (selected …
+
+373. The subspace model: A theory of shapes for parallel systems
+Citations:7
+Authors: K Knobezy, WJ Dallyz
+Publication: 
+
+374. COSMOS: An operating system for a fine-grain concurrent computer
+Citations:7
+Authors: W Horwat, B Totty, WJ Dally
+Publication: Research directions in concurrent object-oriented programming, 452-476
+
+375. Concurrent computer architecture
+Citations:7
+Authors: WJ Dally
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+376. On the Performance of k-ary n-cube Interconnection Networks
+Citations:7
+Authors: WJ Dally
+Publication: California Institute of Technology
+
+377. System, method, and computer program product for executing casting-arithmetic instructions
+Citations:6
+Authors: WJ Dally
+Publication: US Patent 9,477,477
+
+378. Periodic synchronizer using a reduced timing margin to generate a speculative synchronized output signal that is either validated or recalled
+Citations:6
+Authors: WJ Dally, SG Tell
+Publication: US Patent 9,471,091
+
+379. Current-parking switching regulator with a split inductor
+Citations:6
+Authors: WJ Dally
+Publication: US Patent 9,395,738
+
+380. Circuit-based apparatuses and methods with probabilistic cache eviction or replacement
+Citations:6
+Authors: S Das, TM Aamodt, WJ Dally
+Publication: US Patent App. 14/837,922
+
+381. High-resolution phase detector
+Citations:6
+Authors: WJ Dally, SG Tell
+Publication: US Patent 9,164,134
+
+382. Control of a soft-switched variable frequency multi-phase regulator
+Citations:6
+Authors: WJ Dally
+Publication: US Patent App. 13/868,975
+
+383. Clamped bit line read circuit
+Citations:6
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 8,559,248
+
+384. A case of system-level hardware/software co-design and co-verification of a commodity multi-processor system with custom hardware
+Citations:6
+Authors: S Hong, T Oguntebi, J Casper, N Bronson, C Kozyrakis, K Olukotun
+Publication: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware …
+
+385. Instruction execution based on outstanding load operations
+Citations:6
+Authors: WJ Dally, JE Lindholm
+Publication: US Patent App. 13/242,562
+
+386. Guaranteeing forward progress of unified register allocation and instruction scheduling
+Citations:6
+Authors: J Park, WJ Dally
+Publication: Technical Report Concurrent VLSI Architecture Group Memo 127
+
+387. Signaling system with low-power automatic gain control
+Citations:6
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,782,138
+
+388. Efficient topologies for large-scale cluster networks
+Citations:6
+Authors: J Kim, WJ Dally, D Abts
+Publication: Optical Fiber Communication Conference, OMV1
+
+389. Memory and control organizations of stream processors
+Citations:6
+Authors: JH Ahn, WJ Dally
+Publication: Dissertation Abstracts International 68 (02)
+
+390. Future directions for on-chip interconnection networks
+Citations:6
+Authors: WJ Dally
+Publication: OCIN Workshop
+
+391. Media processing using streams
+Citations:6
+Authors: S Rixner, WJ Dally, UJ Kapasi, B Khailany, A Lopez-Lagunas, PR Mattson, ...
+Publication: Media Processors 1999 3655, 122-134
+
+392. A data-driven IDCT architecture for low power video applications
+Citations:6
+Authors: T Xanthopoulos, AP Chandrakasan, CG Sodini, WJ Dally
+Publication: ESSCIRC'96: Proceedings of the 22nd European Solid-State Circuits Conference …
+
+393. Logging and recovery in a highly concurrent database
+Citations:6
+Authors: JS Keen
+Publication: 
+
+394. How to Choose the Grain Size of a Parallel Computer
+Citations:6
+Authors: D Yeung, WJ Dally, A Agarwal
+Publication: MIT/LCS Technical Report, MIT-LCS-TR-739
+
+395. Subspace optimizations
+Citations:6
+Authors: K Knobe, WJ Dally
+Publication: Automatic Parallelization, 153-176
+
+396. MDP design tools and methods
+Citations:6
+Authors: RA Lethin, WJ Dally
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+397. The balanced cube: a concurrent data structure
+Citations:6
+Authors: WJ Dally, CL Seitz
+Publication: California Institute of Technology
+
+398. Route Packets
+Citations:6
+Authors: WJ Dally, B Towles
+Publication: Not Wires: On-Chip Interconnection Networks, 0-5
+
+399. Ground-referenced signaling for intra-chip and short-reach chip-to-chip interconnects
+Citations:5
+Authors: WJ Turner, JW Poulton, JM Wilson, X Chen, SG Tell, M Fojtik, TH Greer, ...
+Publication: 2018 IEEE Custom Integrated Circuits Conference (CICC), 1-8
+
+400. Multiphase current-parking switching regulator
+Citations:5
+Authors: WJ Dally
+Publication: US Patent 9,201,434
+
+401. Digital transmitter
+Citations:5
+Authors: WJ Dally
+Publication: US Patent 8,989,303
+
+402. Matrix phase detector
+Citations:5
+Authors: WJ Dally
+Publication: US Patent 8,866,511
+
+403. Throughput computing
+Citations:5
+Authors: W Dally
+Publication: Proceedings of the 24th ACM International Conference on Supercomputing, 2-2
+
+404. Maximizing the filter rate of L0 compiler-managed instruction stores by pinning
+Citations:5
+Authors: J Park, J Balfour, WJ Dally
+Publication: Stanford University, Tech. Rep. 126
+
+405. Method and apparatus for ensuring cell ordering in large capacity switching systems and for synchronizing the arrival time of cells to a switch fabric
+Citations:5
+Authors: M Braff, G Ramamurthy, WJ Dally
+Publication: US Patent 7,408,959
+
+406. Digital clock recovery circuit
+Citations:5
+Authors: W Dally, J Edmondson, R Farjad-Rad
+Publication: US Patent App. 11/879,689
+
+407. High-performance RISC-DSP
+Citations:5
+Authors: W Dally, W Hays, R Gelinas, S Katzman, S Rosen, S Ericsson
+Publication: US Patent App. 11/727,640
+
+408. Medical binocular stereomicroscope
+Citations:5
+Authors: N Kaneko, T Takase, K Matsutani
+Publication: US Patent 6,985,287
+
+409. Serial-link circuit including capacitive offset adjustment of a high-speed receiver
+Citations:5
+Authors: WJ Dally, MJ Lee
+Publication: US Patent 6,728,240
+
+410. Method of making a shaped plastic magnet
+Citations:5
+Authors: M Aizawa, A Ito, Y Naoi
+Publication: US Patent 6,696,097
+
+411. The M-Machine operating system
+Citations:5
+Authors: Y Gurevich
+Publication: Massachusetts Institute of Technology
+
+412. The design and implementation of an actor language based on linear logic
+Citations:5
+Authors: CSC Tse
+Publication: Massachusetts Institute of Technology
+
+413. Algorithms for accuracy enhancement in a hardware logic simulator
+Citations:5
+Authors: P Agrawal, R Tutundjian, W Dally
+Publication: Proceedings of the 26th ACM/IEEE Design Automation Conference, 645-648
+
+414. Message-Driven Processor Architecture Version 11
+Citations:5
+Authors: W Dally, A Chien, S Fiske, W Horwat, J Keen, P Nuth, J Larivee, B Totty
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB
+
+415. A fine-grain, message-passing processing node
+Citations:5
+Authors: WJ Dally
+Publication: Concurrent Computations, 375-389
+
+416. A high performance VLSI quaternary serial multiplier
+Citations:5
+Authors: WJ Dally
+Publication: Proc. ICCD-87, 649-653
+
+417. The MOSSIM Simulation Engine Architecture and Design
+Citations:5
+Authors: WJ Dally
+Publication: California Institute of Technology
+
+418. Dragonfly processor interconnect network
+Citations:4
+Authors: J Kim, DC Abts, SL Scott, WJ Dally
+Publication: US Patent 9,614,786
+
+419. Energy-based control of a switching regulator
+Citations:4
+Authors: WJ Dally
+Publication: US Patent 9,484,815
+
+420. System, method, and computer program product for automatic two-phase clocking
+Citations:4
+Authors: WJ Dally
+Publication: US Patent 8,930,862
+
+421. On-demand dynamic branch prediction
+Citations:4
+Authors: M Mohammadi, S Han, TM Aamodt, WJ Dally
+Publication: IEEE Computer Architecture Letters 14 (1), 50-53
+
+422. System and method for determining a time for safely sampling a signal of a clock domain
+Citations:4
+Authors: W Dally, SG Tell
+Publication: US Patent 8,428,207
+
+423. Method and apparatus for data recovery
+Citations:4
+Authors: WJ Dally
+Publication: US Patent 8,233,567
+
+424. Signaling system with low-power automatic gain control
+Citations:4
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 8,102,212
+
+425. Memory optimizations of embedded applications for energy efficiency
+Citations:4
+Authors: JS Park
+Publication: Stanford University
+
+426. Apparatus and computer program product in a processor for performing in-memory tracing using existing communication paths
+Citations:4
+Authors: M Ra'ed, AE Mericas, WJ Starke
+Publication: US Patent 7,844,860
+
+427. Signaling system with low-power automatic gain control
+Citations:4
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,495,513
+
+428. On-Chip Interconnection Networks Low-Power Interconnect
+Citations:4
+Authors: WJ Dally
+Publication: Special Session at ISLPED
+
+429. Interconnect-Centric Computing.
+Citations:4
+Authors: WJ Dally, H Keynote
+Publication: HPCA 7, 1
+
+430. Multi-Core for HPC: breakthrough or breakdown?
+Citations:4
+Authors: T Sterling, P Kogge, WJ Dally, S Scott, W Gropp, D Keyes, P Beckman
+Publication: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 73
+
+431. Data parallel address architecture
+Citations:4
+Authors: JH Ahn, WJ Dally
+Publication: IEEE Computer Architecture Letters 5 (1), 30-33
+
+432. Space-efficient source routing
+Citations:4
+Authors: WJ Dally, PA King, WF Mann, PP Carvey, LR Dennison
+Publication: US Patent 6,717,942
+
+433. A 20Gb/s 0.13 um CMOS Serial Link
+Citations:4
+Authors: P Chiang, WJ Dally, MJE Lee
+Publication: Proc. Hot Chips 2002, 14th Symp. High Performance Chips
+
+434. A Universal Parallel Computer Architecture.
+Citations:4
+Authors: WJ Dally
+Publication: FGCS, 746-758
+
+435. The J-Machine: A fine-grain parallel computer
+Citations:4
+Authors: WJ Dally, A Chien, R Davison, JAS Fiske, S Furman, G Fyler, DB Gaunce, ...
+Publication: Computing Systems in Engineering 3 (1-4), 7-15
+
+436. The Message-Driven Processor: A Multicomputer Processing Node with E cient Mechanisms
+Citations:4
+Authors: WJ Dally, R Davison, JAS Fiske, G Fyler, JS Keen, RA Lethin, M Noakes, ...
+Publication: 
+
+437. Parallel Processing, Architecture and Directions: Video Notes
+Citations:4
+Authors: WJ Dally
+Publication: IEEE Computer Society Press
+
+438. Mechanisms for Concurrent Computing
+Citations:4
+Authors: WJ Dally
+Publication: FGCS, 154-156
+
+439. Hardware-enabled artificial intelligence
+Citations:3
+Authors: WJ Dally, CT Gray, J Poulton, B Khailany, J Wilson, L Dennison
+Publication: 2018 IEEE Symposium on VLSI Circuits, 3-6
+
+440. Variable frequency soft-switching control of a buck converter
+Citations:3
+Authors: SS Kudva, WJ Dally, TH Greer III, CT Gray
+Publication: US Patent App. 15/080,461
+
+441. Darwin: A hardware-acceleration framework for genomic sequence alignment
+Citations:3
+Authors: Y Turakhia, KJ Zheng, G Bejerano, WJ Dally
+Publication: bioRxiv, 092171
+
+442. 8.6 A 6.5-to-23.3 fJ/b/mm balanced charge-recycling bus in 16nm FinFET CMOS at 1.7-to-2.6 Gb/s/wire with clock forwarding and low-crosstalk contraflow wiring.
+Citations:3
+Authors: JM Wilson, MR Fojtik, JW Poulton, X Chen, SG Tell, TH Greer, CT Gray, ...
+Publication: ISSCC, 156-157
+
+443. Data transfer bus communication to receive data by sending request instruction attached with identifier indicating processor and thread context identities
+Citations:3
+Authors: R Gelinas, WP Hays, S Katzman, WJ Dally
+Publication: US Patent 9,047,093
+
+444. Variation-tolerant periodic synchronizer
+Citations:3
+Authors: WJ Dally, SG Tell
+Publication: US Patent 8,760,204
+
+445. Redundancy for on-chip interconnect
+Citations:3
+Authors: R Palmer, JW Poulton, TH Greer III, WJ Dally
+Publication: US Patent 8,689,159
+
+446. Signaling system with low-power automatic gain control
+Citations:3
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 8,674,768
+
+447. Data exchange and communication between execution units in a parallel processor
+Citations:3
+Authors: B Khailany, WJ Dally, UJ Kapasi, JJ Lin
+Publication: US Patent 8,412,917
+
+448. Data exchange and communication between execution units in a parallel processor
+Citations:3
+Authors: B Khailany, WJ Dally, UJ Kapasi, JJ Lin
+Publication: US Patent 8,024,553
+
+449. Context switching processor with multiple context control register sets including write address register identifying destination register for waiting context to store returned …
+Citations:3
+Authors: R Gelinas, WP Hays, S Katzman, WJ Dally
+Publication: US Patent 7,529,915
+
+450. Low power, DC-balanced serial link transmitter
+Citations:3
+Authors: WJ Dally, JW Poulton
+Publication: US Patent 7,268,706
+
+451. Requirements for ASCI
+Citations:3
+Authors: R Schwitters
+Publication: MITRE CORP MCLEAN VA JASON PROGRAM OFFICE
+
+452. Spills, fills, and kills-an architecture for reducing register-memory traffic
+Citations:3
+Authors: M Erez, BP Towles, WJ Dally
+Publication: 
+
+453. Message-driven dynamics
+Citations:3
+Authors: RA Lethin
+Publication: Massachusetts Institute of Technology
+
+454. The subspace model: Shape-based compilation for parallel systems
+Citations:3
+Authors: KB Knobe
+Publication: Massachusetts Institute of Technology
+
+455. Mechanisms for parallel computers
+Citations:3
+Authors: WJ Dally, DS Wills, R Lethin
+Publication: Parallel Computing on Distributed Memory Multiprocessors, 3-25
+
+456. A Special purpose processor for switch-level simulation
+Citations:3
+Authors: WJ Dally, RE Bryant
+Publication: International Conference on Computer Aided Design
+
+457. Bandwidth-efficient deep learning
+Citations:2
+Authors: S Han, WJ Dally
+Publication: 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), 1-6
+
+458. Sparse convolutional neural network accelerator
+Citations:2
+Authors: WJ Dally, A Parashar, JS Emer, SW Keckler, LR Dennison
+Publication: US Patent App. 15/458,837
+
+459. Dragonfly processor interconnect network
+Citations:2
+Authors: J Kim, DC Abts, SL Scott, WJ Dally
+Publication: US Patent App. 15/435,952
+
+460. Atomic memory access hardware implementations
+Citations:2
+Authors: JH Ahn, M Erez, WJ Dally
+Publication: US Patent 8,959,292
+
+461. Digital transmitter
+Citations:2
+Authors: WJ Dally
+Publication: US Patent 8,923,433
+
+462. System and method for determining a time for safely sampling a signal of a clock domain
+Citations:2
+Authors: WJ Dally, SG Tell
+Publication: US Patent 8,879,681
+
+463. Dram with segmented page configuration
+Citations:2
+Authors: WJ Dally
+Publication: US Patent App. 13/761,996
+
+464. Configurable delay circuit
+Citations:2
+Authors: JW Poulton, R Palmer, WJ Dally
+Publication: US Patent App. 13/619,765
+
+465. Block-parallel programming for real-time embedded applications
+Citations:2
+Authors: D Black-Schaffer, WJ Dally
+Publication: 2010 39th International Conference on Parallel Processing, 297-306
+
+466. Stream Scheduling: A Framework to Manage Bulk Operations in a Memory Hierarchy
+Citations:2
+Authors: A Das, WJ Dally
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+467. Towards a Code Of Cyberethics
+Citations:2
+Authors: UR Averweg
+Publication: The Journal of Community Informatics 2 (2)
+
+468. DRAFT Final Report: Workshop on On-and Off-Chip Networks for Multi-Core Systems
+Citations:2
+Authors: W Dally
+Publication: Capturado em: http://www. ece. ucdavis. edu/~ ocin06 …
+
+469. Apparatus and methods for connecting modules using remote switching
+Citations:2
+Authors: PP Carvey, WJ Dally, LR Dennison
+Publication: US Patent 6,976,064
+
+470. セルオートマトンによる大規模相互結合網シミュレーションの試み
+Citations:2
+Authors: 横田隆史， 大津金光， 古川文人， 馬場敬信
+Publication: 電子情報通信学会技術研究報告. CPSY, コンピュータシステム 105 (453), 31-36
+
+471. A 33mW 8Gb/s CMOS clock multiplier and CDR for highly integrated I/Os
+Citations:2
+Authors: HT Ng, MJE Lee, R Farjad-Rad, R Senthinathan, WJ Dally, A Nguyen, ...
+Publication: Proceedings of the IEEE 2003 Custom Integrated Circuits Conference, 2003., 77-80
+
+472. Hot chips 12
+Citations:2
+Authors: WJ Dally, M Tremblay, AJ Baum
+Publication: IEEE Micro 21 (2), 13-15
+
+473. Power Sources for Ultra Low Power Electronics
+Citations:2
+Authors: R Westervelt
+Publication: MITRE CORP MCLEAN VA JASON PROGRAM OFFICE
+
+474. Small unit operations
+Citations:2
+Authors: N Fortson, W Dally, D Eardley, J Vesecky
+Publication: JASON Report JSR-97-140
+
+475. Advances in the M-Machine runtime system
+Citations:2
+Authors: AL Shultz
+Publication: Massachusetts Institute of Technology
+
+476. Architects Look to Processors of Future
+Citations:2
+Authors: G Bell, R Sites, W Dally, D Ditzel, Y Patt
+Publication: MICROPROCESSOR REPORT, MICRODESIGN RESOURCES 10 (10)
+
+477. Logic simulation algorithms for pipelined hardware architectures
+Citations:2
+Authors: P Agrawal, WJ Dally, R Tutundjian
+Publication: Hardware Accelerators for Electrical CAD, 90-99
+
+478. Darwin-WGA: A co-processor provides increased sensitivity in whole genome alignments with high speedup
+Citations:1
+Authors: Y Turakhia, SD Goenka, G Bejerano, WJ Dally
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+479. A 1.17-pJ/b, 25-Gb/s/pin Ground-Referenced Single-Ended Serial Link for Off-and On-Package Communication Using a Process-and Temperature-Adaptive Voltage Regulator
+Citations:1
+Authors: JW Poulton, JM Wilson, WJ Turner, B Zimmer, X Chen, SS Kudva, S Song, ...
+Publication: IEEE Journal of Solid-State Circuits 54 (1), 43-54
+
+480. CG-OoO: Energy-Efficient Coarse-Grain Out-of-Order Execution Near In-Order Energy with Near Out-of-Order Performance
+Citations:1
+Authors: M Mohammadi, TM Aamodt, WJ Dally
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 14 (4), 39
+
+481. Dram with segmented page configuration
+Citations:1
+Authors: WJ Dally
+Publication: US Patent App. 15/430,393
+
+482. Digital transmitter
+Citations:1
+Authors: WJ Dally
+Publication: US Patent 9,419,824
+
+483. Compressed pointers for cell structures
+Citations:1
+Authors: WJ Dally
+Publication: US Patent 9,323,774
+
+484. Current parking regulator for zero droop/overshoot load transient response
+Citations:1
+Authors: SS Kudva, WJ Dally, TH Greer, CT Gray
+Publication: 2016 IEEE Applied Power Electronics Conference and Exposition (APEC), 86-93
+
+485. Magnetic power coupling to an integrated circuit module
+Citations:1
+Authors: WJ Dally, TH Greer III, SS Kudva
+Publication: US Patent App. 14/815,853
+
+486. Ground-referenced single-ended memory interconnect
+Citations:1
+Authors: WJ Dally, JW Poulton, TH Greer III, BK Khailany, CT Gray
+Publication: US Patent 9,251,870
+
+487. Latch circuit with a bridging device
+Citations:1
+Authors: I Elkin, WJ Dally, JM Alben
+Publication: US Patent 9,077,329
+
+488. System and method for configuring a channel
+Citations:1
+Authors: SW Keckler, WJ Dally, SL Scott, BK Khailany, MA Parker
+Publication: US Patent 9,058,453
+
+489. Electric power conversion with assymetric phase response
+Citations:1
+Authors: WJ Dally
+Publication: US Patent App. 13/770,656
+
+490. Single-trigger low-energy flip-flop circuit
+Citations:1
+Authors: JM Alben, WJ Dally
+Publication: US Patent 8,786,345
+
+491. Author retrospective for design tradeoffs for tiled CMP on-chip networks
+Citations:1
+Authors: WJ Dally, J Balfour
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 77-79
+
+492. Dual-trigger low-energy flip-flop circuit
+Citations:1
+Authors: WJ Dally, JM Alben, JW Poulton, G Yang
+Publication: US Patent 8,604,855
+
+493. Circuit challenges for future computing systems
+Citations:1
+Authors: WJ Dally
+Publication: 2011 Symposium on VLSI Circuits-Digest of Technical Papers, 100-103
+
+494. System and method for re-ordering memory references for access to memory
+Citations:1
+Authors: WJ Dally, SW Rixner
+Publication: US Patent 7,707,384
+
+495. Opening session
+Citations:1
+Authors: I Session
+Publication: 
+
+496. Stream Processors
+Citations:1
+Authors: M Erez, WJ Dally
+Publication: Multicore Processors and Systems, 231-270
+
+497. Stream scheduling: a framework to manage bulk operations in memory hierarchies
+Citations:1
+Authors: A Das, WJ Dally
+Publication: European Conference on Parallel Processing, 337-349
+
+498. Agile multi-function arrays
+Citations:1
+Authors: E Williams, J Vesecky, K Pister, H Abarbanel, J Cornwall, W Dally, ...
+Publication: MITRE CORP MCLEAN VA JASON PROGRAM OFFICE
+
+499. The case for broader computer architecture education: keynote address
+Citations:1
+Authors: WJ Dally
+Publication: Proceedings of the 2004 workshop on Computer architecture education: held in …
+
+500. Router architecture
+Citations:1
+Authors: WJ Dally
+Publication: Principles and practices of interconnection network, 305-324
+

@@ -1,0 +1,1368 @@
+https://scholar.google.com/citations?hl=en&user=Z6nLCukAAAAJ
+Total Citations = 13587
+
+1. GraphChi: Large-Scale Graph Computation on Just a {PC}
+Citations:884
+Authors: A Kyrola, G Blelloch, C Guestrin
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+2. Vector models for data-parallel computing
+Citations:765
+Authors: GE Blelloch
+Publication: MIT press
+
+3. Scans as primitive parallel operations
+Citations:660
+Authors: GE Blelloch
+Publication: IEEE Transactions on computers 38 (11), 1526-1538
+
+4. Scans as primitive parallel operations
+Citations:660
+Authors: GE Blelloch
+Publication: Computers, IEEE Transactions on 38 (11), 1526-1538
+
+5. Algorithms and theory of computation handbook
+Citations:579
+Authors: MJ Atallah
+Publication: CRC press
+
+6. Prefix sums and their applications
+Citations:550
+Authors: GE Blelloch
+Publication: figshare
+
+7. Programming parallel algorithms
+Citations:520
+Authors: GE Blelloch
+Publication: Communications of the ACM 39 (3), 85-97
+
+8. Implementation of a portable nested data-parallel language
+Citations:483
+Authors: GE Blelloch, JC Hardwick, J Sipelstein, M Zagha, S Chatterjee
+Publication: Journal of parallel and distributed computing 21 (1), 4-14
+
+9. An experimental analysis of parallel sorting algorithms
+Citations:481
+Authors: GE Blelloch, CE Leiserson, BM Maggs, CG Plaxton, SJ Smith, M Zagha
+Publication: Theory of Computing Systems 31 (2), 135-167
+
+10. Ligra: a lightweight graph processing framework for shared memory
+Citations:421
+Authors: J Shun, GE Blelloch
+Publication: ACM Sigplan Notices 48 (8), 135-146
+
+11. NESL: a nested data parallel language
+Citations:345
+Authors: GE Blelloch
+Publication: School of Computer Science, Carnegie Mellon University
+
+12. The data locality of work stealing
+Citations:301
+Authors: UA Acar, GE Blelloch, RD Blumofe
+Publication: Proceedings of the twelfth annual ACM symposium on Parallel algorithms and …
+
+13. Introduction to data compression
+Citations:227
+Authors: GE Blelloch
+Publication: Computer Science Department, Carnegie Mellon University
+
+14. NESL: A nested data-parallel language.(version 3.1)
+Citations:226
+Authors: GE Blelloch
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+15. A parallel, real-time garbage collector
+Citations:210
+Authors: P Cheng, GE Blelloch
+Publication: ACM SIGPLAN Notices 36 (5), 125-136
+
+16. Scheduling threads for constructive cache sharing on CMPs
+Citations:209
+Authors: S Chen, PB Gibbons, M Kozuch, V Liaskovitis, A Ailamaki, GE Blelloch, ...
+Publication: Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …
+
+17. Adaptive functional programming
+Citations:205
+Authors: UA Acar, GE Blelloch, R Harper
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 28 (6), 990-1034
+
+18. Provably efficient scheduling for languages with fine-grained parallelism
+Citations:199
+Authors: GE Blelloch, PB Gibbons, Y Matias
+Publication: Journal of the ACM (JACM) 46 (2), 281-321
+
+19. Compiling collection-oriented languages onto massively parallel computers
+Citations:193
+Authors: GE Blelloch, GW Sabot
+Publication: Journal of parallel and distributed computing 8 (2), 119-134
+
+20. Methods and apparatus for scheduling parallel processors
+Citations:183
+Authors: GE Blelloch, PB Gibbons, Y Matias, GJ Narlikar
+Publication: US Patent 6,434,590
+
+21. A provable time and space efficient implementation of NESL
+Citations:170
+Authors: GE Blelloch, J Greiner
+Publication: ACM SIGPLAN Notices 31 (6), 213-225
+
+22. Compact representations of separable graphs
+Citations:153
+Authors: DK Blandford, GE Blelloch, IA Kash
+Publication: Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete …
+
+23. Radix sort for vector multiprocessors
+Citations:143
+Authors: M Zagha, GE Blelloch
+Publication: Conference on High Performance Networking and Computing: Proceedings of the …
+
+24. Index compression through document reordering
+Citations:142
+Authors: D Blandford, G Blelloch
+Publication: Proceedings DCC 2002. Data Compression Conference, 342-351
+
+25. Brief announcement: the problem based benchmark suite
+Citations:141
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons, A Kyrola, HV Simhadri, ...
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+26. Collection-oriented languages
+Citations:139
+Authors: JM Sipelstein, GE Blelloch
+Publication: Proceedings of the IEEE 79 (4), 504-523
+
+27. Computer science handbook
+Citations:138
+Authors: AB Tucker
+Publication: CRC press
+
+28. Scan primitives for vector computers
+Citations:138
+Authors: S Chatterjee, GE Blelloch, M Zagha
+Publication: Proceedings of the 1990 ACM/IEEE conference on Supercomputing, 666-675
+
+29. Self-adjusting computation
+Citations:132
+Authors: UA Acar, G Blelloch, R Harper
+Publication: School of Computer Science, Carnegie Mellon University
+
+30. Design and implementation of a practical parallel Delaunay algorithm
+Citations:124
+Authors: GE Blelloch, GL Miller, JC Hardwick, D Talmor
+Publication: Algorithmica 24 (3-4), 243-269
+
+31. Provably good multicore cache performance for divide-and-conquer algorithms
+Citations:122
+Authors: GE Blelloch, RA Chowdhury, PB Gibbons, V Ramachandran, S Chen, ...
+Publication: Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …
+
+32. An experimental analysis of self-adjusting computation
+Citations:118
+Authors: UA Acar, GE Blelloch, M Blume, R Harper, K Tangwongsan
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 32 (1), 3
+
+33. Algorithmic techniques for computer vision on a fine-grained parallel machine
+Citations:109
+Authors: JJ Little, GE Blelloch, TA Cass
+Publication: IEEE Transactions on Pattern Analysis and Machine Intelligence 11 (3), 244-257
+
+34. Segmented operations for sparse matrix computation on vector multiprocessors
+Citations:107
+Authors: GE Blelloch, MA Heroux, M Zagha
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+35. Methods and means for scheduling parallel processors
+Citations:106
+Authors: GE Blelloch, PB Gibbons, Y Matias
+Publication: US Patent 5,768,594
+
+36. Internally deterministic parallel algorithms can be fast
+Citations:103
+Authors: GE Blelloch, JT Fineman, PB Gibbons, J Shun
+Publication: ACM SIGPLAN Notices 47 (8), 181-192
+
+37. Selective memoization
+Citations:103
+Authors: UA Acar, GE Blelloch, R Harper
+Publication: ACM SIGPLAN Notices 38 (1), 14-25
+
+38. Space-efficient scheduling of nested parallelism
+Citations:100
+Authors: GJ Narlikar, GE Blelloch
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (1), 138-173
+
+39. Network Learning on the Connection Machine.
+Citations:100
+Authors: GE Blelloch, CR Rosenberg
+Publication: IJCAI 87, 323
+
+40. Effectively sharing a cache among threads
+Citations:99
+Authors: GE Blelloch, PB Gibbons
+Publication: Proceedings of the sixteenth annual ACM symposium on Parallelism in …
+
+41. Low depth cache-oblivious algorithms
+Citations:94
+Authors: GE Blelloch, PB Gibbons, HV Simhadri
+Publication: Proceedings of the twenty-second annual ACM symposium on Parallelism in …
+
+42. A practical comparison of N-body algorithms
+Citations:93
+Authors: G Blelloch, G Narlikar
+Publication: Parallel Algorithms: Third DIMACS Implementation Challenge, October 17-19 …
+
+43. Compact representations of simplicial meshes in two and three dimensions
+Citations:90
+Authors: DK Blandford, GE Blelloch, DE Cardoze, C Kadow
+Publication: International journal of computational geometry & applications 15 (01), 3-24
+
+44. VCODE: A data-parallel intermediate language
+Citations:88
+Authors: GE Blelloch, S Chatterjee
+Publication: [1990 Proceedings] The Third Symposium on the Frontiers of Massively …
+
+45. Dynamizing static algorithms, with applications to dynamic trees and history independence
+Citations:85
+Authors: UA Acar, GE Blelloch, R Harper, JL Vittes, SLM Woo
+Publication: Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …
+
+46. The Data on Diversity: It's not just about being fair
+Citations:81
+Authors: B Nelson
+Publication: 
+
+47. Fast set operations using treaps
+Citations:71
+Authors: GE Blelloch, M Reid-Miller
+Publication: SPAA 98, 16-26
+
+48. Parallelism in sequential functional languages
+Citations:71
+Authors: G Blelloch, J Greiner
+Publication: Proceedings of the seventh international conference on Functional …
+
+49. On bounding time and space for multiprocessor garbage collection
+Citations:67
+Authors: GE Blelloch, P Cheng
+Publication: ACM SIGPLAN Notices 34 (5), 104-117
+
+50. Smaller and faster: Parallel processing of compressed graphs with Ligra+
+Citations:64
+Authors: J Shun, L Dhulipala, GE Blelloch
+Publication: 2015 Data Compression Conference, 403-412
+
+51. Scheduling irregular parallel computations on hierarchical caches
+Citations:63
+Authors: GE Blelloch, JT Fineman, PB Gibbons, HV Simhadri
+Publication: Proceedings of the twenty-third annual ACM symposium on Parallelism in …
+
+52. Accounting for memory bank contention and delay in high-bandwidth multiprocessors
+Citations:61
+Authors: GE Blelloch, PB Gibbons, Y Matias, M Zagha
+Publication: IEEE Transactions on Parallel and Distributed Systems 8 (9), 943-958
+
+53. Space-efficient scheduling of parallelism with synchronization variables
+Citations:61
+Authors: GE Blelloch, PB Gibbons, Y Matias, GJ Narlikar
+Publication: Proceedings of the ninth annual ACM symposium on Parallel algorithms and …
+
+54. Developing a practical projection-based parallel Delaunay algorithm
+Citations:59
+Authors: GE Blelloch, GL Miller, D Talmor
+Publication: Symposium on Computational Geometry, 186-195
+
+55. Greedy sequential maximal independent set and matching are parallel on average
+Citations:58
+Authors: GE Blelloch, JT Fineman, J Shun
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+56. CIS: A massively concurrent rule-based system
+Citations:56
+Authors: GE Blelloch
+Publication: AAAI, 735-741
+
+57. Efficient BVH construction via approximate agglomerative clustering
+Citations:55
+Authors: Y Gu, Y He, K Fatahalian, G Blelloch
+Publication: Proceedings of the 5th High-Performance Graphics Conference, 81-88
+
+58. Scan primitives and parallel vector models
+Citations:51
+Authors: GE Blelloch
+Publication: Massachusetts Institute of Technology. Laboratory for Computer Science
+
+59. Parallel solutions to geometric problems on the scan model of computation
+Citations:51
+Authors: GE Blelloch, JJ Little
+Publication: 
+
+60. Pthreads for dynamic and irregular parallelism
+Citations:49
+Authors: GJ Narlikar, GE Blelloch
+Publication: SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 31-31
+
+61. An implementation of network learning on the connection machine
+Citations:49
+Authors: CR Rosenberg, G Blelloch
+Publication: connectionist Models and their implications, 329-340
+
+62. Linear-work greedy parallel approximate set cover and variants
+Citations:48
+Authors: GE Blelloch, R Peng, K Tangwongsan
+Publication: Proceedings of the twenty-third annual ACM symposium on Parallelism in …
+
+63. An experimental analysis of a compact graph representation
+Citations:48
+Authors: DK Blandford, GE Blelloch, IA Kash
+Publication: SIAM
+
+64. Pipelining with futures
+Citations:43
+Authors: GE Blelloch, M Reid-Miller
+Publication: Theory of Computing Systems 32 (3), 213-239
+
+65. Nearly-linear work parallel SDD solvers, low-diameter decomposition, and low-stretch subgraphs
+Citations:42
+Authors: GE Blelloch, A Gupta, I Koutis, GL Miller, R Peng, K Tangwongsan
+Publication: Theory of Computing Systems 55 (3), 521-554
+
+66. Compact representations of ordered sets
+Citations:42
+Authors: DK Blandford, GE Blelloch
+Publication: Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …
+
+67. Size and access inference for data-parallel programs
+Citations:40
+Authors: S Chatterjee, GE Blelloch, AL Fisher
+Publication: figshare
+
+68. Strongly history-independent hashing with applications
+Citations:40
+Authors: GE Blelloch, D Golovin
+Publication: 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07), 272-282
+
+69. A library for self-adjusting computation
+Citations:40
+Authors: U Acar, G Blelloch, M Blume, R Harper, K Tangwongsan
+Publication: Electronic Notes in Theoretical Computer Science 148 (2), 127-154
+
+70. A provably time-efficient parallel implementation of full speculation
+Citations:40
+Authors: J Greiner, GE Blelloch
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (2), 240-285
+
+71. Space profiling for parallel functional programs
+Citations:38
+Authors: D Spoonhower, GE Blelloch, R Harper, PB Gibbons
+Publication: ACM Sigplan Notices 43 (9), 253-264
+
+72. Space-efficient dynamic orthogonal point location, segment intersection, and range reporting
+Citations:37
+Authors: GE Blelloch
+Publication: Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …
+
+73. Engineering a compact parallel Delaunay algorithm in 3D
+Citations:36
+Authors: DK Blandford, GE Blelloch, C Kadow
+Publication: Proceedings of the twenty-second annual symposium on Computational geometry …
+
+74. A parallel dynamic-mesh lagrangian method for simulation of flows with dynamic interfaces
+Citations:36
+Authors: NJ Walkington, JF Antaki, GE Blelloch, O Ghattas, I Melcevic, GL Miller
+Publication: Proceedings of the 2000 ACM/IEEE Conference on Supercomputing, 26
+
+75. An experimental analysis of change propagation in dynamic trees
+Citations:36
+Authors: UA Acar, GE Blelloch, JL Vittes
+Publication: figshare
+
+76. Beyond nested parallelism: tight bounds on work-stealing overheads for parallel futures
+Citations:34
+Authors: D Spoonhower, GE Blelloch, PB Gibbons, R Harper
+Publication: Proceedings of the twenty-first annual symposium on Parallelism in …
+
+77. Robust kinetic convex hulls in 3D
+Citations:34
+Authors: UA Acar, GE Blelloch, K Tangwongsan, D Türkoğlu
+Publication: European Symposium on Algorithms, 29-40
+
+78. Traceable data types for self-adjusting computation
+Citations:33
+Authors: UA Acar, G Blelloch, R Ley-Wild, K Tangwongsan, D Turkoglu
+Publication: ACM Sigplan Notices 45 (6), 483-496
+
+79. A simple and practical linear-work parallel algorithm for connectivity
+Citations:31
+Authors: J Shun, L Dhulipala, G Blelloch
+Publication: Proceedings of the 26th ACM symposium on Parallelism in algorithms and …
+
+80. Parallel and i/o efficient set covering algorithms
+Citations:29
+Authors: GE Blelloch, HV Simhadri, K Tangwongsan
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+81. Scalable room synchronizations
+Citations:29
+Authors: GE Blelloch, P Cheng, PB Gibbons
+Publication: Theory of computing systems 36 (5), 397-430
+
+82. Solving linear recurrences with loop raking
+Citations:29
+Authors: GE Blelloch, S Chatterjee, M Zagha
+Publication: Proceedings Sixth International Parallel Processing Symposium, 416-424
+
+83. Cache and I/O efficent functional algorithms
+Citations:28
+Authors: GE Blelloch, R Harper
+Publication: ACM SIGPLAN Notices 48 (1), 39-50
+
+84. Kinetic algorithms via self-adjusting computation
+Citations:28
+Authors: UA Acar, GE Blelloch, K Tangwongsan, JL Vittes
+Publication: European Symposium on Algorithms, 636-647
+
+85. Parallel lightweight wavelet tree, suffix array and FM-index construction
+Citations:27
+Authors: J Labeit, J Shun, GE Blelloch
+Publication: Journal of Discrete Algorithms 43, 2-17
+
+86. Sorting with asymmetric read and write costs
+Citations:27
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+87. Fixed parameter tractability of binary near-perfect phylogenetic tree reconstruction
+Citations:26
+Authors: GE Blelloch, K Dhamdhere, E Halperin, R Ravi, R Schwartz, S Sridhar
+Publication: International Colloquium on Automata, Languages, and Programming, 667-678
+
+88. Parallel algorithms
+Citations:26
+Authors: GE Blelloch, BM Maggs
+Publication: ACM Computing Surveys (CSUR) 28 (1), 51-54
+
+89. A simple parallel cartesian tree algorithm and its application to parallel suffix tree construction
+Citations:25
+Authors: J Shun, GE Blelloch
+Publication: ACM Transactions on Parallel Computing (TOPC) 1 (1), 8
+
+90. Phase-concurrent hash tables for determinism
+Citations:25
+Authors: J Shun, GE Blelloch
+Publication: Proceedings of the 26th ACM symposium on Parallelism in algorithms and …
+
+91. Parallel algorithms for asymmetric read-write costs
+Citations:24
+Authors: N Ben-David, GE Blelloch, JT Fineman, PB Gibbons, Y Gu, C McGuffey, ...
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+92. Parallel approximation algorithms for facility-location problems
+Citations:24
+Authors: GE Blelloch, K Tangwongsan
+Publication: Proceedings of the twenty-second annual ACM symposium on Parallelism in …
+
+93. Parallel algorithms
+Citations:24
+Authors: GE Blelloch, BM Maggs
+Publication: Algorithms and theory of computation handbook, 25-25
+
+94. Parallel algorithms
+Citations:24
+Authors: GE Blelloch, BM Maggs
+Publication: Algorithms and theory of computation handbook, 25-25
+
+95. Compact dictionaries for variable-length keys and data with applications
+Citations:24
+Authors: DK Blandford, GE Blelloch
+Publication: ACM Transactions on Algorithms (TALG) 4 (2), 17
+
+96. Mixed integer linear programming for maximum-parsimony phylogeny inference
+Citations:24
+Authors: S Sridhar, F Lam, GE Blelloch, R Ravi, R Schwartz
+Publication: IEEE/ACM Transactions on Computational Biology and Bioinformatics 5 (3), 323-331
+
+97. Reducing contention through priority updates
+Citations:23
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Proceedings of the twenty-fifth annual ACM symposium on Parallelism in …
+
+98. A new combinatorial approach for sparse graph problems
+Citations:23
+Authors: GE Blelloch, V Vassilevska, R Williams
+Publication: International Colloquium on Automata, Languages, and Programming, 108-120
+
+99. Efficiently finding the most parsimonious phylogenetic tree via linear programming
+Citations:23
+Authors: S Sridhar, F Lam, GE Blelloch, R Ravi, R Schwartz
+Publication: International Symposium on Bioinformatics Research and Applications, 37-48
+
+100. Automatic generation of staged geometric predicates
+Citations:23
+Authors: A Nanevski, G Blelloch, R Harper
+Publication: ACM SIGPLAN Notices 36 (10), 217-228
+
+101. Space-efficient finger search on degree-balanced search trees
+Citations:22
+Authors: GE Blelloch, BM Maggs, SLM Woo
+Publication: Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete …
+
+102. Scalable real-time parallel garbage collection for symmetric multiprocessors
+Citations:21
+Authors: P Cheng
+Publication: PhD thesis, Carnegie Mellon University
+
+103. Just join for parallel ordered sets
+Citations:20
+Authors: GE Blelloch, D Ferizovic, Y Sun
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+104. Efficient algorithms with asymmetric read and write costs
+Citations:20
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: arXiv preprint arXiv:1511.01038
+
+105. Succinct representations of separable graphs
+Citations:20
+Authors: GE Blelloch, A Farzan
+Publication: Annual Symposium on Combinatorial Pattern Matching, 138-150
+
+106. Algorithms for efficient near-perfect phylogenetic tree reconstruction in theory and practice
+Citations:20
+Authors: S Sridhar, K Dhamdhere, G Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: IEEE/ACM transactions on computational biology and bioinformatics 4 (4), 561-571
+
+107. Automated parallel solution of unstructured PDE problems
+Citations:20
+Authors: GE Blelloch, A Feldmann, O Ghattas, JR Gilbert, GL Miller, DR O'Hallaron, ...
+Publication: Communications of the ACM
+
+108. Scheduling Deterministic Parallel Programs
+Citations:19
+Authors: D Spoonhower, GE Blelloch, R Harper
+Publication: PhD thesis, Carnegie Mellon University
+
+109. Four vector-matrix primitives
+Citations:19
+Authors: A Agrawal, GE Blelloch, RL Krawitz, CA Phillips
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER
+
+110. Direct maximum parsimony phylogeny reconstruction from genotype data
+Citations:18
+Authors: S Sridhar, F Lam, GE Blelloch, R Ravi, R Schwartz
+Publication: BMC bioinformatics 8 (1), 472
+
+111. Algorithms in the Real World: Lecture Notes (Fall 1997)
+Citations:18
+Authors: G Blelloch
+Publication: Lecture Notes, UC Berkeley
+
+112. NetMine: New mining tools for large graphs
+Citations:17
+Authors: D Chakrabarti, Y Zhan, D Blandford, C Faloutsos, G Blelloch
+Publication: 
+
+113. Julienne: A framework for parallel graph algorithms using work-efficient bucketing
+Citations:16
+Authors: L Dhulipala, G Blelloch, J Shun
+Publication: Proceedings of the 29th ACM Symposium on Parallelism in Algorithms and …
+
+114. Experimental analysis of space-bounded schedulers
+Citations:16
+Authors: HV Simhadri, GE Blelloch, JT Fineman, PB Gibbons, A Kyrola
+Publication: ACM Transactions on Parallel Computing (TOPC) 3 (1), 8
+
+115. Optimal imperfect phylogeny reconstruction and haplotyping (IPPH)
+Citations:15
+Authors: S Sridhar, GE Blelloch, R Ravi, R Schwartz
+Publication: Computational Systems Bioinformatics, 199-210
+
+116. A separator-based framework for automated partitioning and mapping of parallel algorithms for numerical solution of PDEs
+Citations:15
+Authors: EJ Schwabe, GE Blelloch, A Feldmann, O Ghattas, JR Gilbert, GL Miller, ...
+Publication: Proceedings of the 1992 DAGS/PC Symposium, 48-62
+
+117. Parallel prefix vs. concurrent memory access
+Citations:15
+Authors: G Blelloch
+Publication: 
+
+118. Sequential random permutation, list contraction and tree contraction are highly parallel
+Citations:14
+Authors: J Shun, Y Gu, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …
+
+119. Hierarchical diagonal blocking and precision reduction applied to combinatorial multigrid
+Citations:14
+Authors: GE Blelloch, I Koutis, GL Miller, K Tangwongsan
+Publication: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+120. Combinable memory-block transactions
+Citations:14
+Authors: GE Blelloch, PB Gibbons, SH Vardhan
+Publication: Proceedings of the twentieth annual symposium on Parallelism in algorithms …
+
+121. Simple reconstruction of binary near-perfect phylogenetic trees
+Citations:14
+Authors: S Sridhar, K Dhamdhere, GE Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: International Conference on Computational Science, 799-806
+
+122. Afl-1: A programming language for massively concurrent computers
+Citations:14
+Authors: G Blelloch
+Publication: 
+
+123. Hierarchical memory management for parallel programs
+Citations:13
+Authors: R Raghunathan, SK Muller, UA Acar, G Blelloch
+Publication: ACM SIGPLAN Notices 51 (9), 392-406
+
+124. Parallelism in randomized incremental algorithms
+Citations:13
+Authors: GE Blelloch, Y Gu, J Shun, Y Sun
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+125. A top-down parallel semisort
+Citations:13
+Authors: Y Gu, J Shun, Y Sun, GE Blelloch
+Publication: Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …
+
+126. Using page residency to balance tradeoffs in tracing garbage collection
+Citations:13
+Authors: D Spoonhower, G Blelloch, R Harper
+Publication: Proceedings of the 1st ACM/USENIX international conference on Virtual …
+
+127. VCODE reference manual (version 1.1)
+Citations:13
+Authors: GE Blelloch, S Chatterjee, F Knabe, J Sipelstein, M Zagha
+Publication: Carnegie-Mellon University. Department of Computer Science
+
+128. Theoretically efficient parallel graph algorithms can be fast and scalable
+Citations:12
+Authors: L Dhulipala, GE Blelloch, J Shun
+Publication: arXiv preprint arXiv:1805.05208
+
+129. Space profiling for parallel functional programs
+Citations:12
+Authors: D Spoonhower, GE Blelloch, R Harper, PB Gibbons
+Publication: Journal of Functional Programming 20 (5-6), 417-461
+
+130. Persistent triangulations
+Citations:12
+Authors: G Blelloch, H Burch, K Crary, R Harper, G Miller, N Walkington
+Publication: Journal of Functional Programming 11 (5), 441-466
+
+131. How to program the Connection Machine for computer vision
+Citations:12
+Authors: JJ Little, G Blelloch, T Cass
+Publication: Workshop on Computer Architecture for Pattern Analysis and Machine …
+
+132. Parallel shortest paths using radius stepping
+Citations:11
+Authors: GE Blelloch, Y Gu, Y Sun, K Tangwongsan
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+133. Parallel probabilistic tree embeddings, k-median, and buy-at-bulk network design
+Citations:11
+Authors: GE Blelloch, A Gupta, K Tangwongsan
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+134. A Parallel Complexity Model for Functional Languages.
+Citations:11
+Authors: G Belloch, J Greiner
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+135. Class notes: Programming parallel algorithms cs 15-840b (fall 1992)
+Citations:11
+Authors: GE Blelloch, JC Hardwick
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+136. PAM: parallel augmented maps
+Citations:10
+Authors: Y Sun, D Ferizovic, GE Belloch
+Publication: ACM SIGPLAN Notices 53 (1), 290-304
+
+137. Parallel algorithms
+Citations:10
+Authors: GE Blelloch, BM Maggs
+Publication: Algorithms and Theory of Computation Handbook, 1203-1246
+
+138. The hidden cost of low bandwidth communication
+Citations:10
+Authors: GE Blelloch, BM Maggs, GL Miller
+Publication: Developing a computer science agenda for high-performance computing, 22-25
+
+139. Implicit decomposition for write-efficient connectivity algorithms
+Citations:9
+Authors: N Ben-David, G Blelloch, J Fineman, P Gibbons, Y Gu, C McGuffey, ...
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+140. Nesl
+Citations:9
+Authors: G Blelloch
+Publication: Encyclopedia of Parallel Computing, 1278-1283
+
+141. Non-oblivious retroactive data structures
+Citations:9
+Authors: UA Acar, GE Blelloch, K Tangwongsan
+Publication: Technical report, Carnegie Mellon University
+
+142. Adaptive memoization
+Citations:9
+Authors: U Acar, GE Blelloch, R Harper
+Publication: figshare
+
+143. A framework for space and time efficient scheduling of parallelism
+Citations:9
+Authors: GJ Narlikar, GE Blelloch
+Publication: Carnegie-Mellon University. Department of Computer Science
+
+144. NESL User's Manual (for NESL Version 3.1).
+Citations:9
+Authors: GE Blelloch, J Sipelstein, JC Hardwick, M Zagha
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+145. Efficient construction of probabilistic tree embeddings
+Citations:8
+Authors: GE Blelloch, Y Gu, Y Sun
+Publication: arXiv preprint arXiv:1605.04651
+
+146. Parallel thinking.
+Citations:8
+Authors: GE Blelloch
+Publication: PPOPP, 1-2
+
+147. The parallel persistent memory model
+Citations:7
+Authors: GE Blelloch, PB Gibbons, Y Gu, C McGuffey, J Shun
+Publication: arXiv preprint arXiv:1805.05580
+
+148. Non-monotonic self-adjusting computation
+Citations:7
+Authors: R Ley-Wild, UA Acar, G Blelloch
+Publication: European Symposium on Programming, 476-496
+
+149. Parallel write-efficient algorithms and data structures for computational geometry
+Citations:6
+Authors: GE Blelloch, Y Gu, J Shun, Y Sun
+Publication: Proceedings of the 30th on Symposium on Parallelism in Algorithms and …
+
+150. Analyzing contention and backoff in asynchronous shared memory
+Citations:6
+Authors: N Ben-David, GE Blelloch
+Publication: Proceedings of the ACM Symposium on Principles of Distributed Computing, 53-62
+
+151. A consensus tree approach for reconstructing human evolutionary history and detecting population substructure
+Citations:6
+Authors: MC Tsai, GE Blelloch, R Ravi, R Schwartz
+Publication: IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) 8 …
+
+152. Generalized Buneman pruning for inferring the most parsimonious multi-state phylogeny
+Citations:6
+Authors: N Misra, G Blelloch, R Ravi, R Schwartz
+Publication: Journal of computational biology 18 (3), 445-457
+
+153. Parallel depth first vs. work stealing schedulers on CMP architectures
+Citations:6
+Authors: V Liaskovitis, S Chen, PB Gibbons, A Ailamaki, GE Blelloch, B Falsafi, ...
+Publication: Proceedings of the eighteenth annual ACM symposium on Parallelism in …
+
+154. Ray specialized contraction on bounding volume hierarchies
+Citations:5
+Authors: Y Gu, Y He, GE Blelloch
+Publication: Computer Graphics Forum 34 (7), 309-318
+
+155. Program-centric cost models for locality
+Citations:5
+Authors: GE Blelloch, J Fineman, PB Gibbons, HV Simhadri
+Publication: Proceedings of the ACM SIGPLAN Workshop on Memory Systems Performance and …
+
+156. Brief announcement: Low depth cache-oblivious sorting
+Citations:5
+Authors: GE Blelloch, PB Gibbons, HV Simhadri
+Publication: Proceedings of the twenty-first annual symposium on Parallelism in …
+
+157. Uniquely represented data structures for computational geometry
+Citations:5
+Authors: GE Blelloch, D Golovin, V Vassilevska
+Publication: Scandinavian Workshop on Algorithm Theory, 17-28
+
+158. NetMine: mining tools for large graphs
+Citations:5
+Authors: D Chakrabarti, Y Zhan, D Blandford, C Faloutsos, G Blelloch
+Publication: Cybenko and Srivastava [41]
+
+159. Algorithm design and analysis techniques
+Citations:5
+Authors: EM Reingold
+Publication: Algorithms and theory of computation handbook, 9-35
+
+160. An implementation of network learning on the Connection Machine, Connectionist models and their implications: readings from cognitive science
+Citations:5
+Authors: CR Rosenberg, G Blelloch
+Publication: Ablex Publishing Corp., Norwood, NJ
+
+161. Algorithmic building blocks for asymmetric memories
+Citations:4
+Authors: Y Gu, Y Sun, GE Blelloch
+Publication: arXiv preprint arXiv:1806.10370
+
+162. Optimally scheduling jobs with multiple tasks
+Citations:4
+Authors: Z Scully, G Blelloch, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 45 (2), 36-38
+
+163. Parallel ordered sets using join
+Citations:4
+Authors: G Blelloch, D Ferizovic, Y Sun
+Publication: arXiv preprint arXiv:1602.02120
+
+164. Efficient implementation of a synchronous parallel push-relabel algorithm
+Citations:4
+Authors: N Baumstark, G Blelloch, J Shun
+Publication: Algorithms-ESA 2015, 106-117
+
+165. Coupling memory and computation for locality management
+Citations:4
+Authors: UA Acar, G Blelloch, M Fluet, SK Muller, R Raghunathan
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+166. Functional parallel algorithms.
+Citations:4
+Authors: GE Blelloch
+Publication: ICFP 10, 247-248
+
+167. Kinetic 3D convex hulls via self-adjusting computation
+Citations:4
+Authors: UA Acar, GE Blelloch, K Tangwongsan
+Publication: Proceedings of the twenty-third annual symposium on Computational geometry …
+
+168. Kinetic 3d convex hulls via self-adjusting computation (an illustration)
+Citations:4
+Authors: UA Acar, GE Blelloch, K Tangwongsan
+Publication: Proceedings of the 23rd ACM Symposium on Computational Geometry (SCG)
+
+169. FPT algorithms for binary near-perfect phylogenetic trees
+Citations:4
+Authors: S Sridhar, K Dhamdhere, GE Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: Computer Science Department, Carnegie Mellon University. Technical Report …
+
+170. Separating structure from data in dynamic trees
+Citations:4
+Authors: UA Acar, GE Blelloch, JL Vittes
+Publication: Technical Report CMU-CS-03-189, Department of Computer Science, Carnegie …
+
+171. Pthreads for dynamic parallelism
+Citations:4
+Authors: GJ Narlikar, GE Blelloch
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+172. CVL: AC Vector Library Manual, Version 2
+Citations:4
+Authors: GE Blelloch, JC Hardwick, J Sipelstein, S Chatterjee, M Reid-Miller, ...
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+173. CVL: A C vector library manual. Version 2
+Citations:4
+Authors: G BLELLOCH, J HARDWICK, JAY SIPELSTEIN, S CHATTERJEE, ...
+Publication: 
+
+174. Vector Models for Data-Parallel Computing (Artificial Intelligence)
+Citations:4
+Authors: GE Blelloch
+Publication: The MIT Press
+
+175. Delay-Free Concurrency on Faulty Persistent Memory
+Citations:3
+Authors: N Ben-David, GE Blelloch, M Friedman, Y Wei
+Publication: The 31st ACM on Symposium on Parallelism in Algorithms and Architectures …
+
+176. Efficient single writer concurrency
+Citations:3
+Authors: N Ben-David, GE Blelloch, Y Sun, Y Wei
+Publication: arXiv preprint arXiv:1803.08617
+
+177. Some Sequential Algorithms are Almost Always Parallel.
+Citations:3
+Authors: GE Blelloch
+Publication: PODC, 1
+
+178. Parallel functional arrays
+Citations:3
+Authors: A Kumar, GE Blelloch, R Harper
+Publication: ACM SIGPLAN Notices 52 (1), 706-718
+
+179. Efficient algorithms under asymmetric read and write costs
+Citations:3
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: arXiv preprint arXiv:1511.01038 1 (3.3)
+
+180. Beyond synchronous: new techniques for external-memory graph connectivity and minimum spanning forest
+Citations:3
+Authors: A Kyrola, J Shun, G Blelloch
+Publication: International Symposium on Experimental Algorithms, 123-137
+
+181. Selective memoization
+Citations:3
+Authors: UA Acar, GE Blelloch, R Harper
+Publication: arXiv preprint arXiv:1106.0447
+
+182. Generalized buneman pruning for inferring the most parsimonious multi-state phylogeny
+Citations:3
+Authors: N Misra, G Blelloch, R Ravi, R Schwartz
+Publication: Annual International Conference on Research in Computational Molecular …
+
+183. Algorithms in the real world
+Citations:3
+Authors: G Blelloch, B Maggs
+Publication: Avaiable at: http://www. cs. cmu. edu/afs/cs/project/pscicoguyb/realworld …
+
+184. Multiversion Concurrency with Bounded Delay and Precise Garbage Collection
+Citations:2
+Authors: N Ben-David, GE Blelloch, Y Sun, Y Wei
+Publication: The 31st ACM on Symposium on Parallelism in Algorithms and Architectures …
+
+185. Batch-parallel Euler tour trees
+Citations:2
+Authors: T Tseng, L Dhulipala, G Blelloch
+Publication: 2019 Proceedings of the Twenty-First Workshop on Algorithm Engineering and …
+
+186. Coalescent-based method for learning parameters of admixture events from large-scale genetic variation data
+Citations:2
+Authors: MC Tsai, GE Blelloch, R Ravi, R Schwartz
+Publication: IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) 10 …
+
+187. Priority update as a parallel primitive
+Citations:2
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: Technical Report CMU-CS-13-101
+
+188. An optimization-based sampling scheme for phylogenetic trees
+Citations:2
+Authors: N Misra, G Blelloch, R Ravi, R Schwartz
+Publication: International Conference on Research in Computational Molecular Biology, 252-266
+
+189. A consensus tree approach for reconstructing human evolutionary history and detecting population substructure
+Citations:2
+Authors: MC Tsai, G Blelloch, R Ravi, R Schwartz
+Publication: International Symposium on Bioinformatics Research and Applications, 167-178
+
+190. A Performance Comparison of Interval Arithmetic and Error Analysis for Geometric Predicates
+Citations:2
+Authors: SA Seshia, GE Blelloch, R Harper
+Publication: figshare
+
+191. Introduction to Cryptography
+Citations:2
+Authors: GE Blelloch
+Publication: Available: www-2. cs. cmu. edu/afs/cs/project/pscicoguyb/realworld/crypto. ps
+
+192. Self-adjusting programming
+Citations:2
+Authors: UA Acar, GE Blelloch, M Blume, R Harper
+Publication: figshare
+
+193. Provably E cient Scheduling for Languages with Fine-Grained Parallelism
+Citations:2
+Authors: GE Blelloch, PB Gibbons, Y Matias
+Publication: Proceedings of the 7th ACM Symposium on Parallel Algorithms and …
+
+194. Parallel batch-dynamic graph connectivity
+Citations:1
+Authors: UA Acar, D Anderson, GE Blelloch, L Dhulipala
+Publication: The 31st ACM on Symposium on Parallelism in Algorithms and Architectures …
+
+195. Optimal Parallel Algorithms in the Binary-Forking Model
+Citations:1
+Authors: GE Blelloch, JT Fineman, Y Gu, Y Sun
+Publication: arXiv preprint arXiv:1903.04650
+
+196. Parallel Range, Segment and Rectangle Queries with Augmented Maps
+Citations:1
+Authors: Y Sun, GE Blelloch
+Publication: 2019 Proceedings of the Twenty-First Workshop on Algorithm Engineering and …
+
+197. Reducing contention through priority updates (poster paper)
+Citations:1
+Authors: J Shun, GE Blelloch, JT Fineman, PB Gibbons
+Publication: PPoPP
+
+198. Efficient Scheduling for Parallel Memory Hierarchies
+Citations:1
+Authors: GE Blelloch, JT Fineman, PB Gibbons, HV Simhadri
+Publication: School of Computer Science, Carnegie Mellon
+
+199. Multiscale Scheduling: Integrating Competitive and Cooperative Scheduling in Theory and in Practice
+Citations:1
+Authors: GE Blelloch, L Blum, M Harchol-Balter, R Harper
+Publication: 
+
+200. A Semantic Framework for Scheduling Parallel Programs
+Citations:1
+Authors: D Spoonhower, GE Blelloch, R Harper
+Publication: 
+
+201. Strongly History Independent Hashing with Deletion
+Citations:1
+Authors: GE Blelloch, D Golovin
+Publication: CMU-CS-06
+
+202. Evaluation of the haplotype motif model using the principle of minimum description
+Citations:1
+Authors: S Sridhar, K Dhamdhere, GE Blelloch, R Ravi, R Schwartz
+Publication: cmu computer science technical report cmu-cs-04-166, Carnegie Mellon …
+
+203. On bounding time and space for multiprocessor garbage collection
+Citations:1
+Authors: GE Blelloch, P Cheng
+Publication: ACM SIGPLAN Notices 39 (4), 626-641
+
+204. Connected components algorithms
+Citations:1
+Authors: J Greiner, GE Blelloch
+Publication: High performance computing, 155-184
+
+205. Specification of Parallel Algorithms: DIMACS Workshop, May 9-11, 1994
+Citations:1
+Authors: GE Blelloch, KM Chandy, S Jagannathan
+Publication: American Mathematical Soc.
+
+206. Itr/acs: Simulation of flows with dynamic interfaces on multi-teraflop computers
+Citations:1
+Authors: GE Blelloch, O Ghattas, GL Miller, NJ Walkington, JF Antaki, BP Griffith, ...
+Publication: Sangria Project Proposal http://www-2. cs. cmu. edu/sangria
+
+207. Low-latency graph streaming using compressed purely-functional trees
+Citations:
+Authors: L Dhulipala, GE Blelloch, J Shun
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+208. Implementing parallel and concurrent tree structures
+Citations:
+Authors: Y Sun, G Blelloch
+Publication: Proceedings of the 24th Symposium on Principles and Practice of Parallel …
+
+209. Making concurrent algorithms detectable: poster
+Citations:
+Authors: N Ben-David, GE Blelloch, M Friedman, Y Wei
+Publication: Proceedings of the 24th Symposium on Principles and Practice of Parallel …
+
+210. POSTER: Making Concurrent Algorithms Detectable
+Citations:
+Authors: N Ben-David, GE Blelloch, M Friedman, Y Wei
+Publication: 
+
+211. Introduction to Parallel Algorithms 15-853: Algorithms in the Real World (DRAFT)
+Citations:
+Authors: GE Blelloch, L Dhulipala
+Publication: 
+
+212. Provably Efficient Scheduling of Dynamically Allocating Programs on Parallel Cache Hierarchies
+Citations:
+Authors: GE Blelloch, PB Gibbons, HV Simhadri
+Publication: 2017 IEEE 24th International Conference on High Performance Computing (HiPC …
+
+213. Technical Perspective: Functional compilers
+Citations:
+Authors: G Blelloch
+Publication: Communications of the ACM 60 (5), 82-82
+
+214. λ-Calculus: The Other Turing Machine
+Citations:
+Authors: GE Blelloch, R Harper
+Publication: 
+
+215. Topic 12: Theory and Algorithms for Parallel Computation
+Citations:
+Authors: GF Italiano, H Meyerhenke, G Blelloch, P Tsigas
+Publication: European Conference on Parallel Processing, 645-646
+
+216. Introduction to special issue ALENEX'10
+Citations:
+Authors: G Blelloch, D Halperin
+Publication: Journal of Experimental Algorithmics (JEA) 17, 2.1
+
+217. 2011 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 8
+Citations:
+Authors: C Abdul-Wahid, S Abdul-Wahid, A Aberer, L Acharya, A Agrawal, ...
+Publication: IEEE/ACM Transactions on Computational Biology and Bioinformatics 8 (6), 1
+
+218. 2010 Proceedings of the Twelfth Workshop on Algorithm Engineering and Experiments (ALENEX)
+Citations:
+Authors: G Blelloch, D Halperin
+Publication: Society for Industrial and Applied Mathematics
+
+219. Article 3 (53 pages) An Experimental Analysis of Self-Adjusting Computation
+Citations:
+Authors: UA Acar, GE Blelloch, M Blume, R Harper, K Tangwongsan
+Publication: ACM Transactions on Programming Languages and Systems-TOPLAS 32 (1)
+
+220. An experimental analysis of Self-Adjusting Computation
+Citations:
+Authors: A Umut, GE Blelloch, M Blume, R Harper, K Tangwongsan
+Publication: ACM transactions on programming languages and systems 32 (1), 92-145
+
+221. of Proceedings: Combinatorial Pattern Matching: 21st Annual Symposium, CPM 2010
+Citations:
+Authors: GE Blelloch, A Farzan
+Publication: Springer
+
+222. 2008 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 5
+Citations:
+Authors: Y Admanit, T Aittokallio, RB Altman, S Aluru, JC Aman, C Bailey-Kellogg, ...
+Publication: IEEE/ACM Transactions on Computational Biology and Bioinformatics 5 (4), 1
+
+223. SPECIAL SECTION ON BIOINFORMATICS RESEARCH AND APPLICATIONS-Algorithms for Efficient Near-Perfect Phylogenetic Tree Reconstruction in Theory and Practice
+Citations:
+Authors: S Sridhar, K Dhamdhere, GE Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: IEEE ACM Transactions on Computational Biology and Bioinformatics 4 (4), 561-571
+
+224. Traceable Data Structures
+Citations:
+Authors: UA Acar, GE Blelloch, S Sridhar, V Vassilevska
+Publication: 
+
+225. OPTIMAL IMPERFECT PHYLOGENY RECONSTRUCTION AND HAPLOTYPING (IPPH)
+Citations:
+Authors: GE Blelloch
+Publication: Computational Systems Bioinformatics: CSB2006 Conference Proceedings …
+
+226. Fixed Parameter Complexity and Approximation Algorithms-Fixed Parameter Tractability of Binary Near-Perfect Phylogenetic Tree Reconstruction
+Citations:
+Authors: GE Blelloch, K Dhamdhere, E Halperin, R Ravi, R Schwartz, S Sridhar
+Publication: Lecture Notes in Computer Science 4051, 667-678
+
+227. Second International Workshop on Bioinformatics Research and Applications (IWBRA06)-Simple Reconstruction of Binary Near-Perfect Phylogenetic Trees
+Citations:
+Authors: S Sridhar, K Dhamdhere, GE Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: Lecture Notes in Computer Science 3992, 799-806
+
+228. Optimal Design of Blood Flow within Artificial Hearts Devices on Terascale Supercomputers
+Citations:
+Authors: JF Antaki, G Blelloch, O Ghattas, S Green, M Kameneva, I Malcevic, ...
+Publication: The 41st Annual SES Technical Meeting
+
+229. COMPACT REPRESENTATIONS OF ORDERED SETS
+Citations:
+Authors: GE Blelloch
+Publication: Proceedings of the Fifteenth Annual ACM-SIAM Symposium on Discrete …
+
+230. Research Objectives
+Citations:
+Authors: G Blelloch, L Blum
+Publication: Workshop on Human Interactive Proofs–Palo Alto
+
+231. Functional Set Operations with Treaps
+Citations:
+Authors: D Blandford, G Blelloch
+Publication: 
+
+232. Automatic Generation of Staged Geometric Predicates
+Citations:
+Authors: G Blelloch, R Harper
+Publication: Proceedings of the Sixth ACM SIGPLAN International Conference on Functional …
+
+233. A Performance Comparison of Interval Arithmetic and Error Analysis in Geometric
+Citations:
+Authors: SA Seshia, GE Blelloch, RW Harper
+Publication: School of Computer Science, Carnegie Mellon University
+
+234. A new algorithm for the reconstruction of near-perfect binary phylogenetic trees
+Citations:
+Authors: K Dhamdhere
+Publication: figshare
+
+235. JOHN GREINER
+Citations:
+Authors: G BLELLOCH
+Publication: ACM Transactions on Programming Languages and Systems 21 (1-3), 240-286
+
+236. Space-E cient Scheduling of Parallelism with Synchronization Variables
+Citations:
+Authors: GE Blelloch, PB Gibbons, Y Matias, GJ Narlikar
+Publication: 
+
+237. 1994 ACM Symposium on Parallel Algorithms and Architectures-June 27-29, 1994-Foreword
+Citations:
+Authors: GE Blelloch, CE Leiserson, CG Plaxton
+Publication: JOURNAL OF COMPUTER AND SYSTEM SCIENCES 53 (3), 315-315
+
+238. NESL User's Manual(for NESL Version 3. 1)(Topical Report)
+Citations:
+Authors: G BLELLOCH, JAY SIPELSTEIN, J HARDWICK, M ZAGHA
+Publication: 
+
+239. Allan, VH, Jones, RB, Lee, RM, and Allan, SJ Software Pipelining. Vol. 27, No. 3 (Sept.
+Citations:
+Authors: Y Aloimonos, C Fermuller, A Rosenfeld, E Andre, JM Andreoli, R Pareschi, ...
+Publication: Computing 26 (4), 345-420
+
+240. Reading List on Parallel Programming Languages
+Citations:
+Authors: GE Blelloch
+Publication: 
+
+241. An Evaluation of Sorting as a Supercomputer Benchmark, RNR
+Citations:
+Authors: GE BLELLOCH
+Publication: Technical Report
+
+242. School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+Citations:
+Authors: GE Blelloch, S Chatterjee, JC Hardwick, M Reid-Miller, J Sipelstein, ...
+Publication: 
+
+243. Size and Access Inference for Data-parallel Programs: Point Features in 3D Motion
+Citations:
+Authors: S Chatterjee, GE Blelloch, AL Fisher
+Publication: Department of Computer Science, Carnegie-Mellon University
+
+244. Four vector-matrix primitives. Memorandum report
+Citations:
+Authors: A Agrawal, GE Blelloch, RL Krawitz, CA Phillips
+Publication: Massachusetts Inst. of Tech., Cambridge, MA (USA). Microsystems Research Center
+
+245. Parallel solutions to geometric problems on the scan model of computation. Memorandum report
+Citations:
+Authors: GE Blelloch, JJ Little
+Publication: Massachusetts Inst. of Tech., Cambridge (USA). Artificial Intelligence Lab.
+
+246. on the Scan Model of Computation
+Citations:
+Authors: GE Blelloch, JJ Little
+Publication: 
+
+247. AFL-1: A programming language for massively concurrent computers(M. S. Thesis)
+Citations:
+Authors: GUY BLELLOCH
+Publication: 
+
+248. Τετάρτη 15 Ιανουαρίου
+Citations:
+Authors: A Kyrola, G Blelloch, C Guestrin, G Malewicz, MH Austern, AJC Bik, ...
+Publication: 
+
+249. A Provable Time and Space E cient Implementation of NESL
+Citations:
+Authors: GE Blelloch, J Greiner
+Publication: 
+
+250. Algorithms: From Theory to Application
+Citations:
+Authors: GE Blelloch, AL Blum, M Blum, JD Lafferty, DD Sleator
+Publication: 
+
+251. Program SPAA 2012
+Citations:
+Authors: F Becker, A Kosowski, N Nisse, I Rapaport, K Suchan, B Kempkes, ...
+Publication: 
+
+252. Models and Algorithms under Asymmetric Read and Write Costs
+Citations:
+Authors: GE Blelloch, JT Fineman, PB Gibbons, Y Gu, J Shun
+Publication: 
+
+253. A Provably Time-E cient Parallel Implementation of Full Speculation
+Citations:
+Authors: J Greiner, GE Blelloch
+Publication: 
+
+254. DIMACS Workshop on Parallelism: A 2020 Vision
+Citations:
+Authors: R Wright, DD Director, M Goodrich, S Muthukrishnan, S Suri, J Gustafson, ...
+Publication: 
+
+255. SC2000 TECHNICAL PAPERS-AUTHOR INDEX
+Citations:
+Authors: TIL Nests, JF Antaki, DH Bailey, MEL Bem, R Bhagwan, RN Biswas, ...
+Publication: 
+
+256. Techniques for Parallel Memory Hierarchies
+Citations:
+Authors: HV Simhadri, G Blelloch, P Gibbons
+Publication: 
+
+257. Cost Models for Locality in Parallel Programs
+Citations:
+Authors: GE Blelloch, J Fineman, PB Gibbons, HV Simhadri
+Publication: 
+
+258. 1987-88 Reviewer and contributor index
+Citations:
+Authors: C Aote, D Atkinson, D Baker, J Baker, FC Vtrgrnia, O Balci, G Biswas, ...
+Publication: 
+
+259. An Consensus Tree Approach for the Detection of Population Substructure
+Citations:
+Authors: MC Tsai, GE Blelloch, R Ravi, R Schwartz
+Publication: 
+
+260. MUTHUKRISHNAN, S. CMU-CS-95-131
+Citations:
+Authors: G ABOWD, R ALLEN, EM ALTMANN, JR ANDERSON, JNC ARABE, ...
+Publication: 
+
+261. SPECIAL SECTION ON COMPUTER ARCHITECTURES
+Citations:
+Authors: CR Dyer, JJ Little, GE Blelloch, TA Cass, AKC Wong, SW Lu, M Rioux, ...
+Publication: 
+
+262. Simultaneous Scalability and Security
+Citations:
+Authors: UA Acar, GE Blelloch, K Tangwongsan, J Vittes
+Publication: 
+
+263. AI Lab, Massachusetts Institute of Technology Rm. 739. 545 Technology Square Cambridge, MA 02139 Net Mail: guyb@ mit-ai
+Citations:
+Authors: GE Blelloch
+Publication: 
+
+264. SUBRAMANI, K. CMU-CS-04-179
+Citations:
+Authors: UA ACAR, E AIROLDI, A AKELLA, R ARUNACHALAM, GE BLELLOCH, ...
+Publication: 
+
+265. MADHU, K. CMU-CS-01-125 MADHYASTHA, Tara CMU-CS-01-101 MAHABOOB, Habeen CMU-CS-01-162, CMU-CS-01-163
+Citations:
+Authors: UA ACAR, SA AKELLA, JR ANDERSON, R BUDIU, MW BIGRIGG, ...
+Publication: 
+
+266. Space-E cient Scheduling of Nested Parallelism
+Citations:
+Authors: GJ NARLIKAR, G BLELLOCH
+Publication: 
+
+267. ACAR, Umut A. CMU-CS-08-141 AGARWAL, Pratul K. CMU-CS-08-109 ALDRICH, Jonathan CMU-CS-08-120, CMU-CS-08-169 BAILEY-KELLOGG, Chris CMU-CS-08-162
+Citations:
+Authors: MF BALCAN, Z BAR-JOSEPH, GE BLELLOCH, D BRUMLEY, ...
+Publication: 
+
+268. MCMAHAN, HUGH BRENDAN CMU-CS-06-166 MEADOWS, Catherine CMU-CS-06-172 MILLER, Gary CMU-CS-06-132
+Citations:
+Authors: UA ACAR, A AILAMAKI, J ALDRICH, DG ANDERSEN, ...
+Publication: 
+
+269. Faster Reconstruction of Binary Near-Perfect Phylogenies
+Citations:
+Authors: K Dhamdhere, S Sridhar, GE Blelloch, E Halperin, R Ravi, R Schwartz
+Publication: 
+
+270. FELTEN, Ed CMU-CS-96-193 FERRENCY, Alan CMU-CS-96-189 FILINSKI, Andrzej CMU-CS-96-119 FORD, Stephen J. CMU-CS-96-101 FRITSCH, Jurgen CMU-CS-96-203
+Citations:
+Authors: AR ADL-TABATABAI, EM ALTMANN, K AMIRI, JR ANDERSON, R AYDT, ...
+Publication: 
+
+271. 2007 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 4
+Citations:
+Authors: KA Aeling, P Agius, MA Alekseyev, GC Anagnostopoulos, D Anastassiou, ...
+Publication: 
+
+272. Scheduling and Space Use in Parallel Functional Programs
+Citations:
+Authors: D Spoonhower, GE Blelloch, R Harper
+Publication: 
+
+273. Short Presentation: Incremental Copying Collection with Pinning (Progress Report)
+Citations:
+Authors: D Spoonhower, G Blelloch, R Harper
+Publication: 
+

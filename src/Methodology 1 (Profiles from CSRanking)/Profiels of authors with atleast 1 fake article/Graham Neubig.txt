@@ -1,0 +1,695 @@
+
+21. Word-based partial annotation for efficient corpus construction
+Citations:43
+Authors: GNS Mori
+Publication: Proc. LREC, 2723-2727
+
+35. Overview of the 4th Workshop on Asian Translation
+Citations:28
+Authors: T Nakazawa, S Higashiyama, C Ding, H Mino, I Goto, H Kazawa, Y Oda, ...
+Publication: Proceedings of the 4th Workshop on Asian Translation (WAT2017), 1-54
+
+88. 点予測による形態素解析
+Citations:12
+Authors: 森信介， 中田陽介， 河原達也
+Publication: 自然言語処理 18 (4), 367-381
+
+95. Linguistic unit discovery from multi-modal inputs in unwritten languages: Summary of the" Speaking Rosetta" JSALT 2017 Workshop
+Citations:9
+Authors: O Scharenborg, L Besacier, A Black, M Hasegawa-Johnson, F Metze, ...
+Publication: ICASSP 2018
+
+119. The 2012 KIT and KIT-NAIST english ASR systems for the IWSLT evaluation
+Citations:8
+Authors: C Saam, C Mohr, K Kilgour, M Heck, M Sperber, K Kubo, S Stüker, S Sakti, ...
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+134. The kit-naist (contrastive) english asr system for iwslt 2012
+Citations:7
+Authors: M Heck, K Kubo, M Sperber, S Sakti, S Stüker, C Saam, K Kilgour, C Mohr, ...
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+161. 点予測による自動単語分割
+Citations:5
+Authors: 森信介， G Neubig， 坪井祐太
+Publication: 情報処理学会論文誌 52 (10), 2944-2952
+
+181. Project Next における機械翻訳の誤り分析
+Citations:4
+Authors: 赤部晃一， N Graham， 工藤拓， R John， 中澤敏明， 星野翔
+Publication: 言語処理学会第 19 回年次大会ワークショップ 「自然言語処理におけるエラー分析」 発表 …
+
+185. 特徴的話者を対象とした言語的個人性変換
+Citations:4
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (20), 1-7
+
+193. 点予測による形態素解析
+Citations:4
+Authors: 中田陽介， G Neubig， 森信介， 河原達也
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告, 1-7
+
+194. 確率的タグ付与コーパスからの言語モデル構築
+Citations:4
+Authors: 森信介， 笹田鉄郎， G Neubig
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 81, 1
+
+196. 仮名漢字変換ログの活用による言語処理精度の自動向上
+Citations:4
+Authors: 森信介， G Neubig
+Publication: 言語処理学会第 16 回年次大会
+
+197. Findings of the First Shared Task on Machine Translation Robustness
+Citations:3
+Authors: X Li, P Michel, A Anastasopoulos, Y Belinkov, N Durrani, O Firat, P Koehn, ...
+Publication: WMT 2019
+
+219. 対話システムにおける用語間の関係性を用いた話題誘導応答文生成
+Citations:3
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 人工知能学会論文誌 29 (1), 80-89
+
+221. 構文情報が機械翻訳に及ぼす影響の分析
+Citations:3
+Authors: 丹生伊左夫， 小林和也， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2013 (8), 1-7
+
+223. Efficient speech transcription through respeaking
+Citations:3
+Authors: M Sperber
+Publication: Master's thesis, Karlsruhe Institute of Technology, Karlsruhe
+
+232. 快適度推定に基づく用例ベース対話システム
+Citations:2
+Authors: 水上雅博， 木付英士， 野村敏男， 吉野幸一郎， 戸田智基， 中村哲
+Publication: 人工知能学会論文誌, DSF-517
+
+237. ソースコード構文木からの統計的自動コメント生成
+Citations:2
+Authors: 小田悠介， 札場寛之， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (12), 1-9
+
+239. 機械翻訳システムの詳細な誤り分析のための誤り順位付け手法
+Citations:2
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (11), 1-6
+
+246. 確率的タグ付与コーパスからの言語モデル構築
+Citations:2
+Authors: 森信介， 笹田鉄郎
+Publication: 自然言語処理 18 (2), 71-87
+
+247. 国会音声認識システムの音響・言語モデルの半自動更新
+Citations:2
+Authors: 秋田祐哉， 三村正人， G Neubig， 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理, 1-5
+
+249. コロナ社
+Citations:2
+Authors: 日本音響学会， 建築音響
+Publication: 
+
+253. Choosing Transfer Languages for Cross-Lingual Learning
+Citations:1
+Authors: YH Lin, CY Chen, J Lee, Z Li, Y Zhang, M Xia, S Rijhwani, J He, Z Zhang, ...
+Publication: ACL 2019
+
+255. The ARIEL-CMU Systems for LoReHLT18
+Citations:1
+Authors: A Chaudhary, S Dalmia, J Hu, X Li, A Matthews, AO Muis, N Otani, ...
+Publication: LoReHLT 2018
+
+258. 中間言語情報を記憶するピボット翻訳手法
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 自然言語処理 23 (5), 499-528
+
+259. 統語ベース翻訳のための構文解析器の自己学習
+Citations:1
+Authors: 森下睦， 赤部晃一， 波多腰優斗， 吉野幸一郎， 中村哲
+Publication: 自然言語処理 23 (4), 353-376
+
+264. 対話状態推定のための外部知識ベースを利用した意味的素性の提案
+Citations:1
+Authors: 石川葉子， 平岡拓也， 水上雅博， 吉野幸一郎， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (13), 1-4
+
+265. 言語横断質問応答に適した機械翻訳評価尺度の検討
+Citations:1
+Authors: 杉山享志朗， 水上雅博， 吉野幸一郎， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (12), 1-7
+
+267. 歌声合成システムの音源データ検索のための声質評価値推定法
+Citations:1
+Authors: 山根壮一， 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2015 (6), 1-6
+
+268. 中間言語モデルを用いたピボット翻訳の精度向上
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (2), 1-5
+
+270. 用例ベース対話システムにおける用例の評価値推定
+Citations:1
+Authors: 水上雅博， 木付英士， 野村敏男， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 2L4OS07a5-2L4OS07a5
+
+272. 言語理解・生成部を備えた協調的説得対話システムの構築と評価
+Citations:1
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 2L4OS07a3-2L4OS07a3
+
+273. ブレストバトル: 時間制約と競争形式の導入による参加者の能動的態度の促進
+Citations:1
+Authors: 平岡敏洋， 長谷部雄一， 川上浩司
+Publication: 人工知能学会全国大会論文集 29, 1-4
+
+277. パラフレーズを考慮した機械翻訳の誤り箇所選択
+Citations:1
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (19), 1-8
+
+278. 階層的フレーズベース翻訳におけるピボット翻訳手法の応用
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (20), 1-7
+
+280. 言語的個人性変換における言語モデルの適応と分析
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 07-12
+
+281. 言語的個人性変換における言語モデルの適応と分析
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 07-12
+
+282. 音声入力に基づく韻律制御機能を有する HMM 音声合成システム
+Citations:1
+Authors: 西垣友理， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (16), 1-6
+
+283. 統計的音源予測に基づく電気式人工喉頭制御法のシミュレーションによる評価
+Citations:1
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (91), 33-38
+
+285. 統計的手法に基づく歌声の知覚年齢制御法 (音声 音学シンポジウム 2014)
+Citations:1
+Authors: 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 321-326
+
+286. 雑音抑圧及び統計的音源予測に基づくハイブリッドな電気音声強調法の評価
+Citations:1
+Authors: 田中宏， 戸田智基， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2014 (64), 1-6
+
+287. 日本語言い換えデータベースの構築と言語的個人性変換への応用
+Citations:1
+Authors: 水上雅博， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 言語処理学会第 20 回年次大会 (NLP2014), 773-776
+
+292. 話し言葉における言語情報の個人性変換における変換辞書拡張 (音声)
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (220), 33-38
+
+294. スペクトル補正及び統計的音源生成に基づくハイブリッド電気音声強調
+Citations:1
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 聴覚研究会資料= Proceedings of the auditory research meeting 43 (4), 265-270
+
+295. 知覚年齢に沿った歌声声質制御のための音響特徴量の調査
+Citations:1
+Authors: 小林和弘， 土井啓成， 戸田智基， 中野倫靖， 後藤真孝， G Neubig， S Sakti， ...
+Publication: 
+
+296. 話し言葉の書き起こし文章の話者性の変換
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 27 回全国大会 (2013), 1J3OS22a5-1J3OS22a5
+
+298. 対話システムにおける単語間の関係性を用いた話題誘導応答文生成
+Citations:1
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2012 (3), 1-7
+
+299. 説得対話システムにおける話題誘導に基づく対話制御
+Citations:1
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2012 (4), 1-6
+
+302. ベイズ推論を用いた連続音声からの言語モデル学習
+Citations:1
+Authors: N Graham, 三村正人, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2010 (16), 1-6
+
+331. 二値符号予測と誤り訂正を用いたニューラル翻訳モデル
+Citations:
+Authors: 小田悠介， 吉野幸一郎， 中村哲
+Publication: 自然言語処理 25 (2), 167-199
+
+338. 統語的一貫性と非冗長性を重視した機械翻訳のための能動学習手法
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 自然言語処理 24 (3), 463-489
+
+339. 単語意味ベクトル辞書を用いた Twitter からの評判情報抽出
+Citations:
+Authors: 芥子育雄， 鈴木優， 吉野幸一郎， 大原一人， 向井理朗， 中村哲
+Publication: 電子情報通信学会論文誌 D 100 (4), 530-543
+
+341. 第 3 回 Frederick Jelinek 記念サマーワークショップでの教師なし発音辞書学習の取り組み
+Citations:
+Authors: 篠崎隆宏， 渡部晋治， 持橋大地
+Publication: 研究報告音声言語情報処理 (SLP) 2016 (4), 1-5
+
+345. エントレインメント分析に基づく用例選択モデルの提案
+Citations:
+Authors: 水上雅博， 吉野幸一郎
+Publication: SIG-SLUD 5 (02), 135-138
+
+346. 注視特徴を用いた非母語読解時の未知語検出における品詞タグの使用と個人適応の検討 (ヒューマン情報処理)
+Citations:
+Authors: 平岡類， 田中宏季， サクティサクリアニ， ニュービッググラム， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 116 (229), 29-34
+
+348. 木構造を中間表現とするピボット翻訳手法
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2016 (9), 1-6
+
+349. 注視特徴を用いた SVM による非母語読解時の未知語検出 (ヒューマンコミュニケーション基礎)
+Citations:
+Authors: 平岡類， 田中宏季， サクティサクリアニ， 吉野幸一郎， ニュービッググラム， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 116 (31), 213-218
+
+350. 機械翻訳システムの誤り分析のための誤り箇所選択手法
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 自然言語処理 23 (1), 87-117
+
+351. ユーザ属性に基づく対話行為と語彙選択のエントレインメント分析
+Citations:
+Authors: 水上雅博， 吉野幸一郎， 中村哲
+Publication: 人工知能学会全国大会論文集 第 30 回全国大会 (2016), 2O5OS23b4-2O5OS23b4
+
+354. 訳選択の根拠の自動推定とその機械翻訳における応用: 平成 25-27 年度成果報告書
+Citations:
+Authors: N Graham
+Publication: 奈良先端科学技術大学院大学
+
+356. 自然言語処理技術の現状と展望-エラー分析プロジェクトを通して-:[翻訳, 文作成支援, 対話] 3.14 翻訳
+Citations:
+Authors: 工藤拓， 赤部晃一
+Publication: 情報処理 57 (1), 36-37
+
+357. 発音変換知識を用いないデータ駆動型発音学習による非母語話者の音声認識 (音声)--(第 17 回音声言語シンポジウム)
+Citations:
+Authors: 辻岡聡， サクティサクリアニ， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (346), 75-80
+
+358. 構文木と句の極大性に基づく機械翻訳のための能動学習
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (19), 1-7
+
+359. 音声波形加工に基づく非母語音声の継続長補正法の評価と分析
+Citations:
+Authors: 倶羅真也， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (4), 1-6
+
+360. RNN を用いた対話破綻検出器の構築
+Citations:
+Authors: 水上雅博， 杉山享志朗， 吉野幸一郎， 中村哲
+Publication: SIG-SLUD 5 (02), 47-50
+
+361. 嘘を発見する対話システム
+Citations:
+Authors: 角森唯子， 平岡拓也， 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 5 (02), 16-20
+
+362. マルチモーダル情報を伴った自動対話訓練システム (音声)
+Citations:
+Authors: 田中宏季， サクリアニサクティ， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (253), 45-50
+
+363. 機械翻訳の精度を考慮した構文解析器の自己学習
+Citations:
+Authors: 森下睦， 赤部晃一， 吉野幸一郎， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (11), 1-7
+
+367. ボトルネック特徴量を用いた感情音声の認識
+Citations:
+Authors: 向原康平， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (2), 1-6
+
+368. 空気/体内伝導マイクを併用した雑音環境下における非可聴つぶやき強調法とその評価
+Citations:
+Authors: 田尻祐介， 田中宏， 戸田智基， グラム・ニュービッグ， サクリアニ・サクティ， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (100), 59-64
+
+369. リアルタイム音源予測に基づく電気式人工喉頭制御の実装
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 聴覚研究会資料= Proceedings of the auditory research meeting 45 (4), 251-256
+
+370. リアルタイム音源予測に基づく電気式人工喉頭制御の実装 (音声)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (99), 47-52
+
+371. D-15-29 NIRS を用いた脳活動計測による認知トレーニングの客観的評価 (D-15. 教育工学, 一般セッション)
+Citations:
+Authors: 蓑田由花里， 田中宏季， 戸田智基， 中村哲
+Publication: 電子情報通信学会総合大会講演論文集 2015 (1), 208
+
+373. 統計的機械翻訳を用いた自動コメント生成
+Citations:
+Authors: 小田悠介
+Publication: ウィンターワークショップ 2015・イン・宜野湾 論文集 2015, 15-16
+
+374. 知識ベースに基づく言語横断質問応答における訳質の影響の調査
+Citations:
+Authors: 杉山享志朗， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 1K32-1K32
+
+375. 不完全な文の構文解析に基づく同時音声翻訳
+Citations:
+Authors: 小田悠介， 戸田智基， 中村哲
+Publication: 言語処理学会第 21 回年次大会 (NLP2015)
+
+378. 同時音声翻訳における翻訳精度と遅延時間を同時に考慮した評価尺度 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 三重野隆史， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366), 11-15
+
+379. パラフレーズを考慮した機械翻訳の誤り箇所選択 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+380. パラフレーズを考慮した機械翻訳の誤り箇所選択 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+381. 階層的フレーズベース翻訳におけるピボット翻訳手法の応用 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+382. ソースコード構文木からの統計的自動コメント生成 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 小田悠介， 札場寛之， ニュービッググラム， サクリアニサクティ， 戸田智基， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366), 67-75
+
+387. 対話中における嘘検出に有効な特徴量比較と質問分析
+Citations:
+Authors: 角森唯子， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 19-24
+
+388. 単語視認時の脳波信号を用いた未知語知覚検出
+Citations:
+Authors: 笹倉隆史， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 57-62
+
+389. HMM を用いた日本人英語音声合成における話者性を保持した韻律補正
+Citations:
+Authors: 大島悠司， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (13), 1-6
+
+390. Robust Example-based Dialog Retrieval using Distributed Word Representations and Recursive Autoencoders
+Citations:
+Authors: N Lasguido, S Sakriani, N Graham, T Tomoki, N Satoshi
+Publication: SIG-SLUD 4 (02), 01-06
+
+391. Articulatory Controllable Speech Modification using Sequential Inversion and Production Mapping with Gaussian Mixture Models
+Citations:
+Authors: P Patrick, T Lumban, T Tomoki, N Graham, S Sakriani, N Satoshi, P Ayu
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (12), 1-6
+
+392. Recognition and Analysis of Emotion in Indonesian Conversational Speech
+Citations:
+Authors: L Nurul, S Sakriani, N Graham, T Tomoki, L Dessi, P Ayu, N Satoshi
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (1), 1-6
+
+393. 重回帰混合正規分布モデルに基づく声質制御における制御パラメータの設計 (音声)
+Citations:
+Authors: 久保和隆， 小林和弘， 戸田智基， ニュービッググラム， サクティサクリアニ， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (303), 65-70
+
+394. ソーシャルスキルトレーニングの自動化 (若手奨励企画)
+Citations:
+Authors: 田中宏季， サクティサクリアニ， ニュービッググラム， 戸田智基， 根來秀樹， ...
+Publication: 電子情報通信学会技術研究報告. ET, 教育工学 114 (305), 1-6
+
+395. 統語ベース翻訳に対する統語的前処理の適用
+Citations:
+Authors: 波多腰優斗， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (5), 1-6
+
+396. 脳波のチャネル間相関の事前分布を利用した確率的目的成分強調
+Citations:
+Authors: 真木勇人， 戸田智基， 中村哲
+Publication: 研究報告数理モデル化と問題解決 (MPS) 2014 (42), 1-6
+
+397. 第一人者と第二人者
+Citations:
+Authors: N Graham
+Publication: 自然言語処理 21 (3), 419-419
+
+398. Language Resource Addition: Dictionary or Corpus?
+Citations:
+Authors: SMG Neubig
+Publication: 
+
+399. 招待講演 機械翻訳: なぜできなかったのか? なぜできるようになりつつあるのか?(音声 音学シンポジウム 2014)
+Citations:
+Authors: ニュービッグ,グラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 35-38
+
+400. 雑音抑圧及び統計的音源予測に基づくハイブリッドな電気音声強調法の評価 (音声 音学シンポジウム 2014)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 331-336
+
+401. 統計的手法に基づく歌声の知覚年齢制御法
+Citations:
+Authors: 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2014 (62), 1-6
+
+402. 音響特徴量を用いた吹き出しテキストの生成の評価 (学生ポスターセッション, 時系列パターン認識, 一般)
+Citations:
+Authors: 松宮翔， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 113 (452), 29-30
+
+403. 音声認識のためのエントレインメント現象を用いた発話様式誘導 (学生ポスターセッション, 時系列パターン認識, 一般)
+Citations:
+Authors: 杉山昂太郎， ニュービッググラム， サクティサクリアニ， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 113 (452), 27-28
+
+404. ラウドネス補償と聴覚フィルタの両特性に対するオージオグラムに基づく近似処理を用いた模擬難聴 (音声)
+Citations:
+Authors: 神保希美， 高道慎之介， 戸田智基
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (404), 1-6
+
+406. 物語発話からの自閉症スペクトラム障害児と定型発達児の語彙と韻律の特性分析
+Citations:
+Authors: 田中宏季， ...
+Publication: 日本音響学会研究発表会講演論文集 日本音響学会 編, 1487-1490
+
+407. 自閉症スペクトラム児と保護者間のインタラクション分析
+Citations:
+Authors: 田中宏季， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 28 回全国大会 (2014), 2H4NFC04b3-2H4NFC04b3
+
+408. 発音推定のための重みベクトルの適応的正則化手法におけるハイパーパラメータの改善
+Citations:
+Authors: 久保慶伍， ...
+Publication: 日本音響学会研究発表会講演論文集 日本音響学会 編, 51-54
+
+412. 説得対話コーパスの構築と分析 (音声)
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (366), 41-46
+
+413. 誤り単語の視覚・聴覚提示における事象関連電位による違和感分析 (音声)
+Citations:
+Authors: 小田垣佑， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (366), 29-34
+
+414. 誤り単語の視覚・聴覚提示における事象関連電位による違和感分析
+Citations:
+Authors: 小田垣佑， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2013 (5), 1-6
+
+415. 説得対話コーパスの構築と分析
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2013 (7), 1-6
+
+416. HMM 音声合成における変調スペクトルに基づくポストフィルタ (音声)
+Citations:
+Authors: 高道慎之介， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 19-24
+
+417. 統計的歌声声質変換における知覚年齢に基づく声質制御 (音声)
+Citations:
+Authors: 小林和弘， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 1-6
+
+418. ハイブリッド式電気音声強調法における音源特徴量予測の評価 (音声)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 7-12
+
+419. 重みベクトルの適応的正則化に基づく発音推定 (音声)
+Citations:
+Authors: 久保慶伍， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (161), 25-30
+
+420. 2012 年度論文賞の受賞論文紹介: 目覚ましい発展の中の小さな発見
+Citations:
+Authors: N Graham
+Publication: 情報処理 54 (8), 819-819
+
+421. 同時通訳データを利用した同時通訳用機械翻訳システムの構築
+Citations:
+Authors: 清水宏晃， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2013 (9), 1-5
+
+422. 歌声の知覚年齢に沿った声質制御に向けた音響特徴量の調査
+Citations:
+Authors: 小林和弘， 土井啓成， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 日本音響学会 2013 年春季研究発表会
+
+423. 非言語情報読み取りスキルを用いた自閉症スペクトラム指数の測定 (画像工学)
+Citations:
+Authors: 田中宏季， サクティサクリアニ， ニュービックグラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (473), 223-226
+
+424. HMM 音声合成における分散共有フルコンテキストモデルによる F0 パターン生成 (音声)
+Citations:
+Authors: 高道慎之介， 戸田智基， 志賀芳則， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (422), 37-42
+
+426. Computer-Based Training による非言語コミュニケーションスキルの改善に関する検討
+Citations:
+Authors: 田中宏季， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 27 回全国大会 (2013), 4J1OS234-4J1OS234
+
+428. 話し言葉における言語情報の個人性変換における変換辞書拡張
+Citations:
+Authors: 水上雅博， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 電子情報通信学会音声研究会 (SP), 千葉 9
+
+429. 対話システムにおける単語間の関係性を用いた話題誘導応答文生成 (音声・第 14 回音声言語シンポジウム)
+Citations:
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (369), 13-19
+
+430. 説得対話システムにおける話題誘導に基づく対話制御 (音声・第 14 回音声言語シンポジウム)
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (369), 21-26
+
+432. 同時性を考慮した音声翻訳システムの検討
+Citations:
+Authors: 藤田朋希， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告, 1-5
+
+433. 分散共有フルコンテキストモデルによる HMM 音声合成の改善 (音声)
+Citations:
+Authors: 慎之介高道， 智基戸田， 芳則志賀， S Sakti， G Neubig， 哲中村
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (281), 37-42
+
+434. 統計的手法に基づくリアルタイム声質変換処理の DSP 上への実装
+Citations:
+Authors: 森口拓人， 戸田智基， 佐野元明， 佐藤宏， ニュービッググラム， ...
+Publication: 電子情報通信学会技術研究報告. SP, 音声 112 (281), 7-12
+
+435. 同一文発話間における話者内スペクトル特徴量変動とその予測
+Citations:
+Authors: 犬飼辰夫， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 112 (281), 13-18
+
+436. 素性頻度ファイルと部分的アノテーションコーパスからの単語分割器の学習
+Citations:
+Authors: 笹田鉄郎， 森信介， 河原達也
+Publication: 研究報告自然言語処理 (NL) 2012 (8), 1-5
+
+437. 分散共有フルコンテキストモデルによる HMM 音声合成に関する検討
+Citations:
+Authors: 高道慎之介， 戸田智基， 志賀芳則， 河井恒， S Sakti， G Neubig， 中村哲
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理, 1-6
+
+438. 素性頻度ファイルと部分的アノテーションコーパスからの単語分割器の学習
+Citations:
+Authors: 笹田鉄郎， 森信介， G Neubig， 河原達也
+Publication: 情報処理学会 第207回自然言語処理研究会 (NL-207)
+
+439. 不自然言語処理-枠に収まらない 「リアルな」 言語処理-: 7. ANPI_NLP-NLP 技術を応用した震災時安否情報確認支援
+Citations:
+Authors: 萩原正人， 村上浩司， 松林優一郎
+Publication: 情報処理 53 (3), 241-248
+
+445. 自然言語処理= Journal of natural language processing 18 (2), 71-87, 2011-06-28
+Citations:
+Authors: 森信介， 笹田鉄郎
+Publication: 自然言語処理 18 (2), 71-87
+
+447. 点予測と系列予測の 2 段階化による品詞推定の精度向上
+Citations:
+Authors: 中田陽介， 森信介， 河原達也
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告 2011 (2), 1-8
+
+449. ウイグル語の形態素に基づく言語モデルと音声認識システム
+Citations:
+Authors: アブリミテ・ミジテ， ニュービッグ・グラム， 三村正人， 森信介， 河原達也， ...
+Publication: 研究報告音声言語情報処理 (SLP) 2010 (17), 1-5
+
+450. 文脈を考慮した確率的モデルによる話し言葉の整形 (言語理解とコミュニケーション)
+Citations:
+Authors: 秋田祐哉， 森信介， 河原達也
+Publication: 電子情報通信学会技術研究報告 109 (355), 93-98
+
+451. 文脈を考慮した確率的モデルによる話し言葉の整形
+Citations:
+Authors: N Graham, 秋田祐哉, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2009 (17), 1-6
+
+452. 重み付き有限状態トランスデューサーと対数線形モデルを用いた話し言葉の整形
+Citations:
+Authors: N Graham, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2009 (21), 1-6
+
+453. 重み付き有限状態トランスデューサーと対数線形モデルを用いた話し言葉の整形
+Citations:
+Authors: 森信介， 河原達也
+Publication: 研究報告音声言語情報処理 (SLP) 2009 (21), 1-6
+
+455. ハイブリッド式電気音声強調法における音源特徴量予測の評価
+Citations:
+Authors: 田中宏， 戸田智基， グラム・ニュービッグ， サクリアニ・サクティ， 中村哲
+Publication: 
+
+457. Overview of the 2nd Workshop on Asian Translation
+Citations:
+Authors: TNHMI Goto, GNSKE Sumita
+Publication: 
+
+467. Joint Dereverberation and Noise Reduction Based on Acoustic Multi-Channel Equalization... I. Kodrasi and S. Doclo 680 Deep Sentence Embedding Using Long Short-Term Memory …
+Citations:
+Authors: PP Parada, D Sharma, J Lainez, D Barreda, T van Waterschoot, ...
+Publication: 
+
+468. 機械翻訳を用いた擬似コード生成による学習者支援
+Citations:
+Authors: 札場寛之， 小田悠介， 畑秀明， 戸田智基， 中村哲
+Publication: 
+
+480. 統計的手法に基づく歌声の知覚年齢制御法
+Citations:
+Authors: S Sakti
+Publication: 

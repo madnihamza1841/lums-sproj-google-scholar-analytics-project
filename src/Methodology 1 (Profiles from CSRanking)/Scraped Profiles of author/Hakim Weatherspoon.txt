@@ -1,0 +1,583 @@
+https://scholar.google.com/citations?hl=en&user=0zrqo3B-66wC
+Total Citations = 7933
+
+1. Oceanstore: An architecture for global-scale persistent storage
+Citations:3209
+Authors: J Kubiatowicz, D Bindel, Y Chen, S Czerwinski, P Eaton, D Geels, ...
+Publication: ACM SIGARCH Computer Architecture News 28 (5), 190-201
+
+2. Erasure coding vs. replication: A quantitative comparison
+Citations:1016
+Authors: H Weatherspoon, JD Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 328-337
+
+3. Pond: The OceanStore Prototype.
+Citations:665
+Authors: SC Rhea, PR Eaton, D Geels, H Weatherspoon, BY Zhao, J Kubiatowicz
+Publication: FAST 3, 1-14
+
+4. RACS: a case for cloud storage diversity
+Citations:465
+Authors: H Abu-Libdeh, L Princehouse, H Weatherspoon
+Publication: Proceedings of the 1st ACM symposium on Cloud computing, 229-240
+
+5. Maintenance-free global data storage
+Citations:348
+Authors: S Rhea, C Wells, P Eaton, D Geels, B Zhao, H Weatherspoon, ...
+Publication: IEEE internet computing 5 (5), 40-49
+
+6. Efficient Replica Maintenance for Distributed Storage Systems.
+Citations:328
+Authors: BG Chun, F Dabek, A Haeberlen, E Sit, H Weatherspoon, MF Kaashoek, ...
+Publication: NSDI 6, 4-4
+
+7. The Xen-Blanket: virtualize once, run everywhere
+Citations:156
+Authors: D Williams, H Jamjoom, H Weatherspoon
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 113-126
+
+8. On the feasibility of completely wirelesss datacenters
+Citations:117
+Authors: JY Shin, EG Sirer, H Weatherspoon, D Kirovski
+Publication: IEEE/ACM Transactions on Networking 21 (5), 1666-1679
+
+9. Proactive Replication for Data Durability.
+Citations:112
+Authors: E Sit, A Haeberlen, F Dabek, BG Chun, H Weatherspoon, RT Morris, ...
+Publication: IPTPS
+
+10. Overdriver: Handling memory overload in an oversubscribed cloud
+Citations:88
+Authors: D Williams, H Jamjoom, YH Liu, H Weatherspoon
+Publication: ACM SIGPLAN Notices 46 (7), 205-216
+
+11. ChunkCast: An Anycast Service for Large Content Distribution.
+Citations:78
+Authors: BG Chun, P Wu, H Weatherspoon, J Kubiatowicz
+Publication: IPTPS
+
+12. Introspective failure analysis: Avoiding correlated failures in peer-to-peer systems
+Citations:75
+Authors: H Weatherspoon, T Moscovitz, J Kubiatowicz
+Publication: 21st IEEE Symposium on Reliable Distributed Systems, 2002. Proceedings., 362-367
+
+13. Netbait: a distributed worm detection service
+Citations:71
+Authors: BN Chun, J Lee, H Weatherspoon, BN Chun
+Publication: Intel Research Berkeley Technical Report IRB-TR-03 33
+
+14. Optimizing Power Consumption in Large Scale Storage Systems.
+Citations:67
+Authors: L Ganesh, H Weatherspoon, M Balakrishnan, K Birman
+Publication: HotOS
+
+15. Silverback: A global-scale archival system
+Citations:62
+Authors: H Weatherspoon, C Wells, PR Eaton, BY Zhao, JD Kubiatowicz
+Publication: Submitted for publication to ACM SOSP
+
+16. Oceanstore: An extremely wide-area storage system
+Citations:62
+Authors: D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proceedings of the 9th International Conference on Architectural Support for …
+
+17. P4FPGA: A rapid prototyping framework for P4
+Citations:50
+Authors: H Wang, R Soulé, HT Dang, KS Lee, V Shrivastav, N Foster, ...
+Publication: Proceedings of the Symposium on SDN Research, 122-135
+
+18. Antiquity: exploiting a secure log for wide-area distributed storage
+Citations:49
+Authors: H Weatherspoon, P Eaton, BG Chun, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 41 (3), 371-384
+
+19. Long-term data maintenance in wide-area storage systems: A quantitative approach
+Citations:47
+Authors: H Weatherspoon, BG Chun, CW So, J Kubiatowicz
+Publication: IEEE Computer
+
+20. Integrated approach to data center power management
+Citations:40
+Authors: L Ganesh, H Weatherspoon, T Marian, K Birman
+Publication: IEEE Transactions on Computers 62 (6), 1086-1096
+
+21. The NEBULA future internet architecture
+Citations:39
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: The Future Internet Assembly, 16-26
+
+22. Globally synchronized time via datacenter networks
+Citations:35
+Authors: KS Lee, H Wang, V Shrivastav, H Weatherspoon
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 454-467
+
+23. NetSlices: scalable multi-core packet processing in user-space
+Citations:34
+Authors: T Marian, KS Lee, H Weatherspoon
+Publication: Proceedings of the eighth ACM/IEEE symposium on Architectures for networking …
+
+24. Maelstrom: Transparent Error Correction for Lambda Networks.
+Citations:34
+Authors: M Balakrishnan, T Marian, K Birman, H Weatherspoon, E Vollset
+Publication: NSDI, 263-278
+
+25. Supercloud: Opportunities and challenges
+Citations:32
+Authors: Q Jia, Z Shen, W Song, R Van Renesse, H Weatherspoon
+Publication: ACM SIGOPS Operating Systems Review 49 (1), 137-141
+
+26. Gecko: Contention-oblivious disk arrays for cloud storage
+Citations:32
+Authors: JY Shin, M Balakrishnan, T Marian, H Weatherspoon
+Publication: Presented as part of the 11th {USENIX} Conference on File and Storage …
+
+27. Follow the sun through the clouds: Application migration for geographically shifting workloads
+Citations:30
+Authors: Z Shen, Q Jia, GE Sela, B Rainero, W Song, R van Renesse, ...
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 141-154
+
+28. Plug into the Supercloud
+Citations:30
+Authors: D Williams, H Jamjoom, H Weatherspoon
+Publication: IEEE Internet Computing 17 (2), 28-34
+
+29. Exact temporal characterization of 10 Gbps optical wide-area network
+Citations:30
+Authors: DA Freedman, T Marian, JH Lee, K Birman, H Weatherspoon, C Xu
+Publication: Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 342-355
+
+30. Design and evaluation of distributed wide-area on-line archival storage systems
+Citations:29
+Authors: H Weatherspoon
+Publication: University of California, Berkeley
+
+31. Whippersnapper: A p4 language benchmark suite
+Citations:28
+Authors: HT Dang, H Wang, T Jepsen, G Brebner, C Kim, J Rexford, R Soulé, ...
+Publication: Proceedings of the Symposium on SDN Research, 95-101
+
+32. Naming and integrity: Self-verifying data in peer-to-peer systems
+Citations:27
+Authors: H Weatherspoon, C Wells, JD Kubiatowicz
+Publication: Future Directions in Distributed Computing, 142-147
+
+33. Smoke and Mirrors: Reflecting Files at a Geographically Remote Location Without Loss of Performance.
+Citations:26
+Authors: H Weatherspoon, L Ganesh, T Marian, M Balakrishnan, K Birman
+Publication: FAST, 211-224
+
+34. Future directions in distributed computing: research and position papers
+Citations:25
+Authors: A Schiper, AA Shvartsman, H Weatherspoon, BY Zhao
+Publication: Springer
+
+35. Sonic: Precise realtime software access and control of wired networks
+Citations:24
+Authors: KS Lee, H Wang, H Weatherspoon
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+36. A brief overview of the NEBULA future internet architecture
+Citations:22
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 81-86
+
+37. Empirical characterization of uncongested optical lambda networks and 10gbe commodity endpoints
+Citations:22
+Authors: T Marian, DA Freedman, K Birman, H Weatherspoon
+Publication: 2010 IEEE/IFIP International Conference on Dependable Systems & Networks …
+
+38. Unshackle the cloud!
+Citations:20
+Authors: D Williams, E Elnikety, M Eldehiry, H Jamjoom, H Huang, ...
+Publication: HotCloud
+
+39. Timing is everything: Accurate, minimum overhead, available bandwidth estimation in high-speed wired networks
+Citations:19
+Authors: H Wang, KS Lee, E Li, CL Lim, A Tang, H Weatherspoon
+Publication: Proceedings of the 2014 Conference on Internet Measurement Conference, 407-420
+
+40. {PHY} Covert Channels: Can you see the Idles?
+Citations:19
+Authors: KS Lee, H Wang, H Weatherspoon
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+41. Oceanstore: An extremely wide-area storage system
+Citations:18
+Authors: J Kubiatowicz, D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proc. Nineth Int’l Conf. Architectural Support for Programming Languages and …
+
+42. Maelstrom: transparent error correction for communication between data centers
+Citations:17
+Authors: M Balakrishnan, T Marian, KP Birman, H Weatherspoon, L Ganesh
+Publication: IEEE/ACM Transactions on Networking (ToN) 19 (3), 617-629
+
+43. Efficient heartbeats and repair of softstate in decentralized object location and routing systems.
+Citations:17
+Authors: H Weatherspoon, J Kubiatowicz
+Publication: ACM SIGOPS European Workshop 30
+
+44. Vegvisir: A partition-tolerant blockchain for the internet-of-things
+Citations:15
+Authors: K Karlsson, W Jiang, S Wicker, D Adams, E Ma, R van Renesse, ...
+Publication: 2018 IEEE 38th International Conference on Distributed Computing Systems …
+
+45. Smart spot instances for the supercloud
+Citations:15
+Authors: Q Jia, Z Shen, W Song, R van Renesse, H Weatherspoon
+Publication: Proceedings of the 3rd Workshop on CrossCloud Infrastructures & Platforms, 5
+
+46. Efficiently binding data to owners in distributed content-addressable storage systems
+Citations:15
+Authors: P Eaton, H Weatherspoon, J Kubiatowicz
+Publication: Third IEEE International Security in Storage Workshop (SISW'05), 12 pp.-51
+
+47. Monitoring, analyzing, and controlling internet-scale systems with acme
+Citations:15
+Authors: D Oppenheimer, V Vatkovskiy, H Weatherspoon, J Lee, DA Patterson, ...
+Publication: arXiv preprint cs/0408035
+
+48. Gossiping over storage systems is practical
+Citations:14
+Authors: H Weatherspoon, H Miranda, K Iwanicki, A Ghodsi, Y Busnel
+Publication: ACM SIGOPS Operating Systems Review 41 (5), 75-81
+
+49. Gecko: A Contention-Oblivious Design for Cloud Storage.
+Citations:11
+Authors: JY Shin, M Balakrishnan, L Ganesh, T Marian, H Weatherspoon
+Publication: HotStorage
+
+50. Exploiting the synergy between gossiping and structured overlays
+Citations:11
+Authors: A Ghodsi, S Haridi, H Weatherspoon
+Publication: ACM SIGOPS Operating Systems Review 41 (5), 61-66
+
+51. VirtualWires for live migrating virtual networks across clouds
+Citations:10
+Authors: D Williams, H Jamjoom, Z Jiang, H Weatherspoon
+Publication: Report by Cornell University and IBM TJ Watson Research Center, New York
+
+52. Fmeter: Extracting indexable low-level system signatures by counting kernel function calls
+Citations:10
+Authors: T Marian, H Weatherspoon, KS Lee, A Sagar
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+53. Typhoon: An archival system for tolerating high degrees of file server failure
+Citations:10
+Authors: M Delco, H Weatherspoon, S Zhuang
+Publication: University of California, Berkeley project report 13
+
+54. Security for cloud computing
+Citations:9
+Authors: K Nahrstedt, R Campbell, E Burger, J Giffin, XH Gu, AD Joseph, E Keller, ...
+Publication: A Report: Directorate for Computer and Information Science and Engineering …
+
+55. Isotope: Transactional isolation for block storage
+Citations:8
+Authors: JY Shin, M Balakrishnan, T Marian, H Weatherspoon
+Publication: 14th {USENIX} Conference on File and Storage Technologies ({FAST} 16), 23-37
+
+56. Proactive replication for data durability
+Citations:7
+Authors: ES Andreas, A Haeberlen, F Dabek, B gon Chun, H Weatherspoon, ...
+Publication: Proceedings of the 5th Intl Workshop on Peer-to-Peer Systems (IPTPS)
+
+57. Packet clustering introduced by routers: Modeling, analysis and experiments
+Citations:6
+Authors: CL Lim, KS Lee, H Wang, H Weatherspoon, A Tang
+Publication: 2014 48th Annual Conference on Information Sciences and Systems (CISS), 1-6
+
+58. Beyond power proportionality: Designing power-lean cloud storage
+Citations:6
+Authors: L Ganesh, H Weatherspoon, K Birman
+Publication: 2011 IEEE 10th International Symposium on Network Computing and Applications …
+
+59. P4xos: Consensus as a network service
+Citations:5
+Authors: HT Dang, P Bressana, H Wang, KS Lee, H Weatherspoon, M Canini, ...
+Publication: Research Report 2018-01. USI. http://www. inf. usi. ch/research_publication. htm
+
+60. Supercloud: A Library Cloud for Exploiting Cloud Diversity
+Citations:5
+Authors: Z Shen, Q Jia, GE Sela, W Song, H Weatherspoon, R Van Renesse
+Publication: ACM Transactions on Computer Systems (TOCS) 35 (2), 6
+
+61. Network hardware-accelerated consensus
+Citations:5
+Authors: HT Dang, P Bressana, H Wang, KS Lee, H Weatherspoon, M Canini, ...
+Publication: arXiv preprint arXiv:1605.05619
+
+62. Software Defining System Devices with the" Banana" Double-Split Driver Model
+Citations:5
+Authors: D Williams, H Jamjoom, H Weatherspoon
+Publication: 6th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 14)
+
+63. P4fpga: Towards an open source p4 backend for fpga
+Citations:4
+Authors: H Wang, KS Lee, V Shrivastav, H Weatherspoon
+Publication: The 2nd P4 Workshop
+
+64. A quantitative evaluation of traffic-aware routing strategies
+Citations:4
+Authors: EJ Anderson, TE Anderson, SD Gribble, AR Karlin, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 67-67
+
+65. X-containers: Breaking down barriers to improve performance and isolation of cloud-native containers
+Citations:3
+Authors: Z Shen, Z Sun, GE Sela, E Bagdasaryan, C Delimitrou, R Van Renesse, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+66. Shoal: A Network Architecture for Disaggregated Racks.
+Citations:3
+Authors: V Shrivastav, A Valadarsky, H Ballani, P Costa, KS Lee, H Wang, ...
+Publication: NSDI, 255-270
+
+67. Shoal: A Lossless Network for High-density and Disaggregated Racks
+Citations:3
+Authors: V Shrivastav, A Valadarsky, H Ballani, P Costa, KS Lee, H Wang, ...
+Publication: 
+
+68. Netbump: User-extensible active queue management with bumps on the wire
+Citations:3
+Authors: M Al-Fares, R Kapoor, G Porter, S Das, H Weatherspoon, B Prabhakar, ...
+Publication: 2012 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+69. Towards weakly consistent local storage systems
+Citations:2
+Authors: JY Shin, M Balakrishnan, T Marian, J Szefer, H Weatherspoon
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 294-306
+
+70. Economics of a supercloud
+Citations:2
+Authors: I Kash, Q Jia, Z Shen, W Song, R van Renesse, H Weatherspoon
+Publication: Proceedings of the 3rd Workshop on CrossCloud Infrastructures & Platforms, 7
+
+71. P4FPGA: High level synthesis for networking
+Citations:2
+Authors: H Wang, KS Lee, V Shrivastav, H Weatherspoon
+Publication: Proc. ACM SIGCOMM Workshop Netw. Program. Lang.(NetPL)
+
+72. Supercloud: economical cloud service on multiple vendors
+Citations:2
+Authors: Q Jia, R Van Renesse, H Weatherspoon
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 58
+
+73. Empirical Characterization of Uncongested Lambda Networks and 10GbE Commodity Endpoints
+Citations:2
+Authors: T Marian, DA Freedman, H Weatherspoon, K Birman
+Publication: Network 10, 1
+
+74. Cloudifying source code repositories: how much does it cost?
+Citations:2
+Authors: M Siegenthaler, H Weatherspoon
+Publication: ACM SIGOPS Operating Systems Review 44 (2), 24-28
+
+75. The Supercloud: Applying Internet Design Principles to Interconnecting Clouds
+Citations:1
+Authors: R van Renesse, H Weatherspoon, Z Shen, W Song
+Publication: IEEE Internet Computing 22 (1), 82-86
+
+76. Isotope: ACID Transactions for Block Storage
+Citations:1
+Authors: JY Shin, M Balakrishnan, T Marian, H Weatherspoon
+Publication: ACM Transactions on Storage (TOS) 13 (1), 4
+
+77. NetBump: User-extensible Active Queue Management with Bumps on the Wire
+Citations:1
+Authors: G Porter, R Kapoor, S Das, M Al-Fares, H Weatherspoon, B Prabhakar, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+78. Instrumentation for exact packet timings in networks
+Citations:1
+Authors: DA Freedman, T Marian, JH Lee, K Birman, H Weatherspoon, C Xu
+Publication: 2011 IEEE International Instrumentation and Measurement Technology …
+
+79. RAPID: RAPID prototyping in Distributed Mission Operations (DMO) environments
+Citations:1
+Authors: K McVearry, K Birman, D Freedman, R van Renesse, H Weatherspoon
+Publication: ODYSSEY RESEARCH ASSOCIATES INC ITHACA NY
+
+80. Packet Clustering Introduced by Routers: Modeling, Analysis, and Experiments
+Citations:
+Authors: CL Lim, KS Lee, H Wang, H Weatherspoon, A Tang
+Publication: ACM Transactions on Modeling and Performance Evaluation of Computing Systems …
+
+81. Globally Synchronized Time via Datacenter Networks
+Citations:
+Authors: V Shrivastav, KS Lee, H Wang, H Weatherspoon
+Publication: IEEE/ACM Transactions on Networking 27 (4), 1401-1416
+
+82. Partitioned Paxos via the Network Data Plane
+Citations:
+Authors: HT Dang, P Bressana, H Wang, KS Lee, N Zilberman, H Weatherspoon, ...
+Publication: arXiv preprint arXiv:1901.08806
+
+83. 2018 Stakeholder Meeting Presentations, Day 2, Room 30C
+Citations:
+Authors: EW Anderson, S Wicker, H Weatherspoon, R Chandramouli, N French, ...
+Publication: 
+
+84. Untethered: Deployable Blockchains for IoT Environments
+Citations:
+Authors: K Karlsson, D Adams, G Rubambiza, Z Xian, R van Renesse, ...
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 508-508
+
+85. Towards an emergency edge supercloud
+Citations:
+Authors: K Karlsson, Z Shen, W Song, H Weatherspoon, R van Renesse, S Wicker
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 633-633
+
+86. Globally Synchronized Time via Datacenter Networks
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+87. Proceedings of 2016 USENIX Annual Technical Conference
+Citations:
+Authors: A Gulati, H Weatherspoon
+Publication: Proceedings of 2016 USENIX Annual Technical Conference
+
+88. Smart Monitor System For Automatic Anomaly Detection@ Baidu
+Citations:
+Authors: X Qu
+Publication: 
+
+89. Making Good Career Choices
+Citations:
+Authors: H Levy, R Greenstadt, A Arpaci-Dusseau, H Weatherspoon, D da Silva
+Publication: 
+
+90. Engaging Students via Innovative Military Useful Technologies
+Citations:
+Authors: K Birman, R van Renesse, H Weatherspoon
+Publication: CORNELL UNIV ITHACA NY
+
+91. High Performance Computing Multicast
+Citations:
+Authors: K Birman, D Freedman, R van Renesse, H Weatherspoon, T Marian
+Publication: CORNELL UNIV ITHACA NY
+
+92. Summary of the 3rd ACM SIGOPS workshop on large-scale distributed systems and middleware (LADIS 2009)
+Citations:
+Authors: H Weatherspoon, D Terry, G Chockler
+Publication: ACM SIGOPS Operating Systems Review 43 (4), 3-4
+
+93. Two-level, Self-verifying Data for Peer-to-peer Storage
+Citations:
+Authors: PR Eaton, H Weatherspoon, JD Kubiatowicz
+Publication: Computer Science Division, University of California
+
+94. Part III: Challenges in distributed information and data management
+Citations:
+Authors: H WEATHERSPOON
+Publication: Lecture notes in computer science, 125-126
+
+95. Media Access Control In the Wireless Sensor Network Regime
+Citations:
+Authors: S Chandrasekaran, H Weatherspoon, V Wen, A Woo, D Culler, A Joseph, ...
+Publication: IEEE INFOCOM, 1
+
+96. Silverback and the Archival Layer of OceanStore
+Citations:
+Authors: H Weatherspoon, C Wells
+Publication: 
+
+97. usenix conference policies
+Citations:
+Authors: S Rhea, P Eaton, D Geels, H Weatherspoon, B Zhao, J Kubiatowicz
+Publication: 
+
+98. Teaching Statement
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+99. Hakim Weatherspoon, Hugo Miranda, Konrad Iwanicki, Ali Ghodsi, Yann Busnel
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+100. GOSSIP: Gossip Over Storage Systems Is Practical
+Citations:
+Authors: H Weatherspoon, H Miranda, KIA Ghodsi, Y Busnel
+Publication: 
+
+101. Virtual Memory
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+102. What does the Future Hold?
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+103. Assemblers, Linkers, and Loaders
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+104. RISC, CISC, and Assemblers
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+105. Calling Conventions
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+106. Multicore and Parallel Processing
+Citations:
+Authors: H Weatherspoon
+Publication: 
+
+107. usenix conference policies
+Citations:
+Authors: W Xu
+Publication: 
+
+108. USENIX Member Benefits
+Citations:
+Authors: B Noble, J Arrasjid, C Rowland, K Opsahl, C Allman, DN Blank-Edelman, ...
+Publication: 
+
+109. Quantifying the Tradeoffs Between Distributed Hash Tables and Distributed Directories
+Citations:
+Authors: H Weatherspoon, BG Chun, J Stribling, JD Kubiatowicz
+Publication: 
+
+110. Future Directions in Distributed Computing
+Citations:
+Authors: ASAA Shvartsman, HWBY Zhao
+Publication: 
+
+111. Models and Methodologies
+Citations:
+Authors: A van Moorsel, A Goel, F Pedone, L Alvisi, M Vieira, MK Aguilera, ...
+Publication: 
+
+112. X1: Commodity Clusters with Real-Time Reflexes
+Citations:
+Authors: T Marian, M Balakrishnan, H Weatherspoon, K Birman
+Publication: 
+
+113. Alan Sussman Alberto de Souza Alfredo Goldman Ali Butt
+Citations:
+Authors: A Coutinho, A Matsunaga, ATA Gomes, A Mury, B Schulze, C De Rose, ...
+Publication: 
+
+114. Introspective Replica Management
+Citations:
+Authors: H Weatherspoon, Y Chen, D Geels
+Publication: 
+
+115. Replica Placement Strategies for Wide-Area Storage Systems
+Citations:
+Authors: BG Chun, H Weatherspoon
+Publication: 
+
+116. Router Reliability Research (R3)
+Citations:
+Authors: JM Smith, K Birman, R Broberg, D Comer, CJ Cotton, B Lehr, ...
+Publication: 
+

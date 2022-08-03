@@ -1,0 +1,368 @@
+https://scholar.google.com/citations?hl=en&user=u1UDm4wAAAAJ
+Total Citations = 4464
+
+1. A comparison of approaches to large-scale data analysis
+Citations:1325
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+2. MapReduce and parallel DBMSs: friends or foes?
+Citations:588
+Authors: M Stonebraker, D Abadi, DJ DeWitt, S Madden, E Paulson, A Pavlo, ...
+Publication: Communications of the ACM 53 (1), 64-71
+
+3. H-store: a high-performance, distributed main memory transaction processing system
+Citations:539
+Authors: R Kallman, H Kimura, J Natkins, A Pavlo, A Rasin, S Zdonik, EPC Jones, ...
+Publication: Proceedings of the VLDB Endowment 1 (2), 1496-1499
+
+4. Skew-aware automatic database partitioning in shared-nothing, parallel OLTP systems
+Citations:247
+Authors: A Pavlo, C Curino, S Zdonik
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+5. Oltp-bench: An extensible testbed for benchmarking relational databases
+Citations:166
+Authors: DE Difallah, A Pavlo, C Curino, P Cudre-Mauroux
+Publication: Proceedings of the VLDB Endowment 7 (4), 277-288
+
+6. Staring into the abyss: An evaluation of concurrency control with one thousand cores
+Citations:142
+Authors: X Yu, G Bezerra, A Pavlo, S Devadas, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 8 (3), 209-220
+
+7. Let's talk about storage & recovery methods for non-volatile memory database systems
+Citations:131
+Authors: J Arulraj, A Pavlo, SR Dulloor
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+8. Automatic database management system tuning through large-scale machine learning
+Citations:119
+Authors: D Van Aken, A Pavlo, GJ Gordon, B Zhang
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+9. Anti-caching: A new approach to database management system architecture
+Citations:101
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik
+Publication: Proceedings of the VLDB Endowment 6 (14), 1942-1953
+
+10. E-store: Fine-grained elastic partitioning for distributed transaction processing systems
+Citations:91
+Authors: R Taft, E Mansour, M Serafini, J Duggan, AJ Elmore, A Aboulnaga, ...
+Publication: Proceedings of the VLDB Endowment 8 (3), 245-256
+
+11. Self-Driving Database Management Systems.
+Citations:79
+Authors: A Pavlo, G Angulo, J Arulraj, H Lin, J Lin, L Ma, P Menon, TC Mowry, ...
+Publication: CIDR 4, 1
+
+12. Tictoc: Time traveling optimistic concurrency control
+Citations:66
+Authors: X Yu, A Pavlo, D Sanchez, S Devadas
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1629 …
+
+13. Bridging the archipelago between row-stores and column-stores for hybrid workloads
+Citations:62
+Authors: J Arulraj, A Pavlo, P Menon
+Publication: Proceedings of the 2016 International Conference on Management of Data, 583-598
+
+14. S-Store: streaming meets transaction processing
+Citations:62
+Authors: J Meehan, N Tatbul, S Zdonik, C Aslantas, U Cetintemel, J Du, T Kraska, ...
+Publication: Proceedings of the VLDB Endowment 8 (13), 2134-2145
+
+15. S-Store: a streaming NewSQL system for big velocity applications
+Citations:62
+Authors: U Cetintemel, J Du, T Kraska, S Madden, D Maier, J Meehan, A Pavlo, ...
+Publication: Proceedings of the VLDB Endowment 7 (13), 1633-1636
+
+16. On predictive modeling for optimizing transaction execution in parallel OLTP systems
+Citations:59
+Authors: A Pavlo, EPC Jones, S Zdonik
+Publication: Proceedings of the VLDB Endowment 5 (2), 85-96
+
+17. Write-behind logging
+Citations:51
+Authors: J Arulraj, M Perron, A Pavlo
+Publication: Proceedings of the VLDB Endowment 10 (4), 337-348
+
+18. A prolegomenon on OLTP database systems for non-volatile memory
+Citations:51
+Authors: J DeBrabant, J Arulraj, A Pavlo, M Stonebraker, S Zdonik, S Dulloor
+Publication: ADMS@ VLDB
+
+19. Reducing the storage overhead of main-memory OLTP databases with hybrid indexes
+Citations:48
+Authors: H Zhang, DG Andersen, A Pavlo, M Kaminsky, L Ma, R Shen
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1567 …
+
+20. What’s Really New with NewSQL?
+Citations:47
+Authors: A Pavlo, M Aslett
+Publication: SIGMOD Record 45 (2), 45-55
+
+21. An empirical evaluation of in-memory multi-version concurrency control
+Citations:41
+Authors: Y Wu, J Arulraj, J Lin, R Xian, A Pavlo
+Publication: Proceedings of the VLDB Endowment 10 (7), 781-792
+
+22. Squall: Fine-grained live reconfiguration for partitioned main memory databases
+Citations:41
+Authors: AJ Elmore, V Arora, R Taft, A Pavlo, D Agrawal, A El Abbadi
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+23. How to build a non-volatile memory database management system
+Citations:40
+Authors: J Arulraj, A Pavlo
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+24. The NMI Build & Test Laboratory: Continuous Integration Framework for Distributed Computing Software.
+Citations:36
+Authors: A Pavlo, P Couvares, R Gietzel, A Karp, ID Alderman, M Livny, C Bacon
+Publication: LISA, 263-273
+
+25. Benchmarking oltp/web databases in the cloud: The oltp-bench framework
+Citations:29
+Authors: CA Curino, DE Difallah, A Pavlo, P Cudre-Mauroux
+Publication: Proceedings of the fourth international workshop on Cloud data management, 17-20
+
+26. Query-based workload forecasting for self-driving database management systems
+Citations:27
+Authors: L Ma, D Van Aken, A Hefny, G Mezerhane, A Pavlo, GJ Gordon
+Publication: Proceedings of the 2018 International Conference on Management of Data, 631-645
+
+27. Relaxed operator fusion for in-memory databases: Making compilation, vectorization, and prefetching work together at last
+Citations:22
+Authors: P Menon, TC Mowry, A Pavlo
+Publication: Proceedings of the VLDB Endowment 11 (1), 1-13
+
+28. Main memory database systems
+Citations:22
+Authors: F Faerber, A Kemper, PÅ Larson, J Levandoski, T Neumann, A Pavlo
+Publication: Foundations and Trends® in Databases 8 (1-2), 1-130
+
+29. Clay: fine-grained adaptive partitioning for general database schemas
+Citations:22
+Authors: M Serafini, R Taft, AJ Elmore, A Pavlo, A Aboulnaga, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 10 (4), 445-456
+
+30. Surf: Practical range query filtering with fast succinct tries
+Citations:19
+Authors: H Zhang, H Lim, V Leis, DG Andersen, M Kaminsky, K Keeton, A Pavlo
+Publication: Proceedings of the 2018 International Conference on Management of Data, 323-336
+
+31. Building a bw-tree takes more than just buzz words
+Citations:13
+Authors: Z Wang, A Pavlo, H Lim, V Leis, H Zhang, M Kaminsky, DG Andersen
+Publication: Proceedings of the 2018 International Conference on Management of Data, 473-488
+
+32. Larger-than-memory data management on modern storage hardware for in-memory OLTP database systems
+Citations:13
+Authors: L Ma, J Arulraj, S Zhao, A Pavlo, SR Dulloor, MJ Giardino, J Parkhurst, ...
+Publication: Proceedings of the 12th International Workshop on Data Management on New …
+
+33. Enterprise database applications and the cloud: A difficult road ahead
+Citations:12
+Authors: M Stonebraker, A Pavlo, R Taft, ML Brodie
+Publication: 2014 IEEE International Conference on Cloud Engineering, 1-6
+
+34. Pegasus and DAGMan From Concept to Execution: Mapping Scientific Workflows onto Today's Cyberinfrastructure.
+Citations:10
+Authors: E Deelman, M Livny, G Mehta, A Pavlo, G Singh, MH Su, K Vahi, ...
+Publication: High Performance Computing Workshop, 56-74
+
+35. A parent-centered radial layout algorithm for interactive graph visualization and animation
+Citations:9
+Authors: A Pavlo, C Homan, J Schull
+Publication: arXiv preprint cs/0606007
+
+36. Reducing replication bandwidth for distributed document databases
+Citations:8
+Authors: L Xu, A Pavlo, S Sengupta, J Li, GR Ganger
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 222-235
+
+37. Everything you always wanted to know about compiled and vectorized queries but were afraid to ask
+Citations:7
+Authors: T Kersten, V Leis, A Kemper, T Neumann, A Pavlo, P Boncz
+Publication: Proceedings of the VLDB Endowment 11 (13), 2209-2222
+
+38. What are we doing with our lives?: nobody cares about our concurrency control research
+Citations:7
+Authors: A Pavlo
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data, 3-3
+
+39. On scalable transaction execution in partitioned main memory database management systems
+Citations:6
+Authors: A Pavlo
+Publication: PhD thesis, Brown University
+
+40. A demonstration of the ottertune automatic database management system tuning service
+Citations:5
+Authors: B Zhang, D Van Aken, J Wang, T Dai, S Jiang, J Lao, S Sheng, A Pavlo, ...
+Publication: Proceedings of the VLDB Endowment 11 (12), 1910-1913
+
+41. Online deduplication for databases
+Citations:5
+Authors: L Xu, A Pavlo, S Sengupta, GR Ganger
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+42. Interactive, tree-based graph visualization
+Citations:5
+Authors: A Pavlo
+Publication: 
+
+43. Performance of OLTP via intelligent scheduling
+Citations:4
+Authors: T Zhang, A Tomasic, Y Sheng, A Pavlo
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 1288-1291
+
+44. BenchPress: dynamic workload control in the OLTP-bench testbed
+Citations:4
+Authors: D Van Aken, DE Difallah, A Pavlo, C Curino, P Cudré-Mauroux
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+45. Emerging hardware trends in large-scale transaction processing
+Citations:4
+Authors: A Pavlo
+Publication: IEEE Internet Computing 19 (3), 68-71
+
+46. Research for practice: distributed consensus and implications of NVM on database management systems
+Citations:3
+Authors: P Bailis, C Fournier, J Arulraj, A Pavlo
+Publication: Communications of the ACM 59 (11), 52-55
+
+47. Sundial: harmonizing concurrency control and caching in a distributed OLTP database management system
+Citations:2
+Authors: X Yu, Y Xia, A Pavlo, D Sanchez, L Rudolph, S Devadas
+Publication: Proceedings of the VLDB Endowment 11 (10), 1289-1302
+
+48. Graffiti networks: A subversive, internet-scale file sharing model
+Citations:2
+Authors: A Pavlo, N Shi
+Publication: arXiv preprint arXiv:1101.0350
+
+49. MapReduce and Parallel DBMSs: Friends or Foes
+Citations:2
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Communications of the ACM 53 (1)
+
+50. MapReduce and parallel DBMSs
+Citations:2
+Authors: MSDADJ DeWitt; Sam Madden; Erik Paulson; Andrew Pavlo; Alexander Rasin
+Publication: Communications of the ACM
+
+51. OLTP Benchmarks
+Citations:2
+Authors: C Curino, DE Difallah, A Pavlo, P Cudre-Maroux, E Jones, Y Zhang, ...
+Publication: 
+
+52. Scheduling OLTP transactions via learned abort prediction
+Citations:1
+Authors: Y Sheng, A Tomasic, T Zhang, A Pavlo
+Publication: Proceedings of the Second International Workshop on Exploiting Artificial …
+
+53. Non-Volatile Memory Database Management Systems
+Citations:1
+Authors: J Arulraj, A Pavlo
+Publication: Synthesis Lectures on Data Management 11 (1), 1-191
+
+54. Tastes Great, Less Filling: Low-Impact OLAP MapReduce Queries on High-Performance OLTP Systems
+Citations:1
+Authors: X Jia, A Pavlo, S Zdonik
+Publication: Tiny Transactions on Computer Science 1
+
+55. Smoother transitions between breadth-first-spanning-tree-based drawings
+Citations:1
+Authors: C Homan, A Pavlo, J Schull
+Publication: International Symposium on Graph Drawing, 442-445
+
+56. Scheduling OLTP Transactions via Machine Learning
+Citations:
+Authors: Y Sheng, A Tomasic, T Sheng, A Pavlo
+Publication: arXiv preprint arXiv:1903.02990
+
+57. Predictive Indexing
+Citations:
+Authors: J Arulraj, R Xian, L Ma, A Pavlo
+Publication: arXiv preprint arXiv:1901.07064
+
+58. External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems
+Citations:
+Authors: A Pavlo, M Butrovich, A Joshi, L Ma, P Menon, D Van Aken, L Lee, ...
+Publication: Data Engineering, 31
+
+59. Data Management on New Hardware: 7th International Workshop on Accelerating Data Analysis and Data Management Systems Using Modern Processor and Storage Architectures, ADMS …
+Citations:
+Authors: S Blanas, R Bordawekar, T Lahiri, J Levandoski, A Pavlo
+Publication: Springer
+
+60. Can We Make This Easier?
+Citations:
+Authors: J Arulraj, A Pavlo
+Publication: COMMUNICATIONS OF THE ACM 59 (11)
+
+61. Similarity-based Deduplication for Databases
+Citations:
+Authors: L Xu, A Pavlo, S Sengupta, GR Ganger
+Publication: 
+
+62. In Memory Data Management and Analysis: First and Second International Workshops, IMDM 2013, Riva Del Garda, Italy, August 26, 2013, IMDM 2014, Hongzhou, China, September 1 …
+Citations:
+Authors: A Jagatheesan, J Levandoski, T Neumann, A Pavlo
+Publication: Springer
+
+63. The SEATS airline ticketing systems benchmark. h ttp
+Citations:
+Authors: M Stonebraker, A Pavlo
+Publication: hstore. cs. brown. edu/projects/seats
+
+64. Graffiti Networks
+Citations:
+Authors: A Pavlo
+Publication: 
+
+65. NMI Build & Test Laboratory
+Citations:
+Authors: A Pavlo, P Couvares, R Gietzel, A Karp, ID Alderman, M Livny, C Bacon
+Publication: 
+
+66. Data Management on New Hardware
+Citations:
+Authors: S Blanas, R Bordawekar, T Lahiri, J Levandoski, A Pavlo
+Publication: 
+
+67. In Memory Data Management and Analysis
+Citations:
+Authors: A Jagatheesan, J Levandoski, T Neumann, A Pavlo
+Publication: 
+
+68. 3.6 Machine Learning in Database Systems
+Citations:
+Authors: A Nica, A Pavlo
+Publication: Database Architectures for Modern Hardware, 72
+
+69. A One-Year Study of Subversive Data Storage on Websites using the Graffiti Network System
+Citations:
+Authors: A Pavlo, N Shi
+Publication: 
+
+70. Taurus: A Parallel Transaction Recovery Method Based on Fine-Granularity Dependency Tracking
+Citations:
+Authors: X Yu, S Zhu, J Kaashoek, A Pavlo, S Devadas
+Publication: 
+
+71. Intelligent Data Clustering for Cold-Data Storage in Main-Memory Databases
+Citations:
+Authors: A Maiti, A Pavlo
+Publication: 
+
+72. IC2E 2014
+Citations:
+Authors: M Stonebraker, A Pavlo, R Taft, ML Brodie
+Publication: 
+
+73. Graffiti Networks: A Subversive, Internet-Scale Peer-to-Peer File Sharing Model
+Citations:
+Authors: A Pavlo, N Shi
+Publication: 
+

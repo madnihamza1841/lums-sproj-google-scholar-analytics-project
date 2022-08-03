@@ -1,0 +1,928 @@
+https://scholar.google.com/citations?hl=en&user=K_-KJi8AAAAJ
+Total Citations = 11302
+
+1. A survey of rollback-recovery protocols in message-passing systems
+Citations:2161
+Authors: EN Elnozahy, L Alvisi, YM Wang, DB Johnson
+Publication: ACM Computing Surveys (CSUR) 34 (3), 375-408
+
+2. Modeling the effect of technology trends on the soft error rate of combinational logic
+Citations:1711
+Authors: P Shivakumar, M Kistler, SW Keckler, D Burger, L Alvisi
+Publication: Proceedings International Conference on Dependable Systems and Networks, 389-398
+
+3. Zyzzyva: speculative byzantine fault tolerance
+Citations:523
+Authors: R Kotla, L Alvisi, M Dahlin, A Clement, E Wong
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 45-58
+
+4. Separating agreement from execution for byzantine fault tolerant services
+Citations:386
+Authors: J Yin, JP Martin, A Venkataramani, L Alvisi, M Dahlin
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 253-267
+
+5. Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults.
+Citations:318
+Authors: A Clement, EL Wong, L Alvisi, M Dahlin, M Marchetti
+Publication: NSDI 9, 153-168
+
+6. BAR fault tolerance for cooperative services
+Citations:314
+Authors: AS Aiyer, L Alvisi, A Clement, M Dahlin, JP Martin, C Porth
+Publication: ACM SIGOPS operating systems review 39 (5), 45-58
+
+7. Depot: Cloud storage with minimal trust
+Citations:294
+Authors: P Mahajan, S Setty, S Lee, A Clement, L Alvisi, M Dahlin, M Walfish
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (4), 12
+
+8. Message logging: Pessimistic, optimistic, causal, and optimal
+Citations:294
+Authors: L Alvisi, K Marzullo
+Publication: IEEE Transactions on Software Engineering 24 (2), 149-159
+
+9. Fast byzantine consensus
+Citations:280
+Authors: JP Martin, L Alvisi
+Publication: IEEE Transactions on Dependable and Secure Computing 3 (3), 202-215
+
+10. BAR gossip
+Citations:249
+Authors: HC Li, A Clement, EL Wong, J Napper, I Roy, L Alvisi, M Dahlin
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+11. Upright cluster services
+Citations:190
+Authors: A Clement, M Kapritsos, S Lee, Y Wang, L Alvisi, M Dahlin, T Riche
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+12. Minimal byzantine storage
+Citations:187
+Authors: JP Martin, L Alvisi, M Dahlin
+Publication: International Symposium on Distributed Computing, 311-325
+
+13. An analysis of communication induced checkpointing
+Citations:186
+Authors: L Alvisi, E Elnozahy, S Rao, SA Husain, A De Mel
+Publication: Digest of Papers. Twenty-Ninth Annual International Symposium on Fault …
+
+14. Wrapping server-side TCP to mask connection failures
+Citations:164
+Authors: L Alvisi, TC Bressoud, A El-Khashab, K Marzullo, D Zagorodnov
+Publication: Proceedings IEEE INFOCOM 2001. Conference on Computer Communications …
+
+15. Zyzzyva: Speculative byzantine fault tolerance
+Citations:162
+Authors: R Kotla, L Alvisi, M Dahlin, A Clement, E Wong
+Publication: ACM Transactions on Computer Systems (TOCS) 27 (4), 7
+
+16. Volume leases for consistency in large-scale systems
+Citations:150
+Authors: J Yin, L Alvisi, M Dahlin, C Lin
+Publication: IEEE transactions on knowledge and data engineering 11 (4), 563-576
+
+17. Nonblocking and orphan-free message logging protocols
+Citations:150
+Authors: L Alvisi, B Hoppe, K Marzullo
+Publication: FTCS-23 The Twenty-Third International Symposium on Fault-Tolerant Computing …
+
+18. Message logging: Pessimistic, optimistic, and causal
+Citations:146
+Authors: L Alvisi, K Marzullo
+Publication: Proceedings of 15th International Conference on Distributed Computing …
+
+19. SafeStore: A durable and practical storage system
+Citations:129
+Authors: R Kotla, L Alvisi, M Dahlin
+Publication: USENIX Annual Technical Conference, 129-142
+
+20. Sok: The evolution of sybil defense via social networks
+Citations:126
+Authors: L Alvisi, A Clement, A Epasto, S Lattanzi, A Panconesi
+Publication: 2013 ieee symposium on security and privacy, 382-396
+
+21. All about Eve: execute-verify replication for multi-core servers
+Citations:125
+Authors: M Kapritsos, Y Wang, V Quema, A Clement, L Alvisi, M Dahlin
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+22. Consistency, availability, and convergence
+Citations:123
+Authors: P Mahajan, L Alvisi, M Dahlin
+Publication: University of Texas at Austin Tech Report
+
+23. FlightPath: Obedience vs. Choice in Cooperative Services.
+Citations:112
+Authors: HC Li, A Clement, M Marchetti, M Kapritsos, L Robison, L Alvisi, M Dahlin
+Publication: OSDI 8, 355-368
+
+24. Egida: An extensible toolkit for low-overhead fault-tolerance
+Citations:110
+Authors: S Rao, L Alvisi, HM Vin
+Publication: Digest of Papers. Twenty-Ninth Annual International Symposium on Fault …
+
+25. The cost of recovery in message logging protocols
+Citations:105
+Authors: S Rao, L Alvisi, HM Vin
+Publication: IEEE Transactions on Knowledge and Data Engineering 12 (2), 160-173
+
+26. Paralex: An environment for parallel programming in distributed systems
+Citations:103
+Authors: Ö Babaoğlu, L Alvisi, A Amoroso, R Davoli, LA Giachini
+Publication: Proceedings of the 6th international conference on Supercomputing, 178-187
+
+27. Using leases to support server-driven consistency in large-scale systems
+Citations:94
+Authors: J Yin, L Alvisi, M Dahlin, C Lin
+Publication: Proceedings. 18th International Conference on Distributed Computing Systems …
+
+28. HIERARCHICALCACHECONS ISTENCY INA WA N
+Citations:87
+Authors: J Yin, L Alvisi, M Dahlin, C Lin
+Publication: Proceedings of the 1999 Usenix Symposium on Internet Technologies and …
+
+29. Method, apparatus and system for maintaining connections between computers using connection-oriented protocols
+Citations:86
+Authors: T Bressoud, L Alvisi, El-Khashab AM, P Weidmann
+Publication: US Patent 20,010,056,492
+
+30. Engineering server-driven consistency for large scale dynamic Web services.
+Citations:82
+Authors: J Yin, L Alvisi, M Dahlin, A Iyengar
+Publication: WWW, 45-57
+
+31. Heterogeneous networking: a new survivability paradigm
+Citations:80
+Authors: Y Zhang, H Vin, L Alvisi, W Lee, SK Dao
+Publication: Proceedings of the 2001 workshop on New security paradigms, 33-39
+
+32. Small Byzantine quorum systems
+Citations:77
+Authors: JP Martin, L Alvisi, M Dahlin
+Publication: Proceedings International Conference on Dependable Systems and Networks, 374-383
+
+33. Dynamic Byzantine quorum systems
+Citations:73
+Authors: L Alvisi, D Malkhi, E Pierce, MK Reiter, RN Wright
+Publication: Proceeding International Conference on Dependable Systems and Networks. DSN …
+
+34. Fault detection for Byzantine quorum systems
+Citations:69
+Authors: L Alvisi, D Malkhi, E Pierce, MK Reiter
+Publication: IEEE Transactions on Parallel and Distributed Systems 12 (9), 996-1007
+
+35. Engineering Fault-Tolerant TCP/IP Servers Using FT-TCP.
+Citations:66
+Authors: D Zagorodnov, K Marzullo, L Alvisi, TC Bressoud
+Publication: DSN, 393-402
+
+36. A framework for dynamic byzantine storage
+Citations:65
+Authors: JP Martin, L Alvisi
+Publication: International Conference on Dependable Systems and Networks, 2004, 325-334
+
+37. Engineering web cache consistency
+Citations:65
+Authors: J Yin, L Alvisi, M Dahlin, A Iyengar
+Publication: ACM Transactions on Internet Technology (TOIT) 2 (3), 224-259
+
+38. A fault-tolerant java virtual machine
+Citations:62
+Authors: J Napper, L Alvisi, H Vin
+Publication: 2003 International Conference on Dependable Systems and Networks, 2003 …
+
+39. Understanding the message logging paradigm for masking process crashes
+Citations:62
+Authors: L Alvisi
+Publication: Cornell University
+
+40. On the availability of non-strict quorum systems
+Citations:55
+Authors: A Aiyer, L Alvisi, RA Bazzi
+Publication: International Symposium on Distributed Computing, 48-62
+
+41. Lazy means smart: Reducing repair bandwidth costs in erasure-coded distributed storage
+Citations:53
+Authors: M Silberstein, L Ganesh, Y Wang, L Alvisi, M Dahlin
+Publication: Proceedings of International Conference on Systems and Storage, 1-7
+
+42. High-performance ACID via modular concurrency control
+Citations:52
+Authors: C Xie, C Su, C Littley, L Alvisi, M Kapritsos, Y Wang
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 279-294
+
+43. Trade-offs in implementing causal message logging protocols
+Citations:52
+Authors: L Alvisi, K Marzullo
+Publication: Proceedings of the fifteenth annual ACM symposium on Principles of …
+
+44. How robust are gossip-based communication protocols?
+Citations:50
+Authors: L Alvisi, J Doumen, R Guerraoui, B Koldehofe, H Li, R Van Renesse, ...
+Publication: Operating Systems Review
+
+45. Method, apparatus and system for maintaining connections between computers using connection-oriented protocols
+Citations:49
+Authors: L Alvisi, TC Bressoud, AM El-Khashab, PK Weidmann
+Publication: US Patent 7,673,038
+
+46. Half-pipe anchoring: An efficient technique for multiple connection handoff
+Citations:47
+Authors: R Kokku, R Rajamony, L Alvisi, H Vin
+Publication: 10th IEEE International Conference on Network Protocols, 2002. Proceedings …
+
+47. Parallel computing in networks of workstations with Paralex
+Citations:46
+Authors: R Davoli, LA Giachini, Ö Babaoglu, A Amoroso, L Alvisi
+Publication: IEEE Transactions on Parallel and Distributed Systems 7 (4), 371-384
+
+48. Robustness in the Salus scalable block store
+Citations:45
+Authors: Y Wang, M Kapritsos, Z Ren, P Mahajan, J Kirubanandam, L Alvisi, ...
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+49. Salt: Combining {ACID} and {BASE} in a Distributed Database
+Citations:42
+Authors: C Xie, C Su, M Kapritsos, Y Wang, N Yaghmazadeh, L Alvisi, P Mahajan
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+50. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:39
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+51. BAR primer
+Citations:39
+Authors: A Clement, H Li, J Napper, JP Martin, L Alvisi, M Dahlin
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+52. Truth in advertising: Lightweight verification of route integrity
+Citations:37
+Authors: EL Wong, P Balasubramanian, L Alvisi, MG Gouda, V Shmatikov
+Publication: Proceedings of the twenty-sixth annual ACM symposium on Principles of …
+
+53. Scalable and private media consumption with Popcorn
+Citations:36
+Authors: T Gupta, N Crooks, W Mulhern, S Setty, L Alvisi, M Walfish
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+54. Bounded wait-free implementation of optimally resilient byzantine storage without (unproven) cryptographic assumptions
+Citations:36
+Authors: AS Aiyer, L Alvisi, RA Bazzi
+Publication: International Symposium on Distributed Computing, 7-19
+
+55. Mapping parallel computations onto distributed systems in paralex
+Citations:35
+Authors: O Babaoglu, L Alvisi, A Amoroso, R Davoli
+Publication: [1991] Proceedings, Advanced Computer Technology, Reliable Systems and …
+
+56. Gnothi: Separating data and metadata for efficient and available storage replication
+Citations:33
+Authors: Y Wang, L Alvisi, M Dahlin
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+57. Practical and low-overhead masking of failures of TCP-based servers
+Citations:33
+Authors: D Zagorodnov, K Marzullo, L Alvisi, TC Bressoud
+Publication: ACM Transactions on Computer Systems (TOCS) 27 (2), 4
+
+58. Zyzzyva: speculative byzantine fault tolerance
+Citations:32
+Authors: R Kotla, A Clement, E Wong, L Alvisi, M Dahlin
+Publication: Commun. ACM 51 (11), 86-95
+
+59. Distributed computing meets game theory: combining insights from two fields
+Citations:31
+Authors: I Abraham, L Alvisi, JY Halpern
+Publication: Acm Sigact News 42 (2), 69-76
+
+60. BFT: the time is now
+Citations:30
+Authors: A Clement, M Marchetti, E Wong, L Alvisi, M Dahlin
+Publication: Proceedings of the 2nd Workshop on Large-Scale Distributed Systems and …
+
+61. Theory of BAR games
+Citations:28
+Authors: A Clement, J Napper, H Li, JP Martin, L Alvisi, M Dahlin
+Publication: PODC 7, 358-359
+
+62. Causality tracking in causal message-logging protocols
+Citations:28
+Authors: L Alvisi, K Bhatia, K Marzullo
+Publication: Distributed Computing 15 (1), 1-15
+
+63. I can’t believe it’s not causal! scalable causal consistency with no slowdown cascades
+Citations:27
+Authors: SA Mehdi, C Littley, N Crooks, L Alvisi, N Bronson, W Lloyd
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+64. The paxos register
+Citations:27
+Authors: HC Li, A Clement, AS Aiyer, L Alvisi
+Publication: 2007 26th IEEE International Symposium on Reliable Distributed Systems (SRDS …
+
+65. Key grids: A protocol family for assigning symmetric keys
+Citations:27
+Authors: AS Aiyer, L Alvisi, MG Gouda
+Publication: Proceedings of the 2006 IEEE International Conference on Network Protocols …
+
+66. Tardis: A branch-and-merge approach to weak consistency
+Citations:22
+Authors: N Crooks, Y Pu, N Estrada, T Gupta, L Alvisi, A Clement
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1615 …
+
+67. The relative overhead of piggybacking in causal message logging protocols
+Citations:22
+Authors: K Bhatia, K Marzullo, L Alvisi
+Publication: Proceedings Seventeenth IEEE Symposium on Reliable Distributed Systems (Cat …
+
+68. Matrix signatures: From macs to digital signatures in distributed systems
+Citations:21
+Authors: AS Aiyer, L Alvisi, RA Bazzi, A Clement
+Publication: International Symposium on Distributed Computing, 16-31
+
+69. Transparent mobility with minimal infrastructure
+Citations:21
+Authors: P Yalagandula, A Garg, M Dahlin, L Alvisi, H Vin
+Publication: Computer Science Department, University of Texas at Austin
+
+70. Fault detection for Byzantine quorum systems
+Citations:21
+Authors: L Alvisi, D Malkhi, E Pierce, M Reiter
+Publication: Dependable Computing for Critical Applications 7, 379-394
+
+71. Exalt: Empowering researchers to evaluate large-scale storage systems
+Citations:20
+Authors: Y Wang, M Kapritsos, L Schmidt, L Alvisi, M Dahlin
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+72. Scalable causal message logging for wide‐area environments
+Citations:20
+Authors: K Bhatia, K Marzullo, L Alvisi
+Publication: Concurrency and computation: Practice and experience 15 (10), 873-889
+
+73. Waft: Support for fault-tolerance in wide-area object oriented systems
+Citations:20
+Authors: L Alvisi, K Marzullo
+Publication: Proceedings of the 2nd Information Survivability Workshop, IEEE Computer …
+
+74. Lock-free serializable transactions
+Citations:18
+Authors: J Napper, L Alvisi
+Publication: Computer Science Department, University of Texas at Austin
+
+75. Fast byzantine paxos
+Citations:17
+Authors: JP Martin, L Alvisi
+Publication: Proceedings of the International Conference on Dependable Systems and …
+
+76. Low-overhead protocols for fault-tolerant file sharing
+Citations:17
+Authors: L Alvisi, S Rao, HM Vin
+Publication: Proceedings. 18th International Conference on Distributed Computing Systems …
+
+77. It’s on me! The benefit of altruism in BAR environments
+Citations:14
+Authors: EL Wong, JB Leners, L Alvisi
+Publication: International Symposium on Distributed Computing, 406-420
+
+78. Dual-quorum replication for edge services
+Citations:14
+Authors: L Gao, M Dahlin, J Zheng, L Alvisi, A Iyengar
+Publication: Proceedings of the ACM/IFIP/USENIX 2005 International Conference on …
+
+79. Modeling the impact of device and pipeline scaling on the soft error rate of processor elements
+Citations:13
+Authors: P Shivakumar, M Kistler, SW Keckler, D Burger, L Alvisi
+Publication: Computer Science Department, University of Texas at Austin
+
+80. Seeing is believing: A client-centric specification of database isolation
+Citations:12
+Authors: N Crooks, Y Pu, L Alvisi, A Clement
+Publication: Proceedings of the ACM Symposium on Principles of Distributed Computing, 73-82
+
+81. Improving the performance of software distributed shared memory with speculation
+Citations:12
+Authors: M Kistler, L Alvisi
+Publication: IEEE Transactions on Parallel and Distributed Systems 16 (9), 885-896
+
+82. Pretzel: Email encryption and provider-supplied functions are compatible
+Citations:11
+Authors: T Gupta, H Fingler, L Alvisi, M Walfish
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+83. Bringing modular concurrency control to the next level
+Citations:11
+Authors: C Su, N Crooks, C Ding, L Alvisi, C Xie
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+84. Byzantine and multi-writer k-quorums
+Citations:11
+Authors: AS Aiyer, L Alvisi, RA Bazzi
+Publication: International Symposium on Distributed Computing, 443-458
+
+85. A framework for semantic reasoning about byzantine quorum systems
+Citations:11
+Authors: E Pierce, L Alvisi
+Publication: Proceedings of the twentieth annual ACM symposium on Principles of …
+
+86. Regret freedom isn’t free
+Citations:10
+Authors: EL Wong, I Levy, L Alvisi, A Clement, M Dahlin
+Publication: International Conference On Principles Of Distributed Systems, 80-95
+
+87. Dual-quorum: a highly available and consistent replication system for edge services
+Citations:10
+Authors: L Gao, M Dahlin, J Zheng, L Alvisi, A Iyengar
+Publication: IEEE Transactions on Dependable and Secure Computing 7 (2), 159-174
+
+88. Byzantine fault-tolerant confidentiality
+Citations:10
+Authors: J Yin, JP Martin, A Venkataramani, L Alvisi, M Dahlin
+Publication: Proceedings of the International Workshop on Future Directions in …
+
+89. Model checking Nash equilibria in mad distributed systems
+Citations:9
+Authors: F Mari, I Melatti, I Salvo, E Tronci, L Alvisi, A Clement, H Li
+Publication: 2008 Formal Methods in Computer-Aided Design, 1-8
+
+90. Deriving optimal checkpoint protocols for distributed shared memory architectures
+Citations:9
+Authors: L Alvisi, K Marzullo
+Publication: Theory and Practice in Distributed Systems, 111-120
+
+91. Revisiting fast practical byzantine fault tolerance
+Citations:8
+Authors: I Abraham, G Gueta, D Malkhi, L Alvisi, R Kotla, JP Martin
+Publication: arXiv preprint arXiv:1712.01367
+
+92. Communities, random walks, and social sybil defense
+Citations:8
+Authors: L Alvisi, A Clement, A Epasto, S Lattanzi, A Panconesi
+Publication: Internet Mathematics 10 (3-4), 360-420
+
+93. A recipe for atomic semantics for byzantine quorum systems
+Citations:8
+Authors: E Pierce, L Alvisi
+Publication: Technical report, University of Texas at Austin, Department of Computer Sciences
+
+94. Optimal message logging protocols
+Citations:8
+Authors: L Alvisi, K Marzullo
+Publication: Cornell University. Department of Computer Science
+
+95. Obladi: Oblivious serializable transactions in the cloud
+Citations:7
+Authors: N Crooks, M Burke, E Cecchetti, S Harel, R Agarwal, L Alvisi
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+96. Astro: Autonomous and trustworthy data sharing
+Citations:7
+Authors: P Mahajan, S Lee, J Zheng, L Alvisi, M Dahlin
+Publication: Technical Report TR-08-24, The University of Texas at Austin
+
+97. Model checking coalition nash equilibria in mad distributed systems
+Citations:6
+Authors: F Mari, I Melatti, I Salvo, E Tronci, L Alvisi, A Clement, H Li
+Publication: Symposium on Self-Stabilizing Systems, 531-546
+
+98. Hybrid message logging protocols for fast recovery
+Citations:6
+Authors: S Rao, L Alvisi, HM Vin
+Publication: Digest of FastAbstracts of Fault-Tolerant Computing Symposium (FTCS-28), 41-42
+
+99. Type-directed Component-based Synthesis using Petri Nets
+Citations:5
+Authors: Y Feng, Y Wang, R Martins, AA Kaushik, I Dillig, M Ali, R Reaz, M Gouda, ...
+Publication: Technical Report TR-16-01, Department of Computer Science, UT-Austin
+
+100. Robustness in a scalable block storage system
+Citations:5
+Authors: MD Dahlin, L Alvisi, L Ganesh, M Silberstein, Y Wang, M Kapritsos, ...
+Publication: US Patent App. 13/967,513
+
+101. What's a little collusion between friends?
+Citations:5
+Authors: EL Wong, L Alvisi
+Publication: PODC 13, 240-249
+
+102. Molecular and biochemical characterisation of naturally occurring hyperexpressed and mutated extended spectrum AmpC beta-lactamases in Norwegian clinical isolates of …
+Citations:5
+Authors: L Igeltjørn
+Publication: Universitetet i Tromsø
+
+103. Parallel scientific computing in distributed systems: the paralex approach
+Citations:5
+Authors: L Alvisi, A Amoroso, A Baronio, O Babaoglu, R Davoli, LA Giachini
+Publication: Computer and Information Sciences VI. Proceedings of the 1991 International …
+
+104. On the two array mask hidden-line algorithm
+Citations:5
+Authors: L Alvisi, G Casciola
+Publication: Computers & graphics 13 (2), 193-206
+
+105. The game of Paxos
+Citations:4
+Authors: HC Li, L Alvisi, A Clement
+Publication: Computer Science Department, University of Texas at Austin
+
+106. A graphical interface for CHIP
+Citations:4
+Authors: L Alvisi, FB Schneider
+Publication: Cornell University
+
+107. Trade-o s in implementing optimal message logging protocols
+Citations:4
+Authors: L Alvisi, K Marzulloy
+Publication: 
+
+108. Run-time Support for Dynamic Load Balancing and Debugging in Paralex
+Citations:4
+Authors: O Babaoglu, L Alvisi, A Amoroso, R Davoli, LA Giachini
+Publication: CORNELL UNIV ITHACA NY DEPT OF COMPUTER SCIENCE
+
+109. BAR—where distributed computing meets game theory
+Citations:3
+Authors: L Alvisi
+Publication: Latin-American Symposium on Dependable Computing, 235-236
+
+110. Distributed Computing (21 conf.)
+Citations:3
+Authors: A Pelc
+Publication: Springer
+
+111. Scalable causal message logging for wide-area environments
+Citations:3
+Authors: K Bhatia, K Marzullo, L Alvisi
+Publication: European Conference on Parallel Processing, 864-874
+
+112. Seuss: What the doctor ordered
+Citations:3
+Authors: L Alvisi, R Joshi, C Lin, J Misra
+Publication: Proceedings of PDSE'97: 2nd International Workshop on Software Engineering …
+
+113. Seeing is believing: A unified model for consistency and isolation via states
+Citations:2
+Authors: N Crooks, Y Pu, L Alvisi, A Clement
+Publication: arXiv preprint arXiv:1609.06670
+
+114. All about Eve: Execute-verify replication for multicore servers (extended version)
+Citations:2
+Authors: M Kapritsos, Y Wang, V Quema, A Clement, L Alvisi, M Dahlin
+Publication: Technical Report TR-12-23, Department of Computer Science, The University of …
+
+115. Depot: Cloud storage with minimal trust (extended version)
+Citations:2
+Authors: P Mahajan, S Setty, S Lee, A Clement, L Alvisi, M Dahlin, M Walfish
+Publication: Technical Report TR-10-33, Department of Computer Science, The University of …
+
+116. Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults
+Citations:2
+Authors: L Alvisi, A Clement, M Dahlin, M Marchetti, E Wong
+Publication: Computer Science Department, University of Texas at Austin
+
+117. Matrix signatures: From macs to digital signatures
+Citations:2
+Authors: AS Aiyer, L Alvisi, RA Bazzi, A Clement
+Publication: Computer Science Department, University of Texas at Austin
+
+118. Lightweight writeback for Byzantine storage systems
+Citations:2
+Authors: AS Aiyer, L Alvisi, RA Bazzi
+Publication: Computer Science Department, University of Texas at Austin
+
+119. Lock-free serializable transactions
+Citations:2
+Authors: L Alvisi
+Publication: 
+
+120. Minimal Byzantine quorums
+Citations:2
+Authors: JP Martin, L Alvisi, M Dahlin
+Publication: 
+
+121. C0PE: consistent 0-administration personal environment
+Citations:2
+Authors: P Yalagandula, L Alvisi, M Dahlin, H Vin
+Publication: Proceedings Sixth International Workshop on Object-Oriented Real-Time …
+
+122. Fault-tolerance: Java's missing buzzword
+Citations:2
+Authors: L Alvisi
+Publication: Proceedings Seventh Heterogeneous Computing Workshop (HCW'98), 156-158
+
+123. The Origins of Military Rule in Burma (PhD Dissertation)
+Citations:2
+Authors: M Callahan
+Publication: Cornell University, Ithaca
+
+124. Optimal Message Logging Protocols\\(Preliminary Version)
+Citations:2
+Authors: L Alvisi, K Marzullo
+Publication: Cornell University
+
+125. TARDiS: Transactional Storage with Parallel Worlds
+Citations:1
+Authors: N Crooks, N Estrada, L Alvisi, A Clement
+Publication: Technical Report 2186, University of Texas at Austin
+
+126. Reasoning with MAD distributed systems
+Citations:1
+Authors: L Alvisi, EL Wong
+Publication: International Conference on Concurrency Theory, 1-4
+
+127. Position paper: BFT: The time is now
+Citations:1
+Authors: A Clement, M Marchetti, E Wong, L Alvisi, M Dahlin
+Publication: Proceedings of the 2nd Workshop on Large-Scale Distributed Systems and …
+
+128. Information Theoretically Secure Byzantine Paxos
+Citations:1
+Authors: AS Aiyer, L Alvisi, A Clement, HC Li
+Publication: Computer Science Department, University of Texas at Austin
+
+129. Correction to
+Citations:1
+Authors: JP Martin, L Alvisi
+Publication: IEEE Transactions on Dependable and Secure Computing, 400
+
+130. Towards a practical approach to confidential Byzantine fault tolerance
+Citations:1
+Authors: J Yin, JP Martin, A Venkataramani, L Alvisi, M Dahlin
+Publication: Future directions in distributed computing, 51-56
+
+131. Minimal Byzantine quorum systems
+Citations:1
+Authors: JP Martin, L Alvisi, M Dahlin
+Publication: Technical report, University of Texas at Austin, Department of Computer Sciences
+
+132. Lightweight fault-tolerance for highly cooperative distributed applications
+Citations:1
+Authors: L Alvisi, S Rao, HM Vin
+Publication: University of Texas at Austin, Austin, TX
+
+133. Mapping Parallel Computations on to Distributed Systems in Paralex
+Citations:1
+Authors: O Babaoglu, L Alvisi, A Amoroso, R Davoli
+Publication: Tech. Report UBLCS-92-1, University of Bologna
+
+134. A rule based approach for pattern recognition in planar geometric figures
+Citations:1
+Authors: L Alvisi, R Odorico
+Publication: Computer Physics Communications 51 (3), 443-450
+
+135. Trade-o s in implementing causal message logging protocols
+Citations:1
+Authors: L Alvisi, K Marzullo
+Publication: Proc. of the 15th Ann. ACM Symp. on Principles of Distributed Computing …
+
+136. 2019 Edsger W. Dijkstra Prize in Distributed Computing
+Citations:
+Authors: L Alvisi, S Dolev, F Ellen, I Keidar, F Kuhn, J Suomela
+Publication: Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …
+
+137. Edsger W. Dijkstra Prize in Distributed Computing 2019-Call for Nominations
+Citations:
+Authors: L Alvisi, S Dolev, F Ellen, I Keidar, F Kuhn, J Suomela
+Publication: Bulletin of EATCS 1 (127)
+
+138. 2018 Doctoral Dissertation Award
+Citations:
+Authors: L Alvisi, I Keidar, A Richa, A Schwarzmann
+Publication: Proceedings of the 2018 ACM Symposium on Principles of Distributed Computing …
+
+139. Writes: the dirty secret of causal consistency.
+Citations:
+Authors: L Alvisi, N Crooks, SA Mehdi
+Publication: IEEE Data Eng. Bull. 40 (4), 15-25
+
+140. Salt: Combining ACID and BASE in a distributed database (invited talk)
+Citations:
+Authors: L Alvisi
+Publication: 18th International Conference on Principles of Distributed Systems, OPODIS 2014
+
+141. Special issue on PODC 2009
+Citations:
+Authors: L Alvisi
+Publication: Distributed Computing 24 (1), 1-1
+
+142. ACM Fellows honored
+Citations:
+Authors: C Staff
+Publication: Communications of the ACM 54 (2), 25-25
+
+143. Salt
+Citations:
+Authors: C Xie, C Su, M Kapritsos, Y Wang, N Yaghmazadeh, L Alvisi, P Mahajan
+Publication: 
+
+144. Message from the general co-chairs
+Citations:
+Authors: HH Chen, M Daneshmand
+Publication: 2010 The 5th Annual ICST Wireless Internet Conference, WICON 2010
+
+145. Proceedings of the Annual ACM Symposium on Principles of Distributed Computing 2009: Foreword
+Citations:
+Authors: L Alvisi
+Publication: Proceedings of the Annual ACM Symposium on Principles of Distributed Computing
+
+146. An examination of urban public transportation equity in San Antonio, Texas
+Citations:
+Authors: TA Barrow
+Publication: University of Texas
+
+147. DSN 2008 Steering Committee
+Citations:
+Authors: EM Elnozahy
+Publication: Software Engineering Institute, USA
+
+148. How to Leverage Altruism (position paper)
+Citations:
+Authors: JP Martin, L Alvisi
+Publication: 
+
+149. Brief announcement: Bounded wait-free implementation of optimally resilient byzantine storage without (unproven) cryptographic assumptions
+Citations:
+Authors: AS Aiyer, L Alvisi, R Bazzi
+Publication: PODC'07: 26th Annual ACM Symposium on Principles of Distributed Computing …
+
+150. Wait Free Atomic Semantics and Writebacks--Preliminary Version
+Citations:
+Authors: AS Aiyer, L Alvisi, RA Bazzi
+Publication: Computer Science Department, University of Texas at Austin
+
+151. Erratum: Fast byzantine consensus (IEEE Transactions on Dependable and Secure Computing,(2006) 3, 3 (202-215))
+Citations:
+Authors: JP Martin, L Alvisi
+Publication: IEEE Transactions on Dependable and Secure Computing 3 (4)
+
+152. Fast byzantine consensus (vol 3, pg 202, 2006)
+Citations:
+Authors: JP Martin, L Alvisi
+Publication: IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING 3 (4), 400-400
+
+153. BAR games
+Citations:
+Authors: A Clement, J Napper, L Alvisi, M Dahlin
+Publication: 
+
+154. BAR Fault Tolerance for Cooperative Services Extended Technical Report TR-05-10
+Citations:
+Authors: JP Martin, AS Aiyer, L Alvisi, A Clement, M Dahlin, C Porth
+Publication: 
+
+155. BAR Fault Tolerance for Cooperative Services Extended
+Citations:
+Authors: JP Martin, AS Aiyer, L Alvisi, A Clement, M Dahlin, C Porth
+Publication: Computer Science Department, University of Texas at Austin
+
+156. FINANCE CHAIR
+Citations:
+Authors: S Richman, R Mukherjee, Z Zhang, M Squillante, F Douglis, S Helal, ...
+Publication: 1999 IEEE Workshop on Internet Applications: Proceedings: July 26-27, 1999 …
+
+157. AU THOR IN DEX
+Citations:
+Authors: S Abe, AG Aberle, GK Abraham, A Abramo, TN Adam, R Adde, I Adesida, ...
+Publication: J-MEMS 94, 101
+
+158. The Relative Overhead of Piggybacking in Causal Message Logging Protocols
+Citations:
+Authors: KBK Marzullo, L Alvisi
+Publication: IEEE... Symposium on Reliable Distributed Systems, 348
+
+159. An Architecture for Low-overhead, Fault-tolerant File Sharing
+Citations:
+Authors: L Alvisi, HM Vin
+Publication: 
+
+160. 1995 Reviewers List
+Citations:
+Authors: M Abadi, GD Abowd, G Agha, A Aggarwal, A Agrawala, B Agresti, ...
+Publication: IEEE Transactions on Software Engineering 22 (1), 07
+
+161. Run-time support for dynamic load balancing and debugging in Paralex. Interim report
+Citations:
+Authors: O Babaoglu, L Alvisi, A Amoroso, R Davoli, LA Giachini
+Publication: Cornell Univ., Ithaca, NY (United States). Dept. of Computer Science
+
+162. Paralex: an environment for parallel programming in distributed systems. Interim report
+Citations:
+Authors: O Babaoglu, L Alvisi, A Amoroso, R Davoli, LA Giachini
+Publication: Cornell Univ., Ithaca, NY (United States). Dept. of Computer Science
+
+163. Degree Requirements
+Citations:
+Authors: JK Aggarwal, L Alvisi, CL Bajaj, JM Baldridge, DH Ballard, DS Batory, ...
+Publication: The University of, 333
+
+164. Robust Multi-threading
+Citations:
+Authors: J Napper, L Alvisi
+Publication: 
+
+165. Salt: Combining ACID and BASE in a Distributed Database
+Citations:
+Authors: YW Kapritsos, N Yaghmazadeh, L Alvisi, P Mahajan, S Bathey
+Publication: 
+
+166. High-Performance ACID via Modular Concurrency Control (Technical Report)
+Citations:
+Authors: C Xie, C Su, C Littley, L Alvisi, M Kapritsos, Y Wang
+Publication: 
+
+167. BAR-B
+Citations:
+Authors: AS Aiyer, L Alvisi, A Clement, M Dahlin, JP Martin, C Porth, ...
+Publication: 
+
+168. Models and Methodologies
+Citations:
+Authors: A van Moorsel, A Goel, F Pedone, L Alvisi, M Vieira, MK Aguilera, ...
+Publication: 
+
+169. 关于 Eve 的一切: 面向多核心服务器的执行-验证复制
+Citations:
+Authors: M Kaprisos, Y Wang, V Quema, A Clement, L Alvisi, M Dahlin
+Publication: 
+
+170. Fred Meyer Shivakant Mishra Jelena Misic
+Citations:
+Authors: H Afsarmanesh, L Alvisi, Y Amir, A Amoroso, WG Aref, M Astley, F Balback, ...
+Publication: 
+
+171. AU THOR IN DEX
+Citations:
+Authors: CB Achour, L Alvisi, Y Ampo, RJ Anderson, M Archer, A Arora, GS Avrunin, ...
+Publication: International Conference on Software Engineering]; T-SE Aug 98, 585
+
+172. Symposium Chair
+Citations:
+Authors: J Huai, R Baldoni, IL Yen, R Beraldi, A Bondavalli, LB Becker, G Cao, ...
+Publication: 
+
+173. Program index to volume 51
+Citations:
+Authors: DV Anderson, AE Koniges, DE Schumaker, L Alvisi, R Odorico, W Molter, ...
+Publication: 
+
+174. New Challenges in Reliable Distributed Computing
+Citations:
+Authors: L Alvisi
+Publication: 
+
+175. Robustness in the Salus scalable block store (extended version)
+Citations:
+Authors: Y Wang, M Kapritsos, Z Ren, P Mahajan, J Kirubanandam, L Alvisi, ...
+Publication: 
+
+176. Ex Officio
+Citations:
+Authors: J Abraham, L Alvisi, Y Amir, B Bentley, A Bondavalli, F Brasileiro, ...
+Publication: 
+
+177. DCC Program Committee
+Citations:
+Authors: L Alvisi, W Bartlett, A Bondavalli, J Bruck, P Chen, M Dacier, M Dal Cin, ...
+Publication: 
+
+178. Panel Organization Chair
+Citations:
+Authors: A Tripathi, L Alvisi, A Arora, B Bhargava, A Bondavalli, M Dal Cin, ...
+Publication: 
+
+179. Rfe erees
+Citations:
+Authors: I Ahamad, L Alvisi, D Buntinas, G Cao, S Cheung, P Chrysanthis, ...
+Publication: 
+
+180. Distributed TCP: An E0cient Infrastructure to Support
+Citations:
+Authors: R Kokku, R Rajamony, L Alvisi, H Vin
+Publication: 
+
+181. Half–Pipe Anchoring: An Efficient Mechanism for TCP Connection Handoff
+Citations:
+Authors: R Kokku, R Rajamony, L Alvisi, H Vin
+Publication: 
+
+182. Hierarchical Cache Consistency in a WAN Extended Abstract
+Citations:
+Authors: J Yin, L Alvisi, M Dahlin, C Lin
+Publication: 
+
+183. Dynamic Byzantine Quorum Systems Lorenzo Alvisi* Dahlia Malkhi† Evelyn Pierce* Michael К. Reiter § Rebecca N. Wright—
+Citations:
+Authors: L Alvisi
+Publication: 
+
+184. Experiences with the UpRight Library
+Citations:
+Authors: A Clement, M Kapritsos, S Lee, Y Wang, L Alvisi, M Dahlin, T Riché
+Publication: 
+
+185. Message from the DCCS Program Chair
+Citations:
+Authors: L Alvisi
+Publication: 
+

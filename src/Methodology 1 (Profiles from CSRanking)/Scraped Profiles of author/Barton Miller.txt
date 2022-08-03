@@ -1,0 +1,1833 @@
+https://scholar.google.com/citations?hl=en&user=dywFuRMAAAAJ
+Total Citations = 12122
+
+1. The Paradyn parallel performance measurement tool
+Citations:1071
+Authors: BP Miller, MD Callaghan, JM Cargille, JK Hollingsworth, RB Irvin, ...
+Publication: Computer 28 (11), 37-46
+
+2. An empirical study of the reliability of UNIX utilities
+Citations:1006
+Authors: BP Miller, L Fredriksen, B So
+Publication: Communications of the ACM 33 (12), 32-44
+
+3. What are race conditions?: Some issues and formalizations
+Citations:544
+Authors: RHB Netzer, BP Miller
+Publication: ACM Letters on Programming Languages and Systems (LOPLAS) 1 (1), 74-88
+
+4. Process migration in DEMOS/MP
+Citations:482
+Authors: ML Powell, BP Miller
+Publication: ACM SIGOPS Operating Systems Review 17 (5), 110-119
+
+5. Fuzz revisited: A re-examination of the reliability of UNIX utilities and services
+Citations:371
+Authors: BP Miller, D Koski, CP Lee, V Maganty, R Murthy, A Natarajan, J Steidl
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+6. An empirical study of the robustness of Windows NT applications using random testing
+Citations:354
+Authors: JE Forrester, BP Miller
+Publication: Proceedings of the 4th USENIX Windows System Symposium 4, 59-68
+
+7. IPS-2: The second generation of a parallel program measurement system
+Citations:274
+Authors: BP Miller, M Clark, J Hollingsworth, S Kierstead, SS Lim, T Torzewski
+Publication: IEEE Transactions on parallel and distributed systems 1 (2), 206-217
+
+8. Optimal tracing and replay for debugging message-passing parallel programs
+Citations:250
+Authors: RHB Netzer, BP Miller
+Publication: The Journal of Supercomputing 8 (4), 371-388
+
+9. Dynamic program instrumentation for scalable performance tools
+Citations:233
+Authors: JK Hollingsworth, BP Miller, J Cargille
+Publication: Proceedings of IEEE Scalable High Performance Computing Conference, 841-850
+
+10. Fine-grained dynamic instrumentation of commodity operating system kernels
+Citations:231
+Authors: A Tamches, BP Miller
+Publication: University of Wisconsin--Madison
+
+11. Efficient Context-Sensitive Intrusion Detection.
+Citations:229
+Authors: JT Giffin, S Jha, BP Miller
+Publication: NDSS
+
+12. MRNet: A software-based multicast/reduction network for scalable tools
+Citations:229
+Authors: PC Roth, DC Arnold, BP Miller
+Publication: SC'03: Proceedings of the 2003 ACM/IEEE conference on Supercomputing, 21-21
+
+13. Reliable network connections
+Citations:221
+Authors: VC Zandy, BP Miller
+Publication: Proceedings of the 8th annual international conference on Mobile computing …
+
+14. A mechanism for efficient debugging of parallel programs
+Citations:219
+Authors: BP Miller, JD Choi
+Publication: ACM SIGPLAN Notices 23 (7), 135-144
+
+15. Formalizing sensitivity in static analysis for intrusion detection
+Citations:213
+Authors: HH Feng, JT Giffin, Y Huang, S Jha, W Lee, BP Miller
+Publication: IEEE Symposium on Security and Privacy, 2004. Proceedings. 2004, 194-208
+
+16. Techniques for debugging parallel programs with flowback analysis
+Citations:204
+Authors: JD Choi, BP Miller, R Netzer
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+17. Breakpoints and halting in distributed programs
+Citations:201
+Authors: BP Miller, JD Choi
+Publication: [1988] Proceedings. The 8th International Conference on Distributed, 316-323
+
+18. Improving the accuracy of data race detection
+Citations:184
+Authors: RHB Netzer, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+19. Detecting Manipulated Remote Call Streams.
+Citations:173
+Authors: JT Giffin, S Jha, BP Miller
+Publication: USENIX Security Symposium, 61-79
+
+20. Critical path analysis for the execution of parallel and distributed programs
+Citations:162
+Authors: CQ Yang, BP Miller
+Publication: [1988] Proceedings. The 8th International Conference on Distributed, 366-373
+
+21. Detecting data races on weak memory systems
+Citations:161
+Authors: SV Adve, MD Hill, BP Miller, RHB Netzer
+Publication: ACM SIGARCH Computer Architecture News 19 (3), 234-243
+
+22. Dynamic control of performance monitoring on large scale parallel systems
+Citations:151
+Authors: JK Hollingsworth, BP Miller
+Publication: Proceedings of the 7th international conference on Supercomputing, 185-194
+
+23. Hybrid analysis and control of malware
+Citations:148
+Authors: KA Roundy, BP Miller
+Publication: International Workshop on Recent Advances in Intrusion Detection, 317-338
+
+24. Stack trace analysis for large scale debugging
+Citations:147
+Authors: DC Arnold, DH Ahn, BR De Supinski, GL Lee, BP Miller, M Schulz
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-10
+
+25. MDL: A language and compiler for dynamic program instrumentation
+Citations:133
+Authors: JK Hollingsworth, O Niam, BP Miller, Z Xu, MJR Gonçalves, L Zheng
+Publication: Proceedings 1997 International Conference on Parallel Architectures and …
+
+26. An empirical study of the robustness of macos applications using random testing
+Citations:119
+Authors: BP Miller, G Cooksey, F Moore
+Publication: Proceedings of the 1st international workshop on Random testing, 46-54
+
+27. Anywhere, any-time binary instrumentation
+Citations:115
+Authors: AR Bernat, BP Miller
+Publication: Proceedings of the 10th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+28. Practical analysis of stripped binary code
+Citations:105
+Authors: LC Harris, BP Miller
+Publication: ACM SIGARCH Computer Architecture News 33 (5), 63-68
+
+29. On the complexity of event ordering for shared-memory parallel program executions
+Citations:99
+Authors: RHB Netzer, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+30. Problem diagnosis in large-scale computing environments
+Citations:98
+Authors: AV Mirgorodskiy, N Maruyama, BP Miller
+Publication: Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 88
+
+31. Automatic generation and analysis of NIDS attacks
+Citations:98
+Authors: S Rubin, S Jha, BP Miller
+Publication: 20th Annual Computer Security Applications Conference, 28-38
+
+32. Safety checking of machine code
+Citations:97
+Authors: Z Xu, BP Miller, T Reps
+Publication: ACM SIGPLAN Notices 35 (5), 70-82
+
+33. Detecting data races in parallel program executions
+Citations:92
+Authors: R Netzer, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+34. A distributed programs monitor for Berkeley UNIX
+Citations:90
+Authors: BP Miller, C Macrander, S Sechrest
+Publication: Software: Practice and Experience 16 (2), 183-200
+
+35. Process hijacking
+Citations:87
+Authors: VC Zandy, BP Miller, M Livny
+Publication: Proceedings. The Eighth International Symposium on High Performance …
+
+36. Binary-code obfuscations in prevalent packer tools
+Citations:86
+Authors: KA Roundy, BP Miller
+Publication: ACM Computing Surveys (CSUR) 46 (1), 4
+
+37. What to draw? When to draw? An essay on parallel program visualization
+Citations:86
+Authors: BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+38. Environment-sensitive intrusion detection
+Citations:81
+Authors: JT Giffin, D Dagon, S Jha, W Lee, BP Miller
+Publication: International Workshop on Recent Advances in Intrusion Detection, 185-206
+
+39. On-line automated performance diagnosis on thousands of processes
+Citations:80
+Authors: PC Roth, BP Miller
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+40. Who wrote this code? identifying the authors of program binaries
+Citations:75
+Authors: N Rosenblum, X Zhu, BP Miller
+Publication: European Symposium on Research in Computer Security, 172-189
+
+41. Paging tradeoffs in distributed-shared-memory multiprocessors
+Citations:72
+Authors: DC Burger, RS Hyder, BP Miller, DA Wood
+Publication: The Journal of Supercomputing 10 (1), 87-104
+
+42. Automated discovery of mimicry attacks
+Citations:64
+Authors: JT Giffin, S Jha, BP Miller
+Publication: International Workshop on Recent Advances in Intrusion Detection, 41-60
+
+43. IPS: An Interactive and Automatic Performance Measurement Tool for Parallel and Distributed Programs.
+Citations:64
+Authors: BP Miller, CQ Yang
+Publication: ICDCS, 482-489
+
+44. Systems and methods for testing and evaluating an intrusion detection system
+Citations:63
+Authors: SA Rubin, S Jha, BP Miller
+Publication: US Patent 7,941,856
+
+45. Lessons learned at 208k: towards debugging millions of cores
+Citations:62
+Authors: GL Lee, DH Ahn, DC Arnold, BR De Supinski, M Legendre, BP Miller, ...
+Publication: SC'08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing, 1-9
+
+46. Learning to Analyze Binary Computer Code.
+Citations:62
+Authors: NE Rosenblum, X Zhu, BP Miller, K Hunt
+Publication: AAAI, 798-804
+
+47. Method or Madness? Inside the" SNWR" College Rankings.
+Citations:62
+Authors: RG Ehrenberg
+Publication: 
+
+48. Distributed active catalogs and meta-data caching in descriptive name services
+Citations:62
+Authors: JJ Ordille, PB Miller
+Publication: [1993] Proceedings. The 13th International Conference on Distributed …
+
+49. Dynamic instrumentation of threaded applications
+Citations:58
+Authors: Z Xu, BP Miller, O Naim
+Publication: ACM SIGPLAN Notices 34 (8), 49-59
+
+50. A comparison of interactivity in the Linux 2.6 scheduler and an MLFQ scheduler
+Citations:57
+Authors: LA Torrey, J Coleman, BP Miller
+Publication: Software: Practice and Experience 37 (4), 347-364
+
+51. Performance measurement for parallel and distributed programs: a structured and automatic approach
+Citations:57
+Authors: CQ Yang, BP Miller
+Publication: IEEE Transactions on Software Engineering 15 (12), 1615-1629
+
+52. Parallel program performance metrics: A comparison and validation
+Citations:56
+Authors: JK Hollingsworth, BP Miller
+Publication: Supercomputing'92: Proceedings of the 1992 ACM/IEEE Conference on …
+
+53. Binary code is not easy
+Citations:54
+Authors: X Meng, BP Miller
+Publication: Proceedings of the 25th International Symposium on Software Testing and …
+
+54. Incremental call‐path profiling
+Citations:54
+Authors: AR Bernat, BP Miller
+Publication: Concurrency and Computation: Practice and Experience 19 (11), 1533-1547
+
+55. The integration of application and system based metrics in a parallel program performance tool
+Citations:52
+Authors: JK Hollingsworth, RB Irvin, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+56. Using dynamic kernel instrumentation for kernel and application tuning
+Citations:50
+Authors: A Tamches, BP Miller
+Publication: The International Journal of High Performance Computing Applications 13 (3 …
+
+57. Scalable temporal order analysis for large scale debugging
+Citations:49
+Authors: DH Ahn, BR De Supinski, I Laguna, GL Lee, B Liblit, BP Miller, M Schulz
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+58. Language-based generation and evaluation of NIDS signatures
+Citations:48
+Authors: S Rubin, S Jha, BP Miller
+Publication: 2005 IEEE Symposium on Security and Privacy (S&P'05), 3-17
+
+59. Labeling library functions in stripped binaries
+Citations:47
+Authors: ER Jacobson, N Rosenblum, BP Miller
+Publication: Proceedings of the 10th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+60. A callgraph-based search strategy for automated performance diagnosis
+Citations:46
+Authors: HW Cain, BP Miller, BJN Wylie
+Publication: European Conference on Parallel Processing, 108-122
+
+61. Improving online performance diagnosis by the use of historical performance data
+Citations:44
+Authors: K Karavanic, B Miller
+Publication: SC'99: Proceedings of the 1999 ACM/IEEE Conference on Supercomputing, 42-42
+
+62. Experiment management support for performance tuning
+Citations:43
+Authors: KL Karavanic, BP Miller
+Publication: SC'97: Proceedings of the 1997 ACM/IEEE Conference on Supercomputing, 8-8
+
+63. Mr. scan: Extreme scale density-based clustering using a tree-based network of gpgpu nodes
+Citations:42
+Authors: B Welton, E Samanas, BP Miller
+Publication: SC'13: Proceedings of the International Conference on High Performance …
+
+64. Performance debugging using parallel performance predicates
+Citations:42
+Authors: ME Crovella, JK Hollingsworth, MJ Kaelbling, DMO Min, T Lai, T Lehr, ...
+Publication: 
+
+65. Extracting compiler provenance from program binaries
+Citations:41
+Authors: NE Rosenblum, BP Miller, X Zhu
+Publication: Proceedings of the 9th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+66. Manual vs. automated vulnerability assessment: A case study
+Citations:39
+Authors: JA Kupsch, BP Miller
+Publication: First International Workshop on Managing Insider Security Threats (MIST), 83-97
+
+67. Development of a standardized large river bioassessment protocol (LR‐BP) for macroinvertebrate assemblages
+Citations:39
+Authors: JE Flotemersch, K Blocksom, JJ Hutchens Jr, BC Autrey
+Publication: River Research and Applications 22 (7), 775-790
+
+68. DEMOS/MP: the development of a distributed operating system
+Citations:39
+Authors: BP Miller, ML Powell, DL Presotto
+Publication: Software: Practice and Experience 17 (4), 277-290
+
+69. Hardware management of a large virtual memory
+Citations:39
+Authors: DA Abramson
+Publication: Proc. 4th Australian Computer Science Conference 3 (1), 1-13
+
+70. Dpm: A measurement system for distributed programs
+Citations:36
+Authors: BP Miller
+Publication: IEEE Transactions on Computers 37 (2), 243-248
+
+71. Recovering the toolchain provenance of binary code
+Citations:34
+Authors: N Rosenblum, BP Miller, X Zhu
+Publication: Proceedings of the 2011 International Symposium on Software Testing and …
+
+72. Network intrusion detector with combined protocol analyses, normalization and matching
+Citations:33
+Authors: SA Rubin, S Jha, BP Miller
+Publication: US Patent 8,220,048
+
+73. First principles vulnerability assessment
+Citations:33
+Authors: JA Kupsch, BP Miller, E Heymann, E César
+Publication: Proceedings of the 2010 ACM workshop on Cloud computing security workshop, 87-92
+
+74. Playing inside the black box: Using dynamic instrumentation to create security holes
+Citations:33
+Authors: BP Miller, M Christodorescu, R Iverson, T Kosar, A Mirgorodskii, ...
+Publication: Parallel Processing Letters 11 (02n03), 267-280
+
+75. An adaptive cost system for parallel program instrumentation
+Citations:33
+Authors: JK Hollingsworth, BP Miller
+Publication: European Conference on Parallel Processing, 88-97
+
+76. Nomenclator descriptive query optimization for large X. 500 environments
+Citations:33
+Authors: JJ Ordille, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+77. Typestate checking of machine code
+Citations:32
+Authors: Z Xu, T Reps, BP Miller
+Publication: European Symposium On Programming, 335-351
+
+78. Binary wrapping: a technique for instrumenting object code
+Citations:31
+Authors: J Cargille, BP Miller
+Publication: ACM Sigplan Notices 27 (6), 17-18
+
+79. Reliable communication in an unreliable environment
+Citations:31
+Authors: KP Birman, TA Joseph, KP Birman, TA Joseph, JD Choi, BP Miller, ...
+Publication: tocs 5, 39-42
+
+80. Performance measurement of dynamically compiled Java executions
+Citations:30
+Authors: T Newhall, BP Miller
+Publication: Concurrency: Practice and Experience 12 (6), 343-362
+
+81. Integrated visualization of parallel program performance data
+Citations:30
+Authors: KL Karavanic, J Myllymaki, M Livny, BP Miller
+Publication: Parallel Computing 23 (1-2), 181-198
+
+82. Overcoming scalability challenges for tool daemon launching
+Citations:29
+Authors: DH Ahn, DC Arnold, BR de Supinski, GL Lee, BP Miller, M Schulz
+Publication: 2008 37th International Conference on Parallel Processing, 578-585
+
+83. The paradyn parallel performance tools and pvm
+Citations:28
+Authors: B Miller, J Hollingsworth, M Callaghan
+Publication: Proc. 2nd Workshop on Environments and Tools for Parallel Scientific …
+
+84. Diagnosing distributed systems with self-propelled instrumentation
+Citations:27
+Authors: AV Mirgorodskiy, BP Miller
+Publication: Proceedings of the 9th ACM/IFIP/USENIX International Conference on …
+
+85. A framework for scalable, parallel performance monitoring
+Citations:26
+Authors: A Nataraj, AD Malony, A Morris, DC Arnold, BP Miller
+Publication: Concurrency and Computation: Practice and Experience 22 (6), 720-735
+
+86. Shared-memory performance profiling
+Citations:26
+Authors: Z Xu, JR Larus, BP Miller
+Publication: ACM SIGPLAN Notices 32 (7), 240-251
+
+87. Mining software repositories for accurate authorship
+Citations:25
+Authors: X Meng, BP Miller, WR Williams, AR Bernat
+Publication: 2013 IEEE International Conference on Software Maintenance, 250-259
+
+88. Toward the deconstruction of Dyninst
+Citations:25
+Authors: G Ravipati, AR Bernat, N Rosenblum, BP Miller, JK Hollingsworth
+Publication: Univ. of Wisconsin, technical report, 32
+
+89. Protomatching network traffic for high throughputnetwork intrusion detection
+Citations:25
+Authors: S Rubin, S Jha, BP Miller
+Publication: Proceedings of the 13th ACM conference on Computer and communications …
+
+90. CrossWalk: A tool for performance profiling across the user-kernel boundary
+Citations:25
+Authors: AV Mirgorodskiy, BP Miller
+Publication: Advances in Parallel Computing 13, 745-752
+
+91. Virtual machine-provided context sensitive page mappings
+Citations:24
+Authors: NE Rosenblum, G Cooksey, BP Miller
+Publication: Proceedings of the fourth ACM SIGPLAN/SIGOPS international conference on …
+
+92. Tree-based overlay networks for scalable applications
+Citations:24
+Authors: DC Arnold, GD Pack, BP Miller
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+93. Performance characterization of distributed programs
+Citations:24
+Authors: BP Miller
+Publication: University of California at Berkeley
+
+94. Autonomous analysis of interactive systems with self-propelled instrumentation
+Citations:23
+Authors: AV Mirgorodskiy, BP Miller
+Publication: Multimedia Computing and Networking 2005 5680, 188-202
+
+95. Techniques for performance measurement of parallel programs
+Citations:23
+Authors: JK Hollingsworth, J Lumpp, BP Miller
+Publication: Computer Sciences Department, University of Wisconsin and Department of …
+
+96. Detecting code reuse attacks with a model of conformant program execution
+Citations:22
+Authors: ER Jacobson, AR Bernat, WR Williams, BP Miller
+Publication: International Symposium on Engineering Secure Software and Systems, 1-18
+
+97. Slack: a new performance metric for parallel programs
+Citations:22
+Authors: JK Hollingsworth, BP Miller
+Publication: University of Maryland and University of Wisconsin-Madison, Tech. Rep
+
+98. CLAM-an open system for graphical user interfaces
+Citations:22
+Authors: LA Call, DL Cohrs, BP Miller
+Publication: ACM SIGPLAN Notices 22 (12), 277-286
+
+99. Fuzz testing of application reliability
+Citations:20
+Authors: BP Miller
+Publication: UW-Madison Computer Sciences
+
+100. Model-based intrusion detection system design and evaluation
+Citations:20
+Authors: JT Giffin
+Publication: University of Wisconsin--Madison
+
+101. Performance measurement of interpreted programs
+Citations:20
+Authors: T Newhall, BP Miller
+Publication: European Conference on Parallel Processing, 146-156
+
+102. A performance tool for high-level parallel programming languages
+Citations:20
+Authors: RB Irvin, BP Miller
+Publication: Programming Environments for Massively Parallel Distributed Systems, 299-313
+
+103. Efficient, sensitivity resistant binary instrumentation
+Citations:19
+Authors: AR Bernat, K Roundy, BP Miller
+Publication: Proceedings of the 2011 International Symposium on Software Testing and …
+
+104. A framework for scalable, parallel performance monitoring using tau and mrnet
+Citations:19
+Authors: A Nataraj, AD Malony, A Morris, D Arnold, B Miller
+Publication: International Workshop on Scalable Tools for High-End Computing (STHEC 2008)
+
+105. Helium-liquefaction by cryocooler for high-field magnets cooling
+Citations:19
+Authors: YS Choi, TA Painter, DL Kim, BS Lee, HS Yang, HW Weijers, GE Miller, ...
+Publication: Proceedings of the International Cryocooler Conference 14
+
+106. Mapping performance data for high-level and data views of parallel program performance
+Citations:19
+Authors: RB Irvin, BP Miller
+Publication: International Conference on Supercomputing, 69-77
+
+107. Database challenges in global information systems
+Citations:19
+Authors: JJ Ordille, BP Miller
+Publication: ACM SIGMOD Record 22 (2), 403-407
+
+108. On the completeness of attack mutation algorithms
+Citations:18
+Authors: S Rubin, S Jha, BP Miller
+Publication: 19th IEEE Computer Security Foundations Workshop (CSFW'06), 14 pp.-56
+
+109. Deep start: A hybrid strategy for automated performance problem searches
+Citations:18
+Authors: PC Roth, BP Miller
+Publication: European Conference on Parallel Processing, 86-96
+
+110. A taxonomy of race conditions
+Citations:18
+Authors: DP Helmbold, CE McDowell
+Publication: Journal of parallel and distributed computing 33 (2), 159-164
+
+111. Benchmarking the stack trace analysis tool for BlueGene/L
+Citations:17
+Authors: GL Lee, DH Ahn, DC Arnold, BR De Supinski, BP Miller, MW Schulz
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+112. Scalable failure recovery for high-performance data aggregation
+Citations:16
+Authors: DC Arnold, BP Miller
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+113. Automated tracing and visualization of software security structure and properties
+Citations:15
+Authors: W Fang, BP Miller, JA Kupsch
+Publication: Proceedings of the ninth international symposium on visualization for cyber …
+
+114. MRNet: A scalable infrastructure for the development of parallel tools and applications
+Citations:15
+Authors: MJ Brim, L DeRose, BP Miller, R Olichandran, PC Roth
+Publication: Cray User Group
+
+115. Dynamic kernel i-cache optimization
+Citations:14
+Authors: A Tamches, BP Miller
+Publication: Proceedings of the 3rd Workshop on Binary Translation
+
+116. Multiapplication support in a parallel-program performance tool
+Citations:14
+Authors: RB Irvin, BP Miller
+Publication: IEEE Parallel & Distributed Technology: Systems & Applications 2 (1), 40-50
+
+117. XOS: an operating system for the X-tree architecture
+Citations:14
+Authors: B Miller, D Presotto
+Publication: ACM SIGOPS Operating Systems Review 15 (2), 21-32
+
+118. Identifying multiple authors in a binary program
+Citations:13
+Authors: X Meng, BP Miller, KS Jun
+Publication: European Symposium on Research in Computer Security, 286-304
+
+119. A framework for multi-execution performance tuning
+Citations:13
+Authors: KL Karavanic, BP Miller
+Publication: On-line monitoring systems and computer tool interoperability, 61-89
+
+120. The tool daemon protocol (TDP)
+Citations:13
+Authors: B Miller, A Cortés, MA Senar, M Livny
+Publication: Proceedings of the 2003 ACM/IEEE conference on Supercomputing, 19
+
+121. Delphi: An integrated, language-directed performance prediction, measurement and analysis environment
+Citations:13
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: Proceedings. Frontiers' 99. Seventh Symposium on the Frontiers of Massively …
+
+122. The Photochemical Preparation of Dimethyl-N-(2-cyano-2-propyl)ketenimine from 2,2'-Azobisisobutyronitrile1
+Citations:13
+Authors: P Smith, JE Sheats, PE Miller
+Publication: The Journal of Organic Chemistry 27 (11), 4053-4054
+
+123. Group file operations for scalable tools and middleware
+Citations:12
+Authors: MJ Brim, BP Miller
+Publication: 2009 International Conference on High Performance Computing (HiPC), 69-78
+
+124. A Visual Process Connector for Unix
+Citations:11
+Authors: M Bhattacharyya, D Cohrs, B Miller
+Publication: IEEE Software 5 (4), 43-50
+
+125. Automating risk analysis of software design models
+Citations:10
+Authors: M Frydman, G Ruiz, E Heymann, E César, BP Miller
+Publication: The Scientific World Journal 2014
+
+126. Structured binary editing with a cfg transformation algebra
+Citations:10
+Authors: AR Bernat, BP Miller
+Publication: 2012 19th Working Conference on Reverse Engineering, 9-18
+
+127. Machine learning-assisted binary code analysis
+Citations:10
+Authors: N Rosenblum, X Zhu, B Miller, K Hunt
+Publication: NIPS Workshop on Machine Learning in Adversarial Environments for Computer …
+
+128. Why do software assurance tools have problems finding bugs like heartbleed
+Citations:9
+Authors: JA Kupsch, BP Miller
+Publication: Continuous Software Assurance Marketplace 22
+
+129. LIBI: A framework for bootstrapping extreme scale software systems
+Citations:9
+Authors: JD Goehner, DC Arnold, DH Ahn, GL Lee, BR de Supinski, MP LeGendre, ...
+Publication: Parallel Computing 39 (3), 167-176
+
+130. A framework for bootstrapping extreme scale software systems
+Citations:9
+Authors: JD Goehner, DC Arnold, DH Ahn, GL Lee, BR de Supinski, MP LeGendre, ...
+Publication: Workshop on High-performance Infrastructure for Scalable Tools, Tucson, Arizona
+
+131. Foreword for fuzz testing book
+Citations:9
+Authors: B Miller
+Publication: The University of Wisconsin Madison, April
+
+132. Reliable sockets
+Citations:9
+Authors: VC Zandy, BP Miller
+Publication: Computer Sciences Technical Report, University of Wisconsin, ftp://grilled …
+
+133. Process migration in DEMOS
+Citations:9
+Authors: ML Powell, BP Miller
+Publication: MP. InProc, 110-119
+
+134. The anatomy of mr. scan: a dissection of performance of an extreme scale gpu-based clustering algorithm
+Citations:8
+Authors: B Welton, BP Miller
+Publication: Proceedings of the 5th Workshop on Latest Advances in Scalable Algorithms …
+
+135. Long-term effects of public low-income housing vouchers on work, earnings, and neighborhood quality
+Citations:8
+Authors: D Carlson, R Haveman, T Kaplan, B Wolfe
+Publication: 
+
+136. A scalable failure recovery model for tree-based overlay networks
+Citations:8
+Authors: D Arnold, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+137. Checkpoints of GUI-based Applications.
+Citations:8
+Authors: VC Zandy, BP Miller
+Publication: USENIX Annual Technical Conference, General Track, 155-165
+
+138. A callgraph‐based search strategy for automated performance diagnosis
+Citations:8
+Authors: HW Cain, BP Miller, BJN Wylie
+Publication: Concurrency and Computation: Practice and Experience 14 (3), 203-217
+
+139. Integrating a Debugger and a Performance Tool for Steering
+Citations:8
+Authors: K Kunchithapadam, BP Miller
+Publication: Debugging and Performance Tools for Parallel Computing Systems. IEEE …
+
+140. Parallelism in distributed programs: Measurement and prediction
+Citations:8
+Authors: BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+141. Binary-code obfuscations in prevalent packer tools
+Citations:7
+Authors: KA Roundy, BP Miller
+Publication: ACM Journal Name 1, 21
+
+142. In search of sweet-spots in parallel performance monitoring
+Citations:7
+Authors: A Nataraj, A Malony, A Morris, DC Arnold, BP Miller
+Publication: 2008 IEEE International Conference on Cluster Computing, 69-78
+
+143. Comparing interactive scheduling in Linux
+Citations:7
+Authors: A Torrey, J Cleman, P Miller
+Publication: Software-Practices & Experience 34 (4), 347-364
+
+144. Optimizing array distributions in data-parallel programs
+Citations:7
+Authors: K Kunchithapadam, BP Miller
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+145. Benchmarking the MRNet distributed tool infrastructure: lessons learned
+Citations:6
+Authors: PC Roth, DC Arnold, BP Miller
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+146. Lost in a labyrinth of workstations
+Citations:6
+Authors: JJ Ordille, BP Miller
+Publication: [1992] Proceedings Third Workshop on Workstation Operating Systems, 52-55
+
+147. Distributed upcalls: a mechanism for layering asynchronous abstractions
+Citations:6
+Authors: DL Cohrs, BP Miller, LA Call
+Publication: [1988] Proceedings. The 8th International Conference on Distributed, 55-62
+
+148. A Reliable and Secure UNIX Connection Service
+Citations:6
+Authors: D Draheim, BP Miller, S Snyder
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+149. Dyninst and MRNet: Foundational infrastructure for parallel tools
+Citations:5
+Authors: WR Williams, X Meng, B Welton, BP Miller
+Publication: Tools for High Performance Computing 2015, 1-16
+
+150. Automating threat modeling through the software development life-cycle
+Citations:5
+Authors: G Ruiz, E Heymann, E César, BP Miller
+Publication: XXIII Jornadas de Paralelismo, 21-38
+
+151. A lightweight library for building scalable tools
+Citations:5
+Authors: ER Jacobson, MJ Brim, BP Miller
+Publication: International Workshop on Applied Parallel Computing, 419-429
+
+152. Relative exercise intensity and caloric expenditure of hooping
+Citations:5
+Authors: J Holthusen
+Publication: 
+
+153. TAUoverMRNet (ToM): A framework for scalable parallel performance monitoring
+Citations:5
+Authors: A Nataraj, A Malony, A Morris, D Arnold, B Miller
+Publication: International Workshop on Scalable Tools for High-End Computing (STHEC’08)
+
+154. How to Open a File and Not Get Hacked
+Citations:5
+Authors: JA Kupsch, BP Miller
+Publication: 2008 Third International Conference on Availability, Reliability and …
+
+155. Summary of ACM/ONR workshop on parallel and distributed debugging
+Citations:5
+Authors: BP Miller, C McDowell
+Publication: ACM SIGOPS Operating Systems Review 27 (4), 8-23
+
+156. Experience with techniques for refining data race detection
+Citations:5
+Authors: R Netzer, B Miller
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+157. Optimal processor assignment for parallel database design
+Citations:5
+Authors: S Ghandeharizadeh, RR Meyer, GL Schultz, J Yackel
+Publication: Proceedings of the Fifth SIAM Conference on Parallel Processing for …
+
+158. The Frequency of Dynamic Pointer References in C Programs
+Citations:5
+Authors: BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+159. The traveling salesman problem: The development of a distributed computation
+Citations:5
+Authors: N Lai, BP Miller
+Publication: Computer Science Division, University of California
+
+160. The Case for an Open and Evolving Software Assurance Framework
+Citations:4
+Authors: M Livny, B Miller, V Welch
+Publication: Internet
+
+161. Targeting resilience and profitability in African smallholder agriculture: Insights from ICRISAT-led research programs
+Citations:4
+Authors: K Mausch, A Orr, BP Miller
+Publication: Facets 2 (1), 545-558
+
+162. Efficient and scalable retrieval techniques for global file properties
+Citations:4
+Authors: DH Ahn, MJ Brim, BR de Supinski, T Gamblin, GL Lee, MP LeGendre, ...
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+163. The effects of metadata corruption on nfs
+Citations:4
+Authors: S Krishnan, G Ravipati, AC Arpaci-Dusseau, RH Arpaci-Dusseau, ...
+Publication: Proceedings of the 2007 ACM workshop on Storage security and survivability …
+
+164. A loop-aware search strategy for automated performance analysis
+Citations:4
+Authors: ED Collins, BP Miller
+Publication: International Conference on High Performance Computing and Communications …
+
+165. Dismantling Patriarchal Marriage in The Quilt and Other Stories (Student Paper)
+Citations:4
+Authors: M Rajakumar
+Publication: Department of Languages and Cultures of Asia, University of Wisconsin–Madison
+
+166. Deep Start: a hybrid strategy for automated performance problem searches
+Citations:4
+Authors: PC Roth, BP Miller
+Publication: Concurrency and Computation: Practice and Experience 15 (11‐12), 1027-1046
+
+167. Paradyn parallel performance tools
+Citations:4
+Authors: B Miller, M Callaghan, J Cargille, J Hollingsworth, B Irvin, K Karavanic, ...
+Publication: 
+
+168. Using cost to control instrumentation overhead
+Citations:4
+Authors: JK Hollingsworth, BP Miller
+Publication: Theoretical Computer Science 196 (1-2), 241-258
+
+169. Performance of the new vertex detector at SLD
+Citations:4
+Authors: NB Sinev, JE Brau, P Dervan, E Etzion, S Watts, M Smy, S Hertzbach, ...
+Publication: IEEE Transactions on Nuclear Science 44 (3), 587-591
+
+170. Optimal Resource Allocation and Binding of Non-Pipelined Designs
+Citations:4
+Authors: R DeLeone, R Jain
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+171. ‘IPS User’s Guide,’’
+Citations:4
+Authors: J Hollingsworth, BP Miller, RB Irvin
+Publication: Computer Sciences Technical Report
+
+172. Specification and verification of network managers for large internets
+Citations:4
+Authors: DL Cohrs, BP Miller
+Publication: ACM SIGCOMM Computer Communication Review 19 (4), 33-44
+
+173. Code generation and separate compilation in a parallel program debugger
+Citations:4
+Authors: JD Choi, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+174. Bad and good news about using software assurance tools
+Citations:3
+Authors: JA Kupsch, E Heymann, B Miller, V Basupalli
+Publication: Software: Practice and Experience 47 (1), 143-156
+
+175. Addressing the cyber-security of Maritime shipping
+Citations:3
+Authors: E Heymann, BP Miller, MJ Alghazzawi, D Incertis
+Publication: 2016 European Transport Conference
+
+176. Vulnerability Assessment of Open Source Wireshark and Chrome Browser
+Citations:3
+Authors: BP Miller
+Publication: WISCONSIN UNIV MADISON
+
+177. FINAL: Flexible and scalable composition of file system name spaces
+Citations:3
+Authors: MJ Brim, BP Miller, V Zandy
+Publication: Proceedings of the 1st International Workshop on Runtime and Operating …
+
+178. Using SchedFlow for performance evaluation of workflow applications
+Citations:3
+Authors: G Martinez, G Martínez, E Heymann, MA Senar, E Luque, BP Miller
+Publication: The 5th Workshop on Workflows in Support of Large-Scale Science, 1-8
+
+179. Program development for extreme-scale computing
+Citations:3
+Authors: BMJ Labarta, BP Miller, M Schulz
+Publication: Dagstuhl Seminar 10181
+
+180. lTY OF
+Citations:3
+Authors: BP Miller
+Publication: 
+
+181. On effective model-based intrusion detection
+Citations:3
+Authors: J Giffin, S Jha, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+182. Mechanisms for Mapping High-Level Parallel Performance Data.
+Citations:3
+Authors: RB Irvin, BP Miller
+Publication: ICPP Workshop, 10-19
+
+183. A Technique for Manuscript Collection Development Analysis
+Citations:3
+Authors: DP Gray
+Publication: The Midwestern Archivist, 91-103
+
+184. Exposing hidden performance opportunities in high performance GPU applications
+Citations:2
+Authors: B Welton, B Miller
+Publication: 2018 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid …
+
+185. Data Reduction and Partitioning in an Extreme Scale GPU-Based Clustering Algorithm
+Citations:2
+Authors: B Welton, BP Miller
+Publication: 2nd International Workshop on Data Reductions for Big Scientific Data
+
+186. Project Final Report: Building a Community Infrastructure for Scalable On-Line Performance Analysis Tools around Open—SpeedShop
+Citations:2
+Authors: J Galarowicz
+Publication: Technical report, Krell Institute
+
+187. Building on Lessons Learned From Over a Decade of MRNet Research and Development
+Citations:2
+Authors: BP Miller, DC Arnold, MJ Brim, PC Roth, E Samanas, B Welton, ...
+Publication: Extreme Scale Programming Tools Workshop, Denver
+
+188. Vulnerability assessment enhancement for middleware
+Citations:2
+Authors: J Serrano, E Heymann, E Cesar, B Miller
+Publication: Computing and Informatics 2011
+
+189. SC’08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing
+Citations:2
+Authors: JC Phillips, JE Stone, K Schulten
+Publication: 
+
+190. A tool for converting Linux device drivers into Solaris compatible binaries
+Citations:2
+Authors: S McIlwain, BP Miller
+Publication: Software: Practice and Experience 36 (7), 689-710
+
+191. A Framework for Binary Code Analysis, and Static and Dynamic Patching
+Citations:2
+Authors: BP Miller
+Publication: Binary Code Analysis and Editing 24
+
+192. Western women doctors in an Eastern land: the work of female medical missionaries in India, 1870-1947
+Citations:2
+Authors: CN Cowan
+Publication: University of Wisconsin--Madison
+
+193. User-defined reductions for communication in data-parallel languages
+Citations:2
+Authors: G Viswanathan, JR Larus
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+194. Summary of ACM/ONR workshop on parallel and distributed debugging
+Citations:2
+Authors: BP Miller, C McDowell
+Publication: ACM SIGOPS Operating Systems Review 26 (1), 18-31
+
+195. An empirical study of the reliability of operating system utilities
+Citations:2
+Authors: BP Miller, L Fredriksen, B So
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+196. Demos
+Citations:2
+Authors: University of Wisconsin--Madison. Computer Sciences Department, ...
+Publication: 
+
+197. Frequency Domain Analysis of AC Dipole-dipole Electromagnetic Soundings
+Citations:2
+Authors: SC Johnston
+Publication: 
+
+198. The Trusted CI Vision for an NSF Cybersecurity Ecosystem And Five-year Strategic Plan (2019-2023).
+Citations:1
+Authors: V Welch, J Basney, C Jackson, J Marsteller, B Miller
+Publication: 
+
+199. Structured random differential testing of instruction decoders
+Citations:1
+Authors: N Jay, BP Miller
+Publication: 2018 IEEE 25th International Conference on Software Analysis, Evolution and …
+
+200. Binary code multi-author identification in multi-toolchain scenarios
+Citations:1
+Authors: X Meng, BP Miller
+Publication: 
+
+201. Benchmark Creation for Multi-Personality and Content-Aware Circuit Partitioning Algorithms
+Citations:1
+Authors: A Chadha
+Publication: 
+
+202. Mr. scan: A hybrid/hybrid extreme scale density based clustering algorithm
+Citations:1
+Authors: B Welton, BP Miller
+Publication: 
+
+203. Increasing Automated Vulnerability Assessment Accuracy on Cloud and Grid Middleware
+Citations:1
+Authors: J Serrano, E Cesar, E Heymann, B Miller
+Publication: International Conference on Information Security Practice and Experience …
+
+204. A path to operating system and runtime support for extreme scale tools
+Citations:1
+Authors: BP Miller, P Roth, J DelSignore
+Publication: TotalView Technologies LLC
+
+205. Software Analysis Techniques to Approximate Data Centric Direct Measurements
+Citations:1
+Authors: N Rutar, JK Hollingsworth
+Publication: First Int. Work. High-performance Infrastruct. Scalable Tools
+
+206. Body image perception in athletes versus non-athletes
+Citations:1
+Authors: M Blum, B Johnson, E Rodgers
+Publication: 
+
+207. " Breaking away"--the effect of non-uniform pacing on power output and RPE growth
+Citations:1
+Authors: J Cohen
+Publication: 
+
+208. Binary Code Patching: An Ancient Art Refined for the 21st Century
+Citations:1
+Authors: BP Miller
+Publication: NC State University Computer Science Department Seminars 2006–2007
+
+209. Double-crested cormorants on Southern Green Bay: ecology and food habits with emphasis on the yellow perch fishery, dietary overlap with smympatric American white pelicans, and …
+Citations:1
+Authors: SR Meadows
+Publication: University of Wisconsin--Madison
+
+210. Athletic participation and self-esteem in eighth grade students
+Citations:1
+Authors: B Davis
+Publication: A research paper submitted in partial fulfillment of the requirements fort …
+
+211. Attack generation for NIDS testing using natural deduction
+Citations:1
+Authors: S Rubin, S Jha, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+212. Slack: A New Performance Metric for Parallel Programs
+Citations:1
+Authors: BP Miller, JK Hollingsworth
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+213. The optimal control of ice-storage air-conditioning systems
+Citations:1
+Authors: CW Carey
+Publication: University of Wisconsin-Madison
+
+214. The Integration of Application and System Based Metrics in a Parallel Program Performance Tools
+Citations:1
+Authors: BP Miller, RB Irvin, J Hollingsworth
+Publication: the proceeds of ACM SIGPLAN
+
+215. Verification of Network Management System Configurations
+Citations:1
+Authors: DL Cohrs, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+216. Microcomputer-based method for the estimation of HF radio-circuit performance
+Citations:1
+Authors: MI Dick, BH Miller
+Publication: 5th International Conference on Antennas and Propagation, 306-309
+
+217. Experiences with DREGS
+Citations:1
+Authors: A Bricker, M Clark, T Lebeck, BP Miller, P Wu
+Publication: Proceedings of the Summer... USENIX Conference 2, 471
+
+218. DREGS: A Distributed Runtime Environment for Game Support
+Citations:1
+Authors: A Bricker, T Lebeck, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+219. Implementation of a Visual UNIX Process Connector
+Citations:1
+Authors: M Bhattacharyya, D Cohrs, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+220. Impingement and entrainment of fishes at Dairyland Power Cooperative's Genoa site
+Citations:1
+Authors: MC McInerny
+Publication: 
+
+221. WG Bleyer and the development of journalism education
+Citations:1
+Authors: D Ross
+Publication: 
+
+222. TrustedCI: The NSF Cybersecurity Center of Excellence Singularity First Principles Vulnerability Assessment
+Citations:
+Authors: E Kivolowitz, E Heymann, BP Miller
+Publication: 
+
+223. TrustedCI: The NSF Cybersecurity Center of Excellence Open OnDemand Report
+Citations:
+Authors: E Heymann, J Atkins, BP Miller
+Publication: 
+
+224. Trusted CI Experiences in Cybersecurity and Service to Open Science
+Citations:
+Authors: A Adams, K Avila, J Basney, D Brunson, R Cowles, J Dopheide, T Fleury, ...
+Publication: arXiv preprint arXiv:1904.05383
+
+225. (In) visibility: accounts of embodiment of women with physical disabilities and differences
+Citations:
+Authors: K Soldatic, P Abberley, P Abberley, P Abberley, L Barton, P Abberley, ...
+Publication: Disability and Neoliberal State Formations 2 (1), 1-18
+
+226. Diogenes: Looking For An Honest CPU/GPU Performance Measurement Tool
+Citations:
+Authors: B Welton, BP Miller
+Publication: 
+
+227. Adversarial Binaries for Authorship Identification
+Citations:
+Authors: X Meng, BP Miller, S Jha
+Publication: arXiv preprint arXiv:1809.08316
+
+228. Tutorial: Secure Coding Practices, Automated Assessment Tools and the SWAMP
+Citations:
+Authors: E Heymann, B Miller
+Publication: 2018 IEEE Cybersecurity Development (SecDev), 124-125
+
+229. Structured Random Differential Testing of Instruction Decoders
+Citations:
+Authors: BP Jay, Nathan, Miller
+Publication: 25th IEEE International Conference on Software Analysis, Evolution and …
+
+230. Larger than Life: Reflections on Melodrama and Sweeney Todd
+Citations:
+Authors: AC Thomas, M Arnold, W Arrowsmith, D Grene, R Lattimore, S Banfield, ...
+Publication: Sondheim and Wheeler’s Sweeney Todd 149 (2), 1-10
+
+231. PIPER: Performance Insight for Programmers and Exascale Runtimes Guiding the Development of the Exascale Software Stack Final Report
+Citations:
+Authors: BP Miller
+Publication: Univ. of Wisconsin, Madison, WI (United States)
+
+232. From Continuous Integration to Continuous Assurance
+Citations:
+Authors: JA Kupsch, BP Miller, V Basupalli, J Burger
+Publication: IEEE Software Technology Conference
+
+233. Automated Assessment Tools Theory & Practice
+Citations:
+Authors: B Miller, E Heymann
+Publication: 
+
+234. Stack Trace Ahalysis Tool
+Citations:
+Authors: GL Lee, D Arnold, M LeGendre, M Schulz, D Ahn, BR deSupinski, B Miller
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+235. Secure Coding Practices and Automated Assessment Tools
+Citations:
+Authors: BP Miller, E Heymann
+Publication: 
+
+236. CCoE Webinar Series Kickoff
+Citations:
+Authors: J Basney, C Jackson, J Marsteller, B Miller
+Publication: 
+
+237. Vulnerabilities, Threats and Secure Coding Practices
+Citations:
+Authors: BP Miller, E Heymann
+Publication: 
+
+238. Why Johnny and Janie Can’t Code Safely: Bringing Software Assurance to the Masses
+Citations:
+Authors: B Miller
+Publication: 
+
+239. Secure Coding Practices (and Other Good Things)
+Citations:
+Authors: BP Miller, JA Kupsch, E Heymann
+Publication: 
+
+240. Lightweight and Statistical Techniques for Petascale PetaScale Debugging
+Citations:
+Authors: B Miller
+Publication: University of Wisconsin Madison
+
+241. Building a Community Infrastructure for Scalable On-Line Performance Analysis Tools around Open| Speedshop
+Citations:
+Authors: B Miller
+Publication: University of Wisconsin Madison
+
+242. Correctness Tools For Petascale Computing
+Citations:
+Authors: B Miller
+Publication: University of Wisconsin Madison
+
+243. Foundational Tools for Petascale Computing
+Citations:
+Authors: B Miller
+Publication: Univ. of Wisconsin, Madison, WI (United States)
+
+244. An Adapted Great Leaps Reading Intervention's Influence on Letter Sound Fluency and Oral Reading Fluency
+Citations:
+Authors: JA Birkhofer
+Publication: 
+
+245. Breaking the Enchantment
+Citations:
+Authors: L Becherer
+Publication: 
+
+246. Year Two Report: Center for Trustworthy Scientific Cyberinfrastructure
+Citations:
+Authors: V Welch
+Publication: CTSC
+
+247. High-Performance Energy Applications and Systems
+Citations:
+Authors: B Miller
+Publication: Univ. of Wisconsin, Madison, WI (United States)
+
+248. Building a Community Infrastructure for Scalable On-Line Performance Analysis Tools around Open| SpeedShop
+Citations:
+Authors: JE Galarowicz, BP Miller, JK Hollingsworth, P Roth, M Schulz
+Publication: Krell Institute, Ames, IA (United States)
+
+249. Application of clustering analysis and sequence analysis on the performance analysis of parallel applications
+Citations:
+Authors: R Gavaldà, M Gerndt, B Miller
+Publication: 
+
+250. Vulnerability Assessment Enhancement for Middleware for Computing and Informatics
+Citations:
+Authors: J Serrano, E Heymann, E Cesar, BP Miller
+Publication: Computing and Informatics 31 (1), 103-118
+
+251. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+252. EVALUATION OF THE IMPACT OF SEPARATE AND SHARED YELLOW SIGNAL SECTIONS AND HEAD ARRANGEMENTS FOR FLASHING YELLOW ARROW LEFT-TURN CONTROL
+Citations:
+Authors: D Reichl
+Publication: 
+
+253. A Scalable Targeted Debugger for Scientific and Commercial Computing
+Citations:
+Authors: B Miller, B Williams, D Gardner
+Publication: University of Wisconsin, Madison and Argo Navis Technologies, LLC
+
+254. Performance Analysis and Grid Computing: Selected Articles from the Workshop on Performance Analysis and Distributed Computing August 19–23, 2002, Dagstuhl, Germany
+Citations:
+Authors: V Getov, M Gerndt, A Hoisie, A Malony, B Miller
+Publication: Springer Science & Business Media
+
+255. Institute for Scalable Application Development Software
+Citations:
+Authors: BP Miller
+Publication: University of Wisconsin-Madison
+
+256. Veterans Support Services and Programs in Wisconsin's Public Colleges and Universities
+Citations:
+Authors: SM Monroe
+Publication: 
+
+257. Empathic Concern and the Inhibition of Aggression: General Or Individual-specific Inhibition?
+Citations:
+Authors: MR Wenzlaff
+Publication: 
+
+258. Lightweight and Statistical Techniques for Petascale Debugging: Correctness on Petascale Systems (CoPS) Preliminry Report
+Citations:
+Authors: BR de Supinski, BP Miller, B Liblit
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+259. Path sensitive static defect detecting method.
+Citations:
+Authors: T Junfeng, H Jine, DG Feng, M Zhang, Y Zhang, Z Xu, S Changxiang, ...
+Publication: Information Technology Journal 10 (12), 71-83
+
+260. What are parents' perceptions of the HPV vaccine for their adolescent sons?
+Citations:
+Authors: EM Weiss
+Publication: 
+
+261. Scalable Tools for High‐end Computing
+Citations:
+Authors: M Gerndt, B Miller
+Publication: Concurrency and Computation: Practice and Experience 22 (6), 683-684
+
+262. Tools for the Development of High Performance Energy Applications and Systems
+Citations:
+Authors: BP Miller
+Publication: University of Wisconsin Madison
+
+263. THE EXPERIENCE OF LIVING WITH UNCERTAINTY: RECEIVING A SOLID ORGAN TRANSPLANT
+Citations:
+Authors: TA Sasse
+Publication: 
+
+264. 10181 Executive Summary--Program Development for Extreme-Scale Computing
+Citations:
+Authors: J Labarta, BP Miller, B Mohr, M Schulz
+Publication: Dagstuhl Seminar Proceedings
+
+265. 10181 Abstracts Collection--Program Development for Extreme-Scale Computing
+Citations:
+Authors: J Labarta, BP Miller, B Mohr, M Schulz
+Publication: Dagstuhl Seminar Proceedings
+
+266. Optimal Proxy-Limited Lines for Representing Voltage Constraints in a DC Optimal Powerflow
+Citations:
+Authors: M Schlindwein
+Publication: 
+
+267. Vulnerability Assessment and Secure Coding Practices for Middleware f M w
+Citations:
+Authors: BP Miller, JA Kupsch, E Heymann
+Publication: 
+
+268. SCIENCE POLICY
+Citations:
+Authors: D Hanson
+Publication: CHEMICAL & ENGINEERING NEWS 87 (18), 7-7
+
+269. The experiences of middle-aged women with diabetes
+Citations:
+Authors: M Kriesel
+Publication: 
+
+270. Experiences of oncology nurses in end-of-life care: a phenomenological study
+Citations:
+Authors: PJ Martins
+Publication: 
+
+271. 2008 IEEE International Conference on Cluster Computing
+Citations:
+Authors: A Nataraj, A Malony, A Morris, DC Arnold, BP Miller
+Publication: 2008 IEEE International Conference on Cluster Computing (CLUSTER), 69-78
+
+272. Citation TR1638 Date 2008
+Citations:
+Authors: MJ Brim, BP Miller
+Publication: 
+
+273. Virtual Machine-Based Circumvention of Self-Checksumming Code
+Citations:
+Authors: N Rosenblum, G Cooksey, B Miller
+Publication: 
+
+274. John Mellor-Crummey, Rice University
+Citations:
+Authors: P Beckman, K Cooper, J Dongarra, W Gropp, E Lusk, B Miller, K Yelick
+Publication: 
+
+275. 07341 Abstracts Collection--Code Instrumentation and Modeling for Parallel Performance Analysis
+Citations:
+Authors: A Hoisie, BP Miller, B Mohr
+Publication: Dagstuhl Seminar Proceedings
+
+276. GRADUATE OPERATING SYSTEMS-University of Wisconsin, Madison-An Empirical Study of the Robustnes of MacOS Applications Using Random Testing
+Citations:
+Authors: BP Miller, G Cooksey, F Moore
+Publication: Operating systems review 41 (1), 78
+
+277. 07341 Executive Summary--Code Instrumentation and Modeling for Parallel Performance Analysis
+Citations:
+Authors: A Hoisie, BP Miller, B Mohr
+Publication: Dagstuhl Seminar Proceedings
+
+278. Stack Trace Analysis for Large Scale Debugging
+Citations:
+Authors: G Lee, BP Miller, M Schulz
+Publication: 
+
+279. State Compensation: A No-cost Scheme for Scalable Failure Recovery in Tree-based Overlay Networks
+Citations:
+Authors: DC Arnold, BP Miller
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+280. 05501 Abstracts Collection--Automatic Performance Analysis
+Citations:
+Authors: HM Gerndt, A Malony, BP Miller, W Nagel
+Publication: Dagstuhl Seminar Proceedings
+
+281. Remote Performance Monitor (RPM)
+Citations:
+Authors: C Krintz, S Gurun
+Publication: Dagstuhl Seminar Proceedings
+
+282. ГЙ^ 1:: ЕГ [--: 1 F L _ Л
+Citations:
+Authors: ED Collins, BP Miller
+Publication: 
+
+283. Formalizing Attack Mutation for NIDS Testing
+Citations:
+Authors: S Rubin, S Jha, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+284. Root cause analysis of failures in large-scale computing environments
+Citations:
+Authors: AV Mirgorodskiy, N Maruyama, BP Miller
+Publication: Technical report, University of Wisconsin-Madison
+
+285. Benchmarking the MRNet Distributed Tool Infrastructure: Lessons Learned
+Citations:
+Authors: BP Miller, P Roth, D Arnold
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+286. Vulnerability and Information Flow Analysis of COTS
+Citations:
+Authors: S Jha, B Miller, T Reps
+Publication: 
+
+287. Close to nature: summer camps in early-twentieth-century America
+Citations:
+Authors: K Woodhouse
+Publication: 
+
+288. Citation TR1494 Date 2003
+Citations:
+Authors: P Roth, D Arnold, BP Miller
+Publication: 
+
+289. Performance of Shoulders Adjacent to Concrete Pavements: Final Report to the Wisconsin Highway Research Program
+Citations:
+Authors: S Owusu-Ababio
+Publication: Wisconsin Highway Research Program
+
+290. Cloning and molecular characterizations of seven genes of fredericamycin biosynthetic cluster from streptomyces griseus
+Citations:
+Authors: B Li
+Publication: University of Wisconsin--Madison
+
+291. Using Binary Code Rewrite to Bypass License Checks
+Citations:
+Authors: T Kosar, M Christodorescu, R Iverson, BP Miller
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+292. On-line Monitoring Systems and Computer Tool Interoperability
+Citations:
+Authors: T Ludwig, BP Miller
+Publication: Nova Publishers
+
+293. A Security Attack and Defense in the Grid Environment
+Citations:
+Authors: BP Miller
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+294. Topic 2 Performance Evaluation, Analysis and Optimization
+Citations:
+Authors: BP Miller, J Labarta, F Schintke, J Simon
+Publication: Euro-Par 2002. Parallel Processing: 8th International Euro-Par Conference …
+
+295. Six Poems by Mustafa Zaidi with an Elegy by Salam Machhli-shahri
+Citations:
+Authors: L Steele
+Publication: Center for South Asia, University of Wisconsin–Madison
+
+296. Support tools and environments
+Citations:
+Authors: BP Miller, M Gerndt
+Publication: European Conference on Parallel Processing, 45-46
+
+297. The impact student's motivational levels have on student performance in the HVAC courses at Milwaukee Area Technical College South Campus
+Citations:
+Authors: CW Winkelman
+Publication: 
+
+298. Topic 02-A Callgraph-Based Search Strategy for Automated Performance Diagnosis (Distinguished Paper)
+Citations:
+Authors: HW Cain, BP Miller, BJN Wylie
+Publication: Lecture Notes in Computer Science 1900, 108-122
+
+299. Summary of the sigmetrics symposium on parallel and distributed processing
+Citations:
+Authors: JK Hillingsworth, BP Miller
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (4), 2-12
+
+300. Commodity Operating System Kernels'
+Citations:
+Authors: A Tamches, BP Miller
+Publication: Proceedings of the Third Symposium on Operating Systems Design and …
+
+301. Blizzard and Paradyn: Infrastructure and Scalable Tools for Multi-Paradigm Parallel Computers
+Citations:
+Authors: BP Miller, JR Larus, MD Hill, DA Wood
+Publication: WISCONSIN UNIV-MADISON DEPT OF COMPUTERSCIENCES
+
+302. Metal Cation Transport Studies Comparing Dibenzo-18-crown-6 (DB18C6) with N, N, N′, N′-Tetrakis (n-propyl)-2, 3-naphthalenedioxydiacetamide (NPr)
+Citations:
+Authors: GB Borowitz, IJ Borowitz, B Benoff, P Miller
+Publication: Journal of inclusion phenomena and molecular recognition in chemistry 30 (3 …
+
+303. Performance measurement and analysis techniques for parallel and distributed programs. Technical progress report, August 1, 1996--May 31, 1997
+Citations:
+Authors: BP Miller, JK Hollingsworth
+Publication: Wisconsin Univ., Madison, WI (United States). Dept. of Computer Sciences
+
+304. Metal cation transport studies comparing DB18C6 with N, N, N', N'-tetrakis (n-propyl)-2, 3-naphthalenedioxydiacetamide (NPR).
+Citations:
+Authors: GB Borowitz, IJ Borowitz, B Benoff, P Miller
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 213, 74-ORGN
+
+305. Stack'em Up: Once limited to ultra-high volume, small, shallow-draw parts-then to larger and deeper containers-slack molds have taken on a decidedly'90s look
+Citations:
+Authors: B Miller
+Publication: PLASTICS WORLD 55, 27-35
+
+306. Using an environmental education center newsletter in the classroom: a survey of Wisconsin Middle School and secondary science teachers
+Citations:
+Authors: D Gilson
+Publication: 
+
+307. An Adaptive Cost Model for Parallel Program Instrumentation
+Citations:
+Authors: BP Miller
+Publication: 
+
+308. Performance measurement and analysis techniques for parallel and distributed programs
+Citations:
+Authors: BP MILLER, JR LARUS
+Publication: 
+
+309. PROCEEDINGS OF THE ACM/ONR WORKSHOP ON PARALLEL AND DISTRIBUTED DEBUGGING-MAY 17-18, 1993 SAN-DIEGO, CALIFORNIA
+Citations:
+Authors: B Miller, C McDowell
+Publication: SIGPLAN NOTICES 28 (12), R1-&
+
+310. Workshop summary
+Citations:
+Authors: B Miller, DE Biggins, R Crete
+Publication: Proceedings of the Symposium on the Management of Prairie Dog Complexes for …
+
+311. What a drag: representations of gender and sexuality in New York, 1892-1927
+Citations:
+Authors: E Goggin
+Publication: 
+
+312. Parallel Programs
+Citations:
+Authors: RHB Netzer, BP Miller
+Publication: 
+
+313. PROCEEDINGS OF THE ACM/ONR WORKSHOP ON PARALLEL AND DISTRIBUTED DEBUGGING-MAY 20-21, 1991 SANTA-CRUZ, CALIFORNIA-FOREWORD
+Citations:
+Authors: B MILLER, C MCDOWELL
+Publication: SIGPLAN NOTICES 26 (12), R3-R3
+
+314. What are Race Conditions?
+Citations:
+Authors: BP Miller
+Publication: 
+
+315. IPS-2; The second generation of a parallel program measurement system
+Citations:
+Authors: J Hollingsworth, BP Miller, SS Lim, M Clark, S Kierstead, T Torzewski
+Publication: IEEE Transactions on Parallel and Distributed Systems;(USA) 1 (2)
+
+316. Parallel Program Executions
+Citations:
+Authors: RHB Netzer, BP Miller
+Publication: 
+
+317. On the Complexity of Event Ordering for Shared-Memory Parallel Program Executions
+Citations:
+Authors: BP Miller
+Publication: 
+
+318. OF OPERATING SYSTEM UTILITIES
+Citations:
+Authors: BP Miller
+Publication: 
+
+319. PROCEEDINGS OF THE ACM SIGPLAN AND SIGOPS WORKSHOP ON PARALLEL AND DISTRIBUTED DEBUGGING, MAY 5-6, 1988, UNIVERSITY OF WISCONSIN-FOREWORD
+Citations:
+Authors: B MILLER, T LEBLANC
+Publication: SIGPLAN NOTICES 24 (1), R3-R3
+
+320. ACM SIGPLAN AND SIGOPS WORKSHOP ON PARALLEL AND DISTRIBUTED DEBUGGING-WORKSHOP SUMMARY
+Citations:
+Authors: TJ LEBLANC, BP MILLER, JD CHOI, D COHRS, J MELLORCRUMMEY, ...
+Publication: SIGPLAN NOTICES 24 (1), R9-R21
+
+321. for Unix
+Citations:
+Authors: M Bhattacharwa, D Cohrs, B Miller
+Publication: 
+
+322. Breaking bounds: the Brigadas Femeninas of the Cristero rebellion
+Citations:
+Authors: EJ Findlay
+Publication: 
+
+323. The performance of residential active collect/passive store solar space-heating systems
+Citations:
+Authors: DA Lockard
+Publication: 
+
+324. Experiences with Distributed Longest Path Algorithms
+Citations:
+Authors: BP Miller, CQ Yang
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+325. Beliefs, Attitudes, and Intented Behavior of Minnesota Deer Bowhunters
+Citations:
+Authors: G Arimond
+Publication: 
+
+326. Metin Feridun Raphael Finkel Ed C. Foudriat
+Citations:
+Authors: CM Krishna, D Kumar, R Mehrotra, B Miller, HJ Siegel, A Silberschatz
+Publication: IEEE Transactions on Computers 34 (12), 1071
+
+327. Measuring Distributed Programs: A Hierarchical and Interactive Approach
+Citations:
+Authors: BP Miller, C Yang
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+328. Process Migration in DEMOS/1VIP
+Citations:
+Authors: ML Powell, BP Miller
+Publication: 
+
+329. Further Optimism in Optimistic Methods of Concurrency Control
+Citations:
+Authors: R Agrawal, DJ DeWitt
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+330. Verbal marking systems in Chadic
+Citations:
+Authors: M Hamilton
+Publication: 
+
+331. Optimal Code from Flow Graphs or Notes on Avoiding Goto Statements
+Citations:
+Authors: MVS Ramanath, MH Solomon
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+332. Fusarium toxins: chemistry of toxic trichothecenes; Organolithium chemistry
+Citations:
+Authors: FN Kotsonis
+Publication: 
+
+333. An Integrated Interactive Computerized Radiotherapy Treatment Planning System
+Citations:
+Authors: AS Glicksman, J Hiahn, RI Levine, LJ Lidofsky, PB Miller, JB Nickson
+Publication: IEEE Transactions on Nuclear Science 20 (1), 432-435
+
+334. French Right-wing extremism: World War I to the Fifth Republic
+Citations:
+Authors: E Strand
+Publication: 
+
+335. Technique and Agents Used to Depress Crystal Formation in Calcium Gluconate Ampuls.; II. A Preliminary Investigation of the Acetylsalicylic Acid Codein Reaction in Compressed …
+Citations:
+Authors: IN Patel
+Publication: University of Wisconsin--Madison
+
+336. Atopic dermatitis in infancy
+Citations:
+Authors: FH Chard
+Publication: 
+
+337. Poster: Deployment-quality and Accessible Solutions for Cryptography Code Development
+Citations:
+Authors: S Rahaman, Y Xiao, S Afrose, K Tian, M Frantz, DD Yao, N Meng, ...
+Publication: 
+
+338. Hardware Memory Management of a Large Virtual Memory}}
+Citations:
+Authors: DA Abramson, DA Abramson, DA Abramson, JL Keedy, V Abrossimov, ...
+Publication: Proc. of the 4th Australian Computer Science Conf.(ACSC-4) 4, 613-624
+
+339. SECURING MARITIME SOFTWARE SYSTEMS
+Citations:
+Authors: JO Eichenhofer, E Heymann, BP Miller
+Publication: 
+
+340. Environment-Sensitive Intrusion Detection
+Citations:
+Authors: JTGS Jha, BP Miller
+Publication: 
+
+341. An In-Depth Security Assessment of Maritime Container Terminal Software Systems
+Citations:
+Authors: JO Eichenhofera, E Heymanna, BP Millera, A Kangb
+Publication: 
+
+342. In-Depth Software Vulnerability Assessment of Container Terminal Systems
+Citations:
+Authors: JO Eichenhofer, E Heymann, BP Miller
+Publication: 
+
+343. Tools and Tool Support for the Exascale Era For the NNSA Workshop on Exascale Computing Technologies LLNL-TR-472494
+Citations:
+Authors: S Futral, LJ Mellor-Crummey, B Miller
+Publication: 
+
+344. ÐÔ: An Integrated Language-Directed Performance Prediction Åeasurement and Analysis Environment
+Citations:
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: 
+
+345. Providing Order to Extreme Scale Debugging Chaos
+Citations:
+Authors: DH Ahn, BR de Supinski, I Laguna, GL Lee, M Schulz, DC Arnold, ...
+Publication: 
+
+346. KernInst User’s Manual
+Citations:
+Authors: BP Miller, A Mirgorodskii, M Brim, I Grobman
+Publication: 
+
+347. Comparing Interactive Scheduling in Linux
+Citations:
+Authors: LATJC Barton, P Miller
+Publication: 
+
+348. The Traveling Salesman Problem: The Development of
+Citations:
+Authors: N Lai, BP Miller
+Publication: 
+
+349. Project Description Robust Aggregation Trees for Data Aggregation and Analytics
+Citations:
+Authors: DC Arnold, J Saia, BP Miller
+Publication: 
+
+350. Aggregation Trees: A Robust Distributed Data Structure for Exascale Computing
+Citations:
+Authors: D Arnold, J Saia, B Miller
+Publication: 
+
+351. Session: Intrusion Detection
+Citations:
+Authors: S Rubin, S Jha, B Miller
+Publication: 
+
+352. Naik, Vijay K. Ngo, Ton A. Nucciarone, Jeffrey J.
+Citations:
+Authors: D Abramson, P Alpatov, JD Alvarez, G Alverson, EC Anderson, ...
+Publication: 
+
+353. Preparation of Papers for Publication
+Citations:
+Authors: A First
+Publication: 
+
+354. Depuraci on de desempeño usando per laci on de caminos de llamadas de procedimientos
+Citations:
+Authors: C Figueira, B Miller
+Publication: 
+
+355. Appears in:" Supercomputing'94," Nov. 1994. Reprinted by permission of IEEE.
+Citations:
+Authors: DC Burger, RS Hyder, BP Miller, DA Wood
+Publication: 
+
+356. CALTECH ASCI TECHNICAL REPORT 048
+Citations:
+Authors: DA Reed, DA Padua, IT Foster, DB Gannon, BP Miller
+Publication: 
+
+357. Scalable Distributed Process Group Control and Inspection via the File System
+Citations:
+Authors: MJ Brim, BP Miller
+Publication: 
+
+358. Games, Plans, and Transformations
+Citations:
+Authors: S Rubin, S Jha, BP Miller
+Publication: 
+
+359. Dagstuhl Seminar 02341 on Performance Analysis and Distributed Computing
+Citations:
+Authors: M Gerndt, V Getov, A Hoisie, A Malony, B Miller
+Publication: 
+
+360. Painless, Portable Large Scale Tool Daemon Launching
+Citations:
+Authors: DH Ahn, DC Arnold, BR de Supinski, GL Lee, BP Miller, M Schulz
+Publication: 
+
+361. Shadow Editing: A Distributed Service for
+Citations:
+Authors: M Shapiro, M Shapiro, P Dasgupta, R Ananthanarayanan, ...
+Publication: ieeetc 26, 18-31
+
+362. USENIX 2003 Annual Technical Conference, General Track—Paper [USENIX Annual Conference'03 Tech Program Index]
+Citations:
+Authors: VC Zandy, BP Miller
+Publication: 
+
+363. Workshop reviewers
+Citations:
+Authors: M Baker, M Beigl, N Berry, G Bosilca, F Cappello, H Casanova, ...
+Publication: 
+
+364. Creating Software Technology to Harness the Power of Leadership-class Computing Systems
+Citations:
+Authors: J Mellor-Crummey, P Beckman, J Dongarra, B Miller, K Yelick
+Publication: 
+
+365. STAT: the Stack Trace Analysis Tool
+Citations:
+Authors: GL Lee, DC Arnold, DH Ahn, BR de Supinski, MP LeGendre, BP Miller, ...
+Publication: 
+
+366. Experimental Application-Driven Architecture Analysis of an SlMDiMIMD Parallel Processing System......
+Citations:
+Authors: BP Miller, J Hollingsworth, S Kiersteud, EC Bronson, TL Casavant, ...
+Publication: Ann Arbor 1001, 48109
+

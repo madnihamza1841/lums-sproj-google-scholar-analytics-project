@@ -1,0 +1,292 @@
+https://scholar.google.com/citations?hl=en&user=h6yXnyEAAAAJ
+Total Citations = 8573
+
+1. Lest we remember: Cold-boot attacks on encryption keys
+Citations:1276
+Authors: JA Halderman, SD Schoen, N Heninger, W Clarkson, W Paul, ...
+Publication: Communications of the ACM 52 (5), 91-98
+
+2. A search engine for 3D models
+Citations:1269
+Authors: T Funkhouser, P Min, M Kazhdan, J Chen, JA Halderman, D Dobkin, ...
+Publication: ACM Transactions on Graphics (TOG) 22 (1), 83-105
+
+3. The matter of Heartbleed
+Citations:469
+Authors: Z Durumeric, F Li, J Kasten, J Amann, J Beekman, M Payer, N Weaver, ...
+Publication: Proceedings of the 14th ACM Internet Measurement Conference
+
+4. ZMap: Fast Internet-wide scanning and its security applications
+Citations:469
+Authors: Z Durumeric, E Wustrow, JA Halderman
+Publication: Proceedings of the 22nd USENIX Security Symposium
+
+5. Mining your Ps and Qs: Detection of widespread weak keys in network devices
+Citations:364
+Authors: N Heninger, Z Durumeric, E Wustrow, JA Halderman
+Publication: Proceedings of the 21st USENIX Security Symposium
+
+6. Imperfect forward secrecy: How Diffie-Hellman fails in practice
+Citations:355
+Authors: D Adrian, K Bhargavan, Z Durumeric, P Gaudry, M Green, JA Halderman, ...
+Publication: Proceedings of the 22nd ACM Conference on Computer and Communications Security
+
+7. Understanding the Mirai botnet
+Citations:335
+Authors: M Antonakakis, T April, M Bailey, M Bernhard, E Bursztein, J Cochran, ...
+Publication: Proceedings of the 26th Usenix Security Symposium
+
+8. A convenient method for securely managing passwords
+Citations:269
+Authors: JA Halderman, B Waters, EW Felten
+Publication: Proceedings of the 14th International World Wide Web Conference, 471-479
+
+9. Analysis of the HTTPS certificate ecosystem
+Citations:230
+Authors: Z Durumeric, J Kasten, M Bailey, JA Halderman
+Publication: Proceedings of the 13th ACM Internet Measurement Conference, 291-304
+
+10. Security analysis of the Diebold AccuVote-TS voting machine
+Citations:208
+Authors: AJ Feldman, JA Halderman, EW Felten
+Publication: Proceedings of the 2007 USENIX/ACCURATE Electronic Voting Technology Workshop
+
+11. New client puzzle outsourcing techniques for DoS resistance
+Citations:206
+Authors: B Waters, A Juels, JA Halderman, EW Felten
+Publication: Proceedings of the 11th ACM Conference on Computer and Communications …
+
+12. Censys: A search engine backed by Internet-wide scanning
+Citations:192
+Authors: Z Durumeric, D Adrian, A Mirian, M Bailey, JA Halderman
+Publication: Proceedings of the 22nd ACM Conference on Computer and Communications …
+
+13. Security analysis of the Estonian Internet voting system
+Citations:189
+Authors: D Springall, T Finkenauer, Z Durumeric, J Kitcat, H Hursti, M MacAlpine, ...
+Publication: Proceedings of the 21st ACM Conference on Computer and Communications …
+
+14. Telex: Anticensorship in the network infrastructure
+Citations:169
+Authors: E Wustrow, S Wolchok, I Goldberg, JA Halderman
+Publication: Proceedings of the 20th USENIX Security Symposium
+
+15. Elliptic curve cryptography in practice
+Citations:168
+Authors: JW Bos, JA Halderman, N Heninger, J Moore, M Naehrig, E Wustrow
+Publication: Proceedings of the 18th International Conference on Financial Cryptography …
+
+16. Security analysis of India's electronic voting machines
+Citations:145
+Authors: S Wolchok, E Wustrow, JA Halderman, HK Prasad, A Kankipati, ...
+Publication: Proceedings of the 17th ACM Conference on Computer and Communications …
+
+17. Internet censorship in China: Where does the filtering occur?
+Citations:141
+Authors: X Xu, Z Mao, JA Halderman
+Publication: Proceedings of the 12th Passive and Active Measurement Conference, 133-142
+
+18. Defeating Vanish with low-cost Sybil attacks against large DHTs.
+Citations:128
+Authors: S Wolchok, OS Hofmann, N Heninger, EW Felten, JA Halderman, ...
+Publication: Proceedings of the 17th Network and Distributed System Security Symposium
+
+19. DROWN: Breaking TLS using SSLv2
+Citations:122
+Authors: N Aviram, S Schinzel, J Somorovsky, N Heninger, M Dankel, J Steube, ...
+Publication: Proceedings of the 25th USENIX Security Symposium
+
+20. Early experiences with a 3D model search engine
+Citations:113
+Authors: P Min, JA Halderman, M Kazhdan, TA Funkhouser
+Publication: Proceedings of the 8th International Conference on 3D Web Technology
+
+21. Green lights forever: Analyzing the security of traffic infrastructure
+Citations:112
+Authors: B Ghena, W Beyer, A Hillaker, J Pevarnek, JA Halderman
+Publication: Proceedings of the 8th USENIX Workshop on Offensive Technologies
+
+22. Can DREs provide long-lasting security? The case of return-oriented programming and the AVC Advantage
+Citations:110
+Authors: S Checkoway, AJ Feldman, B Kantor, JA Halderman, EW Felten, ...
+Publication: Proceedings of the 2009 USENIX/ACCURATE/IAVoSS Electronic Voting Technology …
+
+23. Internet censorship in Iran: A first look
+Citations:107
+Authors: S Aryan, H Aryan, JA Halderman
+Publication: Proceedings of the 3rd USENIX Workshop on Free and Open Communications on …
+
+24. Attacking the Washington, DC Internet voting system
+Citations:103
+Authors: S Wolchok, E Wustrow, D Isabel, JA Halderman
+Publication: Proceedings of the 16th International Conference on Financial Cryptography …
+
+25. An Internet-wide view of Internet-wide scanning
+Citations:98
+Authors: Z Durumeric, M Bailey, JA Halderman
+Publication: Proceedings of the 23rd USENIX Security Symposium
+
+26. Fingerprinting blank paper using commodity scanners
+Citations:92
+Authors: W Clarkson, T Weyrich, A Finkelstein, N Heninger, JA Halderman, ...
+Publication: Proceedings of the 30th IEEE Symposium on Security and Privacy, 301-314
+
+27. Lessons from the Sony CD DRM episode
+Citations:79
+Authors: JA Halderman, EW Felten
+Publication: Proceedings of the 15th USENIX Security Symposium
+
+28. Neither snow nor rain nor MITM... An empirical analysis of email delivery security
+Citations:67
+Authors: Z Durumeric, D Adrian, A Mirian, J Kasten, E Bursztein, N Lidzborski, ...
+Publication: Proceedings of the 15th ACM Internet Measurement Conference, 27-39
+
+29. The New South Wales iVote system: Security failures and verification flaws in a live online election
+Citations:65
+Authors: JA Halderman, V Teague
+Publication: Proceedings of the 5th International Conference on E-voting and Identity …
+
+30. Source code review of the Diebold voting system
+Citations:53
+Authors: JA Calandrino, AJ Feldman, JA Halderman, D Wagner, H Yu, WP Zeller
+Publication: California "Top to Bottom" Review of Voting Systems
+
+31. Sketcha: A captcha based on line drawings of 3D models
+Citations:52
+Authors: SA Ross, JA Halderman, A Finkelstein
+Publication: Proceedings of the 19th International World Wide Web Conference, 821-830
+
+32. The security impact of HTTPS interception
+Citations:47
+Authors: Z Durumeric, Z Ma, D Springall, R Barnes, N Sullivan, E Bursztein, ...
+Publication: Proceedings of the 24th Network and Distributed Systems Symposium (NDSS’17)
+
+33. Machine-assisted election auditing
+Citations:45
+Authors: JA Calandrino, JA Halderman, EW Felten
+Publication: Proceedings of the 2007 USENIX/ACCURATE Electronic Voting Technology Workshop
+
+34. Zippier ZMap: Internet-wide scanning at 10 Gbps
+Citations:43
+Authors: D Adrian, Z Durumeric, G Singh, JA Halderman
+Publication: Proceedings of the 8th USENIX Workshop on Offensive Technologies
+
+35. TapDance: End-to-middle anticensorship without flow blocking
+Citations:42
+Authors: E Wustrow, CM Swanson, JA Halderman
+Publication: Proceedings of the 23rd USENIX Security Symposium
+
+36. Crawling BitTorrent DHTs for fun and profit
+Citations:41
+Authors: S Wolchok, JA Halderman
+Publication: Proceedings of the 4th USENIX Workshop on Offensive Technologies
+
+37. Evaluating new copy-prevention techniques for audio CDs
+Citations:41
+Authors: JA Halderman
+Publication: Proceedings of the ACM Workshop on Digital Rights Management, 101-117
+
+38. Digital rights management, spyware, and security
+Citations:38
+Authors: EW Felten, JA Halderman
+Publication: IEEE Security & Privacy 4 (1), 18-23
+
+39. Towards a complete view of the certificate ecosystem
+Citations:37
+Authors: B VanderSloot, J Amann, M Bernhard, Z Durumeric, M Bailey, ...
+Publication: Proceedings of the 16th ACM Internet Measurement Conference
+
+40. Privacy management for portable recording devices
+Citations:37
+Authors: JA Halderman, B Waters, EW Felten
+Publication: Proceedings of the 2004 ACM Workshop on Privacy in the Electronic Society, 16-24
+
+41. Android UI deception revisited: Attacks and defenses
+Citations:36
+Authors: E Fernandes, QA Chen, J Paupore, G Essl, JA Halderman, ZM Mao, ...
+Publication: 12th International Conference on Financial Cryptography and Data Security
+
+42. Analysis of the Green Dam censorware system
+Citations:34
+Authors: S Wolchok, R Yao, JA Halderman
+Publication: Technical Report, University of Michigan Computer Science and Engineering …
+
+43. Outsmarting proctors with smartwatches: A case study on wearable computing security
+Citations:31
+Authors: A Migicovsky, Z Durumeric, J Ringenberg, JA Halderman
+Publication: Proceedings of the 18th International Conference on Financial Cryptography …
+
+44. CAge: Taming certificate authorities by inferring restricted scopes
+Citations:28
+Authors: J Kasten, E Wustrow, JA Halderman
+Publication: Proceedings of the 17th International Conference on Financial Cryptography …
+
+45. An Internet-wide view of ICS devices
+Citations:25
+Authors: A Mirian, Z Ma, D Adrian, M Tischer, T Chuenchujit, T Yardley, R Berthier, ...
+Publication: Proeedings of the 14th IEEE Conference on Privacy, Security, and Trust
+
+46. Illuminating the security issues surrounding lights-out server management
+Citations:24
+Authors: AJ Bonkoski, R Bielawski, JA Halderman
+Publication: Proceedings of the 7th USENIX Workshop on Offensive Technologies
+
+47. In defense of pseudorandom sample selection.
+Citations:20
+Authors: JA Calandrino, JA Halderman, EW Felten
+Publication: Proceedings of the 2008 USENIX/ACCURATE Electronic Voting Technology Workshop
+
+48. Tracking certificate misissuance in the wild
+Citations:19
+Authors: D Kumar, Z Wang, M Hyder, J Dickinson, G Beck, D Adrian, J Mason, ...
+Publication: Proceedings of the 39th IEEE Symposium on Security and Privacy
+
+49. Analysis of the MediaMax CD3 copy-prevention system
+Citations:18
+Authors: JA Halderman
+Publication: Technical Report TR-679-03, Princeton University Department of Computer Science
+
+50. Public evidence from secret ballots
+Citations:17
+Authors: M Bernhard, J Benaloh, JA Halderman, RL Rivest, PYA Ryan, PB Stark, ...
+Publication: Proceedings of the 2nd International Joint Conference on Electronic Voting …
+
+51. Security analysis of a full-body scanner
+Citations:17
+Authors: K Mowery, E Wustrow, T Wypych, C Singleton, C Comfort, E Rescorla, ...
+Publication: Proceedings of the 23rd USENIX Security Symposium
+
+52. Security challenges in an increasingly tangled Web
+Citations:16
+Authors: D Kumar, Z Ma, Z Durumeric, A Mirian, J Mason, JA Halderman, M Bailey
+Publication: Proceedings of the 26th World Wide Web Conference
+
+53. Measuring small subgroup attacks against Diffie-Hellman
+Citations:16
+Authors: L Valenta, D Adrian, A Sanso, S Cohney, J Fried, M Hastings, ...
+Publication: Proceedings of the 24th Network and Distributed Systems Symposium (NDSS’17)
+
+54. System and method for machine-assisted election auditing
+Citations:16
+Authors: EW Felten, JA Calendrino, JA Halderman
+Publication: US Patent 8,033,463
+
+55. FTP: The forgotten cloud
+Citations:15
+Authors: D Springall, Z Durumeric, JA Halderman
+Publication: 46th IEEE Conference on Dependable Systems and Networks (DSN), 503-513
+
+56. TIVOs: Trusted visual I/O paths for Android
+Citations:15
+Authors: E Fernandes, QA Chen, G Essl, JA Halderman, ZM Mao, A Prakash
+Publication: Technical Report, University of Michigan Computer Science and Engineering …
+
+57. You go to elections with the voting system you have: Stop-gap mitigations for deployed voting systems
+Citations:15
+Authors: JA Halderman, E Rescorla, H Shacham, D Wagner
+Publication: Proceedings of the 2008 USENIX/ACCURATE Electronic Voting Technology Workshop
+
+58. Measuring the security harm of TLS crypto shortcuts
+Citations:12
+Authors: D Springall, Z Durumeric, JA Halderman
+Publication: Proceedings of the 16th ACM Internet Meas

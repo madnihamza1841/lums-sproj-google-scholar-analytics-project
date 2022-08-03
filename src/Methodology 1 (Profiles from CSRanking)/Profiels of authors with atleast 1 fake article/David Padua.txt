@@ -1,0 +1,265 @@
+
+5. Parallel programming with Polaris
+Citations:462
+Authors: W Blume, R Doallo, R Eigenmann, J Grout, J Hoeflinger, T Lawrence
+Publication: Computer 29 (12), 78-82
+
+20. Programming for parallelism and locality with hierarchically tiled arrays
+Citations:159
+Authors: G Bikshandi, J Guo, D Hoeflinger, G Almasi, BB Fraguela, MJ Garzarán, ...
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+46. MULTIPROCESSORS: DISCUSSION OF SOME THEORETICAL AND PRACTICAL PROBLEMS.
+Citations:85
+Authors: HDA PADUA
+Publication: 
+
+47. A language for the compact representation of multiple program versions
+Citations:84
+Authors: S Donadio, J Brodman, T Roeder, K Yotov, D Barthou, A Cohen, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+56. The Cedar system and an initial performance study
+Citations:72
+Authors: D Kuck, E Davidson, D Lawrie, A Sameh, CQ Zhu, A Veidenbaum, ...
+Publication: ACM SIGARCH Computer Architecture News 21 (2), 213-223
+
+59. Standards for graph algorithm primitives
+Citations:67
+Authors: T Mattson, D Bader, J Berry, A Buluc, J Dongarra, C Faloutsos, J Feo, ...
+Publication: 2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-2
+
+64. NSF/IEEE-TCPP curriculum initiative on parallel and distributed computing: core topics for undergraduates
+Citations:58
+Authors: SK Prasad, AY Chtchelkanova, SK Das, F Dehne, MG Gouda, A Gupta, ...
+Publication: SIGCSE 11, 617-618
+
+86. Compilation techniques for explicitly parallel programs
+Citations:36
+Authors: J Lee
+Publication: University of Illinois at Urbana-Champaign
+
+88. The hierarchically tiled arrays programming approach
+Citations:34
+Authors: BB Fraguela, J Guo, G Bikshandi, MJ Garzaran, G Almasi, J Moreira, ...
+Publication: Proceedings of the 7th workshop on Workshop on languages, compilers, and run …
+
+89. Health informatics in the cloud
+Citations:33
+Authors: ML Braunstein
+Publication: Springer Science & Business Media
+
+95. Programming abstractions for data locality
+Citations:27
+Authors: A Tate, A Kamil, A Dubey, A Größlinger, B Chamberlain, B Goglin, ...
+Publication: PADAL Workshop 2014, April 28--29, Swiss National Supercomputing Center …
+
+97. Restructuring programs for high-speed computers with Polaris
+Citations:27
+Authors: J Lee, Y Paek, P Tu
+Publication: 1996 Proceedings ICPP Workshop on Challenges for Parallel Processing, 149-161
+
+107. Design and use of htalib–a library for hierarchically tiled arrays
+Citations:21
+Authors: G Bikshandi, J Guo, C Von Praun, G Tanase, BB Fraguela, MJ Garzarán, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 17-32
+
+109. Theory, techniques, and experiments in solving recurrences in computer programs.
+Citations:21
+Authors: WM Pottenger
+Publication: 
+
+118. An effect system and language for deterministic-by-default parallel programming
+Citations:18
+Authors: RL Bocchino Jr
+Publication: University of Illinois at Urbana-Champaign
+
+121. High-speed machines and their compilers
+Citations:18
+Authors: DJ Kuck
+Publication: Parallel _ ______ Processing _ ________ Systems _ ______, DJ Evans (ed …
+
+129. The dependence analysis and synchronization of parallel programs.
+Citations:16
+Authors: SP Midkiff
+Publication: 
+
+136. The joy of algorithms
+Citations:14
+Authors: F Sullivan
+Publication: Computing in Science & Engineering 2 (1), 2
+
+145. High-assurance SPIRAL: End-to-end guarantees for robot and car control
+Citations:11
+Authors: F Franchetti, TM Low, S Mitsch, JP Mendoza, L Gui, A Phaosawasdi, ...
+Publication: IEEE Control Systems Magazine 37 (2), 82-103
+
+150. Ictíneo: A tool for instruction-level parallelism research
+Citations:11
+Authors: E Ayguadé, C Barrado, A González, J Labarta, J Llosa, D López, ...
+Publication: Tec. Rep. UPC-DAC-1996-61 U. Politècnica Catalunya
+
+152. Automatic parallelization of Prolog programs
+Citations:11
+Authors: DC Sehr
+Publication: University of Illinois at Urbana-Champaign
+
+155. Hierarchically tiled arrays for parallelism and locality
+Citations:10
+Authors: J Guo, G Bikshandi, D Hoeflinger, G Almasi, B Fraguela, MJ Garzarán, ...
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+159. Common runtime support for high performance parallel languages parallel compiler runtime consortium
+Citations:10
+Authors: G Fox, S Ranka, M Scott, AD Malony, J Browne, MC Chen, A Choudhary, ...
+Publication: Proceedings of the Supercomputing'93 Conference, 752-757
+
+190. An empirical study of the effect of source-level loop transformations on compiler stability
+Citations:4
+Authors: Z Gong, Z Chen, J Szaday, D Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 126
+
+194. Message-driven parallel language runtime design and optimizations for multicore-based massively parallel machines
+Citations:4
+Authors: C Mei
+Publication: University of Illinois at Urbana-Champaign
+
+196. Special issue on the First MetaOCaml Workshop 2004-Preface
+Citations:4
+Authors: C Lengauer, W Taha
+Publication: Science of Computer Programming 62 (1), 1-2
+
+200. Compiler support for productive message-driven parallel programming
+Citations:3
+Authors: AT Becker
+Publication: University of Illinois at Urbana-Champaign
+
+203. Implementation of parallel numerical algorithms using hierarchically tiled arrays
+Citations:3
+Authors: G Bikshandi, BB Fraguela, J Guo, MJ Garzarán, G Almási, J Moreira, ...
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 87-101
+
+206. Points-to analysis for java with applications to loop optimizations
+Citations:3
+Authors: P WuÝ, P FeautrierÞ, D PaduaÝ, Z SuraÝ
+Publication: 
+
+208. LCPC'97
+Citations:3
+Authors: D Sehr, U Banerjee, G Goos, D Gelernter, J Hartmanis, J Van Leeuwen, ...
+Publication: Springer Science & Business Media
+
+212. University of Illinois Urbana Champaign
+Citations:3
+Authors: EJ Paul
+Publication: USA
+
+217. Logic of lemmings in compiler innovation
+Citations:2
+Authors: C Staff
+Publication: Communications of the ACM 52 (5), 7-9
+
+221. The cedar system and an initial performance study
+Citations:2
+Authors: D Kuck, E Davidson, D Lawrie, A Sameh, CQ Zhu, A Veidenbaum, ...
+Publication: 25 years of the international symposia on Computer architecture (selected …
+
+228. An empirical study of the effect of source-level transformations on compiler stability
+Citations:1
+Authors: Z Gong, Z Chen, JJ Szaday, DC Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the Workshop on Compilers for Parallel Computing (CPC’18)
+
+233. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+262. Practices of PLDI
+Citations:
+Authors: H Boehm, J Davidson, K Fisher, C Flanagan, J Gibbons, M Hall, G Hutton, ...
+Publication: ACM SIGPLAN Notices 49 (4), 33-38
+
+263. Josep Torrellas (I2PC Director) Sarita V. Adve Vikram S. Adve Danny Dig
+Citations:
+Authors: MN Do, MJ Garzaran, JC Hart, TS Huang, WH Wen-mei, ST King, ...
+Publication: 
+
+264. Effectiveness of program transformations and compilers for directive-based GPU programming models
+Citations:
+Authors: S Ghike
+Publication: 
+
+292. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: RJ Barker, USA Force, M Gagnaire, WV Hassenzahl, MT Sun, W Zhu, ...
+Publication: Proceedings of the IEEE 92 (6), 1007
+
+293. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: B Macq, H Yu, USA Force, VG Moruzzi, M Gagnaire, WV Hassenzahl, ...
+Publication: Proceedings of the IEEE 92 (4), 763
+
+294. Future Special Issues/Special Sections of the PROCEEDINGS
+Citations:
+Authors: N de Freitas, USA Force, B Macq, H Yu, VG Moruzzi, M Gagnaire, ...
+Publication: Proceedings of the IEEE 92 (2), 393
+
+295. International Journal of High Performance
+Citations:
+Authors: RW Johnson, M Püschel, JMF Moura, B Singer, J Xiong, J Johnson, ...
+Publication: The International Journal of High Performance Computing Applications 18 (1 …
+
+300. International Journal of Parallel Programming Volume 28 Issue 4
+Citations:
+Authors: U Banerjee, N Carriero, WM Hwu, A Nicolau, DK Arvind, K Ebcioglu, ...
+Publication: Plenum Press 28 (4)
+
+306. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+317. Static and Dynamic Evaluation of Data Dependence Analysis
+Citations:
+Authors: PMPDA Padua
+Publication: Conference Proceedings, 107
+
+320. Languages and Compilers for Parallel Computing: 4th International Workshop, Santa Clara, California, USA, August 7-9, 1991: Proceedings
+Citations:
+Authors: A Nicolau
+Publication: Springer Berlin Heidelberg
+
+323. An Assessment of Scientific Computing Technology 1991-2001
+Citations:
+Authors: CJ Mueller, LW Amiot, TR Canfield, CM Caruthers, TC Kuhfuss, EL Lusk, ...
+Publication: Argonne National Lab., IL (USA)
+
+341. Simplifying Parallel Programming for CSE Applications Using a Multi-Paradigm Approach Project NSF 0833188 Annual Report: Sep. 2011 to Aug. 2012
+Citations:
+Authors: LVK PI
+Publication: University of Illinois
+
+354. Subject Area Editors
+Citations:
+Authors: DP Agrawal, I Ahmad, D Bader, A Boukerche, S Das, E Dekel, ...
+Publication: 
+
+359. Program and Organizing Committees
+Citations:
+Authors: F Tirado, M Prieto, DA de Computadores, D Maric, JL Aguilar, B Baran, ...
+Publication: 
+
+360. Jim Dehnert, Transmeta Sandhya Dwarkadas, U. of Rochester Kemal Ebcioglu, IBM Babak Falsafi, Carnegie Mellon U.
+Citations:
+Authors: J Fang, G Gao, A Gonzalez, D Grunwald, M Heinrich, A Hurson, S Keckler, ...
+Publication: 
+
+374. Program Committee Chairs
+Citations:
+Authors: M Valero, JL Larriba-Pey, E Ayguade, LA Barroso, D Bernstein, A Bilas, ...
+Publication: 
+
+378. Department of Computer Science University of Illinois at Urbana-Champaign 1304 West Springfield Avenue Urbana, IL 61801 USA
+Citations:
+Authors: VE Jones, N Ching, M Winslett
+Publication: 

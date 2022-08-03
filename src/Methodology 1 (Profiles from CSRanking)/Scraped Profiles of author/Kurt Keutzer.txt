@@ -1,0 +1,1848 @@
+https://scholar.google.com/citations?hl=en&user=ID9QePIAAAAJ
+Total Citations = 21830
+
+1. The landscape of parallel computing research: A view from berkeley
+Citations:2445
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Technical Report UCB/EECS-2006-183, EECS Department, University of …
+
+2. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size
+Citations:1558
+Authors: FN Iandola, S Han, MW Moskewicz, K Ashraf, WJ Dally, K Keutzer
+Publication: arXiv preprint arXiv:1602.07360
+
+3. System-level design: orthogonalization of concerns and platform-based design
+Citations:1178
+Authors: K Keutzer, AR Newton, JM Rabaey, A Sangiovanni-Vincentelli
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+4. DAGON: Technology binding and local optimization by DAG matching
+Citations:715
+Authors: K Keutzer
+Publication: Proceedings of the 24th ACM/IEEE Design Automation Conference, 341-347
+
+5. A view of the parallel computing landscape
+Citations:695
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+6. Estimation of average switching activity in combinational and sequential circuits
+Citations:672
+Authors: A Ghosh, S Devadas, K Keutzer, J White
+Publication: [1992] Proceedings 29th ACM/IEEE Design Automation Conference, 253-259
+
+7. Addressing the system-on-a-chip interconnect woes through communication-based design
+Citations:468
+Authors: M Sgroi, M Sheets, A Mihal, K Keutzer, S Malik, J Rabaey, ...
+Publication: Proceedings of the 38th Design Automation Conference (IEEE Cat. No …
+
+8. Fast support vector machine training and classification on graphics processors
+Citations:438
+Authors: B Catanzaro, N Sundaram, K Keutzer
+Publication: Proceedings of the 25th international conference on Machine learning, 104-111
+
+9. Getting to the bottom of deep submicron
+Citations:372
+Authors: D Sylvester, K Keutzer
+Publication: 1998 IEEE/ACM International Conference on Computer-Aided Design. Digest of …
+
+10. Dense point trajectories by GPU-accelerated large displacement optical flow
+Citations:359
+Authors: N Sundaram, T Brox, K Keutzer
+Publication: European conference on computer vision, 438-451
+
+11. Bus encoding to prevent crosstalk delay
+Citations:316
+Authors: B Victor, K Keutzer
+Publication: Proceedings of the 2001 IEEE/ACM international conference on Computer-aided …
+
+12. Closing the gap between ASIC & custom: tools and techniques for high-performance ASIC design
+Citations:284
+Authors: D Chinnery, K Keutzer
+Publication: Springer Science & Business Media
+
+13. On average power dissipation and random pattern testability of CMOS combinational logic networks
+Citations:280
+Authors: A Shen, A Ghosh, S Devadas, K Keutzer
+Publication: ICCAD, 402-407
+
+14. A quick safari through the reconfiguration jungle
+Citations:255
+Authors: P Schaumont, I Verbauwhede, K Keutzer, M Sarrafzadeh
+Publication: Proceedings of the 38th annual Design Automation Conference, 172-177
+
+15. A general probabilistic framework for worst case timing analysis
+Citations:248
+Authors: M Orshansky, K Keutzer
+Publication: Proceedings of the 39th annual Design Automation Conference, 556-561
+
+16. Coverage metrics for functional validation of hardware designs
+Citations:247
+Authors: S Tasiran, K Keutzer
+Publication: IEEE Design & Test of Computers 18 (4), 36-45
+
+17. Logic synthesis
+Citations:241
+Authors: S Devadas, A Ghosh, KW Keutzer
+Publication: 
+
+18. OCCOM-efficient computation of observability-based code coverage metrics for functional verification
+Citations:223
+Authors: F Fallah, S Devadas, K Keutzer
+Publication: IEEE Transactions on computer-aided design of integrated circuits and …
+
+19. Copperhead: compiling an embedded data parallel language
+Citations:220
+Authors: B Catanzaro, M Garland, K Keutzer
+Publication: ACM SIGPLAN Notices 46 (8), 47-56
+
+20. A global wiring paradigm for deep submicron design
+Citations:205
+Authors: D Sylvester, K Keutzer
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+21. Estimation of power dissipation in CMOS combinational circuits using boolean function manipulation
+Citations:205
+Authors: S Devadas, K Keutzer, J White
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+22. Impact of spatial intrachip gate length variability on the performance of high-speed digital circuits
+Citations:195
+Authors: M Orshansky, L Milor, P Chen, K Keutzer, C Hu
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+23. Fast-SPIRiT Compressed Sensing Parallel Imaging MRI: Scalable Parallel Implementation and Clinically Feasible Runtime
+Citations:189
+Authors: M Murphy, M Alley, J Demmel, K Keutzer, S Vasanawala, M Lustig
+Publication: IEEE transactions on medical imaging 31 (6), 1250-1262
+
+24. From ASIC to ASIP: The next design discontinuity
+Citations:186
+Authors: K Keutzer, S Malik, AR Newton
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+25. Algorithms for Synthesis of Hazard-Free Asynchronous Circuits.
+Citations:181
+Authors: L Lavagno, K Keutzer, AL Sangiovanni-Vincentelli
+Publication: DAC, 302-308
+
+26. Storage assignment to decrease code size
+Citations:180
+Authors: S Liao, S Devadas, K Keutzer, S Tjiang, A Wang
+Publication: ACM SIGPLAN Notices 30 (6), 186-195
+
+27. Minimization of dynamic and static power through joint assignment of threshold voltages and sizing optimization
+Citations:178
+Authors: D Nguyen, A Davare, M Orshansky, D Chinnery, B Thompson, K Keutzer
+Publication: Proceedings of the 2003 international symposium on Low power electronics and …
+
+28. An observability-based code coverage metric for functional simulation
+Citations:170
+Authors: S Devadas, A Ghosh, K Keutzer
+Publication: Proceedings of the 1996 IEEE/ACM international conference on Computer-aided …
+
+29. Firecaffe: near-linear acceleration of deep neural network training on compute clusters
+Citations:157
+Authors: FN Iandola, MW Moskewicz, K Ashraf, K Keutzer
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+30. Efficient, high-quality image contour detection
+Citations:150
+Authors: B Catanzaro, BY Su, N Sundaram, Y Lee, M Murphy, K Keutzer
+Publication: 2009 IEEE 12th International Conference on Computer Vision, 2381-2388
+
+31. Towards true crosstalk noise analysis
+Citations:146
+Authors: P Chen, K Keutzer
+Publication: Proceedings of the 1999 IEEE/ACM international conference on Computer-aided …
+
+32. Code density optimization for embedded DSP processors using data compression techniques
+Citations:146
+Authors: SY Liao, S Devadas, K Keutzer
+Publication: Proceedings Sixteenth Conference on Advanced Research in VLSI, 272-285
+
+33. Squeezedet: Unified, small, low power fully convolutional neural networks for real-time object detection for autonomous driving
+Citations:144
+Authors: B Wu, F Iandola, PH Jin, K Keutzer
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+34. Impact of small process geometries on microarchitectures in systems on a chip
+Citations:142
+Authors: D Sylvester, K Keutzer
+Publication: Proceedings of the IEEE 89 (4), 467-489
+
+35. Getting to the bottom of deep submicron II: A global wiring paradigm
+Citations:140
+Authors: D Sylvester, K Keutzer
+Publication: ISPD 99, 193-200
+
+36. Densenet: Implementing efficient convnet descriptor pyramids
+Citations:132
+Authors: F Iandola, M Moskewicz, S Karayev, R Girshick, T Darrell, K Keutzer
+Publication: arXiv preprint arXiv:1404.1869
+
+37. Overview of* configurable* architectures
+Citations:132
+Authors: K Keutzer
+Publication: Feb 28, 1-29
+
+38. Synthesis of robust delay-fault-testable circuits: Theory
+Citations:132
+Authors: S Devadas, K Keutzer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+39. Statistical timing analysis of combinational logic circuits
+Citations:130
+Authors: HF Jyu, S Malik, S Devadas, KW Keutzer
+Publication: IEEE Transactions on Very large Scale integration (VLSI) systems 1 (2), 126-137
+
+40. Instruction selection using binate covering for code size optimization
+Citations:124
+Authors: S Liao, S Devadas, K Keutzer, S Tjiang
+Publication: Proceedings of the 1995 IEEE/ACM international conference on Computer-aided …
+
+41. Functional vector generation for HDL models using linear programming and 3-satisfiability
+Citations:121
+Authors: F Fallah, S Devadas, K Keutzer
+Publication: Proceedings of the 35th annual Design Automation Conference, 528-533
+
+42. Computation of floating mode delay in combinational circuits: Theory and algorithms
+Citations:120
+Authors: S Devadas, K Keutzer, S Malik
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+43. Practical parallel imaging compressed sensing MRI: Summary of two years of experience in accelerating body MRI of pediatric patients
+Citations:118
+Authors: SS Vasanawala, MJ Murphy, MT Alley, P Lai, K Keutzer, JM Pauly, ...
+Publication: 2011 ieee international symposium on biomedical imaging: From nano to macro …
+
+44. SEJITS: Getting productivity and performance with selective embedded JIT specialization
+Citations:110
+Authors: B Catanzaro, S Kamil, Y Lee, K Asanovic, J Demmel, K Keutzer, J Shalf, ...
+Publication: Programming Models for Emerging Architectures 1 (1), 1-9
+
+45. Efficient parallelization of h. 264 decoding with macro block level scheduling
+Citations:109
+Authors: J Chong, N Satish, B Catanzaro, K Ravindran, K Keutzer
+Publication: 2007 IEEE international conference on multimedia and expo, 1874-1877
+
+46. Miller factor for gate-level coupling delay calculation
+Citations:109
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Proceedings of the 2000 IEEE/ACM international conference on Computer-aided …
+
+47. Impact of systematic spatial intra-chip gate length variability on performance of high-speed digital circuits
+Citations:107
+Authors: M Orshansky, L Milor, P Chen, K Keutzer, C Hu
+Publication: Proceedings of the 2000 IEEE/ACM international conference on Computer-aided …
+
+48. clSpMV: A cross-platform OpenCL SpMV framework on GPUs
+Citations:106
+Authors: BY Su, K Keutzer
+Publication: Proceedings of the 26th ACM international conference on Supercomputing, 353-364
+
+49. NP-Click: A programming model for the Intel IXP1200
+Citations:106
+Authors: N Shah, W Plishker, K Keutzer
+Publication: Network Processor Design, 181-201
+
+50. Certified timing verification and the transition delay of a logic circuit
+Citations:106
+Authors: S Devadas, K Keutzer, S Malik, A Wang
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 2 (3), 333-342
+
+51. Delay-fault test generation and synthesis for testability under a standard scan design methodology
+Citations:105
+Authors: KT Cheng, S Devadas, K Keutzer
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+52. Storage assignment to decrease code size
+Citations:103
+Authors: S Liao, S Devadas, K Keutzer, S Tjiang, A Wang
+Publication: ACM transactions on programming languages and systems (TOPLAS) 18 (3), 235-253
+
+53. Code optimization techniques in embedded DSP microprocessors
+Citations:99
+Authors: S Liao, S Devadas, K Keutzer, S Tjiang, A Wang
+Publication: Design Automation for Embedded Systems 3 (1), 59-73
+
+54. Estimation of average switching activity in combinational logic circuits using symbolic simulation
+Citations:99
+Authors: J Monteiro, S Devadas, A Ghosh, K Keutzer, J White
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+55. Is redundancy necessary to reduce delay?
+Citations:99
+Authors: K Keutzer, S Malik, A Saldanha
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+56. Imagenet training in minutes
+Citations:97
+Authors: Y You, Z Zhang, CJ Hsieh, J Demmel, K Keutzer
+Publication: Proceedings of the 47th International Conference on Parallel Processing, 1
+
+57. A map reduce framework for programming graphics processors
+Citations:97
+Authors: B Catanzaro, N Sundaram, K Keutzer
+Publication: Workshop on Software Tools for MultiCore Systems
+
+58. An automated exploration framework for FPGA-based soft multiprocessor systems
+Citations:94
+Authors: K Keutzer, K Ravindran, N Satish, Y Jin
+Publication: 2005 Third IEEE/ACM/IFIP International Conference on Hardware/Software …
+
+59. Limitations and challenges of computer-aided design technology for CMOS VLSI
+Citations:93
+Authors: RE Bryant, KT Cheng, AB Kahng, K Keutzer, W Maly, R Newton, L Pileggi, ...
+Publication: Proceedings of the IEEE 89 (3), 341-365
+
+60. Why is ATPG easy?
+Citations:93
+Authors: MK Prasad, P Chong, K Keutzer
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 22-28
+
+61. Building ASIPs: The Mescal Methodology
+Citations:91
+Authors: M Gries, K Keutzer
+Publication: Springer Science & Business Media
+
+62. Closing the gap between ASIC and custom: An ASIC perspective
+Citations:91
+Authors: DG Chinnery, K Keutzer
+Publication: dac, 637-642
+
+63. Delay computation in combinational logic circuits: Theory and algorithms
+Citations:91
+Authors: S Devadas, K Keutzer, S Malik
+Publication: 1991 IEEE International Conference on Computer-Aided Design Digest of …
+
+64. Communication-avoiding QR decomposition for GPUs
+Citations:89
+Authors: M Anderson, G Ballard, J Demmel, K Keutzer
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 48-58
+
+65. The concurrency challenge
+Citations:88
+Authors: W Hwu, K Keutzer, TG Mattson
+Publication: IEEE Design & Test of Computers 25 (4), 312-320
+
+66. An FPGA-based soft multiprocessor system for IPv4 packet forwarding
+Citations:86
+Authors: K Ravindran, N Satish, Y Jin, K Keutzer
+Publication: International Conference on Field Programmable Logic and Applications, 2005 …
+
+67. A partial enhanced-scan approach to robust delay-fault test generation for sequential circuits
+Citations:83
+Authors: KT Cheng, S Devadas, K Keutzer
+Publication: 1991, Proceedings. International Test Conference, 403
+
+68. Synthesis of robust delay-fault-testable circuits: Practice
+Citations:79
+Authors: S Devadas, K Keutzer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+69. Synthesis and optimization procedures for robustly delay-fault testable combinational logic circuits
+Citations:77
+Authors: S Devadas, K Keutzer
+Publication: Proceedings of the 27th ACM/IEEE Design Automation Conference, 221-227
+
+70. Linear programming for sizing, V/sub th/and V/sub dd/assignment
+Citations:75
+Authors: DG Chinnery, K Keutzer
+Publication: ISLPED'05. Proceedings of the 2005 International Symposium on Low Power …
+
+71. System-level performance modeling with BACPAC–Berkeley advanced chip performance calculator
+Citations:71
+Authors: D Sylvester, K Keutzer
+Publication: Proc. SLIP, 109-114
+
+72. Squeezeseg: Convolutional neural nets with recurrent crf for real-time road-object segmentation from 3d lidar point cloud
+Citations:70
+Authors: B Wu, A Wan, X Yue, K Keutzer
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1887-1893
+
+73. Closing the power gap between ASIC & custom: tools and techniques for low power design
+Citations:69
+Authors: D Chinnery, K Keutzer
+Publication: Springer Science & Business Media
+
+74. A text-compression-based method for code size minimization in embedded systems
+Citations:68
+Authors: S Liao, S Devadas, K Keutzer
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 4 (1 …
+
+75. Robust delay-fault test generation and synthesis for testability under a standard scan design methodology
+Citations:67
+Authors: KT Cheng, S Devadas, K Keutzer
+Publication: Proceedings of the 28th ACM/IEEE Design Automation Conference, 80-86
+
+76. A design pattern language for engineering (parallel) software: merging the PLPP and OPL projects
+Citations:66
+Authors: K Keutzer, BL Massingill, TG Mattson, BA Sanders
+Publication: Proceedings of the 2010 Workshop on Parallel Programming Patterns, 1-8
+
+77. Switching window computation for static timing analysis in presence of crosstalk noise
+Citations:66
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: IEEE/ACM International Conference on Computer Aided Design. ICCAD-2000. IEEE …
+
+78. Rethinking deep-submicron circuit design
+Citations:66
+Authors: D Sylvester, K Keutzer
+Publication: Computer 32 (11), 25-33
+
+79. Data-parallel large vocabulary continuous speech recognition on graphics processors
+Citations:63
+Authors: J Chong, Y Yi, A Faria, N Satish, K Keutzer
+Publication: Proceedings of the 1st Annual Workshop on Emerging Applications and Many …
+
+80. Computation of floating mode delay in combinational circuits: practice and implementation
+Citations:63
+Authors: S Devadas, K Keutzer, S Malik, A Wang
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+81. Parallel scalability in speech recognition
+Citations:60
+Authors: K You, J Chong, Y Yi, E Gonina, CJ Hughes, YK Chen, W Sung, K Keutzer
+Publication: IEEE Signal Processing Magazine 26 (6), 124-135
+
+82. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+83. A unified approach to the synthesis of fully testable sequential machines
+Citations:59
+Authors: S Devadas, KW Keutzer
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+84. Impact of library size on the quality of automated synthesis
+Citations:59
+Authors: K Keutzer
+Publication: Proc. ACM/IEEE Int. Conf. on Computer-Aided Design, Nov. 1987
+
+85. A design pattern language for engineering (parallel) software
+Citations:55
+Authors: K Keutzer, T Mattson
+Publication: Intel Technology Journal 13 (4)
+
+86. Functional vector generation for HDL models using linear programming and Boolean satisfiability
+Citations:55
+Authors: F Fallah, S Devadas, K Keutzer
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+87. Comparing analytical modeling with simulation for network processors: A case study
+Citations:54
+Authors: M Gries, C Kulkarni, C Sauer, K Keutzer
+Publication: Proceedings of the conference on Design, Automation and Test in Europe …
+
+88. Estimation of power dissipation in CMOS combinational circuits
+Citations:54
+Authors: S Devadas, K Keutzer, J White
+Publication: IEEE Proceedings of the Custom Integrated Circuits Conference, 19.7/1-19.7/6
+
+89. How to scale distributed deep learning?
+Citations:53
+Authors: PH Jin, Q Yuan, F Iandola, K Keutzer
+Publication: arXiv preprint arXiv:1611.04581
+
+90. Improving cell libraries for synthesis
+Citations:53
+Authors: K Scott, K Keutzer
+Publication: Proceedings of IEEE Custom Integrated Circuits Conference-CICC'94, 128-131
+
+91. Developing architectural platforms: A disciplined approach
+Citations:52
+Authors: A Mihal, C Kulkarni, M Moskewicz, M Tsai, N Shah, S Weber, Y Jin, ...
+Publication: IEEE Design & Test of Computers 19 (6), 6-16
+
+92. Path-delay-fault testability properties of multiplexor-based networks
+Citations:52
+Authors: P Ashar, S Devadas, K Keutzer
+Publication: Integration, the VLSI Journal 15 (1), 1-23
+
+93. A fully data parallel WFST-based large vocabulary continuous speech recognition on a graphics processing unit
+Citations:49
+Authors: J Chong, E Gonina, Y Yi, K Keutzer
+Publication: Tenth Annual Conference of the International Speech Communication Association
+
+94. Network processors: Origin of species
+Citations:49
+Authors: N Shah, K Keutzer
+Publication: The 17th International Symposium of Computer and Information Science
+
+95. Np-click: A productive software development approach for network processors
+Citations:48
+Authors: N Shah, W Plishker, K Ravindran, K Keutzer
+Publication: IEEE Micro 24 (5), 45-54
+
+96. Synthesis of hazard-free asynchronous circuits with bounded wire delays
+Citations:48
+Authors: L Lavagno, K Keutzer, AL Sangiovanni-Vincentelli
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+97. Validatable nonrobust delay-fault testable circuits via logic synthesis
+Citations:48
+Authors: S Devadas, K Keutzer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+98. Closing the power gap between ASIC and custom: an ASIC perspective
+Citations:47
+Authors: DG Chinnery, K Keutzer
+Publication: Proceedings of the 42nd annual Design Automation Conference, 275-280
+
+99. A functional validation technique: biased-random simulation guided by observability-based coverage
+Citations:47
+Authors: S Tasiran, F Fallah, DG Chinnery, SJ Weber, K Keutzer
+Publication: Proceedings 2001 IEEE International Conference on Computer Design: VLSI in …
+
+100. On properties of algebraic transformation and the multifault testability of multilevel logic
+Citations:47
+Authors: G Hachtel, R Jacoby, K Keutzer, C Morrison
+Publication: 1989 IEEE International Conference on Computer-Aided Design. Digest of …
+
+101. A benchmarking methodology for network processors
+Citations:46
+Authors: M Tsai, C Kulkarni, C Sauer, N Shah, K Keutzer
+Publication: Network Processor Design: Issues and Practices 1, 141-165
+
+102. The impact of CAD on the design of low power digital circuits
+Citations:46
+Authors: K Keutzer, P Vanbekbergen
+Publication: Proceedings of 1994 IEEE Symposium on Low Power Electronics, 42-45
+
+103. Deeplogo: Hitting logo recognition with the deep neural network hammer
+Citations:45
+Authors: FN Iandola, A Shen, P Gao, K Keutzer
+Publication: arXiv preprint arXiv:1510.02131
+
+104. A predictive model for solving small linear algebra problems in gpu registers
+Citations:45
+Authors: MJ Anderson, D Sheffield, K Keutzer
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium, 2-13
+
+105. Ubiquitous parallel computing from Berkeley, Illinois, and Stanford
+Citations:44
+Authors: B Catanzaro, A Fox, K Keutzer, D Patterson, BY Su, M Snir, K Olukotun, ...
+Publication: IEEE micro 30 (2), 41-55
+
+106. Our pattern language (opl): A design pattern language for engineering (parallel) software
+Citations:44
+Authors: K Keutzer, T Mattson
+Publication: ParaPLoP Workshop on Parallel Programming Patterns 14
+
+107. A decomposition-based constraint optimization approach for statically scheduling task graphs with communication delays to multiprocessors
+Citations:44
+Authors: N Satish, K Ravindran, K Keutzer
+Publication: Proceedings of the conference on Design, automation and test in Europe, 57-62
+
+108. Challenges in code generation for embedded processors
+Citations:44
+Authors: G Araujo, S Devadas, K Keutzer, S Liao, S Malik, A Sudarsanam, S Tjiang, ...
+Publication: Code Generation for Embedded Processors, 48-64
+
+109. Shift: A zero flop, zero parameter alternative to spatial convolutions
+Citations:43
+Authors: B Wu, A Wan, X Yue, P Jin, S Zhao, N Golmant, A Gholaminejad, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+110. The future of logic synthesis and physical design in deep-submicron process geometries
+Citations:40
+Authors: K Keutzer, AR Newton, N Shenoy
+Publication: ISPD, 218-224
+
+111. Exploring trade-offs in performance and programmability of processing element topologies for network processors
+Citations:39
+Authors: M Gries, C Kulkarni, C Sauer, K Keutzer
+Publication: Network Processor Design: Issues and Practices 2, 1-5
+
+112. Statistical timing analysis of combinational circuits
+Citations:39
+Authors: S Devadas, HF Jyu, K Keutzer, S Malik
+Publication: Proceedings 1992 IEEE International Conference on Computer Design: VLSI in …
+
+113. Parallelizing CAD: A timely research agenda for EDA
+Citations:38
+Authors: B Catanzaro, K Keutzer, BY Su
+Publication: Proceedings of the 45th annual Design Automation Conference, 12-17
+
+114. Event suppression: Improving the efficiency of timing simulation for synchronous digital circuits
+Citations:37
+Authors: S Devadas, K Keutzer, S Malik, A Wang
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+115. Gate-delay-fault testability properties of multiplexor-based networks
+Citations:37
+Authors: P Ashar, S Devadas, K Keutzer
+Publication: Formal Methods in System Design 2 (1), 93-112
+
+116. Testability-preserving circuit transformations
+Citations:37
+Authors: MJ Bryan, S Devadas, K Keutzer
+Publication: 1990 IEEE International Conference on Computer-Aided Design. Digest of …
+
+117. Synthesis of verifiably hazard-free asynchronous control circuits
+Citations:37
+Authors: L Lavagno, KW Keutzer, A Sangiovanni-Vincentelli
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+118. Clinically feasible reconstruction time for L1-SPIRiT parallel imaging and compressed sensing MRI
+Citations:36
+Authors: M Murphy, K Keutzer, S Vasanawala, M Lustig
+Publication: Proceedings of the ISMRM Scientific Meeting & Exhibition, 4854
+
+119. Testability properties of multilevel logic networks derived from binary decision diagrams
+Citations:36
+Authors: P Ashar, S Devadas, K Keutzer
+Publication: Proceedings of the 1991 University of California/Santa Cruz conference on …
+
+120. Algorithms and techniques for VLSI layout synthesis
+Citations:35
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Springer Science & Business Media
+
+121. Scheduling task dependence graphs with variable task execution times onto heterogeneous multiprocessors
+Citations:35
+Authors: NR Satish, K Ravindran, K Keutzer
+Publication: Proceedings of the 8th ACM international conference on Embedded software …
+
+122. Low power multiplication algorithm for switching activity reduction through operand decomposition
+Citations:34
+Authors: M Ito, D Chinnery, K Keutzer
+Publication: Proceedings 21st International Conference on Computer Design, 21-26
+
+123. Achieving 550 MHz in an ASIC methodology
+Citations:34
+Authors: DG Chinnery, B Nikolic, K Keutzer
+Publication: Proceedings of the 38th annual Design Automation Conference, 420-425
+
+124. FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search
+Citations:33
+Authors: B Wu, X Dai, P Zhang, Y Wang, F Sun, Y Wu, Y Tian, P Vajda, Y Jia, ...
+Publication: arXiv
+
+125. Programming challenges in network processor deployment
+Citations:33
+Authors: C Kulkarni, M Gries, C Sauer, K Keutzer
+Publication: Proceedings of the 2003 international conference on Compilers, architecture …
+
+126. Mapping concurrent applications onto architectural platforms
+Citations:33
+Authors: A Mihal, K Keutzer
+Publication: Networks on chip, 39-59
+
+127. Shallow networks for high-accuracy road object-detection
+Citations:32
+Authors: K Ashraf, B Wu, FN Iandola, MW Moskewicz, K Keutzer
+Publication: arXiv preprint arXiv:1606.01561
+
+128. 100-epoch imagenet training with alexnet in 24 minutes
+Citations:31
+Authors: Y You, Z Zhang, CJ Hsieh, J Demmel, K Keutzer
+Publication: ArXiv e-prints
+
+129. A new viewpoint on code generation for directed acyclic graphs
+Citations:31
+Authors: S Liao, K Keutzer, S Tjiang, S Devadas
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 3 (1 …
+
+130. Design verification and reachability analysis using algebraic manipulation
+Citations:31
+Authors: S Devadas, K Keutzer, AS Krishnakumar
+Publication: [1991 Proceedings] IEEE International Conference on Computer Design: VLSI in …
+
+131. Anatomy of a hardware compiler
+Citations:30
+Authors: K Keutzer, W Wolf
+Publication: ACM SIGPLAN Notices 23 (7), 95-104
+
+132. Verification of asynchronous interface circuits with bounded wire delays
+Citations:29
+Authors: S Devadas, K Keutzer, S Malik, A Wang
+Publication: Journal of VLSI signal processing systems for signal, image and video …
+
+133. Synthesis for testability techniques for asynchronous circuits
+Citations:29
+Authors: K Keutzer, L Lavagno, A Sangiovanni-Vincentelli
+Publication: ICCAD, 326-329
+
+134. A kernel-finding state assignment algorithm for multi-level logic
+Citations:29
+Authors: W Wolf, K Keutzer, J Akella
+Publication: Proceedings of the 25th ACM/IEEE Design Automation Conference, 433-438
+
+135. Squeezenext: Hardware-aware neural network design
+Citations:28
+Authors: A Gholami, K Kwon, B Wu, Z Tai, X Yue, P Jin, S Zhao, K Keutzer
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+136. Refining switching window by time slots for crosstalk noise calculation
+Citations:26
+Authors: P Chen, Y Kukimoto, K Keutzer
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+137. Three competing design methodologies for ASIC's: Architectural synthesis, logic synthesis and module generation
+Citations:26
+Authors: K Keutzer
+Publication: 26th ACM/IEEE Design Automation Conference, 308-313
+
+138. Timing optimization in a logic synthesis system
+Citations:26
+Authors: K Keutzer, M Vancura
+Publication: Proceedings of International Workshop on Logic and Arch. Synthesis for …
+
+139. Acceleration of market value-at-risk estimation
+Citations:24
+Authors: M Dixon, J Chong, K Keutzer
+Publication: Proceedings of the 2nd Workshop on High Performance Computational Finance, 5
+
+140. From blind certainty to informed uncertainty
+Citations:24
+Authors: K Keutzer, M Orshansky
+Publication: Proceedings of the 8th ACM/IEEE international workshop on Timing issues in …
+
+141. An automata-theoretic approach to behavioral equivalence
+Citations:24
+Authors: S Devadas, K Keutzer
+Publication: INTEGRATION, the VLSI journal 12 (2), 109-129
+
+142. Communication-minimizing 2D convolution in GPU registers
+Citations:23
+Authors: FN Iandola, D Sheffield, MJ Anderson, PM Phothilimthana, K Keutzer
+Publication: 2013 IEEE International Conference on Image Processing, 2116-2120
+
+143. Long term video segmentation through pixel level spectral clustering on gpus
+Citations:23
+Authors: N Sundaram, K Keutzer
+Publication: 2011 IEEE International Conference on Computer Vision Workshops (ICCV …
+
+144. The landscape of parallel computing research: A view from berkeley
+Citations:23
+Authors: A Krste, B Ras, CB Christopher, G James, H Parry, K Kurt, A Patterson, ...
+Publication: EECS techinical report
+
+145. Automated task allocation for network processors
+Citations:23
+Authors: W Plishker, K Ravindran, N Shah, K Keutzer
+Publication: Network System Design Conference Proceedings, 235-245
+
+146. On convergence of switching windows computation in presence of crosstalk noise
+Citations:23
+Authors: P Chen, Y Kukimoto, CC Teng, K Keutzer
+Publication: Proceedings of the 2002 international symposium on Physical design, 84-89
+
+147. Design of integrated circuits fully testable for delay-faults and multifaults
+Citations:23
+Authors: S Devadas, K Keutzer
+Publication: Proceedings. International Test Conference 1990, 284-293
+
+148. Hardware-software co-design and ESDA
+Citations:22
+Authors: K Keutzer
+Publication: 31st Design Automation Conference, 435-436
+
+149. On properties of algebraic transformations and the synthesis of multifault-irredundant circuits
+Citations:22
+Authors: G Hachtel, RM Jacoby, K Keutzer, CR Morrison
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+150. Hessian-based analysis of large batch training and robustness to adversaries
+Citations:21
+Authors: Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney
+Publication: Advances in Neural Information Processing Systems, 4949-4959
+
+151. Automatic replacement of flip-flops by latches in ASICs
+Citations:21
+Authors: D Chinnery, K Keutzer, J Sanghavi, E Killian, K Sheth
+Publication: Closing the Gap Between ASIC & Custom, 187-208
+
+152. Efficient parallel CKY parsing on GPUs
+Citations:20
+Authors: Y Yi, CY Lai, S Petrov, K Keutzer
+Publication: Proceedings of the 12th International Conference on Parsing Technologies …
+
+153. The need for formal methods for integrated circuit design
+Citations:20
+Authors: K Keutzer
+Publication: International Conference on Formal Methods in Computer-Aided Design, 1-18
+
+154. Code generation and optimization techniques for embedded digital signal processors
+Citations:20
+Authors: S Liao, S Devadas, K Keutzer, S Tjiang, A Wang, G Araujo, ...
+Publication: Hardware/Software Co-Design, 165-186
+
+155. The need for formal verification in hardware design and what formal verification has not done for me lately
+Citations:20
+Authors: K Keutzer
+Publication: 1991 International Workshop on the HOL Theorem Proving System and Its …
+
+156. The landscape of parallel computing research: A view from Berkeley, 2006
+Citations:19
+Authors: K Asanovic, R Bodik, BC Catanzaro, JJ Gebis, P Husbands, K Keutzer, ...
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+157. Squeezesegv2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud
+Citations:18
+Authors: B Wu, X Zhou, S Zhao, X Yue, K Keutzer
+Publication: 2019 International Conference on Robotics and Automation (ICRA), 4376-4382
+
+158. Small neural nets are beautiful: enabling embedded systems with small deep-neural-network architectures
+Citations:18
+Authors: F Iandola, K Keutzer
+Publication: Proceedings of the Twelfth IEEE/ACM/IFIP International Conference on …
+
+159. Audio-based multimedia event detection with DNNs and sparse sampling
+Citations:18
+Authors: K Ashraf, B Elizalde, F Iandola, M Moskewicz, J Bernd, G Friedland, ...
+Publication: Proceedings of the 5th ACM on International Conference on Multimedia …
+
+160. Fast cycle-accurate simulation and instruction set generation for constraint-based descriptions of programmable architectures
+Citations:18
+Authors: SJ Weber, MW Moskewicz, M Gries, C Sauer, K Keutzer
+Publication: International Conference on Hardware/Software Codesign and System Synthesis …
+
+161. A disciplined approach to the development of platform architectures
+Citations:18
+Authors: DI August, K Keutzer, S Malik, AR Newton
+Publication: Microelectronics Journal 33 (11), 881-890
+
+162. A lidar point cloud generator: from a virtual world to autonomous driving
+Citations:17
+Authors: X Yue, B Wu, SA Seshia, K Keutzer, AL Sangiovanni-Vincentelli
+Publication: Proceedings of the 2018 ACM on International Conference on Multimedia …
+
+163. Efficient automatic speech recognition on the gpu
+Citations:17
+Authors: J Chong, E Gonina, K Keutzer
+Publication: GPU Computing Gems Emerald Edition, 601-618
+
+164. Exploring recognition network representations for efficient speech inference on highly parallel platforms
+Citations:17
+Authors: J Chong, E Gonina, K You, K Keutzer
+Publication: Eleventh Annual Conference of the International Speech Communication Association
+
+165. Automated task allocation on single chip, hardware multithreaded, multiprocessor systems
+Citations:17
+Authors: W Plishker, K Ravindran, N Shah, K Keutzer
+Publication: Workshop on Embedded Parallel Architectures (WEPA-1) 2, 14-20
+
+166. Image feature extraction for mobile processors
+Citations:16
+Authors: M Murphy, K Keutzer, H Wang
+Publication: 2009 IEEE International Symposium on Workload Characterization (IISWC), 138-147
+
+167. EmotionGAN: unsupervised domain adaptation for learning discrete probability distributions of image emotions
+Citations:15
+Authors: S Zhao, X Zhao, G Ding, K Keutzer
+Publication: 2018 ACM multimedia conference on multimedia conference, 1319-1327
+
+168. Integrated model, batch, and domain parallelism in training neural networks
+Citations:15
+Authors: A Gholami, A Azad, P Jin, K Keutzer, A Buluc
+Publication: Proceedings of the 30th on Symposium on Parallelism in Algorithms and …
+
+169. Scalable hmm based inference engine in large vocabulary continuous speech recognition
+Citations:15
+Authors: J Chong, K You, Y Yi, E Gonina, C Hughes, W Sung, K Keutzer
+Publication: 2009 IEEE International Conference on Multimedia and Expo, 1797-1800
+
+170. Multi-view operation-level design–supporting the design of irregular asips
+Citations:15
+Authors: SJ Weber, MW Moskewicz, M Loew, K Keutzer
+Publication: Technical Report
+
+171. Improving cell libraries for synthesis
+Citations:15
+Authors: K Keutzer, K Scott
+Publication: Proc. Of the International Workshop on Logic Synthesis
+
+172. Affective Image Content Analysis: A Comprehensive Survey.
+Citations:14
+Authors: S Zhao, G Ding, Q Huang, TS Chua, BW Schuller, K Keutzer
+Publication: IJCAI, 5534-5541
+
+173. Fast speaker diarization using a high-level scripting language
+Citations:14
+Authors: E Gonina, G Friedland, H Cook, K Keutzer
+Publication: 2011 IEEE Workshop on Automatic Speech Recognition & Understanding, 553-558
+
+174. Using minimal minterms to represent programmability
+Citations:14
+Authors: K Keutzer, SJ Weber
+Publication: 2005 Third IEEE/ACM/IFIP International Conference on Hardware/Software …
+
+175. Reducing the timing overhead
+Citations:14
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 57-100
+
+176. Boolean minimization and algebraic factorization procedures for fully testable sequential machines
+Citations:14
+Authors: S Devadas, K Keutzer
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS TECHNOLOGY LABS
+
+177. Counterexample-guided data augmentation
+Citations:13
+Authors: T Dreossi, S Ghosh, X Yue, K Keutzer, A Sangiovanni-Vincentelli, ...
+Publication: arXiv preprint arXiv:1805.06962
+
+178. Automatic generation of application-specific accelerators for fpgas from python loop nests
+Citations:13
+Authors: D Sheffield, M Anderson, K Keutzer
+Publication: 22nd International Conference on Field Programmable Logic and Applications …
+
+179. Developing a Flexible Interface for RapidIO, Hypertransport, and PCI-Express
+Citations:13
+Authors: C Sauer, M Gries, JI Gomez, S Weber, K Keutzer
+Publication: Parallel Computing in Electrical Engineering, 2004. International Conference …
+
+180. Minimum-power retiming for dual-supply CMOS circuits
+Citations:12
+Authors: F Sheikh, A Kuehlmann, K Keutzer
+Publication: Proceedings of the 8th ACM/IEEE international workshop on Timing issues in …
+
+181. Scripting for EDA tools: A case study
+Citations:12
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Proceedings of the IEEE 2001. 2nd International Symposium on Quality …
+
+182. What is the state of the art in commercial EDA tools for low power?
+Citations:11
+Authors: O Coudert, R Haddad, K Keutzer
+Publication: Proceedings of 1996 International Symposium on Low Power Electronics and …
+
+183. Synthesis for testability techniques for asynchronous circuits
+Citations:11
+Authors: K Keutzer, L Lavagno, A Sangiovanni-Vincentelli
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+184. Addendum to'A kernel-finding state assignment algorithm for multi-level logic'
+Citations:11
+Authors: W Wolf, K Keutzer, J Akella
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+185. Monte carlo–based financial market value-at-risk estimation on gpus
+Citations:10
+Authors: MF Dixon, T Bradley, J Chong, K Keutzer
+Publication: GPU Computing Gems Jade Edition, 337-353
+
+186. Parallel computing with patterns and frameworks.
+Citations:10
+Authors: B Catanzaro, K Keutzer
+Publication: ACM Crossroads 17 (1), 22-27
+
+187. Optimizing the use of GPU Memory in Applications with Large data sets
+Citations:10
+Authors: N Satish, N Sundaram, K Keutzer
+Publication: 2009 International Conference on High Performance Computing (HiPC), 408-418
+
+188. Task allocation and scheduling of concurrent applications to multiprocessor systems
+Citations:10
+Authors: K Ravindran, K Keutzer
+Publication: University of California, Berkeley
+
+189. Regret minimization for partially observable deep reinforcement learning
+Citations:9
+Authors: P Jin, K Keutzer, S Levine
+Publication: arXiv preprint arXiv:1710.11424
+
+190. Efficient manycore CHMM speech recognition for audiovisual and multistream data
+Citations:9
+Authors: D Kolossa, J Chong, S Zeiler, K Keutzer
+Publication: Eleventh Annual Conference of the International Speech Communication Association
+
+191. Reinventing EDA with manycore processors
+Citations:9
+Authors: S Sapatnekar, E Haritan, K Keutzer, A Devgan, DA Kirkpatrick, S Meier, ...
+Publication: 2008 45th ACM/IEEE Design Automation Conference, 126-127
+
+192. Designing a sub-risc multi-gigabit regular expression processor
+Citations:9
+Authors: AC Mihal, C Sauer, K Keutzer
+Publication: EECS Department, University of California
+
+193. Are single-chip multiprocessors in reach?
+Citations:9
+Authors: R Bergamaschi, I Bolsens, R Gupta, R Harr, A Jerraya, K Keutzer, ...
+Publication: IEEE Design & Test of Computers 18 (1), 82-89
+
+194. Chip level assembly (and not integration of synthesis and physical) is the key to DSM design
+Citations:9
+Authors: K Keutzer
+Publication: Proceedings of the ACM/IEEE International Workshop on Timing Issues in the …
+
+195. Synetgy: Algorithm-hardware co-design for convnet accelerators on embedded fpgas
+Citations:8
+Authors: Y Yang, Q Huang, B Wu, T Zhang, L Ma, G Gambardella, M Blott, ...
+Publication: Proceedings of the 2019 ACM/SIGDA International Symposium on Field …
+
+196. Mixed precision quantization of convnets via differentiable neural architecture search
+Citations:8
+Authors: B Wu, Y Wang, P Zhang, Y Tian, P Vajda, K Keutzer
+Publication: arXiv preprint arXiv:1812.00090
+
+197. Scalable multimedia content analysis on parallel platforms using Python
+Citations:8
+Authors: E Gonina, G Friedland, E Battenberg, P Koanantakool, M Driscoll, ...
+Publication: ACM Transactions on Multimedia Computing, Communications, and Applications …
+
+198. Our pattern language (opl)
+Citations:8
+Authors: T Mattson, K Keutzer
+Publication: Workshop on Parallel Programming Patterns (ParaPLOP)
+
+199. Challenges in CAD for the one million gate FPGA
+Citations:8
+Authors: K Keutzer
+Publication: Proceedings of the 1997 ACM fifth international symposium on Field …
+
+200. Overview of the IDA system: A toolset for VLSI layout synthesis
+Citations:8
+Authors: DD Hill, K Keutzer, W Wolf
+Publication: VLSI CAD tools and applications, 233-263
+
+201. Large batch size training of neural networks with adversarial training and second-order information
+Citations:7
+Authors: Z Yao, A Gholami, K Keutzer, M Mahoney
+Publication: arXiv preprint arXiv:1810.01021
+
+202. Accelerating Value‐at‐Risk estimation on highly parallel architectures
+Citations:7
+Authors: MF Dixon, J Chong, K Keutzer
+Publication: Concurrency and Computation: Practice and Experience 24 (8), 895-907
+
+203. Considerations When Evaluating Microprocessor Platforms.
+Citations:7
+Authors: MJ Anderson, B Catanzaro, J Chong, E Gonina, K Keutzer, CY Lai, ...
+Publication: HotPar 11, 1-1
+
+204. Scalable HMM-based inference engine in large vocabulary continuous speech recognition
+Citations:7
+Authors: K You, J Chong, Y Yi, E Gonina, C Hughes, YK Chen, W Sung, K Keutzer
+Publication: IEEE Signal Processing Magazine
+
+205. Static crosstalk-noise analysis: for deep sub-micron digital designs
+Citations:7
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Springer Science & Business Media
+
+206. Towards a flexible network processor interface for RapidIO, Hypertransport, and PCI-Express
+Citations:7
+Authors: C Sauer, M Gries, JI Gomez, K Keutzer
+Publication: Proceedings of the HPCA-10 Workshop on Network Processors and Applications
+
+207. Comparing network processor programming environments: A case study
+Citations:7
+Authors: N Shah, W Plishker, K Keutzer
+Publication: Workshop on Productivity and Performance in High-End Computing (P-PHEC 04 …
+
+208. A disciplined approach to the development of architectural platforms
+Citations:7
+Authors: A Mihal, C Kulkarni, C Sauer, K Vissers, M Moskewicz, M Tsai, N Shah, ...
+Publication: IEEE Design and Test of Computers 19, 2-12
+
+209. Design tools for application specific embedded processors
+Citations:7
+Authors: W Qin, S Rajagopalan, M Vachharajani, H Wang, X Zhu, D August, ...
+Publication: International Workshop on Embedded Software, 319-333
+
+210. The M-shuffle as an interconnection network for SIMD machines
+Citations:7
+Authors: K Keutzer, E Robertson
+Publication: Proceedings of 20th Allerton Conference on Communication, Control, and …
+
+211. Hardware/software codesign for mobile speech recognition.
+Citations:6
+Authors: D Sheffield, MJ Anderson, Y Lee, K Keutzer
+Publication: INTERSPEECH, 627-631
+
+212. Introduction to parallelizing compressed sensing magnetic resonance imaging
+Citations:6
+Authors: M Lustig, K Keutzer, S Vasanawala
+Publication: The Berkeley par lab: progress in the parallel computing landscape. Redmond …
+
+213. Recognition of Tibetan Wood Block Prints with generalized hidden markov and kernelized modified quadratic distance function
+Citations:6
+Authors: F Hedayati, J Chong, K Keutzer
+Publication: Proceedings of the 2011 Joint Workshop on Multilingual OCR and Analytics for …
+
+214. Guest Editors' Introduction: Parallelism on the Desktop
+Citations:6
+Authors: V Pankratius, W Schulte, K Keutzer
+Publication: IEEE Software 28 (1), 14-16
+
+215. Parallel BFS graph traversal on images using structured grid
+Citations:6
+Authors: BY Su, TG Brutch, K Keutzer
+Publication: 2010 IEEE International Conference on Image Processing, 4489-4492
+
+216. Overview of the factors affecting the power consumption
+Citations:6
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Power Gap Between ASIC & Custom, 11-53
+
+217. The MARCO/DARPA gigascale silicon research center
+Citations:6
+Authors: K Keutzer, AR Newton
+Publication: Proceedings 1999 IEEE International Conference on Computer Design: VLSI in …
+
+218. A synthesis-based test generation and compaction algorithm for multifaults
+Citations:6
+Authors: S Devadas, K Keutzer, S Malik
+Publication: Journal of Electronic Testing 4 (1), 91-104
+
+219. Boda: A Holistic Approach for Implementing Neural Network Computations
+Citations:5
+Authors: MW Moskewicz, A Jannesari, K Keutzer
+Publication: Proceedings of the Computing Frontiers Conference, 53-62
+
+220. Technical Perspective: If I could only design one circuit…
+Citations:5
+Authors: K Keutzer
+Publication: Communications of the ACM 59 (11), 104-104
+
+221. Boda-RTC: Productive generation of portable, efficient code for convolutional neural networks on mobile computing platforms
+Citations:5
+Authors: MW Moskewicz, FN Iandola, K Keutzer
+Publication: 2016 IEEE 12th International Conference on Wireless and Mobile Computing …
+
+222. Improved time-resolved, 3D phase contrast imaging through variable Poisson sampling and partial respiratory triggering
+Citations:5
+Authors: MT Alley, MJ Murphy, K Keutzer, M Lustig, SS Vasanawala
+Publication: Proceedings of the 19th Annual Meeting of ISMRM, 1218
+
+223. Evaluating the effectiveness of statistical gate sizing for power optimization
+Citations:5
+Authors: N Satish, K Ravindran, M Moskewicz, D Chinnery, K Keutzer
+Publication: 
+
+224. Panel: Cell libraries-build vs. buy; static vs. dynamic
+Citations:5
+Authors: K Keutzer, E Girczyc
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 341-342
+
+225. An algorithmic approach to optimizing fault coverage for BIST logic synthesis
+Citations:5
+Authors: S Devadas, K Keutzer
+Publication: Proceedings International Test Conference 1998 (IEEE Cat. No. 98CH36270 …
+
+226. Necessary and sufficient conditions for hazard-free robust transistor stuck-open-fault testability in multilevel networks
+Citations:5
+Authors: MJ Bryan, S Devadas, K Keutzer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+227. Synthesis for testability: A brief survey
+Citations:5
+Authors: S Devadas, K Keutzer
+Publication: IEEE International Symposium on Circuits and Systems, 3097-3100
+
+228. ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs
+Citations:4
+Authors: A Gholami, K Keutzer, G Biros
+Publication: arXiv preprint arXiv:1902.10298
+
+229. Large-batch training for lstm and beyond
+Citations:4
+Authors: Y You, J Hseu, C Ying, J Demmel, K Keutzer, CJ Hsieh
+Publication: arXiv preprint arXiv:1901.08256
+
+230. A novel domain adaptation framework for medical image segmentation
+Citations:4
+Authors: A Gholami, S Subramanian, V Shenoy, N Himthani, X Yue, S Zhao, P Jin, ...
+Publication: International MICCAI Brainlesion Workshop, 289-298
+
+231. 1 Our Pattern Language (OPL)
+Citations:4
+Authors: K Keutzer
+Publication: 
+
+232. libHOG: Energy-efficient histogram of oriented gradient computation
+Citations:4
+Authors: FN Iandola, MW Moskewicz, K Keutzer
+Publication: 2015 IEEE 18th International Conference on Intelligent Transportation …
+
+233. A special section on multicore parallel CAD: Algorithm design and programming
+Citations:4
+Authors: K Keutzer, P Li, L Shang, H Zhou
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 16 (3), 21
+
+234. Power minimization with multiple supply voltages and multiple threshold voltages
+Citations:4
+Authors: D Chinnery, B Thompson, M Orshansky, K Keutzer
+Publication: Proc. Semiconductor Res. Corporation Techcon
+
+235. Why is combinational ATPG efficiently solvable for practical VLSI circuits?
+Citations:4
+Authors: MR Prasad, P Chong, K Keutzer
+Publication: Journal of Electronic Testing 17 (6), 509-527
+
+236. Coverage-directed generation of biased random inputs for functional validation of sequential circuits
+Citations:4
+Authors: S Tasiran, F Fallah, DG Chinnery, SJ Weber, K Keutzer
+Publication: International Workshop on Logic and Synthesis
+
+237. Panel: The ESDA Landscape: Who Will Dominate?
+Citations:4
+Authors: K Keutzer
+Publication: 32nd Design Automation Conference, 534-534
+
+238. Cycleemotiongan: Emotional semantic consistency preserved cyclegan for adapting image emotions
+Citations:3
+Authors: S Zhao, C Lin, P Xu, S Zhao, Y Guo, R Krishna, G Ding, K Keutzer
+Publication: Proceedings of the AAAI Conference on Artificial Intelligence 33, 2620-2627
+
+239. Personalized emotion recognition by personality-aware high-order learning of physiological signals
+Citations:3
+Authors: S Zhao, A Gholaminejad, G Ding, Y Gao, J Han, K Keutzer
+Publication: ACM Transactions on Multimedia Computing, Communications, and Applications …
+
+240. Spatially parallel convolutions
+Citations:3
+Authors: P Jin, B Ginsburg, K Keutzer
+Publication: 
+
+241. Integrated model and data parallelism in training neural networks
+Citations:3
+Authors: A Gholami, A Azad, K Keutzer, A Buluc
+Publication: arXiv preprint arXiv:1712.04432
+
+242. A metaprogramming and autotuning framework for deploying deep learning applications
+Citations:3
+Authors: MW Moskewicz, A Jannesari, K Keutzer
+Publication: arXiv preprint arXiv:1611.06945
+
+243. Convolutional monte carlo rollouts in go
+Citations:3
+Authors: PH Jin, K Keutzer
+Publication: arXiv preprint arXiv:1512.03375
+
+244. Quantifying the energy efficiency of object recognition and optical flow
+Citations:3
+Authors: M Anderson, F Iandola, K Keutzer
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+245. A processing element and programming methodology for click elements
+Citations:3
+Authors: A Mihal, K Keutzer
+Publication: Proceedings of the Workshop on Application Specific Processors (WASP 2005)
+
+246. Successfully deploying the asip
+Citations:3
+Authors: N Shah, W Plishker, K Ravindran, M Gries, S Weber, A Mihal, C Kulkarni, ...
+Publication: Building ASIPS: The Mescal Methodology, 179-225
+
+247. Introduction and overview of the book
+Citations:3
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 1-31
+
+248. Bright future for programmable processors
+Citations:3
+Authors: K Keutzer
+Publication: IEEE Design & Test of Computers 18 (6), 7-8
+
+249. Programmable ASICs to reduce costs.
+Citations:3
+Authors: D August, K Keutzer, S Malik
+Publication: Electronic Engineering Times, 80-82
+
+250. Why is atpg easy?
+Citations:3
+Authors: P Chong, MR Prasad, KW Keutzer
+Publication: Electronics Research Laboratory, College of Engineering, University of …
+
+251. Speeding up ImageNet training on supercomputers
+Citations:2
+Authors: Y You, Z Zhang, CJ Hsieh, J Demmel, K Keutzer
+Publication: SysML Conference
+
+252. Design Flows
+Citations:2
+Authors: D Chinnery, L Stok, D Hathaway, K Keutzer
+Publication: Electronic Design Automation for IC Implementation, Circuit Design, and …
+
+253. An automatic speech recognition application framework for highly parallel implementations on the gpu
+Citations:2
+Authors: J Chong, E Gonina, D Kolossa, S Zeiler, K Keutzer
+Publication: Tech. Rep. UCB/EECS-2012-47, EECS Department, University of California, Berkeley
+
+254. Monte Carlo methods: a computational pattern for our pattern language
+Citations:2
+Authors: J Chong, E Gonina, K Keutzer
+Publication: Proceedings of the 2010 Workshop on Parallel Programming Patterns, 15
+
+255. Acceleration of market value-at-risk estimation
+Citations:2
+Authors: J Chong, K Keutzer, MF Dixon
+Publication: Available at SSRN 1576402
+
+256. Sub-RISC processors
+Citations:2
+Authors: A Mihal, S Weber, K Keutzer
+Publication: Customizable Embedded Processors, 303-336
+
+257. An FPGA-based soft multiprocessor system for ipv4 packet forwarding
+Citations:2
+Authors: Y Jin, K Ravindran, N Satish, K Keutzer
+Publication: Proceedings of IEEE Workshop on Architecture Research using FPGA Platforms …
+
+258. Implicit enumeration techniques applied to asynchronous circuit verification
+Citations:2
+Authors: R Camposano, S Devadas, K Keutzer, S Malik, A Wang
+Publication: [1993] Proceedings of the Twenty-sixth Hawaii International Conference on …
+
+259. Recent progress in synthesis for testability
+Citations:2
+Authors: S Devadas, K Keutzer, A Ghosh
+Publication: Digest of Papers 1991 VLSI Test Symposium'Chip-to-System Test Concerns for …
+
+260. ANODEV2: A Coupled Neural ODE Evolution Framework
+Citations:1
+Authors: T Zhang, Z Yao, A Gholami, K Keutzer, J Gonzalez, G Biros, M Mahoney
+Publication: arXiv preprint arXiv:1906.04596
+
+261. HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision
+Citations:1
+Authors: Z Dong, Z Yao, A Gholami, M Mahoney, K Keutzer
+Publication: arXiv preprint arXiv:1905.03696
+
+262. Trust region based adversarial attack on neural networks
+Citations:1
+Authors: Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+263. Parameter Re-Initialization through Cyclical Batch Size Schedules
+Citations:1
+Authors: N Mu, Z Yao, A Gholami, K Keutzer, M Mahoney
+Publication: arXiv preprint arXiv:1812.01216
+
+264. Co-design of deep neural nets and neural net accelerators for embedded vision applications
+Citations:1
+Authors: K Kwon, A Amid, A Gholami, B Wu, K Asanovic, K Keutzer
+Publication: 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), 1-6
+
+265. Unsupervised Domain Adaptation: from Simulation Engine to the RealWorld
+Citations:1
+Authors: S Zhao, B Wu, J Gonzalez, SA Seshia, K Keutzer
+Publication: arXiv preprint arXiv:1803.09180
+
+266. Our Pattern Language
+Citations:1
+Authors: K Keutzer, T Mattson
+Publication: A Design Pattern Language for Engineering (Parallel) Software
+
+267. Measuring the gap between programmable and fixed-function accelerators: A case study on speech recognition
+Citations:1
+Authors: Y Lee, D Sheffield, A Waterman, M Anderson, K Keutzer, K Asanovic
+Publication: 2013 IEEE Hot Chips 25 Symposium (HCS), 1-2
+
+268. Three Fingered Jack: Tackling Portability, Performance, and Productivity with Auto-Parallelized Python.
+Citations:1
+Authors: D Sheffield, MJ Anderson, K Keutzer
+Publication: HotPar
+
+269. Scalable Parallelization of Automatic Speech Recognition
+Citations:1
+Authors: J Chong, E Gonina, K You, K Keutzer
+Publication: Scaling up machine learning: Parallel and distributed Approaches
+
+270. A parallel region based object recognition system
+Citations:1
+Authors: BY Su, TG Brutch, K Keutzer
+Publication: 2011 IEEE Workshop on Applications of Computer Vision (WACV), 81-88
+
+271. PALLAS: Mapping Applications onto Manycore
+Citations:1
+Authors: M Anderson, B Catanzaro, J Chong, E Gonina, K Keutzer, CY Lai, ...
+Publication: Multiprocessor System-on-Chip, 89-113
+
+272. ACM transactions on design automation of electronic systems (TODAES) special section call for papers: parallel CAD: algorithm design and programming
+Citations:1
+Authors: K Keutzer, P Li, L Shang, H Zhou
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 15 (1), 9
+
+273. Center for Hybrid and Embedded Software Systems
+Citations:1
+Authors: T Henzinger, EA Lee, A Sangiovanni-Vincentelli, S Sastry, A Aiken, ...
+Publication: 
+
+274. High-Speed Logic, Circuits, Libraries and Layout
+Citations:1
+Authors: A Chang, WJ Dally, D Chinnery, K Keutzer, R Zlatanovici
+Publication: Closing the Gap Between ASIC & Custom, 101-144
+
+275. Improving performance through microarchitecture
+Citations:1
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 33-56
+
+276. Short Papers_
+Citations:1
+Authors: S Devadas, K Keutzer, S Malik, A Wang
+Publication: IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND …
+
+277. Communication by Non-Writing in Synchronous Parallel Machines
+Citations:1
+Authors: JE Burns, KW Keutzer, PW Purdom
+Publication: Technical Report 140, Department of Computer Science, Indiana University
+
+278. OCCOM: E cient Computation of Observability-Based Code Coverage Metrics for Functional Verification
+Citations:1
+Authors: F Fallah, S Devadas, K Keutzer
+Publication: Proc. ACM IEEE DAC, 152
+
+279. Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data
+Citations:
+Authors: X Yue, Y Zhang, S Zhao, A Sangiovanni-Vincentelli, K Keutzer, B Gong
+Publication: arXiv preprint arXiv:1909.00889
+
+280. Fast Deep Neural Network Training on Distributed Systems and Cloud TPUs
+Citations:
+Authors: Y You, Z Zhang, CJ Hsieh, J Demmel, K Keutzer
+Publication: IEEE Transactions on Parallel and Distributed Systems
+
+281. LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking
+Citations:
+Authors: B Wang, V Wu, B Wu, K Keutzer
+Publication: arXiv preprint arXiv:1904.09085
+
+282. Inefficiency of K-FAC for Large Batch Size Training
+Citations:
+Authors: L Ma, G Montague, J Ye, Z Yao, A Gholami, K Keutzer, MW Mahoney
+Publication: arXiv preprint arXiv:1903.06237
+
+283. Roundtable: Machine Learning for Embedded Systems: Hype or Lasting Impact?
+Citations:
+Authors: XS Hu, R Ernst, P Eles, G Heiser, K Keutzer, D Kim, T Tohdo
+Publication: IEEE Design & Test 35 (6), 86-93
+
+284. Immeasurable, Yet No Bigger than Your Thumb: The Tshon Gang in Bon Dzogchen
+Citations:
+Authors: K Keutzer
+Publication: REVUE D ETUDES TIBETAINES 2 (44), 178-230
+
+285. Driving dataset in the wild: Various driving scenes
+Citations:
+Authors: K Keutzer, BG Song, J Chuang
+Publication: 
+
+286. Convolutional Monte Carlo Rollouts for the Game of Go
+Citations:
+Authors: PH Jin, K Keutzer
+Publication: 
+
+287. Himalayan Linguistics
+Citations:
+Authors: Z Rowinski, K Keutzer
+Publication: 
+
+288. Namsel: An Optical Character Recognition System for Tibetan Text
+Citations:
+Authors: Z Rowinski, K Keutzer
+Publication: Himalayan Linguistics 15 (1)
+
+289. UAV Application for DARPA PERFECT
+Citations:
+Authors: M Anderson, F Iandola, K Keutzer
+Publication: 
+
+290. Enabling Technology for more Pervasive and Responsive Market Risk Management Systems
+Citations:
+Authors: M Dixon, J Chong, K Keutzer
+Publication: The Risk of Investment Products: From Product Innovation to Risk Compliance, 205
+
+291. FOCUS: Parallelism on the Desktop Parallelism on the Desktop Guest Editors' Introduction
+Citations:
+Authors: V Pankratius, W Schulte, K Keutzer
+Publication: IEEE Software 28 (1), 14
+
+292. Copperhead: Compiling an Embedded Data Parallel
+Citations:
+Authors: B Catanzaro, M Garland, K Keutzer
+Publication: 
+
+293. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+294. Research Directions on Patterns
+Citations:
+Authors: K Keutzer
+Publication: 
+
+295. Architecting parallel programs
+Citations:
+Authors: J Phillips, K Keutzer, M Wrinn
+Publication: 2008 IEEE/ACM International Conference on Computer-Aided Design, xi-xi
+
+296. 294 Guest Editors’ Introduc
+Citations:
+Authors: WH Joyner Jr, DC Yeh, JM Rabaey, S Malik, W Joyner, D Yeh, J Rabaey, ...
+Publication: 
+
+297. Evaluating Architectures for Application-Specific Parallel Scientific Computing Systems
+Citations:
+Authors: M Murphy, K Keutzer, L Oliker, C Rowen, J Shalf
+Publication: 
+
+298. Technology Mapping: 1987; Keutzer
+Citations:
+Authors: K Keutzer, K Ravindran
+Publication: Encyclopedia of Algorithms, 944-947
+
+299. Megatrends and EDA 2017
+Citations:
+Authors: F Bacchini, G Spirakis, JA Carballo, K Keutzer, A de Geus, FC Hsu, ...
+Publication: 2007 44th ACM/IEEE Design Automation Conference, 21-22
+
+300. Pipelining to Reduce the Power
+Citations:
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Power Gap Between ASIC & Custom, 55-88
+
+301. Linear Programming for Multi-Vth and Multi-Vdd Assignment
+Citations:
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Power Gap Between ASIC & Custom, 151-188
+
+302. Voltage Scaling
+Citations:
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Power Gap Between ASIC & Custom, 90-106
+
+303. Linear Programming for Gate Sizing
+Citations:
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Power Gap Between ASIC & Custom, 121-149
+
+304. Megatrends and EDA 2017
+Citations:
+Authors: G Spirakis, F Bacchini, JA Carballo, A de Geus, FC Hsu, K Keutzer, ...
+Publication: Annual ACM IEEE Design Automation Conference: Proceedings of the 44 th …
+
+305. Soft multiprocessor systems for network applications
+Citations:
+Authors: Y Jin, W Plishker, K Ravindran, N Satish, K Keutzer
+Publication: Proceedings of the 2005 ACM/SIGDA 13th international symposium on Field …
+
+306. Linear Programming for Sizing, V
+Citations:
+Authors: DG Chinnery, K Keutzer
+Publication: 
+
+307. Judiciously Using Benchmarking
+Citations:
+Authors: M Tsai, N Shah, C Kulkarni, C Sauer, M Gries, K Keutzer
+Publication: Building ASIPS: The Mescal Methodology, 33-56
+
+308. Introduction and Motivation
+Citations:
+Authors: K Keutzer
+Publication: Building ASIPS: The Mescal Methodology, 1-29
+
+309. Inclusively Identifying the Architectural Space
+Citations:
+Authors: N Shah, C Sauer, M Gries, Y Jin, M Moskewicz, K Keutzer
+Publication: Building ASIPS: The Mescal Methodology, 57-83
+
+310. An Automated Exploration Framework for FPGA-based Soft Multiprocessor Systems
+Citations:
+Authors: YJNSK Ravindran, K Keutzer
+Publication: CODES+ ISSS...: Proceedings: International Conference on Hardware/Software …
+
+311. A Comparison of Network Processor Programming Environments
+Citations:
+Authors: N Shah, W Plishker, K Keutzer
+Publication: 
+
+312. Achieving 550MHz in a Standard Cell ASIC Methodology
+Citations:
+Authors: D Chinnery, B Nikolić, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 345-360
+
+313. Convergence of Switching Window Computation
+Citations:
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Static Crosstalk-Noise Analysis: For Deep Sub-Micron Digital Designs, 37-60
+
+314. Speeding-Up Switching Window Computation
+Citations:
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Static Crosstalk-Noise Analysis: For Deep Sub-Micron Digital Designs, 61-77
+
+315. EDA: this is serious business
+Citations:
+Authors: R Dahlberg, K Keutzer, R Bingham, A De Geus, WC Rhines
+Publication: Proceedings of the Annual ACM IEEE Design Automation Conference, 1-1
+
+316. SESSION 42: Panel-Is Statistical Timing Statistically Significant?
+Citations:
+Authors: AB Kahng, R Goldman, K Keutzer, C Bittlestone, A Bootehsaz, SY Borkar, ...
+Publication: DESIGN AUTOMATION CONFERENCE 1 (41), 698-698
+
+317. Refinement of Switching Windows
+Citations:
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Static Crosstalk-Noise Analysis: For Deep Sub-Micron Digital Designs, 79-90
+
+318. Miller Factor Computation for Coupling Delay
+Citations:
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Static Crosstalk-Noise Analysis: For Deep Sub-Micron Digital Designs, 15-35
+
+319. Finding Peak Performance in a Process
+Citations:
+Authors: D Chinnery, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 145-168
+
+320. Functional Crosstalk Analysis
+Citations:
+Authors: P Chen, DA Kirkpatrick, K Keutzer
+Publication: Static Crosstalk-Noise Analysis: For Deep Sub-Micron Digital Designs, 91-106
+
+321. 7 A Benchmarking Methodology
+Citations:
+Authors: M Tsai, C Kulkarni, N Shah, K Keutzer, C Sauer
+Publication: Network Processor Design: Issues and Practices 1
+
+322. Unified tools for SoC embedded systems: mission critical, mission impossible or mission irrelevant?
+Citations:
+Authors: G Smith, D Nadamuni, S Malik, R Chapman, J Fogelin, K Keutzer, ...
+Publication: Proceedings of the 39th annual Design Automation Conference, 479-479
+
+323. Panel: design closure: hope or hype?
+Citations:
+Authors: K Keutzer, V Kulkarni, G Nichols, AB Kahng
+Publication: PROC DES AUTOM CONF. pp. 176-177. 2000
+
+324. Embedded systems panel: HW and SW in embedded system design: loveboat, shipwreck, or ships passing in the night
+Citations:
+Authors: K Keutzer, R Camposanu
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 76-77
+
+325. Hardware/software co-verification (panel)
+Citations:
+Authors: G Smith, M Courtoy, M Kenefick, B Bailey, K Keutzer, A Mohsen, ...
+Publication: Proceedings of the 34th annual Design Automation Conference, 484-485
+
+326. The next-generation HDL (panel)
+Citations:
+Authors: R Goering, N Collins, SE Shulz, K Keutzer, JA Rowson, L Saunders, ...
+Publication: Proceedings of the 34th annual Design Automation Conference, 552
+
+327. Addendum to" Synthesis of robust delay-fault testable circuits: Theory"
+Citations:
+Authors: S Devadas, K Keutzer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+328. T2: Register Transfer Level Synthesis: From Theory to Practice
+Citations:
+Authors: K Keutzer, S Malik
+Publication: Proceedings of the 9th International Conference on VLSI Design: VLSI in …
+
+329. Panel: What Is the Next Big Productivity Boost for Designers?
+Citations:
+Authors: K Keutzer
+Publication: 30th ACM/IEEE Design Automation Conference, 141-141
+
+330. Analysis and Design of Regular Structures for Robust Dynamic Fault Testability
+Citations:
+Authors: MJ Bryan, S Devadas, K Keutzer
+Publication: VLSI Design 1 (1), 45-60
+
+331. Event Suppression: Improving the Efficiency of Timing Simulation for Synchronous Digital Circuits
+Citations:
+Authors: MIT Srinivas Devadas, K Keutzer, S Malik, A Wang
+Publication: Advanced Research in VLSI and Parallel Systems: Proceedings of the 1992 …
+
+332. ASIC ALTERNATIVES FOR SYSTEM-DESIGN
+Citations:
+Authors: J WERNER, CE STROUD, TJ WILLIAMS, K KEUTZER, M BOHM, ...
+Publication: IEEE DESIGN & TEST OF COMPUTERS 8 (1), 80-90
+
+333. Synthesis of verifiably hazard-free asynchronous control circuits Luciano Lavagno Department of EECS University of California
+Citations:
+Authors: K Keutzer, AL Sangiovanni-Vincentelli
+Publication: Advanced research in VLSI: proceedings of the 1991 University of California …
+
+334. Testability Properties of Multilevel Logic Networks Derived From Bi-nary Decision Diagrams Pranav Ashar University of California, Berkeley
+Citations:
+Authors: S Devadas, K Keutzer
+Publication: Advanced research in VLSI: proceedings of the 1991 University of California …
+
+335. COMPUTER SCIENCE DEPARTMENT
+Citations:
+Authors: J Franco, K Keutzer
+Publication: 
+
+336. Probabilistic Analysis of Algorithms for
+Citations:
+Authors: J Franco, K Keutzer
+Publication: 
+
+337. Boolean minimization and algebraic factorization procedures for fully testable sequential machines(Memorandum Report)
+Citations:
+Authors: S DEVADAS, K KEUTZER
+Publication: 
+
+338. Summary and Trends
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 181-187
+
+339. Enhancements to the IMAGES Language for Synthesis
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 105-128
+
+340. Designer Interaction
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 37-64
+
+341. The IMAGES Language
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 5-36
+
+342. Switch-Level Tools
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 153-179
+
+343. Automatic Layout of Switch-Level Designs
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 129-151
+
+344. Geometric Algorithms
+Citations:
+Authors: D Hill, D Shugard, J Fishburn, K Keutzer
+Publication: Algorithms and Techniques for VLSI Layout Synthesis, 65-104
+
+345. From paracomputer to ultracomputer (computative, parallel, computational, complexity, algorithms)
+Citations:
+Authors: KW Keutzer
+Publication: Indiana University
+
+346. CEO Panel: EDA: This is serious business
+Citations:
+Authors: AR Newton, B Dahlberg, K Keutzer, R Bingham, A De Geus, WC Rhines
+Publication: Proceedings of the 41st Design Automation Conference (DAC’04) 1, 58113-828
+
+347. What happened to ASIC? Go (Recon) figure?
+Citations:
+Authors: K Keutzer, N Deo, B Zahiri, I Bolsens, J Cong, B Gupta, P Lopresti, ...
+Publication: Proceedings of the 41st Design Automation Conference (DAC’04) 1, 58113-828
+
+348. Is statistical timing statistically significant?
+Citations:
+Authors: AB Kahng, R Goldman, K Keutzer, C Bittlestone, A Bootehsaz, SY Borkar, ...
+Publication: Proceedings of the 41st Design Automation Conference (DAC’04) 1, 58113-828
+
+349. Mountain View, CA keutzer@ synopsys. com
+Citations:
+Authors: K Keutzer
+Publication: 
+
+350. Foundations of Hybrid and Embedded Software Systems
+Citations:
+Authors: S Sastry, T Henzinger, E Lee, A Sangiovanni-Vincentelli, J Sztipanovits, ...
+Publication: 
+
+351. The Rise of Multicore and Manycore Processors
+Citations:
+Authors: V Pankratius, K Keutzer
+Publication: 
+
+352. Technical Program Co-Chair, Design Tools
+Citations:
+Authors: M Celik, KTT Cheng, J Cong, M Di Natale, SSS Anna, L Fix, M Fujita, ...
+Publication: 
+
+353. Supplementary Material: FireCaffe: near-linear acceleration of deep neural network training on compute clusters
+Citations:
+Authors: FN Iandola, MW Moskewicz, K Ashraf, K Keutzer
+Publication: 
+
+354. Introduction to Speech and Multimedia Applications in the Par Lab
+Citations:
+Authors: J Chong, G Friedland, K Keutzer, N Morgan
+Publication: 
+
+355. TEXTURING LONG PLANAR SURFACES WITH IMPRECISE CAMERA POSES FOR INDOOR 3D MODELING
+Citations:
+Authors: M Anderson, K Keutzer, A Zakhor
+Publication: 
+
+356. Educational Outcomes of Par Lab
+Citations:
+Authors: J Demmel, K Keutzer, D Patterson
+Publication: 
+
+357. The Content-Based Image Retrieval Project
+Citations:
+Authors: B Catanzaro, K Keutzer
+Publication: 
+
+358. IEEE CIRCUITS AND SYSTEMS SOCIETY
+Citations:
+Authors: RHJM Otten, JG Fossum, DJ Rose, S Seth, R Bryant, A Ruehli, M Vanzi, ...
+Publication: 
+
+359. Logic Synthesis (EE510)
+Citations:
+Authors: S Devadas, A Ghosh, K Keutzer
+Publication: 
+
+360. From ASIC to ASIP: The Next Design Discontinuity Kurt Keutzer Dept. of EECS, UC Berkeley Berkeley, CA, USA Email: keutzer@ eecs. berkeley. edu
+Citations:
+Authors: K Keutzer
+Publication: ICCD..., 84
+
+361. A New Design Methodology for DSM
+Citations:
+Authors: ATB Tabbara, RK Brayton, AR Newton, K Keutzer
+Publication: 
+
+362. The Future of The Future of Microprocessor-based Computation (is Highly Parallel)
+Citations:
+Authors: K Keutzer
+Publication: 
+
+363. Technical Program Chairs
+Citations:
+Authors: L Lavagno, W Kruijtzer, P Wambacq, A Kaiser, W Nebel, M Pedram, ...
+Publication: 
+
+364. Mark D. Aagaard Univ. of Waterloo Waterloo, ON, Canada maagaard@ uwaterloo. ca
+Citations:
+Authors: N Aluru, K Bazargan, M Berkelaar, D Blaauw, E Bracken, FD Brewer, ...
+Publication: 
+
+365. Andrew Mihal
+Citations:
+Authors: K Keutzer
+Publication: 
+
+366. Technical Program Co-Chair, Design Tools Princeton Univ.
+Citations:
+Authors: M Celik, KTT Cheng, J Cong, M Di Natale, SSS Anna, J Glossner, ...
+Publication: 
+
+367. ICCAD-99 TECHNICAL PROGRAM COMMITTEE
+Citations:
+Authors: P Ashar, R Bergamaschi, I Bolsens, JE Bracken, F Catthoor, SC Chang, ...
+Publication: 
+
+368. Fundamental Limits in Design Technology
+Citations:
+Authors: R Bryant, T Cheng, A Kahng, K Keutzer, W Maly, R Newton, L Pileggi, ...
+Publication: 
+
+369. Introduction to Design Patterns for Parallel Computing
+Citations:
+Authors: K Keutzer, T Mattson
+Publication: 
+

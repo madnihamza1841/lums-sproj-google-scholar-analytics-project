@@ -1,0 +1,333 @@
+https://scholar.google.com/citations?hl=en&user=5LLV29oAAAAJ
+Total Citations = 3827
+
+1. Mllib: Machine learning in apache spark
+Citations:1042
+Authors: X Meng, J Bradley, B Yavuz, E Sparks, S Venkataraman, D Liu, ...
+Publication: The Journal of Machine Learning Research 17 (1), 1235-1241
+
+2. Apache spark: a unified engine for big data processing
+Citations:772
+Authors: M Zaharia, RS Xin, P Wendell, T Das, M Armbrust, A Dave, X Meng, ...
+Publication: Communications of the ACM 59 (11), 56-65
+
+3. Consistent and durable data structures for non-volatile byte-addressable memory
+Citations:302
+Authors: S Venkataraman, N Tolia, P Ranganathan, RH Campbell
+Publication: Proceedings of the 9th USENIX Conference on File and Storage Technologies …
+
+4. Ernest: efficient performance prediction for large-scale advanced analytics
+Citations:189
+Authors: S Venkataraman, Z Yang, M Franklin, B Recht, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+5. Probabilistically Bounded Staleness for Practical Partial Quorums
+Citations:187
+Authors: P Bailis, S Venkataraman, JM Hellerstein, M Franklin, I Stoica
+Publication: 
+
+6. Cherrypick: Adaptively unearthing the best cloud configurations for big data analytics
+Citations:134
+Authors: O Alipourfard, HH Liu, J Chen, S Venkataraman, M Yu, M Zhang
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+7. Occupy the cloud: Distributed computing for the 99%
+Citations:123
+Authors: E Jonas, Q Pu, S Venkataraman, I Stoica, B Recht
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 445-451
+
+8. The software architect
+Citations:109
+Authors: MR McBride
+Publication: Communications of the ACM 50 (5), 75-81
+
+9. Presto: distributed machine learning and graph processing with sparse matrices
+Citations:91
+Authors: S Venkataraman, E Bodzsar, I Roy, A AuYoung, RS Schreiber
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 197-210
+
+10. Cake: enabling high-level SLOs on shared storage systems
+Citations:91
+Authors: A Wang, S Venkataraman, S Alspaugh, R Katz, I Stoica
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 14
+
+11. The power of choice in data-aware cluster scheduling
+Citations:87
+Authors: S Venkataraman, A Panda, G Ananthanarayanan, MJ Franklin, I Stoica
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+12. The case for tiny tasks in compute clusters
+Citations:80
+Authors: K Ousterhout, A Panda, J Rosen, S Venkataraman, R Xin, S Ratnasamy, ...
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+13. Keystoneml: Optimizing pipelines for large-scale advanced analytics
+Citations:71
+Authors: ER Sparks, S Venkataraman, T Kaftan, MJ Franklin, B Recht
+Publication: 2017 IEEE 33rd international conference on data engineering (ICDE), 535-546
+
+14. Matrix computations and optimization in apache spark
+Citations:65
+Authors: R Bosagh Zadeh, X Meng, A Ulanov, B Yavuz, L Pu, S Venkataraman, ...
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+15. Drizzle: Fast and adaptable stream processing at scale
+Citations:54
+Authors: S Venkataraman, A Panda, K Ousterhout, M Armbrust, A Ghodsi, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 374-389
+
+16. Sparkr: Scaling r programs with spark
+Citations:45
+Authors: S Venkataraman, Z Yang, D Liu, E Liang, H Falaki, X Meng, R Xin, ...
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1099 …
+
+17. Quantifying eventual consistency with PBS
+Citations:43
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: The VLDB Journal 23 (2), 279-302
+
+18. Focus: Querying large video datasets with low latency and low cost
+Citations:31
+Authors: K Hsieh, G Ananthanarayanan, P Bodik, S Venkataraman, P Bahl, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+19. Forenscope: A framework for live forensics
+Citations:28
+Authors: E Chan, S Venkataraman, F David, A Chaugule, R Campbell
+Publication: Proceedings of the 26th Annual Computer Security Applications Conference …
+
+20. Scaling eCGA model building via data-intensive computing
+Citations:27
+Authors: A Verma, X Llora, S Venkataraman, DE Goldberg, RH Campbell
+Publication: IEEE Congress on Evolutionary Computation, 1-8
+
+21. Large scale kernel learning using block coordinate descent
+Citations:26
+Authors: S Tu, R Roelofs, S Venkataraman, B Recht
+Publication: arXiv preprint arXiv:1602.05310
+
+22. Using R for iterative and incremental processing
+Citations:22
+Authors: S Venkataraman, I Roy, A AuYoung, RS Schreiber
+Publication: Presented as part of the
+
+23. Breaking locality accelerates block Gauss-Seidel
+Citations:19
+Authors: S Tu, S Venkataraman, AC Wilson, A Gittens, MI Jordan, B Recht
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+24. Beyond viral
+Citations:19
+Authors: M Cebrian, I Rahwan, AS Pentland
+Publication: Communications of the ACM 59 (4), 36-39
+
+25. Hemingway: modeling distributed optimization algorithms
+Citations:16
+Authors: X Pan, S Venkataraman, Z Tai, J Gonzalez
+Publication: arXiv preprint arXiv:1702.05865
+
+26. Characterizing data structures for volatile forensics
+Citations:14
+Authors: E Chan, S Venkataraman, N Tkach, K Larson, A Gutierrez, RH Campbell
+Publication: Proceedings of the 2011 Sixth IEEE International Workshop on Systematic …
+
+27. An algorithm for fast edit distance computation on gpus
+Citations:13
+Authors: R Farivar, H Kharbanda, S Venkataraman, RH Campbell
+Publication: 2012 Innovative Parallel Computing (InPar), 1-9
+
+28. Efficient metadata management for cloud computing applications
+Citations:13
+Authors: A Verma, S Venkataraman
+Publication: 
+
+29. Learning a code: Machine learning for approximate non-linear coded computation
+Citations:11
+Authors: J Kosaian, KV Rashmi, S Venkataraman
+Publication: arXiv preprint arXiv:1806.01259
+
+30. Sweet storage SLOs with frosting
+Citations:11
+Authors: A Wang, S Venkataraman, S Alspaugh, I Stoica, R Katz
+Publication: Presented as part of the
+
+31. Chi: a scalable and programmable control plane for distributed stream processing systems
+Citations:10
+Authors: L Mai, K Zeng, R Potharaju, L Xu, S Suh, S Venkataraman, P Costa, T Kim, ...
+Publication: Proceedings of the VLDB Endowment 11 (10), 1303-1316
+
+32. ML pipelines: a new high-level API for MLlib
+Citations:10
+Authors: X Meng, J Bradley, E Sparks, S Venkataraman
+Publication: Retrieved March 21, 2017
+
+33. linalg: Matrix computations in apache spark
+Citations:9
+Authors: RB Zadeh, X Meng, B Yavuz, A Staple, L Pu, S Venkataraman, E Sparks, ...
+Publication: arXiv preprint arXiv:1509.02256, 13
+
+34. PBS at work: advancing data management with consistency metrics
+Citations:9
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+35. Multi-tenant GPU clusters for deep learning workloads: Analysis and implications
+Citations:8
+Authors: M Jeon, S Venkataraman, J Qian, A Phanishayee, W Xiao, F Yang
+Publication: Technical report, Microsoft Research, 2018. https://www. microsoft. com/en …
+
+36. Shuffling, fast and slow: scalable analytics on serverless infrastructure
+Citations:5
+Authors: Q Pu, S Venkataraman, I Stoica
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+37. numpywren: serverless linear algebra
+Citations:5
+Authors: V Shankar, K Krauth, Q Pu, E Jonas, S Venkataraman, I Stoica, B Recht, ...
+Publication: arXiv preprint arXiv:1810.09679
+
+38. Bridging the GAP: towards approximate graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, S Venkataraman, M Chowdhury, A Akella, S Shenker, ...
+Publication: Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data …
+
+39. {ASAP}: Fast, Approximate Graph Pattern Mining at Scale
+Citations:4
+Authors: AP Iyer, Z Liu, X Jin, S Venkataraman, V Braverman, I Stoica
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+40. Adaptive hybrid quorums in practical settings
+Citations:4
+Authors: A Davidson, A Rubinstein, A Todi, P Bailis, S Venkataraman
+Publication: UC Berkley, Tech. Rep
+
+41. Redesigning data structures for non-volatile byte-addressable memory
+Citations:4
+Authors: S Venkataraman, N Tolia, P Ranganathan, RH Campbell
+Publication: Proceedings of USENIX Conference on File and Storage Technologies (FAST’10)
+
+42. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+43. Managing array computations during programmatic run-time in a distributed computing environment
+Citations:3
+Authors: S Venkataraman, I Roy, MA Shah, R Schreiber, NL Binkert, ...
+Publication: US Patent 9,015,721
+
+44. Presto: Complex and continuous analytics with distributed arrays
+Citations:3
+Authors: S Venkataraman, I Roy, RS Schreiber, A AuYoung
+Publication: Academic Press
+
+45. Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads
+Citations:2
+Authors: M Jeon, S Venkataraman, A Phanishayee, J Qian, W Xiao, F Yang
+Publication: arXiv preprint arXiv:1901.05758
+
+46. Towards fast and scalable graph pattern mining
+Citations:2
+Authors: AP Iyer, Z Liu, X Jin, S Venkataraman, V Braverman, I Stoica
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+47. Record Placement Based on Data Skew Using Solid State Drives
+Citations:2
+Authors: J Suzuki, S Venkataraman, S Agarwal, M Franklin, I Stoica
+Publication: Workshop on Big Data Benchmarks, Performance Optimization, and Emerging …
+
+48. Scalable storage for data-intensive computing
+Citations:2
+Authors: A Verma, S Venkataraman, M Caesar, RH Campbell
+Publication: Handbook of Data Intensive Computing, 109-127
+
+49. Blink: A fast NVLink-based collective communication library
+Citations:1
+Authors: G Wangt, A Phanishayee, S Venkataraman, I Stoicat
+Publication: 
+
+50. Methods And Systems For Sequence Alignment Computation
+Citations:1
+Authors: R Farivar, S Venkataraman, H Kharbanda, RH Campbell
+Publication: US Patent App. 13/724,280
+
+51. Themis: Fair and Efficient GPU Cluster Scheduling for Machine Learning Workloads
+Citations:
+Authors: K Mahajan, A Singhvi, A Balasubramanian, V Batra, ST Chavali, ...
+Publication: arXiv preprint arXiv:1907.01484
+
+52. Parity Models: A General Framework for Coding-Based Resilience in ML Inference
+Citations:
+Authors: J Kosaian, KV Rashmi, S Venkataraman
+Publication: arXiv preprint arXiv:1905.00863
+
+53. Parity Models: Erasure-Coded Resilience for Prediction Serving Systems
+Citations:
+Authors: J Kosaian, KV Rashmi, S Venkataraman
+Publication: 
+
+54. Serverless Event-Stream Processing over Virtual Actors.
+Citations:
+Authors: PA Bernstein, T Porter, R Potharaju, AZ Tomsic, S Venkataraman, W Wu
+Publication: CIDR
+
+55. Accelerating Deep Learning Inference via Freezing
+Citations:
+Authors: A Kumar, A Balasubramanian, S Venkataraman, A Akella
+Publication: 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19)
+
+56. The case for unifying data loading in machine learning clusters
+Citations:
+Authors: A Kakaraparthy, A Venkatesh, A Phanishayee, S Venkataraman
+Publication: 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19)
+
+57. ASAP: Fast, Approximate Graph Pattern Mining at Scale
+Citations:
+Authors: I Anand, Z Liu, X Jin, S Venkataraman, V Braverman, I Stoic
+Publication: Proceedings of the USENIX conference
+
+58. System Design for Large Scale Machine Learning
+Citations:
+Authors: S Venkataraman
+Publication: UC Berkeley
+
+59. Load-balanced sparse array processing
+Citations:
+Authors: I Roy, S Venkataraman, A AuYoung, R Schreiber
+Publication: US Patent 9,411,657
+
+60. Managing array computations during programmatic run-time in a distributed computing environment
+Citations:
+Authors: S Venkataraman, I Roy, MA Shah, R Schreiber, NL Binkert, ...
+Publication: US Patent App. 14/643,763
+
+61. Distributed continuous analytics
+Citations:
+Authors: S Venkataraman, I Roy, MA Shah, R Schreiber, NL Binkert
+Publication: US Patent App. 13/554,891
+
+62. The Charak Samhita Explained by K. Sastri and GN Chaturvedi.
+Citations:
+Authors: MG Kalaskar, SJ Surana, C Alagesaboopathi, RK Bhakat, UK Sen, ...
+Publication: Journal of Biological Sciences 14 (3), 77-84
+
+63. Storage system design for non-volatile byte-addressable memory using consistent and durable data structures
+Citations:
+Authors: S Venkataraman
+Publication: 
+
+64. Accurate Sequence Alignment using Distributed Filtering on GPU Clusters
+Citations:
+Authors: R Farivar, S Venkataraman, Y Li, EM Chan, A Verma, RH Campbell
+Publication: 
+
+65. Errata Slip
+Citations:
+Authors: O Alipourfard, HH Liu, J Chen, S Venkataraman, M Yu, M Zhang
+Publication: 
+
+66. MoZyg: Secure Framework for Cross Platform Applications on Mobile Devices
+Citations:
+Authors: W Dietz, K Larson, S Venkataraman
+Publication: 
+

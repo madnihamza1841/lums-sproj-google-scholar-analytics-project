@@ -1,0 +1,433 @@
+https://scholar.google.com/citations?hl=en&user=qTVj7nwAAAAJ
+Total Citations = 1379
+
+1. Hails: Protecting data privacy in untrusted web applications
+Citations:135
+Authors: DB Giffin, A Levy, D Stefan, D Terei, D Mazières, JC Mitchell, A Russo
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+2. Flexible dynamic information flow control in Haskell
+Citations:134
+Authors: D Stefan, A Russo, JC Mitchell, D Mazières
+Publication: ACM Sigplan Notices 46 (12), 95-106
+
+3. Fast software AES encryption
+Citations:112
+Authors: DA Osvik, JW Bos, D Stefan, D Canright
+Publication: International Workshop on Fast Software Encryption, 75-93
+
+4. Protecting Users by Confining JavaScript with {COWL}
+Citations:73
+Authors: D Stefan, EZ Yang, P Marchenko, A Russo, D Herman, B Karp, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+5. Addressing covert termination and timing channels in concurrent information flow systems
+Citations:70
+Authors: D Stefan, A Russo, P Buiras, A Levy, JC Mitchell, D Mazieres
+Publication: ACM SIGPLAN Notices 47 (9), 201-214
+
+6. Fast Implementations of AES on Various Platforms.
+Citations:68
+Authors: JW Bos, DA Osvik, D Stefan
+Publication: IACR Cryptology ePrint Archive 2009, 501
+
+7. Eliminating cache-based timing attacks with instruction-based scheduling
+Citations:58
+Authors: D Stefan, P Buiras, EZ Yang, A Levy, D Terei, A Russo, D Mazières
+Publication: European Symposium on Research in Computer Security, 718-735
+
+8. Robustness of keystroke-dynamics based biometrics against synthetic forgeries
+Citations:54
+Authors: D Stefan, X Shu, DD Yao
+Publication: computers & security 31 (1), 109-121
+
+9. Disjunction category labels
+Citations:54
+Authors: D Stefan, A Russo, D Mazières, JC Mitchell
+Publication: Nordic conference on secure IT systems, 223-239
+
+10. Low discrepancy sequences for Monte Carlo simulations on reconfigurable platforms
+Citations:42
+Authors: IL Dalal, D Stefan, J Harwayne-Gidansky
+Publication: 2008 International Conference on Application-Specific Systems, Architectures …
+
+11. Data-provenance verification for secure hosts
+Citations:41
+Authors: K Xu, H Xiong, C Wu, D Stefan, D Yao
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 173-183
+
+12. Keystroke-dynamics authentication against synthetic forgeries
+Citations:39
+Authors: D Stefan, D Yao
+Publication: 6th International Conference on Collaborative Computing: Networking …
+
+13. Flexible dynamic information flow control in the presence of exceptions
+Citations:38
+Authors: D Stefan, D Mazières, JC Mitchell, A Russo
+Publication: Journal of Functional Programming 27
+
+14. Information-flow control for programming on encrypted data
+Citations:37
+Authors: JC Mitchell, R Sharma, D Stefan, J Zimmerman
+Publication: 2012 IEEE 25th Computer Security Foundations Symposium, 45-60
+
+15. User-assisted host-based detection of outbound malware traffic
+Citations:36
+Authors: H Xiong, P Malhotra, D Stefan, C Wu, D Yao
+Publication: International Conference on Information and Communications Security, 293-307
+
+16. Systems and method for malware detection
+Citations:29
+Authors: YAO Danfeng, D Stefan, C Wu
+Publication: US Patent 8,763,127
+
+17. A hardware framework for the fast generation of multiple long-period random number streams
+Citations:29
+Authors: IL Dalal, D Stefan
+Publication: Proceedings of the 16th international ACM/SIGDA symposium on Field …
+
+18. On dynamic flow-sensitive floating-label systems
+Citations:26
+Authors: P Buiras, D Stefan, A Russo
+Publication: 2014 IEEE 27th Computer Security Foundations Symposium, 65-79
+
+19. Performance analysis of the SHA-3 candidates on exotic multi-core architectures
+Citations:26
+Authors: JW Bos, D Stefan
+Publication: International Workshop on Cryptographic Hardware and Embedded Systems, 279-293
+
+20. Toward principled browser security
+Citations:22
+Authors: E Yang, D Stefan, J Mitchell, D Mazières, P Marchenko, B Karp
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+21. IFC inside: Retrofitting languages with dynamic information flow control
+Citations:21
+Authors: S Heule, D Stefan, EZ Yang, JC Mitchell, A Russo
+Publication: International Conference on Principles of Security and Trust, 11-31
+
+22. A domain-specific language for computing on encrypted data (invited talk)
+Citations:21
+Authors: A Bain, J Mitchell, R Sharma, D Stefan, J Zimmerman
+Publication: IARCS Annual Conference on Foundations of Software Technology and …
+
+23. Cloud computing for the power grid: From service composition to assured clouds
+Citations:20
+Authors: G Dán, RB Bobba, G Gross, RH Campbell
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Cloud Computing
+
+24. FaCT: A flexible, constant-time programming language
+Citations:19
+Authors: S Cauligi, G Soeller, F Brown, B Johannesmeyer, Y Huang, R Jhala, ...
+Publication: 2017 IEEE Cybersecurity Development (SecDev), 69-76
+
+25. The most dangerous code in the browser
+Citations:18
+Authors: S Heule, D Rifkin, A Russo, D Stefan
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+26. Hardware-Optimized Ziggurat Algorithm for High-Speed Gaussian Random Number Generators.
+Citations:16
+Authors: H Edrees, B Cheung, MC Sandora, DB Nummey, D Stefan
+Publication: ERSA, 254-260
+
+27. Cryptographic provenance verification for the integrity of keystrokes and outbound network traffic
+Citations:15
+Authors: D Stefan, C Wu, D Yao, G Xu
+Publication: Proceedings of the 8th International Conference on Applied Cryptography and …
+
+28. FPGA-based SoC for real-time network intrusion detection using counting bloom filters
+Citations:12
+Authors: J Harwayne-Gidansky, D Stefan, I Dalal
+Publication: IEEE Southeastcon 2009, 452-458
+
+29. Finding and preventing bugs in javascript bindings
+Citations:11
+Authors: F Brown, S Narayan, RS Wahby, D Engler, R Jhala, D Stefan
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 559-578
+
+30. A library for removing cache-based attacks in concurrent information flow systems
+Citations:11
+Authors: P Buiras, A Levy, D Stefan, A Russo, D Mazieres
+Publication: International Symposium on Trustworthy Global Computing, 199-216
+
+31. Analysis and implementation of eSTREAM and SHA-3 cryptographic algorithms
+Citations:9
+Authors: D Stefan
+Publication: Cooper Union for the Advancement of Science and Art, Albert Nerken School of …
+
+32. Improved linear differential attacks on CubeHash
+Citations:7
+Authors: S Khazaei, S Knellwolf, W Meier, D Stefan
+Publication: International Conference on Cryptology in Africa, 407-418
+
+33. Keystroke dynamics authentication and human-behavior driven bot detection
+Citations:7
+Authors: D Stefan, D Yao
+Publication: Technical report, Rutgers University
+
+34. Prostate ultrasound image processing.
+Citations:7
+Authors: D Stefan
+Publication: ACM Crossroads 13 (3), 8
+
+35. Building secure systems with LIO
+Citations:6
+Authors: D Stefan, A Levy, A Russo, D Mazières
+Publication: PLAS@ ECOOP, 25
+
+36. Hardware framework for the rabbit stream cipher
+Citations:6
+Authors: D Stefan
+Publication: International Conference on Information Security and Cryptology, 230-247
+
+37. On the parallelization of the MICKEY-128 2.0 stream cipher
+Citations:6
+Authors: D Stefan, C Mitchell
+Publication: The State of the Art of Stream Ciphers, SASC, 175-185
+
+38. Towards verified, constant-time floating point operations
+Citations:5
+Authors: M Andrysco, A Nötzli, F Brown, R Jhala, D Stefan
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+39. From fine-to coarse-grained dynamic information flow control and back
+Citations:4
+Authors: M Vassena, A Russo, D Garg, V Rajani, D Stefan
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 76
+
+40. Ensuring host integrity with cryptographic provenance verification
+Citations:4
+Authors: D Stefan, C Wu, DD Yao, G Xu
+Publication: CCSS 9, 10-12
+
+41. On the fast generation of long-period pseudorandom number sequences
+Citations:4
+Authors: IL Dalal, J Harwayne-Gidansky, D Stefan
+Publication: 2008 IEEE Long Island Systems, Applications and Technology Conference, 1-9
+
+42. Ct-wasm: Type-driven secure cryptography for the web ecosystem
+Citations:3
+Authors: C Watt, J Renner, N Popescu, S Cauligi, D Stefan
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 77
+
+43. Constant-time webassembly
+Citations:3
+Authors: J Renner, S Cauligi, D Stefan
+Publication: Principles of Secure Compilation
+
+44. A new software and hardware parallelized floating random-walk algorithm for the modified Helmholtz equation subject to Neumann and mixed boundary conditions
+Citations:3
+Authors: K Chatterjee, C Sandora, C Mitchell, D Stefan, D Nummey, J Poggie
+Publication: APPLIED COMPUTATIONAL ELECTROMAGNETICS SOCIETY JOURNAL 25 (4), 373-380
+
+45. Trojan attacks for compromising cryptographic security in fpga encryption systems
+Citations:3
+Authors: D Stefan, C Mitchell, CG Almenar
+Publication: 
+
+46. Browser history re: visited
+Citations:2
+Authors: M Smith, C Disselkoen, S Narayan, F Brown, D Stefan
+Publication: 12th {USENIX} Workshop on Offensive Technologies ({WOOT} 18)
+
+47. Fast Implementations of AES on Various Platforms
+Citations:2
+Authors: DA Osvik, D Stefan
+Publication: 
+
+48. A library for removing cache-based attacks in concurrent information flow systems: Extended version
+Citations:2
+Authors: P Buiras, A Levy, D Stefan, A Russo, D Mazieres
+Publication: 
+
+49. Parallelized Hardware Implementation of the MICKEY-128 2.0 Stream Cipher
+Citations:2
+Authors: D Stefan, C Mitchell
+Publication: State of the Art of Stream Ciphers Workshop (SASC 2007), eSTREAM, ECRYPT …
+
+50. Foundations for Parallel Information Flow Control Runtime Systems
+Citations:1
+Authors: M Vassena, G Soeller, P Amidon, M Chan, J Renner, D Stefan
+Publication: International Conference on Principles of Security and Trust, 1-28
+
+51. Tools for active and passive network side-channel detection for web applications
+Citations:1
+Authors: M Lescisin, Q Mahmoud
+Publication: 12th {USENIX} Workshop on Offensive Technologies ({WOOT} 18)
+
+52. SPAM: a Secure Package Manager
+Citations:1
+Authors: F Brown, A Mirian, A Jaiswal, A Notzli, D Stefan
+Publication: 
+
+53. IFC Inside: Retrofitting Languages with Dynamic Information Flow Control
+Citations:1
+Authors: H Stefan, D Stefan, EZ Yang, A Russo, JC Mitchell
+Publication: Proceedings of the 4th Conference on Principles of Security and Trust (POST …
+
+54. Security and the average programmer
+Citations:1
+Authors: D Giffin, S Heule, A Levy, D Mazieres, J Mitchell, A Russo, A Shen, ...
+Publication: Proceedings of POST
+
+55. A Cryptographic Provenance Verification Approach For Host-Based Malware Detection
+Citations:1
+Authors: D Stefan, C Wu, DD Yao, G Xu
+Publication: Rutgers University Technical Report
+
+56. On parallelizing the CryptMT stream cipher
+Citations:1
+Authors: D Stefan, DB Nummey, J Harwayne-Gidansky, IL Dalal
+Publication: VTC Spring 2008-IEEE Vehicular Technology Conference, 1082-1086
+
+57. Position Paper: Progressive Memory Safety for WebAssembly
+Citations:
+Authors: C Disselkoen, J Renner, C Watt, T Garfinkel, A Levy, D Stefan
+Publication: Proceedings of the 8th International Workshop on Hardware and Architectural …
+
+58. FaCT: a DSL for timing-sensitive computation
+Citations:
+Authors: S Cauligi, G Soeller, B Johannesmeyer, F Brown, RS Wahby, J Renner, ...
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+59. Systems and methods for intrinsic runtime security
+Citations:
+Authors: D Stefan, D Rifkin, C Almenar
+Publication: US Patent App. 16/147,396
+
+60. Towards verified programming of embedded devices
+Citations:
+Authors: JP Talpin, JJ Marty, S Narayan, D Stefan, R Gupta
+Publication: 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+61. Pretend synchrony: synchronous verification of asynchronous distributed programs
+Citations:
+Authors: RG Kıcı, A Bakst, D Stefan, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 59
+
+62. {IODINE}: Verifying Constant-Time Execution of Hardware
+Citations:
+Authors: K Gleissenthall, RG Kıcı, D Stefan, R Jhala
+Publication: 28th {USENIX} Security Symposium ({USENIX} Security 19), 1411-1428
+
+63. From Fine-to Coarse-Grained Dynamic Information Flow Control and Back
+Citations:
+Authors: R ALEJANDRO, D GARG, D STEFAN
+Publication: 
+
+64. {SPAM}: a Secure Package Manager Unlike Your Current Package Managers
+Citations:
+Authors: D Stefan
+Publication: 
+
+65. PLAS'16: ACM SIGPLAN 11th Workshop on Programming Languages and Analysis for Security
+Citations:
+Authors: T Murray, D Stefan
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+66. Principled and Practical Web Application Security
+Citations:
+Authors: D Stefan
+Publication: Stanford University
+
+67. IFC Inside: Retrofitting Languages with Dynamic Information Flow Control (Extended Version)
+Citations:
+Authors: S Heule, D Stefan, EZ Yang, JC Mitchell, A Russo
+Publication: arXiv preprint arXiv:1501.04132
+
+68. Demo proposal: making web applications-XSafe
+Citations:
+Authors: AA Levy, D Terei, D Stefan, D Maziéres
+Publication: ACM SIGPLAN Notices 49 (12), 91-91
+
+69. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+70. Behavior based credit card fraud detection using support vector machines.
+Citations:
+Authors: V Jayasree, RVS Balan, M Ahmed, RS Salihu, AS Sabau, A Kamra, ...
+Publication: Asian Journal of Applied Sciences 8 (3), 51-58
+
+71. A parallelized quasi-monte carlo algorithm for the extraction of partial inductances in IC interconnect structures
+Citations:
+Authors: D Stefana, I Dalalb, M Sandorac, CW Yua, S Srinivasand, N Chitrike, ...
+Publication: Annual Review of Progress in Applied Computational Electromagnetics. ACES
+
+72. A Parallel Framework for Long-period Random Number Generators in Hardware
+Citations:
+Authors: IL Dalal, D Stefan
+Publication: 
+
+73. Perl Implementation of OTR
+Citations:
+Authors: D Stefan
+Publication: 
+
+74. System-on-a-Chip for Real-Time Network Intrusion Detection using Counting Bloom Filters
+Citations:
+Authors: J Harwayne-Gidansky, D Stefan
+Publication: 
+
+75. Student Travel Grant Committee
+Citations:
+Authors: M Hicks, S Sidiroglou-Douskos, J Andronick, I Arce, S Chong, A Chou, ...
+Publication: 
+
+76. 2018 SecDev Program Committee
+Citations:
+Authors: Y Acar, G Baah, N Bielova, IH Cai, S Chmielewski, H Duan, M Emmi, ...
+Publication: 
+
+77. RLBox: Robust Library Sandboxing
+Citations:
+Authors: S Narayan, C Disselkoen, S Lerner, H Shacham, D Stefan
+Publication: 
+
+78. A Quasi-Monte Carlo Solver for Partial Inductances in IC Interconnect Structures
+Citations:
+Authors: I Dalal, D Stefan, CW Yu, S Srinivasan, N Chitrik, M Sandora, J Salomon, ...
+Publication: 
+
+79. Multi-core IFC
+Citations:
+Authors: G Soeller, D Stefan
+Publication: 
+
+80. Short Paper: Superhacks
+Citations:
+Authors: F Brown, D Stefan
+Publication: 
+
+81. The Most Dangerous Code in the Browser: Extensions
+Citations:
+Authors: S Heule, D Rifkin, A Russo, D Stefan
+Publication: 
+
+82. IFC Inside: A General Approach to Retrofitting Languages with Dynamic Information Flow Control
+Citations:
+Authors: S Heule, D Stefan, EZ Yang, JC Mitchell, A Russo
+Publication: 
+
+83. Information Flow Control for Concurrent Covert Termination and Timing Channels
+Citations:
+Authors: D Stefan, A Russo, P Buiras, A Levy, JC Mitchell, D Mazieres
+Publication: 
+
+84. Knowing Where Your Input is From: Kernel-Level Data-Provenance Verification
+Citations:
+Authors: D Stefan, DDY Chehai Wu, G Xu
+Publication: Proceedings of the 8th International Conference on Applied Cryptography and …
+
+85. Session 1: Security and Privacy (I)
+Citations:
+Authors: D Stefan, D Yao, H Chen, Y Chen, ST Zargar, J Joshi, F Li, Q Xue, Z Cao, ...
+Publication: 
+
+86. An Area-efficient Hardware Implementation of the CryptMT Stream Cipher
+Citations:
+Authors: IL Dalal, D Stefan
+Publication: feedback 128, 128
+

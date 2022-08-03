@@ -1,0 +1,662 @@
+https://scholar.google.com/citations?hl=en&user=5V852JcAAAAJ
+Total Citations = 11163
+
+1. Understanding the impact of video quality on user engagement
+Citations:731
+Authors: F Dobrian, V Sekar, A Awan, I Stoica, D Joseph, A Ganjam, J Zhan, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 362-373
+
+2. Making middleboxes someone else's problem: network processing as a cloud service
+Citations:723
+Authors: J Sherry, S Hasan, C Scott, A Krishnamurthy, S Ratnasamy, V Sekar
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 13-24
+
+3. SIMPLE-fying middlebox policy enforcement using SDN
+Citations:688
+Authors: ZA Qazi, CC Tu, L Chiang, R Miao, V Sekar, M Yu
+Publication: ACM SIGCOMM computer communication review 43 (4), 27-38
+
+4. Improving fairness, efficiency, and stability in http-based adaptive video streaming with festive
+Citations:617
+Authors: J Jiang, V Sekar, H Zhang
+Publication: IEEE/ACM Transactions on Networking (ToN) 22 (1), 326-340
+
+5. Less pain, most of the gain: Incrementally deployable icn
+Citations:507
+Authors: SK Fayazbakhsh, Y Lin, A Tootoonchian, A Ghodsi, T Koponen, B Maggs, ...
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 147-158
+
+6. Design and implementation of a consolidated middlebox architecture
+Citations:465
+Authors: V Sekar, N Egi, S Ratnasamy, MK Reiter, G Shi
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+7. A control-theoretic approach for dynamic adaptive video streaming over HTTP
+Citations:370
+Authors: X Yin, A Jindal, V Sekar, B Sinopoli
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 325-338
+
+8. Design and deployment of a hybrid CDN-P2P system for live video streaming: experiences with LiveSky
+Citations:369
+Authors: H Yin, X Liu, T Zhan, V Sekar, F Qiu, C Lin, H Zhang, B Li
+Publication: Proceedings of the 17th ACM international conference on Multimedia, 25-34
+
+9. Developing a predictive model of quality of experience for internet video
+Citations:367
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 339-350
+
+10. Measuring user confidence in smartphone security and privacy
+Citations:347
+Authors: E Chin, AP Felt, V Sekar, D Wagner
+Publication: Proceedings of the eighth symposium on usable privacy and security, 1
+
+11. An empirical evaluation of entropy-based traffic anomaly detection
+Citations:337
+Authors: G Nychis, V Sekar, DG Andersen, H Kim, H Zhang
+Publication: Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, 151-156
+
+12. Enforcing network-wide policies in the presence of dynamic middlebox actions using flowtags
+Citations:270
+Authors: SK Fayazbakhsh, L Chiang, V Sekar, M Yu, JC Mogul
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+13. SmartRE: an architecture for coordinated network-wide redundancy elimination
+Citations:238
+Authors: A Anand, V Sekar, A Akella
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 87-98
+
+14. A case for a coordinated internet video control plane
+Citations:230
+Authors: X Liu, F Dobrian, H Milner, J Jiang, V Sekar, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 359-370
+
+15. Understanding website complexity: measurements, metrics, and implications
+Citations:218
+Authors: M Butkiewicz, HV Madhyastha, V Sekar
+Publication: Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement …
+
+16. Stratos: A network-aware orchestration layer for virtual middleboxes in clouds
+Citations:208
+Authors: A Gember, A Krishnamurthy, SS John, R Grandl, X Gao, A Anand, ...
+Publication: arXiv preprint arXiv:1305.0209
+
+17. Evolution of attribute-augmented social networks: Measurements, modeling, and implications using google+
+Citations:200
+Authors: NZ Gong, W Xu, L Huang, P Mittal, E Stefanov, V Sekar, D Song
+Publication: ACM IMC
+
+18. Flowtags: Enforcing network-wide policies in the presence of dynamic middlebox actions
+Citations:188
+Authors: SK Fayazbakhsh, V Sekar, M Yu, JC Mogul
+Publication: Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …
+
+19. Multi-resource fair queueing for packet processing
+Citations:188
+Authors: A Ghodsi, V Sekar, M Zaharia, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 1-12
+
+20. Firefly: A reconfigurable wireless data center fabric using free-space optics
+Citations:186
+Authors: N Hamedazimi, Z Qazi, H Gupta, V Sekar, SR Das, JP Longtin, H Shah, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 319-330
+
+21. Data streaming algorithms for estimating entropy of network traffic
+Citations:180
+Authors: A Lall, V Sekar, M Ogihara, J Xu, H Zhang
+Publication: ACM SIGMETRICS Performance Evaluation Review 34 (1), 145-156
+
+22. Handling a trillion (unfixable) flaws on a billion devices: Rethinking network security for the internet-of-things
+Citations:175
+Authors: T Yu, V Sekar, S Seshan, Y Agarwal, C Xu
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 5
+
+23. cSamp: A System for Network-Wide Flow Monitoring.
+Citations:165
+Authors: V Sekar, MK Reiter, W Willinger, H Zhang, RR Kompella, DG Andersen
+Publication: NSDI 8, 233-246
+
+24. Bohatei: Flexible and elastic ddos defense
+Citations:158
+Authors: SK Fayaz, Y Tobioka, V Sekar, M Bailey
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 817-832
+
+25. LADS: Large-scale Automated DDoS Detection System.
+Citations:139
+Authors: V Sekar, NG Duffield, O Spatscheck, JE van der Merwe, H Zhang
+Publication: USENIX Annual Technical Conference, General Track, 171-184
+
+26. The middlebox manifesto: enabling innovation in middlebox deployment
+Citations:133
+Authors: V Sekar, S Ratnasamy, MK Reiter, N Egi, G Shi
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 21
+
+27. A quest for an internet video quality-of-experience metric
+Citations:130
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: Proceedings of the 11th ACM workshop on hot topics in networks, 97-102
+
+28. One sketch to rule them all: Rethinking network flow monitoring with univmon
+Citations:122
+Authors: Z Liu, A Manousis, G Vorsanger, V Sekar, V Braverman
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 101-114
+
+29. Worm origin identification using random moonwalks
+Citations:121
+Authors: Y Xie, V Sekar, DA Maltz, MK Reiter, H Zhang
+Publication: 2005 IEEE Symposium on Security and Privacy (S&P'05), 242-256
+
+30. CS2P: Improving video bitrate selection and adaptation with data-driven throughput prediction
+Citations:115
+Authors: Y Sun, X Yin, J Jiang, V Sekar, F Lin, N Wang, T Liu, B Sinopoli
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 272-285
+
+31. Analyzing the potential benefits of cdn augmentation strategies for internet video workloads
+Citations:87
+Authors: A Balachandran, V Sekar, A Akella, S Seshan
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 43-56
+
+32. Klotski: Reprioritizing web content to improve user experience on mobile devices
+Citations:86
+Authors: M Butkiewicz, D Wang, Z Wu, HV Madhyastha, V Sekar
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+33. Verifiable resource accounting for cloud computing services
+Citations:82
+Authors: V Sekar, P Maniatis
+Publication: Proceedings of the 3rd ACM workshop on Cloud computing security workshop, 21-26
+
+34. Inside the bird's nest: measurements of large-scale live VoD from the 2008 olympics
+Citations:80
+Authors: H Yin, X Liu, F Qiu, N Xia, C Lin, H Zhang, V Sekar, G Min
+Publication: Proceedings of the 9th ACM SIGCOMM conference on Internet measurement, 442-455
+
+35. C3: Internet-scale control plane for video quality optimization
+Citations:79
+Authors: A Ganjam, F Siddiqui, J Zhan, X Liu, I Stoica, J Jiang, V Sekar, H Zhang
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+36. Toward a principled framework to design dynamic adaptive streaming algorithms over HTTP
+Citations:78
+Authors: X Yin, V Sekar, B Sinopoli
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 9
+
+37. Nomad: Mitigating arbitrary cloud side channels via provider-assisted migration
+Citations:73
+Authors: SJ Moon, V Sekar, MK Reiter
+Publication: Proceedings of the 22nd acm sigsac conference on computer and communications …
+
+38. Toward a framework for internet forensic analysis
+Citations:71
+Authors: V Sekar, Y Xie, D Maltz, M Reiter, H Zhang
+Publication: ACM HotNets-III
+
+39. {BUZZ}: Testing Context-Dependent Policies in Stateful Networks
+Citations:66
+Authors: SK Fayaz, T Yu, Y Tobioka, S Chaki, V Sekar
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+40. {CFA}: A Practical Prediction System for Video QoE Optimization
+Citations:63
+Authors: J Jiang, V Sekar, H Milner, D Shepherd, I Stoica, H Zhang
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+41. Analyzing large DDoS attacks using multiple data sources
+Citations:63
+Authors: ZM Mao, V Sekar, O Spatscheck, J Van Der Merwe, R Vasudevan
+Publication: Proceedings of the 2006 SIGCOMM workshop on Large-scale attack defense, 161-168
+
+42. Trace-driven analysis of ICN caching algorithms on video-on-demand workloads
+Citations:61
+Authors: Y Sun, SK Fayaz, Y Guo, V Sekar, Y Jin, MA Kaafar, S Uhlig
+Publication: Proceedings of the 10th ACM International on Conference on emerging …
+
+43. A multi-resolution approach forworm detection and containment
+Citations:61
+Authors: V Sekar, Y Xie, MK Reiter, H Zhang
+Publication: International Conference on Dependable Systems and Networks (DSN'06), 189-198
+
+44. Efficient network reachability analysis using a succinct control plane representation
+Citations:60
+Authors: SK Fayaz, T Sharma, A Fogel, R Mahajan, T Millstein, V Sekar, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+45. Forensic analysis for epidemic attacks in federated networks
+Citations:54
+Authors: Y Xie, V Sekar, MK Reiter, H Zhang
+Publication: Proceedings of the 2006 IEEE International Conference on Network Protocols …
+
+46. Pytheas: Enabling data-driven quality of experience optimization using group-based exploration-exploitation
+Citations:49
+Authors: J Jiang, S Sun, V Sekar, H Zhang
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+47. Towards verifiable resource accounting for outsourced computation
+Citations:45
+Authors: C Chen, P Maniatis, A Perrig, A Vasudevan, V Sekar
+Publication: ACM Sigplan Notices 48 (7), 167-178
+
+48. Simplifying Software-Defined Network Optimization Using {SOL}
+Citations:44
+Authors: V Heorhiadi, MK Reiter, V Sekar
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+49. Revisiting the case for a minimalist approach for network flow monitoring
+Citations:44
+Authors: V Sekar, MK Reiter, H Zhang
+Publication: Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 328-341
+
+50. Via: Improving internet telephony call quality using predictive relay selection
+Citations:43
+Authors: J Jiang, R Das, G Ananthanarayanan, PA Chou, V Padmanabhan, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 286-299
+
+51. KLEIN: A minimally disruptive design for an elastic cellular core
+Citations:42
+Authors: ZA Qazi, PK Penumarthi, V Sekar, V Gopalakrishnan, K Joshi, SR Das
+Publication: Proceedings of the Symposium on SDN Research, 2
+
+52. SPIFFY: Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding Attacks.
+Citations:42
+Authors: MS Kang, VD Gligor, V Sekar
+Publication: NDSS
+
+53. Characterizing web page complexity and its impact
+Citations:39
+Authors: M Butkiewicz, HV Madhyastha, V Sekar
+Publication: IEEE/ACM Transactions on Networking 22 (3), 943-956
+
+54. Testing stateful and dynamic data planes with FlowTest
+Citations:37
+Authors: SK Fayaz, V Sekar
+Publication: Proceedings of the third workshop on Hot topics in software defined …
+
+55. Shedding light on the structure of internet video quality problems in the wild
+Citations:37
+Authors: J Jiang, V Sekar, I Stoica, H Zhang
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+56. Network-wide deployment of intrusion detection and prevention systems
+Citations:36
+Authors: V Sekar, R Krishnaswamy, A Gupta, MK Reiter
+Publication: Proceedings of the 6th International COnference, 18
+
+57. A high performance packet core for next generation cellular networks
+Citations:33
+Authors: ZA Qazi, M Walls, A Panda, V Sekar, S Ratnasamy, S Shenker
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+58. New opportunities for load balancing in network-wide intrusion detection systems
+Citations:33
+Authors: V Heorhiadi, MK Reiter, V Sekar
+Publication: Proceedings of the 8th international conference on Emerging networking …
+
+59. Method and apparatus for large-scale automated distributed denial of service attack detection
+Citations:32
+Authors: N Duffield, J Van Der Merwe, V Sekar, O Spatscheck
+Publication: US Patent 8,001,601
+
+60. Eona: Experience-oriented network architecture
+Citations:31
+Authors: J Jiang, X Liu, V Sekar, I Stoica, H Zhang
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 11
+
+61. Verifiable network function outsourcing: requirements, challenges, and roadmap
+Citations:31
+Authors: SK Fayazbakhsh, MK Reiter, V Sekar
+Publication: Proceedings of the 2013 workshop on Hot topics in middleboxes and network …
+
+62. Gremlin: Systematic resilience testing of microservices
+Citations:29
+Authors: V Heorhiadi, S Rajagopalan, H Jamjoom, MK Reiter, V Sekar
+Publication: 2016 IEEE 36th International Conference on Distributed Computing Systems …
+
+63. A first look at performance in mobile virtual network operators
+Citations:28
+Authors: F Zarinni, A Chakraborty, V Sekar, SR Das, P Gill
+Publication: Proceedings of the 2014 conference on internet measurement conference, 165-172
+
+64. Rethinking security in the era of cloud computing
+Citations:27
+Authors: J Aikat, A Akella, JS Chase, A Juels, M Reiter, T Ristenpart, V Sekar, ...
+Publication: IEEE Security & Privacy
+
+65. CARE: content aware redundancy elimination for challenged networks
+Citations:27
+Authors: U Weinsberg, Q Li, N Taft, A Balachandran, V Sekar, G Iannaccone, ...
+Publication: Proceedings of the 11th ACM workshop on hot topics in networks, 127-132
+
+66. Unleashing the potential of data-driven networking
+Citations:26
+Authors: J Jiang, V Sekar, I Stoica, H Zhang
+Publication: International Conference on Communication Systems and Networks, 110-126
+
+67. Architecture and system for coordinated network-wide redundancy elimination
+Citations:26
+Authors: SA Akella, A Anand, V Sekar
+Publication: US Patent 8,509,237
+
+68. Patch panels in the sky: A case for free-space optics in data centers
+Citations:25
+Authors: N Hamedazimi, H Gupta, V Sekar, SR Das
+Publication: Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 23
+
+69. Practical and incremental convergence between sdn and middleboxes
+Citations:23
+Authors: Z Qazi, CC Tu, R Miao, L Chiang, V Sekar, M Yu
+Publication: Open Network Summit, Santa Clara, CA
+
+70. Routing for a single interface MCN architecture and pricing schemes for data traffic in multihop cellular networks
+Citations:23
+Authors: V Sekar, BS Manoj, CSR Murthy
+Publication: IEEE International Conference on Communications, 2003. ICC'03. 2, 969-973
+
+71. PSI: Precise Security Instrumentation for Enterprise Networks.
+Citations:22
+Authors: T Yu, SK Fayaz, MP Collins, V Sekar, S Seshan
+Publication: NDSS
+
+72. Making peer-assisted content distribution robust to collusion using bandwidth puzzles
+Citations:18
+Authors: MK Reiter, V Sekar, C Spensky, Z Zhang
+Publication: International Conference on Information Systems Security, 132-147
+
+73. Freeflow: High performance container networking
+Citations:17
+Authors: T Yu, SA Noghabi, S Raindel, H Liu, J Padhye, V Sekar
+Publication: Proceedings of the 15th ACM Workshop on Hot Topics in Networks, 43-49
+
+74. A case for information-bound referencing
+Citations:17
+Authors: A Anand, A Akella, V Sekar, S Seshan
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 4
+
+75. Enabling the transition to the mobile web with websieve
+Citations:16
+Authors: M Butkiewicz, Z Wu, S Li, P Murali, V Hristidis, HV Madhyastha, V Sekar
+Publication: Proceedings of the 14th Workshop on Mobile Computing Systems and …
+
+76. Internet outages, the eyewitness accounts: Analysis of the outages mailing list
+Citations:15
+Authors: R Banerjee, A Razaghpanah, L Chiang, A Mishra, V Sekar, Y Choi, P Gill
+Publication: International Conference on Passive and Active Network Measurement, 206-219
+
+77. Remote Profiling of Resource Constraints of Web Servers Using Mini-Flash Crowds.
+Citations:15
+Authors: P Ramamurthy, V Sekar, A Akella, B Krishnamurthy, A Shaikh
+Publication: USENIX Annual Technical Conference, 185-198
+
+78. Coordinated sampling sans origin-destination identifiers: algorithms and analysis
+Citations:14
+Authors: V Sekar, A Gupta, MK Reiter, H Zhang
+Publication: 2010 Second International Conference on COMmunication Systems and NETworks …
+
+79. Enhancing video accessibility and availability using information-bound references
+Citations:13
+Authors: A Anand, A Balachandran, A Akella, V Sekar, S Seshan
+Publication: IEEE/ACM Transactions on Networking 24 (2), 1223-1236
+
+80. On the efficiency and fairness of multiplayer HTTP-based adaptive video streaming
+Citations:12
+Authors: X Yin, M Bartulović, V Sekar, B Sinopoli
+Publication: 2017 American Control Conference (ACC), 4236-4241
+
+81. Reconfigurable optical wireless applications in data centers
+Citations:12
+Authors: M Kavehrad, P Deng, H Gupta, J Longtin, SR Das, V Sekar
+Publication: Broadband Access Communication Technologies XI 10128, 1012804
+
+82. How to catch when proxies lie: Verifying the physical locations of network proxies with active geolocation
+Citations:11
+Authors: Z Weinberg, S Cho, N Christin, V Sekar, P Gill
+Publication: Proceedings of the Internet Measurement Conference 2018, 203-217
+
+83. Shedding light on the adoption of let's encrypt
+Citations:11
+Authors: A Manousis, R Ragsdale, B Draffin, A Agrawal, V Sekar
+Publication: arXiv preprint arXiv:1611.00469
+
+84. Enabling a RISC Approach for Software-Defined Monitoring using Universal Streaming
+Citations:11
+Authors: Z Liu, G Vorsanger, V Braverman, V Sekar
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 21
+
+85. Sparse approximations for high fidelity compression of network traffic data
+Citations:11
+Authors: W Aiello, A Gilbert, B Rexroad, V Sekar
+Publication: Proceedings of the 5th ACM SIGCOMM conference on Internet measurement, 22-22
+
+86. SNIPS: A software-defined approach for scaling intrusion prevention systems via offloading
+Citations:10
+Authors: V Heorhiadi, SK Fayaz, MK Reiter, V Sekar
+Publication: International Conference on Information Systems Security, 9-29
+
+87. Hyperloop: group-based NIC-offloading to accelerate replicated transactions in multi-tenant storage systems
+Citations:9
+Authors: D Kim, A Memaripour, A Badam, Y Zhu, HH Liu, J Padhye, S Raindel, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+88. Is host-based anomaly detection+ temporal correlation= worm causality
+Citations:9
+Authors: V Sekar, Y Xie, MK Reiter, H Zhang
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+89. System and Method for Dynamic Adaptive Video Streaming Using Model Predictive Control
+Citations:8
+Authors: X Yin, V Sekar, B Sinopoli
+Publication: US Patent App. 15/082,444
+
+90. CICADAS: congesting the internet with coordinated and decentralized pulsating attacks
+Citations:8
+Authors: YM Ke, CW Chen, HC Hsiao, A Perrig, V Sekar
+Publication: Proceedings of the 11th ACM on Asia Conference on Computer and …
+
+91. FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds.
+Citations:7
+Authors: D Kim, T Yu, HH Liu, Y Zhu, J Padhye, S Raindel, C Guo, V Sekar, ...
+Publication: NSDI, 113-126
+
+92. Flow reconnaissance via timing attacks on SDN switches
+Citations:6
+Authors: S Liu, MK Reiter, V Sekar
+Publication: 2017 IEEE 37th International Conference on Distributed Computing Systems …
+
+93. Tradeoffs between cost and performance for CDN provisioning based on coordinate transformation
+Citations:6
+Authors: H Yin, X Zhang, S Zhao, Y Luo, C Tian, V Sekar
+Publication: IEEE Transactions on Multimedia 19 (11), 2583-2596
+
+94. Reconfigurable wireless data center network using free-space optics
+Citations:6
+Authors: H Gupta, NH Azimi, SR Das, JP Longtin, V Sekar, MS Curran
+Publication: US Patent App. 14/934,863
+
+95. System and method for profiling resource constraints of web servers
+Citations:6
+Authors: B Krishnamurthy, SA Akella, P Ramamurthy, V Sekar, A Shaikh
+Publication: US Patent 7,933,745
+
+96. Dda: Cross-session throughput prediction with applications to video bitrate selection
+Citations:5
+Authors: J Jiang, V Sekar, Y Sun
+Publication: arXiv preprint arXiv:1505.02056
+
+97. A framework to quantify the benefits of network functions virtualization in cellular networks
+Citations:5
+Authors: ZA Qazi, V Sekar, S Das
+Publication: arXiv preprint arXiv:1406.5634
+
+98. Using mini-flash crowds to infer resource constraints in remote web servers
+Citations:5
+Authors: P Ramamurthy, V Sekar, A Akella, B Krishnamurthy, A Shaikh
+Publication: Proceedings of the 2007 SIGCOMM workshop on Internet network management, 250-255
+
+99. Efficient and correct test scheduling for ensembles of network policies
+Citations:4
+Authors: Y Yuan, S Chandrasekaran, L Jia, V Sekar
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+100. Biases in data-driven networking, and what to do about them
+Citations:4
+Authors: M Bartulovic, J Jiang, S Balakrishnan, V Sekar, B Sinopoli
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 192-198
+
+101. Vulnerabilities of Electric Vehicle Battery Packs to Cyberattacks
+Citations:4
+Authors: S Sripad, S Kulandaivel, V Pande, V Sekar, V Viswanathan
+Publication: arXiv preprint arXiv:1711.04822
+
+102. In-Situ quality of experience monitoring: The case for prioritizing coverage over fidelity
+Citations:3
+Authors: A Ganjam, V Sekar, H Zhang
+Publication: White-paper submission, CMU/Conviva (2016) 2
+
+103. Understanding internet video viewing behavior in the wild
+Citations:3
+Authors: A Balachandran, V Sekar, A Akella, S Seshan
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 379-380
+
+104. Flexible multimedia content retrieval using infonames
+Citations:3
+Authors: A Kumar, A Anand, A Akella, A Balachandran, V Sekar, S Seshan
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 455-456
+
+105. Evaluating Throughput and Fairness of Thread Fetch Policies for SMT Processors
+Citations:3
+Authors: P Manadhata, V Sekar
+Publication: 
+
+106. Nitrosketch: Robust and general sketch-based monitoring in software switches
+Citations:2
+Authors: Z Liu, R Ben-Basat, G Einziger, Y Kassner, V Braverman, R Friedman, ...
+Publication: Proceedings of the ACM Special Interest Group on Data Communication, 334-350
+
+107. Defending against evolving ddos attacks: A case study using link flooding incidents
+Citations:2
+Authors: MS Kang, VD Gligor, V Sekar
+Publication: Cambridge International Workshop on Security Protocols, 47-57
+
+108. BUZZ: Testing Context-Dependent Policies in Stateful Data Planes
+Citations:2
+Authors: SK Fayaz, Y Tobioka, S Chaki, V Sekar
+Publication: Proc. of USENIX NSDI
+
+109. Analyzing TCP throughput stability and predictability with implications for adaptive video streaming
+Citations:2
+Authors: Y Sun, X Yin, N Wang, J Jiang, V Sekar, Y Jin, B Sinopoli
+Publication: arXiv preprint arXiv:1506.05541
+
+110. Accelerating the development of software-defined network optimization applications using sol
+Citations:2
+Authors: V Heorhiadi, MK Reiter, V Sekar
+Publication: arXiv preprint arXiv:1504.07704
+
+111. Using Video-Based Measurements to Generate a Real-Time Network Traffic Map
+Citations:2
+Authors: Y Sun, J Jiang, V Sekar, H Zhang, F Lin, N Wang
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 10
+
+112. A longitudinal and cross-dataset study of internet latency and path stability
+Citations:2
+Authors: M Chowdhury, R Agarwal, V Sekar, I Stoica
+Publication: Dept. EECS, Univ. California, Berkeley, CA, USA, Tech. Rep. UCB/EECS-2014-172
+
+113. Extending {SDN} to Handle Dynamic Middlebox Actions via FlowTags
+Citations:2
+Authors: SK Fayazbakhsh, L Chiang, V Sekar, M Yu, JC Mogul
+Publication: Presented as part of the Open Networking Summit 2014 ({ONS} 2014)
+
+114. Balancing Computation-Communication Tradeoff in Scaling Network-Wide Intrusion Detection Systems
+Citations:2
+Authors: V Heorhiadi, MK Reiter, V Sekar
+Publication: Signature (P1, P2, P3) 1 (3), N2
+
+115. Tracking semantic relationships for effective data management in home networks
+Citations:2
+Authors: A Anand, A Gember, A Akella, V Sekar
+Publication: Proceedings of the 2010 ACM SIGCOMM workshop on Home networks, 49-54
+
+116. Infonames: An information-based naming scheme for multimedia content
+Citations:2
+Authors: A Kumar, A Balachandran, V Sekar, A Akella, S Seshan
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+117. Scalable long-term network forensics for epidemic attacks
+Citations:2
+Authors: LM Chen, MC Chen, YS Sun, SW Hsiao, V Sekar, H Zhang
+Publication: 2009 International Conference on Network and Service Security, 1-6
+
+118. Intent-driven composition of resource-management SDN applications
+Citations:1
+Authors: V Heorhiadi, S Chandrasekaran, MK Reiter, V Sekar
+Publication: Proceedings of the 14th International Conference on emerging Networking …
+
+119. Oh, What a Fragile Web We Weave: Third-party Service Dependencies In Modern Webservices and Implications
+Citations:1
+Authors: A Kashaf, C Zarate, H Wang, Y Agarwal, V Sekar
+Publication: arXiv preprint arXiv:1806.08420
+
+120. Rethinking Virtual Network Embedding in Reconfigurable Networks
+Citations:1
+Authors: M Curran, MS Rahman, H Gupta, V Sekar
+Publication: 2018 15th Annual IEEE International Conference on Sensing, Communication …
+
+121. Scalable testing of context-dependent policies over stateful data planes with armstrong
+Citations:1
+Authors: SK Fayaz, Y Tobioka, S Chaki, V Sekar
+Publication: arXiv preprint arXiv:1505.03356
+
+122. A Framework to Quantify the Benefits of Network Functions Virtualization in Cellular Networks
+Citations:1
+Authors: Z Ayyub Qazi, V Sekar, S Das
+Publication: arXiv preprint arXiv:1406.5634
+
+123. Making contribution-aware peer-assisted content distribution robust to collusion using bandwidth puzzles
+Citations:1
+Authors: MK Reiter, V Sekar, C Spensky, Z Zhang
+Publication: Technical Report CMU-CS-09-136, Carnegie Mellon University
+
+124. Coordinated Sampling sans Origin-Destination Identifiers: Algorithms, Analysis, and Evaluation
+Citations:1
+Authors: V Sekar, A Gupta, MK Reiter, H Zhang
+Publication: Technical Report, CMU-CS-09–104, CMU
+
+125. Vector Processors
+Citations:1
+Authors: P Manadhata, V Sekar
+Publication: June
+
+126. A case for a RISC architecture for network flow monitoring
+Citations:1
+Authors: V Sekar, MK Reiter, H Zhang
+Publication: Technical Report, CMU-CS-09-125
+
+127. Practical Verifiable In-network Filtering for DDoS defense
+Citations:
+Authors: D Gong, M Tran, S Shinde, H Jin, V Sekar, P Saxena, MS Kang
+Publication: arXiv preprint arXiv:1901.00955
+
+128. CANvas: Fast and Inexpensive Automotive Network Mapping
+Citations:
+Authors: S Kulandaivel, T Goyal, AK Agrawal, V Sekar
+Publication: 28th {USENIX} Security Symposium ({USENIX} Security 19), 389-405
+
+129. Alembic: automated model inference for stateful network functions
+Citations:
+Authors: SJ Moon, J Helt, Y Yuan, Y Bieri, S Banerjee, V Sekar, W Wu, ...
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+130. Reconfigurable wireless data center network using free-space optics
+Citations:
+Authors: H Gupta, N Hamedazimi, SR Das, J Longtin, V Sekar, M Curran
+Publication: US Patent App. 16/010,191
+
+131. EZ-PC: program committee selection made easy
+Citations:
+Authors: V Sekar
+Publication: ACM SIGCOMM Computer Communication Review 46 (3), 6
+
+132. Enabling Software-Defined Network Security for Next-Generation Networks
+Citations:
+Authors: V Sekar
+Publication: Proceedings of the 12th International on Conference on emerging Networking

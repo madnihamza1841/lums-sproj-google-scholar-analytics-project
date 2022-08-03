@@ -1,0 +1,95 @@
+
+25. Using simulation and domain adaptation to improve efficiency of deep robotic grasping
+Citations:148
+Authors: K Bousmalis, A Irpan, P Wohlhart, Y Bai, M Kelcey, M Kalakrishnan, ...
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 4243-4250
+
+39. Learning complex dexterous manipulation with deep reinforcement learning and demonstrations
+Citations:92
+Authors: A Rajeswaran, V Kumar, A Gupta, G Vezzani, J Schulman, E Todorov, ...
+Publication: arXiv preprint arXiv:1709.10087
+
+43. Qt-opt: Scalable deep reinforcement learning for vision-based robotic manipulation
+Citations:78
+Authors: D Kalashnikov, A Irpan, P Pastor, J Ibarz, A Herzog, E Jang, D Quillen, ...
+Publication: arXiv preprint arXiv:1806.10293
+
+79. The feeling of success: Does touch sensing help predict grasp outcomes?
+Citations:41
+Authors: R Calandra, A Owens, M Upadhyaya, W Yuan, J Lin, EH Adelson, ...
+Publication: arXiv preprint arXiv:1710.05512
+
+88. Deep reinforcement learning for tensegrity robot locomotion
+Citations:32
+Authors: M Zhang, X Geng, J Bruce, K Caluwaerts, M Vespignani, V SunSpiral, ...
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 634-641
+
+90. Soft actor-critic algorithms and applications
+Citations:31
+Authors: T Haarnoja, A Zhou, K Hartikainen, G Tucker, S Ha, J Tan, V Kumar, ...
+Publication: arXiv preprint arXiv:1812.05905
+
+91. More than a feeling: Learning to grasp and regrasp using vision and touch
+Citations:30
+Authors: R Calandra, A Owens, D Jayaraman, J Lin, W Yuan, J Malik, EH Adelson, ...
+Publication: IEEE Robotics and Automation Letters 3 (4), 3300-3307
+
+111. Sim-to-real via sim-to-sim: Data-efficient robotic grasping via randomized-to-canonical adaptation networks
+Citations:19
+Authors: S James, P Wohlhart, M Kalakrishnan, D Kalashnikov, A Irpan, J Ibarz, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+112. Model-based reinforcement learning for atari
+Citations:18
+Authors: L Kaiser, M Babaeizadeh, P Milos, B Osinski, RH Campbell, ...
+Publication: arXiv preprint arXiv:1903.00374
+
+141. Residual reinforcement learning for robot control
+Citations:9
+Authors: T Johannink, S Bahl, A Nair, J Luo, A Kumar, M Loskyll, JA Ojea, ...
+Publication: 2019 International Conference on Robotics and Automation (ICRA), 6023-6029
+
+158. Learning to Run challenge solutions: Adapting reinforcement learning methods for neuromusculoskeletal environments
+Citations:7
+Authors: Ł Kidziński, SP Mohanty, CF Ong, Z Huang, S Zhou, A Pechenko, ...
+Publication: The NIPS'17 Competition: Building Intelligent Systems, 121-153
+
+160. Infobot: Transfer and exploration via the information bottleneck
+Citations:5
+Authors: A Goyal, R Islam, D Strouse, Z Ahmed, M Botvinick, H Larochelle, ...
+Publication: arXiv preprint arXiv:1901.10902
+
+171. Guiding policies with language via meta-learning
+Citations:3
+Authors: JD Co-Reyes, A Gupta, S Sanjeev, N Altieri, J DeNero, P Abbeel, ...
+Publication: arXiv preprint arXiv:1811.07882
+
+176. Extending Deep Model Predictive Control with Safety Augmented Value Estimation from Demonstrations
+Citations:2
+Authors: B Thananjeyan, A Balakrishna, U Rosolia, F Li, R McAllister, JE Gonzalez, ...
+Publication: arXiv preprint arXiv:1905.13402
+
+178. Manipulation by feel: Touch-based control with deep predictive models
+Citations:2
+Authors: S Tian, F Ebert, D Jayaraman, M Mudigonda, C Finn, R Calandra, ...
+Publication: arXiv preprint arXiv:1903.04128
+
+195. InfoBot: Structured Exploration in ReinforcementLearning Using Information Bottleneck
+Citations:1
+Authors: A Goyal, R Islam, D Precup, Z Ahmed, M Botvinick, H Larochelle, ...
+Publication: 
+
+209. Watch, Try, Learn: Meta-Learning from Demonstrations and Reward
+Citations:
+Authors: A Zhou, E Jang, D Kappler, A Herzog, M Khansari, P Wohlhart, Y Bai, ...
+Publication: arXiv preprint arXiv:1906.03352
+
+218. Artificial Intelligence for Prosthetics-challenge solutions
+Citations:
+Authors: Ł Kidziński, C Ong, SP Mohanty, J Hicks, SF Carroll, B Zhou, H Zeng, ...
+Publication: arXiv preprint arXiv:1902.02441
+
+226. Introduction to NIPS 2017 Competition Track
+Citations:
+Authors: S Escalera, M Weimer, M Burtsev, V Malykh, V Logacheva, R Lowe, ...
+Publication: The NIPS'17 Competition: Building Intelligent Systems, 1-23

@@ -1,0 +1,253 @@
+https://scholar.google.com/citations?hl=en&user=Dzh5C9EAAAAJ
+Total Citations = 15203
+
+1. Spark: Cluster Computing with Working Sets
+Citations:4464
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: USENIX HotCloud
+
+2. Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing
+Citations:3881
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, M Franklin, ...
+Publication: USENIX NSDI
+
+3. A Survey of Network Virtualization
+Citations:1323
+Authors: NMMK Chowdhury, R Boutaba
+Publication: Computer Networks 54 (5), 862-876
+
+4. Network Virtualization: State of the Art and Research Challenges
+Citations:953
+Authors: NMMK Chowdhury, R Boutaba
+Publication: IEEE Communications Magazine 47 (7), 20-26
+
+5. Virtual Network Embedding with Coordinated Node and Link Mapping
+Citations:903
+Authors: NMMK Chowdhury, MR Rahman, R Boutaba
+Publication: IEEE INFOCOM, 783-791
+
+6. ViNEYard: Virtual Network Embedding Algorithms With Coordinated Node and Link Mapping
+Citations:645
+Authors: M Chowdhury, MR Rahman, R Boutaba
+Publication: IEEE/ACM Transactions on Networking 20 (1), 206-219
+
+7. Managing Data Transfers in Computer Clusters with Orchestra
+Citations:529
+Authors: M Chowdhury, M Zaharia, J Ma, MI Jordan, I Stoica
+Publication: ACM SIGCOMM
+
+8. FairCloud: Sharing the Network in Cloud Computing
+Citations:445
+Authors: L Popa, G Kumar, M Chowdhury, A Krishnamurthy, S Ratnasamy, I Stoica
+Publication: ACM SIGCOMM
+
+9. Efficient Coflow Scheduling with Varys
+Citations:296
+Authors: M Chowdhury, Y Zhong, I Stoica
+Publication: ACM SIGCOMM
+
+10. Coflow: A Networking Abstraction for Cluster Applications
+Citations:222
+Authors: M Chowdhury, I Stoica
+Publication: ACM HotNets XI
+
+11. PolyViNE: Policy-based Virtual Network Embedding Across Multiple Domains
+Citations:209
+Authors: F Samuel, M Chowdhury, R Boutaba
+Publication: Journal of Internet Services and Applications 4 (6), 23
+
+12. PolyViNE: Policy-based Virtual Network Embedding Across Multiple Domains
+Citations:209
+Authors: M Chowdhury, F Samuel, R Boutaba
+Publication: ACM SIGCOMM VISA, 49-56
+
+13. Surviving Failures in Bandwidth-Constrained Datacenters
+Citations:201
+Authors: P Bodík, I Menache, M Chowdhury, P Mani, DA Maltz, I Stoica
+Publication: ACM SIGCOMM
+
+14. Topology-Awareness and Reoptimization Mechanism for Virtual Network Embedding
+Citations:188
+Authors: N Farooq Butt, M Chowdhury, R Boutaba
+Publication: IFIP NETWORKING, 27-39
+
+15. Efficient Coflow Scheduling Without Prior Knowledge
+Citations:170
+Authors: M Chowdhury, I Stoica
+Publication: ACM SIGCOMM
+
+16. Fast and Interactive Analytics over Hadoop Data with Spark
+Citations:161
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M Mccauley, MJ Franklin, ...
+Publication: USENIX ;login: 37 (4), 45-51
+
+17. Leveraging Endpoint Flexibility in Data-Intensive Clusters
+Citations:124
+Authors: M Chowdhury, S Kandula, I Stoica
+Publication: ACM SIGCOMM
+
+18. CODA: Toward Automatically Identifying and Scheduling COflows in the DArk
+Citations:78
+Authors: H Zhang, L Chen, B Yi, K Chen, M Chowdhury, Y Geng
+Publication: ACM SIGCOMM
+
+19. Altruistic Scheduling in Multi-Resource Clusters
+Citations:73
+Authors: R Grandl, M Chowdhury, A Akella, G Ananthanarayanan
+Publication: USENIX OSDI
+
+20. HUG: Multi-Resource Fairness for Correlated and Elastic Demands
+Citations:68
+Authors: M Chowdhury, Z Liu, A Ghodsi, I Stoica
+Publication: USENIX NSDI
+
+21. Efficient Memory Disaggregation with Infiniswap
+Citations:61
+Authors: J Gu, Y Lee, Y Zhang, M Chowdhury, KG Shin
+Publication: USENIX NSDI
+
+22. EC-Cache: Load-Balanced, Low-Latency Cluster Caching with Online Erasure Coding
+Citations:57
+Authors: KV Rashmi, M Chowdhury, J Kosaian, I Stoica, K Ramchandran
+Publication: USENIX OSDI
+
+23. iMark: An Identity Management Framework for Network Virtualization Environment
+Citations:36
+Authors: NMMK Chowdhury, FE Zaheer, R Boutaba
+Publication: IFIP/IEEE IM, 335-342
+
+24. Resilient Datacenter Load Balancing in the Wild
+Citations:35
+Authors: H Zhang, J Zhang, W Bai, K Chen, M Chowdhury
+Publication: ACM SIGCOMM, 253-266
+
+25. A Case for Performance-Centric Network Allocation
+Citations:13
+Authors: G Kumar, M Chowdhury, S Ratnasamy, I Stoica
+Publication: USENIX HotCloud
+
+26. Tiresias: A GPU Cluster Manager for Distributed Deep Learning
+Citations:8
+Authors: J Gu, M Chowdhury, KG Shin, Y Zhu, M Jeon, J Qian, H Liu, C Guo
+Publication: USENIX NSDI, 485-500
+
+27. Distributed Lock Management with RDMA: Decentralization without Starvation
+Citations:8
+Authors: DY Yoon, M Chowdhury, B Mozafari
+Publication: ACM SIGMOD, 1571-1586
+
+28. Coflow: A Networking Abstraction for Distributed Data-Parallel Applications
+Citations:8
+Authors: NMMK Chowdhury
+Publication: University of California, Berkeley
+
+29. Bridging the GAP: Towards Approximate Graph Analytics
+Citations:5
+Authors: AP Iyer, A Panda, S Venkataraman, M Chowdhury, A Akella, S Shenker, ...
+Publication: ACM SIGMOD GRADES-NDA
+
+30. Monarch: Gaining Command on Geo-Distributed Graph Analytics
+Citations:5
+Authors: AP Iyer, A Panda, M Chowdhury, A Akella, S Shenker, I Stoica
+Publication: USENIX HotCloud
+
+31. Performance Isolation Anomalies in RDMA
+Citations:5
+Authors: Y Zhang, J Gu, Y Lee, M Chowdhury, KG Shin
+Publication: ACM SIGCOMM KBNets
+
+32. Fast and Accurate Performance Analysis of LTE Radio Access Networks
+Citations:5
+Authors: AP Iyer, I Stoica, M Chowdhury, LE Li
+Publication: arXiv preprint arXiv:1605.04652
+
+33. DiskTrie: An Efficient Data Structure Using Flash Memory for Mobile Devices
+Citations:5
+Authors: NMMK Chowdhury, MM Akbar, M Kaykobad
+Publication: Workshop on Algorithms and Computation, 76-87
+
+34. Dynamic Query Re-Planning using QOOP
+Citations:4
+Authors: K Mahajan, M Chowdhury, A Akella, S Chawla
+Publication: USENIX OSDI
+
+35. Identity Management and Resource Allocation in the Network Virtualization Environment
+Citations:4
+Authors: NMMK Chowdhury
+Publication: University of Waterloo
+
+36. Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems
+Citations:3
+Authors: AP Iyer, LE Li, M Chowdhury, I Stoica
+Publication: ACM MobiCom
+
+37. No! Not Another Deep Learning Framework
+Citations:2
+Authors: L Nguyen, P Yu, M Chowdhury
+Publication: ACM HotOS XVI
+
+38. A Longitudinal and Cross-Dataset Study of Internet Latency and Path Stability
+Citations:2
+Authors: M Chowdhury, R Agarwal, V Sekar, I Stoica
+Publication: Tech Report UCB/EECS-2014-172, EECS, UC Berkeley
+
+39. Terra: Scalable Cross-Layer GDA Optimizations
+Citations:1
+Authors: J You, M Chowdhury
+Publication: arXiv preprint arXiv:1904.08480
+
+40. Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
+Citations:1
+Authors: P Yu, M Chowdhury
+Publication: arXiv preprint arXiv:1902.04610
+
+41. Lattice: A Scalable Layer-Agnostic Packet Classification Framework
+Citations:1
+Authors: S Agarwal, M Chowdhury, D Joseph, I Stoica
+Publication: Tech Report UCB/EECS-2011-96, EECS, UC Berkeley
+
+42. Admission Control Algorithm for Multimedia Server: A Hybrid Approach
+Citations:1
+Authors: DT Ahmed, NMMK Chowdhury, MM Akbar
+Publication: International Journal of Computers and Applications 29 (4), 414-419
+
+43. Near Optimal Coflow Scheduling in Networks
+Citations:
+Authors: M Chowdhury, S Khuller, M Purohit, S Yang, J You
+Publication: arXiv preprint arXiv:1906.06851
+
+44. RDMA Performance Isolation With Justitia
+Citations:
+Authors: Y Zhang, Y Tan, B Stephens, M Chowdhury
+Publication: arXiv preprint arXiv:1905.04437
+
+45. Near Optimal Coflow Scheduling in Networks
+Citations:
+Authors: M Chowdhury, S Khuller, M Purohit, S Yang, J You
+Publication: ACM SPAA
+
+46. Pas de Deux: Shape the Circuits, and Shape the Apps too!
+Citations:
+Authors: H Zhang, K Chen, M Chowdhury
+Publication: ACM APNet, 29-35
+
+47. Fair Allocation of Heterogeneous and Interchangeable Resources
+Citations:
+Authors: X Sun, TN Le, M Chowdhury, Z Liu
+Publication: ACM SIGMETRICS MAMA
+
+48. To Relay or Not to Relay for Inter-Cloud Transfers?
+Citations:
+Authors: F Lai, M Chowdhury, H Madhyastha
+Publication: USENIX HotCloud
+
+49. Decentralized Memory Disaggregation Over Low-Latency Networks
+Citations:
+Authors: J Gu, Y Lee, Y Zhang, M Chowdhury, KG Shin
+Publication: USENIX ;login: 42 (4), 42-48
+
+50. A Study Of The Hybrid Admission Control Algorithm For Multimedia Server
+Citations:
+Authors: NMMK Chowdhury
+Publication: Bangladesh University of Engineering & Technology
+

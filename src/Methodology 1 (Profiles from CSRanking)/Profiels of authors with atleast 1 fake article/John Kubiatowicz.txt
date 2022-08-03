@@ -1,0 +1,205 @@
+
+15. Tapestry: An Infrastructure for Fault-Resilient Wide-Ares Location and Routing
+Citations:457
+Authors: BY Zhao
+Publication: Technical Report UCB/CSD-01-1141
+
+18. Maintenance-free global data storage
+Citations:348
+Authors: S Rhea, C Wells, P Eaton, D Geels, B Zhao, H Weatherspoon, ...
+Publication: IEEE internet computing 5 (5), 40-49
+
+19. Efficient Replica Maintenance for Distributed Storage Systems.
+Citations:328
+Authors: BG Chun, F Dabek, A Haeberlen, E Sit, H Weatherspoon, MF Kaashoek, ...
+Publication: NSDI 6, 4-4
+
+24. Selfish caching in distributed systems: a game-theoretic analysis
+Citations:185
+Authors: BG Chun, K Chaudhuri, H Wee, M Barreno, CH Papadimitriou, ...
+Publication: Proceedings of the twenty-third annual ACM symposium on Principles of …
+
+33. The cloud is not enough: Saving iot from the cloud
+Citations:120
+Authors: B Zhang, N Mor, J Kolb, DS Chan, K Lutz, E Allman, J Wawrzynek, E Lee, ...
+Publication: 7th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 15)
+
+36. Proactive Replication for Data Durability.
+Citations:112
+Authors: E Sit, A Haeberlen, F Dabek, BG Chun, H Weatherspoon, RT Morris, ...
+Publication: IPTPS
+
+40. Toward a scalable, silicon-based quantum computing architecture
+Citations:89
+Authors: D Copsey, M Oskin, F Impens, T Metodiev, A Cross, FT Chong, IL Chuang, ...
+Publication: IEEE Journal of selected topics in quantum electronics 9 (6), 1552-1569
+
+44. Analysis of photonic networks for a chip multiprocessor using scientific applications
+Citations:80
+Authors: G Hendry, S Kamil, A Biberman, J Chan, BG Lee, M Mohiyuddin, A Jain, ...
+Publication: 2009 3rd ACM/IEEE International Symposium on Networks-on-Chip, 104-113
+
+47. Tessellation: refactoring the OS around explicit resource containers with continuous adaptation
+Citations:73
+Authors: JA Colmenares, G Eads, S Hofmeyr, S Bird, M Moretó, D Chou, ...
+Publication: Proceedings of the 50th Annual Design Automation Conference, 76
+
+53. Oceanstore: An extremely wide-area storage system
+Citations:62
+Authors: D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proceedings of the 9th International Conference on Architectural Support for …
+
+56. Resource management in the Tessellation manycore OS
+Citations:56
+Authors: JA Colmenares, S Bird, H Cook, P Pearce, D Zhu, J Shalf, S Hofmeyr, ...
+Publication: HotPar10, Berkeley, CA
+
+57. The MIT alewife machine
+Citations:56
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proceedings of the IEEE 87 (3), 430-444
+
+65. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+85. Special issue on distributed shared memory systems
+Citations:25
+Authors: V Milutinovic, P Stenstrom
+Publication: Proceedings of the IEEE 87 (3), 399-404
+
+87. Toward a global data infrastructure
+Citations:24
+Authors: N Mor, B Zhang, J Kolb, DS Chan, N Goyal, N Sun, K Lutz, E Allman, ...
+Publication: IEEE Internet Computing 20 (3), 54-62
+
+99. Monitoring, analyzing, and controlling internet-scale systems with acme
+Citations:15
+Authors: D Oppenheimer, V Vatkovskiy, H Weatherspoon, J Lee, DA Patterson, ...
+Publication: arXiv preprint cs/0408035
+
+114. Real-time musical applications on an experimental operating system for multi-core processors
+Citations:8
+Authors: JA Colmenares, I Saxton, E Battenberg, R Avizienis, N Peters, K Asanovic, ...
+Publication: ICMC
+
+118. Proactive replication for data durability
+Citations:7
+Authors: ES Andreas, A Haeberlen, F Dabek, B gon Chun, H Weatherspoon, ...
+Publication: Proceedings of the 5th Intl Workshop on Peer-to-Peer Systems (IPTPS)
+
+121. Power consumption models for multi-tenant server infrastructures
+Citations:5
+Authors: M Ferroni, A Corna, A Damiani, R Brondolin, JA Colmenares, S Hofmeyr, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 14 (4), 38
+
+123. Sparcle: A multithreaded VLSI processor for parallel computing
+Citations:5
+Authors: A Agarwal, J Babb, D Chaiken, G D'Souza, K Johnson, D Kranz, ...
+Publication: US/Japan Workshop on Parallel Symbolic Computing, 359-361
+
+126. The great robotics debate
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 56 (7), 5-5
+
+131. The mit alewife machine
+Citations:4
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proc. of the IEEE, Special Issue on Distributed Shared Memory
+
+140. Users Manual for the Alewife 1000 Controller Version 0.69
+Citations:3
+Authors: J Kubiatowiz
+Publication: Technical Report Alewife Systems Memo
+
+145. Building an adaptive operating system for predictability and efficiency
+Citations:2
+Authors: G Eads, J Colmenares, S Hofmeyr, S Bird, D Bartolini, D Chou, ...
+Publication: Tech. Rep. UCB/EECS-2014-137, EECS Department, University of California …
+
+147. Tessellation operating system: Building a real-time, responsive, high-throughput client OS for many-core architectures
+Citations:2
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, A Kim, R Poddar, H Alkaff, ...
+Publication: 2011 IEEE Hot Chips 23 Symposium (HCS), 1-1
+
+149. The world-wide computer
+Citations:2
+Authors: J Fu
+Publication: Scientific
+
+151. The MIT Alewife Machine: A Large-Scale Distributed-Memory Multiprocessor
+Citations:2
+Authors: AADCK Johnson, DKJKK Kurihara, BHLG Maa, D Nussbaum
+Publication: Proc. Workshop Scalable Shared Memory Multiprocessors
+
+171. Cloud Storage Toward a Global Data Infrastructure
+Citations:
+Authors: N Mor, B Zhang, J Kolb, DS Chan, N Goyal, N Sun, K Lutz, E Allman, ...
+Publication: Proc. 1st Edition of the MCC Workshop on Mobile Cloud Computing, 13-16
+
+173. Par Lab
+Citations:
+Authors: JA Colmenares, I Saxton, E Battenberg, N Peters, K Asanović, ...
+Publication: 
+
+174. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+175. Analysis of Photonic Networks for a Chip Multiprocessor Using Scientific Applications
+Citations:
+Authors: SA Kamil, G Hendry, A Biberman, J Chan, BG Lee, M Mohiyuddin, A Jain, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+187. 全球计算机
+Citations:
+Authors: 李平
+Publication: 科学 (中文版), 28-35
+
+189. Peer-to-peer collaborative application-level multicast.
+Citations:
+Authors: Q Zheng, S Jiang, F Zhang, T Peng, C Chen, R Antony, P Druschel, ...
+Publication: Information Technology Journal 7 (5), pp: 329-350
+
+200. Computers for the Post-PC Era
+Citations:
+Authors: A Brown, J Beck, K Keeton, R Martin, D Oppenheimer, R Thomas, ...
+Publication: 
+
+207. Symposium Organization
+Citations:
+Authors: J Rolim, C Weems, JK Antonio, M Atallah, S Adve, G Agha, R Bianchini, ...
+Publication: 
+
+210. S. Dwarkadas R. Eickemeyer J. Emer M. Ercegovac
+Citations:
+Authors: A Eustace, D Blough, K Bolding, R Boppana, S Breach, M Brorsson, ...
+Publication: 
+
+211. Tessellation Operating System
+Citations:
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, E Huerta-Yero, A Kim, ...
+Publication: 
+
+215. A Design Overview for a Simulation Infrastructure for Exploring Quantum Architectures
+Citations:
+Authors: D Copsey, M Oskin, A Cross, T Metodiev, FT Chong, I Chuang, ...
+Publication: 
+
+220. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+221. David Lilja Patrick Lincoln Mikko Lipasti Jose María Llabería Josep Llosa
+Citations:
+Authors: J Abella, J Abraham, A Abulafia, C Acosta, A Agarwal, A Alameldeen, ...
+Publication: 
+
+223. Laboratory for Computer Science Massachusetts Institute of Technology, Cambridge, MA 02139
+Citations:
+Authors: D Harel
+Publication: 

@@ -1,0 +1,658 @@
+https://scholar.google.com/citations?hl=en&user=jGqGKGMAAAAJ
+Total Citations = 4766
+
+1. Scalable algorithms for molecular dynamics simulations on commodity clusters
+Citations:1009
+Authors: KJ Bowers, DE Chow, H Xu, RO Dror, MP Eastwood, BA Gregersen, ...
+Publication: SC'06: Proceedings of the 2006 ACM/IEEE Conference on Supercomputing, 43-43
+
+2. Millisecond-scale molecular dynamics simulations on Anton
+Citations:453
+Authors: DE Shaw, RO Dror, JK Salmon, JP Grossman, KM Mackenzie, JA Bank, ...
+Publication: Proceedings of the conference on high performance computing networking …
+
+3. Approximate inverse preconditioners via sparse-sparse iterations
+Citations:312
+Authors: E Chow, Y Saad
+Publication: SIAM Journal on Scientific Computing 19 (3), 995-1023
+
+4. A scalable distributed parallel breadth-first search algorithm on BlueGene/L
+Citations:286
+Authors: A Yoo, E Chow, K Henderson, W McLendon, B Hendrickson, ...
+Publication: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 25
+
+5. Experimental study of ILU preconditioners for indefinite matrices
+Citations:274
+Authors: E Chow, Y Saad
+Publication: Journal of Computational and Applied Mathematics 86 (2), 387-414
+
+6. A priori sparsity patterns for parallel sparse approximate inverse preconditioners
+Citations:229
+Authors: E Chow
+Publication: SIAM Journal on Scientific Computing 21 (5), 1804-1822
+
+7. Efficient sparse matrix-vector multiplication on x86-based many-core processors
+Citations:200
+Authors: X Liu, M Smelyanskiy, E Chow, P Dubey
+Publication: Proceedings of the 27th international ACM conference on International …
+
+8. Mechanism of Na+/H+ antiporting
+Citations:158
+Authors: IT Arkin, H Xu, MØ Jensen, E Arbely, ER Bennett, KJ Bowers, E Chow, ...
+Publication: Science 317 (5839), 799-803
+
+9. Approximate inverse techniques for block-partitioned matrices
+Citations:151
+Authors: E Chow, Y Saad
+Publication: SIAM Journal on Scientific Computing 18 (6), 1657-1675
+
+10. Crout versions of ILU for general sparse matrices
+Citations:135
+Authors: N Li, Y Saad, E Chow
+Publication: SIAM Journal on Scientific Computing 25 (2), 716-728
+
+11. A survey of parallelization techniques for multigrid solvers
+Citations:128
+Authors: E Chow, RD Falgout, JJ Hu, RS Tuminaro, UM Yang
+Publication: Parallel processing for scientific computing, 179-201
+
+12. Parallel implementation and practical use of sparse approximate inverse preconditioners with a priori sparsity patterns
+Citations:120
+Authors: E Chow
+Publication: The International Journal of High Performance Computing Applications 15 (1 …
+
+13. Fine-grained parallel incomplete LU factorization
+Citations:96
+Authors: E Chow, A Patel
+Publication: SIAM journal on Scientific Computing 37 (2), C169-C193
+
+14. Detecting insider threats in a real corporate database of computer usage activity
+Citations:83
+Authors: E Ted, HG Goldberg, A Memory, WT Young, B Rees, R Pierce, D Huang, ...
+Publication: Proceedings of the 19th ACM SIGKDD international conference on Knowledge …
+
+15. Approximate inverse preconditioners for general sparse matrices
+Citations:70
+Authors: E Chow, Y Saad
+Publication: Res. Rep. UMSI 94 (1.01)
+
+16. Design of the hypre preconditioner library
+Citations:59
+Authors: E Chow, A Cleary, R Falgout
+Publication: Lawrence Livermore National Lab., CA (US)
+
+17. Krylov subspace methods for computing hydrodynamic interactions in Brownian dynamics simulations
+Citations:54
+Authors: T Ando, E Chow, Y Saad, J Skolnick
+Publication: The Journal of chemical physics 137 (6), 064106
+
+18. An object-oriented framework for block preconditioning
+Citations:54
+Authors: E Chow, MA Heroux
+Publication: ACM Transactions on Mathematical Software (TOMS) 24 (2), 159-183
+
+19. Knowledge Representation Issues in Semantic Graphs for Relationship Detection.
+Citations:50
+Authors: M Barthélemy, E Chow, T Eliassi-Rad
+Publication: AAAI Spring Symposium: AI Technologies for Homeland Security 3, 91-98
+
+20. Assessing performance of hybrid MPI/OpenMP programs on SMP clusters
+Citations:49
+Authors: E Chow, D Hysom
+Publication: Lawrence Livermore National Laboratory, Tech. Rep. UCRL-JC-143957
+
+21. Proceedings of the Conference on High Performance Computing, Networking, Storage and Analysis (SC09)
+Citations:48
+Authors: DE Shaw, RO Dror, JK Salmon, JP Grossman, KM Mackenzie, JA Bank, ...
+Publication: ACM
+
+22. Preconditioned Krylov subspace methods for sampling multivariate Gaussian distributions
+Citations:45
+Authors: E Chow, Y Saad
+Publication: SIAM Journal on Scientific Computing 36 (2), A588-A608
+
+23. Iterative sparse triangular solves for preconditioning
+Citations:44
+Authors: H Anzt, E Chow, J Dongarra
+Publication: European Conference on Parallel Processing, 650-661
+
+24. ILUS: an incomplete LU preconditioner in sparse skyline format
+Citations:28
+Authors: E Chow, Y Saad
+Publication: International Journal for Numerical Methods in Fluids 25 (7), 739-748
+
+25. Asynchronous iterative algorithm for computing incomplete factorizations on GPUs
+Citations:27
+Authors: E Chow, H Anzt, J Dongarra
+Publication: International Conference on High Performance Computing, 1-16
+
+26. Dynamic simulation of concentrated macromolecular solutions with screened long-range hydrodynamic interactions: Algorithm and limitations
+Citations:26
+Authors: T Ando, E Chow, J Skolnick
+Publication: The Journal of chemical physics 139 (12), 09B622_1
+
+27. Exploiting 162-nanosecond end-to-end communication latency on Anton
+Citations:26
+Authors: RO Dror, JP Grossman, KM Mackenzie, B Towles, E Chow, JK Salmon, ...
+Publication: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+28. HYPRE: High Performance Preconditioners
+Citations:25
+Authors: R Falgout, A Cleary, J Jones, E Chow, V Henson, C Baldwin, P Brown, ...
+Publication: Users Manual. Version 1
+
+29. Improving the performance of dynamical simulations via multiple right-hand sides
+Citations:23
+Authors: X Liu, E Chow, K Vaidyanathan, M Smelyanskiy
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+30. Proceedings of the ACM/IEEE Conference on Supercomputing (SC06)
+Citations:23
+Authors: KJ Bowers, E Chow, H Xu, RO Dror, MP Eastwood, BA Gregersen, ...
+Publication: Tampa, Florida, November, 11-17
+
+31. SC’06: Proceedings of the 2006 ACM
+Citations:23
+Authors: KJ Bowers, E Chow, H Xu, RO Dror, MP Eastwood, BA Gregersen, ...
+Publication: IEEE conference on Supercomputing, 84
+
+32. Sparse-dense Sylvester equations in H2-model order reduction
+Citations:22
+Authors: P Benner, M Köhler, J Saak, M Hund, J Saak, P Benner, R Herzog, ...
+Publication: Numer. Math. 1, 261-281
+
+33. Desmond performance on a cluster of multicore processors
+Citations:22
+Authors: E Chow, CA Rendleman, KJ Bowers, RO Dror, DH Hughes, J Gullingsrud, ...
+Publication: DE Shaw Research Technical Report DESRES/TR--2008-01
+
+34. A graph search heuristic for shortest distance paths
+Citations:21
+Authors: E Chow
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+35. Preserving symmetry in preconditioned Krylov subspace methods
+Citations:20
+Authors: TF Chan, E Chow, Y Saad, MC Yeung
+Publication: SIAM Journal on Scientific Computing 20 (2), 568-581
+
+36. Extending the generality of molecular dynamics simulations on a special-purpose machine
+Citations:19
+Authors: DP Scarpazza, DJ Ierardi, AK Lerer, KM Mackenzie, AC Pan, JA Bank, ...
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+37. An unstructured multigrid method based on geometric smoothness
+Citations:19
+Authors: E Chow
+Publication: Numerical linear algebra with applications 10 (5‐6), 401-421
+
+38. Multilevel block factorizations in generalized hierarchical bases
+Citations:19
+Authors: E Chow, PS Vassilevski
+Publication: Numerical linear algebra with applications 10 (1‐2), 105-127
+
+39. Parallel scalability of Hartree–Fock calculations
+Citations:18
+Authors: E Chow, X Liu, M Smelyanskiy, JR Hammond
+Publication: The Journal of chemical physics 142 (10), 104103
+
+40. Combinatorial algorithms for computing column space bases that have sparse inverses
+Citations:17
+Authors: A Pinar, E Chow, A Pothen
+Publication: Electronic Transactions on Numerical Analysis 22, 122-145
+
+41. A new scalable parallel algorithm for Fock matrix construction
+Citations:16
+Authors: X Liu, A Patel, E Chow
+Publication: 2014 IEEE 28th international parallel and distributed processing symposium …
+
+42. Robust preconditioning for sparse linear systems
+Citations:15
+Authors: E Chow
+Publication: University of Minnesota
+
+43. Updating incomplete factorization preconditioners for model order reduction
+Citations:14
+Authors: H Anzt, E Chow, J Saak, J Dongarra
+Publication: Numerical Algorithms 73 (3), 611-630
+
+44. Effects of confinement on models of intracellular macromolecular dynamics
+Citations:13
+Authors: E Chow, J Skolnick
+Publication: Proceedings of the National Academy of Sciences 112 (48), 14846-14851
+
+45. Parallel implementation and performance characteristics of least squares sparse approximate inverse preconditioners
+Citations:12
+Authors: E Chow
+Publication: Int. J. High-Perform. Comput. Appl
+
+46. Reducing communication in distributed asynchronous iterative methods
+Citations:11
+Authors: J Wolfson-Pou, E Chow
+Publication: Procedia Computer Science 80, 1906-1916
+
+47. Optimizing the computation of n-point correlations on large-scale astronomical data
+Citations:10
+Authors: WB March, K Czechowski, M Dukhan, T Benson, D Lee, AJ Connolly, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+48. Bluegene/L applications: Parallelism on a massive scale
+Citations:10
+Authors: BR De Supinski, M Schulz, VV Bulatov, W Cabot, B Chan, AW Cook, ...
+Publication: International Journal of High Performance Computing Applications 22 (1), 33-51
+
+49. Distributed breadth-first search with 2-D partitioning
+Citations:10
+Authors: E Chow, K Henderson, A Yoo
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+50. SMASH: Structured matrix approximation by separation and hierarchy
+Citations:9
+Authors: D Cai, E Chow, L Erlandson, Y Saad, Y Xi
+Publication: Numerical Linear Algebra with Applications 25 (6), e2204
+
+51. Scaling up Hartree–Fock calculations on Tianhe-2
+Citations:9
+Authors: E Chow, X Liu, S Misra, M Dukhan, M Smelyanskiy, JR Hammond, Y Du, ...
+Publication: The International Journal of High Performance Computing Applications 30 (1 …
+
+52. DNA internal motion likely accelerates protein target search in a packed nucleoid
+Citations:8
+Authors: E Chow, J Skolnick
+Publication: Biophysical journal 112 (11), 2261-2270
+
+53. Algebraic elimination of slide surface constraints in implicit structural analysis
+Citations:8
+Authors: E Chow, TA Manteuffel, C Tong, BK Wallin
+Publication: International journal for numerical methods in engineering 57 (8), 1129-1144
+
+54. Parallel Approximate Inverse Preconditioners.
+Citations:8
+Authors: E Chow, Y Saad
+Publication: PPSC
+
+55. Fault tolerant variants of the fine-grained parallel incomplete LU factorization
+Citations:7
+Authors: E Coleman, M Sosonkina, E Chow
+Publication: Proceedings of the 25th High Performance Computing Symposium, 15
+
+56. Distributed tomography with adaptive mesh refinement in sensor networks.
+Citations:7
+Authors: G Kamath, L Shi, E Chow, WZ Song
+Publication: IJSNet 23 (1), 40-52
+
+57. Batched generation of incomplete sparse approximate inverses on GPUs
+Citations:7
+Authors: H Anzt, E Chow, T Huckle, J Dongarra
+Publication: 2016 7th Workshop on Latest Advances in Scalable Algorithms for Large-Scale …
+
+58. Horizontal vectorization of electron repulsion integrals
+Citations:7
+Authors: BP Pritchard, E Chow
+Publication: Journal of computational chemistry 37 (28), 2537-2546
+
+59. Large-scale hydrodynamic Brownian simulations on multicore and manycore architectures
+Citations:7
+Authors: X Liu, E Chow
+Publication: 2014 IEEE 28th International Parallel and Distributed Processing Symposium …
+
+60. Robust kernel nonnegative matrix factorization
+Citations:7
+Authors: Z Xia, C Ding, E Chow
+Publication: 2012 IEEE 12th International Conference on Data Mining Workshops, 522-529
+
+61. Overcoming communication latency barriers in massively parallel scientific computation
+Citations:7
+Authors: R Dror, JP Grossman, K Mackenzie, B Towles, E Chow, J Salmon, ...
+Publication: IEEE Micro 31 (3), 8-19
+
+62. ParILUT---A New Parallel Threshold ILU Factorization
+Citations:6
+Authors: H Anzt, E Chow, J Dongarra
+Publication: SIAM Journal on Scientific Computing 40 (4), C503-C519
+
+63. Domain overlap for iterative sparse triangular solves on GPUs
+Citations:6
+Authors: H Anzt, E Chow, DB Szyld, J Dongarra
+Publication: Software for Exascale Computing-SPPEXA 2013-2015, 527-545
+
+64. An aggregation multilevel method using smooth error vectors
+Citations:6
+Authors: E Chow
+Publication: SIAM Journal on Scientific Computing 27 (5), 1727-1741
+
+65. Distributed Southwell: an iterative method with low communication costs
+Citations:5
+Authors: J Wolfson-Pou, E Chow
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+66. Convergence models and surprising results for the asynchronous Jacobi method
+Citations:4
+Authors: E Chow
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+67. Asynchronous Decentralized Framework for Unit Commitment in Power Systems
+Citations:4
+Authors: P Ramanan, M Yildirim, E Chow, N Gebraeel
+Publication: Procedia Computer Science 108, 665-674
+
+68. On block-asynchronous execution on GPUs
+Citations:4
+Authors: H Anzt, E Chow, J Dongarra
+Publication: LAPACK Working Note, Tech. Rep., 291
+
+69. Dtree: Dynamic task scheduling at petascale
+Citations:4
+Authors: K Pamnany, S Misra, V Md, X Liu, E Chow, S Aluru
+Publication: International Conference on High Performance Computing, 122-138
+
+70. Iterative exchange communication
+Citations:4
+Authors: E Chow
+Publication: US Patent 8,473,966
+
+71. Characterizing application runtime behavior from system logs and metrics
+Citations:4
+Authors: R Gunasekaran, D Dillow, G Shipman, R Vuduc, E Chow
+Publication: Proceedings of the Characterizing Applications for Heterogeneous Exascale …
+
+72. Using ontological information to accelerate path-finding in large semantic graphs: A probabilistic approach
+Citations:3
+Authors: T Eliassi-Rad, E Chow
+Publication: American Association for Artificial Intelligence
+
+73. Hypre
+Citations:3
+Authors: R Falgout, A Cleary, J Jones, E Chow, V Henson, C Baldwin, P Brown, ...
+Publication: Technical report, Lawrence-Livermore National Laboratory
+
+74. Block preconditioning toolkit
+Citations:3
+Authors: E Chow, MA Heroux
+Publication: UMSI research report/University of Minnesota (Minneapolis, Mn …
+
+75. An efficient method for block low-rank approximations for kernel matrix systems
+Citations:2
+Authors: X Xing, E Chow
+Publication: arXiv preprint arXiv:1811.04134
+
+76. Using jacobi iterations and blocking for solving sparse triangular systems in incomplete factorization preconditioning
+Citations:2
+Authors: E Chow, H Anzt, J Scott, J Dongarra
+Publication: Journal of Parallel and Distributed Computing 119, 219-230
+
+77. Preserving positive definiteness in hierarchically semiseparable matrix approximations
+Citations:2
+Authors: X Xing, E Chow
+Publication: SIAM Journal on Matrix Analysis and Applications 39 (2), 829-855
+
+78. Distributed multigrid technique for seismic tomography in sensor networks
+Citations:2
+Authors: G Kamath, L Shi, E Chow, WZ Song
+Publication: International Conference on Big Data Computing and Communications, 297-310
+
+79. Efficient particle-mesh spreading on gpus
+Citations:2
+Authors: X Guo, X Liu, P Xu, Z Du, E Chow
+Publication: Procedia Computer Science 51, 120-129
+
+80. A Newton-Schulz Variant for Improving the Initial Convergence in Matrix Sign Computation
+Citations:2
+Authors: J Chen, E Chow
+Publication: Preprint ANL/MCS-P5059-0114, Mathematics and Computer Science Division …
+
+81. Preconditioning techniques for sparse linear systems
+Citations:2
+Authors: M Ferronato, E Chow, KK Phoon
+Publication: Journal of Applied Mathematics 2012
+
+82. 9.6 New Technologies for Molecular Dynamics Simulations
+Citations:2
+Authors: E Chow, JL Klepeis, CA Rendleman, RO Dror, DE Shaw
+Publication: Elsevier
+
+83. Plotting satellite antenna radiation patterns
+Citations:2
+Authors: E Chow
+Publication: IEEE Antennas and Propagation Magazine 33 (4), 18-20
+
+84. Modeling the asynchronous Jacobi method without communication delays
+Citations:1
+Authors: J Wolfson-Pou, E Chow
+Publication: Journal of Parallel and Distributed Computing 128, 84-98
+
+85. A stable scaling of Newton-Schulz for improving the sign function computation of a Hermitian matrix
+Citations:1
+Authors: J Chen, E CHOW
+Publication: 
+
+86. A survey of incomplete factorization preconditioners
+Citations:1
+Authors: E Chow
+Publication: Proc. PIMS Workshop Numerical Linear Algebra and Applications
+
+87. Algebraic elimination of slide surface constraints in implicit structural analysis
+Citations:1
+Authors: E Chow, TA Manteuffel, C Tong, BK Wallin
+Publication: Int. J. Numer. Meth. Engng 1, 1-21
+
+88. Design of the ÝÔÖ preconditioner library
+Citations:1
+Authors: E Chow, AJ Cleary, RD Falgout
+Publication: Proc. of the sIAM Workshop on Object Oriented Methods for Inter-operable …
+
+89. Performance of asynchronous optimized Schwarz with one-sided communication
+Citations:
+Authors: I Yamazaki, E Chow, A Bouteiller, J Dongarra
+Publication: Parallel Computing 86, 66-81
+
+90. Preconditioning for Fast Solves in Gaussian Processes Accelerated by Hierarchical Matrices
+Citations:
+Authors: L Erlandson, AM Estrada, D Cai, Y Xi, K Paynabar, E Chow
+Publication: 
+
+91. Asynchronous Multigrid Methods
+Citations:
+Authors: J Wolfson-Pou, E Chow
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+92. Overlapping Communications with Other Communications and Its Application to Distributed Dense Matrix Computations
+Citations:
+Authors: H Huang, E Chow
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+93. ParILUT-A Parallel Threshold ILU for GPUs
+Citations:
+Authors: H Anzt, T Ribizel, G Flegar, E Chow, J Dongarra
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+94. An Asynchronous, Decentralized Solution Framework for the Large Scale Unit Commitment Problem
+Citations:
+Authors: P Ramanan, M Yildirim, E Chow, N Gebraeel
+Publication: IEEE Transactions on Power Systems
+
+95. Accelerating quantum chemistry with vectorized and batched integrals
+Citations:
+Authors: H Huang, E Chow
+Publication: SC18: International Conference for High Performance Computing, Networking …
+
+96. Error analysis of an accelerated interpolative decomposition for 3D Laplace problems
+Citations:
+Authors: X Xing, E Chow
+Publication: arXiv preprint arXiv:1811.00131
+
+97. Asynchronous One-Level and Two-Level Domain Decomposition Solvers
+Citations:
+Authors: C Glusa, P Ramanan, EG Boman, E Chow, S Rajamanickam
+Publication: arXiv preprint arXiv:1808.08172
+
+98. Scalable and resilient sparse linear solvers
+Citations:
+Authors: RW Vuduc, XS Li, H Park, E Chow, HM Zhou, U Catalayurek
+Publication: Georgia Institute of Technology
+
+99. Strong parallel scaling for sparsity-screened density-fitted integrals on Knights Landing
+Citations:
+Authors: M Schieber, D Smith, E Chow, C Sherrill
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255
+
+100. Vectorization and high performance quantum chemistry software
+Citations:
+Authors: E Chow, B Pritchard
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255
+
+101. A Coarse-Grained Simulation Study of the Effect of Salt Concentration on DNA Internal Motions
+Citations:
+Authors: B Ma, E Chow
+Publication: Biophysical Journal 114 (3), 89a
+
+102. Massive Asynchronous Parallelization of Sparse Matrix Factorizations
+Citations:
+Authors: E Chow
+Publication: Georgia Inst. of Technology, Atlanta, GA (United States)
+
+103. Asynchronous Iterative Solvers: The ACHILES library and domain decomposition methods.
+Citations:
+Authors: EG Boman, S Rajamanickam, CA Glusa, E Chow, P Ramanan
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+104. SIAM Education Subcommittee Report on Undergraduate Degree Programs in Applied Mathematics
+Citations:
+Authors: R Levy, E Chow, B Kwon, K Socha, M McCarthy, PR Turner
+Publication: SIAM Review 59 (1), 199-204
+
+105. FastILU: Finegrained ASynchronous iterative ILU.
+Citations:
+Authors: EG Boman, A Patel, E Chow, S Rajamanickam
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+106. Decentralized multigrid for in-situ big data computing
+Citations:
+Authors: G Kamath, L Shi, E Chow, W Song, J Yang
+Publication: Tsinghua Science and Technology 20 (6), 545-559
+
+107. ShyLU and Thread Scalable Subdomain Solvers.
+Citations:
+Authors: S Rajamanickam, EG Boman, AM Bradley, JD Booth, M Deveci, K Kim, ...
+Publication: Sandia National Lab.(SNL-NM), Albuquerque, NM (United States)
+
+108. Toward quantum chemistry on millions of cores
+Citations:
+Authors: E Chow
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 248
+
+109. Large-scale Hydrodynamic Brownian Simulations on Multicore and GPU Architectures
+Citations:
+Authors: MG Lopez, MD Horton, E Chow
+Publication: Proceedings of the 2014 Annual Conference on Extreme Science and Engineering …
+
+110. 3P270 Krylov subspace methods for computing correlated Brownian noise vectors in Brownian dynamics simulations with hydrodynamic interactions (24. Mathematical biology, Poster)
+Citations:
+Authors: T Ando, E Chow, Y Saad, J Skolnick
+Publication: Seibutsu Butsuri 53 (supplement1-2), S256
+
+111. Preconditioned methods for sampling multivariate gaussian distributions
+Citations:
+Authors: E Chow, Y Saad
+Publication: Householder Symposium XIX June 8-13, Spa Belgium, 45
+
+112. 3P270 Krylov 部分空間法による相関したブラウンノイズの計算 (24. 数理生物学, ポスター, 日本生物物理学会年会第 51 回 (2013 年度))
+Citations:
+Authors: T Ando, E Chow, Y Saad, J Skolnick
+Publication: 生物物理 53 (1), S256
+
+113. 4 Guest Editors’ Introduction: Systems for Very Large-Scale Computing Natalie Enright Jerger and Mikko Lipasti 8 Overcoming Communication Latency Barriers in Massively Parallel …
+Citations:
+Authors: RO Dror, JP Grossman, KM Mackenzie, B Towles, E Chow, JK Salmon, ...
+Publication: 
+
+114. COMP 114-Novel algorithms enabling practical microsecond-scale molecular dynamics simulations
+Citations:
+Authors: KJ Bowers, E Chow, RO Dror, MP Eastwood, BA Gregersen, J Gullingsrud, ...
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 235
+
+115. Mechanism of Naâ º/Hâ º Antiporting
+Citations:
+Authors: IT Arkin, E Arbely, ER Bennett, KJ Bowers, E Chow, RO Dror, ...
+Publication: Science
+
+116. Scalable algorithms for semantic graph analysis.
+Citations:
+Authors: WC McLendon III, T Eliassi-Rad, K Henderson, A Yoo, E Chow, ...
+Publication: Sandia National Laboratories
+
+117. Parallel implementation and practical use of sparse approximate inverses with a priori sparsity patterns
+Citations:
+Authors: E CHOW
+Publication: Int. J. High Perf. Comput. Appl. 10, 385-400
+
+118. Preserving Sym m etry in Preconditioned Krylov
+Citations:
+Authors: M Subspace, TF Chan, E Chow, Y Saad, MC Yeung
+Publication: 
+
+119. Tools and Libraries for Parallel Sparse Matrix Computations
+Citations:
+Authors: E Chow, Y Saad
+Publication: 
+
+120. Biswas, Swarnendu 1095 Blaiszik, Ben 283 Bohm Agostini, Nicolas 664
+Citations:
+Authors: P Abad, A Abdelfattah, A Afsahi, U Agarwal, L Aghababaie Beni, ...
+Publication: 
+
+121. An HSS Preconditioner for Evolving Kernel Matrix Systems
+Citations:
+Authors: X Xing, E Chow
+Publication: 
+
+122. 2009 SC Conference on High Performance Computing Networking, Storage and Analysis (2009)
+Citations:
+Authors: A Musa, R Egawa, K Itakura, H Takizawa, K Okabe, H Kobayashi
+Publication: 
+
+123. Multilevel Eigenvalue Methods for Feature Extraction in Very Large-scale Unstructured Data
+Citations:
+Authors: ZB PI, D Gusfield, E Chow, P Eltgroth
+Publication: Center for Appl. Scientific Computing Center for Appl. Scientific Computing …
+
+124. Algorithm Design and Parallelism
+Citations:
+Authors: U Catalyurek, E Chow, P Fatourou, A Kalyanaraman, S Ranka, A Sarje, ...
+Publication: 
+
+125. MATLAB in Numerical Linear Algebra Research
+Citations:
+Authors: E Chow
+Publication: 
+
+126. Fine-Grained Parallel Incomplete Factorization Preconditioning
+Citations:
+Authors: E Chow
+Publication: 
+
+127. Krylov subspace methods for computing hydrodynamic interactions in Brownian dynamics
+Citations:
+Authors: T Ando, E Chow, Y Saad, J Skolnick
+Publication: 
+
+128. The Eighth Workshop on Solving Irregularly Structured Problems in Parallel
+Citations:
+Authors: EG Ng, P Amestoy, I d'Electronique, S Chatterjee, E Chow, T Davis, ...
+Publication: 
+
+129. Cluster 2016 Technical Program Committee
+Citations:
+Authors: W Bangerth, C Bekas, C Burstedde, X Cai, C Calvin, E Chow, K Devine, ...
+Publication: 
+
+130. SC12 Technical Papers Committee
+Citations:
+Authors: P Raghavan, J Vetter, E Chow, M Adams, P Arbenz, C Bekas, J Berry, ...
+Publication: 
+
+131. An Object-Oriented Framework for
+Citations:
+Authors: E Chow, MA Heroux
+Publication: 
+

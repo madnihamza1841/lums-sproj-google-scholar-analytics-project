@@ -1,0 +1,823 @@
+https://scholar.google.com/citations?hl=en&user=w55j5-8AAAAJ
+Total Citations = 1865
+
+1. HIDE: an infrastructure for efficiently protecting information leakage on the address bus
+Citations:194
+Authors: X Zhuang, T Zhang, S Pande
+Publication: ACM SIGPLAN Notices 39 (11), 72-84
+
+2. Optimizing static power dissipation by functional units in superscalar processors
+Citations:122
+Authors: S Rele, S Pande, S Onder, R Gupta
+Publication: International Conference on Compiler Construction, 261-275
+
+3. Hardware assisted control flow obfuscation for embedded processors
+Citations:93
+Authors: X Zhuang, T Zhang, HHS Lee, S Pande
+Publication: Proceedings of the 2004 international conference on Compilers, architecture …
+
+4. Storage assignment optimizations to generate compact and efficient code on embedded DSPs
+Citations:84
+Authors: A Rao, S Pande
+Publication: ACM SIGPLAN Notices 34 (5), 128-138
+
+5. Anomalous path detection with hardware support
+Citations:81
+Authors: T Zhang, X Zhuang, S Pande, W Lee
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+6. A scalable scheduling scheme for functional parallelism on distributed memory multiprocessor systems
+Citations:64
+Authors: S Pande, DP Agrawal, J Mauney
+Publication: IEEE transactions on parallel and distributed systems 6 (4), 388-399
+
+7. Brainy: effective selection of data structures
+Citations:56
+Authors: C Jung, S Rus, BP Railing, N Clark, S Pande
+Publication: ACM SIGPLAN Notices 46 (6), 86-97
+
+8. Compilation techniques for parallel systems
+Citations:51
+Authors: R Gupta, S Pande, K Psarris, V Sarkar
+Publication: Parallel Computing 25 (13-14), 1741-1783
+
+9. Storage assignment optimizations through variable coalescence for embedded processors
+Citations:43
+Authors: X Zhuang, CS Lau, S Pande
+Publication: ACM SIGPLAN Notices 38 (7), 220-231
+
+10. Work stealing for multi-core HPC clusters
+Citations:34
+Authors: K Ravichandran, S Lee, S Pande
+Publication: European Conference on Parallel Processing, 205-217
+
+11. Method for Opportunistic Computing
+Citations:33
+Authors: S Pande, RE Cledat, T Kumar, J Sreeram
+Publication: US Patent App. 11/759,200
+
+12. Performance prediction of large-scale parallel discrete event models of physical systems
+Citations:31
+Authors: KS Perumalla, RM Fujimoto, PJ Thakare, S Pande, H Karimabadi, ...
+Publication: Proceedings of the 37th conference on Winter simulation, 356-364
+
+13. Automated memory leak detection for production use
+Citations:27
+Authors: C Jung, S Lee, E Raman, S Pande
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+14. Resolving register bank conflicts for a network processor
+Citations:27
+Authors: X Zhuang, S Pande
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+15. Service morphing: Integrated system-and application-level service adaptation in autonomic systems
+Citations:25
+Authors: C Poellabauer, K Schwan, S Agarwala, A Gavrilovska, G Eisenhauer, ...
+Publication: 2003 Autonomic Computing Workshop, 93-102
+
+16. A scalable priority queue architecture for high speed network processing
+Citations:24
+Authors: X Zhuang, S Pande
+Publication: Proceedings IEEE INFOCOM 2006. 25TH IEEE International Conference on …
+
+17. A fast assembly level reverse execution method via dynamic slicing
+Citations:22
+Authors: T Akgul, VJ Mooney III, S Pande, S Pande
+Publication: Proceedings of the 26th International Conference on Software Engineering …
+
+18. An efficient data partitioning method for limited memory embedded systems
+Citations:22
+Authors: S Anantharaman, S Pande
+Publication: Languages, Compilers, and Tools for Embedded Systems, 208-222
+
+19. A Threshold Scheduling Strategy for Sisal on Distributed-Memory Machines
+Citations:22
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: Journal of Parallel and Distributed Computing 21 (2), 223-236
+
+20. Input-driven dynamic execution prediction of streaming applications
+Citations:21
+Authors: F Aleen, M Sharif, S Pande
+Publication: ACM Sigplan Notices 45 (5), 315-324
+
+21. Compiling functional parallelism on distributed-memory systems
+Citations:21
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: IEEE Parallel & Distributed Technology: Systems & Applications 2 (1), 64-76
+
+22. Opportunistic computing: A new paradigm for scalable realism on many-cores
+Citations:20
+Authors: R Cledat, T Kumar, J Sreeram, S Pande
+Publication: First USENIX Workshop on Hot Topics in Parallelism (HotPar’09), 1-6
+
+23. Tamper-resistant whole program partitioning
+Citations:20
+Authors: T Zhang, S Pande, A Valverde
+Publication: ACM SIGPLAN Notices 38 (7), 209-219
+
+24. A new threshold scheduling strategy for Sisal programs on distributed memory systems
+Citations:20
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: Journal of Parallel and Distributed Computing 21 (2), 223-236
+
+25. Detecting memory leaks through introspective dynamic behavior modelling using machine learning
+Citations:19
+Authors: S Lee, C Jung, S Pande
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+26. Using branch correlation to identify infeasible paths for anomaly detection
+Citations:19
+Authors: X Zhuang, T Zhang, S Pande, S Pande
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+27. Efficient application migration under compiler guidance
+Citations:19
+Authors: K Zhang, S Pande
+Publication: ACM SIGPLAN Notices 40 (7), 10-20
+
+28. Optimizing on-chip memory usage through loop restructuring for embedded processors
+Citations:19
+Authors: W Tembe, S Pande
+Publication: In Proc. 9th International Conference on Compiler Construction
+
+29. Compiler optimizations for scalable parallel systems: languages, compilation techniques, and run time systems
+Citations:18
+Authors: S Pande
+Publication: Springer Science & Business Media
+
+30. F2c2-stm: Flux-based feedback-driven concurrency control for stms
+Citations:17
+Authors: K Ravichandran, S Pande
+Publication: 2014 IEEE 28th International Parallel and Distributed Processing Symposium …
+
+31. Hardware-managed register allocation for embedded processors
+Citations:17
+Authors: X Zhuang, T Zhang, S Pande
+Publication: ACM SIGPLAN Notices 39 (7), 192-201
+
+32. Balancing register allocation across threads for a multithreaded network processor
+Citations:17
+Authors: X Zhuang, S Pande
+Publication: ACM SIGPLAN Notices 39 (6), 289-300
+
+33. Method partitioning-runtime customization of pervasive programs without design-time application knowledge
+Citations:17
+Authors: D Zhou, S Pande, K Schwan
+Publication: 23rd International Conference on Distributed Computing Systems, 2003 …
+
+34. Storage assignment using expression tree transformations to generate compact and efficient DSP code
+Citations:17
+Authors: A Rao, S Pande
+Publication: ACM SIGARCH Computer Architecture News 27 (1), 39-42
+
+35. Compiler optimizations for real time execution of loops on limited memory embedded systems
+Citations:17
+Authors: S Anantharaman, S Pande
+Publication: Proceedings 19th IEEE Real-Time Systems Symposium (Cat. No. 98CB36279), 154-164
+
+36. RSTM: A relaxed consistency software transactional memory for multicores
+Citations:16
+Authors: J Sreeram, R Cledat, T Kumar, S Pande
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+37. Leakage-proof program partitioning
+Citations:16
+Authors: T Zhang, S Pande, A Dos Santos, FJ Bruecklmayr
+Publication: Proceedings of the 2002 international conference on Compilers, architecture …
+
+38. A framework for parallelizing load/stores on embedded processors
+Citations:16
+Authors: X Zhuang, S Pande, JS Greenland
+Publication: Proceedings. International Conference on Parallel Architectures and …
+
+39. Binary translation to improve energy efficiency through post-pass register re-allocation
+Citations:15
+Authors: K Zhang, T Zhang, S Pande
+Publication: Proceedings of the 4th ACM international conference on Embedded software, 74-85
+
+40. Hardware supported anomaly detection: down to the control flow level
+Citations:15
+Authors: T Zhang, X Zhuang, S Pande, W Lee
+Publication: Georgia Institute of Technology
+
+41. Compiler optimizations for Java aglets in distributed data intensive applications
+Citations:14
+Authors: A Singh, S Pande
+Publication: Proceedings of the 2002 ACM symposium on Applied computing, 87-92
+
+42. DeSTM: harnessing determinism in STMs for application development
+Citations:13
+Authors: K Ravichandran, A Gavrilovska, S Pande
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+43. Memory protection through dynamic access control
+Citations:13
+Authors: K Zhang, T Zhang, S Pande
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+44. A framework for loop distribution on limited on-Chip memory processors
+Citations:13
+Authors: L Wang, W Tembe, S Pande
+Publication: International Conference on Compiler Construction, 141-156
+
+45. Differential register allocation
+Citations:12
+Authors: X Zhuang, S Pande
+Publication: ACM SIGPLAN Notices 40 (6), 168-179
+
+46. Compiler scheduling of mobile agents for minimizing overheads
+Citations:12
+Authors: X Zhuang, S Pande
+Publication: 23rd International Conference on Distributed Computing Systems, 2003 …
+
+47. A compile time partitioning method for DOALL loops on distributed memory systems
+Citations:12
+Authors: S Pande
+Publication: Proceedings of the 1996 ICPP Workshop on Challenges for Parallel Processing …
+
+48. Using ellipsoidal domains to analyze control systems software
+Citations:11
+Authors: F Alegre, E Feron, S Pande
+Publication: arXiv preprint arXiv:0909.1977
+
+49. Building intrusion-tolerant secure software
+Citations:11
+Authors: T Zhang, X Zhuang, S Pande
+Publication: International Symposium on Code Generation and Optimization, 255-266
+
+50. Exploiting approximate value locality for data synchronization on multi-core processors
+Citations:10
+Authors: J Sreeram, S Pande
+Publication: IEEE International Symposium on Workload Characterization (IISWC'10), 1-10
+
+51. Minimizing downtime in seamless migrations of mobile applications
+Citations:10
+Authors: K Zhang, S Pande
+Publication: ACM SIGPLAN Notices 41 (7), 12-21
+
+52. HIDE: Hardware-support for leakage-immune dynamic execution
+Citations:10
+Authors: X Zhuang, T Zhang, S Pande, HHS Lee
+Publication: Georgia Institute of Technology
+
+53. Pimico: Privacy preservation via migration in collaborative mobile clouds
+Citations:9
+Authors: K Ravichandran, A Gavrilovska, S Pande
+Publication: 2015 48th Hawaii International Conference on System Sciences, 5341-5351
+
+54. Dynamic program analysis algorithms to assist parallelization
+Citations:9
+Authors: M Kim
+Publication: Georgia Institute of Technology
+
+55. Leveraging data-structure semantics for efficient algorithmic parallelism
+Citations:9
+Authors: R Cledat, K Ravichandran, S Pande
+Publication: Proceedings of the 8th ACM International Conference on Computing Frontiers, 28
+
+56. Systems, methods and computer program products for leakage-proof program partitioning
+Citations:9
+Authors: S Pande, T Zhang, A Dos Santos, FJ Bruecklmayr
+Publication: US Patent 7,269,671
+
+57. An efficient frequency scaling approach for energy-aware embedded real-time systems
+Citations:9
+Authors: C Poellabauer, T Zhang, S Pande, K Schwan
+Publication: International Conference on Architecture of Computing Systems, 207-221
+
+58. Optimal task scheduling to minimize inter-tile latencies
+Citations:9
+Authors: F Rastello, A Rao, S Pande
+Publication: Proceedings. 1998 International Conference on Parallel Processing (Cat. No …
+
+59. Statistically analyzing execution variance for soft real-time applications
+Citations:8
+Authors: T Kumar, R Cledat, J Sreeram, S Pande
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+60. Power-efficient prefetching for embedded processors
+Citations:8
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 6 (1), 3
+
+61. Compiler assisted dynamic management of registers for network processors
+Citations:8
+Authors: R Collins, F Alegre, X Zhuang, S Pande
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+62. A fast, memory-efficient register allocation framework for embedded systems
+Citations:8
+Authors: S Thammanur, S Pande
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 26 (6), 938-974
+
+63. A framework for enhancing code quality in limited register set embedded processors
+Citations:8
+Authors: D Bairagi, S Pande, DP Agrawal
+Publication: Languages, Compilers, and Tools for Embedded Systems, 81-95
+
+64. Code restructuring for improving real time response through code speed, size trade-offs on limited memory embedded dsps
+Citations:8
+Authors: V Jain, S Rele, S Pande, J Ramanujam
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+65. Automatic analysis of loops to exploit operator parallelism on reconfigurable systems
+Citations:8
+Authors: N Ramasubramanian, R Subramanian, S Pande
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+66. An empirical study of the I test for exact data dependence
+Citations:8
+Authors: K Psarris, S Pande
+Publication: 1994 International Conference on Parallel Processing Vol. 3 3, 92-96
+
+67. Study of abnormal haemoglobins in professional blood donors.
+Citations:8
+Authors: SR Pande, VG Mehrotra, TN Mehrotra
+Publication: Journal of the Indian Medical Association 58 (8), 283-284
+
+68. Efficiently speeding up sequential computation through the n-way programming model
+Citations:7
+Authors: RE Cledat, T Kumar, S Pande
+Publication: ACM SIGPLAN Notices 46 (10), 537-554
+
+69. A profile-driven statistical analysis framework for the design optimization of soft real-time applications
+Citations:7
+Authors: T Kumar, J Sreeram, R Cledat, S Pande
+Publication: The 6th Joint Meeting on European software engineering conference and the …
+
+70. Program repartitioning on varying communication cost parallel architectures
+Citations:7
+Authors: S Pande, K Psarris
+Publication: Journal of Parallel and Distributed Computing 33 (2), 205-213
+
+71. Multiverse: efficiently supporting distributed high-level speculation
+Citations:6
+Authors: K Ravichandran, S Pande
+Publication: ACM SIGPLAN Notices 48 (10), 533-552
+
+72. Dynamic tuning of feature set in highly variant interactive applications
+Citations:6
+Authors: T Kumar, RE Cledat, S Pande
+Publication: Proceedings of the tenth ACM international conference on Embedded software …
+
+73. Power-efficient prefetching via bit-differential offset assignment on embedded processors
+Citations:6
+Authors: X Zhuang, S Pande
+Publication: ACM SIGPLAN Notices 39 (7), 67-77
+
+74. Automatic compilation of loops to exploit operator parallelism on configurable arithmetic logic units
+Citations:6
+Authors: N Ramasubramanian, R Subramanian, S Pande
+Publication: IEEE Transactions on Parallel and Distributed Systems 13 (1), 45-66
+
+75. A fully automatic compiler for distributed memory machines
+Citations:6
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: [1993] Proceedings of the Twenty-sixth Hawaii International Conference on …
+
+76. Automatic Compiler for a Parallel Functional Language on a Distributed Memory Machine
+Citations:6
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: Technical Report, North Carolina State University, Raleigh, North Carolina, USA
+
+77. Using ellipsoidal domains to analyze control systems software. 2009
+Citations:6
+Authors: F Alegre, É Féron, S Pande
+Publication: 
+
+78. Energy efficiency via the n-way model
+Citations:5
+Authors: R Cledat, S Pande
+Publication: 
+
+79. GLIMPSES: A profiling tool for rapid spe code prototyping
+Citations:5
+Authors: J Sreeram, S Pande
+Publication: New Horizons in Compilers
+
+80. Compiler optimizations to reduce security overhead
+Citations:5
+Authors: T Zhang, X Zhuang, S Pande
+Publication: International Symposium on Code Generation and Optimization (CGO'06), 12 pp.-357
+
+81. Optimal task scheduling at run time to exploit intra-tile parallelism
+Citations:5
+Authors: F Rastello, A Rao, S Pande
+Publication: Parallel Computing 29 (2), 209-239
+
+82. Infofabric: Adaptive Services in Distributed Embedded Systems
+Citations:5
+Authors: K Schwan, C Poellabauer, G Eisenhauer, S Pande, C Pu
+Publication: IEEE Workshop on Large Scale Real-Time and Embedded Systems (in conjunction …
+
+83. Code restructuring for improving execution efficiency, code size and power consumption for embedded DSPs
+Citations:5
+Authors: V Jain, S Rele, S Pande, J Ramanujam
+Publication: 12th International Workshop on Languages and Compilers for Parallel Computing
+
+84. A robust compile time method for scheduling task parallelism on distributed memory machines
+Citations:5
+Authors: S Darbha, S Pande
+Publication: The Journal of Supercomputing 12 (4), 325-347
+
+85. Compiler assisted load balancing on large clusters
+Citations:4
+Authors: V Deodhar, H Parikh, A Gavrilovska, S Pande
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+86. Discovering optimistic data-structure oriented parallelism
+Citations:4
+Authors: R Cledat, S Pande
+Publication: 3rd USENIX Workshop on Hot Topics in Parallelism (HotPar’12)
+
+87. Parallelizing a real-time physics engine using transactional memory
+Citations:4
+Authors: J Sreeram, S Pande
+Publication: European Conference on Parallel Processing, 206-223
+
+88. Loop restructuring for data I/O minimization on limited on-chip memory embedded processors
+Citations:4
+Authors: W Tembe, S Pande
+Publication: IEEE Transactions on Computers 51 (10), 1269-1280
+
+89. Special Issue on Compilation Techniques for Distributed Memory Systems. Guest Editors' Introduction
+Citations:4
+Authors: S Pande, DP Agrawal
+Publication: Journal of Parallel and Distributed Computing 38 (2), 107-113
+
+90. A message segmentation technique to minimize task completion time
+Citations:4
+Authors: S Kim, SS Pande, DP Agrawal, J Mauney
+Publication: [1991] Proceedings. The Fifth International Parallel Processing Symposium …
+
+91. LADR: Low-cost application-level detector for reducing silent output corruptions
+Citations:3
+Authors: C Chen, G Eisenhauer, M Wolf, S Pande
+Publication: Proceedings of the 27th International Symposium on High-Performance Parallel …
+
+92. Efficient distributed workstealing via matchmaking
+Citations:3
+Authors: H Parikh, V Deodhar, A Gavrilovska, S Pande
+Publication: ACM SIGPLAN Notices 51 (8), 37
+
+93. Collaborative threads: exposing and leveraging dynamic thread state for efficient computation
+Citations:3
+Authors: K Ravichandran, R Cledat, S Pande
+Publication: Proceedings of the 2nd USENIX conference on Hot topics in parallelism, 4-4
+
+94. Allocating architected registers through differential encoding
+Citations:3
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 29 (2), 9
+
+95. Compact and efficient code generation through program restructuring on limited memory embedded DSPs
+Citations:3
+Authors: S Rele, V Jain, S Pande, J Ramanujam
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+96. A computation+ communication load balanced loop partitioning method for distributed memory systems
+Citations:3
+Authors: S Pande, T Bali
+Publication: Journal of Parallel and Distributed Computing 58 (3), 515-545
+
+97. A framework for performance-based program partitioning
+Citations:3
+Authors: R Subramanian, S Pande
+Publication: Parallel and Distributed Computing Practices 1 (4)
+
+98. Palm: an integrated parallelism enhancement environment with static-dynamic scheduling
+Citations:3
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: Proceedings of the Twenty-Fifth Hawaii International Conference on System …
+
+99. Parallelizing load/stores on dual-bank memory embedded processors
+Citations:2
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 5 (3), 613-657
+
+100. Static techniques to improve power efficiency of branch predictors
+Citations:2
+Authors: T Zhang, W Shi, S Pande
+Publication: International Conference on High-Performance Computing, 274-285
+
+101. Efficient program partitioning based on compiler controlled communication
+Citations:2
+Authors: R Subramanian, S Pande
+Publication: International Parallel Processing Symposium, 4-18
+
+102. Classical dependence analysis techniques: sufficiently accurate in practice
+Citations:2
+Authors: K Psarris, S Pande
+Publication: Proceedings of the Twenty-Eighth Annual Hawaii International Conference on …
+
+103. CARVE: Practical security-focused software debloating using simple feature set mappings
+Citations:1
+Authors: MD Brown, S Pande
+Publication: arXiv preprint arXiv:1907.02180
+
+104. Is Less Really More? Why Reducing Code Reuse Gadget Counts via Software Debloating Doesn't Necessarily Lead to Better Security
+Citations:1
+Authors: MD Brown, S Pande
+Publication: arXiv preprint arXiv:1902.10880
+
+105. Is less really more? towards better metrics for measuring security improvements realized through software debloating
+Citations:1
+Authors: MD Brown, S Pande
+Publication: 12th {USENIX} Workshop on Cyber Security Experimentation and Test ({CSET} 19)
+
+106. Hybrid transactions: Lock allocation and assignment for irrevocability
+Citations:1
+Authors: J Sreeram, S Pande
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+107. Compiler-Supported Thread Management for Multithreaded Network Processors
+Citations:1
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 10 (4), 44
+
+108. An optimization framework for embedded processors with auto-addressing mode
+Citations:1
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 32 (4), 11
+
+109. Proving Correctness of Autocoded Control Software
+Citations:1
+Authors: F Alegre, R Valenzuela, E Feron, S Pande
+Publication: AIAA Modeling and Simulation Technologies Conference and Exhibit, 6885
+
+110. Effective thread management on network processors with compiler analysis
+Citations:1
+Authors: X Zhuang, S Pande
+Publication: ACM SIGPLAN Notices 41 (7), 72-82
+
+111. Static techniques to improve power efficiency of branch predictors
+Citations:1
+Authors: W Shi, T Zhang, S Pande
+Publication: Asia-Pacific Conference on Advances in Computer Systems Architecture, 385-398
+
+112. Special issue on Compiling for scalable parallel systems
+Citations:1
+Authors: S Pande, J Ramanujam, Y Robert
+Publication: 
+
+113. Effect of variation in compile time costs on scheduling tasks on distributed memory systems
+Citations:1
+Authors: S Darbha, S Pande
+Publication: Proceedings of 6th Symposium on the Frontiers of Massively Parallel …
+
+114. Run‐time issues in program partitioning on distributed memory systems
+Citations:1
+Authors: S Pande, DP Agrawal
+Publication: Concurrency: Practice and Experience 7 (5), 429-454
+
+115. A compilation technique for varying communication cost NUMA architectures
+Citations:1
+Authors: S Pande, K Psarris
+Publication: International Conference on Parallel Architectures and Languages Europe, 49-60
+
+116. Characterizing Dominant Program Behavior Using the Execution-Time Variance of the Call Structure
+Citations:
+Authors: T Kumar, K Ni, S Pande
+Publication: 2019 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS …
+
+117. Binary Debloating for Security via Demand Driven Loading
+Citations:
+Authors: G Mururu, C Porter, P Barua, S Pande
+Publication: arXiv preprint arXiv:1902.06570
+
+118. Quantifying and reducing execution variance in STM via model driven commit optimization
+Citations:
+Authors: G Mururu, A Gavrilovska, S Pande
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+119. Safe compiler-driven transaction checkpointing and recovery
+Citations:
+Authors: J Sreeram, S Pande
+Publication: ACM SIGPLAN Notices 47 (10), 41-56
+
+120. Enriching 3-D Video Games on Multicores
+Citations:
+Authors: R Cledat, T Kumar, J Sreeram, S Pande
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 176-187
+
+121. Article 44 (31 pages)-Compiler-Supported Thread Management for Multithreaded Network Processors
+Citations:
+Authors: X Zhuang, S Pande
+Publication: ACM Transactions on Embedded Computer Systems 10 (4)
+
+122. CT-ISG: Intrusion tolerant software: Achieving confidentiality, availability, and integrity simultaneously
+Citations:
+Authors: S Pande, K Zhang
+Publication: Georgia Institute of Technology
+
+123. Dominant Variance Characterization
+Citations:
+Authors: T Kumar, S Pande
+Publication: Georgia Institute of Technology
+
+124. Collaborative research: ITR: global multi-scale kinetic simulations of the earth's magnetosphere using parallel discrete event simulation
+Citations:
+Authors: RM Fujimoto, S Pande, K Perumalla, Y Omelchenko, J Driscoll
+Publication: Georgia Institute of Technology
+
+125. Languages, compilers, and tools for embedded systems
+Citations:
+Authors: Z Li, S Pande
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 8 (4), 25
+
+126. Special Section on Languages, Compilers, and Tools for Embedded Systems-Article 25
+Citations:
+Authors: Z Li, S Pande
+Publication: ACM Transactions on Embedded Computer Systems 8 (4)
+
+127. ITR: collaborative research: morphable software services: self-modifying programs for distributed embedded systems
+Citations:
+Authors: K Schwan, C Pu, S Pande, GS Eisenhauer, TR Balch
+Publication: Georgia Institute of Technology
+
+128. Proceedings of the 2007 ACM SIGPLAN-SIGBED conference on languages, compilers, and tools-Foreword
+Citations:
+Authors: S Pande, Z Li
+Publication: ACM SIGPLAN NOTICES 42 (7), CP3-CP3
+
+129. Secure Processing On-Chip
+Citations:
+Authors: HH Lee, S Pande
+Publication: GEORGIA INST OF TECH ATLANTA SCHOOL OF ELECTRICAL AND COMPUTER ENGINEERING
+
+130. Virtual Simulator: An infrastructure for design and performance-prediction of massively parallel codes
+Citations:
+Authors: K Perumalla, R Fujimoto, S Pande, H Karimabadi, J Driscoll, ...
+Publication: AGU Fall Meeting Abstracts
+
+131. ME KM, NM Steiger. FB Armstrong, andJ. A. Joines, eds.
+Citations:
+Authors: RM Fujimoto, PJ Thakare, S Pande, Y Omelchenko, J Driscoll
+Publication: Proceedings of the 2005 Winter Simulation Conference
+
+132. Hardware supported optimization
+Citations:
+Authors: S Pande
+Publication: Language, Compiler and Tool Support for Embedded Systems: Proceedings of the …
+
+133. Optimizing dynamic dispatches through type invariant region analysis
+Citations:
+Authors: M Leair, S Pande
+Publication: International Conference on High-Performance Computing, 459-468
+
+134. Power-Adaptive Microarchitecture and Compiler Design for Mobile Computing
+Citations:
+Authors: R Gupta, S Pande, S Onder
+Publication: ARIZONA UNIV TUCSON DEPT OF COMPUTER SCIENCE
+
+135. Efficiency of compressed code
+Citations:
+Authors: S Pande
+Publication: Language, Compiler and Tool Support for Embedded Systems: Proceedings of the …
+
+136. Code optimization II
+Citations:
+Authors: S Pande
+Publication: Conference on Programming Language Design and Implementation: Proceedings of …
+
+137. Optimizing Dynamic Producer/Consumer Style Applications in Embedded Environments
+Citations:
+Authors: D Zhou, S Pande, K Schwan
+Publication: Georgia Institute of Technology
+
+138. A data re-use based compiler optimization for FPGAs
+Citations:
+Authors: R Subramanian, S Pande
+Publication: International Conference on Field Programmable Logic and Applications, 648-652
+
+139. The 2001 ACM SIGPLAN Workshop on Languages, Compilers, and Tools for Embedded Systems (LCTES 2001)
+Citations:
+Authors: SS Hong, S Pande
+Publication: ACM SIGPLAN NOTICES 36 (8), IV-VI
+
+140. A Compilation Method for Communication-Efficient Partitioning of DOALL Loops
+Citations:
+Authors: S Pande, T Bali
+Publication: Compiler optimizations for scalable parallel systems, 413-443
+
+141. Compiler based scheduling of Java Mobile agents
+Citations:
+Authors: S Narasimhan, S Pande
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+142. A framework for efficient register allocation through selective register demotion
+Citations:
+Authors: D Bairagi, S Pande, DP Agrawal
+Publication: International Workshop on Languages, Compilers, and Run-Time Systems for …
+
+143. Posters-Code Restructuring for Improving Real Time Response through Code Speed, Size Trade-offs on Limited Memory Embedded DSPs
+Citations:
+Authors: V Jain, S Rele, S Pande, J Ramanujam
+Publication: Lecture Notes in Computer Science 1863, 459-463
+
+144. Data I/O minimization for loops on limited onchip memory processors
+Citations:
+Authors: L Wang, S Pande
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+145. Article ID jpdc. 1999.1588, available online at http: ย ย www. idealibrary. com on
+Citations:
+Authors: DA Bader, T Bali, P Banerjee, K Blathras, L Boxer, H Casanova, AA Chien, ...
+Publication: Journal of Parallel and Distributed Computing 58, 548
+
+146. Task Ordering in Linear Tiles.
+Citations:
+Authors: F Rastello, A Rao, S Pande
+Publication: 
+
+147. Solving Tiling Using Optimal Permutations
+Citations:
+Authors: F Rastello, S Pande
+Publication: 
+
+148. A multiphase partitioner and scheduler for distributed memory systems
+Citations:
+Authors: S Pande, T Bali
+Publication: Proceedings of HICSS-29: 29th Hawaii International Conference on System …
+
+149. A communication+ computation load balanced loop partitioning method
+Citations:
+Authors: S Pande
+Publication: Proceedings. Seventh IEEE Symposium on Parallel and Distributed Processing …
+
+150. Data and Code Distribution Issues on Distributed Memory Systems
+Citations:
+Authors: S Pande
+Publication: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON PARALLEL PROCESSING, 42-49
+
+151. Compiling functional parallelism on a family of distributed memory architectures
+Citations:
+Authors: S Pande, K Psarris
+Publication: CRC Press, Inc., Boca Raton, FL (United States)
+
+152. Program Partitioning and Scheduling for Scalable Parallel Machines
+Citations:
+Authors: S Pande, K Psarris
+Publication: Proc. ICCI 94, 971-988
+
+153. A compiler for scheduling functional parallelism on distributed memory systems
+Citations:
+Authors: SS Pande
+Publication: North Carolina State University at Raleigh
+
+154. Mapping Functional Parallelism On Distributed Memory Machines
+Citations:
+Authors: SS Pande, DP Agrawal, J Mauney
+Publication: Christopher Frerking Patrick J. Miller, 139
+
+155. Appeared in The 19th IEEE Real-Time Systems Symposium (RTSS'98) Madrid, Spain. Preliminary version appeared in 1998 ACM SIGPLAN Workshop on Languages, Compilers and Tools for …
+Citations:
+Authors: S Anantharamany, S Pande
+Publication: 
+
+156. Matchmaking: A Solution Path for Workstealing at Scale for Irregular Applications
+Citations:
+Authors: H Parikh, V Deodhar, A Gavrilovska, S Pande
+Publication: 
+
+157. Enabling Speculative Parallelization via Merge Semantics in STMs
+Citations:
+Authors: K Ravichandran, S Pande
+Publication: 
+
+158. 39th Annual International Symposium on Microarchitecture
+Citations:
+Authors: F Mohamood, M Healy, SK Lim, HHS Lee, S Ozdemir, D Sinha, G Memik, ...
+Publication: 
+
+159. Optimizing Static Power Dissipation by Functional Units in Superscalar Processors* Siddharth Rele1, Santosh Pande2, Soner Onder3, and Rajiv Gupta4 1 Dept of ECECS, University …
+Citations:
+Authors: S Rele, S Pande, S Onder, R Gupta
+Publication: 
+
+160. Are Database-style Transactions Right for Modern Parallel Programs?
+Citations:
+Authors: J Sreeram, S Pande
+Publication: 
+
+161. Compiler Analysis for Synthesizing Mobile Agents for Thin Clients
+Citations:
+Authors: A Singh, S Pande
+Publication: 
+
+162. Linda; T-PDSMar 95 287-302
+Citations:
+Authors: R Acharya, DP Agrawal, S Pande
+Publication: 
+
+163. Efficiently Speeding up Sequential Computations with N-way parallelism
+Citations:
+Authors: R Cledat, T Kumar, S Pande
+Publication: 
+
+164. An E cient Data Partitioning Method for Limited Memory Embedded Systems?
+Citations:
+Authors: S Anantharaman, S Pande
+Publication: Languages, Compilers, and Tools for Embedded Systems, 208
+

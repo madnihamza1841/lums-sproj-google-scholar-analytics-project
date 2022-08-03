@@ -1,0 +1,1808 @@
+https://scholar.google.com/citations?hl=en&user=vtwH6GkAAAAJ
+Total Citations = 28261
+
+1. Apprenticeship learning via inverse reinforcement learning
+Citations:1809
+Authors: P Abbeel, AY Ng
+Publication: Proceedings of the twenty-first international conference on Machine learning, 1
+
+2. Introduction to statistical relational learning
+Citations:1488
+Authors: D Koller, N Friedman, S Džeroski, C Sutton, A McCallum, A Pfeffer, ...
+Publication: MIT press
+
+3. Trust region policy optimization
+Citations:1387
+Authors: J Schulman, S Levine, P Abbeel, M Jordan, P Moritz
+Publication: International conference on machine learning, 1889-1897
+
+4. End-to-end training of deep visuomotor policies
+Citations:1274
+Authors: S Levine, C Finn, T Darrell, P Abbeel
+Publication: The Journal of Machine Learning Research 17 (1), 1334-1373
+
+5. Infogan: Interpretable representation learning by information maximizing generative adversarial nets
+Citations:1210
+Authors: X Chen, Y Duan, R Houthooft, J Schulman, I Sutskever, P Abbeel
+Publication: Advances in neural information processing systems, 2172-2180
+
+6. Discriminative probabilistic models for relational data
+Citations:825
+Authors: B Taskar, P Abbeel, D Koller
+Publication: Proceedings of the Eighteenth conference on Uncertainty in artificial …
+
+7. Model-agnostic meta-learning for fast adaptation of deep networks
+Citations:782
+Authors: C Finn, P Abbeel, S Levine
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+8. Benchmarking deep reinforcement learning for continuous control
+Citations:556
+Authors: Y Duan, X Chen, R Houthooft, J Schulman, P Abbeel
+Publication: International Conference on Machine Learning, 1329-1338
+
+9. An application of reinforcement learning to aerobatic helicopter flight
+Citations:552
+Authors: P Abbeel, A Coates, M Quigley, AY Ng
+Publication: Advances in neural information processing systems, 1-8
+
+10. High-dimensional continuous control using generalized advantage estimation
+Citations:520
+Authors: J Schulman, P Moritz, S Levine, M Jordan, P Abbeel
+Publication: arXiv preprint arXiv:1506.02438
+
+11. Link prediction in relational data
+Citations:509
+Authors: B Taskar, MF Wong, P Abbeel, D Koller
+Publication: Advances in neural information processing systems, 659-666
+
+12. A survey of research on cloud robotics and automation
+Citations:470
+Authors: B Kehoe, S Patil, P Abbeel, K Goldberg
+Publication: IEEE Transactions on automation science and engineering 12 (2), 398-409
+
+13. Autonomous helicopter aerobatics through apprenticeship learning
+Citations:420
+Authors: P Abbeel, A Coates, AY Ng
+Publication: The International Journal of Robotics Research 29 (13), 1608-1639
+
+14. Efficient l~ 1 regularized logistic regression
+Citations:361
+Authors: SI Lee, H Lee, P Abbeel, AY Ng
+Publication: AAAI 6, 401-408
+
+15. Domain randomization for transferring deep neural networks from simulation to the real world
+Citations:359
+Authors: J Tobin, R Fong, A Ray, J Schneider, W Zaremba, P Abbeel
+Publication: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+16. LQG-MP: Optimized path planning for robots with motion uncertainty and imperfect state information
+Citations:347
+Authors: J Van Den Berg, P Abbeel, K Goldberg
+Publication: The International Journal of Robotics Research 30 (7), 895-913
+
+17. Multi-agent actor-critic for mixed cooperative-competitive environments
+Citations:338
+Authors: R Lowe, Y Wu, A Tamar, J Harb, OAIP Abbeel, I Mordatch
+Publication: Advances in Neural Information Processing Systems, 6379-6390
+
+18. Cloth grasp point detection based on multiple-view geometric cues with application to robotic towel folding
+Citations:306
+Authors: J Maitin-Shepard, M Cusumano-Towner, J Lei, P Abbeel
+Publication: 2010 IEEE International Conference on Robotics and Automation, 2308-2315
+
+19. Hindsight experience replay
+Citations:291
+Authors: M Andrychowicz, F Wolski, A Ray, J Schneider, R Fong, P Welinder, ...
+Publication: Advances in Neural Information Processing Systems, 5048-5058
+
+20. Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization.
+Citations:285
+Authors: J Schulman, J Ho, AX Lee, I Awwal, H Bradlow, P Abbeel
+Publication: Robotics: science and systems 9 (1), 1-10
+
+21. Motion planning with sequential convex optimization and convex collision checking
+Citations:253
+Authors: J Schulman, Y Duan, J Ho, A Lee, I Awwal, H Bradlow, J Pan, S Patil, ...
+Publication: The International Journal of Robotics Research 33 (9), 1251-1270
+
+22. Value iteration networks
+Citations:249
+Authors: A Tamar, Y Wu, G Thomas, S Levine, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 2154-2162
+
+23. Learning neural network policies with guided policy search under unknown dynamics
+Citations:247
+Authors: S Levine, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 1071-1079
+
+24. Guided cost learning: Deep inverse optimal control via policy optimization
+Citations:242
+Authors: C Finn, S Levine, P Abbeel
+Publication: International Conference on Machine Learning, 49-58
+
+25. Exploration and apprenticeship learning in reinforcement learning
+Citations:232
+Authors: P Abbeel, AY Ng
+Publication: Proceedings of the 22nd international conference on Machine learning, 1-8
+
+26. Learning for control from multiple demonstrations
+Citations:228
+Authors: A Coates, P Abbeel, AY Ng
+Publication: Proceedings of the 25th international conference on Machine learning, 144-151
+
+27. Learning the dynamics of arterial traffic from probe data using a dynamic Bayesian network
+Citations:224
+Authors: A Hofleitner, R Herring, P Abbeel, A Bayen
+Publication: IEEE Transactions on Intelligent Transportation Systems 13 (4), 1679-1693
+
+28. Combined task and motion planning through an extensible planner-independent interface layer
+Citations:220
+Authors: S Srivastava, E Fang, L Riano, R Chitnis, S Russell, P Abbeel
+Publication: 2014 IEEE international conference on robotics and automation (ICRA), 639-646
+
+29. Variational lossy autoencoder
+Citations:216
+Authors: X Chen, DP Kingma, T Salimans, Y Duan, P Dhariwal, J Schulman, ...
+Publication: arXiv preprint arXiv:1611.02731
+
+30. Learning to poke by poking: Experiential learning of intuitive physics
+Citations:211
+Authors: P Agrawal, AV Nair, P Abbeel, J Malik, S Levine
+Publication: Advances in Neural Information Processing Systems, 5074-5082
+
+31. Estimating arterial traffic conditions using sparse probe data
+Citations:207
+Authors: R Herring, A Hofleitner, P Abbeel, A Bayen
+Publication: 13th International IEEE Conference on Intelligent Transportation Systems …
+
+32. Bigbird: A large-scale 3d database of object instances
+Citations:204
+Authors: A Singh, J Sha, KS Narayan, T Achim, P Abbeel
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 509-516
+
+33. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor
+Citations:203
+Authors: T Haarnoja, A Zhou, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1801.01290
+
+34. Reinforcement learning with deep energy-based policies
+Citations:199
+Authors: T Haarnoja, H Tang, P Abbeel, S Levine
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+35. Vime: Variational information maximizing exploration
+Citations:195
+Authors: R Houthooft, X Chen, Y Duan, J Schulman, F De Turck, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 1109-1117
+
+36. One-shot imitation learning
+Citations:194
+Authors: Y Duan, M Andrychowicz, B Stadie, OAIJ Ho, J Schneider, I Sutskever, ...
+Publication: Advances in neural information processing systems, 1087-1098
+
+37. Deep spatial autoencoders for visuomotor learning
+Citations:187
+Authors: C Finn, XY Tan, Y Duan, T Darrell, S Levine, P Abbeel
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 512-519
+
+38. RL: Fast Reinforcement Learning via Slow Reinforcement Learning
+Citations:179
+Authors: Y Duan, J Schulman, X Chen, PL Bartlett, I Sutskever, P Abbeel
+Publication: arXiv preprint arXiv:1611.02779
+
+39. Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set
+Citations:173
+Authors: B Calli, A Walsman, A Singh, S Srinivasa, P Abbeel, AM Dollar
+Publication: IEEE Robotics & Automation Magazine 22 (3), 36-52
+
+40. Using inaccurate models in reinforcement learning
+Citations:171
+Authors: P Abbeel, M Quigley, AY Ng
+Publication: Proceedings of the 23rd international conference on Machine learning, 1-8
+
+41. Learning factor graphs in polynomial time and sample complexity
+Citations:166
+Authors: P Abbeel, D Koller, AY Ng
+Publication: Journal of Machine Learning Research 7 (Aug), 1743-1788
+
+42. Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search
+Citations:162
+Authors: T Zhang, G Kahn, S Levine, P Abbeel
+Publication: 2016 IEEE international conference on robotics and automation (ICRA), 528-535
+
+43. Incentivizing exploration in reinforcement learning with deep predictive models
+Citations:160
+Authors: BC Stadie, S Levine, P Abbeel
+Publication: arXiv preprint arXiv:1507.00814
+
+44. Parameter space noise for exploration
+Citations:153
+Authors: M Plappert, R Houthooft, P Dhariwal, S Sidor, RY Chen, X Chen, T Asfour, ...
+Publication: arXiv preprint arXiv:1706.01905
+
+45. Adversarial attacks on neural network policies
+Citations:152
+Authors: S Huang, N Papernot, I Goodfellow, Y Duan, P Abbeel
+Publication: arXiv preprint arXiv:1702.02284
+
+46. Superhuman performance of surgical tasks by robots using iterative learning from human-guided demonstrations
+Citations:152
+Authors: J Van Den Berg, S Miller, D Duckworth, H Hu, A Wan, XY Fu, K Goldberg, ...
+Publication: 2010 IEEE International Conference on Robotics and Automation, 2074-2081
+
+47. Gradient estimation using stochastic computation graphs
+Citations:150
+Authors: J Schulman, N Heess, T Weber, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 3528-3536
+
+48. Cooperative inverse reinforcement learning
+Citations:148
+Authors: D Hadfield-Menell, SJ Russell, P Abbeel, A Dragan
+Publication: Advances in neural information processing systems, 3909-3917
+
+49. A robot path planning framework that learns from experience
+Citations:144
+Authors: D Berenson, P Abbeel, K Goldberg
+Publication: 2012 IEEE International Conference on Robotics and Automation, 3671-3678
+
+50. Sim-to-real transfer of robotic control with dynamics randomization
+Citations:142
+Authors: XB Peng, M Andrychowicz, W Zaremba, P Abbeel
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1-8
+
+51. Emergence of grounded compositional language in multi-agent populations
+Citations:141
+Authors: I Mordatch, P Abbeel
+Publication: Thirty-Second AAAI Conference on Artificial Intelligence
+
+52. Path and travel time inference from GPS probe vehicle data
+Citations:141
+Authors: T Hunter, R Herring, P Abbeel, A Bayen
+Publication: NIPS Analyzing Networks and Learning with Graphs 12 (1), 2
+
+53. A simple neural attentive meta-learner
+Citations:136
+Authors: N Mishra, M Rohaninejad, X Chen, P Abbeel
+Publication: arXiv preprint arXiv:1707.03141
+
+54. A geometric approach to robotic laundry folding
+Citations:135
+Authors: S Miller, J Van Den Berg, M Fritz, T Darrell, K Goldberg, P Abbeel
+Publication: The International Journal of Robotics Research 31 (2), 249-267
+
+55. Hierarchical apprenticeship learning with application to quadruped locomotion
+Citations:134
+Authors: JZ Kolter, P Abbeel, AY Ng
+Publication: Advances in Neural Information Processing Systems, 769-776
+
+56. The path inference filter: model-based low-latency map matching of probe vehicle data
+Citations:131
+Authors: T Hunter, P Abbeel, A Bayen
+Publication: IEEE Transactions on Intelligent Transportation Systems 15 (2), 507-529
+
+57. A textured object recognition pipeline for color and depth image data
+Citations:129
+Authors: J Tang, S Miller, A Singh, P Abbeel
+Publication: 2012 IEEE International Conference on Robotics and Automation, 3467-3474
+
+58. # Exploration: A study of count-based exploration for deep reinforcement learning
+Citations:123
+Authors: H Tang, R Houthooft, D Foote, A Stooke, OAIX Chen, Y Duan, J Schulman, ...
+Publication: Advances in neural information processing systems, 2753-2762
+
+59. Safe exploration in Markov decision processes
+Citations:121
+Authors: TM Moldovan, P Abbeel
+Publication: arXiv preprint arXiv:1205.4810
+
+60. Discriminative Training of Kalman Filters.
+Citations:120
+Authors: P Abbeel, A Coates, M Montemerlo, AY Ng, S Thrun
+Publication: Robotics: Science and systems 2, 1
+
+61. Using mobile phones to forecast arterial traffic through statistical learning
+Citations:118
+Authors: R Herring, A Hofleitner, S Amin, T Nasr, A Khalek, P Abbeel, A Bayen
+Publication: 89th Transportation Research Board Annual Meeting, 10-14
+
+62. Max-margin classification of data with absent features
+Citations:112
+Authors: G Chechik, G Heitz, G Elidan, P Abbeel, D Koller
+Publication: Journal of Machine Learning Research 9 (Jan), 1-21
+
+63. One-shot visual imitation learning via meta-learning
+Citations:110
+Authors: C Finn, T Yu, T Zhang, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1709.04905
+
+64. Grounding spatial relations for human-robot interaction
+Citations:108
+Authors: S Guadarrama, L Riano, D Golland, D Go, Y Jia, D Klein, P Abbeel, ...
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+65. Bringing clothing into desired configurations with limited perception
+Citations:107
+Authors: M Cusumano-Towner, A Singh, S Miller, JF O'Brien, P Abbeel
+Publication: 2011 IEEE International Conference on Robotics and Automation, 3893-3900
+
+66. Constrained policy optimization
+Citations:103
+Authors: J Achiam, D Held, A Tamar, P Abbeel
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+67. Learning modular neural network policies for multi-task and multi-robot transfer
+Citations:103
+Authors: C Devin, A Gupta, T Darrell, P Abbeel, S Levine
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 2169-2176
+
+68. Learning with opponent-learning awareness
+Citations:101
+Authors: J Foerster, RY Chen, M Al-Shedivat, S Whiteson, P Abbeel, I Mordatch
+Publication: Proceedings of the 17th International Conference on Autonomous Agents and …
+
+69. Deepmimic: Example-guided deep reinforcement learning of physics-based character skills
+Citations:100
+Authors: XB Peng, P Abbeel, S Levine, M van de Panne
+Publication: ACM Transactions on Graphics (TOG) 37 (4), 143
+
+70. Apprenticeship learning for motion planning with application to parking lot navigation
+Citations:100
+Authors: P Abbeel, D Dolgov, AY Ng, S Thrun
+Publication: 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+71. Tracking deformable objects with point clouds
+Citations:99
+Authors: J Schulman, A Lee, J Ho, P Abbeel
+Publication: 2013 IEEE International Conference on Robotics and Automation, 1130-1137
+
+72. Learning vehicular dynamics, with application to modeling helicopters
+Citations:98
+Authors: P Abbeel, V Ganapathi, AY Ng
+Publication: Advances in Neural Information Processing Systems, 1-8
+
+73. Stochastic neural networks for hierarchical reinforcement learning
+Citations:96
+Authors: C Florensa, Y Duan, P Abbeel
+Publication: arXiv preprint arXiv:1704.03012
+
+74. The ycb object and model set: Towards common benchmarks for manipulation research
+Citations:95
+Authors: B Calli, A Singh, A Walsman, S Srinivasa, P Abbeel, AM Dollar
+Publication: 2015 international conference on advanced robotics (ICAR), 510-517
+
+75. Overcoming exploration in reinforcement learning with demonstrations
+Citations:93
+Authors: A Nair, B McGrew, M Andrychowicz, W Zaremba, P Abbeel
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 6292-6299
+
+76. Learning from demonstrations through the use of non-rigid registration
+Citations:85
+Authors: J Schulman, J Ho, C Lee, P Abbeel
+Publication: Robotics Research, 339-354
+
+77. Parametrized shape models for clothing
+Citations:85
+Authors: S Miller, M Fritz, T Darrell, P Abbeel
+Publication: 2011 IEEE International Conference on Robotics and Automation, 4861-4868
+
+78. A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models
+Citations:84
+Authors: C Finn, P Christiano, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1611.03852
+
+79. Continuous adaptation via meta-learning in nonstationary and competitive environments
+Citations:82
+Authors: M Al-Shedivat, T Bansal, Y Burda, I Sutskever, I Mordatch, P Abbeel
+Publication: arXiv preprint arXiv:1710.03641
+
+80. Third-person imitation learning
+Citations:82
+Authors: BC Stadie, P Abbeel, I Sutskever
+Publication: arXiv preprint arXiv:1703.01703
+
+81. Learning by observation for surgical subtasks: Multilateral cutting of 3d viscoelastic and 2d orthotropic tissue phantoms
+Citations:82
+Authors: A Murali, S Sen, B Kehoe, A Garg, S McFarland, S Patil, WD Boyd, S Lim, ...
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 1202-1209
+
+82. Apprenticeship learning for helicopter control
+Citations:81
+Authors: A Coates, P Abbeel, AY Ng
+Publication: Communications of the ACM 52 (7), 97-105
+
+83. Meta learning shared hierarchies
+Citations:79
+Authors: K Frans, J Ho, X Chen, P Abbeel, J Schulman
+Publication: arXiv preprint arXiv:1710.09767
+
+84. Learning invariant feature spaces to transfer skills with reinforcement learning
+Citations:76
+Authors: A Gupta, C Devin, YX Liu, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1703.02949
+
+85. Equivalence between policy gradients and soft q-learning
+Citations:75
+Authors: J Schulman, X Chen, P Abbeel
+Publication: arXiv preprint arXiv:1704.06440
+
+86. Information-Theoretic Planning with Trajectory Optimization for Dense 3D Mapping.
+Citations:75
+Authors: B Charrow, G Kahn, S Patil, S Liu, K Goldberg, P Abbeel, N Michael, ...
+Publication: Robotics: Science and Systems 11
+
+87. Gravity-based robotic cloth folding
+Citations:71
+Authors: J Van Den Berg, S Miller, K Goldberg, P Abbeel
+Publication: Algorithmic Foundations of Robotics IX, 409-424
+
+88. Reverse curriculum generation for reinforcement learning
+Citations:70
+Authors: C Florensa, D Held, M Wulfmeier, M Zhang, P Abbeel
+Publication: arXiv preprint arXiv:1707.05300
+
+89. A berkeley view of systems challenges for ai
+Citations:69
+Authors: I Stoica, D Song, RA Popa, D Patterson, MW Mahoney, R Katz, ...
+Publication: arXiv preprint arXiv:1712.05855
+
+90. Plato: Policy learning using adaptive trajectory optimization
+Citations:69
+Authors: G Kahn, T Zhang, S Levine, P Abbeel
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 3342-3349
+
+91. Transfer from simulation to real world through learning deep inverse dynamics model
+Citations:68
+Authors: P Christiano, Z Shah, I Mordatch, J Schneider, T Blackwell, J Tobin, ...
+Publication: arXiv preprint arXiv:1610.03518
+
+92. One-shot learning of manipulation skills with online dynamics adaptation and neural network priors
+Citations:68
+Authors: J Fu, S Levine, P Abbeel
+Publication: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+93. Deep learning helicopter dynamics models
+Citations:68
+Authors: A Punjani, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 3223-3230
+
+94. Deep imitation learning for complex manipulation tasks from virtual reality teleoperation
+Citations:67
+Authors: T Zhang, Z McCarthy, O Jow, D Lee, X Chen, K Goldberg, P Abbeel
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1-8
+
+95. Autonomous multilateral debridement with the raven surgical robot
+Citations:67
+Authors: B Kehoe, G Kahn, J Mahler, J Kim, A Lee, A Lee, K Nakagawa, S Patil, ...
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 1432-1439
+
+96. Imitation from observation: Learning to imitate behaviors from raw video via context translation
+Citations:66
+Authors: YX Liu, A Gupta, P Abbeel, S Levine
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1118-1125
+
+97. Uncertainty-aware reinforcement learning for collision avoidance
+Citations:66
+Authors: G Kahn, A Villaflor, V Pong, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1702.01182
+
+98. Scaling the mobile millennium system in the cloud
+Citations:66
+Authors: T Hunter, T Moldovan, M Zaharia, S Merzgui, J Ma, MJ Franklin, P Abbeel, ...
+Publication: Proceedings of the 2nd ACM Symposium on Cloud Computing, 28
+
+99. Autonomous autorotation of an RC helicopter
+Citations:65
+Authors: P Abbeel, A Coates, T Hunter, AY Ng
+Publication: Experimental Robotics, 385-394
+
+100. One-shot imitation from observing humans via domain-adaptive meta-learning
+Citations:64
+Authors: T Yu, C Finn, A Xie, S Dasari, T Zhang, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1802.01557
+
+101. Learning force-based manipulation of deformable objects from multiple demonstrations
+Citations:64
+Authors: AX Lee, H Lu, A Gupta, S Levine, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 177-184
+
+102. Inverse reward design
+Citations:63
+Authors: D Hadfield-Menell, S Milli, P Abbeel, SJ Russell, A Dragan
+Publication: Advances in neural information processing systems, 6765-6774
+
+103. Meta-learning with temporal convolutions
+Citations:61
+Authors: N Mishra, M Rohaninejad, X Chen, P Abbeel
+Publication: arXiv preprint arXiv:1707.03141 2 (7)
+
+104. Physical properties of the liver and the development of an intelligent manipulator for needle insertion
+Citations:59
+Authors: Y Kobayashi, J Okamoto, MG Fujie
+Publication: Proceedings of the 2005 IEEE International Conference on Robotics and …
+
+105. Self-supervised deep reinforcement learning with generalized computation graphs for robot navigation
+Citations:58
+Authors: G Kahn, A Villaflor, B Ding, P Abbeel, S Levine
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1-8
+
+106. Multimodal blending for high-accuracy instance recognition
+Citations:56
+Authors: Z Xie, A Singh, J Uang, KS Narayan, P Abbeel
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+107. Stochastic adversarial video prediction
+Citations:55
+Authors: AX Lee, R Zhang, F Ebert, P Abbeel, C Finn, S Levine
+Publication: arXiv preprint arXiv:1804.01523
+
+108. Learning dexterous manipulation for a soft robotic hand from human demonstrations
+Citations:55
+Authors: A Gupta, C Eppner, S Levine, P Abbeel
+Publication: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+109. Scaling up gaussian belief space planning through covariance-free trajectory optimization and automatic differentiation
+Citations:55
+Authors: S Patil, G Kahn, M Laskey, J Schulman, K Goldberg, P Abbeel
+Publication: Algorithmic foundations of robotics XI, 515-533
+
+110. LQG-based planning, sensing, and control of steerable needles
+Citations:55
+Authors: J Van Den Berg, S Patil, R Alterovitz, P Abbeel, K Goldberg
+Publication: Algorithmic Foundations of Robotics IX, 373-389
+
+111. The limits and potentials of deep learning for robotics
+Citations:54
+Authors: N Sünderhauf, O Brock, W Scheirer, R Hadsell, D Fox, J Leitner, B Upcroft, ...
+Publication: The International Journal of Robotics Research 37 (4-5), 405-420
+
+112. An algorithmic perspective on imitation learning
+Citations:54
+Authors: T Osa, J Pajarinen, G Neumann, JA Bagnell, P Abbeel, J Peters
+Publication: Foundations and Trends® in Robotics 7 (1-2), 1-179
+
+113. Universal planning networks
+Citations:53
+Authors: A Srinivas, A Jabri, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1804.00645
+
+114. Asymmetric actor critic for image-based robot learning
+Citations:51
+Authors: L Pinto, M Andrychowicz, P Welinder, W Zaremba, P Abbeel
+Publication: arXiv preprint arXiv:1710.06542
+
+115. Performance analysis and terrain classification for a legged robot over rough terrain
+Citations:49
+Authors: FLG Bermudez, RC Julian, DW Haldane, P Abbeel, RS Fearing
+Publication: 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+116. Combining self-supervised learning and imitation for vision-based rope manipulation
+Citations:48
+Authors: A Nair, D Chen, P Agrawal, P Isola, P Abbeel, J Malik, S Levine
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 2146-2153
+
+117. A single-use haptic palpation probe for locating subcutaneous blood vessels in robot-assisted minimally invasive surgery
+Citations:48
+Authors: S McKinley, A Garg, S Sen, R Kapadia, A Murali, K Nichols, S Lim, S Patil, ...
+Publication: 2015 IEEE International Conference on Automation Science and Engineering …
+
+118. A case study of trajectory transfer through non-rigid registration for a simplified suturing scenario
+Citations:48
+Authors: J Schulman, A Gupta, S Venkatesan, M Tayson-Frederick, P Abbeel
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+119. Adapting deep visuomotor representations with weak pairwise constraints
+Citations:47
+Authors: E Tzeng, C Devin, J Hoffman, C Finn, P Abbeel, S Levine, K Saenko, ...
+Publication: arXiv preprint arXiv:1511.07111
+
+120. Learning accurate kinematic control of cable-driven surgical robots using data cleaning and gaussian process regression
+Citations:47
+Authors: J Mahler, S Krishnan, M Laskey, S Sen, A Murali, B Kehoe, S Patil, ...
+Publication: 2014 IEEE International Conference on Automation Science and Engineering …
+
+121. On a connection between importance sampling and the likelihood ratio policy gradient
+Citations:45
+Authors: T Jie, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 1000-1008
+
+122. scalable SQL
+Citations:43
+Authors: M Rys
+Publication: Communications of the ACM 54 (6), 48-53
+
+123. Relational markov networks
+Citations:43
+Authors: B Taskar, P Abbeel, MF Wong, D Koller
+Publication: Introduction to statistical relational learning, 175-200
+
+124. Learning deep neural network policies with continuous memory states
+Citations:39
+Authors: M Zhang, Z McCarthy, C Finn, S Levine, P Abbeel
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 520-527
+
+125. EG-RRT: Environment-guided random trees for kinodynamic motion planning with uncertainty and obstacles
+Citations:39
+Authors: L Jaillet, J Hoffman, J Van den Berg, P Abbeel, JM Porta, K Goldberg
+Publication: 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+126. Meta-reinforcement learning of structured exploration strategies
+Citations:37
+Authors: A Gupta, R Mendonca, YX Liu, P Abbeel, S Levine
+Publication: Advances in Neural Information Processing Systems, 5302-5311
+
+127. Gp-gpis-opt: Grasp planning with shape uncertainty using gaussian process implicit surfaces and sequential convex programming
+Citations:37
+Authors: J Mahler, S Patil, B Kehoe, J Van Den Berg, M Ciocarlie, P Abbeel, ...
+Publication: 2015 IEEE international conference on robotics and automation (ICRA), 4919-4926
+
+128. Geometric programming for aircraft design optimization
+Citations:37
+Authors: W Hoburg, P Abbeel
+Publication: AIAA Journal 52 (11), 2414-2426
+
+129. Inverse reinforcement learning
+Citations:37
+Authors: P Abbeel, AY Ng
+Publication: Encyclopedia of machine learning, 554-558
+
+130. Composable deep reinforcement learning for robotic manipulation
+Citations:36
+Authors: T Haarnoja, V Pong, A Zhou, M Dalal, P Abbeel, S Levine
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 6244-6251
+
+131. Transition state clustering: Unsupervised surgical trajectory segmentation for robot learning
+Citations:36
+Authors: S Krishnan, A Garg, S Patil, C Lea, G Hager, P Abbeel, K Goldberg
+Publication: Robotics Research, 91-110
+
+132. Variance reduction for policy gradient with action-dependent factorized baselines
+Citations:35
+Authors: C Wu, A Rajeswaran, Y Duan, V Kumar, AM Bayen, S Kakade, I Mordatch, ...
+Publication: arXiv preprint arXiv:1803.07246
+
+133. Domain randomization and generative models for robotic grasping
+Citations:34
+Authors: J Tobin, L Biewald, R Duan, M Andrychowicz, A Handa, V Kumar, ...
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+134. Automatic goal generation for reinforcement learning agents
+Citations:34
+Authors: D Held, X Geng, C Florensa, P Abbeel
+Publication: 
+
+135. Using classical planners for tasks with continuous operators in robotics
+Citations:34
+Authors: S Srivastava, L Riano, S Russell, P Abbeel
+Publication: Workshops at the Twenty-Seventh AAAI Conference on Artificial Intelligence
+
+136. Perception for the manipulation of socks
+Citations:34
+Authors: PC Wang, S Miller, M Fritz, T Darrell, P Abbeel
+Publication: 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+137. The off-switch game
+Citations:33
+Authors: D Hadfield-Menell, A Dragan, P Abbeel, S Russell
+Publication: Workshops at the Thirty-First AAAI Conference on Artificial Intelligence
+
+138. Yale-CMU-Berkeley dataset for robotic manipulation research
+Citations:33
+Authors: B Calli, A Singh, J Bruce, A Walsman, K Konolige, S Srinivasa, P Abbeel, ...
+Publication: The International Journal of Robotics Research 36 (3), 261-268
+
+139. Curiosity-driven exploration in deep reinforcement learning via bayesian neural networks
+Citations:33
+Authors: R Houthooft, X Chen, Y Duan, J Schulman, F De Turck, P Abbeel
+Publication: arXiv preprint arXiv:1605.09674
+
+140. Large-scale estimation in cyberphysical systems using streaming data: a case study with arterial traffic estimation
+Citations:33
+Authors: T Hunter, T Das, M Zaharia, P Abbeel, AM Bayen
+Publication: IEEE Transactions on Automation Science and Engineering 10 (4), 884-898
+
+141. Deep reinforcement learning for tensegrity robot locomotion
+Citations:32
+Authors: M Zhang, X Geng, J Bruce, K Caluwaerts, M Vespignani, V SunSpiral, ...
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 634-641
+
+142. Learning visual servoing with deep features and fitted q-iteration
+Citations:32
+Authors: AX Lee, S Levine, P Abbeel
+Publication: arXiv preprint arXiv:1703.11000
+
+143. Combining model-based policy search with online model learning for control of physical humanoids
+Citations:32
+Authors: I Mordatch, N Mishra, C Eppner, P Abbeel
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 242-248
+
+144. Soft actor-critic algorithms and applications
+Citations:31
+Authors: T Haarnoja, A Zhou, K Hartikainen, G Tucker, S Ha, J Tan, V Kumar, ...
+Publication: arXiv preprint arXiv:1812.05905
+
+145. Model-ensemble trust-region policy optimization
+Citations:31
+Authors: T Kurutach, I Clavera, Y Duan, A Tamar, P Abbeel
+Publication: arXiv preprint arXiv:1802.10592
+
+146. Max-margin classification of incomplete data
+Citations:31
+Authors: G Chechik, G Heitz, G Elidan, P Abbeel, D Koller
+Publication: Advances in Neural Information Processing Systems, 233-240
+
+147. Latent space policies for hierarchical reinforcement learning
+Citations:30
+Authors: T Haarnoja, K Hartikainen, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1804.02808
+
+148. Generalizing skills with semi-supervised reinforcement learning
+Citations:30
+Authors: C Finn, T Yu, J Fu, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1612.00429
+
+149. Toward asymptotically optimal motion planning for kinodynamic systems using a two-point boundary value problem solver
+Citations:30
+Authors: C Xie, J van den Berg, S Patil, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 4187-4194
+
+150. Learning predictive models of a depth camera & manipulator from raw execution traces
+Citations:30
+Authors: B Boots, A Byravan, D Fox
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 4021-4028
+
+151. Modeling and perception of deformable one-dimensional objects
+Citations:30
+Authors: S Javdani, S Tandon, J Tang, JF O'Brien, P Abbeel
+Publication: 2011 IEEE International Conference on Robotics and Automation, 1607-1614
+
+152. Sfv: Reinforcement learning of physical skills from videos
+Citations:29
+Authors: XB Peng, A Kanazawa, J Malik, P Abbeel, S Levine
+Publication: SIGGRAPH Asia 2018 Technical Papers, 178
+
+153. Learning to adapt: Meta-learning for model-based control
+Citations:29
+Authors: I Clavera, A Nagabandi, RS Fearing, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1803.11347 3
+
+154. Evolved policy gradients
+Citations:29
+Authors: R Houthooft, Y Chen, P Isola, B Stadie, F Wolski, OAIJ Ho, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 5400-5409
+
+155. Automatic goal generation for reinforcement learning agents
+Citations:29
+Authors: C Florensa, D Held, X Geng, P Abbeel
+Publication: arXiv preprint arXiv:1705.06366
+
+156. Tsc-dl: Unsupervised trajectory segmentation of multi-modal surgical demonstrations with deep learning
+Citations:29
+Authors: A Murali, A Garg, S Krishnan, FT Pokorny, P Abbeel, T Darrell, K Goldberg
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 4150-4157
+
+157. Enabling robots to communicate their objectives
+Citations:28
+Authors: SH Huang, D Held, P Abbeel, AD Dragan
+Publication: Autonomous Robots 43 (2), 309-326
+
+158. Learning visual feature spaces for robotic manipulation with deep spatial autoencoders
+Citations:28
+Authors: C Finn, XY Tan, Y Duan, T Darrell, S Levine, P Abbeel
+Publication: arXiv preprint arXiv:1509.06113 25
+
+159. Parameterized maneuver learning for autonomous helicopter flight
+Citations:28
+Authors: J Tang, A Singh, N Goehausen, P Abbeel
+Publication: 2010 IEEE International Conference on Robotics and Automation, 1142-1148
+
+160. Learning first-order Markov models for control
+Citations:28
+Authors: P Abbeel, AY Ng
+Publication: Advances in neural information processing systems, 1-8
+
+161. Label and link prediction in relational data
+Citations:28
+Authors: B Taskar, P Abbeel, MF Wong, D Koller
+Publication: Proceedings of the IJCAI Workshop on Learning Statistical Models from …
+
+162. Active exploration using trajectory optimization for robotic grasping in the presence of occlusions
+Citations:27
+Authors: G Kahn, P Sujan, S Patil, S Bopardikar, J Ryde, K Goldberg, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 4783-4790
+
+163. Transition state clustering: Unsupervised surgical trajectory segmentation for robot learning
+Citations:26
+Authors: S Krishnan, A Garg, S Patil, C Lea, G Hager, P Abbeel, K Goldberg
+Publication: The International Journal of Robotics Research 36 (13-14), 1595-1618
+
+164. Multi-armed bandit models for 2d grasp planning with uncertainty
+Citations:26
+Authors: M Laskey, J Mahler, Z McCarthy, FT Pokorny, S Patil, J Van Den Berg, ...
+Publication: 2015 IEEE International Conference on Automation Science and Engineering …
+
+165. Physics-based trajectory optimization for grasping in cluttered environments
+Citations:26
+Authors: N Kitaev, I Mordatch, S Patil, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 3102-3109
+
+166. Sigma hulls for gaussian belief space planning for imprecise articulated robots amid obstacles
+Citations:25
+Authors: A Lee, Y Duan, S Patil, J Schulman, Z McCarthy, J Van Den Berg, ...
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+167. Arriving on time: estimating travel time distributions on large-scale road networks
+Citations:25
+Authors: T Hunter, A Hofleitner, J Reilly, W Krichene, J Thai, A Kouvelas, P Abbeel, ...
+Publication: arXiv preprint arXiv:1302.6617
+
+168. Learning plannable representations with causal infogan
+Citations:24
+Authors: T Kurutach, A Tamar, G Yang, SJ Russell, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 8733-8744
+
+169. Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states
+Citations:24
+Authors: W Montgomery, A Ajay, C Finn, P Abbeel, S Levine
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 3373-3380
+
+170. Model-based reinforcement learning with parametrized physical models and optimism-driven exploration
+Citations:24
+Authors: C Xie, S Patil, T Moldovan, S Levine, P Abbeel
+Publication: 2016 IEEE international conference on robotics and automation (ICRA), 504-511
+
+171. Optimism-driven exploration for nonlinear systems
+Citations:24
+Authors: TM Moldovan, S Levine, MI Jordan, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 3239-3246
+
+172. Unifying scene registration and trajectory optimization for learning from demonstrations with application to manipulation of deformable objects
+Citations:24
+Authors: AX Lee, SH Huang, D Hadfield-Menell, E Tzeng, P Abbeel
+Publication: 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+173. Gaussian belief space planning with discontinuities in sensing domains
+Citations:24
+Authors: S Patil, Y Duan, J Schulman, K Goldberg, P Abbeel
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 6483-6490
+
+174. Risk aversion in Markov decision processes via near optimal Chernoff bounds
+Citations:24
+Authors: TM Moldovan, P Abbeel
+Publication: Advances in neural information processing systems, 3131-3139
+
+175. Bilateral teleoperation of groups of UAVs with decentralized connectivity maintenance
+Citations:24
+Authors: PR Giordano, A Franchi, C Secchi, HH Bülthoff
+Publication: MIT Press
+
+176. Learning generalized reactive policies using deep neural networks
+Citations:23
+Authors: E Groshev, A Tamar, M Goldstein, S Srivastava, P Abbeel
+Publication: 2018 AAAI Spring Symposium Series
+
+177. Gradescope: a fast, flexible, and fair system for scalable assessment of handwritten work
+Citations:23
+Authors: A Singh, S Karayev, K Gutowski, P Abbeel
+Publication: Proceedings of the fourth (2017) acm conference on learning@ scale, 81-88
+
+178. Motion planning and control of robotic manipulators on seaborne platforms
+Citations:23
+Authors: PJ From, JT Gravdahl, T Lillehagen, P Abbeel
+Publication: Control engineering practice 19 (8), 809-819
+
+179. Self-consistent trajectory autoencoder: Hierarchical reinforcement learning with trajectory embeddings
+Citations:21
+Authors: JD Co-Reyes, YX Liu, A Gupta, B Eysenbach, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1806.02813
+
+180. Mutual alignment transfer learning
+Citations:21
+Authors: M Wulfmeier, I Posner, P Abbeel
+Publication: arXiv preprint arXiv:1707.07907
+
+181. Deciphering the role of a coleopteran steering muscle via free flight stimulation
+Citations:21
+Authors: H Sato, TTV Doan, S Kolev, NA Huynh, C Zhang, TL Massey, J Van Kleef, ...
+Publication: Current Biology 25 (6), 798-803
+
+182. Modular task and motion planning in belief space
+Citations:20
+Authors: D Hadfield-Menell, E Groshev, R Chitnis, P Abbeel
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+183. Learning from multiple demonstrations using trajectory-aware non-rigid registration with applications to deformable object manipulation
+Citations:20
+Authors: AX Lee, A Gupta, H Lu, S Levine, P Abbeel
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+184. Leveraging appearance priors in non-rigid registration, with application to manipulation of deformable objects
+Citations:20
+Authors: SH Huang, J Pan, G Mulcaire, P Abbeel
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+185. Prediction and control with temporal segment models
+Citations:19
+Authors: N Mishra, P Abbeel, I Mordatch
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+186. Model-based reinforcement learning via meta-policy optimization
+Citations:18
+Authors: I Clavera, J Rothfuss, J Schulman, Y Fujita, T Asfour, P Abbeel
+Publication: arXiv preprint arXiv:1809.05214
+
+187. Pixelsnail: An improved autoregressive generative model
+Citations:18
+Authors: X Chen, N Mishra, M Rohaninejad, P Abbeel
+Publication: arXiv preprint arXiv:1712.09763
+
+188. Learning from the hindsight plan—episodic mpc improvement
+Citations:18
+Authors: A Tamar, G Thomas, T Zhang, S Levine, P Abbeel
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 336-343
+
+189. Variational information maximizing exploration
+Citations:18
+Authors: R Houthooft, X Chen, Y Duan, J Schulman, F De Turck, P Abbeel
+Publication: 
+
+190. A biological micro actuator: graded and closed-loop control of insect leg motion by electrical stimulation of muscles
+Citations:18
+Authors: F Cao, C Zhang, TTV Doan, Y Li, DH Sangi, JS Koh, NA Huynh, MFB Aziz, ...
+Publication: PloS one 9 (8), e105389
+
+191. Predicting initialization effectiveness for trajectory optimization
+Citations:18
+Authors: J Pan, Z Chen, P Abbeel
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 5183-5190
+
+192. Learning robotic assembly from CAD
+Citations:17
+Authors: G Thomas, M Chien, A Tamar, JA Ojea, P Abbeel
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1-9
+
+193. Accelerated methods for deep reinforcement learning
+Citations:17
+Authors: A Stooke, P Abbeel
+Publication: arXiv preprint arXiv:1803.02811
+
+194. Data fitting with geometric-programming-compatible softmax functions
+Citations:17
+Authors: W Hoburg, P Kirschen, P Abbeel
+Publication: Optimization and Engineering 17 (4), 897-918
+
+195. Learning compound multi-step controllers under unknown dynamics
+Citations:17
+Authors: W Han, S Levine, P Abbeel
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+196. Planning locally optimal, curvature-constrained trajectories in 3D using sequential convex optimization
+Citations:17
+Authors: Y Duan, S Patil, J Schulman, K Goldberg, P Abbeel
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 5889-5895
+
+197. Some considerations on learning to explore via meta-reinforcement learning
+Citations:16
+Authors: BC Stadie, G Yang, R Houthooft, X Chen, Y Duan, Y Wu, P Abbeel, ...
+Publication: arXiv preprint arXiv:1803.01118
+
+198. UCB exploration via Q-ensembles
+Citations:16
+Authors: RY Chen, S Sidor, P Abbeel, J Schulman
+Publication: arXiv preprint arXiv:1706.01502
+
+199. Grasping and fixturing as submodular coverage problems
+Citations:16
+Authors: JD Schulman, K Goldberg, P Abbeel
+Publication: Robotics Research, 571-583
+
+200. An algorithm for computing customized 3D printed implants with curvature constrained channels for enhancing intracavitary brachytherapy radiation delivery
+Citations:16
+Authors: A Garg, S Patil, T Siauw, JAM Cunha, IC Hsu, P Abbeel, J Pouliot, ...
+Publication: 2013 IEEE International Conference on Automation Science and Engineering …
+
+201. Deep object-centric representations for generalizable robot learning
+Citations:15
+Authors: C Devin, P Abbeel, T Darrell, S Levine
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 7111-7118
+
+202. Negative differential thermal conductance and heat amplification in a nonequilibrium triangle-coupled spin-boson system at strong coupling
+Citations:15
+Authors: C Wang, XM Chen, KW Sun, J Ren
+Publication: arXiv preprint arXiv:1711.00204
+
+203. Variational option discovery algorithms
+Citations:14
+Authors: J Achiam, H Edwards, D Amodei, P Abbeel
+Publication: arXiv preprint arXiv:1807.10299
+
+204. Combinatorial energy learning for image segmentation
+Citations:14
+Authors: JB Maitin-Shepard, V Jain, M Januszewski, P Li, P Abbeel
+Publication: Advances in Neural Information Processing Systems, 1966-1974
+
+205. Short-term traffic forecasting: Modeling and learning spatio-temporal relations in transportation networks using graph neural networks
+Citations:14
+Authors: B Shahsavari, P Abbeel
+Publication: EECS Department: Berkeley, CA, USA
+
+206. Range sensor and silhouette fusion for high-quality 3D scanning
+Citations:14
+Authors: KS Narayan, J Sha, A Singh, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 3617-3624
+
+207. Generalization in robotic manipulation through the use of non-rigid registration
+Citations:14
+Authors: J Schulman, J Ho, C Lee, P Abbeel
+Publication: Proceedings of the 16th International Symposium on Robotics Research (ISRR)
+
+208. A constraint-aware motion planning algorithm for robotic folding of clothes
+Citations:13
+Authors: K Lakshmanan, A Sachdev, Z Xie, D Berenson, K Goldberg, P Abbeel
+Publication: Experimental Robotics, 547-562
+
+209. On the influence of ship motion prediction accuracy on motion planning and control of robotic manipulators on seaborne platforms
+Citations:13
+Authors: PJ From, JT Gravdahl, P Abbeel
+Publication: 2010 IEEE International Conference on Robotics and Automation, 5281-5288
+
+210. Autonomous helicopter flight using reinforcement learning
+Citations:12
+Authors: A Coates, P Abbeel, AY Ng
+Publication: Encyclopedia of Machine Learning and Data Mining, 75-85
+
+211. Guided search for task and motion plans using learned heuristics
+Citations:12
+Authors: R Chitnis, D Hadfield-Menell, A Gupta, S Srivastava, E Groshev, C Lin, ...
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 447-454
+
+212. Planning curvature and torsion constrained ribbons in 3d with application to intracavitary brachytherapy
+Citations:12
+Authors: S Patil, J Pan, P Abbeel, K Goldberg
+Publication: IEEE Transactions on Automation Science and Engineering 12 (4), 1332-1345
+
+213. Flow++: Improving flow-based generative models with variational dequantization and architecture design
+Citations:11
+Authors: J Ho, X Chen, A Srinivas, Y Duan, P Abbeel
+Publication: arXiv preprint arXiv:1902.00275
+
+214. Optimizing expectations: From deep reinforcement learning to stochastic computation graphs
+Citations:11
+Authors: J Schulman
+Publication: UC Berkeley
+
+215. Optimized color models for high-quality 3d scanning
+Citations:11
+Authors: KS Narayan, P Abbeel
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+216. A non-rigid point and normal registration algorithm with applications to learning from demonstrations
+Citations:11
+Authors: AX Lee, MA Goldstein, ST Barratt, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 935-942
+
+217. Solar: Deep structured latent representations for model-based reinforcement learning
+Citations:10
+Authors: M Zhang, S Vikram, L Smith, P Abbeel, MJ Johnson, S Levine
+Publication: arXiv preprint arXiv:1808.09105
+
+218. Interpretable and pedagogical examples
+Citations:10
+Authors: S Milli, P Abbeel, I Mordatch
+Publication: arXiv preprint arXiv:1711.00694
+
+219. Policy transfer via modularity and reward guiding
+Citations:10
+Authors: I Clavera, D Held, P Abbeel
+Publication: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+220. Probabilistically safe policy transfer
+Citations:10
+Authors: D Held, Z McCarthy, M Zhang, F Shentu, P Abbeel
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 5798-5805
+
+221. Policy learning with continuous memory states for partially observed robotic control
+Citations:10
+Authors: M Zhang, S Levine, Z McCarthy, C Finn, P Abbeel
+Publication: CoRR, abs/1507.01273
+
+222. Learning to adapt in dynamic, real-world environments through meta-reinforcement learning
+Citations:9
+Authors: A Nagabandi, I Clavera, S Liu, RS Fearing, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1803.11347
+
+223. Generative models
+Citations:9
+Authors: A Karpathy, P Abbeel, G Brockman, P Chen, V Cheung, R Duan, ...
+Publication: by openAI. June
+
+224. Tractability of planning with loops
+Citations:9
+Authors: S Srivastava, S Zilberstein, A Gupta, P Abbeel, S Russell
+Publication: Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+225. Cyborg beetles: The remote radio control of insect flight
+Citations:9
+Authors: H Sato, S Kolev, N Goehausen, MN Nyi, TL Massey, P Abbeel, ...
+Publication: SENSORS, 2010 IEEE, 1-4
+
+226. Variational discriminator bottleneck: Improving imitation learning, inverse rl, and gans by constraining information flow
+Citations:8
+Authors: XB Peng, A Kanazawa, S Toyer, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1810.00821
+
+227. UCB and infogain exploration via q-ensembles
+Citations:8
+Authors: RY Chen, J Schulman, P Abbeel, S Sidor
+Publication: arXiv preprint arXiv:1706.01502 9
+
+228. Alpha-Beta Divergences Discover Micro and Macro Structures in Data.
+Citations:8
+Authors: KS Narayan, A Punjani, P Abbeel
+Publication: ICML, 796-804
+
+229. Establishing appropriate trust via critical states
+Citations:7
+Authors: SH Huang, K Bhatia, P Abbeel, AD Dragan
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+230. Inverse reinforcement learning via deep gaussian process
+Citations:7
+Authors: M Jin, A Damianou, P Abbeel, C Spanos
+Publication: arXiv preprint arXiv:1512.08065
+
+231. Promp: Proximal meta-policy search
+Citations:6
+Authors: J Rothfuss, D Lee, I Clavera, T Asfour, P Abbeel
+Publication: arXiv preprint arXiv:1810.06784
+
+232. Unsupervised surgical task segmentation with milestone learning
+Citations:6
+Authors: S Krishnan, A Garg, S Patil, C Lea, G Hager, P Abbeel, K Goldberg
+Publication: Proc. Intl Symp. on Robotics Research (ISRR)
+
+233. The berkeley 3d object dataset
+Citations:6
+Authors: A Janoch, T Darrell, P Abbeel, J Malik
+Publication: Retrieved February 13, 2015
+
+234. Large-scale online expectation maximization with spark streaming
+Citations:6
+Authors: T Hunter, T Das, M Zaharia, A Bayen, P Abbeel
+Publication: 
+
+235. SOLAR: deep structured representations for model-based reinforcement learning
+Citations:5
+Authors: M Zhang, S Vikram, L Smith, P Abbeel, M Johnson, S Levine
+Publication: 
+
+236. A GPS software receiver
+Citations:5
+Authors: S Gleason, M Quigley, P Abbeel, D Gebre-Egziabher
+Publication: GNSS Applications and Methods, 121-146
+
+237. Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules
+Citations:4
+Authors: D Ho, E Liang, I Stoica, P Abbeel, X Chen
+Publication: arXiv preprint arXiv:1905.05393
+
+238. Towards Characterizing Divergence in Deep Q-Learning
+Citations:4
+Authors: J Achiam, E Knight, P Abbeel
+Publication: arXiv preprint arXiv:1903.08894
+
+239. Generalization through simulation: Integrating simulated and real data into deep reinforcement learning for vision-based autonomous flight
+Citations:4
+Authors: K Kang, S Belkhale, G Kahn, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1902.03701
+
+240. Transfer learning for estimating causal effects using neural networks
+Citations:4
+Authors: SR Künzel, BC Stadie, N Vemuri, V Ramakrishnan, JS Sekhon, P Abbeel
+Publication: arXiv preprint arXiv:1808.07804
+
+241. Sequential quadratic programming for task plan optimization
+Citations:4
+Authors: D Hadfield-Menell, C Lin, R Chitnis, S Russell, P Abbeel
+Publication: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+242. Beyond lowest-warping cost action selection in trajectory transfer
+Citations:4
+Authors: D Hadfield-Menell, AX Lee, C Finn, E Tzeng, S Huang, P Abbeel
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 3231-3238
+
+243. Cooperative occlusion-aware multi-robot target tracking using optimization
+Citations:4
+Authors: K Hausman, G Kahn, S Patil, J Müller, K Goldberg, P Abbeel, ...
+Publication: rll. berkeley. edu
+
+244. Fitting geometric programming models to data
+Citations:4
+Authors: W Hoburg, P Kirschen, P Abbeel
+Publication: Optimization and Engineering
+
+245. Learning latent state representation for speeding up exploration
+Citations:3
+Authors: G Vezzani, A Gupta, L Natale, P Abbeel
+Publication: arXiv preprint arXiv:1905.12621
+
+246. Quasi-direct drive for low-cost compliant robotic manipulation
+Citations:3
+Authors: DV Gealy, S McKinley, B Yi, P Wu, PR Downey, G Balke, A Zhao, M Guo, ...
+Publication: arXiv preprint arXiv:1904.03815
+
+247. Guided Meta-Policy Search
+Citations:3
+Authors: R Mendonca, A Gupta, R Kralev, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1904.00956
+
+248. Guiding policies with language via meta-learning
+Citations:3
+Authors: JD Co-Reyes, A Gupta, S Sanjeev, N Altieri, J DeNero, P Abbeel, ...
+Publication: arXiv preprint arXiv:1811.07882
+
+249. One-shot hierarchical imitation learning of compound visuomotor tasks
+Citations:3
+Authors: T Yu, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1810.11043
+
+250. Modular Architecture for StarCraft II with Deep Reinforcement Learning
+Citations:3
+Authors: D Lee, H Tang, JO Zhang, H Xu, T Darrell, P Abbeel
+Publication: Fourteenth Artificial Intelligence and Interactive Digital Entertainment …
+
+251. Learning to adapt: Meta-learning for model-based control
+Citations:3
+Authors: A Nagabandi, I Clavera, S Liu, RS Fearing, P Abbeel, S Levine, C Finn
+Publication: arXiv preprint arXiv:1803.11347
+
+252. The importance of sampling inmeta-reinforcement learning
+Citations:3
+Authors: B Stadie, G Yang, R Houthooft, P Chen, Y Duan, Y Wu, P Abbeel, ...
+Publication: Advances in Neural Information Processing Systems, 9280-9290
+
+253. Patient-specific temporary implants for accurately guiding local means of tumor control along patient-specific internal channels to treat cancer
+Citations:3
+Authors: J Pouliot, K Goldberg, IC Hsu, JAM CHNHA, G Animesh, S Patel, ...
+Publication: US Patent App. 14/907,679
+
+254. Optimization-based artifact correction for electron microscopy image stacks
+Citations:3
+Authors: S Azadi, J Maitin-Shepard, P Abbeel
+Publication: European Conference on Computer Vision, 219-235
+
+255. Safety, risk awareness and exploration in reinforcement learning
+Citations:3
+Authors: TM Moldovan, P Abbeel, M Jordan, F Borrelli
+Publication: University of California, Berkeley
+
+256. Portable GPS Baseband Logging
+Citations:3
+Authors: M Quigley, P Abbeel, D De Lorenzo, Y Gu, S Bolouki, D Akos, AY Ng
+Publication: ION GNSS 2007
+
+257. Reinforcement Learning on Variable Impedance Controller for High-Precision Robotic Assembly
+Citations:2
+Authors: J Luo, E Solowjow, C Wen, JA Ojea, AM Agogino, A Tamar, P Abbeel
+Publication: arXiv preprint arXiv:1903.01066
+
+258. Occlusion-aware multi-robot 3d tracking
+Citations:2
+Authors: K Hausman, G Kahn, S Patil, J Müller, K Goldberg, P Abbeel, ...
+Publication: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+259. The Off-Switch
+Citations:2
+Authors: D Hadfield-Menell, A Dragan, P Abbeel, S Russell
+Publication: Preparation
+
+260. End-toend training of deep visuomotor policies. arXiv preprint arXiv: 1504.00702
+Citations:2
+Authors: S Levine, C Finn, T Darrell, P Abbeel
+Publication: 
+
+261. On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations
+Citations:2
+Authors: A Garg, S Krishnan, A Murali, FT Pokorny, P Abbeel, T Darrell, K Goldberg
+Publication: NIPS 2015 Workshop on Feature Extraction (cit. on p. 7)
+
+262. Budgeted multi-armed bandit models for sample-based grasp planning in the presence of uncertainty
+Citations:2
+Authors: M Laskey, Z McCarthy, J Mahler, FT Pokorny, S Patil, J Van Den Berg, ...
+Publication: IEEE ICRA
+
+263. A modular approach to task and motion planning with an extensible planner-independent interface layer
+Citations:2
+Authors: S Srivastava, E Fang, L Riano, R Chitnis, S Russell, P Abbeel
+Publication: Proc. ICRA
+
+264. Learning Dynamic Manipulation Skills under Unknown Dynamics with Guided Policy Search
+Citations:2
+Authors: S Levine, P Abbeel
+Publication: Advances in Neural Information Processing Systems 27, 1
+
+265. Gaussian belief space planning for imprecise articulated robots
+Citations:2
+Authors: A Lee, S Patil, J Schulman, Z McCarthy, J Berg, K Goldberg, P Abbeel
+Publication: 
+
+266. Large scale estimation in cyberphysical systems using streaming data: a case study with smartphone traces
+Citations:2
+Authors: T Hunter, T Das, M Zaharia, P Abbeel, AM Bayen
+Publication: arXiv preprint arXiv:1212.3393
+
+267. Reinforcement learning methods to enable automatic tuning of legged robots
+Citations:2
+Authors: N Zeitlin, P Abbeel, RS Fearing
+Publication: Electrical Engineering and Computer Sciences University of California at …
+
+268. Robotics: Science and Systems VII
+Citations:2
+Authors: HF Durrant-Whyte, N Roy, P Abbeel
+Publication: MIT Press
+
+269. Bilateral Teleoperation of Groups of UAVs with Decentralized Connectivity Maintenance. Robotics: Science & Systems Vii, University of Southern California
+Citations:2
+Authors: H Durrant-Whyte, N Roy, P Abbeel
+Publication: Los Angeles, Ca, Usa, June MIT Press
+
+270. Learning for control from multiple demonstrations (Full version
+Citations:2
+Authors: A Coates, P Abbeel, AY Ng
+Publication: 
+
+271. Evaluating Protein Transfer Learning with TAPE
+Citations:1
+Authors: R Rao, N Bhattacharya, N Thomas, Y Duan, X Chen, J Canny, P Abbeel, ...
+Publication: arXiv preprint arXiv:1906.08230
+
+272. MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies
+Citations:1
+Authors: XB Peng, M Chang, G Zhang, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1905.09808
+
+273. Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables
+Citations:1
+Authors: FH Kingma, P Abbeel, J Ho
+Publication: arXiv preprint arXiv:1905.06845
+
+274. Domain Randomization for Active Pose Estimation
+Citations:1
+Authors: X Ren, J Luo, E Solowjow, JA Ojea, A Gupta, A Tamar, P Abbeel
+Publication: arXiv preprint arXiv:1903.03953
+
+275. Preferences Implicit in the State of the World
+Citations:1
+Authors: R Shah, D Krasheninnikov, J Alexander, P Abbeel, A Dragan
+Publication: arXiv preprint arXiv:1902.04198
+
+276. Visual Hindsight Experience Replay
+Citations:1
+Authors: H Sahni, T Buckley, P Abbeel, I Kuzovkin
+Publication: arXiv preprint arXiv:1901.11529
+
+277. Leveraging critical states to develop trust
+Citations:1
+Authors: SH Huang, K Bhatia, P Abbeel, AD Dragan
+Publication: RSS 2017 Workshop: Morality and Social Trust in Autonomous Robots
+
+278. Machine learning for helicopter dynamics models
+Citations:1
+Authors: A Punjani, P Abbeel
+Publication: University of California, Berkeley
+
+279. Insect-machine hybrid system
+Citations:1
+Authors: VDT Thang, S Kolev, HN Anh, Z Chao, TL Massey, P Abbeel, ...
+Publication: 2013 35th Annual International Conference of the IEEE Engineering in …
+
+280. Dirichlet Process reinforcement learning
+Citations:1
+Authors: TM Moldovan, MI Jordan, P Abbeel
+Publication: Reinforcement Learning and Decision Making Meeting
+
+281. Dense Feature Models for Object Detection using RGB-D Data
+Citations:1
+Authors: Z Xie, J Uang, A Singh, P Abbeel
+Publication: IEEE Int. Conf. on Robotics and Automation
+
+282. Machine Learning for Robotics.
+Citations:1
+Authors: P Abbeel
+Publication: ECML/PKDD (1), 1
+
+283. Real-time estimation of distributed parameters systems: Applicaton to traffic monitoring
+Citations:1
+Authors: DB Work
+Publication: UC Berkeley
+
+284. Reinforcement learning with multiple demonstrations
+Citations:1
+Authors: A Coates, P Abbeel, AY Ng
+Publication: The Twenty-first Annual Conference on Neural Information Processing Systems …
+
+285. DoorGym: A Scalable Door Opening Environment And Baseline Agent
+Citations:
+Authors: Y Urakami, A Hodgkinson, C Carlin, R Leu, L Rigazio, P Abbeel
+Publication: arXiv preprint arXiv:1908.01887
+
+286. Dimensionality Reduction Flows
+Citations:
+Authors: HP Das, P Abbeel, CJ Spanos
+Publication: arXiv preprint arXiv:1908.01686
+
+287. BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks
+Citations:
+Authors: K Hakhamaneshi, N Werblun, P Abbeel, V Stojanovic
+Publication: arXiv preprint arXiv:1907.10515
+
+288. Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model
+Citations:
+Authors: AX Lee, A Nagabandi, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1907.00953
+
+289. On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference
+Citations:
+Authors: R Shah, N Gundotra, P Abbeel, AD Dragan
+Publication: arXiv preprint arXiv:1906.09624
+
+290. Late Breaking Results: Analog Circuit Generator based on Deep Neural Network enhanced Combinatorial optimization
+Citations:
+Authors: K Hakhamaneshi, N Werblun, P Abbeel, V Stojanović
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-2
+
+291. Analog Circuit Generator based on Deep Neural Network enhanced Combinatorial Optimization
+Citations:
+Authors: K Hakhamaneshi, N Werblun, P Abbeel, V Stojanović
+Publication: Proceedings of the 56th Annual Design Automation Conference 2019, 228
+
+292. Compression with Flows via Local Bits-Back Coding
+Citations:
+Authors: J Ho, E Lohn, P Abbeel
+Publication: arXiv preprint arXiv:1905.08500
+
+293. Learning Robotic Manipulation through Visual Planning and Acting
+Citations:
+Authors: A Wang, T Kurutach, K Liu, P Abbeel, A Tamar
+Publication: arXiv preprint arXiv:1905.04411
+
+294. Selectivity Estimation with Deep Likelihood Models
+Citations:
+Authors: Z Yang, E Liang, A Kamsetty, C Wu, Y Duan, X Chen, P Abbeel, ...
+Publication: arXiv preprint arXiv:1905.04278
+
+295. Addressing Sample Complexity in Visual Tasks Using Hindsight Experience Replay and Hallucinatory GANs
+Citations:
+Authors: H Sahni, T Buckley, P Abbeel, I Kuzovkin
+Publication: 
+
+296. Editor’s Note: Special Issue on Robotics: Science and Systems
+Citations:
+Authors: P Grippa, DA Behrens, F Wall, C Bettstetter, H Huang, D Held, P Abbeel
+Publication: Learning 18, 9768-8
+
+297. Composable Action-Conditioned Predictors: Flexible Off-Policy Learning for Robot Navigation
+Citations:
+Authors: G Kahn, A Villaflor, P Abbeel, S Levine
+Publication: arXiv preprint arXiv:1810.07167
+
+298. Inferring Reward Functions from Demonstrators with Unknown Biases
+Citations:
+Authors: R Shah, N Gundotra, P Abbeel, A Dragan
+Publication: 
+
+299. Learning to Reinforcement Learn by Imitation
+Citations:
+Authors: R Kralev, R Mendonca, A Zhang, T Yu, A Gupta, P Abbeel, S Levine, ...
+Publication: 
+
+300. Hierarchical Deep Reinforcement Learning Agent with Counter Self-play on Competitive Games
+Citations:
+Authors: H Xu, K Paster, Q Chen, H Tang, P Abbeel, T Darrell, S Levine
+Publication: 
+
+301. Deep Learning to Learn
+Citations:
+Authors: P Abbeel
+Publication: Georgia Institute of Technology
+
+302. CSIndexbr: Exploring the Brazilian Scientific Production in Computer Science
+Citations:
+Authors: MT Valente, K Paixão
+Publication: arXiv preprint arXiv:1807.09266
+
+303. Self-Supervised Learning of Object Motion Through Adversarial Video Prediction
+Citations:
+Authors: AX Lee, F Ebert, R Zhang, C Finn, P Abbeel, S Levine
+Publication: 
+
+304. Synkhronos: a Multi-GPU Theano Extension for Data Parallelism
+Citations:
+Authors: A Stooke, P Abbeel
+Publication: arXiv preprint arXiv:1710.04162
+
+305. YCB Benchmarking Project: Object Set, Data Set and Their Applications
+Citations:
+Authors: B CALLI, A SINGH, J BRUCE, A WALSMAN, K KONOLIGE, ...
+Publication: Journal of The Society of Instrument and Control Engineers 56 (10), 792-797
+
+306. A K-fold Method for Baseline Estimation in Policy Gradient Algorithms
+Citations:
+Authors: N Kota, A Mishra, S Srinivasa, P Abbeel
+Publication: arXiv preprint arXiv:1701.00867
+
+307. Sequential Quadratic Programming for Task Plan Optimization
+Citations:
+Authors: C Lin
+Publication: ICAPS Workshop on Planning and Robotics (PlanRob)
+
+308. Rotation Plane Doubly Orthogonal Recurrent Neural Networks
+Citations:
+Authors: Z McCarthy, A Bai, X Chen, P Abbeel
+Publication: 
+
+309. Toward a Science of Autonomy for Physical Systems: Paths
+Citations:
+Authors: P Abbeel, K Goldberg, G Hager, J Shah
+Publication: arXiv preprint arXiv:1609.05814
+
+310. Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling
+Citations:
+Authors: A Garg, K Goldberg, P Abbeel, A Atamturk
+Publication: University of California, Berkeley
+
+311. 2015 Index IEEE Robotics&Automation Magazine Vol. 22
+Citations:
+Authors: P Abbeel, A Albu-Schaffer, A Ames, F Amigoni, H Andreasson, P Asaro, ...
+Publication: IEEE Robotics & Automation Magazine
+
+312. Apprenticeship Learning for Robotic Control
+Citations:
+Authors: P Abbeel
+Publication: CALIFORNIA UNIV REGENTS BERKELEY
+
+313. 2014 Index IEEE Transactions on Intelligent Transportation Systems Vol. 15
+Citations:
+Authors: P Abbeel, K Abboud, MA Abdel-Aty, WF Abdelfatah, H Aggoune, ...
+Publication: IEEE Transactions on Intelligent Transportation Systems 15 (6), 2733
+
+314. Fast Wind Turbine Design via Geometric Programming
+Citations:
+Authors: W Hoburg, P Abbeel
+Publication: 54th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials …
+
+315. 2012 Index IEEE Transactions on Intelligent Transportation Systems Vol. 13
+Citations:
+Authors: S Abbate, P Abbeel, MA Abdel-Aty, B Abdulhai, M Aeberhard, A Agarwal, ...
+Publication: IEEE Transactions on Intelligent Transportation Systems 13 (4), 1897
+
+316. Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots
+Citations:
+Authors: M Tayson-Frederick, P Abbeel, RS Fearing
+Publication: 
+
+317. Load Balancing for Mobility-on-Demand Systems
+Citations:
+Authors: H Durrant-Whyte, N Roy, P Abbeel
+Publication: MIT Press
+
+318. The path inference filter: model-based low-latency map matching of probe vehicle data. DRAFT-Do not redistribute.
+Citations:
+Authors: T Hunter, R Herring, P Abbeel, A Bayen
+Publication: 
+
+319. Robotics: Science and Systems VI
+Citations:
+Authors: R Maladen, Y Ding, P Umbanhowar, A Kamor, D Goldman, P Sreetharan, ...
+Publication: MIT Press
+
+320. Behavioral cloning example
+Citations:
+Authors: P Abbeel
+Publication: 
+
+321. Today and forthcoming lectures
+Citations:
+Authors: P Abbeel
+Publication: 
+
+322. Apprenticeship Learning for Robotic Control, with Applications to Quadruped Locomotion and Autonomous Helicopter Flight
+Citations:
+Authors: P Abbeel
+Publication: 
+
+323. Closing the design loop in reinforcement learning
+Citations:
+Authors: P Abbeel
+Publication: 
+
+324. An open source AGPS/DGPS capable C-coded software receiver
+Citations:
+Authors: S Gleason, M Quigley, P Abbeel
+Publication: Proceedings of the 22nd International Technical Meeting of The Satellite …
+
+325. Benchmarking Model-Based Reinforcement Learning
+Citations:
+Authors: E Langlois, S Zhang, G Zhang, P Abbeel, J Ba
+Publication: 
+
+326. Learning Force-Based Manipulation of Deformable Objects from Multiple Demonstrations
+Citations:
+Authors: S Levine, H Lu, A Gupta, AX Lee, P Abbeel
+Publication: 
+
+327. Hierarchical Imitation Learning via Variational Inference of Control Programs
+Citations:
+Authors: R Fox, R Shin, W Paul, Y Zou, D Song, K Goldberg, P Abbeel, I Stoica
+Publication: 
+
+328. Evolved Policy Gradients: Supplementary Materials
+Citations:
+Authors: R Houthooft, RY Chen, P Isola, BC Stadie, F Wolski, J Ho, P Abbeel
+Publication: 
+
+329. Imitation Learning of Hierarchical Programs via Variational Inference
+Citations:
+Authors: R Fox, R Shin, P Abbeel, K Goldberg, D Song, I Stoica
+Publication: 
+
+330. Universal Planning Networks-Long Version+ Supplementary
+Citations:
+Authors: A Srinivas, A Jabri, P Abbeel, S Levine, C Finn
+Publication: 
+
+331. Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement
+Citations:
+Authors: T Haarnoja, A Zhou, P Abbeel, S Levine
+Publication: 
+
+332. Learning to Poke by Poking: Experiential Learning of Intuitive Physics Supplementary Materials
+Citations:
+Authors: P Agrawal, A Nair, P Abbeel, J Malik, S Levine
+Publication: 
+
+333. Appendix of InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+Citations:
+Authors: X Chen, Y Duan, R Houthooft, J Schulman, I Sutskever, P Abbeel
+Publication: 
+
+334. CS 287, Fall 2013 Optional Extra Credit Problems Extended Kalman Filtering and Gaussian Belief Space Planning through Sequential Convex Programming [40pts]
+Citations:
+Authors: S Patil, P Abbeel
+Publication: 
+
+335. ROBOTICS
+Citations:
+Authors: C Belta, M Bennewitz, J Buchli, T Drummond, D Goldman, K Hauser, ...
+Publication: 
+
+336. gMapping Overview
+Citations:
+Authors: P Abbeel
+Publication: 
+
+337. Real-time Approximate Optimal Motion Planning via Guided Policy Search Variant Method
+Citations:
+Authors: Y Fan, P Abbeel
+Publication: 
+
+338. 2013 Index IEEE Transactions on Automation Science and Engineering Vol. 10
+Citations:
+Authors: P Abbeel, N Afzulpurkar, K Ahmed, JJ Alcaraz, S Ali, S Alvo, K Aminian, ...
+Publication: 
+
+339. 2015 Index IEEE Transactions on Automation Science and Engineering Vol. 12
+Citations:
+Authors: P Abbeel, A Adler, CE Aguero, AP Aguiar, S Akella, K Akesson, HL Akin, ...
+Publication: 
+
+340. Learning an Interface to Improve Efficiency in Combined Task and Motion Planning
+Citations:
+Authors: R Chitnis, D Hadfield-Menell, S Srivastava, A Gupta, P Abbeel
+Publication: 
+
+341. OPTIMIZATION-BASED COOPERATIVE MULTI-ROBOT TARGET TRACKING WITH REASONING ABOUT OCCLUSIONS
+Citations:
+Authors: K HAUSMAN, G KAHN, S PATIL, J MÜLLER, KEN GOLDBERG, ...
+Publication: 
+
+342. Multi-Arm Bandit Models for 2D Sample Based Grasp Planning with Uncertainty [v 16]
+Citations:
+Authors: M Laskey, J Mahler, Z McCarthy, FT Pokorny, S Patil, J van den Berg, ...
+Publication: 
+
+343. Sparse Combinatorial Autoencoders
+Citations:
+Authors: KS Narayan, P Abbeel
+Publication: 
+
+344. Learning to Select Expert Demonstrations for Deformable Object Manipulation
+Citations:
+Authors: D Hadfield-Menell, A Lee, S Huang, E Tzeng, P Abbeel
+Publication: 
+
+345. Learning 2D Linear Dynamics in Image Space Using Neural Networks
+Citations:
+Authors: J Mahler, M Laskey, J Schulman, S Levine, J Donahue, S Patil, P Abbeel, ...
+Publication: 
+
+346. Learning Locomotion Controllers via Trajectory Optimization
+Citations:
+Authors: S Levine, P Abbeel
+Publication: 
+
+347. Learning Locomotion Controllers with a Policy Iteration Algorithm
+Citations:
+Authors: J Schulman, S Levine, P Abbeel
+Publication: 
+
+348. Cyborg Insect: Insect Machine Hybrid System for Locomotion Control
+Citations:
+Authors: VDT Thang, S Kolev, HN Anh, Z Chao, TL Massey, P Abbeel, ...
+Publication: 
+
+349. Biological Flapping and Legged Machine: Insect-Machine Hybrid System
+Citations:
+Authors: VDT Thang, S Kolev, HN Anh, Z Chao, TL Massey, P Abbeel, ...
+Publication: 
+
+350. Support Vector Number Reduction: Survey and Experimental Evaluations.................. HG Jung and G. Kim 463 ITS for Sustainable Mobility: A Survey on Applications and Impact …
+Citations:
+Authors: T Hunter, P Abbeel, A Bayen, YS Huang, YS Weng, M Zhou, J Wang, ...
+Publication: 
+
+351. Bootstrapping Trajectory Transfer from Multiple Demonstrations with Applications to Deformable Object Manipulation
+Citations:
+Authors: A Gupta, D Hadfield-Menell, R Gleichman, P Abbeel
+Publication: 
+
+352. Gaussian Belief Space Planning for Articulated Robots
+Citations:
+Authors: ALSPJ Schulman, ZMCJ van den Berg, KGP Abbeel
+Publication: 
+
+353. Environment-Guided RRT for Kinodynamic Motion Planning
+Citations:
+Authors: L Jaillet, J Hoffman, J van den Berg, P Abbeel, JM Porta, K Goldberg
+Publication: 
+
+354. IMPLICIT SOFTMAX FUNCTIONS FOR CONVEX REGRESSION, WITH APPLICATION TO GEOMETRIC PROGRAMMING
+Citations:
+Authors: W HOBURG, P ABBEEL
+Publication: 
+
+355. Using Non-Rigid Registration to Generalize Robot Motion
+Citations:
+Authors: JD Schulman, J Ho, C Lee, P Abbeel
+Publication: 
+
+356. Risk Aversion in Markov Decision Processes via Near-Optimal Chernoff Bounds
+Citations:
+Authors: P Abbeel, TM Moldovan
+Publication: 
+
+357. The path inference filter: model-based low-latency map matching of probe vehicle data Supplementary Materials
+Citations:
+Authors: T Hunter, P Abbeel, A Bayen
+Publication: 
+
+358. Ballbot: A Low-Cost, Open-Source, Open-Design Robot for Tennis Ball Retrieval
+Citations:
+Authors: J Wang, K Lakshmanan, A Gupta, P Abbeel
+Publication: 
+
+359. Learning Parameterized Maneuvers for Autonomous Helicopter Aerobatics from Expert Demonstration
+Citations:
+Authors: J Tang, A Singh, N Goehausen, P Abbeel
+Publication: 
+
+360. Dynamic sensing policies for monitoring arterial road traffic
+Citations:
+Authors: A Hofleitner, S Amin, R Herring, P Abbeel, A Bayen
+Publication: 
+
+361. Motion Planning for Deformable One-Dimensional Objects
+Citations:
+Authors: S Tandon, S Javdani, JF O’Brien, P Abbeel
+Publication: 
+

@@ -1,0 +1,728 @@
+https://scholar.google.com/citations?hl=en&user=a_dbdxAAAAAJ
+Total Citations = 23726
+
+1. Exact matrix completion via convex optimization
+Citations:4295
+Authors: EJ Candès, B Recht
+Publication: Foundations of Computational mathematics 9 (6), 717
+
+2. Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization
+Citations:2711
+Authors: B Recht, M Fazel, PA Parrilo
+Publication: SIAM Review 52 (3), 471-501
+
+3. Random features for large-scale kernel machines
+Citations:1685
+Authors: A Rahimi, B Recht
+Publication: Advances in neural information processing systems, 1177-1184
+
+4. Physical one-way functions
+Citations:1414
+Authors: R Pappu, B Recht, J Taylor, N Gershenfeld
+Publication: Science 297 (5589), 2026
+
+5. Hogwild!: A lock-free approach to parallelizing stochastic gradient descent
+Citations:1404
+Authors: F Niu, B Recht, C Ré, SJ Wright
+Publication: Advances in Neural Information Processing Systems 24, 693--701
+
+6. Understanding deep learning requires rethinking generalization
+Citations:1097
+Authors: C Zhang, S Bengio, M Hardt, B Recht, O Vinyals
+Publication: arXiv preprint arXiv:1611.03530
+
+7. The Convex Geometry of Linear Inverse Problems
+Citations:998
+Authors: V Chandrasekaran, B Recht, PA Parrilo, AS Willsky
+Publication: Foundations of Computational Mathematics 12 (6), 805-849
+
+8. A simpler approach to matrix completion
+Citations:735
+Authors: B Recht
+Publication: The Journal of Machine Learning Research 12, 3413-3430
+
+9. Compressed sensing off the grid
+Citations:626
+Authors: G Tang, BN Bhaskar, P Shah, B Recht
+Publication: IEEE Transactions on Information Theory 59 (11), 7465-7490
+
+10. Tensor completion and low-n-rank tensor recovery via convex optimization
+Citations:487
+Authors: S Gandy, B Recht, I Yamada
+Publication: Inverse Problems 27 (2), 025010
+
+11. Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning
+Citations:363
+Authors: A Rahimi, B Recht
+Publication: Advances in Neural Information Processing Systems 21
+
+12. Online identification and tracking of subspaces from highly incomplete information
+Citations:339
+Authors: L Balzano, R Nowak, B Recht
+Publication: 2010 48th Annual allerton conference on communication, control, and …
+
+13. Train faster, generalize better: Stability of stochastic gradient descent
+Citations:323
+Authors: M Hardt, B Recht, Y Singer
+Publication: arXiv preprint arXiv:1509.01240
+
+14. Gradient descent only converges to minimizers
+Citations:321
+Authors: JD Lee, M Simchowitz, MI Jordan, B Recht
+Publication: Conference on learning theory, 1246-1257
+
+15. Atomic norm denoising with applications to line spectral estimation
+Citations:308
+Authors: BN Bhaskar, G Tang, B Recht
+Publication: IEEE Transactions on Signal Processing 61 (23), 5987-5999
+
+16. Audiopad: a tag-based interface for musical performance
+Citations:282
+Authors: J Patten, B Recht, H Ishii
+Publication: Proceedings of the 2002 conference on New interfaces for musical expression, 1-6
+
+17. Parallel stochastic gradient algorithms for large-scale matrix completion
+Citations:280
+Authors: B Recht, C Ré
+Publication: Mathematical Programming Computation 5 (2), 201-226
+
+18. Blind deconvolution using convex programming
+Citations:278
+Authors: A Ahmed, B Recht, J Romberg
+Publication: IEEE Transactions on Information Theory 60 (3), 1711-1732
+
+19. The marginal value of adaptive gradient methods in machine learning
+Citations:240
+Authors: AC Wilson, R Roelofs, M Stern, N Srebro, B Recht
+Publication: Advances in Neural Information Processing Systems, 4148-4158
+
+20. Analysis and design of optimization algorithms via integral quadratic constraints
+Citations:210
+Authors: L Lessard, B Recht, A Packard
+Publication: SIAM Journal on Optimization 26 (1), 57-95
+
+21. Factoring nonnegative matrices with linear programs
+Citations:199
+Authors: V Bittorf, B Recht, C Re, JA Tropp
+Publication: Advances in Neural Information Processing Systems 25
+
+22. Low-rank solutions of linear matrix equations via procrustes flow
+Citations:198
+Authors: S Tu, R Boczar, M Simchowitz, M Soltanolkotabi, B Recht
+Publication: arXiv preprint arXiv:1507.03566
+
+23. Ernest: efficient performance prediction for large-scale advanced analytics
+Citations:188
+Authors: S Venkataraman, Z Yang, M Franklin, B Recht, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+24. Transduction with matrix completion: Three birds with one stone
+Citations:187
+Authors: A Goldberg, B Recht, J Xu, R Nowak, J Zhu
+Publication: Advances in neural information processing systems, 757-765
+
+25. Towards a unified architecture for in-RDBMS analytics
+Citations:148
+Authors: X Feng, A Kumar, B Recht, C Ré
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+26. A general analysis of the convergence of ADMM
+Citations:141
+Authors: R Nishihara, L Lessard, B Recht, A Packard, MI Jordan
+Publication: arXiv preprint arXiv:1502.02009
+
+27. Near minimax line spectral estimation
+Citations:135
+Authors: G Tang, BN Bhaskar, B Recht
+Publication: IEEE Transactions on Information Theory 61 (1), 499-512
+
+28. Practical large-scale optimization for max-norm regularization
+Citations:130
+Authors: JD Lee, B Recht, N Srebro, J Tropp, RR Salakhutdinov
+Publication: Advances in neural information processing systems, 1297-1305
+
+29. Null space conditions and thresholds for rank minimization
+Citations:129
+Authors: B Recht, W Xu, B Hassibi
+Publication: Mathematical programming 127 (1), 175-202
+
+30. A framework for incorporating general domain knowledge into latent Dirichlet allocation using first-order logic
+Citations:125
+Authors: D Andrzejewski, X Zhu, M Craven, B Recht
+Publication: Twenty-Second International Joint Conference on Artificial Intelligence
+
+31. Necessary and sufficient conditions for success of the nuclear norm heuristic for rank minimization
+Citations:125
+Authors: B Recht, W Xu, B Hassibi
+Publication: 2008 47th IEEE Conference on Decision and Control, 3065-3070
+
+32. Occupy the cloud: Distributed computing for the 99%
+Citations:122
+Authors: E Jonas, Q Pu, S Venkataraman, I Stoica, B Recht
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 445-451
+
+33. Simple bounds for recovering low-complexity models
+Citations:101
+Authors: E Candès, B Recht
+Publication: Mathematical Programming 141 (1), 577--589
+
+34. Efficient discrete approximations of quantum gates
+Citations:98
+Authors: AW Harrow, B Recht, IL Chuang
+Publication: Journal of Mathematical Physics 43 (9), 4445-4451
+
+35. Simple random search of static linear policies is competitive for reinforcement learning
+Citations:97
+Authors: H Mania, A Guy, B Recht
+Publication: Advances in Neural Information Processing Systems, 1800-1809
+
+36. Learning appearance manifolds from video
+Citations:96
+Authors: A Rahimi, T Darrell, B Recht
+Publication: Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer …
+
+37. Decomposition methods for large scale LP decoding
+Citations:95
+Authors: S Barman, X Liu, SC Draper, B Recht
+Publication: IEEE Transactions on Information Theory 59 (12), 7870-7886
+
+38. Perturbed iterate analysis for asynchronous stochastic optimization
+Citations:94
+Authors: H Mania, X Pan, D Papailiopoulos, B Recht, K Ramchandran, MI Jordan
+Publication: SIAM Journal on Optimization 27 (4), 2202-2229
+
+39. Compressed sensing and robust recovery of low rank matrices
+Citations:90
+Authors: M Fazel, E Candes, B Recht, P Parrilo
+Publication: 2008 42nd Asilomar Conference on Signals, Systems and Computers, 1043-1047
+
+40. A lyapunov analysis of momentum methods in optimization
+Citations:89
+Authors: AC Wilson, B Recht, MI Jordan
+Publication: arXiv preprint arXiv:1611.02635
+
+41. Sample complexity for 1-bit compressed sensing and sparse classification
+Citations:85
+Authors: A Gupta, R Nowak, B Recht
+Publication: 2010 IEEE International Symposium on Information Theory, 1553-1557
+
+42. Uniform approximation of functions with random bases
+Citations:85
+Authors: A Rahimi, B Recht
+Publication: 2008 46th Annual Allerton Conference on Communication, Control, and …
+
+43. Distributed control of systems over discrete groups
+Citations:84
+Authors: B Recht, R D'Andrea
+Publication: IEEE Transactions on Automatic Control 49 (9), 1446-1452
+
+44. On the sample complexity of the linear quadratic regulator
+Citations:83
+Authors: S Dean, H Mania, N Matni, B Recht, S Tu
+Publication: arXiv preprint arXiv:1710.01688
+
+45. Linear system identification via atomic norm regularization
+Citations:81
+Authors: P Shah, BN Bhaskar, G Tang, B Recht
+Publication: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 6265-6270
+
+46. High-dimensional matched subspace detection when data are missing
+Citations:81
+Authors: L Balzano, B Recht, R Nowak
+Publication: 2010 IEEE International Symposium on Information Theory, 1638-1642
+
+47. Interaction techniques for musical performance with tabletop tangible interfaces
+Citations:80
+Authors: J Patten, B Recht, H Ishii
+Publication: Proceedings of the 2006 ACM SIGCHI international conference on Advances in …
+
+48. Gradient descent learns linear dynamical systems
+Citations:78
+Authors: M Hardt, T Ma, B Recht
+Publication: arXiv preprint arXiv:1609.05191
+
+49. Universal measurement bounds for structured sparse signal recovery
+Citations:78
+Authors: N Rao, B Recht, R Nowak
+Publication: Artificial Intelligence and Statistics, 942-950
+
+50. The alternating descent conditional gradient method for sparse inverse problems
+Citations:77
+Authors: N Boyd, G Schiebinger, B Recht
+Publication: SIAM Journal on Optimization 27 (2), 616-639
+
+51. Query complexity of derivative-free optimization
+Citations:75
+Authors: KG Jamieson, R Nowak, B Recht
+Publication: Advances in Neural Information Processing Systems, 2672-2680
+
+52. First-order methods almost always avoid strict saddle points
+Citations:73
+Authors: JD Lee, I Panageas, G Piliouras, M Simchowitz, MI Jordan, B Recht
+Publication: Mathematical Programming, 1-27
+
+53. Learning kernels from indefinite similarities
+Citations:71
+Authors: Y Chen, MR Gupta, B Recht
+Publication: Proceedings of the 26th Annual International Conference on Machine Learning …
+
+54. Keystoneml: Optimizing pipelines for large-scale advanced analytics
+Citations:70
+Authors: ER Sparks, S Venkataraman, T Kaftan, MJ Franklin, B Recht
+Publication: 2017 IEEE 33rd international conference on data engineering (ICDE), 535-546
+
+55. Probability of unique integer solution to a system of linear equations
+Citations:68
+Authors: OL Mangasarian, B Recht
+Publication: European Journal of Operational Research 214 (1), 27-30
+
+56. Sparse recovery over continuous dictionaries-just discretize
+Citations:64
+Authors: G Tang, BN Bhaskar, B Recht
+Publication: 2013 Asilomar Conference on Signals, Systems and Computers, 1043-1047
+
+57. Sharp time–data tradeoffs for linear inverse problems
+Citations:62
+Authors: S Oymak, B Recht, M Soltanolkotabi
+Publication: IEEE Transactions on Information Theory 64 (6), 4129-4158
+
+58. Beneath the valley of the noncommutative arithmetic-geometric mean inequality: conjectures, case-studies, and consequences
+Citations:58
+Authors: B Recht, C Ré
+Publication: arXiv preprint arXiv:1202.4184
+
+59. Do ImageNet Classifiers Generalize to ImageNet?
+Citations:56
+Authors: B Recht, R Roelofs, L Schmidt, V Shankar
+Publication: arXiv preprint arXiv:1902.10811
+
+60. Fast methods for denoising matrix completion formulations, with applications to robust seismic data interpolation
+Citations:56
+Authors: A Aravkin, R Kumar, H Mansour, B Recht, FJ Herrmann
+Publication: SIAM Journal on Scientific Computing 36 (5), S237-S266
+
+61. Improvement in fast particle track reconstruction with robust statistics
+Citations:54
+Authors: MG Aartsen, R Abbasi, Y Abdou, M Ackermann, J Adams, JA Aguilar, ...
+Publication: Nuclear Instruments and Methods in Physics Research Section A: Accelerators …
+
+62. Drizzle: Fast and adaptable stream processing at scale
+Citations:53
+Authors: S Venkataraman, A Panda, K Ousterhout, M Armbrust, A Ghodsi, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 374-389
+
+63. Clustering with normalized cuts is clustering with a hyperplane
+Citations:53
+Authors: A Rahimi, B Recht
+Publication: Statistical Learning in Computer Vision 56
+
+64. Superresolution without separation
+Citations:49
+Authors: G Schiebinger, E Robeva, B Recht
+Publication: Information and Inference: A Journal of the IMA 7 (1), 1-30
+
+65. Parallel correlation clustering on big graphs
+Citations:48
+Authors: X Pan, D Papailiopoulos, S Oymak, B Recht, K Ramchandran, MI Jordan
+Publication: Advances in Neural Information Processing Systems, 82-90
+
+66. 3D imaging in volumetric scattering media using phase-space measurements
+Citations:47
+Authors: HY Liu, E Jonas, L Tian, J Zhong, B Recht, L Waller
+Publication: Optics express 23 (11), 14461-14471
+
+67. Efficient matrix completion for seismic data reconstruction
+Citations:43
+Authors: R Kumar, C Da Silva, O Akalin, AY Aravkin, H Mansour, B Recht, ...
+Publication: Geophysics 80 (5), V97-V114
+
+68. A tour of reinforcement learning: The view from continuous control
+Citations:42
+Authors: B Recht
+Publication: Annual Review of Control, Robotics, and Autonomous Systems 2, 253-279
+
+69. Least-squares temporal difference learning for the linear quadratic regulator
+Citations:42
+Authors: S Tu, B Recht
+Publication: arXiv preprint arXiv:1712.08642
+
+70. Learning without mixing: Towards a sharp analysis of linear system identification
+Citations:40
+Authors: M Simchowitz, H Mania, S Tu, MI Jordan, B Recht
+Publication: arXiv preprint arXiv:1802.08334
+
+71. Cyclades: Conflict-free asynchronous machine learning
+Citations:37
+Authors: X Pan, M Lam, S Tu, D Papailiopoulos, C Zhang, MI Jordan, ...
+Publication: Advances in Neural Information Processing Systems, 2568-2576
+
+72. Learning to transform time series with a few examples
+Citations:33
+Authors: A Rahimi, B Recht, T Darrell
+Publication: IEEE Transactions on Pattern Analysis and Machine Intelligence 29 (10), 1759 …
+
+73. Determining interconnections in chemical reaction networks
+Citations:33
+Authors: A Papachristodoulou, B Recht
+Publication: 2007 American Control Conference, 4872-4877
+
+74. Regret bounds for robust adaptive control of the linear quadratic regulator
+Citations:32
+Authors: S Dean, H Mania, N Matni, B Recht, S Tu
+Publication: Advances in Neural Information Processing Systems, 4188-4197
+
+75. K-subspaces with missing data
+Citations:32
+Authors: L Balzano, A Szlam, B Recht, R Nowak
+Publication: 2012 IEEE Statistical Signal Processing Workshop (SSP), 612-615
+
+76. Dimensionality reduction: beyond the Johnson-Lindenstrauss bound
+Citations:29
+Authors: Y Bartal, B Recht, LJ Schulman
+Publication: Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete …
+
+77. Large scale kernel learning using block coordinate descent
+Citations:26
+Authors: S Tu, R Roelofs, S Venkataraman, B Recht
+Publication: arXiv preprint arXiv:1602.05310
+
+78. Suppressing pseudocodewords by penalizing the objective of LP decoding
+Citations:26
+Authors: X Liu, SC Draper, B Recht
+Publication: 2012 IEEE Information Theory Workshop, 367-371
+
+79. Deeploco: Fast 3d localization microscopy using neural networks
+Citations:25
+Authors: N Boyd, E Jonas, HP Babcock, B Recht
+Publication: BioRxiv, 267096
+
+80. An SVD-free Pareto curve approach to rank minimization
+Citations:25
+Authors: AY Aravkin, R Kumar, H Mansour, B Recht, FJ Herrmann
+Publication: arXiv preprint arXiv:1302.4886
+
+81. Isometric sketching of any set via the restricted isometry property
+Citations:24
+Authors: S Oymak, B Recht, M Soltanolkotabi
+Publication: Information and Inference: A Journal of the IMA 7 (4), 707-726
+
+82. Robust efficiency and actuator saturation explain healthy heart rate control and variability
+Citations:23
+Authors: N Li, J Cruz, CS Chien, S Sojoudi, B Recht, D Stone, M Csete, ...
+Publication: Proceedings of the National Academy of Sciences 111 (33), E3476-E3485
+
+83. The simulator: Understanding adaptive sampling in the moderate-confidence regime
+Citations:21
+Authors: M Simchowitz, K Jamieson, B Recht
+Publication: arXiv preprint arXiv:1702.05186
+
+84. Security Analysis of Smartphone Point-of-Sale Systems.
+Citations:21
+Authors: WL Frisby, B Moench, B Recht, T Ristenpart
+Publication: WOOT, 22-33
+
+85. Non-asymptotic analysis of robust control from coarse-grained identification
+Citations:20
+Authors: S Tu, R Boczar, A Packard, B Recht
+Publication: arXiv preprint arXiv:1707.04791
+
+86. Compressive classification and the rare eclipse problem
+Citations:20
+Authors: AS Bandeira, DG Mixon, B Recht
+Publication: Compressed Sensing and its Applications, 197-220
+
+87. The gap between model-based and model-free methods on the linear quadratic regulator: An asymptotic viewpoint
+Citations:19
+Authors: S Tu, B Recht
+Publication: arXiv preprint arXiv:1812.03565
+
+88. Breaking locality accelerates block Gauss-Seidel
+Citations:19
+Authors: S Tu, S Venkataraman, AC Wilson, A Gittens, MI Jordan, B Recht
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+89. Unsupervised regression with applications to nonlinear system identification
+Citations:19
+Authors: A Rahimi, B Recht
+Publication: Advances in Neural Information Processing Systems 19, 1113
+
+90. Near-optimal bounds for binary embeddings of arbitrary sets
+Citations:17
+Authors: S Oymak, B Recht
+Publication: arXiv preprint arXiv:1512.04433
+
+91. Flare prediction using photospheric and coronal image data
+Citations:16
+Authors: E Jonas, M Bobra, V Shankar, JT Hoeksema, B Recht
+Publication: Solar Physics 293 (3), 48
+
+92. Convex blind deconvolution with random masks
+Citations:15
+Authors: G Tang, B Recht
+Publication: Computational Optical Sensing and Imaging, CW4C. 1
+
+93. Signal recovery in unions of subspaces with applications to compressive imaging
+Citations:15
+Authors: N Rao, B Recht, R Nowak
+Publication: arXiv preprint arXiv:1209.3079
+
+94. Safely learning to control the constrained linear quadratic regulator
+Citations:14
+Authors: S Dean, S Tu, N Matni, B Recht
+Publication: 2019 American Control Conference (ACC), 5582-5588
+
+95. The randomized causation coefficient
+Citations:13
+Authors: D Lopez-Paz, K Muandet, B Recht
+Publication: The Journal of Machine Learning Research 16 (1), 2901-2907
+
+96. Robust line spectral estimation
+Citations:13
+Authors: G Tang, P Shah, BN Bhaskar, B Recht
+Publication: 2014 48th Asilomar Conference on Signals, Systems and Computers, 301-305
+
+97. Finite-data performance guarantees for the output-feedback control of an unknown system
+Citations:12
+Authors: R Boczar, N Matni, B Recht
+Publication: 2018 IEEE Conference on Decision and Control (CDC), 2994-2999
+
+98. Meaningless comparisons lead to false optimism in medical machine learning
+Citations:12
+Authors: O DeMasi, K Kording, B Recht
+Publication: PloS one 12 (9), e0184604
+
+99. Atomic decomposition of mixtures of translation-invariant signals
+Citations:12
+Authors: G Tang, B Recht
+Publication: IEEE CAMSAP
+
+100. Alterations in cerebrospinal fluid proteins in a presymptomatic primary glioma model
+Citations:12
+Authors: JC Whitin, T Jang, M Merchant, TTS Yu, K Lau, B Recht, HJ Cohen, ...
+Publication: PloS one 7 (11), e49724
+
+101. The power of adaptivity in identifying statistical alternatives
+Citations:11
+Authors: KG Jamieson, D Haas, B Recht
+Publication: Advances in Neural Information Processing Systems, 775-783
+
+102. Exponential convergence bounds using integral quadratic constraints
+Citations:11
+Authors: R Boczar, L Lessard, B Recht
+Publication: 2015 54th IEEE Conference on Decision and Control (CDC), 7516-7521
+
+103. Musically expressive sound textures from generalized audio
+Citations:11
+Authors: B Recht, B Whitman
+Publication: Proc. of the 6th Int. Conf. on Digital Audio Effects (DAFx-03)
+
+104. A distinct phenotypic change in gliomas at the time of magnetic resonance imaging detection
+Citations:10
+Authors: T Jang, B Sathy, YH Hsu, M Merchant, B Recht, C Chang, L Recht
+Publication: Journal of neurosurgery 108 (4), 782-790
+
+105. On the Approximation of Toeplitz Operators for Nonparametric-norm Estimation
+Citations:9
+Authors: S Tu, R Boczar, B Recht
+Publication: 2018 Annual American Control Conference (ACC), 1867-1872
+
+106. Error correction circuit for data communication providing parallelizable linear programming decoding
+Citations:9
+Authors: S Draper, B Recht, S Barman
+Publication: US Patent 8,924,834
+
+107. The l1penalized decoder and its reweighted LP
+Citations:9
+Authors: X Liu, SC Draper, B Recht
+Publication: 2012 50th Annual Allerton Conference on Communication, Control, and …
+
+108. Certainty equivalent control of LQR is efficient
+Citations:8
+Authors: H Mania, S Tu, B Recht
+Publication: arXiv preprint arXiv:1902.07826
+
+109. On kernel methods for covariates that are rankings
+Citations:8
+Authors: H Mania, A Ramdas, MJ Wainwright, MI Jordan, B Recht
+Publication: Electronic Journal of Statistics 12 (2), 2537-2577
+
+110. Exponential stability analysis via integral quadratic constraints
+Citations:8
+Authors: R Boczar, L Lessard, A Packard, B Recht
+Publication: arXiv preprint arXiv:1706.01337
+
+111. Convolutional kitchen sinks for transcription factor binding site prediction
+Citations:8
+Authors: A Morrow, V Shankar, D Petersohn, A Joseph, B Recht, N Yosef
+Publication: arXiv preprint arXiv:1706.00125
+
+112. Well-being tracking via smartphone-measured activity and sleep: cohort study
+Citations:8
+Authors: O DeMasi, S Feygin, A Dembo, A Aguilera, B Recht
+Publication: JMIR mHealth and uHealth 5 (10), e137
+
+113. On the effectiveness of aluminium foil helmets: An empirical study
+Citations:8
+Authors: A Rahimi, B Recht, J Taylor, N Vawter
+Publication: Electrical Engineering
+
+114. Best-of-K-bandits
+Citations:7
+Authors: M Simchowitz, K Jamieson, B Recht
+Publication: Conference on Learning Theory, 1440-1489
+
+115. A step towards quantifying when an algorithm can and cannot predict an individual's wellbeing
+Citations:6
+Authors: O DeMasi, B Recht
+Publication: Proceedings of the 2017 ACM International Joint Conference on Pervasive and …
+
+116. Learning Linear Dynamical Systems with Semi-Parametric Least Squares
+Citations:5
+Authors: M Simchowitz, R Boczar, B Recht
+Publication: arXiv preprint arXiv:1902.00768
+
+117. Convex Modeling with Priors
+Citations:5
+Authors: BH Recht
+Publication: Massachusetts Institute of Technology
+
+118. Using unitary operations to preserve quantum states in the presence of relaxation
+Citations:5
+Authors: B Recht, Y Maguire, S Lloyd, IL Chuang, NA Gershenfeld
+Publication: arXiv preprint quant-ph/0210078
+
+119. numpywren: serverless linear algebra
+Citations:4
+Authors: V Shankar, K Krauth, Q Pu, E Jonas, S Venkataraman, I Stoica, B Recht, ...
+Publication: arXiv preprint arXiv:1810.09679
+
+120. Massively parallel hyperparameter tuning
+Citations:4
+Authors: L Li, K Jamieson, A Rostamizadeh, E Gonina, M Hardt, B Recht, ...
+Publication: arXiv preprint arXiv:1810.05934
+
+121. On the gap between strict-saddles and true convexity: An omega (log d) lower bound for eigenvector approximation
+Citations:4
+Authors: M Simchowitz, AE Alaoui, B Recht
+Publication: arXiv preprint arXiv:1704.04548
+
+122. Tight query complexity lower bounds for PCA via finite sample deformed wigner law
+Citations:3
+Authors: M Simchowitz, A El Alaoui, B Recht
+Publication: Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …
+
+123. Saturating splines and feature selection
+Citations:3
+Authors: N Boyd, T Hastie, S Boyd, B Recht, MI Jordan
+Publication: The Journal of Machine Learning Research 18 (1), 7172-7203
+
+124. Using Bayesian Optimization for Hardware Design
+Citations:2
+Authors: O DeMasi, J Gonzalez, B Recht, J Demmel
+Publication: NIPS Workshop on Bayesian Optimization, 1-5
+
+125. Determining interconnections in biochemical networks using linear programming
+Citations:2
+Authors: E August, A Papachristodoulou, B Recht, M Roberts, A Jadbabaie
+Publication: 2008 47th IEEE Conference on Decision and Control, 3311-3316
+
+126. Model Similarity Mitigates Test Set Overuse
+Citations:1
+Authors: H Mania, J Miller, L Schmidt, M Hardt, B Recht
+Publication: arXiv preprint arXiv:1905.12580
+
+127. A successive-elimination approach to adaptive robotic sensing
+Citations:1
+Authors: E Rolf, D Fridovich-Keil, M Simchowitz, B Recht, C Tomlin
+Publication: arXiv preprint arXiv:1809.10611
+
+128. Detecting change in depressive symptoms from daily wellbeing questions, personality, and activity
+Citations:1
+Authors: O Demasi, A Aguilera, B Recht
+Publication: 2016 IEEE Wireless Health (WH), 1-8
+
+129. Spingineering: quantum control in the presence of relaxation
+Citations:1
+Authors: BH Recht
+Publication: Massachusetts Institute of Technology
+
+130. Minimax Lower Bounds for H∞-Norm Estimation
+Citations:
+Authors: S Tu, R Boczar, B Recht
+Publication: 2019 American Control Conference (ACC), 3538-3543
+
+131. Mathematical Models of Physiological Responses to Exercise
+Citations:
+Authors: S Sojoudi, B Recht, JC Doyle
+Publication: 2019 American Control Conference (ACC), 1525-1532
+
+132. Robust Guarantees for Perception-Based Control
+Citations:
+Authors: S Dean, N Matni, B Recht, V Ye
+Publication: arXiv preprint arXiv:1907.03680
+
+133. A systematic framework for natural perturbations from videos
+Citations:
+Authors: V Shankar, A Dave, R Roelofs, D Ramanan, B Recht, L Schmidt
+Publication: arXiv preprint arXiv:1906.02168
+
+134. Towards augmenting crisis counselor training by improving message retrieval
+Citations:
+Authors: O DeMasi, MA Hearst, B Recht
+Publication: Proceedings of the Sixth Workshop on Computational Linguistics and Clinical …
+
+135. Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator
+Citations:
+Authors: K Krauth, S Tu, B Recht
+Publication: arXiv preprint arXiv:1905.12842
+
+136. Safely Learning to Control the Linear Quadratic Regulator
+Citations:
+Authors: S Dean, S Tu, N Matni, B Recht
+Publication: 
+
+137. Convolutions of random patches as a generalizable featurization for multi-domain prediction using remote sensing imagery
+Citations:
+Authors: IW Bolliger, T Carleton, SM Hsiang, J Kadish, J Proctor, B Recht, E Rolf, ...
+Publication: AGU Fall Meeting Abstracts
+
+138. Minimax Lower Bounds for -Norm Estimation
+Citations:
+Authors: S Tu, R Boczar, B Recht
+Publication: arXiv preprint arXiv:1809.10855
+
+139. An example of how false conclusions could be made with personalized health tracking and suggestions for avoiding similar situations
+Citations:
+Authors: O DeMasi, B Recht
+Publication: arXiv preprint arXiv:1711.05635
+
+140. Ground Control to Major Tom: the importance of field surveys in remotely sensed data analysis
+Citations:
+Authors: I Bolliger, T Carleton, S Hsiang, J Kadish, J Proctor, B Recht, E Rolf, ...
+Publication: arXiv preprint arXiv:1710.09342
+
+141. Computational phase space measurements using multiplexed coded apertures (Conference Presentation)
+Citations:
+Authors: HY Liu, NR Boyd, F Liu, B Recht, L Waller
+Publication: Computational Imaging II 10222, 1022203
+
+142. High-speed statistical processing in a database
+Citations:
+Authors: CM Ré, BH Recht
+Publication: US Patent 9,208,203
+
+143. Fast algorithm for 3D localization through scattering media: forward model and physics
+Citations:
+Authors: HY Liu, E Jonas, J Zhong, B Recht, L Waller
+Publication: Computational Optical Sensing and Imaging, CT3F. 3
+
+144. Cryptographic system and methods using a one way multidimensional function
+Citations:
+Authors: BH Recht, NA Gershenfeld, A Rahimi
+Publication: US Patent 8,041,037
+
+145. Robust Statistics in IceCube Initial Muon Reconstruction
+Citations:
+Authors: M Wellons, B Recht, C Ré
+Publication: 
+

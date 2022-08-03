@@ -1,0 +1,718 @@
+https://scholar.google.com/citations?hl=en&user=dVZNQqUAAAAJ
+Total Citations = 12141
+
+1. RAID: High-performance, reliable secondary storage
+Citations:1733
+Authors: PM Chen, EK Lee, GA Gibson, RH Katz, DA Patterson
+Publication: ACM Computing Surveys (CSUR) 26 (2), 145-185
+
+2. ReVirt: Enabling intrusion analysis through virtual-machine logging and replay
+Citations:1260
+Authors: GW Dunlap, ST King, S Cinar, MA Basrai, PM Chen
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 211-224
+
+3. When virtual is better than real [operating system relocation to virtual machines]
+Citations:650
+Authors: PM Chen, BD Noble
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 133-138
+
+4. SubVirt: Implementing malware with virtual machines
+Citations:592
+Authors: ST King, PM Chen
+Publication: 2006 IEEE Symposium on Security and Privacy (S&P'06), 14 pp.-327
+
+5. Maximizing performance in a striped disk array
+Citations:435
+Authors: PM Chen, DA Patterson
+Publication: ACM SIGARCH Computer Architecture News 18 (2SI), 322-331
+
+6. Backtracking intrusions
+Citations:434
+Authors: ST King, PM Chen
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 223-236
+
+7. Debugging operating systems with time-traveling virtual machines
+Citations:429
+Authors: ST King, GW Dunlap, PM Chen
+Publication: Proceedings of the annual conference on USENIX Annual Technical Conference, 1-1
+
+8. Disk scheduling revisited
+Citations:405
+Authors: M Seltzer, P Chen, J Ousterhout
+Publication: Proceedings of the winter 1990 USENIX technical conference, 313-323
+
+9. Operating System Support for Virtual Machines.
+Citations:378
+Authors: ST King, GW Dunlap, PM Chen
+Publication: USENIX Annual Technical Conference, General Track, 71-84
+
+10. Detecting past and present intrusions through vulnerability-specific predicates
+Citations:349
+Authors: A Joshi, ST King, GW Dunlap, PM Chen
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 91-104
+
+11. Introduction to redundant arrays of inexpensive disks (RAID)
+Citations:325
+Authors: DA Patterson, P Chen, G Gibson, RH Katz
+Publication: Digest of Papers. COMPCON Spring 89. Thirty-Fourth IEEE Computer Society …
+
+12. Execution replay of multiprocessor virtual machines
+Citations:311
+Authors: GW Dunlap, DG Lucchetti, MA Fetterman, PM Chen
+Publication: Proceedings of the fourth ACM SIGPLAN/SIGOPS international conference on …
+
+13. The Rio file cache: Surviving operating system crashes
+Citations:272
+Authors: PM Chen, WT Ng, S Chandra, C Aycock, G Rajamani, D Lowell
+Publication: Acm Sigplan Notices 31 (9), 74-83
+
+14. Decoupling dynamic program analysis from execution in virtual environments
+Citations:228
+Authors: J Chow, T Garfinkel, PM Chen
+Publication: USENIX 2008 Annual Technical Conference on Annual Technical Conference, 1-14
+
+15. Memory persistency
+Citations:210
+Authors: S Pelley, PM Chen, TF Wenisch
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 265-276
+
+16. DoublePlay: parallelizing sequential logging and replay
+Citations:197
+Authors: K Veeraraghavan, D Lee, B Wester, J Ouyang, PM Chen, J Flinn, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (1), 3
+
+17. Rethink the sync
+Citations:175
+Authors: EB Nightingale, K Veeraraghavan, PM Chen, J Flinn
+Publication: ACM Transactions on Computer Systems (TOCS) 26 (3), 6
+
+18. An evaluation of redundant arrays of disks using an Amdahl 5890
+Citations:175
+Authors: PM Chen, GA Gibson, RH Katz, DA Patterson
+Publication: ACM SIGMETRICS Performance Evaluation Review 18 (1), 74-85
+
+19. Respec: efficient online multiprocessor replayvia speculation and external determinism
+Citations:158
+Authors: D Lee, B Wester, K Veeraraghavan, S Narayanasamy, PM Chen, J Flinn
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 77-90
+
+20. Parallelizing security checks on commodity hardware
+Citations:149
+Authors: EB Nightingale, D Peek, PM Chen, J Flinn
+Publication: ACM Sigplan Notices 43 (3), 308-318
+
+21. Backtracking intrusions
+Citations:143
+Authors: ST King, PM Chen
+Publication: ACM Transactions on Computer Systems (TOCS) 23 (1), 51-76
+
+22. Free transactions with rio vista
+Citations:143
+Authors: DE Lowell, PM Chen
+Publication: SOSP 97, 92-101
+
+23. When Virtual is Better Than Real, Department of Electrical Engineering and Computer Science
+Citations:141
+Authors: PM Chen, BD Noble
+Publication: University of Michigan (“Chen”)
+
+24. Speculative execution in a distributed file system
+Citations:135
+Authors: EB Nightingale, PM Chen, J Flinn
+Publication: ACM SIGOPS operating systems review 39 (5), 191-205
+
+25. Enriching Intrusion Alerts Through Multi-Host Causality.
+Citations:135
+Authors: ST King, ZM Mao, DG Lucchetti, PM Chen
+Publication: NDSS
+
+26. Striping in a RAID level 5 disk array
+Citations:128
+Authors: PM Chen, EK Lee
+Publication: ACM SIGMETRICS Performance Evaluation Review 23 (1), 136-145
+
+27. Whither generic recovery from application faults? A fault study using open-source software
+Citations:126
+Authors: S Chandra, PM Chen
+Publication: Proceeding International Conference on Dependable Systems and Networks. DSN …
+
+28. A new approach to I/O performance evaluation: self-scaling I/O benchmarks, predicted I/O performance
+Citations:122
+Authors: PM Chen, DA Patterson
+Publication: ACM SIGMETRICS Performance Evaluation Review 21 (1), 1-12
+
+29. An analytical model for designing memory hierarchies
+Citations:107
+Authors: BL Jacob, PM Chen, SR Silverman, TN Mudge
+Publication: IEEE Transactions on Computers 45 (10), 1180-1194
+
+30. RAID-II: a scalable storage architecture for high-bandwidth network file service
+Citations:106
+Authors: EK Lee, PM Chen, JH Hartman, ALC Drapeau, EL Miller, RH Katz, ...
+Publication: Technical Report UCB/CSD 92/672, University of California at Berkeley
+
+31. High-performance transactions for persistent memories
+Citations:102
+Authors: A Kolli, S Pelley, A Saidi, PM Chen, TF Wenisch
+Publication: ACM SIGPLAN Notices 51 (4), 399-411
+
+32. RAID-II: A high-bandwidth network file server
+Citations:102
+Authors: AL Drapeau, KW Shirriff, JH Hartman, EL Miller, S Seshan, RH Katz, ...
+Publication: Proceedings of 21 International Symposium on Computer Architecture, 234-244
+
+33. Race detection for event-driven mobile applications
+Citations:98
+Authors: CH Hsiao, J Yu, S Narayanasamy, Z Kong, CL Pereira, GA Pokam, ...
+Publication: ACM SIGPLAN Notices 49 (6), 326-336
+
+34. Pocket hypervisors: Opportunities and challenges
+Citations:94
+Authors: LP Cox, PM Chen
+Publication: Eighth IEEE Workshop on Mobile Computing Systems and Applications, 46-50
+
+35. Detecting and surviving data races using complementary schedules
+Citations:84
+Authors: K Veeraraghavan, PM Chen, J Flinn, S Narayanasamy
+Publication: Proceedings of the twenty-third ACM symposium on operating systems …
+
+36. The systematic improvement of fault tolerance in the Rio file cache
+Citations:83
+Authors: WT Ng, PM Chen
+Publication: Digest of Papers. Twenty-Ninth Annual International Symposium on Fault …
+
+37. Exploring failure transparency and the limits of generic recovery
+Citations:80
+Authors: DE Lowell, S Chandra, PM Chen
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+38. How fail-stop are faulty programs?
+Citations:76
+Authors: S Chandra, PM Chen
+Publication: Digest of Papers. Twenty-Eighth Annual International Symposium on Fault …
+
+39. Eidetic systems
+Citations:70
+Authors: D Devecsery, M Chow, X Dou, J Flinn, PM Chen
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+40. Chimera: hybrid program analysis for determinism
+Citations:66
+Authors: D Lee, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGPLAN Notices 47 (6), 463-474
+
+41. Fast cluster failover using virtual memory-mapped communication
+Citations:66
+Authors: Y Zhou, PM Chen, K Li
+Publication: Proceedings of the 13th international conference on Supercomputing, 373-382
+
+42. Accelerating mobile applications through flip-flop replication
+Citations:64
+Authors: MS Gordon, DK Hong, PM Chen, J Flinn, S Mahlke, ZM Mao
+Publication: Proceedings of the 13th Annual International Conference on Mobile Systems …
+
+43. Operating system extensions to support host based virtual machines
+Citations:59
+Authors: ST King, PM Chen
+Publication: computing 23, 19
+
+44. Delegated persist ordering
+Citations:55
+Authors: A Kolli, J Rosen, S Diestelhorst, A Saidi, S Pelley, S Liu, PM Chen, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 58
+
+45. Tolerating Latency in Replicated State Machines Through Client Speculation.
+Citations:54
+Authors: B Wester, JA Cowling, EB Nightingale, PM Chen, J Flinn, B Liskov
+Publication: NSDI, 245-260
+
+46. Storage performance-metrics and benchmarks
+Citations:53
+Authors: PM Chen, DA Patterson
+Publication: Proceedings of the IEEE 81 (8), 1151-1165
+
+47. Speculative execution in a distributed file system
+Citations:50
+Authors: EB Nightingale, PM Chen, J Flinn
+Publication: ACM Transactions on Computer Systems (TOCS) 24 (4), 361-392
+
+48. The design and verification of the Rio file cache
+Citations:50
+Authors: WT Ng, PM Chen
+Publication: IEEE Transactions on Computers 50 (4), 322-337
+
+49. Global backtracking of anthropogenic radionuclides by means of a receptor oriented ensemble dispersion modelling system in support of Nuclear-Test-Ban Treaty verification
+Citations:49
+Authors: A Becker, G Wotawa, LE De Geer, P Seibert, RR Draxler, C Sloan, ...
+Publication: Atmospheric Environment 41 (21), 4520-4534
+
+50. Parallelizing data race detection
+Citations:47
+Authors: B Wester, D Devecsery, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGARCH computer architecture news 41 (1), 27-38
+
+51. Integrating reliable memory in databases
+Citations:45
+Authors: WT Ng, PM Chen
+Publication: The VLDB Journal 7 (3), 194-204
+
+52. Performance and design evaluation of the RAID-II storage server
+Citations:45
+Authors: PM Chen, EK Lee, AL Drapeau, K Lutz, EL Miller, S Seshan, K Shirriff, ...
+Publication: Distributed and Parallel Databases 2 (3), 243-260
+
+53. Multi-stage replay with crosscut
+Citations:39
+Authors: J Chow, D Lucchetti, T Garfinkel, G Lefebvre, R Gardner, J Mason, ...
+Publication: ACM Sigplan Notices 45 (7), 13-24
+
+54. An automated feedback system for computer organization projects
+Citations:39
+Authors: PM Chen
+Publication: IEEE Transactions on Education 47 (2), 232-240
+
+55. Discount checking: Transparent, low-overhead recovery for general applications
+Citations:31
+Authors: DE Lowell, PM Chen
+Publication: Technical Report CSE-TR-410-99, University of Michigan
+
+56. RAID: High-performance, reliable secondary storage
+Citations:29
+Authors: PM Chen, EK Lee, GA Gibson, RH Katz, DA Patterson
+Publication: University of California at Berkeley
+
+57. ExtraVirt: Detecting and recovering from transient processor faults
+Citations:28
+Authors: D Lucchetti, SK Reinhardt, PM Chen
+Publication: Proceedings of the twentieth ACM symposium on Operating systems principles, 1-8
+
+58. Language-level persistency
+Citations:27
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+59. Comparing disk and memory's resistance to operating system crashes
+Citations:27
+Authors: WT Ng, CM Aycock, G Rajamani, PM Chen
+Publication: Proceedings of ISSRE'96: 7th International Symposium on Software Reliability …
+
+60. Operating system support for application-specific speculation
+Citations:25
+Authors: B Wester, PM Chen, J Flinn
+Publication: Proceedings of the sixth conference on Computer systems, 229-242
+
+61. RAID-2: Design and implementation of a large scale disk array controller
+Citations:24
+Authors: RH Katz, PM Chen, AL Drapeau, EK Lee, K Lutz, EL Miller, S Seshan, ...
+Publication: 
+
+62. The impact of recovery mechanisms on the likelihood of saving corrupted state
+Citations:23
+Authors: S Chandra, PM Chen
+Publication: 13th International Symposium on Software Reliability Engineering, 2002 …
+
+63. Two papers on RAIDs
+Citations:19
+Authors: P Chen, G Gibson, RH Katz, DA Patterson, M Schulze
+Publication: includes “Introduction to Redundant Arrays of Inexpensive Disks (RAID)” and …
+
+64. Foldable massaging mattress
+Citations:17
+Authors: P Chen
+Publication: US Patent 6,409,689
+
+65. Optimizing delay in delayed-write file systems
+Citations:14
+Authors: PM Chen
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+66. Persistency for synchronization-free regions
+Citations:12
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: ACM SIGPLAN Notices 53 (4), 46-61
+
+67. JetStream: Cluster-scale parallelization of information flow queries
+Citations:12
+Authors: A Quinn, D Devecsery, PM Chen, J Flinn
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+68. Cooperative ReVirt: adapting message logging for intrusion analysis
+Citations:12
+Authors: M Basrai, PM Chen
+Publication: Technical Report University of Michigan CSE-TR-504-04
+
+69. Memory persistency: Semantics for byte-addressable nonvolatile memory technologies
+Citations:8
+Authors: S Pelley, PM Chen, TF Wenisch
+Publication: IEEE Micro 35 (3), 125-131
+
+70. Persistency programming 101
+Citations:8
+Authors: A Kolli, S Pelley, A Saidi, PM Chen, TF Wenisch, S Computing
+Publication: Non-Volatile Memories Workshop
+
+71. Raid-ii: A scalable storage architecture for high-bandwidth network
+Citations:8
+Authors: EK Lee, PM Chen, JH Hartman, ALC Drapeau, EL Miller, RH Katz, ...
+Publication: University of California at Berkeley
+
+72. Controlling persistent writes to non-volatile memory based on persist buffer data and a persist barrier within a sequence of program instructions
+Citations:6
+Authors: S Diestelhorst, A Kolli, AG Saidi, P Chen, TF Wenisch
+Publication: US Patent 9,946,492
+
+73. Optimistic hybrid analysis: Accelerating dynamic analysis through predicated static analysis
+Citations:6
+Authors: D Devecsery, PM Chen, J Flinn, S Narayanasamy
+Publication: ACM SIGPLAN Notices 53 (2), 348-362
+
+74. … And Region Serializability for All
+Citations:6
+Authors: J Ouyang, PM Chen, J Flinn, S Narayanasamy
+Publication: Presented as part of the 5th {USENIX} Workshop on Hot Topics in Parallelism
+
+75. Reliability hierarchies
+Citations:6
+Authors: PM Chen, DE Lowell
+Publication: Proceedings of the Seventh Workshop on Hot Topics in Operating Systems, 168-173
+
+76. Intraday nonlinear behavior of stock prices
+Citations:6
+Authors: M Hinich, D Patterson
+Publication: Nonlinear Dynamics and Evolutionary Economics, 201-14
+
+77. Input-output performance evaluation: self-scaling benchmarks, predicted performance
+Citations:6
+Authors: PM Chen
+Publication: University of California at Berkeley
+
+78. Transmission assembly for a massaging chair
+Citations:5
+Authors: P Chen
+Publication: US Patent 7,022,091
+
+79. Persistent messages in local transactions
+Citations:5
+Authors: DE Lowell, PM Chen
+Publication: Annual ACM Symposium on Principles of Distributed Computing: Proceedings of …
+
+80. Tarp: Translating acquire-release persistency
+Citations:4
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, PM Chen, S Narayanasamy, ...
+Publication: 
+
+81. Tango: accelerating mobile applications through flip-flop replication
+Citations:4
+Authors: MS Gordon, DK Hong, PM Chen, J Flinn, S Mahlke, ZM Mao
+Publication: GetMobile: Mobile Computing and Communications 19 (3), 10-13
+
+82. Epoch parallelism: one execution is not enough
+Citations:4
+Authors: J Ouyang, K Veeraraghavan, D Lee, P Chen, J Flinn, S Narayanasamy
+Publication: Presentation In Research Vision Session, OSDI
+
+83. the importance of atmospheric transport Modelling: over ten years of cooperation between the world Meteorological organization and the ctbto
+Citations:4
+Authors: FBOATM ATM
+Publication: 
+
+84. Plato: A platform for virtual machine services
+Citations:4
+Authors: ST King, GW Dunlap, PM Chen
+Publication: University of Michigan, Tech. Rep. CSETR-498-04
+
+85. Theory and Practice of Failure Transparency
+Citations:4
+Authors: DE Lowell, PM Chen
+Publication: University of Michigan
+
+86. Rio: Storing Files Reliably in Memory
+Citations:4
+Authors: P Chen, C Aycock, W Ng, G Rajamani, R Sivaramakrishnan
+Publication: Technical Report CSE-TR250-95. University of Michigan
+
+87. A New Approach to I/O Benchmarks: Adaptive Evaluation, Predicted Performance
+Citations:4
+Authors: PM Chen, DA Patterson
+Publication: University of California, Berkeley, Computer Science Division
+
+88. A case for custom silicon in enabling low-cost information technology for developing regions
+Citations:3
+Authors: ZY Foo, D Devecsery, T Schmid, N Clark, R Frank, M Ghaed, Y Kuo, I Lee, ...
+Publication: Proceedings of the First ACM Symposium on Computing for Development, 22
+
+89. CIDS: Causality Based Intrusion Detection System
+Citations:3
+Authors: ST King, ZM Mao, PM Chen
+Publication: University of Michigan, Tech. Rep
+
+90. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+91. A low-cost audio computer for information dissemination among illiterate people groups
+Citations:2
+Authors: ZY Foo, D Devescery, MH Ghaed, I Lee, A Madhavan, YS Park, AS Rao, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 60 (8), 2039-2050
+
+92. A comment on" An analytical model for designing memory hierarchies"
+Citations:2
+Authors: BL Jacob, PM Chen, TN Mudge, SR Silverman
+Publication: IEEE Transactions on Computers 46 (10), 1151
+
+93. Unix I/O performance in workstations and mainframes
+Citations:2
+Authors: PM Chen, DA Patterson
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+94. Failure-atomic synchronization-free regions
+Citations:1
+Authors: V Gogte, S Diestelhorst, W Wang, S Narayanasamy, PM Chen, ...
+Publication: 
+
+95. Knockoff: Cheap versions in the cloud
+Citations:1
+Authors: X Dou, PM Chen, J Flinn
+Publication: 15th {USENIX} Conference on File and Storage Technologies ({FAST} 17), 73-88
+
+96. Input-Output Performance Evaluation: Self-Scaling Benchmarks
+Citations:1
+Authors: PM Chen
+Publication: University of California at Berkeley
+
+97. RAID-II: Design and implementation of a large scale disk array
+Citations:1
+Authors: RH Katz, PM Chen, ALC Drapeau, EK Lee, K Lutz, EL Miller, S Seshan, ...
+Publication: University of California at Berkeley
+
+98. Language support for memory persistency
+Citations:
+Authors: A Kolli, V Gogte, A Saidi, S Diestelhorst, W Wang, PM Chen, ...
+Publication: IEEE Micro 39 (3), 94-102
+
+99. Software wear management for persistent memories
+Citations:
+Authors: V Gogte, W Wang, S Diestelhorst, A Kolli, PM Chen, S Narayanasamy, ...
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 45-63
+
+100. Decoupling dynamic program analysis from execution in virtual environments
+Citations:
+Authors: T GARFINKEL
+Publication: US Patent App. 15/818,577
+
+101. Musings: Theory of Mind
+Citations:
+Authors: R Farrow, D Firestone, R Priedhorsky, T Randles, X Dou, PM Chen, ...
+Publication: ; login: 42 (3)
+
+102. Toward eidetic distributed file systems
+Citations:
+Authors: X Dou, J Flinn, PM Chen
+Publication: 7th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 15)
+
+103. Porting Android to Microkernel: An Experimental Approach
+Citations:
+Authors: P Chen, J Ringenberg
+Publication: 
+
+104. BFT-Practical Byzantine Fault Tolerance
+Citations:
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, J Cowling, D Schultz, ...
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158
+
+105. Supporting velocity of investigation with behavior analysis of malware
+Citations:
+Authors: R Nolan, P Chen
+Publication: Proceedings of the Seventh Annual Workshop on Cyber Security and Information …
+
+106. Transistors to toys: teaching systems to freshmen
+Citations:
+Authors: PM Chen
+Publication: ACM Sigplan Notices 45 (7), 1-2
+
+107. Research in virtual machines
+Citations:
+Authors: PM Chen, D Lucchetti, A Joshi
+Publication: 
+
+108. OSDI’06: 7th USENIX Symposium on Operating Systems Design and Implementation
+Citations:
+Authors: EB Nightingale, K Veeraraghavan, PM Chen, J Flinn
+Publication: 
+
+109. Computer Recognizes Expert Reviewers
+Citations:
+Authors: D Carver
+Publication: Computer, 77-79
+
+110. GENERAL TRACK
+Citations:
+Authors: ST King, GW Dunlap, PM Chen
+Publication: 
+
+111. 2003 Reviewers list
+Citations:
+Authors: TF Abdelzaher, L Abeni, T Acar, A Adelsbach, N Akar, A Akkas, ...
+Publication: IEEE Transactions on Computers 53 (1), 93
+
+112. Darius, P. 269 Davis, AR 425 Dıaz-Pérez, JC 199 Dentener, PR 391 Dole, JM
+Citations:
+Authors: M Acosta, MF Adkins, M Agusti, F Alférez, V Alleyne, R Amour, MB Arnao, ...
+Publication: Postharvest Biology and Technology 28, 463-464
+
+113. Backtracking Intrusions
+Citations:
+Authors: PM Chen
+Publication: Ann Arbor 1001, 48109-2122
+
+114. Proceedings of the 2003 Symposium on Operating Systems Principles (SOSP)
+Citations:
+Authors: ST King, PM Chen
+Publication: Backtracking Intrusions
+
+115. RAID-II: A high-bandwidth network file server
+Citations:
+Authors: AL Chervenak, K Shirriff, JH Hartman, EL Miller, S Seshan, RH Katz, ...
+Publication: High Performance Mass Storage and Parallel I/O: Technologies and …
+
+116. 1998 Reviewers List
+Citations:
+Authors: A Agrawala, R Aitken, SG Akl, D Akopian, J Anderson, S Andradottir, ...
+Publication: IEEE Transactions on Computers 48 (1), 95
+
+117. Integrating reliable memory in databases
+Citations:
+Authors: PM Chen, WT Ng
+Publication: Springer-Verlag; Springer-Verlag Berlin Heidelberg
+
+118. Memory and Mass Storage Systems
+Citations:
+Authors: PM Chen
+Publication: 
+
+119. TX, USA) 157
+Citations:
+Authors: C Kubota, NC Rajapakse, RE Young, RE Schouten, EC Otma, ...
+Publication: Postharvest Biology and Technology 12, 309-310
+
+120. Reliable File Caches
+Citations:
+Authors: PM Chen, CM Aycock, G Rajamani
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+121. RAID-II: A High-Bandwidth Network File Server
+Citations:
+Authors: AD Ken, KW Shirriff, JH Hartman, EL Miller, S Seshan, RH Katz, K Lutz, ...
+Publication: in Proceedings of the 21st International Symposium on Computer Architecture
+
+122. Page 1 of 17 RAID-II: Design and Implementation of a Large Scale Disk
+Citations:
+Authors: AC Katz, RH Katz, PM Chen, AL Drapeau, EK Lee, K Lutz, EL Miller, ...
+Publication: University of California
+
+123. A New Approach to I/O Performance Evaluation--Self-Scaling I/O
+Citations:
+Authors: PM Chen, DA Patterson
+Publication: University of California at Berkeley
+
+124. AU THOR IN DEX
+Citations:
+Authors: B Aball, A Agarwal, CC Aggarwal, E Altman, S Amarasinghe, A Antola, ...
+Publication: 
+
+125. Memory Persistency: Semantics for Byte-addressable NVRAM
+Citations:
+Authors: S Pelley, PM Chen, TF Wenisch, S Computing
+Publication: 
+
+126. Iodine: Fast Dynamic Taint Tracking Using Rollback-free Optimistic Hybrid Analysis
+Citations:
+Authors: S Banerjee, D Devecsery, PM Chen, S Narayanasamy
+Publication: Iodine: Fast Dynamic Taint Tracking Using Rollback-free Optimistic Hybrid …
+
+127. Accelerating Non-Deterministic Application Startup
+Citations:
+Authors: X Dou, W Coomber, PM Chen, J Flinn
+Publication: 
+
+128. Deterministic Execution Shipping for Mobile File Synchronization
+Citations:
+Authors: X Dou, J Flinn, PM Chen, S Narayanasamy
+Publication: 
+
+129. Department of Electrical Engineering and Computer Science The University of Michigan
+Citations:
+Authors: L Ding, P Mazumder, D Blaauw
+Publication: 
+
+130. Review of paper Debugging operating systems with time-traveling virtual machines
+Citations:
+Authors: ST King, GW Dunlap, PM Chen
+Publication: 
+
+131. Array Controller
+Citations:
+Authors: RH Katz, FM Chen, AL Drapeau, EK Lee, K Lutz, EL Miller, S Seshan, ...
+Publication: 
+
+132. DCC Program Committee
+Citations:
+Authors: L Alvisi, W Bartlett, A Bondavalli, J Bruck, P Chen, M Dacier, M Dal Cin, ...
+Publication: 
+
+133. SYMPOSIUM ORGANIZERS
+Citations:
+Authors: E Brewer, P Chen, M Castro, J Flinn, G Ganger, S Madden, J Mogul, ...
+Publication: 
+
+134. General Chair: Hilarie Orman (Purple Streak, USA) Vice Chair: Deborah Shands (The Aerospace Corporation, USA) Treasurer: Terry Benzel (ISI, USA) Program Co-Chair: Vern Paxson …
+Citations:
+Authors: P Ammann, T Aura, M Backes, E Bertino, P Chen, R Cunningham, ...
+Publication: 
+
+135. 14th USENIX Security Symposium
+Citations:
+Authors: P McDaniel, H Adkins, S Bellovin, D Boneh, P Chen, EJ Goh, T Jaeger, ...
+Publication: 
+
+136. Virtual Machine Logging and Replay
+Citations:
+Authors: G Dunlap, ST King, S Cinar, M Basrai, PM Chen
+Publication: 
+
+137. RAID-II: A High-Bandwidth Network File Server
+Citations:
+Authors: ALDKS Edward, K Lee, JHHEL Miller, S Seshan, RHKKL David, ...
+Publication: Ann Arbor 1001, 48109-2122
+
+138. The Case for Region Serializability
+Citations:
+Authors: J Ouyang, PM Chen, J Flinn, S Narayanasamy
+Publication: 
+
+139. xvi
+Citations:
+Authors: T Ackerman, H Agarwal, Q Akerlund, G Al-Hayek, EB Allen, A Attoui, ...
+Publication: 
+
+140. Measuring and Improving Memory’s Resistance to Operating System Crashes
+Citations:
+Authors: WT Ng, G Rajamani, CM Aycock, PM Chen
+Publication: 
+
+141. A Fast Analytical Model for Designing Memory Hierarchies
+Citations:
+Authors: BL Jacob, SR Silverman, TN Mudge, PM Chen
+Publication: 
+
+142. Ex Officio
+Citations:
+Authors: J Abraham, L Alvisi, Y Amir, B Bentley, A Bondavalli, F Brasileiro, ...
+Publication: 
+
+143. Published in the Proceedings of the 13th ACM International Conference on Supercomputing (ICS'99)
+Citations:
+Authors: Y Zhou, PM Chen, K Li
+Publication: 
+

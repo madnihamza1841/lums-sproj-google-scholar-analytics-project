@@ -1,0 +1,238 @@
+https://scholar.google.com/citations?hl=en&user=3qJQjIYAAAAJ
+Total Citations = 2431
+
+1. Managing performance vs. accuracy trade-offs with loop perforation
+Citations:400
+Authors: S Sidiroglou-Douskos, S Misailovic, H Hoffmann, M Rinard
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+2. Dynamic knobs for responsive power-aware computing
+Citations:333
+Authors: H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard
+Publication: Proceedings of the sixteenth international conference on Architectural …
+
+3. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:228
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: Proceedings of the 2013 ACM SIGPLAN international conference on Object …
+
+4. Quality of service profiling
+Citations:223
+Authors: S Misailovic, S Sidiroglou, H Hoffmann, M Rinard
+Publication: Proceedings of the 32nd ACM/IEEE International Conference on Software …
+
+5. Chisel: reliability-and accuracy-aware optimization of approximate computational kernels
+Citations:156
+Authors: S Misailovic, M Carbin, S Achour, Z Qi, MC Rinard
+Publication: Proceedings of the 2014 ACM International Conference on Object Oriented …
+
+6. Using code perforation to improve performance, reduce energy consumption, and respond to failures
+Citations:122
+Authors: H Hoffmann, S Misailovic, S Sidiroglou, A Agarwal, M Rinard
+Publication: 
+
+7. Proving acceptability properties of relaxed nondeterministic approximate programs
+Citations:100
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: Proceedings of the 33rd ACM SIGPLAN conference on Programming Language …
+
+8. Probabilistically accurate program transformations
+Citations:96
+Authors: S Misailovic, DM Roy, MC Rinard
+Publication: International Static Analysis Symposium, 316-333
+
+9. Randomized accuracy-aware program transformations for efficient approximate computations
+Citations:90
+Authors: ZA Zhu, S Misailovic, JA Kelner, M Rinard
+Publication: POPL 2012 47 (1), 441-454
+
+10. Korat: A tool for generating structurally complex test inputs
+Citations:80
+Authors: A Milicevic, S Misailovic, D Marinov, S Khurshid
+Publication: Proceedings of the 29th international conference on Software Engineering …
+
+11. Software Engineering Meets Control Theory
+Citations:75
+Authors: A Filieri, M Maggio, K Angelopoulos, N D’Ippolito, I Gerostathopoulos, ...
+Publication: Proceedings of the 10th International Symposium on Software Engineering for …
+
+12. Detecting and escaping infinite loops with Jolt
+Citations:74
+Authors: M Carbin, S Misailovic, M Kling, MC Rinard
+Publication: European Conference on Object-Oriented Programming, 609-633
+
+13. Parallelizing sequential programs with statistical accuracy tests
+Citations:72
+Authors: S Misailovic, D Kim, M Rinard
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 12 (2s), 88
+
+14. Parallel test generation and execution with Korat
+Citations:71
+Authors: S Misailovic, A Milicevic, N Petrovic, S Khurshid, D Marinov
+Publication: Proceedings of the the 6th Joint Meeting of the European Software …
+
+15. PSI: Exact Symbolic Inference for Probabilistic Programs
+Citations:46
+Authors: T Gehr, S Misailovic, M Vechev
+Publication: Proceedings of CAV
+
+16. Patterns and statistical analysis for understanding reduced resource computing
+Citations:44
+Authors: M Rinard, H Hoffmann, S Misailovic, S Sidiroglou
+Publication: ACM SIGPLAN Notices 45 (10), 806-821
+
+17. Sentiment analysis of movie review comments
+Citations:38
+Authors: K Yessenov, S Misailovic
+Publication: MIT 6.863 Project, 1-17
+
+18. Bolt: on-demand infinite loop escape in unmodified binaries
+Citations:36
+Authors: M Kling, S Misailovic, M Carbin, M Rinard
+Publication: Proceedings of the ACM international conference on Object oriented …
+
+19. Dancing with uncertainty
+Citations:28
+Authors: S Misailovic, S Sidiroglou, MC Rinard
+Publication: Proceedings of the 2012 ACM workshop on Relaxing synchronization for …
+
+20. Control Strategies for Self-Adaptive Software Systems
+Citations:23
+Authors: A Filieri, M Maggio, K Angelopoulos, N D’ippolito, I Gerostathopoulos, ...
+Publication: ACM Transactions on Autonomous and Adaptive Systems (TAAS) 11 (4), 24
+
+21. Verified integrity properties for safe approximate program transformations
+Citations:20
+Authors: M Carbin, D Kim, S Misailovic, MC Rinard
+Publication: Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and …
+
+22. Phase-Aware Optimization in Approximate Computing
+Citations:16
+Authors: S Mitra, M Gupta, S Misailovic, S Bagchi
+Publication: 15th International Symposium on Code Generation and Optimization
+
+23. Automatic parallelization with statistical accuracy bounds
+Citations:10
+Authors: S Misailovic, D Kim, M Rinard
+Publication: Technical Report MIT-CSAIL-TR-2010-007, MIT
+
+24. VideoChef: Efficient Approximation for Streaming Video Processing Pipelines
+Citations:6
+Authors: R Xu, J Koo, R Kumar, P Bai, S Mitra, S Misailovic, S Bagchi
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 43-56
+
+25. Verifying quantitative reliability for programs that execute on unreliable hardware
+Citations:6
+Authors: M Carbin, S Misailovic, MC Rinard
+Publication: Communications of the ACM 59 (8), 83-91
+
+26. Approximate transformations as mutation operators
+Citations:5
+Authors: F Hariri, A Shi, O Legunsen, M Gligoric, S Khurshid, S Misailovic
+Publication: 2018 IEEE 11th International Conference on Software Testing, Verification …
+
+27. Exploiting Errors for Efficiency: A Survey from Circuits to Algorithms
+Citations:4
+Authors: P Stanley-Marbell, A Alaghi, M Carbin, E Darulova, L Dolecek, ...
+Publication: arXiv preprint arXiv:1809.05859
+
+28. Mutation Testing Meets Approximate Computing
+Citations:4
+Authors: M Gligoric, S Khurshid, S Misailovic, A Shi
+Publication: Proceedings of the 39th International Conference on Software Engineering …
+
+29. Synthesis of Randomized Accuracy-Aware Map-Fold Programs
+Citations:4
+Authors: S Misailovic, M Rinard
+Publication: 
+
+30. Replica: A Wireless Manycore for Communication-Intensive and Approximate Data
+Citations:3
+Authors: V Fernando, A Franques, S Abadal, S Misailovic, J Torrellas
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+31. PSense: Automatic Sensitivity Analysis for Probabilistic Programs
+Citations:3
+Authors: Z Huang, Z Wang, S Misailovic
+Publication: ATVA 2018
+
+32. Bayonet: Probabilistic Inference for Networks
+Citations:3
+Authors: T Gehr, S Misailovic, P Tsankov, L Vanbever, P Wiesmann, M Vechev
+Publication: Proceedings of the 39th ACM SIGPLAN Conference on Programming Language …
+
+33. Accuracy-aware optimization of approximate programs
+Citations:3
+Authors: S Misailovic
+Publication: Proceedings of the 2015 International Conference on Compilers, Architecture …
+
+34. Statistical algorithmic profiling for randomized approximate programs
+Citations:2
+Authors: K Joshi, V Fernando, S Misailovic
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+35. Testing Probabilisitic Programming Systems
+Citations:2
+Authors: S Dutta, O Legunsen, Z Huang, S Misailovic
+Publication: International Symposium on Foundations of Software Engineering
+
+36. Generating test inputs for fault-tree analyzers using imperative predicates
+Citations:2
+Authors: S Misailović, A Milićević, S Khurshid, D Marinov
+Publication: IN THE WORKSHOP ON ADVANCES AND INNOVATIONS IN SYSTEMS TESTING (STEP 2007
+
+37. Minotaur: Adapting Software Testing Techniques for Hardware Errors
+Citations:1
+Authors: A Mahmoud, R Venkatagiri, K Ahmed, S Misailovic, D Marinov, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+38. Language Semantics Driven Design and Formal Analysis for Distributed Cyber-Physical Systems
+Citations:1
+Authors: R Ghosh, S Misailovic, S Mitra
+Publication: Proceedings of the 2018 Workshop on Advanced Tools, Programming Languages …
+
+39. Probabilistic reasoning for analysis of approximate computations
+Citations:1
+Authors: S Misailovic
+Publication: Proceedings of the 2017 International Conference on Compilers, Architectures …
+
+40. gem5-Approxilyzer: An Open-Source Tool for Application-Level Soft Error Analysis
+Citations:
+Authors: R Venkatagiri, K Ahmed, A Mahmoud, S Misailovic, D Marinov, ...
+Publication: 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+41. Special Session: Does Approximation Make Testing Harder (or Easier)?
+Citations:
+Authors: RI Bahar, U Karpuzcu, S Misailovic
+Publication: 2019 IEEE 37th VLSI Test Symposium (VTS), 1-9
+
+42. Resurgence of Regression Test Selection for C++
+Citations:
+Authors: B Fu, S Misailovic, M Gligoric
+Publication: 2019 12th IEEE Conference on Software Testing, Validation and Verification …
+
+43. A Progress Bar for the JPF Search Using Program Executions
+Citations:
+Authors: K Wang, H Converse, M Gligoric, S Misailovic, S Khurshid
+Publication: ACM SIGSOFT Software Engineering Notes 43 (4), 55-55
+
+44. Approximate and Probabilistic Computing: Design, Coding, Verification (Dagstuhl Seminar 15491)
+Citations:
+Authors: A Filieri, M Kwiatkowska, S Misailovic, T Mytkowicz
+Publication: Dagstuhl Reports 5 (11)
+
+45. Identifying Optimal Parameters for Approximate Randomized Algorithms
+Citations:
+Authors: V Fernando, K Joshi, D Marinov, S Misailovic
+Publication: 
+
+46. Augmented Example-based Synthesis
+Citations:
+Authors: S An, S Misailovic, R Samanta, R Singh
+Publication: 
+
+47. Accuracy-Aware Program Transformations
+Citations:
+Authors: S Misailovic
+Publication: 
+

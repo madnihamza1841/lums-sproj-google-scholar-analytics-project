@@ -1,0 +1,573 @@
+https://scholar.google.com/citations?hl=en&user=Bz-b2a0AAAAJ
+Total Citations = 16375
+
+1. KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs.
+Citations:2441
+Authors: C Cadar, D Dunbar, DR Engler
+Publication: OSDI 8, 209-224
+
+2. Exokernel: An operating system architecture for application-level resource management
+Citations:1614
+Authors: DR Engler, MF Kaashoek
+Publication: ACM SIGOPS Operating Systems Review 29 (5), 251-266
+
+3. EXE: automatically generating inputs of death
+Citations:1169
+Authors: C Cadar, V Ganesh, PM Pawlowski, DL Dill, DR Engler
+Publication: ACM Transactions on Information and System Security (TISSEC) 12 (2), 10
+
+4. An empirical study of operating systems errors
+Citations:928
+Authors: A Chou, J Yang, B Chelf, S Hallem, D Engler
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 73-88
+
+5. Bugs as deviant behavior: A general approach to inferring errors in systems code
+Citations:860
+Authors: D Engler, DY Chen, S Hallem, A Chou, B Chelf
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 57-72
+
+6. RacerX: effective, static detection of race conditions and deadlocks
+Citations:854
+Authors: D Engler, K Ashcraft
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 237-252
+
+7. Checking system rules using system-specific, programmer-written compiler extensions
+Citations:737
+Authors: D Engler, B Chelf, A Chou, S Hallem
+Publication: Proceedings of the 4th conference on Symposium on Operating System Design …
+
+8. A few billion lines of code later: using static analysis to find bugs in the real world
+Citations:555
+Authors: A Bessey, K Block, B Chelf, A Chou, B Fulton, S Hallem, C Henri-Gros, ...
+Publication: Communications of the ACM 53 (2), 66-75
+
+9. CMC: A pragmatic approach to model checking real code
+Citations:479
+Authors: M Musuvathi, DYW Park, A Chou, DR Engler, DL Dill
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 75-88
+
+10. A system and language for building system-specific, static analyses
+Citations:419
+Authors: S Hallem, B Chelf, Y Xie, D Engler
+Publication: ACM SIGPLAN Notices 37 (5), 69-82
+
+11. Application performance and flexibility on exokernel systems
+Citations:410
+Authors: MF Kaashoek, DR Engler, GR Ganger, HM Briceno, R Hunt, D Mazieres, ...
+Publication: ACM SIGOPS Operating Systems Review 31 (5), 52-65
+
+12. Using model checking to find serious file system errors
+Citations:359
+Authors: J Yang, P Twohey, D Engler, M Musuvathi
+Publication: ACM Transactions on Computer Systems (TOCS) 24 (4), 393-423
+
+13. Using programmer-written compiler extensions to catch security holes
+Citations:302
+Authors: K Ashcraft, D Engler
+Publication: Proceedings 2002 IEEE Symposium on Security and Privacy, 143-159
+
+14. Execution generated test cases: How to make systems code crash itself
+Citations:274
+Authors: C Cadar, D Engler
+Publication: International SPIN Workshop on Model Checking of Software, 2-23
+
+15. Archer: using symbolic, path-sensitive analysis to detect memory access errors
+Citations:270
+Authors: Y Xie, A Chou, D Engler
+Publication: ACM SIGSOFT Software Engineering Notes 28 (5), 327-336
+
+16. DPF: Fast, flexible message demultiplexing using dynamic code generation
+Citations:267
+Authors: DR Engler, MF Kaashoek
+Publication: ACM SIGCOMM Computer Communication Review 26 (4), 53-59
+
+17. RWset: Attacking path explosion in constraint-based test generation
+Citations:250
+Authors: P Boonstoppel, C Cadar, D Engler
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+18. VCODE: a retargetable, extensible, very fast dynamic code generation system
+Citations:229
+Authors: DR Engler
+Publication: ACM SIGPLAN Notices 31 (5), 160-170
+
+19. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:219
+Authors: ME Thatcher, DE Pingry
+Publication: Communications of the ACM 50 (8), 41-45
+
+20. Z-ranking: Using statistical analysis to counter the impact of static analysis approximations
+Citations:187
+Authors: T Kremenek, D Engler
+Publication: International Static Analysis Symposium, 295-315
+
+21. Model Checking Large Network Protocol Implementations.
+Citations:178
+Authors: M Musuvathi, DR Engler
+Publication: NSDI 4, 12-12
+
+22. C: A language for high-level, efficient, and machine-independent dynamic code generation
+Citations:173
+Authors: DR Engler, WC Hsieh, MF Kaashoek
+Publication: Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of …
+
+23. Explode: a lightweight, general system for finding serious storage system errors
+Citations:168
+Authors: J Yang, C Sar, D Engler
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+24. Exterminate all operating system abstractions
+Citations:167
+Authors: DR Engler, MF Kaashoek
+Publication: Proceedings 5th Workshop on Hot Topics in Operating Systems (HotOS-V), 78-83
+
+25. C and tcc: a language and compiler for dynamic code generation
+Citations:160
+Authors: M Poletto, WC Hsieh, DR Engler, MF Kaashoek
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (2), 324-369
+
+26. Static analysis versus software model checking for bug finding
+Citations:159
+Authors: D Engler, M Musuvathi
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+27. From uncertainty to belief: Inferring the specification within
+Citations:158
+Authors: T Kremenek, P Twohey, G Back, A Ng, D Engler
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+28. Correlation exploitation in error ranking
+Citations:128
+Authors: T Kremenek, K Ashcraft, J Yang, D Engler
+Publication: ACM SIGSOFT Software Engineering Notes 29 (6), 83-93
+
+29. Automatically generating malicious disks using symbolic execution
+Citations:126
+Authors: J Yang, C Sar, P Twohey, C Cadar, D Engler
+Publication: 2006 IEEE Symposium on Security and Privacy (S&P'06), 15 pp.-257
+
+30. DCG: An efficient, retargetable dynamic code generation system
+Citations:122
+Authors: DR Engler, TA Proebsting
+Publication: ACM SIGPLAN Notices 29 (11), 263-272
+
+31. Practical, low-effort equivalence verification of real code
+Citations:116
+Authors: DA Ramos, DR Engler
+Publication: International Conference on Computer Aided Verification, 669-685
+
+32. The operating system kernel as a secure programmable machine
+Citations:115
+Authors: DR Engler, MF Kaashoek
+Publication: ACM SIGOPS Operating Systems Review 29 (1), 78-82
+
+33. tcc: A system for fast, flexible, and high-level dynamic code generation
+Citations:94
+Authors: M Poletto, DR Engler, MF Kaashoek
+Publication: ACM SIGPLAN Notices 32 (5), 109-121
+
+34. The Exokernel operating system architecture
+Citations:92
+Authors: DR Engler
+Publication: Massachusetts Institute of Technology
+
+35. Server operating systems
+Citations:91
+Authors: MF Kaashoek, DR Engler, GR Ganger, DA Wallach
+Publication: Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems …
+
+36. Under-constrained symbolic execution: Correctness checking for real code
+Citations:89
+Authors: DA Ramos, D Engler
+Publication: 24th {USENIX} Security Symposium ({USENIX} Security 15), 49-64
+
+37. ASHs: Application-specific handlers for high-performance messaging
+Citations:88
+Authors: DA Wallach, DR Engler, MF Kaashoek
+Publication: ACM SIGCOMM Computer Communication Review 26 (4), 40-52
+
+38. Fast and flexible application-level networking on exokernel systems
+Citations:85
+Authors: GR Ganger, DR Engler, MF Kaashoek, HM Briceno, R Hunt, T Pinckney
+Publication: ACM Transactions on Computer Systems (TOCS) 20 (1), 49-83
+
+39. CDE: Using System Call Interposition to Automatically Create Portable Software Packages.
+Citations:79
+Authors: PJ Guo, DR Engler
+Publication: USENIX Annual Technical Conference, 21
+
+40. A randomized web-cache replacement scheme
+Citations:74
+Authors: K Psounis, B Prabhakar
+Publication: Proceedings IEEE INFOCOM 2001. Conference on Computer Communications …
+
+41. AVM: Application-level virtual memory
+Citations:69
+Authors: DR Engler, SK Gupta, MF Kaashoek
+Publication: Proceedings 5th Workshop on Hot Topics in Operating Systems (HotOS-V), 72-77
+
+42. MECA: an extensible, expressive system and language for statically checking security properties
+Citations:64
+Authors: J Yang, T Kremenek, Y Xie, D Engler
+Publication: Proceedings of the 10th ACM conference on Computer and communications …
+
+43. Incorporating Application Semantics and Control into Compilation.
+Citations:57
+Authors: DR Engler
+Publication: DSL 97, 9-9
+
+44. A simple method for extracting models from protocol code
+Citations:56
+Authors: D Lie, A Chou, D Engler, DL Dill
+Publication: Proceedings 28th Annual International Symposium on Computer Architecture …
+
+45. Using redundancies to find errors
+Citations:55
+Authors: Y Xie, D Engler
+Publication: Proceedings of the 10th ACM SIGSOFT symposium on Foundations of software …
+
+46. EXE: A system for automatically generating inputs of death using symbolic execution
+Citations:54
+Authors: C Cadar, V Ganesh, P Pawlowski, D Dill, D Engler
+Publication: Proceedings of the ACM Conference on Computer and Communications Security
+
+47. Under-constrained execution: making automatic code destruction easy and scalable
+Citations:47
+Authors: D Engler, D Dunbar
+Publication: International Symposium on Software Testing and Analysis: Proceedings of the …
+
+48. How to write system-specific, static checkers in metal
+Citations:42
+Authors: B Chelf, D Engler, S Hallem
+Publication: PASTE 2, 51-60
+
+49. Using redundancies to find errors
+Citations:41
+Authors: Y Xie, D Engler
+Publication: IEEE Transactions on Software Engineering 29 (10), 915-928
+
+50. Reverse-Engineering Instruction Encodings.
+Citations:39
+Authors: WC Hsieh, DR Engler, G Back
+Publication: USENIX Annual Technical Conference, General Track, 133-145
+
+51. Filaments: Efficient support for fine-grain parallelism
+Citations:39
+Authors: DR Engler, GR Andrews, DK Lowenthal
+Publication: Technical Report 93-13, Massachusetts Institute of Technology
+
+52. Linux Kernel Developer Responses to Static Analysis Bug Reports.
+Citations:36
+Authors: PJ Guo, DR Engler
+Publication: USENIX Annual Technical Conference, 285-292
+
+53. Using automatic persistent memoization to facilitate data analysis scripting
+Citations:35
+Authors: PJ Guo, D Engler
+Publication: Proceedings of the 2011 International Symposium on Software Testing and …
+
+54. Redundant state detection for dynamic symbolic execution
+Citations:34
+Authors: S Bugrara, D Engler
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+55. Using meta-level compilation to check FLASH protocol code
+Citations:34
+Authors: A Chou, B Chelf, D Engler, M Heinrich
+Publication: ACM SIGOPS Operating Systems Review 34 (5), 59-70
+
+56. Interface compilation: Steps toward compiling program interfaces as languages
+Citations:33
+Authors: DR Engler
+Publication: IEEE Transactions on Software Engineering 25 (3), 387-400
+
+57. Towards practical incremental recomputation for scientists
+Citations:27
+Authors: PJ Guo, D Engler
+Publication: Workshop on the Theory and Practice of Provenance
+
+58. A Factor Graph Model for Software Bug Finding.
+Citations:27
+Authors: T Kremenek, AY Ng, DR Engler
+Publication: IJCAI, 2510-2516
+
+59. Uprooting software defects at the source
+Citations:27
+Authors: S Hallem, D Park, D Engler
+Publication: Queue 1 (8), 64-71
+
+60. Some lessons from using static analysis and software model checking for bug finding
+Citations:27
+Authors: M Musuvathi, DR Engler
+Publication: Electronic Notes in Theoretical Computer Science 89
+
+61. tcc: A templatebased compiler for ‘c
+Citations:27
+Authors: M Poletto, DR Engler, MF Kaashoek
+Publication: Workshop on Compiler Support for Systems Software
+
+62. How to build static checking systems using orders of magnitude less code
+Citations:22
+Authors: F Brown, A Nötzli, D Engler
+Publication: ACM SIGPLAN Notices 51 (4), 143-157
+
+63. Efficient support for fine-grain parallelism
+Citations:15
+Authors: DR Engler, GR Andrews, DK Lowenthal
+Publication: University of Arizona, Department of Computer Science
+
+64. Expression reduction from programs in a symbolic binary executor
+Citations:13
+Authors: A Romano, D Engler
+Publication: International SPIN Workshop on Model Checking of Software, 301-319
+
+65. MJ-a system for constructing bug-finding analyses for Java
+Citations:12
+Authors: G Back, D Engler
+Publication: Stanford University Computer Systems Laboratory
+
+66. Efficient, safe, application-specific message processing
+Citations:12
+Authors: DR Engler, D Wallach, MF Kaashoek
+Publication: Technical Memorandum MIT/LCS/TM533, MIT
+
+67. Finding and preventing bugs in javascript bindings
+Citations:11
+Authors: F Brown, S Narayan, RS Wahby, D Engler, R Jhala, D Stefan
+Publication: 2017 IEEE Symposium on Security and Privacy (SP), 559-578
+
+68. Static analysis versus model checking for bug finding
+Citations:11
+Authors: D Engler
+Publication: International Conference on Concurrency Theory, 1-1
+
+69. Design and implementation of a modular, flexible, and fast system for dynamic protocol composition
+Citations:11
+Authors: DR Engler, DA Wallach, MF Kaashoek
+Publication: Technical Memorandum TM-552, Massachusetts Institute of Technology …
+
+70. DERIVE: A tool that automatically reverse-engineers instruction encodings
+Citations:10
+Authors: DR Engler, WC Hsieh
+Publication: ACM SIGPLAN Notices 35 (7), 12-22
+
+71. The minestrone architecture combining static and dynamic analysis techniques for software security
+Citations:9
+Authors: AD Keromytis, SJ Stolfo, J Yang, A Stavrou, A Ghosh, D Engler, M Dacier, ...
+Publication: 2011 First SysSec Workshop, 53-56
+
+72. A randomized cache replacement scheme approximating LRU
+Citations:9
+Authors: K Psounis, B Prabhakar, D Engler
+Publication: 34th Annual Conference on Information Sciences and Systems, 15-17
+
+73. ASHs: application-specific handlers for high-performance messaging
+Citations:9
+Authors: DA Wallach, DR Engler, MF Kaashoek
+Publication: IEEE/ACM Transactions on Networking (TON) 5 (4), 460-474
+
+74. Interprocedural dataflow analysis-alias analysis
+Citations:8
+Authors: PW Sathyanathan, MS Lam, C John, DR Engler
+Publication: 
+
+75. Vcode: a portable, very fast dynamic code generation system
+Citations:8
+Authors: D Engler
+Publication: Proceedings of PLDI
+
+76. Performance experiments for the Filaments package
+Citations:8
+Authors: DK Löwenthal, DR Engler
+Publication: Univ.
+
+77. eXplode: A lightweight, general approach for finding serious errors in storage systems
+Citations:6
+Authors: J Yang, P Twohey, B Pfaff, C Sar, D Engler
+Publication: Workshop on the Evaluation of Software Defect Detection Tools
+
+78. The design and implementation of a prototype exokernel operating system
+Citations:6
+Authors: DR Engler
+Publication: Massachusetts Institute of Technology
+
+79. symMMU: Symbolically executed runtime libraries for symbolic memory access
+Citations:5
+Authors: A Romano, DR Engler
+Publication: Proceedings of the 29th ACM/IEEE international conference on Automated …
+
+80. Statistical inference of static analysis rules
+Citations:5
+Authors: DR Engler
+Publication: US Patent 7,505,952
+
+81. Rwset: Attacking path explosion in constraint-based test generation
+Citations:5
+Authors: C Cadar, D Engler
+Publication: In TACAS’08, Mar.-Apr
+
+82. Model checking system software with CMC
+Citations:5
+Authors: M Musuvathi, A Chou, DL Dill, D Engler
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 219-222
+
+83. A’C Tutorial
+Citations:5
+Authors: DR Engler, M Poletto
+Publication: Technical Report, 1997. 207
+
+84. The Exokernel Approach to Operating System Extensibility
+Citations:5
+Authors: DR Engler, MF Kaashoek, JW O'Toole Jr
+Publication: Panel Abstract, Proceedings of the 1st USENIX Symposium on Operating Systems …
+
+85. A vcode tutorial
+Citations:4
+Authors: DR Engler
+Publication: URL:< http://www. pdos. lcs. mit. edu/engler/vcode-tutorial. ps
+
+86. DCG: An E cient, Retargetable Dynamic Code Generation System
+Citations:3
+Authors: DR Engler, TA Proebstingy
+Publication: Proceedings of the Sixth International Conference on Architectural Support …
+
+87. Using Influence to Understand Complex Systems
+Citations:1
+Authors: AJ Oliner
+Publication: Stanford University
+
+88. Aegis: A secure programmable exokernel
+Citations:1
+Authors: DR Engler, MF Kaashoek, JW O’Toole Jr
+Publication: Proceedings of the Sixth European SIGOPS workshop
+
+89. The Design and Implementation of E cient Thread-Based Parallelism
+Citations:1
+Authors: DR Engler
+Publication: Febuary
+
+90. The Open Source Hardening Project
+Citations:
+Authors: D Engler, D Dill
+Publication: STANFORD UNIV CA DEPT OF COMPUTER SCIENCE
+
+91. Statistical inference of static analysis rules
+Citations:
+Authors: DR Engler
+Publication: 
+
+92. Lessons in the Weird and Unexpected: Some Experiences from Checking Large Real Systems
+Citations:
+Authors: D Engler
+Publication: International Symposium on Formal Methods, 33-33
+
+93. A Couple Billion Lines of Code Later: Static Checking in the Real World
+Citations:
+Authors: D Engler, B Chelf, A Chou, S Hallem
+Publication: 17th {USENIX} Security Symposium ({USENIX} Security 08)
+
+94. Special Section on the International Conference on the Foundation of Software Engineering
+Citations:
+Authors: J Niu, JM Atlee, NA Day, G Bruns, S Chandra, A Gurfinkel, M Chechik, ...
+Publication: IEEE Computer Society
+
+95. Probing the black box
+Citations:
+Authors: D Engler
+Publication: ACM Symposium on Operating Systems Principles: Proceedings of the nineteenth …
+
+96. Special Section on the 2001 International Conference on Software Engineering
+Citations:
+Authors: W Schäfer, S Uchitel, J Kramer, J Magee, A Egyed, LK Dillon, ...
+Publication: IEEE
+
+97. Session details: Virtual machines
+Citations:
+Authors: D Engler
+Publication: ACM SIGOPS Operating Systems Review 36 (SI)
+
+98. Cool security trends
+Citations:
+Authors: D Engler, C Irvine, T Jaegar, D Wagner
+Publication: Proceedings of the seventh ACM symposium on Access control models and …
+
+99. Fast and Flexible Application-level Networking on Exokernel Systems (CMU-CS-00-117)
+Citations:
+Authors: GR Ganger, DR Engler, MF Kaashoek, HM Briceño, R Hunt, T Pinckney
+Publication: figshare
+
+100. Decentralizing UNIX abstractions in the exokernel architecture
+Citations:
+Authors: HM Briceno Pulido
+Publication: Massachusetts Institute of Technology
+
+101. й з з к ви к гж в ж а дджг иг Св жж в жжгжз в Ынзи бз г
+Citations:
+Authors: D Engler, DY Chen, S Hallem, A Chou, B Chelf
+Publication: 
+
+102. Exokernel
+Citations:
+Authors: DR Engler, MF Kaashoek, J O'Tool Jr
+Publication: 
+
+103. Testing
+Citations:
+Authors: C Cadar, D Dunbar, D Engler
+Publication: 
+
+104. Ыгб Ф ззгвз жгб Эз в Ыи и в анз з в Ыг ил ж Хг а в гж й в в
+Citations:
+Authors: M Musuvathi, D Engler
+Publication: 
+
+105. Avoiding Game Over: Bringing Design to the Next Level
+Citations:
+Authors: M HOROWITZ, D ENGLER, PAT HANRAHAN, P LEVIS, S MITRA, ...
+Publication: 
+
+106. 6th Symposium on Operating Systems Design and Implementation &# 151; Technical Paper
+Citations:
+Authors: J Yang, P Twohey, D Engler, M Musuvathi
+Publication: 
+
+107. Meta-Level Compilation and SSC
+Citations:
+Authors: B Chelf, J Yang, D Engler
+Publication: 
+
+108. One slide of context
+Citations:
+Authors: D Engler
+Publication: 
+
+109. A Quick and Dirty Guide to Writing Practical Compiler Extensions with Metal
+Citations:
+Authors: A Chou, D Engler, B Chelf, S Hallem
+Publication: 
+
+110. ‘C: A Language for High-Level, Efficient, and
+Citations:
+Authors: DR Engler, WC Hsieh, MF Kaashoek
+Publication: 
+
+111. Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code Dawson Engler, David Yu Chen, Seth Hallem, Andy Chou, and Benjamin Chelf Computer Systems …
+Citations:
+Authors: D Engler
+Publication: 
+
+112. Ted Kremenek, Stanford University Paul Twohey, Stanford University Godmar Back, Virginia Tech Andrew Ng, Stanford University
+Citations:
+Authors: D Engler
+Publication: 
+
+113. Code Later Using Static Analysis
+Citations:
+Authors: A Bessey, K Block, B Chelf, A Chou, B Fulton, S Hallem, C Henri-gros, ...
+Publication: 
+
+114. S&P 2007
+Citations:
+Authors: T Aura, D Balfanz, S Bellovin, E Bertino, M Blaze, P Bonatti, C Cachin, ...
+Publication: 
+

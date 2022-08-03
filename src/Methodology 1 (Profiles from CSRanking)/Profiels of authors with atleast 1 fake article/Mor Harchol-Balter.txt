@@ -1,0 +1,225 @@
+
+16. Method and Apparatus for Assigning Tasks in a Distributed Server System
+Citations:210
+Authors: MHBM Crovella
+Publication: US Patent 6,223,205
+
+19. Analysis of join-the-shortest-queue routing for web server farms
+Citations:181
+Authors: V Gupta, MH Balter, K Sigman, W Whitt
+Publication: Performance Evaluation 64 (9-12), 1062-1081
+
+41. Analysis of multi-server systems via dimensionality reduction of Markov chains
+Citations:61
+Authors: T Osogami
+Publication: School of Computer Science, Carnegie Mellon University PhD Thesis. Advisor …
+
+52. Scheduling for today’s computer systems: Bridging theory and practice
+Citations:45
+Authors: A Wierman
+Publication: Carnegie Mellon University PhD thesis. Advisor: Mor Harchol-Balter
+
+62. Systems and Methods for Managing Power Consumption and Performance of a Processor
+Citations:33
+Authors: MHBA Gandhi
+Publication: US Patent 8,589,709
+
+75. Dynamic server provisioning for data center power management
+Citations:23
+Authors: A Gandhi
+Publication: PhD diss., Intel
+
+76. Dynamic server provisioning for data center power management
+Citations:23
+Authors: A Gandhi
+Publication: PhD diss., Intel
+
+88. Stochastic models and analysis for resource management in server farms
+Citations:13
+Authors: V Gupta
+Publication: Carnegie Mellon University PhD thesis. Advisor: Mor Harchol-Balter
+
+114. Scheduling: SRPT and Fairness, Performance Modeling and Design of Computer Systems
+Citations:8
+Authors: HB Mor
+Publication: Cambridge University Press
+
+115. How many servers are best in a dual-priority FCFS system?
+Citations:8
+Authors: T Osogami
+Publication: figshare
+
+119. Analyzing the effect of prioritized background tasks in multiserver systems
+Citations:7
+Authors: A Wierman
+Publication: figshare
+
+121. Delay moment bounds for multiserver queues with infinite variance service times
+Citations:6
+Authors: R Vesilo, A Scheller-Wolf
+Publication: INFOR: Information Systems and Operational Research 51 (4), 161-174
+
+122. Performance modeling and design of computer systems
+Citations:6
+Authors: MH Balter
+Publication: Cambridge Press, Cambridge
+
+126. Tight bounds on expected time to add correctly and odd mostly correctly
+Citations:6
+Authors: P Gemmell, M Harchol
+Publication: Information processing letters 49 (2), 77-83
+
+168. A. Fern andez, M. Harchol-Balter, T. Leighton, and L. Zhang. Dynamic packet routing with per-packet delay guarantees of O (distance+ 1/session rate)
+Citations:3
+Authors: M Andrews
+Publication: Proceedings of the 38th Annual Symposium on Foundations of Computer Science …
+
+173. Balter, Michael A
+Citations:2
+Authors: A Gandhi, T Zhu, M Harchol
+Publication: Kozuch: SOFTScale: Stealing Opportunistically for Transient Scaling …
+
+176. Harchol BalterM, KozuchMA
+Citations:2
+Authors: GV GandhiA
+Publication: Opti malityanalysisofenergy performancetrade offforserver farmmanagement …
+
+179. System and Method for Resource Discovery
+Citations:2
+Authors: MHBTLD Lewin
+Publication: US Patent 7,808,926
+
+194. M-Harchol—Balter,“Connection scheduling in web servers,”
+Citations:2
+Authors: ME Crovella, R Frangioso
+Publication: Technical Report TR-99-003, Boston University, CS Dept
+
+196. Exploiting Process Lifetime Distributions for Dynamic Load Balancing [J] ACM Transactions on Computer Systems
+Citations:2
+Authors: MH Balter, AB Downey
+Publication: 
+
+198. Exploiting Process Lifetime Distributions for Dynamic Load Balancing
+Citations:2
+Authors: M Harchol, A Downey
+Publication: Proceedings of ACM ACM Sigmetrics' 96 Conference on Measurement and Modeling …
+
+203. Robe~ Frangioso, Mot Harchol-Baiter
+Citations:2
+Authors: E Crovella Mark
+Publication: Con—nection scheduling in web servers
+
+204. 10 “Autoscale: Dynamic, robust capacity management for multi-tier 11 data centers,”
+Citations:2
+Authors: A Gandhi, MH Balter, R Raghunathan, MA Kozuch
+Publication: ACM Transactions on Computer Systems 30 (4), 12
+
+205. Dynamic packet routing with per-packet delay guarantees of O (distance+ l/session rate)
+Citations:2
+Authors: M Andrew, A Fernandez, M Harchol-Baker, T Leighton, L Zhang
+Publication: Proceedings of the 38th Annual Symposium on Foundations of Computer Science …
+
+207. Modeling and Analyzing Systems with Redundancy
+Citations:1
+Authors: K Gardner
+Publication: Carnegie Mellon University. Advisor: Mor Harchol-Balter
+
+211. Sharing DBMS among Multiple Users while Providing Performance Isolation: Analysis and Implementation
+Citations:1
+Authors: DT McWherter
+Publication: Intel Corporation
+
+215. System and Method for Resource Discovery
+Citations:1
+Authors: MHBTLD Lewin
+Publication: US Patent 7,295,523
+
+217. Improving the performance of static and dynamic requests at a busy web site
+Citations:1
+Authors: B Schroeder
+Publication: PhD diss., IBM
+
+219. Balter, MAnalysis of SRPrr sch. dllling: Investigating Unf 血 cssn
+Citations:1
+Authors: N Bansal, M Harchol
+Publication: Pmceedings of AcM SIGhrIET'RIcs 200
+
+223. Queueing Theory Analysis of Greedy Routing on Arrays and Tori
+Citations:1
+Authors: M Harchol, PE Black
+Publication: University of California, Berkeley, Computer Science Division
+
+235. Sherwin Doroudi, Mor Harchol-Balter, Esa Hyytiä & Alan Scheller-Wolf
+Citations:
+Authors: K Gardner, S Zbarsky
+Publication: Queueing Syst 83, 227-259
+
+236. Stochastic Analysis of Maintenance and Routing Policies in Queueing Systems
+Citations:
+Authors: S Doroudi
+Publication: Carnegie Mellon University. Advisor: Mor Harchol-Balter
+
+237. Meeting tail latency SLOs in shared networked storage
+Citations:
+Authors: T Zhu
+Publication: Google
+
+245. Size-based Scheduling to Improve Web Performance MOR HARCHOL-BALTER, BIANCA SCHROEDER, NIKHIL BANSAL, and
+Citations:
+Authors: M AGRAWAL
+Publication: ACM Transactions on Computer Systems 21 (2), 1-27
+
+246. Cycle Stealing under Immediate Dispatch Task Assignment
+Citations:
+Authors: MHBCL Takayuki, OMS Squillante, A Scheller-Wolf
+Publication: Annual ACM Symposium on Parallel Algorithms and Architectures 15, 274
+
+247. DSC: Scheduling tasks on an unbounded number of processors.
+Citations:
+Authors: E Danesh, A Masoud Rahmani, CD Gill, RKC Douglas, C Schmidt, ...
+Publication: Journal of Applied Sciences 7 (21), 183-197
+
+250. Web server workload characterization: The search for invariants.
+Citations:
+Authors: M Okopa, R Nambasa, BK Asingwire, S Kakuba, D Matovu, P Gupta, ...
+Publication: Australasian Journal of Computer Science 4 (1), 388-404
+
+252. Article ID jpdc. 1999.1609, available online at http: ย ย www. idealibrary. com on
+Citations:
+Authors: I Ahmad, I Ahmad, S Ali, A Banerjee, PB Bhat, L Buttner, ST Chanson, ...
+Publication: Journal of Parallel and Distributed Computing 59, 489
+
+260. Tight Bounds on Expected Time to Add Correctly and Add Mostly
+Citations:
+Authors: PS Gemmell, M Harchol
+Publication: University of California at Berkeley
+
+262. A recursive analysis technique for multi-dimensionally infinite Markov chains
+Citations:
+Authors: A Scheller-Wolf
+Publication: 
+
+263. General Dynamic Routing with Per-Packet Delay Guarantees of O (distance+ 1/session rate)
+Citations:
+Authors: MAAF andezz Mor, HBT Leighton, L Zhangk
+Publication: 
+
+264. Mor Harchol-Balter Department of Computer Science Carnegie Mellon University
+Citations:
+Authors: M Telek
+Publication: 
+
+265. Computer Science Division University of California at Berkeley Berkeley, California 94720
+Citations:
+Authors: MHBD Wolfe
+Publication: 
+
+266. Lecture 26: Scheduling Policies: Part IV Non-preemptive Priority-Based and Size-Based Scheduling
+Citations:
+Authors: PPSJ First
+Publication: 
+
+267. Performance Modeling for Data Center Power Management
+Citations:
+Authors: A Gandhi
+Publication: College of Computing, Georgia Institute of Technology

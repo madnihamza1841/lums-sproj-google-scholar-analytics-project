@@ -1,0 +1,388 @@
+https://scholar.google.com/citations?hl=en&user=P__ztgcAAAAJ
+Total Citations = 5686
+
+1. The gem5 simulator
+Citations:3219
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: ACM SIGARCH Computer Architecture News 39 (2), 1-7
+
+2. Eyeriss: An energy-efficient reconfigurable accelerator for deep convolutional neural networks
+Citations:865
+Authors: YH Chen, T Krishna, JS Emer, V Sze
+Publication: IEEE Journal of Solid-State Circuits 52 (1), 127-138
+
+3. GARNET: A detailed on-chip network model inside a full-system simulator
+Citations:611
+Authors: N Agarwal, T Krishna, LS Peh, NK Jha
+Publication: 2009 IEEE international symposium on performance analysis of systems and …
+
+4. Approaching the theoretical limits of a mesh NoC with a 16-node chip prototype in 45nm SOI
+Citations:97
+Authors: S Park, T Krishna, CH Chen, B Daya, A Chandrakasan, LS Peh
+Publication: Proceedings of the 49th Annual Design Automation Conference, 398-405
+
+5. Breaking the on-chip latency barrier using SMART
+Citations:90
+Authors: T Krishna, CHO Chen, WC Kwon, LS Peh
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+6. SCORPIO: a 36-core research chip demonstrating snoopy coherence on a scalable mesh NoC with in-network ordering
+Citations:87
+Authors: BK Daya, CHO Chen, S Subramanian, WC Kwon, S Park, T Krishna, ...
+Publication: 2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA …
+
+7. NoC with near-ideal express virtual channels using global-line communication
+Citations:83
+Authors: T Krishna, A Kumar, P Chiang, M Erez, LS Peh
+Publication: 2008 16th IEEE Symposium on High Performance Interconnects, 11-20
+
+8. Towards the ideal on-chip fabric for 1-to-many and many-to-1 communication
+Citations:82
+Authors: T Krishna, LS Peh, BM Beckmann, SK Reinhardt
+Publication: Proceedings of the 44th Annual IEEE/ACM International Symposium on …
+
+9. SMART: a single-cycle reconfigurable NoC for SoC applications
+Citations:70
+Authors: CHO Chen, S Park, T Krishna, S Subramanian, AP Chandrakasan, ...
+Publication: 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE), 338-343
+
+10. Swift: A swing-reduced interconnect for a token-based network-on-chip in 90nm cmos
+Citations:44
+Authors: T Krishna, J Postman, C Edmonds, LS Peh, P Chiang
+Publication: 2010 IEEE International Conference on Computer Design, 439-446
+
+11. Message broadcast with router bypassing
+Citations:43
+Authors: T Krishna, BM Beckmann, SK Reinhardt
+Publication: US Patent 9,015,448
+
+12. Maeri: Enabling flexible dataflow mapping over dnn accelerators via reconfigurable interconnects
+Citations:40
+Authors: H Kwon, A Samajdar, T Krishna
+Publication: ACM SIGPLAN Notices 53 (2), 461-475
+
+13. SMART: single-cycle multihop traversals over a shared network on chip
+Citations:39
+Authors: T Krishna, CHO Chen, WC Kwon, LS Peh
+Publication: IEEE micro 34 (3), 43-56
+
+14. Swift: A low-power network-on-chip implementing the token flow control router architecture with swing-reduced interconnects
+Citations:36
+Authors: J Postman, T Krishna, C Edmonds, LS Peh, P Chiang
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 21 (8 …
+
+15. Express virtual channels with capacitively driven global links
+Citations:34
+Authors: T Krishna, A Kumar, LS Peh, J Postman, P Chiang, M Erez
+Publication: Micro, IEEE 29 (4), 48-61
+
+16. Single-cycle collective communication over a shared network fabric
+Citations:29
+Authors: T Krishna, LS Peh
+Publication: 2014 Eighth IEEE/ACM International Symposium on Networks-on-Chip (NoCS), 1-8
+
+17. On-chip networks
+Citations:25
+Authors: NE Jerger, T Krishna, LS Peh
+Publication: Synthesis Lectures on Computer Architecture 12 (3), 1-210
+
+18. Single-cycle multihop asynchronous repeated traversal: A SMART future for reconfigurable on-chip networks
+Citations:24
+Authors: T Krishna, CHO Chen, S Park, WC Kwon, S Subramanian, ...
+Publication: Computer 46 (10), 48-55
+
+19. Physical vs. virtual express topologies with low-swing links for future many-core nocs
+Citations:20
+Authors: CHO Chen, N Agarwal, T Krishna, KH Koo, LS Peh, KC Saraswat
+Publication: 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip, 173-180
+
+20. A low-swing crossbar and link generator for low-power networks-on-chip
+Citations:18
+Authors: CHO Chen, S Park, T Krishna, LS Peh
+Publication: Proceedings of the International Conference on Computer-Aided Design, 779-786
+
+21. Texture Filter Memory—a power-efficient and scalable texture memory architecture for mobile graphics processors
+Citations:17
+Authors: BVN Silpa, A Patney, T Krishna, PR Panda, GS Visweswaran
+Publication: 2008 IEEE/ACM International Conference on Computer-Aided Design, 559-564
+
+22. Rethinking nocs for spatial neural network accelerators
+Citations:16
+Authors: H Kwon, A Samajdar, T Krishna
+Publication: 2017 Eleventh IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8
+
+23. Scale-sim: Systolic cnn accelerator
+Citations:11
+Authors: A Samajdar, Y Zhu, P Whatmough, M Mattina, T Krishna
+Publication: arXiv preprint arXiv:1811.02883
+
+24. Performance implications of NoCs on 3D-stacked memories: Insights from the hybrid memory cube
+Citations:10
+Authors: R Hadidi, B Asgari, J Young, BA Mudassar, K Garg, T Krishna, H Kim
+Publication: 2018 IEEE International Symposium on Performance Analysis of Systems and …
+
+25. LATR: Lazy translation coherence
+Citations:10
+Authors: MK Kumar, S Maass, S Kashyap, J Veselý, Z Yan, T Kim, A Bhattacharjee, ...
+Publication: ACM SIGPLAN Notices 53 (2), 651-664
+
+26. Efficient control and communication paradigms for coarse-grained spatial architectures
+Citations:8
+Authors: M Pellauer, A Parashar, M Adler, B Ahsan, R Allmon, N Crago, K Fleming, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (3), 10
+
+27. Maestro: An open-source infrastructure for modeling dataflows within deep learning accelerators
+Citations:7
+Authors: H Kwon, M Pellauer, T Krishna
+Publication: arXiv preprint arXiv:1805.02566
+
+28. SEESAW: Using superpages to improve VIPT caches
+Citations:6
+Authors: M Parasar, A Bhattacharjee, T Krishna
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+29. Locality-oblivious cache organization leveraging single-cycle multi-hop NoCs
+Citations:6
+Authors: WC Kwon, T Krishna, LS Peh
+Publication: ACM SIGPLAN Notices 49 (4), 715-728
+
+30. Static bubble: A framework for deadlock-free irregular on-chip topologies
+Citations:5
+Authors: A Ramrakhyani, T Krishna
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+31. Opensmart: Single-cycle multi-hop noc generator in bsv and chisel
+Citations:4
+Authors: H Kwon, T Krishna
+Publication: 2017 IEEE International Symposium on Performance Analysis of Systems and …
+
+32. Automatic place-and-route of emerging LED-driven wires within a monolithically-integrated CMOS+ III-V process
+Citations:4
+Authors: T Krishna, A Balachandran, SB Chiah, L Zhang, B Wang, C Wang, ...
+Publication: Proceedings of the Conference on Design, Automation & Test in Europe, 344-349
+
+33. Synchronized progress in interconnection networks (spin): A new theory for deadlock freedom
+Citations:3
+Authors: A Ramrakhyani, PV Gratz, T Krishna
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+34. Enabling dedicated single-cycle connections over a shared network-on-chip
+Citations:3
+Authors: T Krishna
+Publication: Massachusetts Institute of Technology
+
+35. Comparison of physical and virtual express topologies for future many-core on-chip networks
+Citations:3
+Authors: CHO Chen, N Agarwal, T Krishna, KH Koo, LS Peh, KC Saraswat
+Publication: Workshop on CMP-MSI
+
+36. Architecture, chip, and package co-design flow for 2.5 D IC design enabling heterogeneous IP reuse
+Citations:2
+Authors: J Kim, G Murali, H Park, E Qin, H Kwon, VCK Chekuri, N Dasari, A Singh, ...
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-6
+
+37. Fasttrack: leveraging heterogeneous fpga wires to design low-cost high-performance soft nocs
+Citations:2
+Authors: N Kapre, T Krishna
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+38. Optimizing the data placement and transformation for multi-bank cgra computing system
+Citations:2
+Authors: Z Zhao, Y Liu, W Sheng, T Krishna, Q Wang, Z Mao
+Publication: 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+39. Spoofing prevention via rf power profiling in wireless network-on-chip
+Citations:2
+Authors: B Lebiednik, S Abadal, H Kwon, T Krishna
+Publication: Proceedings of the 3rd International Workshop on Advanced Interconnect …
+
+40. A case for low frequency single cycle multi hop NoCs for energy efficiency and high performance
+Citations:2
+Authors: M Kar, T Krishna
+Publication: Proceedings of the 36th International Conference on Computer-Aided Design …
+
+41. Brownian bubble router: enabling deadlock freedom via guaranteed forward progress
+Citations:1
+Authors: M Parasar, A Sinha, T Krishna
+Publication: 2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8
+
+42. Architecting a secure wireless network-on-chip
+Citations:1
+Authors: B Lebiednik, S Abadal, H Kwon, T Krishna
+Publication: 2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8
+
+43. MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Programmable Interconnects
+Citations:1
+Authors: H Kwon, A Samajdar, T Krishna
+Publication: Proceedings of the 23rd International Conference on Architectural Support …
+
+44. A LOAD BALANCE AWARE XY ROUTING METHODOLOGY FOR NOC ARCHITECTURES
+Citations:1
+Authors: MV Rao, TVR Krishna, S Siddhartha, KS Prathyusha
+Publication: Advances and Applications in Mathematical Sciences 17 (1), 251-270
+
+45. Adaptive Manycore Architectures for Big Data Computing
+Citations:1
+Authors: JR Doppa, RG Kim, M Isakov, MA Kinsy, HJ Kwon, T Krishna
+Publication: Proceedings of the Eleventh IEEE/ACM International Symposium on Networks-on …
+
+46. Scorpio: 36-core shared memory processor demonstrating snoopy coherence on a mesh interconnect
+Citations:1
+Authors: CHO Chen, S Park, S Subramanian, T Krishna, B Daya, WC Kwon, ...
+Publication: 2014 IEEE Hot Chips 26 Symposium (HCS), 1-20
+
+47. BOOM: Broadcast Optimizations for On-chip Meshes
+Citations:1
+Authors: T Krishna, BM Beckmann, LS Peh, SK Reinhardt
+Publication: 
+
+48. Reinforcement Learning based Interconnection Routing for Adaptive Traffic Optimization
+Citations:
+Authors: SC Kao, CHH Yang, PY Chen, X Ma, T Krishna
+Publication: arXiv preprint arXiv:1908.04484
+
+49. mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator
+Citations:
+Authors: Z Zhao, H Kwon, S Kuhar, W Sheng, Z Mao, T Krishna
+Publication: 2019 IEEE International Symposium on Performance Analysis of Systems and …
+
+50. McMahon: Minimum-cycle Maximum-hop network
+Citations:
+Authors: GS Ravi, T Krishna, M Lipasti
+Publication: 
+
+51. BINDU: Deadlock-Freedom with One Bubble in the Network
+Citations:
+Authors: M Parasar, T Krishna
+Publication: 
+
+52. A Communication-Centric Approach for Designing Flexible DNN Accelerators
+Citations:
+Authors: H Kwon, A Samajdar, T Krishna
+Publication: IEEE Micro 38 (6), 25-35
+
+53. Merge Network for a Non-Von Neumann Accumulate Accelerator in a 3D Chip
+Citations:
+Authors: A Jain, S Srikanth, EP DeBenedictis, T Krishna
+Publication: 2018 IEEE International Conference on Rebooting Computing (ICRC), 1-11
+
+54. DNN-Dataflow-Hardware Co-Design for Enabling Pervasive General-Purpose AI
+Citations:
+Authors: T Krishna
+Publication: Georgia Institute of Technology
+
+55. Scalable distributed last-level TLBs using low-latency interconnects
+Citations:
+Authors: S Bharadwaj, G Cox, T Krishna, A Bhattacharjee
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+56. GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware
+Citations:
+Authors: A Samajdar, P Mannan, K Garg, T Krishna
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+57. FastTrack: Exploiting Fast FPGA Wiring for Implementing NoC Shortcuts
+Citations:
+Authors: N Kapre, T Krishna
+Publication: Proceedings of the 2018 ACM/SIGDA International Symposium on Field …
+
+58. MAESTRO: An Open-source Infrastructure for the Cost-Benefit Analysis of Dataflows within Deep Learning Accelerators
+Citations:
+Authors: H Kwon, T Krishna
+Publication: 
+
+59. Enabling Continuous Learning through Neural Network Evolution in Hardware
+Citations:
+Authors: A Samajdar, K Garg, T Krishna
+Publication: 
+
+60. Adaptive manycore architectures for big data computing: Special session paper
+Citations:
+Authors: JR Doppa, RG Kim, M Isakov, MA Kinsy, HJ Kwon, T Krishna
+Publication: 2017 Eleventh IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8
+
+61. Lightweight emulation of virtual channels using swaps
+Citations:
+Authors: M Parasar, T Krishna
+Publication: Proceedings of the 10th International Workshop on Network on Chip …
+
+62. A Detailed On-Chip Network Model Inside a Full-System Simulator
+Citations:
+Authors: T Krishna
+Publication: 
+
+63. Session details: Reliability and energy-efficiency: two pillars of NoC design
+Citations:
+Authors: SL Beux, T Krishna
+Publication: Proceedings of the Conference on Design, Automation & Test in Europe
+
+64. Session details: Emerging NoC directions
+Citations:
+Authors: J Xu, T Krishna
+Publication: Proceedings of the Conference on Design, Automation & Test in Europe
+
+65. FASHION: Fault-Aware Self-Healing Intelligent On-chip Network
+Citations:
+Authors: P Ren, MA Kinsy, M Zhu, S Khadka, M Isakov, A Ramrakhyani, T Krishna, ...
+Publication: arXiv preprint arXiv:1702.02313
+
+66. VESPA: VIPT Enhancements for Superpage Accesses
+Citations:
+Authors: M Parasar, A Bhattacharjee, T Krishna
+Publication: arXiv preprint arXiv:1701.03499
+
+67. Reconfigurable On-chip Network with Single-cycle Multi-hop Asynchronous Repeated Traversal
+Citations:
+Authors: T Krishna, WC Kwon, S Subramanian, CHO Chen, S Park, ...
+Publication: Computer, 1
+
+68. Study of Intensity Modulated Fiber Optic Sensor-Effect of Length of Core Exposed in Guiding Liquid
+Citations:
+Authors: AJ Kumar, TR Krishna, BS Bellubbi
+Publication: environment 15, 16
+
+69. Synchronized Progress in Interconnection Networks
+Citations:
+Authors: A Ramrakhyani, T Krishna, PV Gratz
+Publication: 
+
+70. Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning problems
+Citations:
+Authors: A Samajdar, T Garg, T Krishna, N Kapre
+Publication: 
+
+71. ISSCC 2016/SESSION 14/NEXT-GENERATION PROCESSING/14.5
+Citations:
+Authors: YH Chen, T Krishna, J Emer, V Sze
+Publication: 
+
+72. An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN
+Citations:
+Authors: J Cao, F Wu, R Hadidi, L Liu, T Krishna, MS Ryoo, H Kim
+Publication: 
+
+73. Tor Aamodt, University of British Columbia Murali Annavaram, University of Southern California Rajeev Balasubramonian, University of Utah Yungang Bao, Institute of Computing …
+Citations:
+Authors: G Blake, TE Carlson, A Chtchelkanova, J Clemons, W Elsasser, J Gandhi, ...
+Publication: 
+
+74. Technical Program Committee Members
+Citations:
+Authors: P Balaji, P Bridges, R Brightwell, L Carloni, J Escudero-Sahuquillo, ...
+Publication: 
+
+75. MICRO-49 program committee
+Citations:
+Authors: JH Ahn, M Annavaram, B Black, T Cain, T Carlson, A Caulfield, Y Chen, ...
+Publication: 
+
+76. Enright Jerger, Natalie, 41, 80 Ernst, Rolf, 33 Escamilla, José V., 159 Fankem Tatenguem, Hervé, 72 Fettweis, Gerhard, 57
+Citations:
+Authors: S Abadal, R Abdel-Khalek, L Ahrendts, K Aisopos, E Alarcón, H Amano, ...
+Publication: 
+
+77. SCORPIO: 36-Core Shared-Memory Processor Demonstrating Snoopy Coherence on a Mesh Interconnect
+Citations:
+Authors: BK Daya, CHO Chen, S Subramanian, WC Kwon, S Park, T Krishna, ...
+Publication: 
+

@@ -1,0 +1,653 @@
+https://scholar.google.com/citations?hl=en&user=V_cvqKcAAAAJ
+Total Citations = 5415
+
+1. A fast, lock-free approach for efficient parallel counting of occurrences of k-mers
+Citations:1052
+Authors: G Marçais, C Kingsford
+Publication: Bioinformatics 27 (6), 764-770
+
+2. Salmon provides fast and bias-aware quantification of transcript expression
+Citations:818
+Authors: R Patro, G Duggal, MI Love, RA Irizarry, C Kingsford
+Publication: Nature methods 14 (4), 417
+
+3. Sailfish enables alignment-free isoform quantification from RNA-seq reads using lightweight algorithms
+Citations:417
+Authors: R Patro, SM Mount, C Kingsford
+Publication: Nature biotechnology 32 (5), 462
+
+4. Rapid, accurate, computational discovery of Rho-independent transcription terminators illuminates their relationship to DNA uptake
+Citations:385
+Authors: CL Kingsford, K Ayanbule, SL Salzberg
+Publication: Genome biology 8 (2), R22
+
+5. The power of protein interaction networks for associating genes with diseases
+Citations:295
+Authors: S Navlakha, C Kingsford
+Publication: Bioinformatics 26 (8), 1057-1063
+
+6. Genome analysis linking recent European and African influenza (H5N1) viruses
+Citations:218
+Authors: SL Salzberg, C Kingsford, G Cattoli, DJ Spiro, DA Janies, MM Aly, ...
+Publication: Emerging infectious diseases 13 (5), 713
+
+7. Solving and analyzing side-chain positioning problems using linear and integer programming
+Citations:207
+Authors: CL Kingsford, B Chazelle, M Singh
+Publication: Bioinformatics 21 (7), 1028-1039
+
+8. What are decision trees?
+Citations:196
+Authors: C Kingsford, SL Salzberg
+Publication: Nature biotechnology 26 (9), 1011
+
+9. Global network alignment using multiscale spectral signatures
+Citations:137
+Authors: R Patro, C Kingsford
+Publication: Bioinformatics 28 (23), 3105-3114
+
+10. Identification of alternative topological domains in chromatin
+Citations:127
+Authors: D Filippova, R Patro, G Duggal, C Kingsford
+Publication: Algorithms for Molecular Biology 9 (1), 14
+
+11. Assembly complexity of prokaryotic genomes using short reads
+Citations:117
+Authors: C Kingsford, MC Schatz, M Pop
+Publication: BMC bioinformatics 11 (1), 21
+
+12. A semidefinite programming approach to side chain positioning with new rounding strategies
+Citations:99
+Authors: B Chazelle, C Kingsford, M Singh
+Publication: INFORMS Journal on Computing 16 (4), 380-392
+
+13. Alignment and clustering of phylogenetic markers-implications for microbial diversity studies
+Citations:89
+Authors: JR White, S Navlakha, N Nagarajan, MR Ghodsi, C Kingsford, M Pop
+Publication: BMC bioinformatics 11 (1), 152
+
+14. Revealing biological modules via graph summarization
+Citations:80
+Authors: S Navlakha, MC Schatz, C Kingsford
+Publication: Journal of Computational Biology 16 (2), 253-264
+
+15. Experimental construction of very large scale DNA databases with associative search capability
+Citations:80
+Authors: JH Reif, TH LaBean, M Pirrung, VS Rana, B Guo, C Kingsford, ...
+Publication: International Workshop on DNA-Based Computers, 231-247
+
+16. Salmon: accurate, versatile and ultrafast quantification from RNA-seq data using lightweight-alignment
+Citations:68
+Authors: R Patro, G Duggal, C Kingsford
+Publication: BioRxiv, 021592
+
+17. Network archaeology: uncovering ancient networks from present-day interactions
+Citations:66
+Authors: S Navlakha, C Kingsford
+Publication: PLoS computational biology 7 (4), e1001119
+
+18. Fast search of thousands of short-read sequencing experiments
+Citations:63
+Authors: B Solomon, C Kingsford
+Publication: Nature biotechnology 34 (3), 300
+
+19. 2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates
+Citations:63
+Authors: C Kingsford, N Nagarajan, SL Salzberg
+Publication: Plos one 4 (7), e6402
+
+20. Assessing the benefits of using mate-pairs to resolve repeats in de novo short-read prokaryotic assemblies
+Citations:62
+Authors: J Wetzel, C Kingsford, M Pop
+Publication: BMC bioinformatics 12 (1), 95
+
+21. GiRaF: robust, computational identification of influenza reassortments via graph mining
+Citations:46
+Authors: N Nagarajan, C Kingsford
+Publication: Nucleic acids research 39 (6), e34-e34
+
+22. Reference-based compression of short-read sequences using path encoding
+Citations:44
+Authors: C Kingsford, R Patro
+Publication: Bioinformatics 31 (12), 1920-1928
+
+23. Accurate, fast, and model-aware transcript expression quantification with Salmon
+Citations:35
+Authors: R Patro, G Duggal, C Kingsford
+Publication: BioRxiv 21592
+
+24. Higher-order chromatin domains link eQTLs with the expression of far-away genes
+Citations:34
+Authors: G Duggal, H Wang, C Kingsford
+Publication: Nucleic acids research 42 (1), 87-96
+
+25. Salmon provides accurate, fast, and bias-aware transcript expression estimates using dual-phase inference
+Citations:31
+Authors: R Patro, G Duggal, MI Love, RA Irizarry, C Kingsford
+Publication: bioRxiv, 021592
+
+26. Data-dependent bucketing improves reference-free compression of sequencing reads
+Citations:30
+Authors: R Patro, C Kingsford
+Publication: Bioinformatics 31 (17), 2770-2777
+
+27. Shifted Hamming distance: a fast and accurate SIMD-friendly filter to accelerate alignment verification in read mapping
+Citations:26
+Authors: H Xin, J Greth, J Emmons, G Pekhimenko, C Kingsford, C Alkan, O Mutlu
+Publication: Bioinformatics 31 (10), 1553-1560
+
+28. Parsimonious reconstruction of network evolution
+Citations:25
+Authors: R Patro, E Sefer, J Malin, G Marçais, S Navlakha, C Kingsford
+Publication: Algorithms for Molecular Biology 7 (1), 25
+
+29. Exploring biological network dynamics with ensembles of graph partitions
+Citations:24
+Authors: S Navlakha, C Kingsford
+Publication: Biocomputing 2010, 166-177
+
+30. Finding biologically accurate clusterings in hierarchical tree decompositions using the variation of information
+Citations:22
+Authors: S Navlakha, J White, N Nagarajan, M Pop, C Kingsford
+Publication: Journal of Computational Biology 17 (3), 503-516
+
+31. Finding biologically accurate clusterings in hierarchical tree decompositions using the variation of information
+Citations:22
+Authors: S Navlakha, J White, N Nagarajan, M Pop, C Kingsford
+Publication: Annual International Conference on Research in Computational Molecular …
+
+32. Accurate assembly of transcripts through phase-preserving graph decomposition
+Citations:21
+Authors: M Shao, C Kingsford
+Publication: Nature biotechnology 35 (12), 1167
+
+33. Improved search of large transcriptomic sequencing databases using split sequence bloom trees
+Citations:20
+Authors: B Solomon, C Kingsford
+Publication: International Conference on Research in Computational Molecular Biology, 257-271
+
+34. Isoform-level ribosome occupancy estimation guided by transcript abundance with Ribomap
+Citations:20
+Authors: H Wang, J McManus, C Kingsford
+Publication: Bioinformatics 32 (12), 1880-1882
+
+35. Optimal seed solver: optimizing seed selection in read mapping
+Citations:18
+Authors: H Xin, S Nahar, R Zhu, J Emmons, G Pekhimenko, C Kingsford, C Alkan, ...
+Publication: Bioinformatics 32 (11), 1632-1642
+
+36. Uncovering genomic reassortments among influenza strains by enumerating maximal bicliques
+Citations:18
+Authors: N Nagarajan, C Kingsford
+Publication: 2008 IEEE International Conference on Bioinformatics and Biomedicine, 223-230
+
+37. A unified model explaining the offsets of overlapping and near-overlapping prokaryotic genes
+Citations:18
+Authors: C Kingsford, AL Delcher, SL Salzberg
+Publication: Molecular biology and evolution 24 (9), 2091-2098
+
+38. Accurate recovery of ribosome positions reveals slow translation of wobble-pairing codons in yeast
+Citations:17
+Authors: H Wang, J McManus, C Kingsford
+Publication: Journal of Computational Biology 24 (6), 486-500
+
+39. Diffusion archeology for diffusion progression history reconstruction
+Citations:16
+Authors: E Sefer, C Kingsford
+Publication: Knowledge and information systems 49 (2), 403-427
+
+40. Predicting protein interactions via parsimonious network history inference
+Citations:16
+Authors: R Patro, C Kingsford
+Publication: Bioinformatics 29 (13), i237-i246
+
+41. Convex risk minimization to infer networks from probabilistic diffusion data at multiple scales
+Citations:14
+Authors: E Sefer, C Kingsford
+Publication: 2015 IEEE 31st International Conference on Data Engineering, 663-674
+
+42. A compact mathematical programming formulation for DNA motif finding
+Citations:14
+Authors: C Kingsford, E Zaslavsky, M Singh
+Publication: Annual Symposium on Combinatorial Pattern Matching, 233-245
+
+43. Kourami: graph-guided assembly for novel human leukocyte antigen allele discovery
+Citations:13
+Authors: H Lee, C Kingsford
+Publication: Genome biology 19 (1), 16
+
+44. Metric labeling and semi-metric embedding for protein annotation prediction
+Citations:13
+Authors: E Sefer, C Kingsford
+Publication: International Conference on Research in Computational Molecular Biology, 392-407
+
+45. Improving Bloom Filter Performance on Sequence Data Using k-mer Bloom Filters
+Citations:11
+Authors: D Pellow, D Filippova, C Kingsford
+Publication: Journal of Computational Biology 24 (6), 547-557
+
+46. Resolving spatial inconsistencies in chromosome conformation measurements
+Citations:11
+Authors: G Duggal, R Patro, E Sefer, H Wang, D Filippova, S Khuller, C Kingsford
+Publication: Algorithms for Molecular Biology 8 (1), 8
+
+47. Multiscale identification of topological domains in chromatin
+Citations:11
+Authors: D Filippova, R Patro, G Duggal, C Kingsford
+Publication: International Workshop on Algorithms in Bioinformatics, 300-312
+
+48. Coral: an integrated suite of visualizations for comparing clusterings
+Citations:11
+Authors: D Filippova, A Gadani, C Kingsford
+Publication: BMC bioinformatics 13 (1), 276
+
+49. Improving the performance of minimizers and winnowing schemes
+Citations:10
+Authors: G Marçais, D Pellow, D Bork, Y Orenstein, R Shamir, C Kingsford
+Publication: Bioinformatics 33 (14), i110-i117
+
+50. Deconvolution of ensemble chromatin interaction data reveals the latent mixing structures in cell subpopulations
+Citations:10
+Authors: E Sefer, G Duggal, C Kingsford
+Publication: Journal of Computational Biology 23 (6), 425-438
+
+51. The side-chain positioning problem: a semidefinite programming formulation with new rounding schemes
+Citations:10
+Authors: B Chazelle, C Kingsford, M Singh
+Publication: Proceedings of the Paris C. Kanellakis memorial workshop on Principles of …
+
+52. Improved search of large transcriptomic sequencing databases using split sequence bloom trees
+Citations:9
+Authors: B Solomon, C Kingsford
+Publication: Journal of Computational Biology 25 (7), 755-765
+
+53. Topological properties of chromosome conformation graphs reflect spatial proximities within chromatin
+Citations:9
+Authors: H Wang, G Duggal, R Patro, M Girvan, S Hannenhalli, C Kingsford
+Publication: Proceedings of the International Conference on Bioinformatics, Computational …
+
+54. The missing models: A data-driven approach for learning how networks grow
+Citations:8
+Authors: R Patro, G Duggal, E Sefer, H Wang, D Filippova, C Kingsford
+Publication: Proceedings of the 18th ACM SIGKDD international conference on Knowledge …
+
+55. Designing small universal k-mer hitting sets for improved analysis of high-throughput sequencing
+Citations:7
+Authors: Y Orenstein, D Pellow, G Marçais, R Shamir, C Kingsford
+Publication: PLoS computational biology 13 (10), e1005777
+
+56. Extracting between-pathway models from E-MAP interactions using expected graph compression
+Citations:7
+Authors: DR Kelley, C Kingsford
+Publication: Journal of Computational Biology 18 (3), 379-390
+
+57. Quantifying the similarity of topological domains across normal and cancer human cell types
+Citations:6
+Authors: N Sauerwald, C Kingsford
+Publication: Bioinformatics 34 (13), i475-i483
+
+58. Compact universal k-mer hitting sets
+Citations:6
+Authors: Y Orenstein, D Pellow, G Marçais, R Shamir, C Kingsford
+Publication: International Workshop on Algorithms in Bioinformatics, 257-268
+
+59. ccTSA: A coverage-centric threaded sequence assembler
+Citations:6
+Authors: JH Ahn
+Publication: PloS one 7 (6), e39232
+
+60. Uncovering many views of biological networks using ensembles of near-optimal partitions
+Citations:6
+Authors: G Duggal, S Navlakha, M Girvan, C Kingsford
+Publication: MultiClust: 1st International Workshop on Discovering, Summarizing and Using …
+
+61. A cooperative combinatorial particle swarm optimization algorithm for side-chain packing
+Citations:6
+Authors: G Lapizco-Encinas, C Kingsford, J Reggia
+Publication: 2009 IEEE Swarm Intelligence Symposium, 22-29
+
+62. Chromosomal dynamics predicted by an elastic network model explains genome-wide accessibility and long-range couplings
+Citations:5
+Authors: N Sauerwald, S Zhang, C Kingsford, I Bahar
+Publication: Nucleic acids research 45 (7), 3663-3673
+
+63. Efficient index maintenance under dynamic genome modification
+Citations:5
+Authors: N Gupta, K Sanjeev, T Wall, C Kingsford, R Patro
+Publication: arXiv preprint arXiv:1604.03132
+
+64. Rapid, separable compression enables fast analyses of sequence alignments
+Citations:5
+Authors: D Filippova, C Kingsford
+Publication: Proceedings of the 6th ACM Conference on Bioinformatics, Computational …
+
+65. Large-scale search of transcriptomic read sets with sequence bloom trees
+Citations:5
+Authors: B Solomon, C Kingsford
+Publication: bioRxiv, 017087
+
+66. A pathway-centric view of spatial proximity in the 3D nucleome across cell lines
+Citations:4
+Authors: H Karathia, C Kingsford, M Girvan, S Hannenhalli
+Publication: Scientific reports 6, 39279
+
+67. The inapproximability of side-chain positioning
+Citations:4
+Authors: B Chazelle, C Kingsford, M Singh
+Publication: Technical Report. Princeton University, Princeton
+
+68. Locality sensitive hashing for the edit distance
+Citations:3
+Authors: G Marcais, D DeBlasio, P Pandey, C Kingsford
+Publication: BioRxiv, 534446
+
+69. Asymptotically optimal minimizers schemes
+Citations:3
+Authors: G Marçais, D DeBlasio, C Kingsford
+Publication: Bioinformatics 34 (13), i13-i22
+
+70. Theory and a heuristic for the minimum path flow decomposition problem
+Citations:3
+Authors: M Shao, C Kingsford
+Publication: IEEE/ACM transactions on computational biology and bioinformatics 16 (2 …
+
+71. Exploring ribosome positioning on translating transcripts with ribosome profiling
+Citations:3
+Authors: P Spealman, H Wang, G May, C Kingsford, CJ McManus
+Publication: Post-Transcriptional Gene Regulation, 71-97
+
+72. Semi-nonparametric modeling of topological domain formation from epigenetic data
+Citations:3
+Authors: E Sefer, C Kingsford
+Publication: International Workshop on Algorithms in Bioinformatics, 148-161
+
+73. Graph rigidity reveals well-constrained regions of chromosome conformation embeddings
+Citations:3
+Authors: G Duggal, C Kingsford
+Publication: BMC bioinformatics 13 (1), 241
+
+74. Resolving spatial inconsistencies in chromosome conformation data
+Citations:3
+Authors: G Duggal, R Patro, E Sefer, H Wang, D Filippova, S Khuller, C Kingsford
+Publication: International Workshop on Algorithms in Bioinformatics, 288-300
+
+75. Dynamic exploration of recording sessions between jazz musicians over time
+Citations:3
+Authors: D Filippova, M Fitzgerald, C Kingsford, F Benadon
+Publication: ASE/IEEE International Conference on Social Computing
+
+76. Extracting between-pathway models from E-MAP interactions using expected graph compression
+Citations:3
+Authors: DR Kelley, C Kingsford
+Publication: Annual International Conference on Research in Computational Molecular …
+
+77. Detecting anomalies in RNA-seq quantification
+Citations:2
+Authors: C Ma, C Kingsford
+Publication: BioRxiv, 541714
+
+78. Analysis of the structural variability of topologically associated domains as revealed by Hi-C
+Citations:2
+Authors: N Sauerwald, A Singhal, C Kingsford
+Publication: BioRxiv, 498972
+
+79. SQUID: transcriptomic structural variation detection from RNA-seq
+Citations:2
+Authors: C Ma, M Shao, C Kingsford
+Publication: Genome biology 19 (1), 52
+
+80. Accurate Assembly and Typing of HLA using a Graph-Guided Assembler Kourami
+Citations:2
+Authors: H Lee, C Kingsford
+Publication: HLA Typing, 235-247
+
+81. A cost-aggregating integer linear program for motif finding
+Citations:2
+Authors: C Kingsford, E Zaslavsky, M Singh
+Publication: Journal of Discrete Algorithms 9 (4), 326-334
+
+82. Particle swarm optimization for multimodal combinatorial problems and its application to protein design
+Citations:2
+Authors: G Lapizco-Encinas, C Kingsford, J Reggia
+Publication: IEEE Congress on Evolutionary Computation, 1-8
+
+83. Sketching and sublinear data structures in genomics
+Citations:1
+Authors: G Marçais, B Solomon, R Patro, C Kingsford
+Publication: Annual Review of Biomedical Data Science 2
+
+84. Using the Ribodeblur pipeline to recover A-sites from yeast ribosome profiling data
+Citations:1
+Authors: H Wang, C Kingsford, CJ McManus
+Publication: Methods 137, 67-70
+
+85. Scallop enables accurate assembly of transcripts through phasing-preserving graph decomposition
+Citations:1
+Authors: M Shao, C Kingsford
+Publication: BioRxiv, 123612
+
+86. Efficient heuristic for decomposing a flow with minimum number of paths
+Citations:1
+Authors: M Shao, C Kingsford
+Publication: bioRxiv, 087759
+
+87. ISMB 2014 Proceedings Papers Committee
+Citations:1
+Authors: S Batzoglu, R Schwartz, T Lengauer, B Bioimaging, H Shatkay, S Kasif, ...
+Publication: Bioinformatics 30 (12), i3-i8
+
+88. Chromovis: Feature-rich layouts of chromosome conformation graphs
+Citations:1
+Authors: D Filippova, G Duggal, R Patro, C Kingsford
+Publication: Unpublished manuscript at http://www. cs. cmu. edu/~ dfilippo/projects …
+
+89. Jellyfish: A fast k-mer counter
+Citations:1
+Authors: G Marcais, C Kingsford
+Publication: 
+
+90. A synthesis for exactly 3-edge-connected graphs
+Citations:1
+Authors: C Kingsford, G Marçais
+Publication: arXiv preprint arXiv:0905.1053
+
+91. Semi-nonparametric modeling of topological domain formation from epigenetic data
+Citations:
+Authors: E Sefer, C Kingsford
+Publication: Algorithms for Molecular Biology 14 (1), 4
+
+92. How much data is sufficient to learn high-performing algorithms?
+Citations:
+Authors: MF Balcan, D DeBlasio, T Dick, C Kingsford, T Sandholm, E Vitercik
+Publication: arXiv preprint arXiv:1908.02894
+
+93. Supplementary Material for Detecting RNA-seq quantification anomalies
+Citations:
+Authors: C Ma, C Kingsford
+Publication: 
+
+94. Detecting Transcriptomic Structural Variants in Heterogeneous Contexts via the Multiple Compatible Arrangements Problem
+Citations:
+Authors: Y Qiu, C Ma, H Xie, C Kingsford
+Publication: BioRxiv, 697367
+
+95. Alignment and mapping methodology influence transcript abundance estimation
+Citations:
+Authors: A Srivastava, L Malik, M Zakeri, H Sarkar, C Soneson, MI Love, ...
+Publication: BioRxiv, 657874
+
+96. Practical universal k-mer sets for minimizer schemes
+Citations:
+Authors: D DeBlasio, F Gbosibo, C Kingsford, G Marcais
+Publication: BioRxiv, 652925
+
+97. Context-Aware Seeds for Read Mapping
+Citations:
+Authors: H Xin, M Shao, C Kingsford
+Publication: BioRxiv, 643072
+
+98. Quantifying the Benefit Offered by Transcript Assembly on Single-Molecule Long Reads
+Citations:
+Authors: LH Tung, M Shao, C Kingsford
+Publication: BioRxiv, 632703
+
+99. Maximum Likelihood Reconstruction of Ancestral Networks by Integer Linear Programming
+Citations:
+Authors: V Rajan, C Kingsford, X Zhang
+Publication: bioRxiv, 574814
+
+100. Identification of Microbiota-Induced Gene Expression Changes in the Drosophila melanogaster Head
+Citations:
+Authors: SA Keith, R Eutsey, H Lee, B Solomon, S Oliver, C Kingsford, NL Hiller, ...
+Publication: bioRxiv, 561043
+
+101. Topological data analysis reveals principles of chromosome structure throughout cellular differentiation
+Citations:
+Authors: N Sauerwald, Y Shen, C Kingsford
+Publication: BioRxiv, 540716
+
+102. More accurate transcript assembly via parameter advising
+Citations:
+Authors: D DeBlasio, K Kim, C Kingsford
+Publication: bioRxiv, 342865
+
+103. Transcriptional trajectories of human kidney disease progression
+Citations:
+Authors: PE Cippa, B Sun, J Liu, L Chen, M Naesens, AP McMahon
+Publication: bioRxiv, 342972
+
+104. Functional Validation of Transcription Factor to Gene Interactions by Statistical Learning of Gaussian Bayesian networks from SNP and Expression data.
+Citations:
+Authors: J Xiang, S Kim, G Gordon, C Kingsford, S Oesterreich
+Publication: 
+
+105. Graph-guided assembly for novel HLA allele discovery
+Citations:
+Authors: H Lee, C Kingsford
+Publication: BioRxiv, 138826
+
+106. LEAP: A Generalization Of The Landau-Vishkin Algorithm With Custom Gap Penalties
+Citations:
+Authors: H Xin, J Kim, S Nahar, C Alkan, O Mutlu
+Publication: BioRxiv, 133157
+
+107. A computational method for designing diverse linear epitopes including citrullinated peptides with desired binding affinities to intravenous immunoglobulin
+Citations:
+Authors: R Patro, R Norel, RJ Prill, J Saez-Rodriguez, P Lorenz, F Steinbeck, ...
+Publication: BMC bioinformatics 17 (1), 155
+
+108. SIAM Workshop on Network Science (NS16)
+Citations:
+Authors: U Brandes, B Fosdick, A Gebremedhin, J Gilbert, D Gleich, A Hagberg, ...
+Publication: 
+
+109. The second decade of the international conference on research in computational molecular biology (RECOMB)
+Citations:
+Authors: F Hormozdiari, F Hormozdiari, C Kingsford, P Medvedev, F Vandin
+Publication: International Conference on Research in Computational Molecular Biology, 3-16
+
+110. Each cell needs long double-stranded RNA for silencing by feeding RNAi in C. elegans
+Citations:
+Authors: P Raman, S Zaghab, E Traver, A Jose
+Publication: bioRxiv, 066415
+
+111. Teaching Computation to Biologists
+Citations:
+Authors: C Kingsford
+Publication: Computing in Science & Engineering 18 (1), 4-5
+
+112. PRIZES AND AWARDS
+Citations:
+Authors: CL Kingsford
+Publication: 
+
+113. Compression of short-read sequences using path encoding
+Citations:
+Authors: C Kingsford, R Patro
+Publication: bioRxiv, 006551
+
+114. The Map of Jazz Musicians: an online interactive tool for navigating jazz history's interpersonal network.
+Citations:
+Authors: F Benadon, D Filippova, M Fitzgerald, C Kingsford, Y Sakellion
+Publication: 
+
+115. ISMB 2012 PROCEEDINGS PAPERS COMMITTEE
+Citations:
+Authors: A Tramontano, R Murphy, SI O’Donoghue, S Kasif, I Kohane, D Durand, ...
+Publication: 
+
+116. Graph rigidity reveals non-deformable collections of chromosome conformation constraints
+Citations:
+Authors: G Duggal, C Kingsford
+Publication: 
+
+117. Review of Complex social networks by Fernando Vega-Redondo
+Citations:
+Authors: C Kingsford
+Publication: ACM SIGACT News 42 (1), 29-31
+
+118. Vertices of degree k in edge-minimal, k-edge-connected graphs
+Citations:
+Authors: C Kingsford, G Marçais
+Publication: arXiv preprint arXiv:0905.1064
+
+119. Expression-Based Network Biology Identifies Alteration in Key Regulatory Pathways of Type 2
+Citations:
+Authors: U Sengupta, S Ukil, N Dimitrova, S Agrawal
+Publication: 
+
+120. DSS PRIZE PAPERS-INTRODUCTION
+Citations:
+Authors: P GRAY
+Publication: INTERFACES 21 (6), 1-3
+
+121. Franz Edelman Award for Management Science Achievement
+Citations:
+Authors: ED Thomas, SC Graves, FH Murphy
+Publication: Interfaces 20 (1), 1-5
+
+122. ISMB 2014 PROCEEDINGS PAPERS COMMITTEE
+Citations:
+Authors: S Batzoglu, R Schwartz, T Lengauer, B Bioimaging, H Shatkay, S Kasif, ...
+Publication: 
+
+123. Accurate, Fast, and Model-Aware Transcript Expression Quantification
+Citations:
+Authors: C Kingsford
+Publication: 
+
+124. SQUID: Transcriptomic Structural Variation Detection from
+Citations:
+Authors: C Ma, M Shao, C Kingsford
+Publication: 
+
+125. Supplementary Information: Isoform-level Ribosome Occupancy Estimation Guided by Transcript Abundance with Ribomap
+Citations:
+Authors: H Wang, J McManus, C Kingsford
+Publication: 
+
+126. Supplementary Material For: Data-dependent Bucketing Improves Reference-free Compression of Sequencing Reads
+Citations:
+Authors: R Patro, C Kingsford
+Publication: 
+
+127. Log in with
+Citations:
+Authors: SL Salzberg, C Kingsford, G Cattoli, DJ Spiro, DA Janies, MM Aly, ...
+Publication: 
+
+128. Shifted Hamming Distance (SHD): A Fast and Accurate SIMD-Friendly Filter for Local Alignment in Read Mapping
+Citations:
+Authors: H Xin, J Greth, J Emmons, G Pekhimenko, C Kingsford, C Alkan, O Mutlu
+Publication: 
+
+129. Tracking Infectious Diseases since 2006
+Citations:
+Authors: SL Salzberg, C Kingsford, G Cattoli, DJ Spiro, DA Janies, MM Aly, ...
+Publication: 
+
+130. Improving Mathematical Programming Approaches for Motif Finding
+Citations:
+Authors: C Kingsford, E Zaslavsky, M Singh
+Publication: 
+

@@ -1,0 +1,550 @@
+
+2. Single-chip microprocessor that communicates directly using light
+Citations:560
+Authors: C Sun, MT Wade, Y Lee, JS Orcutt, L Alloatti, MS Georgas, AS Waterman, ...
+Publication: Nature 528 (7583), 534
+
+3. Building manycore processor to DRAM networks with monolithic silicon photonics
+Citations:485
+Authors: C Batten, A Joshi, J Orcutt, A Khilo, B Moss, C Holzwarth, M Popović, H Li, ...
+Publication: IEEE Symposium on High-Performance Interconnects, 21-30
+
+5. DSENT-a tool connecting emerging photonics with electronics for opto-electronic networks-on-chip modeling
+Citations:435
+Authors: C Sun, CHO Chen, G Kurian, L Wei, J Miller, A Agarwal, LS Peh, ...
+Publication: 2012 IEEE/ACM Sixth International Symposium on Networks-on-Chip, 201-210
+
+6. Silicon-photonic clos networks for global on-chip communication
+Citations:347
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanovic, ...
+Publication: 2009 3rd ACM/IEEE International Symposium on Networks-on-Chip, 124-133
+
+11. Open foundry platform for high-performance electronic-photonic integration
+Citations:209
+Authors: JS Orcutt, B Moss, C Sun, J Leu, M Georgas, J Shainline, E Zgraggen, ...
+Publication: Optics Express 20 (11), 12222-12232
+
+14. Demonstration of integrated micro-electro-mechanical relay circuits for VLSI applications
+Citations:170
+Authors: M Spencer, F Chen, CC Wang, R Nathanael, H Fariborzi, A Gupta, H Kam, ...
+Publication: IEEE Journal of Solid-State Circuits 46 (1), 308-320
+
+15. Silicon photonics for compact, energy-efficient interconnects
+Citations:162
+Authors: T Barwicz, H Byun, F Gan, CW Holzwarth, MA Popovic, PT Rakich, ...
+Publication: Journal of Optical Networking 6 (1), 63-73
+
+18. Nanophotonic integration in state-of-the-art CMOS foundries
+Citations:142
+Authors: JS Orcutt, A Khilo, CW Holzwarth, MA Popović, H Li, J Sun, T Bonifield, ...
+Publication: Optics express 19 (3), 2335-2346
+
+20. Addressing link-level design tradeoffs for integrated photonic interconnects
+Citations:126
+Authors: M Georgas, J Leu, B Moss, C Sun, V Stojanović
+Publication: 2011 IEEE Custom Integrated Circuits Conference (CICC), 1-8
+
+21. Re-architecting DRAM memory systems with monolithically integrated silicon photonics
+Citations:122
+Authors: S Beamer, C Sun, YJ Kwon, A Joshi, C Batten, V Stojanović, K Asanović
+Publication: Proceedings of the 37th International Symposium on Computer Architecture 38 …
+
+22. Integrating photonics with silicon nanoelectronics for the next generation of systems on a chip
+Citations:118
+Authors: AH Atabaki, S Moazeni, F Pavanello, H Gevorgyan, J Notaros, L Alloatti, ...
+Publication: Nature 556 (7701), 349
+
+24. Channel-limited high-speed links: Modeling, analysis and design
+Citations:100
+Authors: V Stojanović
+Publication: Stanford University
+
+27. A signal-agnostic compressed sensing acquisition system for wireless and implantable sensors
+Citations:87
+Authors: F Chen, AP Chandrakasan, V Stojanović
+Publication: IEEE Custom Integrated Circuits Conference 2010, 1-4
+
+29. A 45nm 1.3 GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators
+Citations:83
+Authors: Y Lee, A Waterman, R Avizienis, H Cook, C Sun, V Stojanović, K Asanović
+Publication: ESSCIRC 2014-40th European Solid State Circuits Conference (ESSCIRC), 199-202
+
+31. A monolithically-integrated chip-to-chip optical link in bulk CMOS
+Citations:79
+Authors: C Sun, M Georgas, J Orcutt, B Moss, YH Chen, J Shainline, M Wade, ...
+Publication: IEEE Journal of Solid-State Circuits 50 (4), 828-844
+
+34. Demonstration of Integrated Micro-Electro-Mechanical Switch Circuits for VLSI Applications
+Citations:71
+Authors: F Chen, M Spencer, R Nathanael, C Wang, H Fariborzi, A Gupta, H Kam, ...
+Publication: IEEE International Solid-State Circuits Conference
+
+37. Demonstration of an electronic photonic integrated circuit in a commercial scaled bulk CMOS process
+Citations:64
+Authors: JS Orcutt, A Khilo, MA Popovic, CW Holzwarth, B Moss, H Li, MS Dahlem, ...
+Publication: Conference on Lasers and Electro-Optics, CTuBB3
+
+40. Depletion-mode carrier-plasma optical modulator in zero-change advanced CMOS
+Citations:59
+Authors: JM Shainline, JS Orcutt, MT Wade, K Nammari, B Moss, M Georgas, ...
+Publication: Optics letters 38 (15), 2657-2659
+
+42. A 7.5 Gb/s 10-tap DFE receiver with first tap partial response, spectrally gated adaptation, and 2nd-order data-filtered CDR
+Citations:57
+Authors: BS Leibowitz, J Kizer, H Lee, F Chen, A Ho, M Jeeradit, A Bansal, T Greer, ...
+Publication: 2007 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+43. A 45 nm CMOS-SOI monolithic photonics platform with bit-statistics-based resonant microring thermal tuning
+Citations:55
+Authors: C Sun, M Wade, M Georgas, S Lin, L Alloatti, B Moss, R Kumar, ...
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 893-907
+
+45. Low-loss polysilicon waveguides fabricated in an emulated high-volume electronics process
+Citations:50
+Authors: JS Orcutt, SD Tang, S Kramer, K Mehta, H Li, V Stojanović, RJ Ram
+Publication: Optics express 20 (7), 7243-7254
+
+47. An ultra low power 3D integrated intra-chip silicon electronic-photonic link
+Citations:45
+Authors: E Timurdogan, Z Su, K Settaluri, S Lin, S Moazeni, C Sun, G Leake, ...
+Publication: Optical Fiber Communication Conference, Th5B. 8
+
+48. Equalized interconnects for on-chip networks: Modeling and optimization framework
+Citations:45
+Authors: B Kim, V Stojanović
+Publication: Proceedings of the 2007 IEEE/ACM international conference on Computer-aided …
+
+50. 75% efficient wide bandwidth grating couplers in a 45 nm microelectronics CMOS process
+Citations:43
+Authors: MT Wade, F Pavanello, R Kumar, CM Gentry, A Atabaki, R Ram, ...
+Publication: 2015 IEEE Optical Interconnects Conference (OI), 46-47
+
+51. Cross-layer energy and performance evaluation of a nanophotonic manycore processor system using real application workloads
+Citations:42
+Authors: G Kurian, C Sun, CHO Chen, JE Miller, J Michel, L Wei, DA Antoniadis, ...
+Publication: 2012 IEEE 26th International Parallel and Distributed Processing Symposium …
+
+52. Automated wavelength recovery for microring resonators
+Citations:42
+Authors: E Timurdogan, A Biberman, DC Trotter, C Sun, M Moresco, V Stojanović, ...
+Publication: CLEO: Science and Innovations, CM2M. 1
+
+53. A 1.23 pJ/bit 2.5Gb/s Monolithically-Integrated Optical Carrier-Injection Ring Modulator and All-Digital Driver Circuit in Commercial 45nm SOI
+Citations:41
+Authors: BR Moss, C Sun, M Georgas, J Shainline, JS Orcutt, JC Leu, M Wade, ...
+Publication: IEEE International Solid-State Circuits Conference, 126-127
+
+55. Near-optimal equalizer and timing adaptation for I/O links using a BER-based metric
+Citations:40
+Authors: EH Chen, J Ren, B Leibowitz, HC Lee, Q Lin, KS Oh, F Lambrecht, ...
+Publication: IEEE Journal of Solid-State Circuits 43 (9), 2144-2156
+
+57. Demonstration of an optical chip-to-chip link in a 3D integrated electronic-photonic platform
+Citations:39
+Authors: KT Settaluri, S Lin, S Moazeni, E Timurdogan, C Sun, M Moresco, Z Su, ...
+Publication: ESSCIRC Conference 2015-41st European Solid-State Circuits Conference …
+
+58. Accurate system voltage and timing margin simulation in high-speed I/O system designs
+Citations:39
+Authors: KS Oh, F Lambrecht, S Chang, Q Lin, J Ren, C Yuan, J Zerbe, ...
+Publication: IEEE transactions on advanced packaging 31 (4), 722-730
+
+61. Analysis and demonstration of MEM-relay power gating
+Citations:37
+Authors: H Fariborzi, M Spencer, V Karkare, J Jeon, R Nathanael, C Wang, F Chen, ...
+Publication: IEEE Custom Integrated Circuits Conference 2010, 1-4
+
+62. A 24 Gb/s software programmable analog multi-tone transmitter
+Citations:34
+Authors: A Amirkhany, A Abbasfar, J Savoj, M Jeeradit, B Garlepp, RT Kollipara, ...
+Publication: IEEE Journal of Solid-State Circuits 43 (4), 999-1009
+
+63. A 40-Gb/s PAM-4 transmitter based on a ring-resonator optical DAC in 45-nm SOI CMOS
+Citations:32
+Authors: S Moazeni, S Lin, M Wade, L Alloatti, RJ Ram, M Popović, V Stojanović
+Publication: IEEE Journal of Solid-State Circuits 52 (12), 3503-3516
+
+64. Energy-efficient active photonics in a zero-change, state-of-the-art CMOS process
+Citations:32
+Authors: MT Wade, JM Shainline, JS Orcutt, C Sun, R Kumar, B Moss, M Georgas, ...
+Publication: Optical Fiber Communication Conference, Tu2E. 7
+
+67. A monolithically-integrated optical transmitter and receiver in a zero-change 45nm SOI process
+Citations:30
+Authors: M Georgas, BR Moss, C Sun, J Shainline, JS Orcutt, M Wade, YH Chen, ...
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+70. A 45nm SOI monolithic photonics chip-to-chip link with bit-statistics-based resonant microring thermal tuning
+Citations:27
+Authors: C Sun, M Wade, M Georgas, S Lin, L Alloatti, B Moss, R Kumar, A Atabaki, ...
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C122-C123
+
+71. Optical switching: Excitonic interconnects
+Citations:27
+Authors: M Baldo, V Stojanović
+Publication: Nature Photonics 3 (10), 558
+
+72. Precursor ISI reduction in high-speed I/O
+Citations:26
+Authors: J Ren, H Lee, Q Lin, B Leibowitz, EH Chen, D Oh, F Lambrecht, ...
+Publication: 2007 IEEE Symposium on VLSI Circuits, 134-135
+
+74. Monolithic silicon-photonic platforms in state-of-the-art CMOS SOI processes
+Citations:25
+Authors: V Stojanović, RJ Ram, M Popović, S Lin, S Moazeni, M Wade, C Sun, ...
+Publication: Optics express 26 (10), 13106-13121
+
+75. Optimization-based framework for simultaneous circuit-and-system design-space exploration: A high-speed link example
+Citations:25
+Authors: R Sredojević, V Stojanović
+Publication: Proceedings of the 2008 IEEE/ACM International Conference on Computer-Aided …
+
+80. Scaling and evaluation of carbon nanotube interconnects for VLSI applications
+Citations:21
+Authors: F Chen, A Joshi, V Stojanović, A Chandrakasan
+Publication: Proceedings of the 2nd international conference on Nano-Networks, 24
+
+82. Accurate method for analyzing high-speed I/O system performance
+Citations:21
+Authors: D Oh, F Lambrecht, S Chang, Q Lin, J Ren, J Zerbe, C Yuan, C Madden, ...
+Publication: DesignCon
+
+86. A 0.75-million-point fourier-transform chip for frequency-sparse signals
+Citations:19
+Authors: O Abari, E Hamed, H Hassanieh, A Agarwal, D Katabi, AP Chandrakasan, ...
+Publication: Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 …
+
+87. Relays do not leak: CMOS does
+Citations:19
+Authors: H Fariborzi, F Chen, R Nathanael, IR Chen, L Hutin, R Lee, TJK Liu, ...
+Publication: Proceedings of the 50th Annual Design Automation Conference, 127
+
+89. Designing multi-socket systems using silicon photonics
+Citations:19
+Authors: S Beamer, K Asanović, C Batten, A Joshi, V Stojanović
+Publication: Proceedings of the 23rd international conference on Supercomputing, 521-522
+
+91. Depletion-mode polysilicon optical modulators in a bulk complementary metal-oxide semiconductor process
+Citations:18
+Authors: JM Shainline, JS Orcutt, MT Wade, K Nammari, O Tehar-Zahav, ...
+Publication: Optics letters 38 (15), 2729-2731
+
+92. Injection-locked clock receiver for monolithic optical link in 45nm SOI
+Citations:18
+Authors: J Leu, V Stojanović
+Publication: IEEE Asian Solid-State Circuits Conference 2011, 149-152
+
+93. Integration of Silicon Photonics in Bulk CMOS
+Citations:17
+Authors: R Meade, JS Orcutt, K Mehta, O Tehar-Zahav, D Miller, M Georgas, ...
+Publication: IEEE Symposium on VLSI Technology
+
+94. Characterization of equalized and repeated interconnects for NoC applications
+Citations:17
+Authors: B Kim, V Stojanović
+Publication: IEEE Design & Test of Computers 25 (5), 430-439
+
+96. Prediction of system performance based on component jitter and noise budgets
+Citations:16
+Authors: D Oh, F Lambrecht, JH Ren, S Chang, B Chia, C Madden, C Yuan
+Publication: 2007 IEEE Electrical Performance of Electronic Packaging, 33-36
+
+98. Non-volatile nano-electro-mechanical memory for energy-efficient data searching
+Citations:15
+Authors: K Kato, V Stojanović, TJK Liu
+Publication: IEEE Electron Device Letters 37 (1), 31-34
+
+101. First principles optimization of opto-electronic communication links
+Citations:13
+Authors: KT Settaluri, C Lalau-Keraly, E Yablonovitch, V Stojanović
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 64 (5), 1270-1283
+
+102. Integrated microring tuning in deep-trench bulk CMOS
+Citations:13
+Authors: C Sun, E Timurdogan, MR Watts, V Stojanović
+Publication: 2013 Optical Interconnects Conference, 54-55
+
+104. Digital link pre-emphasis with dynamic driver impedance modulation
+Citations:13
+Authors: R Sredojević, V Stojanović
+Publication: IEEE Custom Integrated Circuits Conference 2010, 1-4
+
+105. Unidirectional chip-to-fiber grating couplers in unmodified 45nm CMOS technology
+Citations:12
+Authors: MT Wade, R Kumar, K Nammari, CM Gentry, JM Shainline, JS Orcutt, ...
+Publication: 2014 Conference on Lasers and Electro-Optics (CLEO)-Laser Science to …
+
+106. Integration of silicon photonics into electronic processes
+Citations:11
+Authors: JS Orcutt, RJ Ram, V Stojanović
+Publication: Silicon Photonics VIII 8629, 86290F
+
+109. Modeling, simulation, and design of a multi-mode 2-10 Gb/sec fully adaptive serial link system
+Citations:10
+Authors: C Werner, C Hoyer, A Ho, M Jeeradit, F Chen, B Garlepp, W Stonecypher, ...
+Publication: Proceedings of the IEEE 2005 Custom Integrated Circuits Conference, 2005 …
+
+111. Monolithic electronic-photonic integration in state-of-the-art CMOS processes
+Citations:9
+Authors: JS Orcutt
+Publication: Massachusetts Institute of Technology
+
+114. Electronic–Photonic Co-Optimization of High-Speed Silicon Photonic Transmitters
+Citations:8
+Authors: S Lin, S Moazeni, KT Settaluri, V Stojanović
+Publication: Journal of Lightwave Technology 35 (21), 4766-4780
+
+115. Embedded nano-electro-mechanical memory for energy-efficient reconfigurable logic
+Citations:8
+Authors: K Kato, V Stojanović, TJK Liu
+Publication: IEEE Electron Device Letters 37 (12), 1563-1565
+
+116. Integration of silicon photonics in a bulk CMOS memory flow
+Citations:8
+Authors: R Meade, O Tehar-Zahav, Z Sternberg, E Megged, G Sandhu, JS Orcutt, ...
+Publication: 2013 Optical Interconnects Conference, 114-115
+
+120. Scalable electrical-optical thermal simulator for multicores with optical interconnects
+Citations:7
+Authors: YH Chen, C Sun, V Stojanović
+Publication: 2013 Optical Interconnects Conference, 3-4
+
+121. Low-loss polysilicon waveguides suitable for integration within a high-volume electronics process
+Citations:7
+Authors: JS Orcutt, SD Tang, S Kramer, H Li, V Stojanović, RJ Ram
+Publication: CLEO: Science and Innovations, CThHH2
+
+122. Design Requirements for a Spintronic MTJ Logic Device for Pipelined Logic Applications
+Citations:6
+Authors: Y Kang, J Bokor, V Stojanović
+Publication: IEEE Transactions on Electron Devices 63 (4), 1754-1761
+
+123. Scaling zero-change photonics: An active photonics platform in a 32 nm microelectronics SOI CMOS process
+Citations:6
+Authors: MT Wade, F Pavanello, J Orcutt, R Kumar, JM Shainline, V Stojanović, ...
+Publication: CLEO: Science and Innovations, SW4N. 1
+
+124. Multi-modal optical microcavities for loss avoidance
+Citations:6
+Authors: JM Shainline, J Orcutt, MT Wade, R Meade, O Tehar-Zahav, Z Sternberg, ...
+Publication: CLEO: Science and Innovations, CM1F. 2
+
+125. Photonic integration in a commercial scaled bulk-CMOS process
+Citations:6
+Authors: JS Orcutt, A Khilo, MA Popovic, CW Holzwarth, H Li, J Sun, B Moss, ...
+Publication: 2009 International Conference on Photonics in Switching, 1-2
+
+128. Monolithic optical transceivers in 65 nm bulk CMOS
+Citations:5
+Authors: AH Atabaki, S Moazeni, F Pavanello, H Gevorgyan, J Notaros, L Alloatti, ...
+Publication: 2018 Optical Fiber Communications Conference and Exposition (OFC), 1-3
+
+130. CMOS photonic processor-memory networks
+Citations:5
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: 2010 IEEE Photonics Society Winter Topicals Meeting Series (WTM), 118-119
+
+132. Heterogeneous Integration of a 300-mm Silicon Photonics-CMOS Wafer Stack by Direct Oxide Bonding and Via-Last 3-D Interconnection
+Citations:4
+Authors: C McDonough, D La Tulipe, D Pascual, P Tariello, J Mucci, M Smalley, ...
+Publication: Journal of Microelectronics and Electronic Packaging 13 (2), 71-76
+
+134. Designing Processor-Memory Interfaces with Monolithically Integrated Silicon-photonics
+Citations:4
+Authors: C Sun, YH Chen, V Stojanović
+Publication: Conference on Lasers and Electro-Optics/Pacific Rim, TuN4_3
+
+136. Low loss waveguide integration within a thin-SOI CMOS foundry
+Citations:4
+Authors: JS Orcutt, B Moss, C Sun, J Leu, M Georgas, S Urosevic, H Li, J Sun, ...
+Publication: Optical Interconnects Conference, 2012 IEEE, 25-26
+
+142. Depletion-based optical modulators in a bulk 65 nm CMOS platform
+Citations:3
+Authors: F Pavanello, A Atabaki, MT Wade, L Alloatti, J Notaros, S Moazeni, ...
+Publication: Optical Fiber Communication Conference, Th4H. 3
+
+143. Floating-point unit design with nano-electro-mechanical (NEM) relays
+Citations:3
+Authors: S Dutta, V Stojanović
+Publication: 2014 IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH …
+
+145. Robust RST controller design by convex optimization
+Citations:3
+Authors: MS Matijević, R Sredojević, VM Stojanović
+Publication: Electronics 15 (1), 24-29
+
+146. Design-space exploration for CMOS photonic processor networks
+Citations:3
+Authors: V Stojanović, A Joshi, C Batten, YJ Kwon, S Beamer, S Chen, K Asanović
+Publication: 2010 Conference on Optical Fiber Communication (OFC/NFOEC), collocated …
+
+148. Building manycore processor-to-DRAM networks using monolithic silicon photonics
+Citations:3
+Authors: A Joshi, C Batten, V Stojanović, K Asanović
+Publication: High Performance Embedded Computing (HPEC) Workshop
+
+149. A 1MW− 101DB THD+ N Class-AB High-Fidelity Headphone Driver in 65NM CMOS
+Citations:2
+Authors: N Mehta, J Huijsing, V Stojanović
+Publication: 2018 IEEE Symposium on VLSI Circuits, 235-236
+
+150. Microsecond Optical Switching Network of Processor SoCs with Optical I/O
+Citations:2
+Authors: S Moazeni, J Henriksson, TJ Seok, MT Wade, C Sun, MC Wu, ...
+Publication: Optical Fiber Communication Conference, Th1G. 1
+
+153. Microprocessor chip with photonic I/O
+Citations:2
+Authors: C Sun, MT Wade, Y Lee, JS Orcutt, L Alloatti, MS Georgas, AS Waterman, ...
+Publication: 2017 Optical Fiber Communications Conference and Exhibition (OFC), 1-3
+
+154. Delphi: a framework for rtl-based architecture design evaluation using dsent models
+Citations:2
+Authors: MK Papamichael, C Cakir, CS Chia-Hsin, O Cheny, JC Ho, K Mai, ...
+Publication: 2015 IEEE International Symposium on Performance Analysis of Systems and …
+
+155. Oh, Frank Lambrecht, Vladimir Stojanovic, Jared Zerbe, and Chihkong Ken Yang. Near-Optimal Equalizer and Timing Adaptation for I/O Links Using a BER-Based Metric
+Citations:2
+Authors: E Chen, J Ren, B Leibowitz, H Lee, Q Lin, K Suk
+Publication: IEEE Journal of Solid-State Circuits 43 (9), 2144-2156
+
+158. A model predictive control equalization transmitter for asymmetric interfaces in 28nm FDSOI
+Citations:1
+Authors: T Kim, P Bhargava, V Stojanović
+Publication: 2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), 237-240
+
+159. Design trade-offs in signal component separators for outphasing power amplifiers
+Citations:1
+Authors: Z Li, Y Li, Y Avniel, A Megretski, V Stojanović
+Publication: 2013 Proceedings of the ESSCIRC (ESSCIRC), 33-36
+
+161. Future state-of-the-art electrical interconnect
+Citations:1
+Authors: B Kim, V Stojanović
+Publication: WINDS 2010 Workshop on the Interaction between Nanophotonic Devices and …
+
+162. Silicon photonics and memories
+Citations:1
+Authors: V Stojanović
+Publication: 2010 IEEE Hot Chips 22 Symposium (HCS), 1-50
+
+163. Advantages of Silicon Photonics for Multi-socket Systems
+Citations:1
+Authors: S Beamer, K Asanović, C Batten, A Joshi, V Stojanović
+Publication: Association for Computing Machinery
+
+165. Fully Integrated Coherent LiDAR in 3D-Integrated Silicon Photonics/65nm CMOS
+Citations:
+Authors: P Bhargava, T Kim, CV Poulton, J Notaros, A Yaacobi, E Timurdogan, ...
+Publication: 2019 Symposium on VLSI Circuits, C262-C263
+
+166. A Laser-forwarded Coherent 10Gb/s BPSK Transceiver using Monolithic Microring Resonators in 45nm SOI CMOS
+Citations:
+Authors: N Mehta, S Lin, B Yin, S Moazeni, V Stojanović
+Publication: 2019 Symposium on VLSI Circuits, C192-C193
+
+167. A Differential Optical Receiver With Monolithic Split-Microring Photodetector
+Citations:
+Authors: N Mehta, C Sun, M Wade, V Stojanović
+Publication: IEEE Journal of Solid-State Circuits 54 (8), 2230-2242
+
+168. Ring Resonator Based Ultrasound Detection in a Zero-Change Advanced CMOS-SOI Process
+Citations:
+Authors: P Zarkos, O Hsu, V Stojanović
+Publication: CLEO: Applications and Technology, JW2A. 78
+
+169. Electronic-Photonic Platform for Label-Free Biophotonic Sensing in Advanced Zero-Change CMOS-SOI Process
+Citations:
+Authors: C Adamopoulos, A Gharia, A Niknejad, M Anwar, V Stojanović
+Publication: CLEO: QELS_Fundamental Science, JW2A. 81
+
+170. A 1-mW Class-AB Amplifier With −101 dB THD+N for High-Fidelity 16 Headphones in 65-nm CMOS
+Citations:
+Authors: N Mehta, JH Huijsing, V Stojanović
+Publication: IEEE Journal of Solid-State Circuits 54 (4), 948-958
+
+171. Demonstration of 50-mV Digital Integrated Circuits with Microelectromechanical Relays
+Citations:
+Authors: ZA Ye, S Almeida, M Rusch, A Perlas, W Zhang, U Sikder, J Jeon, ...
+Publication: 2018 IEEE International Electron Devices Meeting (IEDM), 4.1. 1-4.1. 4
+
+172. A Bandwidth-Dense, Low Power Electronic-Photonic Platform and Architecture for Multi-Tbps Optical I/O
+Citations:
+Authors: M Wade, M Davenport, MDC Falco, P Bhargava, J Fini, D Van Orden, ...
+Publication: 2018 European Conference on Optical Communication (ECOC), 1-3
+
+173. Publisher Correction: Integrating photonics with silicon nanoelectronics for the next generation of systems on a chip.
+Citations:
+Authors: AH Atabaki, S Moazeni, F Pavanello, H Gevorgyan, J Notaros, L Alloatti, ...
+Publication: Nature 560 (7716), E4-E4
+
+174. Overcoming the Coherence Distance Barrier in Long-Range FMCW LIDAR
+Citations:
+Authors: T Kim, P Bhargava, V Stojanović
+Publication: CLEO: Science and Innovations, STh3L. 7
+
+175. Monolithic Optical Interconnects in Zero-Change CMOS
+Citations:
+Authors: A Atabaki
+Publication: Proceedings of the 3rd International Workshop on Advanced Interconnect …
+
+176. Efficient nanoscale photonic devices and monolithic electronic-photonic subsystems in sub-100 nm SOI CMOS
+Citations:
+Authors: F Pavanello, MT Wade, J Notaros, JM Shainline, CV Poulton, C Sun, ...
+Publication: 2015 IEEE Photonics Conference (IPC), 1-2
+
+177. Monolithic silicon photonics in a sub-100nm SOI CMOS microprocessor foundry: progress from devices to systems
+Citations:
+Authors: MA Popović, MT Wade, JS Orcutt, JM Shainline, C Sun, M Georgas, ...
+Publication: Silicon Photonics X 9367, 93670M
+
+178. Optical Fiber Telecommunications VIA: Chapter 11. Integrated and Hybrid Photonics for High-Performance Interconnects
+Citations:
+Authors: N Bamiedakis, KA Williams, RV Penty, IH White
+Publication: Elsevier Inc. Chapters
+
+182. Designing manycore processor networks using silicon photonics
+Citations:
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanović, ...
+Publication: 2009 IEEE LEOS Annual Meeting Conference Proceedings, 16-17
+
+184. Performance Estimation of High-Speed Backplane Interconnects
+Citations:
+Authors: J Kim, VM Stojanović
+Publication: 대한전자공학회 ISOCC, 16-18
+
+185. Some experimental aspects of using lungs as biological oxygenator in extracorporal circulation.
+Citations:
+Authors: V Stojanović, M Popović, R Colović
+Publication: Zeitschrift fur experimentelle Chirurgie 13 (1), 38-42
+
+186. HPEC 2009
+Citations:
+Authors: A Joshi, C Batten, YJ Kwon, S Beamer, I Shamim, K Asanović, ...
+Publication: 
+
+187. Transmit Pre-emphasis for High-Speed for High Speed Time-Division-Multiplexed Serial Link Transceiver
+Citations:
+Authors: V Stojanović, G Ginis, MA Horowitz
+Publication: 
+
+188. PLL On-Chip Jitter PLL On Chip Jitter Measurement: Analysis and Design
+Citations:
+Authors: SD Vamvakos, V Stojanović
+Publication: 
+
+189. Towards Front-end CMOS-compatible Photonic Devices for High Bandwidth Density, Ultra-low-power, Core-to-Memory Communications
+Citations:
+Authors: JS Orcutt, M Popovic, F Gan, A Khilo, N Dilello, JL Hoyt, F Kaertner, ...
+Publication: 
+
+190. Localized Substrate-Removal Technique Enabling Optical Intrachip Communication in Bulk-Silicon CMOS
+Citations:
+Authors: CW Holzwarth, JS Orcutt, J Sun, H Li, MA Popovic, V Stojanović, JL Hoyt, ...
+Publication: Deep Submicron CMOS Photonics, 4
+
+191. Design of energy‐efficient on‐chip networks
+Citations:
+Authors: V Stojanović
+Publication: 

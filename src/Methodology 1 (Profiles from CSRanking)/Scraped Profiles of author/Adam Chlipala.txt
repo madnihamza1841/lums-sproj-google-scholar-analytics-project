@@ -1,0 +1,553 @@
+https://scholar.google.com/citations?hl=en&user=Imh0w3AAAAAJ
+Total Citations = 2448
+
+1. Certified programming with dependent types: a pragmatic introduction to the Coq proof assistant
+Citations:298
+Authors: A Chlipala
+Publication: MIT Press
+
+2. Generating tests from counterexamples
+Citations:251
+Authors: D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: Proceedings of the 26th International Conference on Software Engineering …
+
+3. Parametric higher-order abstract syntax for mechanized semantics
+Citations:170
+Authors: A Chlipala
+Publication: ACM Sigplan Notices 43 (9), 143-156
+
+4. Mostly-automated verification of low-level programs in computational separation logic
+Citations:160
+Authors: A Chlipala
+Publication: ACM sigplan notices 46 (6), 234-245
+
+5. Using Crash Hoare logic for certifying the FSCQ file system
+Citations:131
+Authors: H Chen, D Ziegler, T Chajed, A Chlipala, MF Kaashoek, N Zeldovich
+Publication: Proceedings of the 25th Symposium on Operating Systems Principles, 18-37
+
+6. A verified compiler for an impure functional language
+Citations:117
+Authors: A Chlipala
+Publication: ACM Sigplan Notices 45 (1), 93-106
+
+7. Effective interactive proofs for higher-order imperative programs
+Citations:117
+Authors: A Chlipala, G Malecha, G Morrisett, A Shinnar, R Wisnesky
+Publication: ACM Sigplan Notices 44 (9), 79-90
+
+8. A certified type-preserving compiler from lambda calculus to assembly language
+Citations:107
+Authors: A Chlipala
+Publication: ACM Sigplan Notices 42 (6), 54-65
+
+9. The Blast Query Language for Software Verification
+Citations:91
+Authors: D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: International Static Analysis Symposium, 2-18
+
+10. Static Checking of Dynamically-Varying Security Policies in Database-Backed Applications.
+Citations:89
+Authors: A Chlipala, LLC Impredicative
+Publication: OSDI, 105-118
+
+11. Ur: statically-typed metaprogramming with type-level record computation
+Citations:83
+Authors: A Chlipala
+Publication: ACM Sigplan Notices 45 (6), 122-133
+
+12. The Bedrock structured programming system: Combining generative metaprogramming and Hoare logic in an extensible program verifier
+Citations:74
+Authors: A Chlipala
+Publication: ACM Sigplan Notices 48 (9), 391-402
+
+13. Deluge: data dissemination for network reprogramming at scale
+Citations:70
+Authors: A Chlipala, J Hui, G Tolle
+Publication: University of California, Berkeley, Tech. Rep
+
+14. Fiat: Deductive synthesis of abstract data types in a proof assistant
+Citations:67
+Authors: B Delaware, C Pit-Claudel, J Gross, A Chlipala
+Publication: ACM SIGPLAN Notices 50 (1), 689-700
+
+15. Ur/Web: A simple model for programming the web
+Citations:53
+Authors: A Chlipala
+Publication: ACM SIGPLAN Notices 50 (1), 153-165
+
+16. Chapar: certified causally consistent distributed key-value stores
+Citations:44
+Authors: M Lesani, CJ Bell, A Chlipala
+Publication: ACM SIGPLAN Notices 51 (1), 357-370
+
+17. The open verifier framework for foundational verifiers
+Citations:38
+Authors: BYE Chang, A Chlipala, GC Necula, RR Schneck
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+18. Jitk: A trustworthy in-kernel interpreter infrastructure
+Citations:37
+Authors: X Wang, D Lazar, N Zeldovich, A Chlipala, Z Tatlock
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+19. Formal verification of hardware synthesis
+Citations:32
+Authors: T Braibant, A Chlipala
+Publication: International Conference on Computer Aided Verification, 213-228
+
+20. Modular development of certified program verifiers with a proof assistant
+Citations:32
+Authors: A Chlipala
+Publication: ACM SIGPLAN Notices 41 (9), 160-171
+
+21. Modular deductive verification of multiprocessor hardware designs
+Citations:28
+Authors: M Vijayaraghavan, A Chlipala, N Dave
+Publication: International Conference on Computer Aided Verification, 109-127
+
+22. Kami: A platform for high-level parametric hardware specification and its modular verification
+Citations:26
+Authors: J Choi, M Vijayaraghavan, B Sherman, A Chlipala
+Publication: Proceedings of the ACM on Programming Languages 1 (ICFP), 24
+
+23. An introduction to programming and proving with dependent types in Coq
+Citations:26
+Authors: A Chlipala
+Publication: Journal of Formalized Reasoning 3 (2), 1-93
+
+24. Compiler verification meets cross-language linking via data abstraction
+Citations:23
+Authors: P Wang, S Cuellar, A Chlipala
+Publication: ACM SIGPLAN Notices 49 (10), 675-690
+
+25. Compositional computational reflection
+Citations:22
+Authors: G Malecha, A Chlipala, T Braibant
+Publication: International Conference on Interactive Theorem Proving, 374-389
+
+26. A framework for certified program analysis and its applications to mobile-code safety
+Citations:20
+Authors: BYE Chang, A Chlipala, GC Necula
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+27. Strict bidirectional type checking
+Citations:19
+Authors: A Chlipala, L Petersen, R Harper
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+28. From network interface to multithreaded web applications: A case study in modular program verification
+Citations:18
+Authors: A Chlipala
+Publication: ACM SIGPLAN Notices 50 (1), 609-622
+
+29. Specifying crash safety for storage systems
+Citations:18
+Authors: H Chen, D Ziegler, A Chlipala, MF Kaashoek, E Kohler, N Zeldovich
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+30. Simple high-level code for cryptographic arithmetic-with proofs, without compromises
+Citations:17
+Authors: A Erbsen, J Philipoom, J Gross, R Sloan, A Chlipala
+Publication: Simple High-Level Code for Cryptographic Arithmetic-With Proofs, Without …
+
+31. Position paper: the science of deep specification
+Citations:16
+Authors: AW Appel, L Beringer, A Chlipala, BC Pierce, Z Shao, S Weirich, ...
+Publication: Philosophical Transactions of the Royal Society A: Mathematical, Physical …
+
+32. An optimizing compiler for a purely functional web-application language
+Citations:16
+Authors: A Chlipala
+Publication: ACM SIGPLAN Notices 50 (9), 10-21
+
+33. Verifying a high-performance crash-safe file system using a tree specification
+Citations:14
+Authors: H Chen, T Chajed, A Konradi, S Wang, A İleri, A Chlipala, MF Kaashoek, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 270-286
+
+34. The end of history? Using a proof assistant to replace language design with library design
+Citations:13
+Authors: A Chlipala, B Delaware, S Duchovni, J Gross, C Pit-Claudel, S Suriyakarn, ...
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+35. Experience implementing a performant category-theory library in Coq
+Citations:13
+Authors: J Gross, A Chlipala, DI Spivak
+Publication: International Conference on Interactive Theorem Proving, 275-291
+
+36. Type-based verification of sssembly language for compiler debugging
+Citations:13
+Authors: BYE Chang, A Chlipala, GC Necula, RR Schneck
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+37. Invited talk: the blast query language for software verification
+Citations:11
+Authors: D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar
+Publication: Proceedings of the 2004 ACM SIGPLAN symposium on Partial evaluation and …
+
+38. TiML: a functional language for practical complexity analysis with invariants
+Citations:8
+Authors: P Wang, D Wang, A Chlipala
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 79
+
+39. Certifying a file system using crash hoare logic: correctness in the presence of crashes
+Citations:7
+Authors: T Chajed, H Chen, A Chlipala, MF Kaashoek, N Zeldovich, D Ziegler
+Publication: Communications of the ACM 60 (4), 75-84
+
+40. A program optimization for automatic database result caching
+Citations:7
+Authors: Z Scully, A Chlipala
+Publication: ACM SIGPLAN Notices 52 (1), 271-284
+
+41. Implementing certified programming language tools in dependent type theory
+Citations:6
+Authors: AJ Chlipala
+Publication: University of California, Berkeley
+
+42. Formal reasoning about programs
+Citations:5
+Authors: A Chlipala
+Publication: MIT, Cambridge, MA, USA
+
+43. Ur/Web: a simple model for programming the web.
+Citations:5
+Authors: A Chlipala
+Publication: Commun. ACM 59 (8), 93-100
+
+44. Mirrorshard: Proof by computational reflection with verified hints
+Citations:5
+Authors: G Malecha, A Chlipala, T Braibant, P Hulin, EZ Yang
+Publication: arXiv preprint arXiv:1305.6543
+
+45. Systematic generation of fast elliptic curve cryptography implementations
+Citations:4
+Authors: A Erbsen, J Philipoom, J Gross, R Sloan, A Chlipala
+Publication: Technical report, MIT, Cambridge, MA, USA
+
+46. Position paper: Thoughts on programming with proof assistants
+Citations:4
+Authors: A Chlipala
+Publication: Electronic Notes in Theoretical Computer Science 174 (7), 17-21
+
+47. Mostly automated formal verification of loop dependencies with applications to distributed stencil algorithms
+Citations:2
+Authors: T Grégoire, A Chlipala
+Publication: Journal of Automated Reasoning 62 (2), 193-213
+
+48. Computable decision making on the reals and other spaces: via partiality and nondeterminism
+Citations:2
+Authors: B Sherman, L Sciarappa, A Chlipala, M Carbin
+Publication: Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer …
+
+49. Narcissus: Correct-by-Construction Derivation of Decoders and Encoders from Binary Formats
+Citations:2
+Authors: C PIT-CLAUDEL, A CHLIPALA
+Publication: 
+
+50. Towards certified storage systems
+Citations:2
+Authors: H Chen, D Ziegler, A Chlipala, MF Kaashoek, E Kohler, N Zeldovich
+Publication: Proceedings of the 15th Workshop on Hot Topics in Operating Systems (HotOS …
+
+51. Infinite Data and Proofs
+Citations:2
+Authors: A Chlipala
+Publication: MIT Press
+
+52. Generic programming and proving for programming language metatheory
+Citations:2
+Authors: A Chlipala
+Publication: Technical Report UCB/EECS-2007-147, University of California, Berkeley
+
+53. Scrap Your Web Application Boilerplate, or Metaprogramming with Row Types
+Citations:2
+Authors: A Chlipala
+Publication: Technical Report No. UCB/EECS-2006-120
+
+54. Cooperative Integration of an Interactive Proof Assistant and an Automated Prover
+Citations:2
+Authors: A Chlipala, GC Necula
+Publication: Proceedings of the 6th International Workshop on Strategies in Automated …
+
+55. Reification by Parametricity
+Citations:1
+Authors: J Gross, A Erbsen, A Chlipala
+Publication: International Conference on Interactive Theorem Proving, 289-305
+
+56. Overlapping pattern matching for programming with continuous functions
+Citations:1
+Authors: B Sherman, L Sciarappa, M Carbin, A Chlipala
+Publication: preparation
+
+57. Systematic Synthesis of Elliptic Curve Cryptography Implementations
+Citations:1
+Authors: A Erbsen, J Philipoom, J Gross, R Sloan, A Chlipala
+Publication: 
+
+58. The bedrock tutorial
+Citations:1
+Authors: A Chlipala
+Publication: 
+
+59. The Bedrock structured programming system
+Citations:1
+Authors: A Chlipala
+Publication: Proceedings of ICFP
+
+60. The Ynot tutorial
+Citations:1
+Authors: A Chlipala
+Publication: 
+
+61. An Untrusted Verifier for Typed Assembly Language
+Citations:1
+Authors: A Chlipala
+Publication: Computer Science
+
+62. Prototyping a functional language using higher-order logic programming: a functional pearl on learning the ways of λProlog/Makam
+Citations:
+Authors: A Stampoulis, A Chlipala
+Publication: Proceedings of the ACM on Programming Languages 2 (ICFP), 93
+
+63. Proving confidentiality in a file system using DISKSEC
+Citations:
+Authors: A Ileri, T Chajed, A Chlipala, F Kaashoek, N Zeldovich
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+64. TiML: a functional language for practical complexity analysis with invariants
+Citations:
+Authors: A Chlipala, P Wang, D Want
+Publication: Association for Computing Machinery (ACM)
+
+65. Correct-by-Construction Program Synthesis in Coq
+Citations:
+Authors: A Chlipala
+Publication: 九州大学マス・フォア・インダストリ研究所 61, 75-75
+
+66. Proof engineering: implementation challenges in rigorously verified software
+Citations:
+Authors: A Chlipala
+Publication: Proceedings of the Programming Languages Mentoring Workshop, 8
+
+67. The Makam Metalanguage
+Citations:
+Authors: A Stampoulis, A Chlipala
+Publication: 
+
+68. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+69. Ur/Web: Taking Syntax Seriously
+Citations:
+Authors: A Chlipala
+Publication: 
+
+70. Reasoning about Equality Proofs
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+71. Inductive Predicates
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+72. Universes and Axioms
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+73. Some Quick Examples
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+74. General Recursion
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+75. Proof by Reflection
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+76. Proof Search in Ltac
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+77. Subset Types and Variations
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+78. Reasoning about Programming Language Syntax
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+79. Introducing Inductive Types
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+80. Proof Engineering
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+81. Proving in the Large
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+82. Dependent Data Structures
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+83. The Big Picture
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+84. Basic Programming and Proving
+Citations:
+Authors: A Chlipala
+Publication: MIT Press
+
+85. Foundational program verification in Coq with automated proofs
+Citations:
+Authors: A Chlipala
+Publication: Proceedings of the third ACM SIGPLAN workshop on Mathematically structured …
+
+86. Syntactic Proofs of Compositional Compiler Correctness
+Citations:
+Authors: A Chlipala
+Publication: 
+
+87. Developing Certified Program Verifiers with a Proof Assistant
+Citations:
+Authors: A Chlipala
+Publication: PCC 2006: International Workshop on Proof Carrying Code, 10
+
+88. Survey on Proof Complexity
+Citations:
+Authors: A Chlipala
+Publication: 
+
+89. CS 276 Project: Survey of Symbolic Techniques for Protocol Analysis
+Citations:
+Authors: A Chlipala
+Publication: 
+
+90. CS 270 Project: Graph Partitioning to Optimize Searching
+Citations:
+Authors: A Chlipala, D Mandelin
+Publication: 
+
+91. On the problems and solutions of static analysis for software testing.
+Citations:
+Authors: X Jianyu, DAI Jingguo, EM Clarke, D Kroening, T Ball, B Cook, V Levin, ...
+Publication: Information Technology Journal 11 (10), 9-10
+
+92. Invited Talk
+Citations:
+Authors: E Shapiro, D Beyer, AJ Chlipala, TA Henzinger, R Jhala, R Majumdar, ...
+Publication: Proceedings of the... International ACM SIGPLAN Conference on Principles and …
+
+93. Byte Bouncer: Efficient Enforcement of Least Privilege Using Certified Binaries
+Citations:
+Authors: A Chakrabarti, BYE Chang, A Chlipala
+Publication: 
+
+94. A Framework for Certified Program Analysis and Its Applications to Mobile-Code Safety
+Citations:
+Authors: A Chlipala
+Publication: 
+
+95. REPL
+Citations:
+Authors: A Stampoulis, A Chlipala
+Publication: 
+
+96. Extending a verified file system with concurrency
+Citations:
+Authors: T Chajed, A Chlipala, MF Kaashoek, N Zeldovich
+Publication: 
+
+97. A Certified Type-Preserving Compiler from Lambda Calculus to Assembly
+Citations:
+Authors: A Chlipala
+Publication: 
+
+98. Extensible Extraction of Efficient Imperative Programs with Foreign Functions, Manually Managed Memory, and Proofs
+Citations:
+Authors: C Pit-Claudel, P Wang, B Delaware, J Gross, A Chlipala
+Publication: 
+
+99. Staff Solutions to In-Class Problems Week 8, Fri.
+Citations:
+Authors: AR Meyer, A Chlipala
+Publication: 
+
+100. Staff Solutions to Problem Set 9
+Citations:
+Authors: AR Meyer
+Publication: 
+
+101. A Verified Compiler for an Impure Functional
+Citations:
+Authors: A Chlipala
+Publication: 
+
+102. S&P 2012
+Citations:
+Authors: R Cunningham, S Jha, W Lee, G Shannon, R Sommer, D Molnar, K Butler, ...
+Publication: 
+
+103. Úlfar Erlingsson, Google
+Citations:
+Authors: V Shmatikov, S Afroz, D Balzarotti, A Barth, K Bhargavan, J Bonneau, ...
+Publication: 
+
+104. Midterm Exam April 5
+Citations:
+Authors: AR Meyer, A Chlipala
+Publication: 
+
+105. A Coinduction Proof Rule for Hoare Doubles
+Citations:
+Authors: CJ Bell, A Chlipala
+Publication: 
+
+106. A Program Optimization for Automatic Database Result Caching
+Citations:
+Authors: A Chlipala, Z Scully
+Publication: 
+
+107. Parsing Parses
+Citations:
+Authors: J Gross, A Chlipala
+Publication: 
+
+108. Proof by Computational Reflection with Verified Hints
+Citations:
+Authors: G Malecha, A Chlipala, T Braibant
+Publication: 
+
+109. Past and Current Projects
+Citations:
+Authors: A Chlipala
+Publication: 
+
+110. Scrap Your Web Application Boilerplate
+Citations:
+Authors: A Chlipala
+Publication: 
+

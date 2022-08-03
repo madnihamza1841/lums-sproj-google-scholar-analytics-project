@@ -1,0 +1,1341 @@
+https://scholar.google.com/citations?hl=en&user=Ooc7UNUAAAAJ
+Total Citations = 9932
+
+1. Exploiting process lifetime distributions for dynamic load balancing
+Citations:521
+Authors: M Harchol-Balter, AB Downey
+Publication: ACM Transactions on Computer Systems (TOCS) 15 (3), 253-285
+
+2. Optimal power allocation in server farms
+Citations:513
+Authors: A Gandhi, M Harchol-Balter, R Das, C Lefurgy
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 157-168
+
+3. Thread cluster memory scheduling: Exploiting differences in memory access behavior
+Citations:421
+Authors: Y Kim, M Papamichael, O Mutlu, M Harchol-Balter
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+4. ATLAS: A scalable and high-performance scheduling algorithm for multiple memory controllers
+Citations:420
+Authors: Y Kim, D Han, O Mutlu, M Harchol-Balter
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+5. Analysis of SRPT scheduling: Investigating unfairness
+Citations:411
+Authors: N Bansal, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 29 (1), 279-290
+
+6. Performance modeling and design of computer systems: queueing theory in action
+Citations:402
+Authors: M Harchol-Balter
+Publication: Cambridge University Press
+
+7. Size-based scheduling to improve web performance
+Citations:350
+Authors: M Harchol-Balter, B Schroeder, N Bansal, M Agrawal
+Publication: ACM Transactions on Computer Systems (TOCS) 21 (2), 207-233
+
+8. On choosing a task assignment policy for a distributed server system
+Citations:320
+Authors: M Harchol-Balter, ME Crovella, CD Murta
+Publication: Journal of Parallel and Distributed Computing 59 (2), 204-228
+
+9. Connection scheduling in web servers
+Citations:302
+Authors: ME Crovella, R Frangioso, M Harchol-Balter
+Publication: Boston University Computer Science Department
+
+10. Open versus closed: A cautionary tale
+Citations:268
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: Proceedings of Networked Systems Design and Implementation (NSDI 2006), San …
+
+11. Resource discovery in distributed networks
+Citations:258
+Authors: M Harchol-Balter, T Leighton, D Lewin
+Publication: Proceedings of the eighteenth annual ACM symposium on Principles of …
+
+12. Optimality analysis of energy-performance trade-off for server farm management
+Citations:246
+Authors: A Gandhi, V Gupta, M Harchol-Balter, MA Kozuch
+Publication: Performance Evaluation 67 (11), 1155-1171
+
+13. Task Assignment with Unknown Duration
+Citations:242
+Authors: M Harchol-Balter
+Publication: Journal of the ACM 49 (2), 260-288
+
+14. Autoscale: Dynamic, robust capacity management for multi-tier data centers
+Citations:230
+Authors: A Gandhi, M Harchol-Balter, R Raghunathan, MA Kozuch
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (4), 14
+
+15. Exploiting process lifetime distributions for dynamic load balancing
+Citations:214
+Authors: M Harchol-Balter, AB Downey
+Publication: ACM SIGMETRICS Performance Evaluation Review 24 (1), 13-24
+
+16. Method and Apparatus for Assigning Tasks in a Distributed Server System
+Citations:210
+Authors: MHBM Crovella
+Publication: US Patent 6,223,205
+
+17. Task assignment in a distributed system (extended abstract): improving performance by unbalancing load
+Citations:188
+Authors: ME Crovella, M Harchol-Balter, CD Murta
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 268-269
+
+18. Classifying scheduling policies with respect to unfairness in an M/GI/1
+Citations:187
+Authors: A Wierman, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 31 (1), 238-249
+
+19. Analysis of join-the-shortest-queue routing for web server farms
+Citations:181
+Authors: V Gupta, MH Balter, K Sigman, W Whitt
+Publication: Performance Evaluation 64 (9-12), 1062-1081
+
+20. Web servers under overload: How scheduling can help
+Citations:181
+Authors: B Schroeder, M Harchol-Balter
+Publication: ACM Transactions on Internet Technology (TOIT) 6 (1), 20-52
+
+21. Server farms with setup costs
+Citations:131
+Authors: A Gandhi, M Harchol-Balter, I Adan
+Publication: Performance Evaluation 67 (11), 1123-1138
+
+22. Closed form solutions for mapping general distributions to quasi-minimal PH distributions
+Citations:128
+Authors: T Osogami, M Harchol-Balter
+Publication: Performance Evaluation 63 (6), 524-552
+
+23. How to determine a good multi-programming level for external scheduling
+Citations:122
+Authors: B Schroeder, M Harchol-Balter, A Iyengar, E Nahum, A Wierman
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 60-60
+
+24. Priority mechanisms for OLTP and transactional web applications
+Citations:122
+Authors: DT McWherter, B Schroeder, A Ailamaki, M Harchol-Balter
+Publication: Proceedings. 20th International Conference on Data Engineering, 535-546
+
+25. Evaluation of task assignment policies for supercomputing servers: The case for load unbalancing and fairness
+Citations:106
+Authors: B Schroeder, M Harchol-Balter
+Publication: Cluster Computing 7 (2), 151-161
+
+26. The E ect of Heavy-Tailed Job Size Distributions on Computer System Design.
+Citations:102
+Authors: M Harchol-Balter
+Publication: Proc. of ASA-IMS Conf. on Applications of Heavy Tailed Distributions in …
+
+27. Are sleep states effective in data centers?
+Citations:99
+Authors: A Gandhi, M Harchol-Balter, MA Kozuch
+Publication: 2012 International Green Computing Conference (IGCC), 1-10
+
+28. Reducing latency via redundant requests: Exact analysis
+Citations:97
+Authors: K Gardner, S Zbarsky, S Doroudi, M Harchol-Balter, E Hyytia
+Publication: ACM SIGMETRICS Performance Evaluation Review 43 (1), 347-360
+
+29. Asymptotic convergence of scheduling policies with respect to slowdown
+Citations:89
+Authors: M Harchol-Balter, K Sigman, A Wierman
+Publication: Performance Evaluation 49 (1-4), 241-256
+
+30. On choosing a task assignment policy for a distributed server system
+Citations:88
+Authors: M Harchol-Balter, ME Crovella, C Murta
+Publication: Massachusetts Institute of Technology
+
+31. Multi-server queueing systems with multiple priority classes
+Citations:86
+Authors: M Harchol-Balter, T Osogami, A Scheller-Wolf, A Wierman
+Publication: Queueing Systems 51 (3-4), 331-360
+
+32. Achieving class-based QoS for transactional workloads
+Citations:84
+Authors: B Schroeder, M Harchol-Balter, A Iyengar, E Nahum
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 153-153
+
+33. Power capping via forced idleness
+Citations:76
+Authors: A Gandhi, M Harchol-Balter, R Das, JO Kephart, C Lefurgy
+Publication: Workshop on Energy-Efficient Design (WEED 2009)
+
+34. Implementation of SRPT scheduling in web servers
+Citations:75
+Authors: M Harchol-Balter, N Bansal, B Schroeder
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+35. A closed-form solution for mapping general distributions to minimal PH distributions
+Citations:72
+Authors: T Osogami, M Harchol-Balter
+Publication: International Conference on Modelling Techniques and Tools for Computer …
+
+36. Exact analysis of the M/M/k/setup class of Markov chains via recursive renewal reward
+Citations:71
+Authors: A Gandhi, S Doroudi, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 153-166
+
+37. TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters
+Citations:68
+Authors: A Tumanov, T Zhu, JW Park, MA Kozuch, M Harchol-Balter, GR Ganger
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 35
+
+38. Prioritymeister: Tail latency qos for shared networked storage
+Citations:67
+Authors: T Zhu, A Tumanov, MA Kozuch, M Harchol-Balter, GR Ganger
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-14
+
+39. Distributed, robust auto-scaling policies for power management in compute intensive server farms
+Citations:61
+Authors: A Gandhi, M Harchol-Balter, R Raghunathan, MA Kozuch
+Publication: 2011 Sixth Open Cirrus Summit, 1-5
+
+40. The Case for Sleep States in Servers
+Citations:61
+Authors: A Gandhi, M Harchol-Balter, M Kozuch
+Publication: SOSP 4th Workshop on Power-Aware Computing and Systems (HotPower)
+
+41. Analysis of multi-server systems via dimensionality reduction of Markov chains
+Citations:61
+Authors: T Osogami
+Publication: School of Computer Science, Carnegie Mellon University PhD Thesis. Advisor …
+
+42. Surprising results on task assignment in server farms with high-variability workloads
+Citations:56
+Authors: M Harchol-Balter, A Scheller-Wolf, AR Young
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 287-298
+
+43. The case for SRPT scheduling in Web servers
+Citations:54
+Authors: M Harchol-Balter, M Crovella, S Park
+Publication: Technical Report MIT-LCS-TR-767, MIT Lab for Computer Science
+
+44. How data center size impacts the effectiveness of dynamic power management
+Citations:53
+Authors: A Gandhi, M Harchol-Balter
+Publication: 2011 49th Annual Allerton Conference on Communication, Control, and …
+
+45. Bounding delays in packet-routing networks
+Citations:52
+Authors: M Harchol-Balter, D Wolfe
+Publication: Annual ACM Symposium on Theory of Computing: Proceedings of the twenty …
+
+46. Nearly insensitive bounds on SMART scheduling
+Citations:50
+Authors: A Wierman, M Harchol-Balter, T Osogami
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (1), 205-216
+
+47. General dynamic routing with per-packet delay guarantees of O (distance+ 1/session rate)
+Citations:49
+Authors: M Andrews, A Fernández, M Harchol-Balter, T Leighton, L Zhang
+Publication: SIAM Journal on Computing 30 (5), 1594-1623
+
+48. AdaptSize: Orchestrating the hot object memory cache in a content delivery network
+Citations:48
+Authors: DS Berger, RK Sitaraman, M Harchol-Balter
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+49. On the inapproximability of M/G/K: why two moments of job size distribution are not enough
+Citations:48
+Authors: V Gupta, M Harchol-Balter, JG Dai, B Zwart
+Publication: Queueing Systems 64 (1), 5-48
+
+50. Classifying scheduling policies with respect to higher moments of conditional response time
+Citations:47
+Authors: A Wierman, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (1), 229-240
+
+51. Redundancy-d: The power of d choices for redundancy
+Citations:45
+Authors: K Gardner, M Harchol-Balter, A Scheller-Wolf, M Velednitsky, S Zbarsky
+Publication: Operations Research 65 (4), 1078-1094
+
+52. Scheduling for today’s computer systems: Bridging theory and practice
+Citations:45
+Authors: A Wierman
+Publication: Carnegie Mellon University PhD thesis. Advisor: Mor Harchol-Balter
+
+53. An exact and efficient algorithm for the constrained dynamic operator staffing problem for call centers
+Citations:44
+Authors: A Bhandari, A Scheller-Wolf, M Harchol-Balter
+Publication: Management Science 54 (2), 339-353
+
+54. Self-adaptive admission control policies for resource-sharing systems
+Citations:43
+Authors: V Gupta, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 311-322
+
+55. Necessary and sufficient conditions for representing general distributions by Coxians
+Citations:40
+Authors: T Osogami, M Harchol-Balter
+Publication: International Conference on Modelling Techniques and Tools for Computer …
+
+56. Analysis of task assignment with cycle stealing under central queue
+Citations:40
+Authors: M Harchol-Balter, C Li, T Osogami, A Scheller-Wolf, MS Squillante
+Publication: 23rd International Conference on Distributed Computing Systems, 2003 …
+
+57. Analysis of cycle stealing with switching times and thresholds
+Citations:38
+Authors: T Osogami, M Harchol-Balter, A Scheller-Wolf
+Publication: Performance Evaluation 61 (4), 347-369
+
+58. A Better Model for Job Redundancy: Decoupling Server Slowdown and Job Size.
+Citations:37
+Authors: K Gardner, M Harchol-Balter, A Scheller-Wolf
+Publication: IEEE Modeling, Analysis and Simulation of Computer and Telecommunication …
+
+59. Web servers under overload: How scheduling can help
+Citations:37
+Authors: B Schroeder, M Harchol-Balter
+Publication: Proc. ITC-18, 171-180
+
+60. Queueing Analysis of Oblivious Packet-Routing Networks.
+Citations:37
+Authors: M Harchol-Balter, PE Black
+Publication: SODA, 583-592
+
+61. Fluid and diffusion limits for transient sojourn times of processor sharing queues with time varying rates
+Citations:35
+Authors: RC Hampshire, M Harchol-Balter, WA Massey
+Publication: Queueing Systems 53 (1-2), 19-30
+
+62. Systems and Methods for Managing Power Consumption and Performance of a Processor
+Citations:33
+Authors: MHBA Gandhi
+Publication: US Patent 8,589,709
+
+63. Analysis of cycle stealing with switching cost
+Citations:33
+Authors: T Osogami, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 31 (1), 184-195
+
+64. Saving cash by using less cache
+Citations:32
+Authors: T Zhu, A Gandhi, M Harchol-Balter, MA Kozuch
+Publication: 4th USENIX Workshop on Hot Topics in Cloud computing (HotCloud 2012)
+
+65. A note on comparing response times in the M/GI/1/FB and M/GI/1/PS queues
+Citations:32
+Authors: A Wierman, N Bansal, M Harchol-Balter
+Publication: Operations Research Letters 32 (1), 73-76
+
+66. Improving preemptive prioritization via statistical characterization of OLTP locking
+Citations:30
+Authors: DT McWherter, B Schroeder, A Ailamaki, M Harchol-Balter
+Publication: 21st International Conference on Data Engineering (ICDE'05), 446-457
+
+67. Cycle stealing under immediate dispatch task assignment
+Citations:29
+Authors: M Harchol-Balter, C Li, T Osogami, A Scheller-Wolf, MS Squillante
+Publication: Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and …
+
+68. Exploiting process lifetime distributions for dynamic load balancing
+Citations:27
+Authors: M Harchol-Balter, AB Downey
+Publication: University of California, Berkeley, Computer Science Division
+
+69. Fundamental characteristics of queues with fluctuating load
+Citations:26
+Authors: V Gupta, M Harchol-Balter, AS Wolf, U Yechiali
+Publication: ACM SIGMETRICS Performance Evaluation Review 34 (1), 203-215
+
+70. Closed versus open system models: a cautionary tale
+Citations:26
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: Network System Design and Implementation
+
+71. SNC-Meister: Admitting more tenants with tail latency SLOs
+Citations:25
+Authors: T Zhu, DS Berger, M Harchol-Balter
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 374-387
+
+72. Exact analysis of the M/M/k/setup class of Markov chains via recursive renewal reward
+Citations:24
+Authors: A Gandhi, S Doroudi, M Harchol-Balter, A Scheller-Wolf
+Publication: Queueing Systems 77 (2), 177-209
+
+73. SRPT scheduling for web servers
+Citations:24
+Authors: M Harchol-Balter, N Bansal, B Schroeder, M Agrawal
+Publication: Workshop on Job Scheduling Strategies for Parallel Processing, 11-20
+
+74. Selection in the presence of noise: The design of playoff systems
+Citations:24
+Authors: M Adler, P Gemmell, M Harchol-Balter, RM Karp, C Kenyon
+Publication: SODA, 564-572
+
+75. Dynamic server provisioning for data center power management
+Citations:23
+Authors: A Gandhi
+Publication: PhD diss., Intel
+
+76. Dynamic server provisioning for data center power management
+Citations:23
+Authors: A Gandhi
+Publication: PhD diss., Intel
+
+77. Tail asymptotics for policies favoring short jobs in a many-flows regime
+Citations:21
+Authors: CW Yang, A Wierman, S Shakkottai, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 34 (1), 97-108
+
+78. Queueing Disciplines
+Citations:20
+Authors: M Harchol-Balter
+Publication: Wiley Encyclopedia of Operations Research and Management Science
+
+79. How many servers are best in a dual-priority M/PH/k system?
+Citations:20
+Authors: A Wierman, T Osogami, M Harchol-Balter, A Scheller-Wolf
+Publication: Performance Evaluation 63 (12), 1253-1272
+
+80. M/G/k with Exponential Setup
+Citations:20
+Authors: A Gandhi, M Harchol-Balter
+Publication: figshare
+
+81. A Note on" The Limited Performance Benefits of Migrating Active Processes for Load Sharing"
+Citations:20
+Authors: AB Downey, M Harchol-Balter
+Publication: University of California, Berkeley, Computer Science Division
+
+82. Queueing with redundant requests: exact analysis
+Citations:19
+Authors: K Gardner, S Zbarsky, S Doroudi, M Harchol-Balter, E Hyytiä, ...
+Publication: Queueing Systems 83 (3-4), 227-259
+
+83. SOFTScale: stealing opportunistically for transient scaling
+Citations:19
+Authors: A Gandhi, T Zhu, M Harchol-Balter, MA Kozuch
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+84. Exploring Threshold-based Policies for Load Sharing
+Citations:18
+Authors: T Osogami, M Harchol-Balter, A Scheller-Wolf, L Zhang
+Publication: Forty-second Annual Allerton Conference on Communication, Control, and …
+
+85. To balance or unbalance load in size-interval task allocation
+Citations:17
+Authors: M Harchol-Balter, R Vesilo
+Publication: Probability in the Engineering and Informational Sciences 24 (2), 219-244
+
+86. The optimal admission threshold in observable queues with state dependent pricing
+Citations:15
+Authors: C Borgs, JT Chayes, S Doroudi, M Harchol-Balter, K Xu
+Publication: Probability in the Engineering and Informational Sciences 28 (1), 101-119
+
+87. Analysis of scheduling policies under correlated job sizes
+Citations:15
+Authors: V Gupta, M Burroughs, M Harchol-Balter
+Publication: Performance Evaluation 67 (11), 996-1013
+
+88. Stochastic models and analysis for resource management in server farms
+Citations:13
+Authors: V Gupta
+Publication: Carnegie Mellon University PhD thesis. Advisor: Mor Harchol-Balter
+
+89. A recursive analysis technique for multi-dimensionally infinite Markov chains
+Citations:13
+Authors: T Osogami, A Wierman, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 32 (2), 3-5
+
+90. Power budget allocation in multi-processor systems
+Citations:12
+Authors: M Harchol-Balter, A Gandhi, R Das, J Kephart
+Publication: US Patent 9,052,895
+
+91. M/G/k with staggered setup
+Citations:12
+Authors: A Gandhi, M Harchol-Balter
+Publication: Operations Research Letters 41 (4), 317-320
+
+92. Thread cluster memory scheduling
+Citations:12
+Authors: Y Kim, M Papamichael, O Mutlu, M Harchol-Balter
+Publication: IEEE micro 31 (1), 78-89
+
+93. Clearing analysis on phases: Exact limiting probabilities for skip-free, unidirectional, quasi-birth-death processes
+Citations:11
+Authors: S Doroudi, B Fralix, M Harchol-Balter
+Publication: Stochastic Systems 6 (2), 420-458
+
+94. Dynamic Capacity Management of Multiple Parallel Connected Computing Resources
+Citations:10
+Authors: MK Anshul Gandhi, Varun Gupta, Mor Harchol-Balter
+Publication: US Patent 8,806,018
+
+95. Priority pricing in queues with a continuous distribution of customer valuations
+Citations:10
+Authors: S Doroudi, M Akan, M Harchol-Balter, J Karp, C Borgs, JT Chayes
+Publication: Technical report CM-CS-13-109, Computer Science Department, Carnegie Mellon …
+
+96. A Stochastic Analysis of Hard Disk Drives
+Citations:10
+Authors: F Cady, Y Zhuang, M Harchol-Balter
+Publication: International Journal of Stochastic Analysis 2011
+
+97. Practical bounds on optimal caching with variable object sizes
+Citations:9
+Authors: DS Berger, N Beckmann, M Harchol-Balter
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 2 (2 …
+
+98. RobinHood: Tail Latency Aware Caching--Dynamic Reallocation from Cache-Rich to Cache-Poor
+Citations:9
+Authors: DS Berger, B Berg, T Zhu, S Sen, M Harchol-Balter
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+99. Scheduling for efficiency and fairness in systems with redundancy
+Citations:9
+Authors: K Gardner, M Harchol-Balter, E Hyytiä, R Righter
+Publication: Performance Evaluation 116, 1-25
+
+100. Workloadcompactor: Reducing datacenter cost while providing tail latency slo guarantees
+Citations:9
+Authors: T Zhu, MA Kozuch, M Harchol-Balter
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 598-610
+
+101. The power of d choices for redundancy
+Citations:9
+Authors: K Gardner, S Zbarsky, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 44 (1), 409-410
+
+102. Analyzing response time in the redundancy-d system
+Citations:9
+Authors: K Gardner, S Zbarsky, M Harchol-Balter, A Scheller-Wolf
+Publication: Poster, SIGMETRICS'16, Technical Report CMU-C S-15-141
+
+103. Decomposition results for an M/M/k with staggered setup
+Citations:9
+Authors: A Gandhi, M Harchol-Balter, I Adan
+Publication: ACM SIGMETRICS Performance Evaluation Review 38 (2), 48-50
+
+104. The effect of higher moments of job size distribution on the performance of an M/G/s queueing system
+Citations:9
+Authors: V Gupta, J Dai, M Harchol-Balter, B Zwart
+Publication: SIGMETRICS Performance Evaluation Review 35 (2), 12-14
+
+105. Understanding the slowdown of large jobs in an M/GI/1 system
+Citations:9
+Authors: M Harchol-Balter, K Sigman, A Wierman
+Publication: ACM SIGMETRICS Performance Evaluation Review 30 (3), 9-11
+
+106. Scheduling solutions for coping with transient overload
+Citations:9
+Authors: N Bansal, M Harchol-Balter
+Publication: School of Computer Science, Carnegie Mellon University
+
+107. Job placement with unknown duration and no preemption
+Citations:9
+Authors: M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 28 (4), 3-5
+
+108. The case for SRPT scheduling in web servers
+Citations:9
+Authors: M Crovella, M Harchol-Balter, S Park
+Publication: Technical Report MIT-LCS-TR-767, MIT
+
+109. Process lifetimes are not exponential, more like 1/t: implications on dynamic load balancing
+Citations:9
+Authors: M Harchol-Balter
+Publication: Computer Science Division (EECS), University of California
+
+110. Queueing analysis of oblivious packet-routing algorithms
+Citations:9
+Authors: M Harchol-Balter, PE Black
+Publication: Proc. 5th ACM-SIAM SODA 1994
+
+111. SOAP: One clean analysis of all age-based scheduling policies
+Citations:8
+Authors: Z Scully, M Harchol-Balter, A Scheller-Wolf
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 2 (1 …
+
+112. Understanding response time in the redundancy-d system
+Citations:8
+Authors: K Gardner, S Zbarsky, M Velednitsky, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 44 (2), 33-35
+
+113. Tetrisched: Space-time scheduling for heterogeneous datacenters
+Citations:8
+Authors: A Tumanov, T Zhu, MA Kozuch, M Harchol-Balter, GR Ganger
+Publication: Tech. Rep.
+
+114. Scheduling: SRPT and Fairness, Performance Modeling and Design of Computer Systems
+Citations:8
+Authors: HB Mor
+Publication: Cambridge University Press
+
+115. How many servers are best in a dual-priority FCFS system?
+Citations:8
+Authors: T Osogami
+Publication: figshare
+
+116. Optimal scheduling for jobs with progressive deadlines
+Citations:7
+Authors: K Gardner, S Borst, M Harchol-Balter
+Publication: 2015 IEEE Conference on Computer Communications (INFOCOM), 1113-1121
+
+117. Many flows asymptotics for SMART scheduling policies
+Citations:7
+Authors: C Yang, A Wierman, S Shakkottai, M Harchol-Balter
+Publication: IEEE Transactions on Automatic Control 57 (2), 376-391
+
+118. Insensitivity for PS server farms with JSQ routing
+Citations:7
+Authors: V Gupta, K Sigman, M Harchol-Balter, W Whitt
+Publication: ACM SIGMETRICS Performance Evaluation Review 35 (2), 24-26
+
+119. Analyzing the effect of prioritized background tasks in multiserver systems
+Citations:7
+Authors: A Wierman
+Publication: figshare
+
+120. Task assignment in a distributed system: Improving performance by load unbalancing
+Citations:7
+Authors: M Harchol-Balter, M Crovella, C Murta
+Publication: Proceedings of SIGMETRICS 98
+
+121. Delay moment bounds for multiserver queues with infinite variance service times
+Citations:6
+Authors: R Vesilo, A Scheller-Wolf
+Publication: INFOR: Information Systems and Operational Research 51 (4), 161-174
+
+122. Performance modeling and design of computer systems
+Citations:6
+Authors: MH Balter
+Publication: Cambridge Press, Cambridge
+
+123. Bounds on a fair policy with near optimal performance
+Citations:6
+Authors: A Wierman, M Harchol-Balter
+Publication: figshare
+
+124. Why segregating short jobs from long jobs under high variability is not always a win
+Citations:6
+Authors: M Harchol-Balter, A Scheller-Wolf, A Young
+Publication: 2009 47th Annual Allerton Conference on Communication, Control, and …
+
+125. Task assignment with cycle stealing under immediate dispatch
+Citations:6
+Authors: M Harchol-Balter
+Publication: Proceedings of the Fifteenth ACM Symposium on Parallelism in Algorithms and …
+
+126. Tight bounds on expected time to add correctly and odd mostly correctly
+Citations:6
+Authors: P Gemmell, M Harchol
+Publication: Information processing letters 49 (2), 77-83
+
+127. On the inapproximability of
+Citations:6
+Authors: V Gupta, J Dai, M Harchol-Balter, B Zwart
+Publication: M/G/K
+
+128. Queueing with redundant requests: First exact analysis
+Citations:5
+Authors: K Gardner, S Zbarsky, S Doroudi, M Harchol-Balter, E Hyytiä, ...
+Publication: Proc. ACM SIGMETRICS, 347-360
+
+129. Value driven load balancing
+Citations:5
+Authors: S Doroudi, E Hyytiä, M Harchol-Balter
+Publication: Performance Evaluation 79, 306-327
+
+130. Applying to PhD Programs in Computer Science
+Citations:5
+Authors: M Harchol-Balter
+Publication: https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+
+131. Applying to PhD Programs in Computer Science
+Citations:5
+Authors: M Harchol-Balter
+Publication: 
+
+132. Applying to PhD Programs in Computer Science
+Citations:5
+Authors: M Harchol-Balter
+Publication: 
+
+133. Robustness and performance of threshold-based resource allocation policies
+Citations:5
+Authors: T Osogami, M Harchol-Balter, A Scheller-Wolf
+Publication: Working paper
+
+134. Classifying scheduling policies with respect to unfairness in an
+Citations:5
+Authors: A Wierman, M Harchol-Balter
+Publication: G/1, SIGMETRICS
+
+135. Applying to PhD Programs in Computer Science
+Citations:5
+Authors: M Harchol-Balter
+Publication: 
+
+136. Connection Scheduling in Web Servers
+Citations:5
+Authors: M Harchol-Balter
+Publication: USENIX Symposium on Internet Technologies and Systems (USITS’99), 243-254
+
+137. To queue or not to queue?: When FCFS is better than PS in a distributed system
+Citations:5
+Authors: M Harchol-Balter, M Crovella, C Murta
+Publication: Boston University
+
+138. Network analysis without explonentiality assumptions
+Citations:5
+Authors: M Harchol-Balter
+Publication: University of California, Berkeley
+
+139. Exploiting lifetime distributions for dynamic load balancing
+Citations:5
+Authors: M Harchol-Balter, AB Downey
+Publication: Operating Systems Review 29 (5), 236
+
+140. Applying to PhD Programs in Computer Science
+Citations:5
+Authors: M Harchol-Balter
+Publication: www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+
+141. SOAP Bubbles: Robust scheduling under adversarial noise
+Citations:4
+Authors: Z Scully, M Harchol-Balter
+Publication: 2018 56th Annual Allerton Conference on Communication, Control, and …
+
+142. Towards optimality in parallel scheduling
+Citations:4
+Authors: B Berg, JP Dorsman, M Harchol-Balter
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 1 (2 …
+
+143. Optimally scheduling jobs with multiple tasks
+Citations:4
+Authors: Z Scully, G Blelloch, M Harchol-Balter, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 45 (2), 36-38
+
+144. Scheduling: Non-Pre-emptive, Size-Based Policies
+Citations:4
+Authors: M Harchol-Balter
+Publication: Performance Modeling and Design of Computer Systems 23, 499-456
+
+145. New perspectives on scheduling
+Citations:4
+Authors: M Harchol-Balter
+Publication: Performance Evaluation Review, Special Issue 35 (1)
+
+146. Open vs. closed systems: A cautionary tale
+Citations:4
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: Proc. of Usenix NSDI
+
+147. Closed versus open system models and their impact on performance and scheduling
+Citations:4
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: NSDI
+
+148. Robustness of threshold policies in beneficiary-donor model
+Citations:4
+Authors: M Harchol-Balter, T Osogami, A Scheller-Wolf
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (2), 36-38
+
+149. Towards optimality in parallel job scheduling
+Citations:3
+Authors: B Berg, JP Dorsman, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 46 (1), 116-118
+
+150. SRPT for multiserver systems
+Citations:3
+Authors: I Grosof, Z Scully, M Harchol-Balter
+Publication: Performance Evaluation 127, 154-175
+
+151. Scheduling in Server Farms
+Citations:3
+Authors: M Harchol-Balter
+Publication: Talk Slides, Carnegie-Mellon University,[email protected]
+
+152. Energy-efficient dynamic capacity provisioning in server farms
+Citations:3
+Authors: A Gandhi, V Gupta, M Harchol-Balter, M Kozuch
+Publication: School of Computer Science, Carnegie Mellon University, Tech. Rep. CMU-CS-10-108
+
+153. Prefetch-Aware Dram Controllers
+Citations:3
+Authors: Y Kim, M Papamichael, O Mutlu, M Harchol-Balter
+Publication: Proc. IEEE/ACM 43th Ann. Int’l Symp. Microarchitecture (MICRO 43)
+
+154. Open problems in power management of data centers
+Citations:3
+Authors: M Harchol-Balter
+Publication: Proceedings of the IFIP WG7. 3 Workshop
+
+155. Inducing optimal scheduling with selfish users
+Citations:3
+Authors: P Enders, A Gandhi, V Gupta, L Debo, M Harchol-Balter, A Scheller-Wolf
+Publication: 
+
+156. Simulation results for JSQ server farms with processor sharing servers
+Citations:3
+Authors: V Gupta, M Harchol-Balter, K Sigman, W Whitt
+Publication: Performance Evaluation 64 (9-12), 1062-1081
+
+157. Closed versus Open Models and their Impact on Performance and Scheduling
+Citations:3
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: Proceedings of Networked Systems Design and Implementation (NSDI 2006), San …
+
+158. Closed versus Open Models and their Impact on Performance
+Citations:3
+Authors: B Schroeder, A Wierman, M Harchol-Balter
+Publication: Proceedings of Networked Systems Design and Implementation (NSDI 2006), San …
+
+159. Closed versus open system models and their impact on performance
+Citations:3
+Authors: B Schroeder, A Wierman, M Harchol-balter
+Publication: in Symposium on Networked Systems Design and Implementation, 239-252
+
+160. Size-Based Scheduling to Improve Web Performance.[J]
+Citations:3
+Authors: N Bansal, M Harchol-Balter, B Schroeder
+Publication: ACM Transactions on Computer Systems 21 (2), 207-233
+
+161. Evaluation of task assignment policies for supercomputing servers
+Citations:3
+Authors: M Harchol-Balter, B Schroeder
+Publication: Proceedings of 9th IEEE Symposium on High Performance Distributed Computing …
+
+162. To queue or not to queue: When queueing is better than timesharing in a distributed system
+Citations:3
+Authors: M Harchol-Balter, ME Crovella, CD Murta
+Publication: Boston University Computer Science Department
+
+163. Private email
+Citations:3
+Authors: M Harchol-Balter, AB Downey
+Publication: Discussions re our differing findings
+
+164. Template algorithm for one-hop packet routing
+Citations:3
+Authors: M Andrews, A Fernandez, M Harchol-Balter, T Leighton, L Zhang
+Publication: Laboratory for Computer Science, Massachusetts Institute of Technology …
+
+165. Network Analysis without Exponential Assumptions
+Citations:3
+Authors: M Harchol-Balter
+Publication: Phd dissertation, University of California at Berkeley
+
+166. A note on The limited performance benefits of migrating active processes for load
+Citations:3
+Authors: AB Downey, M Harchol-Balter
+Publication: University of California at Berkeley
+
+167. Exploiting Process Lifetime Distributions for Dynamic Load Balancing. ICSI
+Citations:3
+Authors: M Harchol-Balter, AB Downey
+Publication: University of California at Berkeley
+
+168. A. Fern andez, M. Harchol-Balter, T. Leighton, and L. Zhang. Dynamic packet routing with per-packet delay guarantees of O (distance+ 1/session rate)
+Citations:3
+Authors: M Andrews
+Publication: Proceedings of the 38th Annual Symposium on Foundations of Computer Science …
+
+169. 15-857, Fall 2009: Performance modeling class lecture notes, 2009
+Citations:3
+Authors: M Harchol-Balter
+Publication: 
+
+170. Delay asymptotics and bounds for multitask parallel jobs
+Citations:2
+Authors: W Wang, M Harchol-Balter, H Jiang, A Scheller-Wolf, R Srikant
+Publication: Queueing Systems 91 (3-4), 207-239
+
+171. Clearing analysis on phases: exact limiting probabilities for skip-free, unidirectional
+Citations:2
+Authors: S Doroudi, B Fralix, M Harchol-Balter
+Publication: Quasi-Birth-Death processes (2016, submitted for publication)
+
+172. Pricing and queueing
+Citations:2
+Authors: C Borgs, JT Chayes, S Doroudi, M Harchol-Balter, K Xu
+Publication: ACM SIGMETRICS Performance Evaluation Review 40 (3), 71-73
+
+173. Balter, Michael A
+Citations:2
+Authors: A Gandhi, T Zhu, M Harchol
+Publication: Kozuch: SOFTScale: Stealing Opportunistically for Transient Scaling …
+
+174. Distributed, robust auto-scaling policies for power management in compute intensive server farms [C] Open Cirrus Summit (OCS), 2011 Sixth
+Citations:2
+Authors: A Gandhi, M Harchol-Balter, R Raghunathan, MA Kozuch
+Publication: IEEE
+
+175. A scalable and highperformance scheduling algorithm for multiple memory controllers
+Citations:2
+Authors: Y Kim, D Han, O Mutlu, M Harchol-Balter
+Publication: High-Performance Computer Architecture (HPCS), International Symposioum on …
+
+176. Harchol BalterM, KozuchMA
+Citations:2
+Authors: GV GandhiA
+Publication: Opti malityanalysisofenergy performancetrade offforserver farmmanagement …
+
+177. Energy-efficient dynamic capacity provisioning in server farms. School of Computer Science
+Citations:2
+Authors: A Gandhi, V Gupta, M Harchol-Balter, M Kozuch
+Publication: Carnegie Mellon University, Tech. Rep. CMU-CS-10-108
+
+178. ATLAS: A scalable and high-performance scheduling algorithm for multiple memory controllers
+Citations:2
+Authors: O Mutlu, M Harchol-Balter
+Publication: Proceedings 16th International Symposium on High-Performance Computer …
+
+179. System and Method for Resource Discovery
+Citations:2
+Authors: MHBTLD Lewin
+Publication: US Patent 7,808,926
+
+180. Analysis of an M/M/k system with exponential setup times under staggered boot up
+Citations:2
+Authors: A Gandhi, M Harchol-Balter, I Adan
+Publication: Madrid Conference on Queueing Theory 2, 6
+
+181. Das, R.; Lefurgy, C
+Citations:2
+Authors: A Gandhi, M Harchol-Balter
+Publication: Optimal power allocation in server farms. Proceedings of the 11th …
+
+182. The effect of higher moments of job size distribution on the performance of an...
+Citations:2
+Authors: V Gupta, J Dai, M Harchol-Balter, B Zwart
+Publication: 
+
+183. SIGMETRICS Performance Evaluation Review, v. 34 n. 4
+Citations:2
+Authors: M Harchol-Balter
+Publication: March
+
+184. 15-359: Probability and computing, random graphs
+Citations:2
+Authors: M Harchol-Balter, J Lafferty
+Publication: Also available at http://www. cs. cmu. edu 15359
+
+185. 15-359 Probability and Computing-Inequalities
+Citations:2
+Authors: M Harchol-Balter
+Publication: 
+
+186. Classifying scheduling policies with respect to higher moments of conditional response times
+Citations:2
+Authors: M Harchol-Balter, A Wierman
+Publication: Proceedings of ACM Sigmetrics
+
+187. Classifying scheduling policies with respect to higher moments of conditional response time. SIGMETRICS'05
+Citations:2
+Authors: A Wierman, M Harchol-Balter
+Publication: Proc. ACM, 6-10
+
+188. Formalizing SMART scheduling
+Citations:2
+Authors: A Wierman, M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 32 (2), 12-13
+
+189. An adaptive threshold-based policy for sharing servers with affinities
+Citations:2
+Authors: T Osogami, M Harchol-Balter, A Scheller-Wolf, L Zhang
+Publication: Preprint
+
+190. Bounding the performance of SMART scheduling policies
+Citations:2
+Authors: A Wierman, M Harchol-Balter
+Publication: Technical Report CMU-CS-03-199, Carnegie Mellon University
+
+191. Necessary and sufficient conditions for representing general distributions by coxians, School of Computer Science
+Citations:2
+Authors: T Osogami, M Harchol-Balter
+Publication: Carnegie Mellon University
+
+192. Analysis of task assignment with cycle stealing
+Citations:2
+Authors: M Harchol-Balter, C Li, T Osogami, A Scheller-Wolf, MS Squillante
+Publication: 
+
+193. gEvaluation of Task Assignment Policies for Supercomputing Servers: The Case for Load Unbalancing and Fairness• h
+Citations:2
+Authors: B Schroeder, M Harchol-Balter
+Publication: Proceedings of HPDC, 211-219
+
+194. M-Harchol—Balter,“Connection scheduling in web servers,”
+Citations:2
+Authors: ME Crovella, R Frangioso
+Publication: Technical Report TR-99-003, Boston University, CS Dept
+
+195. D. Lewin. Resource discovery in distributed networks
+Citations:2
+Authors: M Harchol-Balter, T Leighton
+Publication: 18th Annual ACM-SIGACT/SIGOPS Symposium on Principles of Distributed Computing
+
+196. Exploiting Process Lifetime Distributions for Dynamic Load Balancing [J] ACM Transactions on Computer Systems
+Citations:2
+Authors: MH Balter, AB Downey
+Publication: 
+
+197. To queue or not to queue?: When FCFS is better than PS in a distributed system.-Technical Report, CS Department, Boston University, Number 1997-017
+Citations:2
+Authors: M Harchol-Balter, M Crovella, C Murta
+Publication: 
+
+198. Exploiting Process Lifetime Distributions for Dynamic Load Balancing
+Citations:2
+Authors: M Harchol, A Downey
+Publication: Proceedings of ACM ACM Sigmetrics' 96 Conference on Measurement and Modeling …
+
+199. Exploiting Process Lifetime for Dynamic Load Balancing
+Citations:2
+Authors: M HARCHOL-BALTER, AB DOWNEY
+Publication: Berkeley: University of California
+
+200. Bounding Delays in Packet Routing Networks," 27th STOC
+Citations:2
+Authors: M Harchol-Balter, D Wolfe
+Publication: 
+
+201. In network of queues, m/m/1 can outperform m/d/1
+Citations:2
+Authors: M Harchol-Balter, D Wolfe
+Publication: Computer Science Division (EECS), University of California
+
+202. Constant beats memoryless for service times in a markovian queueing network
+Citations:2
+Authors: M Harchol-Balter, D Wolfe
+Publication: Computer Science Division (EECS), University of California
+
+203. Robe~ Frangioso, Mot Harchol-Baiter
+Citations:2
+Authors: E Crovella Mark
+Publication: Con—nection scheduling in web servers
+
+204. 10 “Autoscale: Dynamic, robust capacity management for multi-tier 11 data centers,”
+Citations:2
+Authors: A Gandhi, MH Balter, R Raghunathan, MA Kozuch
+Publication: ACM Transactions on Computer Systems 30 (4), 12
+
+205. Dynamic packet routing with per-packet delay guarantees of O (distance+ l/session rate)
+Citations:2
+Authors: M Andrew, A Fernandez, M Harchol-Baker, T Leighton, L Zhang
+Publication: Proceedings of the 38th Annual Symposium on Foundations of Computer Science …
+
+206. Connection scheduling in web servers, ACM
+Citations:2
+Authors: M Crovella, R Frangioso, M Harchol-Balter
+Publication: Second symposium of Internet Technologies and System (USITS ‘99), Boulder …
+
+207. Modeling and Analyzing Systems with Redundancy
+Citations:1
+Authors: K Gardner
+Publication: Carnegie Mellon University. Advisor: Mor Harchol-Balter
+
+208. The case for dynamic cache partitioning for tail latency
+Citations:1
+Authors: DS Berger, B Berg, T Zhu, M Harchol-Balter
+Publication: USENIX NSDI
+
+209. Inducing optimal scheduling with selfish users
+Citations:1
+Authors: L Debo, P Enders, A Gandhi, V Gupta, M Harchol-Balter, A Scheller-Wolf
+Publication: Under Submission
+
+210. Limit properties of probability densities characterized by moment indexes
+Citations:1
+Authors: M Harchol-Balter, R Vesilo
+Publication: 
+
+211. Sharing DBMS among Multiple Users while Providing Performance Isolation: Analysis and Implementation
+Citations:1
+Authors: DT McWherter
+Publication: Intel Corporation
+
+212. Scheduling for server farms: Approaches and open problems
+Citations:1
+Authors: M Harchol-Balter
+Publication: SPEC International Performance Evaluation Workshop, 1-3
+
+213. System and method for resource discovery
+Citations:1
+Authors: M Harchol-Balter, FT Leighton, D Lewin
+Publication: US Patent 7,295,523
+
+214. Guest Editor's Foreword
+Citations:1
+Authors: M Harchol-Balter
+Publication: PERFORMANCE EVALUATION REVIEW 34 (4), 2
+
+215. System and Method for Resource Discovery
+Citations:1
+Authors: MHBTLD Lewin
+Publication: US Patent 7,295,523
+
+216. Multiscale Scheduling: Integrating Competitive and Cooperative Scheduling in Theory and in Practice
+Citations:1
+Authors: GE Blelloch, L Blum, M Harchol-Balter, R Harper
+Publication: 
+
+217. Improving the performance of static and dynamic requests at a busy web site
+Citations:1
+Authors: B Schroeder
+Publication: PhD diss., IBM
+
+218. Simple Bounds on SMART Scheduling
+Citations:1
+Authors: A Wierman, M Harchol-Balter
+Publication: School of Computer Science, Carnegie Mellon University
+
+219. Balter, MAnalysis of SRPrr sch. dllling: Investigating Unf 血 cssn
+Citations:1
+Authors: N Bansal, M Harchol
+Publication: Pmceedings of AcM SIGhrIET'RIcs 200
+
+220. Analysis of M/G/1/SRPT under transient overload
+Citations:1
+Authors: N Bansal, M Harchol-Balter, MS Squillante
+Publication: Association for Computing Machinery, Inc
+
+221. Task assignment in a distributed system: Improving performance by unbalancing load
+Citations:1
+Authors: M Harchol-Balter, ME Crovella, CD Murta
+Publication: 
+
+222. Bounding delays in packet-routing networks with light tra c
+Citations:1
+Authors: M Harchol-Balter
+Publication: Computer Science
+
+223. Queueing Theory Analysis of Greedy Routing on Arrays and Tori
+Citations:1
+Authors: M Harchol, PE Black
+Publication: University of California, Berkeley, Computer Science Division
+
+224. Special Issue on New Perspectives in Scheduling
+Citations:1
+Authors: M Harchol-Balter
+Publication: figshare
+
+225. Associate Professor of Computer Science, School of Computer Science
+Citations:1
+Authors: M Harchol-Balter
+Publication: Carnegie Mellon University. Email: harchol@ cs. cmu. edu
+
+226. Power Management in Data Centers
+Citations:1
+Authors: M Harchol-Balter
+Publication: Associate Department Head, Computer Science Department, Carnegie Mellon …
+
+227. Simple Near-Optimal Scheduling for the M/G/1
+Citations:
+Authors: Z Scully, M Harchol-Balter, A Scheller-Wolf
+Publication: arXiv preprint arXiv:1907.10792
+
+228. Load Balancing Guardrails: Keeping Your Heavy Traffic on the Road to Low Response Times
+Citations:
+Authors: I Grosof, Z Scully, M Harchol-Balter
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (2 …
+
+229. heSRPT: Optimal Parallel Scheduling of Jobs With Known Sizes
+Citations:
+Authors: B Berg, R Vesilo, M Harchol-Balter
+Publication: arXiv preprint arXiv:1903.09346
+
+230. Optimal Scheduling and Exact Response Time Analysis for Multistage Jobs
+Citations:
+Authors: Z Scully, M Harchol-Balter, A Scheller-Wolf
+Publication: arXiv preprint arXiv:1805.06865
+
+231. Asymptotic response time analysis for multi-task parallel jobs.
+Citations:
+Authors: W Wang, M Harchol-Balter, H Jiang, A Scheller-Wolf, R Srikant
+Publication: CoRR
+
+232. Achieving high cache hit ratios for CDN memory caches with size-aware admission
+Citations:
+Authors: DS Berger, RK Sitaraman, M Harchol-Balter
+Publication: 
+
+233. A Better Model for Task Assignment in Server Farms: How Replication can Help
+Citations:
+Authors: M Harchol-Balter
+Publication: ACM SIGMETRICS Performance Evaluation Review 44 (1), 73-73
+
+234. S&X: Decoupling Server Slowdown (S) and Job Size (X) in Modeling Job Redundancy
+Citations:
+Authors: K Gardner, M Harchol-Balter, A Scheller-Wolf
+Publication: 
+
+235. Sherwin Doroudi, Mor Harchol-Balter, Esa Hyytiä & Alan Scheller-Wolf
+Citations:
+Authors: K Gardner, S Zbarsky
+Publication: Queueing Syst 83, 227-259
+
+236. Stochastic Analysis of Maintenance and Routing Policies in Queueing Systems
+Citations:
+Authors: S Doroudi
+Publication: Carnegie Mellon University. Advisor: Mor Harchol-Balter
+
+237. Meeting tail latency SLOs in shared networked storage
+Citations:
+Authors: T Zhu
+Publication: Google
+
+238. System and method for resource discovery
+Citations:
+Authors: M Harchol-Balter, FT Leighton, D Lewin
+Publication: US Patent 8,537,717
+
+239. Analysis of Scheduling Policies under Correlated Job Sizes (CMU-CS-10-107)
+Citations:
+Authors: V Gupta, M Burroughs, M Harchol-Balter
+Publication: 
+
+240. Energy-Efficient Dynamic Capacity Provisioning in Server Farms (CMU-CS-10-108)
+Citations:
+Authors: A Gandhi, V Gupta, M Harchol-Balter, M Kozuch
+Publication: 
+
+241. Message from the programme committee co-chirs
+Citations:
+Authors: M Harchol-Balter, M Kwiatkowska, M Telek
+Publication: Unknown Journal, 4338228
+
+242. Exact Analysis of the M/M/k/setup Class of Markov Chains via Recursive Renewal Reward (CMU-CS-13-105)
+Citations:
+Authors: A Gandhi, S Doroudi, M Harchol-Balter, A Wolf
+Publication: figshare
+
+243. Time varying workloads
+Citations:
+Authors: M Harchol-Balter
+Publication: Joint International Conference on Measurement and Modeling of Computer …
+
+244. Priority Pricing in Queues with a Continuous Distribution of Customer Valuations (CMU-CS-13-109)
+Citations:
+Authors: S Doroudi, M Akan, M Harchol-Balter, J Karp, C Borgs, J Chayes
+Publication: figshare
+
+245. Size-based Scheduling to Improve Web Performance MOR HARCHOL-BALTER, BIANCA SCHROEDER, NIKHIL BANSAL, and
+Citations:
+Authors: M AGRAWAL
+Publication: ACM Transactions on Computer Systems 21 (2), 1-27
+
+246. Cycle Stealing under Immediate Dispatch Task Assignment
+Citations:
+Authors: MHBCL Takayuki, OMS Squillante, A Scheller-Wolf
+Publication: Annual ACM Symposium on Parallel Algorithms and Architectures 15, 274
+
+247. DSC: Scheduling tasks on an unbounded number of processors.
+Citations:
+Authors: E Danesh, A Masoud Rahmani, CD Gill, RKC Douglas, C Schmidt, ...
+Publication: Journal of Applied Sciences 7 (21), 183-197
+
+248. SOFTScale: Stealing Opportunistically For Transient Scaling (CMU-CS-12-111)
+Citations:
+Authors: A Gandhi, T Zhu, M Harchol-Balter, M Kozuch
+Publication: figshare
+
+249. Comparison of SRPT and PS Scheduling under ON/OFF load conditions
+Citations:
+Authors: N Bansal, M Harchol-Balter
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+250. Web server workload characterization: The search for invariants.
+Citations:
+Authors: M Okopa, R Nambasa, BK Asingwire, S Kakuba, D Matovu, P Gupta, ...
+Publication: Australasian Journal of Computer Science 4 (1), 388-404
+
+251. Technical Report BUCS-TR-99-003
+Citations:
+Authors: ME Crovella, R Frangioso, M Harchol-Balter
+Publication: 
+
+252. Article ID jpdc. 1999.1609, available online at http: ย ย www. idealibrary. com on
+Citations:
+Authors: I Ahmad, I Ahmad, S Ali, A Banerjee, PB Bhat, L Buttner, ST Chanson, ...
+Publication: Journal of Parallel and Distributed Computing 59, 489
+
+253. MIT, NE43-340
+Citations:
+Authors: M Harchol-Balter, MECCD Murta
+Publication: 
+
+254. General Dynamic Routing with Per-Packet Delay Guarantees of
+Citations:
+Authors: M Andrews, A Fernandez, M Harchol-Balter, T Leighton, L Zhang
+Publication: 
+
+255. INTE § NATIONAL COMPUTE § SCIENCE INSTITUTE 1947 Center St. R Suite 600 R Berkeley, California 94704-1198 R y510 643-9153 R FA y510 643-7684
+Citations:
+Authors: M Harchol-Balter, AB Downey
+Publication: 
+
+256. Bounding Delays in Packet-Routing Networks with Light Traffic
+Citations:
+Authors: M Harchol-Balter
+Publication: 
+
+257. Process Lifetimes are Not Exponential, more like
+Citations:
+Authors: M Harchol-Balter
+Publication: Computer Science
+
+258. Greater Variance Does Not Necessarily Imply
+Citations:
+Authors: M Harchol-Balter, D Wolfe
+Publication: University of California at Berkeley
+
+259. Greater Variance Does Not Necessarily Imply Greater Average Delay
+Citations:
+Authors: M Harchol-Balter, D Wolfe
+Publication: Computer Science Division (EECS), University of California
+
+260. Tight Bounds on Expected Time to Add Correctly and Add Mostly
+Citations:
+Authors: PS Gemmell, M Harchol
+Publication: University of California at Berkeley
+
+261. A recursive analysis technique for multi-dimensionally
+Citations:
+Authors: T Osogami, A Wierman, M Harchol-Balter
+Publication: 
+
+262. A recursive analysis technique for multi-dimensionally infinite Markov chains
+Citations:
+Authors: A Scheller-Wolf
+Publication: 
+
+263. General Dynamic Routing with Per-Packet Delay Guarantees of O (distance+ 1/session rate)
+Citations:
+Authors: MAAF andezz Mor, HBT Leighton, L Zhangk
+Publication: 
+
+264. Mor Harchol-Balter Department of Computer Science Carnegie Mellon University
+Citations:
+Authors: M Telek
+Publication: 
+
+265. Computer Science Division University of California at Berkeley Berkeley, California 94720
+Citations:
+Authors: MHBD Wolfe
+Publication: 
+
+266. Lecture 26: Scheduling Policies: Part IV Non-preemptive Priority-Based and Size-Based Scheduling
+Citations:
+Authors: PPSJ First
+Publication: 
+
+267. Performance Modeling for Data Center Power Management
+Citations:
+Authors: A Gandhi
+Publication: College of Computing, Georgia Institute of Technology
+
+268. INDIAN INSTITUTE OF TECHNOLOGY TIRUPATI PROFORMA FOR NEW COURSE
+Citations:
+Authors: M H

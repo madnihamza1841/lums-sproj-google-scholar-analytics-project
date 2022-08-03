@@ -1,0 +1,1228 @@
+https://scholar.google.com/citations?hl=en&user=AzHmOtcAAAAJ
+Total Citations = 4917
+
+1. ArchJava: connecting software architecture to implementation
+Citations:679
+Authors: J Aldrich, C Chambers, D Notkin
+Publication: Proceedings of the 24th International Conference on Software Engineering …
+
+2. Open modules: Modular reasoning about advice
+Citations:299
+Authors: J Aldrich
+Publication: European conference on object-oriented programming, 144-168
+
+3. Alias annotations for program understanding
+Citations:290
+Authors: J Aldrich, V Kostadinov, C Chambers
+Publication: ACM SIGPLAN Notices 37 (11), 311-330
+
+4. Ownership domains: Separating aliasing policy from mechanism
+Citations:229
+Authors: J Aldrich, C Chambers
+Publication: European Conference on Object-Oriented Programming, 1-25
+
+5. Modular typestate checking of aliased objects
+Citations:217
+Authors: K Bierhoff, J Aldrich
+Publication: ACM SIGPLAN Notices 42 (10), 301-320
+
+6. Architectural reasoning in ArchJava
+Citations:178
+Authors: J Aldrich, C Chambers, D Notkin
+Publication: European Conference on Object-Oriented Programming, 334-367
+
+7. Static analyses for eliminating unnecessary synchronization from Java programs
+Citations:155
+Authors: J Aldrich, C Chambers, EG Sirer, S Eggers
+Publication: International Static Analysis Symposium, 19-38
+
+8. Discotect: A system for discovering architectures from running systems
+Citations:134
+Authors: H Yan, D Garlan, B Schmerl, J Aldrich, R Kazman
+Publication: Proceedings. 26th International Conference on Software Engineering, 470-479
+
+9. Discovering architectures from running systems
+Citations:128
+Authors: B Schmerl, J Aldrich, D Garlan, R Kazman, H Yan
+Publication: IEEE Transactions on Software Engineering 32 (7), 454-466
+
+10. Typestate-oriented programming
+Citations:113
+Authors: J Aldrich, J Sunshine, D Saini, Z Sparks
+Publication: Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented …
+
+11. Language support for connector abstractions
+Citations:98
+Authors: J Aldrich, V Sazawal, C Chambers, D Notkin
+Publication: European Conference on Object-Oriented Programming, 74-102
+
+12. Differencing and merging of architectural views
+Citations:88
+Authors: M Abi-Antoun, J Aldrich, N Nahas, B Schmerl, D Garlan
+Publication: Automated Software Engineering 15 (1), 35-74
+
+13. Verifying correct usage of atomic blocks and typestate
+Citations:86
+Authors: NE Beckman, K Bierhoff, J Aldrich
+Publication: ACM Sigplan Notices 43 (10), 227-244
+
+14. Static extraction and conformance analysis of hierarchical runtime architectural structure using annotations
+Citations:78
+Authors: M Abi-Antoun, J Aldrich
+Publication: ACM SIGPLAN Notices 44 (10), 321-340
+
+15. Using types to enforce architectural structure
+Citations:77
+Authors: J Aldrich
+Publication: Seventh Working IEEE/IFIP Conference on Software Architecture (WICSA 2008 …
+
+16. Gradual typestate
+Citations:76
+Authors: R Wolff, R Garcia, É Tanter, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 459-483
+
+17. Practical API protocol checking with access permissions
+Citations:76
+Authors: K Bierhoff, NE Beckman, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 195-219
+
+18. A type system for borrowing permissions
+Citations:74
+Authors: K Naden, R Bocchino, J Aldrich, K Bierhoff
+Publication: ACM SIGPLAN Notices 47 (1), 557-570
+
+19. First-class state change in plaid
+Citations:72
+Authors: J Sunshine, K Naden, S Stork, J Aldrich, É Tanter
+Publication: ACM SIGPLAN Notices 46 (10), 713-732
+
+20. Lightweight object specification with typestates
+Citations:68
+Authors: K Bierhoff, J Aldrich
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 217-226
+
+21. Integrating nominal and structural subtyping
+Citations:66
+Authors: D Malayeri, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 260-284
+
+22. Statically checking API protocol conformance with mined multi-object specifications
+Citations:65
+Authors: M Pradel, C Jaspan, J Aldrich, TR Gross
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 925-935
+
+23. Open modules: A proposal for modular reasoning in aspect-oriented programming
+Citations:62
+Authors: J Aldrich
+Publication: FOAL, 7-18
+
+24. An empirical study of object protocols in the wild
+Citations:61
+Authors: NE Beckman, D Kim, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 2-26
+
+25. Concurrency by default: using permissions to express dataflow in stateful programs
+Citations:47
+Authors: S Stork, P Marques, J Aldrich
+Publication: Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented …
+
+26. Comprehensive synchronization elimination for Java
+Citations:44
+Authors: J Aldrich, EG Sirer, C Chambers, SJ Eggers
+Publication: Science of Computer Programming 47 (2-3), 91-120
+
+27. Safely composable type-specific languages
+Citations:41
+Authors: C Omar, D Kurilova, L Nistor, B Chung, A Potanin, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 105-130
+
+28. Foundations of typestate-oriented programming
+Citations:40
+Authors: R Garcia, É Tanter, R Wolff, J Aldrich
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 36 (4), 12
+
+29. Checking framework interactions with relationships
+Citations:38
+Authors: C Jaspan, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 27-51
+
+30. Is structural subtyping useful? an empirical study
+Citations:37
+Authors: D Malayeri, J Aldrich
+Publication: European Symposium on Programming, 95-111
+
+31. Design patterns in separation logic
+Citations:37
+Authors: NR Krishnaswami, J Aldrich, L Birkedal, K Svendsen, A Buisse
+Publication: Proceedings of the 4th international workshop on Types in language design …
+
+32. Prototypes with multiple dispatch: An expressive and dynamic object model
+Citations:36
+Authors: L Salzman, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 312-336
+
+33. Permission-based ownership: encapsulating state in higher-order typed languages
+Citations:35
+Authors: N Krishnaswami, J Aldrich
+Publication: ACM SIGPLAN Notices 40 (6), 96-106
+
+34. Ownership domains in the real world
+Citations:33
+Authors: M Abi-Antoun, J Aldrich
+Publication: IWACO
+
+35. Practical exception specifications
+Citations:33
+Authors: D Malayeri, J Aldrich
+Publication: Advanced Topics in Exception Handling Techniques, 200-220
+
+36. Open modules: Reconciling extensibility and information hiding
+Citations:33
+Authors: J Aldrich
+Publication: Proceedings of the Software Engineering Properties of Languages for Aspect …
+
+37. A case study in re-engineering to enforce architectural control flow and data sharing
+Citations:32
+Authors: M Abi-Antoun, J Aldrich, W Coelho
+Publication: Journal of Systems and Software 80 (2), 240-264
+
+38. CZ: multiple inheritance without diamonds
+Citations:30
+Authors: D Malayeri, J Aldrich
+Publication: ACM SIGPLAN Notices 44 (10), 21-40
+
+39. PLURAL: checking protocol compliance under aliasing
+Citations:28
+Authors: K Bierhoff, J Aldrich
+Publication: Companion of the 30th international conference on Software engineering, 971-972
+
+40. Verifying event-driven programs using ramified frame properties
+Citations:27
+Authors: NR Krishnaswami, L Birkedal, J Aldrich
+Publication: Proceedings of the 5th ACM SIGPLAN workshop on Types in language design and …
+
+41. The power of interoperability: Why objects are inevitable
+Citations:26
+Authors: J Aldrich
+Publication: Proceedings of the 2013 ACM international symposium on New ideas, new …
+
+42. Hazelnut: a bidirectionally typed structure editor calculus
+Citations:25
+Authors: C Omar, I Voysey, M Hilton, J Aldrich, MA Hammer
+Publication: ACM SIGPLAN Notices 52 (1), 86-99
+
+43. Æminium: A permission-based concurrent-by-default programming language approach
+Citations:25
+Authors: S Stork, K Naden, J Sunshine, M Mohr, A Fonseca, P Marques, J Aldrich
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 36 (1), 2
+
+44. Aliasing control with view-based typestate
+Citations:25
+Authors: F Militão, J Aldrich, L Caires
+Publication: Proceedings of the 12th Workshop on Formal Techniques for Java-Like Programs, 7
+
+45. Modeling and implementing software architecture with acme and archjava
+Citations:24
+Authors: M Abi-Antoun, J Aldrich, D Garlan, B Schmerl, N Nahas, T Tseng
+Publication: Proceedings. 27th International Conference on Software Engineering, 2005 …
+
+46. Exploring language support for immutability
+Citations:22
+Authors: M Coblenz, J Sunshine, J Aldrich, B Myers, S Weber, F Shull
+Publication: Proceedings of the 38th International Conference on Software Engineering …
+
+47. SASyLF: An educational proof assistant for language theory
+Citations:22
+Authors: J Aldrich, RJ Simmons, K Shin
+Publication: Proceedings of the 2008 international workshop on Functional and declarative …
+
+48. Improving system dependability by enforcing architectural intent
+Citations:22
+Authors: M Abi-Antoun, J Aldrich, D Garlan, B Schmerl, N Nahas, T Tseng
+Publication: ACM SIGSOFT Software Engineering Notes 30 (4), 1-7
+
+49. Providing easier access to remote objects in client-server systems
+Citations:22
+Authors: J Aldrich, J Dooley, S Mandelsohn, A Rifkin
+Publication: Proceedings of the Thirty-First Hawaii International Conference on System …
+
+50. Wyvern: A simple, typed, and pure object-oriented language
+Citations:21
+Authors: L Nistor, D Kurilova, S Balzer, B Chung, A Potanin, J Aldrich
+Publication: Proceedings of the 5th Workshop on MechAnisms for SPEcialization …
+
+51. Static extraction and conformance analysis of hierarchical runtime architectural structure
+Citations:21
+Authors: M Abi-Antoun
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+52. Challenge problems for separation of concerns
+Citations:21
+Authors: J Aldrich
+Publication: Proceedings, OOPSLA 2000 Workshop on Advanced Separation of Concerns …
+
+53. A field study in static extraction of runtime architectures
+Citations:20
+Authors: M Abi-Anton, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+54. Compile-time views of execution structure based on ownership
+Citations:20
+Authors: M Abi-Antoun, J Aldrich
+Publication: Intl. Workshop on Aliasing, Confinement and Ownership in Object-Oriented …
+
+55. Architecture-centric programming for adaptive systems
+Citations:19
+Authors: J Aldrich, V Sazawal, C Chambers, D Notkin
+Publication: Proceedings of the first workshop on Self-healing systems, 93-95
+
+56. Glacier: Transitive class immutability for Java
+Citations:18
+Authors: M Coblenz, W Nelson, J Aldrich, B Myers, J Sunshine
+Publication: 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE …
+
+57. Toward semantic foundations for program editors
+Citations:18
+Authors: C Omar, I Voysey, M Hilton, J Sunshine, CL Goues, J Aldrich, MA Hammer
+Publication: arXiv preprint arXiv:1703.08694
+
+58. Static extraction of sound hierarchical runtime object graphs.
+Citations:16
+Authors: M Abi-Antoun, J Aldrich
+Publication: TLDI 9, 51-64
+
+59. Method for statically checking an object-oriented computer program module
+Citations:15
+Authors: KM Bierhoff, J Aldrich
+Publication: US Patent 8,327,327
+
+60. Idealized ML and its separation logic
+Citations:15
+Authors: N Krishnaswami, L Birkedal, J Aldrich, JC Reynolds
+Publication: Unpublished manuscript, July
+
+61. Component-oriented programming in ArchJava
+Citations:15
+Authors: J Aldrich, C Chambers, D Notkin
+Publication: OOPSLA Workshop on Language Mechanisms for Programming Software Components …
+
+62. Searching the state space: A qualitative study of API protocol usability
+Citations:14
+Authors: J Sushine, JD Herbsleb, J Aldrich
+Publication: Proceedings of the 2015 IEEE 23rd International Conference on Program …
+
+63. Rely-guarantee protocols
+Citations:14
+Authors: F Militao, J Aldrich, L Caires
+Publication: European Conference on Object-Oriented Programming, 334-359
+
+64. Reducing stm overhead with access permissions
+Citations:14
+Authors: NE Beckman, YP Kim, S Stork, J Aldrich
+Publication: IWACO’09: International Workshop on Aliasing, Confinement and Ownership in …
+
+65. Collaborative infrastructure for test-driven scientific model validation
+Citations:13
+Authors: C Omar, J Aldrich, RC Gerkin
+Publication: Companion Proceedings of the 36th International Conference on Software …
+
+66. Permissions to specify the composite design pattern
+Citations:13
+Authors: K Bierhoff, J Aldrich
+Publication: Seventh International Workshop on Specification and Verification of …
+
+67. Modular verification of the subject-observer pattern via higher-order separation logic
+Citations:13
+Authors: N Krishnaswami, J Aldrich, L Birkedal
+Publication: FTFJP 2007 workshop
+
+68. Selective open recursion: Modular reasoning about components and inheritance
+Citations:13
+Authors: J Aldrich, K Donnelly
+Publication: SAVCBS 2004 Specification and Verification of Component-Based Systems, 26
+
+69. Inter-app communication in android: Developer challenges
+Citations:11
+Authors: W Ahmad, C Kästner, J Sunshine, J Aldrich
+Publication: 2016 IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR …
+
+70. Structuring documentation to support state search: A laboratory experiment about protocol programming
+Citations:10
+Authors: J Sunshine, JD Herbsleb, J Aldrich
+Publication: European Conference on Object-Oriented Programming, 157-181
+
+71. In-nimbo sandboxing
+Citations:10
+Authors: M Maass, WL Scherlis, J Aldrich
+Publication: Proceedings of the 2014 Symposium and Bootcamp on the Science of Security, 1
+
+72. A theory of typestate-oriented programming
+Citations:10
+Authors: D Saini, J Sunshine, J Aldrich
+Publication: Proceedings of the 12th Workshop on Formal Techniques for Java-Like Programs, 9
+
+73. Static conformance checking of runtime architectural structure
+Citations:10
+Authors: M Abi-Antoun, J Aldrich
+Publication: Carnegie Mellon University Technical Report, CMU-ISR-08-132
+
+74. A capability-based module system for authority control
+Citations:9
+Authors: D Melicher, Y Shi, A Potanin, J Aldrich
+Publication: 31st European Conference on Object-Oriented Programming (ECOOP 2017)
+
+75. Object propositions
+Citations:9
+Authors: L Nistor, J Aldrich, S Balzer, H Mehnert
+Publication: International Symposium on Formal Methods, 497-513
+
+76. Ego: Controlling the power of simplicity
+Citations:9
+Authors: A Bejleri, J Aldrich, K Bierhoff
+Publication: Proc. Foundations of Object-Oriented Languages
+
+77. Permission-based programming languages (nier track)
+Citations:8
+Authors: J Aldrich, R Garcia, M Hahnenberg, M Mohr, K Naden, D Saini, S Stork, ...
+Publication: Proceedings of the 33rd International Conference on Software Engineering …
+
+78. Checking concurrent typestate with access permissions in plural: A retrospective
+Citations:8
+Authors: K Bierhoff, NE Beckman, J Aldrich
+Publication: Engineering of Software, 35-48
+
+79. A case study on the lightweight verification of a multi-threaded task server
+Citations:7
+Authors: N Cataño, I Ahmed, RI Siminiceanu, J Aldrich
+Publication: Carnegie Mellon University
+
+80. Substructural typestates
+Citations:7
+Authors: F Militao, J Aldrich, L Caires
+Publication: Proceedings of the ACM SIGPLAN 2014 workshop on Programming languages meets …
+
+81. Are object protocols burdensome?: an empirical study of developer forums
+Citations:7
+Authors: C Jaspan, J Aldrich
+Publication: Proceedings of the 3rd ACM SIGPLAN workshop on Evaluation and usability of …
+
+82. Featherweight typestate
+Citations:7
+Authors: R Garcia, R Wolff, E Tanter, J Aldrich
+Publication: Technical Report CMUISR-10-115, Carnegie Mellon University
+
+83. Introducing tool-supported architecture review into software design education
+Citations:6
+Authors: Y Cai, R Kazman, C Jaspan, J Aldrich
+Publication: 2013 26th International Conference on Software Engineering Education and …
+
+84. Verifying object-oriented code using object propositions
+Citations:6
+Authors: L Nistor, J Aldrich
+Publication: 
+
+85. µÆMINIUM Language Specification
+Citations:6
+Authors: S Stork, J Aldrich, P Marques
+Publication: Technical Report CMU-ISR-10-125R, Carnegie Mellon University
+
+86. A programming model for failure-prone, collaborative robots
+Citations:6
+Authors: N Beckman, J Aldrich
+Publication: Proceedings of the 2nd International Workshop on Software Development and …
+
+87. Modeling and implementing software architecture with acme and archjava
+Citations:6
+Authors: J Aldrich, D Garlan, B Schmerl, T Tseng
+Publication: Companion to the 19th annual ACM SIGPLAN conference on Object-oriented …
+
+88. A user study to inform the design of the obsidian blockchain dsl
+Citations:5
+Authors: C Barnaby, M Coblenz, T Etzel, E Kanal, J Sunshine, B Myers, J Aldrich
+Publication: PLATEAU’17 Workshop on Evaluation and Usability of Programming Languages and …
+
+89. A theory of tagged objects
+Citations:5
+Authors: J Lee, J Aldrich, T Shaw, A Potanin
+Publication: figshare
+
+90. Changing state in the Plaid language
+Citations:5
+Authors: J Sunshine, S Stork, K Naden, J Aldrich
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+91. Tool support for the static extraction of sound hierarchical representations of runtime object graphs
+Citations:5
+Authors: M Abi-Antoun, J Aldrich
+Publication: Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming …
+
+92. A theory of linear objects
+Citations:5
+Authors: M Kehrt, J Aldrich
+Publication: Proceedings of the International Workshop on Foundations of Object-Oriented …
+
+93. Checking semantic usage of frameworks
+Citations:5
+Authors: C Jaspan, J Aldrich
+Publication: Proceedings of the 2007 Symposium on Library-Centric Software Design, 1-10
+
+94. Discovering Architectures from Running Systems: Lessons Learned
+Citations:5
+Authors: H Yan, J Aldrich, D Garlan, R Kazman, B Schmerl
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST
+
+95. Open modules: A foundation for modular aspect-oriented programming
+Citations:5
+Authors: J Aldrich
+Publication: 
+
+96. Software development practices, barriers in the field and the relationship to software quality
+Citations:4
+Authors: B Yost, M Coblenz, B Myers, J Sunshine, J Aldrich, S Weber, M Patron, ...
+Publication: Proceedings of the 10th ACM/IEEE International Symposium on Empirical …
+
+97. Language-based architectural control
+Citations:4
+Authors: J Aldrich, C Omar, A Potanin, D Li
+Publication: figshare
+
+98. Type-directed, whitespace-delimited parsing for embedded DSLs
+Citations:4
+Authors: C Omar, B Chung, D Kurilova, A Potanin, J Aldrich
+Publication: Proceedings of the First Workshop on the Globalization of Domain Specific …
+
+99. The Plaid language: Typed core specification
+Citations:4
+Authors: J Aldrich, NE Beckman, R Bocchino, K Naden, D Saini, S Stork, ...
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+100. Rely-Guarantee View Typestate
+Citations:4
+Authors: F Militao, J Aldrich, L Caires
+Publication: Retrieved 8/24/12, July 2012. URL http://www. cs. cmu. edu/foliveir/papers …
+
+101. Gradual featherweight typestate
+Citations:4
+Authors: R Wolff, R Garcia, E Tanter, J Aldrich
+Publication: Technical Report CMU-ISR-10-116R, Carnegie Mellon University
+
+102. Verifying correct usage of atomic blocks and typestate: Technical companion
+Citations:4
+Authors: NE Beckman, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA INST OF SOFTWARE RESEARCH INTERNAT
+
+103. Static Extraction of Object-Oriented Runtime Architectures
+Citations:4
+Authors: M Abi-Antoun, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+104. Checking and Measuring the Architectural Structural Conformance of Object-Oriented Systems
+Citations:4
+Authors: M Abi-Antoun, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+105. Semi-automated incremental synchronization between conceptual and implementation level architectures
+Citations:4
+Authors: M Abi-Antoun, J Aldrich, D Garlan, B Schmerl, N Nahas
+Publication: 5th Working IEEE/IFIP Conference on Software Architecture (WICSA'05), 265-268
+
+106. Architecture-Centric Programming for Context-Aware Configuration
+Citations:4
+Authors: V Sazawal, J Aldrich
+Publication: OOPSLA Workshop on Engineering Context-Aware Object-Oriented Systems and …
+
+107. Providing easier access to remote objects in distributed systems
+Citations:4
+Authors: J Aldrich, J Dooley, S Mandelsohn, A Rifkin
+Publication: California Institute of Technology, Pasadena, CA 91125
+
+108. Capabilities: effects for free
+Citations:3
+Authors: A Craig, A Potanin, L Groves, J Aldrich
+Publication: International Conference on Formal Engineering Methods, 231-247
+
+109. Using object capabilities and effects to build an authority-safe module system: poster
+Citations:3
+Authors: D Melicher, Y Shi, V Zhao, A Potanin, J Aldrich
+Publication: Proceedings of the 5th Annual Symposium and Bootcamp on Hot Topics in the …
+
+110. Gradual program verification
+Citations:3
+Authors: J Bader, J Aldrich, É Tanter
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+111. Modules in Wyvern: Advanced control over security and privacy
+Citations:3
+Authors: D Kurilova, A Potanin, J Aldrich
+Publication: Proceedings of the Symposium and Bootcamp on the Science of Security, 68-68
+
+112. Composing interfering abstract protocols
+Citations:3
+Authors: F Militao, J Aldrich, L Caires
+Publication: Carnegie Mellon University Pittsburgh United States
+
+113. Capability Safe Reflection for the Wyvern Language
+Citations:3
+Authors: E Wang, J Aldrich
+Publication: Workshop on Meta-Programming Techniques and Reflection
+
+114. Composable and hygienic typed syntax macros
+Citations:3
+Authors: C Omar, C Wang, J Aldrich
+Publication: Proceedings of the 30th Annual ACM Symposium on Applied Computing, 1986-1991
+
+115. Statically typed string sanitation inside a Python
+Citations:3
+Authors: N Fulton, C Omar, J Aldrich
+Publication: Proceedings of the 2014 International Workshop on Privacy & Security in …
+
+116. Plaid: a permission-based programming language
+Citations:3
+Authors: J Aldrich, R Bocchino, R Garcia, M Hahnenberg, M Mohr, K Naden, ...
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+117. Modular composition and state update in Plaid
+Citations:3
+Authors: J Aldrich, K Naden, É Tanter
+Publication: Proceedings of the 4th Workshop on MechAnisms for SPEcialization …
+
+118. Resource-based programming in Plaid
+Citations:3
+Authors: J Aldrich
+Publication: figshare
+
+119. Typestate protocol specification in JML
+Citations:3
+Authors: T Kim, K Bierhoff, J Aldrich, S Kang
+Publication: Proceedings of the 8th international workshop on Specification and …
+
+120. Checking temporal relations between multiple objects
+Citations:3
+Authors: C Jaspan, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+121. Bringing ownership domains to mainstream Java
+Citations:3
+Authors: M Abi-Antoun, J Aldrich
+Publication: Conference on Object Oriented Programming Systems Languages and Applications …
+
+122. JavaD: Bringing ownership domains to mainstream java
+Citations:3
+Authors: M Abi-Antoun, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+123. The Recovery of Runtime Architectures
+Citations:3
+Authors: R Kazman, H Yan, D Garlan, B Schmerl, J Aldrich
+Publication: news@ sei 2, 1-5
+
+124. Model-based adaptation for robotics software
+Citations:2
+Authors: J Aldrich, D Garlan, C Kästner, C Le Goues, A Mohseni-Kabir, I Ruchkin, ...
+Publication: IEEE Software 36 (2), 83-90
+
+125. Interdisciplinary programming language design
+Citations:2
+Authors: M Coblenz, J Aldrich, BA Myers, J Sunshine
+Publication: Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas …
+
+126. Empirical Studies on the Security and Usability Impact of Immutability
+Citations:2
+Authors: S Weber, M Coblenz, B Myers, J Aldrich, J Sunshine
+Publication: 2017 IEEE Cybersecurity Development (SecDev), 50-53
+
+127. Designing extensible, domain-specific languages for mathematical diagrams
+Citations:2
+Authors: K Ye, K Crane, J Aldrich, J Sunshine
+Publication: Off the Beaten Track
+
+128. A course-based usability analysis of Cilk Plus and OpenMP
+Citations:2
+Authors: M Coblenz, R Seacord, B Myers, J Sunshine, J Aldrich
+Publication: 2015 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC …
+
+129. Wyvern: Impacting software security via programming language design
+Citations:2
+Authors: D Kurilova, A Potanin, J Aldrich
+Publication: Proceedings of the 5th Workshop on Evaluation and Usability of Programming …
+
+130. Type-specific languages to fight injection attacks
+Citations:2
+Authors: D Kurilova, C Omar, L Nistor, B Chung, A Potanin, J Aldrich
+Publication: Proceedings of the 2014 Symposium and Bootcamp on the Science of Security, 18
+
+131. Using machine learning in the automatic translation of object propositions
+Citations:2
+Authors: L Nistor, J Aldrich
+Publication: AI4FM
+
+132. Static analysis
+Citations:2
+Authors: J Aldrich, C Jaspan
+Publication: Principles of Software System Construction
+
+133. Dynxml: Safely programming the dynamic web
+Citations:2
+Authors: J Sunshine, J Aldrich
+Publication: Proceedings of the 2010 Workshop on Analysis and Programming Languages for …
+
+134. Retrieving relationships from declarative files
+Citations:2
+Authors: C Jaspan, J Aldrich
+Publication: Proceedings of the workshop on Relationships and Associations in Object …
+
+135. Error Reporting Logic
+Citations:2
+Authors: C Jaspan, T Quan, J Aldrich
+Publication: Proceedings of the 2008 23rd IEEE/ACM International Conference on Automated …
+
+136. Prevent Vs FindBugs Application and Evaluation
+Citations:2
+Authors: L Holsinger, S Fulzele, S Ramteke, K Tamagawa, S Wesaratchakit, ...
+Publication: Carnegie Mellon University, March
+
+137. Verifying correct usage of atomic blocks and typestate
+Citations:2
+Authors: NBK Bierhoff, J Aldrich
+Publication: OOPSLA
+
+138. Checking framework plugins
+Citations:2
+Authors: C Jaspan, J Aldrich
+Publication: Companion to the 22nd ACM SIGPLAN conference on Object-oriented programming …
+
+139. DiscoTect: A System for Discovering the Architectures of Running Programs using Colored Petri Nets
+Citations:2
+Authors: B Schmerl, J Aldrich, D Garlan, R Kazman, H Yan
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+140. A type checked prototype-based model with linearity
+Citations:2
+Authors: A Bejleri, J Aldrich, K Bierhoff
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+141. Semantic Issues in Architectural Refinement
+Citations:2
+Authors: T Tseng, J Aldrich, D Garlan, B Schmerl
+Publication: Submitted for publication
+
+142. Selective open recursion: A solution to the fragile base class problem
+Citations:2
+Authors: J Aldrich
+Publication: Submitted, http://www-2. cs. cmu. edu/aldrich/papers/selective-open …
+
+143. Evaluating module systems for crosscutting concerns
+Citations:2
+Authors: J Aldrich
+Publication: University of Washington
+
+144. Incremental Type Inference for Software Engineering
+Citations:2
+Authors: J Aldrich
+Publication: University of Washington
+
+145. Reference groups for local uniqueness
+Citations:2
+Authors: R Bocchino, J Aldrich
+Publication: Technical report, Technical Report, CMUISR-14-100, to appear
+
+146. Reasonably Programmable Literal Notation: Supplemental Material
+Citations:1
+Authors: C Omar, J Aldrich
+Publication: Technical Report CMU-ISR-18-104. Carnegie Mellon University
+
+147. The Implementation of Object Propositions: the Oprop Verification Tool
+Citations:1
+Authors: L Nistor, J Aldrich
+Publication: International Conference on Formal Aspects of Component Software, 179-197
+
+148. Programmable semantic fragments: the design and implementation of typy
+Citations:1
+Authors: C Omar, J Aldrich
+Publication: ACM SIGPLAN Notices 52 (3), 81-92
+
+149. Systemic Assurance
+Citations:1
+Authors: W Scherlis, J Aldrich, TD Breaux, D Garlan, C Kastner, C Le Goues, ...
+Publication: SYSTEMS ENGINEERING RESEARCH CENTER HOBOKEN NJ
+
+150. Delegation vs inheritance for typestate analysis
+Citations:1
+Authors: D Li, A Potanin, J Aldrich
+Publication: FTfJP
+
+151. Apparatuses and methods for producing runtime architectures of computer program modules
+Citations:1
+Authors: ME Abi-Antoun, JE Aldrich
+Publication: US Patent 8,584,099
+
+152. High-level abstractions for safe parallelism
+Citations:1
+Authors: R Bocchino, H Mehnert, J Aldrich
+Publication: 
+
+153. Verification of snapshotable trees using access permissions and typestate
+Citations:1
+Authors: H Mehnert, J Aldrich
+Publication: International Conference on Modelling Techniques and Tools for Computer …
+
+154. Statically checking API protocol conformance with mined multi-object specifications: companion report
+Citations:1
+Authors: M Pradel, C Jaspan, J Aldrich, TKR Gross
+Publication: Technical report 752
+
+155. A Formal Model of Modularity in Aspect-Oriented Programming
+Citations:1
+Authors: J Aldrich
+Publication: Proceedings of the 10th International Conference on Aspect-Oriented Software …
+
+156. A Language-based Approach to Specification and Enforcement of Architectural Protocols
+Citations:1
+Authors: K Bierhoff, M Kehrt, S Han, D Saini, M Al-Meshari, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+157. CZ: Multimethods and multiple inheritance without diamonds
+Citations:1
+Authors: D Malayeri, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+158. Frameworks on the Rise
+Citations:1
+Authors: K Bierhoff, C Jaspan, J Aldrich, G Fairbanks
+Publication: Under submission
+
+159. Linearity for objects
+Citations:1
+Authors: M Kehrt, A Bejleri, J Aldrich
+Publication: Technical Report CMU-ISRI-06-115, Carngie Mellon
+
+160. A Language–based Approach to Specification and Enforcement of Architectural Protocols (Expanded Version)
+Citations:1
+Authors: K Bierhoff, J Aldrich, S Han
+Publication: Technical Report CMU-CS-06-119, Carnegie Mellon University
+
+161. Software Architecture with Acme and ArchJava (Research Demonstration)
+Citations:1
+Authors: M Abi-Antoun, J Aldrich, D Garlan, B Schmerl, N Nahas, T Tseng
+Publication: Proceedings of the 27th International Conference on Software Engineering 15
+
+162. Discovering architectures from running systems using colored petri nets
+Citations:1
+Authors: B Schmerl, J Aldrich, D Garlan, R Kazman, H Yan
+Publication: URL: http://www. cs. cmu. edu/able/publications/discotect-jp05
+
+163. Open modules
+Citations:1
+Authors: J Aldrich
+Publication: Proc. of ECOOP, 144-168
+
+164. Cooperative permissions for reasoning about aliased objects
+Citations:1
+Authors: K Bierhoff, J Aldrich
+Publication: 
+
+165. Smarter Smart Contract Development Tools
+Citations:
+Authors: M Coblenz, J Sunshine, J Aldrich, BA Myers
+Publication: Proceedings of 2nd International Workshop on Emerging Trends in Software …
+
+166. Reasonably programmable literal notation
+Citations:
+Authors: C Omar, J Aldrich
+Publication: Proceedings of the ACM on Programming Languages 2 (ICFP), 106
+
+167. A Capability-Based Module System for Authority Control (Artifact)
+Citations:
+Authors: D Melicher, Y Shi, A Potanin, J Aldrich
+Publication: DARTS-Dagstuhl Artifacts Series 3
+
+168. Cooperative Exceptions for Concurrent Objects
+Citations:
+Authors: B Cabral, A Fonseca, P Marques, J Aldrich
+Publication: 2015 IEEE 21st Pacific Rim International Symposium on Dependable Computing …
+
+169. Seminal Papers in Software Engineering: The Carnegie Mellon Canonical Collection
+Citations:
+Authors: M Shaw, J Aldrich, TD Breaux, D Garlan, C Kästner, C Le Goues, ...
+Publication: figshare
+
+170. A Theory of Tagged Objects (Artifact)
+Citations:
+Authors: J Lee, J Aldrich, T Shaw, A Potanin, B Chung
+Publication: DARTS-Dagstuhl Artifacts Series 1
+
+171. Statically Typed String Sanitation Inside a Python (Technical Report)
+Citations:
+Authors: N Fulton, C Omar, J Aldrich
+Publication: 
+
+172. Usability Hypotheses in the Design of Plaid
+Citations:
+Authors: J Sunshine, J Aldrich
+Publication: Proceedings of the 5th Workshop on Evaluation and Usability of Programming …
+
+173. Considering Productivity Effects of Explicit Type Declarations
+Citations:
+Authors: M Coblenz, J Aldrich, B Myers, J Sunshine
+Publication: Proceedings of the 5th Workshop on Evaluation and Usability of Programming …
+
+174. Safely Composable Type-Specific Languages (Technical Report)
+Citations:
+Authors: C Omar, D Kurilova, L Nistor, B Chung, A Potanin, J Aldrich
+Publication: 
+
+175. Preface: Brazilian Symposium on Programming Languages (SBLP 2010)
+Citations:
+Authors: J Aldrich, RMF Lima
+Publication: Science of Computer Programming 80, 51
+
+176. Usability Hypotheses in the Design of Plaid
+Citations:
+Authors: J Aldrich, J Sunshine
+Publication: 
+
+177. A retrospective on aliasing type systems: 2012-2022
+Citations:
+Authors: J Aldrich
+Publication: Aliasing in Object-Oriented Programming. Types, Analysis and Verification …
+
+178. 19th international workshop on foundations of object-oriented languages (FOOL'12)
+Citations:
+Authors: JG Siek, J Aldrich, JT Boyland
+Publication: Proceedings of the 3rd annual conference on Systems, programming, and …
+
+179. Core JavaRG
+Citations:
+Authors: RL Bocchino Jr, J Aldrich
+Publication: 
+
+180. The Plaid Language: Typed Core Specification version 0.4. 0
+Citations:
+Authors: J Aldrich, NE Beckman, R Bocchino, K Naden, D Saini, S Stork, ...
+Publication: 
+
+181. A Type System for Borrowing Permissions (CMU-CS-11-142)
+Citations:
+Authors: K Naden, R Bocchino, J Aldrich, K Bierhoff
+Publication: 
+
+182. Principles of Software Construction: Objects, Design and Concurrency Packages and Polymorphism
+Citations:
+Authors: J Aldrich, C Garrod
+Publication: 
+
+183. 2011 international workshop on foundations of object-oriented languages (fool'11): splash/oopsla'11 workshop summary
+Citations:
+Authors: J Aldrich, J Siek, E Zucca
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+184. Are Object Protocols Burdensome?
+Citations:
+Authors: C Jaspan, J Aldrich
+Publication: 
+
+185. Gradual Featherweight Typestate (CMU-ISR-10-116R)
+Citations:
+Authors: R Wolff, R Garcia, E Tanter, J Aldrich
+Publication: figshare
+
+186. 2010 international workshop on foundations of object-oriented languages (FOOL'10): SPLASH/OOPSLA'10 workshop summary
+Citations:
+Authors: J Aldrich, J Siek
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+187. Principles of: The Design and Rationale for a New Programming Language
+Citations:
+Authors: J Aldrich
+Publication: 
+
+188. Polymorphic Access Permissions
+Citations:
+Authors: NE Beckman, J Aldrich
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+189. A Language–based Approach to Specification and Enforcement of Architectural Protocols (CMU-ISR-10-110)
+Citations:
+Authors: K Bierhoff, D Saini, M Kehrt, M Al-Meshari, S Han, J Aldrich
+Publication: 
+
+190. Featherweight Typestate (CMU-ISR-10-115)
+Citations:
+Authors: R Garcia, R Wolff, E Tanter, J Aldrich
+Publication: 
+
+191. Gradual Featherweight Typestate
+Citations:
+Authors: R Garcia, R Wolff, J Aldrich
+Publication: 
+
+192. Design Intent
+Citations:
+Authors: J Aldrich
+Publication: 
+
+193. Language support for distributed proxies
+Citations:
+Authors: D Saini, J Sunshine, J Aldrich
+Publication: Proceedings of the 1st International Workshop on Distributed Objects for the …
+
+194. Polymorphic Fractional Permission Inference
+Citations:
+Authors: K Bierhoff, NE Beckman, J Aldrich
+Publication: 
+
+195. Tool support for statically checking the structural conformance of an object-oriented system to its runtime architecture
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming …
+
+196. A Field Study in Extracting a Runtime Architecture
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: 
+
+197. Tool support for the compile-time execution structure of object-oriented programs with ownership annotations
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+198. Specification and verification of component-based systems 2007
+Citations:
+Authors: J Aldrich, GT Leavens, M Barnett, N Sharygina, D Giannakopoulou
+Publication: The 6th Joint Meeting on European software engineering conference and the …
+
+199. Assuring object-oriented architecture
+Citations:
+Authors: J Aldrich
+Publication: Lecture Notes in Computer Science 4609, 450
+
+200. 17-654/17-754 Analysis of Software Artifacts Syllabus
+Citations:
+Authors: J Aldrich, TAK Bierhoff, TAN Beckman
+Publication: 
+
+201. Flexible Ownership Domain Annotations for Expressing and Visualizing Design Intent
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: der Fakultät IV–Elektrotechnik und Informatik, 15
+
+202. A static analysis for extracting runtime views from annotated object-oriented code
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming …
+
+203. Young guns/object orientation: the next generation
+Citations:
+Authors: J Overbey, B Foote, P Adamczyk, J Aldrich, E Baniassad, C Grothoff, ...
+Publication: Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming …
+
+204. Statically-Scoped Exceptions: a Typed Foundation for Aspect-Oriented Error Handling
+Citations:
+Authors: N Krishnaswami, J Aldrich
+Publication: Carnegie Mellon University, School of Computer Science [Institute for …
+
+205. Comprehensive Synchronization Elimination for Java (PREPRINT)
+Citations:
+Authors: J Aldrich, EG Sirer, C Chambers, SJ Eggers
+Publication: WASHINGTON UNIV SEATTLE DEPT OF COMPUTER SCIENCE AND ENGINEERING
+
+206. CRPC-TR98735-S January 1998
+Citations:
+Authors: J Aldrich, J Dooley, S Mandelsohn, A Rifkin
+Publication: 
+
+207. Curriculum Vitae Jonathan Aldrich
+Citations:
+Authors: J Aldrich, V Poprocky
+Publication: 
+
+208. Program Committee of ICSE 2019
+Citations:
+Authors: J Aldrich, A Aleti, D Alrajeh, S Basu, N Bencomo, A Bener, K Blincoe, ...
+Publication: 
+
+209. Approximating Polymorphic Effects with Capabilities
+Citations:
+Authors: J Lubin, D Melicher, A Potanin, J Aldrich
+Publication: 
+
+210. CMU-ISR-10-110 A Language-based Approach to Specification and Enforcement of Architectural Protocols
+Citations:
+Authors: K Bierhoff, M Kehrt, S Han, D Saini, M Al-Meshari, J Aldrich
+Publication: 
+
+211. Lecture Notes: Program Synthesis
+Citations:
+Authors: J Aldrich, C Le Goues
+Publication: 
+
+212. Lecture Notes: Hoare Logic
+Citations:
+Authors: J Aldrich
+Publication: 
+
+213. Capabilities and Effects
+Citations:
+Authors: A Craig, A Potanin, L Groves, J Aldrich
+Publication: 
+
+214. SUBSTANCE and STYLE: domain-specific languages for mathematical diagrams
+Citations:
+Authors: W Ni, K Ye, J Sunshine, J Aldrich, K Crane
+Publication: 
+
+215. Lecture Notes: A Dataflow Analysis Framework for WHILE3ADDR
+Citations:
+Authors: J Aldrich
+Publication: 
+
+216. Lecture Notes: Semantics of WHILE
+Citations:
+Authors: J Aldrich
+Publication: 
+
+217. CMU-ISR-17-106R
+Citations:
+Authors: D Melicher, Y Shi, A Potanin, J Aldrich
+Publication: 
+
+218. Naturally Embedded DSLs
+Citations:
+Authors: J Aldrich, A Potanin
+Publication: 
+
+219. Reengineering with Reflexion Models: A Case Study
+Citations:
+Authors: J Aldrich
+Publication: 
+
+220. ISR-10-116R
+Citations:
+Authors: R Wolff, R Garcia, E Tanter, J Aldrich
+Publication: 
+
+221. Modeling and implementing software architecture with acme and archJava
+Citations:
+Authors: B Schmerl, J Aldrich, D Garlan, T Tseng, N Nahas, M Abi-Antoun
+Publication: 27th International Conference on Software Engineering, 676-677
+
+222. Delegation Revisited
+Citations:
+Authors: J Aldrich, A Potanin
+Publication: complexity 2 (2016/10), 25
+
+223. Substructural Typestates (Technical Appendix)
+Citations:
+Authors: F Militao, J Aldrich, L Caires
+Publication: 
+
+224. The Execution Structure of Object-Oriented Programs: Ownership Object Graph Case Studies
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: 
+
+225. ICFP 2008: The 13th ACM SIGPLAN International Conference on Functional Programming Victoria, British Columbia, Canada
+Citations:
+Authors: J Aldrich, RJ Simmons, K Shin, T Chevalier, A Tolmach, J Heard, X Guan, ...
+Publication: 
+
+226. The Modularity and Automation of Object Propositions
+Citations:
+Authors: L Nistor, J Aldrich
+Publication: 
+
+227. Principles of Software Construction: Objects, Design and Concurrency Encapsulation and Inheritance
+Citations:
+Authors: J Aldrich, C Garrod
+Publication: 
+
+228. A Retrospective on Aliasing Type Systems
+Citations:
+Authors: J Aldrich
+Publication: Aliasing in Object-Oriented Programming, 509
+
+229. 15-819 Objects and Aspects: Language Support for Extensible and Evolvable Software
+Citations:
+Authors: J Aldrich
+Publication: 
+
+230. SPLASH 2011 Doctoral Symposium Chair’s Welcome
+Citations:
+Authors: J Aldrich
+Publication: 
+
+231. AGRAWAL, Mukesh CMU-CS-11-101 AKELLA, Aditya CMU-CS-11-100, CMU-CS-11-117
+Citations:
+Authors: J ALDRICH, A ANAND, D ANDERSEN, V BALA, A BARNAT, M BENISCH, ...
+Publication: 
+
+232. An Error-Recovery Model for Failure-Prone, Collaborative Robots
+Citations:
+Authors: N Beckman, J Aldrich
+Publication: 
+
+233. Fraction Polymorphic Permission Inference
+Citations:
+Authors: K Bierhoff, NE Beckman, J Aldrich
+Publication: 
+
+234. CMU-ISRI-07-121 A Language-based Approach to Specification and Enforcement of Architectural Protocols
+Citations:
+Authors: K Bierhoff, JAS Han
+Publication: 
+
+235. Concurrency Assurance in Fluid
+Citations:
+Authors: J Aldrich
+Publication: Policy 15, 413
+
+236. Static Static Extraction of Object-Oriented Runtime Architectures
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: 
+
+237. CMU-ISR-10-125 µÆ minium Language Specification
+Citations:
+Authors: S Stork, J Aldrich, P Marques
+Publication: 
+
+238. CMU-ISR-08-119 Checking Temporal Relations between Multiple Objects
+Citations:
+Authors: C Jaspan, J Aldrich
+Publication: 
+
+239. CMU-ISRI-07-119R
+Citations:
+Authors: M Abi-Antoun, J Aldrich
+Publication: 
+
+240. CMU-ISRI-04-141 Open Modules: Modular Reasoning about Advice
+Citations:
+Authors: J Aldrich
+Publication: 
+
+241. CMU-ISR-10-125R
+Citations:
+Authors: S Stork, J Aldrich, P Marques
+Publication: 
+
+242. CMU-ISR-08-140 Checking Framework Interactions with Relationships
+Citations:
+Authors: C Jaspan, J Aldrich
+Publication: 
+
+243. CMU-ISR-09-100 Reducing STM Overhead with Access Permissions
+Citations:
+Authors: NE Beckman, YP Kim, S Stork, J Aldrich
+Publication: 
+
+244. CMU-ISRI-05-108 Software Engineering for the 21st Century: A basis for rethinking the curriculum
+Citations:
+Authors: M Shaw, J Aldrich, R Bareiss, S Butler, L Carter, O Cheng, S Cross, ...
+Publication: 
+
+245. CMU-ISRI-04-142 A Type Checked Prototype-based Model with Linearity
+Citations:
+Authors: A Bejleri, J Aldrich, K Bierhoff
+Publication: 
+

@@ -1,0 +1,550 @@
+
+2. Directed diffusion for wireless sensor networking
+Citations:3429
+Authors: C Intanagonwiwat, R Govindan, D Estrin, J Heidemann, F Silva
+Publication: IEEE/ACM Transactions on Networking (ToN) 11 (1), 2-16
+
+4. Telegraphcq: Continuous dataflow processing for an Uncertain world.
+Citations:1932
+Authors: S Chandrasekaran, O Cooper, A Deshpande, MJ Franklin, JM Hellerstein, ...
+Publication: Cidr 2, 4
+
+7. C-store: a column-oriented DBMS
+Citations:1389
+Authors: M Stonebraker, DJ Abadi, A Batkin, X Chen, M Cherniack, M Ferreira, ...
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+9. CarTel: a distributed mobile sensor computing system
+Citations:1302
+Authors: B Hull, V Bychkovsky, Y Zhang, K Chen, M Goraczko, A Miu, E Shih, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+26. H-store: a high-performance, distributed main memory transaction processing system
+Citations:539
+Authors: R Kallman, H Kimura, J Natkins, A Pavlo, A Rasin, S Zdonik, EPC Jones, ...
+Publication: Proceedings of the VLDB Endowment 1 (2), 1496-1499
+
+33. Overview of SciDB: large scale array storage, processing and analysis
+Citations:366
+Authors: PG Brown
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+36. Mobiscopes for human spaces
+Citations:319
+Authors: T Abdelzaher, Y Anokwa, P Boda, J Burke, D Estrin, L Guibas, A Kansal, ...
+Publication: IEEE pervasive computing 6 (2), 20-29
+
+41. Adaptive query processing: Technology in evolution
+Citations:290
+Authors: JM Hellerstein, MJ Franklin, S Chandrasekaran, A Deshpande, K Hildrum, ...
+Publication: IEEE Data Eng. Bull. 23 (2), 7-18
+
+48. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+57. A demonstration of SciDB: a science-oriented DBMS
+Citations:180
+Authors: P Cudré-Mauroux, H Kimura, KT Lim, J Rogers, R Simakov, E Soroush, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1534-1537
+
+59. The Claremont report on database research
+Citations:177
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: ACM Sigmod Record 37 (3), 9-19
+
+66. Query execution in column-oriented database systems
+Citations:149
+Authors: DJ Abadi
+Publication: Massachusetts Institute of Technology
+
+67. TelegraphCQ: An architectural status report
+Citations:145
+Authors: S Krishnamurthy, S Chandrasekaran, O Cooper, A Deshpande, ...
+Publication: IEEE Data Eng. Bull. 26 (1), 11-18
+
+72. The bigdawg polystore system
+Citations:129
+Authors: J Duggan, AJ Elmore, M Stonebraker, M Balazinska, B Howe, J Kepner, ...
+Publication: ACM Sigmod Record 44 (2), 11-16
+
+79. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+83. Datahub: Collaborative data science & dataset version management at scale
+Citations:106
+Authors: A Bhardwaj, S Bhattacherjee, A Chavan, A Deshpande, AJ Elmore, ...
+Publication: arXiv preprint arXiv:1409.0798
+
+85. The Claremont report on database research
+Citations:104
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: Communications of the ACM 52 (6), 56-65
+
+95. A demonstration of the BigDAWG polystore system
+Citations:83
+Authors: A Elmore, J Duggan, M Stonebraker, M Balazinska, U Cetintemel, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1908-1911
+
+97. Report from the first workshop on geo sensor networks
+Citations:79
+Authors: S Nittel, A Stefanidis, I Cruz, M Egenhofer, D Goldin, A Howard, ...
+Publication: ACM SIGMOD Record 33 (1), 141-144
+
+102. The CarTel mobile sensor computing system
+Citations:75
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+104. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+106. Xstream: A signal-oriented data stream management system
+Citations:70
+Authors: L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, ...
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 1180-1189
+
+112. On the use of NAND flash memory in high-performance relational databases
+Citations:64
+Authors: DDS Myers
+Publication: Massachusetts Institute of Technology
+
+114. S-Store: streaming meets transaction processing
+Citations:62
+Authors: J Meehan, N Tatbul, S Zdonik, C Aslantas, U Cetintemel, J Du, T Kraska, ...
+Publication: Proceedings of the VLDB Endowment 8 (13), 2134-2145
+
+119. The Data Civilizer System.
+Citations:57
+Authors: D Deng, RC Fernandez, Z Abedjan, S Wang, M Stonebraker, ...
+Publication: Cidr
+
+127. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+129. The Case for a Signal-Oriented Data Stream Management System.
+Citations:55
+Authors: L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, ...
+Publication: CIDR 7, 397-406
+
+132. M odel DB: a system for machine learning model management
+Citations:52
+Authors: M Vartak, H Subramanyam, WE Lee, S Viswanathan, S Husnoo, ...
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 14
+
+137. The bigdawg polystore system and architecture
+Citations:49
+Authors: V Gadepally, P Chen, J Duggan, A Elmore, B Haynes, J Kepner, ...
+Publication: 2016 IEEE High Performance Extreme Computing Conference (HPEC), 1-6
+
+139. Treatment of perforated lesions of the colon by primary resection and anastomosis
+Citations:49
+Authors: JL Madden
+Publication: Diseases of the Colon & Rectum 9 (6), 413-416
+
+147. Dwarf: Delay-aware robust forwarding for energy-constrained wireless sensor networks
+Citations:41
+Authors: M Strasser, A Meier, K Langendoen, P Blum
+Publication: International Conference on Distributed Computing in Sensor Systems, 64-81
+
+158. Automatic reconfiguration for large-scale reliable storage systems
+Citations:33
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 145-158
+
+173. The aurora and borealis stream processing engines
+Citations:25
+Authors: U Çetintemel, D Abadi, Y Ahmad, H Balakrishnan, M Balazinska, ...
+Publication: Data Stream Management, 337-359
+
+175. Sagedb: A learned database system
+Citations:24
+Authors: T Kraska, M Alizadeh, A Beutel, EH Chi, J Ding, A Kristo, G Leclerc, ...
+Publication: 
+
+179. Wavescope: a signal-oriented data stream management system
+Citations:23
+Authors: L Girod, K Jamieson, Y Mei, R Newton, S Rost, A Thiagarajan, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+181. Roadtracer: Automatic extraction of road networks from aerial images
+Citations:21
+Authors: F Bastani, S He, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+185. Data management in the CarTel mobile sensor computing system
+Citations:20
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+196. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+202. Compression and query execution within column oriented databases
+Citations:13
+Authors: MC Ferreira
+Publication: Massachusetts Institute of Technology
+
+209. Probabilistic models for mobile phone trajectory estimation
+Citations:11
+Authors: A Thiagarajan
+Publication: Massachusetts Institute of Technology
+
+212. On Challenges in Machine Learning Model Management.
+Citations:10
+Authors: S Schelter, F Biessmann, T Januschowski, D Salinas, S Seufert, ...
+Publication: IEEE Data Eng. Bull. 41 (4), 5-15
+
+215. Code in the air: simplifying sensing on smartphones
+Citations:10
+Authors: T Kaler, JP Lynch, T Peng, L Ravindranath, A Thiagarajan, ...
+Publication: Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems …
+
+220. QCD precision measurements and structure function extraction at a high statistics, high energy neutrino scattering experiment: NuSOnG
+Citations:9
+Authors: T Adams, P Batra, L Bugel, L Camilleri, JM Conrad, A De Gouvêa, ...
+Publication: International Journal of Modern Physics A 25 (05), 909-949
+
+222. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+224. A Demo of the Data Civilizer System.
+Citations:8
+Authors: RC Fernandez, D Deng, E Mansour, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: SIGMOD Conference, 1639-1642
+
+225. Distributed data streams
+Citations:8
+Authors: M Garofalakis
+Publication: Encyclopedia of Database Systems, 883-890
+
+234. Brains and bytes
+Citations:6
+Authors: D Lindley
+Publication: Communications of the ACM 53 (9), 13-15
+
+235. Coverage-oriented sensor deployment
+Citations:6
+Authors: Y Zou, K Chakrabarty
+Publication: Distributed Sensor Networks, 483-504
+
+241. iNav: A hybrid approach to WiFi localization and tracking of mobile devices
+Citations:5
+Authors: L Popov
+Publication: Massachusetts Institute of Technology
+
+244. A signal oriented stream processing system for pipeline monitoring
+Citations:5
+Authors: T Tokmouline
+Publication: Massachusetts Institute of Technology
+
+245. Sensor networks for social networks
+Citations:5
+Authors: MP Farry
+Publication: Massachusetts Institute of Technology
+
+248. RoadRunner: improving the precision of road network inference from GPS trajectories
+Citations:4
+Authors: S He, F Bastani, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances …
+
+250. Persistent AUV Operations Using a Robust Reactive Mission and Path Planning (RRMPP) Architecture
+Citations:4
+Authors: SM Zadeh, DMW Powers, K Sammut, A Atyabi, A Yazdani
+Publication: arXiv preprint arXiv:1605.01824
+
+255. Design and evaluation of a benchmark for main memory transaction processing systems
+Citations:4
+Authors: EG Reid
+Publication: Massachusetts Institute of Technology
+
+257. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+258. Machine-assisted map editing
+Citations:3
+Authors: F Bastani, S He, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances …
+
+260. Building data civilizer pipelines with an advanced workflow engine
+Citations:3
+Authors: E Mansour, D Deng, RC Fernandez, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 1593-1596
+
+263. Optimizing index deployment order for evolving OLAP
+Citations:3
+Authors: H Kimura, C Coffrin, A Rasin, SB Zdonik
+Publication: Proceedings of the 15th International Conference on Extending Database …
+
+269. BlendDB: blending table layouts to support efficient browsing of relational databases
+Citations:3
+Authors: A Marcus
+Publication: Massachusetts Institute of Technology
+
+286. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+288. Efficient storage of versioned matrices
+Citations:2
+Authors: AB Seering
+Publication: Massachusetts Institute of Technology
+
+289. Traffic delay prediction from historical observations
+Citations:2
+Authors: P Malalur
+Publication: Massachusetts Institute of Technology
+
+292. Shinobi: Insert-aware partitioning and indexing techniques for skewed database workloads
+Citations:2
+Authors: E Wu
+Publication: Massachusetts Institute of Technology
+
+293. A file system for accessing mysql tables as csv files
+Citations:2
+Authors: N Ordulu
+Publication: Massachusetts Institute of Technology
+
+294. Energy-efficient communication protocol for wireless microsensor networks.
+Citations:2
+Authors: G Yang, C Li, H Yang, G Anastasi, M Conti, M di Francesco, A Passarella, ...
+Publication: Information Technology Journal 12 (12), 537-568
+
+298. TabulaROSA: Tabular Operating System Architecture for Massively Parallel Heterogeneous Compute Engines
+Citations:1
+Authors: J Kepner, R Brightwell, A Edelman, V Gadepally, H Jananthan, M Jones, ...
+Publication: 2018 IEEE High Performance extreme Computing Conference (HPEC), 1-8
+
+301. Bigdawg polystore release and demonstration
+Citations:1
+Authors: K OBrien, V Gadepally, J Duggan, A Dziedzic, A Elmore, J Kepner, ...
+Publication: arXiv preprint arXiv:1701.05799
+
+309. Providing caching abstractions for web applications
+Citations:1
+Authors: P Gupta
+Publication: Massachusetts Institute of Technology
+
+310. A hybrid data structure for dense keys in in-memory database systems
+Citations:1
+Authors: JA Muñiz Navarro
+Publication: Massachusetts Institute of Technology
+
+311. How best to build web-scale data managers?
+Citations:1
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1647-1647
+
+313. Language design for distributed stream processing
+Citations:1
+Authors: RR Newton
+Publication: Massachusetts Institute of Technology
+
+315. Zstream: a cost-based query processor for composite event detection
+Citations:1
+Authors: Y Mei
+Publication: Massachusetts Institute of Technology
+
+316. Proceedings of the 3rd IEEE International Conference on Distributed Computing in Sensor Systems
+Citations:1
+Authors: J Aspnes
+Publication: Springer-Verlag
+
+317. Stephen Tu
+Citations:1
+Authors: W Zheng, S Tu, E Kohler, B Liskov, J DeBrabant, A Pavlo, M Stonebraker, ...
+Publication: University of California, Berkeley 2010
+
+323. Towards Multiverse Databases
+Citations:
+Authors: A Marzoev, LT Araújo, M Schwarzkopf, S Yagati, E Kohler, R Morris, ...
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 88-95
+
+332. A Demo of the Data Civilizer System
+Citations:
+Authors: R Castro Fernandez, D Deng, E Mansour, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+334. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+336. selected publications
+Citations:
+Authors: J Kosuth, W Freud, F Market
+Publication: Order, 80-111
+
+340. BFT-Practical Byzantine Fault Tolerance
+Citations:
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, J Cowling, D Schultz, ...
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158
+
+341. TOSSIM: Accurate and scalable simulation of entire TinyOS applications.
+Citations:
+Authors: Z Zhang, H Yuan, L Chen, F Yu, S Singhal, A Gankotiya, S Agarwal, ...
+Publication: Information Technology Journal 13 (11), pp: 522-529
+
+342. A universal algorithm for sequential data compression.
+Citations:
+Authors: G Sujitha, M Varadharajan, BR Kumar, SM Shalinie, A Lapkin, B Schneier, ...
+Publication: Journal of Artificial Intelligence 6 (3), pp: 231-249
+
+344. 6.033 Computer Systems Engineering: Spring 2012
+Citations:
+Authors: TISANO BOOK, B LAPTOP
+Publication: Computer
+
+346. Identity-based trusted authentication in wireless sensor networks.
+Citations:
+Authors: MW Wang, LJ Wang, QH Yang, WM Xie, KS Arikumar, K Thirumoorthy, ...
+Publication: Journal of Software Engineering 8 (3), pp: 1010-1015
+
+347. Look-up tables: the benefit of enabling fine-grained routing and load balancing
+Citations:
+Authors: AL Tatarowicz
+Publication: Massachusetts Institute of Technology
+
+351. Design and implementation of wavescope storage manager and access scheduler
+Citations:
+Authors: JE Smith
+Publication: Massachusetts Institute of Technology
+
+357. Designing Bayesian networks for highly expert-involved problem diagnosis domains
+Citations:
+Authors: DL Ramdass
+Publication: Massachusetts Institute of Technology
+
+358. Wai Ho Li Alan M. Zhang
+Citations:
+Authors: L Kleeman
+Publication: The International Journal of Robotics Research 27 (7), 785-814
+
+360. Compiler optimizations for an asynchronous stream-oriented programming language
+Citations:
+Authors: MB Craig
+Publication: Massachusetts Institute of Technology
+
+363. Correlation indices: a new access method to exploit correlated attributes
+Citations:
+Authors: G Huo
+Publication: Massachusetts Institute of Technology
+
+364. Quiz I11 Solutions
+Citations:
+Authors: TISANO BOOK
+Publication: Computer
+
+365. Stephen Tu
+Citations:
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik, W Zheng, E Kohler, ...
+Publication: University of California, Berkeley 2010
+
+367. Integrated modeling for wirless sensor netwoks reliability and security.
+Citations:
+Authors: F Alsaade, HMF Abo El-Fotoh, ES El-Mallah, H Hassanein, OB Akan, ...
+Publication: Journal of Software Engineering 5 (4), pp: 3455-3460
+
+368. HARBOR: an integrated approach to recovery and high availability in an updatable, distributed data warehouse
+Citations:
+Authors: E Lau
+Publication: Massachusetts Institute of Technology
+
+370. Core Database Technology Program Committee
+Citations:
+Authors: A Ailamaki, G Alonso, W Aref, L Arge, B Babcock, M Berndtsson, E Bertino, ...
+Publication: VLDB 2005: 31st International Conference on Very Large Data Bases …
+
+371. Eventing architecture: RFID and sensors in supply chain
+Citations:
+Authors: KE Emery
+Publication: Massachusetts Institute of Technology
+
+373. Modeling urban traffic: A cellular automata approach.
+Citations:
+Authors: L Kuang, Z Wang, M Xu, Y Chen, J Ott, D Kutscher, B Hull, V Bychkovsky, ...
+Publication: Information Technology Journal 10 (11), pp: 373-373
+
+377. Localization in sparse networks using sweeps.
+Citations:
+Authors: L Shan, J Wang, Y Zhao, Y Liu, B Krishnamachari, D Estrin, S Wicker, ...
+Publication: Information Technology Journal 10 (8), pp: 575-578
+
+379. Selection of MOSFET sizes by fuzzy sets intersection in the feasible solutions space.
+Citations:
+Authors: Y Wang, Q Zhang, Y Li, IF Akyildiz, W Su, Y Sankarasubramaniam, ...
+Publication: Information Technology Journal 12 (2), 393-422
+
+380. A transmission control scheme for media access in sensor networks.
+Citations:
+Authors: F Hu, IF Akyildiz, W Su, Y Sankarasubramaniam, E Cayirci, G Asada, ...
+Publication: Information Technology Journal 5 (5), 102-114
+
+382. The cougar approach to in-network query processing in sensor networks.
+Citations:
+Authors: W Wang, B Wang, Z Liu, L Guo, A Manjeshwar, DP Agrawal, A Sengupta, ...
+Publication: Information Technology Journal 10 (1), pp: 30189-30189
+
+384. 1.1 lntroduction
+Citations:
+Authors: LD Braida, NI Durlach, RM Held, P Duchnowski, JE Greenberg, ...
+Publication: Science
+
+385. Smile: A System to Support Machine Learning on EEG Data at Scale
+Citations:
+Authors: L Cao, W Tao, S An, J Jin, Y Yan, X Liu, W Ge, A Sah, L Battle, J Sun, ...
+Publication: Proceedings of the VLDB Endowment 12 (12)
+
+386. The CHICKEN or The EGG?
+Citations:
+Authors: D Madden
+Publication: 
+
+396. IEEE CS Technical Chair on Bioinformatics
+Citations:
+Authors: S Brenner, E Davidson, S Salzberg, J Wooley, P Blauvelt, E Buckingham, ...
+Publication: 
+
+397. Publications Chair
+Citations:
+Authors: P Blauvelt, F Wang, K Goldfein, R Stewart, D Grosof, L Rogers, ...
+Publication: 
+
+402. Data Engineering
+Citations:
+Authors: SD Viglas, G Bierman, F Nagel, C Freedman, E Ismert, PA Larson, ...
+Publication: 
+
+406. Data Management in an Connected World
+Citations:
+Authors: H Balakrishnan, J Guttag, F Kaashoek, BC Kuszmaul, CE Leiserson, ...
+Publication: 
+
+414. Data Engineering
+Citations:
+Authors: S Zdonik, M Stonebraker, M Cherniack, M Balazinska, H Balakrishnan, ...
+Publication: 
+
+416. Data Engineering
+Citations:
+Authors: M Stonebraker, M Cherniack, U Cetintemel, M Balazinska, ...
+Publication: 
+
+421. Research Abstracts-2006
+Citations:
+Authors: L Girod, K Jamieson, Y Mei, S Rost, A Thiagarajan, T Tokmouline, ...
+Publication: 

@@ -1,0 +1,423 @@
+https://scholar.google.com/citations?hl=en&user=C6Pd5zoAAAAJ
+Total Citations = 3661
+
+1. ESP: Path-sensitive program verification in polynomial time
+Citations:647
+Authors: M Das, S Lerner, M Seigle
+Publication: ACM Sigplan Notices 37 (5), 57-68
+
+2. RELAY: static race detection on millions of lines of code
+Citations:304
+Authors: JW Voung, R Jhala, S Lerner
+Publication: Proceedings of the the 6th joint meeting of the European software …
+
+3. Staged information flow for JavaScript
+Citations:282
+Authors: R Chugh, JA Meister, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 44 (6), 50-62
+
+4. An empirical study of privacy-violating information flows in JavaScript web applications
+Citations:210
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: Proceedings of the 17th ACM conference on Computer and communications …
+
+5. Mojo: A dynamic optimization system
+Citations:171
+Authors: WK Chen, S Lerner, R Chaiken, DM Gillies
+Publication: 3rd ACM Workshop on Feedback-Directed and Dynamic Optimization (FDDO-3), 81-90
+
+6. ProtectMyPrivacy: detecting and mitigating privacy leaks on iOS devices using crowdsourcing
+Citations:170
+Authors: Y Agarwal, M Hall
+Publication: Proceeding of the 11th annual international conference on Mobile systems …
+
+7. Automatically proving the correctness of compiler optimizations
+Citations:163
+Authors: S Lerner, T Millstein, C Chambers
+Publication: ACM SIGPLAN Notices 38 (5), 220-231
+
+8. Automated soundness proofs for dataflow analyses and transformations via local rules
+Citations:141
+Authors: S Lerner, T Millstein, E Rice, C Chambers
+Publication: ACM SIGPLAN Notices 40 (1), 364-377
+
+9. Equality saturation: a new approach to optimization
+Citations:131
+Authors: R Tate, M Stepp, Z Tatlock, S Lerner
+Publication: ACM SIGPLAN Notices 44 (1), 264-276
+
+10. Composing dataflow analyses and transformations
+Citations:115
+Authors: S Lerner, D Grove, C Chambers
+Publication: ACM SIGPLAN Notices 37 (1), 270-282
+
+11. SafeDispatch: Securing C++ Virtual Calls from Memory Corruption Attacks.
+Citations:110
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: NDSS
+
+12. Proving optimizations correct using parameterized program equivalence
+Citations:96
+Authors: S Kundu, Z Tatlock, S Lerner
+Publication: ACM Sigplan Notices 44 (6), 327-337
+
+13. Opium: Optimal package install/uninstall manager
+Citations:91
+Authors: C Tucker, D Shuffelton, R Jhala, S Lerner
+Publication: 29th International Conference on Software Engineering (ICSE'07), 178-188
+
+14. WitchDoctor: IDE support for real-time auto-completion of refactorings
+Citations:74
+Authors: SR Foster, WG Griswold, S Lerner
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 222-232
+
+15. On subnormal floating point and abnormal timing
+Citations:71
+Authors: M Andrysco, D Kohlbrenner, K Mowery, R Jhala, S Lerner, H Shacham
+Publication: 2015 IEEE Symposium on Security and Privacy, 623-639
+
+16. Dataflow analysis for concurrent programs using datarace detection
+Citations:65
+Authors: R Chugh, JW Voung, R Jhala, S Lerner
+Publication: ACM SIGPLAN Notices 43 (6), 316-326
+
+17. Verifying GPU kernels by test amplification
+Citations:57
+Authors: A Leung, M Gupta, Y Agarwal, R Gupta, R Jhala, S Lerner
+Publication: ACM SIGPLAN Notices 47 (6), 383-394
+
+18. Establishing browser security guarantees through formal shim verification
+Citations:54
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: Presented as part of the 21st {USENIX} Security Symposium ({USENIX} Security …
+
+19. Towards verifying android apps for the absence of no-sleep energy bugs
+Citations:53
+Authors: P Vekris, R Jhala, S Lerner, Y Agarwal
+Publication: Presented as part of the 2012 Workshop on Power-Aware Computing and Systems
+
+20. Validating high-level synthesis
+Citations:51
+Authors: S Kundu, S Lerner, R Gupta
+Publication: International Conference on Computer Aided Verification, 459-472
+
+21. Protecting C++ Dynamic Dispatch Through VTable Interleaving.
+Citations:47
+Authors: D Bounov, RG Kici, S Lerner
+Publication: NDSS
+
+22. Equality-based translation validator for LLVM
+Citations:47
+Authors: M Stepp, R Tate, S Lerner
+Publication: International Conference on Computer Aided Verification, 737-742
+
+23. Translation validation of high-level synthesis
+Citations:43
+Authors: S Kundu, S Lerner, RK Gupta
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+24. Speeding up dataflow analysis using flow-insensitive pointer analysis
+Citations:35
+Authors: S Adams, T Ball, M Das, S Lerner, SK Rajamani, M Seigle, W Weimer
+Publication: International Static Analysis Symposium, 230-246
+
+25. Bringing extensibility to verified compilers
+Citations:32
+Authors: Z Tatlock, S Lerner
+Publication: ACM Sigplan Notices 45 (6), 111-121
+
+26. Generating compiler optimizations from proofs
+Citations:32
+Authors: R Tate, M Stepp, S Lerner
+Publication: ACM Sigplan Notices 45 (1), 389-402
+
+27. Interactive parser synthesis by example
+Citations:29
+Authors: A Leung, J Sarracino, S Lerner
+Publication: ACM SIGPLAN Notices 50 (6), 565-574
+
+28. Deep typechecking and refactoring
+Citations:28
+Authors: Z Tatlock, C Tucker, D Shuffelton, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 43 (10), 37-52
+
+29. Beyond refactoring: a framework for modular maintenance of crosscutting design idioms
+Citations:28
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: Proceedings of the the 6th joint meeting of the European software …
+
+30. System and method for performing a path-sensitive verification on a program
+Citations:28
+Authors: M Das, MC Seigle, SL Lerner
+Publication: US Patent 6,938,186
+
+31. Taming wildcards in Java's type system
+Citations:24
+Authors: R Tate, A Leung, S Lerner
+Publication: ACM SIGPLAN Notices 46 (6), 614-627
+
+32. Codespells: how to design quests to teach java concepts
+Citations:18
+Authors: S Esper, SR Wood, SR Foster, S Lerner, WG Griswold
+Publication: Journal of Computing Sciences in Colleges 29 (4), 114-122
+
+33. Automatic inference of optimizer flow functions from semantic meanings
+Citations:17
+Authors: ER Scherpelz, S Lerner, C Chambers
+Publication: ACM SIGPLAN Notices 42 (6), 135-145
+
+34. NSF expedition on variability-aware software: Recent results and contributions
+Citations:16
+Authors: L Wanner, L Lai, A Rahimi, M Gottscho, P Mercati, CH Huang, F Sala, ...
+Publication: it-Information Technology 57 (3), 181-198
+
+35. Automating formal proofs for reactive systems
+Citations:15
+Authors: D Ricketts, V Robert, D Jang, Z Tatlock, S Lerner
+Publication: ACM SIGPLAN Notices 49 (6), 452-462
+
+36. Automated refinement checking of concurrent systems
+Citations:14
+Authors: S Kundu, S Lerner, R Gupta
+Publication: 2007 IEEE/ACM International Conference on Computer-Aided Design, 318-325
+
+37. Programming Languages
+Citations:13
+Authors: S Lerner
+Publication: 
+
+38. Towards verification of hybrid systems in a foundational proof assistant
+Citations:12
+Authors: D Ricketts, G Malecha, MM Alvarez, V Gowda, S Lerner
+Publication: 2015 ACM/IEEE International Conference on Formal Methods and Models for …
+
+39. Polymorphic blocks: Formalism-inspired UI for structured connectors
+Citations:12
+Authors: S Lerner, SR Foster, WG Griswold
+Publication: Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing …
+
+40. Dead store elimination (still) considered harmful
+Citations:10
+Authors: Z Yang, B Johannesmeyer, AT Olesen, S Lerner, K Levchenko
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 1025-1040
+
+41. Formal verification of stability properties of cyber-physical systems
+Citations:9
+Authors: M Chan, D Ricketts, S Lerner, G Malecha
+Publication: Proc. CoqPL
+
+42. GIS-based statistical landslide susceptibility zonation: a case study in Ganeshganga watershed, the Himalayas
+Citations:9
+Authors: S Kundu, DC Sharma, AK Saha, CC Pant, J Mathew
+Publication: 12th ESRI India user conference, 7-8
+
+43. Towards foundational verification of cyber-physical systems
+Citations:7
+Authors: G Malecha, D Ricketts, MM Alvarez, S Lerner
+Publication: 2016 Science of Security for Cyber-Physical Systems Workshop (SOSCYPS), 1-5
+
+44. Rewriting-based dynamic information flow for JavaScript
+Citations:7
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: 17th ACM Conference on Computer and Communications Security
+
+45. Cobalt: A language for writing provably-sound compiler optimizations
+Citations:7
+Authors: S Lerner, T Millstein, C Chambers
+Publication: Electronic Notes in Theoretical Computer Science 132 (1), 5-17
+
+46. C-to-verilog translation validation
+Citations:6
+Authors: A Leung, D Bounov, S Lerner
+Publication: 2015 ACM/IEEE International Conference on Formal Methods and Models for …
+
+47. Latent variable models for predicting file dependencies in large-scale software development
+Citations:6
+Authors: D Hu, L Maaten, Y Cho, S Lerner, LK Saul
+Publication: Advances in Neural Information Processing Systems, 865-873
+
+48. Finding root causes of floating point error
+Citations:5
+Authors: A Sanchez-Stern, P Panchekha, S Lerner, Z Tatlock
+Publication: ACM SIGPLAN Notices 53 (4), 256-269
+
+49. High-Level Verification
+Citations:5
+Authors: S Kundu, S Lerner, R Gupta
+Publication: IPSJ Transactions on System LSI Design Methodology 2, 131-144
+
+50. Automatically proving the correctness of program analyses and transformations
+Citations:5
+Authors: S Lerner, C Chambers
+Publication: University of Washington
+
+51. Finding root causes of floating point error with herbgrind
+Citations:4
+Authors: A Sanchez-Stern, P Panchekha, S Lerner, Z Tatlock
+Publication: arXiv preprint arXiv:1705.10416
+
+52. Modular deductive verification of sampled-data systems
+Citations:4
+Authors: D Ricketts, G Malecha, S Lerner
+Publication: Proceedings of the 13th International Conference on Embedded Software, 17
+
+53. Printing floating-point numbers: a faster, always correct method
+Citations:4
+Authors: M Andrysco, R Jhala, S Lerner
+Publication: ACM Sigplan Notices 51 (1), 555-567
+
+54. Addressing common crosscutting problems with arcum
+Citations:4
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: Proceedings of the 8th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+55. Translating between PEGs and CFGs
+Citations:4
+Authors: R Tate, M Stepp, ZL Tatlock, S Lerner
+Publication: Department of Computer Science and Engineering, University of California …
+
+56. When refactoring acts like modularity: Keeping options open with persistent condition checking
+Citations:3
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: Proceedings of the 2nd Workshop on Refactoring Tools, 3
+
+57. Safety verification using barrier certificates with application to double integrator with input saturation and zero-order hold
+Citations:2
+Authors: A Ghaffari, I Abel, D Ricketts, S Lerner, M Krstić
+Publication: 2018 Annual American Control Conference (ACC), 4664-4669
+
+58. Inferring loop invariants through gamification
+Citations:2
+Authors: D Bounov, A DeRossi, M Menarini, WG Griswold, S Lerner
+Publication: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …
+
+59. Parsimony: An IDE for example-guided synthesis of lexers and parsers
+Citations:2
+Authors: A Leung, S Lerner
+Publication: Proceedings of the 32nd IEEE/ACM International Conference on Automated …
+
+60. User-Guided Synthesis of Interactive Diagrams
+Citations:2
+Authors: J Sarracino, O Barrios-Arciga, J Zhu, N Marcus, S Lerner, B Wiedermann
+Publication: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …
+
+61. Seamless Integration of Coding and Gameplay: Writing Code Without Knowing it.
+Citations:2
+Authors: SR Foster, S Lerner, WG Griswold
+Publication: FDG
+
+62. A framework for the checking and refactoring of crosscutting concepts
+Citations:2
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 21 (3), 15
+
+63. Detecting History Sniffing via Information Flow
+Citations:1
+Authors: D Jang, R Jhala, S Lerner, H Shacham
+Publication: UCSD
+
+64. Automated refinement checking of CSP programs
+Citations:1
+Authors: S Kundu, S Lerner, RK Gupta
+Publication: [Department of Computer Science and Engineering], University of California …
+
+65. Automatic inference of dataflow analyses
+Citations:1
+Authors: E Rice, S Lerner, C Chambers
+Publication: Technical Report UW-CSE-2006-06-04, University of Washington
+
+66. Type Inference with Run-time Logs (Work in Progress)
+Citations:1
+Authors: R Chugh, R Jhala, S Lerner
+Publication: University of California, San Diego. Available at: https://pdfs …
+
+67. Generating Correctness Proofs with Neural Networks
+Citations:
+Authors: A Sanchez-Stern, Y Alhessi, L Saul, S Lerner
+Publication: arXiv preprint arXiv:1907.07794
+
+68. Targeted Synthesis for Programming with Data Invariants
+Citations:
+Authors: J Sarracino, S Barke, N Polikarpova, S Lerner
+Publication: arXiv preprint arXiv:1904.13049
+
+69. Securing C++ Virtual Calls from Memory Corruption Attacks
+Citations:
+Authors: D Jang, Z Tatlock, S Lerner
+Publication: 
+
+70. Daniel Ricketts
+Citations:
+Authors: D Ricketts, G Malecha, MM Alvarez, V Gowda, S Lerner, V Robert, D Jang, ...
+Publication: Conference on, pages 248 (257)
+
+71. Using metaphors from natural discussion to improve the design of arcum
+Citations:
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: Proceedings of the 3rd ACM SIGPLAN workshop on Evaluation and usability of …
+
+72. Equality Saturation: A New Approach to Optimization
+Citations:
+Authors: S Lerner, Z Tatlock, M Stepp, R Tate
+Publication: Logical Methods in Computer Science 7
+
+73. Verification Using Automated Theorem Provers
+Citations:
+Authors: S Kundu, S Lerner, RK Gupta
+Publication: High-Level Verification, 37-50
+
+74. Execution-Based Model Checking for High-Level Designs
+Citations:
+Authors: S Kundu, S Lerner, RK Gupta
+Publication: High-Level Verification, 51-66
+
+75. A flexible semantic framework for effects
+Citations:
+Authors: R Tate, D Leijen, S Lerner
+Publication: 
+
+76. The Techniques Programmers use to Cope with Crosscutting using Arcum
+Citations:
+Authors: M Shonle, WG Griswold, S Lerner
+Publication: Department of Computer Science and Engineering, University of California …
+
+77. Programming Models for Developing Reliable Systems (TOPMoDRS)
+Citations:
+Authors: C Tapus, J Hickey, R Jhala, J Kiniry, S Lerner, N Medvidovic, ...
+Publication: 
+
+78. The Bershad-Weld Index: Predicting the Economy based on CSE Faculty Leaves
+Citations:
+Authors: S Lerner, S Saroiu
+Publication: 
+
+79. bstract Interpretation
+Citations:
+Authors: S Lerner
+Publication: 
+
+80. Ыд в Эд и flгл в анз з Эз в аглЙСвз вз и к Шг ви ж в анз з
+Citations:
+Authors: S Adams, T Ball, M Das, S Lerner, SK Rajamani, M Seigle, W Weimer
+Publication: 
+
+81. RLBox: Robust Library Sandboxing
+Citations:
+Authors: S Narayan, C Disselkoen, S Lerner, H Shacham, D Stefan
+Publication: 
+
+82. WIR 2011
+Citations:
+Authors: F Bouchez, S Hack, E Visser, M Bravenboer, A Cohen, F de Ferrière, ...
+Publication: 
+
+83. Paul Anderson, Grammatech, USA Giulio Antoniol, Research Centre on Software Technology, Università degli Studi del Sannio, Italy Ira Baxter, Semantic Designs, USA Dave Binkley …
+Citations:
+Authors: M Bruntink, L Burd, J Cordy, S Danicic, T Dean, A De Lucia, M Di Penta, ...
+Publication: 
+
+84. Michael Van De Vanter, Sun Microsystems, USA Andrew Walenstein, University of Louisiana at Lafeyette, USA Ji Wang, National University of Defense Technology, China Jim …
+Citations:
+Authors: P Anderson, G Antoniol, F Balmas, I Baxter, D Binkley, M Bruntink, L Burd, ...
+Publication: 
+

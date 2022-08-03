@@ -1,0 +1,863 @@
+https://scholar.google.com/citations?hl=en&user=qjzNW6EAAAAJ
+Total Citations = 2408
+
+1. Fast Monte Carlo simulation methods for biological reaction-diffusion systems in solution and on surfaces
+Citations:258
+Authors: RA Kerr, TM Bartol, B Kaminsky, M Dittrich, JCJ Chang, SB Baden, ...
+Publication: SIAM journal on scientific computing 30 (6), 3126-3149
+
+2. Mint: realizing CUDA performance in 3D stencil methods with annotated C
+Citations:167
+Authors: D Unat, X Cai, SB Baden
+Publication: Proceedings of the international conference on Supercomputing, 214-224
+
+3. Dynamic partitioning of non-uniform structured workloads with spacefilling curves
+Citations:164
+Authors: JR Pilkington, SB Baden
+Publication: IEEE Transactions on parallel and Distributed Systems 7 (3), 288-300
+
+4. Accelerating viola-jones face detection to fpga-level using gpus
+Citations:121
+Authors: D Hefenbrock, J Oberg, NTN Thanh, R Kastner, SB Baden
+Publication: 2010 18th IEEE annual international symposium on field-programmable custom …
+
+5. Efficient run-time support for irregular block-structured applications
+Citations:94
+Authors: SJ Fink, SB Baden, SR Kohn
+Publication: Journal of Parallel and Distributed Computing 50 (1-2), 61-82
+
+6. Partitioning with spacefilling curves
+Citations:85
+Authors: JR Pilkington, SB Baden
+Publication: Department of Computer Science and Engineering, University of California …
+
+7. Programming abstractions for dynamically partitioning and coordinating localized scientific calculations running on multiprocessors
+Citations:71
+Authors: SB Baden
+Publication: SIAM Journal on Scientific and Statistical Computing 12 (1), 145-157
+
+8. Flexible communication mechanisms for dynamic structured applications
+Citations:65
+Authors: SJ Fink, SB Baden, SR Kohn
+Publication: International Workshop on Parallel Algorithms for Irregularly Structured …
+
+9. A robust parallel programming model for dynamic non-uniform scientific computations
+Citations:63
+Authors: SR Kohn, SB Baden
+Publication: Proceedings of IEEE Scalable High Performance Computing Conference, 509-517
+
+10. Analysis of the numerical effects of parallelism on a parallel genetic algorithm
+Citations:61
+Authors: WE Hart, S Baden, RK Belew, S Kohn
+Publication: Proceedings of International Conference on Parallel Processing, 606-612
+
+11. Redefining the Role of the CPU in the Era of CPU-GPU Integration
+Citations:55
+Authors: M Arora, S Nath, S Mazumdar, SB Baden, DM Tullsen
+Publication: IEEE Micro 32 (6), 4-16
+
+12. A programming methodology for dual-tier multicomputers
+Citations:52
+Authors: SB Baden, SJ Fink
+Publication: IEEE Transactions on Software Engineering 26 (3), 212-226
+
+13. Communication overlap in multi-tier parallel algorithms
+Citations:49
+Authors: SB Baden, SJ Fink
+Publication: Proceedings of the 1998 ACM/IEEE conference on Supercomputing, 1-20
+
+14. Irregular coarse-grain data parallelism under LPARX
+Citations:45
+Authors: SR Kohn, SB Baden
+Publication: Scientific Programming 5 (3), 185-201
+
+15. Modeling and predicting performance of high performance computing applications on hardware accelerators
+Citations:42
+Authors: MR Meswani, L Carrington, D Unat, A Snavely, S Baden, S Poole
+Publication: The International Journal of High Performance Computing Applications 27 (2 …
+
+16. Parallel implementation of γ‐point pseudopotential plane‐wave DFT with exact exchange
+Citations:37
+Authors: EJ Bylaska, K Tsemekhman, SB Baden, JH Weare, H Jonsson
+Publication: Journal of computational chemistry 32 (1), 54-69
+
+17. Structured adaptive mesh refinement (SAMR) grid methods
+Citations:37
+Authors: NP Chrisochoides
+Publication: Springer Science & Business Media
+
+18. A parallel software infrastructure for structured adaptive mesh methods
+Citations:36
+Authors: SR Kohn, SB Baden
+Publication: Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …
+
+19. Bamboo--Translating MPI applications to a latency-tolerant, data-driven form
+Citations:34
+Authors: T Nguyen, P Cicotti, E Bylaska, D Quinlan, SB Baden
+Publication: SC'12: Proceedings of the International Conference on High Performance …
+
+20. Lattice Parallelism: A Parallel Programming Model for Non-Uniform, Structured Scientific Computations
+Citations:34
+Authors: SB Baden, SR Kohn
+Publication: Technical report of University of California, San Diego, Vol. CS92-261
+
+21. Run-time partitioning of scientific continuum calculations running on multiprocessors
+Citations:34
+Authors: SB Baden
+Publication: 
+
+22. Runtime support for multi-tier programming of block-structured applications on SMP clusters
+Citations:33
+Authors: SJ Fink, SB Baden
+Publication: International Conference on Computing in Object-Oriented Parallel …
+
+23. A local corrections algorithm for solving Poisson’s equation in three dimensions
+Citations:31
+Authors: P McCorquodale, P Colella, G Balls, S Baden
+Publication: Communications in Applied Mathematics and Computational Science 2 (1), 57-81
+
+24. An efficient implementation of a local binning algorithm for digital elevation model generation of LiDAR/ALSM dataset
+Citations:28
+Authors: H Kim, J Arrowsmith, CJ Crosby, E Jaeger-Frank, V Nandigam, A Memon, ...
+Publication: AGU Fall Meeting Abstracts
+
+25. Source-to-source optimization of CUDA C for GPU accelerated cardiac cell modeling
+Citations:26
+Authors: FV Lionetti, AD McCulloch, SB Baden
+Publication: European Conference on Parallel Processing, 38-49
+
+26. Themis: Component dependence metadata in adaptive parallel applications
+Citations:24
+Authors: PHJ Kelly, O Beckmann, T Field, SB Baden
+Publication: Parallel Processing Letters 11 (04), 455-470
+
+27. Scalable parallel numerical methods and software tools for material design
+Citations:24
+Authors: EJBSR Kohn, SB Baden, A Edelman, RKMEG OngH, JH Weare
+Publication: Proceedings of the Seventh SIAM Conference on Parallel Processing for …
+
+28. Programming with LPARX
+Citations:22
+Authors: SB Baden, SR Kohn, SJ Fink
+Publication: Department of Computer Science and Engineering, University of California …
+
+29. Parallel software abstractions for structured adaptive mesh methods
+Citations:21
+Authors: SR Kohn, SB Baden
+Publication: Journal of Parallel and Distributed Computing 61 (6), 713-736
+
+30. Multiple data parallelism with HPF and KeLP
+Citations:19
+Authors: J Merlin, S Baden, S Fink, B Chapman
+Publication: Future Generation Computer Systems 15 (3), 393-405
+
+31. Portable parallel programming of numerical problems under the LPAR system
+Citations:19
+Authors: SB Baden, SR Kohn
+Publication: Journal of Parallel and Distributed Computing 27 (1), 38-55
+
+32. Overlapping communication and computation with OpenMP and MPI
+Citations:18
+Authors: TH Kaiser, SB Baden
+Publication: Scientific Programming 9 (2, 3), 73-81
+
+33. Very large vortex calculations in two dimensions
+Citations:18
+Authors: SB Baden
+Publication: Vortex Methods, 96-120
+
+34. Abstract kelp
+Citations:17
+Authors: SB Baden, P Colella, D Shalit, B van Straalen
+Publication: 
+
+35. The Data Mover: A machine-independent abstraction for managing customized data motion
+Citations:17
+Authors: SB Baden, SJ Fink
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+36. Dynamic load balancing of a vortex calculation running on multiprocessors
+Citations:17
+Authors: SB Baden
+Publication: 
+
+37. Effective multi-GPU communication using multiple CUDA streams and threads
+Citations:16
+Authors: M Sourouri, T Gillberg, SB Baden, X Cai
+Publication: 2014 20th IEEE International Conference on Parallel and Distributed Systems …
+
+38. Multiple data parallelism with HPF and KeLP
+Citations:16
+Authors: JH Merlin, SB Baden, SJ Fink, BM Chapman
+Publication: International Conference on High-Performance Computing and Networking, 828-839
+
+39. Latency hiding and performance tuning with graph-based execution
+Citations:15
+Authors: P Cicotti, SB Baden
+Publication: 2011 First Workshop on Data-Flow Execution Models for Extreme Scale …
+
+40. An adaptive sub-sampling method for in-memory compression of scientific data
+Citations:15
+Authors: D Unat, T Hromadka III, SB Baden
+Publication: 2009 Data Compression Conference, 262-271
+
+41. Hard scaling challenges for ab initio molecular dynamics capabilities in NWChem: Using 100,000 CPUs per second
+Citations:15
+Authors: EJ Bylaska, K Glass, D Baxter, SB Baden, JH Weare
+Publication: Journal of Physics: Conference Series 180 (1), 012028
+
+42. Software abstractions and computational issues in parallel structured adaptive mesh methods for electronic structure calculations
+Citations:15
+Authors: S Kohn, J Weare, ME Ong, S Baden
+Publication: Structured Adaptive Mesh Refinement (SAMR) Grid Methods, 75-95
+
+43. A comparison of load balancing strategies for particle methods running on mimd multiprocessors
+Citations:15
+Authors: SB Baden, SR Kohn
+Publication: Proceedings of the Fifth SIAM Conference on Parallel Processing for …
+
+44. A fast vortex method for computing 2D viscous flow
+Citations:15
+Authors: SB Baden, EG Puckett
+Publication: Journal of computational physics 91 (2), 278-297
+
+45. Modeling and predicting application performance on hardware accelerators
+Citations:14
+Authors: MR Meswani, L Carrington, D Unat, A Snavely, S Baden, S Poole
+Publication: 2011 IEEE International Symposium on Workload Characterization (IISWC), 73-73
+
+46. A scalable parallel Poisson solver in three dimensions with infinite-domain boundary conditions
+Citations:14
+Authors: P McCorquodale, P Colella, GT Balls, SB Baden
+Publication: 2005 International Conference on Parallel Processing Workshops (ICPPW'05 …
+
+47. The UPC++ PGAS library for exascale computing
+Citations:13
+Authors: J Bachan, D Bonachea, PH Hargrove, S Hofmeyr, M Jacquelin, A Kamil, ...
+Publication: Proceedings of the Second Annual PGAS Applications Workshop, 7
+
+48. Accelerating a 3d finite-difference earthquake simulation with a c-to-cuda translator
+Citations:13
+Authors: D Unat, J Zhou, Y Cui, SB Baden, X Cai
+Publication: Computing in Science & Engineering 14 (3), 48-59
+
+49. A large scale monte carlo simulator for cellular microphysiology
+Citations:13
+Authors: GT Balls, SB Baden, T Kispersky, TM Bartol, TJ Sejnowski
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+50. Performance tradeoffs in multi-tier formulation of a finite difference method
+Citations:13
+Authors: SB Baden, D Shalit
+Publication: International Conference on Computational Science, 785-794
+
+51. Software infrastructure for non-uniform scientific computations on parallel processors
+Citations:13
+Authors: SB Baden
+Publication: ACM SIGAPP Applied Computing Review 4 (1), 7-10
+
+52. Programming tools and environments
+Citations:12
+Authors: J Saltz, A Sussman, S Graham, J Demmel, S Baden, J Dongarra
+Publication: Communications of the ACM 41 (11), 64-73
+
+53. An implementation of the LPAR parallel programming model for scientific computations
+Citations:12
+Authors: SR Kohn, SB Baden
+Publication: Department of Computer Science and Engineering, University of California …
+
+54. A software-based dynamic-warp scheduling approach for load-balancing the Viola–Jones face detection algorithm on GPUs
+Citations:11
+Authors: T Nguyen, D Hefenbrock, J Oberg, R Kastner, S Baden
+Publication: Journal of Parallel and Distributed Computing 73 (5), 677-685
+
+55. Asynchronous programming with Tarragon
+Citations:11
+Authors: P Cicotti, S Baden
+Publication: Proceedings of the 15th IEEE International Symposium on High Performance …
+
+56. Modernization of legacy application software
+Citations:10
+Authors: J Howe, SB Baden, T Grimmett, K Nomura
+Publication: International Workshop on Applied Parallel Computing, 255-262
+
+57. Run-time data distribution for block-structured applications on distributed memory computers
+Citations:10
+Authors: SJ Fink, SB Baden
+Publication: Department of Computer Science and Engineering, University of California …
+
+58. CPU+ GPU programming of stencil computations for resource-efficient use of GPU clusters
+Citations:9
+Authors: M Sourouri, J Langguth, F Spiga, SB Baden, X Cai
+Publication: 2015 IEEE 18th International Conference on Computational Science and …
+
+59. Scalable heterogeneous CPU-GPU computations for unstructured tetrahedral meshes
+Citations:9
+Authors: J Langguth, M Sourouri, GT Lines, SB Baden, X Cai
+Publication: IEEE Micro 35 (4), 6-15
+
+60. A method of adaptive coarsening for compressing scientific datasets
+Citations:9
+Authors: TM Shafaat, SB Baden
+Publication: International Workshop on Applied Parallel Computing, 774-780
+
+61. The Parallelization of an Adaptive Multigrid Eigenvalue Solver with LPARX.
+Citations:9
+Authors: SR Kohn, SB Baden
+Publication: PPSC, 552-557
+
+62. Programming abstractions for run-time partitioning of scientific continuum calculations running on multiprocessors
+Citations:9
+Authors: SB Baden
+Publication: 
+
+63. Parallel adaptive mesh refinement for electronic structure calculations
+Citations:8
+Authors: S Kohn, J Weare, E Ong, S Baden
+Publication: Lawrence Livermore National Lab., CA (United States)
+
+64. Panda: A Compiler Framework for Concurrent CPU $$$$ GPU Execution of 3D Stencil Computations on GPU-accelerated Supercomputers
+Citations:7
+Authors: M Sourouri, SB Baden, X Cai
+Publication: International Journal of Parallel Programming 45 (3), 711-729
+
+65. A new approach to interactive viewpoint selection for volume data sets
+Citations:7
+Authors: HS Kim, D Unat, SB Baden, JP Schulze
+Publication: Information Visualization 12 (3-4), 240-256
+
+66. Non-Uniform Partitioning of Finite Difference Methods Running on SMP Clusters
+Citations:6
+Authors: SJ Fink, SB Baden
+Publication: 
+
+67. ‘The Reference Guide to GenMP--The Generic Multiprocessor
+Citations:6
+Authors: SB Baden, S Kohn
+Publication: Technical Report, University of California, San Diego, Dept. of Computer …
+
+68. Berkeley FP User’s Manual, Rev. 4.1
+Citations:6
+Authors: S Baden
+Publication: argument 3, 4
+
+69. Preliminary scaling results on multiple hybrid nodes of Knights Corner and Sandy Bridge processors
+Citations:5
+Authors: T Nguyen, SB Baden
+Publication: Third International Workshop on Domain-Specific Languages and High-Level …
+
+70. The saaz framework for turbulent flow queries
+Citations:5
+Authors: A King, E Arobone, SB Baden, S Sarkar
+Publication: 2011 IEEE Seventh International Conference on eScience, 325-331
+
+71. Hiding communication latency with non-spmd, graph-based execution
+Citations:5
+Authors: J Sorensen, SB Baden
+Publication: International Conference on Computational Science, 155-164
+
+72. Advancing supercomputer performance through interconnection topology synthesis
+Citations:5
+Authors: Y Zhu, M Taylor, SB Baden, CK Cheng
+Publication: Proceedings of the 2008 IEEE/ACM International Conference on Computer-Aided …
+
+73. Scallop: A highly scalable parallel poisson solver in three dimensions
+Citations:5
+Authors: GT Balls, SB Baden, P Colella
+Publication: Proceedings of the 2003 ACM/IEEE conference on Supercomputing, 23
+
+74. Parallel cluster identification for multidimensional lattices
+Citations:5
+Authors: SJ Fink, C Huston, SB Baden, K Jansen
+Publication: IEEE Transactions on Parallel and Distributed Systems 8 (11), 1089-1097
+
+75. Programming language requirements for the next millennium
+Citations:5
+Authors: WG Griswold, R Wolski, SB Baden, SJ Fink, SR Kohn
+Publication: ACM Comput. Surv. 28 (4es), 194
+
+76. A fast vortex code for computing 2-D flow in a box
+Citations:5
+Authors: S Baden, E PUCKETT
+Publication: 1st National Fluid Dynamics Conference, 3605
+
+77. Approaches to architecture-aware parallel scientific computation
+Citations:4
+Authors: JD Teresco, JE Flaherty, SB Baden, J Faik, S Lacour, M Parashar, ...
+Publication: Parallel Processing for Scientific Computing, 33-58
+
+78. A Programming Model for Automated Decomposition on Heterogeneous Clusters of Multiprocessors
+Citations:4
+Authors: SP Peisert, SB Baden
+Publication: UCSD CSE Technical Report
+
+79. KeLP User Guide Version 1.3
+Citations:4
+Authors: SB Baden, RB Frost, D Shalit
+Publication: CSE Department, University of California, San Diego
+
+80. High Performance Storage Reclamation in an Object-Based Memory System
+Citations:4
+Authors: SB Baden
+Publication: University of California at Berkeley
+
+81. Doomsday: Predicting which node will fail when on supercomputers
+Citations:3
+Authors: A Das, F Mueller, P Hargrove, E Roman, S Baden
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+82. Toucan—A Translator for Communication Tolerant MPI Applications
+Citations:3
+Authors: SM Martin, MJ Berger, SB Baden
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+83. Lu factorization: Towards hiding communication overheads with a lookahead-free algorithm
+Citations:3
+Authors: T Nguyen, SB Baden
+Publication: 2015 IEEE International Conference on Cluster Computing, 394-397
+
+84. Interactive data-centric viewpoint selection
+Citations:3
+Authors: HS Kim, D Unat, SB Baden, JP Schulze
+Publication: Visualization and Data Analysis 2012 8294, 829405
+
+85. Auto-optimization of a feature selection algorithm
+Citations:3
+Authors: D Unat, HS Kim, JP Schulze, SB Baden
+Publication: Proceedings of the 4th Workshop on Emerging Applications and Many-core …
+
+86. Optimizing the Aliev-Panfilov model of cardiac excitation on heterogeneous systems
+Citations:3
+Authors: D Unat, X Cai, S Baden
+Publication: University of Iceland, Reykjavik
+
+87. Cluster identification on a distributed memory multiprocessor
+Citations:3
+Authors: SJ Fink, SB Baden, K Jansen
+Publication: Proceedings of IEEE Scalable High Performance Computing Conference, 239-246
+
+88. Lattice parallelism: A parallel programming model for manipulating non-uniform structured scientific data structures
+Citations:3
+Authors: SB Baden, SR Kohn
+Publication: ACM SIGPLAN Notices 28 (1), 24-27
+
+89. ‘Blobs: Visualization of Particle Methods on Multiprocessors
+Citations:3
+Authors: SR Kohn, SB Baden
+Publication: Univ. of Calif. at San Diego, Technical Report No. CS92-241
+
+90. UPC++: A High-Performance Communication Framework for Asynchronous Computation
+Citations:2
+Authors: J Bachan, SB Baden, S Hofmeyr, M Jacquelin, A Kamil, D Bonachea, ...
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+91. UPC++ Specification v1. 0, Draft 6
+Citations:2
+Authors: J Bachan, S Baden, D Bonachea, P Hargrove, S Hofmeyr, K Ibrahim, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+92. Automatic translation of MPI source into a latency-tolerant, data-driven form
+Citations:2
+Authors: T Nguyen, P Cicotti, E Bylaska, D Quinlan, S Baden
+Publication: Journal of Parallel and Distributed Computing 106, 1-13
+
+93. Performance modeling tools for parallel sparse linear algebra computations
+Citations:2
+Authors: P Cicotti, XS Li, SB Baden
+Publication: Parallel Computing
+
+94. Building an XQuery interpreter in a compiler construction course
+Citations:2
+Authors: SM More, T Pevzner, A Deutsch, S Baden, P Kube
+Publication: ACM SIGCSE Bulletin 37 (1), 2-6
+
+95. The UCSD active web
+Citations:2
+Authors: J Pasquale, R Belew, J Ferrante, R Impagliazzo, V Rangan, S Baden, ...
+Publication: 
+
+96. Introduction to Parallel Computing
+Citations:2
+Authors: D James
+Publication: Texas Advanced Computer Center,(September, 2013) Retrieved from: http://www …
+
+97. UPC++ Programmer’s Guide, v1. 0-2018.9. 0
+Citations:1
+Authors: J Bachan, S Baden, D Bonachea, P Hargrove, S Hofmeyr, M Jacquelin, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+98. The UPC++ PGAS library for exascale computing. Extended Abstract
+Citations:1
+Authors: J Bachan, D Bonachea, PH Hargrove, S Hofmeyr, M Jacquelin, A Kamil, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+99. LUsim: A Framework for Simulation-Based Performance Modeling and Prediction of Parallel Sparse LU Factorization
+Citations:1
+Authors: P Cicotti
+Publication: 
+
+100. Automated tracking of 3-D overturn patches in direct numerical simulation of stratified homogeneous turbulence
+Citations:1
+Authors: P Diamessis, W Kerney, SB Baden, K Nomura
+Publication: International Workshop on Applied Parallel Computing, 557-566
+
+101. Processing Sparse Vectors During Compile Time in C
+Citations:1
+Authors: J Jarvi
+Publication: Lecture Notes in Computer Science 1343, 41-48
+
+102. A Preliminary Evaluation of HPF.
+Citations:1
+Authors: SB Baden, RS Schreiber, KS Gatlin, SJ Fink
+Publication: PPSC
+
+103. Performance Analysis of Parallel Strategies for Localized N-Body Solvers.
+Citations:1
+Authors: SM Figueira, SB Baden
+Publication: PPSC, 349-354
+
+104. UPC++ Specification v1. 0, Draft 10
+Citations:
+Authors: J Bachan, S Baden, D Bonachea, P Hargrove, S Hofmeyr, M Jacquelin, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+105. UPC++ Programmer’s Guide, v1. 0-2019.3. 0
+Citations:
+Authors: J Bachan, S Baden, D Bonachea, P Hargrove, S Hofmeyr, M Jacquelin, ...
+Publication: 
+
+106. UPC++ and GASNet-EX: PGAS Support for Exascale Applications and Runtimes (Extended Poster Abstract)
+Citations:
+Authors: SB Baden, PH Hargrove, H Ahmed, J Bachan, D Bonachea, S Hofmeyr, ...
+Publication: 
+
+107. Domain Specific Language Support for Exascale. Final Project Report
+Citations:
+Authors: S Baden
+Publication: Univ. of California, San Diego, CA (United States)
+
+108. Low-Level Jets, Coherent Structures and Turbulence in a Stably Stratified Atmospheric Boundary Layer
+Citations:
+Authors: I Gohari, M Jalali B, S Baden, S Sarkar
+Publication: APS Meeting Abstracts
+
+109. Special issue of selected articles from visualization and data analysis 2012
+Citations:
+Authors: DL Kao, PC Wong
+Publication: Information Visualization 12 (3-4), 219-220
+
+110. Automatic Transformation of MPI Programs to Asynchronous, Graph-Driven Form
+Citations:
+Authors: SB Baden, JH Weare, EJ Bylaska
+Publication: University of California, San Diego, La Jolla, CA
+
+111. Improving the accuracy and time scales of ab initio molecular dynamics simulations for actinide and geochemical systems: Exact exchange, DMFT, free energy, and parallel in time …
+Citations:
+Authors: EJ Bylaska, JQ Weare, SB Baden, JH Weare
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245
+
+112. CSE 160, Introduction to Parallel Computation
+Citations:
+Authors: PS Pacheco, SB Baden
+Publication: University Readers
+
+113. SCOTT KOHNf, JOHN WEAREſ, M. ELIZABETH ONGf, AND
+Citations:
+Authors: S BADEN
+Publication: Structured Adaptive Mesh Refinement (SAMR) Grid Methods 117, 75
+
+114. Reducing Library Overheads through Source-to-Source Translation
+Citations:
+Authors: A King, S Baden
+Publication: Procedia Computer Science 9, 1930-1939
+
+115. Improving the accuracy and time scales of ab initio molecular dynamics simulations: Exact exchange, MP2, and parallel in time algorithms
+Citations:
+Authors: EJ Bylaska, JQ Weare, SB Baden, JH Weare
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 242
+
+116. Detailed Numerical Analyses of the Aliev-Panfilov Model on GPGPU
+Citations:
+Authors: X Cai, D Unat, S Baden
+Publication: Para
+
+117. Dynamics of a Stratified Layer with Horizontal Shear
+Citations:
+Authors: E Arobone, S Sarkar, A King, S Baden
+Publication: APS Division of Fluid Dynamics Meeting Abstracts
+
+118. LUsim: A Framework for Simulation-Based Performance Modelingand Prediction of Parallel Sparse LU Factorization
+Citations:
+Authors: XS Li, P Cicotti, XS Li, SB Baden
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+119. Toward Petascale Simulation of Cellular Microphysiology
+Citations:
+Authors: SB Baden, TJ Sejnowski, TM Bartol, J Stiles
+Publication: 2007 IEEE 7th International Symposium on BioInformatics and BioEngineering …
+
+120. A parallel, object-oriented implementation of tensor multiplication
+Citations:
+Authors: B Rasmussen, S Baden
+Publication: 
+
+121. Short Paper: Asynchronous programming with Tarragon
+Citations:
+Authors: SB Baden, P Cicotti
+Publication: 2006 15th IEEE International Conference on High Performance Distributed …
+
+122. Infinite-Domain Boundary CondItIons
+Citations:
+Authors: P McCorquodale, GT Balls, SB Baden
+Publication: 
+
+123. Trends in large scale computing: an introduction
+Citations:
+Authors: SB Baden
+Publication: Proceedings of the 7th international conference on Applied Parallel …
+
+124. Masking Latency with Data Driven Program Variants
+Citations:
+Authors: SB Baden
+Publication: Jack Dongarra University of Tennessee and Oak Ridge National Laboratory and …
+
+125. Simulation-driven dynamic clamping of neurons
+Citations:
+Authors: GT Balls, SB Baden, TM Bartol, TJ Sejnowskib
+Publication: 
+
+126. A Parallel Simulation of Traffic
+Citations:
+Authors: CB Lee, S Baden
+Publication: 
+
+127. Feature Identification and Tracking of 3-D Overturn Patches in Stably Stratified Homogeneous Turbulence
+Citations:
+Authors: PJ Diamessis, KK Nomura, WR Kerney, SB Baden
+Publication: APS Division of Fluid Dynamics Meeting Abstracts
+
+128. Parallel Programming: Models, Methods and Programming Languages
+Citations:
+Authors: SB Baden, PHJ Kelly, S Gorlatch, C Lin
+Publication: European Conference on Parallel Processing, 491-493
+
+129. Author–Title Index for Volume 61
+Citations:
+Authors: B Abali, M Banikazemi, CB Stunkel, J Herring, K Dhabaleswar, CA Panda, ...
+Publication: Journal of Parallel and Distributed Computing 61, 1844-1849
+
+130. Performance Comparison of MPI vs. Titanium
+Citations:
+Authors: R Bharath, S Lau, S Baden
+Publication: 
+
+131. Programming languages, models, and methods
+Citations:
+Authors: PHJ Kelly, S Gorlatch, S Baden, V Getov
+Publication: European Conference on Parallel Processing, 617-619
+
+132. Programming Models for Shared Memory Clusters
+Citations:
+Authors: J May, B de Supinski, B Pudliner, S Taylor, S Baden
+Publication: Lawrence Livermore National Lab., CA (US)
+
+133. Scalable Visualization Toolkits for Brains to Bays
+Citations:
+Authors: AJ Olson, BA Pailthorpe, AW Toga, CI Wunsch, JD Genetti, DR Nadeau, ...
+Publication: 
+
+134. AU THOR IN DEX
+Citations:
+Authors: VS Adve, A Agrawal, G Alonso, S Antoy, SB Baden, R Bagrodia, VR Basili, ...
+Publication: International Conference on Software Reuse]; T-SE May 423, 424
+
+135. SPECIAL ISSUE ON ARCHITECTURE-INDEPENDENT LANGUAGES AND SOFTWARE TOOLS FOR PARALLEL PROCESSING-A Programming Methodology for Dual-Tier Multicomputers
+Citations:
+Authors: SB Baden, SJ Fink
+Publication: IEEE Transactions on Software Engineering 26 (3), 212-226
+
+136. STRUCTURED ADAPTIVE MESH REFINEMENT (SAMR) GRID METHODS LIST OF PARTICIPANTS
+Citations:
+Authors: AEM Adair Aewiar, M Apte, S Baden
+Publication: Structured Adaptive Mesh Refinement (SAMR) Grid Methods 117, 171
+
+137. Akarsu, E., see Haupt, T. 735 Al Geist, G., see Beck, M. 571 Almond, J. and D. Snelling, UNICORE: uniform access to supercomputing as an element of electronic commerce 539 …
+Citations:
+Authors: S Baden, J Merlin
+Publication: Future Generation Computer Systems 15, 817-822
+
+138. This is a pre-release draft. Please send any comments to Scott B. Baden: baden@ cs. ucsd. edu.
+Citations:
+Authors: SB Baden, SJ Fink, M Orgiyan
+Publication: 
+
+139. Attaway, Steve, 104
+Citations:
+Authors: SB Baden, R Biswas, A Brüngger, Y Chung, J Clausen, A Ferreira, ...
+Publication: Journal of Parallel and Distributed Computing 50, 170
+
+140. Stephen J. Fink
+Citations:
+Authors: SB Baden
+Publication: 
+
+141. Parallel structured adaptive real-space methods for the solution of the LDA equations for meterials applications
+Citations:
+Authors: SR Kohn, SB Baden, MEG Ong, JH Weare, R Kawai
+Publication: APS March Meeting Abstracts
+
+142. evi rs List
+Citations:
+Authors: B Abali, AE Abbadi, T Abdelrahman, M Aboelaze, AA Abonamah, ...
+Publication: IEEE Transactions on Computers 45 (1)
+
+143. Scalable parallel numerical models and software tools for material design
+Citations:
+Authors: EJ Bylaska, SR Kohn, SB Baden
+Publication: Society for Industrial and Applied Mathematics, Philadelphia, PA (United States)
+
+144. User Manual for VIPP
+Citations:
+Authors: EM Johnson, SB Baden
+Publication: 
+
+145. The LPARX User's Guide v2. 0 9 November 1994
+Citations:
+Authors: SB Baden, SR Kohn, SM Figueira, SJ Fink
+Publication: 
+
+146. Parallel Programming Methodologies for Non-Uniform Structured Problems in Materials Science
+Citations:
+Authors: SB Baden
+Publication: CALIFORNIA UNIV SAN DIEGO LA JOLLA
+
+147. Research Projects in the Parallel Processing Laboratory
+Citations:
+Authors: SB Baden
+Publication: Department of Computer Science and Engineering, University of California …
+
+148. Very Large Vortex Calculations
+Citations:
+Authors: SB Baden
+Publication: Vortex methods: proceedings of the UCLA workshop held in Los Angeles, May 20 …
+
+149. RUNNING ON MULTIPROCESSORSI
+Citations:
+Authors: SB Baden
+Publication: 
+
+150. Digital Computation Laboratory for Introductory System Theory (EE 113)
+Citations:
+Authors: SB Baden, PP Wang, R Burns
+Publication: School of Engineering, Duke University
+
+151. Academic Positions
+Citations:
+Authors: MBA Darden
+Publication: Virginia Commonwealth University Richmond, Virginia
+
+152. doi: 10.1006 Âjpdc. 2001.1795, available online at http: ÂÂwww. idealibrary. com on
+Citations:
+Authors: NB Abu-Ghazaleh, RC Agarwal, CC Aggarwal, SG Akl, MH Alsuwaiyel, ...
+Publication: Journal of Parallel and Distributed Computing 61 (1842), 2001
+
+153. Biswas, Swarnendu 1095 Blaiszik, Ben 283 Bohm Agostini, Nicolas 664
+Citations:
+Authors: P Abad, A Abdelfattah, A Afsahi, U Agarwal, L Aghababaie Beni, ...
+Publication: 
+
+154. UPC++ V1. 0
+Citations:
+Authors: B Van Straalen, P Hargrove, D Bonachea, S Hofmeyer, M Jacquelin, ...
+Publication: 
+
+155. To appear, IEEE Trans. on Software Engineering. A Programming Methodology for Dual-tier Multicomputers
+Citations:
+Authors: SB Baden, SJ Fink
+Publication: 
+
+156. To appear, IEEE Trans. on Software Engineering.
+Citations:
+Authors: SB Baden, SJ Fink
+Publication: 
+
+157. KeLP Reference Manual Version 1.4
+Citations:
+Authors: SB Baden, RB Frost, D Shalit
+Publication: 
+
+158. Resource-efficient Use of CPU-GPU Clusters for Heterogeneous Computing on 3D Unstructured Tetrahedral Meshes
+Citations:
+Authors: J Langguth, M Sourouri, GT Lines, SB Baden, X Cai
+Publication: 
+
+159. Irregular'99 Sixth International Workshop on Solving Irregularly Structured Problems in Parallel
+Citations:
+Authors: D Andresen, S Baden, S Chakrabarti, S Chatterjee, L Michel Cosnard, ...
+Publication: 
+
+160. Salute to 1997 Reviewers
+Citations:
+Authors: NSF Kamal Abdali, E Arvas, S Baden, R Basri, G Bebis, MW Berry, ...
+Publication: 
+
+161. The Parallelization of an Adaptive
+Citations:
+Authors: SR Kohn, SB Baden
+Publication: 
+
+162. Modernization of Legacy Application Software
+Citations:
+Authors: J rey Howe, SB Baden, T Grimmett, K Nomura
+Publication: 
+
+163. Guest Editor¶ s Introduction£ Special Issues on Architecture Independent Languages and Software tools for Parallel Processing
+Citations:
+Authors: BL Chamberlain, SE Choi, EC Lewis, C Lin, L Snyder, WD Weathersby, ...
+Publication: 
+
+164. The thesis of William Kerney is approved
+Citations:
+Authors: W Kerney, SB Baden, W Griswold, G Voelker
+Publication: 
+
+165. This page provides an index into the SC'95 Proceedings technical papers by
+Citations:
+Authors: D Abramson, VS Adve, G Agha, G Agrawal, V Allis, B Alpern, ...
+Publication: 
+
+166. CSE 260: Assignment
+Citations:
+Authors: S Baden, A Flores
+Publication: 
+
+167. VIPP: Visual Interactive Parallel Performance Tool
+Citations:
+Authors: EM Johnson, SR Kohn, SB Baden
+Publication: 
+
+168. Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114
+Citations:
+Authors: SR Kohn, SB Baden
+Publication: 
+
+169. A Study on the Performance of Cholesky-Factorization using MPI
+Citations:
+Authors: HS Kim, SB Baden
+Publication: 
+
+170. KeLP User Guide Version 1.4
+Citations:
+Authors: D Shalit, SB Baden
+Publication: 
+
+171. Proposed running head: Parallel Software Abstractions for Adaptive Meshes Corresponding Author
+Citations:
+Authors: SB Baden
+Publication: 
+
+172. THE REFERENCE GUIDE TO GENMP {THE GENERIC
+Citations:
+Authors: SB BADEN, S KOHN
+Publication: 
+

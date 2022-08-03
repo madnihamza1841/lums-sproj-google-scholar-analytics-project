@@ -1,0 +1,913 @@
+https://scholar.google.com/citations?hl=en&user=wCfYkMkAAAAJ
+Total Citations = 9761
+
+1. A classification of SQL-injection attacks and countermeasures
+Citations:654
+Authors: WG Halfond, J Viegas, A Orso
+Publication: Proceedings of the IEEE International Symposium on Secure Software …
+
+2. AMNESIA: analysis and monitoring for NEutralizing SQL-injection attacks
+Citations:638
+Authors: WGJ Halfond, A Orso
+Publication: Proceedings of the 20th IEEE/ACM international Conference on Automated …
+
+3. Dytan: a generic dynamic taint analysis framework
+Citations:517
+Authors: J Clause, W Li, A Orso
+Publication: Proceedings of the 2007 international symposium on Software testing and …
+
+4. Regression test selection for Java software
+Citations:364
+Authors: MJ Harrold, JA Jones, T Li, D Liang, A Orso, M Pennings, S Sinha, ...
+Publication: ACM Sigplan Notices 36 (11), 312-326
+
+5. Are automated debugging techniques actually helping programmers?
+Citations:360
+Authors: C Parnin, A Orso
+Publication: Proceedings of the 2011 international symposium on software testing and …
+
+6. Leveraging field data for impact analysis and regression testing
+Citations:276
+Authors: A Orso, T Apiwattanapong, MJ Harrold
+Publication: ACM SIGSOFT Software Engineering Notes 28 (5), 128-137
+
+7. Automated test input generation for android: Are we there yet?(e)
+Citations:251
+Authors: SR Choudhary, A Gorla, A Orso
+Publication: 2015 30th IEEE/ACM International Conference on Automated Software …
+
+8. Scaling regression testing to large software systems
+Citations:245
+Authors: A Orso, N Shi, MJ Harrold
+Publication: ACM SIGSOFT Software Engineering Notes 29 (6), 241-251
+
+9. Using positive tainting and syntax-aware evaluation to counter SQL injection attacks
+Citations:228
+Authors: WGJ Halfond, A Orso, P Manolios
+Publication: Proceedings of the 14th ACM SIGSOFT international symposium on Foundations …
+
+10. WASP: Protecting web applications using positive tainting and syntax-aware evaluation
+Citations:204
+Authors: W Halfond, A Orso, P Manolios
+Publication: IEEE Transactions on Software Engineering 34 (1), 65-81
+
+11. A technique for dynamic updating of Java software
+Citations:184
+Authors: A Orso, A Rao, MJ Harrold
+Publication: International Conference on Software Maintenance, 2002. Proceedings., 649-658
+
+12. Component metadata for software engineering tasks
+Citations:180
+Authors: A Orso, M Jean, D Rosenblum
+Publication: Engineering Distributed Objects, 129-144
+
+13. A differencing algorithm for object-oriented programs
+Citations:175
+Authors: T Apiwattanapong, A Orso, MJ Harrold
+Publication: Proceedings. 19th International Conference on Automated Software Engineering …
+
+14. Combining static analysis and runtime monitoring to counter SQL-injection attacks
+Citations:170
+Authors: WGJ Halfond, A Orso
+Publication: ACM SIGSOFT software engineering notes 30 (4), 1-7
+
+15. Using component metacontent to support the regression testing of component-based software
+Citations:164
+Authors: A Orso, MJ Harrold, D Rosenblum, G Rothermel, H Do, ML Soffa
+Publication: Proceedings of the IEEE International Conference on Software Maintenance …
+
+16. Efficient and precise dynamic impact analysis using execute-after sequences
+Citations:163
+Authors: T Apiwattanapong, A Orso, MJ Harrold
+Publication: Proceedings of the 27th international conference on Software engineering …
+
+17. Software testing: a research travelogue (2000–2014)
+Citations:162
+Authors: A Orso, G Rothermel
+Publication: Proceedings of the on Future of Software Engineering, 117-132
+
+18. BugRedux: reproducing field failures for in-house debugging
+Citations:159
+Authors: W Jin, A Orso
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 474-484
+
+19. An empirical comparison of dynamic impact analysis algorithms
+Citations:159
+Authors: A Orso, T Apiwattanapong, J Law, G Rothermel, MJ Harrold
+Publication: Proceedings of the 26th International Conference on Software Engineering …
+
+20. Test-suite augmentation for evolving software
+Citations:157
+Authors: R Santelices, PK Chittimalli, T Apiwattanapong, A Orso, MJ Harrold
+Publication: 2008 23rd IEEE/ACM International Conference on Automated Software …
+
+21. WEBDIFF: Automated identification of cross-browser issues in web applications
+Citations:144
+Authors: SR Choudhary, H Versee, A Orso
+Publication: 2010 IEEE International Conference on Software Maintenance, 1-10
+
+22. Selective capture and replay of program executions
+Citations:141
+Authors: A Orso, B Kennedy
+Publication: ACM SIGSOFT Software Engineering Notes 30 (4), 1-7
+
+23. JDiff: A differencing technique and tool for object-oriented programs
+Citations:138
+Authors: T Apiwattanapong, A Orso, MJ Harrold
+Publication: Automated Software Engineering 14 (1), 3-36
+
+24. Gamma system: Continuous evolution of software after deployment
+Citations:137
+Authors: A Orso, D Liang, MJ Harrold, R Lipton
+Publication: ACM SIGSOFT Software Engineering Notes 27 (4), 65-69
+
+25. Preventing SQL injection attacks using AMNESIA
+Citations:121
+Authors: WGJ Halfond, A Orso
+Publication: icse 6, 20-28
+
+26. Automated testing of classes
+Citations:118
+Authors: U Buy, A Orso, M Pezze
+Publication: ACM SIGSOFT Software Engineering Notes 25 (5), 39-48
+
+27. Hulk: Eliciting malicious behavior in browser extensions
+Citations:115
+Authors: A Kapravelos, C Grier, N Chachra, C Kruegel, G Vigna, V Paxson
+Publication: 23rd {USENIX} Security Symposium ({USENIX} Security 14), 641-654
+
+28. A technique for enabling and supporting debugging of field failures
+Citations:112
+Authors: J Clause, A Orso
+Publication: 29th International Conference on Software Engineering (ICSE'07), 261-270
+
+29. Monitoring deployed software using software tomography
+Citations:102
+Authors: J Bowring, A Orso, MJ Harrold
+Publication: ACM SIGSOFT Software Engineering Notes 28 (1), 2-9
+
+30. X-PERT: accurate identification of cross-browser issues in web applications
+Citations:99
+Authors: SR Choudhary, MR Prasad, A Orso
+Publication: 2013 35th International Conference on Software Engineering (ICSE), 702-711
+
+31. MINTS: A general framework and tool for supporting test-suite minimization
+Citations:99
+Authors: HY Hsu, A Orso
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+32. Improving test case generation for web applications using automated interface discovery
+Citations:97
+Authors: WGJ Halfond, A Orso
+Publication: Proceedings of the the 6th joint meeting of the European software …
+
+33. Understanding myths and realities of test-suite evolution
+Citations:87
+Authors: LS Pinto, S Sinha, A Orso
+Publication: Proceedings of the ACM SIGSOFT 20th International Symposium on the …
+
+34. LEAKPOINT: pinpointing the causes of memory leaks
+Citations:80
+Authors: J Clause, A Orso
+Publication: 2010 ACM/IEEE 32nd International Conference on Software Engineering 1, 515-524
+
+35. Automated behavioral regression testing
+Citations:80
+Authors: W Jin, A Orso, T Xie
+Publication: 2010 Third International Conference on Software Testing, Verification and …
+
+36. Precise interface identification to improve testing and analysis of web applications
+Citations:80
+Authors: WGJ Halfond, S Anand, A Orso
+Publication: Proceedings of the eighteenth international symposium on Software testing …
+
+37. Crosscheck: Combining crawling and differencing to better detect cross-browser incompatibilities in web applications
+Citations:79
+Authors: SR Choudhary, MR Prasad, A Orso
+Publication: 2012 IEEE Fifth International Conference on Software Testing, Verification …
+
+38. F3: fault localization for field failures
+Citations:76
+Authors: W Jin, A Orso
+Publication: Proceedings of the 2013 International Symposium on Software Testing and …
+
+39. Visualization of program-execution data for deployed software
+Citations:74
+Authors: A Orso, J Jones, MJ Harrold
+Publication: Proceedings of the 2003 ACM symposium on Software visualization, 67-ff
+
+40. Retesting software during development and maintenance
+Citations:73
+Authors: MJ Harrold, A Orso
+Publication: 2008 Frontiers of Software Maintenance, 99-108
+
+41. Minthint: Automated synthesis of repair hints
+Citations:72
+Authors: S Kaleeswaran, V Tulsian, A Kanade, A Orso
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+42. Rapid: Identifying bug signatures to support debugging activities
+Citations:71
+Authors: HY Hsu, JA Jones, A Orso
+Publication: Proceedings of the 2008 23rd IEEE/ACM International Conference on Automated …
+
+43. Recognizing behavioral patterns atruntime using finite automata
+Citations:67
+Authors: L Wendehals, A Orso
+Publication: Proceedings of the 2006 international workshop on Dynamic systems analysis …
+
+44. Command-form coverage for testing database applications
+Citations:62
+Authors: WGJ Halfond, A Orso
+Publication: 21st IEEE/ACM International Conference on Automated Software Engineering …
+
+45. Penumbra: automatically identifying failure-relevant inputs using dynamic tainting
+Citations:59
+Authors: J Clause, A Orso
+Publication: Proceedings of the eighteenth international symposium on Software testing …
+
+46. Effective memory protection using dynamic tainting
+Citations:59
+Authors: J Clause, I Doudalis, A Orso, M Prvulovic
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+47. Matrix: Maintenance-oriented testing requirements identifier and examiner
+Citations:59
+Authors: T Apiwattanapong, R Santelices, PK Chittimalli, A Orso, MJ Harrold
+Publication: Testing: Academic & Industrial Conference-Practice And Research Techniques …
+
+48. Applying classification techniques to remotely-collected program execution data
+Citations:59
+Authors: M Haran, A Karr, A Orso, A Porter, A Sanil
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 146-155
+
+49. Automated support for development, maintenance, and testing in the presence of implicit control flow
+Citations:59
+Authors: S Sinha, A Orso, MJ Harrold
+Publication: Proceedings of the 26th International Conference on Software Engineering …
+
+50. Evaluating the usefulness of ir-based fault localization techniques
+Citations:57
+Authors: Q Wang, C Parnin, A Orso
+Publication: Proceedings of the 2015 International Symposium on Software Testing and …
+
+51. Introducing formal specification methods in industrial practice
+Citations:57
+Authors: L Baresi, A Orso, M Pezzè
+Publication: ICSE 97, 56-66
+
+52. Isolating failure causes through test case generation
+Citations:56
+Authors: J Röβler, G Fraser, A Zeller, A Orso
+Publication: Proceedings of the 2012 International Symposium on Software Testing and …
+
+53. Interclass testing of object oriented software
+Citations:55
+Authors: V Martena, A Orso, M Pezze
+Publication: Eighth IEEE International Conference on Engineering of Complex Computer …
+
+54. Using component metadata to regression test component‐based software
+Citations:54
+Authors: A Orso, H Do, G Rothermel, MJ Harrold, DS Rosenblum
+Publication: Software Testing, Verification and Reliability 17 (2), 61-94
+
+55. Water: Web application test repair
+Citations:53
+Authors: SR Choudhary, D Zhao, H Versee, A Orso
+Publication: Proceedings of the First International Workshop on End-to-End Test Script …
+
+56. Improving penetration testing through static and dynamic analysis
+Citations:52
+Authors: WGJ Halfond, SR Choudhary, A Orso
+Publication: Software Testing, Verification and Reliability 21 (3), 195-214
+
+57. SCARPE: A technique and tool for selective capture and replay of program executions
+Citations:50
+Authors: S Joshi, A Orso
+Publication: 2007 IEEE International Conference on Software Maintenance, 234-243
+
+58. Regression testing in the presence of non-code changes
+Citations:47
+Authors: A Nanda, S Mani, S Sinha, MJ Harrold, A Orso
+Publication: 2011 Fourth IEEE International Conference on Software Testing, Verification …
+
+59. Penetration testing with improved input vector identification
+Citations:45
+Authors: WGJ Halfond, SR Choudhary, A Orso
+Publication: 2009 International Conference on Software Testing Verification and …
+
+60. Camouflage: automated anonymization of field data
+Citations:44
+Authors: J Clause, A Orso
+Publication: Proceedings of the 33rd International Conference on Software Engineering, 21-30
+
+61. Incremental slicing based on data-dependences types
+Citations:41
+Authors: A Orso, S Sinha, MJ Harrold
+Publication: Proceedings of the IEEE International Conference on Software Maintenance …
+
+62. Automated identification of parameter mismatches in web applications
+Citations:39
+Authors: WGJ Halfond, A Orso
+Publication: Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations …
+
+63. Techniques for classifying executions of deployed software to support software engineering tasks
+Citations:39
+Authors: M Haran, A Karr, M Last, A Orso, AA Porter, A Sanil, S Fouche
+Publication: IEEE Transactions on Software Engineering 33 (5), 287-304
+
+64. InsECTJ: a generic instrumentation framework for collecting dynamic information within Eclipse
+Citations:39
+Authors: A Seesing, A Orso
+Publication: Proceedings of the 2005 OOPSLA workshop on Eclipse technology eXchange, 45-49
+
+65. A generic instrumentation framework for collecting dynamic information
+Citations:38
+Authors: A Chawla, A Orso
+Publication: ACM SIGSOFT Software Engineering Notes 29 (5), 1-4
+
+66. Gammatella: Visualizing program-execution data for deployed software
+Citations:38
+Authors: JA Jones, A Orso, MJ Harrold
+Publication: Information Visualization 3 (3), 173-188
+
+67. HARE++: Hardware Assisted Reverse Execution Revisited
+Citations:36
+Authors: I Doudalis, M Prvulovic
+Publication: Georgia Institute of Technology, 1-8
+
+68. Precisely detecting runtime change interactions for evolving software
+Citations:36
+Authors: R Santelices, MJ Harrold, A Orso
+Publication: 2010 Third International Conference on Software Testing, Verification and …
+
+69. Type-dependence analysis and program transformation for symbolic execution
+Citations:36
+Authors: S Anand, A Orso, MJ Harrold
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+70. Classifying data dependences in the presence of pointers for program comprehension, testing, and debugging
+Citations:35
+Authors: A Orso, S Sinha, MJ Harrold
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 13 (2), 199-239
+
+71. Effects of pointers on data dependences
+Citations:35
+Authors: A Orso, S Sinha, MJ Harrold
+Publication: Proceedings 9th International Workshop on Program Comprehension. IWPC 2001 …
+
+72. Isolating relevant component interactions with JINSI
+Citations:34
+Authors: A Orso, S Joshi, M Burger, A Zeller
+Publication: Proceedings of the 2006 international workshop on Dynamic systems analysis, 3-10
+
+73. Bert: Behavioral regression testing
+Citations:33
+Authors: A Orso, T Xie
+Publication: Proceedings of the 2008 international workshop on dynamic analysis: held in …
+
+74. Gammatella: Visualization of program-execution data for deployed software
+Citations:33
+Authors: A Orso, JA Jones, MJ Harrold, J Stasko
+Publication: Proceedings. 26th International Conference on Software Engineering, 699-700
+
+75. Integration testing of object-oriented software
+Citations:33
+Authors: A Orso
+Publication: Politecnico di Milano, Milano, Italy
+
+76. Viewpoints: differential string analysis for discovering client-and server-side input validation inconsistencies
+Citations:29
+Authors: M Alkhalaf, SR Choudhary, M Fazzini, T Bultan, A Orso, C Kruegel
+Publication: Proceedings of the 2012 International Symposium on Software Testing and …
+
+77. A framework for testing object-oriented components
+Citations:29
+Authors: U Buy, C Ghezzi, A Orso, M Pezze, M Valsasna
+Publication: Proc. of the 1st International Workshop on Testing Distributed Component …
+
+78. Optimizing constraint solving to better support symbolic execution
+Citations:27
+Authors: I Erete, A Orso
+Publication: 2011 IEEE Fourth International Conference on Software Testing, Verification …
+
+79. X-PERT: a web application testing tool for cross-browser inconsistency detection
+Citations:26
+Authors: S Roy Choudhary, MR Prasad, A Orso
+Publication: Proceedings of the 2014 International Symposium on Software Testing and …
+
+80. Rain: Refinable attack investigation with on-demand inter-process information flow tracking
+Citations:24
+Authors: Y Ji, S Lee, E Downing, W Wang, M Fazzini, T Kim, A Orso, W Lee
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+81. Effective and efficient memory protection using dynamic tainting
+Citations:23
+Authors: I Doudalis, J Clause, G Venkataramani, M Prvulovic, A Orso
+Publication: IEEE Transactions on Computers 61 (1), 87-100
+
+82. Zero-overhead profiling via EM emanations
+Citations:22
+Authors: R Callan, F Behrang, A Zajic, M Prvulovic, A Orso
+Publication: Proceedings of the 25th International Symposium on Software Testing and …
+
+83. MIMIC: locating and understanding bugs by analyzing mimicked executions
+Citations:22
+Authors: D Zuddas, W Jin, F Pastore, L Mariani, A Orso
+Publication: Proceedings of the 29th ACM/IEEE international conference on Automated …
+
+84. Reproducing field failures for programs with complex grammar-based input
+Citations:21
+Authors: FM Kifetew, W Jin, R Tiella, A Orso, P Tonella
+Publication: 2014 IEEE Seventh International Conference on Software Testing, Verification …
+
+85. Autocsp: Automatically retrofitting csp to web applications
+Citations:20
+Authors: M Fazzini, P Saxena, A Orso
+Publication: Proceedings of the 37th International Conference on Software Engineering …
+
+86. Monitoring, analysis, and testing of deployed software
+Citations:20
+Authors: A Orso
+Publication: Proceedings of the FSE/SDP workshop on Future of software engineering …
+
+87. Cross-platform feature matching for web applications
+Citations:19
+Authors: S Roy Choudhary, MR Prasad, A Orso
+Publication: Proceedings of the 2014 International Symposium on Software Testing and …
+
+88. Barista: A technique for recording, encoding, and running platform independent android tests
+Citations:18
+Authors: M Fazzini, ENA Freitas, SR Choudhary, A Orso
+Publication: 2017 IEEE International Conference on Software Testing, Verification and …
+
+89. Users beware: Preference inconsistencies ahead
+Citations:18
+Authors: F Behrang, MB Cohen, A Orso
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+90. Automated cross-platform inconsistency detection for mobile apps
+Citations:17
+Authors: M Fazzini, A Orso
+Publication: Proceedings of the 32Nd IEEE/ACM International Conference on Automated …
+
+91. Bridging gaps between developers and testers in globally-distributed software development
+Citations:17
+Authors: M Grechanik, JA Jones, A Orso, A van der Hoek
+Publication: Proceedings of the FSE/SDP workshop on Future of software engineering …
+
+92. MASSA: Mobile agents security through static/dynamic analysis
+Citations:15
+Authors: A Orso, MJ Harrold, G Vigna
+Publication: in Proceedings of the ICSE Workshop on Software Engineering and Mobility …
+
+93. Accelerating array constraints in symbolic execution
+Citations:14
+Authors: DM Perry, A Mattavelli, X Zhang, C Cadar
+Publication: Proceedings of the 26th ACM SIGSOFT International Symposium on Software …
+
+94. Iterative user-driven fault localization
+Citations:14
+Authors: X Li, M d’Amorim, A Orso
+Publication: Haifa Verification Conference, 82-98
+
+95. Execution hijacking: Improving dynamic analysis by flying off course
+Citations:14
+Authors: P Tsankov, W Jin, A Orso, S Sinha
+Publication: 2011 Fourth IEEE International Conference on Software Testing, Verification …
+
+96. Integration testing of procedural object oriented programs with polymorphism
+Citations:13
+Authors: A Orso, M Pezze
+Publication: Proceedings of the Sixteenth International Conference on Testing Computer …
+
+97. Open Issues and Research Directions in Object-Oriented Testing
+Citations:13
+Authors: A Orso, S Silva
+Publication: Proceedings of the 4th International Conference on” Achieving Quality in …
+
+98. Detection and prevention of SQL injection attacks
+Citations:12
+Authors: WGJ Halfond, A Orso
+Publication: Malware Detection, 85-109
+
+99. Automatically translating bug reports into test cases for mobile apps
+Citations:11
+Authors: M Fazzini, M Prammer, M d'Amorim, A Orso
+Publication: Proceedings of the 27th ACM SIGSOFT International Symposium on Software …
+
+100. Dependence-preserving data compaction for scalable forensic analysis
+Citations:9
+Authors: MN Hossain, J Wang, O Weisse, R Sekar, D Genkin, B He, SD Stoller, ...
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 1723-1740
+
+101. Efficient regression testing of ontology-driven systems
+Citations:9
+Authors: M Kim, J Cobb, MJ Harrold, T Kurc, A Orso, J Saltz, A Post, K Malhotra, ...
+Publication: Proceedings of the 2012 international symposium on software testing and …
+
+102. Search-based propagation of regression faults in automated regression testing
+Citations:8
+Authors: S Shamshiri, G Fraser, P Mcminn, A Orso
+Publication: 2013 IEEE Sixth International Conference on Software Testing, Verification …
+
+103. BERT: a tool for behavioral regression testing
+Citations:8
+Authors: W Jin, A Orso, T Xie
+Publication: Proceedings of the eighteenth ACM SIGSOFT international symposium on …
+
+104. Testevol: A tool for analyzing test-suite evolution
+Citations:7
+Authors: LS Pinto, S Sinha, A Orso
+Publication: Proceedings of the 2013 International Conference on Software Engineering …
+
+105. Platform support for developing testing and analysis plug-ins
+Citations:7
+Authors: SR Choudhary, J Duvall, W Jin, D Zhao, A Orso
+Publication: Proceedings of the 1st Workshop on Developing Tools as Plug-ins, 16-19
+
+106. Pooled ANOVA
+Citations:7
+Authors: M Last, G Luta, A Orso, A Porter, S Young
+Publication: Computational Statistics & Data Analysis 52 (12), 5215-5228
+
+107. Enlightened debugging
+Citations:6
+Authors: X Li, S Zhu, M d’Amorim, A Orso
+Publication: 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE …
+
+108. Behavioral Execution Comparison: Are Tests Representative of Field Behavior?
+Citations:6
+Authors: Q Wang, Y Brun, A Orso
+Publication: 2017 IEEE International Conference on Software Testing, Verification and …
+
+109. Automated test migration for mobile apps
+Citations:5
+Authors: F Behrang, A Orso
+Publication: Proceedings of the 40th International Conference on Software Engineering …
+
+110. Automated support for reproducing and debugging field failures
+Citations:5
+Authors: W Jin, A Orso
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 24 (4), 26
+
+111. Sbfr: A search based approach for reproducing failures of programs with grammar based input
+Citations:5
+Authors: FM Kifetew, W Jin, R Tiella, A Orso, P Tonella
+Publication: 2013 28th IEEE/ACM International Conference on Automated Software …
+
+112. MonDe: safe updating through monitored deployment of new component versions
+Citations:5
+Authors: J Cook, A Orso
+Publication: ACM SIGSOFT Software Engineering Notes 31 (1), 43-46
+
+113. Representation and analysis of software
+Citations:5
+Authors: MJ Harrold, G Rothermel, A Orso
+Publication: Lecture Notes
+
+114. Customizable notations for kernel formalisms
+Citations:5
+Authors: L Baresi, A Orso, M Pezze
+Publication: Proceedings of First IEEE International Conference on Engineering of Complex …
+
+115. Camouflage: Automated sanitization of field data
+Citations:4
+Authors: J Clause, A Orso
+Publication: Georgia Institute of Technology
+
+116. To Devalue or to Defend? The Political Economy of Exchange Rate Policy
+Citations:4
+Authors: L David
+Publication: International Studies Quarterly 47 (4), 533-560
+
+117. Understanding data dependences in the presence of pointers
+Citations:4
+Authors: A Orso, S Sinha, MJ Harrold
+Publication: Georgia Institute of Technology
+
+118. A Technique for Dynamic Updating of Java Software. Software Maintenance
+Citations:4
+Authors: A Orso, A Rao, M Harrold
+Publication: IEEE International Conference on, 0 649
+
+119. GUIfetch: supporting app design and development through GUI search
+Citations:3
+Authors: F Behrang, SP Reiss, A Orso
+Publication: Proceedings of the 5th International Conference on Mobile Software …
+
+120. Enabling refinable cross-host attack investigation with efficient data flow tagging and tracking
+Citations:3
+Authors: Y Ji, S Lee, M Fazzini, J Allen, E Downing, T Kim, A Orso, W Lee
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 1705-1722
+
+121. Developing analysis and testing plug‐ins for modern IDEs: an experience report
+Citations:3
+Authors: D Zhao, SR Choudhary, A Orso
+Publication: Software: Practice and Experience 43 (4), 465-478
+
+122. When does my program fail?
+Citations:3
+Authors: J Rößler, A Orso, A Zeller
+Publication: 2011 IEEE Fourth International Conference on Software Testing, Verification …
+
+123. Eclipse technology eXchange (ETX) workshop
+Citations:3
+Authors: MG Burke, C Morris, A Orso, M Robillard
+Publication: Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming …
+
+124. A framework for understanding data dependences
+Citations:3
+Authors: A Orso, D Liang, S Sinha, MJ Harrold
+Publication: Georgia Institute of Technology
+
+125. Test migration for efficient large-scale assessment of mobile app coding assignments
+Citations:2
+Authors: F Behrang, A Orso
+Publication: Proceedings of the 27th ACM SIGSOFT International Symposium on Software …
+
+126. Improving efficiency and accuracy of formula-based debugging
+Citations:2
+Authors: W Jin, A Orso
+Publication: Haifa Verification Conference, 99-116
+
+127. From Manual Android Tests to Automated and Platform Independent Test Scripts
+Citations:2
+Authors: M Fazzini, ENA Freitas, SR Choudhary, A Orso
+Publication: arXiv preprint arXiv:1608.03624
+
+128. Improving efficiency and scalability of formula-based debugging
+Citations:2
+Authors: W Jin, A Orso
+Publication: arXiv preprint arXiv:1409.1989
+
+129. Automated client-side monitoring for web applications
+Citations:2
+Authors: SR Choudhary, A Orso
+Publication: 2009 International Conference on Software Testing, Verification, and …
+
+130. Preventing sql code injection by combining static and runtime analysis
+Citations:2
+Authors: A Orso, W Lee, A Shostack
+Publication: GEORGIA INST OF TECH ATLANTA
+
+131. Capture and replay of user executions to improve software quality
+Citations:2
+Authors: S Joshi, A Orso
+Publication: Technical Report). Georgia Institute of Technology
+
+132. Second ICSE workshop on remote analysis and measurement of software systems (RAMSS)
+Citations:2
+Authors: A Orso, A Porter
+Publication: Proceedings. 26th International Conference on Software Engineering, 775-776
+
+133. Continuous Remote Analysis for Improving Distributed Systems’ Performance
+Citations:2
+Authors: A Carzaniga, A Orso
+Publication: RAMSS'03 1st International Workshop on Remote Analysis and Measurement of …
+
+134. Customizable notations for kernel formalisms
+Citations:2
+Authors: A Orso
+Publication: Proceedings of the 1st International Conference on Engineering of Complex …
+
+135. Automated API-usage update for Android apps
+Citations:1
+Authors: M Fazzini, Q Xin, A Orso
+Publication: Proceedings of the 28th ACM SIGSOFT International Symposium on Software …
+
+136. Zero-overhead path prediction with progressive symbolic execution
+Citations:1
+Authors: R Rutledge, S Park, H Khan, A Orso, M Prvulovic, A Zajic
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+137. Intent-Preserving Test Repair
+Citations:1
+Authors: X Li, M d'Amorim, A Orso
+Publication: 2019 12th IEEE Conference on Software Testing, Validation and Verification …
+
+138. Eclipse technology exchange workshop (ETX2007)
+Citations:1
+Authors: LT Cheng, C Morris, A Orso, M Robillard
+Publication: Companion to the 22nd ACM SIGPLAN conference on Object-oriented programming …
+
+139. Efficient and precise dynamic impact analysis using execute-after sequences
+Citations:1
+Authors: A Orso, MJ Harrold, T Apiwattanapong
+Publication: 27th International Conference on Software Engineering, 432-441
+
+140. Improving impact analysis and regression testing using field data
+Citations:1
+Authors: A Orso, T Apiwattanapong, MJ Harrold
+Publication: First ICSE Workshop on Remote Analysis and Measurement of Software Systems …
+
+141. ICSE workshop on remote analysis and measurement of software systems (RAMSS)
+Citations:1
+Authors: A Orso, A Porter
+Publication: 25th International Conference on Software Engineering, 2003. Proceedings …
+
+142. Testing simultaneous similarity of matrices and related problems for matrix semigroups
+Citations:1
+Authors: M Ogihara, YZ Zalcstein
+Publication: Georgia Institute of Technology
+
+143. Robustness of neural networks: a probabilistic and practical approach
+Citations:
+Authors: R Mangal, AV Nori, A Orso
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+144. Identifying Features of Android Apps from Execution Traces
+Citations:
+Authors: Q Xin, F Behrang, M Fazzini, A Orso
+Publication: 2019 IEEE/ACM 6th International Conference on Mobile Software Engineering …
+
+145. Mimicking user behavior to improve in-house test suites
+Citations:
+Authors: Q Wang, A Orso
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+146. Methods and systems for testing mobile applications for android mobile devices
+Citations:
+Authors: SR Choudhary, M Fazzini, A Orso
+Publication: US Patent App. 15/613,429
+
+147. Don't forget the developers!(and be careful with your assumptions)
+Citations:
+Authors: A Orso
+Publication: Perspectives on Data Science for Software Engineering, 271-275
+
+148. Special issue for the ICST 2013 conference
+Citations:
+Authors: B Baudry, A Orso
+Publication: Software Testing, Verification and Reliability 25 (4), 333-333
+
+149. ACM SIGSOFT FSE 2014 Conference Summary
+Citations:
+Authors: SC Cheung, A Orso, MA Storey
+Publication: ACM SIGSOFT Software Engineering Notes 40 (2), 22-27
+
+150. Summary of the ICSE 2012 workshops
+Citations:
+Authors: A Orso, R Reussner
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 1651-1653
+
+151. SPECIAL SECTION ON THE INTERNATIONAL SYMPOSIUM ON SOFTWARE TESTING AND ANALYSIS
+Citations:
+Authors: A Orso, P Tonella, V Dallmeier, N Knopp, C Mallon, G Fraser, S Hack, ...
+Publication: 
+
+152. Guest Editorial: Special Section on the International Symposium on Software Testing and Analysis 2010
+Citations:
+Authors: A Orso, P Tonella
+Publication: IEEE Transactions on Software Engineering, 241-242
+
+153. Proceedings-International Conference on Software Engineering: Preface
+Citations:
+Authors: S Kim, S Uchitel, D Garbervetsky, B Aktemur, D Kroening, A Orso, ...
+Publication: Proceedings-International Conference on Software Engineering
+
+154. When Does My Program Fail?
+Citations:
+Authors: J Röβler, A Orso, A Zeller
+Publication: Proceedings of the 2011 IEEE Fourth International Conference on Software …
+
+155. SQL Injection Attacks
+Citations:
+Authors: A Orso
+Publication: Encyclopedia of Cryptography and Security, 1251-1252
+
+156. An Informatics Framework for Testing Data Integrity and Correctness of Federated Biomedical Databases
+Citations:
+Authors: M Kim, T Kurc, A Orso, J Cobb, D Gutman, MJ Harrold, A Post, A Sharma, ...
+Publication: AMIA Summits on Translational Science Proceedings 2011, 22
+
+157. Fifth International Workshop on Dynamic Analysis (WODA 2007)
+Citations:
+Authors: A Orso, A Zeller
+Publication: 29th International Conference on Software Engineering (ICSE'07 Companion …
+
+158. Fault detection
+Citations:
+Authors: A Orso
+Publication: Foundations of Software Engineering: Proceedings of the the 6 th joint …
+
+159. NISS
+Citations:
+Authors: M Last, S Fouche, AF Karr, A Orso, A Porter, S Young
+Publication: 
+
+160. Remote Analysis and Measurement of Software Systems (RAMSS)
+Citations:
+Authors: A Orso, A Porter
+Publication: SOFTWARE ENGINEERING NOTES 28 (6), 28-30
+
+161. Dipartimento di Elettronica e Informazione Politecnico di Milano Piazza Leonardo da Vinci 32 I-20133 Milano {Italia
+Citations:
+Authors: PL Lanzi
+Publication: 
+
+162. Statistical debugging: A hypothesis testing-based approach.
+Citations:
+Authors: Y Li, C Liu, I Vessey, JA Jones, MJ Harrold, J Stasko, R Abreu, ...
+Publication: Journal of Software Engineering 8 (4), 459-494
+
+163. Zhang, Ziyi 40 Zhao, Rui 30 Zhao, Yixue 45
+Citations:
+Authors: M Abdellatif, B Adams, MH Alalfi, W Aljedaani, É Beaudry, F Behrang, ...
+Publication: 
+
+164. Kästner, Christian 13 Kon, Fabio 113 Kuhn, Thomas 9 Lago, Patricia 17
+Citations:
+Authors: Y Li, V Braberman, B Buhnova, C Cao, P Carvalho, J Castelhano, ...
+Publication: 
+
+165. On Optimally Combining Static and Dynamic Analyses For Intensional Program Properties
+Citations:
+Authors: R Mangal, D Devecsery, A Orso
+Publication: 
+
+166. ARE ENGINEERING
+Citations:
+Authors: C Andersson, P Runeson, M Haran, A Karr, M Last, A Orso, AA Porter, ...
+Publication: 
+
+167. ICSE 2017
+Citations:
+Authors: A Orso, M Robillard, S Apel, J Atlee, A Bertolino, V Braberman, L Briand, ...
+Publication: 
+
+168. ICSE 2016
+Citations:
+Authors: Y Brun, G Canfora, BHC Cheng, V Cortellessa, D Damian, P Devanbu, ...
+Publication: 
+
+169. Ph. D. Computer Science–Georgia Institute of Technology, Atlanta, GA, USA.(GPA: 4.0)
+Citations:
+Authors: M Fazzini, P Saxena, A Orso, M Alkhalaf, T Bultan, SR Choudhary, ...
+Publication: 
+
+170. MintHint: Automated Synthesis of Repair Hints
+Citations:
+Authors: SKV Tulsian, A Kanade, A Orso
+Publication: 
+
+171. Program Committee Chairs
+Citations:
+Authors: B Baudry, A Orso, P Ammann, J Andrews, G Antoniol, P Baker, T Ball, ...
+Publication: 
+
+172. Organizing Chair
+Citations:
+Authors: Y Le Traon, B Baudry, A Orso
+Publication: 
+
+173. SYSTEMATIC REVIEWS EDITOR
+Citations:
+Authors: AA Andrews, G Antoniol, A Aurum, DH Bae, BW Boehm, M Broy, ...
+Publication: 
+
+174. Claes Wohlin
+Citations:
+Authors: AA Andrews, A Aurum, G Antoniol, DH Bae, BW Boehm, M Broy, ...
+Publication: 
+
+175. E ects of Pointers on Data Dependences
+Citations:
+Authors: A Orso, S Sinha, MJ Harrold
+Publication: 
+
+176. Workshop Organization
+Citations:
+Authors: F Dadeau, M D'Amorim, G Fraser, A Gotlieb, S Khalek, D Marinov, ...
+Publication: 
+
+177. Component Metadata for Software Engineering Tasks Alessandro Orso1, Mary Jean Harrold1, and David Rosenblum2 1 College of Computing Georgia Institute of Technology
+Citations:
+Authors: A Orso, MJ Harrold, D Rosenblum
+Publication: 
+
+178. Research Program
+Citations:
+Authors: W Emmerich, G Rothermel, M Chechik, P Inverardi, T Lethbridge, ...
+Publication: 
+
+179. ICSE 2009 conference organization
+Citations:
+Authors: S Fickas, JM Atlee, P Inverardi, L Baresi, V Braberman, E Baniassad, ...
+Publication: 
+
+180. Sebastian Uchitel, Imperial College London, UK/University of Buenos Aires, Argentina Steve Easterbrook, University of Toronto, Canada Perry Alexander, University of Kansas, USA …
+Citations:
+Authors: T Bultan, M Chechik, V Cortellessa, K Czarnecki, T Ellman, B Fischer, ...
+Publication: 
+
+181. Niko Garuda A's Blog
+Citations:
+Authors: A Orso, T Apiwattanapong, J Law, G Rothermel, MJ Harrold
+Publication: 
+
+182. ASE Program Committee
+Citations:
+Authors: A Armando, G Avrunin, T Bultan, I Crnkovic, K Czarnecki, E Denney, ...
+Publication: 
+

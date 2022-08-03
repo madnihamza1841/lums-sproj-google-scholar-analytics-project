@@ -1,0 +1,228 @@
+https://scholar.google.com/citations?hl=en&user=BqkyhDEAAAAJ
+Total Citations = 2947
+
+1. Spectre Attacks: Exploiting Speculative Execution
+Citations:547
+Authors: P Kocher, D Genkin, D Gruss, W Haas, M Hamburg, M Lipp, S Mangard, ...
+Publication: arXiv preprint arXiv:1801.01203
+
+2. Meltdown: Reading Kernel Memory from User Space
+Citations:498
+Authors: M Lipp, M Schwarz, D Gruss, T Prescher, W Haas, A Fogh, J Horn, ...
+Publication: 27th USENIX Security Symposium (USENIX Security 18)
+
+3. RSA key extraction via low-bandwidth acoustic cryptanalysis
+Citations:334
+Authors: D Genkin, A Shamir, E Tromer
+Publication: Advances in Cryptology–CRYPTO 2014, 444-461
+
+4. SNARKs for C: Verifying program executions succinctly and in zero knowledge
+Citations:309
+Authors: E Ben-Sasson, A Chiesa, D Genkin, E Tromer, M Virza
+Publication: Annual Cryptology Conference, 90-108
+
+5. Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution
+Citations:174
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: 27th USENIX Security Symposium (USENIX Security 18)
+
+6. CacheBleed: A timing attack on OpenSSL constant time RSA
+Citations:120
+Authors: Y Yarom, D Genkin, N Heninger
+Publication: International Conference on Cryptographic Hardware and Embedded Systems, 346-367
+
+7. Get Your Hands Off My Laptop: Physical Side-Channel Key-Extraction Attacks on PCs
+Citations:112
+Authors: D Genkin, I Pipman, E Tromer
+Publication: Cryptographic Hardware and Embedded Systems–CHES 2014, 242-260
+
+8. Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation
+Citations:107
+Authors: D Genkin, L Pachmanov, I Pipman, E Tromer
+Publication: Cryptographic Hardware and Embedded Systems--CHES 2015: 17th International …
+
+9. ECDSA key extraction from mobile devices via nonintrusive physical side channels
+Citations:88
+Authors: D Genkin, L Pachmanov, I Pipman, E Tromer, Y Yarom
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+10. On the concrete efficiency of probabilistically-checkable proofs
+Citations:64
+Authors: E Ben-Sasson, A Chiesa, D Genkin, E Tromer
+Publication: Proceedings of the forty-fifth annual ACM symposium on Theory of computing …
+
+11. Physical key extraction attacks on PCs
+Citations:63
+Authors: D Genkin, L Pachmanov, I Pipman, A Shamir, E Tromer
+Publication: Communications of the ACM 59 (6), 70-79
+
+12. Fast reductions from RAMs to delegatable succinct constraint satisfaction problems
+Citations:63
+Authors: E Ben-Sasson, A Chiesa, D Genkin, E Tromer
+Publication: Proceedings of the 4th conference on Innovations in Theoretical Computer …
+
+13. Another flip in the wall of rowhammer defenses
+Citations:46
+Authors: D Gruss, M Lipp, M Schwarz, D Genkin, J Juffinger, S O'Connell, ...
+Publication: 2018 IEEE Symposium on Security and Privacy (SP), 245-261
+
+14. ECDH key-extraction via low-bandwidth electromagnetic attacks on PCs
+Citations:44
+Authors: D Genkin, L Pachmanov, I Pipman, E Tromer
+Publication: Cryptographers’ Track at the RSA Conference, 219-235
+
+15. vSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases
+Citations:41
+Authors: Y Zhang, D Genkin, J Katz, D Papadopoulos, C Papamanthou
+Publication: Security and Privacy (SP), 2017 IEEE Symposium on, 863-880
+
+16. Foreshadow-NG: Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution
+Citations:40
+Authors: O Weisse, J Van Bulck, M Minkin, D Genkin, B Kasikci, F Piessens, ...
+Publication: Technical Report
+
+17. Circuits resilient to additive attacks with applications to secure computation
+Citations:37
+Authors: D Genkin, Y Ishai, MM Prabhakaran, A Sahai, E Tromer
+Publication: Proceedings of the 46th Annual ACM Symposium on Theory of Computing, 495-504
+
+18. Computational integrity with a public random string from quasi-linear PCPs
+Citations:36
+Authors: E Ben-Sasson, I Ben-Tov, A Chiesa, A Gabizon, D Genkin, M Hamilis, ...
+Publication: EUROCRYPT
+
+19. May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519
+Citations:32
+Authors: D Genkin, L Valenta, Y Yarom
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+20. Acoustic Cryptanalysis
+Citations:31
+Authors: D Genkin, A Shamir, E Tromer
+Publication: Journal of Cryptology, 1-52
+
+21. Sliding right into disaster: Left-to-right sliding windows leak
+Citations:23
+Authors: DJ Bernstein, J Breitner, D Genkin, LG Bruinderink, N Heninger, T Lange, ...
+Publication: 
+
+22. Fast Large-Scale Honest-Majority MPC for Malicious Adversaries
+Citations:20
+Authors: K Chida, D Genkin, K Hamada, D Ikarashi, R Kikuchi, Y Lindell, A Nof
+Publication: Annual International Cryptology Conference, 34-64
+
+23. Efficient Multi-party Computation: From Passive to Active Security via Secure SIMD Circuits
+Citations:15
+Authors: D Genkin, Y Ishai, A Polychroniadou
+Publication: Advances in Cryptology--CRYPTO 2015, 721-741
+
+24. vRAM: Faster verifiable RAM with program-independent preprocessing
+Citations:14
+Authors: Y Zhang, D Genkin, J Katz, D Papadopoulos, C Papamanthou
+Publication: Proceeding of IEEE Symposium on Security and Privacy (S&P)
+
+25. CacheQuote: Efficiently Recovering Long-term Secrets of SGX EPID via Cache Attacks
+Citations:13
+Authors: F Dall, G De Micheli, T Eisenbarth, D Genkin, N Heninger, A Moghimi, ...
+Publication: IACR Transactions on Cryptographic Hardware and Embedded Systems 2018 (2 …
+
+26. A Zero-Knowledge Version of vSQL.
+Citations:13
+Authors: Y Zhang, D Genkin, J Katz, D Papadopoulos, C Papamanthou
+Publication: IACR Cryptology ePrint Archive 2017, 1146
+
+27. Drive-By Key-Extraction Cache Attacks from Portable Code
+Citations:12
+Authors: D Genkin, L Pachmanov, E Tromer, Y Yarom
+Publication: International Conference on Applied Cryptography and Network Security, 83-102
+
+28. Privacy in decentralized cryptocurrencies
+Citations:9
+Authors: D Genkin, D Papadopoulos, C Papamanthou
+Publication: Communications of the ACM 61 (6), 78-88
+
+29. TinyRAM architecture specification v2. 00, 2013
+Citations:9
+Authors: E Ben-Sasson, A Chiesa, D Genkin, E Tromer, M Virza
+Publication: URL: http://scipr-lab. org/tinyram
+
+30. USB Snooping Made Easy: Crosstalk Leakage Attacks on USB Hubs
+Citations:7
+Authors: Y Su, D Genkin, D Ranasinghe, Y Yarom
+Publication: 26th USENIX Security Symposium (USENIX Security 17)
+
+31. Binary AMD Circuits from Secure Multiparty Computation
+Citations:6
+Authors: D Genkin, Y Ishai, M Weiss
+Publication: Theory of Cryptography Conference, 336-366
+
+32. The 9 Lives of Bleichenbacher’s CAT: New Cache ATtacks on TLS Implementations
+Citations:4
+Authors: E Ronen, R Gillham, D Genkin, A Shamir, D Wong, Y Yarom
+Publication: IEEE Symposium on Security and Privacy
+
+33. Synesthesia: Detecting Screen Content via Remote Acoustic Side Channels
+Citations:4
+Authors: D Genkin, M Pattani, R Schuster, E Tromer
+Publication: arXiv preprint arXiv:1809.02629
+
+34. Fallout: Reading Kernel Writes From User Space
+Citations:3
+Authors: M Minkin, D Moghimi, M Lipp, M Schwarz, J Van Bulck, D Genkin, D Gruss, ...
+Publication: arXiv preprint arXiv:1905.12701
+
+35. libsnark (2014)
+Citations:3
+Authors: E Ben-Sasson, A Chiesa, D Genkin, S Kfir, E Tromer, M Virza
+Publication: 
+
+36. Extending free pregroups with lower bounds
+Citations:2
+Authors: T Aizikowitz, N Francez, D Genkin, M Kaminski
+Publication: Studia Logica 95 (3), 417-441
+
+37. How to construct a leakage-resilient (stateless) trusted party
+Citations:1
+Authors: D Genkin, Y Ishai, M Weiss
+Publication: Theory of Cryptography Conference, 209-244
+
+38. A note on the emptiness problem for alternating finite-memory automata
+Citations:1
+Authors: D Genkin, M Kaminski, L Peterfreund
+Publication: Theoretical Computer Science 526, 97-107
+
+39. Mildly context-sensitive languages via buffer augmented pregroup grammars
+Citations:1
+Authors: D Genkin, N Francez, M Kaminski
+Publication: Time for verification, 144-166
+
+40. RAMBleed: Reading Bits in Memory Without Accessing Them
+Citations:1
+Authors: A Kwong, D Genkin, D Gruss, Y Yarom
+Publication: 
+
+41. Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow
+Citations:
+Authors: J Van Bulck, M Minkin, O Weisse, D Genkin, B Kasikci, F Piessens, ...
+Publication: IEEE Micro 39 (3), 66-74
+
+42. Trusted Execution on Leaky Hardware?
+Citations:
+Authors: D Genkin, Y Yarom
+Publication: Proceedings of the 3rd Workshop on System Software for Trusted Execution, 1-1
+
+43. Best of Both Worlds in Secure Computation, with Low Communication Overhead
+Citations:
+Authors: D Genkin, SD Gordon, S Ranellucci
+Publication: International Conference on Applied Cryptography and Network Security, 340-359
+
+44. Closure Under Reversal of Languages over Infinite Alphabets
+Citations:
+Authors: D Genkin, M Kaminski, L Peterfreund
+Publication: International Computer Science Symposium in Russia, 145-156
+
+45. Radical Lexicalization of Mildly Context-sensitive Languages
+Citations:
+Authors: D Genkin, דניאל גנקין
+Publication: Technion-Israel Institute of Technology, Faculty of Computer Science
+

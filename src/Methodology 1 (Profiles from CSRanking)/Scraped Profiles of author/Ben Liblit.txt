@@ -1,0 +1,578 @@
+https://scholar.google.com/citations?hl=en&user=nvR1mBgAAAAJ
+Total Citations = 5175
+
+1. Scalable statistical bug isolation
+Citations:859
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: Acm Sigplan Notices 40 (6), 15-26
+
+2. Bug isolation via remote program sampling
+Citations:675
+Authors: B Liblit, A Aiken, AX Zheng, MI Jordan
+Publication: ACM Sigplan Notices 38 (5), 141-154
+
+3. Titanium: a high‐performance Java dialect
+Citations:646
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit, A Krishnamurthy, ...
+Publication: Concurrency and Computation: Practice and Experience 10 (11‐13), 825-836
+
+4. HOLMES: Effective statistical debugging via efficient path profiling
+Citations:276
+Authors: TM Chilimbi, B Liblit, K Mehra, AV Nori, K Vaswani
+Publication: Proceedings of the 31st International Conference on Software Engineering, 34-44
+
+5. Supporting nested transactional memory in LogTM
+Citations:241
+Authors: MJ Moravan, J Bobba, KE Moore, L Yen, MD Hill, B Liblit, MM Swift, ...
+Publication: ACM Sigplan Notices 41 (11), 359-370
+
+6. Automated atomicity-violation fixing
+Citations:199
+Authors: G Jin, L Song, W Zhang, S Lu, B Liblit
+Publication: ACM Sigplan Notices 46 (6), 389-400
+
+7. Statistical debugging: simultaneous identification of multiple bugs
+Citations:175
+Authors: AX Zheng, MI Jordan, B Liblit, M Naik, A Aiken
+Publication: Proceedings of the 23rd international conference on Machine learning, 1105-1112
+
+8. Titanium language reference manual
+Citations:163
+Authors: PN Hilfinger, D Bonachea, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: Computer Science
+
+9. Cooperative bug isolation: winning thesis of the 2005 ACM doctoral dissertation competition
+Citations:149
+Authors: B Liblit
+Publication: Springer
+
+10. Automated concurrency-bug fixing
+Citations:144
+Authors: G Jin, W Zhang, D Deng
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+11. Statistical debugging using latent topic models
+Citations:103
+Authors: D Andrzejewski, A Mulhern, B Liblit, X Zhu
+Publication: European conference on machine learning, 6-17
+
+12. Statistical debugging using compound boolean predicates
+Citations:102
+Authors: P Arumuga Nainar, T Chen, J Rosin, B Liblit
+Publication: Proceedings of the 2007 international symposium on Software testing and …
+
+13. Instrumentation and sampling strategies for cooperative concurrency bug isolation
+Citations:100
+Authors: G Jin, A Thakur, B Liblit, S Lu
+Publication: ACM Sigplan Notices 45 (10), 241-255
+
+14. Estimating the impact of scalable pointer analysis on optimization
+Citations:98
+Authors: M Das, B Liblit, M Fähndrich, J Rehof
+Publication: International Static Analysis Symposium, 260-278
+
+15. EIO: Error Handling is Occasionally Correct.
+Citations:82
+Authors: HS Gunawi, C Rubio-González, AC Arpaci-Dusseau, RH Arpaci-Dusseau, ...
+Publication: FAST 8, 1-16
+
+16. Cognitive Perspectives on the Role of Naming in Computer Programs.
+Citations:80
+Authors: B Liblit, A Begel, E Sweetser
+Publication: PPIG, 11
+
+17. Statistical debugging of sampled programs
+Citations:76
+Authors: AX Zheng, MI Jordan, B Liblit, A Aiken
+Publication: Advances in Neural Information Processing Systems, 603-610
+
+18. Directed proof generation for machine code
+Citations:68
+Authors: A Thakur, J Lim, A Lal, A Burton, E Driscoll, M Elder, T Andersen, T Reps
+Publication: International Conference on Computer Aided Verification, 288-305
+
+19. Extracting output formats from executables
+Citations:66
+Authors: J Lim, T Reps, B Liblit
+Publication: 2006 13th Working Conference on Reverse Engineering, 167-178
+
+20. Adaptive bug isolation
+Citations:65
+Authors: PA Nainar, B Liblit
+Publication: 2010 ACM/IEEE 32nd International Conference on Software Engineering 1, 255-264
+
+21. Lessons learned at 208k: towards debugging millions of cores
+Citations:62
+Authors: GL Lee, DH Ahn, DC Arnold, BR De Supinski, M Legendre, BP Miller, ...
+Publication: SC'08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing, 1-9
+
+22. Error propagation analysis for file systems
+Citations:57
+Authors: C Rubio-González, HS Gunawi, B Liblit, RH Arpaci-Dusseau, ...
+Publication: ACM sigplan notices 44 (6), 270-280
+
+23. Type systems for distributed data structures
+Citations:50
+Authors: B Liblit, A Aiken
+Publication: Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+24. Scalable temporal order analysis for large scale debugging
+Citations:49
+Authors: DH Ahn, BR De Supinski, I Laguna, GL Lee, B Liblit, BP Miller, M Schulz
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+25. Better debugging via output tracing and callstack-sensitive slicing
+Citations:42
+Authors: S Horwitz, B Liblit, M Polishchuk
+Publication: IEEE Transactions on Software Engineering 36 (1), 7-19
+
+26. Dynamic heap type inference for program understanding and debugging
+Citations:42
+Authors: M Polishchuk, B Liblit, CW Schulze
+Publication: ACM SIGPLAN Notices 42 (1), 39-46
+
+27. Building a better backtrace: Techniques for postmortem program analysis
+Citations:33
+Authors: B Liblit, A Aiken
+Publication: Computer Science Division, University of California
+
+28. Type systems for distributed data sharing
+Citations:31
+Authors: B Liblit, A Aiken, K Yelick
+Publication: International Static Analysis Symposium, 273-294
+
+29. Public deployment of cooperative bug isolation
+Citations:28
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: Proceedings of the Second International Workshop on Remote Analysis and …
+
+30. Lightweight control-flow instrumentation and postmortem analysis in support of debugging
+Citations:27
+Authors: P Ohmann, B Liblit
+Publication: Automated Software Engineering 24 (4), 865-904
+
+31. Path optimization in programs and its application to debugging
+Citations:26
+Authors: A Lal, J Lim, M Polishchuk, B Liblit
+Publication: European Symposium on Programming, 246-263
+
+32. The care and feeding of wild-caught mutants
+Citations:23
+Authors: DB Brown, M Vaughn, B Liblit, T Reps
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+33. Expect the unexpected: error code mismatches between documentation and the real world
+Citations:23
+Authors: C Rubio-González, B Liblit
+Publication: Proceedings of the 9th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+34. Cooperative debugging with five hundred million test cases.
+Citations:23
+Authors: B Liblit
+Publication: ISSTA, 119-120
+
+35. Distributed program sampling
+Citations:23
+Authors: B Liblit, A Aiken, AX Zheng, MI Jordan
+Publication: Proceedings of PLDI’03
+
+36. Automatic generation of library bindings using static analysis
+Citations:21
+Authors: T Ravitch, S Jackson, E Aderhold, B Liblit
+Publication: ACM Sigplan Notices 44 (6), 352-362
+
+37. Defective error/pointer interactions in the linux kernel
+Citations:19
+Authors: C Rubio-González, B Liblit
+Publication: Proceedings of the 2011 International Symposium on Software Testing and …
+
+38. Cooperative Bug Isolation Project
+Citations:19
+Authors: B Liblit
+Publication: 
+
+39. Sampling user executions for bug isolation
+Citations:17
+Authors: B Liblit, A Aiken, AX Zheng, MI Jordan
+Publication: Proceedings of the Workshop on Remote Analysis and Measurement of Software …
+
+40. Code vectors: Understanding programs through embedded abstracted symbolic traces
+Citations:15
+Authors: J Henkel, SK Lahiri, B Liblit, T Reps
+Publication: Proceedings of the 2018 26th ACM Joint Meeting on European Software …
+
+41. An operational semantics for LogTM
+Citations:15
+Authors: B Liblit
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+42. Optimizing customized program coverage
+Citations:13
+Authors: P Ohmann, DB Brown, N Neelakandan, J Linderoth, B Liblit
+Publication: Proceedings of the 31st IEEE/ACM International Conference on Automated …
+
+43. Cooperative crug isolation
+Citations:12
+Authors: A Thakur, R Sen, B Liblit, S Lu
+Publication: Proceedings of the Seventh International Workshop on Dynamic Analysis, 35-41
+
+44. Fixing, preventing, and recovering from concurrency bugs
+Citations:11
+Authors: DD Deng, GL Jin, M de Kruijf, A Li, B Liblit, S Lu, SX Qi, JL Ren, ...
+Publication: Science China Information Sciences 58 (5), 1-18
+
+45. Titanium language reference manual, version 2.19
+Citations:11
+Authors: PN Hilfinger, DO Bonachea, K Datta, D Gay, SL Graham, BR Liblit, G Pike, ...
+Publication: Technical Report UCB/EECS-2005–15
+
+46. Control-flow recovery from partial failure reports
+Citations:9
+Authors: P Ohmann, A Brooks, L D'Antoni, B Liblit
+Publication: ACM SIGPLAN Notices 52 (6), 390-405
+
+47. Statistical debugging: Simultaneous isolation of multiple bugs
+Citations:8
+Authors: A Zheng, M Jordan, B Liblit, M Naik, A Aiken
+Publication: Proc. 23rd Int. Conf. Mach. Learning, 1105-1112
+
+48. Database-backed program analysis for scalable error propagation
+Citations:7
+Authors: C Weiss, C Rubio-González, B Liblit
+Publication: Proceedings of the 37th international conference on Software Engineering …
+
+49. Source forager: a search engine for similar source code
+Citations:6
+Authors: V Kashyap, DB Brown, B Liblit, D Melski, T Reps
+Publication: arXiv preprint arXiv:1706.02769
+
+50. CSIclipse: presenting crash analysis data to developers
+Citations:6
+Authors: P Ohmann, B Liblit
+Publication: Proceedings of the on Eclipse Technology eXchange, 7-12
+
+51. Tool support for proof engineering
+Citations:6
+Authors: A Mulhern, C Fischer, B Liblit
+Publication: Electronic Notes in Theoretical Computer Science 174 (2), 75-86
+
+52. Statistical approach to the debate on Urdu and Hindi
+Citations:5
+Authors: S Martynyuk
+Publication: The Annual of Urdu Studies 18
+
+53. Array length inference for c library bindings
+Citations:4
+Authors: AJ Maas, H Nazaré, B Liblit
+Publication: Proceedings of the 31st IEEE/ACM International Conference on Automated …
+
+54. Analyzing memory ownership patterns in C libraries
+Citations:4
+Authors: T Ravitch, B Liblit
+Publication: ACM SIGPLAN Notices 48 (11), 97-108
+
+55. BTRACE: Path optimization for debugging
+Citations:4
+Authors: A Lal, J Lim, M Polishchuk, B Liblit
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+56. Processor Characteristic Selection for Embedded Applications via Genetic Algorithms
+Citations:4
+Authors: S Agarwal, E Chan, B Liblit, CJ Lin
+Publication: University Of California, Berkeley
+
+57. Titanium: A high-performance Java dialect
+Citations:4
+Authors: KY Luigi, L Semenzato, G Pike, C Miyamoto, B Liblit, A Krishnamurthy, ...
+Publication: In ACM
+
+58. Encoding optimal customized coverage instrumentation
+Citations:3
+Authors: P Ohmann, DB Brown, N Neelakandan, J Linderoth, B Liblit
+Publication: Technical Report 1836, Department of Computer Sciences, University of …
+
+59. Recovering execution data from incomplete observations
+Citations:3
+Authors: P Ohmann, DB Brown, B Liblit, T Reps
+Publication: Proceedings of the 13th International Workshop on Dynamic Analysis, 19-24
+
+60. Applications of static analysis and program structure in statistical debugging
+Citations:3
+Authors: PA Nainar, BR Liblit
+Publication: University of Wisconsin at Madison, Madison, WI
+
+61. Statistical debugging using paths and adaptive profiling
+Citations:3
+Authors: T Chilimbi, KK Mehra, BR Liblit, AV Nori, K Vaswani
+Publication: US Patent 8,065,565
+
+62. Reflections on the role of static analysis in cooperative bug isolation
+Citations:3
+Authors: B Liblit
+Publication: International Static Analysis Symposium, 18-31
+
+63. Effective slicing: A generalization of full and relevant slicing
+Citations:3
+Authors: A Mulhern, B Liblit
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+64. Statistical debugging in the presence of multiple errors
+Citations:3
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: 23rd international conference on Machine learning, Pittsburgh, 1105-1112
+
+65. Data sharing analysis for Titanium
+Citations:3
+Authors: B Liblit, A Aiken, K Yelick
+Publication: Computer Science Division, University of California
+
+66. Local Qualification Inference for Titanium
+Citations:3
+Authors: B Liblit
+Publication: Aug
+
+67. Themis: Enforcing Titanium Consistency on the NOW
+Citations:3
+Authors: C Miyamoto, B Liblit
+Publication: UC Berkeley, CS262 Semester Project Report
+
+68. Supporting proofs for control-flow recovery from partial failure reports
+Citations:2
+Authors: P Ohmann, A Brooks, L D'Antoni, B Liblit
+Publication: 
+
+69. Evolvix BEST Names for semantic reproducibility across code2brain interfaces
+Citations:2
+Authors: L Loewe, KS Scheuer, SA Keel, V Vyas, B Liblit, B Hanlon, MC Ferris, ...
+Publication: Annals of the New York Academy of Sciences 1387 (1), 124
+
+70. Enforcing Murphy’s Law for advance identification of run-time failures
+Citations:2
+Authors: Z Miller, T Tannenbaum, B Liblit
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+71. Finding Error-Handling Bugs in Systems Code Using Static Analysis
+Citations:2
+Authors: C Rubio-González, B Liblit
+Publication: PhD Forum of the Grace Hopper Celebration of Women in Computing, Portland …
+
+72. Titanium
+Citations:2
+Authors: K Yelick, SL Graham, P Hilfinger, D Bonachea, J Su, A Kamil, K Datta, ...
+Publication: Encyclopedia of Parallel Computing, 2049-2055
+
+73. SC’08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing
+Citations:2
+Authors: JC Phillips, JE Stone, K Schulten
+Publication: 
+
+74. Development of metal nanoparticle immunoconjugates for correlative labeling in light and electron micro [s] copy and as active targeted delivery systems
+Citations:2
+Authors: IK Kandela, DL Weimer, D Heinritz, J Yang, KE Utphall, AJ Budleski, ...
+Publication: Development 60 (80), 100
+
+75. WHATSAT: Dynamic heap type inference for program understanding and debugging
+Citations:2
+Authors: M Polishchuk, B Liblit, CW Schulze
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+76. Murphy: An environment for advance identification of run-time failures
+Citations:1
+Authors: Z Miller, T Tannenbaum, B Liblit
+Publication: 
+
+77. Titanium Language Reference Manual, Version 2.20
+Citations:1
+Authors: D Bonachea, P Hilfinger, K Datta, D Gay, S Graham, A Kamil, B Liblit, ...
+Publication: 
+
+78. Transformation of prolog programs to perform update in place: A prototype code synthesizer
+Citations:1
+Authors: BR Liblit
+Publication: Pennsylvania State University
+
+79. Enabling Open-World Specification Mining via Unsupervised Learning
+Citations:
+Authors: J Henkel, SK Lahiri, B Liblit, T Reps
+Publication: arXiv preprint arXiv:1904.12098
+
+80. Cores, Debugging, and Coverage
+Citations:
+Authors: P Ohmann, B Liblit
+Publication: 
+
+81. Citation TR1793 Date Jun 04, 2015
+Citations:
+Authors: P Ohmann, B Liblit
+Publication: 
+
+82. Statistically Debugging Massively-Parallel Applications
+Citations:
+Authors: BR de Supinski, B Liblit, T Ravitch
+Publication: 
+
+83. We will be migrating the MINDS@ UW platform to a new server on Monday, May 23, beginning at approximately 9: 00 AM. You may experience intermittent interruptions in service …
+Citations:
+Authors: BR de Supinski, B Liblit, T Ravitch
+Publication: 
+
+84. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+85. Final Report on Statistical Debugging for Petascale Environments
+Citations:
+Authors: B Liblit
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+86. Qualifying-Exam Syllabus: Programming Languages and Compilers
+Citations:
+Authors: S Horwitz, S Jha, B Liblit, T Reps
+Publication: 
+
+87. Citation TR1770 Date Apr 27, 2012
+Citations:
+Authors: Z Miller, T Tannenbaum, B Liblit
+Publication: 
+
+88. A router primitive approach for building diverse network services
+Citations:
+Authors: J Sommers, P Barford, B Liblit
+Publication: 2012 Fourth International Conference on Communication Systems and Networks …
+
+89. Automated detection and repair of concurrency bugs
+Citations:
+Authors: B Liblit
+Publication: Haifa Verification Conference, 3-3
+
+90. Lightweight and Statistical Techniques for Petascale Debugging: Correctness on Petascale Systems (CoPS) Preliminry Report
+Citations:
+Authors: BR de Supinski, BP Miller, B Liblit
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+91. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+92. Continuous Improvement of Deployed Software Systems
+Citations:
+Authors: B Liblit
+Publication: WISCONSIN UNIV-MADISON DEPT OF COMPUTER SCIENCES
+
+93. ARE ENGINEERING
+Citations:
+Authors: J Kramer, B Nuseibeh, S Horwotiz, B Liblit, M Polishchuk, N Moha, ...
+Publication: 
+
+94. On Varying the Detectability of Symbols to Encode Data Uncertainty
+Citations:
+Authors: DP Huffman
+Publication: 
+
+95. ARE ENGINEERING
+Citations:
+Authors: J Kramer, C Ye, SC Cheung, WK Chan, C Xu, S Elbaum, HN Chin, ...
+Publication: 
+
+96. WODA 2008: the sixth international workshop on dynamic analysis
+Citations:
+Authors: B Liblit, A Rountev
+Publication: Proceedings of the 2008 international symposium on Software testing and …
+
+97. Instrumentation Framework
+Citations:
+Authors: B Liblit
+Publication: Cooperative Bug Isolation, 7-38
+
+98. Practical Considerations
+Citations:
+Authors: B Liblit
+Publication: Cooperative Bug Isolation, 39-54
+
+99. Heap Typability is NP-Complete
+Citations:
+Authors: M Elder, B Liblit
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+100. Techniques for Statistical Debugging
+Citations:
+Authors: B Liblit
+Publication: Cooperative Bug Isolation, 55-88
+
+101. Postdoctoral Research Staff Member
+Citations:
+Authors: D Andrzejewski, A Mulhern, B Liblit
+Publication: Sciences 4 (1), 213-225
+
+102. Compiling Explicitly Parallel Programs
+Citations:
+Authors: K Yelick, L Semenzato, G Pike, C Miyamoto, B Liblit
+Publication: CALIFORNIA UNIV BERKELEY
+
+103. Speaking in Code: Cognitive Perspectives on the Role of Naming in Computer Programs
+Citations:
+Authors: B Liblit
+Publication: 
+
+104. T i-PETSc: Integrating Titanium with PETSc
+Citations:
+Authors: Y He, B Liblit, C Lin
+Publication: 
+
+105. Coordination of program communication between departments of residence life and student activities at four year public institutions in an upper midwest region
+Citations:
+Authors: K Barak
+Publication: 
+
+106. Statistical debugging: A hypothesis testing-based approach.
+Citations:
+Authors: Y Li, C Liu, I Vessey, JA Jones, MJ Harrold, J Stasko, R Abreu, ...
+Publication: Journal of Software Engineering 8 (4), 459-494
+
+107. Static strength and deflection in steel pipe threads subjected to bending
+Citations:
+Authors: AA Mansour
+Publication: 
+
+108. The Open Source Proving Grounds
+Citations:
+Authors: B Liblit
+Publication: 
+
+109. Providing Order to Extreme Scale Debugging Chaos
+Citations:
+Authors: DH Ahn, BR de Supinski, I Laguna, GL Lee, M Schulz, DC Arnold, ...
+Publication: 
+
+110. 4.4 Tutorial: Automated Repair of Concurrency Bugs
+Citations:
+Authors: B Liblit
+Publication: Synergies among Testing, Verification, and Repair for Concurrent Programs, 65
+
+111. Statistical Debugging with Latent Topic Models
+Citations:
+Authors: D Andrzejewski, A Mulhern, B Liblit, X Zhu
+Publication: 
+
+112. MSR-09 Program Committee
+Citations:
+Authors: G Antoniol, A Begel, S Diehl, M di Penta, H Gall, D German, T Girba, ...
+Publication: 
+
+113. Haryadi S. Gunawi
+Citations:
+Authors: HS Gunawi, S Subramanian, R Vaidyanathan, Y Zhang, ...
+Publication: 
+
+114. Statistically Debugging Massively-Parallel Applications
+Citations:
+Authors: T Ravitch, B Liblit, BR De Supinski
+Publication: 
+
+115. Summarizing Calling Contexts
+Citations:
+Authors: P Prabhu, T Reps, B Liblit
+Publication: 
+

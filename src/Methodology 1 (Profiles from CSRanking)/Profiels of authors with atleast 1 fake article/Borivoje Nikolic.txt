@@ -1,0 +1,670 @@
+
+2. Introduction to stochastic processes in biostatistics
+Citations:2359
+Authors: CL Chiang
+Publication: 
+
+9. FinFET-based SRAM design
+Citations:188
+Authors: Z Guo, S Balasubramanian, R Zlatanovici, TJ King, B Nikolić
+Publication: Proceedings of the 2005 international symposium on Low power electronics and …
+
+16. A design environment for high-throughput low-power dedicated signal processing systems
+Citations:151
+Authors: WR Davis, N Zhang, K Camera, D Markovic, T Smilkstein, MJ Ammer, ...
+Publication: IEEE Journal of Solid-State Circuits 37 (3), 420-431
+
+22. Design methodology for PicoRadio networks
+Citations:95
+Authors: JL Da Silva, J Shamberger, MJ Ammer, C Guo, S Li, R Shah, T Tuan, ...
+Publication: Proceedings Design, Automation and Test in Europe. Conference and Exhibition …
+
+31. A general method in synthesis of pass-transistor circuits
+Citations:75
+Authors: D Marković, B Nikolić, VG Oklobdžija
+Publication: Microelectronics Journal 31 (11-12), 991-998
+
+36. Design of energy-and cost-efficient massive MIMO arrays
+Citations:61
+Authors: A Puglielli, A Townley, G LaCaille, V Milovanović, P Lu, K Trotskovsky, ...
+Publication: Proceedings of the IEEE 104 (3), 586-606
+
+38. Background ADC calibration in digital domain
+Citations:58
+Authors: C Tsang, Y Chiu, J Vanderhaegen, S Hoyos, C Chen, R Brodersen, ...
+Publication: 2008 IEEE Custom Integrated Circuits Conference, 301-304
+
+39. PetaOp/Second FPGA signal processing for SETI and radio astronomy
+Citations:58
+Authors: A Parsons, D Backer, C Chang, D Chapman, H Chen, P Crescini, ...
+Publication: 2006 Fortieth Asilomar Conference on Signals, Systems and Computers, 2031-2035
+
+45. Rapid design and analysis of communication systems using the BEE hardware emulation environment
+Citations:54
+Authors: C Chang, K Kuusilinna, B Richards, A Chen, N Chan, RW Brodersen, ...
+Publication: 14th IEEE International Workshop on Rapid Systems Prototyping, 2003 …
+
+50. Per-core DVFS with switched-capacitor converters for energy efficiency in manycore processors
+Citations:49
+Authors: R Jevtić, HP Le, M Blagojević, S Bailey, K Asanović, E Alon, B Nikolić
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 23 (4), 723-730
+
+54. Cooperative communication for high-reliability low-latency wireless control
+Citations:46
+Authors: VN Swamy, S Suri, P Rigge, M Weiner, G Ranade, A Sahai, B Nikolić
+Publication: 2015 IEEE International Conference on Communications (ICC), 4380-4386
+
+56. LDPC decoder architecture for high-data rate personal-area networks
+Citations:43
+Authors: M Weiner, B Nikolić, Z Zhang
+Publication: 2011 IEEE International Symposium of Circuits and Systems (ISCAS), 1784-1787
+
+58. Impact of random telegraph signals on Vminin 45nm SRAM
+Citations:39
+Authors: SO Toh, Y Tsukamoto, Z Guo, L Jones, TJK Liu, B Nikolić
+Publication: 2009 IEEE International Electron Devices Meeting (IEDM), 1-4
+
+59. An agile approach to building RISC-V microprocessors
+Citations:38
+Authors: Y Lee, A Waterman, H Cook, B Zimmer, B Keller, A Puggelli, J Kwak, ...
+Publication: IEEE Micro 36 (2), 8-20
+
+62. A RISC-V vector processor with simultaneous-switching switched-capacitor DC–DC converters in 28 nm FDSOI
+Citations:37
+Authors: B Zimmer, Y Lee, A Puggelli, J Kwak, R Jevtić, B Keller, S Bailey, ...
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 930-942
+
+63. A Wideband 400 MHz-to-4 GHz Direct RF-to-Digital Multimode Receiver
+Citations:37
+Authors: C Wu, E Alon, B Nikolić
+Publication: IEEE Journal of Solid-State Circuits 49 (7), 1639-1652
+
+67. Digital integrated circuits: a design perspective
+Citations:33
+Authors: Jan M.. Rabaey, A Chandrakasan, B Nikolić
+Publication: 
+
+68. A RISC-V vector processor with tightly-integrated switched-capacitor DC-DC converters in 28nm FDSOI
+Citations:32
+Authors: B Zimmer, Y Lee, A Puggelli, J Kwak, R Jevtic, B Keller, S Bailey, ...
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C316-C317
+
+71. A fast, flexible, positive and negative adaptive body-bias generator in 28nm FDSOI
+Citations:29
+Authors: M Blagojević, M Cochet, B Keller, P Flatresse, A Vladimirescu, B Nikolić
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+73. Dynamic SRAM stability characterization in 45nm CMOS
+Citations:28
+Authors: SO Toh, Z Guo, B Nikolić
+Publication: 2010 Symposium on VLSI Circuits, 35-36
+
+77. FireSim: FPGA-accelerated cycle-exact scale-out system simulation in the public cloud
+Citations:25
+Authors: S Karandikar, H Mao, D Kim, D Biancolin, A Amid, D Lee, N Pemberton, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+78. 6T SRAM design for wide voltage range in 28nm FDSOI
+Citations:25
+Authors: O Thomas, B Zimmer, B Pelloux-Prayer, N Planes, KC Akyel, L Ciampolini, ...
+Publication: 2012 IEEE International SOI Conference (SOI), 1-2
+
+81. Network coding for high-reliability low-latency wireless control
+Citations:23
+Authors: VN Swamy, P Rigge, G Ranade, A Sahai, B Nikolić
+Publication: 2016 IEEE Wireless Communications and Networking Conference Workshops (WCNCW …
+
+87. Real-time cooperative communication for automation over wireless
+Citations:21
+Authors: VN Swamy, S Suri, P Rigge, M Weiner, G Ranade, A Sahai, B Nikolić
+Publication: IEEE Transactions on Wireless Communications 16 (11), 7168-7183
+
+88. Quantize-map-and-forward relaying: Coding and system design
+Citations:21
+Authors: V Nagpal, IH Wang, M Jorgovanovic, D Tse, B Nikolić
+Publication: 2010 48th Annual Allerton Conference on Communication, Control, and …
+
+90. A 1–190MSample/s 8–64 tap energy-efficient reconfigurable FIR filter for multi-mode wireless communication
+Citations:20
+Authors: F Sheikh, M Miller, B Richards, D Marković, B Nikolić
+Publication: 2010 Symposium on VLSI Circuits, 207-208
+
+94. Planar fully depleted SOI technology: The convergence of high performance and low power towards multimedia mobile applications
+Citations:19
+Authors: B Pelloux-Prayer, M Blagojević, O Thomas, A Amara, A Vladimirescu, ...
+Publication: 2012 IEEE Faible Tension Faible Consommation, 1-4
+
+95. Analysis of the relationship between random telegraph signal and negative bias temperature instability
+Citations:19
+Authors: Y Tsukamoto, SO Toh, C Shin, A Mairena, TJK Liu, B Nikolić
+Publication: 2010 IEEE International Reliability Physics Symposium, 1117-1121
+
+97. Power–performance optimization for custom digital circuits
+Citations:19
+Authors: R Zlatanovici, B Nikolić
+Publication: International Workshop on Power and Timing Modeling, Optimization and …
+
+99. Circuit design in nanoscale FDSOI technologies
+Citations:18
+Authors: B Nikolić, M Blagojević, O Thomas, P Flatresse, A Vladimirescu
+Publication: 2014 29th International Conference on Microelectronics Proceedings-MIEL 2014 …
+
+100. Multiple-input relay design for more compact implementation of digital logic circuits
+Citations:18
+Authors: J Jeon, L Hutin, R Jevtic, N Liu, Y Chen, R Nathanael, W Kwon, ...
+Publication: IEEE Electron Device Letters 33 (2), 281-283
+
+104. Analysis and design of integrated active cancellation transceiver for frequency division duplex systems
+Citations:16
+Authors: L Calderin, S Ramakrishnan, A Puglielli, E Alon, B Nikolić, AM Niknejad
+Publication: IEEE Journal of Solid-State Circuits 52 (8), 2038-2054
+
+105. An FD/FDD transceiver with RX band thermal, quantization, and phase noise rejection and> 64dB TX signal cancellation
+Citations:16
+Authors: S Ramakrishnan, L Calderin, A Niknejad, B Nikolić
+Publication: 2017 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), 352-355
+
+106. An interference-resilient wideband mixer-first receiver with lo leakage suppression and I/Q correlated orthogonal calibration
+Citations:16
+Authors: C Wu, Y Wang, B Nikolić, C Hull
+Publication: IEEE transactions on microwave theory and techniques 64 (4), 1088-1101
+
+109. A 15 MHz to 600 MHz, 20 mW, 0.38 mm Split-Control, Fast Coarse Locking Digital DLL in 0.13 m CMOS
+Citations:16
+Authors: S Hoyos, CW Tsang, J Vanderhaegen, Y Chiu, Y Aibara, H Khorramabadi, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 20 (3), 564-568
+
+113. A 65nm CMOS transceiver with integrated active cancellation supporting FDD from 1GHz to 1.8 GHz at+ 12.6 dBm TX power leakage
+Citations:15
+Authors: S Ramakrishnan, L Calderin, A Puglielli, E Alon, A Niknejad, B Nikolić
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+114. Impact of random telegraph signaling noise on SRAM stability
+Citations:15
+Authors: SO Toh, TJK Liu, B Nikolić
+Publication: 2011 Symposium on VLSI Technology-Digest of Technical Papers, 204-205
+
+116. Phase noise scaling and tracking in OFDM multi-user beamforming arrays
+Citations:14
+Authors: A Puglielli, G LaCaille, AM Niknejad, G Wright, B Nikolić, E Alon
+Publication: 2016 IEEE International Conference on Communications (ICC), 1-6
+
+122. Simpler, more efficient design
+Citations:12
+Authors: B Nikolić
+Publication: ESSCIRC Conference 2015-41st European Solid-State Circuits Conference …
+
+123. Raven: A 28nm RISC-V vector processor with integrated switched-capacitor DC-DC converters and adaptive clocking
+Citations:12
+Authors: Y Lee, B Zimmer, A Waterman, A Puggelli, J Kwak, R Jevtic, B Keller, ...
+Publication: 2015 IEEE Hot Chips 27 Symposium (HCS), 1-45
+
+124. Hierarchical modeling of spatial variability with a 45nm example
+Citations:12
+Authors: K Qian, B Nikolić, CJ Spanos
+Publication: Design for Manufacturability through Design-Process Integration III 7275, 727505
+
+126. A RISC-V processor SoC with integrated power management at submicrosecond timescales in 28 nm FD-SOI
+Citations:11
+Authors: B Keller, M Cochet, B Zimmer, J Kwak, A Puggelli, Y Lee, M Blagojević, ...
+Publication: IEEE Journal of Solid-State Circuits 52 (7), 1863-1875
+
+128. Real-Time System-on-a-Chip Emulation
+Citations:11
+Authors: K Kuusilinna, C Chang, HM Bluethgen, WR Davis, B Richards, B Nikolić, ...
+Publication: Winning the SoC Revolution, 229-253
+
+130. Circuitos integrados digitales: una perspectiva de diseño
+Citations:10
+Authors: JM Rabaey, A Chandrakasan, B Nikolić
+Publication: Pearson Educación
+
+132. A differential 2R crosspoint RRAM array with zero standby current
+Citations:9
+Authors: PF Chiu, B Nikolić
+Publication: IEEE Transactions on Circuits and Systems II: Express Briefs 62 (5), 461-465
+
+133. Dynamic single-p-well SRAM bitcell characterization with back-bias adjustment for optimized wide-voltage-range SRAM operation in 28nm UTBB FD-SOI
+Citations:9
+Authors: O Thomas, B Zimmer, SO Toh, L Ciampolini, N Planes, R Ranica, ...
+Publication: 2014 IEEE International Electron Devices Meeting, 3.4. 1-3.4. 4
+
+134. OxRAM-based non volatile flip-flop in 28nm FDSOI
+Citations:9
+Authors: N Jovanović, O Thomas, E Vianello, JM Portal, B Nikolić, L Naviner
+Publication: 2014 IEEE 12th International New Circuits and Systems Conference (NEWCAS …
+
+142. A double-tail sense amplifier for low-voltage SRAM in 28nm technology
+Citations:8
+Authors: PF Chiu, B Zimmer, B Nikolić
+Publication: 2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), 181-184
+
+143. Quasi-planar bulk CMOS technology for improved SRAM scalability
+Citations:8
+Authors: C Shin, CH Tsai, MH Wu, CF Chang, YR Liu, CY Kao, GS Lin, KL Chiu, ...
+Publication: Solid-State Electronics 65, 184-190
+
+146. Wireless channel dynamics and robustness for ultra-reliable low-latency communications
+Citations:7
+Authors: VN Swamy, P Rigge, G Ranade, B Nikolić, A Sahai
+Publication: IEEE Journal on Selected Areas in Communications 37 (4), 705-720
+
+147. A self-adjustable clock generator with wide dynamic range in 28 nm FDSOI
+Citations:7
+Authors: J Kwak, B Nikolić
+Publication: IEEE Journal of Solid-State Circuits 51 (10), 2368-2379
+
+155. A 225 μm Probe Single-Point Calibration Digital Temperature Sensor Using Body-Bias Adjustment in 28 nm FD-SOI CMOS
+Citations:6
+Authors: M Cochet, B Keller, S Clerc, F Abouzeid, A Cathelin, JL Autran, P Roche, ...
+Publication: IEEE Solid-State Circuits Letters 1 (1), 14-17
+
+156. Sub-microsecond adaptive voltage scaling in a 28nm FD-SOI processor SoC
+Citations:6
+Authors: B Keller, M Cochet, B Zimmer, Y Lee, M Blagojevic, J Kwak, A Puggelli, ...
+Publication: ESSCIRC Conference 2016: 42nd European Solid-State Circuits Conference, 269-272
+
+157. Joint impact of random variations and RTN on dynamic writeability in 28nm bulk and FDSOI SRAM
+Citations:6
+Authors: B Zimmer, O Thomas, SO Toh, T Vincent, K Asanović, B Nikolić
+Publication: 2014 44th European Solid State Device Research Conference (ESSDERC), 98-101
+
+164. Reprogrammable Redundancy for SRAM-Based Cache Reduction in a 28-nm RISC-V Processor
+Citations:5
+Authors: B Zimmer, PF Chiu, B Nikolić, K Asanović
+Publication: IEEE Journal of Solid-State Circuits 52 (10), 2589-2600
+
+165. A 65-nm CMOS wideband TDD front-end with integrated T/R switching via PA re-use
+Citations:5
+Authors: X Xiao, A Pratt, B Yang, A Wang, AM Niknejad, E Alon, B Nikolić
+Publication: IEEE Journal of Solid-State Circuits 52 (7), 1768-1782
+
+166. On-chip I–V variability and random telegraph noise characterization in 28 nm CMOS
+Citations:5
+Authors: A Whitcombe, S Taylor, M Denham, V Milovanović, B Nikolić
+Publication: 2016 46th European Solid-State Device Research Conference (ESSDERC), 248-251
+
+167. Design considerations for reliable OxRAM-based non-volatile flip-flops in 28nm FD-SOI technology
+Citations:5
+Authors: N Jovanovic, O Thomas, E Vianello, B Nikolić, L Naviner
+Publication: 2016 IEEE International Symposium on Circuits and Systems (ISCAS), 1146-1149
+
+168. A frequency-reconfigurable multi-standard 65nm CMOS digital transmitter with LTCC interposers
+Citations:5
+Authors: NC Kuo, B Yang, C Wu, L Kong, A Wang, M Reiha, E Alon, AM Niknejad, ...
+Publication: 2014 IEEE Asian Solid-State Circuits Conference (A-SSCC), 345-348
+
+171. Segmented tri-gate bulk CMOS technology for device variability improvement
+Citations:5
+Authors: CH Tsai, TJK Liu, SH Tsai, CF Chang, YM Tseng, R Liao, RM Huang, ...
+Publication: Proceedings of 2010 International Symposium on VLSI Technology, System and …
+
+172. Parameter-specific electronic measurement and analysis of sources of variation using ring oscillators
+Citations:5
+Authors: LTN Wang, LT Pang, AR Neureuther, B Nikolić
+Publication: Design for Manufacturability through Design-Process Integration III 7275, 72750L
+
+173. A 15 MHz – 600 MHz, 20 mW, 0.38 mm2, fast coarse locking digital DLL in 0.13μm CMOS
+Citations:5
+Authors: S Hoyos, CW Tsang, J Vanderhaegen, Y Chiu, Y Aibara, H Khorramabadi, ...
+Publication: ESSCIRC 2008-34th European Solid-State Circuits Conference, 90-93
+
+175. A Hierarchical, Automated Design Flow for Low-power, High-throughput Digital Signal Processing IC's
+Citations:5
+Authors: WR Davis, N Zhang, K Camera, D Markovic, T Smilkstein, N Chan, ...
+Publication: University of California, Berkeley
+
+176. An automated design flow for low-power, high-throughput, dedicated signal processing systems
+Citations:5
+Authors: WR Davis, N Zhang, K Camera, D Markovic, T Smilkstein, N Chan, ...
+Publication: Conference Record of Thirty-Fifth Asilomar Conference on Signals, Systems …
+
+179. A 28nm FDSOI 8192-point digital ASIC spectrometer from a Chisel generator
+Citations:4
+Authors: S Bailey, J Wright, N Mehta, R Hochman, R Jarnot, V Milovanović, ...
+Publication: 2018 IEEE Custom Integrated Circuits Conference (CICC), 1-4
+
+180. A 550–2260MHz self-adjustable clock generator in 28nm FDSOI
+Citations:4
+Authors: J Kwak, B Nikolić
+Publication: 2015 IEEE Asian Solid-State Circuits Conference (A-SSCC), 1-4
+
+187. A real-time, analog/digital co-designed 1.89-GHz bandwidth, 175-kHz resolution sparse spectral analysis RISC-V SoC in 16-nm FinFET
+Citations:3
+Authors: A Wang, W Bae, J Han, S Bailey, P Rigge, O Ocal, Z Wang, ...
+Publication: ESSCIRC 2018-IEEE 44th European Solid State Circuits Conference (ESSCIRC …
+
+188. ACED: A hardware library for generating DSP systems
+Citations:3
+Authors: A Wang, P Rigge, A Izraelevitz, C Markley, J Bachrach, B Nikolić
+Publication: Proceedings of the 55th Annual Design Automation Conference, 61
+
+189. An out-of-order RISC-V processor with resilient low-voltage operation in 28nm CMOS
+Citations:3
+Authors: PF Chiu, C Celio, K Asanović, D Patterson, B Nikolić
+Publication: 2018 IEEE Symposium on VLSI Circuits, 61-62
+
+190. A wideband all-digital CMOS RF transmitter on HDI interposers with high power and efficiency
+Citations:3
+Authors: NC Kuo, B Yang, A Wang, L Kong, C Wu, VP Srini, E Alon, B Nikolić, ...
+Publication: IEEE Transactions on Microwave Theory and Techniques 65 (11), 4724-4743
+
+191. Relay scheduling and interference cancellation for quantize-map-and-forward cooperative relaying
+Citations:3
+Authors: M Jorgovanovic, M Weiner, D Tse, B Nikolić, IH Wang, V Nagpal
+Publication: 2013 IEEE International Symposium on Information Theory, 1959-1963
+
+194. Low error rate LDPC decoders
+Citations:3
+Authors: Z Zhang, L Dolecek, P Lee, V Anantharam, MJ Wainwright, B Richards, ...
+Publication: 2009 Conference Record of the Forty-Third Asilomar Conference on Signals …
+
+196. High throughput VLSI architectures for iterative decoders.
+Citations:3
+Authors: E Yeo
+Publication: 
+
+206. A Generated Multirate Signal Analysis RISC-V SoC in 16nm FinFET
+Citations:2
+Authors: S Bailey, J Han, P Rigge, R Lin, E Chang, H Mao, Z Wang, C Markley, ...
+Publication: 2018 IEEE Asian Solid-State Circuits Conference (A-SSCC), 285-288
+
+208. A 0.4-to-4-GHz All-Digital RF Transmitter Package With a Band-Selecting Interposer Combining Three Wideband CMOS Transmitters
+Citations:2
+Authors: NC Kuo, B Yang, A Wang, L Kong, C Wu, VP Srini, E Alon, B Nikolić, ...
+Publication: IEEE Transactions on Microwave Theory and Techniques 66 (11), 4967-4984
+
+210. A 65-nm CMOS RF Power DAC With 24- to 42-dB Third-Harmonic Cancellation and Up to 18-dB Mixed-Signal Filtering
+Citations:2
+Authors: B Yang, EY Chang, AM Niknejad, B Nikolić, E Alon
+Publication: IEEE Journal of Solid-State Circuits 53 (4), 1127-1138
+
+212. Reprogrammable redundancy for cache Vminreduction in a 28nm RISC-V processor
+Citations:2
+Authors: B Zimmer, PF Chiu, B Nikolić, K Asanović
+Publication: 2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), 121-124
+
+213. Splash: Single-chip planetary low-power asic spectrometer with high-resolution
+Citations:2
+Authors: R Hochman, M Wagner, B Richards
+Publication: Technical Report No. UCB/EECS-2014-230
+
+217. SYSTEMS-ON-CHIP: DESIGN AND INTEGRATION
+Citations:2
+Authors: R Saleh, S Wilton, S Mirabbasi, A Hu, M Greenstreet, G Lemieux, ...
+Publication: Proceedings of the IEEE 94 (6)
+
+218. Power–performance optimization for custom digital circuits
+Citations:2
+Authors: R Zlatanovici, B Nikolić
+Publication: Journal of Low Power Electronics 2 (1), 113-120
+
+219. Performance of deeply-scaled, power-constrained circuits
+Citations:2
+Authors: B Nikolić, L Chang, TJ King
+Publication: In International Conference on Solid State Devices and Materials
+
+220. Real-time system-on-a-chip emulation: emulation driven system design with direct mapped virtual components
+Citations:2
+Authors: K Kuusilinna, C Chang, H Bluethgen, W Rhett, B Richards, B Nikolić, ...
+Publication: in Winning the SoC Revolution
+
+224. A Real-Time, 1.89-GHz Bandwidth, 175-kHz Resolution Sparse Spectral Analysis RISC-V SoC in 16-nm FinFET
+Citations:1
+Authors: A Wang, W Bae, J Han, S Bailey, O Ocal, P Rigge, Z Wang, ...
+Publication: IEEE Journal of Solid-State Circuits 54 (7), 1993-2008
+
+225. BROOM: An Open-Source Out-of-Order Processor With Resilient Low-Voltage Operation in 28-nm CMOS
+Citations:1
+Authors: C Celio, PF Chiu, K Asanović, B Nikolić, D Patterson
+Publication: IEEE Micro 39 (2), 52-60
+
+226. Cache Resiliency Techniques for a Low-Voltage RISC-V Out-of-Order Processor in 28-nm CMOS
+Citations:1
+Authors: PF Chiu, C Celio, K Asanović, B Nikolić, D Patterson
+Publication: IEEE Solid-State Circuits Letters 1 (12), 229-232
+
+227. A 0.25–1.7-GHz, 3.9–13.7-mW Power-Scalable,− 10-dBm Harmonic Blocker-Tolerant Mixer-First RF-to-Digital Receiver for Massive MIMO Applications
+Citations:1
+Authors: K Trotskovsky, A Whitcombe, G Lacaille, A Puglielli, P Lu, Z Wang, ...
+Publication: IEEE Solid-State Circuits Letters 1 (2), 38-41
+
+228. On-chip spur and phase noise cancellation techniques
+Citations:1
+Authors: YA Li, M Mar, B Nikolić, AM Niknejad
+Publication: 2017 IEEE Asian Solid-State Circuits Conference (A-SSCC), 109-112
+
+229. Use of Phase Delay Analysis for Evaluating Wideband Circuits: An Alternative to Group Delay Analysis
+Citations:1
+Authors: W Bae, B Nikolić, DK Jeong
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 25 (12 …
+
+230. A 65nm CMOS I/Q RF power DAC with 24–42dB 3rdharmonic cancellation and up to 18dB mixed-signal filtering
+Citations:1
+Authors: B Yang, EY Chang, A Niknejad, B Nikolić, E Alon
+Publication: 2017 Symposium on VLSI Circuits, C302-C303
+
+234. On-chip supply power measurement and waveform reconstruction in a 28nm FD-SOI processor SoC
+Citations:1
+Authors: M Cochet, A Puggelli, B Keller, B Zimmer, M Blagojevic, S Clerc, P Roche, ...
+Publication: 2016 IEEE Asian Solid-State Circuits Conference (A-SSCC), 125-128
+
+235. Design insights for reliable energy efficient OxRAM-based flip-flop in 28nm FD-SOI
+Citations:1
+Authors: N Jovanovic, E Vianello, O Thomas, B Nikolić, L Naviner
+Publication: 2015 IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference …
+
+236. Specialization for energy efficiency using agile development
+Citations:1
+Authors: B Nikolić, J Bachrach, E Alon, K Asanović, D Patterson
+Publication: 2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2
+
+238. Managing variability for ultimate energy efficiency
+Citations:1
+Authors: B Nikolić
+Publication: 2011 20th European Conference on Circuit Theory and Design (ECCTD), 1-4
+
+239. Digital spectrometers for interplanetary science missions
+Citations:1
+Authors: RF Jarnot, S Padmanabhan, R Raffanti, B Richards, P Stek, D Werthimer, ...
+Publication: 
+
+244. A Mixed-Signal RISC-V Signal Analysis SoC Generator With a 16-nm FinFET Instance
+Citations:
+Authors: S Bailey, P Rigge, J Han, R Lin, EY Chang, H Mao, Z Wang, C Markley, ...
+Publication: IEEE Journal of Solid-State Circuits
+
+245. Open-Source EDA Tools and IP, A View from the Trenches
+Citations:
+Authors: E Alon, K Asanović, J Bachrach, B Nikolić
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-3
+
+247. A Generated 7GS/s 8b Time-Interleaved SAR ADC with 38.2 dB SNDR at Nyquist in 16nm CMOS FinFET
+Citations:
+Authors: J Han, E Chang, S Bailey, Z Wang, W Bae, A Wang, N Narevsky, ...
+Publication: 2019 IEEE Custom Integrated Circuits Conference (CICC), 1-4
+
+250. Variability in Deeply Scaled CMOS
+Citations:
+Authors: LT Pang, B Nikolić
+Publication: Circuits at the Nanoscale, 25-37
+
+252. A Variation-Tolerant, Sneak-Current-Compensated Readout Scheme for Cross-Point Memory Based on Two-Port Sensing Technique
+Citations:
+Authors: W Bae, KJ Yoon, T Song, B Nikolić
+Publication: IEEE Transactions on Circuits and Systems II: Express Briefs 65 (12), 1839-1843
+
+253. A 0.37mm2LTE/Wi-Fi compatible, memory-based, runtime-reconfigurable 2n3m5kFFT accelerator integrated with a RISC-V core in 16nm FinFET
+Citations:
+Authors: A Wang, B Richards, P Dabbelt, H Mao, S Bailey, J Han, E Chang, J Dunn, ...
+Publication: 2017 IEEE Asian Solid-State Circuits Conference (A-SSCC), 305-308
+
+254. A low-voltage low-offset dual strong-arm latch comparator
+Citations:
+Authors: A Papadopoulou, V Milovanović, B Nikolić
+Publication: 2017 IEEE Asian Solid-State Circuits Conference (A-SSCC), 281-284
+
+255. Class AB base-band amplifier design with body biasing in 28nm UTBB FD-SOI CMOS
+Citations:
+Authors: M Videnović-Mišić, P Cathelin, A Cathelin, B Nikolić
+Publication: 2017 IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference …
+
+256. An HDL model of a digitally controlled oscillator for rapid digital PLL prototyping
+Citations:
+Authors: V Milovanović, B Nikolić
+Publication: 2017 IEEE 30th International Conference on Microelectronics (MIEL), 205-208
+
+257. Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB)
+Citations:
+Authors: ML Crowley
+Publication: 
+
+260. Improving Hardware Reusability: Software Defined Hardware
+Citations:
+Authors: A Izraelevitz, J Koenig, R Lin, C Markley, J Lawson, C Celio, C Schmidt, ...
+Publication: University of California, Berkeley Berkeley United States
+
+263. Circuit and architectural techniques for minimum-energy operation of SRAM-based caches
+Citations:
+Authors: B Zimmer, PF Chiu, K Asanović, B Nikolić
+Publication: 
+
+268. MHz-rate Multi-Antenna Decoders: Dedicated SVD Chip Example
+Citations:
+Authors: D Marković, RW Brodersen, B Nikolić, CH Yang
+Publication: DSP Architecture Design Essentials, 277-294
+
+269. Architectural Techniques
+Citations:
+Authors: D Marković, RW Brodersen, B Nikolić
+Publication: DSP Architecture Design Essentials, 39-56
+
+270. Digital Filters
+Citations:
+Authors: D Marković, RW Brodersen, R Nanda, B Nikolić
+Publication: DSP Architecture Design Essentials, 111-143
+
+271. Circuit Optimization
+Citations:
+Authors: D Marković, RW Brodersen, B Nikolić
+Publication: DSP Architecture Design Essentials, 21-37
+
+272. Top Documents Accessed: May 2009
+Citations:
+Authors: Y Feng, G Takemura, S Kawaguchi, P Kinget, A Hart, SP Voinigescu, ...
+Publication: 
+
+279. New generation of predictive technology model for sub-45 nm early design exploration.
+Citations:
+Authors: W Zhang, J Hu, L Yu, F Fallah, M Pedram, JP Hu, TF Xu, H Li, ...
+Publication: Information Technology Journal 10 (12), 509-519
+
+280. Achieving 550MHz in a Standard Cell ASIC Methodology
+Citations:
+Authors: D Chinnery, B Nikolić, K Keutzer
+Publication: Closing the Gap Between ASIC & Custom, 345-360
+
+282. High-Throughput Iterative Decoders
+Citations:
+Authors: B Nikolić
+Publication: 
+
+284. CIRCUITS AND COMPONENTS FOR WIRELESS COMMUNICATIONS
+Citations:
+Authors: B Nikolić, AM Niknejad, PR Gray
+Publication: University of California, Berkeley 94720
+
+287. A GENERAL METHOD OFFEEDBACK AMPLIFIER ANALYSIS
+Citations:
+Authors: B Nikolić
+Publication: 
+
+289. ISLPED 2011 Program Committee
+Citations:
+Authors: M Ziegler, B Calhoun, VC ARM, J Gu, T Hanyu, JP Keane, M Khellah, ...
+Publication: 
+
+290. SPECIAL ISSUE ON 2018 IEEE SYMPOSIUM ON VLSI CIRCUITS
+Citations:
+Authors: M Ziegler, J Silberman, J Oh, V Srinivasan, J Choi, S Mueller, A Agrawal, ...
+Publication: 
+
+291. Fast Coarse Locking Digital DLL in 0.13 m CMOS
+Citations:
+Authors: S Hoyos, CW Tsang, V Johan, Y Chiu, Y Aibara, H Khorramabadi, ...
+Publication: 
+
+292. AGENT INTERACTIONS IN PRIMARY HEALTH CARE IZLOŢENOST POTENCIJALNIM LEK-ANTIMIKROBNI AGENS INTERAKCIJAMA U PRIMARNOJ ZDRAVSTVENOJ ZAŠTITI
+Citations:
+Authors: B Nikolić, J Popović, M Bećarević, D Rakić
+Publication: 
+
+296. nıEMENTAToN or cRoucursorTouTPUTvTERBIDEcoDERs
+Citations:
+Authors: E Yeo, S Augsburger, WR Davis, B Nikolić
+Publication: 
+
+297. REDUCED-COMPLEXITY SEQUENCE DETECTION FORE “PR4MAGNETIC RECORDING CHANNEL
+Citations:
+Authors: B Nikolić, M Leung, L Fu, VG Oklobdžija, R Yamasaki
+Publication: 
+
+299. REQUIREMENTS
+Citations:
+Authors: JM Rabaey, A Chandrakasan, B Nikolić
+Publication: 
+
+300. Design Project: Designing a Viterbi Decoder (PART I)
+Citations:
+Authors: JM Rabaey, A Chandrakasan, B Nikolić
+Publication: 
+
+301. Design Project: A superfast random number generator
+Citations:
+Authors: JM Rabaey, A Chandrakasan, B Nikolić
+Publication: 
+
+303. Based on Current Conveyors
+Citations:
+Authors: J Popović, B Nikolić
+Publication: 
+
+304. ISSCC 2003/SESSION 6/LOW-POWER DIGITAL TECHNIQUES/PAPER 6.2
+Citations:
+Authors: Y Shimazaki, R Zlatanovici, B Nikoli
+Publication: 
+
+306. SESSION 11A
+Citations:
+Authors: Y Higashi, N Momo, HS Momose, T Ohguro, K Matsuzawa, K Ohmori, ...
+Publication: 
+
+307. Computer Systems Design and Applications Track
+Citations:
+Authors: L Carloni, D Grunwald, IBM Nadeem Malik, WT Mitra, F Petrini, ...
+Publication: 
+
+312. 2012 VLSI CIRCUITS SYMPOSIUM COMMITTEES
+Citations:
+Authors: M Ito, K Chang, B Nauta
+Publication: 
+
+313. 2009 IEEE Information Theory Society Paper Award 2 2009 IEEE Communications Society and Information Theory Society Joint Paper Award 3
+Citations:
+Authors: RG Gallager, B Nakiboglu, TE Duncan, K Eswaran, AD Sarwate, A Sahai, ...
+Publication: 
+
+314. Dedicated Signal Processing Systems
+Citations:
+Authors: WR Davis, N Zhang, K Camera, D Markovic, T Smilkstein, N Chan, ...
+Publication: 
+
+317. A 10.7-MHz Self-Calibrated Switched-Capacitor-Based Multibit Second-Order Bandpass Modulator With On-Chip Switched Buffer.................................. V. Colonna, G …
+Citations:
+Authors: G Brenna, D Tschopp, J Rogin, I Kouchev, Q Huang, F Serra-Graells, ...
+Publication: 
+
+318. Program Committees
+Citations:
+Authors: D Grunwald, IBM John-David Wellman, D August, I Andre Seznec, ...
+Publication: 

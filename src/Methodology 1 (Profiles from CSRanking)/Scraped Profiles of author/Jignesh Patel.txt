@@ -1,0 +1,1158 @@
+https://scholar.google.com/citations?hl=en&user=5tcfuXMAAAAJ
+Total Citations = 14519
+
+1. Structural joins: A primitive for efficient XML query pattern matching
+Citations:1226
+Authors: S Al-Khalifa, HV Jagadish, N Koudas, JM Patel, D Srivastava, Y Wu
+Publication: Proceedings 18th International Conference on Data Engineering, 141-152
+
+2. Storm@ twitter
+Citations:743
+Authors: A Toshniwal, S Taneja, A Shukla, K Ramasamy, JM Patel, S Kulkarni, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+3. Big data and its technical challenges
+Citations:684
+Authors: HV Jagadish, J Gehrke, A Labrinidis, Y Papakonstantinou, JM Patel, ...
+Publication: Communications of the ACM 57 (7), 86-94
+
+4. Timber: A native xml database
+Citations:587
+Authors: HV Jagadish, S Al-Khalifa, A Chapman, LVS Lakshmanan, A Nierman, ...
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 11 (4 …
+
+5. A comparison of join algorithms for log processing in mapreduce
+Citations:537
+Authors: S Blanas, JM Patel, V Ercegovac, J Rao, EJ Shekita, Y Tian
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+6. Partition based spatial-merge join
+Citations:517
+Authors: JM Patel, DJ DeWitt
+Publication: ACM Sigmod Record 25 (2), 259-270
+
+7. Efficient aggregation for graph summarization
+Citations:432
+Authors: Y Tian, RA Hankins, JM Patel
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+8. Twitter heron: Stream processing at scale
+Citations:403
+Authors: S Kulkarni, N Bhagat, M Fu, V Kedigehalli, C Kellogg, S Mittal, JM Patel, ...
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+9. Overview of SciDB: large scale array storage, processing and analysis
+Citations:368
+Authors: PG Brown
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+10. Indexing large trajectory data sets with SETI.
+Citations:320
+Authors: VP Chakka, A Everspaugh, JM Patel
+Publication: CIDR 75, 76
+
+11. Tale: A tool for approximate large graph matching
+Citations:303
+Authors: Y Tian, JM Patel
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 963-972
+
+12. Energy management for mapreduce clusters
+Citations:254
+Authors: W Lang, JM Patel
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 129-139
+
+13. STRIPES: an efficient index for predicted trajectories
+Citations:250
+Authors: JM Patel, Y Chen, VP Chakka
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+14. Structural join order selection for XML query optimization
+Citations:237
+Authors: Y Wu, JM Patel, HV Jagadish
+Publication: Proceedings 19th International Conference on Data Engineering (Cat. No …
+
+15. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+16. Design and evaluation of main memory hash join algorithms for multi-core CPUs
+Citations:227
+Authors: S Blanas, Y Li, JM Patel
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+17. SAGA: a subgraph matching tool for biological graphs
+Citations:225
+Authors: Y Tian, RC Mceachin, C Santos, DJ States, JM Patel
+Publication: Bioinformatics 23 (2), 232-239
+
+18. Method and apparatus for parallel execution of SQL-from within user defined functions
+Citations:215
+Authors: N Kabra, JM Patel, JB Yu, B Nag, JJ Chen
+Publication: US Patent 6,594,651
+
+19. High-performance concurrency control mechanisms for main-memory databases
+Citations:206
+Authors: PÅ Larson, S Blanas, C Diaconu, C Freedman, JM Patel, M Zwilling
+Publication: Proceedings of the VLDB Endowment 5 (4), 298-309
+
+20. Data prefetching by dependence graph precomputation
+Citations:205
+Authors: M Annavaram, JM Patel, ES Davidson
+Publication: Proceedings 28th Annual International Symposium on Computer Architecture, 52-61
+
+21. Client-server paradise
+Citations:203
+Authors: DJ DeWitt, N Kabra, J Luo, JM Patel, JB Yu
+Publication: VLDB 94, 558-569
+
+22. An efficient and accurate method for evaluating time series similarity
+Citations:193
+Authors: MD Morse, JM Patel
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+23. A demonstration of SciDB: a science-oriented DBMS
+Citations:180
+Authors: P Cudré-Mauroux, H Kimura, KT Lim, J Rogers, R Simakov, E Soroush, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1534-1537
+
+24. Estimating answer sizes for XML queries
+Citations:173
+Authors: Y Wu, JM Patel, HV Jagadish
+Publication: International Conference on Extending Database Technology, 590-608
+
+25. Column-oriented storage techniques for MapReduce
+Citations:172
+Authors: A Floratou, JM Patel, EJ Shekita, S Tata
+Publication: Proceedings of the VLDB Endowment 4 (7), 419-429
+
+26. Method and apparatus for parallel execution of SQL from stored procedures
+Citations:168
+Authors: N Kabra, JM Patel, JB Yu, B Nag, JJ Chen
+Publication: US Patent 6,507,834
+
+27. Efficient skyline computation over low-cardinality domains
+Citations:166
+Authors: M Morse, JM Patel, HV Jagadish
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+28. Efficient continuous skyline computation
+Citations:152
+Authors: M Morse, JM Patel, WI Grosky
+Publication: Information Sciences 177 (17), 3411-3437
+
+29. Building a scaleable geo-spatial DBMS: technology, implementation, and evaluation
+Citations:152
+Authors: J Patel, JB Yu, N Kabra, K Tufte, B Nag, J Burger, N Hall, K Ramasamy, ...
+Publication: ACM SIGMOD Record 26 (2), 336-347
+
+30. Estimating the selectivity of tf-idf based cosine similarity predicates
+Citations:143
+Authors: S Tata, JM Patel
+Publication: ACM Sigmod Record 36 (2), 7-12
+
+31. Oasis: An online and accurate technique for local-alignment searches on biological sequences
+Citations:136
+Authors: C Meek, JM Patel, S Kasetty
+Publication: Proceedings of the 29th international conference on Very large data bases …
+
+32. Discovery-driven graph summarization
+Citations:134
+Authors: N Zhang, Y Tian, JM Patel
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 880-891
+
+33. Data morphing: an adaptive, cache-conscious storage technique
+Citations:133
+Authors: RA Hankins, JM Patel
+Publication: Proceedings of the 29th international conference on Very large data bases …
+
+34. Query processing on smart SSDs: opportunities and challenges
+Citations:128
+Authors: J Do, YS Kee, JM Patel, C Park, K Park, DJ DeWitt
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+35. Can the elephants handle the nosql onslaught?
+Citations:119
+Authors: A Floratou, N Teletia, DJ DeWitt, JM Patel, D Zhang
+Publication: Proceedings of the VLDB Endowment 5 (12), 1712-1723
+
+36. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+37. Practical suffix tree construction
+Citations:114
+Authors: S Tata, RA Hankins, JM Patel
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+38. Practical methods for constructing suffix trees
+Citations:110
+Authors: Y Tian, S Tata, RA Hankins, JM Patel
+Publication: The VLDB Journal 14 (3), 281-299
+
+39. Identification of cross-species shared transcriptional networks of diabetic nephropathy in human and mouse glomeruli
+Citations:107
+Authors: JB Hodgin, V Nair, H Zhang, A Randolph, RC Harris, RG Nelson, EJ Weil, ...
+Publication: Diabetes 62 (1), 299-308
+
+40. BitWeaving: fast scans for main memory data processing
+Citations:104
+Authors: Y Li, JM Patel
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+41. Towards multi-tenant performance SLOs
+Citations:102
+Authors: W Lang, S Shankar, JM Patel, A Kalhan
+Publication: IEEE Transactions on Knowledge and Data Engineering 26 (6), 1447-1463
+
+42. Efficient evaluation of all-nearest-neighbor queries
+Citations:101
+Authors: Y Chen, JM Patel
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 1056-1065
+
+43. The Michigan benchmark: towards XML query performance diagnostics
+Citations:101
+Authors: K Runapongsa, JM Patel, HV Jagadish, Y Chen, S Al-Khalifa
+Publication: Information Systems 31 (2), 73-97
+
+44. Towards eco-friendly database management systems
+Citations:100
+Authors: W Lang, J Patel
+Publication: arXiv preprint arXiv:0909.1767
+
+45. Michigan molecular interactions r2: from interacting proteins to pathways
+Citations:100
+Authors: VG Tarcea, T Weymouth, A Ade, A Bookvich, J Gao, V Mahavisno, ...
+Publication: Nucleic acids research 37 (suppl_1), D642-D646
+
+46. Set containment joins: The good, the bad and the ugly
+Citations:93
+Authors: K Ramasamy, JM Patel, JF Naughton, R Kaushik
+Publication: VLDB, 351-362
+
+47. Turbocharging DBMS buffer pool using SSDs
+Citations:92
+Authors: J Do, D Zhang, JM Patel, DJ DeWitt, JF Naughton, A Halverson
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+48. Location tracking optimizations
+Citations:85
+Authors: JM Patel, Y Chen, K Ramasamy
+Publication: US Patent 8,155,880
+
+49. Effect of node size on the performance of cache-conscious B+-trees
+Citations:85
+Authors: RA Hankins, JM Patel
+Publication: ACM SIGMETRICS Performance Evaluation Review 31 (1), 283-294
+
+50. Wimpy node clusters: What about non-wimpy workloads?
+Citations:82
+Authors: W Lang, JM Patel, S Shankar
+Publication: Proceedings of the Sixth International Workshop on Data Management on New …
+
+51. Competitor analysis and its defenses in the e-marketplace
+Citations:82
+Authors: YP Sheng, PP Mykytyn Jr, CR Litecky
+Publication: Communications of the ACM 48 (8), 107-112
+
+52. Learning generalized linear models over normalized data
+Citations:81
+Authors: A Kumar, J Naughton, JM Patel
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+53. Model selection management systems: The next frontier of advanced analytics
+Citations:68
+Authors: A Kumar, R McCann, J Naughton, JM Patel
+Publication: ACM SIGMOD Record 44 (4), 17-22
+
+54. Efficient and accurate discovery of patterns in sequence data sets
+Citations:68
+Authors: A Floratou, S Tata, JM Patel
+Publication: IEEE Transactions on Knowledge and Data Engineering 23 (8), 1154-1168
+
+55. Storing and querying XML data in object-relational DBMSs
+Citations:68
+Authors: K Runapongsa, JM Patel
+Publication: International Conference on Extending Database Technology, 266-285
+
+56. On energy management, load balancing and replication
+Citations:65
+Authors: W Lang, JM Patel, JF Naughton
+Publication: Acm Sigmod Record 38 (4), 35-42
+
+57. The Case Against Specialized Graph Analytics Engines.
+Citations:64
+Authors: J Fan, AGS Raj, JM Patel
+Publication: CIDR
+
+58. Rethinking query processing for energy efficiency: Slowing down to win the race.
+Citations:61
+Authors: W Lang, R Kandhan, JM Patel
+Publication: IEEE Data Eng. Bull. 34 (1), 12-23
+
+59. WHAM: a high-throughput sequence alignment method
+Citations:60
+Authors: Y Li, JM Patel, A Terrell
+Publication: ACM Transactions on Database Systems (TODS) 37 (4), 28
+
+60. TIMBER: A native system for querying XML
+Citations:60
+Authors: S Paparizos, S Al-Khalifa, A Chapman, HV Jagadish, LVS Lakshmanan, ...
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+61. Enabling JSON Document Stores in Relational Systems.
+Citations:58
+Authors: C Chasseur, Y Li, JM Patel
+Publication: WebDB 13, 14-15
+
+62. Call graph prefetching for database applications
+Citations:55
+Authors: M Annavaram, JM Patel, ES Davidson
+Publication: ACM Transactions on Computer Systems (TOCS) 21 (4), 412-444
+
+63. Method and apparatus for using Java as a stored procedure language and as an embedded language on a client
+Citations:52
+Authors: A Singh, JM Patel, N Kabra
+Publication: US Patent 6,477,540
+
+64. Clone join and shadow join: two parallel spatial join algorithms
+Citations:51
+Authors: JM Patel, DJ DeWitt
+Publication: Proceedings of the 8th ACM international symposium on Advances in geographic …
+
+65. Accurate modeling of the hybrid hash join algorithm
+Citations:50
+Authors: JM Patel, MJ Carey, MK Vernon
+Publication: ACM SIGMETRICS Performance Evaluation Review 22 (1), 56-66
+
+66. Towards energy-efficient database cluster design
+Citations:49
+Authors: W Lang, S Harizopoulos, JM Patel, MA Shah, D Tsirogiannis
+Publication: Proceedings of the VLDB Endowment 5 (11), 1684-1695
+
+67. Join processing for flash SSDs: remembering past lessons
+Citations:47
+Authors: J Do, JM Patel
+Publication: Proceedings of the Fifth International Workshop on Data Management on New …
+
+68. Wind: Workload-aware intrusion detection
+Citations:47
+Authors: S Sinha, F Jahanian, JM Patel
+Publication: International Workshop on Recent Advances in Intrusion Detection, 290-310
+
+69. Declarative querying for biological sequences
+Citations:47
+Authors: S Tata, JS Friedman, A Swaroop
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 87-87
+
+70. To join or not to join?: Thinking twice about joins before feature selection
+Citations:46
+Authors: A Kumar, J Naughton, JM Patel, X Zhu
+Publication: Proceedings of the 2016 International Conference on Management of Data, 19-34
+
+71. Method and apparatus for parallel execution of trigger actions
+Citations:45
+Authors: N Kabra, JM Patel, JB Yu, B Nag, JJ Chen
+Publication: US Patent 6,732,084
+
+72. Rethinking Choices for Multi-dimensional Point Indexing: Making the Case for the Often Ignored Quadtree.
+Citations:44
+Authors: YJ Kim, JM Patel
+Publication: CIDR, 281-291
+
+73. Widetable: An accelerator for analytical data processing
+Citations:42
+Authors: Y Li, JM Patel
+Publication: Proceedings of the VLDB Endowment 7 (10), 907-918
+
+74. Quickfoil: Scalable inductive logic programming
+Citations:40
+Authors: Q Zeng, JM Patel, D Page
+Publication: Proceedings of the VLDB Endowment 8 (3), 197-208
+
+75. Identifying subgroups of patients with depression who are at high risk for suicide
+Citations:38
+Authors: MA Ilgen, K Downing, K Zivin, KJ Hoggatt, HM Kim, D Ganoczy, KL Austin, ...
+Publication: The Journal of clinical psychiatry 70 (11), 1495
+
+76. Intelligent ship arrangements: a new approach to general arrangement
+Citations:38
+Authors: MG Parsons, H Chung, E Nick, A Daniels, S Liu, J Patel
+Publication: Naval Engineers Journal 120 (3), 51-65
+
+77. Using histograms to estimate answer sizes for XML queries
+Citations:37
+Authors: Y Wu, JM Patel, HV Jagadish
+Publication: Information Systems 28 (1-2), 33-59
+
+78. Performance Comparison of the {\rm R}^{\ast}-Tree and the Quadtree for kNN and Distance Join Queries
+Citations:36
+Authors: YJ Kim, J Patel
+Publication: IEEE Transactions on Knowledge and Data Engineering 22 (7), 1014-1027
+
+79. Searching on the secondary structure of protein sequences
+Citations:36
+Authors: L Hammel, JM Patel
+Publication: VLDB'02: Proceedings of the 28th International Conference on Very Large …
+
+80. The Michigan Benchmark: A microbenchmark for XML query processing systems
+Citations:35
+Authors: K Runapongsa, JM Patel, HV Jagadish, S Al-Khalifa
+Publication: EEXTT, 160-161
+
+81. Daq: a new paradigm for approximate query processing
+Citations:32
+Authors: N Potti, JM Patel
+Publication: Proceedings of the VLDB Endowment 8 (9), 898-909
+
+82. SigMatch: fast and scalable multi-pattern matching
+Citations:32
+Authors: R Kandhan, N Teletia, JM Patel
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1173-1184
+
+83. miBLAST: scalable evaluation of a batch of nucleotide sequence queries with BLAST
+Citations:32
+Authors: YJ Kim, A Boyd, BD Athey, JM Patel
+Publication: Nucleic acids research 33 (13), 4335-4344
+
+84. Evaluating skylines in the presence of equijoins
+Citations:29
+Authors: W Jin, MD Morse, JM Patel, M Ester, Z Hu
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 249-260
+
+85. Dictionary-based compression for long time-series similarity
+Citations:26
+Authors: W Lang, M Morse, JM Patel
+Publication: IEEE transactions on knowledge and data engineering 22 (11), 1609-1622
+
+86. Towards linear algebra over normalized data
+Citations:25
+Authors: L Chen, A Kumar, J Naughton, JM Patel
+Publication: Proceedings of the VLDB Endowment 10 (11), 1214-1225
+
+87. A framework for protein structure classification and identification of novel protein structures
+Citations:25
+Authors: YJ Kim, JM Patel
+Publication: BMC bioinformatics 7 (1), 456
+
+88. Method and apparatus for fetching array based objects by direct delivery and batching
+Citations:25
+Authors: B Nag, JB Yu, JM Patel, Z Wang
+Publication: US Patent 6,601,064
+
+89. Towards cost-effective storage provisioning for DBMSs
+Citations:24
+Authors: N Zhang, J Tatemura, JM Patel, H Hacigümüş
+Publication: Proceedings of the VLDB Endowment 5 (4), 274-285
+
+90. When free is not really free: What does it cost to run a database workload in the cloud?
+Citations:24
+Authors: A Floratou, JM Patel, W Lang, A Halverson
+Publication: Technology Conference on Performance Evaluation and Benchmarking, 163-179
+
+91. XIST: An XML index selection tool
+Citations:24
+Authors: K Runapongsa, JM Patel, R Bordawekar, S Padmanabhan
+Publication: International XML Database Symposium, 219-234
+
+92. The role of declarative querying in bioinformatics
+Citations:23
+Authors: JM Patel
+Publication: OMICS A Journal of Integrative Biology 7 (1), 89-91
+
+93. Memory footprint matters: efficient equi-join algorithms for main memory data processing
+Citations:22
+Authors: S Blanas, JM Patel
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 19
+
+94. ProbeMatch: rapid alignment of oligonucleotides to genome allowing both gaps and mismatches
+Citations:22
+Authors: YJ Kim, N Teletia, V Ruotti, CA Maher, AM Chinnaiyan, R Stewart, ...
+Publication: Bioinformatics 25 (11), 1424
+
+95. Method of pattern searching
+Citations:22
+Authors: N Koudas, D Srivastava, JM Patel, SA Al-Khalifa, HV Jagadish, Y Wu
+Publication: US Patent 7,451,144
+
+96. Design and evaluation of storage organizations for read-optimized main memory databases
+Citations:21
+Authors: C Chasseur, JM Patel
+Publication: Proceedings of the VLDB Endowment 6 (13), 1474-1485
+
+97. Method and apparatus for evaluating index predicates on complex data types using virtual indexed streams
+Citations:20
+Authors: JM Patel, N Kabra
+Publication: US Patent 6,678,686
+
+98. PiQA: An algebra for querying protein data sets
+Citations:20
+Authors: S Tata, JM Patel
+Publication: 15th International Conference on Scientific and Statistical Database …
+
+99. Profiling R on a contemporary processor
+Citations:19
+Authors: S Sridharan, JM Patel
+Publication: Proceedings of the VLDB Endowment 8 (2), 173-184
+
+100. Design and evaluation of trajectory join algorithms
+Citations:19
+Authors: Y Chen, JM Patel
+Publication: Proceedings of the 17th ACM SIGSPATIAL International Conference on Advances …
+
+101. Bypassing space explosion in high-speed regular expression matching
+Citations:18
+Authors: J Patel, AX Liu, E Torng
+Publication: IEEE/ACM Transactions on Networking (TON) 22 (6), 1701-1714
+
+102. Toward GPUs being mainstream in analytic processing: An initial argument using simple scan-aggregate queries
+Citations:17
+Authors: J Power, Y Li, MD Hill, JM Patel, DA Wood
+Publication: Proceedings of the 11th International Workshop on Data Management on New …
+
+103. Indexing HDFS data in PDW: splitting the data from the index
+Citations:17
+Authors: VR Gankidi, N Teletia, JM Patel, A Halverson, DJ DeWitt
+Publication: Proceedings of the VLDB Endowment 7 (13), 1520-1528
+
+104. SIGOPT: Using schema to optimize XML query processing
+Citations:17
+Authors: S Paparizos, JM Patel, HV Jagadish
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 1456-1460
+
+105. Ava: From Data to Insights Through Conversations.
+Citations:16
+Authors: RJL John, N Potti, JM Patel
+Publication: CIDR
+
+106. Periscope/gq: a graph querying toolkit
+Citations:15
+Authors: Y Tian, JM Patel, V Nair, S Martini, M Kretzler
+Publication: Proceedings of the VLDB Endowment 1 (2), 1404-1407
+
+107. Fast peak-to-peak behavior with SSD buffer pool
+Citations:14
+Authors: J Do, D Zhang, JM Patel, DJ DeWitt
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 1129-1140
+
+108. Scalable rule-based gene expression data classification
+Citations:14
+Authors: MA Iwen, W Lang, JM Patel
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 1062-1071
+
+109. Periscope/SQ: interactive exploration of biological sequence databases
+Citations:14
+Authors: S Tata, W Lang, JM Patel
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+110. Implications of emerging 3D GPU architecture on the scan primitive
+Citations:13
+Authors: J Power, Y Li, MD Hill, JM Patel, DA Wood
+Publication: ACM SIGMOD Record 44 (1), 18-23
+
+111. Bypassing space explosion in regular expression matching for network intrusion detection and prevention systems
+Citations:13
+Authors: J Patel, AX Liu, E Torng
+Publication: In Proceedings of the 19th Annual Network and Distributed System Security …
+
+112. Set containment join operation in an object/relational database management system
+Citations:13
+Authors: K Ramasamy, JM Patel, JF Naughton
+Publication: US Patent 6,728,694
+
+113. Microfluidic device for concentrating particles in a concentrating solution
+Citations:13
+Authors: B Weigl, R Bardell
+Publication: US Patent App. 10/114,765
+
+114. Re-evaluating designs for multi-tenant OLTP workloads on SSD-basedI/O subsystems
+Citations:12
+Authors: N Zhang, J Tatemura, J Patel, H Hacigumus
+Publication: Proceedings of the 2014 ACM SIGMOD International Conference on Management of …
+
+115. Efficient and generic evaluation of ranked queries
+Citations:12
+Authors: W Jin, JM Patel
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+116. Location tracking framework
+Citations:11
+Authors: JM Patel, Y Chen, K Ramasamy
+Publication: US Patent 8,447,320
+
+117. Interactive graph summarization
+Citations:11
+Authors: Y Tian, JM Patel
+Publication: Link Mining: Models, Algorithms, and Applications, 389-409
+
+118. Demonstration of Santoku: optimizing machine learning over normalized data
+Citations:10
+Authors: A Kumar, M Jalal, B Yan, J Naughton, JM Patel
+Publication: Proceedings of the VLDB Endowment 8 (12), 1864-1867
+
+119. Quickstep: A data platform based on the scaling-up approach
+Citations:9
+Authors: JM Patel, H Deshmukh, J Zhu, N Potti, Z Zhang, M Spehlmann, ...
+Publication: Proceedings of the VLDB Endowment 11 (6), 663-676
+
+120. A padded encoding scheme to accelerate scans by leveraging skew
+Citations:9
+Authors: Y Li, C Chasseur, JM Patel
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+121. Query Processing on Smart SSDs.
+Citations:9
+Authors: K Park, YS Kee, JM Patel, J Do, C Park, DJ Dewitt
+Publication: IEEE Data Eng. Bull. 37 (2), 19-26
+
+122. Method of pattern searching
+Citations:8
+Authors: N Koudas, D Srivastava, JM Patel, SA Al-Khalifa, HV Jagadish, Y Wu
+Publication: US Patent 8,117,190
+
+123. Efficient database support for spatial applications
+Citations:8
+Authors: JM Patel, DJ Dewitt, J Goodman
+Publication: University of Wisconsin--Madison
+
+124. Replica placement in multi-tenant database environments
+Citations:7
+Authors: A Floratou, JM Patel
+Publication: 2015 IEEE International Congress on Big Data, 246-253
+
+125. CASMIL: a comprehensive software/toolkit for image‐guided neurosurgeries
+Citations:7
+Authors: G Kaur, J Tan, M Alam, V Chaudhary, D Chen, M Dong, H Eltahawy, ...
+Publication: The international journal of medical robotics and computer assisted surgery …
+
+126. Operational NoSQL Systems: What's New and What's Next?
+Citations:6
+Authors: JM Patel
+Publication: Computer 49 (4), 23-30
+
+127. Scientific data management: An orphan in the database community?
+Citations:6
+Authors: R Burns, SB Davidson, Y Ioannidis, M Livny, JM Patel
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 9-9
+
+128. Dispersion managed cable for WDM systems
+Citations:6
+Authors: SR Bickham, MB Cain, JM Grochocinski
+Publication: US Patent 6,694,081
+
+129. Conversational programming interface
+Citations:5
+Authors: JM Patel, NS Potti, RJL John
+Publication: US Patent 9,959,868
+
+130. Does Native Language Play a Role in Learning a Programming Language?
+Citations:5
+Authors: AG Soosai Raj, K Ketsuriyonk, JM Patel, R Halverson
+Publication: Proceedings of the 49th ACM Technical Symposium on Computer Science …
+
+131. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: HV Jagadish, J Gehrke, A Labrinidis, Y Papakonstantinou, JM Patel, ...
+Publication: Communications of the ACM 57 (7), 86-94
+
+132. Towards building wind tunnels for data center design
+Citations:5
+Authors: A Floratou, F Bertsch, JM Patel, G Laskaris
+Publication: Proceedings of the VLDB Endowment 7 (9), 781-784
+
+133. How efficient is our radix join implementation
+Citations:5
+Authors: S Blanas, JM Patel
+Publication: 
+
+134. Cloud databases: what's new?
+Citations:5
+Authors: DJ Abadi, M Carey, S Chaudhuri, H Garcia-Molina, JM Patel, ...
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1657-1657
+
+135. Efficient evaluation of radial queries using the target tree
+Citations:5
+Authors: MD Morse, JM Patel, WI Grosky
+Publication: 21st International Conference on Data Engineering Workshops (ICDEW'05), 1168 …
+
+136. Clone Join and Shadow Join: Two Parallel Algorithms for Executing Spatial Join Operations
+Citations:5
+Authors: J Patel, D DeWitt
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+137. Automatic recovery of application cache warmth
+Citations:4
+Authors: N Teletia, JY Do, K Park, JM Patel
+Publication: US Patent 9,684,607
+
+138. Application cache replication to secondary application (s)
+Citations:4
+Authors: N Teletia, JY Do, K Park, JM Patel
+Publication: US Patent 9,684,596
+
+139. Looking ahead makes query plans robust: Making the initial case with in-memory star schema data warehouse workloads
+Citations:4
+Authors: J Zhu, N Potti, S Saurabh, JM Patel
+Publication: Proceedings of the VLDB Endowment 10 (8), 889-900
+
+140. When Lempel-Ziv-Welch Meets Machine Learning: A Case Study of Accelerating Machine Learning using Coding
+Citations:4
+Authors: F Li, L Chen, A Kumar, JF Naughton, JM Patel, X Wu
+Publication: arXiv preprint arXiv:1702.06943
+
+141. A survey of the existing landscape of ml systems
+Citations:4
+Authors: A Kumar, R McCann, J Naughton, JM Patel
+Publication: 
+
+142. Toward cost-effective storage provisioning for DBMSs
+Citations:4
+Authors: N Zhang, J Tatemura, JM Patel, H Hacigumus
+Publication: The VLDB Journal 23 (2), 329-354
+
+143. An online framework for publishing privacy-sensitive location traces
+Citations:4
+Authors: W Jin, K LeFevre, JM Patel
+Publication: Proceedings of the Ninth ACM International Workshop on Data Engineering for …
+
+144. Declarative and efficient querying on protein secondary structures
+Citations:4
+Authors: JM Patel, DP Huddler, L Hammel
+Publication: Data Mining in Bioinformatics, 243-273
+
+145. Query Processing in Mobile Environments
+Citations:4
+Authors: JM Patel
+Publication: NFS Wokshop on Context Aware Mobile Data-base Management (CAMM), Providence …
+
+146. What Do Students Feel about Learning Programming Using Both English and Their Native Language?
+Citations:3
+Authors: AGS Raj, K Ketsuriyonk, JM Patel, R Halverson
+Publication: 2017 International Conference on Learning and Teaching in Computing and …
+
+147. Note: Tesla based pulse generator for electrical breakdown study of liquid dielectrics
+Citations:3
+Authors: G Veda Prakash, R Kumar, J Patel, K Saurabh, A Shyam
+Publication: Review of Scientific Instruments 84 (12), 126108
+
+148. Fast peak-to-peak restart for SSD buffer pool Extension
+Citations:3
+Authors: J Do, D Zhang, JM Patel, DJ DeWitt
+Publication: Proc. of ICDE
+
+149. Towards Declarative Querying for Biological Sequences
+Citations:3
+Authors: S Tata, J Patel, J Friedman, A Swaroop
+Publication: Technical report, Technical Report CSE-TR-508-05, University of Michigan
+
+150. Data Partitioning for In-Memory Systems: Myths, Challenges, and Opportunities.
+Citations:2
+Authors: Z Zhang, H Deshmukh, JM Patel
+Publication: CIDR
+
+151. Is More Active Always Better for Teaching Introductory Programming
+Citations:2
+Authors: AGS Raj, JM Patel, R Halverson
+Publication: Learning and Teaching in Computing and Engineering (LaTICE)
+
+152. Adaptive concurrent query execution framework for an analytical in-memory database system
+Citations:2
+Authors: H Deshmukh, H Memisoglu, JM Patel
+Publication: 2017 IEEE International Congress on Big Data (BigData Congress), 23-30
+
+153. Predictive provisioning: Efficiently anticipating usage in azure sql database
+Citations:2
+Authors: L Viswanathan, B Chandra, W Lang, K Ramachandra, JM Patel, A Kalhan, ...
+Publication: 2017 IEEE 33rd International Conference on Data Engineering (ICDE), 1111-1116
+
+154. Aggressive buffer pool warm-up after restart in SQL Server
+Citations:2
+Authors: K Park, J Do, N Teletia, JM Patel
+Publication: 2016 IEEE 32nd International Conference on Data Engineering Workshops (ICDEW …
+
+155. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+156. Finding Hidden Patterns in Sequences
+Citations:2
+Authors: A Floratou, S Tata, JM Patel
+Publication: Sciences-New York
+
+157. FLAME: Shedding Light on Hidden Frequent Patterns in Sequence Datasets
+Citations:2
+Authors: S Tata, JM Patel
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 1343-1345
+
+158. Comparing OLTP Scaling Behavior on Intel® Xeon™ and Itanium® 2 Processors
+Citations:2
+Authors: R Hankins, M Annavaram, B Hirano, J Patel, J Shen
+Publication: Red 256, L2
+
+159. TIMBER: A native XML database
+Citations:2
+Authors: S Paparizos, S Al-Khalifa, Y Wu, N Wiwatwattana, HV Jagadish, ...
+Publication: Springer-Verlag; Springer-Verlag Berlin Heidelberg
+
+160. Effect of Node Size on the Performance of Cache-Conscious Indices
+Citations:2
+Authors: RA Hankins, JM Patel
+Publication: Extended Report, http://www. eecs. umich. edu/quickstep/publ/ccindices. pdf
+
+161. Partition Based Spatial-Merge Join
+Citations:2
+Authors: DJ DeWitt, JM Patel
+Publication: Proceedings of the 1996 ACMSIGMOD Conference, Montreal, Canada
+
+162. Scaling-up in-memory datalog processing: observations and techniques
+Citations:1
+Authors: Z Fan, J Zhu, Z Zhang, A Albarghouthi, P Koutris, JM Patel
+Publication: Proceedings of the VLDB Endowment 12 (6), 695-708
+
+163. Role of Live-coding in Learning Introductory Programming
+Citations:1
+Authors: AGS Raj, JM Patel, R Halverson, ER Halverson
+Publication: Proceedings of the 18th Koli Calling International Conference on Computing …
+
+164. IMAGE ANALYSIS THROUGH CONVERSATIONS: REDUCING BARRIERS AND IMPROVING PROVENANCE TRACKING IN ALZHEIMER'S DISEASE RESEARCH
+Citations:1
+Authors: RJL John, N Adluru, BB Bendlin, SC Johnson, V Singh, J Patel
+Publication: Alzheimer's & Dementia: The Journal of the Alzheimer's Association 13 (7 …
+
+165. Toward GPUs being mainstream in analytic processing
+Citations:1
+Authors: J Power, Y Li, MD Hill, JM Patel, DA Wood
+Publication: 
+
+166. An Online Framework for Publishing Dynamic Privacy-Sensitive Location Traces
+Citations:1
+Authors: W Jin, K LeFevre, JM Patel
+Publication: 
+
+167. The Michigan benchmark: towards XML query performance diagnostics
+Citations:1
+Authors: HV Jagadish, S Al-Khalifa, K Runapongsa, Y Chen, JM Patel
+Publication: Information systems 31 (2), 73-97
+
+168. Architecture-conscious databases: sub-optimization or the next big leap?
+Citations:1
+Authors: B Falsafi, J Patel, K Ross
+Publication: Proceedings of the 1st international workshop on Data management on new …
+
+169. The Michigan Benchmark: A Micro-Benchmark for XML Query Performance Diagnostics
+Citations:1
+Authors: JM Patel, HV Jagadish
+Publication: XML Data Management: Native XML and XML-Enable Database systems, 499-518
+
+170. Building a Scalable Geo-Spatial DBMS: Technology, Implementation, and Evaluation
+Citations:1
+Authors: JP Jiebing, J Patel, J Yu, N Kabra, K Tufte, B Nag, J Burger, N Hall, ...
+Publication: In Proceedings of the ACM SIGMOD Conference
+
+171. Design and Evaluation of Storage Organizations for Read-Optimized Main Memory Databases (Supplementary Material)
+Citations:1
+Authors: C Chasseur, JM Patel
+Publication: 
+
+172. Effect of Native Language on Student Learning and Classroom Interaction in an Operating Systems Course
+Citations:
+Authors: AG Soosai Raj, E Zhang, S Mukherjee, J Williams, R Halverson, JM Patel
+Publication: Proceedings of the 2019 ACM Conference on Innovation and Technology in …
+
+173. Study of Prescribing Pattern of Drugs in Chronic Obstructive Pulmonary Disease in Tertiary Care Teaching Hospital
+Citations:
+Authors: S Kumar, G Madhuri, A Wilson, TS George, K Saini, R Singh, D Agrawal, ...
+Publication: Indian Journal of Pharmacy Practice 12 (3), 161
+
+174. Efficiently Searching In-Memory Sorted Arrays: Revenge of the Interpolation Search?
+Citations:
+Authors: P Van Sandt, Y Chronis, JM Patel
+Publication: Proceedings of the 2019 International Conference on Management of Data, 36-53
+
+175. Application cache replication to secondary application (s)
+Citations:
+Authors: N Teletia, JY Do, K Park, JM Patel
+Publication: US Patent App. 16/204,778
+
+176. Replicating a primary application cache within a secondary application cache
+Citations:
+Authors: N Teletia, JY Do, K Park, JM Patel
+Publication: US Patent App. 10/204,048
+
+177. Database acceleration through runtime code generation
+Citations:
+Authors: NS Potti, JM Patel
+Publication: US Patent App. 15/574,103
+
+178. Stream processing at scale
+Citations:
+Authors: SR Kulkarni, N Bhagat, M Fu, V Kedigehalli, C Kellogg, S Mittal, JM Patel, ...
+Publication: US Patent App. 15/069,893
+
+179. A Natural Language Interface for Dissemination of Reproducible Biomedical Data Science
+Citations:
+Authors: RJL John, JM Patel, AL Alexander, V Singh, N Adluru
+Publication: International Conference on Medical Image Computing and Computer-Assisted …
+
+180. Does Kinesio taping correct exaggerated dynamic knee valgus? A randomized double blinded sham-controlled trial
+Citations:
+Authors: S Rajasekar, A Kumar, J Patel, M Ramprasad, AJ Samuel
+Publication: Journal of bodywork and movement therapies 22 (3), 727-732
+
+181. Is More Active Always Better for Teaching Introductory Programming?
+Citations:
+Authors: AG Soosai Raj, J Patel, R Halverson
+Publication: 2018 International Conference on Learning and Teaching in Computing and …
+
+182. How to teach modern C++ to someone who already knows programming?
+Citations:
+Authors: AGS Raj, V Naik, JM Patel, R Halverson
+Publication: Proceedings of the 20th Australasian Computing Education Conference, 97-104
+
+183. Database system with highly denormalized database structure
+Citations:
+Authors: Y Li, JM Patel
+Publication: US Patent 9,870,401
+
+184. External data access with split index
+Citations:
+Authors: N Teletia, VR Gankidi, AD Halverson, JM Patel
+Publication: US Patent App. 15/650,827
+
+185. External data access with split index
+Citations:
+Authors: N Teletia, VR Gankidi, AD Halverson, JM Patel
+Publication: US Patent 9,715,515
+
+186. ROSA: R Optimizations with Static Analysis
+Citations:
+Authors: R Sen, J Zhu, JM Patel, S Jha
+Publication: arXiv preprint arXiv:1704.02996
+
+187. Determining data locality in a distributed system using aggregation of locality summaries
+Citations:
+Authors: H Deshmukh, AGS Raj, JM Patel
+Publication: US Patent App. 15/249,138
+
+188. Rethinking Benchmarking for Data
+Citations:
+Authors: JM Patel
+Publication: Technology Conference on Performance Evaluation and Benchmarking, 130-134
+
+189. From Data to Insights@ Bare Metal Speed
+Citations:
+Authors: JM Patel
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+190. Database system with data organization providing improved bit parallel processing
+Citations:
+Authors: Y Li, JM Patel
+Publication: US Patent 9,002,903
+
+191. Measurement and sweep-biasing circuit for langmuir probe diagnostic in SYMPLE
+Citations:
+Authors: P Gautam, J Patel, R Rajpal, C Hanasalia, VP Anitha, K Sathyanarayana, ...
+Publication: Proceedings of the tenth Asia plasma and fusion association conference: book …
+
+192. Database query processing with reduce function configuration
+Citations:
+Authors: N Teletia, AD Halverson, JM Patel
+Publication: US Patent App. 13/923,772
+
+193. Adapting Hash Joins For Modern Processors
+Citations:
+Authors: D Fabbri, J Patel, TF Wenisch
+Publication: University of Michigan. Accessed April 23
+
+194. VIRCATOR based on repetitive pulsed power generator
+Citations:
+Authors: R Kumar, J Patel, S Kumar, A Shyam
+Publication: 2013 19th IEEE Pulsed Power Conference (PPC), 1-5
+
+195. Algorithms for Deep Packet Inspection
+Citations:
+Authors: J Patel
+Publication: Michigan State University. Computer Science
+
+196. best papers of VLDB 2009
+Citations:
+Authors: S Abiteboul, V Markl, T Milo, J Patel
+Publication: The VLDB Journal 20 (2), 155-156
+
+197. Proceedings of the VLDB Endowment Volume 2 Issue 2
+Citations:
+Authors: S Abiteboul, T Milo, J Patel, P Rigaux
+Publication: VLDB Endowment 2 (2)
+
+198. Query Languages and Evaluation Techniques for Biological Sequence Data
+Citations:
+Authors: S Tata, JM Patel
+Publication: Encyclopedia of Database Systems, 2261-2264
+
+199. BatchGenAna: a batch platform for large-scale genomic analysis of mammalian small RNAs
+Citations:
+Authors: X Ying, YJ Kim, Y Mao, M Liu, Y Hou, H Li, X Wang, Y Zhao, D Zhao, ...
+Publication: Bioinformation 3 (8), 346
+
+200. SAGA: A subgraph matching tool for biological graphs
+Citations:
+Authors: JM Patel
+Publication: 
+
+201. CASMIL: a comprehensive software/toolkit for image-guided neurosurgeries This research was supported in part by a research grant from Michigan Life Sciences Corridor (Grant No …
+Citations:
+Authors: G Kaur, J Tan, M Alam, V Chaudhary, D Chen, M Dong, H Eltahawy, ...
+Publication: John Wiley & Sons, Ltd.
+
+202. Practical methods for constructing suffix trees
+Citations:
+Authors: RA Hankins, S Tata, JM Patel, Y Tian
+Publication: Springer-Verlag
+
+203. Clustering, Indexing, Statistics-XIST: An XML Index Selection Tool
+Citations:
+Authors: K Runapongsa, JM Patel, R Bordawekar, S Padmanabhan
+Publication: Lecture Notes in Computer Science 3186, 219-234
+
+204. Storing and Querying XML Documents Without Using Schema Information
+Citations:
+Authors: K Runapongsa, JM Patel
+Publication: The Second National Conference on Electronic Business
+
+205. Introduction to special issue with best papers from EDBT 2002
+Citations:
+Authors: CS Jensen
+Publication: Information Systems 28 (1-2), 1-2
+
+206. Efficiency and Effectiveness of XML Tools and Techniques (EEXTT)-Benchmarking XML-The Michigan Benchmark: A Microbenchmark for XML Query Processing Systems
+Citations:
+Authors: K Runapongsa, JM Patel, HV Jagadish, S Al-Khalifa
+Publication: Lecture Notes in Computer Science 2590, 160-161
+
+207. Session details: Systems and prototypes
+Citations:
+Authors: J Patel
+Publication: ACM SIGMOD Record 31 (2)
+
+208. Experimental methods for evaluation of psychotropic agents in rodents: Anti-anxiety agents.
+Citations:
+Authors: N Subramanian, C Jothimanivannan, RS Kumar, S Kameshwaran, ...
+Publication: Pharmacologia 4 (5), Pages: 182-Pages: 182
+
+209. Clone Join and Shadow Join: TWO Parallel Algorithms for Executing Spatial Join Operatiuns Jignesh Patel David DeWitt Technical Report# 1399
+Citations:
+Authors: J Patel
+Publication: 
+
+210. A survey of Midwest employee recreation programs conducted outdoors
+Citations:
+Authors: KA Falkenberg
+Publication: 
+
+211. Query Processing on Smart SSDs
+Citations:
+Authors: J Do, YS Ki, JM Patel, C Park, K Park, DJ DeWitt
+Publication: 
+
+212. Similarity Searching of Secondary Structures in Protein Sequences
+Citations:
+Authors: L Hammel, JM Patel
+Publication: Ann Arbor 1001, 48109-2122
+
+213. LaTiCE 2017
+Citations:
+Authors: AGS Raj, K Ketsuriyonk, JM Patel, R Halverson
+Publication: 
+
+214. What Do Students Feel About Learning Programming Using Both English And Their Native
+Citations:
+Authors: AGS Raj, K Ketsuriyonk, JM Patel, R Halverson
+Publication: 
+
+215. Adaptive Concurrent Query Execution Framework for an Analytical In-Memory Database System-Supplemental Material
+Citations:
+Authors: H Deshmukh, H Memisoglu, JM Patel
+Publication: 
+
+216. Molecular Re-Classification of renal disease through approximate graph matching, clustering and pattern mining.
+Citations:
+Authors: R Varadarajan, F Eichinger, J Patel, M Kretzler
+Publication: 
+
+217. Data Engineering
+Citations:
+Authors: D Cohn, R Hull, WMP van der Aalst, RS Mans, NC Russell
+Publication: 
+
+218. LECTURE SERIES
+Citations:
+Authors: J Patel
+Publication: 
+
+219. International Journal of Recent Scientific Research
+Citations:
+Authors: RKR Kumar, R Vennila, P Damotharan, S Kanchana, M Arumugam, ...
+Publication: 
+
+220. Event Extraction in The Twittersphere
+Citations:
+Authors: A Ardalan, Q Wan, N Garera, AH Doan, J Patel
+Publication: 
+
+221. Online Replica Placement in Cloud Environments
+Citations:
+Authors: A Floratou, N Potti, JM Patel
+Publication: 
+
+222. Senior program committee members
+Citations:
+Authors: D Agrawal, F Bonchi, L Chen, B Croft, G Das, L Getoor, D Gunopulos, ...
+Publication: 
+
+223. Hideaki SUGAWARA, National Institute of Genetics Anthony Kum Hoe TUNG, National University of Singapore
+Citations:
+Authors: KP ADLASSNIG, A BELLAACHIA, N BONNET, YM CHAE, J CHEN, ...
+Publication: 
+
+224. Towards Integrated Data Center Design
+Citations:
+Authors: A Floratou, F Bertsch, JM Patel, G Laskaris
+Publication: 
+
+225. 1EEE TRANSACTIONS ON COMPUTERS, VOL. C-33, NO. 11, NOVEMBER 1984
+Citations:
+Authors: BW Arden, D DeWitt, K Irani, K Padmanabhan, KD Smith, CN Arnold, ...
+Publication: 
+
+226. Design and Evaluation of Online Replica Placement Algorithms
+Citations:
+Authors: A Floratou, JM Patel, W Lang
+Publication: 
+
+227. Efficient Filtering and Routing in a Scalable XML-Based Publish-Subscribe System
+Citations:
+Authors: Y Tian, JM Patel, F Jahanian
+Publication: 
+
+228. PROGRAM VICE-CHAIRS
+Citations:
+Authors: A Ailamaki, A Kemper, KL Tan, K Shim, J Shanmugasundaram, G Alonso, ...
+Publication: 
+
+229. Towards Cost-Effective Storage Provisioning for DBMSs (Extended Version)
+Citations:
+Authors: N Zhang, J Tatemura, JM Patel, H Hacigumus
+Publication: 
+
+230. Data Morphing: An Adaptive, Cache-Conscious Storage
+Citations:
+Authors: RA Hankins, JM Patel
+Publication: 
+
+231. Structural Joins: A Primitive for Efficient XML Query Pattern Matching Shurug Al-Khalifa Univ of Michigan shurug@ eecs. umich. edu
+Citations:
+Authors: JM Patel, D Srivastava, Y Wu
+Publication: 
+

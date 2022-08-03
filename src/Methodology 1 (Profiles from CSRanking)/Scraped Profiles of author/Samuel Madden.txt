@@ -1,0 +1,2118 @@
+https://scholar.google.com/citations?hl=en&user=a1ngrCIAAAAJ
+Total Citations = 50572
+
+1. TAG: A tiny aggregation service for ad-hoc sensor networks
+Citations:3904
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 131-146
+
+2. Directed diffusion for wireless sensor networking
+Citations:3429
+Authors: C Intanagonwiwat, R Govindan, D Estrin, J Heidemann, F Silva
+Publication: IEEE/ACM Transactions on Networking (ToN) 11 (1), 2-16
+
+3. TinyDB: an acquisitional query processing system for sensor networks
+Citations:2529
+Authors: SR Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: ACM Transactions on database systems (TODS) 30 (1), 122-173
+
+4. Telegraphcq: Continuous dataflow processing for an Uncertain world.
+Citations:1932
+Authors: S Chandrasekaran, O Cooper, A Deshpande, MJ Franklin, JM Hellerstein, ...
+Publication: Cidr 2, 4
+
+5. TinyOS: An operating system for sensor networks
+Citations:1930
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: Ambient intelligence, 115-148
+
+6. Model-driven data acquisition in sensor networks
+Citations:1398
+Authors: A Deshpande, C Guestrin, SR Madden, JM Hellerstein, W Hong
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+7. C-store: a column-oriented DBMS
+Citations:1389
+Authors: M Stonebraker, DJ Abadi, A Batkin, X Chen, M Cherniack, M Ferreira, ...
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+8. A comparison of approaches to large-scale data analysis
+Citations:1325
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+9. CarTel: a distributed mobile sensor computing system
+Citations:1302
+Authors: B Hull, V Bychkovsky, Y Zhang, K Chen, M Goraczko, A Miu, E Shih, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+10. The design of an acquisitional query processor for sensor networks
+Citations:1287
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+11. The pothole patrol: using a mobile sensor network for road surface monitoring
+Citations:957
+Authors: J Eriksson, L Girod, B Hull, R Newton, S Madden, H Balakrishnan
+Publication: Proceedings of the 6th international conference on Mobile systems …
+
+12. VTrack: accurate, energy-aware road traffic delay estimation using mobile phones
+Citations:893
+Authors: A Thiagarajan, L Ravindranath, K LaCurts, S Madden, H Balakrishnan, ...
+Publication: Proceedings of the 7th ACM conference on embedded networked sensor systems …
+
+13. Continuously adaptive continuous queries over streams
+Citations:851
+Authors: S Madden, M Shah, JM Hellerstein, V Raman
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+14. Scalable semantic web data management using vertical partitioning
+Citations:821
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+15. The end of an architectural era:(it's time for a complete rewrite)
+Citations:773
+Authors: M Stonebraker, S Madden, DJ Abadi, S Harizopoulos, N Hachem, ...
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+16. Fjording the stream: An architecture for queries over streaming sensor data
+Citations:688
+Authors: S Madden, MJ Franklin
+Publication: icde 2, 555
+
+17. Supporting aggregate queries over ad-hoc wireless sensor networks
+Citations:666
+Authors: S Madden, R Szewczyk, MJ Franklin, D Culler
+Publication: Proceedings Fourth IEEE Workshop on Mobile Computing Systems and …
+
+18. Integrating compression and execution in column-oriented database systems
+Citations:659
+Authors: D Abadi, S Madden, M Ferreira
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+19. Column-stores vs. row-stores: how different are they really?
+Citations:645
+Authors: DJ Abadi, SR Madden, N Hachem
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+20. Twitinfo: aggregating and visualizing microblogs for event exploration
+Citations:611
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the SIGCHI conference on Human factors in computing systems …
+
+21. A measurement study of vehicular internet access using in situ Wi-Fi networks
+Citations:598
+Authors: V Bychkovsky, B Hull, A Miu, H Balakrishnan, S Madden
+Publication: Proceedings of the 12th annual international conference on Mobile computing …
+
+22. MapReduce and parallel DBMSs: friends or foes?
+Citations:588
+Authors: M Stonebraker, D Abadi, DJ DeWitt, S Madden, E Paulson, A Pavlo, ...
+Publication: Communications of the ACM 53 (1), 64-71
+
+23. The Emergence of Networking Abstractions and Techniques in TinyOS.
+Citations:587
+Authors: P Levis, S Madden, D Gay, J Polastre, R Szewczyk, A Woo, EA Brewer, ...
+Publication: NSDI 4, 1-1
+
+24. BlinkDB: queries with bounded errors and bounded response times on very large data
+Citations:565
+Authors: S Agarwal, B Mozafari, A Panda, H Milner, S Madden, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 29-42
+
+25. PIPENETa wireless sensor network for pipeline monitoring
+Citations:562
+Authors: I Stoianov, L Nachman, S Madden, T Tokmouline
+Publication: Proceedings of the 6th international conference on Information processing in …
+
+26. H-store: a high-performance, distributed main memory transaction processing system
+Citations:539
+Authors: R Kallman, H Kimura, J Natkins, A Pavlo, A Rasin, S Zdonik, EPC Jones, ...
+Publication: Proceedings of the VLDB Endowment 1 (2), 1496-1499
+
+27. Schism: a workload-driven approach to database replication and partitioning
+Citations:519
+Authors: C Curino, E Jones, Y Zhang, S Madden
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 48-57
+
+28. From databases to big data
+Citations:514
+Authors: S Madden
+Publication: IEEE Internet Computing 16 (3), 4-6
+
+29. Cabernet: vehicular content delivery using WiFi
+Citations:510
+Authors: J Eriksson, H Balakrishnan, S Madden
+Publication: Proceedings of the 14th ACM international conference on Mobile computing and …
+
+30. Distributed regression: an efficient framework for modeling sensor network data
+Citations:510
+Authors: C Guestrin, P Bodik, R Thibaux, M Paskin, S Madden
+Publication: Proceedings of the 3rd international symposium on Information processing in …
+
+31. Query processing in sensor networks
+Citations:444
+Authors: J Gehrke, S Madden
+Publication: IEEE Pervasive computing 3 (1), 46-55
+
+32. Relational cloud: A database-as-a-service for the cloud
+Citations:397
+Authors: C Curino, EPC Jones, RA Popa, N Malviya, E Wu, S Madden, ...
+Publication: 
+
+33. Overview of SciDB: large scale array storage, processing and analysis
+Citations:366
+Authors: PG Brown
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+34. Beyond average: Toward sophisticated sensing with queries
+Citations:342
+Authors: JM Hellerstein, W Hong, S Madden, K Stanek
+Publication: Information Processing in Sensor Networks, 63-79
+
+35. OLTP through the looking glass, and what we found there
+Citations:331
+Authors: S Harizopoulos, DJ Abadi, S Madden, M Stonebraker
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+36. Mobiscopes for human spaces
+Citations:319
+Authors: T Abdelzaher, Y Anokwa, P Boda, J Burke, D Estrin, L Guibas, A Kansal, ...
+Publication: IEEE pervasive computing 6 (2), 20-29
+
+37. SW-Store: a vertically partitioned DBMS for Semantic Web data management
+Citations:316
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: The VLDB Journal 18 (2), 385-406
+
+38. PAQ: Time series forecasting for approximate query answering in sensor networks
+Citations:316
+Authors: D Tulone, S Madden
+Publication: European Workshop on Wireless Sensor Networks, 21-37
+
+39. Human-powered sorts and joins
+Citations:293
+Authors: A Marcus, E Wu, D Karger, S Madden, R Miller
+Publication: Proceedings of the VLDB Endowment 5 (1), 13-24
+
+40. Reed: Robust, efficient filtering and event detection in sensor networks
+Citations:291
+Authors: DJ Abadi, S Madden, W Lindner
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+41. Adaptive query processing: Technology in evolution
+Citations:290
+Authors: JM Hellerstein, MJ Franklin, S Chandrasekaran, A Deshpande, K Hildrum, ...
+Publication: IEEE Data Eng. Bull. 23 (2), 7-18
+
+42. Processing analytical queries over encrypted data
+Citations:282
+Authors: S Tu, MF Kaashoek, S Madden, N Zeldovich
+Publication: Proceedings of the VLDB Endowment 6 (5), 289-300
+
+43. Speedy transactions in multicore in-memory databases
+Citations:274
+Authors: S Tu, W Zheng, E Kohler, B Liskov, S Madden
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+44. Materialization strategies in a column-oriented DBMS
+Citations:273
+Authors: DJ Abadi, DS Myers, DJ DeWitt, SR Madden
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 466-475
+
+45. HYRISE: a main memory hybrid storage engine
+Citations:255
+Authors: M Grund, J Krüger, H Plattner, A Zeier, P Cudre-Mauroux, S Madden
+Publication: Proceedings of the VLDB Endowment 4 (2), 105-116
+
+46. TASK: Sensor network in a box
+Citations:249
+Authors: P Buonadonna, D Gay, JM Hellerstein, W Hong, S Madden
+Publication: Proceeedings of the Second European Workshop on Wireless Sensor Networks …
+
+47. MauveDB: supporting model-based user views in database systems
+Citations:243
+Authors: A Deshpande, S Madden
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+48. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+49. Performance tradeoffs in read-optimized databases
+Citations:224
+Authors: S Harizopoulos, V Liang, DJ Abadi, S Madden
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+50. Accurate, low-energy trajectory mapping for mobile devices
+Citations:220
+Authors: A Thiagarajan, L Ravindranath, H Balakrishnan, S Madden, L Girod
+Publication: USENIX Association
+
+51. Fault-tolerance in the Borealis distributed stream processing system
+Citations:220
+Authors: M Balazinska, H Balakrishnan, S Madden, M Stonebraker
+Publication: Proceedings of the 2005 ACM SIGMOD international conference on Management of …
+
+52. Crowdsourced databases: Query processing with people
+Citations:218
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Cidr
+
+53. MDCC: Multi-data center consistency
+Citations:216
+Authors: T Kraska, G Pang, MJ Franklin, S Madden, A Fekete
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 113-126
+
+54. Zstream: a cost-based query processor for adaptively detecting composite events
+Citations:214
+Authors: Y Mei, S Madden
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+55. The sensor network as a database
+Citations:208
+Authors: R Govindan, J Hellerstein, W Hong, S Madden, M Franklin, S Shenker
+Publication: Technical Report 02-771, Computer Science Department, University of Southern …
+
+56. Custody transfer for reliable delivery in delay tolerant networks
+Citations:181
+Authors: K Fall, W Hong, S Madden
+Publication: IRB-TR-03-030, July
+
+57. A demonstration of SciDB: a science-oriented DBMS
+Citations:180
+Authors: P Cudré-Mauroux, H Kimura, KT Lim, J Rogers, R Simakov, E Soroush, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1534-1537
+
+58. Exploiting correlated attributes in acquisitional query processing
+Citations:179
+Authors: A Deshpande, C Guestrin, W Hong, S Madden
+Publication: 21st International Conference on Data Engineering (ICDE'05), 143-154
+
+59. The Claremont report on database research
+Citations:177
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: ACM Sigmod Record 37 (3), 9-19
+
+60. Fault-tolerance in the borealis distributed stream processing system
+Citations:177
+Authors: M Balazinska, H Balakrishnan, SR Madden, M Stonebraker
+Publication: ACM Transactions on Database Systems (TODS) 33 (1), 3
+
+61. The design and implementation of modern column-oriented database systems
+Citations:175
+Authors: D Abadi, P Boncz, S Harizopoulos, S Idreos, S Madden
+Publication: Foundations and Trends® in Databases 5 (3), 197-280
+
+62. Workload-aware database monitoring and consolidation
+Citations:175
+Authors: C Curino, EPC Jones, S Madden, H Balakrishnan
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+63. Trajstore: An adaptive storage system for very large trajectory data sets
+Citations:173
+Authors: P Cudre-Mauroux, E Wu, S Madden
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 109-120
+
+64. Model-based approximate querying in sensor networks
+Citations:159
+Authors: A Deshpande, C Guestrin, SR Madden, JM Hellerstein, W Hong
+Publication: The VLDB journal 14 (4), 417-443
+
+65. Low overhead concurrency control for partitioned main memory databases
+Citations:153
+Authors: EPC Jones, DJ Abadi, S Madden
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+66. Query execution in column-oriented database systems
+Citations:149
+Authors: DJ Abadi
+Publication: Massachusetts Institute of Technology
+
+67. TelegraphCQ: An architectural status report
+Citations:145
+Authors: S Krishnamurthy, S Chandrasekaran, O Cooper, A Deshpande, ...
+Publication: IEEE Data Eng. Bull. 26 (1), 11-18
+
+68. Knowing when you're wrong: building fast and reliable approximate query processing systems
+Citations:141
+Authors: S Agarwal, H Milner, A Kleiner, A Talwalkar, M Jordan, S Madden, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+69. The design and evaluation of a query processing architecture for sensor networks
+Citations:136
+Authors: SR Madden, MJ Franklin
+Publication: University of California, Berkeley
+
+70. Using Probabilistic Models for Data Management in Acquisitional Environments.
+Citations:131
+Authors: A Deshpande, C Guestrin, S Madden, JM Hellerstein, W Hong
+Publication: CIDR 5, 317-328
+
+71. Scaling up crowd-sourcing to very large datasets: a case for active learning
+Citations:130
+Authors: B Mozafari, P Sarkar, M Franklin, M Jordan, S Madden
+Publication: Proceedings of the VLDB Endowment 8 (2), 125-136
+
+72. The bigdawg polystore system
+Citations:129
+Authors: J Duggan, AJ Elmore, M Stonebraker, M Balazinska, B Howe, J Kepner, ...
+Publication: ACM Sigmod Record 44 (2), 11-16
+
+73. Networking support for query processing in sensor networks
+Citations:126
+Authors: A Woo, S Madden, R Govindan
+Publication: Communications of the ACM 47 (6), 47-52
+
+74. Wishbone: Profile-based Partitioning for Sensornet Applications.
+Citations:124
+Authors: R Newton, S Toledo, L Girod, H Balakrishnan, S Madden
+Publication: NSDI 9, 395-408
+
+75. TinyDB: In-network query processing in tinyos
+Citations:119
+Authors: S Madden, J Hellerstein, W Hong
+Publication: 
+
+76. Improving wireless network performance using sensor hints
+Citations:118
+Authors: L Ravindranath, C Newport, H Balakrishnan, S Madden
+Publication: Proceedings of the 8th USENIX conference on Networked systems design and …
+
+77. An energy-efficient querying framework in sensor networks for detecting node similarities
+Citations:118
+Authors: D Tulone, S Madden
+Publication: Proceedings of the 9th ACM international symposium on Modeling analysis and …
+
+78. Scorpion: Explaining away outliers in aggregate queries
+Citations:117
+Authors: E Wu, S Madden
+Publication: Proceedings of the VLDB Endowment 6 (8), 553-564
+
+79. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+80. Tolerating byzantine faults in transaction processing systems using commit barrier scheduling
+Citations:114
+Authors: B Vandiver, H Balakrishnan, B Liskov, S Madden
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 59-72
+
+81. Rethinking main memory OLTP recovery
+Citations:112
+Authors: N Malviya, A Weisberg, S Madden, M Stonebraker
+Publication: 2014 IEEE 30th International Conference on Data Engineering, 604-615
+
+82. Telematics using personal mobile devices
+Citations:111
+Authors: PG Malalur, H Balakrishnan, SR Madden
+Publication: US Patent 8,457,880
+
+83. Datahub: Collaborative data science & dataset version management at scale
+Citations:106
+Authors: A Bhardwaj, S Bhattacherjee, A Chavan, A Deshpande, AJ Elmore, ...
+Publication: arXiv preprint arXiv:1409.0798
+
+84. S ee DB: efficient data-driven visualization recommendations to support visual analytics
+Citations:105
+Authors: M Vartak, S Rahman, S Madden, A Parameswaran, N Polyzotis
+Publication: Proceedings of the VLDB Endowment 8 (13), 2182-2193
+
+85. The Claremont report on database research
+Citations:104
+Authors: R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, ...
+Publication: Communications of the ACM 52 (6), 56-65
+
+86. Bigdansing: A system for big data cleansing
+Citations:101
+Authors: Z Khayyat, IF Ilyas, A Jindal, S Madden, M Ouzzani, P Papotti, ...
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+87. Streaming similarity search over one billion tweets using parallel locality-sensitive hashing
+Citations:98
+Authors: N Sundaram, A Turmukhametova, N Satish, T Mostak, P Indyk, S Madden, ...
+Publication: Proceedings of the VLDB Endowment 6 (14), 1930-1941
+
+88. Blink and it's done: interactive queries on very large data
+Citations:98
+Authors: S Agarwal, AP Iyer, A Panda, S Madden, B Mozafari, I Stoica
+Publication: Proceedings of the VLDB Endowment 5 (12), 1902-1905
+
+89. Counting with the crowd
+Citations:97
+Authors: A Marcus, D Karger, S Madden, R Miller, S Oh
+Publication: Proceedings of the VLDB Endowment 6 (2), 109-120
+
+90. Top-k queries on uncertain data: on score distribution and typical answers
+Citations:96
+Authors: T Ge, S Zdonik, S Madden
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+91. The emergence of a networking primitive in wireless sensor networks
+Citations:93
+Authors: P Levis, E Brewer, D Culler, D Gay, S Madden, N Patel, J Polastre, ...
+Publication: Communications of the ACM 51 (7), 99-106
+
+92. Osprey: Implementing MapReduce-style fault tolerance in a shared-nothing distributed database
+Citations:91
+Authors: C Yang, C Yen, C Tan, SR Madden
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 657-668
+
+93. Information survival threshold in sensor and p2p networks
+Citations:88
+Authors: D Chakrabarti, J Leskovec, C Faloutsos, S Madden, C Guestrin, ...
+Publication: IEEE INFOCOM 2007-26th IEEE International Conference on Computer …
+
+94. Optimizing database-backed applications with query synthesis
+Citations:86
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: ACM SIGPLAN Notices 48 (6), 3-14
+
+95. A demonstration of the BigDAWG polystore system
+Citations:83
+Authors: A Elmore, J Duggan, M Stonebraker, M Balazinska, U Cetintemel, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1908-1911
+
+96. An integration framework for sensor networks and data stream management systems
+Citations:81
+Authors: DJ Abadi, W Lindner, S Madden, J Schuler
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+97. Report from the first workshop on geo sensor networks
+Citations:79
+Authors: S Nittel, A Stefanidis, I Cruz, M Egenhofer, D Goldin, A Howard, ...
+Publication: ACM SIGMOD Record 33 (1), 141-144
+
+98. Intel lab data
+Citations:78
+Authors: S Madden
+Publication: Web page, Intel
+
+99. The sensor spectrum: technology, trends, and requirements
+Citations:77
+Authors: JM Hellerstein, W Hong, SR Madden
+Publication: ACM SIGMOD Record 32 (4), 22-27
+
+100. Querying continuous functions in a database system
+Citations:76
+Authors: A Thiagarajan, S Madden
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+101. Transactional consistency and automatic management in an application data cache
+Citations:75
+Authors: DRK Ports, AT Clements, I Zhang, S Madden, B Liskov
+Publication: USENIX Association
+
+102. The CarTel mobile sensor computing system
+Citations:75
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+103. Performance and resource modeling in highly-concurrent OLTP workloads
+Citations:73
+Authors: B Mozafari, C Curino, A Jindal, S Madden
+Publication: Proceedings of the 2013 acm sigmod international conference on management of …
+
+104. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+105. Code in the air: simplifying sensing and coordination tasks on smartphones
+Citations:71
+Authors: L Ravindranath, A Thiagarajan, H Balakrishnan, S Madden
+Publication: Proceedings of the Twelfth Workshop on Mobile Computing Systems …
+
+106. Xstream: A signal-oriented data stream management system
+Citations:70
+Authors: L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, ...
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 1180-1189
+
+107. DBSeer: Resource and Performance Prediction for Building a Next Generation Database Cloud.
+Citations:69
+Authors: B Mozafari, C Curino, S Madden
+Publication: CIDR
+
+108. Intel lab data
+Citations:69
+Authors: P Bodik, W Hong, C Guestrin, S Madden, M Paskin, R Thibaux
+Publication: Online dataset
+
+109. The case for data visualization management systems: vision paper
+Citations:66
+Authors: E Wu, L Battle, SR Madden
+Publication: Proceedings of the VLDB Endowment 7 (10), 903-906
+
+110. Resource-Aware Wireless Sensor-Actuator Networks.
+Citations:66
+Authors: A Deshpande, C Guestrin, S Madden
+Publication: IEEE Data Eng. Bull. 28 (1), 40-47
+
+111. Voxnet: An interactive, rapidly-deployable acoustic monitoring platform
+Citations:65
+Authors: M Allen, L Girod, R Newton, S Madden, DT Blumstein, D Estrin
+Publication: Proceedings of the 7th international conference on Information processing in …
+
+112. On the use of NAND flash memory in high-performance relational databases
+Citations:64
+Authors: DDS Myers
+Publication: Massachusetts Institute of Technology
+
+113. Automatic partitioning of database applications
+Citations:63
+Authors: A Cheung, S Madden, O Arden, AC Myers
+Publication: Proceedings of the VLDB Endowment 5 (11), 1471-1482
+
+114. S-Store: streaming meets transaction processing
+Citations:62
+Authors: J Meehan, N Tatbul, S Zdonik, C Aslantas, U Cetintemel, J Du, T Kraska, ...
+Publication: Proceedings of the VLDB Endowment 8 (13), 2134-2145
+
+115. S-Store: a streaming NewSQL system for big velocity applications
+Citations:62
+Authors: U Cetintemel, J Du, T Kraska, S Madden, D Maier, J Meehan, A Pavlo, ...
+Publication: Proceedings of the VLDB Endowment 7 (13), 1633-1636
+
+116. Rapid sampling for visualizations with ordering guarantees
+Citations:60
+Authors: A Kim, E Blais, A Parameswaran, P Indyk, S Madden, R Rubinfeld
+Publication: Proceedings of the VLDB Endowment 8 (5), 521-532
+
+117. SEEDB: automatically generating query visualizations
+Citations:58
+Authors: M Vartak, S Madden, A Parameswaran, N Polyzotis
+Publication: Proceedings of the VLDB Endowment 7 (13), 1581-1584
+
+118. Sensor networks for monitoring water supply and sewer systems: Lessons from boston
+Citations:58
+Authors: I Stoianov, L Nachman, A Whittle, S Madden, R Kling
+Publication: Water Distribution Systems Analysis Symposium 2006, 1-17
+
+119. The Data Civilizer System.
+Citations:57
+Authors: D Deng, RC Fernandez, Z Abedjan, S Wang, M Stonebraker, ...
+Publication: Cidr
+
+120. Stochastic motion planning and applications to traffic
+Citations:57
+Authors: S Lim, H Balakrishnan, D Gifford, S Madden, D Rus
+Publication: The International Journal of Robotics Research 30 (6), 699-712
+
+121. Ambient Intelligence
+Citations:57
+Authors: P Levis, S Madden, J Polastre, R Szewczyk, K Whitehouse, A Woo, D Gay, ...
+Publication: TinyOS: an operating system for sensor networks ambient intelligence, 115-148
+
+122. Efficient versioning for scientific array databases
+Citations:56
+Authors: A Seering, P Cudre-Mauroux, S Madden, M Stonebraker
+Publication: 2012 IEEE 28th International Conference on Data Engineering, 1013-1024
+
+123. Relational cloud: The case for a database service
+Citations:56
+Authors: C Curino, E Jones, Y Zhang, E Wu, S Madden
+Publication: New England Database Summit, 1-6
+
+124. An integrated approach to recovery and high availability in an updatable, distributed data warehouse
+Citations:56
+Authors: E Lau, S Madden
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+125. Intel Berkeley research lab data
+Citations:56
+Authors: S Madden
+Publication: USA: Intel Corporation, 2004 [2004-06-08]. http://berkeley, intel-research …
+
+126. Macrobase: Prioritizing attention in fast data
+Citations:55
+Authors: P Bailis, E Gan, S Madden, D Narayanan, K Rong, S Suri
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+127. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+128. Crowddb: Query processing with the vldb crowd
+Citations:55
+Authors: A Feng, M Franklin, D Kossmann, T Kraska, SR Madden, S Ramesh, ...
+Publication: VLDB Endowment
+
+129. The Case for a Signal-Oriented Data Stream Management System.
+Citations:55
+Authors: L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, ...
+Publication: CIDR 7, 397-406
+
+130. A continuous query system for dynamic route planning
+Citations:54
+Authors: N Malviya, S Madden, A Bhattacharya
+Publication: 2011 IEEE 27th International Conference on Data Engineering, 792-803
+
+131. Java support for data-intensive systems: Experiences building the Telegraph dataflow system
+Citations:53
+Authors: MA Shah, MJ Franklin, S Madden, JM Hellerstein
+Publication: ACM Sigmod Record 30 (4), 103-114
+
+132. M odel DB: a system for machine learning model management
+Citations:52
+Authors: M Vartak, H Subramanyam, WE Lee, S Viswanathan, S Husnoo, ...
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 14
+
+133. Ninja paths: An architecture for composing services over wide area networks
+Citations:52
+Authors: S Chandrasekaran, S Ch, S Madden, M Ionescu
+Publication: 
+
+134. CORADD: Correlation aware database designer for materialized views and indexes
+Citations:51
+Authors: H Kimura, G Huo, A Rasin, S Madden, SB Zdonik
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1103-1113
+
+135. The TileDB array data storage manager
+Citations:50
+Authors: S Papadopoulos, K Datta, S Madden, T Mattson
+Publication: Proceedings of the VLDB Endowment 10 (4), 349-360
+
+136. Inference of vehicular trajectory characteristics with personal mobile devices
+Citations:50
+Authors: LD Girod, H Balakrishnan, SR Madden
+Publication: US Patent 9,228,836
+
+137. The bigdawg polystore system and architecture
+Citations:49
+Authors: V Gadepally, P Chen, J Duggan, A Elmore, B Haynes, J Kepner, ...
+Publication: 2016 IEEE High Performance Extreme Computing Conference (HPEC), 1-6
+
+138. Lookup tables: Fine-grained partitioning for distributed databases
+Citations:49
+Authors: AL Tatarowicz, C Curino, EPC Jones, S Madden
+Publication: 2012 IEEE 28th International Conference on Data Engineering, 102-113
+
+139. Treatment of perforated lesions of the colon by primary resection and anastomosis
+Citations:49
+Authors: JL Madden
+Publication: Diseases of the Colon & Rectum 9 (6), 413-416
+
+140. Voodoo-a vector algebra for portable database performance on modern hardware
+Citations:48
+Authors: H Pirk, O Moll, M Zaharia, S Madden
+Publication: Proceedings of the VLDB Endowment 9 (14), 1707-1718
+
+141. Demonstration of qurk: a query processor for humanoperators
+Citations:45
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+142. Vertexica: your relational friend for graph analytics!
+Citations:44
+Authors: A Jindal, P Rawlani, E Wu, S Madden, A Deshpande, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 7 (13), 1669-1672
+
+143. Mobius: unified messaging and data serving for mobile apps
+Citations:44
+Authors: BG Chun, C Curino, R Sears, A Shraer, S Madden, R Ramakrishnan
+Publication: Proceedings of the 10th international conference on Mobile systems …
+
+144. A trigger-based middleware cache for ORMs
+Citations:44
+Authors: P Gupta, N Zeldovich, S Madden
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+145. Intel big data science and technology center vision and execution plan
+Citations:43
+Authors: M Stonebraker, S Madden, P Dubey
+Publication: ACM SIGMOD Record 42 (1), 44-49
+
+146. ICEDB: Intermittently-connected continuous query processing
+Citations:42
+Authors: Y Zhang, B Hull, H Balakrishnan, S Madden
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 166-175
+
+147. Dwarf: Delay-aware robust forwarding for energy-constrained wireless sensor networks
+Citations:41
+Authors: M Strasser, A Meier, K Langendoen, P Blum
+Publication: International Conference on Distributed Computing in Sensor Systems, 64-81
+
+148. Tweets as data: demonstration of TweeQL and Twitinfo
+Citations:40
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+149. Processing and visualizing the data in tweets
+Citations:39
+Authors: A Marcus, MS Bernstein, O Badar, DR Karger, S Madden, RC Miller
+Publication: ACM SIGMOD Record 40 (4), 21-27
+
+150. Using the Barton libraries dataset as an RDF benchmark
+Citations:39
+Authors: DJ Abadi, A Marcus, SR Madden, K Hollenbach
+Publication: 
+
+151. Sloth: Being lazy is a virtue (when issuing database queries)
+Citations:38
+Authors: A Cheung, S Madden, A Solar-Lezama
+Publication: ACM Transactions on Database Systems (ToDS) 41 (2), 8
+
+152. Active learning for crowd-sourced databases
+Citations:37
+Authors: B Mozafari, P Sarkar, MJ Franklin, MI Jordan, S Madden
+Publication: arXiv preprint arXiv:1209.3686
+
+153. Design and evaluation of a compiler for embedded stream programs
+Citations:36
+Authors: RR Newton, LD Girod, MB Craig, SR Madden, JG Morrisett
+Publication: ACM Sigplan Notices 43 (7), 131-140
+
+154. Subzero: a fine-grained lineage system for scientific databases
+Citations:35
+Authors: E Wu, S Madden, M Stonebraker
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 865-876
+
+155. Distributing queries over low-power wireless sensor networks
+Citations:35
+Authors: S Madden, JM Hellerstein
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+156. Towards visualization recommendation systems
+Citations:34
+Authors: M Vartak, S Huang, T Siddiqui, S Madden, A Parameswaran
+Publication: ACM SIGMOD Record 45 (4), 34-39
+
+157. Collaborative data analytics with DataHub
+Citations:33
+Authors: A Bhardwaj, A Deshpande, AJ Elmore, D Karger, S Madden, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1916-1919
+
+158. Automatic reconfiguration for large-scale reliable storage systems
+Citations:33
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 145-158
+
+159. MAQSA: a system for social analytics on news
+Citations:32
+Authors: S Amer-Yahia, S Anjum, A Ghenai, A Siddique, S Abbar, S Madden, ...
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+160. Partitioning techniques for fine-grained indexing
+Citations:32
+Authors: E Wu, S Madden
+Publication: 2011 IEEE 27th International Conference on Data Engineering, 1127-1138
+
+161. Correlation maps: a compressed access method for exploiting soft functional dependencies
+Citations:32
+Authors: H Kimura, G Huo, A Rasin, S Madden, SB Zdonik
+Publication: Proceedings of the VLDB Endowment 2 (1), 1222-1233
+
+162. Genbase: A complex analytics genomics benchmark
+Citations:31
+Authors: R Taft, M Vartak, NR Satish, N Sundaram, S Madden, M Stonebraker
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+163. Ss-db: A standard science dbms benchmark
+Citations:30
+Authors: P Cudre-Mauroux, H Kimura, KT Lim, J Rogers, S Madden, ...
+Publication: Under submission
+
+164. A measurement-based analysis of the interaction between network layers in TinyOS
+Citations:30
+Authors: U Malesci, S Madden
+Publication: European Workshop on Wireless Sensor Networks, 292-309
+
+165. Social analytics
+Citations:29
+Authors: S Ameri-yahia, SR Madden, A Marcus
+Publication: US Patent 9,116,983
+
+166. The case for rodentstore, an adaptive, declarative storage system
+Citations:29
+Authors: P Cudre-Mauroux, E Wu, S Madden
+Publication: arXiv preprint arXiv:0909.1779
+
+167. Graph analytics using vertica relational database
+Citations:27
+Authors: A Jindal, S Madden, M Castellanos, M Hsu
+Publication: 2015 IEEE International Conference on Big Data (Big Data), 1191-1200
+
+168. Sync kit: a persistent client-side database caching toolkit for data intensive websites
+Citations:27
+Authors: E Benson, A Marcus, D Karger, S Madden
+Publication: Proceedings of the 19th international conference on World wide web, 121-130
+
+169. Model-based querying in sensor networks
+Citations:27
+Authors: A Deshpande, C Guestrin, S Madden
+Publication: Encyclopedia of Database Systems, 1764-1768
+
+170. Guest Editors' Introduction: Distributed Data Mining--Framework and Implementations
+Citations:27
+Authors: A Kumar, M Kantardzic, S Madden
+Publication: IEEE Internet Computing 10 (4), 15-17
+
+171. Acquisitional Query Processing in TinyDB
+Citations:27
+Authors: S Madden
+Publication: Powerpoint Presentation, 1-51
+
+172. StatusQuo: Making Familiar Abstractions Perform Using Program Analysis.
+Citations:26
+Authors: A Cheung, O Arden, S Madden, A Solar-Lezama, AC Myers
+Publication: CIDR
+
+173. The aurora and borealis stream processing engines
+Citations:25
+Authors: U Çetintemel, D Abadi, Y Ahmad, H Balakrishnan, M Balazinska, ...
+Publication: Data Stream Management, 337-359
+
+174. Scoop: An adaptive indexing scheme for stored data in sensor networks
+Citations:25
+Authors: TM Gil, S Madden
+Publication: 2007 IEEE 23rd International Conference on Data Engineering, 1345-1349
+
+175. Sagedb: A learned database system
+Citations:24
+Authors: T Kraska, M Alizadeh, A Beutel, EH Chi, J Ding, A Kristo, G Leclerc, ...
+Publication: 
+
+176. How to build a high-performance data warehouse
+Citations:24
+Authors: DJ DeWitt, S Madden, M Stonebraker
+Publication: Availabl e: http://db. lcs. mit. edu/madden/high_perf. pdf [Ac cessed: June …
+
+177. Decibel: The relational dataset branching system
+Citations:23
+Authors: M Maddox, D Goehring, AJ Elmore, S Madden, A Parameswaran, ...
+Publication: Proceedings of the VLDB Endowment 9 (9), 624-635
+
+178. Partial replay of long-running applications
+Citations:23
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+179. Wavescope: a signal-oriented data stream management system
+Citations:23
+Authors: L Girod, K Jamieson, Y Mei, R Newton, S Rost, A Thiagarajan, ...
+Publication: Proceedings of the 4th international conference on Embedded networked sensor …
+
+180. Using Program Analysis to Improve Database Applications.
+Citations:22
+Authors: A Cheung, S Madden, A Solar-Lezama, O Arden, AC Myers
+Publication: IEEE Data Eng. Bull. 37 (1), 48-59
+
+181. Roadtracer: Automatic extraction of road networks from aerial images
+Citations:21
+Authors: F Bastani, S He, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+182. AdaptDB: adaptive partitioning for distributed joins
+Citations:21
+Authors: Y Lu, A Shanbhag, A Jindal, S Madden
+Publication: Proceedings of the VLDB Endowment 10 (5), 589-600
+
+183. GRAPHiQL: A graph intuitive query language for relational databases
+Citations:21
+Authors: A Jindal, S Madden
+Publication: 2014 IEEE International Conference on Big Data (Big Data), 441-450
+
+184. Cabernet: A content delivery network for moving vehicles
+Citations:20
+Authors: J Eriksson, H Balakrishnan, S Madden
+Publication: 
+
+185. Data management in the CarTel mobile sensor computing system
+Citations:20
+Authors: V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, ...
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+186. The impact of meta-information on decision-making in intelligence operations
+Citations:20
+Authors: J Pfautz, A Fouse, T Fichtl, E Roth, A Bisantz, S Madden
+Publication: Proceedings of the Human Factors and Ergonomics Society Annual Meeting 49 (3 …
+
+187. Towards a unified query language for provenance and versioning
+Citations:19
+Authors: A Chavan, S Huang, A Deshpande, A Elmore, S Madden, ...
+Publication: 7th {USENIX} Workshop on the Theory and Practice of Provenance (TaPP 15)
+
+188. Using program synthesis for social recommendations
+Citations:18
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: arXiv preprint arXiv:1208.2925
+
+189. Impact of double-blind reviewing on SIGMOD publication rates
+Citations:18
+Authors: S Madden, D DeWitt
+Publication: ACM SIGMOD Record 35 (2), 29-32
+
+190. Synthesizing entity matching rules by examples
+Citations:17
+Authors: R Singh, VV Meduri, A Elmagarmid, S Madden, P Papotti, JA Quiané-Ruiz, ...
+Publication: Proceedings of the VLDB Endowment 11 (2), 189-202
+
+191. An overview of HYRISE-a Main Memory Hybrid Storage Engine.
+Citations:17
+Authors: M Grund, P Cudré-Mauroux, J Krüger, S Madden, H Plattner
+Publication: IEEE Data Eng. Bull. 35 (1), 52-57
+
+192. Upi: A primary index for uncertain databases
+Citations:17
+Authors: H Kimura, S Madden, SB Zdonik
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 630-637
+
+193. Database abstractions for managing sensor network data
+Citations:16
+Authors: S Madden
+Publication: Proceedings of the IEEE 98 (11), 1879-1886
+
+194. Performance profiling with EndoScope, an acquisitional software monitoring framework
+Citations:16
+Authors: A Cheung, S Madden
+Publication: Proceedings of the VLDB Endowment 1 (1), 42-53
+
+195. Query processing for streaming sensor data
+Citations:16
+Authors: S Madden
+Publication: Comput. Sci. Div
+
+196. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+197. Generating concise entity matching rules
+Citations:14
+Authors: R Singh, V Meduri, A Elmagarmid, S Madden, P Papotti, JA Quiané-Ruiz, ...
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+198. Supporting fast iteration in model building
+Citations:14
+Authors: M Vartak, P Ortiz, K Siegel, H Subramanyam, S Madden, M Zaharia
+Publication: NIPS Workshop LearningSys
+
+199. CHIC: a combination-based recommendation system
+Citations:14
+Authors: M Vartak, S Madden
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+200. A demonstration of DBWipes: clean as you query
+Citations:14
+Authors: E Wu, S Madden, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 5 (12), 1894-1897
+
+201. Wavescript: A case-study in applying a distributed stream-processing language
+Citations:14
+Authors: R Newton, L Girod, M Craig, S Madden, G Morrisett
+Publication: 
+
+202. Compression and query execution within column oriented databases
+Citations:13
+Authors: MC Ferreira
+Publication: Massachusetts Institute of Technology
+
+203. TAG: Tiny AGgregate queries in ad-hoc sensor networks
+Citations:13
+Authors: S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: Proceedings of the Usenix Symposium on Operating Systems Design and …
+
+204. Outlier detection in heterogeneous datasets using automatic tuple expansion
+Citations:12
+Authors: Z Mariet, R Harding, S Madden
+Publication: 
+
+205. Attendee-sourcing: Exploring the design space of community-informed conference scheduling
+Citations:12
+Authors: A Bhardwaj, J Kim, S Dow, D Karger, S Madden, R Miller, H Zhang
+Publication: Second AAAI conference on human computation and crowdsourcing
+
+206. CARTILAGE: adding flexibility to the Hadoop skeleton
+Citations:12
+Authors: A Jindal, J Quiané-Ruiz, S Madden
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+207. Implementation and research issues in query processing for wireless sensor networks
+Citations:12
+Authors: W Hong, S Madden
+Publication: Proceedings. 20th International Conference on Data Engineering, 876-876
+
+208. S ilk M oth: an efficient method for finding related sets with maximum matching constraints
+Citations:11
+Authors: D Deng, A Kim, S Madden, M Stonebraker
+Publication: Proceedings of the VLDB Endowment 10 (10), 1082-1093
+
+209. Probabilistic models for mobile phone trajectory estimation
+Citations:11
+Authors: A Thiagarajan
+Publication: Massachusetts Institute of Technology
+
+210. Aurum: A data discovery system
+Citations:10
+Authors: RC Fernandez, Z Abedjan, F Koko, G Yuan, S Madden, M Stonebraker
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 1001-1012
+
+211. Seeping semantics: Linking datasets using word embeddings for data discovery
+Citations:10
+Authors: RC Fernandez, E Mansour, AA Qahtan, A Elmagarmid, I Ilyas, S Madden, ...
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 989-1000
+
+212. On Challenges in Machine Learning Model Management.
+Citations:10
+Authors: S Schelter, F Biessmann, T Januschowski, D Salinas, S Seufert, ...
+Publication: IEEE Data Eng. Bull. 41 (4), 5-15
+
+213. Towards large-scale data discovery: position paper
+Citations:10
+Authors: RC Fernandez, Z Abedjan, S Madden, M Stonebraker
+Publication: Proceedings of the Third International Workshop on Exploratory Search in …
+
+214. SeeDB: supporting visual analytics with data-driven recommendations
+Citations:10
+Authors: M Vartak, S Madden, A Parameswaran, N Polyzotis
+Publication: Proceedings of the VLDB Endowment 8 (13), 2015
+
+215. Code in the air: simplifying sensing on smartphones
+Citations:10
+Authors: T Kaler, JP Lynch, T Peng, L Ravindranath, A Thiagarajan, ...
+Publication: Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems …
+
+216. Sensor based monitoring of social networks
+Citations:10
+Authors: M Farry, J Pfautz, S Madden
+Publication: US Patent App. 12/510,299
+
+217. Mistique: A system to store and query model intermediates for model diagnosis
+Citations:9
+Authors: M Vartak, JM F da Trindade, S Madden, M Zaharia
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1285 …
+
+218. Macrobase: Analytic monitoring for the internet of things
+Citations:9
+Authors: P Bailis, E Gan, S Madden, D Narayanan, K Rong, S Suri
+Publication: arXiv preprint arXiv:1603.00567 7
+
+219. Inferring SQL queries using program synthesis
+Citations:9
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: arXiv preprint arXiv:1208.2013
+
+220. QCD precision measurements and structure function extraction at a high statistics, high energy neutrino scattering experiment: NuSOnG
+Citations:9
+Authors: T Adams, P Batra, L Bugel, L Camilleri, JM Conrad, A De Gouvêa, ...
+Publication: International Journal of Modern Physics A 25 (05), 909-949
+
+221. Scoop: a hybrid, adaptive storage policy for sensor networks
+Citations:9
+Authors: TM Gil, S Madden
+Publication: MIT CSAIL Technical Report
+
+222. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+223. A robust partitioning scheme for ad-hoc query workloads
+Citations:8
+Authors: A Shanbhag, A Jindal, S Madden, J Quiane, AJ Elmore
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 229-241
+
+224. A Demo of the Data Civilizer System.
+Citations:8
+Authors: RC Fernandez, D Deng, E Mansour, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: SIGMOD Conference, 1639-1642
+
+225. Distributed data streams
+Citations:8
+Authors: M Garofalakis
+Publication: Encyclopedia of Database Systems, 883-890
+
+226. Thinking Big About Tiny Databases.
+Citations:8
+Authors: MJ Franklin, JM Hellerstein, S Madden
+Publication: IEEE Data Eng. Bull. 30 (3), 37-48
+
+227. Data Management Issues in Disconnected Sensor Networks.
+Citations:8
+Authors: W Lindner, S Madden
+Publication: GI Jahrestagung (2) 4, 349-354
+
+228. Database parallelism choices greatly impact scalability. DatabaseColumn Blog
+Citations:8
+Authors: S Madden, D DeWitt, M Stonebraker
+Publication: 
+
+229. A moeba: a shape changing storage system for big data
+Citations:7
+Authors: A Shanbhag, A Jindal, Y Lu, S Madden
+Publication: Proceedings of the VLDB Endowment 9 (13), 1569-1572
+
+230. Mesh networking research and technology for multihop wireless networks
+Citations:7
+Authors: S Madden, P Levis
+Publication: IEEE Internet Computing 12 (4), 9-11
+
+231. Query optimization for dynamic imputation
+Citations:6
+Authors: J Cambronero, JK Feser, MJ Smith, S Madden
+Publication: Proceedings of the VLDB Endowment 10 (11), 1310-1321
+
+232. Exploring big volume sensor data with Vroom
+Citations:6
+Authors: O Moll, A Zalewski, S Pillai, S Madden, M Stonebraker, V Gadepally
+Publication: Proceedings of the VLDB Endowment 10 (12), 1973-1976
+
+233. Speeding up database applications with pyxis
+Citations:6
+Authors: A Cheung, O Arden, S Madden, AC Myers
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+234. Brains and bytes
+Citations:6
+Authors: D Lindley
+Publication: Communications of the ACM 53 (9), 13-15
+
+235. Coverage-oriented sensor deployment
+Citations:6
+Authors: Y Zou, K Chakrabarty
+Publication: Distributed Sensor Networks, 483-504
+
+236. Entity consolidation: The golden record problem
+Citations:5
+Authors: D Deng, W Tao, Z Abedjan, A Elmagarmid, IF Ilyas, S Madden, M Ouzzani, ...
+Publication: ArXiv e-prints
+
+237. Version 0.1 of the bigdawg polystore system
+Citations:5
+Authors: V Gadepally, K OBrien, A Dziedzic, A Elmore, J Kepner, S Madden, ...
+Publication: arXiv preprint arXiv:1707.00721
+
+238. Telematics using personal mobile devices
+Citations:5
+Authors: PG Malalur, H Balakrishnan, SR Madden
+Publication: US Patent App. 14/647,638
+
+239. A Demonstration of HYRISE—A Main Memory Hybrid Storage Engine
+Citations:5
+Authors: M Grund, P Cudre-Mauroux, S Madden
+Publication: Proceedings of the VLDB Endowment 4 (12), 1434-1437
+
+240. Demonstration of the trajstore system
+Citations:5
+Authors: E Wu, P Cudre-Mauroux, S Madden
+Publication: Proceedings of the VLDB Endowment 2 (2), 1554-1557
+
+241. iNav: A hybrid approach to WiFi localization and tracking of mobile devices
+Citations:5
+Authors: L Popov
+Publication: Massachusetts Institute of Technology
+
+242. Representing and querying regression models in a DBMS
+Citations:5
+Authors: A Thiagarajan, S Madden
+Publication: Master’s thesis, MIT
+
+243. Intel Berkeley research lab data [OL]
+Citations:5
+Authors: S Madden
+Publication: 
+
+244. A signal oriented stream processing system for pipeline monitoring
+Citations:5
+Authors: T Tokmouline
+Publication: Massachusetts Institute of Technology
+
+245. Sensor networks for social networks
+Citations:5
+Authors: MP Farry
+Publication: Massachusetts Institute of Technology
+
+246. Availability-consistency trade-offs in a fault-tolerant stream processing system
+Citations:5
+Authors: M Balazinska, H Balakrishnan, S Madden, M Stonebraker
+Publication: 
+
+247. Tag,“
+Citations:5
+Authors: S Madden, M Franklin, J Hellerstein, W Hong
+Publication: A Tiny Aggregation Service for Ad-Hoc Sensor Networks
+
+248. RoadRunner: improving the precision of road network inference from GPS trajectories
+Citations:4
+Authors: S He, F Bastani, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances …
+
+249. BigDAWG version 0.1
+Citations:4
+Authors: V Gadepally, K O'Brien, A Dziedzic, A Elmore, J Kepner, S Madden, ...
+Publication: 2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-7
+
+250. Persistent AUV Operations Using a Robust Reactive Mission and Path Planning (RRMPP) Architecture
+Citations:4
+Authors: SM Zadeh, DMW Powers, K Sammut, A Atyabi, A Yazdani
+Publication: arXiv preprint arXiv:1605.01824
+
+251. By their fruits shall ye know them: a data analyst's perspective on massively parallel system design
+Citations:4
+Authors: H Pirk, S Madden, M Stonebraker
+Publication: Proceedings of the 11th International Workshop on Data Management on New …
+
+252. Dirty salt velocity model building with constrained iterative tomography: Methodology and application
+Citations:4
+Authors: HK Helgesen, J Liu, J Tang, A Salama, R Pepper, S Madden, ...
+Publication: SEG Technical Program Expanded Abstracts 2013, 4760-4764
+
+253. No bits left behind
+Citations:4
+Authors: E Wu, C Curino, S Madden
+Publication: CIDR Conference
+
+254. Extra-sensory perception for wireless networks
+Citations:4
+Authors: L Ravindranath, C Newport, H Balakrishnan, S Madden
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 5
+
+255. Design and evaluation of a benchmark for main memory transaction processing systems
+Citations:4
+Authors: EG Reid
+Publication: Massachusetts Institute of Technology
+
+256. TinySchema: Managing Attributes, Commands and Events in TinyOS
+Citations:4
+Authors: W Hong, S Madden
+Publication: Version
+
+257. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+258. Machine-assisted map editing
+Citations:3
+Authors: F Bastani, S He, S Abbar, M Alizadeh, H Balakrishnan, S Chawla, ...
+Publication: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances …
+
+259. Optimally leveraging density and locality for exploratory browsing and sampling
+Citations:3
+Authors: A Kim, L Xu, T Siddiqui, S Huang, S Madden, A Parameswaran
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 7
+
+260. Building data civilizer pipelines with an advanced workflow engine
+Citations:3
+Authors: E Mansour, D Deng, RC Fernandez, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 1593-1596
+
+261. Seedb: towards automatic query result visualizations
+Citations:3
+Authors: M Vartak, S Madden, A Parameswaran, N Polyzotis
+Publication: Tech. rep., Technical Report, data-people. cs. illinois. edu/seedb-tr. pdf
+
+262. Data in context: Aiding news consumers while taming dataspaces
+Citations:3
+Authors: A Marcus, E Wu, S Madden
+Publication: DBCrowd 2013 47, 2013
+
+263. Optimizing index deployment order for evolving OLAP
+Citations:3
+Authors: H Kimura, C Coffrin, A Rasin, SB Zdonik
+Publication: Proceedings of the 15th International Conference on Extending Database …
+
+264. Bribecaster: documenting bribes through community participation
+Citations:3
+Authors: M Mittal, W Wu, S Rubin, S Madden, B Hartmann
+Publication: Proceedings of the ACM 2012 conference on Computer Supported Cooperative …
+
+265. Guest Editors' Introduction: Internet-Scale Data Management
+Citations:3
+Authors: S Madden, M van Steen
+Publication: IEEE Internet Computing 16 (1), 10-12
+
+266. An alternative treatment approach to mitral regurgitation.
+Citations:3
+Authors: S Madden
+Publication: Nursing Standard 26 (13)
+
+267. Platform considerations in human computation
+Citations:3
+Authors: A Marcus, E Wu, DR Karger, S Madden, RC Miller
+Publication: Workshop on crowdsourcing and human computation, 1-4
+
+268. PCP: the personal commute portal
+Citations:3
+Authors: H Balakrishnan, N Correll, J Erikkson, S Lim, S Madden, D Rus
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems …
+
+269. BlendDB: blending table layouts to support efficient browsing of relational databases
+Citations:3
+Authors: A Marcus
+Publication: Massachusetts Institute of Technology
+
+270. Materialization strategies in a column-oriented DBMS
+Citations:3
+Authors: DJ Dewitt, SR Madden, DJ Abadi, DS Myers
+Publication: In Proc. of ICDE
+
+271. Data management in sensor networks
+Citations:3
+Authors: S Madden
+Publication: Proceedings of the Third European conference on Wireless Sensor Networks, 1-1
+
+272. TinySchema: Creating attributes and commands in TinyOS
+Citations:3
+Authors: W Hong, S Madden
+Publication: 2005-03-11]. http: M w ebs. cs. berkeley. edu/tos
+
+273. TOADS: A two-dimensional open-ended architectural database system
+Citations:3
+Authors: S Madden, TE Wiegand
+Publication: Presence: Teleoperators & Virtual Environments 10 (2), 175-192
+
+274. Raha: A configuration-free error detection system
+Citations:2
+Authors: M Mahdavi, Z Abedjan, R Castro Fernandez, S Madden, M Ouzzani, ...
+Publication: Proceedings of the 2019 International Conference on Management of Data, 865-882
+
+275. Scalable Kernel Density Estimation-based Local Outlier Detection over Large Data Streams.
+Citations:2
+Authors: X Qin, L Cao, EA Rundensteiner, S Madden
+Publication: EDBT, 421-432
+
+276. Smallify: Learning network size while training
+Citations:2
+Authors: G Leclerc, M Vartak, RC Fernandez, T Kraska, S Madden
+Publication: arXiv preprint arXiv:1806.03723
+
+277. Efficient Top-K query processing on massively parallel hardware
+Citations:2
+Authors: A Shanbhag, H Pirk, S Madden
+Publication: Proceedings of the 2018 International Conference on Management of Data, 1557 …
+
+278. Extracting Syntactical Patterns from Databases
+Citations:2
+Authors: A Ilyas, JMF da Trindade, RC Fernandez, S Madden
+Publication: 2018 IEEE 34th International Conference on Data Engineering (ICDE), 41-52
+
+279. Triggering application action using non-standard controls
+Citations:2
+Authors: I Ossin, SR Madden
+Publication: US Patent 9,661,480
+
+280. INGESTBASE: A declarative data ingestion system
+Citations:2
+Authors: A Jindal, JA Quiané-Ruiz, S Madden
+Publication: arXiv preprint arXiv:1701.06093
+
+281. Speedy browsing and sampling with needletail
+Citations:2
+Authors: A Kim, L Xu, T Siddiqui, S Huang, S Madden, A Parameswaran
+Publication: CoRR
+
+282. Sensor Network Integration with Streaming Database Systems
+Citations:2
+Authors: D Abadi, S Madden, W Lindner
+Publication: Data Stream Management, 409-428
+
+283. Interactive data analytics: the new frontier
+Citations:2
+Authors: S Madden
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 1-1
+
+284. The bigdawg architecture and reference implementation
+Citations:2
+Authors: J Duggan, A Elmore, T Kraska, S Madden, T Mattson, M Stonebraker
+Publication: New England Database Day
+
+285. Automatically generating interesting events with lifejoin
+Citations:2
+Authors: A Cheung, A Thiagarajan, S Madden
+Publication: Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems …
+
+286. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+287. A Declarative Database for Sensor Networks
+Citations:2
+Authors: S Madden
+Publication: http://telegraph. cs. berkeley. edu/tinydb
+
+288. Efficient storage of versioned matrices
+Citations:2
+Authors: AB Seering
+Publication: Massachusetts Institute of Technology
+
+289. Traffic delay prediction from historical observations
+Citations:2
+Authors: P Malalur
+Publication: Massachusetts Institute of Technology
+
+290. Relational cloud: The case for a database service
+Citations:2
+Authors: E Wu, S Madden, Y Zhang, E Jones, C Curino
+Publication: 
+
+291. MapReduce and Parallel DBMSs: Friends or Foes
+Citations:2
+Authors: A Pavlo, E Paulson, A Rasin, DJ Abadi, DJ DeWitt, S Madden, ...
+Publication: Communications of the ACM 53 (1)
+
+292. Shinobi: Insert-aware partitioning and indexing techniques for skewed database workloads
+Citations:2
+Authors: E Wu
+Publication: Massachusetts Institute of Technology
+
+293. A file system for accessing mysql tables as csv files
+Citations:2
+Authors: N Ordulu
+Publication: Massachusetts Institute of Technology
+
+294. Energy-efficient communication protocol for wireless microsensor networks.
+Citations:2
+Authors: G Yang, C Li, H Yang, G Anastasi, M Conti, M di Francesco, A Passarella, ...
+Publication: Information Technology Journal 12 (12), 537-568
+
+295. The end of an architectural era
+Citations:2
+Authors: M Stonebraker, S Madden, DJ Abadi, S Harizopoulos, N Hachem, ...
+Publication: 33rd (VLDB), 1150-1160
+
+296. Lazo: A Cardinality-Based Method for Coupled Estimation of Jaccard Similarity and Containment
+Citations:1
+Authors: RC Fernandez, J Min, D Nava, S Madden
+Publication: 2019 IEEE 35th International Conference on Data Engineering (ICDE), 1190-1201
+
+297. Termite: a system for tunneling through heterogeneous data
+Citations:1
+Authors: RC Fernandez, S Madden
+Publication: arXiv preprint arXiv:1903.05008
+
+298. TabulaROSA: Tabular Operating System Architecture for Massively Parallel Heterogeneous Compute Engines
+Citations:1
+Authors: J Kepner, R Brightwell, A Edelman, V Gadepally, H Jananthan, M Jones, ...
+Publication: 2018 IEEE High Performance extreme Computing Conference (HPEC), 1-8
+
+299. Sprintz: Time Series Compression for the Internet of Things
+Citations:1
+Authors: D Blalock, S Madden, J Guttag
+Publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …
+
+300. MODELDB: Opportunities and Challenges in Managing Machine Learning Models.
+Citations:1
+Authors: M Vartak, S Madden
+Publication: IEEE Data Eng. Bull. 41 (4), 16-25
+
+301. Bigdawg polystore release and demonstration
+Citations:1
+Authors: K OBrien, V Gadepally, J Duggan, A Dziedzic, A Elmore, J Kepner, ...
+Publication: arXiv preprint arXiv:1701.05799
+
+302. We Are Boring.
+Citations:1
+Authors: S Madden
+Publication: CIDR
+
+303. Optimally leveraging density and locality to support limit queries
+Citations:1
+Authors: A Kim, L Xu, T Siddiqui, S Huang, S Madden, A Parameswaran
+Publication: arXiv preprint arXiv:1611.04705
+
+304. Locality-adaptive parallel hash joins using hardware transactional memory
+Citations:1
+Authors: A Shanbhag, H Pirk, S Madden
+Publication: Data Management on New Hardware, 118-133
+
+305. What Makes a Good Physical plan?: Experiencing Hardware-Conscious Query Optimization with Candomblé
+Citations:1
+Authors: H Pirk, O Moll, S Madden
+Publication: Proceedings of the 2016 International Conference on Management of Data, 2149 …
+
+306. Mobile applications need targeted micro-updates
+Citations:1
+Authors: A Cheung, L Ravindranath, E Wu, S Madden, H Balakrishnan
+Publication: Proceedings of the 4th Asia-Pacific Workshop on Systems, 8
+
+307. Multi-Network Control Framework for Mobile Applications
+Citations:1
+Authors: S Deng, A Cheung, S Madden, H Balakrishnan
+Publication: ACM MobiCom S3 Workshop
+
+308. code in the air-simplifying tasking on smartphones
+Citations:1
+Authors: L Ravindranath, TYH Chen, S Das, R Ifrim, H Balakrishnan, S Madden
+Publication: Proceedings of the 10th international conference on Mobile systems …
+
+309. Providing caching abstractions for web applications
+Citations:1
+Authors: P Gupta
+Publication: Massachusetts Institute of Technology
+
+310. A hybrid data structure for dense keys in in-memory database systems
+Citations:1
+Authors: JA Muñiz Navarro
+Publication: Massachusetts Institute of Technology
+
+311. How best to build web-scale data managers?
+Citations:1
+Authors: PA Bernstein, DJ Abadi, MJ Cafarella, JM Hellerstein, D Kossmann, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1647-1647
+
+312. In-network query processing
+Citations:1
+Authors: S Madden
+Publication: Encyclopedia of Database Systems, 1538-1543
+
+313. Language design for distributed stream processing
+Citations:1
+Authors: RR Newton
+Publication: Massachusetts Institute of Technology
+
+314. Declarative, Domain-Specific Languages-Elegant Simplicity or a Hammer in Search of a Nail?
+Citations:1
+Authors: S Madden, J Gehrke
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 7-7
+
+315. Zstream: a cost-based query processor for composite event detection
+Citations:1
+Authors: Y Mei
+Publication: Massachusetts Institute of Technology
+
+316. Proceedings of the 3rd IEEE International Conference on Distributed Computing in Sensor Systems
+Citations:1
+Authors: J Aspnes
+Publication: Springer-Verlag
+
+317. Stephen Tu
+Citations:1
+Authors: W Zheng, S Tu, E Kohler, B Liskov, J DeBrabant, A Pavlo, M Stonebraker, ...
+Publication: University of California, Berkeley 2010
+
+318. scorpion
+Citations:1
+Authors: E Wu, S Madden
+Publication: 
+
+319. Distributed data mining
+Citations:1
+Authors: A Kumar, M Kantardzic, S Madden
+Publication: Sánchez, A., Pena, JM, Pérez, MS, Robles, V., and Herrero, P. Improving …
+
+320. Database-Style Aggregation in Sensor Networks
+Citations:1
+Authors: SR Madden, D Culler, MJ Franklin, JM Hellerstein, R Szewczyk, W Hong
+Publication: Demo. In 4th IEEE Workshop on Mobile Computing Systems and Applications …
+
+321. Technical Report: Optimizing Human Involvement for Entity Matching and Consolidation
+Citations:
+Authors: J Sun, D Deng, I Ilyas, G Li, S Madden, M Ouzzani, M Stonebraker, ...
+Publication: arXiv preprint arXiv:1906.06574
+
+322. Kaskade: Graph Views for Efficient Graph Analytics
+Citations:
+Authors: JMF da Trindade, K Karanasos, C Curino, S Madden, J Shun
+Publication: arXiv preprint arXiv:1906.05162
+
+323. Towards Multiverse Databases
+Citations:
+Authors: A Marzoev, LT Araújo, M Schwarzkopf, S Yagati, E Kohler, R Morris, ...
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 88-95
+
+324. Efficient discovery of sequence outlier patterns
+Citations:
+Authors: L Cao, Y Yan, S Madden, EA Rundensteiner, M Gopalsamy
+Publication: Proceedings of the VLDB Endowment 12 (8), 920-932
+
+325. Deductive Optimization of Relational Data Storage
+Citations:
+Authors: JK Feser, S Madden, N Tang, A Solar-Lezama
+Publication: arXiv preprint arXiv:1903.03229
+
+326. SCAR: Strong Consistency using Asynchronous Replication with Minimal Coordination
+Citations:
+Authors: Y Lu, X Yu, S Madden
+Publication: arXiv preprint arXiv:1903.00424
+
+327. Smartphone Placement Within Vehicles
+Citations:
+Authors: J Wahlström, I Skog, P Händel, B Bradley, S Madden, H Balakrishnan
+Publication: IEEE Transactions on Intelligent Transportation Systems
+
+328. MacroBase: Prioritizing Attention in Fast Data
+Citations:
+Authors: F Abuzaid, P Bailis, J Ding, E Gan, S Madden, D Narayanan, K Rong, ...
+Publication: ACM Transactions on Database Systems (TODS) 43 (4), 15
+
+329. STAR: Scaling Transactions through Asymmetrical Replication
+Citations:
+Authors: Y Lu, X Yu, S Madden
+Publication: arXiv preprint arXiv:1811.02059
+
+330. SWIFT: mining representative patterns from large event streams
+Citations:
+Authors: Y Yan, L Cao, S Madden, EA Rundensteiner
+Publication: Proceedings of the VLDB Endowment 12 (3), 265-277
+
+331. Outlier Detection from Image Data
+Citations:
+Authors: L Cao, Y Yan, S Madden, E Rundensteiner
+Publication: 
+
+332. A Demo of the Data Civilizer System
+Citations:
+Authors: R Castro Fernandez, D Deng, E Mansour, AA Qahtan, W Tao, Z Abedjan, ...
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+333. Technical Perspective: Mesa takes data warehousing to new heights
+Citations:
+Authors: S Madden
+Publication: Communications of the ACM 59 (7), 116-116
+
+334. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+335. Optimizing WahooML, A Query Optimizer for the Spark Machine Learning Pipeline
+Citations:
+Authors: K Siegel, S Madden, M Vartak
+Publication: 
+
+336. selected publications
+Citations:
+Authors: J Kosuth, W Freud, F Market
+Publication: Order, 80-111
+
+337. Foundations and Trends® in Databases
+Citations:
+Authors: D Abadi, P Boncz, S Harizopoulos, S Idreos, S Madden
+Publication: Foundations and Trends® in Databases 5 (3), 197-280
+
+338. BigDansing
+Citations:
+Authors: Z Khayyat, IF Ilyas, A Jindal, S Madden, M Ouzzani, P Papotti, ...
+Publication: Association for Computing Machinery
+
+339. NEEDLETAIL: A System for Browsing Queries
+Citations:
+Authors: A Kim, S Madden, A Parameswaran
+Publication: Proceedings of the VLDB Endowment 7 (4)
+
+340. BFT-Practical Byzantine Fault Tolerance
+Citations:
+Authors: R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, J Cowling, D Schultz, ...
+Publication: IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158
+
+341. TOSSIM: Accurate and scalable simulation of entire TinyOS applications.
+Citations:
+Authors: Z Zhang, H Yuan, L Chen, F Yu, S Singhal, A Gankotiya, S Agarwal, ...
+Publication: Information Technology Journal 13 (11), pp: 522-529
+
+342. A universal algorithm for sequential data compression.
+Citations:
+Authors: G Sujitha, M Varadharajan, BR Kumar, SM Shalinie, A Lapkin, B Schneier, ...
+Publication: Journal of Artificial Intelligence 6 (3), pp: 231-249
+
+343. Internet-Scale Data Management Guest Editors' Introduction
+Citations:
+Authors: S Madden, M van Steen
+Publication: IEEE INTERNET COMPUTING 16 (1), 10-12
+
+344. 6.033 Computer Systems Engineering: Spring 2012
+Citations:
+Authors: TISANO BOOK, B LAPTOP
+Publication: Computer
+
+345. Current Research II
+Citations:
+Authors: MF Kaashoek, L Kaelbling, F Durand, R Barzilay, S Madden
+Publication: MIT150 Symposia Series
+
+346. Identity-based trusted authentication in wireless sensor networks.
+Citations:
+Authors: MW Wang, LJ Wang, QH Yang, WM Xie, KS Arikumar, K Thirumoorthy, ...
+Publication: Journal of Software Engineering 8 (3), pp: 1010-1015
+
+347. Look-up tables: the benefit of enabling fine-grained routing and load balancing
+Citations:
+Authors: AL Tatarowicz
+Publication: Massachusetts Institute of Technology
+
+348. Hold the Accusations That Limit Scientific Innovation Response
+Citations:
+Authors: M Stonebraker, D Abadi, DJ DeWitt, S Madden, E Paulson, A Pavlo, ...
+Publication: COMMUNICATIONS OF THE ACM 53 (4), 7-7
+
+349. Database architecture (R) evolution: New hardware vs. new software
+Citations:
+Authors: S Harizopoulos, T Argyros, PA Boncz, D Dietterich, S Madden, FM Waas
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010 …
+
+350. Osprey: Implementing MapReduce-Style Fault Tolerance in a Shared-Nothing Distributed Database
+Citations:
+Authors: SR Madden, CY Yen, CM Yang, CC Tan
+Publication: Institute of Electrical and Electronics Engineers
+
+351. Design and implementation of wavescope storage manager and access scheduler
+Citations:
+Authors: JE Smith
+Publication: Massachusetts Institute of Technology
+
+352. Hold the Accusations That Limit Scientific Innovation. Authors' reply
+Citations:
+Authors: J Grier, M STONEBRAKER, D ABADI, DJ DEWITT, S MADDEN, ...
+Publication: Communications of the ACM 53 (4)
+
+353. Analyzing Data Streams in Scientiﬁc Applications
+Citations:
+Authors: T Risch, S Madden, H Balakrishan, L Girod, R Newton, M Ivanova, ...
+Publication: Scientific Data Management, 431-462
+
+354. Analyzing data streams in scientific applications
+Citations:
+Authors: T Risch, S Madden, H Balakrishan, L Girod, R Newton, MG Ivanova, ...
+Publication: 
+
+355. 6.033 Computer System Engineering, Spring 2009
+Citations:
+Authors: R Morris, S Madden
+Publication: 
+
+356. Database Languages for Sensor Networks
+Citations:
+Authors: S Madden
+Publication: Encyclopedia of Database Systems, 710-714
+
+357. Designing Bayesian networks for highly expert-involved problem diagnosis domains
+Citations:
+Authors: DL Ramdass
+Publication: Massachusetts Institute of Technology
+
+358. Wai Ho Li Alan M. Zhang
+Citations:
+Authors: L Kleeman
+Publication: The International Journal of Robotics Research 27 (7), 785-814
+
+359. H-Store: A High-Performance, Distributed Main Memory Transaction Processing System
+Citations:
+Authors: EPC Jones, S Madden, M Stonebraker, Y Zhang, J Hugg, DJ Abadi
+Publication: 
+
+360. Compiler optimizations for an asynchronous stream-oriented programming language
+Citations:
+Authors: MB Craig
+Publication: Massachusetts Institute of Technology
+
+361. Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007)
+Citations:
+Authors: M Balazinska, A Deshpande, A Labrinidis, Q Luo, S Madden, J Yang
+Publication: ACM SIGMOD Record 36 (4), 53-55
+
+362. Distributed Computing in Sensor Systems: Third IEEE International Conference, DCOSS 2007, Santa Fe, NM, USA, June 18-20, 2007, Proceedings
+Citations:
+Authors: J Aspnes, C Scheideler, A Arora, S Madden
+Publication: Springer
+
+363. Correlation indices: a new access method to exploit correlated attributes
+Citations:
+Authors: G Huo
+Publication: Massachusetts Institute of Technology
+
+364. Quiz I11 Solutions
+Citations:
+Authors: TISANO BOOK
+Publication: Computer
+
+365. Stephen Tu
+Citations:
+Authors: J DeBrabant, A Pavlo, S Tu, M Stonebraker, S Zdonik, W Zheng, E Kohler, ...
+Publication: University of California, Berkeley 2010
+
+366. DISTRIBUTED DATA MINING-Guest Editors' Introduction
+Citations:
+Authors: A Kumar, M Kantardzic, S Madden
+Publication: IEEE Internet Computing 10 (4), 15-17
+
+367. Integrated modeling for wirless sensor netwoks reliability and security.
+Citations:
+Authors: F Alsaade, HMF Abo El-Fotoh, ES El-Mallah, H Hassanein, OB Akan, ...
+Publication: Journal of Software Engineering 5 (4), pp: 3455-3460
+
+368. HARBOR: an integrated approach to recovery and high availability in an updatable, distributed data warehouse
+Citations:
+Authors: E Lau
+Publication: Massachusetts Institute of Technology
+
+369. 6.033 Computer System Engineering (SMA 5501), Spring 2005
+Citations:
+Authors: H Balakrishnan, SR Madden
+Publication: 
+
+370. Core Database Technology Program Committee
+Citations:
+Authors: A Ailamaki, G Alonso, W Aref, L Arge, B Babcock, M Berndtsson, E Bertino, ...
+Publication: VLDB 2005: 31st International Conference on Very Large Data Bases …
+
+371. Eventing architecture: RFID and sensors in supply chain
+Citations:
+Authors: KE Emery
+Publication: Massachusetts Institute of Technology
+
+372. 1st International Workshop on
+Citations:
+Authors: A Labrinidis, S Madden
+Publication: 
+
+373. Modeling urban traffic: A cellular automata approach.
+Citations:
+Authors: L Kuang, Z Wang, M Xu, Y Chen, J Ott, D Kutscher, B Hull, V Bychkovsky, ...
+Publication: Information Technology Journal 10 (11), pp: 373-373
+
+374. Reminiscences on Influential Papers - Kenneth A. Ross
+Citations:
+Authors: N Bruno, S Madden, W Wang
+Publication: SIGMOD Record 33 (2), 103-104
+
+375. 6.893 Database Systems, Fall 2004
+Citations:
+Authors: SR Madden
+Publication: 
+
+376. Aggregation
+Citations:
+Authors: S Madden
+Publication: Conference On Embedded Networked Sensor Systems: Proceedings of the 2 nd …
+
+377. Localization in sparse networks using sweeps.
+Citations:
+Authors: L Shan, J Wang, Y Zhao, Y Liu, B Krishnamachari, D Estrin, S Wicker, ...
+Publication: Information Technology Journal 10 (8), pp: 575-578
+
+378. Energy-Conscious Data Aggregation over Large-Scale Sensor Networks.
+Citations:
+Authors: Q Ma, S Madden, MJ Franklin, J Hellerstein, W Hong, C Intanagonwiwat, ...
+Publication: Information Technology Journal 4 (4), pp: 131-146
+
+379. Selection of MOSFET sizes by fuzzy sets intersection in the feasible solutions space.
+Citations:
+Authors: Y Wang, Q Zhang, Y Li, IF Akyildiz, W Su, Y Sankarasubramaniam, ...
+Publication: Information Technology Journal 12 (2), 393-422
+
+380. A transmission control scheme for media access in sensor networks.
+Citations:
+Authors: F Hu, IF Akyildiz, W Su, Y Sankarasubramaniam, E Cayirci, G Asada, ...
+Publication: Information Technology Journal 5 (5), 102-114
+
+381. Continuous Queries Over Eddies
+Citations:
+Authors: S Madden
+Publication: 
+
+382. The cougar approach to in-network query processing in sensor networks.
+Citations:
+Authors: W Wang, B Wang, Z Liu, L Guo, A Manjeshwar, DP Agrawal, A Sengupta, ...
+Publication: Information Technology Journal 10 (1), pp: 30189-30189
+
+383. Training Spatial Knowledge Acquisition Using Virtual Environments
+Citations:
+Authors: NI Durlach, TE von Wiegand, A Brooks, S Madden, L Delhorne
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE RESEARCH LAB OF ELECTRONICS
+
+384. 1.1 lntroduction
+Citations:
+Authors: LD Braida, NI Durlach, RM Held, P Duchnowski, JE Greenberg, ...
+Publication: Science
+
+385. Smile: A System to Support Machine Learning on EEG Data at Scale
+Citations:
+Authors: L Cao, W Tao, S An, J Jin, Y Yan, X Liu, W Ge, A Sah, L Battle, J Sun, ...
+Publication: Proceedings of the VLDB Endowment 12 (12)
+
+386. The CHICKEN or The EGG?
+Citations:
+Authors: D Madden
+Publication: 
+
+387. In-Network Query Processing in TinyOS, web page
+Citations:
+Authors: S MADDEN
+Publication: http://telegraph. cs. berkeley. edu/tinydb/
+
+388. A Comparison of Approaches to Large-Scale Data Analysis g y
+Citations:
+Authors: S Madden
+Publication: 
+
+389. Learning Network Size While Training with ShrinkNets
+Citations:
+Authors: G Leclerc, RC Fernandez, S Madden
+Publication: 
+
+390. Screen Shot 2017-03-13 at 5.15. 39 PM
+Citations:
+Authors: S Madden, J Greenberg, C Binnig, T Kraska, D Weitzner, S Grabus
+Publication: 
+
+391. Research Statement and Agenda
+Citations:
+Authors: S Madden
+Publication: 
+
+392. Networking Support for Query Processing in Sensor Networks センサネットワークにおける問い合わせ処理のネットワークサポート
+Citations:
+Authors: A Woo, S Madden, R Govindan
+Publication: 
+
+393. Graph Analytics on Relational Databases
+Citations:
+Authors: A Jindal, S Madden, A Deshpande, M Stonebraker
+Publication: 
+
+394. Low Overhead Concurrency Control for Partitioned Main Memory Databases
+Citations:
+Authors: EPCJDJ Abadi, S Madden
+Publication: 
+
+395. Program Co-Chair
+Citations:
+Authors: P Markstein, S Madden, L Wei, P Gupta, J Tsukamoto, D Dehoney, ...
+Publication: 
+
+396. IEEE CS Technical Chair on Bioinformatics
+Citations:
+Authors: S Brenner, E Davidson, S Salzberg, J Wooley, P Blauvelt, E Buckingham, ...
+Publication: 
+
+397. Publications Chair
+Citations:
+Authors: P Blauvelt, F Wang, K Goldfein, R Stewart, D Grosof, L Rogers, ...
+Publication: 
+
+398. Preparing Data For The Data Lake
+Citations:
+Authors: A Jindal, S Madden
+Publication: 
+
+399. SYMPOSIUM ORGANIZERS
+Citations:
+Authors: E Brewer, P Chen, M Castro, J Flinn, G Ganger, S Madden, J Mogul, ...
+Publication: 
+
+400. Wishbone: Profile-based Partitioning for Sensornet Applications Non-final version
+Citations:
+Authors: R Newton, S Toledo, L Girod, S Madden, H Balakrishnan
+Publication: 
+
+401. Non-final version.
+Citations:
+Authors: R Newton, S Toledo, L Girod, S Madden, H Balakrishnan
+Publication: 
+
+402. Data Engineering
+Citations:
+Authors: SD Viglas, G Bierman, F Nagel, C Freedman, E Ismert, PA Larson, ...
+Publication: 
+
+403. VoxNet: A Platform for Distributed Acoustic Sensing
+Citations:
+Authors: M Allen, L Girod, R Newton, S Madden, T Collier, D Estrin, DT Blumstein
+Publication: 
+
+404. Master Thesis “Advanced Aggregation in Ad-Hoc Sensor Networks”
+Citations:
+Authors: R Wattenhofer, S Madden, MJ Franklin, JM Hellerstein, W Hong
+Publication: 
+
+405. Flattening the Internet: A Proposal for Global Device-to-Device Connectivity
+Citations:
+Authors: H Balakrishnan, J Guttag, MF Kaashoek, D Katabi, S Madden, R Morris, ...
+Publication: 
+
+406. Data Management in an Connected World
+Citations:
+Authors: H Balakrishnan, J Guttag, F Kaashoek, BC Kuszmaul, CE Leiserson, ...
+Publication: 
+
+407. Message from the Organizing Committee
+Citations:
+Authors: A Labrinidis, SR Madden, A Deshpande, Q Luo
+Publication: 
+
+408. Explanatory Lineage
+Citations:
+Authors: E Wu, S Madden
+Publication: 
+
+409. Monitoring Infrastructure Using Sensor Networks
+Citations:
+Authors: T Tokmouline, SR Madden, I Stoianov
+Publication: 
+
+410. Processamento de Consulta para Streaming de Dados em Sensores
+Citations:
+Authors: S Madden
+Publication: 
+
+411. Training Spatial Knowledge Acquisition using Virtual Environments Sponsor US Navy-Office of Naval Research
+Citations:
+Authors: NI Durlach, TE Wiegand, L Delhorne, RL Garnett, AG Brooks, SR Madden
+Publication: 
+
+412. Distributed Regression in Sensor Networks
+Citations:
+Authors: C Guestrin, P Bodik, R Thibaux, MA Paskin, S Madden
+Publication: 
+
+413. An Integration Framework for Sensor Networks and DSMSs
+Citations:
+Authors: D Abadi, S Madden, M Stonebraker
+Publication: 
+
+414. Data Engineering
+Citations:
+Authors: S Zdonik, M Stonebraker, M Cherniack, M Balazinska, H Balakrishnan, ...
+Publication: 
+
+415. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+416. Data Engineering
+Citations:
+Authors: M Stonebraker, M Cherniack, U Cetintemel, M Balazinska, ...
+Publication: 
+
+417. Application of Privacy Principles to Wireless Sensor Networks
+Citations:
+Authors: S Madden, D Tygar
+Publication: 
+
+418. Mesh NeTWorkINg
+Citations:
+Authors: S Madden, P Levis, AT Campbell, SB Eisenman, ND Lane, E Miluzzo, ...
+Publication: 
+
+419. Research Abstracts-2006
+Citations:
+Authors: E Lau, S Madden
+Publication: 
+
+420. Message from the Track Chairs
+Citations:
+Authors: S Madden, S Suri, J Liu, A Savvides
+Publication: 
+
+421. Research Abstracts-2006
+Citations:
+Authors: L Girod, K Jamieson, Y Mei, S Rost, A Thiagarajan, T Tokmouline, ...
+Publication: 
+
+422. CarTelDB: Continuous Query Processing in an Intermittently Connected World
+Citations:
+Authors: S Madden, Y Zhang, B Hull, V Bychkovsky, H Balakrishnan
+Publication: 
+
+423. Bulletin of the Technical Committee on
+Citations:
+Authors: S Chandrasekaran, A Deshpande, K Hildrum, S Madden, V Raman, ...
+Publication: 
+

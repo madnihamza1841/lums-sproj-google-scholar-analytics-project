@@ -1,0 +1,1118 @@
+https://scholar.google.com/citations?hl=en&user=00M1AqQAAAAJ
+Total Citations = 25298
+
+1. Oceanstore: An architecture for global-scale persistent storage
+Citations:3214
+Authors: J Kubiatowicz, D Bindel, Y Chen, S Czerwinski, P Eaton, D Geels, ...
+Publication: ACM SIGARCH Computer Architecture News 28 (5), 190-201
+
+2. Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+Citations:3198
+Authors: BY Zhao, J Kubiatowicz, AD Joseph
+Publication: Computer Science Division, University of California
+
+3. Tapestry: A resilient global-scale overlay for service deployment
+Citations:2480
+Authors: BY Zhao, L Huang, J Stribling, SC Rhea, AD Joseph, JD Kubiatowicz
+Publication: IEEE Journal on selected areas in communications 22 (1), 41-53
+
+4. Handling churn in a DHT
+Citations:1195
+Authors: S Rhea, D Geels, T Roscoe, J Kubiatowicz
+Publication: Proceedings of the USENIX Annual Technical Conference 6, 127-140
+
+5. Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+Citations:1090
+Authors: SQ Zhuang, BY Zhao, AD Joseph, RH Katz, JD Kubiatowicz
+Publication: Proceedings of the 11th international workshop on Network and operating …
+
+6. Erasure coding vs. replication: A quantitative comparison
+Citations:1016
+Authors: H Weatherspoon, JD Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 328-337
+
+7. Towards a common API for structured peer-to-peer overlays
+Citations:756
+Authors: F Dabek, B Zhao, P Druschel, J Kubiatowicz, I Stoica
+Publication: International Workshop on Peer-To-Peer Systems, 33-44
+
+8. A view of the parallel computing landscape
+Citations:695
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, J Kubiatowicz, ...
+Publication: Communications of the ACM 52 (10), 56-67
+
+9. APRIL: a processor architecture for multiprocessing
+Citations:671
+Authors: A Agarwal, BH Lim, D Kranz, J Kubiatowicz
+Publication: ACM SIGARCH Computer Architecture News 18 (2SI), 104-114
+
+10. Pond: The OceanStore Prototype.
+Citations:665
+Authors: SC Rhea, PR Eaton, D Geels, H Weatherspoon, BY Zhao, J Kubiatowicz
+Publication: FAST 3, 1-14
+
+11. The MIT Alewife machine: Architecture and performance
+Citations:663
+Authors: A Agarwal, R Bianchini, D Chaiken, KL Johnson, D Kranz, J Kubiatowicz, ...
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 2-13
+
+12. OpenDHT: a public DHT service and its uses
+Citations:655
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+13. LimitLESS directories: A scalable cache coherence scheme
+Citations:490
+Authors: D Chaiken, J Kubiatowicz, A Agarwal
+Publication: Massachusetts Institute of Technology
+
+14. Distributed object location in a dynamic network
+Citations:470
+Authors: K Hildrum, JD Kubiatowicz, S Rao, BY Zhao
+Publication: Theory of Computing Systems 37 (3), 405-440
+
+15. Tapestry: An Infrastructure for Fault-Resilient Wide-Ares Location and Routing
+Citations:457
+Authors: BY Zhao
+Publication: Technical Report UCB/CSD-01-1141
+
+16. Probabilistic location and routing
+Citations:385
+Authors: SC Rhea, J Kubiatowicz
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+17. The MIT Alewife machine: A large-scale distributed-memory multiprocessor
+Citations:372
+Authors: A Agarwal, D Chaiken, K Johnson, D Kranz, J Kubiatowicz, K Kurihara, ...
+Publication: Scalable shared memory multiprocessors, 239-261
+
+18. Maintenance-free global data storage
+Citations:348
+Authors: S Rhea, C Wells, P Eaton, D Geels, B Zhao, H Weatherspoon, ...
+Publication: IEEE internet computing 5 (5), 40-49
+
+19. Efficient Replica Maintenance for Distributed Storage Systems.
+Citations:328
+Authors: BG Chun, F Dabek, A Haeberlen, E Sit, H Weatherspoon, MF Kaashoek, ...
+Publication: NSDI 6, 4-4
+
+20. Brocade: Landmark routing on overlay networks
+Citations:321
+Authors: BY Zhao, Y Duan, L Huang, AD Joseph, JD Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 34-44
+
+21. Dynamic replica placement for scalable content delivery
+Citations:290
+Authors: Y Chen, RH Katz, JD Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 306-318
+
+22. Attested append-only memory: Making adversaries stick to their word
+Citations:242
+Authors: BG Chun, P Maniatis, S Shenker, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 189-204
+
+23. Sparcle: An evolutionary processor design for large-scale multiprocessors
+Citations:222
+Authors: A Agarwal, J Kubiatowicz, D Kranz, BH Lim, D Yeung, G D'Souza, ...
+Publication: IEEE micro 13 (3), 48-61
+
+24. Selfish caching in distributed systems: a game-theoretic analysis
+Citations:185
+Authors: BG Chun, K Chaudhuri, H Wee, M Barreno, CH Papadimitriou, ...
+Publication: Proceedings of the twenty-third annual ACM symposium on Principles of …
+
+25. Phantom: Practical oblivious computation in a secure processor
+Citations:181
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …
+
+26. Integrating message-passing and shared-memory: early experience
+Citations:181
+Authors: D Kranz, K Johnson, A Agarwal, J Kubiatowicz, BH Lim
+Publication: ACM Sigplan Notices 28 (7), 54-63
+
+27. Approximate object location and spam filtering on peer-to-peer systems
+Citations:174
+Authors: F Zhou, L Zhuang, BY Zhao, L Huang, AD Joseph, J Kubiatowicz
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+28. Characterizing selfishly constructed overlay routing networks
+Citations:145
+Authors: BG Chun, R Fonseca, I Stoica, J Kubiatowicz
+Publication: IEEE INFOCOM 2004 2, 1329-1339
+
+29. Asymptotically efficient approaches to fault-tolerance in peer-to-peer networks
+Citations:144
+Authors: K Hildrum, J Kubiatowicz
+Publication: International Symposium on Distributed Computing, 321-336
+
+30. Tessellation: Space-time partitioning in a manycore client OS
+Citations:138
+Authors: R Liu, K Klues, S Bird, S Hofmeyr, K Asanovic, J Kubiatowicz
+Publication: Proceedings of the First USENIX conference on Hot topics in parallelism, 10-10
+
+31. Handling churn in a DHT
+Citations:126
+Authors: S Rhea, D Geels, T Roscoe, J Kubiatowicz
+Publication: Report No. UCB/CSD-03-1299, University of California, also Proc. USENIX …
+
+32. MGS: a multigrain shared memory system
+Citations:122
+Authors: J Kubiatowicz, A Agarwal, D Yeung
+Publication: 23rd Annual International Symposium on Computer Architecture (ISCA'96), 44-44
+
+33. The cloud is not enough: Saving iot from the cloud
+Citations:120
+Authors: B Zhang, N Mor, J Kolb, DS Chan, K Lutz, E Allman, J Wawrzynek, E Lee, ...
+Publication: 7th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 15)
+
+34. Tapestry: a fault-tolerant wide-area application infrastructure.
+Citations:115
+Authors: BY Zhao, J Kubiatowicz, AD Joseph
+Publication: Computer Communication Review 32 (1), 81
+
+35. Anatomy of a Message in the Alewife Multiprocessor
+Citations:114
+Authors: J Kubiatowicz, A Agarwal
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 193-204
+
+36. Proactive Replication for Data Durability.
+Citations:112
+Authors: E Sit, A Haeberlen, F Dabek, BG Chun, H Weatherspoon, RT Morris, ...
+Publication: IPTPS
+
+37. Remote queues: Exposing message queues for optimization and atomicity
+Citations:102
+Authors: EA Brewer, FT Chong, LT Liu, SD Sharma, JD Kubiatowicz
+Publication: SPAA 95, 42-53
+
+38. Extracting guarantees from chaos
+Citations:101
+Authors: J Kubiatowicz
+Publication: Communications of the ACM 46 (2), 33-38
+
+39. Fixing the Embarrassing Slowness of OpenDHT on PlanetLab.
+Citations:100
+Authors: SC Rhea, BG Chun, J Kubiatowicz, S Shenker
+Publication: WORLDS 5, 5-5
+
+40. Toward a scalable, silicon-based quantum computing architecture
+Citations:89
+Authors: D Copsey, M Oskin, F Impens, T Metodiev, A Cross, FT Chong, IL Chuang, ...
+Publication: IEEE Journal of selected topics in quantum electronics 9 (6), 1552-1569
+
+41. The swarm at the edge of the cloud
+Citations:87
+Authors: EA Lee, B Hartmann, J Kubiatowicz, TS Rosing, J Wawrzynek, D Wessel, ...
+Publication: IEEE Design & Test 31 (3), 8-20
+
+42. Exploiting routing redundancy via structured peer-to-peer overlays
+Citations:82
+Authors: BY Zhao, L Huang, J Stribling, AD Joseph, JD Kubiatowicz
+Publication: 11th IEEE International Conference on Network Protocols, 2003. Proceedings …
+
+43. Building quantum wires: the long and the short of it
+Citations:81
+Authors: M Oskin, FT Chong, IL Chuang, J Kubiatowicz
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+44. Analysis of photonic networks for a chip multiprocessor using scientific applications
+Citations:80
+Authors: G Hendry, S Kamil, A Biberman, J Chan, BG Lee, M Mohiyuddin, A Jain, ...
+Publication: 2009 3rd ACM/IEEE International Symposium on Networks-on-Chip, 104-113
+
+45. ChunkCast: An Anycast Service for Large Content Distribution.
+Citations:78
+Authors: BG Chun, P Wu, H Weatherspoon, J Kubiatowicz
+Publication: IPTPS
+
+46. Introspective failure analysis: Avoiding correlated failures in peer-to-peer systems
+Citations:75
+Authors: H Weatherspoon, T Moscovitz, J Kubiatowicz
+Publication: 21st IEEE Symposium on Reliable Distributed Systems, 2002. Proceedings., 362-367
+
+47. Tessellation: refactoring the OS around explicit resource containers with continuous adaptation
+Citations:73
+Authors: JA Colmenares, G Eads, S Hofmeyr, S Bird, M Moretó, D Chou, ...
+Publication: Proceedings of the 50th Annual Design Automation Conference, 76
+
+48. Istore: Introspective storage for data-intensive network services
+Citations:70
+Authors: A Brown, D Oppenheimer, K Keeton, R Thomas, J Kubiatowicz, ...
+Publication: Proceedings of the Seventh Workshop on Hot Topics in Operating Systems, 32-37
+
+49. SCAN: A dynamic, scalable, and efficient content distribution network
+Citations:69
+Authors: Y Chen, RH Katz, JD Kubiatowicz
+Publication: International Conference on Pervasive Computing, 282-296
+
+50. The worldwide computer
+Citations:63
+Authors: DP Anderson, J Kubiatowicz
+Publication: Scientific American 286 (3), 40-47
+
+51. Locality-aware mechanisms for large-scale networks
+Citations:62
+Authors: BY Zhao, A Joseph, J Kubiatowicz
+Publication: Proc. of Workshop on Future Directions in Distributed Comp
+
+52. Silverback: A global-scale archival system
+Citations:62
+Authors: H Weatherspoon, C Wells, PR Eaton, BY Zhao, JD Kubiatowicz
+Publication: Submitted for publication to ACM SOSP
+
+53. Oceanstore: An extremely wide-area storage system
+Citations:62
+Authors: D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proceedings of the 9th International Conference on Architectural Support for …
+
+54. Trash day: Coordinating garbage collection in distributed systems
+Citations:61
+Authors: M Maas, T Harris, K Asanović, J Kubiatowicz
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+55. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+56. Resource management in the Tessellation manycore OS
+Citations:56
+Authors: JA Colmenares, S Bird, H Cook, P Pearce, D Zhu, J Shalf, S Hofmeyr, ...
+Publication: HotPar10, Berkeley, CA
+
+57. The MIT alewife machine
+Citations:56
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proceedings of the IEEE 87 (3), 430-444
+
+58. The hash history approach for reconciling mutual inconsistency
+Citations:53
+Authors: BBH Kang, R Wilensky, J Kubiatowicz
+Publication: 23rd International Conference on Distributed Computing Systems, 2003 …
+
+59. Closing the window of vulnerability in multiphase memory transactions
+Citations:53
+Authors: J Kubiatowicz, D Chaiken, A Agarwal
+Publication: ACM SIGPLAN Notices 27 (9), 274-284
+
+60. Hard object: hardware protection for software objects
+Citations:52
+Authors: DS Wilkerson, JD Kubiatowicz
+Publication: US Patent 8,364,910
+
+61. Impact of neighbor selection on performance and resilience of structured P2P networks
+Citations:50
+Authors: BG Chun, BY Zhao, JD Kubiatowicz
+Publication: International workshop on peer-to-peer systems, 264-274
+
+62. Antiquity: exploiting a secure log for wide-area distributed storage
+Citations:49
+Authors: H Weatherspoon, P Eaton, BG Chun, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 41 (3), 371-384
+
+63. Automated generation of layout and control for quantum circuits
+Citations:49
+Authors: M Whitney, N Isailovic, Y Patel, J Kubiatowicz
+Publication: Proceedings of the 4th international conference on Computing frontiers, 83-94
+
+64. Long-term data maintenance in wide-area storage systems: A quantitative approach
+Citations:47
+Authors: H Weatherspoon, BG Chun, CW So, J Kubiatowicz
+Publication: IEEE Computer
+
+65. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+66. A fault tolerant, area efficient architecture for Shor's factoring algorithm
+Citations:45
+Authors: MG Whitney, N Isailovic, Y Patel, J Kubiatowicz
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 383-394
+
+67. Running a quantum circuit at the speed of data
+Citations:44
+Authors: N Isailovic, M Whitney, Y Patel, J Kubiatowicz
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 177-188
+
+68. A note on the nearest neighbor in growth-restricted metrics
+Citations:41
+Authors: K Hildrum, J Kubiatowicz, S Ma, S Rao
+Publication: Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …
+
+69. OpenDHT: A public DHT service
+Citations:39
+Authors: SC Rhea, J Kubiatowicz
+Publication: University of California, Berkeley
+
+70. Exploiting two-case delivery for fast protected messaging
+Citations:39
+Authors: K Mackenzie, J Kubiatowicz, M Frank, W Lee, V Lee, A Agarwal, ...
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+71. Taurus: A holistic language runtime system for coordinating distributed managed-language applications
+Citations:37
+Authors: M Maas, K Asanović, T Harris, J Kubiatowicz
+Publication: ACM SIGOPS Operating Systems Review 50 (2), 457-471
+
+72. Structured peer-to-peer overlays need application-driven benchmarks
+Citations:36
+Authors: SC Rhea, T Roscoe, J Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 56-67
+
+73. Replica management should be a game
+Citations:35
+Authors: D Geels, J Kubiatowicz
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 235-238
+
+74. Interconnection networks for scalable quantum computers
+Citations:34
+Authors: N Isailovic, Y Patel, M Whitney, J Kubiatowicz
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 366-377
+
+75. Integrated shared-memory and message-passing communication in the alewife multiprocessor
+Citations:34
+Authors: JD Kubiatowicz
+Publication: Massachusetts Institute of Technology
+
+76. Quantifying network denial of service: A location service case study
+Citations:33
+Authors: Y Chen, A Bargteil, D Bindel, RH Katz, J Kubiatowicz
+Publication: International Conference on Information and Communications Security, 340-351
+
+77. Ninjamail: the design of a high-performance clustered, distributed e-mail system
+Citations:33
+Authors: JR Von Behren, S Czerwinski, AD Joseph, EA Brewer, J Kubiatowicz
+Publication: Proceedings 2000. International Workshop on Parallel Processing, 151-158
+
+78. The Alewife CMMU: Addressing the multiprocessor communications gap
+Citations:33
+Authors: J Kubiatowicz, D Chaiken, A Agarwal, A Altman, J Babb, D Kranz, BH Lim, ...
+Publication: To appear in HOTCHIPS 94, 1
+
+79. The effect of communication costs in solid-state quantum computing architectures
+Citations:30
+Authors: D Copsey, M Oskin, T Metodiev, FT Chong, I Chuang, J Kubiatowicz
+Publication: Proceedings of the fifteenth annual ACM Symposium on Parallel Algorithms and …
+
+80. The terraswarm research center (TSRC)(a white paper)
+Citations:28
+Authors: EA Lee, JD Kubiatowicz, JM Rabaey, AL Sangiovanni-Vincentelli, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+81. Datapath and control for quantum wires
+Citations:28
+Authors: N Isailovic, M Whitney, Y Patel, J Kubiatowicz, D Copsey, FT Chong, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 1 (1), 34-61
+
+82. Object location in realistic networks
+Citations:27
+Authors: K Hildrum, R Krauthgamer, J Kubiatowicz
+Publication: Proceedings of the sixteenth annual ACM symposium on Parallelism in …
+
+83. Naming and integrity: Self-verifying data in peer-to-peer systems
+Citations:27
+Authors: H Weatherspoon, C Wells, JD Kubiatowicz
+Publication: Future Directions in Distributed Computing, 142-147
+
+84. Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+Citations:26
+Authors: JD Kubiatowicz, BY Zhao, AD Joseph
+Publication: Tech. Report CSD 1 (1141)
+
+85. Special issue on distributed shared memory systems
+Citations:25
+Authors: V Milutinovic, P Stenstrom
+Publication: Proceedings of the IEEE 87 (3), 399-404
+
+86. Operating system services for wide-area applications
+Citations:25
+Authors: MA Vahdat, TE Anderson, JD Kubiatowicz
+Publication: University of California, Berkeley
+
+87. Toward a global data infrastructure
+Citations:24
+Authors: N Mor, B Zhang, J Kolb, DS Chan, N Goyal, N Sun, K Lutz, E Allman, ...
+Publication: IEEE Internet Computing 20 (3), 54-62
+
+88. Rapid mobility via type indirection
+Citations:23
+Authors: BY Zhao, L Huang, AD Joseph, J Kubiatowicz
+Publication: International Workshop on Peer-to-Peer Systems, 64-74
+
+89. The sensitivity of communication mechanisms to bandwidth and latency
+Citations:23
+Authors: FT Chong, R Barua, F Dahlgren, JD Kubiatowicz, A Agarwal
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+90. Juggle: proactive load balancing on multicore computers
+Citations:22
+Authors: S Hofmeyr, JA Colmenares, C Iancu, J Kubiatowicz
+Publication: Proceedings of the 20th international symposium on High performance …
+
+91. Application performance on the MIT alewife machine
+Citations:20
+Authors: FT Chong, BH Lim, R Bianchini, J Kubiatowicz, A Agarwal
+Publication: Computer 29 (12), 57-64
+
+92. Exploiting routing redundancy using a wide-area overlay
+Citations:19
+Authors: BY Zhao, L Huang, JD Kubiatowicz, AD Joseph
+Publication: Technical Report CSD-02-1215, UC Berkeley
+
+93. Oceanstore: An extremely wide-area storage system
+Citations:18
+Authors: J Kubiatowicz, D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proc. Nineth Int’l Conf. Architectural Support for Programming Languages and …
+
+94. Exploiting prediction to reduce power on buses
+Citations:17
+Authors: V Wen, M Whitney, Y Patel, JD Kubiatowicz
+Publication: 10th International Symposium on High Performance Computer Architecture (HPCA …
+
+95. Efficient heartbeats and repair of softstate in decentralized object location and routing systems.
+Citations:17
+Authors: H Weatherspoon, J Kubiatowicz
+Publication: ACM SIGOPS European Workshop 30
+
+96. GPUs as an opportunity for offloading garbage collection
+Citations:16
+Authors: M Maas, P Reames, J Morlan, K Asanović, AD Joseph, J Kubiatowicz
+Publication: ACM SIGPLAN Notices 47 (11), 25-36
+
+97. Tiered Fault Tolerance for Long-Term Integrity.
+Citations:16
+Authors: BG Chun, P Maniatis, S Shenker, J Kubiatowicz
+Publication: FAST, 267-282
+
+98. Efficiently binding data to owners in distributed content-addressable storage systems
+Citations:15
+Authors: P Eaton, H Weatherspoon, J Kubiatowicz
+Publication: Third IEEE International Security in Storage Workshop (SISW'05), 12 pp.-51
+
+99. Monitoring, analyzing, and controlling internet-scale systems with acme
+Citations:15
+Authors: D Oppenheimer, V Vatkovskiy, H Weatherspoon, J Lee, DA Patterson, ...
+Publication: arXiv preprint cs/0408035
+
+100. Bloom Cookies: Web Search Personalization without User Tracking.
+Citations:14
+Authors: N Mor, O Riva, S Nath, J Kubiatowicz
+Publication: NDSS
+
+101. Supporting rapid mobility via locality in an overlay network
+Citations:14
+Authors: BY Zhao, AD Joseph, JD Kubiatowicz
+Publication: Computer Science
+
+102. The intelligent disk (IDISK): A revolutionary approach to database computing infrastructure
+Citations:13
+Authors: K Keeton, D Patterson, J Hellerstein, J Kubiatowicz, K Yelick
+Publication: Database 9 (6 S 5)
+
+103. QuRE: The quantum resource estimator toolbox
+Citations:12
+Authors: M Suchara, J Kubiatowicz, A Faruque, FT Chong, CY Lai, G Paz
+Publication: 2013 IEEE 31st International Conference on Computer Design (ICCD), 419-426
+
+104. UDM: user direct messaging for general-purpose multiprocessing
+Citations:12
+Authors: K Mackenzie, J Kubiatowicz, M Frank, W Lee, V Lee, A Agarwal, ...
+Publication: Technical Memo MIT/LCS/TM-556
+
+105. Fugu: Implementing translation and protection in a multiuser, multimodel multiprocessor
+Citations:11
+Authors: K Mackenzie, J Kubiatowicz, A Agarwal, MF Kaashoek
+Publication: Massachusetts Institute of Technology
+
+106. The case for the holistic language runtime system
+Citations:10
+Authors: M Maas, K Asanovic, T Harris, J Kubiatowicz
+Publication: First International Workshop on Rackscale Computing
+
+107. Estimating the resources for quantum computation with the QuRE toolbox
+Citations:10
+Authors: M Suchara, A Faruque, CY Lai, G Paz, F Chong, JD Kubiatowicz
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+108. Another way to find the nearest neighbor in growth-restricted metrics
+Citations:10
+Authors: KW Hildrum, JD Kubiatowicz, S Rao
+Publication: Computer Science Division, University of California
+
+109. Distribted data location in a dynamic network
+Citations:10
+Authors: K Hildrum, JD Kubiatowicz, S Rao, BY Zhao
+Publication: SPAA’02
+
+110. Closing the Window of Vulnerability in Multiphase memory transaction: The alewife transaction store
+Citations:10
+Authors: J Kubiatowicz
+Publication: Massachusetts Institute of Technology
+
+111. Optimizing robustness while generating shared secret safe primes
+Citations:9
+Authors: E Ong, J Kubiatowicz
+Publication: International Workshop on Public Key Cryptography, 120-137
+
+112. Optimizations for locality-aware structured peer-to-peer overlays
+Citations:9
+Authors: J Stribling, KW Hildrum, JD Kubiatowicz
+Publication: Computer Science Division, University of California
+
+113. Comparing the overhead of topological and concatenated quantum error correction
+Citations:8
+Authors: M Suchara, A Faruque, CY Lai, G Paz, FT Chong, J Kubiatowicz
+Publication: arXiv preprint arXiv:1312.2316
+
+114. Real-time musical applications on an experimental operating system for multi-core processors
+Citations:8
+Authors: JA Colmenares, I Saxton, E Battenberg, R Avizienis, N Peters, K Asanovic, ...
+Publication: ICMC
+
+115. Improving bandwidth efficiency of peer-to-peer storage
+Citations:8
+Authors: P Eaton, E Ong, J Kubiatowicz
+Publication: Proceedings. Fourth International Conference on Peer-to-Peer Computing, 2004 …
+
+116. Grail Quest: A New Proposal for Hardware-assisted Garbage Collection
+Citations:7
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: Workshop on Architectures and Systems for Big Data
+
+117. Probabilistic data aggregation in distributed networks
+Citations:7
+Authors: L Huang, B Zhao, AD Joseph, JD Kubiatowicz
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2006-11
+
+118. Proactive replication for data durability
+Citations:7
+Authors: ES Andreas, A Haeberlen, F Dabek, B gon Chun, H Weatherspoon, ...
+Publication: Proceedings of the 5th Intl Workshop on Peer-to-Peer Systems (IPTPS)
+
+119. A hardware accelerator for tracing garbage collection
+Citations:6
+Authors: M Maas, K Asanović, J Kubiatowicz
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+120. Chisel-Q: Designing quantum circuits with a scala embedded language
+Citations:6
+Authors: X Liu, J Kubiatowicz
+Publication: 2013 IEEE 31st International Conference on Computer Design (ICCD), 427-434
+
+121. Power consumption models for multi-tenant server infrastructures
+Citations:5
+Authors: M Ferroni, A Corna, A Damiani, R Brondolin, JA Colmenares, S Hofmeyr, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 14 (4), 38
+
+122. Return of the runtimes: Rethinking the language runtime system for the cloud 3.0 era
+Citations:5
+Authors: M Maas, K Asanović, J Kubiatowicz
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 138-143
+
+123. Sparcle: A multithreaded VLSI processor for parallel computing
+Citations:5
+Authors: A Agarwal, J Babb, D Chaiken, G D'Souza, K Johnson, D Kranz, ...
+Publication: US/Japan Workshop on Parallel Symbolic Computing, 359-361
+
+124. A fog robotics approach to deep robot learning: Application to object recognition and grasp planning in surface decluttering
+Citations:4
+Authors: AK Tanwani, N Mor, J Kubiatowicz, JE Gonzalez, K Goldberg
+Publication: arXiv preprint arXiv:1903.09589
+
+125. Enabling power-awareness for the xen hypervisor
+Citations:4
+Authors: M Ferroni, JA Colmenares, S Hofmeyr, JD Kubiatowicz, MD Santambrogio
+Publication: ACM SIGBED Review 15 (1), 36-42
+
+126. The great robotics debate
+Citations:4
+Authors: MY Vardi
+Publication: Communications of the ACM 56 (7), 5-5
+
+127. A Secure Fine-Grained Access Control Mechanism for Networked Storage Systems
+Citations:4
+Authors: HY Lin, J Kubiatowicz, WG Tzeng
+Publication: 2012 IEEE Sixth International Conference on Software Security and …
+
+128. A soft real-time parallel GUI service in Tessellation many-core OS
+Citations:4
+Authors: A Kim, JA Colmenares, H Alkaff, J Kubiatowicz
+Publication: Proc. of CATA
+
+129. Hard-object: Enforcing object interfaces using code-range data protection
+Citations:4
+Authors: D Wilkerson, DA Molnar, M Harren, JD Kubiatowicz
+Publication: Technical Report UCB/EECS-2009-97, EECS Department, University of California …
+
+130. Performance and Energy Comparison of Electrical and Hybrid Photonic Networks for CMPs
+Citations:4
+Authors: A Jain, S Kamil, M Mohiyuddin, J Shalf, J Kubiatowicz
+Publication: Applied Power Electronics Conference and Exposition
+
+131. The mit alewife machine
+Citations:4
+Authors: A Agarwal, R Bianchini, D Chaiken, FT Chong, KL Johnson, D Kranz, ...
+Publication: Proc. of the IEEE, Special Issue on Distributed Shared Memory
+
+132. A high-performance oblivious RAM controller on the convey HC-2ex heterogeneous computing platform
+Citations:3
+Authors: M Maas, E Love, E Stefanov, M Tiwari, E Shi, K Asanovic, J Kubiatowicz, ...
+Publication: Workshop on the Intersections of Computer Architecture and Reconfigurable …
+
+133. Juggle: addressing extrinsic load imbalances in SPMD applications on multicore computers
+Citations:3
+Authors: S Hofmeyr, JA Colmenares, C Iancu, J Kubiatowicz
+Publication: Cluster computing 16 (2), 299-319
+
+134. Evaluating Hard Object: a lightweight module isolation system
+Citations:3
+Authors: K Klues, D Coetzee, D Wilkerson, M Winterrowd, J Kubiatowicz
+Publication: Dec
+
+135. SHH: A Light-Weight Mechanism for Decentralized Ordering Correctness
+Citations:3
+Authors: BBH Kang, R Wilensky, J Kubiatowicz
+Publication: Proc. of Berkeley EECS Annual Research Symposium
+
+136. Can we build Classical Control Circuits for Silicon Quantum Computers?
+Citations:3
+Authors: M Whitney, Y Patel, N Isailovic, J Kubiatowicz
+Publication: 2nd Workshop on Non-Silicon Computation
+
+137. A brief comparison: ion-trap and silicon-based implementations of quantum computation
+Citations:3
+Authors: T Metodiev, D Copsey, FT Chong, I Chuang, M Oskin, J Kubiatowicz
+Publication: 2nd Wrorkshop on Non-Silicon Computing (NSC), held in conjunction with 30th …
+
+138. The Worldwide Computer An operating system spanning the Internet would harness the power of millions of the world's networked PCs
+Citations:3
+Authors: DP Anderson, J Kubiatowicz
+Publication: SCIENTIFIC AMERICAN-AMERICAN EDITION- 286 (3), 28-35
+
+139. Synamic Runtime Scheduler Support for SCORE
+Citations:3
+Authors: MM Chu, J Wawrzynek, J Kubiatowicz
+Publication: Computer Science Division, University of California
+
+140. Users Manual for the Alewife 1000 Controller Version 0.69
+Citations:3
+Authors: J Kubiatowiz
+Publication: Technical Report Alewife Systems Memo
+
+141. Special mechanisms for multi-model support
+Citations:3
+Authors: J Kubiatowicz
+Publication: ALEWIFE Systems Memo# 4
+
+142. Marc: A resource consumption modeling service for self-aware autonomous agents
+Citations:2
+Authors: M Ferroni, A Corna, A Damiani, R Brondolin, JD Kubiatowicz, D Sciuto, ...
+Publication: ACM Transactions on Autonomous and Adaptive Systems (TAAS) 12 (4), 21
+
+143. Full-System Simulation of Java Workloads with RISC-V and the Jikes Research Virtual Machine
+Citations:2
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: 1st Workshop on Computer Architecture Research with RISC-V
+
+144. Global data plane router on click
+Citations:2
+Authors: N Goyal, J Wawrzynek, JD Kubiatowicz
+Publication: MA thesis. EECS Department, University of California, Berkeley
+
+145. Building an adaptive operating system for predictability and efficiency
+Citations:2
+Authors: G Eads, J Colmenares, S Hofmeyr, S Bird, D Bartolini, D Chou, ...
+Publication: Tech. Rep. UCB/EECS-2014-137, EECS Department, University of California …
+
+146. A multicore operating system with QoS guarantees for network audio applications
+Citations:2
+Authors: JA Colmenares, N Peters, G Eads, I Saxton, I Jacquez, JD Kubiatowicz, ...
+Publication: Journal of the Audio Engineering Society 61 (4), 174-184
+
+147. Tessellation operating system: Building a real-time, responsive, high-throughput client OS for many-core architectures
+Citations:2
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, A Kim, R Poddar, H Alkaff, ...
+Publication: 2011 IEEE Hot Chips 23 Symposium (HCS), 1-1
+
+148. The OceanStore Write Path
+Citations:2
+Authors: S Rhea, J Kubiatowicz
+Publication: 
+
+149. The world-wide computer
+Citations:2
+Authors: J Fu
+Publication: Scientific
+
+150. Remote Queues: Exposing Message Queues for Optimization and Atomicity
+Citations:2
+Authors: F Chong, LT Liu, SD Sharma, JD Kubiatowicz
+Publication: Symposium on Parallel Algorithms and Architecture (SPAA) Santa Barbara, July
+
+151. The MIT Alewife Machine: A Large-Scale Distributed-Memory Multiprocessor
+Citations:2
+Authors: AADCK Johnson, DKJKK Kurihara, BHLG Maa, D Nussbaum
+Publication: Proc. Workshop Scalable Shared Memory Multiprocessors
+
+152. Hybrid Electric/Photonic Networks for Scientific Applications on Tiled CMPs
+Citations:1
+Authors: A Jain, S Kamil, M Mohiyuddin, J Shalf, JD Kubiatowicz
+Publication: Proc. of 12th Workshop on High Performance Computing (HPEC)
+
+153. Brief announcement: stretch between nearby peers
+Citations:1
+Authors: K Hildrum, JD Kubiatowicz, J Stribling
+Publication: Proceedings of the twenty-third annual ACM symposium on Principles of …
+
+154. Technical report: Low stretch between nearby peers
+Citations:1
+Authors: KW Hildrum, JD Kubiatowicz, J Stribling
+Publication: Computer Science Division, University of California
+
+155. Towards a common API for structured peer-to-peer overlays
+Citations:1
+Authors: P Druschel, J Kubiatowicz, I Stoica, F Dabek, B Zhao
+Publication: February
+
+156. Hot chips 13
+Citations:1
+Authors: J Kubiatowicz, A Wolfe
+Publication: IEEE Micro 22 (2), 6-7
+
+157. An architecture for global-scale persistent store
+Citations:1
+Authors: J Kubiatowicz
+Publication: Proc. ASPLOS'2000, Cambridge, MA, November
+
+158. Microprocessor optimization for network protocol implementations
+Citations:1
+Authors: K Camera, T Tuan, J Kubiatowicz
+Publication: Berkeley Wireless Research Center, Univ. of California, Berkeley
+
+159. Modifications to SPARC for the Alewife Multiprocessor “
+Citations:1
+Authors: J Kubiatowicz
+Publication: Alewife Systems Memo
+
+160. Global Data Plane: A Federated Vision for Secure Data in Edge Computing
+Citations:
+Authors: N Mor, R Pratt, E Allman, K Lutz, J Kubiatowicz
+Publication: Proceedings of the International Conference on Distributed Computing Systems
+
+161. Hot Chips 30
+Citations:
+Authors: J Kubiatowicz, S Rusu
+Publication: IEEE Micro 39 (2), 6-8
+
+162. Secure Fog Robotics Using the Global Data Plane
+Citations:
+Authors: J Kubiatowicz, K Lutz, K Goldberg, A Joseph, J Gonzalaz
+Publication: 
+
+163. Relational Data: Logical View
+Citations:
+Authors: J Kubiatowicz, AD Joseph
+Publication: 
+
+164. High Availability on a Distributed Real Time Processing System
+Citations:
+Authors: A Soroudi, E Tanuwidjaja, JN Li, M Franklin, JD Kubiatowicz
+Publication: 
+
+165. High Availability on a Distributed Real Time Processing System
+Citations:
+Authors: JN Li, A Soroudi, E Tanuwidjaja, M Franklin, JD Kubiatowicz
+Publication: 
+
+166. High Availability on a Distributed Real Time Processing System
+Citations:
+Authors: E Tanuwidjaja, JN Li, A Soroudi, M Franklin, JD Kubiatowicz
+Publication: 
+
+167. Author retrospective for anatomy of a message in the alewife multiprocessor
+Citations:
+Authors: J Kubiatowicz
+Publication: ACM International Conference on Supercomputing 25th Anniversary Volume, 26-28
+
+168. Gang Scheduling Java Applications With Tesselation
+Citations:
+Authors: B Le, J Lai, W Cai, J Kubiatowicz
+Publication: 
+
+169. Resources in a Smart Space
+Citations:
+Authors: J Kubiatowicz
+Publication: 
+
+170. A Large-Scale Distributed-Memory Multiprocessor
+Citations:
+Authors: A Agarwal, D Chaiken, K Johnson, D Kranz, J Kubiatowicz, K Kurihara, ...
+Publication: Scalable Shared Memory Multiprocessors, 239
+
+171. Cloud Storage Toward a Global Data Infrastructure
+Citations:
+Authors: N Mor, B Zhang, J Kolb, DS Chan, N Goyal, N Sun, K Lutz, E Allman, ...
+Publication: Proc. 1st Edition of the MCC Workshop on Mobile Cloud Computing, 13-16
+
+172. CS 262A Midterm Exam
+Citations:
+Authors: J Kubiatowicz, AD Joseph
+Publication: 
+
+173. Par Lab
+Citations:
+Authors: JA Colmenares, I Saxton, E Battenberg, N Peters, K Asanović, ...
+Publication: 
+
+174. The Parallel Revolution Has Started: The Parallel Revolution Has Started: Are You Part of the Solution or Part of the Problem?
+Citations:
+Authors: K Asanovic, R Bodik, E Brewer, J Demmel, TKKKJ Kubiatowicz, ...
+Publication: 
+
+175. Analysis of Photonic Networks for a Chip Multiprocessor Using Scientific Applications
+Citations:
+Authors: SA Kamil, G Hendry, A Biberman, J Chan, BG Lee, M Mohiyuddin, A Jain, ...
+Publication: Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)
+
+176. 2. PREVIOUS WORK
+Citations:
+Authors: J KUBIATOWICZ, A JAIN, S KAMIL, M MOHIYUDDIN
+Publication: 
+
+177. Tiered Byzantine-fault tolerance for long-term integrity
+Citations:
+Authors: BG Chun, P Maniatis, S Shenker, J Kubiatowicz
+Publication: Submission
+
+178. The future is Quantum Computing?
+Citations:
+Authors: J Kubiatowicz
+Publication: 2007 IEEE Hot Chips 19 Symposium (HCS), 1-5
+
+179. Investigation of the classically controlled ion-motion interface in a multiplexed ion-trap quantum computer
+Citations:
+Authors: TS Metodi, N Isailovic, DD Thaker, M Whitney, Y Patel, J Kubiatowicz, ...
+Publication: Quantum Information and Computation V 6573, 657305
+
+180. OpenDHT
+Citations:
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+181. Two-level, Self-verifying Data for Peer-to-peer Storage
+Citations:
+Authors: PR Eaton, H Weatherspoon, JD Kubiatowicz
+Publication: Computer Science Division, University of California
+
+182. Extracting
+Citations:
+Authors: J Kubiatowicz
+Publication: COMMUNICATIONS OF THE ACM 46 (2), 33
+
+183. Results in DHT Benchmarking
+Citations:
+Authors: S Rhea, T Roscoe, J Kubiatowicz
+Publication: 
+
+184. 情報技術 ワールドワイドコンピューター
+Citations:
+Authors: DP Anderson, J Kubiatowicz
+Publication: 日経サイエンス 32 (6), 78-87
+
+185. Coherence
+Citations:
+Authors: J Kubiatowicz
+Publication: 
+
+186. Worldwide
+Citations:
+Authors: DP Anderson, J Kubiatowicz
+Publication: SCIENTIFIC AMERICAN
+
+187. 全球计算机
+Citations:
+Authors: 李平
+Publication: 科学 (中文版), 28-35
+
+188. El computador mundial
+Citations:
+Authors: DP Anderson, J Kubiatowicz
+Publication: Investigación y ciencia, 68-75
+
+189. Peer-to-peer collaborative application-level multicast.
+Citations:
+Authors: Q Zheng, S Jiang, F Zhang, T Peng, C Chen, R Antony, P Druschel, ...
+Publication: Information Technology Journal 7 (5), pp: 329-350
+
+190. The MIT Alewife machine
+Citations:
+Authors: A Agarwal, R Bianchini, D Chaiken, KL Johnson, D Kranz, J Kubiatowicz, ...
+Publication: ACM SIGARCH Computer Architecture News 23 (2), 2-13
+
+191. The MIT Alewife Machine: Architecture and Performance
+Citations:
+Authors: D Kranz, J Kubiatowicz, BH Limi, K Mackenzie, D Yeung
+Publication: 
+
+192. 1993 Index IEEE MICRO Vol. 10
+Citations:
+Authors: A Agarwal, J Kubiatowicz, D Kranz, BH Lim
+Publication: technology 2000, 19-27
+
+193. Closing the Window of Vuln,-ability in Multiphase Memory Tranl-tions
+Citations:
+Authors: J Kubiatowicz, D Chaiken, A Agarwal
+Publication: II1, I| 111111t11ii11111111 11,111 E August, 26
+
+194. APRIL: A processor architecture for multiprocessing. Technical report
+Citations:
+Authors: A Agarwal, BH Lim, D Kranz, J Kubiatowicz
+Publication: Massachusetts Inst. of Tech., Cambridge, MA (United States). Lab. for …
+
+195. 3rd IEEE International Conference on Edge Computing Message from the Chairs
+Citations:
+Authors: J Kubiatowicz, N Radia, J Joshi, H Zhu
+Publication: 
+
+196. usenix conference policies
+Citations:
+Authors: S Rhea, P Eaton, D Geels, H Weatherspoon, B Zhao, J Kubiatowicz
+Publication: 
+
+197. 1 Introduction Brocade: Landmark Routing on Overlay Networks
+Citations:
+Authors: BY Zhao, Y Duan, L Huang, AD Joseph, JD Kubiatowicz
+Publication: 
+
+198. ةع زظ ز ئ ظ سض ز ذ س ث ضغ ؤس ظ سز ث ضغ ط ثظع
+Citations:
+Authors: Y Chen, A Bargteil, D Bindel, RH Katz, J Kubiatowicz
+Publication: 
+
+199. DRAFT: Return of the Runtimes–Rethinking the Language Runtime System for the Cloud 3.0 Era
+Citations:
+Authors: M Maas, K Asanovic, J Kubiatowicz
+Publication: 
+
+200. Computers for the Post-PC Era
+Citations:
+Authors: A Brown, J Beck, K Keeton, R Martin, D Oppenheimer, R Thomas, ...
+Publication: 
+
+201. ESTIMATING THE RESOURCES FOR QUANTUM COMPUTATION WITH THE QuRE TOOLBOX
+Citations:
+Authors: G PAZ, FT CHONG, J KUBIATOWICZ
+Publication: 
+
+202. Operating Systems for Exascale
+Citations:
+Authors: J Shalf, T Sterling, C Iancu, K Yelick, J Kubiatowicz
+Publication: 
+
+203. Efficient Data Retrieval from a Secure, Durable, Append-Only Log
+Citations:
+Authors: S Kumar, AM Chen, PR Bramsen, JD Kubiatowicz
+Publication: 
+
+204. Tapestry: Wide-area Location and Routing
+Citations:
+Authors: BY Zhao, J Kubiatowicz, AD Joseph
+Publication: 
+
+205. Locality Aware Mechanisms for Large-scale Networks: The Tapestry Infrastructure
+Citations:
+Authors: JD Kubiatowicz
+Publication: 
+
+206. Quantifying the Tradeoffs Between Distributed Hash Tables and Distributed Directories
+Citations:
+Authors: H Weatherspoon, BG Chun, J Stribling, JD Kubiatowicz
+Publication: 
+
+207. Symposium Organization
+Citations:
+Authors: J Rolim, C Weems, JK Antonio, M Atallah, S Adve, G Agha, R Bianchini, ...
+Publication: 
+
+208. Hierarchical Proxy Re-Encryption with Application to Access Control over Networked Storage System
+Citations:
+Authors: HY Lin, J Kubiatowicz, WG Tzeng
+Publication: 
+
+209. Taiwan invests in nanotech
+Citations:
+Authors: F Chong, I Chuang, J Kubiatowicz
+Publication: 
+
+210. S. Dwarkadas R. Eickemeyer J. Emer M. Ercegovac
+Citations:
+Authors: A Eustace, D Blough, K Bolding, R Boppana, S Breach, M Brorsson, ...
+Publication: 
+
+211. Tessellation Operating System
+Citations:
+Authors: JA Colmenares, S Bird, G Eads, S Hofmeyr, E Huerta-Yero, A Kim, ...
+Publication: 
+
+212. SecureCell: An Architecture for Computing with Private Data on the Cloud
+Citations:
+Authors: EJ Love, SU Mehta, JD Kubiatowicz
+Publication: 
+
+213. Keynote I Chair: Jose Duato Yale Patt: Microarchitecture: Are We Finally Done? Session 1: Power Management Chair: Antonio Gonzalez
+Citations:
+Authors: V Wen, M Whitney, Y Patel, J Kubiatowicz, J Li, J Martínez, M Huang
+Publication: 
+
+214. Extracting Guarantees from CHAOS カオスからの保証の抽出
+Citations:
+Authors: J Kubiatowicz
+Publication: 
+
+215. A Design Overview for a Simulation Infrastructure for Exploring Quantum Architectures
+Citations:
+Authors: D Copsey, M Oskin, A Cross, T Metodiev, FT Chong, I Chuang, ...
+Publication: 
+
+216. Approximate Text Addressing and Spam Filtering
+Citations:
+Authors: F Zhou, L Zhuang, BY Zhao, L Huang, AD Joseph, J Kubiatowicz
+Publication: 
+
+217. The MIT Alewife Machine: A Large-Scale Distributed-Memory Multiprocessor Anant Agarwal, David Chaiken, Kirk Johnson, David Kranz
+Citations:
+Authors: J Kubiatowicz, K Kurihara, BH Lim, G Maa, D Nussbaum
+Publication: 
+
+218. Exploring RDP in Locality-Aware Structured Peer-to-Peer Overlays
+Citations:
+Authors: J Stribling, K Hildrum, JD Kubiatowicz
+Publication: 
+
+219. Improving the Security and Fault-Tolerance of Distributed Systems using Trusted Hardware
+Citations:
+Authors: E Ong, J Kubiatowicz
+Publication: 
+
+220. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+221. David Lilja Patrick Lincoln Mikko Lipasti Jose María Llabería Josep Llosa
+Citations:
+Authors: J Abella, J Abraham, A Abulafia, C Acosta, A Agarwal, A Alameldeen, ...
+Publication: 
+
+222. Probabilistic Data Aggregation
+Citations:
+Authors: L Huang, BY Zhao, A Joseph, J Kubiatowicz
+Publication: Network 50, 60
+
+223. Laboratory for Computer Science Massachusetts Institute of Technology, Cambridge, MA 02139
+Citations:
+Authors: D Harel
+Publication: 
+

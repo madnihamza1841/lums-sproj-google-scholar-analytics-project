@@ -1,0 +1,688 @@
+https://scholar.google.com/citations?hl=en&user=biuxbRsAAAAJ
+Total Citations = 5464
+
+1. CrowdDB: answering queries with crowdsourcing
+Citations:668
+Authors: MJ Franklin, D Kossmann, T Kraska, S Ramesh, R Xin
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+2. Crowder: Crowdsourcing entity resolution
+Citations:452
+Authors: J Wang, T Kraska, MJ Franklin, J Feng
+Publication: Proceedings of the VLDB Endowment 5 (11), 1483-1494
+
+3. Building a database on S3
+Citations:349
+Authors: M Brantner, D Florescu, D Graf, D Kossmann, T Kraska
+Publication: Proceedings of the 2008 ACM SIGMOD international conference on Management of …
+
+4. An evaluation of alternative architectures for transaction processing in the cloud
+Citations:301
+Authors: D Kossmann, T Kraska, S Loesing
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+5. Consistency rationing in the cloud: pay only when it matters
+Citations:275
+Authors: T Kraska, M Hentschel, G Alonso, D Kossmann
+Publication: Proceedings of the VLDB Endowment 2 (1), 253-264
+
+6. MLbase: A Distributed Machine-learning System.
+Citations:274
+Authors: T Kraska, A Talwalkar, JC Duchi, R Griffith, MJ Franklin, MI Jordan
+Publication: Cidr 1, 2.1
+
+7. MDCC: Multi-data center consistency
+Citations:216
+Authors: T Kraska, G Pang, MJ Franklin, S Madden, A Fekete
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 113-126
+
+8. How is the weather tomorrow?: towards a benchmark for the cloud
+Citations:201
+Authors: C Binnig, D Kossmann, T Kraska, S Loesing
+Publication: Proceedings of the Second International Workshop on Testing Database Systems, 9
+
+9. Leveraging transitive relations for crowdsourced joins
+Citations:170
+Authors: J Wang, G Li, T Kraska, MJ Franklin, J Feng
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+10. MLI: An API for distributed machine learning
+Citations:148
+Authors: ER Sparks, A Talwalkar, V Smith, J Kottalam, X Pan, J Gonzalez, ...
+Publication: 2013 IEEE 13th International Conference on Data Mining, 1187-1192
+
+11. The case for learned index structures
+Citations:132
+Authors: T Kraska, A Beutel, EH Chi, J Dean, N Polyzotis
+Publication: Proceedings of the 2018 International Conference on Management of Data, 489-504
+
+12. Crowdsourced enumeration queries
+Citations:99
+Authors: B Trushkowsky, T Kraska, MJ Franklin, P Sarkar
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 673-684
+
+13. A sample-and-clean framework for fast and accurate query processing on dirty data
+Citations:94
+Authors: J Wang, S Krishnan, MJ Franklin, K Goldberg, T Kraska, T Milo
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+14. Extending XQuery with window functions
+Citations:93
+Authors: I Botan, D Kossmann, PM Fischer, T Kraska, D Florescu, R Tamosevicius
+Publication: Proceedings of the 33rd international conference on Very large data bases, 75-86
+
+15. Automating model search for large scale machine learning
+Citations:90
+Authors: ER Sparks, A Talwalkar, D Haas, MJ Franklin, MI Jordan, T Kraska
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 368-380
+
+16. A demonstration of the BigDAWG polystore system
+Citations:83
+Authors: A Elmore, J Duggan, M Stonebraker, M Balazinska, U Cetintemel, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1908-1911
+
+17. Finding the needle in the big data systems haystack
+Citations:82
+Authors: T Kraska
+Publication: IEEE internet Computing 17 (1), 84-86
+
+18. The end of slow networks: it's time for a redesign
+Citations:80
+Authors: C Binnig, A Crotty, A Galakatos, T Kraska, E Zamanian
+Publication: Proceedings of the VLDB Endowment 9 (7), 528-539
+
+19. An architecture for compiling udf-centric workflows
+Citations:74
+Authors: A Crotty, A Galakatos, K Dursun, T Kraska, C Binnig, U Cetintemel, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1466-1477
+
+20. PIQL: Success-tolerant query processing in the cloud
+Citations:68
+Authors: M Armbrust, K Curtis, T Kraska, A Fox, MJ Franklin, DA Patterson
+Publication: Proceedings of the VLDB Endowment 5 (3), 181-192
+
+21. S-Store: streaming meets transaction processing
+Citations:62
+Authors: J Meehan, N Tatbul, S Zdonik, C Aslantas, U Cetintemel, J Du, T Kraska, ...
+Publication: Proceedings of the VLDB Endowment 8 (13), 2134-2145
+
+22. S-Store: a streaming NewSQL system for big velocity applications
+Citations:62
+Authors: U Cetintemel, J Du, T Kraska, S Madden, D Maier, J Meehan, A Pavlo, ...
+Publication: Proceedings of the VLDB Endowment 7 (13), 1633-1636
+
+23. Stormy: an elastic and highly available streaming service in the cloud
+Citations:57
+Authors: S Loesing, M Hentschel, T Kraska, D Kossmann
+Publication: Proceedings of the 2012 Joint EDBT/ICDT Workshops, 55-60
+
+24. Crowddb: Query processing with the vldb crowd
+Citations:55
+Authors: A Feng, M Franklin, D Kossmann, T Kraska, SR Madden, S Ramesh, ...
+Publication: VLDB Endowment
+
+25. Cloudy: A modular cloud storage system
+Citations:52
+Authors: D Kossmann, T Kraska, S Loesing, S Merkli, R Mittal, F Pfaffhauser
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1533-1536
+
+26. Data management in the cloud: promises, state-of-the-art, and open questions
+Citations:50
+Authors: D Kossmann, T Kraska
+Publication: Datenbank-Spektrum 10 (3), 121-129
+
+27. Vizdom: interactive analytics through pen and touch
+Citations:48
+Authors: A Crotty, A Galakatos, E Zgraggen, C Binnig, T Kraska
+Publication: Proceedings of the VLDB Endowment 8 (12), 2024-2027
+
+28. Interactive data exploration using semantic windows
+Citations:48
+Authors: A Kalinin, U Cetintemel, S Zdonik
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+29. The end of a myth: Distributed transactions can scale
+Citations:45
+Authors: E Zamanian, C Binnig, T Harris, T Kraska
+Publication: Proceedings of the VLDB Endowment 10 (6), 685-696
+
+30. XQuery reloaded
+Citations:44
+Authors: R Bamford, V Borkar, M Brantner, PM Fischer, D Florescu, D Graf, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1342-1353
+
+31. Crowdsourcing applications and platforms: A data management perspective
+Citations:42
+Authors: A Doan, MJ Franklin, D Kossmann, T Kraska
+Publication: Proceedings of the VLDB Endowment 4 (12), 1508-1509
+
+32. CrowdQ: Crowdsourced Query Understanding.
+Citations:41
+Authors: G Demartini, B Trushkowsky, T Kraska, MJ Franklin, UC Berkeley
+Publication: CIDR
+
+33. RTP: robust tenant placement for elastic in-memory database clusters
+Citations:40
+Authors: J Schaffner, T Januschowski, M Kercher, T Kraska, H Plattner, MJ Franklin, ...
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+34. Superneurons: dynamic GPU memory management for training deep neural networks
+Citations:39
+Authors: L Wang, J Ye, Y Zhao, W Wu, A Li, SL Song, Z Xu, T Kraska
+Publication: ACM SIGPLAN Notices 53 (1), 41-53
+
+35. How progressive visualizations affect exploratory analysis
+Citations:39
+Authors: E Zgraggen, A Galakatos, A Crotty, JD Fekete, T Kraska
+Publication: IEEE transactions on visualization and computer graphics 23 (8), 1977-1987
+
+36. Revisiting reuse for approximate query processing
+Citations:34
+Authors: A Galakatos, A Crotty, E Zgraggen, C Binnig, T Kraska
+Publication: Proceedings of the VLDB Endowment 10 (10), 1142-1153
+
+37. Tupleware:" Big" Data, Big Analytics, Small Clusters.
+Citations:34
+Authors: A Crotty, A Galakatos, K Dursun, T Kraska, U Çetintemel, SB Zdonik
+Publication: CIDR
+
+38. Controlling false discoveries during interactive data exploration
+Citations:33
+Authors: Z Zhao, L De Stefani, E Zgraggen, C Binnig, E Upfal, T Kraska
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+39. Crowdsourced enumeration queries
+Citations:32
+Authors: MJ Franklin, B Trushkowsky, P Sarkar, T Kraska
+Publication: Proceedings of the 2013 IEEE International Conference on Data Engineering …
+
+40. Generalized scale independence through incremental precomputation
+Citations:31
+Authors: M Armbrust, E Liang, T Kraska, A Fox, MJ Franklin, DA Patterson
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+41. Repeatability and workability evaluation of SIGMOD 2011
+Citations:27
+Authors: P Bonnet, S Manegold, M Bjørling, W Cao, J Gonzalez, J Granados, ...
+Publication: ACM SIGMOD Record 40 (2), 45-48
+
+42. XQuery in the Browser
+Citations:26
+Authors: G Fourny, M Pilman, D Florescu, D Kossmann, T Kraska, D McBeath
+Publication: Proceedings of the 18th international conference on World wide web, 1011-1020
+
+43. Sagedb: A learned database system
+Citations:24
+Authors: T Kraska, M Alizadeh, A Beutel, EH Chi, J Ding, A Kristo, G Leclerc, ...
+Publication: 
+
+44. SampleClean: Fast and Reliable Analytics on Dirty Data.
+Citations:24
+Authors: S Krishnan, J Wang, MJ Franklin, K Goldberg, T Kraska, T Milo, E Wu
+Publication: IEEE Data Eng. Bull. 38 (3), 59-75
+
+45. The case for interactive data exploration accelerators (IDEAs)
+Citations:22
+Authors: A Crotty, A Galakatos, E Zgraggen, C Binnig, T Kraska
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 11
+
+46. Stale view cleaning: Getting fresh answers from stale materialized views
+Citations:22
+Authors: S Krishnan, J Wang, MJ Franklin, K Goldberg, T Kraska
+Publication: Proceedings of the VLDB Endowment 8 (12), 1370-1381
+
+47. An exploration of crowdsourcing citation screening for systematic reviews
+Citations:20
+Authors: ML Mortensen, GP Adam, TA Trikalinos, T Kraska, BC Wallace
+Publication: Research synthesis methods 8 (3), 366-386
+
+48. Making the case for query-by-voice with echoquery
+Citations:20
+Authors: G Lyons, V Tran, C Binnig, U Cetintemel, T Kraska
+Publication: Proceedings of the 2016 International Conference on Management of Data, 2129 …
+
+49. Investigating the effect of the multiple comparisons problem in visual analysis
+Citations:19
+Authors: E Zgraggen, Z Zhao, R Zeleznik, T Kraska
+Publication: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …
+
+50. Estimating the impact of unknown unknowns on aggregate query results
+Citations:19
+Authors: Y Chung, ML Mortensen, C Binnig, T Kraska
+Publication: ACM Transactions on Database Systems (TODS) 43 (1), 3
+
+51. Fine-grained and concurrent access to a virtualized disk in a distributed system
+Citations:18
+Authors: M Brantner, D Graf, D Kossmann, T Kraska
+Publication: US Patent 8,660,988
+
+52. Tupleware: Distributed Machine Learning on Small Clusters.
+Citations:17
+Authors: A Crotty, A Galakatos, T Kraska
+Publication: IEEE Data Eng. Bull. 37 (3), 63-76
+
+53. Fault-tolerant entity resolution with the crowd
+Citations:16
+Authors: A Gruenheid, B Nushi, T Kraska, W Gatterbauer, D Kossmann
+Publication: arXiv preprint arXiv:1512.00537
+
+54. Cost-based fault-tolerance for parallel data processing
+Citations:16
+Authors: A Salama, C Binnig, T Kraska, E Zamanian
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+55. Privateclean: Data cleaning and differential privacy
+Citations:15
+Authors: S Krishnan, J Wang, MJ Franklin, K Goldberg, T Kraska
+Publication: Proceedings of the 2016 International Conference on Management of Data, 937-951
+
+56. Planet: making progress with commit processing in unpredictable environments
+Citations:15
+Authors: G Pang, T Kraska, MJ Franklin, A Fekete
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+57. Vistrees: fast indexes for interactive data exploration
+Citations:14
+Authors: M El-Hindi, Z Zhao, C Binnig, T Kraska
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 5
+
+58. Machine learning and databases: The sound of things to come or a cacophony of hype?
+Citations:14
+Authors: C Ré, D Agrawal, M Balazinska, M Cafarella, M Jordan, T Kraska, ...
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+59. Getting it all from the crowd
+Citations:14
+Authors: B Trushkowsky, T Kraska, MJ Franklin, P Sarkar
+Publication: arXiv preprint arXiv:1202.2335
+
+60. Mlbase: A distributed machine learning wrapper
+Citations:14
+Authors: A Talwalkar, T Kraska, R Griffith, J Duchi, J Gonzalez, D Britz, X Pan, ...
+Publication: NIPS Big Learning Workshop
+
+61. Towards a Benchmark for Interactive Data Exploration.
+Citations:13
+Authors: P Eichmann, E Zgraggen, Z Zhao, C Binnig, T Kraska
+Publication: IEEE Data Eng. Bull. 39 (4), 50-61
+
+62. Building database applications in the cloud
+Citations:12
+Authors: T Kraska
+Publication: ETH Zurich
+
+63. A data quality metric (DQM): how to estimate the number of undetected errors in data sets
+Citations:10
+Authors: Y Chung, S Krishnan, T Kraska
+Publication: Proceedings of the VLDB Endowment 10 (10), 1094-1105
+
+64. Revisiting reuse in main memory database systems
+Citations:10
+Authors: K Dursun, C Binnig, U Cetintemel, TI Kraska
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+65. Castle: crowd-assisted system for text labeling and extraction
+Citations:10
+Authors: SL Goldberg, DZ Wang, T Kraska
+Publication: First AAAI Conference on Human Computation and Crowdsourcing
+
+66. The new database architectures
+Citations:10
+Authors: T Kraska, B Trushkowsky
+Publication: IEEE internet computing 17 (3), 72-75
+
+67. The multi-tenant data placement problem
+Citations:10
+Authors: J Schaffner, D Jacobs, T Kraska, H Plattner
+Publication: Proc. DBKDA, 157-162
+
+68. What you see is not what you get!: Detecting Simpson's Paradoxes during Data Exploration
+Citations:9
+Authors: Y Guo, C Binnig, T Kraska
+Publication: Proceedings of the 2nd Workshop on Human-In-the-Loop Data Analytics, 2
+
+69. Rethinking Distributed Query Execution on High-Speed Networks.
+Citations:9
+Authors: A Salama, C Binnig, T Kraska, A Scherp, T Ziegler
+Publication: IEEE Data Eng. Bull. 40 (1), 27-37
+
+70. Northstar: An interactive data science system
+Citations:8
+Authors: T Kraska
+Publication: Proceedings of the VLDB Endowment 11 (12), 2150-2164
+
+71. Should we all be teaching intro to data science instead of intro to databases?
+Citations:8
+Authors: B Howe, MJ Franklin, J Freire, J Frew, T Kraska, R Ramakrishnan
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+72. A-tree: A bounded approximate index structure
+Citations:7
+Authors: A Galakatos, M Markovitch, C Binnig, R Fonseca, T Kraska
+Publication: arXiv preprint arXiv:1801.10207
+
+73. Approximate query processing for interactive data science
+Citations:7
+Authors: T Kraska
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+74. IncMap: a journey towards ontology-based data integration
+Citations:7
+Authors: C Pinkel, C Binnig, E Jimenez-Ruiz, E Kharlamov, A Nikolov, A Schwarte, ...
+Publication: Datenbanksysteme für Business, Technologie und Web (BTW 2017)
+
+75. Answering enumeration queries with the crowd
+Citations:7
+Authors: B Trushkowsky, T Kraska, MJ Franklin, P Sarkar
+Publication: Communications of the ACM 59 (1), 118-127
+
+76. Crowdsourcing enumeration queries: Estimators and interfaces
+Citations:7
+Authors: B Trushkowsky, T Kraska, MJ Franklin, P Sarkar, V Ramachandran
+Publication: IEEE Transactions on Knowledge and Data Engineering 27 (7), 1796-1809
+
+77. PathBank: Web-based querying and visualziation of an integrated biological pathway database
+Citations:7
+Authors: JWK Ho, T Manwaring, SH Hong, U Roehm, DCY Fung, K Xu, T Kraska, ...
+Publication: International Conference on Computer Graphics, Imaging and Visualisation …
+
+78. Slice finder: Automated data slicing for model validation
+Citations:6
+Authors: Y Chung, T Kraska, N Polyzotis, KH Tae, SE Whang
+Publication: 2019 IEEE 35th International Conference on Data Engineering (ICDE), 1550-1553
+
+79. Putting analytics on the spot: or how to lower the cost for analytics
+Citations:6
+Authors: E Dadashov, U Cetintemel, T Kraska
+Publication: IEEE Internet Computing 18 (5), 70-73
+
+80. Genea: Schema-Aware Mapping of Ontologies into Relational Databases.
+Citations:6
+Authors: T Kraska, U Röhm
+Publication: COMAD, 92-103
+
+81. VizML: A Machine Learning Approach to Visualization Recommendation
+Citations:5
+Authors: K Hu, MA Bakker, S Li, T Kraska, C Hidalgo
+Publication: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …
+
+82. Towards interactive curation & automatic tuning of ml pipelines
+Citations:5
+Authors: C Binnig, B Buratti, Y Chung, C Cousins, T Kraska, Z Shang, E Upfal, ...
+Publication: Proceedings of the Second Workshop on Data Management for End-To-End Machine …
+
+83. Idebench: A benchmark for interactive data exploration
+Citations:5
+Authors: P Eichmann, C Binnig, T Kraska, E Zgraggen
+Publication: arXiv preprint arXiv:1804.02593
+
+84. Slice finder: Automated data slicing for model interpretability
+Citations:5
+Authors: Y Chung, T Kraska, SE Whang, N Polyzotis
+Publication: arXiv preprint arXiv:1807.06068
+
+85. Spotadapt: Spot-aware (re-) deployment of analytical processing tasks on amazon ec2
+Citations:5
+Authors: D Kaulakienė, C Thomsen, TB Pedersen, U Çetintemel, T Kraska
+Publication: Proceedings of the ACM Eighteenth International Workshop on Data Warehousing …
+
+86. Acquiring object experiences at scale
+Citations:5
+Authors: J Oberlin, M Meier, T Kraska, S Tellex
+Publication: AAAI-RSS Special Workshop on the 50th Anniversary of Shakey: The Role of AI …
+
+87. Scalable Data Integration by Mapping Data to Queries
+Citations:5
+Authors: M Hentschel, D Kossmann, D Florescu, L Haas, T Kraska, RJ Miller
+Publication: Technical report/[ETH, Department of Computer Science 633
+
+88. Neo: A learned query optimizer
+Citations:4
+Authors: R Marcus, P Negi, H Mao, C Zhang, M Alizadeh, T Kraska, ...
+Publication: arXiv preprint arXiv:1904.03711
+
+89. Data science education: We're missing the boat, again
+Citations:4
+Authors: B Howe, M Franklin, L Haas, T Kraska, J Ullman
+Publication: 2017 IEEE 33rd international conference on data engineering (ICDE), 1473-1474
+
+90. Query processing in the cloud
+Citations:4
+Authors: R Mittal, T Kraska, D Kossmann
+Publication: Master’s thesis, Swiss Federal Institute of Technology Zurich, Systems Group …
+
+91. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+92. Safe visual data exploration
+Citations:3
+Authors: Z Zhao, E Zgraggen, L De Stefani, C Binnig, E Upfal, T Kraska
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+93. Dark Data: Are we solving the right problems?
+Citations:3
+Authors: M Cafarella, IF Ilyas, M Kornacker, T Kraska, C Ré
+Publication: 2016 IEEE 32nd International Conference on Data Engineering (ICDE), 1444-1445
+
+94. Streaming in the Cloud
+Citations:3
+Authors: S Merkli
+Publication: Eidgenössische Technische Hochschule Zürich, Department of Computer Science …
+
+95. Park: An Open Platform for Learning Augmented Computer Systems
+Citations:2
+Authors: H Mao, P Negi, A Narayan, H Wang, J Yang, H Wang, R Marcus, ...
+Publication: 
+
+96. VizNet: Towards a large-scale visualization learning and benchmarking repository
+Citations:2
+Authors: K Hu, SNS Gaikwad, M Hulsebos, MA Bakker, E Zgraggen, C Hidalgo, ...
+Publication: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …
+
+97. Smallify: Learning network size while training
+Citations:2
+Authors: G Leclerc, M Vartak, RC Fernandez, T Kraska, S Madden
+Publication: arXiv preprint arXiv:1806.03723
+
+98. A Machine Learning Approach to Databases Indexes
+Citations:2
+Authors: A Beutel, T Kraska, EH Chi, J Dean, N Polyzotis
+Publication: ML Systems Workshop
+
+99. Spotlytics: How to Use Cloud Market Places for Analytics?
+Citations:2
+Authors: T Kraska, E Dadashov, C Binnig
+Publication: Datenbanksysteme für Business, Technologie und Web (BTW 2017)
+
+100. 12th USENIX Symposium on Operating Systems Design and Implementation
+Citations:2
+Authors: K Keeton, T Roscoe, N Agrawal, A Arpaci-Dusseau, S Banerjee, ...
+Publication: OSDI
+
+101. The bigdawg architecture and reference implementation
+Citations:2
+Authors: J Duggan, A Elmore, T Kraska, S Madden, T Mattson, M Stonebraker
+Publication: New England Database Day
+
+102. A framework for adaptive crowd query processing
+Citations:2
+Authors: B Trushkowsky, T Kraska, MJ Franklin
+Publication: First AAAI Conference on Human Computation and Crowdsourcing
+
+103. Benchmarking web-application architectures in the cloud
+Citations:2
+Authors: S Loesing, D Kossmann, T Kraska
+Publication: Master’s thesis, Swiss Federal Institute of Technology Zurich, Systems Group …
+
+104. Windows for XQuery–Use Cases
+Citations:2
+Authors: PM Fischer, D Kossmann, T Kraska, R Tamosevicius
+Publication: doc. Technical Report, ETH Zurich
+
+105. Democratizing data science through interactive curation of ml pipelines
+Citations:1
+Authors: Z Shang, E Zgraggen, B Buratti, F Kossmann, P Eichmann, Y Chung, ...
+Publication: Proceedings of the 2019 International Conference on Management of Data, 1171 …
+
+106. From auto-tuning one size fits all to self-designed and learned data-intensive systems
+Citations:1
+Authors: S Idreos, T Kraska
+Publication: ACM SIGMOD
+
+107. How I Learned to Stop Worrying and Love Re-optimization
+Citations:1
+Authors: M Perron, Z Shang, T Kraska, M Stonebraker
+Publication: 2019 IEEE 35th International Conference on Data Engineering (ICDE), 1758-1761
+
+108. Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks
+Citations:
+Authors: T Ziegler, S Tumkur Vani, C Binnig, R Fonseca, T Kraska
+Publication: Proceedings of the 2019 International Conference on Management of Data, 741-758
+
+109. FITing-Tree: A Data-aware Index Structure
+Citations:
+Authors: A Galakatos, M Markovitch, C Binnig, R Fonseca, T Kraska
+Publication: Proceedings of the 2019 International Conference on Management of Data, 1189 …
+
+110. Sherlock: A Deep Learning Approach to Semantic Data Type Detection
+Citations:
+Authors: M Hulsebos, K Hu, M Bakker, E Zgraggen, A Satyanarayan, T Kraska, ...
+Publication: arXiv preprint arXiv:1905.10688
+
+111. Custodes: Auditable Hypothesis Testing
+Citations:
+Authors: S Servan-Schreiber, O Ohrimenko, T Kraska, E Zgraggen
+Publication: arXiv preprint arXiv:1901.10875
+
+112. Slice Finder: Automated Data Slicing for Model Validation
+Citations:
+Authors: N Polyzotis, S Whang, TK Kraska, Y Chung
+Publication: 
+
+113. Chiller: Contention-centric Transaction Execution and Data Partitioning for Fast Networks
+Citations:
+Authors: E Zamanian, J Shun, C Binnig, T Kraska
+Publication: arXiv preprint arXiv:1811.12204
+
+114. VizRec: A framework for secure data exploration via visual representation
+Citations:
+Authors: L De Stefani, LF Spiegelberg, T Kraska, E Upfal
+Publication: arXiv preprint arXiv:1811.00602
+
+115. FastDAWG: Improving Data Migration in the BigDAWG Polystore System
+Citations:
+Authors: X Yu, V Gadepally, S Zdonik, T Kraska, M Stonebraker
+Publication: Heterogeneous Data Management, Polystores, and Analytics for Healthcare, 3-15
+
+116. Unknown Examples & Machine Learning Model Generalization
+Citations:
+Authors: Y Chung, PJ Haas, E Upfal, T Kraska
+Publication: arXiv preprint arXiv:1808.08294
+
+117. Towards Quantifying Uncertainty in Data Analysis & Exploration.
+Citations:
+Authors: Y Chung, S Servan-Schreiber, E Zgraggen, T Kraska
+Publication: IEEE Data Eng. Bull. 41 (3), 15-27
+
+118. Distributed Machine Learning.
+Citations:
+Authors: A Galakatos, A Crotty, T Kraska
+Publication: Encyclopedia of Database Systems (2nd ed.)
+
+119. Letter from the Special Issue Editor.
+Citations:
+Authors: T Kraska
+Publication: IEEE Data Eng. Bull. 40 (1), 2
+
+120. A Data Quality Metric (DQM)
+Citations:
+Authors: Y Chung, S Krishnan, T Kraska
+Publication: How to Estimate the Number of Undetected Errors in Data Sets. PVLDB 10 (12 …
+
+121. CrowdFilter: Semi-Automated Multi-Criteria Filtering in the Open World
+Citations:
+Authors: ML Mortensen, BC Wallace, T Kraska, I Assent
+Publication: 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+122. Transaction Processing over High-speed Networks
+Citations:
+Authors: E Zamanian, T Kraska, M Herlihy, S Zdonik
+Publication: 
+
+123. Smart Monitor System For Automatic Anomaly Detection@ Baidu
+Citations:
+Authors: X Qu
+Publication: 
+
+124. The Expected Optimal Labeling Order Problem for Crowdsourced Joins and Entity Resolution
+Citations:
+Authors: J Wang, G Li, T Kraska, MJ Franklin, J Feng
+Publication: arXiv preprint arXiv:1409.7472
+
+125. Methuselah: Intelligent Data Aging
+Citations:
+Authors: N Lanham, T Kraska, M Franklin
+Publication: 
+
+126. Workload Management for Main Memory Databases in Data Clouds
+Citations:
+Authors: J Schaffner, A Zeier, H Plattner, T Kraska, MJ Franklin, MI Jordan, ...
+Publication: Proceedings of the Fall 2010 Future SOC Lab Day, 43
+
+127. Extending XQuery with Window Functions
+Citations:
+Authors: T Kraska
+Publication: 
+
+128. Lifting the Curse of Multidimensional Data with Learned Existence Indexes
+Citations:
+Authors: S Macke, A Beutel, T Kraska, M Sathiamoorthy, DZ Cheng, H Chi
+Publication: 
+
+129. Learned Index Structures
+Citations:
+Authors: T Kraska, A Beutel, H Chi, J Dean, N Polyzotis
+Publication: 
+
+130. Screen Shot 2017-03-13 at 5.15. 39 PM
+Citations:
+Authors: S Madden, J Greenberg, C Binnig, T Kraska, D Weitzner, S Grabus
+Publication: 
+
+131. Data Engineering
+Citations:
+Authors: A Salama, C Binnig, T Kraska, A Scherp, T Ziegler, AT Stuedi, J Pfefferle, ...
+Publication: 
+
+132. Data Engineering
+Citations:
+Authors: A Parameswarany, AD Sarma, V Venkataramani, O Papaemmanouil, ...
+Publication: 
+
+133. Towards Sustainable Insights
+Citations:
+Authors: CBL De Stefani, T Kraska, E Upfal, EZZ Zhao
+Publication: 
+
+134. CrowdDB: Answering Queries using Crowdsourcing
+Citations:
+Authors: MJ Franklin, D Kossmann, T Kraska, S Ramesh, R Xin
+Publication: 
+
+135. Machine Learning and Databases: The Sound of Things to Come or a Cacophony of Hype?
+Citations:
+Authors: D Agrawal, M Balazinska, M Cafarella, M Jordan, T Kraska, ...
+Publication: 
+
+136. Data Engineering
+Citations:
+Authors: S Krishnan, J Wang, MJ Franklin, K Goldberg, T Kraska, T Milo, E Wu, ...
+Publication: 
+
+137. I-Store: Data Management for Fast Networks
+Citations:
+Authors: C Binnig, U Cetintemel, T Kraska, S Zdonik, E Zamanian, A Crotty
+Publication: 
+

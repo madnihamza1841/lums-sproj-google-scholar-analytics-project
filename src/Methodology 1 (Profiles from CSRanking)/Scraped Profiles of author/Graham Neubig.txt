@@ -1,0 +1,2423 @@
+https://scholar.google.com/citations?hl=en&user=wlosgkoAAAAJ
+Total Citations = 3777
+
+1. Dynet: The dynamic neural network toolkit
+Citations:208
+Authors: G Neubig, C Dyer, Y Goldberg, A Matthews, W Ammar, A Anastasopoulos, ...
+Publication: arXiv preprint arXiv:1701.03980
+
+2. Pointwise prediction for robust, adaptable Japanese morphological analysis
+Citations:205
+Authors: G Neubig, Y Nakata, S Mori
+Publication: ACL 2011, 529-533
+
+3. A Syntactic Neural Model for General-Purpose Code Generation
+Citations:129
+Authors: P Yin, G Neubig
+Publication: ACL 2017
+
+4. An unsupervised model for joint phrase alignment and extraction
+Citations:87
+Authors: G Neubig, T Watanabe, E Sumita, S Mori, T Kawahara
+Publication: ACL 2011, 632-641
+
+5. Learning to generate pseudo-code from source code using statistical machine translation (t)
+Citations:81
+Authors: Y Oda, H Fudaba, G Neubig, H Hata, S Sakti, T Toda, S Nakamura
+Publication: ASE 2015, 574-584
+
+6. Morphological inflection generation using character sequence to sequence learning
+Citations:74
+Authors: M Faruqui, Y Tsvetkov, G Neubig, C Dyer
+Publication: NAACL 2016
+
+7. Safety Information Mining—What can NLP do in a disaster—
+Citations:74
+Authors: G Neubig, M Hagiwara, K Murakami, Y Matsubayashi
+Publication: IJCNLP 2011
+
+8. Incorporating discrete translation lexicons into neural machine translation
+Citations:73
+Authors: P Arthur, G Neubig, S Nakamura
+Publication: EMNLP 2016
+
+9. Adaptation data selection using neural language models: Experiments in machine translation
+Citations:68
+Authors: K Duh, G Neubig, K Sudoh, H Tsukada
+Publication: ACL 2013 2, 678-683
+
+10. Neural machine translation and sequence-to-sequence models: A tutorial
+Citations:65
+Authors: G Neubig
+Publication: arXiv preprint arXiv:1703.01619
+
+11. A POSTFILTER TO MODIFY THE MODULATION SPECTRUM IN HMM-BASED SPEECH SYNTHESIS
+Citations:64
+Authors: S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: ICASSP 2014
+
+12. Travatar: A forest-to-string machine translation engine based on tree transducers
+Citations:62
+Authors: G Neubig
+Publication: ACL 2013, 91-96
+
+13. What Do Recurrent Neural Network Grammars Learn About Syntax?
+Citations:56
+Authors: A Kuncoro, M Ballesteros, L Kong, C Dyer, G Neubig, NA Smith
+Publication: EACL 2017
+
+14. Inducing a Discriminative Parser to Optimize Machine Translation Reordering
+Citations:54
+Authors: G Neubig, T Watanabe, S Mori
+Publication: EMNLP 2012
+
+15. Overview of the 3rd Workshop on Asian Translation
+Citations:52
+Authors: T Nakazawa, C Ding, M Hideya, I Goto, G Neubig, S Kurohashi
+Publication: WAT 2016, 1-46
+
+16. The Kyoto free translation task
+Citations:52
+Authors: G Neubig
+Publication: 
+
+17. Stronger Baselines for Trustable Results in Neural Machine Translation
+Citations:49
+Authors: M Denkowski, G Neubig
+Publication: WNMT 2017
+
+18. Postfilters to modify the modulation spectrum for statistical parametric speech synthesis
+Citations:49
+Authors: S Takamichi, T Toda, AW Black, G Neubig, S Sakti, S Nakamura
+Publication: TASLP 2016 24 (4), 755-767
+
+19. Controlling output length in neural encoder-decoders
+Citations:47
+Authors: Y Kikuchi, G Neubig, R Sasano, H Takamura, M Okumura
+Publication: EMNLP 2016
+
+20. Statistical singing voice conversion with direct waveform modification based on the spectrum differential
+Citations:43
+Authors: K Kobayashi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+21. Word-based partial annotation for efficient corpus construction
+Citations:43
+Authors: GNS Mori
+Publication: Proc. LREC, 2723-2727
+
+22. When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?
+Citations:35
+Authors: Y Qi, DS Sachan, M Felix, SJ Padmanabhan, G Neubig
+Publication: NAACL 2018
+
+23. On-the-fly Operation Batching in Dynamic Computation Graphs
+Citations:35
+Authors: G Neubig, Y Goldberg, C Dyer
+Publication: NIPS 2017
+
+24. On the Elements of an Accurate Tree-to-String Machine Translation System
+Citations:35
+Authors: G Neubig, K Duh
+Publication: Proceedings of the Association for Computational Linguistics
+
+25. Uyghur morpheme-based language models and ASR
+Citations:35
+Authors: M Ablimit, G Neubig, M Mimura, S Mori, T Kawahara, A Hamdulla
+Publication: IEEE 10th INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING PROCEEDINGS, 581-584
+
+26. Controllable Invariance through Adversarial Feature Learning
+Citations:34
+Authors: Q Xie, Z Dai, Y Du, E Hovy, G Neubig
+Publication: NIPS 2017
+
+27. Cross-lingual word embeddings for low-resource language modeling
+Citations:34
+Authors: O Adams, A Makarucha, G Neubig, S Bird, T Cohn
+Publication: Proceedings of the 15th Conference of the European Chapter of the …
+
+28. Bayesian learning of a language model from continuous speech
+Citations:34
+Authors: G Neubig, M Mimura, S Mori, T Kawahara
+Publication: IEICE TRANSACTIONS on Information and Systems 95 (2), 614-625
+
+29. Developing Non-Goal Dialog System based on Examples of Drama Television
+Citations:34
+Authors: Lasguido, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: International Workshop on Spoken Dialogue Systems
+
+30. Learning a language model from continuous speech
+Citations:33
+Authors: G Neubig, M Mimura, S Mori, T Kawahara
+Publication: Eleventh Annual Conference of the International Speech Communication Association
+
+31. How much is said in a tweet? A multilingual, information-theoretic perspective
+Citations:31
+Authors: G Neubig, K Duh
+Publication: 2013 AAAI Spring Symposium Series
+
+32. Training dependency parsers from partially annotated corpora
+Citations:31
+Authors: D Flannery, Y Miyao, G Neubig, S Mori
+Publication: The 5th International Joint Conference on Natural Language Processing
+
+33. Optimizing segmentation strategies for simultaneous speech translation
+Citations:29
+Authors: Y Oda, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 52nd Annual Meeting of the Association for Computational …
+
+34. Machine Translation without Words through Substring Alignment
+Citations:29
+Authors: G Neubig, T Watanabe, S Mori, T Kawahara
+Publication: Proceedings of the 50th Annual Meeting of the Association for Computational …
+
+35. Overview of the 4th Workshop on Asian Translation
+Citations:28
+Authors: T Nakazawa, S Higashiyama, C Ding, H Mino, I Goto, H Kazawa, Y Oda, ...
+Publication: Proceedings of the 4th Workshop on Asian Translation (WAT2017), 1-54
+
+36. Automated social skills trainer
+Citations:28
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, H Negoro, H Iwasaka, S Nakamura
+Publication: Proceedings of the 20th International Conference on Intelligent User …
+
+37. Utilizing human-to-human conversation examples for a multi domain chat-oriented dialog system
+Citations:27
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 97 (6), 1497-1505
+
+38. Neural reranking improves subjective quality of machine translation: NAIST at WAT2015
+Citations:26
+Authors: G Neubig, M Morishita, S Nakamura
+Publication: WAT 2015
+
+39. A hybrid approach to electrolaryngeal speech enhancement based on noise reduction and statistical excitation generation
+Citations:25
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: IEICE Transactions on Information and Systems 97 (6), 1429-1437
+
+40. Simple, lexicalized choice of translation timing for simultaneous speech translation.
+Citations:25
+Authors: T Fujita, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: INTERSPEECH, 3487-3491
+
+41. StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing
+Citations:22
+Authors: P Yin, C Zhou, J He, G Neubig
+Publication: ACL 2018
+
+42. Parameter generation methods with rich context models for high-quality and flexible text-to-speech synthesis
+Citations:22
+Authors: S Takamichi, T Toda, Y Shiga, S Sakti, G Neubig, S Nakamura
+Publication: IEEE Journal of Selected Topics in Signal Processing 8 (2), 239-250
+
+43. Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction
+Citations:21
+Authors: C Zhou, G Neubig
+Publication: ACL 2017
+
+44. Learning to translate in real-time with neural machine translation
+Citations:21
+Authors: J Gu, G Neubig, K Cho, VOK Li
+Publication: EACL 2017
+
+45. Ckylark: A more robust PCFG-LA parser
+Citations:20
+Authors: Y Oda, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 2015 Conference of the North American Chapter of the …
+
+46. XNMT: The eXtensible Neural Machine Translation Toolkit
+Citations:19
+Authors: G Neubig, M Sperber, X Wang, M Felix, A Matthews, S Padmanabhan, ...
+Publication: AMTA 2018
+
+47. Eve: A Gradient Based Optimization Method with Locally and Globally Adaptive Learning Rates
+Citations:19
+Authors: J Koushik, H Hayashi, G Neubig
+Publication: arXiv preprint arXiv:1611.01505
+
+48. A method for translation of paralinguistic information
+Citations:19
+Authors: T Kano, S Sakti, S Takamichi, G Neubig, T Toda, S Nakamura
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+49. Stack-Pointer Networks for Dependency Parsing
+Citations:18
+Authors: X Ma, Z Hu, J Liu, N Peng, G Neubig, E Hovy
+Publication: ACL 2018
+
+50. Optimization for statistical machine translation: A survey
+Citations:18
+Authors: G Neubig, T Watanabe
+Publication: Computational Linguistics 42 (1), 1-54
+
+51. Neural Lattice-to-Sequence Models for Uncertain Inputs
+Citations:17
+Authors: M Sperber, G Neubig, J Niehues, A Waibel
+Publication: EMNLP 2017
+
+52. Generalizing and Hybridizing Count-based and Neural Language Models
+Citations:17
+Authors: G Neubig, C Dyer
+Publication: EMNLP 2016
+
+53. Learning Character-level Compositionality with Visual Features
+Citations:16
+Authors: F Liu, H Lu, C Lo, G Neubig
+Publication: ACL 2017
+
+54. Improved statistical models for SMT-based speaking style transformation
+Citations:16
+Authors: G Neubig, Y Akita, S Mori, T Kawahara
+Publication: 2010 IEEE International Conference on Acoustics, Speech and Signal …
+
+55. Lagging Inference Networks and Posterior Collapse in Variational Autoencoders
+Citations:15
+Authors: J He, D Spokoyny, G Neubig, T Berg-Kirkpatrick
+Publication: ICLR 2019
+
+56. Neural Cross-Lingual Named Entity Recognition with Minimal Resources
+Citations:15
+Authors: J Xie, Z Yang, G Neubig, NA Smith, J Carbonell
+Publication: EMNLP 2018
+
+57. Stress Test Evaluation for Natural Language Inference
+Citations:15
+Authors: A Naik, A Ravichander, N Sadeh, C Rose, G Neubig
+Publication: COLING 2018
+
+58. Evaluating phonemic transcription of low-resource tonal languages for language documentation
+Citations:15
+Authors: O Adams, T Cohn, G Neubig, H Cruz, S Bird, A Michaud
+Publication: LREC 2018
+
+59. Learning Language Representations for Typology Prediction
+Citations:15
+Authors: C Malaviya, G Neubig, P Littell
+Publication: EMNLP 2017
+
+60. Gender-dependent spectrum differential models for perceived age control based on direct waveform modification in singing voice conversion
+Citations:15
+Authors: K Kobayashi, T Toda, T Nakano, M Goto, G Neubig, S Sakti, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+61. Reinforcement learning of cooperative persuasive dialogue policies using framing
+Citations:15
+Authors: T Hiraoka, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of COLING 2014, the 25th International Conference on …
+
+62. Linguistic and acoustic features for automatic identification of autism spectrum disorders in children’s narrative
+Citations:15
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Proceedings of the Workshop on Computational Linguistics and Clinical …
+
+63. MTNT: A Testbed for Machine Translation of Noisy Text
+Citations:14
+Authors: P Michel, G Neubig
+Publication: EMNLP 2018
+
+64. Extreme Adaptation for Personalized Neural Machine Translation
+Citations:14
+Authors: P Michel, G Neubig
+Publication: ACL 2018
+
+65. A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models
+Citations:14
+Authors: K Goyal, G Neubig, C Dyer, T Berg-Kirkpatrick
+Publication: AAAI 2018
+
+66. EEG signal enhancement using multi-channel Wiener filter with a spatial correlation prior
+Citations:14
+Authors: H Maki, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: 2015 IEEE International Conference on Acoustics, Speech and Signal …
+
+67. lamtram: A toolkit for language and translation modeling using neural networks
+Citations:14
+Authors: G Neubig
+Publication: Tech. rep., Carnegie Mellon University Pittsburgh, USA
+
+68. Preserving word-level emphasis in speech-to-speech translation using linear regression HSMMs
+Citations:14
+Authors: QT Do, S Takamichi, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+69. Non-verbal cognitive skills and autistic conditions: an analysis and training tool
+Citations:14
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, N Campbell, S Nakamura
+Publication: 2012 IEEE 3rd International Conference on Cognitive Infocommunications …
+
+70. Rapid Adaptation of Neural Machine Translation to New Languages
+Citations:13
+Authors: G Neubig, J Hu
+Publication: EMNLP 2018
+
+71. Handling Homographs in Neural Machine Translation
+Citations:13
+Authors: F Liu, H Lu, G Neubig
+Publication: NAACL 2018
+
+72. Dialogue state tracking using long short term memory neural networks
+Citations:13
+Authors: K Yoshino, T Hiraoka, G Neubig, S Nakamura
+Publication: Proceedings of Seventh International Workshop on Spoken Dialog Systems, 1-8
+
+73. Syntax-based simultaneous translation through prediction of unseen syntactic constituents
+Citations:13
+Authors: Y Oda, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 53rd Annual Meeting of the Association for Computational …
+
+74. Building a free, general-domain paraphrase database for Japanese
+Citations:13
+Authors: M Mizukami, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+75. Voice timbre control based on perceived age in singing voice conversion
+Citations:13
+Authors: K Kobayashi, T Toda, H Doi, T Nakano, M Goto, G Neubig, S Sakti, ...
+Publication: IEICE TRANSACTIONS on Information and Systems 97 (6), 1419-1428
+
+76. TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation
+Citations:12
+Authors: P Yin, G Neubig
+Publication: EMNLP 2018 Demo
+
+77. Contextual Parameter Generation for Universal Neural Machine Translation
+Citations:12
+Authors: EA Platanios, M Sachan, G Neubig, T Mitchell
+Publication: EMNLP 2018
+
+78. SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation
+Citations:12
+Authors: X Wang, H Pham, Z Dai, G Neubig
+Publication: EMNLP 2018
+
+79. Learning to Mine Aligned Code and Natural Language Pairs from Stack Overflow
+Citations:12
+Authors: P Yin, B Deng, E Chen, B Vasilescu, G Neubig
+Publication: MSR 2018
+
+80. Self-Attentional Acoustic Models
+Citations:12
+Authors: M Sperber, J Niehues, G Neubig, S Stüker, A Waibel
+Publication: InterSpeech 2018
+
+81. Emotion and its triggers in human spoken dialogue: Recognition and analysis
+Citations:12
+Authors: N Lubis, S Sakti, G Neubig, T Toda, A Purwarianti, S Nakamura
+Publication: Situated Dialog in Speech-Based Human-Computer Interaction, 103-110
+
+82. Statistical singing voice conversion based on direct waveform modification with global variance
+Citations:12
+Authors: K Kobayashi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+83. Forest-to-string SMT for Asian language translation: NAIST at WAT 2014
+Citations:12
+Authors: G Neubig
+Publication: Proceedings of the 1st Workshop on Asian Translation (WAT2014), 20-25
+
+84. Collection and analysis of a Japanese-English emphasized speech corpora
+Citations:12
+Authors: DQ Truong, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+85. Collection and analysis of a Japanese-English emphasized speech corpora
+Citations:12
+Authors: DQ Truong, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+86. Acquiring a dictionary of emotion-provoking events
+Citations:12
+Authors: HT Vu, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 14th Conference of the European Chapter of the …
+
+87. Generalizing continuous-space translation of paralinguistic information.
+Citations:12
+Authors: T Kano, S Takamichi, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: INTERSPEECH 445, 25-29
+
+88. 点予測による形態素解析
+Citations:12
+Authors: 森信介， 中田陽介， 河原達也
+Publication: 自然言語処理 18 (4), 367-381
+
+89. A WFST-based Log-linear Framework for Speaking-style Transformation
+Citations:11
+Authors: G Neubig, S Mori, T Kawahara
+Publication: Tenth Annual Conference of the International Speech Communication Association
+
+90. Collection of a Simultaneous Translation Corpus for Comparative Analysis.
+Citations:10
+Authors: H Shimizu, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: LREC, 670-673
+
+91. Dialogue management for leading the conversation in persuasive dialogue systems
+Citations:10
+Authors: T Hiraoka, Y Yamauchi, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 2013 IEEE Workshop on Automatic Speech Recognition and Understanding, 114-119
+
+92. A hybrid approach to electrolaryngeal speech enhancement based on spectral subtraction and statistical voice conversion.
+Citations:10
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: INTERSPEECH, 3067-3071
+
+93. A monotonic statistical machine translation approach to speaking style transformation
+Citations:10
+Authors: G Neubig, Y Akita, S Mori, T Kawahara
+Publication: Computer Speech & Language 26 (5), 349-370
+
+94. Searching translation memories for paraphrases
+Citations:10
+Authors: M Utiyama, G Neubig, T Onishi, E Sumita
+Publication: Machine Translation Summit 13, 325-331
+
+95. Linguistic unit discovery from multi-modal inputs in unwritten languages: Summary of the" Speaking Rosetta" JSALT 2017 Workshop
+Citations:9
+Authors: O Scharenborg, L Besacier, A Black, M Hasegawa-Johnson, F Metze, ...
+Publication: ICASSP 2018
+
+96. Active learning for example-based dialog systems
+Citations:9
+Authors: T Hiraoka, G Neubig, K Yoshino, T Toda, S Nakamura
+Publication: Dialogues with Social Robots, 67-78
+
+97. Learning a Translation Model from Word Lattices.
+Citations:9
+Authors: O Adams, G Neubig, T Cohn, S Bird
+Publication: INTERSPEECH, 2518-2522
+
+98. Learning a Translation Model from Word Lattices.
+Citations:9
+Authors: O Adams, G Neubig, T Cohn, S Bird
+Publication: INTERSPEECH, 2518-2522
+
+99. Learning a lexicon and translation model from phoneme lattices
+Citations:9
+Authors: O Adams, G Neubig, T Cohn, S Bird, QT Do, S Nakamura
+Publication: Proceedings of the 2016 Conference on Empirical Methods in Natural Language …
+
+100. Unsupervised Phoneme Segmentation of Previously Unseen Languages.
+Citations:9
+Authors: M Vetter, M Müller, F Hamlaoui, G Neubig, S Nakamura, S Stüker, ...
+Publication: INTERSPEECH, 3544-3548
+
+101. Analyzing the effect of entrainment on dialogue acts
+Citations:9
+Authors: M Mizukami, K Yoshino, G Neubig, D Traum, S Nakamura
+Publication: Proceedings of the 17th Annual Meeting of the Special Interest Group on …
+
+102. Combination of two-dimensional cochleogram and spectrogram features for deep learning-based ASR
+Citations:9
+Authors: A Tjandra, S Sakti, G Neubig, T Toda, M Adriani, S Nakamura
+Publication: 2015 IEEE International Conference on Acoustics, Speech and Signal …
+
+103. Simple, correct parallelization for blocked Gibbs sampling
+Citations:9
+Authors: G Neubig
+Publication: Nara Institute of Science and Technology, Tech. Rep
+
+104. Language Resource Addition: Dictionary or Corpus?
+Citations:9
+Authors: S Mori, G Neubig
+Publication: LREC, 1631-1636
+
+105. Constructing a speech translation system using simultaneous interpretation data
+Citations:9
+Authors: H Shimizu, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of International Workshop on Spoken Language Translation (IWSLT)
+
+106. Grapheme-to-phoneme conversion based on adaptive regularization of weight vectors.
+Citations:9
+Authors: K Kubo, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: INTERSPEECH, 1946-1950
+
+107. A pointwise approach to pronunciation estimation for a TTS front-end
+Citations:9
+Authors: S Mori, G Neubig
+Publication: Twelfth Annual Conference of the International Speech Communication Association
+
+108. Parameter Sharing Methods for Multilingual Self-Attentional Translation Models
+Citations:8
+Authors: DS Sachan, G Neubig
+Publication: WMT 2018
+
+109. Improving Neural Machine Translation through Phrase-based Forced Decoding
+Citations:8
+Authors: J Zhang, M Utiyama, E Sumita, G Neubig, S Nakamura
+Publication: IJCNLP 2017
+
+110. Charmanteau: Character embedding models for portmanteau creation
+Citations:8
+Authors: V Gangal, H Jhamtani, G Neubig, E Hovy, E Nyberg
+Publication: EMNLP 2017
+
+111. An Empirical Study of Mini-Batch Creation Strategies for Neural Machine Translation
+Citations:8
+Authors: M Morishita, Y Oda, G Neubig, K Yoshino, K Sudoh, S Nakamura
+Publication: WNMT 2017
+
+112. Softmax q-distribution estimation for structured prediction: A theoretical interpretation for raml
+Citations:8
+Authors: X Ma, P Yin, J Liu, G Neubig, E Hovy
+Publication: arXiv preprint arXiv:1705.07136
+
+113. Inducing bilingual lexicons from small quantities of sentence-aligned phonemic transcriptions
+Citations:8
+Authors: O Adams, G Neubig, T Cohn, S Bird
+Publication: 12th International Workshop on Spoken Language Translation (IWSLT)
+
+114. Improving pivot translation by remembering the pivot
+Citations:8
+Authors: A Miura, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 53rd Annual Meeting of the Association for Computational …
+
+115. Improving the robustness of example-based dialog retrieval using recursive neural network paraphrase identification
+Citations:8
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 2014 IEEE Spoken Language Technology Workshop (SLT), 306-311
+
+116. Efficient speech transcription through respeaking.
+Citations:8
+Authors: M Sperber, G Neubig, C Fügen, S Nakamura, A Waibel
+Publication: Interspeech, 1087-1091
+
+117. Combination of example-based and smt-based approaches in a chat-oriented dialog system
+Citations:8
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Proc. of ICE-ID
+
+118. Unsupervised learning of lexical information for language processing systems
+Citations:8
+Authors: G Neubig
+Publication: 京都大学 (Kyoto University)
+
+119. The 2012 KIT and KIT-NAIST english ASR systems for the IWSLT evaluation
+Citations:8
+Authors: C Saam, C Mohr, K Kilgour, M Heck, M Sperber, K Kubo, S Stüker, S Sakti, ...
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+120. Retrieval-Based Neural Code Generation
+Citations:7
+Authors: SA Hayati, R Olivier, P Avvaru, P Yin, A Tomasic, G Neubig
+Publication: EMNLP 2018
+
+121. Convolutional neural networks for medical diagnosis from admission notes
+Citations:7
+Authors: C Li, D Konomis, G Neubig, P Xie, C Cheng, E Xing
+Publication: arXiv preprint arXiv:1712.02768
+
+122. Lexicons and minimum risk training for neural machine translation: Naist-cmu at wat2016
+Citations:7
+Authors: G Neubig
+Publication: WAT 2016
+
+123. Teaching social communication skills through human-agent interaction
+Citations:7
+Authors: H Tanaka, S Sakriani, G Neubig, T Toda, H Negoro, H Iwasaka, ...
+Publication: ACM Transactions on Interactive Intelligent Systems (TiiS) 6 (2), 18
+
+124. Selecting syntactic, non-redundant segments in active learning for machine translation
+Citations:7
+Authors: A Miura, G Neubig, M Paul, S Nakamura
+Publication: Proceedings of the 2016 Conference of the North American Chapter of the …
+
+125. Nocoa+: Multimodal computer-based training for social and communication skills
+Citations:7
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: IEICE transactions on Information and Systems 98 (8), 1536-1544
+
+126. Speed or accuracy? a study in evaluation of simultaneous speech translation
+Citations:7
+Authors: T Mieno, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+127. Multi-target machine translation with multi-synchronous context-free grammars
+Citations:7
+Authors: G Neubig, P Arthur, K Duh
+Publication: Proceedings of the 2015 Conference of the North American Chapter of the …
+
+128. An analysis towards dialogue-based deception detection
+Citations:7
+Authors: Y Tsunomori, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Natural Language Dialog Systems and Intelligent Assistants, 177-187
+
+129. An evaluation of excitation feature prediction in a hybrid approach to electrolaryngeal speech enhancement
+Citations:7
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: 2014 IEEE International Conference on Acoustics, Speech and Signal …
+
+130. Regression approaches to perceptual age control in singing voice conversion
+Citations:7
+Authors: K Kobayashi, T Toda, T Nakano, M Goto, G Neubig, S Sakti, S Nakamura
+Publication: 2014 IEEE International Conference on Acoustics, Speech and Signal …
+
+131. The NAIST-NTT TED Talk Treebank
+Citations:7
+Authors: G Neubig, K Sudoh, Y Oda, K Duh, H Tsukada, M Nagata
+Publication: International Workshop on Spoken Language Translation
+
+132. Direct F0 Control of an Electrolarynx Based on Statistical Excitation Feature Prediction and its Evaluation Through Simulation
+Citations:7
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+133. A digital signal processor implementation of silent/electrolaryngeal speech enhancement based on real-time statistical voice conversion.
+Citations:7
+Authors: T Moriguchi, T Toda, M Sano, H Sato, G Neubig, S Sakti, S Nakamura
+Publication: INTERSPEECH, 3072-3076
+
+134. The kit-naist (contrastive) english asr system for iwslt 2012
+Citations:7
+Authors: M Heck, K Kubo, M Sperber, S Sakti, S Stüker, C Saam, K Kilgour, C Mohr, ...
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+135. compare-mt: A Tool for Holistic Comparison of Language Generation Systems
+Citations:6
+Authors: G Neubig, ZY Dou, J Hu, P Michel, D Pruthi, X Wang
+Publication: NAACL 2019 Demo
+
+136. A Tree-based Decoder for Neural Machine Translation
+Citations:6
+Authors: X Wang, H Pham, P Yin, G Neubig
+Publication: EMNLP 2018
+
+137. Neural Factor Graph Models for Cross-lingual Morphological Tagging
+Citations:6
+Authors: C Malaviya, MR Gormley, G Neubig
+Publication: ACL 2018
+
+138. Phonemic transcription of low-resource tonal languages
+Citations:6
+Authors: O Adams, T Cohn, G Neubig, A Michaud
+Publication: ALTA 2017, 53-60
+
+139. Morphological inflection generation with multi-space variational encoder-decoders
+Citations:6
+Authors: C Zhou, G Neubig
+Publication: Proceedings of the CoNLL SIGMORPHON 2017 Shared Task: Universal …
+
+140. Neural network approaches to dialog response retrieval and generation
+Citations:6
+Authors: L Nio, S Sakti, G Neubig, K Yoshino, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 99 (10), 2508-2517
+
+141. Construction and analysis of a persuasive dialogue corpus
+Citations:6
+Authors: T Hiraoka, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Situated Dialog in Speech-Based Human-Computer Interaction, 125-138
+
+142. Pseudogen: A tool to automatically generate pseudo-code from source code
+Citations:6
+Authors: H Fudaba, Y Oda, K Akabe, G Neubig, H Hata, S Sakti, T Toda, ...
+Publication: 2015 30th IEEE/ACM International Conference on Automated Software …
+
+143. Reordering words for machine translation
+Citations:6
+Authors: D Talbot, G Neubig, H Ichikawa
+Publication: US Patent App. 13/350,694
+
+144. Linguistic individuality transformation for spoken language
+Citations:6
+Authors: M Mizukami, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Natural Language Dialog Systems and Intelligent Assistants, 129-143
+
+145. Segmentation for Efficient Supervised Language Annotation with an Explicit Cost-Utility Tradeoff
+Citations:6
+Authors: M Sperber, M Simantzik, G Neubig, S Nakamura, A Waibel
+Publication: Transactions of the Association for Computational Linguistics 2, 169-180
+
+146. An investigation of acoustic features for singing voice conversion based on perceptual age.
+Citations:6
+Authors: K Kobayashi, H Doi, T Toda, T Nakano, M Goto, G Neubig, S Sakti, ...
+Publication: INTERSPEECH, 1057-1061
+
+147. Substring-based machine translation
+Citations:6
+Authors: G Neubig, T Watanabe, S Mori, T Kawahara
+Publication: Machine translation 27 (2), 139-166
+
+148. Semi-automated update of automatic transcription system for the Japanese national congress
+Citations:6
+Authors: Y Akita, M Mimura, G Neubig, T Kawahara
+Publication: Eleventh Annual Conference of the International Speech Communication Association
+
+149. Are Sixteen Heads Really Better than One?
+Citations:5
+Authors: P Michel, O Levy, G Neubig
+Publication: NeurIPS 2019
+
+150. Learning to Represent Edits
+Citations:5
+Authors: P Yin, G Neubig, M Allamanis, M Brockschmidt, AL Gaunt
+Publication: ICLR 2019
+
+151. Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations
+Citations:5
+Authors: A Chaudhary, C Zhou, L Levin, G Neubig, DR Mortensen, JG Carbonell
+Publication: EMNLP 2018
+
+152. Guiding Neural Machine Translation with Retrieved Translation Pieces
+Citations:5
+Authors: J Zhang, M Utiyama, E Sumita, G Neubig, S Nakamura
+Publication: NAACL 2018
+
+153. Neural Lattice Language Models
+Citations:5
+Authors: J Buckman, G Neubig
+Publication: TACL
+
+154. Adaptive spelling error correction models for learner english
+Citations:5
+Authors: R Nagata, H Takamura, G Neubig
+Publication: Procedia Computer Science 112, 474-483
+
+155. Preserving word-level emphasis in speech-to-speech translation
+Citations:5
+Authors: QT Do, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing 25 (3), 544-556
+
+156. Learning local word reorderings for hierarchical phrase-based statistical machine translation
+Citations:5
+Authors: J Zhang, M Utiyama, E Sumita, H Zhao, G Neubig, S Nakamura
+Publication: Machine Translation 30 (1-2), 1-18
+
+157. A Latent Variable Model for Joint Pause Prediction and Dependency Parsing
+Citations:5
+Authors: TT Nguyen, G Neubig, H Shindo, S Sakti, T Toda, S Nakamura
+Publication: 
+
+158. Non-audible murmur enhancement based on statistical conversion using air-and body-conductive microphones in noisy environments
+Citations:5
+Authors: Y Tajiri, K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+159. Conversation dialog corpora from television and movie scripts
+Citations:5
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+160. Towards High-Reliability Speech Translation in the Medical Domain
+Citations:5
+Authors: G Neubig, S Sakti, T Toda, S Nakamura, Y Matsumoto, R Isotani, Y Ikeda
+Publication: Sixth International Joint Conference on Natural Language Processing, 22
+
+161. 点予測による自動単語分割
+Citations:5
+Authors: 森信介， G Neubig， 坪井祐太
+Publication: 情報処理学会論文誌 52 (10), 2944-2952
+
+162. Improving Robustness of Machine Translation with Synthetic Noise
+Citations:4
+Authors: S Singh, C Stewart, G Neubig
+Publication: NAACL 2019
+
+163. Multilingual Neural Machine Translation With Soft Decoupled Encoding
+Citations:4
+Authors: X Wang, H Pham, P Arthur, G Neubig
+Publication: ICLR 2019
+
+164. Unsupervised Learning of Syntactic Structure with Invertible Neural Projections
+Citations:4
+Authors: J He, G Neubig, T Berg-Kirkpatrick
+Publication: EMNLP 2018
+
+165. Learning to generate move-by-move commentary for chess games from large-scale social forum data
+Citations:4
+Authors: H Jhamtani, V Gangal, E Hovy, G Neubig, T Berg-Kirkpatrick
+Publication: Proceedings of the 56th Annual Meeting of the Association for Computational …
+
+166. Findings of the Second Workshop on Neural Machine Translation and Generation
+Citations:4
+Authors: A Birch, A Finch, MT Luong, G Neubig, Y Oda
+Publication: WNMT 2018
+
+167. Attentive Interaction Model: Modeling Changes in View in Argumentation
+Citations:4
+Authors: Y Jo, S Poddar, B Jeon, Q Shen, CP Rose, G Neubig
+Publication: NAACL 2018
+
+168. How would you say it? eliciting lexically diverse data for supervised semantic parsing
+Citations:4
+Authors: A Ravichander, T Manzini, M Grabmair, G Neubig, J Francis, E Nyberg
+Publication: The 18th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL …
+
+169. Neural Machine Translation via Binary Code Prediction
+Citations:4
+Authors: Y Oda, P Arthur, G Neubig, K Yoshino, S Nakamura
+Publication: ACL 2017
+
+170. Reputation information extraction from twitter using a word semantic vector dictionary
+Citations:4
+Authors: I Keshi, Y Suzuki, K Yoshino, G Neubig, K Ohara, T Mukai, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems (Japanese Edition), 530-543
+
+171. Learning cooperative persuasive dialogue policies using framing
+Citations:4
+Authors: T Hiraoka, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Speech Communication 84, 83-96
+
+172. Personalized unknown word detection in non-native language reading using eye gaze
+Citations:4
+Authors: R Hiraoka, H Tanaka, S Sakti, G Neubig, S Nakamura
+Publication: Proceedings of the 18th ACM International Conference on Multimodal …
+
+173. Optimizing computer-assisted transcription quality with iterative user interfaces
+Citations:4
+Authors: M Sperber, G Neubig, S Nakamura, A Waibel
+Publication: Proceedings of the Tenth International Conference on Language Resources and …
+
+174. A Hybrid System for Continuous Word-Level Emphasis Modeling Based on HMM State Clustering and Adaptive Training.
+Citations:4
+Authors: QT Do, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Interspeech, 3196-3200
+
+175. Unsupervised Joint Estimation of Grapheme-to-Phoneme Conversion Systems and Acoustic Model Adaptation for Non-Native Speech Recognition.
+Citations:4
+Authors: S Tsujioka, S Sakti, K Yoshino, G Neubig, S Nakamura
+Publication: Interspeech 1, 2016-919
+
+176. The NAIST ASR system for the 2015 Multi-Genre Broadcast Challenge: On combination of deep learning systems using a rank-score function
+Citations:4
+Authors: QT Do, M Heck, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU …
+
+177. Incremental sentence compression using LSTM recurrent networks
+Citations:4
+Authors: S Sakti, F Ilham, G Neubig, T Toda, A Purwarianti, S Nakamura
+Publication: 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU …
+
+178. A study of social-affective communication: Automatic prediction of emotion triggers and responses in television talk shows
+Citations:4
+Authors: N Lubis, S Sakti, G Neubig, K Yoshino, T Toda, S Nakamura
+Publication: 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU …
+
+179. Semantic parsing of ambiguous input through paraphrasing and verification
+Citations:4
+Authors: P Arthur, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Transactions of the Association for Computational Linguistics 3, 571-584
+
+180. A binarized neural network joint model for machine translation
+Citations:4
+Authors: J Zhang, M Utiyama, E Sumita, G Neubig, S Nakamura
+Publication: Proceedings of the 2015 Conference on Empirical Methods in Natural Language …
+
+181. Project Next における機械翻訳の誤り分析
+Citations:4
+Authors: 赤部晃一， N Graham， 工藤拓， R John， 中澤敏明， 星野翔
+Publication: 言語処理学会第 19 回年次大会ワークショップ 「自然言語処理におけるエラー分析」 発表 …
+
+182. Prosody-controllable HMM-based speech synthesis using speech input
+Citations:4
+Authors: Y Nishigaki, S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Proc. MLSLP
+
+183. Articulatory controllable speech modification based on Gaussian mixture models with direct waveform modification using spectrum differential
+Citations:4
+Authors: PL Tobing, K Kobayashi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+184. On-the-fly user modeling for cost-sensitive correction of speech transcripts
+Citations:4
+Authors: M Sperber, G Neubig, S Nakamura, A Waibel
+Publication: 2014 IEEE Spoken Language Technology Workshop (SLT), 460-465
+
+185. 特徴的話者を対象とした言語的個人性変換
+Citations:4
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (20), 1-7
+
+186. Structured soft margin confidence weighted learning for grapheme-to-phoneme conversion
+Citations:4
+Authors: K Kubo, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+187. Articulatory controllable speech modification based on statistical feature mapping with Gaussian mixture models
+Citations:4
+Authors: PL Tobing, T Toda, G Neubig, S Sakti, S Nakamura, A Purwarianti
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+188. Discriminative Language Models as a Tool for Machine Translation Error Analysis
+Citations:4
+Authors: K Akabe, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: The 25th International Conference on Computational Linguistics (COLING)
+
+189. Modality and contextual differences in computer based non-verbal communication training
+Citations:4
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 2013 IEEE 4th International Conference on Cognitive Infocommunications …
+
+190. The NAIST english speech recognition system for IWSLT 2013
+Citations:4
+Authors: S Sakti, K Kubo, G Neubig, T Toda, S Nakamura
+Publication: Proc. IWSLT, Heidelberg, Germany
+
+191. NAIST at the CLEF 2013 QA4MRE Pilot Task.
+Citations:4
+Authors: P Arthur, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: CLEF (Working Notes)
+
+192. The NICT translation system for IWSLT 2011
+Citations:4
+Authors: A Finch, CL Goh, G Neubig, E Sumita
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2011
+
+193. 点予測による形態素解析
+Citations:4
+Authors: 中田陽介， G Neubig， 森信介， 河原達也
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告, 1-7
+
+194. 確率的タグ付与コーパスからの言語モデル構築
+Citations:4
+Authors: 森信介， 笹田鉄郎， G Neubig
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 81, 1
+
+195. 点推定と能動学習を用いた自動単語分割器の分野適応
+Citations:4
+Authors: G Neubig
+Publication: 言語処理学会年次大会, 2010
+
+196. 仮名漢字変換ログの活用による言語処理精度の自動向上
+Citations:4
+Authors: 森信介， G Neubig
+Publication: 言語処理学会第 16 回年次大会
+
+197. Findings of the First Shared Task on Machine Translation Robustness
+Citations:3
+Authors: X Li, P Michel, A Anastasopoulos, Y Belinkov, N Durrani, O Firat, P Koehn, ...
+Publication: WMT 2019
+
+198. Competence-based Curriculum Learning for Neural Machine Translation
+Citations:3
+Authors: EA Platanios, O Stretcu, G Neubig, B Poczos, TM Mitchell
+Publication: NAACL 2019
+
+199. Learning to generate corrective patches using neural machine translation
+Citations:3
+Authors: H Hata, E Shihab, G Neubig
+Publication: arXiv preprint arXiv:1812.07170
+
+200. An end-to-end model for cross-lingual transformation of paralinguistic information
+Citations:3
+Authors: T Kano, S Takamichi, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Machine Translation 32 (4), 353-368
+
+201. Cavs: An Efficient Runtime System for Dynamic Neural Networks
+Citations:3
+Authors: S Xu, H Zhang, G Neubig, W Dai, DZ Kim JKyu, Q Ho, G Yang, EP Xing
+Publication: USENIX ATC 2018
+
+202. Integrating automatic transcription into the language documentation workflow: Experiments with Na data and the Persephone toolkit
+Citations:3
+Authors: A Michaud, O Adams, TA Cohn, G Neubig, S Guillaume
+Publication: University of Hawaii Press
+
+203. Using morphological knowledge in openvocabulary neural language models
+Citations:3
+Authors: A Matthews, G Neubig, C Dyer
+Publication: NAACL 2018
+
+204. Tree as a pivot: Syntactic matching methods in pivot translation
+Citations:3
+Authors: A Miura, G Neubig, K Sudoh, S Nakamura
+Publication: Proceedings of the Second Conference on Machine Translation, 90-98
+
+205. NICT-NAIST System for WMT17 Multimodal Translation Task
+Citations:3
+Authors: J Zhang, M Utiyama, E Sumita, G Neubig, S Nakamura
+Publication: Proceedings of the Second Conference on Machine Translation, 477-482
+
+206. Kyoto language modeling toolkit
+Citations:3
+Authors: G Neubig
+Publication: 
+
+207. Deep bottleneck features and sound-dependent i-vectors for simultaneous recognition of speech and environmental sounds
+Citations:3
+Authors: S Sakti, S Kawanishi, G Neubig, K Yoshino, S Nakamura
+Publication: 2016 IEEE Spoken Language Technology Workshop (SLT), 35-42
+
+208. Transferring Emphasis in Speech Translation Using Hard-Attentional Neural Network Models.
+Citations:3
+Authors: QT Do, S Sakti, G Neubig, S Nakamura
+Publication: INTERSPEECH, 2533-2537
+
+209. Automated social skills training with audiovisual information
+Citations:3
+Authors: H Tanaka, S Sakti, G Neubig, H Negoro, H Iwasaka, S Nakamura
+Publication: 2016 38th Annual International Conference of the IEEE Engineering in …
+
+210. NLP programming tutorial 5—part of speech tagging with hidden Markov models
+Citations:3
+Authors: G Neubig
+Publication: 
+
+211. Survey of methods to generate natural language from source code
+Citations:3
+Authors: G Neubig
+Publication: 
+
+212. Parser self-training for syntax-based machine translation
+Citations:3
+Authors: M Morishita, K Akabe, Y Hatakoshi, G Neubig, K Yoshino, S Nakamura
+Publication: Proc. IWSLT, 232-239
+
+213. Construction and analysis of social-affective interaction corpus in english and indonesian
+Citations:3
+Authors: N Lubis, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 2015 International Conference Oriental COCOSDA held jointly with 2015 …
+
+214. Improving translation of emphasis with pause prediction in speech-to-speech translation systems
+Citations:3
+Authors: QT Do, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Proceedings of IWSLT
+
+215. An inter-speaker evaluation through simulation of electrolarynx control based on statistical F0 prediction
+Citations:3
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+216. The use of semantic and acoustic features for open-domain TED talk summarization
+Citations:3
+Authors: F Koto, S Sakti, G Neubig, T Toda, M Adriani, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+217. Rule-based syntactic preprocessing for syntax-based machine translation
+Citations:3
+Authors: Y Hatakoshi, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in …
+
+218. Towards Multilingual Conversations in the Medical Domain: Development of Multilingual Medical Data and A Network-based ASR System.
+Citations:3
+Authors: S Sakti, K Kubo, S Matsumiya, G Neubig, T Toda, S Nakamura, F Adachi, ...
+Publication: LREC, 2639-2643
+
+219. 対話システムにおける用語間の関係性を用いた話題誘導応答文生成
+Citations:3
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 人工知能学会論文誌 29 (1), 80-89
+
+220. NARROW ADAPTIVE REGULARIZATION OF WEIGHTS FOR GRAPHEME-TO-PHONEME CONVERSION
+Citations:3
+Authors: K Kubo, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Proc. ICASSP
+
+221. 構文情報が機械翻訳に及ぼす影響の分析
+Citations:3
+Authors: 丹生伊左夫， 小林和也， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2013 (8), 1-7
+
+222. An empirical comparison of joint optimization techniques for speech translation.
+Citations:3
+Authors: M Ohgushi, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: INTERSPEECH, 2619-2623
+
+223. Efficient speech transcription through respeaking
+Citations:3
+Authors: M Sperber
+Publication: Master's thesis, Karlsruhe Institute of Technology, Karlsruhe
+
+224. Joint Phrase Alignment and Extraction for Statistical Machine Translation
+Citations:3
+Authors: G Neubig, T Watanabe, E Sumita, S Mori, T Kawahara
+Publication: Journal of information processing 20 (2), 512-523
+
+225. 重み付き有限状態トランスデューサーを用いた文学誤り訂正
+Citations:3
+Authors: G Neubig
+Publication: 言語処理学会第 15 回年次大会講演論文集, 2009, 332-335
+
+226. On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models
+Citations:2
+Authors: P Michel, X Li, G Neubig, JM Pino
+Publication: NAACL 2019
+
+227. Transcribing against time
+Citations:2
+Authors: M Sperber, G Neubig, J Niehues, S Nakamura, A Waibel
+Publication: Speech Communication 93, 20-30
+
+228. Semi-Supervised Learning of a Pronunciation Dictionary from Disjoint Phonemic Transcripts and Text.
+Citations:2
+Authors: T Shinozaki, S Watanabe, D Mochihashi, G Neubig
+Publication: INTERSPEECH, 2546-2550
+
+229. Non-native text-to-speech preserving speaker individuality based on partial correction of prosodic and phonetic characteristics
+Citations:2
+Authors: Y Oshima, S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 99 (12), 3132-3139
+
+230. A statistical sample-based approach to GMM-based voice conversion using tied-covariance acoustic models
+Citations:2
+Authors: S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 99 (10), 2490-2498
+
+231. Enhancing event-related potentials based on maximum a posteriori estimation with a spatial correlation prior
+Citations:2
+Authors: H Maki, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 99 (6), 1437-1446
+
+232. 快適度推定に基づく用例ベース対話システム
+Citations:2
+Authors: 水上雅博， 木付英士， 野村敏男， 吉野幸一郎， 戸田智基， 中村哲
+Publication: 人工知能学会論文誌, DSF-517
+
+233. An enhanced electrolarynx with automatic fundamental frequency control based on statistical prediction
+Citations:2
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Proceedings of the 17th International ACM SIGACCESS Conference on Computers …
+
+234. Non-native speech synthesis preserving speaker individuality based on partial correction of prosodic and phonetic characteristics
+Citations:2
+Authors: Y Oshima, S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Sixteenth Annual Conference of the International Speech Communication …
+
+235. An evaluation of target speech for a nonaudible murmur enhancement system in noisy environments
+Citations:2
+Authors: S Tsuruta, K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+236. An event-related brain potential study on the impact of speech recognition errors
+Citations:2
+Authors: S Sakti, Y Odagaki, T Sasakura, G Neubig, T Toda, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+237. ソースコード構文木からの統計的自動コメント生成
+Citations:2
+Authors: 小田悠介， 札場寛之， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (12), 1-9
+
+238. Memorable spoken quote corpora of TED public speaking
+Citations:2
+Authors: F Koto, S Sakti, G Neubig, T Toda, M Adriani, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+239. 機械翻訳システムの詳細な誤り分析のための誤り順位付け手法
+Citations:2
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (11), 1-6
+
+240. Creation of a Japanese paraphrase database and its application to linguistic individuality transformation
+Citations:2
+Authors: M Mizukami, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Proceedings of the 20th Annual Meeting of the Association for Natural …
+
+241. SESLA Transcriber: A Speech Transcription Tool That Adapts To Your Skill And Time Budget
+Citations:2
+Authors: M Sperber, G Neubig, S Nakamura, A Waibel
+Publication: Spoken Language Technology Workshop (SLT)
+
+242. NTT-NAIST SMT Systems for IWSLT 2013
+Citations:2
+Authors: K Sudoh, G Neubig, K Duh, H Tsukada
+Publication: Proceedings of the 10th International Workshop on Spoken Language …
+
+243. Inter-Sentence Features and Thresholded Minimum Error Rate Training: NAIST at CLEF 2013 QA4MRE.
+Citations:2
+Authors: P Arthur, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: CLEF (Working Notes)
+
+244. Improvements to HMM-based speech synthesis based on parameter generation with rich context models.
+Citations:2
+Authors: S Takamichi, T Toda, Y Shiga, S Sakti, G Neubig, S Nakamura
+Publication: INTERSPEECH, 364-368
+
+245. Investigation of intra-speaker spectral parameter variation and its prediction towards improvement of spectral conversion metric
+Citations:2
+Authors: T Inukai, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Eighth ISCA Workshop on Speech Synthesis
+
+246. 確率的タグ付与コーパスからの言語モデル構築
+Citations:2
+Authors: 森信介， 笹田鉄郎
+Publication: 自然言語処理 18 (2), 71-87
+
+247. 国会音声認識システムの音響・言語モデルの半自動更新
+Citations:2
+Authors: 秋田祐哉， 三村正人， G Neubig， 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理, 1-5
+
+248. Automatically improving language processing accuracy by using kana-kanji conversion logs
+Citations:2
+Authors: S Mori, G Neubig
+Publication: the Proc. of the 16th Annual Meeting of the Association for NLP
+
+249. コロナ社
+Citations:2
+Authors: 日本音響学会， 建築音響
+Publication: 
+
+250. NLP Programming Tutorial 8-Phrase Structure Parsing
+Citations:2
+Authors: G Neubig
+Publication: 
+
+251. NLP Programming Tutorial 2–Bigram Language Models
+Citations:2
+Authors: G Neubig
+Publication: Presentation Module of Nara Institute of Science and Technology (NAIST)
+
+252. Improving Robustness of Neural Machine Translation with Multi-task Learning
+Citations:1
+Authors: S Zhou, X Zeng, Y Zhou, A Anastasopoulos, G Neubig
+Publication: Proceedings of the Fourth Conference on Machine Translation (Volume 2 …
+
+253. Choosing Transfer Languages for Cross-Lingual Learning
+Citations:1
+Authors: YH Lin, CY Chen, J Lee, Z Li, Y Zhang, M Xia, S Rijhwani, J He, Z Zhang, ...
+Publication: ACL 2019
+
+254. Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation
+Citations:1
+Authors: M Sperber, G Neubig, J Niehues, A Waibel
+Publication: TACL
+
+255. The ARIEL-CMU Systems for LoReHLT18
+Citations:1
+Authors: A Chaudhary, S Dalmia, J Hu, X Li, A Matthews, AO Muis, N Otani, ...
+Publication: LoReHLT 2018
+
+256. Zero-shot Neural Transfer for Cross-lingual Entity Linking
+Citations:1
+Authors: S Rijhwani, J Xie, G Neubig, J Carbonell
+Publication: AAAI 2019
+
+257. Automatic Estimation of Simultaneous Interpreter Performance
+Citations:1
+Authors: C Stewart, N Vogler, J Hu, J Boyd-Graber, G Neubig
+Publication: ACL 2018
+
+258. 中間言語情報を記憶するピボット翻訳手法
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 自然言語処理 23 (5), 499-528
+
+259. 統語ベース翻訳のための構文解析器の自己学習
+Citations:1
+Authors: 森下睦， 赤部晃一， 波多腰優斗， 吉野幸一郎， 中村哲
+Publication: 自然言語処理 23 (4), 353-376
+
+260. Removing noise from event-related potentials using a probabilistic generative model with grouped covariance matrices
+Citations:1
+Authors: H Maki, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: 2016 38th Annual International Conference of the IEEE Engineering in …
+
+261. A comparative study of dictionaries and corpora as methods for language resource addition
+Citations:1
+Authors: S Mori, G Neubig
+Publication: Language Resources and Evaluation 50 (2), 245-261
+
+262. Example Based Dialogue System Based on Satisfaction Prediction
+Citations:1
+Authors: M Mizukami, L Nio, H Kizuki, T Nomura, G Neubig, K Yoshino, S Sakti, ...
+Publication: 
+
+263. Adaptive selection from multiple response candidates in example-based dialogue
+Citations:1
+Authors: M Mizukami, H Kizuki, T Nomura, G Neubig, K Yoshino, S Sakti, T Toda, ...
+Publication: 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU …
+
+264. 対話状態推定のための外部知識ベースを利用した意味的素性の提案
+Citations:1
+Authors: 石川葉子， 平岡拓也， 水上雅博， 吉野幸一郎， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (13), 1-4
+
+265. 言語横断質問応答に適した機械翻訳評価尺度の検討
+Citations:1
+Authors: 杉山享志朗， 水上雅博， 吉野幸一郎， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (12), 1-7
+
+266. An investigation of machine translation evaluation metrics in cross-lingual question answering
+Citations:1
+Authors: K Sugiyama, M Mizukami, G Neubig, K Yoshino, S Sakti, T Toda, ...
+Publication: Proceedings of the Tenth Workshop on Statistical Machine Translation, 442-449
+
+267. 歌声合成システムの音源データ検索のための声質評価値推定法
+Citations:1
+Authors: 山根壮一， 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2015 (6), 1-6
+
+268. 中間言語モデルを用いたピボット翻訳の精度向上
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (2), 1-5
+
+269. Pointwise Prediction and Sequence-Based Reranking for Adaptable Part-of-Speech Tagging
+Citations:1
+Authors: S Mori, Y Nakata, G Neubig, T Sasada
+Publication: Conference of the Pacific Association for Computational Linguistics, 3-17
+
+270. 用例ベース対話システムにおける用例の評価値推定
+Citations:1
+Authors: 水上雅博， 木付英士， 野村敏男， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 2L4OS07a5-2L4OS07a5
+
+271. The NAIST english speech recognition system for IWSLT 2015
+Citations:1
+Authors: M Heck, QT Do, S Sakti, G Neubig, S Nakamura
+Publication: Proceedings of IWSLT
+
+272. 言語理解・生成部を備えた協調的説得対話システムの構築と評価
+Citations:1
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 2L4OS07a3-2L4OS07a3
+
+273. ブレストバトル: 時間制約と競争形式の導入による参加者の能動的態度の促進
+Citations:1
+Authors: 平岡敏洋， 長谷部雄一， 川上浩司
+Publication: 人工知能学会全国大会論文集 29, 1-4
+
+274. Recognition and Analysis of Emotion in Indonesian Conversational Speech
+Citations:1
+Authors: N Lubis, S Sakti, G Neubig, T Toda, D Lestari, A Purwarianti, S Nakamura
+Publication: 
+
+275. Evaluation of a fully automatic cooperative persuasive dialogue system
+Citations:1
+Authors: T Hiraoka, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Natural Language Dialog Systems and Intelligent Assistants, 153-167
+
+276. A study on natural expressive speech: Automatic memorable spoken quote detection
+Citations:1
+Authors: F Koto, S Sakti, G Neubig, T Toda, M Adriani, S Nakamura
+Publication: Natural Language Dialog Systems and Intelligent Assistants, 145-152
+
+277. パラフレーズを考慮した機械翻訳の誤り箇所選択
+Citations:1
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (19), 1-8
+
+278. 階層的フレーズベース翻訳におけるピボット翻訳手法の応用
+Citations:1
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (20), 1-7
+
+279. Recursive neural network paraphrase identification for example-based dialog retrieval
+Citations:1
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+280. 言語的個人性変換における言語モデルの適応と分析
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 07-12
+
+281. 言語的個人性変換における言語モデルの適応と分析
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 07-12
+
+282. 音声入力に基づく韻律制御機能を有する HMM 音声合成システム
+Citations:1
+Authors: 西垣友理， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (16), 1-6
+
+283. 統計的音源予測に基づく電気式人工喉頭制御法のシミュレーションによる評価
+Citations:1
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (91), 33-38
+
+284. Structured adaptive regularization of weight vectors for a robust grapheme-to-phoneme conversion model
+Citations:1
+Authors: K Kubo, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: IEICE TRANSACTIONS on Information and Systems 97 (6), 1468-1476
+
+285. 統計的手法に基づく歌声の知覚年齢制御法 (音声 音学シンポジウム 2014)
+Citations:1
+Authors: 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 321-326
+
+286. 雑音抑圧及び統計的音源予測に基づくハイブリッドな電気音声強調法の評価
+Citations:1
+Authors: 田中宏， 戸田智基， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2014 (64), 1-6
+
+287. 日本語言い換えデータベースの構築と言語的個人性変換への応用
+Citations:1
+Authors: 水上雅博， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 言語処理学会第 20 回年次大会 (NLP2014), 773-776
+
+288. Data-Driven Generation of Text Balloons based on Linguistic and Acoustic Features of a Comics-Anime Corpus
+Citations:1
+Authors: S Matsumiya, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+289. Probabilistic enhancement of EEG components using prior information of componentrelated spatial correlation
+Citations:1
+Authors: H Maki, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: Proc. Int. Conf. of the IEEE Engineering in Medicine and Biology Society (EMBC)
+
+290. Non-verbal communication training with an interactive multimedia application
+Citations:1
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Proc. The 5th Asian Conference on Education
+
+291. A Framework and Tool for Collaborative Extraction of Reliable Information
+Citations:1
+Authors: G Neubig, S Mori, M Mizukami
+Publication: Proceedings of the Workshop on Language Processing and Crisis Information …
+
+292. 話し言葉における言語情報の個人性変換における変換辞書拡張 (音声)
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (220), 33-38
+
+293. 文レベルの機械翻訳評価尺度に関する調査
+Citations:1
+Authors: G Neubig
+Publication: 研究報告自然言語処理 (NL) 2013 (7), 1-8
+
+294. スペクトル補正及び統計的音源生成に基づくハイブリッド電気音声強調
+Citations:1
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 聴覚研究会資料= Proceedings of the auditory research meeting 43 (4), 265-270
+
+295. 知覚年齢に沿った歌声声質制御のための音響特徴量の調査
+Citations:1
+Authors: 小林和弘， 土井啓成， 戸田智基， 中野倫靖， 後藤真孝， G Neubig， S Sakti， ...
+Publication: 
+
+296. 話し言葉の書き起こし文章の話者性の変換
+Citations:1
+Authors: 水上雅博， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 27 回全国大会 (2013), 1J3OS22a5-1J3OS22a5
+
+297. NOCOA: A computer-based training tool for social and communication skills that exploits non-verbal behaviors
+Citations:1
+Authors: H Tanaka, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: The Journal of Information and Systems in Education 12 (1), 19-26
+
+298. 対話システムにおける単語間の関係性を用いた話題誘導応答文生成
+Citations:1
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2012 (3), 1-7
+
+299. 説得対話システムにおける話題誘導に基づく対話制御
+Citations:1
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2012 (4), 1-6
+
+300. The naist machine translation system for iwslt2012
+Citations:1
+Authors: G Neubig, K Duh, M Ogushi, T Kano, T Kiso, S Sakti, T Toda, S Nakamura
+Publication: International Workshop on Spoken Language Translation (IWSLT) 2012
+
+301. 能動学習による効率的な情報フィルタリング
+Citations:1
+Authors: G Neubig, 森信介
+Publication: 言語処理学会第18回年次大会(NLP2012)
+
+302. ベイズ推論を用いた連続音声からの言語モデル学習
+Citations:1
+Authors: N Graham, 三村正人, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2010 (16), 1-6
+
+303. 重み付き有限状態トランスデューサーと対数線形モデルを用いた話し言葉の整形
+Citations:1
+Authors: G Neubig, 森信介, 河原達也
+Publication: 情報処理学会研究報告 2
+
+304. Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings
+Citations:
+Authors: ZY Dou, J Hu, A Anastasopoulos, G Neubig
+Publication: arXiv preprint arXiv:1908.10430
+
+305. A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
+Citations:
+Authors: A Chaudhary, J Xie, Z Sheikh, G Neubig, JG Carbonell
+Publication: arXiv preprint arXiv:1908.08983
+
+306. Latent Relation Language Models
+Citations:
+Authors: H Hayashi, Z Hu, C Xiong, G Neubig
+Publication: arXiv preprint arXiv:1908.07690
+
+307. Pushing the Limits of Low-Resource Morphological Inflection
+Citations:
+Authors: A Anastasopoulos, G Neubig
+Publication: EMNLP 2019
+
+308. Mitigating Noisy Inputs for Question Answering
+Citations:
+Authors: D Peskov, J Barrow, P Rodriguez, G Neubig, J Boyd-Graber
+Publication: InterSpeech 2019
+
+309. Beyond BLEU: Training Neural Machine Translation with Semantic Similarity
+Citations:
+Authors: J Wieting, T Berg-Kirkpatrick, K Gimpel, G Neubig
+Publication: ACL 2019, 4344-4355
+
+310. Simple and Effective Paraphrastic Similarity from Parallel Translations
+Citations:
+Authors: J Wieting, K Gimpel, G Neubig, T Berg-Kirkpatrick
+Publication: ACL 2019, 4602-4608
+
+311. Reranking for Neural Semantic Parsing
+Citations:
+Authors: P Yin, G Neubig
+Publication: ACL 2019, 4553-4559
+
+312. Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces
+Citations:
+Authors: B Patra, JRA Moniz, S Garg, MR Gormley, G Neubig
+Publication: ACL 2019, 184-193
+
+313. Generalized Data Augmentation for Low-Resource Translation
+Citations:
+Authors: M Xia, X Kong, A Anastasopoulos, G Neubig
+Publication: ACL 2019
+
+314. Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections
+Citations:
+Authors: J He, Z Zhang, T Berg-Kiripatrick, G Neubig
+Publication: ACL 2019
+
+315. Self-Attentional Models for Lattice Inputs
+Citations:
+Authors: M Sperber, G Neubig, NQ Pham, A Waibel
+Publication: ACL 2019
+
+316. Domain Adaptation of Neural Machine Translation by Lexicon Induction
+Citations:
+Authors: J Hu, M Xia, G Neubig, J Carbonell
+Publication: ACL 2019
+
+317. Improving Open Information Extraction via Iterative Rank-Aware Learning
+Citations:
+Authors: Z Jiang, P Yin, G Neubig
+Publication: ACL 2019
+
+318. Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation
+Citations:
+Authors: X Wang, G Neubig
+Publication: ACL 2019
+
+319. Density Matching for Bilingual Word Embedding
+Citations:
+Authors: C Zhou, X Ma, D Wang, G Neubig
+Publication: NAACL 2019
+
+320. Lost in Interpretation: Predicting Untranslated Terminology in Simultaneous Interpretation
+Citations:
+Authors: N Vogler, C Stewart, G Neubig
+Publication: NAACL 2019
+
+321. An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation
+Citations:
+Authors: X Kong, B Li, G Neubig, E Hovy, Y Yang
+Publication: DEEP-DIAL @ AAAI 2019
+
+322. Syntactic Matching Methods in Pivot Translation
+Citations:
+Authors: A Miura, G Neubig, K Sudoh, S Nakamura
+Publication: Journal of Natural Language Processing 25 (5), 599-629
+
+323. Towards a General-Purpose Linguistic Annotation Backend
+Citations:
+Authors: G Neubig, P Littell, CY Chen, J Lee, Z Li, YH Lin, Y Zhang
+Publication: Compute-EL 2019
+
+324. Learning to Describe Phrases with Local and Global Contexts
+Citations:
+Authors: S Ishiwatari, H Hayashi, N Yoshinaga, G Neubig, M Toyoda, ...
+Publication: NAACL 2019
+
+325. Optimizing Segmentation Granularity for Neural Machine Translation
+Citations:
+Authors: E Salesky, A Runge, A Coda, J Niehues, G Neubig
+Publication: arXiv preprint arXiv:1810.08641
+
+326. Multi-Source Neural Machine Translation with Data Augmentation
+Citations:
+Authors: Y Nishimura, K Sudoh, G Neubig, S Nakamura
+Publication: IWSLT 2018
+
+327. Measuring Density and Similarity of Task Relevant Information in Neural Representations
+Citations:
+Authors: D Pruthi, M Gupta, NK Kulkarni, G Neubig, E Hovy
+Publication: 
+
+328. Contextual Encoding for Translation Quality Estimation
+Citations:
+Authors: J Hu, WC Chang, Y Wu, G Neubig
+Publication: WMT 2018
+
+329. Multi-Source Neural Machine Translation with Missing Data
+Citations:
+Authors: Y Nishimura, K Sudoh, G Neubig, S Nakamura
+Publication: WNMT 2018
+
+330. Syntax evaluation apparatus, translation apparatus, syntax evaluation method, and syntax evaluation program
+Citations:
+Authors: ODA Yusuke, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: US Patent App. 15/555,013
+
+331. 二値符号予測と誤り訂正を用いたニューラル翻訳モデル
+Citations:
+Authors: 小田悠介， 吉野幸一郎， 中村哲
+Publication: 自然言語処理 25 (2), 167-199
+
+332. Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (Volume 1: Research Papers)
+Citations:
+Authors: C Cherry, G Neubig
+Publication: Proceedings of the 13th Conference of the Association for Machine …
+
+333. Proceedings of the 2nd Workshop on Neural Machine Translation and Generation
+Citations:
+Authors: A Birch, A Finch, T Luong, G Neubig, Y Oda
+Publication: Proceedings of the 2nd Workshop on Neural Machine Translation and Generation
+
+334. Modelling Natural Language, Programs, and their Intersection
+Citations:
+Authors: G Neubig, M Allamanis
+Publication: NAACL 2018, 1-3
+
+335. The NAIST Simultaneous Translation Corpus
+Citations:
+Authors: G Neubig, H Shimizu, S Sakti, S Nakamura, T Toda
+Publication: Making Way in Corpus-based Interpreting Studies, 205-215
+
+336. An investigation of how to design control parameters for statistical voice timbre control
+Citations:
+Authors: K Kubo, K Kobayashi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: APSIPA 2017, 1520-1523
+
+337. Proceedings of the First Workshop on Neural Machine Translation
+Citations:
+Authors: T Luong, A Birch, G Neubig, A Finch
+Publication: Proceedings of the First Workshop on Neural Machine Translation
+
+338. 統語的一貫性と非冗長性を重視した機械翻訳のための能動学習手法
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 自然言語処理 24 (3), 463-489
+
+339. 単語意味ベクトル辞書を用いた Twitter からの評判情報抽出
+Citations:
+Authors: 芥子育雄， 鈴木優， 吉野幸一郎， 大原一人， 向井理朗， 中村哲
+Publication: 電子情報通信学会論文誌 D 100 (4), 530-543
+
+340. ニューラルネットに基づく制御可能な自然言語生成: 平成 28 年度実績報告書
+Citations:
+Authors: G Neubig
+Publication: 奈良先端科学技術大学院大学
+
+341. 第 3 回 Frederick Jelinek 記念サマーワークショップでの教師なし発音辞書学習の取り組み
+Citations:
+Authors: 篠崎隆宏， 渡部晋治， 持橋大地
+Publication: 研究報告音声言語情報処理 (SLP) 2016 (4), 1-5
+
+342. Neural Machine Translation
+Citations:
+Authors: G Neubig
+Publication: 
+
+343. Lightly Supervised Quality Estimation
+Citations:
+Authors: M Sperber, G Neubig, J Niehues, S Stüker, A Waibel
+Publication: Proceedings of COLING 2016, the 26th International Conference on …
+
+344. Practical Neural Networks for NLP: From Theory to Code
+Citations:
+Authors: C Dyer, Y Goldberg, G Neubig
+Publication: Proceedings of the 2016 Conference on Empirical Methods in Natural Language …
+
+345. エントレインメント分析に基づく用例選択モデルの提案
+Citations:
+Authors: 水上雅博， 吉野幸一郎
+Publication: SIG-SLUD 5 (02), 135-138
+
+346. 注視特徴を用いた非母語読解時の未知語検出における品詞タグの使用と個人適応の検討 (ヒューマン情報処理)
+Citations:
+Authors: 平岡類， 田中宏季， サクティサクリアニ， ニュービッググラム， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 116 (229), 29-34
+
+347. A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation
+Citations:
+Authors: J Zhang, M Utiyama, E Sumita, G Neubig, S Nakamura
+Publication: Proceedings of the 54th Annual Meeting of the Association for Computational …
+
+348. 木構造を中間表現とするピボット翻訳手法
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2016 (9), 1-6
+
+349. 注視特徴を用いた SVM による非母語読解時の未知語検出 (ヒューマンコミュニケーション基礎)
+Citations:
+Authors: 平岡類， 田中宏季， サクティサクリアニ， 吉野幸一郎， ニュービッググラム， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 116 (31), 213-218
+
+350. 機械翻訳システムの誤り分析のための誤り箇所選択手法
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 自然言語処理 23 (1), 87-117
+
+351. ユーザ属性に基づく対話行為と語彙選択のエントレインメント分析
+Citations:
+Authors: 水上雅博， 吉野幸一郎， 中村哲
+Publication: 人工知能学会全国大会論文集 第 30 回全国大会 (2016), 2O5OS23b4-2O5OS23b4
+
+352. Proceedings of the 3rd Workshop on Asian Translation (WAT2016)
+Citations:
+Authors: T Nakazawa, H Mino, C Ding, I Goto, G Neubig, S Kurohashi, IH Riza, ...
+Publication: Proceedings of the 3rd Workshop on Asian Translation (WAT2016)
+
+353. Real-time vibration control of an electrolarynx based on statistical F0 contour prediction
+Citations:
+Authors: K Tanaka, T Toda, G Neubig, S Nakamura
+Publication: 2016 24th European Signal Processing Conference (EUSIPCO), 1333-1337
+
+354. 訳選択の根拠の自動推定とその機械翻訳における応用: 平成 25-27 年度成果報告書
+Citations:
+Authors: N Graham
+Publication: 奈良先端科学技術大学院大学
+
+355. Semantic Parsing of Ambiguous Input using Multi Synchronous Grammars
+Citations:
+Authors: P Arthur, G Neubig, S Sakti, S Nakamura, T Toda
+Publication: 
+
+356. 自然言語処理技術の現状と展望-エラー分析プロジェクトを通して-:[翻訳, 文作成支援, 対話] 3.14 翻訳
+Citations:
+Authors: 工藤拓， 赤部晃一
+Publication: 情報処理 57 (1), 36-37
+
+357. 発音変換知識を用いないデータ駆動型発音学習による非母語話者の音声認識 (音声)--(第 17 回音声言語シンポジウム)
+Citations:
+Authors: 辻岡聡， サクティサクリアニ， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (346), 75-80
+
+358. 構文木と句の極大性に基づく機械翻訳のための能動学習
+Citations:
+Authors: 三浦明波， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (19), 1-7
+
+359. 音声波形加工に基づく非母語音声の継続長補正法の評価と分析
+Citations:
+Authors: 倶羅真也， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (4), 1-6
+
+360. RNN を用いた対話破綻検出器の構築
+Citations:
+Authors: 水上雅博， 杉山享志朗， 吉野幸一郎， 中村哲
+Publication: SIG-SLUD 5 (02), 47-50
+
+361. 嘘を発見する対話システム
+Citations:
+Authors: 角森唯子， 平岡拓也， 水上雅博， 戸田智基， 中村哲
+Publication: SIG-SLUD 5 (02), 16-20
+
+362. マルチモーダル情報を伴った自動対話訓練システム (音声)
+Citations:
+Authors: 田中宏季， サクリアニサクティ， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (253), 45-50
+
+363. 機械翻訳の精度を考慮した構文解析器の自己学習
+Citations:
+Authors: 森下睦， 赤部晃一， 吉野幸一郎， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2015 (11), 1-7
+
+364. An evaluation of EEG ocular artifact removal with a multi-channel wiener filter based on probabilistic generative model
+Citations:
+Authors: H Maki, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: 2015 37th Annual International Conference of the IEEE Engineering in …
+
+365. 機械翻訳技術 (小特集 2020 年, 言葉の壁を超える音声翻訳: 新しい技術と研究の可能性)
+Citations:
+Authors: G NEUBIG
+Publication: 電子情報通信学会誌= The journal of the Institute of Electronics, Information …
+
+366. ニ z ー? ル* ッ h に基づ< 機械翻訳
+Citations:
+Authors: G Neubig
+Publication: 
+
+367. ボトルネック特徴量を用いた感情音声の認識
+Citations:
+Authors: 向原康平， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2015 (2), 1-6
+
+368. 空気/体内伝導マイクを併用した雑音環境下における非可聴つぶやき強調法とその評価
+Citations:
+Authors: 田尻祐介， 田中宏， 戸田智基， グラム・ニュービッグ， サクリアニ・サクティ， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (100), 59-64
+
+369. リアルタイム音源予測に基づく電気式人工喉頭制御の実装
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 聴覚研究会資料= Proceedings of the auditory research meeting 45 (4), 251-256
+
+370. リアルタイム音源予測に基づく電気式人工喉頭制御の実装 (音声)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 115 (99), 47-52
+
+371. D-15-29 NIRS を用いた脳活動計測による認知トレーニングの客観的評価 (D-15. 教育工学, 一般セッション)
+Citations:
+Authors: 蓑田由花里， 田中宏季， 戸田智基， 中村哲
+Publication: 電子情報通信学会総合大会講演論文集 2015 (1), 208
+
+372. 日本語を対象 t した統計的機械翻訳 D 進展
+Citations:
+Authors: G Neubig
+Publication: 
+
+373. 統計的機械翻訳を用いた自動コメント生成
+Citations:
+Authors: 小田悠介
+Publication: ウィンターワークショップ 2015・イン・宜野湾 論文集 2015, 15-16
+
+374. 知識ベースに基づく言語横断質問応答における訳質の影響の調査
+Citations:
+Authors: 杉山享志朗， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 29 回全国大会 (2015), 1K32-1K32
+
+375. 不完全な文の構文解析に基づく同時音声翻訳
+Citations:
+Authors: 小田悠介， 戸田智基， 中村哲
+Publication: 言語処理学会第 21 回年次大会 (NLP2015)
+
+376. 複数の目的言語の同時生成による統計的機械翻訳
+Citations:
+Authors: G Neubig, P Arthur, K Duh
+Publication: 
+
+377. Unknown Word Detection Based on Event-Related Brain Desynchronization Responses
+Citations:
+Authors: T Sasakura, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: Natural Language Dialog Systems and Intelligent Assistants, 169-175
+
+378. 同時音声翻訳における翻訳精度と遅延時間を同時に考慮した評価尺度 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 三重野隆史， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366), 11-15
+
+379. パラフレーズを考慮した機械翻訳の誤り箇所選択 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+380. パラフレーズを考慮した機械翻訳の誤り箇所選択 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 赤部晃一， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+381. 階層的フレーズベース翻訳におけるピボット翻訳手法の応用 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 三浦明波， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366 …
+
+382. ソースコード構文木からの統計的自動コメント生成 (言語理解とコミュニケーション)--(第 6 回集合知シンポジウム)
+Citations:
+Authors: 小田悠介， 札場寛之， ニュービッググラム， サクリアニサクティ， 戸田智基， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (366), 67-75
+
+383. Recognition and Analysis of Emotion in Indonesian Conversational Speech (音声)--(第 16 回音声言語シンポジウム)
+Citations:
+Authors: N Lubis, S Sakti, G Neubig, T Toda, D Lestari, A Purwarianti, S Nakamura
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (365), 1-6
+
+384. Articulatory Controllable Speech Modification using Sequential Inversion and Production Mapping with Gaussian Mixture Models (音声)--(第 16 回音声言語シンポジウム)
+Citations:
+Authors: P LUMBAN TOBING, T TODA, G NEUBIG, S SAKTI, S NAKAMURA, ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (365), 57-62
+
+385. Robust Example-based Dialog Retrieval using Distributed Word Representations and Recursive Autoencoders (第 5 回対話システムシンポジウムおよび一般)
+Citations:
+Authors: L Nio, S Sakti, G Neubig
+Publication: 言語・音声理解と対話処理研究会 72, 1-6
+
+386. Unnecessary utterance detection for avoiding digressions in discussion
+Citations:
+Authors: R Yoshida, T Hiraoka, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Signal and Information Processing Association Annual Summit and Conference …
+
+387. 対話中における嘘検出に有効な特徴量比較と質問分析
+Citations:
+Authors: 角森唯子， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 19-24
+
+388. 単語視認時の脳波信号を用いた未知語知覚検出
+Citations:
+Authors: 笹倉隆史， 戸田智基， 中村哲
+Publication: SIG-SLUD 4 (02), 57-62
+
+389. HMM を用いた日本人英語音声合成における話者性を保持した韻律補正
+Citations:
+Authors: 大島悠司， 高道慎之介， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (13), 1-6
+
+390. Robust Example-based Dialog Retrieval using Distributed Word Representations and Recursive Autoencoders
+Citations:
+Authors: N Lasguido, S Sakriani, N Graham, T Tomoki, N Satoshi
+Publication: SIG-SLUD 4 (02), 01-06
+
+391. Articulatory Controllable Speech Modification using Sequential Inversion and Production Mapping with Gaussian Mixture Models
+Citations:
+Authors: P Patrick, T Lumban, T Tomoki, N Graham, S Sakriani, N Satoshi, P Ayu
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (12), 1-6
+
+392. Recognition and Analysis of Emotion in Indonesian Conversational Speech
+Citations:
+Authors: L Nurul, S Sakriani, N Graham, T Tomoki, L Dessi, P Ayu, N Satoshi
+Publication: 研究報告音声言語情報処理 (SLP) 2014 (1), 1-6
+
+393. 重回帰混合正規分布モデルに基づく声質制御における制御パラメータの設計 (音声)
+Citations:
+Authors: 久保和隆， 小林和弘， 戸田智基， ニュービッググラム， サクティサクリアニ， ...
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (303), 65-70
+
+394. ソーシャルスキルトレーニングの自動化 (若手奨励企画)
+Citations:
+Authors: 田中宏季， サクティサクリアニ， ニュービッググラム， 戸田智基， 根來秀樹， ...
+Publication: 電子情報通信学会技術研究報告. ET, 教育工学 114 (305), 1-6
+
+395. 統語ベース翻訳に対する統語的前処理の適用
+Citations:
+Authors: 波多腰優斗， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2014 (5), 1-6
+
+396. 脳波のチャネル間相関の事前分布を利用した確率的目的成分強調
+Citations:
+Authors: 真木勇人， 戸田智基， 中村哲
+Publication: 研究報告数理モデル化と問題解決 (MPS) 2014 (42), 1-6
+
+397. 第一人者と第二人者
+Citations:
+Authors: N Graham
+Publication: 自然言語処理 21 (3), 419-419
+
+398. Language Resource Addition: Dictionary or Corpus?
+Citations:
+Authors: SMG Neubig
+Publication: 
+
+399. 招待講演 機械翻訳: なぜできなかったのか? なぜできるようになりつつあるのか?(音声 音学シンポジウム 2014)
+Citations:
+Authors: ニュービッグ,グラム
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 35-38
+
+400. 雑音抑圧及び統計的音源予測に基づくハイブリッドな電気音声強調法の評価 (音声 音学シンポジウム 2014)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 114 (52), 331-336
+
+401. 統計的手法に基づく歌声の知覚年齢制御法
+Citations:
+Authors: 小林和弘， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 研究報告音楽情報科学 (MUS) 2014 (62), 1-6
+
+402. 音響特徴量を用いた吹き出しテキストの生成の評価 (学生ポスターセッション, 時系列パターン認識, 一般)
+Citations:
+Authors: 松宮翔， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 113 (452), 29-30
+
+403. 音声認識のためのエントレインメント現象を用いた発話様式誘導 (学生ポスターセッション, 時系列パターン認識, 一般)
+Citations:
+Authors: 杉山昂太郎， ニュービッググラム， サクティサクリアニ， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 113 (452), 27-28
+
+404. ラウドネス補償と聴覚フィルタの両特性に対するオージオグラムに基づく近似処理を用いた模擬難聴 (音声)
+Citations:
+Authors: 神保希美， 高道慎之介， 戸田智基
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (404), 1-6
+
+405. 訳選択の根拠の自動推定とその機械翻訳における応用: 平成 25 年度実績報告書
+Citations:
+Authors: G Neubig
+Publication: 奈良先端科学技術大学院大学
+
+406. 物語発話からの自閉症スペクトラム障害児と定型発達児の語彙と韻律の特性分析
+Citations:
+Authors: 田中宏季， ...
+Publication: 日本音響学会研究発表会講演論文集 日本音響学会 編, 1487-1490
+
+407. 自閉症スペクトラム児と保護者間のインタラクション分析
+Citations:
+Authors: 田中宏季， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 28 回全国大会 (2014), 2H4NFC04b3-2H4NFC04b3
+
+408. 発音推定のための重みベクトルの適応的正則化手法におけるハイパーパラメータの改善
+Citations:
+Authors: 久保慶伍， ...
+Publication: 日本音響学会研究発表会講演論文集 日本音響学会 編, 51-54
+
+409. A Hearing Impairment Simulation Method Using Audiogram-based Approximation of Auditory Charatecteristics
+Citations:
+Authors: N Jinbo, S Takamichi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: Fifteenth Annual Conference of the International Speech Communication …
+
+410. Anaphora Resolution for Transforming Regular Expressions into Honorifics in Japanese
+Citations:
+Authors: M Yu, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 
+
+411. Japanese Title: 対話システムにおける用語間の関係性を用いた話題誘導応答文生成
+Citations:
+Authors: Y Yamauchi, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: Transactions of the Japanese Society for Artificial Intelligence 29, 80-89
+
+412. 説得対話コーパスの構築と分析 (音声)
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (366), 41-46
+
+413. 誤り単語の視覚・聴覚提示における事象関連電位による違和感分析 (音声)
+Citations:
+Authors: 小田垣佑， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (366), 29-34
+
+414. 誤り単語の視覚・聴覚提示における事象関連電位による違和感分析
+Citations:
+Authors: 小田垣佑， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2013 (5), 1-6
+
+415. 説得対話コーパスの構築と分析
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 研究報告音声言語情報処理 (SLP) 2013 (7), 1-6
+
+416. HMM 音声合成における変調スペクトルに基づくポストフィルタ (音声)
+Citations:
+Authors: 高道慎之介， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 19-24
+
+417. 統計的歌声声質変換における知覚年齢に基づく声質制御 (音声)
+Citations:
+Authors: 小林和弘， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 1-6
+
+418. ハイブリッド式電気音声強調法における音源特徴量予測の評価 (音声)
+Citations:
+Authors: 田中宏， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (308), 7-12
+
+419. 重みベクトルの適応的正則化に基づく発音推定 (音声)
+Citations:
+Authors: 久保慶伍， サクティサクリアニ， ニュービッググラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (161), 25-30
+
+420. 2012 年度論文賞の受賞論文紹介: 目覚ましい発展の中の小さな発見
+Citations:
+Authors: N Graham
+Publication: 情報処理 54 (8), 819-819
+
+421. 同時通訳データを利用した同時通訳用機械翻訳システムの構築
+Citations:
+Authors: 清水宏晃， 戸田智基， 中村哲
+Publication: 研究報告自然言語処理 (NL) 2013 (9), 1-5
+
+422. 歌声の知覚年齢に沿った声質制御に向けた音響特徴量の調査
+Citations:
+Authors: 小林和弘， 土井啓成， 戸田智基， 中野倫靖， 後藤真孝， 中村哲
+Publication: 日本音響学会 2013 年春季研究発表会
+
+423. 非言語情報読み取りスキルを用いた自閉症スペクトラム指数の測定 (画像工学)
+Citations:
+Authors: 田中宏季， サクティサクリアニ， ニュービックグラム， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (473), 223-226
+
+424. HMM 音声合成における分散共有フルコンテキストモデルによる F0 パターン生成 (音声)
+Citations:
+Authors: 高道慎之介， 戸田智基， 志賀芳則， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (422), 37-42
+
+425. 機械翻訳
+Citations:
+Authors: G Neubig
+Publication: 
+
+426. Computer-Based Training による非言語コミュニケーションスキルの改善に関する検討
+Citations:
+Authors: 田中宏季， 戸田智基， 中村哲
+Publication: 人工知能学会全国大会論文集 第 27 回全国大会 (2013), 4J1OS234-4J1OS234
+
+427. Proceedings of the Workshop on Language Processing and Crisis Information 2013
+Citations:
+Authors: K Inui, H Kazawa, G Neubig, M Utiyama
+Publication: Proceedings of the Workshop on Language Processing and Crisis Information 2013
+
+428. 話し言葉における言語情報の個人性変換における変換辞書拡張
+Citations:
+Authors: 水上雅博， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 電子情報通信学会音声研究会 (SP), 千葉 9
+
+429. 対話システムにおける単語間の関係性を用いた話題誘導応答文生成 (音声・第 14 回音声言語シンポジウム)
+Citations:
+Authors: 山内祐輝， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (369), 13-19
+
+430. 説得対話システムにおける話題誘導に基づく対話制御 (音声・第 14 回音声言語シンポジウム)
+Citations:
+Authors: 平岡拓也， 戸田智基， 中村哲
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (369), 21-26
+
+431. Towards language preservation: Preliminary collection and vowel analysis of Indonesian ethnic speech data
+Citations:
+Authors: A Sani, S Sakti, G Neubig, T Toda, A Mulyanto, S Nakamura
+Publication: 2012 International Conference on Speech Database and Assessments, 118-122
+
+432. 同時性を考慮した音声翻訳システムの検討
+Citations:
+Authors: 藤田朋希， G Neubig， S Sakti， 戸田智基， 中村哲
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告, 1-5
+
+433. 分散共有フルコンテキストモデルによる HMM 音声合成の改善 (音声)
+Citations:
+Authors: 慎之介高道， 智基戸田， 芳則志賀， S Sakti， G Neubig， 哲中村
+Publication: 電子情報通信学会技術研究報告: 信学技報 112 (281), 37-42
+
+434. 統計的手法に基づくリアルタイム声質変換処理の DSP 上への実装
+Citations:
+Authors: 森口拓人， 戸田智基， 佐野元明， 佐藤宏， ニュービッググラム， ...
+Publication: 電子情報通信学会技術研究報告. SP, 音声 112 (281), 7-12
+
+435. 同一文発話間における話者内スペクトル特徴量変動とその予測
+Citations:
+Authors: 犬飼辰夫， 戸田智基， ニュービッググラム， サクティサクリアニ， 中村哲
+Publication: 電子情報通信学会技術研究報告. SP, 音声 112 (281), 13-18
+
+436. 素性頻度ファイルと部分的アノテーションコーパスからの単語分割器の学習
+Citations:
+Authors: 笹田鉄郎， 森信介， 河原達也
+Publication: 研究報告自然言語処理 (NL) 2012 (8), 1-5
+
+437. 分散共有フルコンテキストモデルによる HMM 音声合成に関する検討
+Citations:
+Authors: 高道慎之介， 戸田智基， 志賀芳則， 河井恒， S Sakti， G Neubig， 中村哲
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理, 1-6
+
+438. 素性頻度ファイルと部分的アノテーションコーパスからの単語分割器の学習
+Citations:
+Authors: 笹田鉄郎， 森信介， G Neubig， 河原達也
+Publication: 情報処理学会 第207回自然言語処理研究会 (NL-207)
+
+439. 不自然言語処理-枠に収まらない 「リアルな」 言語処理-: 7. ANPI_NLP-NLP 技術を応用した震災時安否情報確認支援
+Citations:
+Authors: 萩原正人， 村上浩司， 松林優一郎
+Publication: 情報処理 53 (3), 241-248
+
+440. Spoken and Written Language: Exploring Orality and Literacy Spoken and Written Language: Exploring Orality and Literacy, 1982
+Citations:
+Authors: G NEUBIG, M MIMURA, S MORI, T KAWAHARA
+Publication: IEICE transactions on information and systems 95 (2), 614-625
+
+441. A Bayesian interpretation of interpolated kneser-ney A Bayesian interpretation of interpolated kneser-ney, 2006
+Citations:
+Authors: G NEUBIG, M MIMURA, S MORI, T KAWAHARA
+Publication: IEICE transactions on information and systems 95 (2), 614-625
+
+442. Information theory, inference, and learning algorithms Information theory, inference, and learning algorithms, 357-386, 2003
+Citations:
+Authors: G NEUBIG, M MIMURA, S MORI, T KAWAHARA
+Publication: IEICE transactions on information and systems 95 (2), 614-625
+
+443. The unsupervised acquisition of a lexicon from continuous speech The unsupervised acquisition of a lexicon from continuous speech, 1995
+Citations:
+Authors: G NEUBIG, M MIMURA, S MORI, T KAWAHARA
+Publication: IEICE transactions on information and systems 95 (2), 614-625
+
+444. Non-parametric Bayesian Statistics
+Citations:
+Authors: G Neubig
+Publication: 
+
+445. 自然言語処理= Journal of natural language processing 18 (2), 71-87, 2011-06-28
+Citations:
+Authors: 森信介， 笹田鉄郎
+Publication: 自然言語処理 18 (2), 71-87
+
+446. ノンパラメトリックベイズ法
+Citations:
+Authors: G Neubig
+Publication: 
+
+447. 点予測と系列予測の 2 段階化による品詞推定の精度向上
+Citations:
+Authors: 中田陽介， 森信介， 河原達也
+Publication: 情報処理学会研究報告. 自然言語処理研究会報告 2011 (2), 1-8
+
+448. Explanation of dirichlet-topic. pl
+Citations:
+Authors: G Neubig
+Publication: 
+
+449. ウイグル語の形態素に基づく言語モデルと音声認識システム
+Citations:
+Authors: アブリミテ・ミジテ， ニュービッグ・グラム， 三村正人， 森信介， 河原達也， ...
+Publication: 研究報告音声言語情報処理 (SLP) 2010 (17), 1-5
+
+450. 文脈を考慮した確率的モデルによる話し言葉の整形 (言語理解とコミュニケーション)
+Citations:
+Authors: 秋田祐哉， 森信介， 河原達也
+Publication: 電子情報通信学会技術研究報告 109 (355), 93-98
+
+451. 文脈を考慮した確率的モデルによる話し言葉の整形
+Citations:
+Authors: N Graham, 秋田祐哉, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2009 (17), 1-6
+
+452. 重み付き有限状態トランスデューサーと対数線形モデルを用いた話し言葉の整形
+Citations:
+Authors: N Graham, 森信介, 河原達也
+Publication: 情報処理学会研究報告. SLP, 音声言語情報処理 2009 (21), 1-6
+
+453. 重み付き有限状態トランスデューサーと対数線形モデルを用いた話し言葉の整形
+Citations:
+Authors: 森信介， 河原達也
+Publication: 研究報告音声言語情報処理 (SLP) 2009 (21), 1-6
+
+454. Collection and analysis of a Japanese-English emphasized speech corpora
+Citations:
+Authors: DQ Truong, G Neubig, S Sakti, T Toda, S Nakamura
+Publication: 2014 17th Oriental Chapter of the International Committee for the Co …
+
+455. ハイブリッド式電気音声強調法における音源特徴量予測の評価
+Citations:
+Authors: 田中宏， 戸田智基， グラム・ニュービッグ， サクリアニ・サクティ， 中村哲
+Publication: 
+
+456. The Network-based Multilingual ASR System Towards Multilingual Conversations in Medical Domain
+Citations:
+Authors: S Sakti, K Kubo, S Matsumiya, G Neubig, T Toda, S Nakamura, F Adachi, ...
+Publication: 
+
+457. Overview of the 2nd Workshop on Asian Translation
+Citations:
+Authors: TNHMI Goto, GNSKE Sumita
+Publication: 
+
+458. Answering Cloze-style Software Questions Using Stack Overflow
+Citations:
+Authors: E Winston, B Dhingra, K Mazaitis, G Neubig, WW Cohen
+Publication: 
+
+459. Building Speech Recognition System from Untranscribed Data Report from JHU workshop 2016
+Citations:
+Authors: L Burget, S Khudanpur, N Dehak, J Trmal, R Haeb-Umbach, G Neubig, ...
+Publication: 
+
+460. Parser Self-Training for Syntax-Based Machine Translation
+Citations:
+Authors: G Neubig, K Yoshino, S Nakamrua
+Publication: 
+
+461. Eye Gaze-based Unknown Word Detection in Non-native Language Reading using SVMs and Random Forests
+Citations:
+Authors: R Hiraoka, H Tanaka, S Sakti, K Yoshino, G Neubig, S Nakamura
+Publication: 
+
+462. Automatic Detection of Memorable Spoken Quotes
+Citations:
+Authors: F Koto, S Sakti, G Neubig, T Toda, MA UI, S Nakamura
+Publication: 
+
+463. Word-level Emphasis Transfer in Speech-to-speech Translation
+Citations:
+Authors: QT Do, S Takamichi, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 
+
+464. The NAIST ASR for IWSLT: A Multi-architecture DNN System Combination Approach
+Citations:
+Authors: M Heck, QT Do, S Sakti, G Neubig, S Nakamura
+Publication: 
+
+465. Predicting Emotional Responses From Spontaneous Social-Affective Interaction Data
+Citations:
+Authors: N Lubis, S Sakti, G Neubig, K Yoshino, S Nakamura
+Publication: 
+
+466. Incongruity Detection on ASR Outputs based on EEG Signals
+Citations:
+Authors: S Sakti, Y Odagaki, T Sasakura, G Neubig, T Toda, S Nakamura
+Publication: 
+
+467. Joint Dereverberation and Noise Reduction Based on Acoustic Multi-Channel Equalization... I. Kodrasi and S. Doclo 680 Deep Sentence Embedding Using Long Short-Term Memory …
+Citations:
+Authors: PP Parada, D Sharma, J Lainez, D Barreda, T van Waterschoot, ...
+Publication: 
+
+468. 機械翻訳を用いた擬似コード生成による学習者支援
+Citations:
+Authors: 札場寛之， 小田悠介， 畑秀明， 戸田智基， 中村哲
+Publication: 
+
+469. A Dialog System to Detect Deception
+Citations:
+Authors: Y Tsunomori, G Neubig, T Hiraoka, M Mizukami, S Sakti, T Toda, ...
+Publication: 
+
+470. Study on Word-Level Emphasis Across English and Japanese
+Citations:
+Authors: ST Do Quoc Truong, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 
+
+471. An Evaluation of Articulatory Controllable Speech Modification based on Gaussian Mixture Models with Direct Waveform Modification
+Citations:
+Authors: PL Tobing, K Kobayashi, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: 
+
+472. 韻律・音韻の部分補正に基づく話者性を保持した日本人英語音声合成と英語習熟度が与える影響
+Citations:
+Authors: Y Oshima, S Takamichi, T Toda, S Sakti, G Neubig, S Nakamura
+Publication: 
+
+473. Recurrent Neural Networks
+Citations:
+Authors: G Neubig
+Publication: 
+
+474. Articulatory Controllable Speech Modification using Sequential Inversion and Production Mapping with Gaussian Mixture Models
+Citations:
+Authors: PL TOBING, T TODA, G NEUBIG, S SAKTI, S NAKAMURA, ...
+Publication: 
+
+475. NTT-NAIST Syntax-based SMT Systems for IWSLT 2014
+Citations:
+Authors: K Sudoh, G Neubig, K Duh, K Hayashi
+Publication: 
+
+476. An Evaluation through Simulation of Electrolarynx Control based on Statistical F0 Prediction for Multiple Speakers
+Citations:
+Authors: K Tanaka, T Toda, G Neubig, S Sakti, S Nakamura
+Publication: 
+
+477. COLLECTION AND ANALYSIS OF A JAPANESE-ENGLISH EMPHASIZED SPEECH CORPORA
+Citations:
+Authors: SS Do Quoc Truong, G Neubig, T Toda, S Nakamura
+Publication: 
+
+478. Analysis of Emphasis on Japanese-English Bilingual Corpora
+Citations:
+Authors: SS Do Quoc Truong, G Neubig, T Toda, S Nakamura
+Publication: 
+
+479. A Dialog System with Human-to-Human Conversation Example
+Citations:
+Authors: L Nio, S Sakti, G Neubig, T Toda, S Nakamura
+Publication: 
+
+480. 統計的手法に基づく歌声の知覚年齢制御法
+Citations:
+Authors: S Sakti
+Publication: 
+
+481. ツイートの情報量について-情報理論に基づく多言語調査
+Citations:
+Authors: G Neubig, K Duh
+Publication: 
+
+482. Constructing English-Japanese Machine Translation Systems and Evaluating Translation Quality
+Citations:
+Authors: I Niu, G Neubig, S Nakamura
+Publication: 
+
+483. Building a Phrase-based SMT System
+Citations:
+Authors: G Neubig, K Duh
+Publication: 
+
+484. 文脈を考慮した確率的モデルによる話し言葉の整形
+Citations:
+Authors: G Neubig, 秋田祐哉, 森信介, 河原達也
+Publication: 
+

@@ -1,0 +1,270 @@
+
+1. Caffe: Convolutional architecture for fast feature embedding
+Citations:11452
+Authors: Y Jia, E Shelhamer, J Donahue, S Karayev, J Long, R Girshick, ...
+Publication: Proceedings of the 22nd ACM international conference on Multimedia, 675-678
+
+6. Long-term recurrent convolutional networks for visual recognition and description
+Citations:2935
+Authors: J Donahue, L Anne Hendricks, S Guadarrama, M Rohrbach, ...
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+51. Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition
+Citations:275
+Authors: S Guadarrama, N Krishnamoorthy, G Malkarnenkar, S Venugopalan, ...
+Publication: Proceedings of the IEEE international conference on computer vision, 2712-2719
+
+53. Nearest-neighbor searching and metric space dimensions
+Citations:258
+Authors: KL Clarkson
+Publication: Nearest-neighbor methods for learning and vision: theory and practice, 15-59
+
+73. LSDA: Large scale detection through adaptation
+Citations:195
+Authors: J Hoffman, S Guadarrama, ES Tzeng, R Hu, J Donahue, R Girshick, ...
+Publication: Advances in Neural Information Processing Systems, 3536-3544
+
+94. Learning task-specific similarity
+Citations:155
+Authors: G Shakhnarovich
+Publication: Massachusetts Institute of Technology
+
+102. Deep compositional captioning: Describing novel object categories without paired training data
+Citations:140
+Authors: L Anne Hendricks, S Venugopalan, M Rohrbach, R Mooney, K Saenko, ...
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+119. Caffe: An open source convolutional architecture for fast feature embedding
+Citations:117
+Authors: Y Jia, E Shelhamer, J Donahue, S Karayev, J Long, R Girshick, ...
+Publication: 
+
+121. Grounding spatial relations for human-robot interaction
+Citations:108
+Authors: S Guadarrama, L Riano, D Golland, D Go, Y Jia, D Klein, P Abbeel, ...
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+135. Using robotic exploratory procedures to learn the meaning of haptic adjectives
+Citations:89
+Authors: V Chu, I McMahon, L Riano, CG McDonald, Q He, JM Perez-Tejada, ...
+Publication: 2013 IEEE International Conference on Robotics and Automation, 3048-3055
+
+138. Sparselet models for efficient multiclass object detection
+Citations:87
+Authors: HO Song, S Zickler, T Althoff, R Girshick, M Fritz, C Geyer, P Felzenszwalb, ...
+Publication: European conference on computer vision, 802-815
+
+170. Open-vocabulary Object Retrieval.
+Citations:62
+Authors: S Guadarrama, E Rodner, K Saenko, N Zhang, R Farrell, J Donahue, ...
+Publication: Robotics: science and systems 2 (5), 6
+
+172. Towards adapting deep visuomotor representations from simulated to real environments
+Citations:60
+Authors: E Tzeng, C Devin, J Hoffman, C Finn, X Peng, S Levine, K Saenko, ...
+Publication: arXiv preprint arXiv:1511.07111 2 (3)
+
+179. Zero-shot visual imitation
+Citations:55
+Authors: D Pathak, P Mahmoudieh, G Luo, P Agrawal, D Chen, Y Shentu, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+180. Robotic learning of haptic adjectives through physical interaction
+Citations:55
+Authors: V Chu, I McMahon, L Riano, CG McDonald, Q He, JM Perez-Tejada, ...
+Publication: Robotics and Autonomous Systems 63, 279-292
+
+190. Adapting deep visuomotor representations with weak pairwise constraints
+Citations:47
+Authors: E Tzeng, C Devin, J Hoffman, C Finn, P Abbeel, S Levine, K Saenko, ...
+Publication: arXiv preprint arXiv:1511.07111
+
+209. Libpmk: A pyramid match toolkit
+Citations:39
+Authors: JJ Lee
+Publication: 
+
+245. Speaker-follower models for vision-and-language navigation
+Citations:25
+Authors: D Fried, R Hu, V Cirik, A Rohrbach, J Andreas, LP Morency, ...
+Publication: Advances in Neural Information Processing Systems, 3314-3325
+
+247. Matching sets of features for efficient retrieval and recognition
+Citations:25
+Authors: KL Grauman
+Publication: Massachusetts Institute of Technology
+
+276. Can you fool ai with adversarial examples on a visual turing test
+Citations:18
+Authors: X Xu, X Chen, C Liu, A Rohrbach, T Darell, D Song
+Publication: arXiv preprint arXiv:1709.08693 3
+
+318. Team sri-sarnoff’s aurora system@ trecvid 2011
+Citations:10
+Authors: H Cheng, A Tamrakar, S Ali, Q Yu, O Javed, J Liu, A Divakaran, ...
+Publication: Proceedings of NIST TRECVID, Workshop 28
+
+321. Caffe: convolutional architecture for fast feature embedding (2014). arXiv preprint
+Citations:10
+Authors: Y Jia, E Shelhamer, J Donahue, S Karayev, J Long, R Girshick, ...
+Publication: arXiv preprint arXiv:1408.5093
+
+323. Characterizing adversarial examples based on spatial consistency information for semantic segmentation
+Citations:9
+Authors: C Xiao, R Deng, B Li, F Yu, M Liu, D Song
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 217-234
+
+328. A. Azarbayejani, T. Darrell, and A
+Citations:9
+Authors: S Wren
+Publication: P. Pentland,“Pfinder: Real-time tracking of the human body,” IEEE Trans …
+
+341. Robotic learning of haptic adjectives through physical interaction
+Citations:7
+Authors: I McMahon, V Chu, L Riano, CG McDonald, Q He, JM Perez-Tejada, ...
+Publication: Proceedings of the 2012 Second Workshop on Advances in Tactile Sensing and …
+
+343. Efficient object recognition and image retrieval for large-scale applications
+Citations:7
+Authors: JJ Lee
+Publication: 
+
+346. Tracking people with integrated stereo, color, and face detection
+Citations:7
+Authors: T Darell, G Gordon, J Woodfill, M Harville
+Publication: Proceedings of the 1998 AAAI Spring Symposium on Intelligent Environments, 44-49
+
+349. VisDA: A synthetic-to-real benchmark for visual domain adaptation
+Citations:6
+Authors: X Peng, B Usman, N Kaushik, D Wang, J Hoffman, K Saenko
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+367. Estimating uncertainty models for speech source localization in real-world environments
+Citations:4
+Authors: KW Wilson
+Publication: Massachusetts Institute of Technology
+
+378. Joint cascade face detection and alignment
+Citations:3
+Authors: R Girshick
+Publication: Proc. IEEE Int. Conf. Comput. Vis, 1440-1448
+
+381. Mid-level features improve recognition of interactive activities
+Citations:3
+Authors: K Saenko, B Packer, C Chen, S Bandla, Y Lee, Y Jia, J Niebles, D Koller, ...
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+383. Scattering of SH waves by a scalene triangular hill
+Citations:3
+Authors: S Lin, F Qiu, D Liu
+Publication: Earthquake Engineering and Engineering Vibration 9 (1), 23-38
+
+386. Context-based visual feedback recognition
+Citations:3
+Authors: LP Morency
+Publication: 
+
+391. On the representation of occluded shapes
+Citations:3
+Authors: T Darrel, A Pentland
+Publication: Proceedings. 1991 IEEE Computer Society Conference on Computer Vision and …
+
+395. Towards holistic machines: From visual recognition to question answering about real-world images
+Citations:2
+Authors: M Malinowski
+Publication: 
+
+398. Toward a large-scale visuo-haptic dataset for robotic learning
+Citations:2
+Authors: A Burka, S Hu, S Krishnan, KJ Kuchenbecker, LA Hendricks, Y Gao, ...
+Publication: proceedings of the Workshop on the Future of Datasets in Vision at Computer …
+
+405. Probabilistic models for multi-view semi-supervised learning and coding
+Citations:2
+Authors: CM Christoudias
+Publication: Massachusetts Institute of Technology
+
+410. An analysis of SIFT object recognition with an emphasis on landmark detection
+Citations:2
+Authors: BC Ross
+Publication: Massachusetts Institute of Technology
+
+412. Viola, P.—Darrell, T.: Pose Estimation with Parameter Sensitive Hashing
+Citations:2
+Authors: G Shakhnarovich
+Publication: Proceedings of the Ninth IEEE Conference on Computer Vision (ICCV’03), 432-440
+
+429. Corrigendum to Robotic learning of haptic adjectives through physical interaction Robot. Auton. Syst. 63 (P3)(2015) 279-292
+Citations:1
+Authors: V Chu, I McMahon, L Riano, CG McDonald, Q He, ...
+Publication: Robotics and Autonomous Systems 83 (C), 349
+
+432. Multimedia event detection and recounting
+Citations:1
+Authors: H Cheng, J Liu, S Ali, O Javed, Q Yu, A Tamrakar, A Divakaran, ...
+Publication: SRI-Sarnoff AURORA at TRECVID 2014
+
+440. Image sense disambiguation: a multimodal approach
+Citations:1
+Authors: E Saenko
+Publication: Massachusetts Institute of Technology
+
+441. Interacting with computers using images for search and automation
+Citations:1
+Authors: T Yeh
+Publication: Massachusetts Institute of Technology
+
+446. Statistical modeling and analysis of audio-visual association in speech
+Citations:1
+Authors: MR Siracusa
+Publication: Massachusetts Institute of Technology
+
+449. Interfacing speech recognition an vision guided microphone array technologies
+Citations:1
+Authors: VS Rangarajan
+Publication: Massachusetts Institute of Technology
+
+450. Untethered human motion recognition for a multimodal interface
+Citations:1
+Authors: TH Ko
+Publication: Massachusetts Institute of Technology
+
+456. A Model of Transparent Motion Perception Using Layers
+Citations:1
+Authors: T DARREL
+Publication: Investigative Opthalmology and Visual Science Supplement (ARVO 1992) 33, 1142
+
+459. TransFig: Portable Figures for La T E X
+Citations:1
+Authors: M Beck
+Publication: small 9 (10pt), 11pt
+
+468. Accurate Visual Localization for Automotive Applications
+Citations:
+Authors: E Brosh, M Friedmann, I Kadar, L Yitzhak Lavy, E Levi, S Rippa, ...
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+478. Generation and grounding of natural language descriptions for visual data
+Citations:
+Authors: A Rohrbach
+Publication: 
+
+479. Connectionist Temporal Modeling for Weakly Supervised Action Labeling 153
+Citations:
+Authors: O Sener, A Zamir, S Savarese, A Saxena, Y Song, LP Morency, R Davis, ...
+Publication: Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The …
+
+486. Team SRI Sarnoff s AURORA System@ TRECVID 2011 (Author's Manuscript)
+Citations:
+Authors: H Cheng, A Tamrakar, S Ali, Q Yu, O Javed, J Liu, A Divakaran, ...
+Publication: SRI-International Sarnoff Princeton United States
+
+488. INTERNET VISION
+Citations:
+Authors: N Snavely, I Simon, M Goesele, R Szeliski, SM Seitz, B Kaneva, J Sivic, ...
+Publication: Proceedings of the IEEE 98 (8)
+
+492. Communication error detection using facial expressions
+Citations:
+Authors: SB Wang
+Publication: Massachusetts Institute of Technology

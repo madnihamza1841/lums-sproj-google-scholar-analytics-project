@@ -1,0 +1,913 @@
+https://scholar.google.com/citations?hl=en&user=rWl0U0oAAAAJ
+Total Citations = 14020
+
+1. CP-Miner: Finding copy-paste and related bugs in large-scale software code
+Citations:927
+Authors: Z Li, S Lu, S Myagmar, Y Zhou
+Publication: IEEE Transactions on software Engineering 32 (3), 176-192
+
+2. Learning from mistakes: a comprehensive study on real world concurrency bug characteristics
+Citations:870
+Authors: S Lu, S Park, E Seo, Y Zhou
+Publication: ACM SIGARCH Computer Architecture News 36 (1), 329-339
+
+3. PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code
+Citations:473
+Authors: Z Li, Y Zhou
+Publication: ACM SIGSOFT Software Engineering Notes 30 (5), 306-315
+
+4. Lift: A low-overhead practical information flow tracking system for detecting security attacks
+Citations:447
+Authors: F Qin, C Wang, Z Li, H Kim, Y Zhou, Y Wu
+Publication: 2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+5. AVIO: detecting atomicity violations via access interleaving invariants
+Citations:438
+Authors: S Lu, J Tucek, F Qin, Y Zhou
+Publication: ACM SIGOPS Operating Systems Review 40 (5), 37-48
+
+6. The Multi-Queue Replacement Algorithm for Second Level Buffer Caches.
+Citations:409
+Authors: Y Zhou, J Philbin, K Li
+Publication: USENIX Annual Technical Conference, General Track, 91-104
+
+7. Rx: treating bugs as allergies---a safe method to survive software failures
+Citations:404
+Authors: F Qin, J Tucek, J Sundaresan, Y Zhou
+Publication: Acm sigops operating systems review 39 (5), 235-248
+
+8. Hibernator: helping disk arrays sleep through the winter
+Citations:393
+Authors: Q Zhu, Z Chen, L Tan, Y Zhou, K Keeton, J Wilkes
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 177-190
+
+9. Flashback: A lightweight extension for rollback and deterministic replay for software debugging
+Citations:346
+Authors: SM Srinivasan, S Kandula, CR Andrews, Y Zhou
+Publication: USENIX Annual Technical Conference, General Track, 29-44
+
+10. Designing and Implementing Malicious Hardware.
+Citations:329
+Authors: ST King, J Tucek, A Cozzie, C Grier, W Jiang, Y Zhou
+Publication: Leet 8, 1-8
+
+11. CTrigger: exposing atomicity violation bugs from their hiding places
+Citations:305
+Authors: S Park, S Lu, Y Zhou
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 25-36
+
+12. Performance evaluation of two home-based lazy release consistency protocols for shared virtual memory systems
+Citations:288
+Authors: Y Zhou, L Iftode, K Li
+Publication: ACM SIGOPS Operating Systems Review 30 (si), 75-88
+
+13. Reducing energy consumption of disk storage using power-aware cache management
+Citations:287
+Authors: Q Zhu, FM David, CF Devaraj, Z Li, Y Zhou, P Cao
+Publication: 10th International Symposium on High Performance Computer Architecture (HPCA …
+
+14. Understanding the propagation of hard errors to software and implications for resilient system design
+Citations:272
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: ACM SIGARCH Computer Architecture News 36 (1), 265-276
+
+15. PRES: probabilistic replay with execution sketching on multiprocessors
+Citations:262
+Authors: S Park, Y Zhou, W Xiong, Z Yin, R Kaushik, KH Lee, S Lu
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+16. Have things changed now?: an empirical study of bug characteristics in modern open source software
+Citations:262
+Authors: Z Li, L Tan, X Wang, S Lu, Y Zhou, C Zhai
+Publication: Proceedings of the 1st workshop on Architectural and system support for …
+
+17. Dynamic tracking of page miss ratio curve for memory management
+Citations:257
+Authors: P Zhou, V Pandey, J Sundaresan, A Raghuraman, Y Zhou, S Kumar
+Publication: ACM SIGOPS Operating Systems Review 38 (5), 177-188
+
+18. C-Miner: Mining Block Correlations in Storage Systems.
+Citations:235
+Authors: Z Li, Z Chen, SM Srinivasan, Y Zhou
+Publication: FAST 4, 173-186
+
+19. Bugbench: Benchmarks for evaluating bug detection tools
+Citations:221
+Authors: S Lu, Z Li, F Qin, L Tan, P Zhou, Y Zhou
+Publication: Workshop on the evaluation of software defect detection tools 5
+
+20. SherLog: error diagnosis by connecting clues from run-time logs
+Citations:220
+Authors: D Yuan, H Mai, W Xiong, L Tan, Y Zhou, S Pasupathy
+Publication: ACM SIGARCH computer architecture news 38 (1), 143-154
+
+21. MUVI: automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs
+Citations:215
+Authors: S Lu, S Park, C Hu, X Ma, W Jiang, Z Li, RA Popa, Y Zhou
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 103-116
+
+22. An empirical study on configuration errors in commercial and open source systems
+Citations:214
+Authors: Z Yin, X Ma, J Zheng, Y Zhou, LN Bairavasundaram, S Pasupathy
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+23. SafeMem: Exploiting ECC-memory for detecting memory leaks and memory corruption during production runs
+Citations:205
+Authors: F Qin, S Lu, Y Zhou
+Publication: 11th International Symposium on High-Performance Computer Architecture, 291-302
+
+24. Improving software diagnosability via log enhancement
+Citations:197
+Authors: D Yuan, J Zheng, S Park, Y Zhou, S Savage
+Publication: ACM Transactions on Computer Systems (TOCS) 30 (1), 4
+
+25. How do fixes become bugs?
+Citations:191
+Authors: Z Yin, D Yuan, Y Zhou, S Pasupathy, L Bairavasundaram
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+26. iWatcher: Efficient architectural support for software debugging
+Citations:180
+Authors: P Zhou, F Qin, W Liu, Y Zhou, J Torrellas
+Publication: Proceedings. 31st Annual International Symposium on Computer Architecture …
+
+27. Second-level buffer cache management
+Citations:176
+Authors: Y Zhou, Z Chen, K Li
+Publication: IEEE Transactions on parallel and distributed systems 15 (6), 505-519
+
+28. Triage: diagnosing production run failures at the user's site
+Citations:166
+Authors: J Tucek, S Lu, C Huang, S Xanthos, Y Zhou
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 131-144
+
+29. Are disks the dominant contributor for storage failures?: A comprehensive study of storage subsystem failure characteristics
+Citations:162
+Authors: W Jiang, C Hu, Y Zhou, A Kanevsky
+Publication: ACM Transactions on Storage (TOS) 4 (3), 7
+
+30. AccMon: Automatically detecting memory-related bugs via program counter-based invariants
+Citations:162
+Authors: P Zhou, W Liu, L Fei, S Lu, F Qin, Y Zhou, S Midkiff, J Torrellas
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+31. HARD: Hardware-assisted lockset-based race detection
+Citations:159
+Authors: P Zhou, R Teodorescu, Y Zhou
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+32. /* iComment: Bugs or bad comments?*
+Citations:158
+Authors: L Tan, D Yuan, G Krishna, Y Zhou
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 145-158
+
+33. Using likely program invariants to detect hardware errors
+Citations:150
+Authors: SK Sahoo, ML Li, P Ramachandran, SV Adve, VS Adve, Y Zhou
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+34. Log correlation for intrusion detection: A proof of concept
+Citations:146
+Authors: C Abad, J Taylor, C Sengul, W Yurcik, Y Zhou, K Rowe
+Publication: 19th Annual Computer Security Applications Conference, 2003. Proceedings …
+
+35. Power-aware storage cache management
+Citations:139
+Authors: Q Zhu, Y Zhou
+Publication: IEEE Transactions on Computers 54 (5), 587-602
+
+36. Ad Hoc Synchronization Considered Harmful.
+Citations:137
+Authors: W Xiong, S Park, J Zhang, Y Zhou, Z Ma
+Publication: OSDI 10, 163-176
+
+37. Eviction-based Cache Placement for Storage Caches.
+Citations:123
+Authors: Z Chen, Y Zhou, K Li
+Publication: USENIX Annual Technical Conference, General Track, 269-281
+
+38. Performance directed energy management for main memory and disks
+Citations:122
+Authors: X Li, Z Li, F David, P Zhou, Y Zhou, S Adve, S Kumar
+Publication: ACM SIGARCH Computer Architecture News 32 (5), 271-283
+
+39. Characterizing logging practices in open-source software
+Citations:118
+Authors: D Yuan, S Park, Y Zhou
+Publication: Proceedings of the 34th International Conference on Software Engineering …
+
+40. Be conservative: enhancing failure diagnosis with proactive logging
+Citations:106
+Authors: D Yuan, S Park, P Huang, Y Liu, MM Lee, X Tang, Y Zhou, S Savage
+Publication: Presented as part of the 10th {USENIX} Symposium on Operating Systems Design …
+
+41. PB-LRU: a self-tuning power aware storage cache replacement algorithm for conserving disk energy
+Citations:104
+Authors: Q Zhu, A Shankar, Y Zhou
+Publication: Proceedings of the 18th annual international conference on Supercomputing, 79-88
+
+42. Do not blame users for misconfigurations
+Citations:97
+Authors: T Xu, J Zhang, P Huang, J Zheng, T Sheng, D Yuan, Y Zhou, S Pasupathy
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+43. Relaxed consistency and coherence granularity in DSM systems: A performance evaluation
+Citations:97
+Authors: Y Zhou, L Iftode, JP Sing, K Li, BR Toonen, I Schoinas, MD Hill, DA Wood
+Publication: ACM SIGPLAN Notices 32 (7), 193-205
+
+44. DMA-aware memory energy management
+Citations:95
+Authors: V Pandey, W Jiang, Y Zhou, R Bianchini
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+45. eDoctor: Automatically diagnosing abnormal battery drain issues on smartphones
+Citations:94
+Authors: X Ma, P Huang, X Jin, P Wang, S Park, D Shen, Y Zhou, LK Saul, ...
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+46. Bug characteristics in open source software
+Citations:90
+Authors: L Tan, C Liu, Z Li, X Wang, Y Zhou, C Zhai
+Publication: Empirical Software Engineering 19 (6), 1665-1705
+
+47. AutoISES: Automatically Inferring Security Specification and Detecting Violations.
+Citations:89
+Authors: L Tan, X Zhang, X Ma, W Xiong, Y Zhou
+Publication: USENIX Security Symposium, 379-394
+
+48. Do I use the wrong definition?: DeFuse: definition-use invariants for detecting concurrency and sequential bugs
+Citations:86
+Authors: Y Shi, S Park, Z Yin, S Lu, Y Zhou, W Chen, W Zheng
+Publication: ACM Sigplan Notices 45 (10), 160-174
+
+49. Research advances in the Mesozoic tectonic regimes during the formation of Jiaodong ore cluster area
+Citations:84
+Authors: D Jun, Y Liqiang, G Liangsheng, W Qingfei, Z Jing, G Bangfei, Z Yinghua, ...
+Publication: progress in natural science 16 (8), 777-784
+
+50. Empirical evaluation of multi-level buffer cache collaboration for storage systems
+Citations:84
+Authors: Z Chen, Y Zhang, Y Zhou, H Scott, B Schiefer
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (1), 145-156
+
+51. Encore: Exploiting system environment and correlation information for misconfiguration detection
+Citations:83
+Authors: J Zhang, L Renganarayana, X Zhang, N Ge, V Bala, T Xu, Y Zhou
+Publication: ACM SIGPLAN Notices 49 (4), 687-700
+
+52. Sweeper: A lightweight end-to-end system for defending against fast worms
+Citations:82
+Authors: J Tucek, J Newsome, S Lu, C Huang, S Xanthos, D Brumley, Y Zhou, ...
+Publication: ACM SIGOPS Operating Systems Review 41 (3), 115-128
+
+53. Rx: Treating bugs as allergies—a safe method to survive software failures
+Citations:75
+Authors: F Qin, J Tucek, Y Zhou, J Sundaresan
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (3), 7
+
+54. aComment: mining annotations from comments and code to detect interrupt related concurrency bugs
+Citations:70
+Authors: L Tan, Y Zhou, Y Padioleau
+Publication: 2011 33rd International Conference on Software Engineering (ICSE), 11-20
+
+55. Hey, you have given me too many knobs!: understanding and dealing with over-designed configuration in system software
+Citations:68
+Authors: T Xu, L Jin, X Fan, Y Zhou, S Pasupathy, R Talwadker
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+56. Experiences with VI communication for database storage
+Citations:68
+Authors: Y Zhou, A Bilas, S Jagannathan, C Dubnicki, JF Philbin, K Li
+Publication: Proceedings 29th Annual International Symposium on Computer Architecture …
+
+57. Understanding Customer Problem Troubleshooting from Storage System Logs.
+Citations:67
+Authors: W Jiang, C Hu, S Pasupathy, A Kanevsky, Z Li, Y Zhou
+Publication: FAST 9, 43-56
+
+58. Fast cluster failover using virtual memory-mapped communication
+Citations:66
+Authors: Y Zhou, PM Chen, K Li
+Publication: Proceedings of the 13th international conference on Supercomputing, 373-382
+
+59. Mining block correlations to improve storage performance
+Citations:64
+Authors: Z Li, Z Chen, Y Zhou
+Publication: ACM Transactions on Storage (TOS) 1 (2), 213-245
+
+60. Trace-based microarchitecture-level diagnosis of permanent hardware faults
+Citations:61
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+61. Applications of wavelet Galerkin FEM to bending of beam and plate structures
+Citations:59
+Authors: Z Youhe, W Jizeng, Z Xiaojing
+Publication: Applied mathematics and mechanics 19 (8), 745-755
+
+62. Adaptive multi-resource prediction in distributed resource sharing environment
+Citations:58
+Authors: J Liang, K Nahrstedt, Y Zhou
+Publication: IEEE International Symposium on Cluster Computing and the Grid, 2004. CCGrid …
+
+63. Cross-component energy management: Joint adaptation of processor and memory
+Citations:57
+Authors: X Li, R Gupta, SV Adve, Y Zhou
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 4 (3), 14
+
+64. Performance directed energy management for main memory and disks
+Citations:56
+Authors: X Li, Z Li, Y Zhou, S Adve
+Publication: ACM Transactions on Storage (TOS) 1 (3), 346-380
+
+65. Managing energy-performance tradeoffs for multithreaded applications on multiprocessor architectures
+Citations:53
+Authors: S Park, W Jiang, Y Zhou, S Adve
+Publication: ACM SIGMETRICS Performance Evaluation Review 35 (1), 169-180
+
+66. Systems approaches to tackling configuration errors: A survey
+Citations:52
+Authors: T Xu, Y Zhou
+Publication: ACM Computing Surveys (CSUR) 47 (4), 70
+
+67. Efficient online validation with delta execution
+Citations:51
+Authors: J Tucek, W Xiong, Y Zhou
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 193-204
+
+68. Listening to programmers taxonomies and characteristics of comments in operating system code
+Citations:49
+Authors: Y Padioleau, L Tan, Y Zhou
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+69. Reslice: Selective re-execution of long-retired misspeculated instructions using forward slicing
+Citations:49
+Authors: SR Sarangi, W Liu, J Torrellas, Y Zhou
+Publication: 38th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'05 …
+
+70. Early detection of configuration errors to reduce failure damage
+Citations:43
+Authors: T Xu, X Jin, P Huang, Y Zhou, S Lu, L Jin, S Pasupathy
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+71. Performance regression testing target prioritization via performance risk analysis
+Citations:42
+Authors: P Huang, X Ma, D Shen, Y Zhou
+Publication: Proceedings of the 36th International Conference on Software Engineering, 60-71
+
+72. Efficient and flexible architectural support for dynamic monitoring
+Citations:37
+Authors: Y Zhou, P Zhou, F Qin, W Liu, J Torrellas
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 2 (1), 3-33
+
+73. Removal of fluoride from aqueous solutions by adsorption using a siliceous mineral of a Kenyan origin
+Citations:33
+Authors: EW Wambu, CO Onindo, W Ambusso, GK Muthakia
+Publication: CLEAN–Soil, Air, Water 41 (4), 340-348
+
+74. Towards understanding bugs in open source router software
+Citations:33
+Authors: Z Yin, M Caesar, Y Zhou
+Publication: ACM SIGCOMM Computer Communication Review 40 (3), 34-40
+
+75. Memory resource allocation for file system prefetching: from a supply chain management perspective
+Citations:33
+Authors: Z Zhang, A Kulkarni, X Ma, Y Zhou
+Publication: Proceedings of the 4th ACM European conference on Computer systems, 75-88
+
+76. Swat: An error resilient system
+Citations:33
+Authors: ML Li, P Ramachandran, SK Sahoo, SV Adve, VS Adve, Y Zhou
+Publication: Proceedings of SELSE
+
+77. Pathexpander: Architectural support for increasing the path coverage of dynamic bug detection
+Citations:31
+Authors: S Lu, P Zhou, W Liu, Y Zhou, J Torrellas
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+78. Architecture support system and method for memory monitoring
+Citations:30
+Authors: Y Zhou, J Torrellas, P Zhou
+Publication: US Patent 7,711,988
+
+79. Pfc: Transparent optimization of existing prefetching strategies for multi-level storage systems
+Citations:30
+Authors: Z Zhang, K Lee, X Ma, Y Zhou
+Publication: 2008 The 28th International Conference on Distributed Computing Systems, 740-751
+
+80. CISpan: comprehensive incremental mining algorithms of closed sequential patterns for multi-versional software mining
+Citations:28
+Authors: D Yuan, K Lee, H Cheng, G Krishna, Z Li, X Ma, Y Zhou, J Han
+Publication: Proceedings of the 2008 SIAM International Conference on Data Mining, 84-95
+
+81. ConfValley: a systematic configuration validation framework for cloud services
+Citations:27
+Authors: P Huang, WJ Bolosky, A Singh, Y Zhou
+Publication: Proceedings of the Tenth European Conference on Computer Systems, 19
+
+82. iwatcher: Simple, general architectural support for software debugging
+Citations:27
+Authors: P Zhou, F Uin, W Liu, Y Zhou, J Torrellas
+Publication: IEEE Micro 24 (6), 50-56
+
+83. Performing dynamic information flow tracking
+Citations:25
+Authors: F Qin, C Wang, HS Kim, Y Zhou, Y Wu
+Publication: US Patent App. 11/394,287
+
+84. Log20: Fully automated optimal placement of log printing statements under specified overhead threshold
+Citations:24
+Authors: X Zhao, K Rodrigues, Y Luo, M Stumm, D Yuan, Y Zhou
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 565-581
+
+85. Indexing and querying semi-structured data
+Citations:23
+Authors: Z Li, C Huang, S Xanthos, Q Zhu, Y Zhou
+Publication: US Patent 9,507,848
+
+86. Finding atomicity-violation bugs through unserializable interleaving testing
+Citations:22
+Authors: S Lu, S Park, Y Zhou
+Publication: IEEE Transactions on Software Engineering 38 (4), 844-860
+
+87. Avio: Detecting atomicity violations via access-interleaving invariants
+Citations:22
+Authors: S Lu, J Tucek, F Qin, Y Zhou
+Publication: IEEE micro 27 (1), 26-35
+
+88. Uclog: A unified, correlated logging architecture for intrusion detection
+Citations:22
+Authors: Z Li, J Taylor, E Partridge, Y Zhou, W Yurcik, C Abad, JJ Barlow, ...
+Publication: the 12th International Conference on Telecommunication Systems-Modeling and …
+
+89. A tyrosinase biosensor based on ZnO nanorod clusters/nanocrystalline diamond electrodes for biosensing of phenolic compounds
+Citations:21
+Authors: J Zhao, J Zhi, Y Zhou, W Yan
+Publication: Analytical Sciences 25 (9), 1083-1088
+
+90. Atomicity violation detection using access interleaving invariants
+Citations:19
+Authors: Y Zhou, S Lu, JA Tucek
+Publication: US Patent 8,533,681
+
+91. A central swivel point in the RFC clamp loader controls PCNA opening and loading on DNA
+Citations:19
+Authors: M Sakato, M O'Donnell, MM Hingorani
+Publication: Journal of molecular biology 416 (2), 163-175
+
+92. FTXen: Making hypervisor resilient to hardware faults on relaxed cores
+Citations:18
+Authors: X Jin, S Park, T Sheng, R Chen, Z Shan, Y Zhou
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+93. Defdroid: Towards a more defensive mobile os against disruptive app behavior
+Citations:17
+Authors: P Huang, T Xu, X Jin, Y Zhou
+Publication: Proceedings of the 14th Annual International Conference on Mobile Systems …
+
+94. Extraction of code level security specification
+Citations:17
+Authors: L Tan, X Zhang, Y Zhou
+Publication: US Patent 8,539,593
+
+95. Delta execution for software reliability
+Citations:17
+Authors: Y Zhou, D Marinov, W Sanders, C Zilles, M d’Amorim, S Lauterburg, ...
+Publication: Hot Topics in Dependability
+
+96. NSF expedition on variability-aware software: Recent results and contributions
+Citations:16
+Authors: L Wanner, L Lai, A Rahimi, M Gottscho, P Mercati, CH Huang, F Sala, ...
+Publication: it-Information Technology 57 (3), 181-198
+
+97. Neural network-based active control for offshore platforms
+Citations:16
+Authors: 周亚军， 赵德有
+Publication: 海洋工程: 英文版 17 (3), 461-468
+
+98. Automatic On-line Failure Diagnosis at the End-User Site.
+Citations:15
+Authors: J Tucek, S Lu, C Huang, S Xanthos, Y Zhou
+Publication: HotDep
+
+99. Flashback: A light-weight rollback and deterministic replay extension for software debugging
+Citations:14
+Authors: S Srinivasan, S Kandula, C Andrews, Y Zhou
+Publication: 
+
+100. Department of Orthopaedics, Union Hospital of Tongji Medical College of Huazhong Science and Technology University, Wuhan 430022; Treatment of osteonecrosis of the femoral head …
+Citations:13
+Authors: R MEI, S YANG, C YANG
+Publication: Orthopedic Journal of China 7
+
+101. Effects of Sr substitution on dimensionality and superconducting properties of Hg 0.7 Pb 0.3 Ba 2 Ca 2 Cu 3 O y
+Citations:12
+Authors: Y Zhuo, SM Oh, JH Choi, MS Kim, SI Lee, NP Kiryakov, MS Kuznetsov, ...
+Publication: Physical Review B 60 (18), 13094
+
+102. Thread scheduling for out-of-core applications with memory server on multicomputers
+Citations:12
+Authors: Y Zhou, L Wang, DW Clark, K Li
+Publication: IOPADS 99, 57-67
+
+103. Limits to the performance of software shared memory: A layered approach
+Citations:12
+Authors: A Bilas, D Jiang, Y Zhou, JP Singh
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+104. Studies on a synthetic sitinakite-type silicotitanate cation exchanger. Part 2. Effect of alkaline earth and alkali metals on the uptake of Cs and Sr radioisotopes
+Citations:11
+Authors: A Dyer, J Newton, L O’Brien, S Owens
+Publication: Microporous and Mesoporous Materials 120 (3), 272-277
+
+105. AXES at TRECVid 2011
+Citations:10
+Authors: K McGuinness, R Aly, S Chen, M Frappier, K Martijn, H Lee, R Ordelman, ...
+Publication: 
+
+106. Detecting concurrency bugs from the perspectives of synchronization intentions
+Citations:10
+Authors: S Lu, S Park, Y Zhou
+Publication: IEEE Transactions on Parallel and Distributed Systems 23 (6), 1060-1072
+
+107. An exact analysis of sliding frictional contact of a rigid punch over the surface of magneto-electro-elastic materials
+Citations:9
+Authors: YT Zhou, TW Kim
+Publication: Acta Mechanica 225 (3), 625-645
+
+108. A case for smartphone reuse to augment elementary school education
+Citations:9
+Authors: X Li, PJ Ortiz, J Browne, D Franklin, JY Oliver, R Geyer, Y Zhou, FT Chong
+Publication: International Conference on Green Computing, 459-466
+
+109. Establishment and application of an intact natural model of human dental plaque biofilm.
+Citations:9
+Authors: D Wei-li, Z Ying-hong, L Cheng-zhang, L Huan, S Shu-huan, P Bo-qun
+Publication: Shanghai Journal of Stomatology 19 (2)
+
+110. Treating Bugs as Allergies: A Safe Method for Surviving Software Failures.
+Citations:8
+Authors: F Qin, J Tucek, Y Zhou
+Publication: HotOS
+
+111. Performance-directed energy management for storage systems
+Citations:8
+Authors: X Li, Z Li, P Zhou, Y Zhou, SV Adve, S Kumar
+Publication: IEEE Micro 24 (6), 38-49
+
+112. Operation statistics and analysis of relay protection and automatic devices of Chinese power systems in 1995
+Citations:8
+Authors: Z Yulan, X Yong, W Yuling
+Publication: Power Syst. Technology 20 (12), 57-61
+
+113. Deep-hole directional static cracking technique for pressure relief and permeability improvement in mining-coal bed
+Citations:7
+Authors: C ZHANG, B LIN, Y ZHOU, C ZHAI, C ZHOU, X SUN
+Publication: Journal of Mining & Safety Engineering 30 (4), 600-604
+
+114. The kinematics of the fold-thrust zones in the western Yangtze area
+Citations:7
+Authors: W Xinwei, W Yujin, Z Yan
+Publication: Earth Science Frontiers 17 (3), 200-212
+
+115. Study of shallow unloading mechanism and stability of foundation interface of super high arch dam
+Citations:7
+Authors: P Lin, RK Wang, YN Zhou, WY Zhou
+Publication: Rock Soil Mech 29 (S), 8-14
+
+116. SDS 模型化简合并多边形的一个改进算法研究
+Citations:7
+Authors: 张晶， 周烨， 刘瑜
+Publication: 中国图象图形学报 11 (7), 1010-1016
+
+117. VI-attached database storage
+Citations:7
+Authors: Y Zhou, A Bilas, S Jagannathan, D Xinidis, C Dubnicki, K Li
+Publication: IEEE Transactions on Parallel and Distributed Systems 16 (1), 35-50
+
+118. The game of twenty questions: Do you know where to log?
+Citations:6
+Authors: X Zhao, K Rodrigues, Y Luo, M Stumm, D Yuan, Y Zhou
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 125-131
+
+119. Surface-Enhanced Raman Scattering of 4-Aminothiophenol Adsorbed on Silver Nanosheets Deposited onto Cubic Boron Nitride Films
+Citations:6
+Authors: Y Zhou, J Zhi, J Zhao, M Xu
+Publication: Analytical Sciences 26 (9), 957-961
+
+120. Power consumption of wastewater treatment and the measures of energy saving.
+Citations:6
+Authors: ZQ Zhao, D Xu, H Zhang, ZB Sun, HH Yang, Y Zhou
+Publication: Science & Technology Review 28 (22), 43-47
+
+121. Studies on Formation of Li0uid and Gaseous Formaldehyde6Induced DNA6Protein Crosslinks in Rat Marrow Cells
+Citations:6
+Authors: W Kun, Z Yanrqing, WU Kai, D Shurmao, Y Xu
+Publication: 
+
+122. NChecker: Saving mobile app developers from network disruptions
+Citations:5
+Authors: X Jin, P Huang, T Xu, Y Zhou
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 22
+
+123. Views and transactional storage for large graphs
+Citations:5
+Authors: MM Lee, I Roy, A AuYoung, V Talwar, KR Jayaram, Y Zhou
+Publication: ACM/IFIP/USENIX International Conference on Distributed Systems Platforms …
+
+124. Snippet search
+Citations:5
+Authors: Y Zhou, S Xanthos, Q Zhu, X Ma, Z Li
+Publication: US Patent 8,498,987
+
+125. The Stackelberg Power control Game in wireless data networks
+Citations:5
+Authors: H Jiang, J Ruan
+Publication: 2008 IEEE International Conference on Service Operations and Logistics, and …
+
+126. Surface Nano-fabrication by Laser Precision Engineering
+Citations:5
+Authors: M HONG, CS LIM, Y ZHOU, LS TAN, L SHI, TC CHONG
+Publication: The Review of Laser Engineering 36 (APLS), 1184-1187
+
+127. Neutral beam injection experiments in the HL-1M tokamak
+Citations:5
+Authors: Y Long-Wen, L Guang-Jiu, Z Guang-Wu, J Tao, Z Yan, J Shao-Feng, ...
+Publication: Chinese physics letters 20 (10), 1795
+
+128. GW25-e0427 Polymorphisms in the FADS1/FADS2 gene cluster are associated with the risk of coronary artery disease and ischemic stroke
+Citations:4
+Authors: RX Yin, Q Yang, YJ Zhou
+Publication: Journal of the American College of Cardiology 64 (16 Supplement), C117-C118
+
+129. A three dimensional finite element analysis on en-masse retraction of maxillary anterior teeth by rocking-chair archwire in sliding mechanics.
+Citations:4
+Authors: A Xiaoli, C Hongwei, S Qingzong, Z Youhe, L Bin, W Jizeng
+Publication: West China Journal of Stomatology 31 (1)
+
+130. Effect of Dendroaspis Natriuretic Peptide on Calcium-Activated Potassium Currents and Its Mechanism
+Citations:4
+Authors: HS Guo, YZ Yang, Y Zhou, J Xu, ZX Cai, QH Qi
+Publication: The Journal of Physiological Sciences, 0712210020-0712210020
+
+131. Physical, chemical, and optical properties of Er 3+-doped low Al (PO 3) 3/Al (H 2 PO 4) 3 modified fluoroaluminate glasses for 2.7 μm application
+Citations:3
+Authors: F Huang, W Li, L Hu, D Chen
+Publication: JOSA B 31 (5), 1137-1144
+
+132. Preparation, Characterization and Microwave Absorbing Properties of Fe85Si9. 6Al5. 4 Alloys in the Low Frequency Range
+Citations:3
+Authors: T QIU
+Publication: Journal of Materials Engineering 4 (2), 1-6
+
+133. Nutrient dynamics in Quercus mongolica leaves at different canopy positions.
+Citations:3
+Authors: C Xu-Bing, H Shi-Jie, Z Zhong-Hui, Z Yu-Mei, W Shu-Qi, W Xue-Juan
+Publication: Yingyong Shengtai Xuebao 22 (9)
+
+134. Efficient execution of multiple queries on deep memory hierarchy
+Citations:3
+Authors: Y Zhang, ZF Chen, YY Zhou
+Publication: Journal of Computer Science and Technology 22 (2), 273-279
+
+135. Have things changed now?
+Citations:3
+Authors: Z Li, L Tan, Y Zhou, C Zhai
+Publication: An empirical study of bug characteristics in modern open source software, In …
+
+136. The analysis of heterogeneity of HWTX-I expressed in pichia pastoris
+Citations:3
+Authors: DS Nie, YK Zhou, ZY Cao, Y Liu
+Publication: Sheng wu gong cheng xue bao= Chinese journal of biotechnology 22 (2), 215-219
+
+137. A kind of NN modeling method of relational model of Chinese fir microstructure and its material characteristic
+Citations:3
+Authors: J Zehui, J Xiaomei, Z Yucheng, A Yuan, Z Liang, J Yuanwei
+Publication: Scientia Silvae Sinicae 41 (4), 133
+
+138. Are Disks the Dominant Contributor for Storage Failures?
+Citations:3
+Authors: W Jiang, C Hu, Y Zhou, A Kanevsky, N Appliance
+Publication: Usenix FAST 8
+
+139. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+140. Experience in building a comparative performance analysis engine for a commercial system
+Citations:2
+Authors: P Huang, C Schechter, V Chen, S Hill, D Shen, Y Zhou, LK Saul
+Publication: Department of Computer Science and Engineering, University of California …
+
+141. Evaluation of Mobility Performance and Deployment Scenarios in UMTS Heterogeneous Networks
+Citations:2
+Authors: M Wang, E Ramos, YPE Wang, N Lidian, S Nammi, M Curran
+Publication: 2014 IEEE 79th Vehicular Technology Conference (VTC Spring), 1-5
+
+142. 表面氨基改性制备高负载量高分散性钯/堇青石整体式催化剂
+Citations:2
+Authors: 周放， 朱玉超， 周永华， 叶红齐， 金一粟
+Publication: 石油学报 (石油加工) 30 (1), 24-31
+
+143. Effect of ozone dosing location changed on water quality in enclosed recirculating aquaculture system for tongue sole (Cynoglossus semilaevis)
+Citations:2
+Authors: Y Zhou, B HUANG, X SONG, J ZHAI, C GAO, Y LIANG, F WANG
+Publication: Fishery Modernization 39 (6), 5-9
+
+144. Available online at www. sciencedirect. com
+Citations:2
+Authors: STV Sim, SR Suwarno, YXS Lim, WXJ Lim, TH Chong, CG Fane
+Publication: Procedia Engineering 44, 562-566
+
+145. Properties of venison protein gelatin and mathematical model.
+Citations:2
+Authors: SJ Wang, YJ Zhou, D Su, X Qian, LB He, ZR Feng
+Publication: Nongye Jixie Xuebao= Transactions of the Chinese Society for Agricultural …
+
+146. Greenhouse sludge dry treatment
+Citations:2
+Authors: W Chuanqi, Z Zhentao, L Jun
+Publication: Science and Technology Review 28 (22), 35-40
+
+147. Comprehensive review
+Citations:2
+Authors: X Li, X Zhao
+Publication: Stem Cells and Development 17, 1043-1052
+
+148. Principal components-artificial neural networks for predicting SSC and firmness of fruits based on near infrared spectroscopy
+Citations:2
+Authors: X Fu, Y Ying, H Xu, Y Zhou
+Publication: 2007 ASAE Annual Meeting, 1
+
+149. A study of gas electron multiplier
+Citations:2
+Authors: S An, C Li, Y Zhou, Z Xu
+Publication: Nuclear Science and Techniques 15 (5), 290-298
+
+150. Manufacture of mullite fire bricks using kyanite
+Citations:2
+Authors: N Wen, Z Yimin, L Cuiwei, Z Chunyan
+Publication: Geological Review 1
+
+151. Growing up without a father: The lived experience of fatherlessness for young adult men
+Citations:2
+Authors: K Maki-Banmen
+Publication: University of British Columbia
+
+152. How Do Fixes Become Bugs? A Comprehensive Characteristic Study on Incorrect Fixes in Commercial and Open Source Operating Systems
+Citations:2
+Authors: Z Yin, D Yuan, Y Zhou, S Pasupathy, L Bairavasundaram
+Publication: 
+
+153. Construction and characterization of enterohemorrhagic Escherichia coli O157: H7 espF deletion mutant.
+Citations:1
+Authors: Y Yang, CH Wang, Y Zhou, CS Wan
+Publication: Chinese Journal of Zoonoses 26 (7), 654-658
+
+154. Spancoverage: Architectural support for increasing the path coverage of dynamic bug detection
+Citations:1
+Authors: S Lu, P Zhou, W Liu, Y Zhou, J Torrellas
+Publication: 
+
+155. Measurement of Ca~(2+) transient and contraction of single cardiomyocytes using ion imaging system
+Citations:1
+Authors: X Cui, S Zhou, B Wu
+Publication: Journal of Shanxi Medical University 33 (5), 461-463
+
+156. ANEL: robust mobile network programming using a declarative language
+Citations:
+Authors: X Jin, WG Griswold, Y Zhou
+Publication: Proceedings of the 5th International Conference on Mobile Software …
+
+157. Allergy Immunotherapy: Characteristics and Risk Factors For Recurrent Systemic Reactions
+Citations:
+Authors: K Ductan, E Schafer, R Story, D Masood, P Detjen, Y Zhou
+Publication: The Journal of Allergy and Clinical Immunology 133 (2)
+
+158. Journal of Translational Medicine
+Citations:
+Authors: W Wu, M Jin, Y Wang, B Liu, D Shen, P Chen, S Hannes, Z Li, S Hirani, ...
+Publication: Journal of Translational Medicine 12, 152
+
+159. Automated and accurate initialization of digital image correlation for large deformation measurement
+Citations:
+Authors: Y Zhou, J Chen, B Pan
+Publication: International Conference on Optics in Precision Engineering and …
+
+160. Intelligent Automation Platform for Bioprocess Development
+Citations:
+Authors: T Wu, Y Zhou
+Publication: Computer Aided Chemical Engineering 30, 1227-1231
+
+161. Analysis of habitat characteristics of Tanichthys albonubes in Shimen National Forest Park
+Citations:
+Authors: D WANG, K LI, L LU
+Publication: Journal of Shandong University (Natural Science), 2
+
+162. Effect of carbon disulfide on male sexual function and reproductive outcomes.
+Citations:
+Authors: Q Ding, JJ Ji, JY Ma, YJ Zhou, XY Huang, N Wang, S Wang, XG Li, ...
+Publication: Journal of Environmental & Occupational Medicine 27 (10), 622-625
+
+163. Catalysis Mechanism of Aminopeptidase from Streptomyces Griseus: A Quantum Mechanical/Molecular Mechanical Analysis
+Citations:
+Authors: A Li, P Imhof
+Publication: Biophysical Journal 98 (3), 450a
+
+164. Triage: Diagnosing Production Run Failures at the User's
+Citations:
+Authors: J Tucek, S Lu, C Huang, S Xanthos, Y Zhou
+Publication: 21st Acm Symposium on Operating Systems Principles (Sosp'07), 129
+
+165. Based on the Theory of Organizational Ecology Studies the Evolution of Industrial Clusters——Zhejiang Anji Chair Industry Clusters as an Example
+Citations:
+Authors: F WANG, Y ZHOU
+Publication: East China Economic Management, 12
+
+166. Rx: Treating bugs method to, survive as allergies-A safe software failures
+Citations:
+Authors: F Qin, J Tucek, Y Zhou, J Sundaresan
+Publication: ACM TRANSACTIONS ON COMPUTER SYSTEMS 25 (3)
+
+167. Study of active periodical structure's controlling the direction of reflector electromagnetic wave
+Citations:
+Authors: S Donglin, Z Yan
+Publication: JOURNAL-BEIJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS 33 (2), 164
+
+168. Survery and analysis on occupational accidents during 1980-2004 in a certain machine group
+Citations:
+Authors: Y Zhou, Z Liu, L Xu
+Publication: CHINESE JOURNAL OF INDUSTRIAL MEDICINE 19 (3), 179
+
+169. Solid State Synthesis of Water-Dispersive CdS Nanoparticles at Room Temperature
+Citations:
+Authors: ZJSMAJ ZHOU, YMLI Cun
+Publication: Chinese Journal of Inorganic Chemistry, 29
+
+170. Breeding bacterial blight–resistant rice cultivars at the Philippine Rice Research Institute
+Citations:
+Authors: RE Tabien, LS Sebastian
+Publication: Advances in Rice Genetics: (In 2 Parts), 49-51
+
+171. Research on thermal conductivity of zirconia-containing high alumina refractory fiber felt
+Citations:
+Authors: C Yuangui, Z Jiahua, Z Yong
+Publication: Refractories, 10
+
+172. Synthesis of New Chiral Hydrogenated Quinolinyl-Oxazoline Ligands
+Citations:
+Authors: Z Yi-Bo, D Xue-Xin, Z Qi-Lin
+Publication: CHEMICAL JOURNAL OF CHINESE UNIVERSITIES-CHINESE 22, 130-133
+
+173. Research on fault diagnosis of nuclear power plants based on genetic algorithms and fuzzy logic
+Citations:
+Authors: Y Zhou, B Zhao
+Publication: Atomic Energy Science and Technology 35 (5), 390-396
+
+174. A novel leptin receptor isoform in rat
+Citations:
+Authors: W May-Yun, TZ Yan, CB Newgard, RH Unger
+Publication: FEBS Letters 2 (398), 344
+
+175. The alignment of angular momentum and its influence on shell correction energy and potential energy surface
+Citations:
+Authors: J Gu, X Wu, Y Zhou
+Publication: Chinese Journal of Nuclear Physics 18 (4), 219-226
+
+176. Analysis of deuterium in titanium by 3He→D nuclear reaction
+Citations:
+Authors: Y Zhou, G Zhao, Z Zhou
+Publication: Acta Physica Sinica 44 (12), 1879-1885
+
+177. Production of Porous Bronze/PTFE Self-Lubricating Materials
+Citations:
+Authors: BB Wu, HN Ma, SW Zhou
+Publication: Met. Powder Rep. 40 (11), 646-650
+
+178. Cuiwei nan zheng lu
+Citations:
+Authors: Y Hua
+Publication: Shanghai gu ji shu dian fu yin
+
+179. An Empirical Study on Configuration Errors in Commercial and Open Source Systems
+Citations:
+Authors: J Zheng, Y Zhou, LN Bairavasundaram, S Pasupathy
+Publication: 
+
+180. Effect of Temperature on the Load-Carrying Capacity of Fiber Glass Reinforced Plastic Beams
+Citations:
+Authors: YL Lau
+Publication: Structural Materials, 139-144
+
+181. Internal confinement improvement discharges in HL-M
+Citations:
+Authors: EY Wang, DM Xu, JY Cao, XY Feng, J Chen, WY Hong, IB Ran, ...
+Publication: 
+
+182. Dynamic Join and Departure in Shared Object Middlewares
+Citations:
+Authors: Y Zhou, K Li
+Publication: 
+

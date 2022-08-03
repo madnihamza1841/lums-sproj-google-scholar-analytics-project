@@ -1,0 +1,285 @@
+
+9. Characterizing and predicting program behavior and its variability
+Citations:264
+Authors: E Duesterwald, C Cascaval, S Dwarkadas
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+15. Proving program termination
+Citations:243
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+20. Volumetric preload measurement by thermodilution: a comparison with transoesophageal echocardiography
+Citations:183
+Authors: CK Hofer, L Furrer, S Matter-Ensner, M Maloigne, R Klaghofer, M Genoni, ...
+Publication: British journal of anaesthesia 94 (6), 748-755
+
+41. Runnemede: An architecture for ubiquitous high-performance computing
+Citations:102
+Authors: NP Carter, A Agrawal, S Borkar, R Cledat, H David, D Dunning, J Fryman, ...
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+55. Multiple page size modeling and optimization
+Citations:71
+Authors: C Cascaval, E Duesterwald, PF Sweeney, RW Wisniewski
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+70. Tradeoffs in buffering speculative memory state for thread-level speculation in multiprocessors
+Citations:51
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 2 (3), 247-279
+
+76. Tradeoffs in buffering memory state for thread-level speculation in multiprocessors
+Citations:48
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+90. Augmint: a multiprocessor simulation environment for Intel x86 architectures
+Citations:40
+Authors: A Sharma, AT Nguyen, J Torellas, M Michael, J Carbajal
+Publication: Center for Supercomputing Research and Development (CSRD) Technical Report 1463
+
+95. QuickRec: prototyping an intel architecture extension for record and replay of multithreaded programs
+Citations:36
+Authors: G Pokam, K Danne, C Pereira, R Kassa, T Kranich, S Hu, J Gottschlich, ...
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 643-654
+
+117. Architectural support for parallel reductions in scalable shared-memory multiprocessors
+Citations:27
+Authors: MJ Garzarán, M Prvulovic, Y Zhang, A Jula, H Yu, L Rauchwerger, ...
+Publication: Proceedings 2001 International Conference on Parallel Architectures and …
+
+136. On the multiplexing degree required to embed permutations in a class of networks with direct interconnects
+Citations:20
+Authors: C Qiao, Y Mei
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+161. FlexRAM: Toward an advanced intelligent memory system
+Citations:13
+Authors: D Keen
+Publication: Proceedings of the 2012 IEEE 30th International Conference on Computer …
+
+169. Using software logging to support multiversion buffering in thread-level speculation
+Citations:11
+Authors: MJ Garzarán, M Prvulovic, V Viñals, JM Llabería, L Rauchwerger, ...
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+176. Report for the NSF workshop on cross-layer power optimization and management
+Citations:9
+Authors: M Pedram, D Brooks, T Pinkston
+Publication: NSF Workshop on Cross-Layer Power Optimization and Management
+
+178. Reducing Cache Misses in Numerical Applications Using Data Relocation and Prefetching.
+Citations:9
+Authors: Y Yamada, TL Johnson, GE Haab, JC Gyllenhaal, WW Hwu
+Publication: ILLINOIS UNIV AT URBANA COORDINATED SCIENCE LAB
+
+190. Millimeter-wave propagation within a computer chip package
+Citations:6
+Authors: X Timoneda, S Abadal, A Cabellos-Aparicio, D Manessis, J Zhou, ...
+Publication: 2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5
+
+206. Smartapps, an application centric approach to high performance computing: compiler-assisted software and hardware support for reduction operations
+Citations:5
+Authors: F Dang, MJ Garzaran, M Prvulovic, Y Zhang, A Jula, H Yu, N Amato, ...
+Publication: Proceedings 16th International Parallel and Distributed Processing Symposium …
+
+209. An empirical study of the effect of source-level loop transformations on compiler stability
+Citations:4
+Authors: Z Gong, Z Chen, J Szaday, D Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 126
+
+211. LORE: A loop repository for the evaluation of compilers
+Citations:4
+Authors: Z Chen, Z Gong, JJ Szaday, DC Wong, D Padua, A Nicolau, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 219-228
+
+221. Power efficient sharing-aware GPU data management
+Citations:3
+Authors: A Tabbakh, M Annavaram, X Qian
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+223. Snatch: Opportunistically reassigning power allocation between processor and memory in 3D stacks
+Citations:3
+Authors: D Skarlatos, R Thomas, A Agrawal, S Qin, R Pilawa-Podgurski, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 54
+
+231. Opportunistic Beamforming in Wireless Network-on-Chip
+Citations:2
+Authors: S Abadal, A Marruedo, A Franques, H Taghvaee, A Cabellos-Aparicio, ...
+Publication: 2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5
+
+236. Low-power technologies in high-performance computer: trends and perspectives
+Citations:2
+Authors: X Xie
+Publication: National Science Review 3 (1), 23-25
+
+242. Software Logging under Speculative Parallelization
+Citations:2
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181-195
+
+252. An empirical study of the effect of source-level transformations on compiler stability
+Citations:1
+Authors: Z Gong, Z Chen, JJ Szaday, DC Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the Workshop on Compilers for Parallel Computing (CPC’18)
+
+256. Exascale Hardware Architectures Working Group
+Citations:1
+Authors: S Hemmert, J Ang, P Chiang, B Carnes, D Doerfler, M Leininger, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+261. Parallel Computing Research at Illinois The UPCRC Agenda
+Citations:1
+Authors: R Kumar, D Marinov, D Padua, M Parthasarathy, S Patel, D Roth, M Snir, ...
+Publication: 
+
+292. Software Logging under Speculative
+Citations:
+Authors: MJ Garzarán, M Prvulovic, JM Llaberia, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181
+
+293. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+295. ACM Fellows honored
+Citations:
+Authors: C Staff
+Publication: Communications of the ACM 54 (2), 25-25
+
+304. LogTM-SE: Decoupling hardware transactional memory from caches.
+Citations:
+Authors: C Fu, Z Wu, X Wang, X Yang, CS Ananian, M Rinard, L Ceze, J Tuck, ...
+Publication: Information Technology Journal 8 (8), pp: 1-10
+
+305. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+306. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+321. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+323. Parallel Processing: You Ain't Seen Nothing Yet! Speaker: HT Kung SESSION 1A. Task Scheduling I (R): Mapping and Scheduling in a Shared Parallel Environment Using Distributed …
+Citations:
+Authors: DG Feitelson, L Rudolph, GC Sih, EA Lee, J Ji, M Jeng, R Venkatesh, ...
+Publication: Parallel Processing 1
+
+328. External Review Committee
+Citations:
+Authors: JN Amaral, D Barthou, M Bond, W Ahn, J Cavazos, A Darte, B Demsky, ...
+Publication: 
+
+331. FCCM archive
+Citations:
+Authors: ZK Baker, VK Prasanna, CS Bouganis, GA Constantinides, PYK Cheung, ...
+Publication: 
+
+339. KEYNOTE Session I (Joint HPCA/PPoP)
+Citations:
+Authors: P Bose, MU Farooq, L Chen, LK John, T Li, P Brett, R Knauerhase, ...
+Publication: 
+
+340. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 
+
+341. ISCA Advisory Committee
+Citations:
+Authors: S Eggers, JE Compaq, M Franklin, J Hennessy, Y Patt, D Patterson, ...
+Publication: 
+
+342. Todd Austin, University of Michigan Pradip Bose, IBM David Brooks, Harvard University Doug Burger, University of Texas at Austin
+Citations:
+Authors: B Calder, D Connors, T Conte, D Cronquist, C Das, S Dwarkadas, ...
+Publication: 
+
+344. Vice General Chair
+Citations:
+Authors: WH Sanders, K Trivedi, G Balbo, J Abraham, A Avizienis, G Balbo, ...
+Publication: 
+
+347. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+351. HPCA-14 Organizing Committee
+Citations:
+Authors: R Balasubramonian, R Bianchini, A Bilas, P Bose, T Conte, S Dwarkadas, ...
+Publication: 
+
+355. Ashwini Nanda Vijay Narayanan Mario Nemirovsky Dimitris Nikolopoulos
+Citations:
+Authors: K Magoutis, R Manohar, P Marcuello, JF Martínez, M Martonosi, S McKee, ...
+Publication: 
+
+356. Chairs and Committees
+Citations:
+Authors: JL Baer, S Abraham, S Adve, T Anderson, P Chen, F Dahlgren, P Dubey, ...
+Publication: 
+
+359. 39th Annual International Symposium on Microarchitecture
+Citations:
+Authors: F Mohamood, M Healy, SK Lim, HHS Lee, S Ozdemir, D Sinha, G Memik, ...
+Publication: 
+
+360. Conference Officers
+Citations:
+Authors: D Kaeli, M Valero, D Christie, G Sohi, JL Gaudiot, J Emer, LA Barroso, ...
+Publication: 
+
+366. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+367. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 
+
+368. External Review Committee
+Citations:
+Authors: JH Ahn, A Alameldeen, A Buyuktosunoglu, J Carter, L Ceze, WJ Chang, ...
+Publication: 
+
+369. C~~ PUTER SOCIETY
+Citations:
+Authors: C Gong, R Melhem, X Gupta, DA Koufaty, X Chen, DK Poulsen, ...
+Publication: 
+
+374. Jim Dehnert, SGI Evelyn Duesterwald, Hewlett Packard Labs Kemal Ebcioglu, IBM TJ Watson Research Center Paraskevas Evripidou, University of Cyprus
+Citations:
+Authors: J Fang, J Ferrante, A Fukuda, G Gao, JL Gaudiot, M Hall, A Hurson, ...
+Publication: 
+
+375. FIRST WORKSHOP ON COMPUTER ARCHITECTURE EVALUATION USING COMMERCIAL WORKLOADS
+Citations:
+Authors: Z Zhang, S Sarukkai, K Keeton, DA Patterson, LA Barroso, ...
+Publication: 
+
+378. Algorithms & Applications
+Citations:
+Authors: G Bilardi, J Cuny, S Das, F Dehne, I Glendinning, A Grama, J Reif, ...
+Publication: 
+
+379. Workshop on Near-threshold Computing (WNTC)
+Citations:
+Authors: HK Cho, S Mahlke, F Hijaz, Q Shi, O Khan, M Farahani, A Baniasadi, ...
+Publication: 
+
+382. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 

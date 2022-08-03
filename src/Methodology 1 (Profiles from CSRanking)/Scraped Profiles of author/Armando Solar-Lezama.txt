@@ -1,0 +1,613 @@
+https://scholar.google.com/citations?hl=en&user=8BX3BokAAAAJ
+Total Citations = 3602
+
+1. Combinatorial sketching for finite programs
+Citations:498
+Authors: A Solar-Lezama, L Tancau, R Bodik, S Seshia, V Saraswat
+Publication: ACM Sigplan Notices 41 (11), 404-415
+
+2. Syntax-guided synthesis
+Citations:389
+Authors: R Alur, R Bodik, G Juniwal, MMK Martin, M Raghothaman, SA Seshia, ...
+Publication: 2013 Formal Methods in Computer-Aided Design, 1-8
+
+3. Automated feedback generation for introductory programming assignments
+Citations:279
+Authors: R Singh, S Gulwani, A Solar-Lezama
+Publication: Acm Sigplan Notices 48 (6), 15-26
+
+4. Programming by sketching for bit-streaming programs
+Citations:235
+Authors: A Solar-Lezama, R Rabbah, R Bodík, K Ebcioğlu
+Publication: ACM SIGPLAN Notices 40 (6), 281-294
+
+5. Program synthesis by sketching
+Citations:199
+Authors: A Solar-Lezama, R Bodik
+Publication: University of California, Berkeley
+
+6. Sketching concurrent data structures
+Citations:158
+Authors: A Solar-Lezama, CG Jones, R Bodik
+Publication: ACM SIGPLAN Notices 43 (6), 136-148
+
+7. Sketching stencils
+Citations:142
+Authors: A Solar-Lezama, G Arnold, L Tancau, R Bodik, V Saraswat, S Seshia
+Publication: ACM SIGPLAN Notices 42 (6), 167-178
+
+8. Towards optimization-safe systems: Analyzing the impact of undefined behavior
+Citations:123
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+9. A language for automatically enforcing privacy policies
+Citations:119
+Authors: J Yang, K Yessenov, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 47 (1), 85-96
+
+10. Program sketching
+Citations:110
+Authors: A Solar-Lezama
+Publication: International Journal on Software Tools for Technology Transfer 15 (5-6 …
+
+11. Optimizing database-backed applications with query synthesis
+Citations:86
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: ACM SIGPLAN Notices 48 (6), 3-14
+
+12. Program synthesis from polymorphic refinement types
+Citations:85
+Authors: N Polikarpova, I Kuraj, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 51 (6), 522-538
+
+13. Synthesizing data structure manipulations from storyboards
+Citations:75
+Authors: R Singh, A Solar-Lezama
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+14. The sketching approach to program synthesis
+Citations:67
+Authors: A Solar-Lezama
+Publication: Asian Symposium on Programming Languages and Systems, 4-13
+
+15. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:53
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+16. Word equations with length constraints: what’s decidable?
+Citations:53
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: Haifa Verification Conference, 209-226
+
+17. Faceted execution of policy-agnostic programs
+Citations:46
+Authors: TH Austin, J Yang, C Flanagan, A Solar-Lezama
+Publication: Proceedings of the Eighth ACM SIGPLAN workshop on Programming languages and …
+
+18. Smooth interpretation
+Citations:42
+Authors: S Chaudhuri, A Solar-Lezama
+Publication: ACM Sigplan Notices 45 (6), 279-291
+
+19. Learning to infer graphics programs from hand-drawn images
+Citations:39
+Authors: K Ellis, D Ritchie, A Solar-Lezama, J Tenenbaum
+Publication: Advances in neural information processing systems, 6059-6068
+
+20. Sloth: Being lazy is a virtue (when issuing database queries)
+Citations:38
+Authors: A Cheung, S Madden, A Solar-Lezama
+Publication: ACM Transactions on Database Systems (ToDS) 41 (2), 8
+
+21. Precise, dynamic information flow for database-backed applications
+Citations:37
+Authors: J Yang, T Hance, TH Austin, A Solar-Lezama, C Flanagan, S Chong
+Publication: ACM SIGPLAN Notices 51 (6), 631-647
+
+22. Unsupervised learning by program synthesis
+Citations:34
+Authors: K Ellis, A Solar-Lezama, J Tenenbaum
+Publication: Advances in neural information processing systems, 973-981
+
+23. Bridging boolean and quantitative synthesis using smoothed proof search
+Citations:30
+Authors: S Chaudhuri, M Clochard, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 49 (1), 207-220
+
+24. JSketch: sketching for Java
+Citations:29
+Authors: J Jeon, X Qiu, JS Foster, A Solar-Lezama
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+25. sk_p: a neural program corrector for MOOCs
+Citations:28
+Authors: Y Pu, K Narasimhan, A Solar-Lezama, R Barzilay
+Publication: Companion Proceedings of the 2016 ACM SIGPLAN International Conference on …
+
+26. StatusQuo: Making Familiar Abstractions Perform Using Program Analysis.
+Citations:26
+Authors: A Cheung, O Arden, S Madden, A Solar-Lezama, AC Myers
+Publication: CIDR
+
+27. Verifiable reinforcement learning via policy extraction
+Citations:25
+Authors: O Bastani, Y Pu, A Solar-Lezama
+Publication: Advances in Neural Information Processing Systems, 2494-2504
+
+28. Synthesizing framework models for symbolic execution
+Citations:24
+Authors: J Jeon, X Qiu, J Fetter-Degges, JS Foster, A Solar-Lezama
+Publication: 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …
+
+29. Sygus-comp 2016: results and analysis
+Citations:23
+Authors: R Alur, D Fisman, R Singh, A Solar-Lezama
+Publication: arXiv preprint arXiv:1611.07627
+
+30. Partial replay of long-running applications
+Citations:23
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …
+
+31. Using Program Analysis to Improve Database Applications.
+Citations:22
+Authors: A Cheung, S Madden, A Solar-Lezama, O Arden, AC Myers
+Publication: IEEE Data Eng. Bull. 37 (1), 48-59
+
+32. Lynx: A programmatic SAT solver for the RNA-folding problem
+Citations:22
+Authors: V Ganesh, CW O’donnell, M Soos, S Devadas, MC Rinard, ...
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+33. Data-driven synthesis for object-oriented frameworks
+Citations:22
+Authors: K Yessenov, Z Xu, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 46 (10), 65-82
+
+34. Verified lifting of stencil computations
+Citations:20
+Authors: S Kamil, A Cheung, S Itzhaky, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 51 (6), 711-726
+
+35. Smoothing a program soundly and robustly
+Citations:20
+Authors: S Chaudhuri, A Solar-Lezama
+Publication: International Conference on Computer Aided Verification, 277-292
+
+36. Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations
+Citations:19
+Authors: S Itzhaky, R Singh, A Solar-Lezama, K Yessenov, Y Lu, C Leiserson, ...
+Publication: ACM SIGPLAN Notices 51 (10), 145-164
+
+37. Adaptive concretization for parallel program synthesis
+Citations:19
+Authors: J Jeon, X Qiu, A Solar-Lezama, JS Foster
+Publication: International Conference on Computer Aided Verification, 377-394
+
+38. Using program synthesis for social recommendations
+Citations:18
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: arXiv preprint arXiv:1208.2925
+
+39. Synthesizing entity matching rules by examples
+Citations:17
+Authors: R Singh, VV Meduri, A Elmagarmid, S Madden, P Papotti, JA Quiané-Ruiz, ...
+Publication: Proceedings of the VLDB Endowment 11 (2), 189-202
+
+40. Autogen: Automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs
+Citations:17
+Authors: R Chowdhury, P Ganapathi, JJ Tithi, C Bachmeier, BC Kuszmaul, ...
+Publication: ACM SIGPLAN Notices 51 (8), 10
+
+41. Results and analysis of sygus-comp'15
+Citations:17
+Authors: R Alur, D Fisman, R Singh, A Solar-Lezama
+Publication: arXiv preprint arXiv:1602.01170
+
+42. Modular synthesis of sketches using models
+Citations:15
+Authors: R Singh, R Singh, Z Xu, R Krosnick, A Solar-Lezama
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+43. SPT: storyboard programming tool
+Citations:15
+Authors: R Singh, A Solar-Lezama
+Publication: International Conference on Computer Aided Verification, 738-743
+
+44. Generating concise entity matching rules
+Citations:14
+Authors: R Singh, V Meduri, A Elmagarmid, S Madden, P Papotti, JA Quiané-Ruiz, ...
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+45. Sampling for Bayesian program learning
+Citations:14
+Authors: K Ellis, A Solar-Lezama, J Tenenbaum
+Publication: Advances in Neural Information Processing Systems, 1297-1305
+
+46. QuixBugs: A multi-lingual program repair benchmark set based on the Quixey Challenge
+Citations:13
+Authors: D Lin, J Koppel, A Chen, A Solar-Lezama
+Publication: Proceedings Companion of the 2017 ACM SIGPLAN International Conference on …
+
+47. Automated vulnerability analysis of AC state estimation under constrained false data injection in electric power systems
+Citations:12
+Authors: S Gao, L Xie, A Solar-Lezama, D Serpanos, H Shrobe
+Publication: 2015 54th ieee conference on decision and control (cdc), 2613-2620
+
+48. Automated semantic grading of programs
+Citations:12
+Authors: R Singh, S Gulwani, A Solar-Lezama
+Publication: arXiv preprint arXiv:1204.1751
+
+49. InverseCSG: automatic conversion of 3D models to CSG trees
+Citations:11
+Authors: T Du, JP Inala, Y Pu, A Spielberg, A Schulz, D Rus, A Solar-Lezama, ...
+Publication: SIGGRAPH Asia 2018 Technical Papers, 213
+
+50. Type assisted synthesis of recursive transformers on algebraic data types
+Citations:10
+Authors: JP Inala, X Qiu, B Lerner, A Solar-Lezama
+Publication: CoRR, abs/1507.05527 23
+
+51. Synthesis of domain specific CNF encoders for bit-vector solvers
+Citations:9
+Authors: JP Inala, R Singh, A Solar-Lezama
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+52. Inferring SQL queries using program synthesis
+Citations:9
+Authors: A Cheung, A Solar-Lezama, S Madden
+Publication: arXiv preprint arXiv:1208.2013
+
+53. SWAPPER: A framework for automatic generation of formula simplifiers based on conditional rewrite rules
+Citations:8
+Authors: R Singh, A Solar-Lezama
+Publication: 2016 Formal Methods in Computer-Aided Design (FMCAD), 185-192
+
+54. Learning libraries of subroutines for neurally–guided bayesian program induction
+Citations:7
+Authors: K Ellis, L Morales, M Sablé-Meyer, A Solar-Lezama, J Tenenbaum
+Publication: Advances in Neural Information Processing Systems, 7805-7815
+
+55. Sygus-comp 2017: Results and analysis
+Citations:7
+Authors: R Alur, D Fisman, R Singh, A Solar-Lezama
+Publication: arXiv preprint arXiv:1711.11438
+
+56. Computer-assisted query formulation
+Citations:7
+Authors: A Cheung, A Solar-Lezama
+Publication: Foundations and Trends® in Programming Languages 3 (1), 1-94
+
+57. Type-driven repair for information flow security
+Citations:7
+Authors: N Polikarpova, J Yang, S Itzhaky, A Solar-Lezama
+Publication: CoRR abs/1607.03445
+
+58. End-to-end policy-agnostic security for database-backed applications
+Citations:7
+Authors: J Yang, T Hance, TH Austin, A Solar-Lezama, C Flanagan, S Chong
+Publication: CoRR, abs/1507.03513
+
+59. MSL: a synthesis enabled language for distributed implementations
+Citations:7
+Authors: Z Xu, S Kamil, A Solar-Lezama
+Publication: SC'14: Proceedings of the International Conference for High Performance …
+
+60. Selecting representative examples for program synthesis
+Citations:6
+Authors: Y Pu, Z Miranda, A Solar-Lezama, LP Kaelbling
+Publication: arXiv preprint arXiv:1711.03243
+
+61. Natural synthesis of provably-correct data-structure manipulations
+Citations:6
+Authors: X Qiu, A Solar-Lezama
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 65
+
+62. A differential approach to undefined behavior detection
+Citations:6
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: ACM Transactions on Computer Systems (TOCS) 33 (1), 1
+
+63. Improving genetic programming with behavioral consistency measure
+Citations:6
+Authors: K Krawiec, A Solar-Lezama
+Publication: International Conference on Parallel Problem Solving from Nature, 434-443
+
+64. The three pillars of machine programming
+Citations:5
+Authors: J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+65. Report of the HPC Correctness Summit, Jan 25--26, 2017, Washington, DC
+Citations:5
+Authors: G Gopalakrishnan, PD Hovland, C Iancu, S Krishnamoorthy, I Laguna, ...
+Publication: arXiv preprint arXiv:1705.07478
+
+66. Synthesis of recursive ADT transformations from reusable templates
+Citations:5
+Authors: JP Inala, N Polikarpova, X Qiu, BS Lerner, A Solar-Lezama
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+67. A differential approach to undefined behavior detection
+Citations:5
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: Communications of the ACM 59 (3), 99-106
+
+68. Search-based program synthesis
+Citations:4
+Authors: R Alur, R Singh, D Fisman, A Solar-Lezama
+Publication: Communications of the ACM 61 (12), 84-93
+
+69. Interpreting neural network judgments via minimal, stable, and symbolic corrections
+Citations:4
+Authors: X Zhang, A Solar-Lezama, R Singh
+Publication: Advances in Neural Information Processing Systems, 4874-4885
+
+70. DemoMatch: API discovery from demonstrations
+Citations:4
+Authors: K Yessenov, I Kuraj, A Solar-Lezama
+Publication: ACM SIGPLAN Notices 52 (6), 64-78
+
+71. Bridging the gap between general-purpose and domain-specific compilers with synthesis
+Citations:4
+Authors: A Cheung, S Kamil, A Solar-Lezama
+Publication: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik
+
+72. Delta-decision procedures for exists-forall problems over the reals
+Citations:3
+Authors: S Kong, A Solar-Lezama, S Gao
+Publication: International Conference on Computer Aided Verification, 219-235
+
+73. Dreamcoder: Bootstrapping domain-specific languages for neurally-guided bayesian program learning
+Citations:3
+Authors: K Ellis, L Morales, MS Meyer, A Solar-Lezama, JB Tenenbaum
+Publication: Proceedings of the 2nd Workshop on Neural Abstract Machines and Program …
+
+74. Templating transformations for bitstream programs
+Citations:3
+Authors: A Solar-Lezama, R Bodik
+Publication: First Workshop on Productivity and Performance in High-End Computing (P-PHEC …
+
+75. Learning to infer program sketches
+Citations:2
+Authors: M Nye, L Hewitt, J Tenenbaum, A Solar-Lezama
+Publication: arXiv preprint arXiv:1902.06349
+
+76. One tool, many languages: language-parametric transformation with incremental parametric syntax
+Citations:2
+Authors: J Koppel, V Premtoon, A Solar-Lezama
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 122
+
+77. REAS: Combining Numerical Optimization with SAT Solving
+Citations:2
+Authors: JP Inala, S Gao, S Kong, A Solar-Lezama
+Publication: arXiv preprint arXiv:1802.04408
+
+78. Incremental parametric syntax for multi-language transformation
+Citations:2
+Authors: J Koppel, A Solar-Lezama
+Publication: Proceedings Companion of the 2017 ACM SIGPLAN International Conference on …
+
+79. Autogen: Automatic discovery of efficient recursive divide-8-conquer algorithms for solving dynamic programming problems
+Citations:2
+Authors: R Chowdhury, P Ganapathi, S Tschudi, JJ Tithi, C Bachmeier, ...
+Publication: ACM Transactions on Parallel Computing (TOPC) 4 (1), 4
+
+80. SyGuS syntax for SyGuS-COMP’16
+Citations:2
+Authors: R Alur, D Fisman, R Singh, A Solar-Lezama
+Publication: Technical report, University of Pennsylvania, 2016. Available at http …
+
+81. Euler: A system for numerical optimization of programs
+Citations:2
+Authors: S Chaudhuri, A Solar-Lezama
+Publication: International Conference on Computer Aided Verification, 732-737
+
+82. Capturing the Future by Replaying the Past
+Citations:1
+Authors: J Koppel, G Scherer, A Solar-Lezama
+Publication: arXiv preprint arXiv:1710.10385
+
+83. Learning to acquire information
+Citations:1
+Authors: Y Pu, LP Kaelbling, A Solar-Lezama
+Publication: arXiv preprint arXiv:1704.06131
+
+84. An empirical study of adaptive concretization for parallel program synthesis
+Citations:1
+Authors: J Jeon, X Qiu, A Solar-Lezama, JS Foster
+Publication: Formal Methods in System Design 50 (1), 75-95
+
+85. Leveraging sequential computation for programming efficient and reliable distributed systems
+Citations:1
+Authors: I Kuraj, A Solar-Lezama
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+86. Enforcing Information Flow Policies with Type-Targeted Program Synthesis
+Citations:1
+Authors: N Polikarpova, J Yang, S Itzhaky, T Hance, A Solar-Lezama
+Publication: arXiv preprint arXiv:1607.03445
+
+87. Automatic generation of formula simplifiers based on conditional rewrite rules
+Citations:1
+Authors: R Singh, A Solar-Lezama
+Publication: arXiv preprint arXiv:1602.07285
+
+88. Extending the applicability of sketching
+Citations:1
+Authors: L Tancau, A Solar-Lezama, G Arnold
+Publication: EE219C course project, EECS Department, UC Berkeley
+
+89. Numerically-Robust Inductive Proof Rules for Continuous Dynamical Systems
+Citations:
+Authors: S Gao, J Kapinski, J Deshmukh, N Roohi, A Solar-Lezama, N Arechiga, ...
+Publication: International Conference on Computer Aided Verification, 137-154
+
+90. Write, Execute, Assess: Program Synthesis with a REPL
+Citations:
+Authors: K Ellis, M Nye, Y Pu, F Sosa, J Tenenbaum, A Solar-Lezama
+Publication: arXiv preprint arXiv:1906.04604
+
+91. Predicate Exchange: Inference with Declarative Knowledge
+Citations:
+Authors: Z Tavares, R Ranganath, J Burroni, A Solar-Lezama, E Minasyan
+Publication: International Conference on Machine Learning, 6186-6195
+
+92. Task-Based Design of Ad-hoc Modular Manipulators
+Citations:
+Authors: T Campos, JP Inala, A Solar-Lezama, H Kress-Gazit
+Publication: 2019 International Conference on Robotics and Automation (ICRA), 6058-6064
+
+93. CLIO: A Digital Code Assistant for the Big Code Era
+Citations:
+Authors: A Solar-Lezama
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE CAMBRIDGE United States
+
+94. Deductive Optimization of Relational Data Storage
+Citations:
+Authors: JK Feser, S Madden, N Tang, A Solar-Lezama
+Publication: arXiv preprint arXiv:1903.03229
+
+95. Verifying Fairness Properties via Concentration
+Citations:
+Authors: O Bastani, X Zhang, A Solar-Lezama
+Publication: arXiv preprint arXiv:1812.02573
+
+96. Capturing the future by replaying the past (functional pearl)
+Citations:
+Authors: J Koppel, G Scherer, A Solar-Lezama
+Publication: Proceedings of the ACM on Programming Languages 2 (ICFP), 76
+
+97. Learning to select examples for program synthesis
+Citations:
+Authors: Y Pu, Z Miranda, A Solar-Lezama, LP Kaelbling
+Publication: 
+
+98. Report of the HPC Correctness Summit, January 25-26, 2017, Washington, DC
+Citations:
+Authors: G Gopalakrishnan, PD Hovland, C Iancu, S Krishnamoorthy, I Laguna, ...
+Publication: USDOE Office of Science (SC)(United States). Advanced Scientific Computing …
+
+99. Learning Approximate Distribution-Sensitive Data Structures
+Citations:
+Authors: Z Tavares, A Solar-Lezama
+Publication: 
+
+100. Final Report on XStack: Software Synthesis for High Productivity ExaScale Computing
+Citations:
+Authors: A Solar-Lezama
+Publication: Massachusetts Inst. of Technology (MIT), Cambridge, MA (United States)
+
+101. (Un) Decidability Results for Word Equations with Length and Regular Expression Constraints
+Citations:
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: arXiv preprint arXiv:1306.6054
+
+102. What is Decidable about Strings?
+Citations:
+Authors: V Ganesh, M Minnes, A Solar-Lezama, M Rinard
+Publication: 
+
+103. Applications and Methods for Recognition of (Anti)-Symmetric Functions
+Citations:
+Authors: R Fateman, A Solar-Lezama
+Publication: University of California, Berkeley
+
+104. Sketching with Partial Programs
+Citations:
+Authors: A Solar-Lezama, L Tancau, D Turner, R Bodik, V Saraswat, S Seshia
+Publication: 
+
+105. CS 267 HOMEWORK 1: MATRIX MULTIPLY
+Citations:
+Authors: A Solar-lezama, M Hoemmen
+Publication: 
+
+106. The Three Pillars of Machine-Based Programming
+Citations:
+Authors: A SOLAR-LEZAMA
+Publication: 
+
+107. List of papers
+Citations:
+Authors: K Wu, D Lee, A Sim, J Choi, J Wang, E Papenhausen, B Wang, S Ha, ...
+Publication: 
+
+108. PASKET: Synthesizing Framework Models with Design Patterns
+Citations:
+Authors: J Jeon, X Qiu, JS Foster, A Solar-Lezama
+Publication: 
+
+109. Supplement to: Library Learning for Neurally-Guided Bayesian Program Induction
+Citations:
+Authors: K Ellis, L Morales, M Sablé-Meyer, ENS Paris-Saclay, A Solar-Lezama, ...
+Publication: 
+
+110. Enforcing Declarative Policies with Targeted Program Synthesis
+Citations:
+Authors: N Polikarpova, J Yang, S Itzhaky, T Hance, A Solar-Lezama
+Publication: 
+
+111. Supplement to: Learning to Infer Graphics Programs from Hand-Drawn Images
+Citations:
+Authors: K Ellis, D Ritchie, A Solar-Lezama, JB Tenenbaum
+Publication: 
+
+112. The Sketch Programmers Manual
+Citations:
+Authors: A Solar-Lezama
+Publication: 
+
+113. Supplement to: Sampling for Bayesian Program Learning
+Citations:
+Authors: K Ellis, A Solar-Lezama, JB Tenenbaum
+Publication: 
+
+114. Dude, where’s my code?
+Citations:
+Authors: X Wang, N Zeldovich, MF Kaashoek, A Solar-Lezama
+Publication: 
+
+115. Supplement for: Unsupervised Learning by Program Synthesis
+Citations:
+Authors: K Ellis, A Solar-Lezama, JB Tenenbaum
+Publication: 
+
+116. Simpler Implementation of Sketches Through Enhanced Expressiveness
+Citations:
+Authors: M Velez, A Solar-Lezama
+Publication: 
+
+117. A new approach to building solvers
+Citations:
+Authors: R Singh, A Solar-Lezama
+Publication: 
+
+118. Improved Program Synthesis Through the Use of Packages
+Citations:
+Authors: S Gonzalez, A Solar-Lezama
+Publication: 
+
+119. Data Engineering
+Citations:
+Authors: SD Viglas, G Bierman, F Nagel, C Freedman, E Ismert, PA Larson, ...
+Publication: 
+
+120. Data Address Prediction with Difference Markov and Bayes Predictors
+Citations:
+Authors: Z Hyder, A Solar-Lezama
+Publication: 
+
+121. StreamBit: Sketching Implementations for Bitstream Programs DRAFT
+Citations:
+Authors: A Solar-Lezama, R Bodik
+Publication: 
+
+122. Determinate Imperative Programming
+Citations:
+Authors: V Saraswat, R Jagadeesan, A Solar-lezama, C von Praun
+Publication: 
+

@@ -1,0 +1,225 @@
+
+1. Initial sequencing and analysis of the human genome
+Citations:23697
+Authors: International Human Genome Sequencing Consortium
+Publication: nature 409 (6822), 860
+
+2. An integrated encyclopedia of DNA elements in the human genome
+Citations:8881
+Authors: ENCODE Project Consortium
+Publication: Nature 489 (7414), 57
+
+3. Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project
+Citations:4819
+Authors: ENCODE Project Consortium
+Publication: Nature 447 (7146), 799
+
+4. Genome sequence of the Brown Norway rat yields insights into mammalian evolution
+Citations:2004
+Authors: Rat Genome Sequencing Project Consortium
+Publication: Nature 428 (6982), 493
+
+5. Evolution of genes and genomes on the Drosophila phylogeny
+Citations:1773
+Authors: Drosophila 12 Genomes Consortium
+Publication: Nature 450 (7167), 203
+
+6. The ENCODE(ENCyclopedia Of DNA Elements) Project
+Citations:1478
+Authors: EA Feingold, PJ Good, MS Guyer, S Kamholz, L Liefer, K Wetterstrand, ...
+Publication: Science(Washington) 306 (5696), 636-40
+
+9. Architecture of the human regulatory network derived from ENCODE data
+Citations:1159
+Authors: MB Gerstein, A Kundaje, M Hariharan, SG Landt, KK Yan, C Cheng, ...
+Publication: Nature 489 (7414), 91
+
+10. LAGAN and Multi-LAGAN: efficient tools for large-scale multiple alignment of genomic DNA
+Citations:1146
+Authors: M Brudno, CB Do, GM Cooper, MF Kim, E Davydov, ED Green, A Sidow, ...
+Publication: Genome research 13 (4), 721-731
+
+12. A user's guide to the encyclopedia of DNA elements (ENCODE)
+Citations:1078
+Authors: RM Myers, J Stamatoyannopoulos, M Snyder, I Dunham, RC Hardison, ...
+Publication: PLoS Biology 9 (4), e1001046
+
+23. Glocal alignment: finding rearrangements during alignment
+Citations:347
+Authors: M Brudno, S Malde, A Poliakov, CB Do, O Couronne, I Dubchak, ...
+Publication: Bioinformatics 19 (suppl_1), i54-i62
+
+25. Extensive variation in chromatin states across humans
+Citations:272
+Authors: M Kasowski, S Kyriazopoulou-Panagiotopoulou, F Grubert, JB Zaugg, ...
+Publication: Science 342 (6159), 750-752
+
+26. Analyses of deep mammalian sequence alignments and constraint predictions for 1% of the human genome
+Citations:231
+Authors: EH Margulies, GM Cooper, G Asimenos, DJ Thomas, CN Dewey, A Siepel, ...
+Publication: Genome research 17 (6), 760-774
+
+27. Bacterial flora-typing with targeted, chip-based Pyrosequencing
+Citations:213
+Authors: A Sundquist, S Bigdeli, R Jalili, ML Druzin, S Waller, KM Pullen, ...
+Publication: BMC microbiology 7 (1), 108
+
+33. Mutations in early follicular lymphoma progenitors are associated with suppressed antigen presentation
+Citations:143
+Authors: MR Green, S Kihira, CL Liu, RV Nair, R Salari, AJ Gentles, J Irish, H Stehr, ...
+Publication: Proceedings of the National Academy of Sciences 112 (10), E1116-E1125
+
+34. Ubiquitous heterogeneity and asymmetry of the chromatin environment at regulatory elements
+Citations:143
+Authors: A Kundaje, S Kyriazopoulou-Panagiotopoulou, M Libbrecht, CL Smith, ...
+Publication: Genome research 22 (9), 1735-1747
+
+39. Analysis of cell fate from single-cell gene expression profiles in C. elegans
+Citations:125
+Authors: X Liu, F Long, H Peng, SJ Aerni, M Jiang, A Sánchez-Blanco, JI Murray, ...
+Publication: Cell 139 (3), 623-633
+
+40. Automated whole-genome multiple alignment of rat, mouse, and human
+Citations:116
+Authors: M Brudno, A Poliakov, A Salamov, GM Cooper, A Sidow, EM Rubin, ...
+Publication: Genome research 14 (4), 685-692
+
+46. Fast and scalable inference of multi-sample cancer lineages
+Citations:93
+Authors: V Popic, R Salari, I Hajirasouliha, D Kashef-Haghighi, RB West, ...
+Publication: Genome biology 16 (1), 91
+
+48. Genome evolution during progression to breast cancer
+Citations:81
+Authors: DE Newburger, D Kashef-Haghighi, Z Weng, R Salari, RT Sweeney, ...
+Publication: Genome research 23 (7), 1097-1108
+
+52. Evolutionary constraint facilitates interpretation of genetic variation in resequenced human genomes
+Citations:71
+Authors: DL Goode, GM Cooper, J Schmutz, M Dickson, E Gonzales, M Tsai, ...
+Publication: Genome research 20 (3), 301-310
+
+53. Genomic hallmarks and structural variation in metastatic prostate cancer
+Citations:66
+Authors: DA Quigley, HX Dang, SG Zhao, P Lloyd, R Aggarwal, JJ Alumkal, A Foye, ...
+Publication: Cell 174 (3), 758-769. e9
+
+62. Genome-wide reconstruction of complex structural variants using read clouds
+Citations:40
+Authors: N Spies, Z Weng, A Bishara, J McDaniel, D Catoe, JM Zook, M Salit, ...
+Publication: Nature methods 14 (9), 915
+
+65. Read clouds uncover variation in complex regions of the human genome
+Citations:32
+Authors: A Bishara, Y Liu, Z Weng, D Kashef-Haghighi, DE Newburger, R West, ...
+Publication: Genome research 25 (10), 1570-1580
+
+69. Genetic and computational identification of a conserved bacterial metabolic module
+Citations:28
+Authors: CC Boutte, BS Srinivasan, JA Flannick, AF Novak, AT Martens, ...
+Publication: PLoS genetics 4 (12), e1000310
+
+70. Predicting the clinical impact of human mutation with deep neural networks
+Citations:26
+Authors: L Sundaram, H Gao, SR Padigepati, JF McRae, Y Li, JA Kosmicki, ...
+Publication: Nature genetics 50 (8), 1161
+
+71. Predicting splicing from primary sequence with deep learning
+Citations:25
+Authors: K Jaganathan, SK Panagiotopoulou, JF McRae, SF Darbandi, D Knowles, ...
+Publication: Cell 176 (3), 535-548. e24
+
+74. High-quality genome sequences of uncultured microbes by assembly of read clouds
+Citations:20
+Authors: A Bishara, EL Moss, M Kolmogorov, AE Parada, Z Weng, A Sidow, ...
+Publication: Nature biotechnology
+
+76. Reconstruction of genealogical relationships with applications to Phase III of HapMap
+Citations:20
+Authors: S Kyriazopoulou-Panagiotopoulou, D Kashef Haghighi, SJ Aerni, ...
+Publication: Bioinformatics 27 (13), i333-i341
+
+78. Inference of tumor phylogenies with improved somatic mutation discovery
+Citations:19
+Authors: R Salari, SS Saleh, D Kashef-Haghighi, D Khavari, DE Newburger, ...
+Publication: Journal of Computational Biology 20 (11), 933-944
+
+86. Microbial typing by machine learned DNA melt signatures
+Citations:12
+Authors: N Andini, B Wang, P Athamanolap, J Hardick, BJ Masek, S Thair, A Hu, ...
+Publication: Scientific reports 7, 42097
+
+88. Cell-lineage heterogeneity and driver mutation recurrence in pre-invasive breast neoplasia
+Citations:11
+Authors: Z Weng, N Spies, SX Zhu, DE Newburger, D Kashef-Haghighi, ...
+Publication: Genome medicine 7 (1), 28
+
+104. Automated cellular annotation for high-resolution images of adult Caenorhabditis elegans
+Citations:5
+Authors: SJ Aerni, X Liu, CB Do, SS Gross, A Nguyen, SD Guo, F Long, H Peng, ...
+Publication: Bioinformatics 29 (13), i18-i26
+
+113. Culture-free generation of microbial genomes from human and marine microbiomes
+Citations:2
+Authors: A Bishara, EL Moss, M Kolmogorov, A Parada, Z Weng, A Sidow, ...
+Publication: BioRxiv, 263939
+
+115. De novo assembly of microbial genomes from human gut metagenomes using barcoded short read sequences
+Citations:2
+Authors: E Moss, A Bishara, E Tkachenko, JB Kang, TM Andermann, C Wood, ...
+Publication: bioRxiv, 125211
+
+118. Computational analysis of the mammalian cis-regulatory landscape
+Citations:1
+Authors: CYF McLean
+Publication: Stanford University
+
+120. Research in Computational Molecular Biology
+Citations:1
+Authors: B Berger, J Laserson, V Jojic, D Koller
+Publication: Lecture Notes in Computer Science 6044
+
+121. Glocal alignment
+Citations:1
+Authors: M Brudno, S Malde, A Poliakov, C Do, O Couronne, I Dubchak, ...
+Publication: Bioinformatics 19
+
+123. Chromosome-level de novo assembly of the pig-tailed macaque genome using linked-read sequencing and HiC proximity scaffolding
+Citations:
+Authors: M Roodgar, A Babveyh, L Huong, W Zhou, R Sinha, H Lee, JB Hanks, ...
+Publication: bioRxiv, 635045
+
+127. Clustering reveals ubiquitous heterogeneity and asymmetry of genomic signals at functional elements.
+Citations:
+Authors: A Kundaje, S Kyriazopoulou-Panagiotopoulou, MW Libbrecht, CL Smith, ...
+Publication: TinyToCS 2
+
+128. Abstract PD05-09: Whole-genome progression of breast cancer from early neoplasia to invasive carcinoma
+Citations:
+Authors: RB West, D Kashef-Haghighi, D Newburger, Z Weng, A Brunner, R Salari, ...
+Publication: Cancer Research 72 (24 Supplement), PD05-09-PD05-09
+
+129. ISMB 2012 PROCEEDINGS PAPERS COMMITTEE
+Citations:
+Authors: A Tramontano, R Murphy, SI O’Donoghue, S Kasif, I Kohane, D Durand, ...
+Publication: 
+
+130. Glioblastoma
+Citations:
+Authors: F Moriera, K So, P Gould, D Kamnasaran, RL Jensen, I Hussain, ...
+Publication: Neuro-Oncology 13 (suppl 3), iii76-iii84
+
+131. ISMB/ECCB 2011 PROCEEDINGS PAPERS COMMITTEE
+Citations:
+Authors: P Bourne, L Hunter, R Murphy, OD Sean, Y Moreau, N Beerenwinkel, ...
+Publication: 
+
+133. ISMB 2010 ORGANIZATION
+Citations:
+Authors: RF Murphy, A Bateman, UK Hinxton, T Lengauer, Y Moreau, D Durand, ...
+Publication: 
+
+147. Efficient Alignment Free Sequence Comparison with Bounded Mismatches... 1 Srinivas Aluru, Alberto Apostolico, and Sharma V. Thankachan DockStar: A Novel ILP Based Integrative …
+Citations:
+Authors: N Amir, D Cohen, HJ Wolfson, I Ben-Bassat, B Chor, E Berger, ...
+Publication: 

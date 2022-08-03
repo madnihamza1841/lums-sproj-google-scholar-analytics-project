@@ -1,0 +1,368 @@
+https://scholar.google.com/citations?hl=en&user=fmsV6nEAAAAJ
+Total Citations = 6745
+
+1. Clonecloud: Elastic execution between mobile device and cloud
+Citations:1912
+Authors: BG Chun, S Ihm, P Maniatis, M Naik, A Patti
+Publication: Proceedings of the sixth conference on Computer systems, 301-314
+
+2. Scalable statistical bug isolation
+Citations:859
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: Acm Sigplan Notices 40 (6), 15-26
+
+3. Effective static race detection for Java
+Citations:562
+Authors: M Naik, A Aiken, J Whaley
+Publication: ACM Sigplan Notices 41 (6), 308-319
+
+4. Dynodroid: An input generation system for Android apps
+Citations:489
+Authors: A Machiry, R Tahiliani, M Naik
+Publication: Proceedings of the 2013 9th Joint Meeting on Foundations of Software …
+
+5. From symptom to cause: Localizing errors in counterexample traces
+Citations:361
+Authors: T Ball, M Naik, SK Rajamani
+Publication: ACM SIGPLAN Notices 38 (1), 97-105
+
+6. Automated concolic testing of smartphone apps
+Citations:342
+Authors: S Anand, M Naik, MJ Harrold, H Yang
+Publication: Proceedings of the ACM SIGSOFT 20th International Symposium on the …
+
+7. Conditional must not aliasing for static race detection
+Citations:215
+Authors: M Naik, A Aiken
+Publication: ACM SIGPLAN Notices 42 (1), 327-338
+
+8. A randomized dynamic program analysis technique for detecting real deadlocks
+Citations:184
+Authors: P Joshi, CS Park, K Sen, M Naik
+Publication: ACM Sigplan Notices 44 (6), 110-120
+
+9. Effective static deadlock detection
+Citations:176
+Authors: M Naik, CS Park, K Sen, D Gay
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+10. Statistical debugging: Simultaneous identification of multiple bugs
+Citations:175
+Authors: AX Zheng, MI Jordan, B Liblit, M Naik, A Aiken
+Publication: Proceedings of the 23rd international conference on Machine learning, 1105-1112
+
+11. COSMOS: Computation offloading as a service for mobile devices
+Citations:160
+Authors: C Shi, K Habak, P Pandurangan, M Ammar, M Naik, E Zegura
+Publication: Proceedings of the 15th ACM international symposium on Mobile ad hoc …
+
+12. CalFuzzer: An extensible active testing framework for concurrent programs
+Citations:117
+Authors: P Joshi, M Naik, CS Park, K Sen
+Publication: International Conference on Computer Aided Verification, 675-681
+
+13. Computing in cirrus clouds: The challenge of intermittent connectivity
+Citations:88
+Authors: C Shi, MH Ammar, EW Zegura, M Naik
+Publication: Proceedings of the first edition of the MCC workshop on Mobile cloud …
+
+14. Predicting execution time of computer programs using sparse polynomial regression
+Citations:88
+Authors: L Huang, J Jia, B Yu, BG Chun, P Maniatis, M Naik
+Publication: Advances in neural information processing systems, 883-891
+
+15. An effective dynamic analysis for detecting generalized deadlocks
+Citations:84
+Authors: P Joshi, M Naik, K Sen, D Gay
+Publication: Proceedings of the eighteenth ACM SIGSOFT international symposium on …
+
+16. Mantis: Automatic performance prediction for smartphone applications
+Citations:73
+Authors: Y Kwon, S Lee, H Yi, D Kwon, S Yang, BG Chun, L Huang, P Maniatis, ...
+Publication: Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …
+
+17. On abstraction refinement for program analyses in Datalog
+Citations:66
+Authors: X Zhang, R Mangal, R Grigore, M Naik, H Yang
+Publication: ACM SIGPLAN Notices 49 (6), 239-248
+
+18. Compiling with code-size constraints
+Citations:66
+Authors: M Naik, J Palsberg
+Publication: ACM Transactions on Embedded Computing Systems (TECS) 3 (1), 163-181
+
+19. A user-guided approach to program analysis
+Citations:48
+Authors: R Mangal, X Zhang, AV Nori, M Naik
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+20. FlexJava: Language support for safe and modular approximate programming
+Citations:43
+Authors: J Park, H Esmaeilzadeh, X Zhang, M Naik, W Harris
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+21. Scaling abstraction refinement via pruning
+Citations:42
+Authors: P Liang, M Naik
+Publication: ACM SIGPLAN Notices 46 (6), 590-601
+
+22. Learning minimal abstractions
+Citations:42
+Authors: P Liang, O Tripp, M Naik
+Publication: ACM SIGPLAN Notices 46 (1), 31-42
+
+23. Abstractions from tests
+Citations:40
+Authors: M Naik, H Yang, G Castelnuovo, M Sagiv
+Publication: ACM SIGPLAN Notices 47 (1), 373-386
+
+24. A type system equivalent to a model checker
+Citations:38
+Authors: M Naik, J Palsberg
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 30 (5), 29
+
+25. Finding optimum abstractions in parametric dataflow analysis
+Citations:31
+Authors: X Zhang, M Naik, H Yang
+Publication: ACM SIGPLAN Notices 48 (6), 365-376
+
+26. Lightweight annotations for controlling sharing in concurrent data structures
+Citations:29
+Authors: ZR Anderson, D Gay, M Naik
+Publication: ACM Sigplan Notices 44 (6), 98-109
+
+27. A dynamic evaluation of the precision of static heap abstractions
+Citations:28
+Authors: P Liang, O Tripp, M Naik, M Sagiv
+Publication: ACM Sigplan Notices 45 (10), 411-427
+
+28. Public Deployment of Cooperative Bug Isolation
+Citations:28
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: Proceedings of the Second International Workshop on Remote Analysis and …
+
+29. Hybrid top-down and bottom-up interprocedural analysis
+Citations:27
+Authors: X Zhang, R Mangal, M Naik, H Yang
+Publication: ACM SIGPLAN Notices 49 (6), 249-258
+
+30. IC-Cloud: Computation offloading to an intermittently-connected cloud
+Citations:26
+Authors: C Shi, P Pandurangan, K Ni, J Yang, M Ammar, M Naik, E Zegura
+Publication: Georgia Institute of Technology
+
+31. APISan: Sanitizing API usages through semantic cross-checking
+Citations:25
+Authors: I Yun, C Min, X Si, Y Jang, T Kim, M Naik
+Publication: USENIX Security Symposium, 363-378
+
+32. Cooperative Bug Isolation Project
+Citations:19
+Authors: B Liblit
+Publication: 
+
+33. Efficient message dispatch in object-oriented systems
+Citations:17
+Authors: M Naik, R Kumar
+Publication: ACM SIGPLAN Notices 35 (3), 49-58
+
+34. Accelerating search-based program synthesis using learned probabilistic models
+Citations:16
+Authors: W Lee, K Heo, R Alur, M Naik
+Publication: Proceedings of the 39th ACM SIGPLAN Conference on Programming Language …
+
+35. Accelerating program analyses by cross-program training
+Citations:16
+Authors: S Kulkarni, R Mangal, X Zhang, M Naik
+Publication: ACM SIGPLAN Notices 51 (10), 359-377
+
+36. Mantis: Efficient predictions of execution time, energy usage, memory usage and network usage on smart mobile devices
+Citations:14
+Authors: Y Kwon, S Lee, H Yi, D Kwon, S Yang, B Chun, L Huang, P Maniatis, ...
+Publication: IEEE Transactions on Mobile Computing 14 (10), 2059-2072
+
+37. Expax: A framework for automating approximate programming
+Citations:14
+Authors: J Park, X Zhang, K Ni, H Esmaeilzadeh, M Naik
+Publication: Georgia Institute of Technology
+
+38. Soundness and its role in bug detection systems
+Citations:14
+Authors: Y Xie, M Naik, B Hackett, A Aiken
+Publication: Proc. of the Workshop on the Evaluation of Software Defect Detection Tools …
+
+39. Effective program debloating via reinforcement learning
+Citations:13
+Authors: K Heo, W Lee, P Pashakhanloo, M Naik
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+40. Constraint-based synthesis of Datalog programs
+Citations:13
+Authors: A Albarghouthi, P Koutris, M Naik, C Smith
+Publication: International Conference on Principles and Practice of Constraint …
+
+41. User-guided program reasoning using Bayesian inference
+Citations:12
+Authors: M Raghothaman, S Kulkarni, K Heo, M Naik
+Publication: Proceedings of the 39th ACM SIGPLAN Conference on Programming Language …
+
+42. Syntax-guided synthesis of Datalog programs
+Citations:10
+Authors: X Si, W Lee, R Zhang, A Albarghouthi, P Koutris, M Naik
+Publication: Proceedings of the ACM Joint European Software Engineering Conference and …
+
+43. A correspondence between two approaches to interprocedural analysis in the presence of join
+Citations:10
+Authors: R Mangal, M Naik, H Yang
+Publication: European Symposium on Programming Languages and Systems, 513-533
+
+44. Method and apparatus for leveraging path-program analysis for effective static whole-program analysis
+Citations:10
+Authors: M Naik
+Publication: US Patent App. 12/794,396
+
+45. Yada: Straightforward parallel programming
+Citations:10
+Authors: D Gay, J Galenson, M Naik, K Yelick
+Publication: Parallel Computing 37 (9), 592-609
+
+46. Learning loop invariants for program verification
+Citations:8
+Authors: X Si, H Dai, M Raghothaman, M Naik, L Song
+Publication: Advances in Neural Information Processing Systems, 7751-7762
+
+47. Expectation-oriented framework for automating approximate programming
+Citations:8
+Authors: J Park, K Ni, X Zhang, H Esmaeilzadeh, M Naik
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+48. Expectation-oriented framework for automating approximate programming
+Citations:8
+Authors: H Esmaeilzadeh, K Ni, M Naik
+Publication: Georgia Institute of Technology
+
+49. Scaling relational inference using proofs and refutations
+Citations:7
+Authors: R Mangal, X Zhang, A Kamath, AV Nori, M Naik
+Publication: AAAI, 3278-3286
+
+50. ILP-based resource-aware compilation
+Citations:7
+Authors: J Palsberg, M Naik
+Publication: Multiprocessor Systems-on-Chips, 337-354
+
+51. Volt: A lazy grounding framework for solving very large MaxSAT instances
+Citations:6
+Authors: R Mangal, X Zhang, AV Nori, M Naik
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+52. Query-guided maximum satisfiability
+Citations:5
+Authors: X Zhang, R Mangal, AV Nori, M Naik
+Publication: ACM SIGPLAN Notices 51 (1), 109-122
+
+53. Chord: A versatile platform for program analysis
+Citations:5
+Authors: M Naik
+Publication: Tutorial at ACM Conference on Programming Language Design and Implementation
+
+54. Object-oriented symbol management in syntax-directed compiler systems
+Citations:5
+Authors: M Naik, R Kumar
+Publication: ACM SIGPLAN Notices 34 (6), 58-67
+
+55. On incremental core-guided MaxSAT solving
+Citations:4
+Authors: X Si, X Zhang, V Manquinho, M Janota, A Ignatiev, M Naik
+Publication: International Conference on Principles and Practice of Constraint …
+
+56. A type system equivalent to model checking
+Citations:4
+Authors: MH Naik
+Publication: 
+
+57. Effective interactive resolution of static analysis alarms
+Citations:3
+Authors: X Zhang, R Grigore, X Si, M Naik
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 57
+
+58. Maximum satisfiability in software analysis: Applications and techniques
+Citations:3
+Authors: X Si, X Zhang, R Grigore, M Naik
+Publication: International Conference on Computer Aided Verification, 68-94
+
+59. Combining the logical and the probabilistic in program analysis
+Citations:3
+Authors: X Zhang, X Si, M Naik
+Publication: Proceedings of the 1st ACM SIGPLAN International Workshop on Machine …
+
+60. Modularity in lattices: A case study on the correspondence between top-down and bottom-up analysis
+Citations:3
+Authors: G Castelnuovo, M Naik, N Rinetzky, M Sagiv, H Yang
+Publication: International Static Analysis Symposium, 252-274
+
+61. Statistical debugging in the presence of multiple errors
+Citations:3
+Authors: B Liblit, M Naik, AX Zheng, A Aiken, MI Jordan
+Publication: 23rd international conference on Machine learning, Pittsburgh, 1105-1112
+
+62. Learning a meta-solver for syntax-guided program synthesis
+Citations:2
+Authors: X Si, Y Yang, H Dai, M Naik, L Song
+Publication: 
+
+63. Large-scale configurable static analysis
+Citations:2
+Authors: M Naik
+Publication: Proceedings of the 3rd ACM SIGPLAN International Workshop on the State of …
+
+64. Static thread-escape analysis vis dynamic heap abstractions
+Citations:2
+Authors: M Naik, P Liang, M Sagiv
+Publication: from Naik’s website
+
+65. Correctness of ILP-based register allocation
+Citations:2
+Authors: M Naik, J Palsberg
+Publication: Unpublished manuscript. URL: http://theory. stanford. edu/~ mhn/pubs …
+
+66. Learning neurosymbolic generative models via program synthesis
+Citations:1
+Authors: H Young, O Bastani, M Naik
+Publication: arXiv preprint arXiv:1901.08565
+
+67. Solving weighted constraints with applications to program analysis
+Citations:1
+Authors: R Mangal, X Zhang, M Naik, A Nori
+Publication: Georgia Institute of Technology
+
+68. Synthesizing Datalog programs using numerical relaxation
+Citations:1
+Authors: M Raghothaman, X Si, K Heo, M Naik
+Publication: 
+
+69. Continuously reasoning about programs using differential Bayesian inference
+Citations:
+Authors: K Heo, M Raghothaman, X Si, M Naik
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+70. PolyDroid: Learning-driven specialization of mobile applications
+Citations:
+Authors: B Heath, N Velingker, O Bastani, M Naik
+Publication: arXiv preprint arXiv:1902.09589
+
+71. From symptom to cause: Localizing errors in counterexample traces
+Citations:
+Authors: S Rajamani, T Ball, M Naik, SK Rajamani
+Publication: 
+
+72. Difflog: Beyond deductive methods in program analysis
+Citations:
+Authors: M Raghothaman, S Kulkarni, R Zhang, X Si, K Heo, W Lee, M Naik
+Publication: 
+
+73. Towards Scenario-Based Design and Verification of Resilient Cyber-Physical Systems Extended Abstract
+Citations:
+Authors: R Alur, I Lee, R Mangharam, M Naik, O Sokolsky, J Weimer, H Abbas
+Publication: Contract 66001 (18-C), 4007
+

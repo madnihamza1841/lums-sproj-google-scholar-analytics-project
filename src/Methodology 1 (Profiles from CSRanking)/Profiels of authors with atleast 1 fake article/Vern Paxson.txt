@@ -1,0 +1,430 @@
+
+3. Stream control transmission protocol
+Citations:3493
+Authors: R Stewart
+Publication: 
+
+17. Self-similarity through high-variability: statistical analysis of Ethernet LAN traffic at the source level
+Citations:828
+Authors: W Willinger, MS Taqqu, R Sherman, DV Wilson
+Publication: ACM SIGCOMM Computer Communication Review 25 (4), 100-113
+
+34. The matter of heartbleed
+Citations:467
+Authors: Z Durumeric, F Li, J Kasten, J Amann, J Beekman, M Payer, N Weaver, ...
+Publication: Proceedings of the 2014 conference on internet measurement conference, 475-488
+
+36. Controlling high-bandwidth flows at the congested router
+Citations:446
+Authors: R Mahajan, S Floyd, D Wetherall
+Publication: Proceedings Ninth International Conference on Network Protocols. ICNP 2001 …
+
+50. Click trajectories: End-to-end analysis of the spam value chain
+Citations:273
+Authors: K Levchenko, A Pitsillidis, N Chachra, B Enright, M Félegyházi, C Grier, ...
+Publication: 2011 ieee symposium on security and privacy, 431-446
+
+57. The use of end-to-end multicast measurements for characterizing internal network behavior
+Citations:229
+Authors: A Adams, T Bu, T Friedman, J Horowitz, D Towsley, R Caceres, N Duffield, ...
+Publication: IEEE Communications magazine 38 (5), 152-159
+
+60. Manufacturing compromise: the emergence of exploit-as-a-service
+Citations:223
+Authors: C Grier, L Ballard, J Caballero, N Chachra, CJ Dietrich, K Levchenko, ...
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+61. RFC 2960: Stream control transmission protocol
+Citations:223
+Authors: R Stewart, Q Xie, K Morneault, C Sharp, H Schwarzbauer, T Taylor, ...
+Publication: Network Working Group
+
+71. TCP Congestion Control
+Citations:169
+Authors: E Blanton, M Allman
+Publication: 
+
+78. Show Me the Money: Characterizing Spam-advertised Revenue.
+Citations:135
+Authors: C Kanich, N Weaver, D McCoy, T Halvorson, C Kreibich, K Levchenko, ...
+Publication: USENIX Security Symposium, 15-15
+
+104. Cyber defense technology networking and evaluation
+Citations:87
+Authors: R Bajcsy, T Benzel, M Bishop, B Braden, C Brodley, S Fahmy, S Floyd, ...
+Publication: Communications of the ACM 47 (3), 58-61
+
+112. Ad injection at scale: Assessing deceptive advertisement modifications
+Citations:79
+Authors: K Thomas, E Bursztein, C Grier, G Ho, N Jagpal, A Kapravelos, D McCoy, ...
+Publication: 2015 IEEE Symposium on Security and Privacy, 151-167
+
+116. Fathom: A browser-based network measurement platform
+Citations:75
+Authors: M Dhawan, J Samuel, R Teixeira, C Kreibich, M Allman, N Weaver, ...
+Publication: Proceedings of the 2012 Internet Measurement Conference, 73-86
+
+127. Competitor analysis and its defenses in the e-marketplace
+Citations:65
+Authors: YP Sheng, PP Mykytyn Jr, CR Litecky
+Publication: Communications of the ACM 48 (8), 107-112
+
+131. Pushback messages for controlling aggregates in the network
+Citations:58
+Authors: S Floyd
+Publication: draft-floyd-pushback-messages-00. txt
+
+133. Stream Control Transmission Protocol (RFC 2960)
+Citations:57
+Authors: R Stewart, Q Xie, K Morneault, C Sharp, H Schwarzbauer, T Taylor, ...
+Publication: Online, October
+
+136. Network system challenges in selective sharing and verification for personal, social, and urban-scale sensing applications
+Citations:53
+Authors: MB Srivastava, JA Burke, M Hansen, A Parker, S Reddy, T Schmid, ...
+Publication: 
+
+137. China’s great cannon
+Citations:52
+Authors: B Marczak, N Weaver, J Dalek, R Ensafi, D Fifield, S McKune, A Rey, ...
+Publication: Citizen Lab 10
+
+139. Haystack: In situ mobile traffic analysis in user space
+Citations:51
+Authors: A Razaghpanah, N Vallina-Rodriguez, S Sundaresan, C Kreibich, P Gill, ...
+Publication: arXiv preprint arXiv:1510.01419, 1-13
+
+145. Wireless urban sensing systems
+Citations:49
+Authors: M Srivastava, M Hansen, J Burke, A Parker, S Reddy, G Saurabh, ...
+Publication: 
+
+148. The Security Impact of HTTPS Interception.
+Citations:47
+Authors: Z Durumeric, Z Ma, D Springall, R Barnes, N Sullivan, E Bursztein, ...
+Publication: NDSS
+
+152. You've got vulnerability: Exploring effective vulnerability notifications
+Citations:45
+Authors: F Li, Z Durumeric, J Czyz, M Karami, M Bailey, D McCoy, S Savage, ...
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 1033-1050
+
+159. Data breaches, phishing, or malware?: Understanding the risks of stolen credentials
+Citations:39
+Authors: K Thomas, F Li, A Zand, J Barrett, J Ranieri, L Invernizzi, Y Markov, ...
+Publication: Proceedings of the 2017 ACM SIGSAC conference on computer and communications …
+
+160. Cloud terminal: secure access to sensitive applications from untrusted systems
+Citations:39
+Authors: L Martignoni, P Poosankam, M Zaharia, J Han, S McCamant, D Song, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+170. An analysis of china’s “great cannon”
+Citations:31
+Authors: B Marczak, N Weaver, J Dalek, R Ensafi, D Fifield, S McKune, A Rey, ...
+Publication: 5th {USENIX} Workshop on Free and Open Communications on the Internet ({FOCI …
+
+180. A multi-perspective analysis of carrier-grade NAT deployment
+Citations:27
+Authors: P Richter, F Wohlfart, N Vallina-Rodriguez, M Allman, R Bush, ...
+Publication: Proceedings of the 2016 Internet Measurement Conference, 215-229
+
+184. Tools for automated analysis of cybercriminal markets
+Citations:26
+Authors: RS Portnoff, S Afroz, G Durrett, JK Kummerfeld, T Berg-Kirkpatrick, ...
+Publication: Proceedings of the 26th International Conference on World Wide Web, 657-666
+
+186. Network Working Group M. Allman Request for Comments: 2581 NASA Glenn/Sterling Software Obsoletes: 2001 V. Paxson Category: Standards Track ACIRI/ICSI
+Citations:26
+Authors: W Stevens
+Publication: Consultant
+
+193. Haystack: A multi-purpose mobile vantage point in user space
+Citations:23
+Authors: A Razaghpanah, N Vallina-Rodriguez, S Sundaresan, C Kreibich, P Gill, ...
+Publication: arXiv preprint arXiv:1510.01419
+
+197. The BIZ top-level domain: ten years later
+Citations:21
+Authors: T Halvorson, J Szurdi, G Maier, M Felegyhazi, C Kreibich, N Weaver, ...
+Publication: International Conference on Passive and Active Network Measurement, 221-230
+
+209. Very fast containment of scanning worms, revisited
+Citations:15
+Authors: N Weaver, S Staniford
+Publication: Malware Detection, 113-145
+
+211. Simple Control Transmission Protocol
+Citations:14
+Authors: R Stewart, Q Xie, K Morneault, C Sharp, H Schwarzbauer, T Taylor, ...
+Publication: 
+
+216. Looking over the fence at networks: A neighbor's view of networking research
+Citations:13
+Authors: National Research Council
+Publication: National Academies Press
+
+221. Intrusion detection systems
+Citations:12
+Authors: TM Wu
+Publication: Information assurance tools report, 6th edn. Information Assurance …
+
+225. Data for cybersecurity research: Process and “wish list”
+Citations:11
+Authors: J Camp, L Cranor, N Feamster, J Feigenbaum, S Forrest, D Kotz, W Lee, ...
+Publication: Academic Press
+
+233. Identifying products in online cybercrime marketplaces: A dataset for fine-grained domain adaptation
+Citations:9
+Authors: G Durrett, JK Kummerfeld, T Berg-Kirkpatrick, RS Portnoff, S Afroz, ...
+Publication: arXiv preprint arXiv:1708.09609
+
+234. On community-oriented internet measurement
+Citations:9
+Authors: M Allman, L Martin, M Rabinovich, K Atchinson
+Publication: International Conference on Passive and Active Network Measurement, 112-121
+
+251. Looking over the fence at networks: A neighbor’s view of networking research
+Citations:7
+Authors: DA Patterson, DD Clark, A Karlin, J Kurose, ED Lazowska, D Liddle, ...
+Publication: Computer Science and Telecommunications Board, National Academy of Sciences …
+
+268. Scanning the internet for liveness
+Citations:5
+Authors: S Bano, P Richter, M Javed, S Sundaresan, Z Durumeric, SJ Murdoch, ...
+Publication: ACM SIGCOMM Computer Communication Review 48 (2), 2-9
+
+271. A NEW ADAPTIVE THROUGHPUT POLICY ALGORITHM ON CAMPUS IP-BASED NETWORK INTERNET TRAFFIC.
+Citations:5
+Authors: M Kassim, M Ismail, MI Yusof
+Publication: Journal of Theoretical & Applied Information Technology 71 (2)
+
+276. Analyzing China's Blocking of Unpublished Tor Bridges
+Citations:4
+Authors: A Dunna, C O'Brien, P Gill
+Publication: 8th {USENIX} Workshop on Free and Open Communications on the Internet ({FOCI …
+
+280. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+282. Nortel Networks
+Citations:4
+Authors: RR Stewart, Q Xie, K Morneault, C Sharp, HJ Schwarzbauer, T Taylor, ...
+Publication: 
+
+289. Characterization and evaluation of end-system performance aware transport schemes for fast long-distance optical networks
+Citations:3
+Authors: W Wang, M Tang, Y Ren, J Li
+Publication: Information Technology Journal 9 (4), 766-773
+
+302. Browser Exploits as a Service: The Monetization of Driveby Downloads
+Citations:2
+Authors: C Grier, L Ballard, J Caballero, N Chachra, C Dietrich, K Levchenko, ...
+Publication: 
+
+304. IAB Thoughts on the Role of the Internet Research Task Force (IRTF)
+Citations:2
+Authors: S Floyd
+Publication: 
+
+321. Keys to {SRE}
+Citations:1
+Authors: B Treynor
+Publication: 
+
+333. Mapping the Underground: Towards Automatic Discovery of Cybercrime Supply Chains
+Citations:
+Authors: R Bhalerao, M Aliapoulios, I Shumailov, S Afroz, D McCoy, K Levchenko, ...
+Publication: arXiv preprint arXiv:1812.00381
+
+338. Security Competitions
+Citations:
+Authors: W Robertson, Z Peterson, D Levin, C Lewis, S D'Antoine, A Hecksteden, ...
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 1223-1240
+
+339. Measuring Online Information Controls: From Theory to Practice
+Citations:
+Authors: F Bashar, C Anderson, J Crandall, A Filastò, C Doten, B Fabian, ...
+Publication: 5th {USENIX} Workshop on Free and Open Communications on the Internet ({FOCI …
+
+341. Proactive worm containment (PWC) for enterprise networks
+Citations:
+Authors: P Liu, YC Jhi, L Li
+Publication: US Patent 8,904,535
+
+346. Stress testing cluster bro.
+Citations:
+Authors: H Alaidaros, M Mahmuddin, HJ Liao, CHR Lin, YC Lin, KY Tung, ...
+Publication: Research Journal of Information Technology 8 (3), 16-24
+
+347. A universal algorithm for sequential data compression.
+Citations:
+Authors: G Sujitha, M Varadharajan, BR Kumar, SM Shalinie, A Lapkin, B Schneier, ...
+Publication: Journal of Artificial Intelligence 6 (3), pp: 231-249
+
+348. Self-adaptive clock synchronization based on clock precision differences
+Citations:
+Authors: J Abate, B Abali, CB Stunkel, C Benveniste, H Abdel-Ghaffar, C Adams, ...
+Publication: Computer Network Time Synchronization: The Network Time Protocol on Earth …
+
+351. Network Control
+Citations:
+Authors: PV Paxson, D Wagner
+Publication: 
+
+353. An Architecture for Exploiting Multi-Core Processors to Parallelize Network Intrusion Prevention
+Citations:
+Authors: 林柏青
+Publication: iCAST 2009 2nd Conference
+
+356. Collaborative detection of fast flux phishing domains.
+Citations:
+Authors: H Huang, L Qian, Y Wang, AAD Al-Momani, TC Wan, K Al-Saedi, ...
+Publication: Information Technology Journal 11 (7), 3301-3307
+
+359. Mohan Dhawan
+Citations:
+Authors: M Dhawan, C Kreibich, N Weaver, J Samuel, R Teixeira, M Allman, ...
+Publication: Software Engineer 2006
+
+362. TCP-Jersey for wireless IP communications.
+Citations:
+Authors: H Natiq Jasem, Z Ahmad Zukarnain, M Othman, S Subramaniam, PC Attie, ...
+Publication: Information Technology Journal 9 (7), pp: 727-727
+
+365. An achilles heel in signature-based ids: Squealing false positives in snort.
+Citations:
+Authors: Z Jun, JX Cao, DY Zhang, Z Wu, WN Liu, M Handley, C Kreibich, ...
+Publication: Journal of Applied Sciences 6 (6), 608-611
+
+366. Periodicity-based anomalies in self-similar network traffic flow measurements.
+Citations:
+Authors: R Yan, Y Wang, H Kettani, JA Gubner, W Leland, M Taqqu, W Willinger, ...
+Publication: Information Technology Journal 11 (2), pp: 160-165
+
+367. Rudolf H. Riedi
+Citations:
+Authors: R RIEDI
+Publication: IEEE Signal Processing Magazine 19 (3), 28-46
+
+370. RFC 2960 Stream Control Transmission Protocol October 2000
+Citations:
+Authors: K Morneault, C Sharp, H Schwarzbauer, T Taylor, I Rytina, M Kalla, ...
+Publication: 
+
+371. Энциклопедия сетевых протоколов
+Citations:
+Authors: K Morneault, C Sharp, H Schwarzbauer, T Taylor, I Rytina, M Kalla, ...
+Publication: 
+
+372. Разумные сети от Разумные сети от BiLIM Systems
+Citations:
+Authors: K Morneault, C Sharp, H Schwarzbauer, T Taylor, I Rytina, M Kalla, ...
+Publication: 
+
+374. ACIRI/ICSI
+Citations:
+Authors: E Crabbe
+Publication: 
+
+377. Web server workload characterization: The search for invariants.
+Citations:
+Authors: M Okopa, R Nambasa, BK Asingwire, S Kakuba, D Matovu, P Gupta, ...
+Publication: Australasian Journal of Computer Science 4 (1), 388-404
+
+378. NETWORK TRAFFIC MEASUREMENTS AND EXPERIMENTS-THE USE OF END-TO-END MULTICAST MEASUREMENTS FOR CHARACTERIZING INTERNAL NETWORK BEHAVIOR-The authors present a methodology for …
+Citations:
+Authors: TM Chen, A Adams, T Bu, T Friedman, J Horowitz, D Towsley, R Caceres, ...
+Publication: IEEE Communications Magazine 38 (5), 152-159
+
+381. Métriques IPPM pour la mesure de la connexité
+Citations:
+Authors: J Mahdavi, PS Center
+Publication: 
+
+387. Congestion control in IP/TCP internetworks.
+Citations:
+Authors: HN Jasem, ZA Zukarnain, M Othman, S Subramaniam, L Brakmo, ...
+Publication: Journal of Applied Sciences 11 (3), 1465-1480
+
+389. Superconducting Super Collider
+Citations:
+Authors: D Bintinger, ACE Forest, D Johnson, P Limon, M McAshan, D Neu, ...
+Publication: 
+
+390. Compendation of SSC lattice optics in the presence of dipole field errors: Report of the Correction Element Working Group
+Citations:
+Authors: D Bintinger, A Chao, E Forest
+Publication: Superconducting Super Collider Lab., Dallas, TX (United States)
+
+395. CERN Document Server
+Citations:
+Authors: MS Zisman, S Humphries, S Krinsky, Y Kojima, D Moffat, NB Mistry, ...
+Publication: 
+
+396. Software tools programmer's manual
+Citations:
+Authors: T Breckon
+Publication: 
+
+404. Stability and throughput of FAST TCP traffic in bidirectional connections
+Citations:
+Authors: CT Liansheng, TS Rappaport
+Publication: Resource Allocation and Performance Optimization in Communication Networks …
+
+412. 10th USENIX Security Symposium
+Citations:
+Authors: DS Wallach, D Balfanz, S Bellovin, C Ellison, I Goldberg, P Gutmann, ...
+Publication: 
+
+414. 11th USENIX Security Symposium
+Citations:
+Authors: D Boneh, S Bellovin, M Blaze, D Dean, K Fu, B LaMacchia, P Lincoln, ...
+Publication: 
+
+419. TWC: Frontier: Collaborative: Beyond Technical Security: Developing an Empirical Basis for Socio-Economic Perspectives
+Citations:
+Authors: S Savage, GM Voelker, J Fowler, A Snoeren, L Saul, K Levchenko, ...
+Publication: 
+
+420. General Chair: Bob Blakley (IBM) ViceYChair: Lee Badger (DARPA) Program CoYChairs: Steve Bellovin (AT&T) David Wagner (UC Berkeley) Treasurer: Terry Hall (Boeing)
+Citations:
+Authors: M Abadi, M Dacier, DD SRI, B Fox, V Gligor, P Gutmann, J Ioannidis, ...
+Publication: 
+
+421. Message from the General Chair _ viii Message from the Program Chairs _ x External Reviewers _ xi
+Citations:
+Authors: H Yu, P Gibbons, M Kaminsky, F Xiao, P Venkitasubramaniam, L Tong, ...
+Publication: 
+
+423. IEEE Communications Society
+Citations:
+Authors: J BUMBLIS, G CYBENKO, TW WILLIAMS, R ECKHOUSE, VAN EDEN, ...
+Publication: 
+
+424. Network Working Group RR Stewart INTERNET-DRAFT Q. Xie Motorola K. Morneault
+Citations:
+Authors: C Sharp, HJ Schwarzbauer, T Taylor, I Rytina, M Kalla, L Zhang, ...
+Publication: 
+
+429. IEEE Communications Society
+Citations:
+Authors: TW WILLIAMS, D EBERT, L SHAFER, F FERRANTE, M CHRISTENSEN, ...
+Publication: 
+
+431. IEEE Communications Society
+Citations:
+Authors: S SANKARAN, S DIAMOND, C EDMONDSON-YURKANAN, S KESHAV, ...
+Publication: 
+
+434. IEEE Communications Society
+Citations:
+Authors: SL DIAMOND, L SHAFER, F FERRANTE, M CHRISTENSEN, M BLAHA, ...
+Publication: 
+
+435. Christoph Schuba, Sun Microsystems, Inc.(Program Chair) Charles Payne, Adventium Labs (Program Co-Chair)
+Citations:
+Authors: P Samarati, T Benzel, K Beznosov, G Caronni, R Chandramouli, M Dacier, ...
+Publication: 

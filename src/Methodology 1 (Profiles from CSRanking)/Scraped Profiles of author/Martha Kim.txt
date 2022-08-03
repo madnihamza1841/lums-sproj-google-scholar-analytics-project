@@ -1,0 +1,343 @@
+https://scholar.google.com/citations?hl=en&user=gFb9vegAAAAJ
+Total Citations = 1143
+
+1. The wavescalar architecture
+Citations:138
+Authors: S Swanson, A Schwerin, M Mercaldi, A Petersen, A Putnam, K Michelson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (2), 4
+
+2. Q100: The architecture and design of a database processing unit
+Citations:135
+Authors: L Wu, A Lottarini, TK Paine, MA Kim, KA Ross
+Publication: ACM SIGPLAN Notices 49 (4), 255-268
+
+3. Navigating big data with high-throughput, energy-efficient data partitioning
+Citations:99
+Authors: L Wu, RJ Barker, MA Kim, KA Ross
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 249-260
+
+4. Building a wavecache
+Citations:97
+Authors: SJ Eggers, MA Mercaldi, KA Michelson, MH Oskin, AK Petersen, ...
+Publication: US Patent 7,490,218
+
+5. XML screamer: an integrated approach to high performance XML parsing, validation and deserialization
+Citations:97
+Authors: MG Kostoulas, M Matsa, N Mendelsohn, E Perkins, A Heifets, M Mercaldi
+Publication: Proceedings of the 15th international conference on World Wide Web, 93-102
+
+6. Measuring interference between live datacenter applications
+Citations:96
+Authors: M Kambadur, T Moseley, R Hank, MA Kim
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+7. Polymorphic on-chip networks
+Citations:75
+Authors: MM Kim, JD Davis, M Oskin, T Austin
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 101-112
+
+8. Area-performance trade-offs in tiled dataflow architectures
+Citations:45
+Authors: S Swanson, A Putnam, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 314-326
+
+9. Instruction scheduling for a tiled dataflow architecture
+Citations:42
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: ACM Sigplan Notices 41 (11), 141-150
+
+10. An experimental survey of energy management across the stack
+Citations:39
+Authors: M Kambadur, MA Kim
+Publication: ACM SIGPLAN Notices 49 (10), 329-344
+
+11. Harmony: Collection and analysis of parallel block vectors
+Citations:37
+Authors: M Kambadur, K Tang, MA Kim
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 452-463
+
+12. Modeling instruction placement on a spatial architecture
+Citations:19
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: Proceedings of the eighteenth annual ACM symposium on Parallelism in …
+
+13. Data reporting application programming interfaces in an xml parser generator for xml validation and deserialization
+Citations:15
+Authors: MG Kostoulas, ME Matsa, MA Mercaldi, E Perkins
+Publication: US Patent App. 11/465,818
+
+14. Hardware synthesis from a recursive functional language
+Citations:14
+Authors: K Zhai, R Townsend, L Lairmore, MA Kim, SA Edwards
+Publication: 2015 International Conference on Hardware/Software Codesign and System …
+
+15. Implementing latency-insensitive dataflow blocks
+Citations:13
+Authors: B Cao, KA Ross, MA Kim, SA Edwards
+Publication: 2015 ACM/IEEE International Conference on Formal Methods and Models for …
+
+16. Architectural implications of brick and mortar silicon manufacturing
+Citations:13
+Authors: MM Kim, M Mehrara, M Oskin, T Austin
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 244-253
+
+17. NRG-loops: adjusting power from within applications
+Citations:12
+Authors: M Kambadur, MA Kim
+Publication: Proceedings of the 2016 International Symposium on Code Generation and …
+
+18. From functional programs to pipelined dataflow circuits
+Citations:11
+Authors: R Townsend, MA Kim, SA Edwards
+Publication: Proceedings of the 26th International Conference on Compiler Construction, 76-86
+
+19. Hardware partitioning for big data analytics
+Citations:10
+Authors: L Wu, RJ Barker, MA Kim, KA Ross
+Publication: IEEE Micro 34 (3), 109-119
+
+20. Building a wavecache
+Citations:10
+Authors: S Eggers, M Mercaldi, K Michelson, M Oskin, A Petersen, A Putnam, ...
+Publication: US Patent App. 11/830,446
+
+21. Compositional dataflow circuits
+Citations:9
+Authors: SA Edwards, R Townsend, MA Kim
+Publication: Proceedings of the 15th ACM-IEEE International Conference on Formal Methods …
+
+22. Fast computational gpu design with gt-pin
+Citations:9
+Authors: M Kambadur, S Hong, J Cabral, H Patil, CK Luk, S Sajid, MA Kim
+Publication: 2015 IEEE International Symposium on Workload Characterization, 76-86
+
+23. The Q100 database processing unit
+Citations:9
+Authors: L Wu, A Lottarini, TK Paine, MA Kim, KA Ross
+Publication: IEEE Micro 35 (3), 34-46
+
+24. Parashares: Finding the important basic blocks in multithreaded programs
+Citations:9
+Authors: M Kambadur, K Tang, MA Kim
+Publication: European Conference on Parallel Processing, 75-86
+
+25. Reducing control overhead in dataflow architectures
+Citations:9
+Authors: A Petersen, A Putnam, M Mercaldi, A Schwerin, S Eggers, S Swanson, ...
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+26. Computation vs. memory systems: pinning down accelerator bottlenecks
+Citations:8
+Authors: MA Kim, SA Edwards
+Publication: International Symposium on Computer Architecture, 86-98
+
+27. Energy analysis of hardware and software range partitioning
+Citations:7
+Authors: L Wu, O Polychroniou, RJ Barker, MA Kim, KA Ross
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (3), 8
+
+28. vbench: Benchmarking video transcoding in the cloud
+Citations:6
+Authors: A Lottarini, A Ramirez, J Coburn, MA Kim, P Ranganathan, D Stodolsky, ...
+Publication: ACM SIGPLAN Notices 53 (2), 797-809
+
+29. Acceleration targets: A study of popular benchmark suites
+Citations:6
+Authors: L Wu, MA Kim
+Publication: The First Dark Silicon Workshop, DaSi 12, 25
+
+30. Cache impacts of datatype acceleration
+Citations:6
+Authors: L Wu, M Kim, S Edwards
+Publication: IEEE computer architecture letters 11 (1), 21-24
+
+31. The microarchitecture of a pipelined wavescalar processor: An RTL-based study
+Citations:6
+Authors: A Putnam, S Swanson, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: Tech. Rep. TR-2005–11–02
+
+32. Hotspot monitoring and Temperature Estimation with miniature on-chip temperature sensors
+Citations:5
+Authors: PK Chundi, Y Zhou, M Kim, E Kursun, M Seok
+Publication: 2017 IEEE/ACM International Symposium on Low Power Electronics and Design …
+
+33. The cache and codec model for storing and manipulating data
+Citations:4
+Authors: V Bui, MA Kim
+Publication: IEEE Micro 34 (4), 28-35
+
+34. Hardware-accelerated range partitioning
+Citations:4
+Authors: LK Wu, RJ Barker, MA Kim, KA Ross
+Publication: 
+
+35. Network synthesis for database processing units
+Citations:3
+Authors: A Lottarini, SA Edwards, KA Ross, MA Kim
+Publication: Proceedings of the 54th Annual Design Automation Conference 2017, 90
+
+36. Trading functionality for power within applications
+Citations:3
+Authors: M Kambadur, M Kim
+Publication: SIGPLAN Workshop on Probabilistic and Approximate Computing at PLDI (APPROX)
+
+37. Energy exchanges: Internal power oversight for applications
+Citations:3
+Authors: MR Kambadur, MA Kim
+Publication: 
+
+38. Parallel scaling properties from a basic block view
+Citations:3
+Authors: M Kambadur, K Tang, J Lopez, MA Kim
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 365-366
+
+39. Pipelining a triggered processing element
+Citations:2
+Authors: TJ Repetti, JP Cerqueira, MA Kim, M Seok
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+40. Analysis of super fine-grained program phases
+Citations:2
+Authors: V Bui, MA Kim
+Publication: 
+
+41. Making software more reliable by uncovering hidden dependencies
+Citations:2
+Authors: JS Bell
+Publication: Columbia University
+
+42. Scaling Theory and Machine Abstractions
+Citations:2
+Authors: M Kim
+Publication: 
+
+43. Collection, analysis, and uses of parallel block vectors
+Citations:2
+Authors: M Kambadur, K Tang
+Publication: IEEE Micro 99 (1), 1
+
+44. Development of a WaveScalar Performance Model
+Citations:2
+Authors: M Mercaldi
+Publication: UW CSE Master’s Thesis
+
+45. Deadlock-free joins in DB-mesh, an asynchronous systolic array accelerator
+Citations:1
+Authors: B Cao, KA Ross, SA Edwards, MA Kim
+Publication: Proceedings of the 13th International Workshop on Data Management on New …
+
+46. Hardware in Haskell: Implementing Memories in a Stream-Based World
+Citations:1
+Authors: RM Townsend, MA Kim, SA Edwards
+Publication: 
+
+47. Benchmarking methodology for embedded scalable platforms
+Citations:1
+Authors: P Mantovani, EG Cota, S Kim, K Tien, J Chan, G Di Guglielmo, C Pilato, ...
+Publication: Energy 10 (15), 20
+
+48. Stories, not words: Abstract datatype processors
+Citations:1
+Authors: M Kim
+Publication: Workshop on New Directions in Computer Architecture (NDCA)
+
+49. Brick and Mortar Chip Fabrication
+Citations:1
+Authors: MA Kim
+Publication: University of Washington
+
+50. Master of none acceleration: a comparison of accelerator architectures for analytical query processing
+Citations:
+Authors: A Lottarini, JP Cerqueira, TJ Repetti, SA Edwards, KA Ross, M Seok, ...
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+51. Catena: A 0.5-V Sub-0.4-mW 16-Core Spatial Array Accelerator for Mobile and Embedded Computing
+Citations:
+Authors: JP Cerqueira, TJ Repetti, Y Pu, S Priyadarshi, MA Kim, M Seok
+Publication: 2019 Symposium on VLSI Circuits, C54-C55
+
+52. Hardware Acceleration
+Citations:
+Authors: M Kim, YS Shao
+Publication: IEEE Micro 38 (6), 6-7
+
+53. Compact and voltage-scalable sensor for accurate thermal sensing in dynamic thermal management
+Citations:
+Authors: T Yang, PK Chundi, S Kim, E Kursun, M Kim, PR Kinget, M Seok
+Publication: 2017 IEEE 60th International Midwest Symposium on Circuits and Systems …
+
+54. Address Translation Design Tradeoffs for Heterogeneous Systems
+Citations:
+Authors: Y Kim, G Cox, MA Kim, A Bhattacharjee
+Publication: arXiv preprint arXiv:1707.09450
+
+55. Better Architecture
+Citations:
+Authors: M Kim
+Publication: TECHNOLOGY REVIEW 118 (3), 11-11
+
+56. Parallel Block Vectors: Collection, Analysis, and Uses
+Citations:
+Authors: M Kambadur, K Tang, MA Kim
+Publication: IEEE Micro 33 (3), 86-94
+
+57. Data reporting application programming interfaces in an XML parser generator for XML validation and deserialization
+Citations:
+Authors: MG Kostoulas, ME Matsa, MA Mercaldi, E Perkins
+Publication: US Patent 8,171,395
+
+58. Selected Regression Algorithms Applied to Spatial Computation
+Citations:
+Authors: A Cavender, M Mercaldi
+Publication: 
+
+59. General Heuristic for Tic-Tac-Toe-Like Games
+Citations:
+Authors: M Mercaldi, K Wilamowska
+Publication: 
+
+60. Protein Structure Prediction Using Neural Networks
+Citations:
+Authors: M Mercaldi, K Wilamowska
+Publication: 
+
+61. Te FHW Project: High-Level Hardware Synthesis from Haskell Programs
+Citations:
+Authors: SA Edwards, MA Kim, R Townsend, K Zhai, L Lairmore
+Publication: 
+
+62. MICRO 2018
+Citations:
+Authors: M Oskin, K Inoue, H Kim, S Yalamanchili, M Kondo, M Kim, R Shioya, ...
+Publication: 
+
+63. ISCA 2018 Program Committee
+Citations:
+Authors: T Aamodt, D Albonesi, R Balasubramonian, Y Bao, B Beckmann, ...
+Publication: 
+
+64. Architectural Implications of Brick and Mortar Silicon Manufacturing
+Citations:
+Authors: M Mehrara, T Austin, MM Kim, M Oskin
+Publication: 
+
+65. Q100: The Architecture and Design of
+Citations:
+Authors: L Wu, A Lottarini, T Paine, M Kim, K Ross
+Publication: 
+
+66. Functioning Hardware from Functional Specifications
+Citations:
+Authors: SA Edwards, MA Kim, R Townsend, K Zhai, L Lairmore
+Publication: 
+
+67. ISCA 2014 program committee
+Citations:
+Authors: DI August, T Austin, D Brooks, D Carmean, J Carter, F Chong, AI Davis, ...
+Publication: 
+
+68. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 
+

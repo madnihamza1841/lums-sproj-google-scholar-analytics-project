@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=vN-is70AAAAJ
+Total Citations = 100206
+
+1. A view of cloud computing
+Citations:16865
+Authors: AD JoSEP, RAD KAtz, AD KonWinSKi, LEE Gunho, D PAttERSon, ...
+Publication: Communications of the ACM 53 (4)
+
+2. Chord: A scalable peer-to-peer lookup service for internet applications
+Citations:13735
+Authors: I Stoica, R Morris, D Karger, MF Kaashoek, H Balakrishnan
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 149-160
+
+3. Spark: Cluster computing with working sets.
+Citations:4455
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: HotCloud 10 (10-10), 95
+
+4. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3967
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+5. Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing
+Citations:3876
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, MJ Franklin, ...
+Publication: Proceedings of the 9th USENIX conference on Networked Systems Design and …
+
+6. Wide-area cooperative storage with CFS
+Citations:2301
+Authors: F Dabek, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 202-215
+
+7. A data-oriented (and beyond) network architecture
+Citations:1983
+Authors: T Koponen, M Chawla, BG Chun, A Ermolinskiy, KH Kim, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 181-192
+
+8. Improving MapReduce performance in heterogeneous environments.
+Citations:1854
+Authors: M Zaharia, A Konwinski, AD Joseph, RH Katz, I Stoica
+Publication: Osdi 8 (4), 7
+
+9. Mesos: A platform for fine-grained resource sharing in the data center.
+Citations:1514
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: NSDI 11 (2011), 22-22
+
+10. Delay scheduling: a simple technique for achieving locality and fairness in cluster scheduling
+Citations:1441
+Authors: M Zaharia, D Borthakur, J Sen Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Proceedings of the 5th European conference on Computer systems, 265-278
+
+11. Core-stateless fair queueing: Achieving approximately fair bandwidth allocations in high speed networks
+Citations:1155
+Authors: I Stoica, S Shenker, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 28 (4), 118-130
+
+12. Internet indirection infrastructure
+Citations:1118
+Authors: I Stoica, D Adkins, S Zhuang, S Shenker, S Surana
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 73-86
+
+13. Geographic routing without location information
+Citations:1003
+Authors: A Rao, S Ratnasamy, C Papadimitriou, S Shenker, I Stoica
+Publication: Proceedings of the 9th annual international conference on Mobile computing …
+
+14. Looking up data in P2P systems
+Citations:994
+Authors: H Balakrishnan, MF Kaashoek, D Karger, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM 46 (2), 43-48
+
+15. Dominant Resource Fairness: Fair Allocation of Multiple Resource Types.
+Citations:914
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Nsdi 11 (2011), 24-24
+
+16. Discretized streams: Fault-tolerant streaming computation at scale
+Citations:836
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proceedings of the twenty-fourth ACM symposium on operating systems …
+
+17. The impact of DHT routing geometry on resilience and proximity
+Citations:781
+Authors: K Gummadi, R Gummadi, S Gribble, S Ratnasamy, S Shenker, I Stoica
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+18. Robust incentive techniques for peer-to-peer networks
+Citations:773
+Authors: M Feldman, K Lai, I Stoica, J Chuang
+Publication: Proceedings of the 5th ACM conference on Electronic commerce, 102-111
+
+19. Graphx: Graph processing in a distributed dataflow framework
+Citations:760
+Authors: JE Gonzalez, RS Xin, A Dave, D Crankshaw, MJ Franklin, I Stoica
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+20. Apache spark: a unified engine for big data processing
+Citations:759
+Authors: M Zaharia, RS Xin, P Wendell, T Das, M Armbrust, A Dave, X Meng, ...
+Publication: Communications of the ACM 59 (11), 56-65
+
+21. Towards a common API for structured peer-to-peer overlays
+Citations:756
+Authors: F Dabek, B Zhao, P Druschel, J Kubiatowicz, I Stoica
+Publication: International Workshop on Peer-To-Peer Systems, 33-44
+
+22. Providing guaranteed services without per flow management
+Citations:714
+Authors: I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 29 (4), 81-94
+
+23. Querying the Internet with PIER
+Citations:709
+Authors: R Huebsch, JM Hellerstein, N Lanham, BT Loo, S Shenker, I Stoica
+Publication: Proceedings of the 29th International Conference on Very large data bases …
+
+24. Reining in the Outliers in Map-Reduce Clusters using Mantri.
+Citations:707
+Authors: G Ananthanarayanan, S Kandula, AG Greenberg, I Stoica, Y Lu, B Saha, ...
+Publication: Osdi 10 (1), 24
+
+25. OpenDHT: a public DHT service and its uses
+Citations:655
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+26. Understanding the impact of video quality on user engagement
+Citations:654
+Authors: F Dobrian, V Sekar, A Awan, I Stoica, D Joseph, A Ganjam, J Zhan, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 362-373
+
+27. Free-riding and whitewashing in peer-to-peer systems
+Citations:653
+Authors: M Feldman, C Papadimitriou, J Chuang, I Stoica
+Publication: IEEE Journal on selected areas in communications 24 (5), 1010-1019
+
+28. Packet fair queueing algorithms for wireless networks with location-dependent errors
+Citations:630
+Authors: TSE Ng, I Stoica, H Zhang
+Publication: Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …
+
+29. Load balancing in structured p2p systems
+Citations:606
+Authors: A Rao, K Lakshminarayanan, S Surana, R Karp, I Stoica
+Publication: International Workshop on Peer-to-Peer Systems, 68-79
+
+30. Graphx: A resilient distributed graph system on spark
+Citations:595
+Authors: RS Xin, JE Gonzalez, MJ Franklin, I Stoica
+Publication: First International Workshop on Graph Data Management Experiences and Systems, 2
+
+31. BlinkDB: queries with bounded errors and bounded response times on very large data
+Citations:568
+Authors: S Agarwal, B Mozafari, A Panda, H Milner, S Madden, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 29-42
+
+32. Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters
+Citations:543
+Authors: M Zaharia, T Das, H Li, S Shenker, I Stoica
+Publication: Presented as part of the
+
+33. Managing data transfers in computer clusters with orchestra
+Citations:528
+Authors: M Chowdhury, M Zaharia, J Ma, MI Jordan, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 98-109
+
+34. Endpoint admission control: Architectural issues and performance
+Citations:493
+Authors: L Breslau, EW Knightly, S Shenker, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 30 (4), 57-69
+
+35. X-trace: A pervasive network tracing framework
+Citations:492
+Authors: R Fonseca, G Porter, RH Katz, S Shenker, I Stoica
+Publication: Proceedings of the 4th USENIX conference on Networked systems design …
+
+36. Complex queries in DHT-based peer-to-peer networks
+Citations:492
+Authors: M Harren, JM Hellerstein, R Huebsch, BT Loo, S Shenker, I Stoica
+Publication: International Workshop on Peer-to-Peer Systems, 242-250
+
+37. Routing algorithms for DHTs: Some open questions
+Citations:489
+Authors: S Ratnasamy, I Stoica, S Shenker
+Publication: International Workshop on Peer-to-Peer Systems, 45-52
+
+38. A proportional share resource allocation algorithm for real-time, time-shared systems
+Citations:486
+Authors: I Stoica, H Abdel-Wahab, K Jeffay, SK Baruah, JE Gehrke, CG Plaxton
+Publication: 17th IEEE Real-Time Systems Symposium, 288-299
+
+39. Shark: SQL and rich analytics at scale
+Citations:482
+Authors: RS Xin, J Rosen, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+40. Implementing declarative overlays
+Citations:478
+Authors: BT Loo, T Condie, JM Hellerstein, P Maniatis, T Roscoe, I Stoica
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 75-90
+
+41. FairCloud: sharing the network in cloud computing
+Citations:445
+Authors: L Popa, G Kumar, M Chowdhury, A Krishnamurthy, S Ratnasamy, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 187-198
+
+42. Beacon vector routing: Scalable point-to-point routing in wireless sensornets
+Citations:443
+Authors: R Fonseca, S Ratnasamy, J Zhao, CT Ee, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 2nd Conference on Symposium on Networked Systems Design …
+
+43. Load balancing in dynamic structured P2P systems
+Citations:443
+Authors: B Godfrey, K Lakshminarayanan, S Surana, R Karp, I Stoica
+Publication: IEEE INFOCOM 2004 4, 2253-2262
+
+44. A policy-aware switching layer for data centers
+Citations:424
+Authors: DA Joseph, A Tavakoli, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 51-62
+
+45. ROFL: routing on flat labels
+Citations:415
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, I Stoica, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 363-374
+
+46. A layered naming architecture for the internet
+Citations:413
+Authors: H Balakrishnan, K Lakshminarayanan, S Ratnasamy, S Shenker, I Stoica, ...
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 343-352
+
+47. Sparrow: distributed, low latency scheduling
+Citations:412
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems …
+
+48. Job scheduling for multi-user mapreduce clusters
+Citations:403
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: Technical Report UCB/EECS-2009-55, EECS Department, University of California …
+
+49. A hierarchical fair service curve algorithm for link-sharing, real-time and priority services
+Citations:389
+Authors: I Stoica, H Zhang, TS Ng
+Publication: ACM SIGCOMM Computer Communication Review 27 (4), 249-262
+
+50. Developing a predictive model of quality of experience for internet video
+Citations:368
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 339-350
+
+51. Declarative routing: extensible routing with declarative queries
+Citations:364
+Authors: BT Loo, JM Hellerstein, I Stoica, R Ramakrishnan
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 289-300
+
+52. A unifying link abstraction for wireless sensor networks
+Citations:359
+Authors: J Polastre, J Hui, P Levis, J Zhao, D Culler, S Shenker, I Stoica
+Publication: Proceedings of the 3rd international conference on Embedded networked sensor …
+
+53. Building peer-to-peer systems with Chord, a distributed lookup service
+Citations:353
+Authors: F Dabek, E Brunskill, MF Kaashoek, D Karger, R Morris, I Stoica, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 81-86
+
+54. Effective straggler mitigation: Attack of the clones
+Citations:345
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+55. Incentives for cooperation in peer-to-peer networks
+Citations:336
+Authors: K Lai, M Feldman, I Stoica, J Chuang
+Publication: Workshop on economics of peer-to-peer systems, 1243-1248
+
+56. OverQoS: An Overlay Based Architecture for Enhancing Internet QoS.
+Citations:320
+Authors: L Subramanian, I Stoica, H Balakrishnan, RH Katz
+Publication: NSDI 4 (6), 71-84
+
+57. Pacman: Coordinated memory caching for parallel jobs
+Citations:311
+Authors: G Ananthanarayanan, A Ghodsi, A Warfield, D Borthakur, S Kandula, ...
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+58. ODR: output-deterministic replay for multicore debugging
+Citations:310
+Authors: G Altekar, I Stoica
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+59. Pathlet routing
+Citations:309
+Authors: P Godfrey, I Ganichev, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 111-122
+
+60. Tachyon: Reliable, memory speed storage for cluster computing frameworks
+Citations:303
+Authors: H Li, A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-15
+
+61. Declarative networking: language, execution and optimization
+Citations:300
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: Proceedings of the 2006 ACM SIGMOD international conference on Management of …
+
+62. Efficient coflow scheduling with varys
+Citations:295
+Authors: M Chowdhury, Y Zhong, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 443-454
+
+63. REUNITE: A recursive unicast approach to multicast
+Citations:289
+Authors: I Stoica, TSE Ng, H Zhang
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+64. Flush: a reliable bulk transport protocol for multihop wireless networks
+Citations:287
+Authors: S Kim, R Fonseca, P Dutta, A Tavakoli, D Culler, P Levis, S Shenker, ...
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+65. Listen and whisper: Security mechanisms for BGP
+Citations:287
+Authors: L Subramanian, V Roth, I Stoica, S Shenker, R Katz
+Publication: Proc. First Symposium on Networked Systems Design and Implementation (NSDI), 11
+
+66. Proving program termination
+Citations:276
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+67. Scarlett: coping with skewed content popularity in mapreduce clusters
+Citations:276
+Authors: G Ananthanarayanan, S Agarwal, S Kandula, A Greenberg, I Stoica, ...
+Publication: Proceedings of the sixth conference on Computer systems, 287-300
+
+68. The case for a hybrid P2P search infrastructure
+Citations:265
+Authors: BT Loo, R Huebsch, I Stoica, JM Hellerstein
+Publication: International workshop on Peer-To-Peer Systems, 141-150
+
+69. Routing as a Service
+Citations:256
+Authors: K Lakshminarayanan, I Stoica, S Shenker, J Rexford
+Publication: Computer Science Division, University of California
+
+70. Minimizing churn in distributed systems
+Citations:255
+Authors: P Godfrey, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 147-158
+
+71. The architecture of pier: an internet-scale query processor
+Citations:253
+Authors: R Huebsch, B Chun, JM Hellerstein, BT Loo, P Maniatis, T Roscoe, ...
+Publication: 
+
+72. HLP: a next generation inter-domain routing protocol
+Citations:244
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 13-24
+
+73. Internet indirection infrastructure
+Citations:241
+Authors: I Stoica, D Adkins, S Zhuang, S Shenker, S Surana
+Publication: IEEE/ACM Transactions on Networking (TON) 12 (2), 205-218
+
+74. One more bit is enough
+Citations:234
+Authors: Y Xia, L Subramanian, I Stoica, S Kalyanaraman
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 37-48
+
+75. A case for a coordinated internet video control plane
+Citations:230
+Authors: X Liu, F Dobrian, H Milner, J Jiang, V Sekar, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 359-370
+
+76. Replay debugging for distributed applications
+Citations:217
+Authors: DM Geels, G Altekar, S Shenker, I Stoica
+Publication: University of California, Berkeley
+
+77. Micro power meter for energy monitoring of wireless sensor networks at scale
+Citations:212
+Authors: X Jiang, P Dutta, D Culler, I Stoica
+Publication: 2007 6th International Symposium on Information Processing in Sensor …
+
+78. Coflow: a networking abstraction for cluster applications.
+Citations:209
+Authors: M Chowdhury, I Stoica
+Publication: HotNets, 31-36
+
+79. Overqos: offering internet qos using overlays
+Citations:204
+Authors: L Subramanian, I Stoica, H Balakrishnan, RH Katz
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 11-16
+
+80. Surviving failures in bandwidth-constrained datacenters
+Citations:201
+Authors: P Bodík, I Menache, M Chowdhury, P Mani, DA Maltz, I Stoica
+Publication: Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …
+
+81. Declarative networking
+Citations:201
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: Communications of the ACM 52 (11), 87-95
+
+82. Quanto: Tracking Energy in Networked Embedded Systems.
+Citations:200
+Authors: R Fonseca, P Dutta, P Levis, I Stoica
+Publication: OSDI 8, 323-338
+
+83. The design and implementation of a declarative sensor network system
+Citations:200
+Authors: D Chu, L Popa, A Tavakoli, JM Hellerstein, P Levis, S Shenker, I Stoica
+Publication: Proceedings of the 5th international conference on Embedded networked sensor …
+
+84. Chord: A scalable peer-to-peer look-up protocol for internet applications
+Citations:197
+Authors: R Morris, MF Kaashoek, D Karger, H Balakrishnan, I Stoica, ...
+Publication: IEEE/ACM Transactions On Networking 11 (1), 17-32
+
+85. Heterogeneity and load balance in distributed hash tables
+Citations:192
+Authors: PB Godfrey, I Stoica
+Publication: Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …
+
+86. Achieving convergence-free routing using failure-carrying packets
+Citations:191
+Authors: K Lakshminarayanan, M Caesar, M Rangan, T Anderson, S Shenker, ...
+Publication: ACM SIGCOMM computer communication review 37 (4), 241-252
+
+87. An overlay MAC layer for 802.11 networks
+Citations:191
+Authors: A Rao, I Stoica
+Publication: Proceedings of the 3rd international conference on Mobile systems …
+
+88. Multi-resource fair queueing for packet processing
+Citations:189
+Authors: A Ghodsi, V Sekar, M Zaharia, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 42 (4), 1-12
+
+89. Ernest: efficient performance prediction for large-scale advanced analytics
+Citations:188
+Authors: S Venkataraman, Z Yang, M Franklin, B Recht, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+90. Bolt-on causal consistency
+Citations:185
+Authors: P Bailis, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+91. Probabilistically bounded staleness for practical partial quorums
+Citations:185
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 5 (8), 776-787
+
+92. HTTP as the narrow waist of the future Internet
+Citations:185
+Authors: L Popa, A Ghodsi, I Stoica
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 6
+
+93. Enhancing p2p file-sharing with an internet-scale query processor
+Citations:181
+Authors: BT Loo, JM Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+94. Low latency geo-distributed data analytics
+Citations:180
+Authors: Q Pu, G Ananthanarayanan, P Bodik, S Kandula, A Akella, P Bahl, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 421-434
+
+95. Exact emulation of an output queueing switch by a combined input output queueing switch
+Citations:174
+Authors: I Stoica, H Zhang
+Publication: 1998 Sixth International Workshop on Quality of Service (IWQoS'98)(Cat. No …
+
+96. LIRA: An approach for service differentiation in the Internet
+Citations:171
+Authors: I Stoica, H Zhang
+Publication: Proc. Nossdav 98, 345-359
+
+97. Efficient coflow scheduling without prior knowledge
+Citations:170
+Authors: M Chowdhury, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 393-406
+
+98. {GRASS}: Trimming Stragglers in Approximation Analytics
+Citations:170
+Authors: G Ananthanarayanan, MCC Hung, X Ren, I Stoica, A Wierman, M Yu
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+99. Blue-Fi: enhancing Wi-Fi performance using bluetooth signals
+Citations:168
+Authors: G Ananthanarayanan, I Stoica
+Publication: Proceedings of the 7th international conference on Mobile systems …
+
+100. Reoptimizing data parallel computing
+Citations:166
+Authors: S Agarwal, S Kandula, N Bruno, MC Wu, I Stoica, J Zhou
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+101. Towards a Sensor Network Architecture: Lowering the Waistline.
+Citations:165
+Authors: DE Culler, P Dutta, CT Ee, R Fonseca, J Hui, P Levis, J Polastre, ...
+Publication: HotOS
+
+102. Denial-of-service resilience in peer-to-peer file sharing systems
+Citations:164
+Authors: D Dumitriu, E Knightly, A Kuzmanovic, I Stoica, W Zwaenepoel
+Publication: ACM SIGMETRICS Performance Evaluation Review 33 (1), 38-49
+
+103. Fast and interactive analytics over Hadoop data with Spark
+Citations:161
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M Mccauley, M Franklin, ...
+Publication: Usenix Login 37 (4), 45-51
+
+104. A cost comparison of datacenter network architectures
+Citations:161
+Authors: L Popa, S Ratnasamy, G Iannaccone, A Krishnamurthy, I Stoica
+Publication: Proceedings of the 6th International COnference, 16
+
+105. Host mobility using an internet indirection infrastructure
+Citations:161
+Authors: S Zhuang, K Lai, I Stoica, R Katz, S Shenker
+Publication: Wireless Networks 11 (6), 741-756
+
+106. Load balancing in dynamic structured peer-to-peer systems
+Citations:157
+Authors: S Surana, B Godfrey, K Lakshminarayanan, R Karp, I Stoica
+Publication: Performance Evaluation 63 (3), 217-240
+
+107. Highly available transactions: Virtues and limitations
+Citations:151
+Authors: P Bailis, A Davidson, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 7 (3), 181-192
+
+108. Choosy: Max-min fair sharing for datacenter jobs with constraints
+Citations:150
+Authors: A Ghodsi, M Zaharia, S Shenker, I Stoica
+Publication: Proceedings of the 8th ACM European Conference on Computer Systems, 365-378
+
+109. The SAHARA model for service composition across multiple providers
+Citations:146
+Authors: B Raman, S Agarwal, Y Chen, M Caesar, W Cui, P Johansson, K Lai, ...
+Publication: International Conference on Pervasive Computing, 1-14
+
+110. Shark: fast data analysis using coarse-grained distributed memory
+Citations:145
+Authors: C Engle, A Lupher, R Xin, M Zaharia, MJ Franklin, S Shenker, I Stoica
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+111. Characterizing selfishly constructed overlay routing networks
+Citations:145
+Authors: BG Chun, R Fonseca, I Stoica, J Kubiatowicz
+Publication: IEEE INFOCOM 2004 2, 1329-1339
+
+112. Coordination avoidance in database systems
+Citations:143
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the VLDB Endowment 8 (3), 185-196
+
+113. Knowing when you're wrong: building fast and reliable approximate query processing systems
+Citations:142
+Authors: S Agarwal, H Milner, A Kleiner, A Talwalkar, M Jordan, S Madden, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+114. Balancing traffic load in wireless networks with curveball routing
+Citations:141
+Authors: L Popa, A Rostamizadeh, R Karp, C Papadimitriou, I Stoica
+Publication: Proceedings of the 8th ACM international symposium on Mobile ad hoc …
+
+115. Taming IP packet flooding attacks
+Citations:141
+Authors: K Lakshminarayanan, D Adkins, A Perrig, I Stoica
+Publication: In Proceedings of Workshop on Hot Topics in Networks (HotNets-II
+
+116. An empirical study of the coolstreaming+ system
+Citations:140
+Authors: B Li, S Xie, GY Keung, J Liu, I Stoica, H Zhang, X Zhang
+Publication: IEEE Journal on Selected Areas in Communications 25 (9), 1627-1639
+
+117. Friday: Global Comprehension for Distributed Replay.
+Citations:140
+Authors: D Geels, G Altekar, P Maniatis, T Roscoe, I Stoica
+Publication: NSDI 7, 285-298
+
+118. Carat: Collaborative energy diagnosis for mobile devices
+Citations:139
+Authors: AJ Oliner, AP Iyer, I Stoica, E Lagerspetz, S Tarkoma
+Publication: Proceedings of the 11th ACM Conference on Embedded Networked Sensor Systems, 10
+
+119. Disk-locality in datacenter computing considered irrelevant.
+Citations:138
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: HotOS 13, 12-12
+
+120. Above the clouds: a Berkeley view of cloud computing. 2009
+Citations:135
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, G Lee, ...
+Publication: University of California at Berkeley
+
+121. TCP model for short lived flows
+Citations:132
+Authors: M Mellia, H Zhang
+Publication: IEEE communications letters 6 (2), 85-87
+
+122. A quest for an internet video quality-of-experience metric
+Citations:131
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: Proceedings of the 11th ACM workshop on hot topics in networks, 97-102
+
+123. Non-Transitive Connectivity and DHTs.
+Citations:130
+Authors: MJ Freedman, K Lakshminarayanan, I Stoica
+Publication: WORLDS 5 (1), 10-10
+
+124. On failure detection algorithms in overlay networks
+Citations:130
+Authors: SQ Zhuang, D Geels, I Stoica, RH Katz
+Publication: Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …
+
+125. Faster and more accurate sequence alignment with SNAP
+Citations:127
+Authors: M Zaharia, WJ Bolosky, K Curtis, A Fox, D Patterson, S Shenker, I Stoica, ...
+Publication: arXiv preprint arXiv:1111.5572
+
+126. Leveraging endpoint flexibility in data-intensive clusters
+Citations:124
+Authors: M Chowdhury, S Kandula, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 231-242
+
+127. Occupy the cloud: Distributed computing for the 99%
+Citations:122
+Authors: E Jonas, Q Pu, S Venkataraman, I Stoica, B Recht
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 445-451
+
+128. Sparknet: Training deep networks in spark
+Citations:122
+Authors: P Moritz, R Nishihara, I Stoica, MI Jordan
+Publication: arXiv preprint arXiv:1511.06051
+
+129. Backup path allocation based on a correlated link failure probability model in overlay networks
+Citations:116
+Authors: W Cui, I Stoica, RH Katz
+Publication: 10th IEEE International Conference on Network Protocols, 2002. Proceedings …
+
+130. Opaque: An oblivious and encrypted distributed analytics platform
+Citations:115
+Authors: W Zheng, A Dave, JG Beekman, RA Popa, JE Gonzalez, I Stoica
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+131. Reducing congestion effects in wireless networks by multipath routing
+Citations:114
+Authors: L Popa, C Raiciu, I Stoica, DS Rosenblum
+Publication: Proceedings of the 2006 IEEE international conference on network protocols …
+
+132. Modeling middleboxes
+Citations:108
+Authors: D Joseph, I Stoica
+Publication: IEEE network 22 (5), 20-25
+
+133. Stateless core: a scalable approach for quality of service in the internet
+Citations:108
+Authors: I Stoica
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF ELECTRICAL AND COMPUTER ENGINEERING
+
+134. Clipper: A low-latency online prediction serving system
+Citations:104
+Authors: D Crankshaw, X Wang, G Zhou, MJ Franklin, JE Gonzalez, I Stoica
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+135. Duality between resource reservation and proportional share resource allocation
+Citations:104
+Authors: I Stoica, H Abdel-Wahab, K Jeffay
+Publication: Multimedia Computing and Networking 1997 3020, 207-214
+
+136. Scalable atomic visibility with RAMP transactions
+Citations:103
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: ACM Transactions on Database Systems (TODS) 41 (3), 15
+
+137. Quantifying disincentives in peer-to-peer networks
+Citations:103
+Authors: M Feldman, K Lai, J Chuang, I Stoica
+Publication: 1st Workshop on Economics of Peer-to-Peer Systems 1, 137-121
+
+138. A modular network layer for sensorsets
+Citations:101
+Authors: CT Ee, R Fonseca, S Kim, D Moon, A Tavakoli, D Culler, S Shenker, ...
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+139. Hierarchical scheduling for diverse datacenter workloads
+Citations:99
+Authors: AA Bhattacharya, D Culler, E Friedman, A Ghodsi, S Shenker, I Stoica
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 4
+
+140. Blink and it's done: interactive queries on very large data
+Citations:98
+Authors: S Agarwal, AP Iyer, A Panda, S Madden, B Mozafari, I Stoica
+Publication: Proceedings of the VLDB Endowment 5 (12), 1902-1905
+
+141. CloudPolice: taking access control out of the network
+Citations:96
+Authors: L Popa, M Yu, SY Ko, S Ratnasamy, I Stoica
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 7
+
+142. Building Extensible Networks with Rule-Based Forwarding.
+Citations:94
+Authors: L Popa, N Egi, S Ratnasamy, I Stoica
+Publication: OSDI, 379-392
+
+143. Cake: enabling high-level SLOs on shared storage systems
+Citations:91
+Authors: A Wang, S Venkataraman, S Alspaugh, R Katz, I Stoica
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 14
+
+144. The power of choice in data-aware cluster scheduling
+Citations:87
+Authors: S Venkataraman, A Panda, G Ananthanarayanan, MJ Franklin, I Stoica
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+145. Ray: A distributed framework for emerging {AI} applications
+Citations:86
+Authors: P Moritz, R Nishihara, S Wang, A Tumanov, R Liaw, E Liang, M Elibol, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+146. Understanding the impact of video quality on user engagement
+Citations:86
+Authors: F Dobrian, A Awan, D Joseph, A Ganjam, J Zhan, V Sekar, I Stoica, ...
+Publication: Communications of the ACM 56 (3), 91-99
+
+147. Netcache: Balancing key-value stores with fast in-network caching
+Citations:85
+Authors: X Jin, X Li, H Zhang, R Soulé, J Lee, N Foster, C Kim, I Stoica
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 121-136
+
+148. OCALA: An Architecture for Supporting Legacy Applications over Overlays.
+Citations:83
+Authors: DA Joseph, J Kannan, A Kubota, K Lakshminarayanan, I Stoica, K Wehrle
+Publication: NSDI 6, 267-280
+
+149. A microeconomic scheduler for parallel computers
+Citations:83
+Authors: I Stoica, H Abdel-Wahab, A Pothen
+Publication: Workshop on Job Scheduling Strategies for Parallel Processing, 200-218
+
+150. Scaling spark in the real world: performance and usability
+Citations:82
+Authors: M Armbrust, T Das, A Davidson, A Ghodsi, A Or, J Rosen, I Stoica, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1840-1843
+
+151. Graphx: Unifying data-parallel and graph-parallel analytics
+Citations:82
+Authors: RS Xin, D Crankshaw, A Dave, JE Gonzalez, MJ Franklin, I Stoica
+Publication: arXiv preprint arXiv:1402.2394
+
+152. The case for tiny tasks in compute clusters
+Citations:80
+Authors: K Ousterhout, A Panda, J Rosen, S Venkataraman, R Xin, S Ratnasamy, ...
+Publication: Presented as part of the 14th Workshop on Hot Topics in Operating Systems
+
+153. C3: Internet-scale control plane for video quality optimization
+Citations:79
+Authors: A Ganjam, F Siddiqui, J Zhan, X Liu, I Stoica, J Jiang, V Sekar, H Zhang
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+154. Macroscope: End-point approach to networked application dependency discovery
+Citations:77
+Authors: L Popa, BG Chun, I Stoica, J Chandrashekar, N Taft
+Publication: Proceedings of the 5th international conference on Emerging networking …
+
+155. IP options are not an option
+Citations:76
+Authors: R Fonseca, G Porter, R Katz, S Shenker, I Stoica
+Publication: University of California at Berkeley, Technical Report UCB/EECS-2005-24
+
+156. The potential dangers of causal consistency and an explicit solution
+Citations:75
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 22
+
+157. One more bit is enough
+Citations:74
+Authors: Y Xia, L Subramanian, I Stoica, S Kalyanaraman
+Publication: IEEE/ACM Transactions on Networking (TON) 16 (6), 1281-1294
+
+158. Making the world (of communications) a different place
+Citations:74
+Authors: DD Clark, C Partridge, RT Braden, B Davie, S Floyd, V Jacobson, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (3), 91-96
+
+159. Adaptive stream processing using dynamic batch sizing
+Citations:72
+Authors: T Das, Y Zhong, I Stoica, S Shenker
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-13
+
+160. Hidden-action in multi-hop routing
+Citations:72
+Authors: M Feldman, J Chuang, I Stoica, S Shenker
+Publication: Proceedings of the 6th ACM conference on Electronic commerce, 117-126
+
+161. Towards a more functional and secure network infrastructure
+Citations:72
+Authors: D Adkins, K Lakshminarayanan, A Perrig, I Stoica
+Publication: 
+
+162. A berkeley view of systems challenges for ai
+Citations:69
+Authors: I Stoica, D Song, RA Popa, D Patterson, MW Mahoney, R Katz, ...
+Publication: arXiv preprint arXiv:1712.05855
+
+163. {HUG}: Multi-Resource Fairness for Correlated and Elastic Demands
+Citations:68
+Authors: M Chowdhury, Z Liu, A Ghodsi, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+164. True elasticity in multi-tenant data-intensive compute clusters
+Citations:65
+Authors: G Ananthanarayanan, C Douglas, R Ramakrishnan, S Rao, I Stoica
+Publication: Proceedings of the Third ACM Symposium on Cloud Computing, 24
+
+165. {CFA}: A Practical Prediction System for Video QoE Optimization
+Citations:63
+Authors: J Jiang, V Sekar, H Milner, D Shepherd, I Stoica, H Zhang
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+166. A Waypoint Service Approach to Connect Heterogeneous Internet Address Spaces.
+Citations:63
+Authors: TSE Ng, I Stoica, H Zhang
+Publication: USENIX Annual Technical Conference, General Track, 319-332
+
+167. Wireless ACK collisions not considered harmful
+Citations:62
+Authors: P Dutta, R Musaloiu-e, I Stoica, A Terzis
+Publication: Proceedings of the 7th ACM Workshop on Hot Topics in Networks (HotNets-VII), 1-6
+
+168. Modeling the adoption of new network architectures
+Citations:62
+Authors: D Joseph, N Shetty, J Chuang, I Stoica
+Publication: Proceedings of the 2007 ACM CoNEXT conference, 5
+
+169. otros (2009),“Above the clouds: a Berkeley view of cloud computing”
+Citations:59
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, AZ Konwinski, G Lee, ...
+Publication: EECS Department
+
+170. Practical hardening of crash-tolerant systems
+Citations:57
+Authors: M Correia, DG Ferro, FP Junqueira, M Serafini
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+171. Sharing aggregate computation for distributed queries
+Citations:57
+Authors: R Huebsch, M Garofalakis, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+172. Per hop behaviors based on dynamic packet states
+Citations:57
+Authors: I Stoica, H Zhang, S Shenker, R Yavatkar, D Stephens, A Malis, Y Bernet, ...
+Publication: draft-stoica-diffserv-dps-00. txt
+
+173. Earliest eligible virtual deadline first: A flexible and accurate mechanism for proportional share resource allocation
+Citations:57
+Authors: I Stoica, H Abdel-Wahab
+Publication: Old Dominion University, Norfolk, VA
+
+174. EC-Cache: Load-balanced, low-latency cluster caching with online erasure coding
+Citations:56
+Authors: KV Rashmi, M Chowdhury, J Kosaian, I Stoica, K Ramchandran
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+175. Source assignment based on network partitioning
+Citations:55
+Authors: I Stoica, H Zhang, X Liu, F Dobrian, H Milner
+Publication: US Patent 9,246,965
+
+176. Griffith
+Citations:54
+Authors: M Armbrust, A Fox
+Publication: R., Joseph, AD, Katz, RH, Konwinski, A., Lee, G., Patterson, DA, Rabkin, A …
+
+177. Drizzle: Fast and adaptable stream processing at scale
+Citations:53
+Authors: S Venkataraman, A Panda, K Ousterhout, M Armbrust, A Ghodsi, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 374-389
+
+178. Job scheduling for multi-user mapreduce clusters. EECS Department
+Citations:53
+Authors: M Zaharia, D Borthakur, JS Sarma, K Elmeleegy, S Shenker, I Stoica
+Publication: University of California, Berkeley, Tech. Rep. UCB/EECS-2009-55, Apr, 2009-55
+
+179. Above the clouds: a Berkeley view of cloud computing
+Citations:53
+Authors: M Ambrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: University of California at Berkeley, February
+
+180. Fairride: Near-optimal, fair cache sharing
+Citations:50
+Authors: Q Pu, H Li, M Zaharia, A Ghodsi, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+181. G-ola: Generalized on-line aggregation for interactive analysis on big data
+Citations:49
+Authors: K Zeng, S Agarwal, A Dave, M Armbrust, I Stoica
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+182. A Common Substrate for Cluster Computing.
+Citations:49
+Authors: B Hindman, A Konwinski, M Zaharia, I Stoica
+Publication: HotCloud
+
+183. Failure as a service (faas): A cloud service for large-scale, online failure drills
+Citations:47
+Authors: HS Gunawi, T Do, JM Hellerstein, I Stoica, D Borthakur, J Robbins
+Publication: University of California, Berkeley, Berkeley 3
+
+184. Time-evolving graph processing at scale
+Citations:46
+Authors: AP Iyer, LE Li, T Das, I Stoica
+Publication: Proceedings of the Fourth International Workshop on Graph Data Management …
+
+185. Why let resources idle? Aggressive cloning of jobs with Dolly
+Citations:46
+Authors: G Ananthanarayanan, A Ghodsi, S Shenker, I Stoica
+Publication: Presented as part of the
+
+186. Collaborative energy debugging for mobile devices
+Citations:45
+Authors: AJ Oliner, A Iyer, E Lagerspetz, S Tarkoma
+Publication: Presented as part of the Eighth Workshop on Hot Topics in System Dependability
+
+187. Sparkr: Scaling r programs with spark
+Citations:44
+Authors: S Venkataraman, Z Yang, D Liu, E Liang, H Falaki, X Meng, R Xin, ...
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1099 …
+
+188. Netchain: Scale-free sub-rtt coordination
+Citations:43
+Authors: X Jin, X Li, H Zhang, N Foster, J Lee, R Soulé, C Kim, I Stoica
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+189. Feral concurrency control: An empirical investigation of modern application integrity
+Citations:43
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+190. Succinct: Enabling queries on compressed data
+Citations:42
+Authors: R Agarwal, A Khandelwal, I Stoica
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+191. Quantifying eventual consistency with PBS
+Citations:42
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: The VLDB Journal 23 (2), 279-302
+
+192. Tradeoffs in CDN designs for throughput oriented traffic
+Citations:42
+Authors: M Yu, W Jiang, H Li, I Stoica
+Publication: Proceedings of the 8th international conference on Emerging networking …
+
+193. OverDoSe: A generic DDoS protection service using an overlay network
+Citations:42
+Authors: E Shi, I Stoica, DG Andersen, A Perrig
+Publication: Computer Science Department, 76
+
+194. Taming IP packet flooding attacks
+Citations:40
+Authors: D Adkins, K Lakshminarayanan, A Perrig, I Stoica
+Publication: COMPUTER COMMUNICATION REVIEW 34 (1), 45-50
+
+195. The NEBULA future internet architecture
+Citations:39
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: The Future Internet Assembly, 16-26
+
+196. Cloud terminal: secure access to sensitive applications from untrusted systems
+Citations:39
+Authors: L Martignoni, P Poosankam, M Zaharia, J Han, S McCamant, D Song, ...
+Publication: Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX …
+
+197. The Datacenter Needs an Operating System.
+Citations:39
+Authors: M Zaharia, B Hindman, A Konwinski, A Ghodsi, AD Joseph, RH Katz, ...
+Publication: HotCloud
+
+198. Celliq: Real-time cellular network analytics at scale
+Citations:38
+Authors: A Iyer, LE Li, I Stoica
+Publication: 12th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+199. Discretized streams: A fault-tolerant model for scalable stream processing
+Citations:38
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+200. Shedding light on the structure of internet video quality problems in the wild
+Citations:37
+Authors: J Jiang, V Sekar, I Stoica, H Zhang
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+201. Fair on-line scheduling of a dynamic set of tasks on a single resource
+Citations:37
+Authors: SK Baruah, JE Gehrk, CG Plaxton, I Stoica, H Abdel-Wahab, K Jeffay
+Publication: Information Processing Letters 64 (1), 43-51
+
+202. Tachyon: Memory throughput i/o for cluster computing frameworks
+Citations:35
+Authors: H Li, A Ghodsi, M Zaharia, E Baldeschwieler, S Shenker, I Stoica
+Publication: memory 18 (1)
+
+203. Multi-level discovery of deep options
+Citations:34
+Authors: R Fox, S Krishnan, I Stoica, K Goldberg
+Publication: arXiv preprint arXiv:1703.08294
+
+204. Design guidelines for robust Internet protocols
+Citations:34
+Authors: T Anderson, S Shenker, I Stoica, D Wetherall
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 125-130
+
+205. A scalable and robust solution for bandwidth allocation
+Citations:33
+Authors: S Machiraju, M Seshadri, I Stoica
+Publication: IEEE 2002 Tenth IEEE International Workshop on Quality of Service (Cat. No …
+
+206. Learning to optimize join queries with deep reinforcement learning
+Citations:31
+Authors: S Krishnan, Z Yang, K Goldberg, J Hellerstein, I Stoica
+Publication: arXiv preprint arXiv:1808.03196
+
+207. Eona: Experience-oriented network architecture
+Citations:31
+Authors: J Jiang, X Liu, V Sekar, I Stoica, H Zhang
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 11
+
+208. SAAR: A Shared Control Plane for Overlay Multicast.
+Citations:31
+Authors: A Nandi, A Ganjam, P Druschel, TSE Ng, I Stoica, H Zhang, ...
+Publication: NSDI
+
+209. Self-verifying CSFQ
+Citations:30
+Authors: I Stoica, H Zhang, S Shenker
+Publication: Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …
+
+210. Monitoring the performance of a content player
+Citations:29
+Authors: AR Ganjam, RJ Huebsch, KK Lakshminarayanan, GC Necula, I Stoica, ...
+Publication: US Patent 8,874,725
+
+211. Detecting problems in content distribution
+Citations:29
+Authors: KK Lakshminarayanan, AR Ganjam, I Stoica, H Zhang
+Publication: US Patent 8,489,923
+
+212. Beacon vector routing: Scalable point-to-point in wireless sensornets
+Citations:29
+Authors: R Fonseca, S Ratnasamy, D Culler, S Shenker, I Stoica
+Publication: Intel Research, IRB-TR-04 12, 2-15
+
+213. Flexible and robust large scale multicast using i3
+Citations:29
+Authors: K Lakshminarayanan, A Rao, I Stoica, S Shenker
+Publication: Tech. Rep. CS-02-1187, University of California-Berkeley
+
+214. Dynamic client logging and reporting
+Citations:28
+Authors: AR Ganjam, N Hu, AK Awan, GC Necula, I Stoica
+Publication: US Patent 9,819,566
+
+215. Beacon location service: a location service for point-to-point routing in wireless sensor networks
+Citations:28
+Authors: J Ortiz, CR Baker, D Moon, R Fonseca, I Stoica
+Publication: Proceedings of the 6th international conference on Information processing in …
+
+216. Supporting best-effort traffic with fair service curve
+Citations:28
+Authors: TSE Ng, DC Stephens, I Stoica, H Zhang
+Publication: Seamless Interconnection for Universal Services. Global Telecommunications …
+
+217. Chameleon: scalable adaptation of video analytics
+Citations:27
+Authors: J Jiang, G Ananthanarayanan, P Bodik, S Sen, I Stoica
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+218. Unleashing the potential of data-driven networking
+Citations:26
+Authors: J Jiang, V Sekar, I Stoica, H Zhang
+Publication: International Conference on Communication Systems and Networks, 110-126
+
+219. Blowfish: Dynamic storage-performance tradeoff in data stores
+Citations:26
+Authors: A Khandelwal, R Agarwal, I Stoica
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+220. Above the clouds: A berkeley view of cloud computing
+Citations:26
+Authors: A Konwinski, G Lee, DA Patterson, A Rabkin, I Stoica, M Zaharia
+Publication: University of California, Berkeley, Tech. Rep
+
+221. TCP-aware packet marking in networks with diffserv support
+Citations:26
+Authors: M Mellia, I Stoica, H Zhang
+Publication: Computer Networks 42 (1), 81-100
+
+222. Lagover: latency gradated overlays
+Citations:25
+Authors: A Datta, I Stoica, M Franklin
+Publication: 27th International Conference on Distributed Computing Systems (ICDCS'07), 13-13
+
+223. Reliable broadcast in unknown fixed-identity networks
+Citations:25
+Authors: L Subramanian, RH Katz, V Roth, S Shenker, I Stoica
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Principles of …
+
+224. Ddco: Discovery of deep continuous options for robot learning from demonstrations
+Citations:24
+Authors: S Krishnan, R Fox, I Stoica, K Goldberg
+Publication: arXiv preprint arXiv:1710.05421
+
+225. Nebula-a future internet that supports trustworthy cloud computing
+Citations:24
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: 
+
+226. Structured streaming: A declarative API for real-time applications in apache spark
+Citations:23
+Authors: M Armbrust, T Das, J Torres, B Yavuz, S Zhu, R Xin, A Ghodsi, I Stoica, ...
+Publication: Proceedings of the 2018 International Conference on Management of Data, 601-613
+
+227. Model-based value estimation for efficient model-free reinforcement learning
+Citations:23
+Authors: V Feinberg, A Wan, I Stoica, MI Jordan, JE Gonzalez, S Levine
+Publication: arXiv preprint arXiv:1803.00101
+
+228. Accounting for network traffic
+Citations:23
+Authors: H Zhang, I Stoica, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 8,751,605
+
+229. HAT, not CAP: towards highly available transactions
+Citations:23
+Authors: P Bailis, A Fekete, A Ghodsi, JM Hellerstein, I Stoica
+Publication: Proceedings of the 14th USENIX conference on Hot Topics in Operating Systems …
+
+230. Dominant resource fairness: Fair allocation of heterogeneous resources in datacenters
+Citations:23
+Authors: A Ghodsi, M Zaharia, B Hindman, A Konwinski, S Shenker, I Stoica
+Publication: Proc. of NSDI
+
+231. Analyzing Cooperative Containment of Fast Scanning Worms.
+Citations:23
+Authors: J Kannan, L Subramanian, I Stoica, RH Katz
+Publication: SRUTI 5, 3-3
+
+232. Detecting problems in content distribution
+Citations:22
+Authors: KK Lakshminarayanan, AR Ganjam, I Stoica, H Zhang
+Publication: US Patent 8,874,964
+
+233. A brief overview of the NEBULA future internet architecture
+Citations:22
+Authors: T Anderson, K Birman, R Broberg, M Caesar, D Comer, C Cotton, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 81-86
+
+234. Reassigning source peers
+Citations:21
+Authors: H Zhang, I Stoica, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent App. 10/356,144
+
+235. {SKI}: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration
+Citations:21
+Authors: P Fonseca, R Rodrigues, BB Brandenburg
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+236. Focus Replay Debugging Effort on the Control Plane.
+Citations:21
+Authors: G Altekar, I Stoica
+Publication: HotDep
+
+237. Rllib: Abstractions for distributed reinforcement learning
+Citations:20
+Authors: E Liang, R Liaw, P Moritz, R Nishihara, R Fox, K Goldberg, JE Gonzalez, ...
+Publication: arXiv preprint arXiv:1712.09381
+
+238. IOLAP: Managing uncertainty for efficient incremental OLAP
+Citations:20
+Authors: K Zeng, S Agarwal, I Stoica
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1347 …
+
+239. Sparrow: Scalable scheduling for sub-second parallel jobs
+Citations:20
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2013-29
+
+240. Snapshots in hadoop distributed file system
+Citations:20
+Authors: S Agarwal, D Borthakur, I Stoica
+Publication: Technical report
+
+241. Above the clouds: A Berkeley view of cloud computing
+Citations:20
+Authors: D Patterson, M Armbrust, A Fox, R Griffith, AD Jseph, RH Katz, ...
+Publication: UC Berkeley Reliable Adaptive Distributed Systems Laboratory, February 10 …
+
+242. Above the clouds: A Berkeley view of cloud computing. EECS Dept
+Citations:20
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Univ. California, Berkeley, No. UCB/EECS-2009-28 [Online]. Available: http …
+
+243. Real-time machine learning: The missing pieces
+Citations:19
+Authors: R Nishihara, P Moritz, S Wang, A Tumanov, W Paul, J Schleier-Smith, ...
+Publication: Proceedings of the 16th Workshop on Hot Topics in Operating Systems, 106-110
+
+244. Allocating resources in a content delivery environment
+Citations:19
+Authors: I Stoica, H Zhang, AR Ganjam
+Publication: US Patent 9,549,043
+
+245. Beyond viral
+Citations:19
+Authors: M Cebrian, I Rahwan, AS Pentland
+Publication: Communications of the ACM 59 (4), 36-39
+
+246. Supporting legacy applications over i3
+Citations:19
+Authors: J Kannan, A Kubota, K Lakshminarayanan, I Stoica, K Wehrle
+Publication: Technical Report UCB/CSD-04-1342, UC Berkeley
+
+247. Abovetheclouds: ABerke leyView ofcloudcomputing
+Citations:18
+Authors: FA ArmbrustM, R CRIFFTTH
+Publication: 2011r01r10]. http://www. EEcs. berkeley. edu/Pubs/TechRpts/2009/EEcsr …
+
+248. Cloud programming simplified: a berkeley view on serverless computing
+Citations:17
+Authors: E Jonas, J Schleier-Smith, V Sreekanti, CC Tsai, A Khandelwal, Q Pu, ...
+Publication: arXiv preprint arXiv:1902.03383
+
+249. True elasticity in multi-tenant clusters through amoeba
+Citations:17
+Authors: G Ananthanarayanan, C Douglas, R Ramakrishnan, S Rao, I Stoica, ...
+Publication: ACM SoCC, 1-7
+
+250. Customizable routing with declarative queries
+Citations:17
+Authors: BT Loo, JM Hellerstein, I Stoica
+Publication: 
+
+251. A general bootstrap performance diagnostic
+Citations:15
+Authors: A Kleiner, A Talwalkar, S Agarwal, I Stoica, MI Jordan
+Publication: Proceedings of the 19th ACM SIGKDD international conference on Knowledge …
+
+252. Coflow: An application layer abstraction for cluster networking
+Citations:15
+Authors: M Chowdhury, I Stoica
+Publication: ACM Hotnets, 1-6
+
+253. Debug Determinism: The Sweet Spot for Replay-Based Debugging.
+Citations:15
+Authors: C Zamfir, G Altekar, G Candea, I Stoica, UC Berkeley
+Publication: HotOS 11, 306
+
+254. Nexus: A common substrate for cluster computing
+Citations:15
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, S Shenker, ...
+Publication: Workshop on Hot Topics in Cloud Computing
+
+255. Electrophotographic image forming apparatus and process cartridges
+Citations:15
+Authors: A Yokoi, K Watanabe, T Karakama, T Oguma
+Publication: US Patent 6,804,483
+
+256. Support for service composition in i3
+Citations:15
+Authors: K Lakshminarayanan, I Stoica, K Wehrle
+Publication: Proceedings of the 12th annual ACM international conference on Multimedia …
+
+257. Analyzing p2p overlays with recursive queries
+Citations:15
+Authors: BT Loo, R Huebsch, JM Hellerstein, T Roscoe, I Stoica
+Publication: 
+
+258. Ray rllib: A composable and scalable reinforcement learning library
+Citations:14
+Authors: E Liang, R Liaw, R Nishihara, P Moritz, R Fox, J Gonzalez, K Goldberg, ...
+Publication: arXiv preprint arXiv:1712.09381
+
+259. Performance and scalability of broadcast in Spark
+Citations:14
+Authors: M Chowdhury, M Zaharia, I Stoica
+Publication: press
+
+260. & Zaharia M.(2009). Above the Clouds: A Berkeley View of Cloud Computing
+Citations:14
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, G Lee, ...
+Publication: Electr. Eng. Comput. Sci. Dept., Univ. California, Berkeley
+
+261. X-tracing Hadoop
+Citations:14
+Authors: A Konwinski, M Zaharia, R Katz, I Stoica
+Publication: Hadoop Summit
+
+262. A new approach to implement proportional share resource allocation
+Citations:14
+Authors: I Stoica, H Abdel-Wahab
+Publication: Technical Report 95-05, Department of Computer Science, Old Dominion …
+
+263. Tune: A research platform for distributed model selection and training
+Citations:13
+Authors: R Liaw, E Liang, R Nishihara, P Moritz, JE Gonzalez, I Stoica
+Publication: arXiv preprint arXiv:1807.05118
+
+264. Stabilizing route selection in BGP
+Citations:13
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: IEEE/ACM Transactions on Networking 23 (1), 282-299
+
+265. A view of cloud computing
+Citations:13
+Authors: J Lee
+Publication: International Journal of Networked and Distributed Computing 1 (1), 2-8
+
+266. A case for performance-centric network allocation
+Citations:13
+Authors: G Kumar, M Chowdhury, S Ratnasamy, I Stoica
+Publication: Presented as part of the
+
+267. End-host controlled multicast routing
+Citations:13
+Authors: K Lakshminarayanan, A Rao, I Stoica, S Shenker
+Publication: Computer Networks 50 (6), 807-825
+
+268. Trailer hitch assembly with accessory ports
+Citations:13
+Authors: RW Mccoy, TW Lindenman
+Publication: US Patent 6,814,366
+
+269. SCONE: A tool to estimate shared congestion among Internet paths
+Citations:13
+Authors: W Cui, S Machiraju, RH Katz, I Stoica
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/CSD-04-1320
+
+270. Stateless Core: A Scalable Approach for Quality of Service in the Internet: Winning Thesis of the 2001 ACM Doctoral Dissertation Competition
+Citations:13
+Authors: I Stoica
+Publication: Springer
+
+271. Zipg: A memory-efficient graph store for interactive queries
+Citations:12
+Authors: A Khandelwal, Z Yang, E Ye, R Agarwal, I Stoica
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+272. Asynchronous complex analytics in a distributed dataflow architecture
+Citations:12
+Authors: JE Gonzalez, P Bailis, MI Jordan, MJ Franklin, JM Hellerstein, A Ghodsi, ...
+Publication: arXiv preprint arXiv:1510.07092
+
+273. Fastlane: making short flows shorter with agile drop notification
+Citations:12
+Authors: D Zats, AP Iyer, G Ananthanarayanan, R Agarwal, R Katz, I Stoica, ...
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 84-96
+
+274. Batch sampling: Low overhead scheduling for sub-second prallel jobs
+Citations:12
+Authors: K Ousterhout, P Wendell, M Zaharia, I Stoica
+Publication: University of California, Berkeley
+
+275. Adaptive distributed time-slot based scheduling for fairness in multi-hop wireless networks
+Citations:12
+Authors: A Rao, I Stoica
+Publication: 2008 The 28th International Conference on Distributed Computing Systems, 874-882
+
+276. Hidden-action in network routing
+Citations:12
+Authors: M Feldman, J Chuang, I Stoica, S Shenker
+Publication: IEEE Journal on selected areas in Communications 25 (6), 1161-1172
+
+277. Building a flexible and efficient routing infrastructure: Need and challenges
+Citations:12
+Authors: K Lakshminarayanan, I Stoica, S Shenker
+Publication: Computer Science Division, University of California
+
+278. Hold'em or fold'em?: aggregation queries under performance variations
+Citations:11
+Authors: G Kumar, G Ananthanarayanan, S Ratnasamy, I Stoica
+Publication: Proceedings of the Eleventh European Conference on Computer Systems, 7
+
+279. Resilient distributed datasets
+Citations:11
+Authors: M Zaharia, M Chowdhury, T Das, A Dave, J Ma, M McCauley, M Franklin, ...
+Publication: A fault-tolerant abstraction for in-memory cluster computing in Proceedings …
+
+280. A million cancer genome warehouse
+Citations:11
+Authors: D Haussler, DA Patterson, M Diekhans, A Fox, M Jordan, AD Joseph, ...
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+281. Sweet storage SLOs with frosting
+Citations:11
+Authors: A Wang, S Venkataraman, S Alspaugh, I Stoica, R Katz
+Publication: Presented as part of the
+
+282. Above the clouds: A berkeley view of cloud computing
+Citations:11
+Authors: R Balani, A Fox, R Griffith, AD Joseph, RH Katz, AK andvGunho Lee, ...
+Publication: Technical Report UCB/EECS-2009-28, UCB
+
+283. Stable Internet route selection
+Citations:11
+Authors: PB Godfrey, M Caesar, I Haken, S Shenker, I Stoica
+Publication: NANOG40, June
+
+284. Trends and challenges in big data processing
+Citations:10
+Authors: I Stoica
+Publication: Proceedings of the VLDB Endowment 9 (13), 1619-1619
+
+285. Low latency analytics of geo-distributed data in the wide area
+Citations:10
+Authors: Q Pu, G Ananthanarayanan, P Bodik, S Kandula, A Akella, V Bahl, I Stoica
+Publication: Proc. of ACM SIGCOMM
+
+286. Centrally coordinated peer assignment
+Citations:10
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 8,458,333
+
+287. Arthur: Rich post-facto debugging for production analytics applications
+Citations:10
+Authors: A Dave, M Zaharia, I Stoica
+Publication: University of California; Berkeley
+
+288. Decentralized security mechanisms for routing protocols
+Citations:10
+Authors: L Subramanian, RH Katz, I Stoica
+Publication: University of California, Berkeley
+
+289. Towards a next generation inter-domain routing protocol
+Citations:10
+Authors: L Subramanian, M Caesar, CT Ee, M Handley, M Mao, S Shenker, I Stoica
+Publication: Proceedings of Third Workshop on Hot Topics in Networks (HotNets-III)
+
+290. Dcr: Replay debugging for the datacenter
+Citations:9
+Authors: G Altekar, I Stoica
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2010-33
+
+291. Rule-based Forwarding (RBF): Improving Internet's flexibility and security.
+Citations:9
+Authors: L Popa, I Stoica, S Ratnasamy
+Publication: HotNets
+
+292. Group Therapy for Systems: Using Link Attestations to Manage Failures.
+Citations:9
+Authors: MJ Freedman, I Stoica, D Mazieres, S Shenker
+Publication: IPTPS
+
+293. Evaluation and enhancement of a unifying link abstraction for sensornets
+Citations:9
+Authors: A Tavakoli, J Taneja, P Dutta, D Culler, S Shenker, I Stoica
+Publication: Under submission
+
+294. COPS: Quality of service vs. Any service at all
+Citations:9
+Authors: R Katz, G Porter, S Shenker, I Stoica, M Tsai
+Publication: International Workshop on Quality of Service, 3-15
+
+295. OverQoS: offering Internet QoS using overlays
+Citations:9
+Authors: K Lakshminarayanan, I Stoica, H Balakrishnan, R Katz
+Publication: 1st HotNets Workshop, Princeton, NJ (October 2002)
+
+296. Pinching theorem for the first eigenvalue on positively curved four-manifolds
+Citations:9
+Authors: P Li, AE Treibergs
+Publication: Inventiones mathematicae 66 (1), 35-38
+
+297. Parametrized hierarchical procedures for neural programming
+Citations:8
+Authors: R Fox, R Shin, S Krishnan, K Goldberg, D Song, I Stoica
+Publication: ICLR 2018
+
+298. A scalable distributed spatial index for the internet-of-things
+Citations:8
+Authors: AP Iyer, I Stoica
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 548-560
+
+299. Data client
+Citations:8
+Authors: I Stoica, H Zhang, SR McCane, J Zhan, AR Ganjam
+Publication: US Patent 9,124,601
+
+300. Above the Clouds: A View of Cloud Computing
+Citations:8
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Berkeley Reliable Adaptive Distributed systems Laboratory (RADLab)
+
+301. Conquering Big Data with Spark and {BDAS}
+Citations:8
+Authors: I Stoica
+Publication: 
+
+302. Automating the debugging of datacenter applications with ADDA
+Citations:8
+Authors: C Zamfir, G Altekar, I Stoica
+Publication: 2013 43rd Annual IEEE/IFIP International Conference on Dependable Systems …
+
+303. PBS at work: advancing data management with consistency metrics
+Citations:8
+Authors: P Bailis, S Venkataraman, MJ Franklin, JM Hellerstein, I Stoica
+Publication: Proceedings of the 2013 ACM SIGMOD International Conference on Management of …
+
+304. Switching content
+Citations:8
+Authors: N Hu, JW Heffner, MH Lu, AR Ganjam, I Stoica
+Publication: US Patent 8,402,494
+
+305. A New Communications API
+Citations:8
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: Electrical Engineering and Computer SciencesUniversity of California at …
+
+306. BAbove the clouds: A Berkeley view of cloud computing,[Electr
+Citations:8
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, G Lee, ...
+Publication: Eng. Comput. Sci. Dept., Univ. California, Berkeley, CA, Tech. Rep. UCB/EECS …
+
+307. Declarative networking with distributed recursive query processing
+Citations:8
+Authors: BT Loo, T Condie, M Garofalakis, DE Gay, JM Hellerstein, P Maniatis, ...
+Publication: ACM SIGMOD International Conference on Management of Data
+
+308. Report of the NSF workshop on research challenges in distributed computer systems
+Citations:8
+Authors: C Ellis, S Gribble, A Joseph, H Levy, A Myers, J Mogul, I Stoica, A Vahdat
+Publication: 
+
+309. Querying the Internet with PIER
+Citations:8
+Authors: HRJ Hellerstein, N Boona, T Loo, S Shenker, I Stoica
+Publication: Proc. VLDB, 321-332
+
+310. Exploring congestion control
+Citations:8
+Authors: A Akella, S Seshan, S Shenker, I Stoica
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+311. A hyperbolic model for communication in layered parallel processing environments
+Citations:8
+Authors: I Stoica, F Sultan, D Keyes
+Publication: Journal of Parallel and Distributed Computing 39 (1), 29-45
+
+312. Above the clouds: A berkeley view of cloud computing. 2009, EECS Department
+Citations:8
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: University of California, Berkeley
+
+313. Automating diagnosis of cellular radio access network problems
+Citations:7
+Authors: AP Iyer, LE Li, I Stoica
+Publication: Proceedings of the 23rd Annual International Conference on Mobile Computing …
+
+314. Delivering a video stream
+Citations:7
+Authors: AR Ganjam, I Stoica, KK Lakshminarayanan, RJ Huebsch, J Zhan, ...
+Publication: US Patent 8,626,941
+
+315. Strategyproofness, Leontief economies and the Kalai-Smorodinsky solution
+Citations:7
+Authors: EJ Friedman, A Ghodsi, S Shenker, I Stoica
+Publication: Manuscript
+
+316. Enabling innovation below the communication api
+Citations:7
+Authors: G Ananthanarayanan, K Heimerl, M Zaharia, M Demmer, T Koponen, ...
+Publication: EECS Department, University of California, Berkeley, UCB/EECS-2009–141
+
+317. Reducing congestion effects by multipath routing in wireless networks
+Citations:7
+Authors: L Popa, C Raiciu, I Stoica, DS Rosenblum
+Publication: ICNP'06: Proceedings of the 2006 14th IEEE International Conference on …
+
+318. Querying at Internet scale
+Citations:7
+Authors: B Chun, JM Hellerstein, R Huebsch, SR Jeffery, BT Loo, S Mardanbeigi, ...
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+319. Method for fixing a crown screwed on a watch case and watch case equipped with same
+Citations:7
+Authors: R Ecoffet
+Publication: US Patent 6,719,455
+
+320. The design and implementation of an internet conference information system
+Citations:7
+Authors: H AbdelWahab, I Stoica, F Sultan
+Publication: Internetworking-Research and Experience 6 (3), 117-142
+
+321. February 2009. Above the clouds: A berkeley view of cloud computing
+Citations:7
+Authors: M Armbrust, A Fox, R Griffith, A Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Tech. Rep. UCB/EECS-2009-28, University of California at Berkley
+
+322. {DIZK}: A Distributed Zero Knowledge Proof System
+Citations:6
+Authors: H Wu, W Zheng, A Chiesa, RA Popa, I Stoica
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 675-692
+
+323. Minicrypt: Reconciling encryption and compression for big data stores
+Citations:6
+Authors: W Zheng, F Li, RA Popa, I Stoica, R Agarwal
+Publication: Proceedings of the Twelfth European Conference on Computer Systems, 191-204
+
+324. Brief announcement: towards a secure indirection infrastructure
+Citations:6
+Authors: K Lakshminarayanan, D Adkins, A Perrig, I Stoica
+Publication: Proceedings of the twenty-third annual ACM symposium on Principles of …
+
+325. A common api for structured peer-to-peer overlays
+Citations:6
+Authors: F Dabek, B Zhao, P Druschel, I Stoica
+Publication: Lecture Notes in Computer Science 2735, 33-44
+
+326. Looking up data in P2P systems
+Citations:6
+Authors: I Stoica, R Morris, D Karger, F Kaashoek, H Balakrishnan
+Publication: Communications of the ACM 46 (2)
+
+327. A simple algorithm for computing minimum spanning trees in the internet
+Citations:6
+Authors: H Abdel-Wahab, I Stoica, F Sultan, K Wilson
+Publication: Information sciences 101 (1-2), 47-69
+
+328. A simple and fast distributed algorithm to compute a minimum spanning tree in the internet
+Citations:6
+Authors: H Abdel-Wahab, I Stoica, F Sultan, K Wilson
+Publication: Joint Conference on Information Sciences' 95, 429-433
+
+329. Shuffling, fast and slow: scalable analytics on serverless infrastructure
+Citations:5
+Authors: Q Pu, S Venkataraman, I Stoica
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+330. Bridging the GAP: towards approximate graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, S Venkataraman, M Chowdhury, A Akella, S Shenker, ...
+Publication: Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data …
+
+331. Monarch: gaining command on geo-distributed graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, M Chowdhury, A Akella, S Shenker, I Stoica
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+332. Virtual Machines Disco and Xen (Lecture 10, cs262a)
+Citations:5
+Authors: I Stoica
+Publication: UC Berkeley, Sep 28
+
+333. Fast and accurate performance analysis of lte radio access networks
+Citations:5
+Authors: AP Iyer, I Stoica, M Chowdhury, LE Li
+Publication: arXiv preprint arXiv:1605.04652
+
+334. Hypervisors as a foothold for personal computer security: An agenda for the research community
+Citations:5
+Authors: M Zaharia, S Katti, C Grier, V Paxson, S Shenker, I Stoica, D Song
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+335. ‘An AggreGATE network abstraction for mobile devices
+Citations:5
+Authors: G Ananthanarayanan, D Zats, I Stoica
+Publication: Proceedings of the ACM international conference on mobile computing and …
+
+336. Above the Clouds: a Berkeley view of Cloud computing, Berkeley report
+Citations:5
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: 
+
+337. Securing user-controlled routing infrastructures
+Citations:5
+Authors: K Lakshminarayanan, D Adkins, A Perrig, I Stoica
+Publication: IEEE/ACM Transactions on Networking 16 (3), 549-561
+
+338. Exploring tradeoffs in failure detection in routing overlays
+Citations:5
+Authors: S Zhuang, I Stoica, R Katz
+Publication: UC Berkeley, Computer Science Division, Tech. Rep. UCB/CSD-3-1285
+
+339. AN01. 2 Gambling Heuristic on a Chord Ring
+Citations:5
+Authors: D Rossi, I Stoica
+Publication: GLOBECOM-NEW YORK- 2 (1), 873-878
+
+340. The chord ad-hoc routing protocol
+Citations:5
+Authors: G Porter, K Lai, I Stoica, J Condit
+Publication: 
+
+341. An efficient packet service algorithm for high-speed ATM switches
+Citations:5
+Authors: I Stoica, H Abdel-Wahab
+Publication: Computer Communications 21 (9), 839-852
+
+342. Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules
+Citations:4
+Authors: D Ho, E Liang, I Stoica, P Abbeel, X Chen
+Publication: arXiv preprint arXiv:1905.05393
+
+343. numpywren: serverless linear algebra
+Citations:4
+Authors: V Shankar, K Krauth, Q Pu, E Jonas, S Venkataraman, I Stoica, B Recht, ...
+Publication: arXiv preprint arXiv:1810.09679
+
+344. {ASAP}: Fast, Approximate Graph Pattern Mining at Scale
+Citations:4
+Authors: AP Iyer, Z Liu, X Jin, S Venkataraman, V Braverman, I Stoica
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+345. Managing synchronized data requests in a content delivery network
+Citations:4
+Authors: I Stoica, H Zhang, AR Ganjam
+Publication: US Patent 9,264,780
+
+346. FastLane: An agile congestion signaling mechanism for improving datacenter performance
+Citations:4
+Authors: D Zats, AP Iyer, RH Katz, I Stoica, A Vahdat
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+347. Impact of delivery ecosystem variability and diversity on internet video quality
+Citations:4
+Authors: A Ganjam, P Pappu, I Stoica, J Zhan, H Zhang
+Publication: IET Journals 4, 36-42
+
+348. Carat: Collaborative energy debugging for mobile devices
+Citations:4
+Authors: AJ Oliner, E Lagerspetz, S Tarkoma, I Stoica
+Publication: In HotDep
+
+349. Mesos: Flexible resource sharing for the cloud
+Citations:4
+Authors: B Hindman, A Konwinski, M Zaharia, A Ghodsi, AD Joseph, R Katz, ...
+Publication: USENIX (August 2011)
+
+350. Designing distributed systems for heterogeneity
+Citations:4
+Authors: PB Godfrey, I Stoica
+Publication: University of California, Berkeley
+
+351. Peer-to-peer systems & applications
+Citations:4
+Authors: AD Joseph, R Steinmetz, I Stoica, K Wehrle, K Eger, U Killat, S Schmid, ...
+Publication: Lecture notes in computer science 3485
+
+352. Declarative routing: Extensible routing with declarative queries
+Citations:4
+Authors: B Thau, L Joseph, M Hellerstein, I Stoica, R Ramakrishnan
+Publication: In Proceedings of ACM SIGCOMM'05
+
+353. Cooperative containment of fast scanning worms
+Citations:4
+Authors: J Kannan, L Subramanian, I Stoica, S Shenker, R Katz
+Publication: Tech. Rep. CSD-04-1359, UC Berkeley
+
+354. Support for Service Composition in i3
+Citations:4
+Authors: I Stoica, K Lakshminarayanan, K Wehrle
+Publication: Proceedings of ACM Multimedia
+
+355. Multichord: A resilient namespace management protocol
+Citations:4
+Authors: N Lynch, I Stoica
+Publication: 
+
+356. Peer-to-Peer Systems II: Second International Workshop, IPTPS 2003, Berkeley, CA, USA, February 21-22, 2003, Revised Papers
+Citations:4
+Authors: F Kaashoek, I Stoica
+Publication: Springer Science & Business Media
+
+357. A quantitative evaluation of traffic-aware routing strategies
+Citations:4
+Authors: EJ Anderson, TE Anderson, SD Gribble, AR Karlin, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 67-67
+
+358. A simple hyperbolic model for communication in parallel processing environments
+Citations:4
+Authors: I Stoica, F Sultan, D Keyes
+Publication: 
+
+359. Spark
+Citations:4
+Authors: M Zaharia, M Chowdhury, MJ Franklin, S Shenker, I Stoica
+Publication: Cluster Computing with Working Sets. In HotCloud 10
+
+360. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+361. Distcache: Provable load balancing for large-scale storage systems with distributed caching
+Citations:3
+Authors: Z Liu, Z Bai, Z Liu, X Li, C Kim, V Braverman, X Jin, I Stoica
+Publication: 17th {USENIX} Conference on File and Storage Technologies ({FAST} 19), 143-157
+
+362. Dynamic Space-Time Scheduling for GPU Inference
+Citations:3
+Authors: P Jain, X Mo, A Jain, H Subbaraj, RS Durrani, A Tumanov, J Gonzalez, ...
+Publication: arXiv preprint arXiv:1901.00041
+
+363. Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems
+Citations:3
+Authors: A Padmanabha Iyer, L Erran Li, M Chowdhury, I Stoica
+Publication: Proceedings of the 24th Annual International Conference on Mobile Computing …
+
+364. DFS-PERF: A scalable and unified benchmarking framework for distributed file systems
+Citations:3
+Authors: R Gu, Q Dong, H Li, J Gonzalez, Z Zhang, S Wang, Y Huang, S Shenker, ...
+Publication: EECS Dept., Univ. California, Berkeley, Berkeley, CA, USA, Tech. Rep. UCB …
+
+365. Detecting problems in content distribution
+Citations:3
+Authors: KK Lakshminarayanan, AR Ganjam, I Stoica, H Zhang
+Publication: US Patent 9,239,750
+
+366. HTTP: An Evolvable Narrow Waist for the Future Internet
+Citations:3
+Authors: L Popa, P Wendell, A Ghodsi, I Stoica
+Publication: Technical Report UCB/EECS-2012–5.
+
+367. Stabilizing route selection in BGP
+Citations:3
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: 
+
+368. The Management of Fisheries and Oceans in Canada's Western Arctic: Report of the Standing Senate Committee on Fisheries and Oceans
+Citations:3
+Authors: Canada. Parliament. Senate. Standing Committee on Fisheries and Oceans
+Publication: The Committee
+
+369. Packet classification as a fundamental network primitive
+Citations:3
+Authors: DA Joseph, I Stoica
+Publication: University of California, Berkeley
+
+370. Statistical Monitoring+ Predictable Recovery= Self-*
+Citations:3
+Authors: A Fox, E Kiciman, D Patterson, R Katz, M Jordan, I Stoica
+Publication: Proceedings of the Internation Workshop on Self-* Properties in Complex …
+
+371. Measurement and Analysis of Ultrapeer-based P2P Search Networks
+Citations:3
+Authors: BT Loo, J Hellerstein, R Huebsch, S Shenker, I Stoica
+Publication: Departmental Papers (CIS), 327
+
+372. Core-stateless fair queuing
+Citations:3
+Authors: I Stoica, S Shenker, F Zhang, V Sundaram, S Routers, ...
+Publication: ACM SIGCOMM Computer communication review, 118-130
+
+373. A robust and flexible microeconomic scheduler for parallel computers
+Citations:3
+Authors: I Stoica, A Pothen
+Publication: Proceedings of 3rd International Conference on High Performance Computing …
+
+374. Evaluating the hyperbolic model on a variety of architectures
+Citations:3
+Authors: I Stoica, F Sultan, D Keyes
+Publication: European Conference on Parallel Processing, 387-396
+
+375. A time-optimal multiple-query nearest-neighbor algorithm on meshes with multiple broadcasting
+Citations:3
+Authors: I Stoica
+Publication: International journal of pattern recognition and artificial intelligence 9 …
+
+376. Modeling Communication in Cluster Computing.
+Citations:3
+Authors: I Stoica, F Sultan, DE Keyes
+Publication: PPSC, 820-825
+
+377. Routing on Flat Labels
+Citations:3
+Authors: M Caesar, T Condie, J Kannan, K Lakshminarayanan, S Shenker, I Stoica
+Publication: Proc. of ACM SIGCOMM’06, 363-374
+
+378. Fonts-2-Handwriting: A Seed-Augment-Train framework for universal digit classification
+Citations:2
+Authors: VU Prabhu, S Han, DA Yap, M Douhaniaris, P Seshadri, J Whaley
+Publication: arXiv preprint arXiv:1905.08633
+
+379. Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks.
+Citations:2
+Authors: A Khandelwal, R Agarwal, I Stoica
+Publication: NSDI, 421-436
+
+380. The OoO VLIW JIT Compiler for GPU Inference
+Citations:2
+Authors: P Jain, X Mo, A Jain, A Tumanov, JE Gonzalez, I Stoica
+Publication: arXiv preprint arXiv:1901.10008
+
+381. AutoPhase: Compiler Phase-Ordering for High Level Synthesis with Deep Reinforcement Learning
+Citations:2
+Authors: A Haj-Ali, Q Huang, W Moses, J Xiang, I Stoica, K Asanovic, J Wawrzynek
+Publication: arXiv preprint arXiv:1901.04615
+
+382. InferLine: ML Inference Pipeline Composition Framework
+Citations:2
+Authors: D Crankshaw, GE Sela, C Zumar, X Mo, JE Gonzalez, I Stoica, ...
+Publication: arXiv preprint arXiv:1812.01776
+
+383. Towards fast and scalable graph pattern mining
+Citations:2
+Authors: AP Iyer, Z Liu, X Jin, S Venkataraman, V Braverman, I Stoica
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+384. A longitudinal and cross-dataset study of internet latency and path stability
+Citations:2
+Authors: M Chowdhury, R Agarwal, V Sekar, I Stoica
+Publication: Dept. EECS, Univ. California, Berkeley, CA, USA, Tech. Rep. UCB/EECS-2014-172
+
+385. Record Placement Based on Data Skew Using Solid State Drives
+Citations:2
+Authors: J Suzuki, S Venkataraman, S Agarwal, M Franklin, I Stoica
+Publication: Workshop on Big Data Benchmarks, Performance Optimization, and Emerging …
+
+386. Data client
+Citations:2
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 8,566,436
+
+387. Berkeley data analytics stack (BDAS) overview
+Citations:2
+Authors: I Stoica
+Publication: Proceedings of the 2013 Strata Conference
+
+388. Carat: collaborative energy bug detection (poster and demo)
+Citations:2
+Authors: AJ Oliner, AP Iyer, E Lagerspetz, I Stoica, S Tarkoma
+Publication: 9th USENIX conference on Networked systems design & implementation
+
+389. Automating the debugging of datacenter applications with ADDA
+Citations:2
+Authors: G Altekar, C Zamfir, G Candea, I Stoica
+Publication: Technical Report UCB/EECS-2011-22, EECS Department, University of California …
+
+390. A Berkeley View of Big Data
+Citations:2
+Authors: I Stoica
+Publication: Berkely: University of California (http://www. eecs. berkeley. edu/BEARS …
+
+391. Failure as a Service (FaaS): A cloud service for large-scale,...
+Citations:2
+Authors: HS Gunawi, T Do, JM Hellerstein, I Stoica, D Borthakur, J Robbins
+Publication: 
+
+392. Flexible Resource Sharing for the Cloud
+Citations:2
+Authors: B Hindman, A KONWINSKI, M ZAHARIA, ALI GHODSI, AD JOSEPH, ...
+Publication: Aug
+
+393. It’s Not the Cost, It’s the Quality!
+Citations:2
+Authors: I Stoica
+Publication: Proc. 9th International Workshop on Peer-to-Peer Systems (IPTPS)
+
+394. On the consistency of dht-based routing
+Citations:2
+Authors: JK Kannan, MC Caesar, I Stoica, S Shenker
+Publication: Technical Report UCB/EECS-2007-22, EECS Department, University of California …
+
+395. EFLoW: End-to-end Fairness using Local Weights in Wireless Networks
+Citations:2
+Authors: A Rao, I Stoica
+Publication: 
+
+396. Quality of Service-IWQoS 2003: 11th International Workshop, Berkeley, CA, USA, June 2-4, 2003, Proceedings
+Citations:2
+Authors: K Jeffay, I Stoica
+Publication: Springer Science & Business Media
+
+397. Technical and Social Components of Peer-to-Peer Computing-Looking Up Data in P2P Systems
+Citations:2
+Authors: H Balakrishnan, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM-Association for Computing Machinery-CACM 46 (2), 43-48
+
+398. 21st Century's Hot Challenging Technologies in Telecommunications
+Citations:2
+Authors: P Dini, M Barbeau, M Lerner, I Stoica, R Popescu-Zeletin
+Publication: IEEE International Conference on Telecommunications (ICT 2001)
+
+399. Time-optimal algorithms for generalized dominance computation and related problems on mesh connected computers and meshes with multiple broadcasting
+Citations:2
+Authors: I Stoica
+Publication: INTERNATIONAL JOURNAL OF PARALLEL, EMERGENT AND DISTRIBUTED SYSTEMS 8 (3-4 …
+
+400. A simple ordered and reliable group multicast protocol
+Citations:2
+Authors: I Stoica, R Yerraballi, R Mukkamala
+Publication: Old Dominion University
+
+401. Discretized streams
+Citations:2
+Authors: M Zaharia, T Das, H Li, T Hunter, S Shenker, I Stoica
+Publication: Proc. of Twenty-Fourth ACM Symposium on Operating Systems Principles, 423-438
+
+402. Constrained Thompson Sampling for Wireless Link Optimization
+Citations:1
+Authors: V Saxena, J Jaldén, JE Gonzalez, I Stoica, H Tullberg
+Publication: arXiv preprint arXiv:1902.11102
+
+403. Centrally coordinated peer assignment
+Citations:1
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent App. 10/212,222
+
+404. NetChain: Scale-free sub-RTT coordination (extended version)
+Citations:1
+Authors: X Jin, X Li, H Zhang, N Foster, J Lee, R Soulé, C Kim, I Stoica
+Publication: arXiv preprint arXiv:1802.08236
+
+405. Neural Inference of API Functions from Input–Output Examples
+Citations:1
+Authors: R Bavishi, C Lemieux, N Kant, R Fox, K Sen, I Stoica
+Publication: 
+
+406. Task-Relevant Embeddings for Robust Perception in Reinforcement Learning
+Citations:1
+Authors: E Liang, R Fox, JE Gonzalez, I Stoica
+Publication: 
+
+407. Flexible Primitives for Distributed Deep Learning in Ray
+Citations:1
+Authors: Y Bulatov, R Nishihara, P Moritz, M Elibol, I Stoica, MI Jordan
+Publication: SysML Conference
+
+408. The berkeley data analysis system (BDAS): An open source platform for big data analytics
+Citations:1
+Authors: I Stoica, M Franklin, M Jordan, A Fox, A Joseph, M Mahoney, R Katz, ...
+Publication: University of California, Berkeley Berkeley United States
+
+409. Reassigning source peers
+Citations:1
+Authors: H Zhang, I Stoica, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 9,407,494
+
+410. Switching content
+Citations:1
+Authors: N Hu, JW Heffner, MH Lu, AR Ganjam, I Stoica
+Publication: US Patent 9,204,061
+
+411. Coordination Avoidance in Database Systems (Extended Version)
+Citations:1
+Authors: P Bailis, A Fekete, MJ Franklin, A Ghodsi, JM Hellerstein, I Stoica
+Publication: arXiv preprint arXiv:1402.2237
+
+412. Centrally coordinated peer assignment
+Citations:1
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent App. 13/863,994
+
+413. FastLane: Agile drop notification for datacenter networks
+Citations:1
+Authors: D Zats, AP Iyer, G Ananthanarayanan, RH Katz, I Stoica, A Vahdat
+Publication: CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+414. Beating State-of-the-art By-10000%.
+Citations:1
+Authors: R Xin, UC AMPLab, J Gonzalez, J Rosen, M Zaharia, M Franklin, ...
+Publication: CIDR
+
+415. Delivering a video stream
+Citations:1
+Authors: AR Ganjam, I Stoica, KK Lakshminarayanan, RJ Huebsch, J Zhan, ...
+Publication: US Patent 8,244,899
+
+416. Lattice: A Scalable Layer-Agnostic Packet Classification Framework
+Citations:1
+Authors: S Agarwal, M Chowdhury, D Joseph, I Stoica
+Publication: 
+
+417. Nash bargaining without scale invariance
+Citations:1
+Authors: EJ Friedman, A Ghodsi, S Shenker, I Stoica
+Publication: Technical Report
+
+418. Output-deterministic replay for multicore debugging
+Citations:1
+Authors: G Altekar, I Stoica
+Publication: Technical Report UCB/EECS-2009-108, EECS Department, University of …
+
+419. Declarative networking
+Citations:1
+Authors: T Roscoe
+Publication: Encyclopedia of Database Systems, 770-772
+
+420. Predicting Wi-Fi Availability using Bluetooth and Cellular Signals
+Citations:1
+Authors: G Ananthanarayanan, I Stoica
+Publication: Special Interest Group on Data Communication. SIGCOMM
+
+421. Beacon Location Service
+Citations:1
+Authors: J Ortiz, CR Baker, D Moon, R Fonseca, I Stoica
+Publication: ACM IPSN, 166
+
+422. The Cost of Inconsistency in DHTs
+Citations:1
+Authors: SQ Zhuang, I Stoica, RH Katz
+Publication: Computer Science Division, University of California
+
+423. 1 Introduction
+Citations:1
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet, 1-11
+
+424. High capacity web winding apparatus for use in conjunction with a rotating circular knitting machine
+Citations:1
+Authors: K Reester
+Publication: US Patent 6,557,381
+
+425. Towards a common API for structured peer-to-peer overlays
+Citations:1
+Authors: P Druschel, J Kubiatowicz, I Stoica, F Dabek, B Zhao
+Publication: February
+
+426. Chord: Scalable, Robust Peer-to-Peer Services
+Citations:1
+Authors: H Balakrishnan, J Cates, F Dabek, F Kaashoek, D Karger, D Liben-Nowell, ...
+Publication: MIT Laboratory for Computer Science
+
+427. A Hierarchical Fair Service Curve Algorithm for Link-sharing, Real-time Andpriority Services
+Citations:1
+Authors: I Stoica, H Zhang, TSE Ng
+Publication: Carnegie-Mellon University. Department of Computer Science
+
+428. Universal internet conference information system
+Citations:1
+Authors: H Abdel-Wahab, I Stoica, F Sultan
+Publication: Information sciences 91 (1-2), 33-48
+
+429. Estimating Shared Congestion Among Internet Paths
+Citations:1
+Authors: W Cui, S Machiraju, RH Katz, I Stoica
+Publication: 
+
+430. Contextual Multi-Armed Bandits for Link Adaptation in Cellular Networks
+Citations:
+Authors: V Saxena, J Jaldén, JE Gonzalez, M Bengtsson, H Tullberg, I Stoica
+Publication: Proceedings of the 2019 Workshop on Network Meets AI & ML, 44-49
+
+431. Reassigning source peers
+Citations:
+Authors: H Zhang, I Stoica, SR Mccanne, J Zhan, AR Ganjam
+Publication: US Patent App. 15/191,383
+
+432. Helen: Maliciously Secure Coopetitive Learning for Linear Models
+Citations:
+Authors: W Zheng, RA Popa, JE Gonzalez, I Stoica
+Publication: arXiv preprint arXiv:1907.07212
+
+433. Switching content
+Citations:
+Authors: N Hu, JW Heffner, M Lu, AR Ganjam, I Stoica
+Publication: US Patent App. 14/883,533
+
+434. Switching content
+Citations:
+Authors: N Hu, JW Heffner, M Lu, AR Ganjam, I Stoica
+Publication: US Patent App. 14/883,532
+
+435. Solving System Problems with Machine Learning
+Citations:
+Authors: I Stoica
+Publication: Studies in Informatics and Control 28 (2), 119-132
+
+436. Streaming decision in the cloud
+Citations:
+Authors: Y Li, D Shepherd, XI Liu, J Zhan, FZ Siddiqi, AR Ganjam, I Stoica, ...
+Publication: US Patent App. 14/738,719
+
+437. Selectivity Estimation with Deep Likelihood Models
+Citations:
+Authors: Z Yang, E Liang, A Kamsetty, C Wu, Y Duan, X Chen, P Abbeel, ...
+Publication: arXiv preprint arXiv:1905.04278
+
+438. AutoPhase: Compiler Phase-Ordering for HLS with Deep Reinforcement Learning
+Citations:
+Authors: Q Huang, A Haj-Ali, W Moses, J Xiang, I Stoica, K Asanovic, J Wawrzynek
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+439. Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection
+Citations:
+Authors: H Zhu, Z Bai, J Li, E Michael, D Ports, I Stoica, X Jin
+Publication: arXiv preprint arXiv:1904.08964
+
+440. Communication-efficient distributed SGD with Sketching
+Citations:
+Authors: N Ivkin, D Rothchild, E Ullah, V Braverman, I Stoica, R Arora
+Publication: arXiv preprint arXiv:1903.04488
+
+441. Virtual resource locator
+Citations:
+Authors: FZ Siddiqi, A Serbin, A Schneidman, A Kolbasov, S Mitra, AR Ganjam, ...
+Publication: US Patent App. 14/229,724
+
+442. Periodic buckling and grain boundary slips in a colloidal model of solid friction
+Citations:
+Authors: E Janai, AV Butenko, AB Schofield, E Sloutskin
+Publication: Soft Matter
+
+443. Remediation of the impact of detected synchronized data requests in a content delivery network
+Citations:
+Authors: I Stoica, H Zhang, AR Ganjam
+Publication: US Patent App. 14/987,299
+
+444. Remediation of the impact of detected synchronized data requests in a content delivery network
+Citations:
+Authors: I Stoica, H Zhang, AR Ganjam
+Publication: US Patent App. 10/154,074
+
+445. Distributing information over a network
+Citations:
+Authors: I Stoica, H Zhang, SR Mccanne, J Zhan, AR Ganjam
+Publication: US Patent App. 15/046,291
+
+446. Monitoring the performance of a content player
+Citations:
+Authors: AR Ganjam, RJ Huebsch, KK Lakshminarayanan, GC Necula, I Stoica, ...
+Publication: US Patent App. 14/495,842
+
+447. Scheduling a notebook execution
+Citations:
+Authors: I Stoica, Y Mao, E Liang
+Publication: US Patent 9,990,230
+
+448. Callable notebook for cluster execution
+Citations:
+Authors: T Hunter, A Ghodsi, I Stoica
+Publication: US Patent App. 15/803,604
+
+449. Independent data processing environments within a big data cluster system
+Citations:
+Authors: A Ghodsi, I Stoica
+Publication: US Patent 9,959,337
+
+450. Cluster instance management system
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent App. 15/682,397
+
+451. System for exploring data in a database
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent App. 15/675,619
+
+452. Callable notebook for cluster execution
+Citations:
+Authors: T Hunter, A Ghodsi, I Stoica
+Publication: US Patent 9,836,302
+
+453. Cluster instance management system
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent 9,769,032
+
+454. System for exploring data in a database
+Citations:
+Authors: A Ghodsi, I Stoica, M Zaharia
+Publication: US Patent 9,760,602
+
+455. Accounting for network traffic
+Citations:
+Authors: H Zhang, I Stoica, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 9,503,352
+
+456. Distributing information over a network
+Citations:
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 9,300,729
+
+457. Data-Driven Networking: Harnessing the “Unreasonable Effectiveness of Data” in Network Design
+Citations:
+Authors: J Jiang, V Sekar, I Stoica, H Zhang
+Publication: 
+
+458. Delivering a video stream
+Citations:
+Authors: AR Ganjam, I Stoica, KK Lakshminarayanan, RJ Huebsch, J Zhan, ...
+Publication: US Patent 9,118,742
+
+459. Accounting for network traffic
+Citations:
+Authors: H Zhang, I Stoica, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 9,088,633
+
+460. WITHDRAWN PATENT AS PER THE LATEST USPTO WITHDRAWN LIST
+Citations:
+Authors: KK Lakshminarayanan, AR Ganjam, I Stoica, H Zhang
+Publication: 
+
+461. Distributing information over a network
+Citations:
+Authors: I Stoica, H Zhang, SR McCanne, J Zhan, AR Ganjam
+Publication: US Patent 8,775,512
+
+462. 650.461 Cloud Computing Security
+Citations:
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Communications of the ACM 57, 70-79
+
+463. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+464. Choosy: Max-Min Fair Sharing for Datacenter Jobs with Constraints
+Citations:
+Authors: AGMZS Shenker, I Stoica
+Publication: 
+
+465. Parallel Data Analysis (Dagstuhl Seminar 13251)
+Citations:
+Authors: A Andrzejak, J Giesen, R Ramakrishnan, I Stoica
+Publication: Dagstuhl Reports 3 (6)
+
+466. Surviving Failures in Bandwidth-Constrained Datacenters
+Citations:
+Authors: I Menache, M Chowdhury, P Mani, D Maltz, P Bodík, I Stoica
+Publication: 
+
+467. Alignment in a SNAP: Cancer Diagnosis in the Genomic Age
+Citations:
+Authors: M Zaharia, B Bolosky, K Curtis, D Patterson, A Fox, D Patterson, ...
+Publication: LABORATORY INVESTIGATION 92, 458A-458A
+
+468. On the effectiveness of DNS-based server selection.
+Citations:
+Authors: R Mu, F Zhao, A Aboulnaga, K Salem, AA Soror, UF Minhas, P Kokosielis, ...
+Publication: Journal of Software Engineering 9 (3), 13-20
+
+469. Dagstuhl Reports, Vol. 1, Issue 3 ISSN 2192-5283
+Citations:
+Authors: J Dix, SO Hansson, G Kern-Isberner, G Simari, S Maneth, G Navarro, ...
+Publication: 
+
+470. An Empirical Study of the Control and Data Planes (or Control Plane Determinism is Key for Replay Debugging Datacenter Applications)
+Citations:
+Authors: G Altekar, I Stoica
+Publication: 
+
+471. TrickleDNS: A Safety Net for the Domain Name System
+Citations:
+Authors: S Sankararaman, V Ramasubramanian, L Subramanian, I Stoica
+Publication: 
+
+472. EFLoW: End-to-end Fairness using Local Weights
+Citations:
+Authors: A Rao, I Stoica
+Publication: 
+
+473. Rainbow fair queueing: Fair bandwidth sharing without per-flow state.
+Citations:
+Authors: J Faritha Banu, V Ramachandran, AY Bandung, BC Machbub, CA Langi, ...
+Publication: Information Technology Journal 12 (5), pp: 1048-1052
+
+474. 06131 Abstracts Collection--Peer-to-Peer-Systems and-Applications
+Citations:
+Authors: AD Joseph, R Steinmetz, I Stoica, K Wehrle
+Publication: Dagstuhl Seminar Proceedings
+
+475. Stabilizing BGP, Safely
+Citations:
+Authors: PB Godfrey, M Caesar, I Haken, Y Singer, S Shenker, I Stoica
+Publication: 
+
+476. 06131 Executive Summary--Peer-to-Peer-Systems and-Applications
+Citations:
+Authors: AD Joseph, R Steinmetz, I Stoica, K Wehrle
+Publication: Dagstuhl Seminar Proceedings
+
+477. Modeling the Adoption of new Network Architectures
+Citations:
+Authors: DJNSJ Chuang, I Stoica
+Publication: 
+
+478. OpenDHT
+Citations:
+Authors: S Rhea, B Godfrey, B Karp, J Kubiatowicz, S Ratnasamy, S Shenker, ...
+Publication: ACM SIGCOMM Computer Communication Review 35 (4), 73-84
+
+479. Router-Transparent Packet Annotations
+Citations:
+Authors: G Porter, R Fonseca, S Shenker, I Stoica, RH Katz
+Publication: 
+
+480. Reliable Broadcast in Unknown Fixed-Identity Networks
+Citations:
+Authors: LSRH Katz-Volker, RS ShenkerJ, I Stoica
+Publication: PODC 2005, 342
+
+481. Collaborators
+Citations:
+Authors: N Christin, M Feldman, J Grossklags, A Habib, KL HP, C Papadimitriou, ...
+Publication: 
+
+482. Towards scalable location-aware services: requirements and research issues.
+Citations:
+Authors: Y Fu, X Wang, S Li, H Pucha, SM Das, YC Hu, H Pucha, SM Das, YC Hu, ...
+Publication: Information Technology Journal 8 (8), pp: 1-2
+
+483. 6 Providing Relative Service Differentiation in SCORE
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+484. Towards a Next Generation Inter-domain Routing Protocol
+Citations:
+Authors: S Lakshminarayanan, C Matthew, TE Cheng, M Handley, MZ Morley, ...
+Publication: 
+
+485. 9 Conclusions and Future Work
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+486. 8 Prototype Implementation Description
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+487. 2 Background
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+488. 4 Providing Flow Protection in SCORE
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+489. A Performance Bounds for CSFQ
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+490. B Performance Bounds for Guaranteed Services
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+491. 3 Overview
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+492. 5 Providing Guaranteed Services in SCORE
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+493. 7 Making SCORE More Robust and Scalable
+Citations:
+Authors: I Stoica
+Publication: Stateless Core: A Scalable Approach for Quality of Service in the Internet …
+
+494. Quantifying Disincentives in P2P Networks
+Citations:
+Authors: M Feldman, K Lai, J Chuang, I Stoica
+Publication: Proceedings of the First workshop on economics of p2p systems, Berkeley, CA, USA
+
+495. Efficient, proximity-aware load balancing for DHT-based P2P systems.
+Citations:
+Authors: SD Zhang, LS Li, S Saroiu, KP Gummadi, SD Gribble, S Krishnamurthy, ...
+Publication: Information Technology Journal 13 (4), 170-184
+
+496. Received Best Paper award
+Citations:
+Authors: X Jiang, J Taneja, J Ortiz, A Tavakoli, P Dutta, J Jeong, D Culler, P Levis, ...
+Publication: University of California, Berkeley 12, 2004
+
+497. Peer-to-peer collaborative application-level multicast.
+Citations:
+Authors: Q Zheng, S Jiang, F Zhang, T Peng, C Chen, R Antony, P Druschel, ...
+Publication: Information Technology Journal 7 (5), pp: 329-350
+
+498. A Distributed Waypoint Service Approach to Connect Heterogeneous Internet Address Spaces
+Citations:
+Authors: TSE Ng, I Stoica, H Zhang
+Publication: 
+
+499. School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+Citations:
+Authors: I Stoica, TSE Ng, H Zhang
+Publication: 
+
+500. CenterTrack: An IP Overlay Network for Tracking DoS Floods
+Citations:
+Authors: I STOICA
+Publication: Proceedings of the 1999 ACM SIGCOMM
+

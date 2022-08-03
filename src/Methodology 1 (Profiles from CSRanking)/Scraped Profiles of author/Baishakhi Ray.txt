@@ -1,0 +1,338 @@
+https://scholar.google.com/citations?user=VaAEb5YAAAAJ&hl=en&oi=ao
+Total Citations = 1788
+
+1. PTask: operating system abstractions to manage GPUs as compute devices
+Citations:236
+Authors: CJ Rossbach, J Currey, M Silberstein, B Ray, E Witchel
+Publication: Proceedings of the Twenty-Third ACM Symposium on Operating Systems …
+
+2. A large scale study of programming languages and code quality in github
+Citations:218
+Authors: B Ray, D Posnett, V Filkov, P Devanbu
+Publication: Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations …
+
+3. Whozthat? evolving an ecosystem for context-aware mobile social networks
+Citations:213
+Authors: A Beach, M Gartrell, S Akkala, J Elston, J Kelley, K Nishimoto, B Ray, ...
+Publication: IEEE network 22 (4), 50-55
+
+4. Deeptest: Automated testing of deep-neural-network-driven autonomous cars
+Citations:196
+Authors: Y Tian, K Pei, S Jana, B Ray
+Publication: Proceedings of the 40th international conference on software engineering …
+
+5. An empirical study of api stability and adoption in the android ecosystem
+Citations:196
+Authors: T McDonnell, B Ray, M Kim
+Publication: 2013 IEEE International Conference on Software Maintenance, 70-79
+
+6. Gender and tenure diversity in GitHub teams
+Citations:142
+Authors: B Vasilescu, D Posnett, B Ray, MGJ van den Brand, A Serebrenik, ...
+Publication: Proceedings of the 33rd annual ACM conference on human factors in computing …
+
+7. Using frankencerts for automated adversarial testing of certificate validation in SSL/TLS implementations
+Citations:114
+Authors: C Brubaker, S Jana, B Ray, S Khurshid, V Shmatikov
+Publication: 2014 IEEE Symposium on Security and Privacy, 114-129
+
+8. On the" naturalness" of buggy code
+Citations:91
+Authors: B Ray, V Hellendoorn, S Godhane, Z Tu, A Bacchelli, P Devanbu
+Publication: 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …
+
+9. An empirical study of supplementary bug fixes
+Citations:59
+Authors: J Park, M Kim, B Ray, DH Bae
+Publication: Proceedings of the 9th IEEE Working Conference on Mining Software …
+
+10. A case study of cross-system porting in forked projects
+Citations:51
+Authors: B Ray, M Kim
+Publication: Proceedings of the ACM SIGSOFT 20th International Symposium on the …
+
+11. Assert use in github projects
+Citations:33
+Authors: C Casalnuovo, P Devanbu, A Oliveira, V Filkov, B Ray
+Publication: Proceedings of the 37th International Conference on Software Engineering …
+
+12. The uniqueness of changes: Characteristics and applications
+Citations:32
+Authors: B Ray, M Nagappan, C Bird, N Nagappan, T Zimmermann
+Publication: Proceedings of the 12th Working Conference on Mining Software Repositories …
+
+13. Detecting and characterizing semantic inconsistencies in ported code
+Citations:32
+Authors: B Ray, M Kim, S Person, N Rungta
+Publication: 2013 28th IEEE/ACM International Conference on Automated Software …
+
+14. A protocol for building secure and reliable covert channel
+Citations:26
+Authors: B Ray, S Mishra
+Publication: 2008 Sixth Annual Conference on Privacy, Security and Trust, 246-253
+
+15. Automatically detecting error handling bugs using error specifications
+Citations:21
+Authors: S Jana, YJ Kang, S Roth, B Ray
+Publication: 25th {USENIX} Security Symposium ({USENIX} Security 16), 345-362
+
+16. Automatically diagnosing and repairing error handling bugs in c
+Citations:17
+Authors: Y Tian, B Ray
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+17. Some from here, some from there: Cross-project code reuse in github
+Citations:16
+Authors: M Gharehyazie, B Ray, V Filkov
+Publication: 2017 IEEE/ACM 14th International Conference on Mining Software Repositories …
+
+18. Secure socialaware: A security framework for mobile social networking applications
+Citations:14
+Authors: A Beach, M Gartrell, B Ray, R Han
+Publication: Department of Computer Science, University of Colorado at Boulder, Tech. Rep …
+
+19. Neuzz: Efficient fuzzing with neural program learning
+Citations:13
+Authors: D She, K Pei, D Epstein, J Yang, B Ray, S Jana
+Publication: arXiv preprint arXiv:1807.05620
+
+20. REPERTOIRE: a cross-system porting analysis tool for forked software projects
+Citations:12
+Authors: B Ray, C Wiley, M Kim
+Publication: Proceedings of the ACM SIGSOFT 20th International Symposium on the …
+
+21. Apex: Automated inference of error specifications for c apis
+Citations:10
+Authors: Y Kang, B Ray, S Jana
+Publication: Proceedings of the 31st IEEE/ACM International Conference on Automated …
+
+22. Touch me wear: Getting physical with social networks
+Citations:7
+Authors: A Beach, B Raz, L Buechley
+Publication: 2009 International Conference on Computational Science and Engineering 4 …
+
+23. Secure and reliable covert channel
+Citations:6
+Authors: B Ray, S Mishra
+Publication: Proceedings of the 4th annual workshop on Cyber security and information …
+
+24. Evaluating how developers use general-purpose web-search for code retrieval
+Citations:5
+Authors: MM Rahman, J Barson, S Paul, J Kayani, FA Lois, SF Quezada, C Parnin, ...
+Publication: Proceedings of the 15th International Conference on Mining Software …
+
+25. Cross-project code clones in GitHub
+Citations:4
+Authors: M Gharehyazie, B Ray, M Keshani, MS Zavosht, A Heydarnoori, V Filkov
+Publication: Empirical Software Engineering 24 (3), 1538-1573
+
+26. Tree2tree neural translation model for learning source code changes
+Citations:4
+Authors: S Chakraborty, M Allamanis, B Ray
+Publication: arXiv preprint arXiv:1810.00314
+
+27. Building language models for text with named entities
+Citations:4
+Authors: MR Parvez, S Chakraborty, B Ray, KW Chang
+Publication: arXiv preprint arXiv:1805.04836
+
+28. Gitcproc: A tool for processing and classifying github commits
+Citations:3
+Authors: C Casalnuovo, Y Suchak, B Ray, C Rubio-González
+Publication: Proceedings of the 26th ACM SIGSOFT International Symposium on Software …
+
+29. Replay without recording of production bugs for service oriented applications
+Citations:2
+Authors: N Arora, J Bell, F Ivančić, G Kaiser, B Ray
+Publication: Proceedings of the 33rd ACM/IEEE International Conference on Automated …
+
+30. A case study on the impact of similarity measure on information retrieval based software engineering tasks
+Citations:2
+Authors: MM Rahman, S Chakraborty, G Kaiser, B Ray
+Publication: arXiv preprint arXiv:1808.02911
+
+31. Replication of assert use in github projects
+Citations:2
+Authors: C Casalnuovo, P Devanbu, V Filkov, B Ray
+Publication: Methods 947 (770,175), 1,717,381
+
+32. SecureWear: A framework for securing mobile social networks
+Citations:2
+Authors: B Ray, R Han
+Publication: International Conference on Computer Science and Information Technology, 515-524
+
+33. Neutaint: Efficient Dynamic Taint Analysis with Neural Networks
+Citations:1
+Authors: D She, Y Chen, B Ray, S Jana
+Publication: arXiv preprint arXiv:1907.03756
+
+34. Striking gold in software repositories?: an econometric study of cryptocurrencies on GitHub
+Citations:1
+Authors: A Trockman, R van Tonder, B Vasilescu
+Publication: Proceedings of the 16th International Conference on Mining Software …
+
+35. Obfuscation resilient search through executable classification
+Citations:1
+Authors: FH Su, J Bell, G Kaiser, B Ray
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+36. Poster: Which Similarity Metric to Use for Software Documents?: A Study on Information Retrieval Based Software Engineering Tasks
+Citations:1
+Authors: MM Rahman, S Chakraborty, B Ray
+Publication: 2018 IEEE/ACM 40th International Conference on Software Engineering …
+
+37. A large ecosystem study to understand the effect of programming languages on code quality
+Citations:1
+Authors: B Ray, D Posnett
+Publication: Perspectives on Data Science for Software Engineering, 115-118
+
+38. Bringing Engineering Rigor to Deep Learning
+Citations:
+Authors: K Pei, S Wang, Y Tian, J Whitehouse, C Vondrick, Y Cao, B Ray, S Jana, ...
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 59-67
+
+39. Testing Deep Neural Network based Image Classifiers
+Citations:
+Authors: Y Tian, Z Zhong, V Ordonez, B Ray
+Publication: arXiv preprint arXiv:1905.07831
+
+40. Recommending GitHub Projects for Developer Onboarding
+Citations:
+Authors: C Liu, D Yang, X Zhang, B Ray, MM Rahman
+Publication: IEEE Access 6, 52082-52094
+
+41. Searching for high-performing software configurations with metaheuristic algorithms
+Citations:
+Authors: C Tang, K Sullivan, B Ray
+Publication: Proceedings of the 40th International Conference on Software Engineering …
+
+42. Poster: A Recommender System for Developer Onboarding
+Citations:
+Authors: C Liu, D Yang, X Zhang, H Hu, J Barson, B Ray
+Publication: 2018 IEEE/ACM 40th International Conference on Software Engineering …
+
+43. Entropy Guided Spectrum Based Bug Localization Using Statistical Language Model
+Citations:
+Authors: S Chakraborty, Y Li, M Irvine, R Saha, B Ray
+Publication: arXiv preprint arXiv:1802.06947
+
+44. Replay without Recording of Production Bugs for Service Oriented Architectures
+Citations:
+Authors: N Arora, J Bell, F Ivancic, G Kaiser, B Ray
+Publication: 
+
+45. Poster: Which Similarity Metric to Use for Software Documents?
+Citations:
+Authors: MM Rahman, S Chakraborty, B Ray
+Publication: 
+
+46. Interpreted Formalisms for Configurations
+Citations:
+Authors: C Tang, K Sullivan, J Xiang, T Weiss, B Ray
+Publication: arXiv preprint arXiv:1712.04982
+
+47. Erratum to our CHI’15 paper “Gender and Tenure Diversity in GitHub Teams”
+Citations:
+Authors: B Vasilescu, D Posnett, B Ray, MGJ van den Brand, A Serebrenik, ...
+Publication: 
+
+48. Analysis of cross-system porting and porting errors in software projects
+Citations:
+Authors: B Ray
+Publication: 
+
+49. SecureWear: Securing wearable mobile social networks
+Citations:
+Authors: B Ray
+Publication: University of Colorado at Boulder
+
+50. Secure SocialAware: A Security Framework for Mobile Social Networking Applications; CU-CS-1054-09
+Citations:
+Authors: A Beach, M Gartrell, B Ray, R Han
+Publication: 
+
+51. Extraction of Copper by Combined Hydro and Electrometallurgical Process
+Citations:
+Authors: S Paul, PK Mitra, S Sanyal, BS Ray, K Dutta, R Maiti
+Publication: JOURNAL-INSTITUTION OF ENGINEERS INDIA PART MM METALLURGY AND MATERIAL …
+
+52. Toward Optimal Selection of Information Retrieval Models for Software Engineering Tasks
+Citations:
+Authors: MM Rahman, S Chakraborty, G Kaiser, B Ray
+Publication: 
+
+53. Message from the Artifact Evaluation Chairs of ICSE 2019
+Citations:
+Authors: P Grünbacher, B Ray
+Publication: 
+
+54. Program Committee of ICSE-NIER 2019
+Citations:
+Authors: IN Ahmed, X Bai, MB UNIRIO, P Borba, Y Cai, M Cohen, TC UFAM, ...
+Publication: 
+
+55. Workshops Program Committee of ICSE 2019
+Citations:
+Authors: C Anslow, O Baysal, M Di Penta, R Feldt, A Filieri, D German, L Guerrouj, ...
+Publication: 
+
+56. CODIT: Code Editing with Tree-Based Neural Machine Translation
+Citations:
+Authors: S Chakraborty, M Allamanis, B Ray
+Publication: 
+
+57. Sarfraz Khurshid (University of Texas at Austin, USA) Bo Li (University of Illinois Urbana-Champaign, USA) Yang Liu (Nanyang Technological University, Singapore) Lei Ma (Kyushu …
+Citations:
+Authors: J Zhao, CV Artho, F Ishikawa, X Ma, S Nakajima, C Pasareanu, B Ray, ...
+Publication: 
+
+58. Computer Science: Generating advances in computation that drive progress in every aspect of human endeavor
+Citations:
+Authors: S Son, C Reiss, J Cohoon, A Ibrahim, Q Gu, MS Sherriff, JW Davidson, ...
+Publication: 
+
+59. Computer Science: Generating advances in computation that drive progress in every aspect of human endeavor
+Citations:
+Authors: K Skadron, F Farnoud, A Grimshaw, JA Stankovic, A Bloomfield, S Khan, ...
+Publication: 
+
+60. ICSE-NIER 2017
+Citations:
+Authors: C Cadar, L Tan, E Barr, I Beschastnikh, A Carzaniga, TY Chen, ...
+Publication: 
+
+61. ICSE 2016
+Citations:
+Authors: GC Murphy, DS Rosenblum, D Batory, L Briand, L Capra, A Carzaniga, ...
+Publication: 
+
+62. Program Co-Chairs
+Citations:
+Authors: M Godfrey, JR Cordy, K Inoue, R Koschke, H Basit, E Choi, Y Higo, D Hou, ...
+Publication: 
+
+63. ICSE 2016
+Citations:
+Authors: A Nori, Y Cai, A Albarghouthi, J Garcia, M Gligoric, J Gray, A Kanade, ...
+Publication: 
+
+64. A RELIABLE TRANSMISSION PROTOCOL FOR SENSORS IN POORLY CONNECTED AREAS OVER MOBILE NETWORKS
+Citations:
+Authors: B Ray, S Ananthanarayan, S Mishra
+Publication: Proceedings of the 9th IASTED International Conference 676 (013), 285
+
+65. A Reliable Transmission Protocol for Mobile Healthcare in Poorly Connected Areas
+Citations:
+Authors: B Ray, S Ananthanarayan, S Mishra
+Publication: 
+
+66. Touch Me wE@ r: Getting Physical with Social Networks
+Citations:
+Authors: B Ray, A Beach, L Buechley
+Publication: 
+
+67. Analysis of Cross-System Porting and Porting Errors in Software Projects
+Citations:
+Authors: S Khurshid, DE Perry, S Person
+Publication: 
+

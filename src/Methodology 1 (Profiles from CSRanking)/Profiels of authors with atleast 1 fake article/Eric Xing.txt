@@ -1,0 +1,210 @@
+
+10. More effective distributed ml via a stale synchronous parallel parameter server
+Citations:352
+Authors: Q Ho, J Cipar, H Cui, S Lee, JK Kim, PB Gibbons, GA Gibson, G Ganger, ...
+Publication: Advances in neural information processing systems, 1223-1231
+
+21. Rolx: structural role extraction & mining in large graphs
+Citations:225
+Authors: K Henderson, B Gallagher, T Eliassi-Rad, H Tong, S Basu, L Akoglu, ...
+Publication: Proceedings of the 18th ACM SIGKDD international conference on Knowledge …
+
+37. Molecular alterations of p73 in human esophageal squamous cell carcinomas: loss of heterozygosity occurs frequently; loss of imprinting and elevation of p73 expression may be …
+Citations:138
+Authors: YC Cai, G Yang, Y Nie, LD Wang, X Zhao, Y Song, DN Seril, J Liao, ...
+Publication: Carcinogenesis 21 (4), 683-689
+
+53. Effectiveness of integrating MOOCs in traditional classrooms for undergraduate students
+Citations:108
+Authors: MJ Israel
+Publication: The International Review of Research in Open and Distributed Learning 16 (5)
+
+65. Exploiting bounded staleness to speed up big data analytics
+Citations:93
+Authors: H Cui, J Cipar, Q Ho, JK Kim, S Lee, A Kumar, J Wei, W Dai, GR Ganger, ...
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 37-48
+
+66. Research in computational molecular biology
+Citations:93
+Authors: J Huang, Q Morris, B Frey
+Publication: Detecting microRNA targets by linking sequence, microRNA and gene expression …
+
+67. Nitro: A Capacity-Optimized {SSD} Cache for Primary Storage
+Citations:92
+Authors: C Li, P Shilane, F Douglis, H Shim, S Smaldone, G Wallace
+Publication: 2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 501-512
+
+74. Race: Large-scale reading comprehension dataset from examinations
+Citations:84
+Authors: G Lai, Q Xie, H Liu, Y Yang, E Hovy
+Publication: arXiv preprint arXiv:1704.04683
+
+78. A tutorial on spectral clustering
+Citations:80
+Authors: C Ding
+Publication: Talk presented at ICML.(Slides available at http://crd. lbl. gov/∼ cding …
+
+83. Managed communication and consistency for fast data-parallel iterative analytics
+Citations:76
+Authors: J Wei, W Dai, A Qiao, Q Ho, H Cui, GR Ganger, PB Gibbons, GA Gibson, ...
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 381-394
+
+89. On the origin of deep learning
+Citations:72
+Authors: H Wang, B Raj
+Publication: arXiv preprint arXiv:1702.07800
+
+109. Discovery of the gene signature for acute lung injury in patients with sepsis
+Citations:59
+Authors: JA Howrylak, T Dolinay, L Lucht, Z Wang, DC Christiani, JM Sethi, ...
+Publication: Physiological genomics 37 (2), 133-139
+
+140. Addressing the straggler problem for iterative convergent parallel ML
+Citations:39
+Authors: A Harlap, H Cui, W Dai, J Wei, GR Ganger, PB Gibbons, GA Gibson, ...
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 98-111
+
+143. Socioscope: Spatio-temporal signal recovery from social media
+Citations:38
+Authors: JM Xu, A Bhargava, R Nowak, X Zhu
+Publication: Joint European Conference on Machine Learning and Knowledge Discovery in …
+
+161. Dimension-free iteration complexity of finite sum optimization problems
+Citations:33
+Authors: Y Arjevani, O Shamir
+Publication: Advances in Neural Information Processing Systems, 3540-3548
+
+163. Advanced cooling technologies for microprocessors
+Citations:33
+Authors: TW Kenny, KE Goodson, JG Santiago, E Wang, JM Koo, L Jiang, E Pop, ...
+Publication: Frontiers In Electronics: (With CD-ROM), 301-313
+
+164. Automatically generating problems and solutions for natural deduction
+Citations:32
+Authors: UZ Ahmed, S Gulwani, A Karkare
+Publication: Twenty-Third International Joint Conference on Artificial Intelligence
+
+169. Two weighting local search for minimum vertex cover
+Citations:31
+Authors: S Cai, J Lin, K Su
+Publication: Twenty-ninth AAAI conference on artificial intelligence
+
+178. Exploiting iterative-ness for parallel ML computations
+Citations:29
+Authors: H Cui, A Tumanov, J Wei, L Xu, W Dai, J Haber-Kucharsky, Q Ho, ...
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 1-14
+
+186. Venn-abers predictors
+Citations:26
+Authors: V Vovk, I Petej
+Publication: arXiv preprint arXiv:1211.0025
+
+189. Feature selection in high-dimensional classification
+Citations:25
+Authors: M Kolar, H Liu
+Publication: International Conference on Machine Learning, 329-337
+
+224. Absent multiple kernel learning
+Citations:18
+Authors: X Liu, L Wang, J Yin, Y Dou, J Zhang
+Publication: Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+237. Deep learning-based subdivision approach for large scale macromolecules structure recovery from electron cryo tomograms
+Citations:16
+Authors: M Xu, X Chai, H Muthakana, X Liang, G Yang, T Zeev-Ben-Mordehai, ...
+Publication: Bioinformatics 33 (14), i13-i22
+
+239. Scalable gaussian processes for characterizing multidimensional change surfaces
+Citations:16
+Authors: W Herlands, A Wilson, H Nickisch, S Flaxman, D Neill, W Van Panhuis, ...
+Publication: Artificial Intelligence and Statistics, 1013-1021
+
+263. Discriminative Feature-Rich Modeling for Syntax-Based Machine Translation
+Citations:12
+Authors: K Gimpel
+Publication: Carnegie Mellon University
+
+276. Svmotif: A machine learning motif algorithm
+Citations:10
+Authors: MA Kon, Y Fan, D Holloway, C DeLisi
+Publication: Sixth International Conference on Machine Learning and Applications (ICMLA …
+
+284. Texar: A modularized, versatile, and extensible toolkit for text generation
+Citations:8
+Authors: Z Hu, H Shi, Z Yang, B Tan, T Zhao, J He, W Wang, X Yu, L Qin, D Wang, ...
+Publication: arXiv preprint arXiv:1809.00794
+
+316. HashKV: Enabling Efficient Updates in {KV} Storage via Hashing
+Citations:6
+Authors: HHW Chan, CJM Liang, Y Li, W He, PPC Lee, L Zhu, Y Dong, Y Xu, Y Xu, ...
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 1007-1019
+
+319. Large-scale optimization algorithms for sparse conditional gaussian graphical models
+Citations:6
+Authors: C McCarter, S Kim
+Publication: Artificial Intelligence and Statistics, 528-537
+
+344. Visualisation of financial time series by linear principal component analysis and nonlinear principal component analysis
+Citations:5
+Authors: HC Chen
+Publication: arXiv preprint arXiv:1410.7961
+
+345. Support Vector Machines
+Citations:5
+Authors: K Sinha
+Publication: 
+
+356. Dtr-gan: Dilated temporal relational adversarial network for video summarization
+Citations:4
+Authors: Y Zhang, M Kampffmeyer, X Zhao, M Tan
+Publication: Proceedings of the ACM Turing Celebration Conference-China, 89
+
+375. an Christos Faloutsos
+Citations:4
+Authors: KI Lin, HV Jagadish
+Publication: The TV-Tree: An index structure for highdimensional data, 517-542
+
+376. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+377. Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
+Citations:3
+Authors: K Kandasamy, KR Vysyaraju, W Neiswanger, B Paria, CR Collins, ...
+Publication: arXiv preprint arXiv:1903.06694
+
+383. Texar: A modularized, versatile, and extensible toolbox for text generation
+Citations:3
+Authors: Z Hu, Z Yang, T Zhao, H Shi, J He, D Wang, X Ma, Z Liu, X Liang, L Qin, ...
+Publication: Proceedings of Workshop for NLP Open Source Software (NLP-OSS), 13-22
+
+414. Statistical Methods for studying Genetic Variation in Populations
+Citations:2
+Authors: S Shringarpure
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA MACHINE LEARNING DEPT
+
+417. A Location-then-price Model of Duopoly under Various Differentiations of Product [J]
+Citations:2
+Authors: M XING, L WANG, H SUN
+Publication: Mathematics in Practice and Theory 3
+
+442. Mixed membership models for time series
+Citations:1
+Authors: EB Fox, MI Jordan
+Publication: arXiv preprint arXiv:1309.3533
+
+454. ChemBO: Bayesian Optimization of Small Organic Molecules with Synthesizable Recommendations
+Citations:
+Authors: K Korovina, S Xu, K Kandasamy, W Neiswanger, B Poczos, J Schneider, ...
+Publication: arXiv preprint arXiv:1908.01425
+
+468. Introduction to Machine Learning
+Citations:
+Authors: P Singh
+Publication: Machine Learning with PySpark, 11-21
+
+485. Geometric Generalization Based Zero-Shot Learning Dataset Infinite World: Simple Yet Powerful
+Citations:
+Authors: R Chidambaram, M Kampffmeyer, W Neiswanger, X Liang, T Lachmann, ...
+Publication: arXiv preprint arXiv:1807.03711

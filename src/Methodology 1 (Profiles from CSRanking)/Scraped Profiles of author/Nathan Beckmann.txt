@@ -1,0 +1,288 @@
+https://scholar.google.com/citations?hl=en&user=zkdjit0AAAAJ
+Total Citations = 1348
+
+1. Graphite: A distributed parallel simulator for multicores
+Citations:501
+Authors: JE Miller, H Kasture, G Kurian, C Gruenwald, N Beckmann, C Celio, ...
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+2. Hardware-based public-key cryptography with public physically unclonable functions
+Citations:135
+Authors: N Beckmann, M Potkonjak
+Publication: International Workshop on Information Hiding, 206-220
+
+3. An operating system for multicore and clouds: mechanisms and implementation
+Citations:128
+Authors: D Wentzlaff, C Gruenwald III, N Beckmann, K Modzelewski, A Belay, ...
+Publication: Proceedings of the 1st ACM symposium on Cloud computing, 3-14
+
+4. Jigsaw: Scalable software-defined caches
+Citations:61
+Authors: N Beckmann, D Sanchez
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+5. Rubik: Fast analytical power management for latency-critical systems
+Citations:58
+Authors: H Kasture, DB Bartolini, N Beckmann, D Sanchez
+Publication: 2015 48th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+6. ATAC: Improving performance and programmability with on-chip optical networks
+Citations:46
+Authors: J Psota, J Miller, G Kurian, H Hoffman, N Beckmann, J Eastep, A Agarwal
+Publication: Proceedings of 2010 IEEE International Symposium on Circuits and Systems …
+
+7. Talus: A simple way to remove cliffs in cache performance
+Citations:43
+Authors: N Beckmann, D Sanchez
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+8. Modeling cache performance beyond LRU
+Citations:32
+Authors: N Beckmann, D Sanchez
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+9. Meeting midway: Improving CMP performance with memory-side prefetching
+Citations:30
+Authors: P Yedlapalli, J Kotra, E Kultursay, M Kandemir, CR Das, ...
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+10. A unified operating system for clouds and manycore: fos
+Citations:30
+Authors: D Wentzlaff, C Gruenwald, N Beckmann, K Modzelewski, A Belay, ...
+Publication: Computer Science and Artificial Intelligence Lab, MIT, Tech. Rep. MIT-CSAIL …
+
+11. Differential uncloneable variability-based cryptography
+Citations:27
+Authors: N Beckmann, M Potkonjak
+Publication: US Patent 8,458,489
+
+12. ATAC: A manycore processor with on-chip optical network
+Citations:25
+Authors: J Miller, J Psota, G Kurian, N Beckmann, J Eastep, J Liu, M Beals, ...
+Publication: Computer Science and Artificial Intelligence Laboratory Technical Report
+
+13. Scaling distributed cache hierarchies through computation and data co-scheduling
+Citations:24
+Authors: N Beckmann, PA Tsai, D Sanchez
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+14. Maximizing cache performance under uncertainty
+Citations:20
+Authors: N Beckmann, D Sanchez
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+15. Core count vs cache size for manycore architectures in the cloud
+Citations:20
+Authors: D Wentzlaff, N Beckmann, J Miller, A Agarwal
+Publication: Tech. Rep. MITCSAIL-TR-2010-008
+
+16. Jenga: Software-defined cache hierarchies
+Citations:18
+Authors: PA Tsai, N Beckmann, D Sanchez
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+17. Whirlpool: Improving dynamic cache management with static data classification
+Citations:16
+Authors: A Mukkara, N Beckmann, D Sanchez
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 113-127
+
+18. LHD: Improving Cache Hit Rate by Maximizing Hit Density
+Citations:13
+Authors: N Beckmann, H Chen, A Cidon
+Publication: 15th USENIX Symposium on Networked Systems Design and Implementation (NSDI …
+
+19. Fleets: Scalable services in a factored operating system
+Citations:13
+Authors: D Wentzlaff, C Gruenwald III, N Beckmann, A Belay, H Kasture, ...
+Publication: 
+
+20. Pika: A network service for multikernel operating systems
+Citations:11
+Authors: NZ Beckmann, C Gruenwald III, CR Johnson, H Kasture, F Sironi, ...
+Publication: 
+
+21. Practical bounds on optimal caching with variable object sizes
+Citations:9
+Authors: DS Berger, N Beckmann, M Harchol-Balter
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 2 (2 …
+
+22. The case for elastic operating system services in fos
+Citations:8
+Authors: L Youseff, N Beckmann, H Kasture, C Gruenwald, D Wentzlaff, A Agarwal
+Publication: Proceedings of the 49th Annual Design Automation Conference, 265-270
+
+23. A unified operating system for Clouds and Manycore: fos
+Citations:8
+Authors: K Modzelewski, J Miller, A Belay, N Beckmann, C Gruenwald III, ...
+Publication: 
+
+24. Intelligence beyond the edge: Inference on intermittent embedded systems
+Citations:7
+Authors: G Gobieski, B Lucia, N Beckmann
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+25. Cache-Guided Scheduling: Exploiting Caches to Maximize Locality in Graph Processing
+Citations:7
+Authors: A Mukkara, N Beckmann, D Sanchez
+Publication: 
+
+26. Exploiting locality in graph analytics through hardware-accelerated traversal scheduling
+Citations:6
+Authors: A Mukkara, N Beckmann, M Abeydeera, X Ma, D Sanchez
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+27. Fos: A Unified Operating System for Clouds and Manycore
+Citations:6
+Authors: D Wentzlaff, C Gruenwald III, N Beckmann, K Modzelewski, A Belay, ...
+Publication: Computer Science and Artificial Intelligence Laboratory TR
+
+28. Graphite: a distributed parallel simulator for multicores
+Citations:6
+Authors: N Beckmann, J Eastep, C Gruenwald III, G Kurian, H Kasture, JE Miller, ...
+Publication: 
+
+29. Cache calculus: Modeling caches through differential equations
+Citations:5
+Authors: N Beckmann, D Sanchez
+Publication: IEEE Computer Architecture Letters 16 (1), 1-5
+
+30. Design and analysis of spatially-partitioned shared caches.
+Citations:5
+Authors: N Beckmann
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+31. Differential uncloneable variability-based cryptography
+Citations:5
+Authors: NZ Beckmann, M Potkonjak
+Publication: US Patent 9,020,150
+
+32. Distributed naming in a factored operating system
+Citations:4
+Authors: NNZ Beckmann
+Publication: Massachusetts Institute of Technology
+
+33. Autonomous, non-interactive, context-based services for cellular phone
+Citations:3
+Authors: M Potkonjak, N Beckmann
+Publication: US Patent 9,986,435
+
+34. Intermittent Deep Neural Network Inference
+Citations:3
+Authors: G Gobieski, N Beckmann, B Lucia
+Publication: SysML
+
+35. Nexus: A new approach to replication in distributed shared caches
+Citations:3
+Authors: PA Tsai, N Beckmann, D Sanchez
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+36. A Cache Model for Modern Processors
+Citations:3
+Authors: N Beckmann, D Sanchez
+Publication: 
+
+37. Efficient cache coherence on manycore optical networks
+Citations:3
+Authors: G Kurian, N Beckmann, J Miller, J Psota, A Agarwal
+Publication: computer science and artificial intelligence laboratory technical report …
+
+38. Bridging theory and practice in cache replacement
+Citations:2
+Authors: N Beckmann, D Sanchez
+Publication: 
+
+39. Autonomous, non-interactive, context-based services for cellular phone
+Citations:2
+Authors: M Potkonjak, N Beckmann
+Publication: US Patent 8,744,429
+
+40. Autonomous, non-interactive, context-based services for cellular phone
+Citations:2
+Authors: M Potkonjak, N Beckmann
+Publication: US Patent 8,744,429
+
+41. POSTER: Improving Datacenter Efficiency through Partitioning-Aware Scheduling
+Citations:1
+Authors: H Kasture, X Ji, N El-Sayed, N Beckmann, X Ma, D Sanchez
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+42. Parallel operating system services in a factored operating system
+Citations:1
+Authors: D Wentzlaff, C Gruenwald III, N Beckmann, K Modzelewski, A Belay, ...
+Publication: Unpublished manuscript submitted for publication
+
+43. Tvarak: Software-managed hardware offload for DAX NVM storage redundancy
+Citations:
+Authors: R Kateja, N Beckmann, GR Ganger
+Publication: arXiv preprint arXiv:1908.09922
+
+44. Brief Announcement: Writeback-Aware Caching
+Citations:
+Authors: N Beckmann, PB Gibbons, B Haeupler, C McGuffey
+Publication: The 31st ACM on Symposium on Parallelism in Algorithms and Architectures …
+
+45. Autonomous, non-interactive, context-based services for cellular phone
+Citations:
+Authors: M Potkonjak, N Beckmann
+Publication: US Patent App. 15/961,575
+
+46. Semantic compression
+Citations:
+Authors: N Beckmann, M Potkonjak
+Publication: US Patent 9,858,393
+
+47. Shared memories for energy efficient multi-core processors
+Citations:
+Authors: M Potkonjak, NZ Beckmann
+Publication: US Patent 9,367,462
+
+48. Authentication of financial transactions via wireless communication link
+Citations:
+Authors: M Potkonjak, N Beckmann
+Publication: US Patent 9,177,311
+
+49. Jigsaw: Scalable Software-Defined Caches (Extended Version)
+Citations:
+Authors: N Beckmann, D Sanchez
+Publication: 
+
+50. FOS: A Factored Operating Systems for High Assurance and Scalability on Multicores
+Citations:
+Authors: A Agarwal, J Miller, D Wentzlaff, H Kasture, N Beckmann, C Gruenwald III, ...
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+51. Performance of Multicore LUP Decomposition
+Citations:
+Authors: N Beckmann, S Boyd-Wickizer
+Publication: Update 33 (L32U23), A33
+
+52. Efficient Cache Coherence on Manycore Optical Networks
+Citations:
+Authors: J Psota, A Agarwal, J Miller, N Beckmann, G Kurian
+Publication: 
+
+53. An Operating System for Multicore and Clouds: Mechanisms and Implementation
+Citations:
+Authors: K Modzelewski, J Miller, A Belay, N Beckmann, C Gruenwald III, ...
+Publication: 
+
+54. ATAC: Improving performance and programmability
+Citations:
+Authors: J Psota, J Miller, G Kurian, H Hoffman, N Beckmann, J Eastep, A Agarwal
+Publication: Institute of Electrical and Electronics Engineers (IEEE)
+
+55. On the Performance Consequences of Cache Configurations in Physics Simulation
+Citations:
+Authors: N Beckmann
+Publication: 
+
+56. The ATAC Architecture: Optical On-Chip Network Improving Performance and Programmability
+Citations:
+Authors: J Psota, J Miller, G Kurian, N Beckmann, J Eastep, J Liu, M Beals, ...
+Publication: 
+
+57. ATAC: A Manycore Processor with On-Chip Optical Network
+Citations:
+Authors: J Psota, J Miller, G Kurian, H Hoffman, N Beckmann, J Eastep, A Agarwal
+Publication: 
+

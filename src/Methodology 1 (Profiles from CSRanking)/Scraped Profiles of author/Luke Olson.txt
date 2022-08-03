@@ -1,0 +1,488 @@
+https://scholar.google.com/citations?hl=en&user=o43oc6AAAAAJ
+Total Citations = 1458
+
+1. Cusp: Generic parallel algorithms for sparse matrix and graph computations
+Citations:220
+Authors: N Bell, M Garland
+Publication: Version 0.3. 0 35
+
+2. A spectral boundary integral method for flowing blood cells
+Citations:184
+Authors: H Zhao, AHG Isfahani, LN Olson, JB Freund
+Publication: Journal of Computational Physics 229 (10), 3726-3744
+
+3. Exposing fine-grained parallelism in algebraic multigrid methods
+Citations:160
+Authors: N Bell, S Dalton, LN Olson
+Publication: SIAM Journal on Scientific Computing 34 (4), C123-C152
+
+4. Algebraic multigrid for higher-order finite elements
+Citations:78
+Authors: JJ Heys, TA Manteuffel, SF McCormick, LN Olson
+Publication: Journal of computational Physics 204 (2), 520-532
+
+5. Optimizing sparse matrix—matrix multiplication for the gpu
+Citations:68
+Authors: S Dalton, L Olson, N Bell
+Publication: ACM Transactions on Mathematical Software (TOMS) 41 (4), 25
+
+6. PyAMG: Algebraic multigrid solvers in Python v2. 0
+Citations:53
+Authors: WN Bell, LN Olson, JB Schroder
+Publication: h ttp://www. pyamg. org
+
+7. Least-squares finite element methods and algebraic multigrid solvers for linear hyperbolic PDEs
+Citations:47
+Authors: H De Sterck, TA Manteuffel, SF McCormick, L Olson
+Publication: SIAM Journal on Scientific Computing 26 (1), 31-54
+
+8. Cusp: Generic parallel algorithms for sparse matrix and graph computations
+Citations:40
+Authors: S Dalton, N Bell, L Olson, M Garland
+Publication: Version 0.5. 0
+
+9. A general interpolation strategy for algebraic multigrid using energy minimization
+Citations:40
+Authors: LN Olson, JB Schroder, RS Tuminaro
+Publication: SIAM Journal on Scientific Computing 33 (2), 966-991
+
+10. FlipIt: An LLVM based fault injector for HPC
+Citations:34
+Authors: J Calhoun, L Olson, M Snir
+Publication: European Conference on Parallel Processing, 547-558
+
+11. A first‐order system least‐squares finite element method for the Poisson‐Boltzmann equation
+Citations:31
+Authors: SD Bond, JH Chaudhry, EC Cyr, LN Olson
+Publication: Journal of computational chemistry 31 (8), 1625-1635
+
+12. Smoothed aggregation for Helmholtz problems
+Citations:29
+Authors: LN Olson, JB Schroder
+Publication: Numerical Linear Algebra with Applications 17 (2‐3), 361-386
+
+13. A new perspective on strength measures in algebraic multigrid
+Citations:27
+Authors: LN Olson, J Schroder, RS Tuminaro
+Publication: Numerical Linear Algebra with Applications 17 (4), 713-733
+
+14. Ipas: Intelligent protection against silent output corruption in scientific applications
+Citations:24
+Authors: I Laguna, M Schulz, DF Richards, J Calhoun, L Olson
+Publication: 2016 IEEE/ACM International Symposium on Code Generation and Optimization …
+
+15. A locally conservative, discontinuous least‐squares finite element method for the Stokes equations
+Citations:22
+Authors: P Bochev, J Lai, L Olson
+Publication: International Journal for Numerical Methods in Fluids 68 (6), 782-804
+
+16. A stabilized finite element method for modified Poisson-Nernst-Planck equations to determine ion flow through a nanopore
+Citations:21
+Authors: JH Chaudhry, J Comer, A Aksimentiev, LN Olson
+Publication: Communications in computational physics 15 (1), 93-125
+
+17. Algebraic multigrid preconditioning of high-order spectral elements for elliptic problems on a simplicial mesh
+Citations:21
+Authors: L Olson
+Publication: SIAM Journal on Scientific Computing 29 (5), 2189-2209
+
+18. Cusp: Generic parallel algorithms for sparse matrix and graph computations, 2014
+Citations:20
+Authors: S Dalton, N Bell, L Olson, M Garland
+Publication: Version 0.5. 0
+
+19. Oscillatory behavior of neutrophils under opposing chemoattractant gradients supports a winner-take-all mechanism
+Citations:19
+Authors: MB Byrne, Y Kimura, A Kapoor, Y He, KS Mattam, KM Hasan, LN Olson, ...
+Publication: PloS one 9 (1), e85726
+
+20. Numerical Conservation Properties of H(div)-Conforming Least-Squares Finite Element Methods for the Burgers Equation
+Citations:19
+Authors: H De Sterck, TA Manteuffel, SF McCormick, L Olson
+Publication: SIAM Journal on Scientific Computing 26 (5), 1573-1597
+
+21. Finite element approximation to a finite-size modified Poisson-Boltzmann equation
+Citations:18
+Authors: JH Chaudhry, SD Bond, LN Olson
+Publication: Journal of Scientific Computing 47 (3), 347-364
+
+22. Smoothed aggregation multigrid solvers for high-order discontinuous Galerkin methods for elliptic problems
+Citations:17
+Authors: LN Olson, JB Schroder
+Publication: Journal of Computational Physics 230 (18), 6959-6976
+
+23. Modeling MPI communication performance on SMP nodes: Is it time to retire the ping pong test
+Citations:16
+Authors: W Gropp, LN Olson, P Samfass
+Publication: Proceedings of the 23rd European MPI Users' Group Meeting, 41-50
+
+24. Reducing parallel communication in algebraic multigrid through sparsification
+Citations:15
+Authors: A Bienz, RD Falgout, W Gropp, LN Olson, JB Schroder
+Publication: SIAM Journal on Scientific Computing 38 (5), S332-S357
+
+25. PyAMG: Algebraic multigrid solvers in Python v3. 0, 2015
+Citations:15
+Authors: WN Bell, LN Olson, JB Schroder
+Publication: URL http://www. pyamg. org. Release 3
+
+26. Parallel coarse‐grid selection
+Citations:15
+Authors: DM Alber, LN Olson
+Publication: Numerical Linear Algebra with Applications 14 (8), 611-643
+
+27. A root-node--based algebraic multigrid method
+Citations:14
+Authors: TA Manteuffel, LN Olson, JB Schroder, BS Southworth
+Publication: SIAM Journal on Scientific Computing 39 (5), S723-S756
+
+28. A non‐conforming least‐squares finite element method for incompressible fluid flow problems
+Citations:14
+Authors: P Bochev, J Lai, L Olson
+Publication: International Journal for Numerical Methods in Fluids 72 (3), 375-402
+
+29. Theoretical bounds for algebraic multigrid performance: review and analysis
+Citations:13
+Authors: SP MacLachlan, LN Olson
+Publication: Numerical Linear Algebra with Applications 21 (2), 194-220
+
+30. A spectral boundary integral method for micro-circulatory cellular flows
+Citations:13
+Authors: H Zhao, AHG Isfahani, L Olson, JB Freund
+Publication: J. Comput. Phys 229 (10), 3726-3744
+
+31. Exploring the feasibility of lossy compression for PDE simulations
+Citations:10
+Authors: J Calhoun, F Cappello, LN Olson, M Snir, WD Gropp
+Publication: The International Journal of High Performance Computing Applications 33 (2 …
+
+32. Algebraic multigrid for k‐form Laplacians
+Citations:9
+Authors: N Bell, LN Olson
+Publication: Numerical Linear Algebra with Applications 15 (2‐3), 165-185
+
+33. Multilevel least-squares finite element methods for hyperbolic partial differential equations
+Citations:9
+Authors: LN Olson
+Publication: University of Colorado
+
+34. Towards a more complete understanding of sdc propagation
+Citations:8
+Authors: J Calhoun, M Snir, LN Olson, WD Gropp
+Publication: Proceedings of the 26th International Symposium on High-Performance Parallel …
+
+35. A hybrid format for better performance of sparse matrix-vector multiplication on a GPU
+Citations:8
+Authors: D Guo, W Gropp, LN Olson
+Publication: The International Journal of High Performance Computing Applications 30 (1 …
+
+36. A weighted adaptive least-squares finite element method for the Poisson–Boltzmann equation
+Citations:8
+Authors: JH Chaudhry, SD Bond, LN Olson
+Publication: Applied Mathematics and Computation 218 (9), 4892-4902
+
+37. Optimizing sparse matrix operations on gpus using merge path
+Citations:7
+Authors: S Dalton, S Baxter, D Merrill, L Olson, M Garland
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium, 407-416
+
+38. Enhancing least-squares finite element methods through a quantity-of-interest
+Citations:7
+Authors: JH Chaudhry, EC Cyr, K Liu, TA Manteuffel, LN Olson, L Tang
+Publication: SIAM Journal on Numerical Analysis 52 (6), 3085-3105
+
+39. Algebraic Multigrid for High-Order Hierarchical H(curl) Finite Elements
+Citations:7
+Authors: JH Lai, LN Olson
+Publication: SIAM Journal on Scientific Computing 33 (5), 2888-2902
+
+40. Efficient parallel optimization of volume meshes on heterogeneous computing systems
+Citations:6
+Authors: Z Cheng, E Shaffer, R Yeh, G Zagaris, L Olson
+Publication: Engineering with Computers 33 (4), 717-726
+
+41. Understanding the propagation of error due to a silent data corruption in a sparse matrix vector multiply
+Citations:6
+Authors: J Calhoun, M Snir, L Olson, M Garzaran
+Publication: 2015 IEEE International Conference on Cluster Computing, 541-542
+
+42. Towards a more fault resilient multigrid solver
+Citations:6
+Authors: J Calhoun, L Olson, M Snir, WD Gropp
+Publication: Proceedings of the Symposium on High Performance Computing, 1-8
+
+43. Fully-implicit ultrascale physics solvers and application to ion source modelling
+Citations:6
+Authors: K Beckwith, S Veitzer, SF McCormick, JW Ruge, LN Olson, JC Cahoun
+Publication: 2014 IEEE 41st International Conference on Plasma Sciences (ICOPS) held with …
+
+44. A Finite Element Based P ^3 M Method for N-Body Problems
+Citations:5
+Authors: NN Beams, LN Olson, JB Freund
+Publication: SIAM Journal on Scientific Computing 38 (3), A1538-A1560
+
+45. PyAMG: Algebraic multigrid solvers in Python, 2011
+Citations:5
+Authors: WN Bell, LN Olson, J Schroder
+Publication: URL http://www. pyamg. org
+
+46. Improving performance models for irregular point-to-point communication
+Citations:4
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: arXiv preprint arXiv:1806.02030
+
+47. Incentivizing Access to the WTO's Dispute System for the Lease-Developed Countries: Legal Flaws in Brazil's Upland Cotton Decision
+Citations:4
+Authors: L Olson
+Publication: Minn. J. Int'l L. 23, 101
+
+48. Coarsening invariance and bucket-sorted independent sets for algebraic multigrid
+Citations:4
+Authors: DM Alber, LN Olson
+Publication: Electronic Transactions on Numerical Analysis 37, 367-385
+
+49. Tapspmv: Topology-aware parallel sparse matrix vector multiplication
+Citations:3
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: CoRR, vol. abs/1612.08060
+
+50. Stable numerical methods for hyperbolic partial differential equations using overlapping domain decomposition
+Citations:3
+Authors: AH Reichert
+Publication: University of Illinois at Urbana-Champaign
+
+51. Developments in overlapping Schwarz preconditioning of high-order nodal discontinuous Galerkin discretizations
+Citations:3
+Authors: LN Olson, JS Hesthaven, LC Wilcox
+Publication: Domain Decomposition Methods in Science and Engineering XVI, 325-332
+
+52. Node aware sparse matrix–vector multiplication
+Citations:2
+Authors: A Bienz, WD Gropp, LN Olson
+Publication: Journal of Parallel and Distributed Computing 130, 166-178
+
+53. Analyzing the performance of a sparse matrix vector multiply for extreme scale computers
+Citations:2
+Authors: A Bienz, J Calhoun, L Olson, M Snir, WD Gropp
+Publication: The InternationalConference for High Performance Computing Networking …
+
+54. Simple and effective GPU-based mesh optimization
+Citations:2
+Authors: E Shaffer, Z Cheng, R Yeh, G Zagaris, L Olson
+Publication: Parallel Computing: Accelerating Computational Science and Engineering (CSE …
+
+55. Toward Flexible Scalable Algebraic Multigrid Solvers.
+Citations:2
+Authors: RS Tuminaro, EG Boman, JJ Hu, A Prokopenko, C Siefert, PH Tsuji, ...
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States); Sandia National …
+
+56. Efficient GPU-based Optimization of Volume Meshes.
+Citations:2
+Authors: E Shaffer, Z Cheng, R Yeh, G Zagaris, L Olson
+Publication: PARCO, 285-294
+
+57. Investigation of explicit finite-element time-domain methods and modeling of dispersive media and 3D high-speed circuits
+Citations:2
+Authors: X Li
+Publication: University of Illinois at Urbana-Champaign
+
+58. Generalizing smoothed aggregation-based algebraic multigrid
+Citations:2
+Authors: JB Schroder
+Publication: University of Illinois at Urbana-Champaign
+
+59. An interpolatory spectral element method using curl-conforming vector basis functions on tetrahedra
+Citations:2
+Authors: X Lin, L Olson, J Jin
+Publication: 2007 IEEE Antennas and Propagation Society International Symposium, 5095-5098
+
+60. Algebraic Multigrid (AMG) for Higher-Order Finite Elements
+Citations:2
+Authors: JJ Heys, TA Manteuffel, SF McCormick, LN Olson
+Publication: Journal of Computational Physics, to appear
+
+61. Scaling structured multigrid to 500k+ cores through coarse-grid redistribution
+Citations:1
+Authors: A Reisner, LN Olson, JD Moulton
+Publication: SIAM Journal on Scientific Computing 40 (4), C581-C604
+
+62. Forces on a wall-bound leukocyte due to flowing red blood cells
+Citations:1
+Authors: A Ghalayani Isfahani
+Publication: University of Illinois at Urbana-Champaign
+
+63. Numerical methods for solar tomography in the stereo era
+Citations:1
+Authors: RJ Hewett
+Publication: University of Illinois at Urbana-Champaign
+
+64. Components of a more robust multilevel solver for emerging architectures and complex applications
+Citations:1
+Authors: LN Olson, JB Schroder
+Publication: Proceedings of SciDAC
+
+65. Hypergraph-Based Combinatorial Optimization of Matrix-Vector Multiplication
+Citations:1
+Authors: MM Wolf
+Publication: University of Illinois at Urbana-Champaign
+
+66. Learning with Analytical Models
+Citations:
+Authors: H Ibeid, S Meng, O Dobon, L Olson, W Gropp
+Publication: 2019 IEEE International Parallel and Distributed Processing Symposium …
+
+67. Reducing Communication in Algebraic Multigrid with Multi-step Node Aware Communication
+Citations:
+Authors: A Bienz, L Olson, W Gropp
+Publication: arXiv preprint arXiv:1904.05838
+
+68. A massively scalable distributed multigrid framework for nonlinear marine hydrodynamics
+Citations:
+Authors: SL Glimberg, AP Engsig-Karup, LN Olson
+Publication: The International Journal of High Performance Computing Applications …
+
+69. High-order finite element–integral equation coupling on embedded meshes
+Citations:
+Authors: NN Beams, A Klöckner, LN Olson
+Publication: Journal of Computational Physics 375, 1295-1313
+
+70. FFT, FMM, and Multigrid on the Road to Exascale: performance challenges and opportunities
+Citations:
+Authors: H Ibeid, L Olson, W Gropp
+Publication: arXiv preprint arXiv:1810.11883
+
+71. Parallel Multilevel Decomposition Methods for Fluid Plasma Models
+Citations:
+Authors: SF McCormick, KR Beckwith, LN Olson
+Publication: Front Range Scientific Computations, Inc Lake City United States
+
+72. Enhancing Least-Squares Finite Element Methods Through a Quantity-of-Interest.
+Citations:
+Authors: EC Cyr, JH Chaudhry, K Liu, TA Manteuffel, LN Olson, L Tang
+Publication: SIAM Journal on Numerical Analysis
+
+73. Amoritzing AMG Components Across Problem Sequences.
+Citations:
+Authors: RS Tuminaro, JJ Hu, A Prokopenko, C Siefert, PH Tsuji, EG Boman, ...
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States); Sandia National …
+
+74. A novel state-space based method for direct numerical simulation of particle-laden turbulent flows
+Citations:
+Authors: R Ranjan
+Publication: University of Illinois at Urbana-Champaign
+
+75. Cellular strategies for chemotactic navigation in complex chemical environments
+Citations:
+Authors: Y Kimura
+Publication: University of Illinois at Urbana-Champaign
+
+76. Practical Aspects of Theoretical Bounds for Algebraic Multigrid Performance
+Citations:
+Authors: SP MacLachlan, LN Olson
+Publication: NUMER. LINEAR ALGEBRA APPL. 2013; 00: 1–27
+
+77. Conservation and efficiency in least squares finite element methods
+Citations:
+Authors: J Lai
+Publication: University of Illinois at Urbana-Champaign
+
+78. Emergence and stability of complex structures from stochastic neuronal networks
+Citations:
+Authors: N Arizumi
+Publication: University of Illinois at Urbana-Champaign
+
+79. A particle-in-cell framework for the simulation of cellular chemotaxis
+Citations:
+Authors: M Wrobel
+Publication: 
+
+80. Modeling the interface between biological and synthetic components in hybrid nanosystems
+Citations:
+Authors: RC Carr, J Comer, A Aksimentiev
+Publication: University of Illinois at Urbana-Champaign
+
+81. Collective behavior of colloidal suspensions under electric fields and confinement
+Citations:
+Authors: JS Park
+Publication: University of Illinois at Urbana-Champaign
+
+82. Krylov Methods and Energy Minimization Algebraic Multigrid.
+Citations:
+Authors: RS Tuminaro, J Gaidamour, A Gerstenberger, C Siefert, L Olson, ...
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States); Sandia National …
+
+83. A flexible AMG framework centered on energy minimization
+Citations:
+Authors: L Olson, H Badri, J Gaidamour, RS Tuminaro, C Siefert, JJ Hu, MW Gee, ...
+Publication: 
+
+84. Toward robust scalable algebraic multigrid solvers
+Citations:
+Authors: H Waisman, J Schroder, L Olson, B Hiriyur, J Gaidamour, C Siefert, JJ Hu, ...
+Publication: Sandia National Laboratories (United States). Funding organisation: US …
+
+85. A numerical method for Stokes flow with capillary effects
+Citations:
+Authors: J Fettig, J Freund, L Olson
+Publication: APS Division of Fluid Dynamics Meeting Abstracts
+
+86. GENERALIZED STRENGTH OF CONNECTION IN ALGEBRAIC MULTIGRID
+Citations:
+Authors: J SCHRODER, RS TUMINARO, L OLSON
+Publication: CSRI SUMMER PROCEEDINGS 2007, 14
+
+87. A dual least-squares finite element method for hyperbolic pdes
+Citations:
+Authors: LN Olson
+Publication: Eleventh Copper Mountain Conference On Multigrid Methods
+
+88. Exports, production and uncertainty
+Citations:
+Authors: WF Maloney
+Publication: BEBR faculty working paper; no. 91-0147
+
+89. Application of Numerical Accuracy to the Selection of Lossy Compression Error Tolerances
+Citations:
+Authors: J Calhoun, L Olson, M Snir
+Publication: 
+
+90. Reducing Network Contention Associated with Parallel Algebraic Multigrid
+Citations:
+Authors: A Bienz, L Olson
+Publication: 
+
+91. Reducing Communication Costs Associated with Parallel Algebraic Multigrid
+Citations:
+Authors: A Bienz, L Olson
+Publication: 
+
+92. SUPPORTING INFORMATION Oscillatory behavior of neutrophils under opposing chemoattractant gradients supports a winner-take-all mechanism
+Citations:
+Authors: MB Byrne, Y Kimura, A Kapoor, Y Heb, K Mattam, K Hasan, LN Olson, ...
+Publication: 
+
+93. 6959 Smoothed aggregation multigrid solvers for high-order discontinuous Galerkin methods for elliptic problems
+Citations:
+Authors: LN Olson, JB Schroder, A Mittal, S Mazumder, M Takamoto, S Inutsuka, ...
+Publication: 
+
+94. 3543 High-order accurate solution of the incompressible Navier–Stokes equations on massively parallel computers
+Citations:
+Authors: R Henniger, D Obrist, L Kleiser, SA Tokareva, EF Toro, LJ Zheng, ...
+Publication: 
+
+95. NUMERICAL CONSERVATION PROPERTIES OF H (DIV)-CONFORMING LEAST-SQUARES FINITE ELEMENT METHODS FOR SCALAR CONSERVATION LAWS
+Citations:
+Authors: H DE STERCK, TA MANTEUFFEL, SF MCCORMICK, L OLSON
+Publication: 
+
+96. A DUAL LEAST-SQUARES FINITE ELEMENT METHOD FOR LINEAR HYPERBOLIC PDES: A NUMERICAL STUDY
+Citations:
+Authors: L Olson
+Publication: 
+
+97. The Role of Directional Persistence in Neutrophil Chemotaxis: Navigation in Multiple Gradients
+Citations:
+Authors: Y Kimura, CV Rao, L Olson
+Publication: 
+

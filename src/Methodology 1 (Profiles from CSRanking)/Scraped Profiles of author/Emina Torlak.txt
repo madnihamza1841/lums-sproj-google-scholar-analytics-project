@@ -1,0 +1,358 @@
+https://scholar.google.com/citations?hl=en&user=rFpexEAAAAAJ
+Total Citations = 2240
+
+1. Kodkod: A relational model finder
+Citations:473
+Authors: E Torlak, D Jackson
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+2. Syntax-guided synthesis
+Citations:389
+Authors: R Alur, R Bodik, G Juniwal, MMK Martin, M Raghothaman, SA Seshia, ...
+Publication: 2013 Formal Methods in Computer-Aided Design, 1-8
+
+3. Angelic debugging
+Citations:130
+Authors: S Chandra, E Torlak, S Barman, R Bodik
+Publication: Proceedings of the 33rd International Conference on Software Engineering …
+
+4. A lightweight symbolic virtual machine for solver-aided host languages
+Citations:124
+Authors: E Torlak, R Bodik
+Publication: ACM SIGPLAN Notices 49 (6), 530-541
+
+5. Growing solver-aided languages with rosette
+Citations:99
+Authors: E Torlak, R Bodik
+Publication: Proceedings of the 2013 ACM international symposium on New ideas, new …
+
+6. Finding minimal unsatisfiable cores of declarative specifications
+Citations:85
+Authors: E Torlak, FSH Chang, D Jackson
+Publication: International Symposium on Formal Methods, 326-341
+
+7. MemSAT: checking axiomatic specifications of memory models
+Citations:80
+Authors: E Torlak, M Vaziri, J Dolby
+Publication: ACM Sigplan Notices 45 (6), 341-350
+
+8. Controlled physical random functions and applications
+Citations:80
+Authors: B Gassend, MV Dijk, D Clarke, E Torlak, S Devadas, P Tuyls
+Publication: ACM Transactions on Information and System Security (TISSEC) 10 (4), 3
+
+9. A constraint solver for software engineering: finding models and cores of large relational specifications
+Citations:76
+Authors: E Torlak
+Publication: Massachusetts Institute of Technology
+
+10. Effective interprocedural resource leak detection
+Citations:53
+Authors: E Torlak, S Chandra
+Publication: Proceedings of the 32nd ACM/IEEE International Conference on Software …
+
+11. Correct refactoring of concurrent java code
+Citations:49
+Authors: M Schäfer, J Dolby, M Sridharan, E Torlak, F Tip
+Publication: European Conference on Object-Oriented Programming, 225-249
+
+12. A type system for object models
+Citations:48
+Authors: J Edwards, D Jackson, E Torlak
+Publication: ACM SIGSOFT Software Engineering Notes 29 (6), 189-199
+
+13. Push-button verification of file systems via crash refinement
+Citations:45
+Authors: H Sigurbjarnarson, J Bornholt, E Torlak, X Wang
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+14. Optimizing synthesis with metasketches
+Citations:44
+Authors: J Bornholt, E Torlak, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 51 (1), 775-788
+
+15. Kodkod for Alloy users
+Citations:37
+Authors: E Torlak, G Dennis
+Publication: First ACM Alloy Workshop, Portland, Oregon
+
+16. Fast synthesis of fast collections
+Citations:28
+Authors: C Loncaric, E Torlak, MD Ernst
+Publication: ACM SIGPLAN Notices 51 (6), 355-368
+
+17. Correct refactoring of concurrent software
+Citations:26
+Authors: J Dolby, M Schaefer, M Sridharan, F Tip, E Torlak
+Publication: US Patent 8,689,191
+
+18. Synthesizing memory models from framework sketches and litmus tests
+Citations:25
+Authors: J Bornholt, E Torlak
+Publication: ACM SIGPLAN Notices 52 (6), 467-481
+
+19. Specifying and checking file system crash-consistency models
+Citations:23
+Authors: J Bornholt, A Kaufmann, J Li, A Krishnamurthy, E Torlak, X Wang
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 83-98
+
+20. Hyperkernel: Push-button verification of an OS kernel
+Citations:22
+Authors: L Nelson, H Sigurbjarnarson, K Zhang, D Johnson, J Bornholt, E Torlak, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 252-269
+
+21. Automated reasoning for web page layout
+Citations:22
+Authors: P Panchekha, E Torlak
+Publication: ACM SIGPLAN Notices 51 (10), 181-194
+
+22. Systems and methods for resource leak detection
+Citations:21
+Authors: S Chandra, E Torlak
+Publication: US Patent 8,689,180
+
+23. Alloy: a language and tool for relational models
+Citations:21
+Authors: D Jackson, A Milicevic, J Near, E Kang, E Torlak
+Publication: retrieved at<>, Jul 22, 1
+
+24. Scalable verification of border gateway protocol configurations with an SMT solver
+Citations:19
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: ACM SIGPLAN Notices 51 (10), 765-780
+
+25. Knowledge flow analysis for security protocols
+Citations:16
+Authors: E Torlak, M Van Dijk, B Gassend, D Jackson, S Devadas
+Publication: arXiv preprint cs/0605109
+
+26. Precise fault localization
+Citations:15
+Authors: SK Barman, S Chandra, E Torlak
+Publication: US Patent 8,645,761
+
+27. Scalable test data generation from multidimensional models
+Citations:14
+Authors: E Torlak
+Publication: Proceedings of the ACM SIGSOFT 20th International Symposium on the …
+
+28. Faster constraint solving with subtypes
+Citations:13
+Authors: J Edwards, D Jackson, E Torlak, V Yeung
+Publication: ACM SIGSOFT Software Engineering Notes 29 (4), 232-242
+
+29. Applications and extensions of Alloy: past, present and future
+Citations:12
+Authors: E Torlak, M Taghdiri, G Dennis, JP Near
+Publication: Mathematical Structures in Computer Science 23 (4), 915-933
+
+30. The design of a relational engine
+Citations:12
+Authors: E Torlak, D Jackson
+Publication: 
+
+31. Symmetry breaking in the congest model: Time-and message-efficient algorithms for ruling sets
+Citations:10
+Authors: S Pai, G Pandurangan, SV Pemmaraju, T Riaz, P Robinson
+Publication: arXiv preprint arXiv:1705.07861
+
+32. Investigating safety of a radiotherapy machine using system models with pluggable checkers
+Citations:10
+Authors: S Pernsteiner, C Loncaric, E Torlak, Z Tatlock, X Wang, MD Ernst, J Jacky
+Publication: International Conference on Computer Aided Verification, 23-41
+
+33. Crust: A bounded verifier for rust (n)
+Citations:10
+Authors: J Toman, S Pernsteiner, E Torlak
+Publication: 2015 30th IEEE/ACM International Conference on Automated Software …
+
+34. What gives? a hybrid algorithm for error trace explanation
+Citations:10
+Authors: V Murali, N Sinha, E Torlak, S Chandra
+Publication: Working Conference on Verified Software: Theories, Tools, and Experiments …
+
+35. Generalized data structure synthesis
+Citations:9
+Authors: C Loncaric, MD Ernst, E Torlak
+Publication: 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE …
+
+36. Formal semantics and automated verification for the border gateway protocol
+Citations:9
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: NetPL, March
+
+37. System and method for debugging memory consistency models
+Citations:9
+Authors: J Dolby, E Torlak, M Vaziri
+Publication: US Patent App. 12/615,657
+
+38. SpaceSearch: a library for building and verifying solver-aided tools
+Citations:8
+Authors: K Weitz, S Lyubomirsky, S Heule, E Torlak, MD Ernst, Z Tatlock
+Publication: Proceedings of the ACM on Programming Languages 1 (ICFP), 25
+
+39. Refinement Types for Ruby
+Citations:6
+Authors: M Kazerounian, N Vazou, A Bourgerie, JS Foster, E Torlak
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+40. Bagpipe: Verified BGP configuration checking
+Citations:6
+Authors: K Weitz, D Woos, E Torlak, MD Ernst, A Krishnamurthy, Z Tatlock
+Publication: Proc. OOPSLA
+
+41. Subtypes for constraint decomposition
+Citations:6
+Authors: J Edwards, D Jackson, E Torlak, V Yeung
+Publication: International Symposium on Software Testing and Analysis
+
+42. Scaling program synthesis by exploiting existing code
+Citations:5
+Authors: J Bornholt, E Torlak
+Publication: Machine Learning for Programming Languages
+
+43. Toward a dependability case language and workflow for a radiation therapy system
+Citations:5
+Authors: MD Ernst, D Grossman, J Jacky, C Loncaric, S Pernsteiner, Z Tatlock, ...
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+44. A framework for parameterized design of rule systems applied to algebra
+Citations:4
+Authors: E Butler, E Torlak, Z Popović
+Publication: International Conference on Intelligent Tutoring Systems, 320-326
+
+45. Synthesizing Programs with Constraint Solvers.
+Citations:4
+Authors: R Bodik, E Torlak
+Publication: CAV, 3
+
+46. Finding code that explodes under symbolic evaluation
+Citations:3
+Authors: J Bornholt, E Torlak
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 149
+
+47. Nickel: a framework for design and verification of information flow control systems
+Citations:3
+Authors: H Sigurbjarnarson, L Nelson, B Castro-Karney, J Bornholt, E Torlak, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+48. Synthesizing interpretable strategies for solving puzzle games
+Citations:3
+Authors: E Butler, E Torlak, Z Popović
+Publication: Proceedings of the 12th International Conference on the Foundations of …
+
+49. Toward tool support for interactive synthesis
+Citations:3
+Authors: S Barman, R Bodik, S Chandra, E Torlak, A Bhattacharya, D Culler
+Publication: 2015 ACM International Symposium on New Ideas, New Paradigms, and …
+
+50. Subtyping in alloy
+Citations:3
+Authors: E Torlak
+Publication: Massachusetts Institute of Technology
+
+51. A Framework for Computer-Aided Design of Educational Domain Models
+Citations:2
+Authors: E Butler, E Torlak, Z Popović
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+52. Symbolic types for lenient symbolic execution
+Citations:2
+Authors: S Chang, A Knauth, E Torlak
+Publication: Proceedings of the ACM on Programming Languages 2 (POPL), 40
+
+53. A case for double-blind reviewing in software engineering
+Citations:2
+Authors: Y Brun, A Begel, I Beschastnikh, J Huang, M Kim, C Le Goues, W Le, ...
+Publication: 
+
+54. Kodkod: Constraint solver for relational logic
+Citations:2
+Authors: E Torlak
+Publication: 
+
+55. Swizzle Inventor: Data Movement Synthesis for GPU Kernels
+Citations:1
+Authors: PM Phothilimthana, AS Elliott, A Wang, A Jangda, B Hagedorn, H Barthels, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+56. Precise Attack Synthesis for Smart Contracts
+Citations:1
+Authors: Y Feng, E Torlak, R Bodik
+Publication: arXiv preprint arXiv:1902.06067
+
+57. Synthesizing optimal domain models for educational applications
+Citations:1
+Authors: E Butler, E Torlak, Z Popovic
+Publication: Technical Report UW-CSE-17-10-02, https://www. cs. washington. edu/tr/2017 …
+
+58. SIMPL: A DSL for automatic specialization of inference algorithms
+Citations:1
+Authors: R Shah, E Torlak, R Bodik
+Publication: arXiv preprint arXiv:1604.04729
+
+59. Synthesizing Memory Models from Litmus Tests
+Citations:1
+Authors: J Bornholt, E Torlak
+Publication: Tech. rep. UW-CSE-16-10-01. University of Washington
+
+60. Scaling symbolic evaluation for automated verification of systems code with Serval
+Citations:
+Authors: L Nelson, J Bornholt, R Gu, A Baumann, E Torlak, X Wang
+Publication: Symposium on Operating Systems Principles
+
+61. OPTIMIZING THE AUTOMATED PROGRAMMING STACK james bornholt
+Citations:
+Authors: E Torlak
+Publication: University of Washington
+
+62. Automatic Generation of Procedural Knowledge Using Program Synthesis
+Citations:
+Authors: ED Butler, E Torlak, Z Popović, S Tanimoto
+Publication: University of Washington Libraries
+
+63. Automatic Formal Verification for EPICS
+Citations:
+Authors: J Jacky, C Loncaric, Z Tatlock, S Pernsteiner, E Torlak, M Ernst, ...
+Publication: 
+
+64. Approximate Program Synthesis
+Citations:
+Authors: J Bornholt, E Torlak, L Ceze, D Grossman
+Publication: Workshop on Approximate Computing Across the Stack (WAX w/PLDI)
+
+65. Article 15 (22 pages)-Controlled Physical Random Functions and Applications
+Citations:
+Authors: B Gassend, M Dijk, D Clarke, E Torlak, S Devadas, P Tuyls
+Publication: ACM Transactions on Information and System Security-TISSEC 10 (4)
+
+66. A Generalized Two-Phase Analysis of Knowledge Flows in Security Protocols
+Citations:
+Authors: M van Dijk, E Torlak, B Gassend, S Devadas
+Publication: arXiv preprint cs/0605097
+
+67. Programming with Constraint Solvers
+Citations:
+Authors: R Bodik, E Torlak
+Publication: 
+
+68. Welcome Message from the Posters Chairs
+Citations:
+Authors: KR Jayaram, E Torlak
+Publication: 
+
+69. The Chaperone Project The Versatility of Tests: Concrete Specifications in Program Checking and Synthesis
+Citations:
+Authors: R Bodik, G Necula, K Sen, S Seshia, E Torlak
+Publication: 
+
+70. Simple Subtypes for Specification
+Citations:
+Authors: J Edwards, D Jackson, E Torlak
+Publication: 
+
+71. Discovering Algorithms in Angelic Programs
+Citations:
+Authors: S Barman, R Bodík, S Chandra, E Torlak
+Publication: 
+

@@ -1,0 +1,230 @@
+
+7. Automatically patching errors in deployed software
+Citations:372
+Authors: JH Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+28. Contextual policy enforcement in android applications with permission event graphs.
+Citations:154
+Authors: KZ Chen, NM Johnson, V D'Silva, S Dai, K MacNamara, TR Magrino, ...
+Publication: NDSS, 234
+
+40. Missing the point (er): On the effectiveness of code pointer integrity
+Citations:124
+Authors: I Evans, S Fingeret, J Gonzalez, U Otgonbaatar, T Tang, H Shrobe, ...
+Publication: 2015 IEEE Symposium on Security and Privacy, 781-796
+
+79. Automatic testing of software with structurally complex inputs
+Citations:59
+Authors: D Marinov
+Publication: Massachusetts Institute of Technology
+
+105. Targeted automatic integer overflow discovery using goal-directed conditional branch enforcement
+Citations:36
+Authors: S Sidiroglou-Douskos, E Lahtinen, N Rittenhouse, P Piselli, F Long, ...
+Publication: ACM Sigplan Notices 50 (4), 473-486
+
+117. Pointer analysis for Java programs: Novel techniques and applications
+Citations:30
+Authors: AD Sălcianu
+Publication: Massachusetts Institute of Technology
+
+153. The hob system for verifying software design properties
+Citations:14
+Authors: P Lam
+Publication: Massachusetts Institute of Technology
+
+154. Verification, Model Checking, and Abstract Interpretation
+Citations:14
+Authors: R Cousot
+Publication: Springer Berlin/Heidelberg.
+
+159. Theory and Applications of Satisfiability Testing
+Citations:12
+Authors: F Bacchus, T Walsh
+Publication: Springer Berlin/Heidelberg.
+
+183. SIGPLAN programming language curriculum workshop: Discussion summaries and recommendations
+Citations:8
+Authors: E Allen, R Bodik, K Bruce, K Fisher, S Freund, R Harper, C Krintz, ...
+Publication: ACM SIGPLAN Notices 43 (11), 6-29
+
+193. Contextual policy enforcement in android programs with permission event graphs
+Citations:7
+Authors: K Chen, N Johnson, V D'Silva, S Dai, T Magrino, K Macnamarra, E Wu, ...
+Publication: 
+
+197. Verification, Model Checking, and Abstract Interpretation
+Citations:7
+Authors: EA Emerson, KS Namjoshi
+Publication: Springer Berlin/Heidelberg.
+
+214. Static Analysis: 12th International Symposium, SAS 2005, London,[Imperial College], UK, September 7-9, 2005-Proceedings
+Citations:5
+Authors: C Hankin
+Publication: Springer
+
+222. Architectural and compiler support for strongly atomic transactional memory
+Citations:4
+Authors: CS Ananian
+Publication: Massachusetts Institute of Technology
+
+224. Method for experimentally verifying imaging errors in optical exposure units
+Citations:4
+Authors: G Czech, E Richter, U Scheler, M Sebald
+Publication: US Patent 6,696,208
+
+254. Exploring the effectiveness of loop perforation for quality of service profiling
+Citations:2
+Authors: S Misailovíc
+Publication: Massachusetts Institute of Technology
+
+255. Self-defending software: Automatically patching security vulnerabilities
+Citations:2
+Authors: J Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)
+
+269. AutoRand: Automatic Keyword Randomization to Prevent Injection Attacks
+Citations:1
+Authors: J Perkins, J Eikenberry, A Coglio, D Willenson, S Sidiroglou-Douskos, ...
+Publication: International Conference on Detection of Intrusions and Malware, and …
+
+270. Vulnerabilities in bytecode removed by analysis, nuanced confinement and diversification (VIBRANCE)
+Citations:1
+Authors: A Coglio, M Becker, S Fitzpatrick, L Gilham, C Green, E McCarthy, ...
+Publication: KESTREL INST PALO ALTO CA
+
+274. Efficient resolution of security-sensitive values in Android using abstract interpretation
+Citations:1
+Authors: D Petters
+Publication: Massachusetts Institute of Technology
+
+277. Automatically identifying critical behaviors in programs
+Citations:1
+Authors: MMJ Carbin
+Publication: Massachusetts Institute of Technology
+
+280. Quantifier-free Boolean algebra with Presburger arithmetic is NP-complete
+Citations:1
+Authors: V Kuncak
+Publication: 
+
+290. Extending the Java language for the prevention of data races
+Citations:1
+Authors: RH Lee
+Publication: Massachusetts Institute of Technology
+
+293. A Parameterized Type System for Race-Free Java Programs
+Citations:1
+Authors: CBM Rinard, C Boyapati
+Publication: OOPSLA
+
+295. Texas Instruments DSP Dynamic Run-Time Loader
+Citations:1
+Authors: MM Tao
+Publication: Massachusetts Institute of Technology
+
+320. Dagstuhl Reports, Vol. 1, Issue 2 ISSN 2192-5283
+Citations:
+Authors: S Fischer-Hübner, C Hoofnagle, K Rannenberg, M Waidner, I Krontiris, ...
+Publication: 
+
+324. Verification of full functional correctness for imperative linked data structures
+Citations:
+Authors: KK Zee
+Publication: Massachusetts Institute of Technology
+
+337. An empirical study of a novel technique: rationed-memory compiling
+Citations:
+Authors: IT Leu
+Publication: Massachusetts Institute of Technology
+
+341. Enhancing availability and security through boundless memory blocks
+Citations:
+Authors: C Cadar
+Publication: Massachusetts Institute of Technology
+
+342. Failure detection and repair of threads in CTAS
+Citations:
+Authors: F Jahanmir
+Publication: Massachusetts Institute of Technology
+
+343. STS. 310 History of Science, Fall 2003
+Citations:
+Authors: D Kaiser
+Publication: 
+
+345. Ownership Types for Safe Programming: Preventing Data Races and Deadlocks
+Citations:
+Authors: CBRLM Rinard
+Publication: OOPSLA 2002: 17th ACM Conference on Object-Oriented Programming Systems …
+
+347. 8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002
+Citations:
+Authors: JW Belcher, P Dourmashkin
+Publication: 
+
+355. An optimizing C compiler for DSP architectures
+Citations:
+Authors: JH Lin
+Publication: Massachusetts Institute of Technology
+
+356. Incorporating MIDAS Routines into PDP-6 LISP
+Citations:
+Authors: R Silver
+Publication: 
+
+358. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+359. CSAIL Digital Archive Research and Teaching Output of the MIT Community
+Citations:
+Authors: MF Cusumano-Towner, FA Saad, A Lew, VK Mansinghka, K Kawaguchi, ...
+Publication: 
+
+360. Computer Science and Artificial Intelligence Lab (CSAIL) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+361. CSAIL Technical Reports (July 1, 2003-present) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+366. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+367. CSAIL Work Products Research and Teaching Output of the MIT Community
+Citations:
+Authors: JD Eisenberg, MA Finlayson, MA Finlayson, Z Qi, F Long, S Achour, ...
+Publication: 
+
+370. Verifying Complex Properties using Symbolic Shape Analysis
+Citations:
+Authors: VKKZM Rinard
+Publication: 
+
+372. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: YS Lee, MB Nardelli, N Marzari, SC Graves, HV Jagadish, BC Ooi, ...
+Publication: 
+
+379. Case Studies in Modeling and Analysis of Software
+Citations:
+Authors: C Cadar, G Dennis, N Doble, D Jackson, S Khurshid, R Lee, T Leu, ...
+Publication: 
+
+406. Algorithms & Applications
+Citations:
+Authors: G Bilardi, J Cuny, S Das, F Dehne, I Glendinning, A Grama, J Reif, ...
+Publication: 
+
+407. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: J Kim, SB Gershwin, HP Too, WKY Fung, J Misra, I Alevizos, J Bullen, ...
+Publication: 

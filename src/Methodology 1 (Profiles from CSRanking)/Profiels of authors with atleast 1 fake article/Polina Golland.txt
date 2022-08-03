@@ -1,0 +1,275 @@
+
+1. CellProfiler: image analysis software for identifying and quantifying cell phenotypes
+Citations:2990
+Authors: AE Carpenter, TR Jones, MR Lamprecht, C Clarke, IH Kang, O Friman, ...
+Publication: Genome biology 7 (10), R100
+
+2. The multimodal brain tumor image segmentation benchmark (BRATS)
+Citations:1103
+Authors: BH Menze, A Jakab, S Bauer, J Kalpathy-Cramer, K Farahani, J Kirby, ...
+Publication: IEEE transactions on medical imaging 34 (10), 1993-2024
+
+4. Automated segmentation of hippocampal subfields from ultra‐high resolution in vivo MRI
+Citations:341
+Authors: K Van Leemput, A Bakkour, T Benner, G Wiggins, LL Wald, J Augustinack, ...
+Publication: Hippocampus 19 (6), 549-557
+
+5. CellProfiler Analyst: data exploration and analysis software for complex image-based screens
+Citations:327
+Authors: TR Jones, IH Kang, DB Wheeler, RA Lindquist, A Papallo, DM Sabatini, ...
+Publication: BMC bioinformatics 9 (1), 482
+
+6. Scoring diverse cellular morphologies in image-based screens with iterative feedback and machine learning
+Citations:314
+Authors: TR Jones, AE Carpenter, MR Lamprecht, J Moffat, SJ Silver, JK Grenier, ...
+Publication: Proceedings of the National Academy of Sciences 106 (6), 1826-1831
+
+20. Cortical surface shape analysis based on spherical wavelets
+Citations:107
+Authors: P Yu, PE Grant, Y Qi, X Han, F Ségonne, R Pienaar, E Busa, J Pacheco, ...
+Publication: IEEE transactions on medical imaging 26 (4), 582-597
+
+23. An image analysis toolbox for high-throughput C. elegans assays
+Citations:100
+Authors: C Wählby, L Kamentsky, ZH Liu, T Riklin-Raviv, AL Conery, EJ O'rourke, ...
+Publication: Nature methods 9 (7), 714
+
+38. Learning task-optimal registration cost functions for localizing cytoarchitecture and function in the cerebral cortex
+Citations:57
+Authors: BTT Yeo, MR Sabuncu, T Vercauteren, DJ Holt, K Amunts, K Zilles, ...
+Publication: IEEE transactions on medical imaging 29 (7), 1424-1441
+
+46. A generative approach for image-based modeling of tumor growth
+Citations:46
+Authors: BH Menze, K Van Leemput, A Honkela, E Konukoglu, MA Weber, ...
+Publication: Biennial International Conference on Information Processing in Medical …
+
+47. Multimodal functional imaging using fMRI-informed regional EEG/MEG source estimation
+Citations:43
+Authors: W Ou, A Nummenmaa, J Ahveninen, JW Belliveau, MS Hämäläinen, ...
+Publication: Neuroimage 52 (1), 97-108
+
+52. A generative probabilistic model and discriminative extensions for brain lesion segmentation—with application to tumor and stroke
+Citations:40
+Authors: BH Menze, K Van Leemput, D Lashkari, T Riklin-Raviv, E Geremia, ...
+Publication: IEEE transactions on medical imaging 35 (4), 933-946
+
+62. Model-based segmentation of hippocampal subfields in ultra-high resolution in vivo MRI
+Citations:29
+Authors: K Van Leemput, A Bakkour, T Benner, G Wiggins, LL Wald, J Augustinack, ...
+Publication: International Conference on Medical Image Computing and Computer-Assisted …
+
+70. In vivo quantification of placental insufficiency by BOLD MRI: a human study
+Citations:21
+Authors: J Luo, EA Turk, C Bibbo, B Gagoski, DJ Roberts, M Vangel, ...
+Publication: Scientific reports 7 (1), 3713
+
+75. Quantification and analysis of large multimodal clinical image studies: Application to stroke
+Citations:18
+Authors: R Sridharan, AV Dalca, KM Fitzpatrick, L Cloonan, A Kanakis, O Wu, ...
+Publication: International Workshop on Multimodal Brain Image Analysis, 18-30
+
+82. Segmentation of cerebrovascular pathologies in stroke patients with spatial and shape priors
+Citations:16
+Authors: AV Dalca, R Sridharan, L Cloonan, KM Fitzpatrick, A Kanakis, KL Furie, ...
+Publication: International Conference on Medical Image Computing and Computer-Assisted …
+
+85. Plastimatch 1.6-current capabilities and future directions
+Citations:16
+Authors: JA Shackleford, N Shusharina, J Verberg, G Warmerdam, B Winey, ...
+Publication: MICCAI, First International Workshop on Image-Guidance and Multimodal Dose …
+
+89. Mü ller
+Citations:15
+Authors: X Liu, M Bimerew, Y Ma
+Publication: H., Ovadis, M., Eberl, L., Berg, G. & Chernin, L, 299-305
+
+106. Prediction of successful memory encoding from fMRI data
+Citations:12
+Authors: SK Balci, MR Sabuncu, J Yoo, SS Ghosh, S Whitfield-Gabrieli, ...
+Publication: Medical image computing and computer-assisted intervention: MICCAI …
+
+109. Joint segmentation via patient-specific latent anatomy model
+Citations:11
+Authors: TR Raviv, B Menze, K Van Leemput, B Stieltjes, MA Weber, N Ayache, ...
+Publication: Proceedings of the MICCAI 2009 Workshop on Probabilistic Models for Medical …
+
+115. Non-rigid registration of 3D ultrasound for neurosurgery using automatic feature detection and matching
+Citations:9
+Authors: I Machado, M Toews, J Luo, P Unadkat, W Essayed, E George, P Teodoro, ...
+Publication: International journal of computer assisted radiology and surgery 13 (10 …
+
+123. Spatiotemporal alignment of in utero BOLD‐MRI series
+Citations:7
+Authors: EA Turk, J Luo, B Gagoski, J Pascau, C Bibbo, JN Robinson, PE Grant, ...
+Publication: Journal of Magnetic Resonance Imaging 46 (2), 403-412
+
+137. Design and rationale for examining neuroimaging genetics in ischemic stroke: The MRI-GENIE study
+Citations:5
+Authors: AK Giese, MD Schirmer, KL Donahue, L Cloonan, R Irie, S Winzeck, ...
+Publication: Neurology Genetics 3 (5), e180
+
+140. Deformation analysis for shaped based classification, information processing in medical imaging
+Citations:5
+Authors: G Polina
+Publication: Proceedings of IPMI: international conference on information processing and …
+
+150. A feature-driven active framework for ultrasound-based brain shift compensation
+Citations:3
+Authors: J Luo, M Toews, I Machado, S Frisken, M Zhang, F Preiswerk, A Sedghi, ...
+Publication: International Conference on Medical Image Computing and Computer-Assisted …
+
+154. Detecting epileptic regions based on global brain connectivity patterns
+Citations:3
+Authors: A Sweet, A Venkataraman, SM Stufflebeam, H Liu, N Tanaka, J Madsen, ...
+Publication: International Conference on Medical Image Computing and Computer-Assisted …
+
+158. Iterative segmentation from limited training data: Applications to congenital heart disease
+Citations:2
+Authors: DF Pace, AV Dalca, T Brosch, T Geva, AJ Powell, J Weese, MH Moghari, ...
+Publication: Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical …
+
+159. Deformable mri-ultrasound registration via attribute matching and mutual-saliency weighting for image-guided neurosurgery
+Citations:2
+Authors: I Machado, M Toews, J Luo, P Unadkat, W Essayed, E George, P Teodoro, ...
+Publication: Simulation, Image Processing, and Ultrasound Systems for Assisted Diagnosis …
+
+162. Fully automated pipeline for white matter hyperintensity segmentation using clinical scans in patients with acute ischemic stroke (S19. 001)
+Citations:2
+Authors: MD Schirmer, AV Dalca, R Sridharan, AK Giese, J Broderick, ...
+Publication: Neurology 88 (16 Supplement), S19. 001
+
+171. White matter hyperintensity quantification in large-scale clinical acute ischemic stroke cohorts–The MRI-GENIE study
+Citations:1
+Authors: MD Schirmer, AV Dalca, R Sridharan, AK Giese, KL Donahue, MJ Nardin, ...
+Publication: NeuroImage: Clinical, 101884
+
+172. Semi-supervised Learning for Quantification of Pulmonary Edema in Chest X-Ray Images
+Citations:1
+Authors: R Liao, J Rubin, G Lam, S Berkowitz, S Dalal, W Wells, S Horng, ...
+Publication: arXiv preprint arXiv:1902.10785
+
+173. Abstract WMP56: Genetics of Acute Ischemic Lesion Volume: the MRI-Genetics Interface Exploration (MRI-GENIE) Study
+Citations:1
+Authors: AK Giese, H Xu, MD Schirmer, KL Donahue, AV Dalca, BJ Gaynor, ...
+Publication: Stroke 49 (Suppl_1), AWMP56-AWMP56
+
+180. Deformable MRI-Ultrasound registration using correlation-based attribute matching for brain shift correction: Accuracy and generality in multi-site data
+Citations:
+Authors: I Machado, M Toews, E George, P Unadkat, W Essayed, J Luo, P Teodoro, ...
+Publication: NeuroImage, 116094
+
+188. Effective reserve: a latent variable to improve outcome prediction in stroke
+Citations:
+Authors: MD Schirmer, MR Etherton, AV Dalca, AK Giese, L Cloonan, O Wu, ...
+Publication: Journal of Stroke and Cerebrovascular Diseases 28 (1), 63-69
+
+189. On the Ambiguity of Registration Uncertainty
+Citations:
+Authors: J Luo, S Frisken, K Popuri, D Cobzas, F Preiswerk, M Toews, M Zhang, ...
+Publication: arXiv preprint arXiv:1803.05266
+
+190. White matter hyperintensity segmentation in large scale clinical acute ischemic stroke cohort using a fully automated pipeline
+Citations:
+Authors: MD Schirmer, AV Dalca, R Sridharan, AK Giese, J Broderick, ...
+Publication: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 37, 267-268
+
+191. Genetic variant in VCAM1 mediates acute infarct size in ischemic stroke patients
+Citations:
+Authors: AK Giese, P Musolino, H Xu, K Ryan, MD Schirmer, AV Dalca, JW Cole, ...
+Publication: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 37, 99-100
+
+192. Investigation of effective reserve as a protective mechanism for stroke outcome
+Citations:
+Authors: MD Schirmer, MR Etherton, AV Dalca, AK Giese, L Cloonan, O Wu, ...
+Publication: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 37, 270-270
+
+193. Abstract 136
+Citations:
+Authors: AK Giese, H Xu, K Ryan, M Schirmer, A Dalca, T Dave, J Cole, P McArdle, ...
+Publication: Stroke 48 (Suppl_1)
+
+194. Abstract TMP58
+Citations:
+Authors: AK Giese, M Schirmer, A Dalca, R Sridharan, L Cloonan, H Xu, J Cole, ...
+Publication: Stroke 48 (Suppl_1)
+
+196. Abstract WP204
+Citations:
+Authors: AK Giese, P Musolino, H Xu, K Ryan, M Schirmer, A Dalca, J Cole, ...
+Publication: Stroke 48 (Suppl_1)
+
+197. Abstract WP205: Pipeline for Automated White Matter Hyperintensity Segmentation in Patients With Acute Ischemic Stroke: The MRI-GENIE Study
+Citations:
+Authors: MD Schirmer, AV Dalca, R Sridharan, AK Giese, JP Broderick, ...
+Publication: Stroke 48 (suppl_1), AWP205-AWP205
+
+198. Abstract WP204: Genetic Variant in VCAM1 Mediates Acute Infarct Size in Ischemic Stroke Patients
+Citations:
+Authors: AK Giese, P Musolino, H Xu, K Ryan, MD Schirmer, AV Dalca, JW Cole, ...
+Publication: Stroke 48 (suppl_1), AWP204-AWP204
+
+199. Genetics of White Matter Hyperintensity Burden in Patients With Ischemic Stroke: The MRI-GENIE Study
+Citations:
+Authors: AK Giese, H Xu, K Ryan, MD Schirmer, AV Dalca, T Dave, JW Cole, ...
+Publication: Stroke 48 (suppl_1), A136-A136
+
+200. Abstract TMP58: Determinants of White Matter Hyperintensity in Acute Ischemic Stroke Patients: The MRI-GENIE Study
+Citations:
+Authors: AK Giese, MD Schirmer, AV Dalca, R Sridharan, L Cloonan, H Xu, ...
+Publication: Stroke 48 (suppl_1), ATMP58-ATMP58
+
+201. Abstract WP218: Brain Reserve: A Protective Mechanism for Stroke Outcome
+Citations:
+Authors: MD Schirmer, MR Etherton, AV Dalca, AK Giese, L Cloonan, O Wu, ...
+Publication: Stroke 48 (suppl_1), AWP218-AWP218
+
+208. Generative-discriminative low rank decomposition for medical imaging applications
+Citations:
+Authors: NK Batmanghelich
+Publication: 
+
+228. Design and rationale for examining neuroimaging genetics in ischemic stroke
+Citations:
+Authors: AK Giese
+Publication: 
+
+229. Image Similarity and Tissue Overlaps as Surrogates for Image Registration Accuracy: Widely Used but Unreliable
+Citations:
+Authors: T Rohlfing
+Publication: 
+
+233. DM Geraldes, NT Vo, R. Atwood, C. Reinhard, IC Campbell, Y. Raji, J. Albon, RL Abel, and CR Ethier 988 Contextual Atlas Regression Forests: Multiple-Atlas-Based Automated Dose …
+Citations:
+Authors: T Riklin-Raviv, E Geremia, E Alberts, P Gruber, S Wegener, MA Weber, ...
+Publication: 
+
+236. Two-Dimensional Intraventricular Flow Mapping by Digital Processing Conventional Color-Doppler Echocardiography
+Citations:
+Authors: D Tanné, R Yotti, C Cortina, E Bertrand, JC Antoranz, E Pérez-David, ...
+Publication: 
+
+239. PRNI 2011 Conference Committee
+Citations:
+Authors: SW Lee, C Davatzikos, D Van De Ville, J Richiardi, J Mourão-Miranda, ...
+Publication: 
+
+240. PRNI 2015
+Citations:
+Authors: A Abdulkadir, R Abugharbieh, A Altmann, J Ashburner, P Avesani, ...
+Publication: 
+
+245. PRNI 2011 Referees
+Citations:
+Authors: R Abugharbieh, T Adali, J Ashburner, B Blankertz, M Brammer, V Calhoun, ...
+Publication: 
+
+250. Neuroimaging and Neurosurgery
+Citations:
+Authors: KW Finnis, YP Starreveld, AG Parrent, TM Peters, MR Kaus, A Nabavi, ...
+Publication: 
+
+255. IEEE TRANSACTIONS ONPATTERN ANALYSIS AND MACHINE INTELLIGENCE S
+Citations:
+Authors: C BISHOP, A BLAKE, D FLEET, Z GHAHRAMANI, E GRIMSON, ...
+Publication: 

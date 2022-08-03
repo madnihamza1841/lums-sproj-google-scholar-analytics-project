@@ -1,0 +1,1233 @@
+https://scholar.google.com/citations?hl=en&user=d_rxnzAAAAAJ
+Total Citations = 12035
+
+1. Network traffic characteristics of data centers in the wild
+Citations:1679
+Authors: T Benson, A Akella, DA Maltz
+Publication: Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 267-280
+
+2. Understanding data center traffic characteristics
+Citations:668
+Authors: T Benson, A Anand, A Akella, M Zhang
+Publication: Proceedings of the 1st ACM workshop on Research on enterprise networking, 65-72
+
+3. Self-management in chaotic wireless deployments
+Citations:548
+Authors: A Akella, G Judd, S Seshan, P Steenkiste
+Publication: Wireless Networks 13 (6), 737-755
+
+4. SANE: A Protection Architecture for Enterprise Networks.
+Citations:547
+Authors: M Casado, T Garfinkel, A Akella, MJ Freedman, D Boneh, N McKeown, ...
+Publication: USENIX Security Symposium 49, 50
+
+5. MicroTE: Fine grained traffic engineering for data centers
+Citations:468
+Authors: T Benson, A Anand, A Akella, M Zhang
+Publication: Proceedings of the Seventh COnference on emerging Networking EXperiments and …
+
+6. OpenNF: Enabling innovation in network function control
+Citations:430
+Authors: A Gember-Jacobson, R Viswanathan, C Prakash, R Grandl, J Khalid, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 163-174
+
+7. Developing a predictive model of quality of experience for internet video
+Citations:370
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 339-350
+
+8. An empirical evaluation of wide-area internet bottlenecks
+Citations:317
+Authors: A Akella, S Seshan, A Shaikh
+Publication: Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, 101-114
+
+9. A measurement-based analysis of multihoming
+Citations:317
+Authors: A Akella, B Maggs, S Seshan, A Shaikh, R Sitaraman
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+10. Packet caches on routers: the implications of universal redundant traffic elimination
+Citations:271
+Authors: A Anand, A Gupta, A Akella, S Seshan, S Shenker
+Publication: ACM SIGCOMM Computer Communication Review 38 (4), 219-230
+
+11. Multi-resource packing for cluster schedulers
+Citations:258
+Authors: R Grandl, G Ananthanarayanan, S Kandula, S Rao, A Akella
+Publication: ACM SIGCOMM Computer Communication Review 44 (4), 455-466
+
+12. Redundancy in network traffic: findings and implications
+Citations:247
+Authors: A Anand, C Muthukrishnan, A Akella, R Ramjee
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 37-48
+
+13. CloudNaaS: a cloud networking platform for enterprise applications
+Citations:242
+Authors: T Benson, A Akella, A Shaikh, S Sahu
+Publication: Proceedings of the 2nd ACM Symposium on Cloud Computing, 8
+
+14. SmartRE: an architecture for coordinated network-wide redundancy elimination
+Citations:238
+Authors: A Anand, V Sekar, A Akella
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 87-98
+
+15. Selfish behavior and stability of the internet:: a game-theoretic analysis of TCP
+Citations:217
+Authors: A Akella, S Seshan, R Karp, S Shenker, C Papadimitriou
+Publication: ACM SIGCOMM Computer Communication Review 32 (4), 117-130
+
+16. Stratos: A network-aware orchestration layer for virtual middleboxes in clouds
+Citations:210
+Authors: A Gember, A Krishnamurthy, SS John, R Grandl, X Gao, A Anand, ...
+Publication: arXiv preprint arXiv:1305.0209
+
+17. A comparison of overlay routing and multihoming route control
+Citations:208
+Authors: A Akella, J Pang, B Maggs, S Seshan, A Shaikh
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 93-106
+
+18. {XIA}: Efficient Support for Evolvable Internetworking
+Citations:186
+Authors: D Han, A Anand, F Dogar, B Li, H Lim, M Machado, A Mukundan, W Wu, ...
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+19. Unraveling the Complexity of Network Management.
+Citations:185
+Authors: T Benson, A Akella, DA Maltz
+Publication: NSDI, 335-348
+
+20. Low latency geo-distributed data analytics
+Citations:179
+Authors: Q Pu, G Ananthanarayanan, P Bodik, S Kandula, A Akella, P Bahl, I Stoica
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 421-434
+
+21. Endre: An end-system redundancy elimination service for enterprises.
+Citations:164
+Authors: B Agarwal, A Akella, A Anand, A Balachandran, P Chitnis, ...
+Publication: NSDI, 419-432
+
+22. Presto: Edge-based load balancing for fast datacenter networks
+Citations:148
+Authors: K He, E Rozner, K Agarwal, W Felter, J Carter, A Akella
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 465-478
+
+23. XIA: An architecture for an evolvable and trustworthy Internet
+Citations:145
+Authors: A Anand, F Dogar, D Han, B Li, H Lim, M Machado, W Wu, A Akella, ...
+Publication: Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 2
+
+24. Toward software-defined middlebox networking
+Citations:135
+Authors: A Gember, P Prabhu, Z Ghadiyali, A Akella
+Publication: Proceedings of the 11th ACM Workshop on Hot Topics in Networks, 7-12
+
+25. A quest for an internet video quality-of-experience metric
+Citations:131
+Authors: A Balachandran, V Sekar, A Akella, S Seshan, I Stoica, H Zhang
+Publication: Proceedings of the 11th ACM workshop on hot topics in networks, 97-102
+
+26. A comparative study of handheld and non-handheld traffic in campus Wi-Fi networks
+Citations:131
+Authors: A Gember, A Anand, A Akella
+Publication: International Conference on Passive and Active Network Measurement, 173-183
+
+27. Extensible and Scalable Network Monitoring Using OpenSAFE.
+Citations:127
+Authors: JR Ballard, I Rae, A Akella
+Publication: Inm/wren
+
+28. Pga: Using graphs to express and automatically reconcile network policies
+Citations:123
+Authors: C Prakash, J Lee, Y Turner, JM Kang, A Akella, S Banerjee, C Clark, Y Ma, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 29-42
+
+29. On the treeness of internet latency and bandwidth
+Citations:96
+Authors: V Ramasubramanian, D Malkhi, F Kuhn, M Balakrishnan, A Gupta, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (1), 61-72
+
+30. On the responsiveness of DNS-based network control
+Citations:96
+Authors: J Pang, A Akella, A Shaikh, B Krishnamurthy, S Seshan
+Publication: Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, 21-26
+
+31. Cheap and Large CAMs for High Performance Data-Intensive Networked Systems.
+Citations:95
+Authors: A Anand, C Muthukrishnan, S Kappes, A Akella, S Nath
+Publication: NSDI 10, 29-29
+
+32. Cooperative interdomain traffic engineering using nash bargaining and decomposition
+Citations:93
+Authors: G Shrimali, A Akella, A Mutapcic
+Publication: IEEE/ACM Transactions on Networking 18 (2), 341-352
+
+33. Measuring control plane latency in SDN-enabled switches
+Citations:92
+Authors: K He, J Khalid, A Gember-Jacobson, S Das, C Prakash, A Akella, LE Li, ...
+Publication: Proceedings of the 1st ACM SIGCOMM Symposium on Software Defined Networking …
+
+34. Traffic-aware channel assignment in enterprise wireless LANs
+Citations:88
+Authors: E Rozner, Y Mehta, A Akella, L Qiu
+Publication: 2007 IEEE international conference on network protocols, 133-143
+
+35. Analyzing the potential benefits of cdn augmentation strategies for internet video workloads
+Citations:87
+Authors: A Balachandran, V Sekar, A Akella, S Seshan
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 43-56
+
+36. Availability, usage, and deployment characteristics of the domain name system
+Citations:83
+Authors: J Pang, J Hendricks, A Akella, R De Prisco, B Maggs, S Seshan
+Publication: Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, 1-14
+
+37. Next stop, the cloud: Understanding modern web service deployment in ec2 and azure
+Citations:82
+Authors: K He, A Fisher, L Wang, A Gember, A Akella, T Ristenpart
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 177-190
+
+38. Multihoming Performance Benefits: An Experimental Evaluation of Practical Enterprise Strategies.
+Citations:77
+Authors: A Akella, S Seshan, A Shaikh
+Publication: USENIX Annual Technical Conference, General Track, 113-126
+
+39. Stratos: Virtual middleboxes as first-class entities
+Citations:76
+Authors: A Gember, A Akella, A Anand, T Benson, R Grandl
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+40. Altruistic scheduling in multi-resource clusters
+Citations:74
+Authors: R Grandl, M Chowdhury, A Akella, G Ananthanarayanan
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+41. Obtaining in-context measurements of cellular network performance
+Citations:72
+Authors: A Gember, A Akella, J Pang, A Varshavsky, R Caceres
+Publication: Proceedings of the 2012 Internet Measurement Conference, 287-300
+
+42. AC/DC TCP: Virtual congestion control enforcement for datacenter networks
+Citations:69
+Authors: K He, E Rozner, K Agarwal, YJ Gu, W Felter, J Carter, A Akella
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 244-257
+
+43. {CLARINET}: WAN-Aware Optimization for Analytics Queries
+Citations:69
+Authors: R Viswanathan, G Ananthanarayanan, A Akella
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+44. Detecting DDoS attacks on ISP networks
+Citations:64
+Authors: A Akella, A Bharambe, M Reiter, S Seshan
+Publication: Proceedings of the Twenty-Second ACM SIGMOD/PODS Workshop on Management and …
+
+45. {GRAPHENE}: Packing and dependency-aware scheduling for data-parallel clusters
+Citations:63
+Authors: R Grandl, S Kandula, S Rao, A Akella, J Kulkarni
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+46. The evolution of network configuration: a tale of two campuses
+Citations:63
+Authors: H Kim, T Benson, A Akella, N Feamster
+Publication: Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement …
+
+47. The Case for Fine-Grained Traffic Engineering in Data Centers.
+Citations:63
+Authors: T Benson, A Anand, A Akella, M Zhang
+Publication: INM/WREN 10
+
+48. On the performance benefits of multihoming route control
+Citations:59
+Authors: A Akella, B Maggs, S Seshan, A Shaikh
+Publication: IEEE/ACM Transactions on Networking 16 (1), 91-104
+
+49. Paving the Way for {NFV}: Simplifying Middlebox Modifications Using StateAlyzr
+Citations:50
+Authors: J Khalid, A Gember-Jacobson, R Michael, A Abhashkumar, A Akella
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+50. XIA: architecting a more trustworthy and evolvable internet
+Citations:46
+Authors: D Naylor, MK Mukerjee, P Agyapong, R Grandl, R Kang, M Machado, ...
+Publication: ACM SIGCOMM Computer Communication Review 44 (3), 50-57
+
+51. Fast control plane analysis using an abstract representation
+Citations:45
+Authors: A Gember-Jacobson, R Viswanathan, A Akella, R Mahajan
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 300-313
+
+52. A First Look at Problems in the Cloud.
+Citations:45
+Authors: T Benson, S Sahu, A Akella, A Shaikh
+Publication: HotCloud 10, 15
+
+53. Seeing through network-protocol obfuscation
+Citations:43
+Authors: L Wang, KP Dyer, A Akella, T Ristenpart, T Shrimpton
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+54. Demystifying configuration challenges and trade-offs in network-based isp services
+Citations:42
+Authors: T Benson, A Akella, A Shaikh
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 302-313
+
+55. Improving the safety, scalability, and efficiency of network function state transfers
+Citations:37
+Authors: A Gember-Jacobson, A Akella
+Publication: Proceedings of the 2015 ACM SIGCOMM Workshop on Hot Topics in Middleboxes …
+
+56. The impact of false sharing on shared congestion management
+Citations:37
+Authors: A Akella, S Seshan, H Balakrishnan
+Publication: 11th IEEE International Conference on Network Protocols, 2003. Proceedings …
+
+57. A highly available software defined fabric
+Citations:36
+Authors: A Akella, A Krishnamurthy
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 21
+
+58. ECOS: Leveraging software-defined networks to support mobile application offloading
+Citations:36
+Authors: A Gember, C Dragga, A Akella
+Publication: 2012 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+59. Scaling properties of the Internet graph
+Citations:36
+Authors: A Akella, S Chawla, A Kannan, S Seshan
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+60. Design and implementation of a framework for software-defined middlebox networking
+Citations:33
+Authors: A Gember, R Grandl, J Khalid, SH Shen, A Akella
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+61. REfactor-ing content overhearing to improve wireless performance
+Citations:32
+Authors: SH Shen, A Gember, A Anand, A Akella
+Publication: Proceedings of the 17th annual international conference on Mobile computing …
+
+62. Mining policies from enterprise network configuration
+Citations:32
+Authors: T Benson, A Akella, DA Maltz
+Publication: Proceedings of the 9th ACM SIGCOMM conference on Internet measurement, 136-142
+
+63. An empirical study of malware evolution
+Citations:32
+Authors: A Gupta, P Kuppili, A Akella, P Barford
+Publication: 2009 First International Communication Systems and Networks and Workshops, 1-10
+
+64. Latency in software defined networks: Measurements and mitigation techniques
+Citations:30
+Authors: K He, J Khalid, S Das, A Gember-Jacobson, C Prakash, A Akella, LE Li, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 43 (1), 435-436
+
+65. Efficiently delivering online services over integrated infrastructure
+Citations:29
+Authors: HH Liu, R Viswanathan, M Calder, A Akella, R Mahajan, J Padhye, ...
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+66. Aster* x: Load-balancing web traffic over wide-area networks
+Citations:29
+Authors: N Handigol, S Seetharaman, M Flajslik, A Gember, N McKeown, ...
+Publication: Proceedings of GENI Engineering Conf 9
+
+67. Flow-cookies: Using bandwidth amplification to defend against DDoS flooding attacks
+Citations:29
+Authors: M Casado, P Cao, A Akella, N Provos
+Publication: 200614th IEEE International Workshop on Quality of Service, 286-287
+
+68. Virtual network diagnosis as a service
+Citations:28
+Authors: W Wu, G Wang, A Akella, A Shaikh
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 9
+
+69. Rethinking security in the era of cloud computing
+Citations:27
+Authors: J Aikat, A Akella, JS Chase, A Juels, M Reiter, T Ristenpart, V Sekar, ...
+Publication: IEEE Security & Privacy
+
+70. An information-aware QoE-centric mobile video cache
+Citations:27
+Authors: SH Shen, A Akella
+Publication: Proceedings of the 19th annual international conference on Mobile computing …
+
+71. On the effectiveness of IP reputation for spam filtering
+Citations:27
+Authors: H Esquivel, A Akella, T Mori
+Publication: 2010 Second International Conference on COMmunication Systems and NETworks …
+
+72. Achieving good end-to-end service using Bill-Pay
+Citations:27
+Authors: C Estan, A Akella, S Banerjee
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+73. {RPT}: Re-architecting Loss Protection for Content-Aware Networks
+Citations:26
+Authors: D Han, A Anand, A Akella, S Seshan
+Publication: Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …
+
+74. FCP: a flexible transport framework for accommodating diversity
+Citations:25
+Authors: D Han, R Grandl, A Akella, S Seshan
+Publication: ACM SIGCOMM Computer Communication Review 43 (4), 135-146
+
+75. Avoiding file system micromanagement with range writes
+Citations:25
+Authors: A Anand, S Sen, A Krioukov, F Popovici, A Akella, A Arpaci-Dusseau, ...
+Publication: Proceedings of the 8th USENIX conference on Operating systems design and …
+
+76. Whowas: A platform for measuring web deployments on iaas clouds
+Citations:22
+Authors: L Wang, A Nappa, J Caballero, T Ristenpart, A Akella
+Publication: Proceedings of the 2014 Conference on Internet Measurement Conference, 101-114
+
+77. Department
+Citations:21
+Authors: PP Gupta, A Akella, S Seshan, S Shenker, J Wang
+Publication: Darden College of Education, Old Dominion University
+
+78. Cookies Along Trust-Boundaries (CAT): Accurate and Deployable Flood Protection.
+Citations:21
+Authors: M Casado, A Akella, P Cao, N Provos, S Shenker
+Publication: SRUTI
+
+79. Perfsight: Performance diagnosis for software dataplanes
+Citations:20
+Authors: W Wu, K He, A Akella
+Publication: Proceedings of the 2015 Internet Measurement Conference, 409-421
+
+80. Router-level spam filtering using tcp fingerprints: Architecture and measurement-based evaluation
+Citations:20
+Authors: H Esquivel, T Mori, A Akella
+Publication: Proceedings of the Sixth Conference on Email and Anti-Spam (CEAS)
+
+81. Netreplay: a new network primitive
+Citations:18
+Authors: A Anand, A Akella
+Publication: ACM SIGMETRICS Performance Evaluation Review 37 (3), 14-19
+
+82. A unified network coordinate system for bandwidth and latency
+Citations:18
+Authors: V Ramasubramanian, D Malkhi, F Kuhn, I Abraham, M Balakrishnan, ...
+Publication: Microsoft Research, Tech. Rep. MSR-TR-2008-124
+
+83. Traffic-aware channel assignment in wireless LANs.
+Citations:18
+Authors: E Rozner, Y Mehta, A Akella, L Qiu
+Publication: Mobile Computing and Communications Review 11 (2), 43-44
+
+84. Genesis: synthesizing forwarding tables in multi-tenant networks
+Citations:17
+Authors: K Subramanian, L D'Antoni, A Akella
+Publication: ACM SIGPLAN Notices 52 (1), 572-585
+
+85. Mazu: Taming latency in software defined networks
+Citations:17
+Authors: K He, J Khalid, S Das, A Akella, EL Li, M Thottan
+Publication: 
+
+86. A case for information-bound referencing
+Citations:17
+Authors: A Anand, A Akella, V Sekar, S Seshan
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 4
+
+87. ECOS: Practical Mobile Application Offloading for Enterprises.
+Citations:16
+Authors: A Gember, C Dragga, A Akella
+Publication: Hot-ICE
+
+88. On the scaling of congestion in the internet graph
+Citations:16
+Authors: A Akella, S Chawla, A Kannan, S Seshan
+Publication: ACM SIGCOMM Computer Communication Review 34 (3), 43-56
+
+89. Remote Profiling of Resource Constraints of Web Servers Using Mini-Flash Crowds.
+Citations:15
+Authors: P Ramamurthy, V Sekar, A Akella, B Krishnamurthy, A Shaikh
+Publication: USENIX Annual Technical Conference, 185-198
+
+90. Traffic-aware channel assignment in enterprise wireless networks
+Citations:15
+Authors: E Rozner, Y Mehta, A Akella, L Qiu
+Publication: In Proc. of ICNP
+
+91. Management plane analytics
+Citations:13
+Authors: A Gember-Jacobson, W Wu, X Li, A Akella, R Mahajan
+Publication: Proceedings of the 2015 Internet Measurement Conference, 395-408
+
+92. Enhancing video accessibility and availability using information-bound references
+Citations:13
+Authors: A Anand, A Balachandran, A Akella, V Sekar, S Seshan
+Publication: IEEE/ACM Transactions on Networking 24 (2), 1223-1236
+
+93. A universal approach to data center network design
+Citations:13
+Authors: A Akella, T Benson, B Chandrasekaran, C Huang, B Maggs, D Maltz
+Publication: Proceedings of the 2015 International Conference on Distributed Computing …
+
+94. UNO: uniflying host and smart NIC offload for flexible packet processing
+Citations:12
+Authors: Y Le, H Chang, S Mukherjee, L Wang, A Akella, MM Swift, TV Lakshman
+Publication: Proceedings of the 2017 Symposium on Cloud Computing, 506-519
+
+95. Automatically repairing network control planes using an abstract representation
+Citations:11
+Authors: A Gember-Jacobson, A Akella, R Mahajan, HH Liu
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 359-373
+
+96. P5: Policy-driven optimization of p4 pipeline
+Citations:11
+Authors: A Abhashkumar, J Lee, J Tourrilhes, S Banerjee, W Wu, JM Kang, ...
+Publication: Proceedings of the Symposium on SDN Research, 136-142
+
+97. On the Complexity of the Policy Interation Algorithm for Stochastic Games
+Citations:11
+Authors: M Melekopoglou, A Condon
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+98. Supporting diverse dynamic intent-based policies using Janus
+Citations:10
+Authors: A Abhashkumar, JM Kang, S Banerjee, A Akella, Y Zhang, W Wu
+Publication: Proceedings of the 13th International Conference on emerging Networking …
+
+99. Streamnf: Performance and correctness for stateful chained nfs
+Citations:10
+Authors: J Khalid, A Akella
+Publication: CoRR
+
+100. Low latency analytics of geo-distributed data in the wide area
+Citations:10
+Authors: Q Pu, G Ananthanarayanan, P Bodik, S Kandula, A Akella, V Bahl, I Stoica
+Publication: Proc. of ACM SIGCOMM
+
+101. A network-assisted system for energy efficiency in mobile devices
+Citations:10
+Authors: J Hare, D Agrawal, A Mishra, S Banerjee, A Akella
+Publication: 2011 Third International Conference on Communication Systems and Networks …
+
+102. Iron: Isolating Network-based {CPU} in Container Environments
+Citations:9
+Authors: J Khalid, E Rozner, W Felter, C Xu, K Rajamani, A Ferreira, A Akella
+Publication: 15th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+103. Bootstrapping evolvability for inter-domain routing with D-BGP
+Citations:9
+Authors: RR Sambasivan, D Tran-Lam, A Akella, P Steenkiste
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+104. A standardized southbound API for VNF management
+Citations:9
+Authors: J Khalid, M Coatsworth, A Gember-Jacobson, A Akella
+Publication: Proceedings of the 2016 workshop on Hot topics in Middleboxes and Network …
+
+105. Harmony: Coordinating network, compute, and storage in software-defined clouds
+Citations:9
+Authors: R Grandl, Y Chen, J Khalid, S Yang, A Anand, T Benson, A Akella
+Publication: Proceedings of the 4th annual Symposium on Cloud Computing, 53
+
+106. Building cheap and large cams using bufferhash
+Citations:9
+Authors: A Anand, S Kappes, A Akella, S Nath
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+107. Improving the performance of SPDY for mobile devices
+Citations:8
+Authors: J Khalid, S Agarwal, A Akella, J Padhye
+Publication: HotMobile (Poster Session)
+
+108. Using strongly typed networking to architect for tussle
+Citations:8
+Authors: C Muthukrishnan, V Paxson, M Allman, A Akella
+Publication: Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 9
+
+109. Exploring congestion control
+Citations:8
+Authors: A Akella, S Seshan, S Shenker, I Stoica
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+110. Titan: Fair packet scheduling for commodity multiqueue NICs
+Citations:7
+Authors: B Stephens, A Singhvi, A Akella, M Swift
+Publication: 2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 431-444
+
+111. Bootstrapping evolvability for inter-domain routing
+Citations:7
+Authors: RR Sambasivan, D Tran-Lam, A Akella, P Steenkiste
+Publication: Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 12
+
+112. Experimenting with Next-Generation Cloud Architectures Using CloudLab.
+Citations:7
+Authors: A Akella
+Publication: IEEE Internet Computing 19 (5), 77-81
+
+113. Challenges in unifying control of middlebox traversals and functionality
+Citations:7
+Authors: A Gember, T Benson, A Akella
+Publication: Proceedings of Large-Scale Distributed Systems and Middleware (LADIS)
+
+114. Understanding large-scale spamming botnets from internet edge sites
+Citations:7
+Authors: T Mori, H Esquivel, A Akella, A Shimoda, S Goto
+Publication: Proceedings of the Conference on E-Mail and Anti-Spam (CEAS)(Redmond, WA
+
+115. RouteBazaar: An Economic Framework for Flexible Routing
+Citations:7
+Authors: H Esquivel, C Muthukrishnan, F Niu, S Chawla, A Akella
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+116. Toward representative Internet measurements
+Citations:7
+Authors: A Akella, S Seshan, A Shaikh
+Publication: Proc. New York Metro Area Networking Workshop (NYMAN)
+
+117. Granular computing and network intensive applications: Friends or foes?
+Citations:6
+Authors: A Singhvi, S Banerjee, Y Harchol, A Akella, M Peek, P Rydin
+Publication: Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 157-163
+
+118. Do the hard stuff first: Scheduling dependent computations in data-analytics clusters
+Citations:6
+Authors: R Grandl, S Kandula, S Rao, A Akella, J Kulkarni
+Publication: arXiv preprint arXiv:1604.07371
+
+119. DECOR: A distributed coordinated resource monitoring system
+Citations:6
+Authors: SH Shen, A Akella
+Publication: Proceedings of the 2012 IEEE 20th International Workshop on Quality of …
+
+120. Microte: The case for fine-grained traffic engineering in data centers
+Citations:6
+Authors: T Benson, A An, A Akella, M Zhang
+Publication: In ACM CoNEXT’11
+
+121. Peeking into the Cloud: Toward user-driven cloud management
+Citations:6
+Authors: T Benson, A Akella, S Sahu, A Shaikh
+Publication: 
+
+122. Bridging the GAP: towards approximate graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, S Venkataraman, M Chowdhury, A Akella, S Shenker, ...
+Publication: Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data …
+
+123. Monarch: gaining command on geo-distributed graph analytics
+Citations:5
+Authors: AP Iyer, A Panda, M Chowdhury, A Akella, S Shenker, I Stoica
+Publication: 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)
+
+124. Low latency software rate limiters for cloud networks
+Citations:5
+Authors: K He, W Qin, Q Zhang, W Wu, J Yang, T Pan, C Hu, J Zhang, B Stephens, ...
+Publication: Proceedings of the First Asia-Pacific Workshop on Networking, 78-84
+
+125. Dynamic prioritization of traffic in home networks
+Citations:5
+Authors: IN Bozkurt, Y Zhou, T Benson, B Anwer, D Levin, N Feamster, A Akella, ...
+Publication: Proc. CoNEXT Student Workshop, 1-3
+
+126. Understanding the world's worst spamming botnet
+Citations:5
+Authors: T Mori, H Esquivel, A Akella, A Shimoda, S Goto
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+127. Phoenix: A system for automatically reconfiguring networks
+Citations:5
+Authors: T Benson, A Akella, D Maltz
+Publication: Poster Session, USENIX Symposium on Networked Systems Design and …
+
+128. Using mini-flash crowds to infer resource constraints in remote web servers
+Citations:5
+Authors: P Ramamurthy, V Sekar, A Akella, B Krishnamurthy, A Shaikh
+Publication: Proceedings of the 2007 SIGCOMM workshop on Internet network management, 250-255
+
+129. A la carte: an economic framework for multi-isp service quality
+Citations:5
+Authors: C Estan, A Akella, S Banerjee
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+130. Loom: Flexible and Efficient {NIC} Packet Scheduling
+Citations:4
+Authors: B Stephens, A Akella, M Swift
+Publication: 16th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+131. Dynamic Query Re-Planning using {QOOP}
+Citations:4
+Authors: K Mahajan, M Chowdhury, A Akella, S Chawla
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+132. A call to arms for management plane analytics
+Citations:4
+Authors: A Akella, R Mahajan
+Publication: Proceedings of the 13th ACM Workshop on Hot Topics in Networks, 4
+
+133. XIA: An architecture for an evolvable and trustworthy Internet
+Citations:4
+Authors: A An, F Dogar, D Han, B Li, H Lim, M Machado, W Wu, A Akella, ...
+Publication: 
+
+134. EPIC: Platform-as-a-service model for cloud networking
+Citations:4
+Authors: TA Benson, A Akella, S Sahu, A Shaikh
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+135. Handheld vs. non-handheld traffic: Implications for campus wifi networks
+Citations:4
+Authors: A Gember, A Anand, A Akella
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+136. Signature matching in network processing using simd/gpu architectures
+Citations:4
+Authors: R Smith, N Goyal, J Ormont, K Sankaralingam, C Estan
+Publication: Int. Symp. on Performance Analysis of Systems and Software
+
+137. Realistic models for selfish routing in the Internet
+Citations:4
+Authors: A Akella, S Chawla, S Seshan
+Publication: Unpublished manuscript
+
+138. RoGUE: RDMA over Generic Unconverged Ethernet.
+Citations:3
+Authors: Y Le, B Stephens, A Singhvi, A Akella, MM Swift
+Publication: SoCC, 225-236
+
+139. Understanding internet video viewing behavior in the wild
+Citations:3
+Authors: A Balachandran, V Sekar, A Akella, S Seshan
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 379-380
+
+140. Flexible multimedia content retrieval using infonames
+Citations:3
+Authors: A Kumar, A Anand, A Akella, A Balachandran, V Sekar, S Seshan
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 455-456
+
+141. Mobile device offloading using enterprise network and cloud resources
+Citations:3
+Authors: A Gember, A Akella
+Publication: University of Wisconsin Madison
+
+142. A case for complexity models in network design and management
+Citations:3
+Authors: T Benson, A Akella, D Maltz
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+143. Endpoint-based routing strategies for improving internet performance and resilience
+Citations:3
+Authors: A Akella
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+144. Multi-modal network protocols: adapting to highly variable operating conditions
+Citations:3
+Authors: A Akella, A Bharambe, S Nath, S Seshan
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+145. Mechanisms for Internet routing: A study
+Citations:3
+Authors: A Akella, S Chawla, S Seshan
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+146. Multi-modal network protocols
+Citations:3
+Authors: RK Balan, A Akella, S Seshan
+Publication: ACM SIGCOMM Computer Communication Review 32 (1), 60-60
+
+147. Your programmable nic should be a programmable switch
+Citations:2
+Authors: B Stephens, A Akella, MM Swift
+Publication: Proceedings of the 17th ACM Workshop on Hot Topics in Networks, 36-42
+
+148. F2: Separating compute from data in cluster computing
+Citations:2
+Authors: R Grandl, A Singhvi, A Akella
+Publication: arXiv preprint arXiv:1703.10272
+
+149. Smart hierarchical cache using HTML5 storage APIs
+Citations:2
+Authors: A Anand, MH Reshadi, H Kolam, B Du, A Akella
+Publication: US Patent 9,531,829
+
+150. Network policy whiteboarding and composition
+Citations:2
+Authors: J Lee, JM Kang, C Prakash, S Banerjee, Y Turner, A Akella, C Clark, Y Ma, ...
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 373-374
+
+151. Adaptive data transmission in the cloud
+Citations:2
+Authors: W Wu, Y Chen, R Durairajan, D Kim, A Anand, A Akella
+Publication: 2013 IEEE/ACM 21st International Symposium on Quality of Service (IWQoS), 1-10
+
+152. Better internet routing through intrinsic support for selfishness
+Citations:2
+Authors: H Esquivel, C Muthukrishnan, A Akella, S Chawla
+Publication: 2012 Fourth International Conference on Communication Systems and Networks …
+
+153. Tracking semantic relationships for effective data management in home networks
+Citations:2
+Authors: A Anand, A Gember, A Akella, V Sekar
+Publication: Proceedings of the 2010 ACM SIGCOMM workshop on Home networks, 49-54
+
+154. Infonames: An information-based naming scheme for multimedia content
+Citations:2
+Authors: A Kumar, A Balachandran, V Sekar, A Akella, S Seshan
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+155. The influence of the Pharmacy Information System and Pharmacy and Therapeutics Committee on physician prescribing behavior in the Saudi Ministry of Health: A descriptive cross …
+Citations:2
+Authors: MA Alkelya
+Publication: The University of Wisconsin-Madison
+
+156. Standing on the Other Side of the Reference Desk
+Citations:2
+Authors: LR Barnett
+Publication: 
+
+157. Smurf: self-service string matching using random forests
+Citations:1
+Authors: A Ardalan, AH Doan, A Akella
+Publication: Proceedings of the VLDB Endowment 12 (3), 278-291
+
+158. Fast and flexible data analytics with f2
+Citations:1
+Authors: R Grandl, A Singhvi, A Akella
+Publication: arXiv preprint arXiv:1703.10272
+
+159. A case for application-managed cache for browser
+Citations:1
+Authors: A Anand, M Reshadi, B Du, H Kolam, S Jaiswal, A Akella
+Publication: 2015 IEEE International Conference on Multimedia and Expo (ICME), 1-6
+
+160. Design patterns for tunable and efficient SSD-based indexes
+Citations:1
+Authors: A Anand, A Gember-Jacobson, C Engstrom, A Akella
+Publication: Proceedings of the tenth ACM/IEEE symposium on Architectures for networking …
+
+161. Active Switching: Packet Steering Flow Annotations
+Citations:1
+Authors: SS John, A Akella
+Publication: arXiv preprint arXiv:1403.7115
+
+162. Virtual middelboxes as first-class entities in the cloud
+Citations:1
+Authors: A Gember, A Krishnamurthy, SS John, A Akella
+Publication: Proceedings of the Open Network Summit
+
+163. De-ossifying internet routing through intrinsic support for end-network and ISP selfishness
+Citations:1
+Authors: A Akella, S Chawla, H Esquivel, C Muthukrishnan
+Publication: Proceedings of the ACM SIGMETRICS joint international conference on …
+
+164. Cloudnaas: Acloud networkingplatformforenterpriseapplications
+Citations:1
+Authors: AA BensonT, SS ShaikhA
+Publication: Proceedings ofthe ACM Symposium on Cloud Computing. Cascais, Portugal 1, 13
+
+165. On the Treeness of Internet Latency and Bandwidth
+Citations:1
+Authors: D Malkhi, F Kuhn, M Balakrishnan, A Gupta, A Akella
+Publication: Proceedings of ACM SIGMETRICS Performance
+
+166. Friction stir welding of metal polymer composties
+Citations:1
+Authors: P Nelson
+Publication: 
+
+167. Design and construction of a second-generation hand-powered vehicle for the disabled
+Citations:1
+Authors: KR Ramsey
+Publication: 
+
+168. Liveness Verification of Stateful Networks
+Citations:1
+Authors: S Ghorbani, A Abhashkumar, K Subramanian, A Akella, A Albarghouthi, ...
+Publication: Under Submission
+
+169. On the Impact of Cluster Configuration on RoCE Application Design
+Citations:
+Authors: Y Le, B Stephens, A Akella, MM Swift
+Publication: Proceedings of the 3rd Asia-Pacific Workshop on Networking 2019, 64-70
+
+170. Themis: Fair and Efficient GPU Cluster Scheduling for Machine Learning Workloads
+Citations:
+Authors: K Mahajan, A Singhvi, A Balasubramanian, V Batra, ST Chavali, ...
+Publication: arXiv preprint arXiv:1907.01484
+
+171. Network-accelerated Distributed Machine Learning Using MLFabric
+Citations:
+Authors: R Viswanathan, A Akella
+Publication: arXiv preprint arXiv:1907.00434
+
+172. Tiramisu: Fast and General Network Verification
+Citations:
+Authors: A Abhashkumar, A Gember-Jacobson, A Akella
+Publication: arXiv preprint arXiv:1906.02043
+
+173. Proceedings of the ACM on Measurement and Analysis of Computing Systems Volume 3 Issue 1
+Citations:
+Authors: A Chaintreau, L Golubchik, ZL Zhang
+Publication: ACM 3 (1)
+
+174. The design and operation of cloudlab
+Citations:
+Authors: D Duplyakin, R Ricci, A Maricq, G Wong, J Duerig, E Eide, L Stoller, ...
+Publication: 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19), 1-14
+
+175. Accelerating Deep Learning Inference via Freezing
+Citations:
+Authors: A Kumar, A Balasubramanian, S Venkataraman, A Akella
+Publication: 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19)
+
+176. The student mentoring column
+Citations:
+Authors: A Akella
+Publication: ACM SIGCOMM Computer Communication Review 46 (3), 13
+
+177. Synthesis of Fault-Tolerant Distributed Router Configurations
+Citations:
+Authors: K Subramanian, L D'Antoni, A Akella
+Publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems 2 (1 …
+
+178. Efficiently Executing Random Forests over Tables to Build Hands-Off String Matching Services
+Citations:
+Authors: GC Paul Suganthan, A Ardalan, AH Doan, A Akella
+Publication: 
+
+179. F2: Reenvisioning Data Analytics Systems
+Citations:
+Authors: R Grandl, A Singhvi, R Viswanathan, A Akella
+Publication: arXiv preprint arXiv:1703.10272
+
+180. ACM SIGCOMM Student Mentoring Column: On Testbeds and Datasets
+Citations:
+Authors: A Akella
+Publication: ACM SIGCOMM Computer Communication Review 46 (2), 40-42
+
+181. StateAlyzr: Deep Diving into Middlebox State to Enable Distributed Processing
+Citations:
+Authors: J Khalid, A Gember-Jacobson, R Michael, A Abhashkumar, A Akella
+Publication: 
+
+182. ACM SIGCOMM Student Mentoring Column: On Program Committees and Social Networking at Conferences
+Citations:
+Authors: A Akella
+Publication: ACM SIGCOMM Computer Communication Review 46 (1), 70-72
+
+183. ACM SIGCOMM Student Mentoring Column: Various Student Questions
+Citations:
+Authors: A Akella
+Publication: ACM SIGCOMM Computer Communication Review 45 (5), 43-44
+
+184. MEASUREMENT AND MODELING OF THERMAL PROPERTIES OF COARSE-GRAINED SOILS
+Citations:
+Authors: J Yao
+Publication: 
+
+185. We will be migrating the MINDS@ UW platform to a new server on Monday, May 23, beginning at approximately 9: 00 AM. You may experience intermittent interruptions in service …
+Citations:
+Authors: A Gember, A Akella, A Anand, T Benson, R Grandl
+Publication: 
+
+186. Citation TR1778 Date Dec 06, 2012
+Citations:
+Authors: A Akella, A Anand, A Gember
+Publication: 
+
+187. Generic Design Patterns for Tunable and High-Performance SSD-based Indexes
+Citations:
+Authors: A Akella, A Anand, A Gember
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+188. FCP: A Framework for an Evolvable Transport Protocol
+Citations:
+Authors: D Han, R Grandl, A Akella, S Seshan
+Publication: 
+
+189. Message from panel co-chairs
+Citations:
+Authors: R Ramjee, P Shenoy
+Publication: 2012 Fourth International Conference on Communication Systems and Networks …
+
+190. {ECOS}: Practical Mobile Application Ofﬂoading for Enterprises
+Citations:
+Authors: A Gember, C Dragga, A Akella
+Publication: Presented as part of the 2nd {USENIX} Workshop on Hot Topics in Management …
+
+191. Art Therapy and Cancer Support: Patient and Family
+Citations:
+Authors: K Brantner
+Publication: 
+
+192. Design, Implementation, and Verification of DySER for Dynamic Specialization in General Purpose Processors
+Citations:
+Authors: J Benson
+Publication: 
+
+193. Date May 15, 2011
+Citations:
+Authors: PP Ajgaonkar
+Publication: 
+
+194. Panels chairs
+Citations:
+Authors: A Akella, V Padmanabhan
+Publication: 2011 Third International Conference on Communication Systems and Networks …
+
+195. NashWifi: Coordinated management of heterogenous home 802.11 networks using bargaining
+Citations:
+Authors: A Akella, P Ramamurthy, A Mutapcic
+Publication: 2010 Second International Conference on COMmunication Systems and NETworks …
+
+196. Network border patrol, a novel congestion avoidance mechanism for improving QOS in wireless networks.
+Citations:
+Authors: AJ Abu, S Gordon, AJ Abu, S Gordon, A Akella, S Seshan, A Shaikh, ...
+Publication: Information Technology Journal 10 (2), pp: 157-161
+
+197. 2009 Reviewers list
+Citations:
+Authors: I Aad, N Aaraj, A Abate, T Abdelzaher, A Abdrabou, A Abouzeid, G Abreu, ...
+Publication: IEEE Transactions on Mobile Computing 9 (1), 141
+
+198. Understanding recovery in older adults following cardiac surgery
+Citations:
+Authors: A Papendorf
+Publication: 
+
+199. On the Effectiveness of Pre-Acceptance Spam Filtering
+Citations:
+Authors: T Mori, H Esquivel, A Akella, ZM Mao, Y Xie, F Yu
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+200. 2008 Index IEEE/ACM Transactions on Networking Vol. 16
+Citations:
+Authors: I Aad, D Adkins, M Aia, OB Akan, A Akella, IF Akyildiz, S Al-Harthi, Z Ali, ...
+Publication: IEEE/ACM TRANSACTIONS ON NETWORKING 16 (6), 1489
+
+201. From “Beer Barons” to Antitrust Offenders: The Federal Alcohol Administration Act and United States Antitrust Policy That Impacted Breweries in Wisconsin
+Citations:
+Authors: RB Wester
+Publication: 
+
+202. Comments and Corrections
+Citations:
+Authors: A Akella, B Maggs, S Seshan, A Shaikh, RK Sitaraman
+Publication: IEEE/ACM TRANSACTIONS ON NETWORKING 16 (2)
+
+203. Characterizing Malcode Evolution
+Citations:
+Authors: A Gupta, P Kuppili, A Akella, P Barford
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+204. AFIQ: An accounting framework for inter-domain QoS with limited trust
+Citations:
+Authors: C Estan, A Akella, S Banerjee
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+205. From dumb pipes to rivers of money: a network payment system
+Citations:
+Authors: C Estan, S Banerjee, A Akella, Y Pan
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+206. Part A (By Cited Papers)
+Citations:
+Authors: S Aland, A Akella, S Chawla, S Seshan, KG Anagnostakis, E Anshelevich, ...
+Publication: Computer Science 361 (2-3), 200-209
+
+207. Generation of Anomeric Sugar Kinases with Relaxed Substrate Specificity Via Directed Enzyme Evolution and Structure-based Engineering
+Citations:
+Authors: J Yang
+Publication: University of Wisconsin--Madison
+
+208. The Haitian evolution: emigration and diasporan consciousness in nineteenth century America
+Citations:
+Authors: AC Malka
+Publication: University of Wisconsin--Madison
+
+209. Guns and agape: Audley Moore, Diane Nash and the tradition of black female leadership
+Citations:
+Authors: Z Van Orsdol
+Publication: University of Wisconsin--Madison
+
+210. Oral History Interview: Lois C. Olsen (0445)
+Citations:
+Authors: M Questionnaire, LC Olsen
+Publication: 
+
+211. Influence of treatment upon the prognosis of rheumatic heart disease in childhood
+Citations:
+Authors: LC Bickel
+Publication: 
+
+212. Influence of the economic depression in child health and nutrition
+Citations:
+Authors: HL Correll
+Publication: 
+
+213. Gravel: Automated Software Middlebox Verification
+Citations:
+Authors: KZD Zhuo, AAAKX Wang
+Publication: 
+
+214. Patronus: Controlling Thousands of Geo-Distributed Micro Data Centers
+Citations:
+Authors: SA Jyothi, R Chen, A Akella, B Godfrey
+Publication: Under submission (preprint available at http://abdujyo2. web. engr. illinois …
+
+215. usenix conference policies
+Citations:
+Authors: H Lavana, F Brglez
+Publication: 
+
+216. Computer and Science'
+Citations:
+Authors: V Kumar
+Publication: 
+
+217. Chitra Muthukrishnan (UW-‐Madison) Vern Paxson (ICSI/UC Berkeley) Mark Allman (ICSI)
+Citations:
+Authors: A Akella
+Publication: 
+
+218. “Narrow Waist” of the Internet Key to its Success
+Citations:
+Authors: P Steenkiste, D Andersen, D Eckhardt, S Kiesler, J Peha, A Perrig, ...
+Publication: 
+
+219. LiquidSwitch: Transport Enforcement for Datacenter Networks
+Citations:
+Authors: K He, E Rozner, K Agarwal, Y Gu, W Felter, J Carter, A Akella
+Publication: 
+
+220. ICNP 2015
+Citations:
+Authors: A Akella, V Misra
+Publication: 
+
+221. NSF Future Internet Architecture
+Citations:
+Authors: P Steenkiste, D Andersen, D Eckhardt, S Kiesler, J Peha, A Perrig, ...
+Publication: 
+
+222. SHAN-HSIANG SHEN
+Citations:
+Authors: SH Shen, JJ Kuo, MH Yang, DN Yang, WT Chen, LH Huang, YJ Lee, ...
+Publication: EDUCATION 886, 978-976606
+
+223. Keqiang He
+Citations:
+Authors: K He, J Khalid, A Gember-Jacobson, S Das, C Prakash, A Akella, A Fisher, ...
+Publication: 
+
+224. Welcome from the Program Co-Chairs
+Citations:
+Authors: A Akella, N Taft
+Publication: 
+
+225. High Speed Load Balancing at the Datacenter Edge
+Citations:
+Authors: K He, E Rozner, K Agarwal, W Felter, J Carter, A Akella
+Publication: 
+
+226. Remote Profiling of Resource Constraints of Web Servers Using Mini-Flash Crowds Pratap Ramamurthy, UW-Madison Vyas Sekar, CMU
+Citations:
+Authors: A Akella, A Shaikh
+Publication: 
+
+227. Technical Program Committee members
+Citations:
+Authors: A Akella, K Almeroth, SA Telcordia, S Bhashyam, S Biswas, MC Chan, ...
+Publication: 
+
+228. DIMACS Workshop on Designing Networks for Manageability
+Citations:
+Authors: R Wright, DD Director, A Akella, N Feamster, M Chiang, IP Characterizing, ...
+Publication: 
+
+229. Technical Program Committee Members
+Citations:
+Authors: R Aguiar, A Akella, I Akyildiz, E Al-Shaer, M Alanyali, A Azcorra, ...
+Publication: 
+
+230. IEEE INFOCOM 2009 Technical Program Committee
+Citations:
+Authors: A Abouzeid, S Agarwal, D Agrawal, A Akella, E Al-Shaer, J Almeida, ...
+Publication: 
+
+231. The Implications of Network-level Packet Caching
+Citations:
+Authors: A Anand, A Balachandran, A Akella, S Seshan
+Publication: 
+
+232. THEOPHILUS A. BENSON
+Citations:
+Authors: T Benson, A Akella, D Maltz
+Publication: 
+
+233. Generic Design Patterns for Tunable and High-Performance SSD-based Indexes
+Citations:
+Authors: A Anand, A Gember, A Akella
+Publication: 
+
+234. Technical Program Co-Chairs
+Citations:
+Authors: A Akella, B Raman, R Srikant, G Barua, S Bhashyam, S Biswas, ...
+Publication: 
+
+235. OpenSAFE: Hardware-Based Network Monitoring Using Software Control
+Citations:
+Authors: A Gember, JR Ballard, B Kroth, A Akella
+Publication: 
+
+236. A Study of the Properties of Wide-Area Internet Bottlenecks and Mechanisms to Avoid Them
+Citations:
+Authors: A Akella
+Publication: 
+
+237. Distributed, Profile-Based DDoS Detection and Mitigation in ISP Networks
+Citations:
+Authors: MAAAA Bharambe
+Publication: 
+
+238. 2005 Theses by Author
+Citations:
+Authors: UA ACAR, A AKELLA, DK BLANDFORD, AD BROWN, H BURCH, ...
+Publication: 
+
+239. AGRAWAL, Mukesh CMU-CS-11-101 AKELLA, Aditya CMU-CS-11-100, CMU-CS-11-117
+Citations:
+Authors: J ALDRICH, A ANAND, D ANDERSEN, V BALA, A BARNAT, M BENISCH, ...
+Publication: 
+
+240. A System for Coordinated Network-wide Redundancy Elimination
+Citations:
+Authors: A Anand, V Sekar, A Akella
+Publication: 
+
+241. RTREx: Trace and Replay Engine for Debugging Java RMI-Based Applications
+Citations:
+Authors: A Akella, A Bharambe, V Poladian
+Publication: 
+
+242. Session 10: Measurement
+Citations:
+Authors: R Pang, V Paxson, A Akella, B Maggs, S Seshan, A Shaikh, R Sitaraman, ...
+Publication: 
+
+243. MobiCom Poster Abstract: Traffic-Aware Channel Assignment in Wireless LANs
+Citations:
+Authors: E Rozner, Y Mehta, A Akella, L Qiu
+Publication: 
+
+244. Whatever “it” is, you can get it on the Internet: Toward an Information-Based Network Architecture
+Citations:
+Authors: A Akella, V Sekar, S Seshan
+Publication: 
+
+245. SUBRAMANI, K. CMU-CS-04-179
+Citations:
+Authors: UA ACAR, E AIROLDI, A AKELLA, R ARUNACHALAM, GE BLELLOCH, ...
+Publication: 
+
+246. OpenSAFE: Employing a Programmable Network Fabric for Measurement and Monitoring
+Citations:
+Authors: JR Ballard, A Gember, B Kroth, A Akella
+Publication: 
+

@@ -1,0 +1,618 @@
+https://scholar.google.com/citations?hl=en&user=h0gtwxIAAAAJ
+Total Citations = 2831
+
+1. A novel dimensionally-decomposed router for on-chip communication in 3D architectures
+Citations:301
+Authors: J Kim, C Nicopoulos, D Park, R Das, Y Xie, V Narayanan, MS Yousif, ...
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 138-149
+
+2. MIRA: A multi-layered on-chip interconnect router architecture
+Citations:248
+Authors: D Park, S Eachempati, R Das, AK Mishra, Y Xie, N Vijaykrishnan, CR Das
+Publication: 2008 International Symposium on Computer Architecture, 251-261
+
+3. Aérgia: exploiting packet latency slack in on-chip networks
+Citations:212
+Authors: R Das, O Mutlu, T Moscibroda, CR Das
+Publication: ACM SIGARCH computer architecture news 38 (3), 106-116
+
+4. Design and evaluation of a hierarchical on-chip interconnect for next-generation CMPs
+Citations:212
+Authors: R Das, S Eachempati, AK Mishra, V Narayanan, CR Das
+Publication: 2009 IEEE 15th International Symposium on High Performance Computer …
+
+5. Application-aware prioritization mechanisms for on-chip networks
+Citations:208
+Authors: R Das, O Mutlu, T Moscibroda, CR Das
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+6. Composite cores: Pushing heterogeneity into a core
+Citations:163
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, R Dreslinski, ...
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 317-328
+
+7. Catnap: energy proportional multiple network-on-chip.
+Citations:136
+Authors: R Das, S Narayanasamy, S Satpathy, RG Dreslinski
+Publication: ISCA, 320-331
+
+8. A case for dynamic frequency tuning in on-chip networks
+Citations:118
+Authors: AK Mishra, R Das, S Eachempati, R Iyer, N Vijaykrishnan, CR Das
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+9. Scalpel: Customizing dnn pruning to the underlying hardware parallelism
+Citations:107
+Authors: J Yu, A Lukefahr, D Palframan, G Dasika, R Das, S Mahlke
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 548-560
+
+10. Performance and power optimization through data compression in network-on-chip architectures
+Citations:97
+Authors: R Das, AK Mishra, C Nicopoulos, D Park, V Narayanan, R Iyer, MS Yousif, ...
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+11. Application-to-core mapping policies to reduce memory system interference in multi-core systems
+Citations:95
+Authors: R Das, R Ausavarungnirun, O Mutlu, A Kumar, M Azimi
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+12. Power-aware nocs through routing and topology reconfiguration
+Citations:73
+Authors: R Parikh, R Das, V Bertacco
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+13. Compute caches
+Citations:62
+Authors: S Aga, S Jeloka, A Subramaniyan, S Narayanasamy, D Blaauw, R Das
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+14. Swizzle-switch networks for many-core systems
+Citations:58
+Authors: K Sewell, RG Dreslinski, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (2 …
+
+15. ANVIL: Software-based protection against next-generation rowhammer attacks
+Citations:56
+Authors: ZB Aweke, SF Yitbarek, R Qiao, R Das, M Hicks, Y Oren, T Austin
+Publication: ACM SIGPLAN Notices 51 (4), 743-755
+
+16. Design of a dynamic priority-based fast path architecture for on-chip interconnects
+Citations:54
+Authors: D Park, R Das, C Nicopoulos, J Kim, N Vijaykrishnan, R Iyer, CR Das
+Publication: 15th Annual IEEE Symposium on High-Performance Interconnects (HOTI 2007), 15-20
+
+17. Trace based phase prediction for tightly-coupled heterogeneous cores
+Citations:48
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+18. Scaling towards kilo-core processors with asymmetric high-radix topologies
+Citations:41
+Authors: N Abeyratne, R Das, Q Li, K Sewell, B Giridhar, RG Dreslinski, D Blaauw, ...
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+19. Design and evaluation of hierarchical rings with deflection routing
+Citations:34
+Authors: R Ausavarungnirun, C Fallin, X Yu, KKW Chang, G Nazario, R Das, ...
+Publication: 2014 IEEE 26th International Symposium on Computer Architecture and High …
+
+20. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:34
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+21. RAFT: A router architecture with frequency tuning for on-chip networks
+Citations:32
+Authors: AK Mishra, A Yanamandra, R Das, S Eachempati, R Iyer, N Vijaykrishnan, ...
+Publication: Journal of Parallel and Distributed Computing 71 (5), 625-640
+
+22. Neural cache: Bit-serial in-cache acceleration of deep neural networks
+Citations:31
+Authors: C Eckert, X Wang, J Wang, A Subramaniyan, R Iyer, D Sylvester, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+23. A case for integrated processor-cache partitioning in chip multiprocessors
+Citations:31
+Authors: S Srikantaiah, R Das, AK Mishra, CR Das, M Kandemir
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+24. Design and evaluation of hierarchical on-chip network topologies for next generation CMPs
+Citations:28
+Authors: R Das, S Eachempati, AK Mishra, N Vijaykrishnan, CR Das
+Publication: HPCA-15 2
+
+25. Application-aware prefetch prioritization in on-chip networks
+Citations:24
+Authors: NC Nachiappan, AK Mishra, M Kandemir, A Sivasubramaniam, O Mutlu, ...
+Publication: 2012 21st International Conference on Parallel Architectures and Compilation …
+
+26. Application-to-core mapping policies to reduce memory interference in multi-core systems
+Citations:24
+Authors: R Das, R Ausavarungnirun, O Mutlu, A Kumar, M Azimi
+Publication: 2012 21st International Conference on Parallel Architectures and Compilation …
+
+27. Aergia: A network-on-chip exploiting packet latency slack
+Citations:21
+Authors: R Das, O Mutlu, T Moscibroda, C Das
+Publication: IEEE micro 31 (1), 29-41
+
+28. Cost-driven 3D integration with interconnect layers
+Citations:18
+Authors: X Wu, G Sun, X Dong, R Das, Y Xie, C Das, J Li
+Publication: Proceedings of the 47th Design Automation Conference, 150-155
+
+29. In-memory data parallel processor
+Citations:17
+Authors: D Fujiki, S Mahlke, R Das
+Publication: ACM SIGPLAN Notices 53 (2), 1-14
+
+30. Parallel automata processor
+Citations:17
+Authors: A Subramaniyan, R Das
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+31. Exploring specialized near-memory processing for data intensive operations
+Citations:16
+Authors: SF Yitbarek, T Yang, R Das, T Austin
+Publication: 2016 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+32. Development of/spl plusmn/500 kVAR DSTATCOM for distribution utility and industrial applications
+Citations:16
+Authors: BP Muni, SE Rao, JVR Vithal, SN Saxena, S Lakshminarayana, RL Das, ...
+Publication: TENCON 2003. Conference on Convergent Technologies for Asia-Pacific Region 1 …
+
+33. Cache automaton
+Citations:15
+Authors: A Subramaniyan, J Wang, ERM Balasubramanian, D Blaauw, D Sylvester, ...
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+34. Cold boot attacks are still hot: Security analysis of memory scramblers in modern processors
+Citations:14
+Authors: SF Yitbarek, MT Aga, R Das, T Austin
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+35. Dynamos: dynamic schedule migration for heterogeneous cores
+Citations:14
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 322-333
+
+36. Getting in control of your control flow with control-data isolation
+Citations:14
+Authors: W Arthur, B Mehne, R Das, T Austin
+Publication: Proceedings of the 13th Annual IEEE/ACM International Symposium on Code …
+
+37. Hi-Rise: a high-radix switch for 3D integration with single-cycle arbitration
+Citations:13
+Authors: S Jeloka, R Das, RG Dreslinski, T Mudge, D Blaauw
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 471-483
+
+38. Vix: Virtual input crossbar for efficient switch allocation
+Citations:13
+Authors: S Rao, S Jeloka, R Das, D Blaauw, R Dreslinski, T Mudge
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+39. A case for hierarchical rings with deflection routing: An energy-efficient on-chip communication substrate
+Citations:11
+Authors: R Ausavarungnirun, C Fallin, X Yu, KKW Chang, G Nazario, R Das, ...
+Publication: Parallel Computing 54, 29-45
+
+40. High radix self-arbitrating switch fabric with multiple arbitration schemes and quality of service
+Citations:10
+Authors: S Satpathy, R Das, R Dreslinski, T Mudge, D Sylvester, D Blaauw
+Publication: Proceedings of the 49th Annual Design Automation Conference, 406-411
+
+41. Spectral implementation of some quantum algorithms by one-and two-dimensional nuclear magnetic resonance
+Citations:10
+Authors: R Das, A Kumar
+Publication: The Journal of chemical physics 121 (16), 7601-7613
+
+42. Genax: a genome sequencing accelerator
+Citations:8
+Authors: D Fujiki, A Subramaniyan, T Zhang, Y Zeng, R Das, D Blaauw, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+43. Application-to-core mapping policies to reduce interference in on-chip networks
+Citations:8
+Authors: R Das, O Mutlu, A Kumar, M Azimi
+Publication: Carnegie Mellon SAFARI Technical Report No. 2011–001
+
+44. Exploring fine-grained heterogeneity with composite cores
+Citations:7
+Authors: A Lukefahr, S Padmanabha, R Das, FM Sleiman, RG Dreslinski, ...
+Publication: IEEE Transactions on Computers 65 (2), 535-547
+
+45. Heterogeneity within a processor core
+Citations:6
+Authors: A Lukefahr, R Das, S Padmanabha, S Mahlke
+Publication: US Patent 9,639,363
+
+46. ASPEN: A scalable In-SRAM architecture for pushdown automata
+Citations:5
+Authors: K Angstadt, A Subramaniyan, E Sadredini, R Rahimi, K Skadron, ...
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+47. Mirage cores: The illusion of many out-of-order cores using in-order hardware
+Citations:4
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+48. Analysis of microbump overheads for 2.5 d disintegrated design
+Citations:4
+Authors: P Ehrett, V Goyal, O Matthews, R Das, T Austin, V Bertacco
+Publication: UMich. Ann Arbor Tech. Rep. CSE-TR-002-17
+
+49. Improving energy efficiency of hierarchical rings via deflection routing
+Citations:4
+Authors: R Ausavarungnirun, C Fallin, X Yu, K Chang, G Nazario, R Das, GH Loh, ...
+Publication: (SAFARI Technical Report TR-2014-002
+
+50. HiRD: a low-complexity, energy-efficient hierarchical ring interconnect
+Citations:4
+Authors: C Fallin, X Yu, KKW Chang, R Ausavarungnirun, G Nazario, R Das, ...
+Publication: 
+
+51. On-chip test generation using linear subspaces
+Citations:4
+Authors: R Das, IL Markov, JP Hayes
+Publication: Eleventh IEEE European Test Symposium (ETS'06), 111-116
+
+52. MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation
+Citations:3
+Authors: D Lee, V Bertacco
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+53. Single cycle arbitration within an interconnect
+Citations:3
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent 9,514,074
+
+54. Locking down insecure indirection with hardware-based control-data isolation
+Citations:3
+Authors: W Arthur, S Madeka, R Das, T Austin
+Publication: Proceedings of the 48th International Symposium on Microarchitecture, 115-127
+
+55. Swizzle Switch: A self-arbitrating high-radix crossbar for NoC systems
+Citations:3
+Authors: R Dreslinski, K Sewell, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: 2012 IEEE Hot Chips 24 Symposium (HCS), 1-44
+
+56. 14.2 A Compute SRAM with Bit-Serial Integer/Floating-Point Operations for Programmable In-Memory Vector Acceleration
+Citations:2
+Authors: J Wang, X Wang, C Eckert, A Subramaniyan, R Das, D Blaauw, ...
+Publication: 2019 IEEE International Solid-State Circuits Conference-(ISSCC), 224-226
+
+57. Blurring the lines between memory and computation
+Citations:2
+Authors: R Das
+Publication: IEEE Micro 37 (6), 13-15
+
+58. Automatic assessment of communication skill in non-conventional interview settings: a comparative study
+Citations:2
+Authors: P Rao S B, S Rasipuram, R Das, DB Jayagopi
+Publication: Proceedings of the 19th ACM international conference on multimodal …
+
+59. Developments in quantum information processing by nuclear magnetic resonance
+Citations:2
+Authors: R Das
+Publication: G18868
+
+60. Application-aware on-chip networks
+Citations:2
+Authors: R Das
+Publication: 
+
+61. Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks
+Citations:1
+Authors: X Wang, J Yu, C Augustine, R Iyer, R Das
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+62. Online peer-to-peer discussions: A platform for automatic assessment of communication skill
+Citations:1
+Authors: S Rasipuram, R Das, SBP Rao, DB Jayagopi
+Publication: 2017 Seventh International Conference on Affective Computing and Intelligent …
+
+63. Cache automaton: Repurposing caches for automata processing
+Citations:1
+Authors: A Subramaniyan, J Wang, ERM Balasubramanian, D Blaauw, D Sylvester, ...
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+64. In-memory data flow processor
+Citations:1
+Authors: D Fujiki, S Mahlke, R Das
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+65. Evaluation of vascular effect of arsenic using in vivo assays
+Citations:1
+Authors: B Patel, R Das, A Gautam, M Tiwari, S Acharya, S Kumar
+Publication: Environmental Science and Pollution Research 24 (18), 15521-15527
+
+66. Achieving both High Energy Efficiency and High Performance in On-Chip Communication using Hierarchical Rings with Deflection Routing
+Citations:1
+Authors: R Ausavarungnirun, C Fallin, X Yu, KKW Chang, G Nazario, R Das, ...
+Publication: arXiv preprint arXiv:1602.06005
+
+67. Quality-of-service for a high-radix switch
+Citations:1
+Authors: N Abeyratne, S Jeloka, Y Kang, D Blaauw, RG Dreslinski, R Das, ...
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+68. Role of Bio-Metal Co (II) in Anti-AIDS Effect
+Citations:1
+Authors: R Das, KS Pitre
+Publication: Reviews in Analytical Chemistry 27 (2), 63
+
+69. Investigation of a dipolar coupled 8‐qubit system for quantum information processing by NMR
+Citations:1
+Authors: R Das, R Bhattacharyya, A Kumar
+Publication: AIP Conference Proceedings 864 (1), 313-323
+
+70. Duality cache for data parallel acceleration
+Citations:
+Authors: D Fujiki, S Mahlke, R Das
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+71. DREDGE: Dynamic Repartitioning during Dynamic Graph Execution
+Citations:
+Authors: A McCrabb, E Winsor, V Bertacco
+Publication: 2019 56th ACM/IEEE Design Automation Conference (DAC), 1-6
+
+72. Method of detecting repetition of an out-of-order execution schedule, apparatus and computer-readable medium
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent App. 15/478,552
+
+73. Quality-of-Service in NoCs
+Citations:
+Authors: F Angiolini, S Murali
+Publication: Communication Architectures for Systems-on-Chip, 157-188
+
+74. Communication Buses for SoC Architectures
+Citations:
+Authors: PG del Valle, JL Ayala
+Publication: Communication Architectures for Systems-on-Chip, 15
+
+75. HeTERO: Hybrid Topology Exploration for RF-Based On-Chip Networks
+Citations:
+Authors: S Eachempati, R Das, V Narayanan, Y Xie, S Datta, CR Das
+Publication: Communication Architectures for Systems-on-Chip, 231-278
+
+76. Recording performance metrics to predict future execution of large instruction sequences on either high or low performance execution circuitry
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent 9,965,279
+
+77. Control of switching between executed mechanisms
+Citations:
+Authors: S Padmanabha, A Lukefahr, R Das, S Mahlke
+Publication: US Patent 9,870,226
+
+78. Automatic generation of actionable feedback towards improving social competency in job interviews
+Citations:
+Authors: SK Nambiar, R Das, S Rasipuram, DB Jayagopi
+Publication: Proceedings of the 1st ACM SIGCHI International Workshop on Multimodal …
+
+79. Controlling transition between using first and second processing circuitry
+Citations:
+Authors: A Lukefahr, S Padmanabha, R Das, S Mahlke, YU Jiecao
+Publication: US Patent App. 15/063,651
+
+80. Single cycle arbitration
+Citations:
+Authors: S Jeloka, SN Abeyratne, RG Dreslinski, R Das, TN Mudge, DT Blaauw
+Publication: US Patent App. 15/367,218
+
+81. Electrochemical Study of Isatin 3-(Methyenel)-hydrazone Schiff Base on Carbon Paste Electrode
+Citations:
+Authors: A SAXENA, R DAS, S SAXENA
+Publication: Chemical Science 4 (4), 995-1000
+
+82. Evaluation of storage behavior of different potato (Solanum tuberosum L.) germplasms at ambient condition.
+Citations:
+Authors: S Datta, S Dhirendra, DK Singh, R Das
+Publication: Environment and Ecology 31 (3A), 1556-1559
+
+83. XPoint cache: scaling existing bus-based coherence protocols for 2D and 3D many-core systems
+Citations:
+Authors: RG Dreslinski, T Manville, K Sewell, R Das, N Pinckney, S Satpathy, ...
+Publication: Proceedings of the 21st international conference on Parallel architectures …
+
+84. Effect of row spacing and fertilizer on growth and yield attributes of Okra
+Citations:
+Authors: S Kumar, P Bhagawati, RY Das, J Basar
+Publication: Vegetable Science 38 (2), 176-179
+
+85. Electro-chemical and Bacteriological Study of Anti Aids Drug with Fe (III)
+Citations:
+Authors: R Das
+Publication: Analytical Chemistry Letters 1 (4), 282-286
+
+86. Three-dimensional On-chip Interconnect Architectures
+Citations:
+Authors: S Eachempati, D Park, R Das, AK Mishra, V Narayanan, Y Xie, C Das
+Publication: Designing Network On-Chip Architectures in the Nanoscale Era, 391-420
+
+87. Vibrational studies of pharmaceutically important carboxylic acid's monomers and dimers in ground electronic states
+Citations:
+Authors: YP Singh, R Das, RA Singh
+Publication: PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL …
+
+88. Role of Βίο-Metal Co (II) in Anti-AIDS Effect
+Citations:
+Authors: R Das, KS Pitre
+Publication: Reviews in Analytical Chemistry 27 (2), 63-70
+
+89. Managing customer experiences: Touch the customer at every touch point
+Citations:
+Authors: V Nath, RP Das
+Publication: The Journal of Indian Management & Strategy 8M 13 (1), 46-52
+
+90. Analysis of in-hospital causes of deaths in adult acute lymphoblastic leukemia patients
+Citations:
+Authors: P Malhotra, N Varma, U Saikia, S Kumari, J Ahluwalia, S Jain, R Das, ...
+Publication: HAEMATOLOGICA-THE HEMATOLOGY JOURNAL 92, 388-388
+
+91. Spectroscopic and Molecular Vibrational Studies of Nitro group in Methoxybenzene
+Citations:
+Authors: YP Singh, R Das
+Publication: JOURNAL-INSTITUTION OF CHEMISTS INDIA 79 (6), 171
+
+92. Spectroscopic and Inter Molecular Studies of Pharmaceutically Important Anisole Monomer and its Nitro Substitutents in Ground Electronic States
+Citations:
+Authors: YP Singh, RA Singh, R Das
+Publication: JOURNAL-INSTITUTION OF CHEMISTS INDIA 79 (3), 75
+
+93. Corporate Social Responsibility through Green Marketing
+Citations:
+Authors: RP Das, V Nath
+Publication: Environment management practices: an Indian outlook, 145
+
+94. Physicochemical and biological studies on CoII-ascorbic acid complex
+Citations:
+Authors: R DAS, KS Pitre
+Publication: Journal of the Indian Chemical Society 83 (4), 403-404
+
+95. A microfluidic chip for chemiluminescence detection integrated with an organic photodetector
+Citations:
+Authors: X Wang, O Hofmann, EM Barrett, R Das, AJ de Mello, JC de Mello, ...
+Publication: 
+
+96. Implementation of adiabatic Deutsch-Jozsa algorithm by Nuclear Magnetic Resonance
+Citations:
+Authors: A Mitra, A Patel, R Das, A Ghosh, A Kumar
+Publication: 
+
+97. Quality Control Methods for Medicinal Plant Materials.
+Citations:
+Authors: G Suyog, B Deepti, S Beautikumari, P Ankita, X Cai, H Zhou, YF Wong, ...
+Publication: Pharmacologia 5 (1), 586-594
+
+98. FRACTURE STRENGTH BASED OPTIMISATION OF THIN-WALLED STRUCTURES USING MODIFIED ESO
+Citations:
+Authors: R Das, R Jones, YM Xie
+Publication: Thin-Walled Structures: Advances in Research, Design and Manufacturing …
+
+99. Ackerman, JJH, 56 Arús, C., 164 Aramini, James M., 263
+Citations:
+Authors: GS Armstrong, G Batta, J Becker, B Bendiak, S Berger, AH Beth, ...
+Publication: Journal of Magnetic Resonance 170, 372
+
+100. Newer financial innovations in changing scenario
+Citations:
+Authors: N Rao, RP Das
+Publication: MANAGEMENT ACCOUNTANT-CALCUTTA- 38 (7), 537-539
+
+101. Giuliani, Jason R., 82 Golman, K., 68
+Citations:
+Authors: F Grinberg, MP Augustine, HN Bachman, M Baldus, M Bellinazzi, ...
+Publication: Journal of Magnetic Resonance 159, 250
+
+102. ATTITUDE OF BANKERS TOWARDS VRS-A CASE STUDY
+Citations:
+Authors: N Rao, RP Das, S Shrivastava
+Publication: Indian Journal of Public Enterprise 18 (33-34)
+
+103. Recent policies and trends in corporate finance
+Citations:
+Authors: N Rao, RP Das
+Publication: MANAGEMENT ACCOUNTANT-CALCUTTA- 34, 344-347
+
+104. The Effect of Copper (III) Reagent
+Citations:
+Authors: RC Das, RK Borah
+Publication: Journal of the Institution of Chemists 70 (3), 98-102
+
+105. Performance Benefits of Virtual Channels and Adaptive Routing: An Application-Driven Study
+Citations:
+Authors: ASVAS Chita, R Das
+Publication: Conference Proceedings of the 1997 International Conference on …
+
+106. Copper (III) As an Analytical Reagent
+Citations:
+Authors: RC Das, RK Borah
+Publication: Journal of the Institution of Chemists 69 (4), 102-106
+
+107. Utility Services in a Metropolis: A Study of the Housing & Water Supply in Lucknow Nagar Mahapalika
+Citations:
+Authors: RB Das, DP Singh
+Publication: distributor, Oxford & IBH Pub. Co.
+
+108. David Andrews, University of Arkansas Zachary Baker, Los Alamos National Laboratory Jürgen Becker, Karlsruhe Institute of Technology Michaela Blott, Xilinx
+Citations:
+Authors: C Bobda, D Boland, G Botella, CS Bouganis, G Brebner, M Butts, D Chen, ...
+Publication: 
+
+109. ISCA 2018 Program Committee
+Citations:
+Authors: T Aamodt, D Albonesi, R Balasubramonian, Y Bao, B Beckmann, ...
+Publication: 
+
+110. ISSN 0975-413X CODEN (USA): PCHHAX
+Citations:
+Authors: AK Harit, R Das, P Bose, GA Khan, I Khan
+Publication: 
+
+111. Implementing Non-Uniform Sampling and Iterative Reweighted L1-norm Regularization in “Intensity-critical” NMR Experiments
+Citations:
+Authors: S Sun, R Das, RA Byrd
+Publication: 
+
+112. Enhancing Bregmanised NLTV Image Denoising using Savitzky Golay filter and SVD
+Citations:
+Authors: A Menon, P Rajan, D TVN, R Das, S Kumar, KP Soman
+Publication: 
+
+113. Software Redefined Communication System
+Citations:
+Authors: N Prasannan, G Jyothish Lal, R Das, KP Soman
+Publication: 
+
+114. AN ovel Architecture for Different DSP Applications Using Field Programmable Gate Array
+Citations:
+Authors: A Biswas, S Kumar, T Dutta, S Bhaumik, R Das
+Publication: 
+
+115. Oligomeric Assemblies of the Escherichia coli MalT Transcriptional Activator Revealed by Cryo-electron Microscopy and Image Processing
+Citations:
+Authors: L Sun, SL Dove, G Panaghie, PL deHaseth, A Hochschild, ...
+Publication: 
+
+116. HPCA 2018 Program Committee
+Citations:
+Authors: A Alameldeen, R Balasubramonian, B Beckmann, P Bose, N Chatterjee, ...
+Publication: 
+
+117. ACM SRC chair
+Citations:
+Authors: VJ Reddi, G Fursin, B Childers, R Balasubramonian, A Mishra, P Gratz, ...
+Publication: 
+
+118. Efficient System-In-Package Architecture for Heterogeneous Systems
+Citations:
+Authors: V Goyal, X Wang, V Bertacco, R Das
+Publication: 
+
+119. An Observational Study Comparing the Correlation of Vertical Cup Disc Ratio and Disc Damage Likelihood Scale with Visual Field Changes and Central Corneal Thickness in Primary …
+Citations:
+Authors: S Bhattacharyya, A Maitra, R Mandal, S Mukherjee, AS Gedam, R Das
+Publication: 
+
+120. Tor M. Aamodt 99, 408 Mohamad Abdel-Majeed 111 Jaume Abella 160 Jorge Albericio 310
+Citations:
+Authors: H Ando, M Annavaram, R Ausavarungnirun, R Balasubramanian, ...
+Publication: 
+
+121. HiPINEB 2017 Committees
+Citations:
+Authors: FJ Alfaro, JC Reyes, L Chen, C Das, R Das, B Farcy, F Atos, ME Gomez, ...
+Publication: 
+
+122. Electrochemical Study of Novel 3-(6-bromo-2-oxo-2H-chromen-3yl-amino)-2-(3-chloro-phenyl)-thiazolidine-4-one by Cyclic Voltammetry and its DNA Interaction Study by UV-Visible …
+Citations:
+Authors: S SAXENA, R DAS, A SAXENA
+Publication: Chemical Science 2016 (5), 1
+
+123. Adaptive Cache Partitioning on a Composite Core
+Citations:
+Authors: J Yu, A Lukefahr, S Padmanabha, R Das, S Mahlke
+Publication: 
+

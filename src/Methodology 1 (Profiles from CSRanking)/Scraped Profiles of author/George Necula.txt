@@ -1,0 +1,633 @@
+https://scholar.google.com/citations?hl=en&user=_fiHvDAAAAAJ
+Total Citations = 11892
+
+1. Proof-carrying code
+Citations:2503
+Authors: GC Necula
+Publication: Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+2. CIL: Intermediate language and tools for analysis and transformation of C programs
+Citations:1161
+Authors: GC Necula, S McPeak, SP Rahul, W Weimer
+Publication: International Conference on Compiler Construction, 213-228
+
+3. CCured: Type-safe retrofitting of legacy code
+Citations:801
+Authors: GC Necula, S McPeak, W Weimer
+Publication: ACM SIGPLAN Notices 37 (1), 128-139
+
+4. Safe kernel extensions without run-time checking
+Citations:744
+Authors: GC Necula, P Lee
+Publication: SIGOPS Operating Systems Review 30, 229-244
+
+5. Translation validation for an optimizing compiler
+Citations:531
+Authors: GC Necula
+Publication: ACM sigplan notices 35 (5), 83-94
+
+6. The design and implementation of a certifying compiler
+Citations:446
+Authors: GC Necula, P Lee
+Publication: ACM SIGPLAN Notices 33 (5), 333-344
+
+7. XFI: Software guards for system address spaces
+Citations:434
+Authors: Ú Erlingsson, M Abadi, M Vrable, M Budiu, GC Necula
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+8. CCured: type-safe retrofitting of legacy software
+Citations:361
+Authors: GC Necula, J Condit, M Harren, S McPeak, W Weimer
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (3), 477-526
+
+9. Capriccio: scalable threads for internet services
+Citations:358
+Authors: R Von Behren, J Condit, F Zhou, GC Necula, E Brewer
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 268-281
+
+10. Safe, untrusted agents using proof-carrying code
+Citations:336
+Authors: GC Necula, P Lee
+Publication: Mobile Agents and Security, 61-91
+
+11. Guided gui testing of android apps with minimal restart and approximate learning
+Citations:296
+Authors: W Choi, G Necula, K Sen
+Publication: Acm Sigplan Notices 48 (10), 623-640
+
+12. Compiling with proofs
+Citations:293
+Authors: GC Necula
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE
+
+13. A certifying compiler for Java
+Citations:259
+Authors: C Colby, P Lee, GC Necula, F Blau, M Plesko, K Cline
+Publication: ACM SIGPLAN Notices 35 (5), 95-107
+
+14. Mining temporal specifications for error detection
+Citations:252
+Authors: W Weimer, GC Necula
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+15. CCured in the real world
+Citations:214
+Authors: J Condit, M Harren, S McPeak, GC Necula, W Weimer
+Publication: ACM SIGPLAN Notices 38 (5), 232-244
+
+16. Temporal-safety proofs for systems code
+Citations:211
+Authors: TA Henzinger, GC Necula, R Jhala, G Sutre, R Majumdar, W Weimer
+Publication: International Conference on Computer Aided Verification, 526-538
+
+17. SafeDrive: Safe and recoverable extensions using language-based techniques
+Citations:206
+Authors: F Zhou, J Condit, Z Anderson, I Bagrak, R Ennals, M Harren, G Necula, ...
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+18. Dependent types for low-level programming
+Citations:180
+Authors: J Condit, M Harren, Z Anderson, D Gay, GC Necula
+Publication: European Symposium on Programming, 520-535
+
+19. Efficient representation and validation of proofs
+Citations:177
+Authors: GC Necula, P Lee
+Publication: Proceedings. Thirteenth Annual IEEE Symposium on Logic in Computer Science …
+
+20. Elkhound: A fast, practical GLR parser generator
+Citations:174
+Authors: S McPeak, GC Necula
+Publication: International Conference on Compiler Construction, 73-88
+
+21. Finding and preventing run-time error handling mistakes
+Citations:143
+Authors: W Weimer, GC Necula
+Publication: ACM SIGPLAN Notices 39 (10), 419-431
+
+22. Data structure specifications via local equality axioms
+Citations:127
+Authors: S McPeak, GC Necula
+Publication: International Conference on Computer Aided Verification, 476-490
+
+23. Oracle-based checking of untrusted software
+Citations:118
+Authors: GC Necula, SP Rahul
+Publication: ACM SIGPLAN Notices 36 (3), 142-154
+
+24. Safe to execute verification of software
+Citations:91
+Authors: GC Necula, P Lee
+Publication: US Patent 6,128,774
+
+25. Shape analysis with structural invariant checkers
+Citations:74
+Authors: BYE Chang, X Rival, GC Necula
+Publication: International Static Analysis Symposium, 384-401
+
+26. MultiSE: Multi-path symbolic execution using value summaries
+Citations:73
+Authors: K Sen, G Necula, L Gong, W Choi
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+27. Research on proof-carrying code for mobile-code security
+Citations:62
+Authors: P Lee, G Necula
+Publication: DARPA workshop on foundations for secure mobile code, 26-28
+
+28. Exceptional situations and program reliability
+Citations:61
+Authors: W Weimer, GC Necula
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 30 (2), 8
+
+29. The parallel computing laboratory at UC Berkeley: A research agenda based on the Berkeley view
+Citations:60
+Authors: K Asanovic, R Bodik, J Demmel, T Keaveny, K Keutzer, JD Kubiatowicz, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep
+
+30. Discovering affine equalities using random interpretation
+Citations:60
+Authors: S Gulwani, GC Necula
+Publication: ACM SIGPLAN Notices 38 (1), 74-84
+
+31. Cil: An infrastructure for C program analysis and transformation
+Citations:52
+Authors: GC Necula, S McPeak, SP Rahul, W Weimer
+Publication: International Conference on Compiler Construction, 213-228
+
+32. Proof-carrying code. design and implementation
+Citations:45
+Authors: GC Necula
+Publication: Proof and system-reliability, 261-288
+
+33. Global value numbering using random interpretation
+Citations:43
+Authors: S Gulwani, GC Necula
+Publication: ACM SIGPLAN Notices 39 (1), 342-352
+
+34. A scalable architecture for proof-carrying code
+Citations:42
+Authors: GC Necula
+Publication: International Symposium on Functional and Logic Programming, 21-39
+
+35. EventBreak: Analyzing the responsiveness of user interfaces through performance-guided test generation
+Citations:41
+Authors: M Pradel, P Schuh, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 49 (10), 33-47
+
+36. A polynomial-time algorithm for global value numbering
+Citations:40
+Authors: S Gulwani, GC Necula
+Publication: International Static Analysis Symposium, 212-227
+
+37. A proof-carrying code architecture for Java
+Citations:39
+Authors: C Colby, P Lee, GC Necula
+Publication: International Conference on Computer Aided Verification, 557-560
+
+38. The open verifier framework for foundational verifiers
+Citations:38
+Authors: BYE Chang, A Chlipala, GC Necula, RR Schneck
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+39. Proof generation in the Touchstone theorem prover
+Citations:35
+Authors: GC Necula, P Lee
+Publication: International Conference on Automated Deduction, 25-44
+
+40. Research on proof-carrying code for untrusted-code security
+Citations:35
+Authors: GC Necula, P Lee
+Publication: IEEE symposium on security and privacy 204
+
+41. Minimizing faulty executions of distributed systems
+Citations:33
+Authors: C Scott, V Brajkovic, G Necula, A Krishnamurthy, S Shenker
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+42. A sound framework for untrusted verification-condition generators
+Citations:33
+Authors: GC Necula, RR Schneck
+Publication: 18th Annual IEEE Symposium of Logic in Computer Science, 2003. Proceedings …
+
+43. Enforcing resource bounds via static verification of dynamic checks
+Citations:32
+Authors: A Chander, D Espinosa, N Islam, P Lee, G Necula
+Publication: European Symposium on Programming, 311-325
+
+44. Precise interprocedural analysis using random interpretation
+Citations:30
+Authors: S Gulwani, GC Necula
+Publication: ACM SIGPLAN Notices 40 (1), 324-337
+
+45. A gradual approach to a more trustworthy, yet scalable, proof-carrying code
+Citations:27
+Authors: RR Schneck, GC Necula
+Publication: International Conference on Automated Deduction, 47-62
+
+46. Specifying and checking semantic atomicity for multithreaded programs
+Citations:24
+Authors: J Burnim, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 47 (4), 79-90
+
+47. CONCURRIT: a domain specific language for reproducing concurrency bugs
+Citations:23
+Authors: T Elmas, J Burnim, G Necula, K Sen
+Publication: Acm Sigplan Notices 48 (6), 153-164
+
+48. By reason and authority: A system for authorization of proof-carrying code
+Citations:22
+Authors: N Whitehead, M Abadi, G Necula
+Publication: Proceedings. 17th IEEE Computer Security Foundations Workshop, 2004., 236-250
+
+49. NDSeq: Runtime checking for nondeterministic sequential specifications of parallel correctness
+Citations:21
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 46 (6), 401-414
+
+50. Enforcing resource bounds via static verification of dynamic checks
+Citations:21
+Authors: A Chander, D Espinosa, N Islam, P Lee, GC Necula
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 29 (5), 28
+
+51. Analysis of low-level code using cooperating decompilers
+Citations:21
+Authors: BYE Chang, M Harren, GC Necula
+Publication: International Static Analysis Symposium, 318-335
+
+52. Proof-carrying code
+Citations:21
+Authors: P Lee, G Necula
+Publication: Principles Of Programming Languages. ACM SIGPLAN-SIGACT 97
+
+53. A framework for certified program analysis and its applications to mobile-code safety
+Citations:20
+Authors: BYE Chang, A Chlipala, GC Necula
+Publication: International Workshop on Verification, Model Checking, and Abstract …
+
+54. Proof-carrying code with untrusted proof rules
+Citations:20
+Authors: GC Necula, RR Schneck
+Publication: International Symposium on Software Security, 283-298
+
+55. Using dependent types to certify the safety of assembly code
+Citations:19
+Authors: M Harren, GC Necula
+Publication: International Static Analysis Symposium, 155-170
+
+56. Method and apparatus for enforcing safety properties of computer programs by generating and solving constraints
+Citations:18
+Authors: A Chander, N Islam, D Espinosa, P Lee, G Necula
+Publication: US Patent 7,730,455
+
+57. Program analysis using random interpretation
+Citations:18
+Authors: S Gulwani, GC Necula
+Publication: University of California, Berkeley
+
+58. Join algorithms for the theory of uninterpreted functions
+Citations:18
+Authors: S Gulwani, A Tiwari, GC Necula
+Publication: International Conference on Foundations of Software Technology and …
+
+59. Performing checks on the resource usage of computer programs
+Citations:17
+Authors: A Chander, N Islam, D Espinosa, G Necula, P Lee
+Publication: US Patent 7,574,695
+
+60. SJS: A type system for JavaScript with fixed object layout
+Citations:15
+Authors: W Choi, S Chandra, G Necula, K Sen
+Publication: International Static Analysis Symposium, 181-198
+
+61. {CONCURRIT}: Testing Concurrent Programs with Programmable State-Space Exploration
+Citations:13
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: Presented as part of the 4th {USENIX} Workshop on Hot Topics in Parallelism
+
+62. Type-based verification of sssembly language for compiler debugging
+Citations:13
+Authors: BYE Chang, A Chlipala, GC Necula, RR Schneck
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+63. The design and implementation of a certifying compiler
+Citations:13
+Authors: GC Necula, P Lee
+Publication: ACM SIGPLAN Notices 39 (4), 612-625
+
+64. A polynomial-time algorithm for global value numbering
+Citations:12
+Authors: S Gulwani, GC Necula
+Publication: Science of Computer Programming 64 (1), 97-114
+
+65. Proof optimization using lemma extraction
+Citations:12
+Authors: SP Rahul, GC Necula
+Publication: Computer Science Division, University of California
+
+66. JVer: a java verifier
+Citations:11
+Authors: A Chander, D Espinosa, N Islam, P Lee, G Necula
+Publication: International Conference on Computer Aided Verification, 144-147
+
+67. Path-sensitive analysis for linear arithmetic and uninterpreted functions
+Citations:11
+Authors: S Gulwani, GC Necula
+Publication: International Static Analysis Symposium, 328-343
+
+68. Beyond Bug-Finding: Sound Program Analysis for Linux.
+Citations:9
+Authors: ZR Anderson, EA Brewer, J Condit, R Ennals, D Gay, M Harren, ...
+Publication: HotOS
+
+69. Tools and Algorithms for the Construction and Analysis of Systems
+Citations:9
+Authors: N Halbwachs, L Zuck
+Publication: Springer Berlin/Heidelberg.
+
+70. Proof-carrying code (abstract): design, implementation and applications
+Citations:8
+Authors: GC Necula
+Publication: Proceedings of the 2nd ACM SIGPLAN international conference on Principles …
+
+71. Towards hinted collection: annotations for decreasing garbage collector pause times
+Citations:7
+Authors: P Reames, G Necula
+Publication: ACM SIGPLAN Notices 48 (11), 3-14
+
+72. Verification, Model Checking, and Abstract Interpretation
+Citations:7
+Authors: EA Emerson, KS Namjoshi
+Publication: Springer Berlin/Heidelberg.
+
+73. Extensible untrusted code verification
+Citations:7
+Authors: RR Schneck, G Necula
+Publication: University of California, Berkeley
+
+74. Lightweight wrappers for interfacing with binary code in ccured
+Citations:7
+Authors: M Harren, GC Necula
+Publication: International Symposium on Software Security, 209-225
+
+75. What is texpoint
+Citations:7
+Authors: G Necula
+Publication: Program Home Page at http://raw. cs. berkeley. edu/texpoint/index. htm
+
+76. Taming C pointers
+Citations:7
+Authors: G Necula, S McPeak, W Weimer
+Publication: 
+
+77. E cient representation and validation of proofs
+Citations:7
+Authors: GC Necula, P Lee
+Publication: Submitted to the ACM Symposium on Logic in Computer Science
+
+78. NDetermin: Inferring nondeterministic sequential specifications for parallelism correctness
+Citations:6
+Authors: J Burnim, T Elmas, G Necula, K Sen
+Publication: ACM SIGPLAN Notices 47 (8), 329-330
+
+79. Reverse execution with constraint solving
+Citations:6
+Authors: R Sauciuc, G Necula
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2011-67
+
+80. Separating functional and parallel correctness using nondeterministic sequential specifications
+Citations:5
+Authors: J Burnim, G Necula, K Sen
+Publication: Hot Topics in Parallelism (HOTPAR)
+
+81. Randomized algorithms for program analysis and verification
+Citations:5
+Authors: GC Necula, S Gulwani
+Publication: International Conference on Computer Aided Verification, 1-1
+
+82. Data slicing: Separating the heap into independent regions
+Citations:5
+Authors: J Condit, GC Necula
+Publication: International Conference on Compiler Construction, 172-187
+
+83. Static Analysis: 12th International Symposium, SAS 2005, London,[Imperial College], UK, September 7-9, 2005-Proceedings
+Citations:5
+Authors: C Hankin
+Publication: Springer
+
+84. Ccured documentation
+Citations:5
+Authors: G Necula
+Publication: http://manju. cs. berkeley. edu/ccured/
+
+85. SJS: a typed subset of JavaScript with fixed object layout
+Citations:4
+Authors: PW Choi, S Chandra, G Necula, K Sen
+Publication: Technical Report UCB/EECS-2015-13, EECS Department, University of California …
+
+86. DetReduce: minimizing Android GUI test suites for regression testing
+Citations:3
+Authors: W Choi, K Sen, G Necula, W Wang
+Publication: Proceedings of the 40th International Conference on Software Engineering …
+
+87. A randomized satisfiability procedure for arithmetic and uninterpreted function symbols
+Citations:3
+Authors: S Gulwani, GC Necula
+Publication: International Conference on Automated Deduction, 167-181
+
+88. Online Video Data Analytics
+Citations:2
+Authors: P Vollucci, B Le, J Lai, W Cai, Y Ye, G Necula, D Wroblewski
+Publication: 
+
+89. A model and framework for reliable build systems
+Citations:2
+Authors: D Coetzee, A Bhaskar, G Necula
+Publication: arXiv preprint arXiv:1203.2704
+
+90. apmake: A reliable parallel build manager
+Citations:2
+Authors: D Coetzee, A Bhaskar, G Necula
+Publication: 2011 USENIX Annual Technical Conference (USENIX)
+
+91. Cooperative Integration of an Interactive Proof Assistant and an Automated Prover
+Citations:2
+Authors: A Chlipala, GC Necula
+Publication: Proceedings of the 6th International Workshop on Strategies in Automated …
+
+92. Enforcing Security and Safety with Proof-Carrying Code
+Citations:2
+Authors: GC Necula
+Publication: Electronic Notes in Theoretical Computer Science 20, 117-131
+
+93. Towards Hinted Collection
+Citations:1
+Authors: P Reames, G Necula
+Publication: International Symposium on Memory Management, ISMM 13
+
+94. Center for Hybrid and Embedded Software Systems
+Citations:1
+Authors: T Henzinger, EA Lee, A Sangiovanni-Vincentelli, S Sastry, A Aiken, ...
+Publication: 
+
+95. Compiler Construction: 15th International Conference, CC 2006, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2006, Vienna, Austria …
+Citations:1
+Authors: A Mycroft, A Zeller
+Publication: Springer
+
+96. Safe, Untrusted Agents Using Proof-Carrying
+Citations:1
+Authors: GC Necula, P Lee
+Publication: Mobile Agents and Security 1419, 61
+
+97. The design and implementation of a certifying compiler
+Citations:1
+Authors: P Lee, G Necula
+Publication: ACM Conference on Programming Language Design and Implementation
+
+98. Accounting for the performance of Standard ML on the DEC Alpha
+Citations:1
+Authors: GC Necula, L George
+Publication: Technical report, AT&T Bell Labs, Murray Hill, New Jersey, USA
+
+99. Online Video Data Analytics
+Citations:
+Authors: Y Ye, W Cai, B Le, J Lai, P Vollucci, G Necula, D Wroblewski
+Publication: 
+
+100. Online Video Data Analytics
+Citations:
+Authors: J Lai, B Le, P Vollucci, W Cai, Y Ye, G Necula, D Wroblewski
+Publication: 
+
+101. 3.17 MultiSE: Multi-Path Symbolic Execution using Value Summaries Koushik Sen (University of California, Berkeley) License Creative Commons BY 3.0 Unported license© Koushik Sen …
+Citations:
+Authors: K Sen, G Necula, L Gong, W Choi
+Publication: University of California, Berkeley
+
+102. Using dependent types to port type systems to low-level languages
+Citations:
+Authors: G Necula
+Publication: Proceedings of the 15th international conference on Compiler Construction, 1-1
+
+103. A randomized satisfiability procedure for arithmetic and uninterpreted function symbols
+Citations:
+Authors: S Gulwani, GC Necula
+Publication: Information and Computation 199 (1-2), 107-131
+
+104. Precise Interprocedural Analysis Using Random Interpretation (revised Version)
+Citations:
+Authors: S Gulwani, GC Necula
+Publication: Computer Science Division, University of California
+
+105. On the problems and solutions of static analysis for software testing.
+Citations:
+Authors: X Jianyu, DAI Jingguo, EM Clarke, D Kroening, T Ball, B Cook, V Levin, ...
+Publication: Information Technology Journal 11 (10), 9-10
+
+106. By Reason and Authority: A System for Authorization of Proof-Carrying Code
+Citations:
+Authors: NWM Abadi, G Necula
+Publication: Proceedings, 236
+
+107. A Randomized Satisfiability Procedure for Arithmetic and Uninterpreted Function Symbols (full Version)
+Citations:
+Authors: S Gulwani, GC Necula
+Publication: Computer Science Division, University of California
+
+108. Global Value Numbering Using Random Interpretation (full Version)
+Citations:
+Authors: S Gulwani, GC Necula
+Publication: Computer Science Division, University of California
+
+109. Professional Activities
+Citations:
+Authors: S McPeak
+Publication: 
+
+110. A logic-based approach to software system safety and security
+Citations:
+Authors: GC Necula, S Rahul
+Publication: ACM SIGSOFT Software Engineering Notes 25 (1), 67-68
+
+111. MacFS: A Portable Macintosh File System
+Citations:
+Authors: PA Dinda, GC Necula, M Price
+Publication: 
+
+112. MacFS: A Portable Macintosh File System Library
+Citations:
+Authors: PA Dinda, GC Necula, M Price
+Publication: CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE
+
+113. School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+Citations:
+Authors: WS Reilly, J Bates
+Publication: 
+
+114. SJS
+Citations:
+Authors: W Choi, S Chandra, G Necula, K Sen
+Publication: 
+
+115. Report on Project: Proof-Carrying-Code
+Citations:
+Authors: P Lee, GC Necula
+Publication: 
+
+116. Bor-Yuh Evan Chang Curriculum Vitæ
+Citations:
+Authors: GC Necula, K Sen, J Silver, R Bodik, E Brewer
+Publication: Computer Science 1 (510), 847-1745
+
+117. Workshop Committee
+Citations:
+Authors: R Gorrieri, P Syverson, J Guttman, S Foley, D Gollmann, J McLean, ...
+Publication: 
+
+118. Westley Weimer
+Citations:
+Authors: J Condit, M Harren, GC Necula, S McPeak
+Publication: 
+
+119. The Chaperone Project The Versatility of Tests: Concrete Specifications in Program Checking and Synthesis
+Citations:
+Authors: R Bodik, G Necula, K Sen, S Seshia, E Torlak
+Publication: 
+
+120. Lightweight Annotations for Modular Memory Safety
+Citations:
+Authors: J Condit, M Harren, B McCloskey, F Zhou, I Bagrak, Z Anderson, E Brewer, ...
+Publication: 
+
+121. Foundations of Hybrid and Embedded Software Systems
+Citations:
+Authors: S Sastry, T Henzinger, E Lee, A Sangiovanni-Vincentelli, J Sztipanovits, ...
+Publication: 
+
+122. The Context of Capriccio
+Citations:
+Authors: R von Behren, J Condit, F Zhou, GC Necula, E Brewer, C Farcas
+Publication: 
+
+123. Research on Proof-Carrying Code for
+Citations:
+Authors: P Lee, G Necula
+Publication: 
+
+124. 1998 Theses by Author
+Citations:
+Authors: J BLYTHE, CF BORNSTEIN, JA BOYAN, YA CHEN, DR DANCANET, ...
+Publication: 
+
+125. Translation Юalidation for an Optimiоing Compiler
+Citations:
+Authors: GC Necula
+Publication: 
+
+126. Workshops Chair
+Citations:
+Authors: R Alur, L Aceto, C Baier, ML Bonet, F Corradini, V Dalmau, T Eiter, ...
+Publication: 
+

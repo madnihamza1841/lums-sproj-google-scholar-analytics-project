@@ -1,0 +1,1293 @@
+https://scholar.google.com/citations?hl=en&user=kMmxbbIAAAAJ
+Total Citations = 6120
+
+1. Sketching as a tool for numerical linear algebra
+Citations:427
+Authors: DP Woodruff
+Publication: Foundations and Trends® in Theoretical Computer Science 10 (1–2), 1-157
+
+2. Low-rank approximation and regression in input sparsity time
+Citations:373
+Authors: KL Clarkson, DP Woodruff
+Publication: Journal of the ACM (JACM) 63 (6), 54
+
+3. Fast approximation of matrix coherence and statistical leverage
+Citations:284
+Authors: P Drineas, M Magdon-Ismail, MW Mahoney, DP Woodruff
+Publication: Journal of Machine Learning Research 13 (Dec), 3475-3506
+
+4. Numerical linear algebra in the streaming model
+Citations:247
+Authors: KL Clarkson, DP Woodruff
+Publication: Proceedings of the forty-first annual ACM symposium on Theory of computing …
+
+5. An optimal algorithm for the distinct elements problem
+Citations:235
+Authors: DM Kane, J Nelson, DP Woodruff
+Publication: Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+6. Optimal approximations of the frequency moments of data streams
+Citations:227
+Authors: P Indyk, D Woodruff
+Publication: Proceedings of the thirty-seventh annual ACM symposium on Theory of …
+
+7. Lower bounds for sparse recovery
+Citations:164
+Authors: KD Ba, P Indyk, E Price, DP Woodruff
+Publication: Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …
+
+8. Optimal space lower bounds for all frequency moments
+Citations:158
+Authors: D Woodruff
+Publication: Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …
+
+9. Tight lower bounds for the distinct elements problem
+Citations:120
+Authors: P Indyk, D Woodruff
+Publication: 44th Annual IEEE Symposium on Foundations of Computer Science, 2003 …
+
+10. On the exact space complexity of sketching and streaming small norms
+Citations:112
+Authors: DM Kane, J Nelson, DP Woodruff
+Publication: Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …
+
+11. Transitive-closure spanners
+Citations:94
+Authors: A Bhattacharyya, E Grigorescu, K Jung, S Raskhodnikova, DP Woodruff
+Publication: SIAM Journal on Computing 41 (6), 1380-1425
+
+12. 1-pass relative-error L p-sampling with applications
+Citations:91
+Authors: M Monemizadeh, DP Woodruff
+Publication: Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …
+
+13. Polylogarithmic private approximations and efficient matching
+Citations:89
+Authors: P Indyk, D Woodruff
+Publication: Theory of Cryptography Conference, 245-264
+
+14. Improved distributed principal component analysis
+Citations:88
+Authors: Y Liang, MFF Balcan, V Kanchanapally, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 3113-3121
+
+15. Tight bounds for distributed functional monitoring
+Citations:88
+Authors: DP Woodruff, Q Zhang
+Publication: Proceedings of the forty-fourth annual ACM symposium on Theory of computing …
+
+16. Optimal CUR matrix decompositions
+Citations:84
+Authors: C Boutsidis, DP Woodruff
+Publication: SIAM Journal on Computing 46 (2), 543-589
+
+17. Sublinear optimization for machine learning
+Citations:83
+Authors: KL Clarkson, E Hazan, DP Woodruff
+Publication: Journal of the ACM (JACM) 59 (5), 23
+
+18. Optimal bounds for Johnson-Lindenstrauss transforms and streaming problems with subconstant error
+Citations:82
+Authors: TS Jayram, DP Woodruff
+Publication: ACM Transactions on Algorithms (TALG) 9 (3), 26
+
+19. A geometric approach to information-theoretic private information retrieval
+Citations:80
+Authors: D Woodruff, S Yekhanin
+Publication: 20th Annual IEEE Conference on Computational Complexity (CCC'05), 275-284
+
+20. Frequent directions: Simple and deterministic matrix sketching
+Citations:74
+Authors: M Ghashami, E Liberty, JM Phillips, DP Woodruff
+Publication: SIAM Journal on Computing 45 (5), 1762-1792
+
+21. System and method for providing private inference control
+Citations:70
+Authors: JN Staddon, DP Woodruff
+Publication: US Patent 7,472,105
+
+22. New lower bounds for general locally decodable codes
+Citations:68
+Authors: D Woodruff
+Publication: Electronic Colloquium on Computational Complexity (ECCC) 14 (006)
+
+23. On the power of adaptivity in sparse recovery
+Citations:67
+Authors: P Indyk, E Price, DP Woodruff
+Publication: 2011 IEEE 52nd Annual Symposium on Foundations of Computer Science, 285-294
+
+24. Lower bounds for additive spanners, emulators, and more
+Citations:67
+Authors: DP Woodruff
+Publication: 2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06 …
+
+25. The fast cauchy transform and faster robust linear regression
+Citations:64
+Authors: KL Clarkson, P Drineas, M Magdon-Ismail, MW Mahoney, X Meng, ...
+Publication: SIAM Journal on Computing 45 (3), 763-810
+
+26. Revisiting the efficiency of malicious two-party computation
+Citations:64
+Authors: DP Woodruff
+Publication: Annual International Conference on the Theory and Applications of …
+
+27. Principal component analysis and higher correlations for distributed data
+Citations:63
+Authors: R Kannan, S Vempala, D Woodruff
+Publication: Conference on Learning Theory, 1040-1057
+
+28. Optimal approximate matrix product in terms of stable rank
+Citations:57
+Authors: MB Cohen, J Nelson, DP Woodruff
+Publication: arXiv preprint arXiv:1507.02268
+
+29. Turnstile streaming algorithms might as well be linear sketches
+Citations:57
+Authors: Y Li, HL Nguyen, DP Woodruff
+Publication: Proceedings of the forty-sixth annual ACM symposium on Theory of computing …
+
+30. Fast moment estimation in data streams in optimal space
+Citations:57
+Authors: DM Kane, J Nelson, E Porat, DP Woodruff
+Publication: Proceedings of the forty-third annual ACM symposium on Theory of computing …
+
+31. When distributed computation is communication expensive
+Citations:56
+Authors: DP Woodruff, Q Zhang
+Publication: Distributed Computing 30 (5), 309-323
+
+32. Communication lower bounds for statistical estimation problems via a distributed data processing inequality
+Citations:55
+Authors: M Braverman, A Garg, T Ma, HL Nguyen, DP Woodruff
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+33. Efficient sketches for earth-mover distance, with applications
+Citations:53
+Authors: A Andoni, K Do Ba, P Indyk, D Woodruff
+Publication: 2009 50th Annual IEEE Symposium on Foundations of Computer Science, 324-330
+
+34. Coresets and sketches for high dimensional subspace approximation problems
+Citations:52
+Authors: D Feldman, M Monemizadeh, C Sohler, DP Woodruff
+Publication: Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …
+
+35. The data stream space complexity of cascaded norms
+Citations:49
+Authors: TS Jayram, DP Woodruff
+Publication: 2009 50th Annual IEEE Symposium on Foundations of Computer Science, 765-774
+
+36. Practical cryptography in high dimensional tori
+Citations:49
+Authors: M Van Dijk, R Granger, D Page, K Rubin, A Silverberg, M Stam, ...
+Publication: Annual International Conference on the Theory and Applications of …
+
+37. Optimal principal component analysis in distributed and streaming models
+Citations:47
+Authors: C Boutsidis, DP Woodruff, P Zhong
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+38. A simple message-optimal algorithm for random sampling from a distributed stream
+Citations:43
+Authors: YY Chung, S Tirthapura, DP Woodruff
+Publication: IEEE Transactions on Knowledge and Data Engineering 28 (6), 1356-1368
+
+39. Low rank approximation with entrywise l 1-norm error
+Citations:42
+Authors: Z Song, DP Woodruff, P Zhong
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+40. Subspace embeddings for the polynomial kernel
+Citations:42
+Authors: H Avron, H Nguyen, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 2258-2266
+
+41. Subspace embeddings for the L 1-norm with applications
+Citations:41
+Authors: C Sohler, DP Woodruff
+Publication: Proceedings of the forty-third annual ACM symposium on Theory of computing …
+
+42. On sketching matrix norms and the top singular vector
+Citations:40
+Authors: Y Li, HL Nguyen, DP Woodruff
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+43. Subspace embeddings and\ell_p-regression using exponential random variables
+Citations:36
+Authors: D Woodruff, Q Zhang
+Publication: Conference on Learning Theory, 546-567
+
+44. Asymptotically optimal communication for torus-based cryptography
+Citations:36
+Authors: M Van Dijk, D Woodruff
+Publication: Annual International Cryptology Conference, 157-178
+
+45. Weighted low rank approximations with provable guarantees
+Citations:34
+Authors: I Razenshteyn, Z Song, DP Woodruff
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+46. Input sparsity and hardness for robust subspace approximation
+Citations:34
+Authors: KL Clarkson, DP Woodruff
+Publication: 2015 IEEE 56th Annual Symposium on Foundations of Computer Science, 310-329
+
+47. Spanners and sparsifiers in dynamic streams
+Citations:34
+Authors: M Kapralov, D Woodruff
+Publication: Proceedings of the 2014 ACM symposium on Principles of distributed computing …
+
+48. An optimal lower bound for distinct elements in the message passing model
+Citations:33
+Authors: DP Woodruff, Q Zhang
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+49. Additive spanners in nearly quadratic time
+Citations:32
+Authors: DP Woodruff
+Publication: International Colloquium on Automata, Languages, and Programming, 463-474
+
+50. Fast manhattan sketches in data streams
+Citations:32
+Authors: J Nelson, DP Woodruff
+Publication: Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+51. Private inference control
+Citations:32
+Authors: D Woodruff, J Staddon
+Publication: Proceedings of the 11th ACM conference on Computer and communications …
+
+52. The communication and streaming complexity of computing the longest common and increasing subsequences
+Citations:31
+Authors: X Sun, DP Woodruff
+Publication: Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete …
+
+53. Lower bounds for local monotonicity reconstruction from transitive-closure spanners
+Citations:30
+Authors: A Bhattacharyya, E Grigorescu, M Jha, K Jung, S Raskhodnikova, ...
+Publication: SIAM Journal on Discrete Mathematics 26 (2), 618-646
+
+54. Beating the direct sum theorem in communication complexity with implications for sketching
+Citations:29
+Authors: M Molinaro, DP Woodruff, G Yaroslavtsev
+Publication: Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …
+
+55. Is min-wise hashing optimal for summarizing set intersection?
+Citations:28
+Authors: R Pagh, M Stöckel, DP Woodruff
+Publication: Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of …
+
+56. Server-implemented system and method for providing private inference control
+Citations:28
+Authors: JN Staddon, DP Woodruff
+Publication: US Patent 8,229,939
+
+57. Epistemic privacy
+Citations:28
+Authors: A Evfimievski, R Fagin, D Woodruff
+Publication: Journal of the ACM (JACM) 58 (1), 2
+
+58. Efficient and private distance approximation in the communication and streaming models
+Citations:28
+Authors: DP Woodruff
+Publication: Massachusetts Institute of Technology
+
+59. Faster kernel ridge regression using sketching and preconditioning
+Citations:26
+Authors: H Avron, KL Clarkson, DP Woodruff
+Publication: SIAM Journal on Matrix Analysis and Applications 38 (4), 1116-1138
+
+60. Beating countsketch for heavy hitters in insertion streams
+Citations:26
+Authors: V Braverman, SR Chestnut, N Ivkin, DP Woodruff
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+61. A general method for estimating correlated aggregates over a data stream
+Citations:25
+Authors: S Tirthapura, DP Woodruff
+Publication: 2012 IEEE 28th International Conference on Data Engineering, 162-173
+
+62. System and method for providing private inference control
+Citations:25
+Authors: JN Staddon, DP Woodruff
+Publication: US Patent 7,877,410
+
+63. Relative error tensor low rank approximation
+Citations:24
+Authors: Z Song, DP Woodruff, P Zhong
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+64. A tight lower bound for high frequency moment estimation with small error
+Citations:24
+Authors: Y Li, DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+65. On sketching quadratic forms
+Citations:23
+Authors: A Andoni, J Chen, R Krauthgamer, B Qin, DP Woodruff, Q Zhang
+Publication: Proceedings of the 2016 ACM Conference on Innovations in Theoretical …
+
+66. On deterministic sketching and streaming for sparse recovery and norm estimation
+Citations:23
+Authors: J Nelson, HL Nguyẽn, DP Woodruff
+Publication: Linear Algebra and its Applications 441, 152-167
+
+67. On approximating functions of the singular values in a stream
+Citations:22
+Authors: Y Li, DP Woodruff
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+68. Lower bounds for adaptive sparse recovery
+Citations:22
+Authors: E Price, DP Woodruff
+Publication: Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …
+
+69. Applications of the shannon-hartley theorem to data streams and sparse recovery
+Citations:21
+Authors: E Price, DP Woodruff
+Publication: 2012 IEEE International Symposium on Information Theory Proceedings, 2446-2450
+
+70. Communication-optimal distributed clustering
+Citations:20
+Authors: J Chen, H Sun, D Woodruff, Q Zhang
+Publication: Advances in Neural Information Processing Systems, 3727-3735
+
+71. New characterizations in turnstile streams with applications
+Citations:20
+Authors: Y Ai, W Hu, Y Li, DP Woodruff
+Publication: 31st Conference on Computational Complexity (CCC 2016)
+
+72. Sketching for M-estimators: A unified approach to robust regression
+Citations:20
+Authors: KL Clarkson, DP Woodruff
+Publication: Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …
+
+73. Low rank approximation lower bounds in row-update streams
+Citations:20
+Authors: D Woodruff
+Publication: Advances in Neural Information Processing Systems, 1781-1789
+
+74. Certifying equality with limited interaction
+Citations:19
+Authors: J Brody, A Chakrabarti, R Kondapally, DP Woodruff, G Yaroslavtsev
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+75. Multi-tuple deletion propagation: approximations and complexity
+Citations:19
+Authors: B Kimelfeld, J Vondrák, DP Woodruff
+Publication: Proceedings of the VLDB Endowment 6 (13), 1558-1569
+
+76. The average-case complexity of counting distinct elements
+Citations:19
+Authors: DP Woodruff
+Publication: Proceedings of the 12th International Conference on Database Theory, 284-295
+
+77. Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams
+Citations:18
+Authors: M Kapralov, J Nelson, J Pachocki, Z Wang, DP Woodruff, M Yahyazadeh
+Publication: 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …
+
+78. Communication efficient distributed kernel principal component analysis
+Citations:18
+Authors: MF Balcan, Y Liang, L Song, D Woodruff, B Xie
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+79. Sublinear time orthogonal tensor decomposition
+Citations:18
+Authors: Z Song, D Woodruff, H Zhang
+Publication: Advances in Neural Information Processing Systems, 793-801
+
+80. Clustering via matrix powering
+Citations:18
+Authors: H Zhou, D Woodruff
+Publication: Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on …
+
+81. BPTree: An ℓ 2 heavy hitters algorithm using constant memory
+Citations:17
+Authors: V Braverman, SR Chestnut, N Ivkin, J Nelson, Z Wang, DP Woodruff
+Publication: Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+82. The communication complexity of distributed set-joins with applications to matrix multiplication
+Citations:17
+Authors: D Van Gucht, R Williams, DP Woodruff, Q Zhang
+Publication: Proceedings of the 34th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+83. The Complexity of Linear Dependence Problems in Vector Spaces.
+Citations:17
+Authors: A Bhattacharyya, P Indyk, DP Woodruff, N Xie
+Publication: ICS, 496-508
+
+84. Corruption and recovery-efficient locally decodable codes
+Citations:16
+Authors: D Woodruff
+Publication: Approximation, Randomization and Combinatorial Optimization. Algorithms and …
+
+85. Tight bounds for graph problems in insertion streams
+Citations:15
+Authors: X Sun, DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+86. Beyond set disjointness: the communication complexity of finding the intersection
+Citations:15
+Authors: J Brody, A Chakrabarti, R Kondapally, DP Woodruff, G Yaroslavtsev
+Publication: Proceedings of the 2014 ACM symposium on Principles of distributed computing …
+
+87. Sketching structured matrices for faster nonlinear regression
+Citations:15
+Authors: H Avron, V Sindhwani, D Woodruff
+Publication: Advances in neural information processing systems, 2994-3002
+
+88. An Optimal Algorithm for ℓ 1-Heavy Hitters in Insertion Streams and Related Problems
+Citations:14
+Authors: A Bhattacharyya, P Dey, DP Woodruff
+Publication: ACM Transactions on Algorithms (TALG) 15 (1), 2
+
+89. Low-rank PSD approximation in input-sparsity time
+Citations:14
+Authors: KL Clarkson, DP Woodruff
+Publication: Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …
+
+90. Algorithms for ℓ p low-rank approximation
+Citations:13
+Authors: F Chierichetti, S Gollapudi, R Kumar, S Lattanzi, R Panigrahy, ...
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+91. Streaming space complexity of nearly all functions of one variable on frequency vectors
+Citations:13
+Authors: V Braverman, SR Chestnut, DP Woodruff, LF Yang
+Publication: Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+92. Tight bounds for sketching the operator norm, schatten norms, and subspace embeddings
+Citations:13
+Authors: Y Li, DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+93. A quadratic lower bound for three-query linear locally decodable codes over any field
+Citations:13
+Authors: DP Woodruff
+Publication: Journal of Computer Science and Technology 27 (4), 678-686
+
+94. Space-efficient estimation of statistics over sub-sampled streams
+Citations:13
+Authors: A McGregor, A Pavan, S Tirthapura, D Woodruff
+Publication: Proceedings of the 31st ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …
+
+95. (1+ eps)-approximate sparse recovery
+Citations:13
+Authors: E Price, DP Woodruff
+Publication: 2011 IEEE 52nd Annual Symposium on Foundations of Computer Science, 295-304
+
+96. Sublinear time low-rank approximation of positive semidefinite matrices
+Citations:12
+Authors: C Musco, DP Woodruff
+Publication: 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …
+
+97. The simultaneous communication of disjointness with applications to data streams
+Citations:12
+Authors: O Weinstein, DP Woodruff
+Publication: International Colloquium on Automata, Languages, and Programming, 1082-1093
+
+98. Applications of uniform sampling: Densest subgraph and beyond
+Citations:12
+Authors: H Esfandiari, MT Hajiaghayi, DP Woodruff
+Publication: arXiv preprint arXiv:1506.04505
+
+99. On the communication complexity of linear algebraic problems in the message passing model
+Citations:12
+Authors: Y Li, X Sun, C Wang, DP Woodruff
+Publication: International Symposium on Distributed Computing, 499-513
+
+100. Tolerant algorithms
+Citations:12
+Authors: R Klein, R Penninger, C Sohler, DP Woodruff
+Publication: European Symposium on Algorithms, 736-747
+
+101. A quadratic lower bound for three-query linear locally decodable codes over any field
+Citations:12
+Authors: DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+102. Spectrum approximation beyond fast matrix multiplication: Algorithms and hardness
+Citations:11
+Authors: C Musco, P Netrapalli, A Sidford, S Ubaru, DP Woodruff
+Publication: arXiv preprint arXiv:1704.04163
+
+103. Embeddings of Schatten norms with applications to data streams
+Citations:11
+Authors: Y Li, DP Woodruff
+Publication: arXiv preprint arXiv:1702.05626
+
+104. How robust are linear sketches to adaptive inputs?
+Citations:11
+Authors: M Hardt, DP Woodruff
+Publication: Proceedings of the forty-fifth annual ACM symposium on Theory of computing …
+
+105. Explicit exclusive set systems with applications to broadcast encryption
+Citations:11
+Authors: C Gentry, Z Ramzan, DP Woodruff
+Publication: 2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06 …
+
+106. Fast algorithms for the free riders problem in broadcast encryption
+Citations:11
+Authors: Z Ramzan, DP Woodruff
+Publication: Annual International Cryptology Conference, 308-325
+
+107. Strong coresets for k-median and subspace approximation: Goodbye dimension
+Citations:10
+Authors: C Sohler, DP Woodruff
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+108. BPTree: an heavy hitters algorithm using constant memory
+Citations:10
+Authors: V Braverman, SR Chestnut, N Ivkin, J Nelson, Z Wang, DP Woodruff
+Publication: arXiv preprint arXiv:1603.00759
+
+109. Rectangle-efficient aggregation in spatial data streams
+Citations:10
+Authors: S Tirthapura, D Woodruff
+Publication: Proceedings of the 31st ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …
+
+110. Better approximations for the minimum common integer partition problem
+Citations:10
+Authors: DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+111. On coresets for logistic regression
+Citations:9
+Authors: A Munteanu, C Schwiegelshohn, C Sohler, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 6561-6570
+
+112. Brief announcement: Applications of uniform sampling: Densest subgraph and beyond
+Citations:9
+Authors: H Esfandiari, MT Hajiaghayi, DP Woodruff
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+113. Summarizing internet traffic patterns
+Citations:9
+Authors: JO Nelson, DP Woodruff
+Publication: US Patent 8,310,922
+
+114. Transitive-Closure Spanners of the Hypercube and the Hypergrid.
+Citations:9
+Authors: A Bhattacharyya, E Grigorescu, K Jung, S Raskhodnikova, DP Woodruff
+Publication: Electronic Colloquium on Computational Complexity (ECCC) 16, 46
+
+115. Matrix completion and related problems via strong duality
+Citations:8
+Authors: MF Balcan, Y Liang, DP Woodruff, H Zhang
+Publication: arXiv preprint arXiv:1704.08683
+
+116. Approximation Algorithms for -Low Rank Approximation
+Citations:8
+Authors: K Bringmann, P Kolev, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 6648-6659
+
+117. Sharper bounds for regularized data fitting
+Citations:8
+Authors: H Avron, KL Clarkson, DP Woodruff
+Publication: arXiv preprint arXiv:1611.03225
+
+118. Sharper bounds for regression and low-rank approximation with regularization
+Citations:8
+Authors: H Avron, KL Clarkson, DP Woodruff
+Publication: arXiv preprint arXiv:1611.03225 6
+
+119. How to fake multiply by a Gaussian matrix
+Citations:8
+Authors: M Kapralov, V Potluru, D Woodruff
+Publication: International Conference on Machine Learning, 2101-2110
+
+120. Distributed low rank approximation of implicit functions of a matrix
+Citations:8
+Authors: DP Woodruff, P Zhong
+Publication: 2016 IEEE 32nd International Conference on Data Engineering (ICDE), 847-858
+
+121. Managing de-duplication using estimated benefits
+Citations:8
+Authors: DD Chambliss, MC Constantinescu, JS Glider, D Harnik, M Lu, ...
+Publication: US Patent App. 14/450,889
+
+122. Computing correlated aggregates over a data stream
+Citations:8
+Authors: DP Woodruff, SN Tirthapura
+Publication: US Patent 8,645,412
+
+123. Testing matrix rank, optimally
+Citations:7
+Authors: MF Balcan, Y Li, DP Woodruff, H Zhang
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+124. A PTAS for ℓp-Low Rank Approximation
+Citations:7
+Authors: F Ban, V Bhattiprolu, K Bringmann, P Kolev, E Lee, DP Woodruff
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+125. Sketching for kronecker product regression and p-splines
+Citations:7
+Authors: H Diao, Z Song, W Sun, DP Woodruff
+Publication: arXiv preprint arXiv:1712.09473
+
+126. Optimal sample complexity for matrix completion and related problems via l2-regularization
+Citations:7
+Authors: MF Balcan, Y Liang, DP Woodruff, H Zhang
+Publication: arXiv preprint arXiv:1704.08683
+
+127. Nearly-optimal bounds for sparse recovery in generic norms, with applications to k-median sketching
+Citations:7
+Authors: A Backurs, P Indyk, I Razenshteyn, DP Woodruffs
+Publication: Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …
+
+128. Computer information retrieval using latent semantic structure via sketches
+Citations:7
+Authors: KL Clarkson, DP Woodruff
+Publication: US Patent 8,255,401
+
+129. Generation of set coverings with free riders, and generation of ordered sets of meeting points, in systems which include, but are not limited to, systems for broadcast …
+Citations:7
+Authors: CB Gentry, ZA Ramzan, DP Woodruff
+Publication: US Patent 7,523,304
+
+130. A near-optimal algorithm for L1-difference
+Citations:7
+Authors: J Nelson, DP Woodruff
+Publication: arXiv preprint arXiv:0904.2027
+
+131. Frequency moments
+Citations:7
+Authors: D Woodruff
+Publication: Encyclopedia of Database Systems, 1169-1170
+
+132. Revisiting norm estimation in data streams
+Citations:7
+Authors: DM Kane, J Nelson, DP Woodruff
+Publication: arXiv preprint arXiv:0811.3648
+
+133. Perfect lp sampling in a data stream
+Citations:6
+Authors: R Jayaram, DP Woodruff
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+134. Improved algorithms for adaptive compressed sensing
+Citations:6
+Authors: V Nakos, X Shi, DP Woodruff, H Zhang
+Publication: arXiv preprint arXiv:1804.09673
+
+135. Near optimal sketching of low-rank tensor regression
+Citations:6
+Authors: X Li, J Haupt, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 3466-3476
+
+136. Stochastic streams: Sample complexity vs. space complexity
+Citations:6
+Authors: M Crouch, A McGregor, G Valiant, DP Woodruff
+Publication: 24th Annual European Symposium on Algorithms (ESA 2016)
+
+137. Computing correlated aggregates over a data stream
+Citations:6
+Authors: DP Woodruff, SN Tirthapura
+Publication: US Patent 8,868,599
+
+138. Steiner transitive-closure spanners of low-dimensional posets
+Citations:6
+Authors: P Berman, A Bhattacharyya, E Grigorescu, S Raskhodnikova, ...
+Publication: Combinatorica 34 (3), 255-277
+
+139. The sketching complexity of graph cuts
+Citations:6
+Authors: A Andoni, R Krauthgamer, DP Woodruff
+Publication: arXiv preprint arXiv:1403.7058
+
+140. Cryptography in an unbounded computational model
+Citations:6
+Authors: DP Woodruff, M van Dijk
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+141. Is input sparsity time possible for kernel low-rank approximation?
+Citations:5
+Authors: C Musco, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 4435-4445
+
+142. Matrix norms in data streams: Faster, multi-pass and row-order
+Citations:5
+Authors: V Braverman, SR Chestnut, R Krauthgamer, Y Li, DP Woodruff, LF Yang
+Publication: arXiv preprint arXiv:1609.05885
+
+143. New algorithms for heavy hitters in data streams (invited talk)
+Citations:5
+Authors: DP Woodruff
+Publication: 19th International Conference on Database Theory (ICDT 2016)
+
+144. Improved testing of low rank matrices
+Citations:5
+Authors: Y Li, Z Wang, DP Woodruff
+Publication: Proceedings of the 20th ACM SIGKDD international conference on Knowledge …
+
+145. Random sampling from distributed streams
+Citations:5
+Authors: DP Woodruff, SN Tirthapura
+Publication: US Patent 8,392,434
+
+146. Steiner transitive-closure spanners of low-dimensional posets
+Citations:5
+Authors: P Berman, A Bhattacharyya, E Grigorescu, S Raskhodnikova, ...
+Publication: International Colloquium on Automata, Languages, and Programming, 760-772
+
+147. Exclusive set system constructions including, but not limited to, applications to broadcast encryption and certificate revocation
+Citations:5
+Authors: CB Gentry, ZA Ramzan, DP Woodruff
+Publication: US Patent 7,818,570
+
+148. On Sketching the to norms
+Citations:4
+Authors: A Krishnan, S Mohanty, DP Woodruff
+Publication: arXiv preprint arXiv:1806.06429
+
+149. Nearly optimal distinct elements and heavy hitters on sliding windows
+Citations:4
+Authors: V Braverman, E Grigorescu, H Lang, DP Woodruff, S Zhou
+Publication: arXiv preprint arXiv:1805.00212
+
+150. On low-risk heavy hitters and sparse recovery schemes
+Citations:4
+Authors: Y Li, V Nakos, D Woodruff
+Publication: arXiv preprint arXiv:1709.02919
+
+151. Fast Regression with an Guarantee
+Citations:4
+Authors: E Price, Z Song, DP Woodruff
+Publication: arXiv preprint arXiv:1705.10723
+
+152. Sketches for matrix norms: Faster, smaller and more general
+Citations:4
+Authors: V Braverman, SR Chestnut, R Krauthgamer, LF Yang
+Publication: arXiv preprint arXiv:1609.05885
+
+153. New algorithms for heavy hitters in data streams
+Citations:4
+Authors: DP Woodruff
+Publication: arXiv preprint arXiv:1603.01733
+
+154. Space-Efficient Estimation of Statistics Over Sub-Sampled Streams
+Citations:4
+Authors: A McGregor, A Pavan, S Tirthapura, DP Woodruff
+Publication: Algorithmica 74 (2), 787-811
+
+155. Amplification of one-way information complexity via codes and noise sensitivity
+Citations:4
+Authors: M Molinaro, DP Woodruff, G Yaroslavtsev
+Publication: International Colloquium on Automata, Languages, and Programming, 960-972
+
+156. Distributed kernel principal component analysis
+Citations:4
+Authors: MF Balcan, Y Liang, L Song, DP Woodruff, B Xie
+Publication: arXiv preprint arXiv:1503.06858
+
+157. The fast cauchy transform: with applications to basis construction, regression, and subspace approximation in l1
+Citations:4
+Authors: KL Clarkson, P Drineas, M Magdon-Ismail, MW Mahoney, X Meng, ...
+Publication: CoRR, abs/1207.4684 1 (1), 2
+
+158. Near-optimal private approximation protocols via a black box transformation
+Citations:4
+Authors: DP Woodruff
+Publication: Proceedings of the forty-third annual ACM symposium on Theory of computing …
+
+159. Tight Bounds for ℓp Oblivious Subspace Embeddings
+Citations:3
+Authors: R Wang, DP Woodruff
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+160. Learning two layer rectified neural networks in polynomial time
+Citations:3
+Authors: A Bakshi, R Jayaram, DP Woodruff
+Publication: arXiv preprint arXiv:1811.01885
+
+161. Leveraging Well-Conditioned Bases: Streaming \& Distributed Summaries in Minkowski -Norms
+Citations:3
+Authors: G Cormode, C Dickens, DP Woodruff
+Publication: arXiv preprint arXiv:1807.02571
+
+162. Distributed statistical estimation of matrix products with applications
+Citations:3
+Authors: DP Woodruff, Q Zhang
+Publication: Proceedings of the 37th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+163. Numerical Linear Algebra in the Sliding Window Model
+Citations:3
+Authors: V Braverman, P Drineas, J Upadhyay, DP Woodruff, S Zhou
+Publication: arXiv preprint arXiv:1805.03765
+
+164. Fast distributed database frequency summarization
+Citations:3
+Authors: DP Woodruff
+Publication: US Patent 9,218,389
+
+165. The One-Way Communication Complexity of Dynamic Time Warping Distance
+Citations:2
+Authors: V Braverman, M Charikar, W Kuszmaul, DP Woodruff, LF Yang
+Publication: arXiv preprint arXiv:1903.03520
+
+166. Towards a zero-one law for entrywise low rank approximation
+Citations:2
+Authors: Z Song, DP Woodruff, P Zhong
+Publication: arXiv preprint arXiv:1811.01442
+
+167. Revisiting frequency moment estimation in random order streams
+Citations:2
+Authors: V Braverman, E Viola, D Woodruff, LF Yang
+Publication: arXiv preprint arXiv:1803.02270
+
+168. Robust subspace approximation in a stream
+Citations:2
+Authors: R Levin, AP Sevekari, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 10683-10693
+
+169. Sublinear time low-rank approximation of distance matrices
+Citations:2
+Authors: A Bakshi, D Woodruff
+Publication: Advances in Neural Information Processing Systems, 3782-3792
+
+170. True randomness from big data
+Citations:2
+Authors: PA Papakonstantinou, DP Woodruff, G Yang
+Publication: Scientific reports 6, 33740
+
+171. Two-party private estimation of dataset similarity
+Citations:2
+Authors: DP Woodruff
+Publication: US Patent 9,077,522
+
+172. Two-party private estimation of dataset similarity
+Citations:2
+Authors: DP Woodruff
+Publication: US Patent 8,630,409
+
+173. Reusable low-error compressive sampling schemes through privacy
+Citations:2
+Authors: AC Gilbert, B Hemenway, MJ Strauss, DP Woodruff, M Wootters
+Publication: 2012 IEEE Statistical Signal Processing Workshop (SSP), 536-539
+
+174. Computing cascaded aggregates in a data stream
+Citations:2
+Authors: JS Thathachar, DP Woodruff
+Publication: US Patent App. 12/759,070
+
+175. Steiner transitive-closure spanners of d-dimensional posets
+Citations:2
+Authors: P Berman, A Bhattacharyya, E Grigorescu, S Raskhodnikova, D Woodruff, ...
+Publication: arXiv preprint arXiv:1011.6100
+
+176. Revisiting norm estimation in data streams
+Citations:2
+Authors: J Nelson, DP Woodruff
+Publication: CoRR, abs/0811.3648
+
+177. Distinct elements is hard even for random data streams
+Citations:2
+Authors: D Woodruff
+Publication: Manuscript
+
+178. Low-rank approximation from communication complexity
+Citations:1
+Authors: C Musco, C Musco, DP Woodruff
+Publication: arXiv preprint arXiv:1904.09841
+
+179. Tight bounds for the subspace sketch problem with applications
+Citations:1
+Authors: Y Li, R Wang, DP Woodruff
+Publication: arXiv preprint arXiv:1904.05543
+
+180. Weighted Reservoir Sampling from Distributed Streams
+Citations:1
+Authors: R Jayaram, G Sharma, S Tirthapura, DP Woodruff
+Publication: arXiv preprint arXiv:1904.04126
+
+181. Optimal random sampling from distributed streams revisited
+Citations:1
+Authors: S Tirthapura, DP Woodruff
+Publication: arXiv preprint arXiv:1903.12065
+
+182. Sublinear Time Numerical Linear Algebra for Structured Matrices
+Citations:1
+Authors: X Shi, DP Woodruff
+Publication: Proceedings of the AAAI
+
+183. An empirical evaluation of sketching for numerical linear algebra
+Citations:1
+Authors: Y Dahiya, D Konomis, DP Woodruff
+Publication: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge …
+
+184. High Probability Frequency Moment Sketches
+Citations:1
+Authors: S Ganguly, DP Woodruff
+Publication: arXiv preprint arXiv:1805.10885
+
+185. Data Streams with Bounded Deletions
+Citations:1
+Authors: R Jayaram, DP Woodruff
+Publication: Proceedings of the 37th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …
+
+186. Guest Editorial for Information Complexity and Applications
+Citations:1
+Authors: M Braverman, DP Woodruff
+Publication: Algorithmica 76 (3), 595-596
+
+187. Certifying Equality With Limited Interaction
+Citations:1
+Authors: J Brody, A Chakrabarti, R Kondapally, DP Woodruff, G Yaroslavtsev
+Publication: Algorithmica 76 (3), 796-845
+
+188. Communication and message-efficient protocol for computing the intersection between different sets of data
+Citations:1
+Authors: DP Woodruff, G Yaroslavtsev
+Publication: US Patent 9,438,704
+
+189. A Sketching Algorithm for Spectral Graph Sparsification
+Citations:1
+Authors: J Chen, B Qin, DP Woodruff, Q Zhang
+Publication: arXiv preprint arXiv:1412.8225
+
+190. Estimating the total sales over streaming bids
+Citations:1
+Authors: B Kimelfeld, DP Woodruff
+Publication: US Patent App. 13/901,165
+
+191. Data streams and applications in computer science
+Citations:1
+Authors: DP Woodruff
+Publication: Bulletin of EATCS 3 (114)
+
+192. Information retrieval using sparse matrix sketching
+Citations:1
+Authors: KL Clarkson, DP Woodruff
+Publication: US Patent App. 13/800,497
+
+193. Streaming algorithms with one-sided estimation
+Citations:1
+Authors: J Brody, DP Woodruff
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+194. Towards Optimal Moment Estimation in Streaming and Distributed Models
+Citations:
+Authors: R Jayaram, DP Woodruff
+Publication: arXiv preprint arXiv:1907.05816
+
+195. Oblivious Sketching of High-Degree Polynomial Kernels
+Citations:
+Authors: TD Ahle, M Kapralov, JBT Knudsen, R Pagh, A Velingker, DP Woodruff, ...
+Publication: 
+
+196. Querying a Matrix through Matrix-Vector Products
+Citations:
+Authors: X Sun, DP Woodruff, G Yang, J Zhang
+Publication: arXiv preprint arXiv:1906.05736
+
+197. The Communication Complexity of Optimization
+Citations:
+Authors: SS Vempala, R Wang, DP Woodruff
+Publication: arXiv preprint arXiv:1906.05832
+
+198. Faster Algorithms for High-Dimensional Robust Covariance Estimation
+Citations:
+Authors: Y Cheng, I Diakonikolas, R Ge, D Woodruff
+Publication: arXiv preprint arXiv:1906.04661
+
+199. Sample-Optimal Low-Rank Approximation of Distance Matrices
+Citations:
+Authors: P Indyk, A Vakilian, T Wagner, D Woodruff
+Publication: arXiv preprint arXiv:1906.00339
+
+200. Tight Kernel Query Complexity of Kernel Ridge Regression and Kernel -means Clustering
+Citations:
+Authors: T Yasuda, D Woodruff, M Fernandez
+Publication: International Conference on Machine Learning, 7055-7063
+
+201. Faster Algorithms for Binary Matrix Factorization
+Citations:
+Authors: R Kumar, R Panigrahy, A Rahimi, D Woodruff
+Publication: International Conference on Machine Learning, 3551-3559
+
+202. Separating k-Player from t-Player One-Way Communication, with Applications to Data Streams
+Citations:
+Authors: DP Woodruff, G Yang
+Publication: arXiv preprint arXiv:1905.07135
+
+203. Tight Kernel Query Complexity of Kernel Ridge Regression and Kernel -means Clustering
+Citations:
+Authors: M Fernández, DP Woodruff, T Yasuda
+Publication: arXiv preprint arXiv:1905.06394
+
+204. Dimensionality Reduction for Tukey Regression
+Citations:
+Authors: KL Clarkson, R Wang, DP Woodruff
+Publication: arXiv preprint arXiv:1905.05376
+
+205. Weighted Maximum Independent Set of Geometric Objects in Turnstile Streams
+Citations:
+Authors: A Bakshi, N Chepurko, DP Woodruff
+Publication: arXiv preprint arXiv:1902.10328
+
+206. Non-convex matrix completion and related problems via strong duality
+Citations:
+Authors: MF Balcan, Z Liang, Y Song, DP Woodruff, H Zhang
+Publication: Journal of Machine Learning Research 20 (102), 1-56
+
+207. Sketching Algorithms for Genomic Data Analysis and Querying in a Secure Enclave.
+Citations:
+Authors: C Kockan, K Zhu, N Dokmai, N Karpov, MO Külekci, DP Woodruff, ...
+Publication: RECOMB, 302-304
+
+208. Conditional Sparse lp-norm Regression With Optimal Probability
+Citations:
+Authors: D Woodruff
+Publication: 
+
+209. Conditional Sparse -norm Regression With Optimal Probability
+Citations:
+Authors: J Hainline, B Juba, HS Le, D Woodruff
+Publication: arXiv preprint arXiv:1806.10222
+
+210. Relative Error Tensor Low Rank Approximation
+Citations:
+Authors: DP Woodruff
+Publication: 
+
+211. Information retrieval using sparse matrix sketching
+Citations:
+Authors: KL Clarkson, DP Woodruff
+Publication: US Patent 9,971,735
+
+212. Lower-dimensional subspace approximation of a dataset
+Citations:
+Authors: KL Clarkson, DP Woodruff
+Publication: US Patent App. 15/295,388
+
+213. Sketching structured matrices in nonlinear regression problems
+Citations:
+Authors: H Avron, V Sindhwani, DP Woodruff
+Publication: US Patent 9,928,214
+
+214. Theory and Applications of Hashing
+Citations:
+Authors: M Dietzfelbinger, M Mitzenmacher, R Pagh, DP Woodruff, M Aumüller
+Publication: 
+
+215. Dagstuhl Reports, Vol. 7, Issue 5 ISSN 2192-5283
+Citations:
+Authors: M Dietzfelbinger, M Mitzenmacher, R Pagh, DP Woodruff, M Aumüller, ...
+Publication: 
+
+216. Finding a CUR decomposition
+Citations:
+Authors: C Boutsidis, DP Woodruff
+Publication: US Patent 9,760,537
+
+217. Regression using M-estimators and polynomial kernel support vector machines and principal component regression
+Citations:
+Authors: H Avron, KL Clarkson, H Le Nguyen, DP Woodruff
+Publication: US Patent 9,658,987
+
+218. Robust Communication-Optimal Distributed Clustering Algorithms
+Citations:
+Authors: P Awasthi, A Bakshi, MF Balcan, C White, D Woodruff
+Publication: arXiv preprint arXiv:1703.00830
+
+219. Adaptive matrix vector product
+Citations:
+Authors: SS Vempala, DP Woodruff
+Publication: Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …
+
+220. Theory and Applications of Hashing (Dagstuhl Seminar 17181)
+Citations:
+Authors: M Dietzfelbinger, M Mitzenmacher, R Pagh, DP Woodruff, M Aumüller
+Publication: Dagstuhl Reports 7 (5)
+
+221. Sketching for Geometric Problems (Invited Talk)
+Citations:
+Authors: DP Woodruff
+Publication: 25th Annual European Symposium on Algorithms (ESA 2017)
+
+222. Communication and message-efficient protocol for computing the intersection between different sets of data
+Citations:
+Authors: DP Woodruff, G Yaroslavtsev
+Publication: US Patent 9,438,705
+
+223. An extended Tanner graph approach to decoding LDPC codes over decode-and-forward relay channels
+Citations:
+Authors: B Qian, WH Mow
+Publication: 2016 IEEE International Symposium on Information Theory (ISIT), 2933-2937
+
+224. Identifying a sketching matrix used by a linear sketch
+Citations:
+Authors: M Hardt, DP Woodruff
+Publication: US Patent 9,262,485
+
+225. Editorial to the Special Issue on SODA'12
+Citations:
+Authors: Y Rabani, A Richa, J Saia, DP Woodruff
+Publication: ACM Transactions on Algorithms (TALG) 12 (1), 1
+
+226. On Sketching Quadratic Forms
+Citations:
+Authors: B Qin, D Woodruff, Q Zhang
+Publication: 
+
+227. Fast distributed database frequency summarization
+Citations:
+Authors: DP Woodruff
+Publication: US Patent 9,158,807
+
+228. Robust Regression Analysis Techniques Using Exponential Random Variables
+Citations:
+Authors: DP Woodruff, Q Zhang
+Publication: US Patent App. 14/246,174
+
+229. Summarizing a stream of multidimensional, axis-aligned rectangles
+Citations:
+Authors: SN Tirthapura, DP Woodruff
+Publication: US Patent 9,152,688
+
+230. Estimating the total sales over streaming bids
+Citations:
+Authors: B Kimelfeld, DP Woodruff
+Publication: US Patent App. 14/022,672
+
+231. Foundations and Trends® in Theoretical Computer Science
+Citations:
+Authors: DP Woodruff
+Publication: Foundations and Trends® in Theoretical Computer Science 10 (1-2), 1-157
+
+232. Lower Bounds for Data Streams
+Citations:
+Authors: D Woodruff
+Publication: Banff International Research Station for Mathematical Innovation and Discovery
+
+233. Aggregate contribution of iceberg queries
+Citations:
+Authors: JO Nelson, DP Woodruff
+Publication: US Patent 8,499,003
+
+234. Aggregate contribution of iceberg queries
+Citations:
+Authors: JO Nelson, DP Woodruff
+Publication: US Patent 8,495,087
+
+235. The Round Complexity of Small Set Intersection
+Citations:
+Authors: DP Woodruff, G Yaroslavtsev
+Publication: arXiv preprint arXiv:1304.1796
+
+236. 一种任意域上 3 查询线性可局部解码编码的二次下限
+Citations:
+Authors: DP Woodruff
+Publication: 计算机科学技术学报 27 (4), 678-686
+
+237. PEER
+Citations:
+Authors: A Andoni, J Chen, R Krauthgamer, B Qin, DP Woodruff, Q Zhang, ...
+Publication: Journal of the ACM (JACM) 59 (2), 10
+
+238. Machine Learning-Article 23 (49 pages)-Sublinear Optimization for Machine Learning
+Citations:
+Authors: KL Clarkson, E Hazan, DP Woodruff
+Publication: Journal of the ACM-Association for ComputingMachinery 59 (5)
+
+239. Database Theory Article 2 (45 pages) Epistemic Privacy
+Citations:
+Authors: A Evfimievski, R Fagin, D Woodruff
+Publication: Journal of the Association for Computing Machinery 58 (1)
+
+240. 1-Pass Relative-Error L^ sub p^-Sampling with Applications
+Citations:
+Authors: M Monemizadeh, DP Woodruff
+Publication: Society for Industrial and Applied Mathematics and Association for Computing …
+
+241. Lower bounds for sparse recovery
+Citations:
+Authors: P Indyk, K Do Ba, EC Price, DP Woodruff
+Publication: Society for Industrial and Applied Mathematics
+
+242. Private Information Retrieval
+Citations:
+Authors: M Sudan, D Woodruff, S Yekhanin
+Publication: 
+
+243. Faster Algorithms for Binary Matrix Factorization (Supplementary Material)
+Citations:
+Authors: R Kumar, R Panigrahy, A Rahimi, DP Woodruff
+Publication: 
+
+244. Medical Missing Data Imputation by Stackelberg GAN
+Citations:
+Authors: H Zhang, DP Woodruff
+Publication: 
+
+245. Numerical Linear Algebra in the Streaming Model
+Citations:
+Authors: D Woodruff
+Publication: 
+
+246. Efficient and Thrifty Voting by Any Means Necessary
+Citations:
+Authors: D MANDAL, AD PROCACCIA, N SHAH, DP WOODRUFF
+Publication: 
+
+247. Deterministic Distributed and Streaming Algorithms for Linear Algebra Problems
+Citations:
+Authors: G Cormode, C Dickens, DP Woodruff
+Publication: 
+
+248. Objective: Research/faculty position in theoretical computer science or mathematics.
+Citations:
+Authors: DP Woodruff
+Publication: 
+
+249. On the Communication Complexity of Distributed Set-Joins
+Citations:
+Authors: D Van Gucht, R Williams, DP Woodruff, Q Zhang
+Publication: 
+
+250. Transitive—Closure Spanners
+Citations:
+Authors: DP Woodruff
+Publication: 
+
+251. Supplementary Material: Sketching Structured Matrices For Faster Nonlinear Regression
+Citations:
+Authors: H Avron, V Sindhwani, DP Woodruff
+Publication: 
+
+252. The Information Complexity of Equality and Finding the Intersection
+Citations:
+Authors: J Brody, A Chakrabarti, R Kondapally, DP Woodruff, G Yaroslavtsev
+Publication: 
+
+253. Communication Complexity Lower Bounds for Linear Algebra Problems via the Rank Promise Problem
+Citations:
+Authors: Y Li, X Sun, DP Woodruff
+Publication: 
+
+254. Susanne Albers Humboldt-Universität zu Berlin, Germany Nikhil Bansal Eindhoven University of Technology, The Netherlands
+Citations:
+Authors: M Braverman, H Burhman, M Charikar, A Gupta, A Klivans, S Kopparty, ...
+Publication: 
+
+255. 1 Distance approximation
+Citations:
+Authors: DP Woodruff
+Publication: 
+
+256. MIT Laboratory for Computer Science, March 2003 335
+Citations:
+Authors: D Woodruff, M van Dijk
+Publication: 
+
+257. Algorithms for Data Streams/Sublinear-space Computation
+Citations:
+Authors: P Indyk, D Woodruff
+Publication: 
+
+258. 47 th Annual IEEE Symposium on Foundations of Computer Science FOCS 2006
+Citations:
+Authors: MH Nguyen, SJ Ong, S Vadhan, S Goldwasser, E Pavlov, ...
+Publication: 
+

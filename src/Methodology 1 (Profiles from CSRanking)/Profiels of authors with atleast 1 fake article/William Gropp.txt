@@ -1,0 +1,195 @@
+
+3. PETSc users manual
+Citations:3169
+Authors: S Balay, S Abhyankar, M Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Argonne National Laboratory
+
+7. PETSc web page
+Citations:1098
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: 
+
+9. The international exascale software project roadmap
+Citations:702
+Authors: J Dongarra, P Beckman, T Moore, P Aerts, G Aloisio, JC Andre, D Barkai, ...
+Publication: International Journal of High Performance Computing Applications 25 (1), 3-60
+
+16. Toward exascale resilience
+Citations:376
+Authors: F Cappello, A Geist, B Gropp, L Kale, B Kramer, M Snir
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+34. Petsc users manual revision 3.8
+Citations:198
+Authors: S Balay, S Abhyankar, M Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Argonne National Lab.(ANL), Argonne, IL (United States)
+
+36. A message passing interface standard
+Citations:196
+Authors: MPI Mpi
+Publication: International Journal of Supercomputer Applications 8 (3/4), 165-414
+
+37. Modern software tools for scientific computing
+Citations:189
+Authors: E Arge, A Bruaset, HP Langtangen
+Publication: Springer Science & Business Media
+
+40. An introduction to domain decomposition methods: algorithms, theory, and parallel implementation
+Citations:163
+Authors: V Dolean, P Jolivet, F Nataf
+Publication: SIAM
+
+56. From trace generation to visualization: A performance framework for distributed parallel systems
+Citations:107
+Authors: CE Wu, A Bolmarcich, M Snir, D Wootton, F Parpia, A Chan, E Lusk, ...
+Publication: Proceedings of the 2000 ACM/IEEE conference on Supercomputing, 50
+
+64. PETSc Users Manual, Argonne National Laboratory
+Citations:92
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Computer, Computational, and Statistical Sciences Division
+
+66. Design and implementation of message-passing services for the Blue Gene/L supercomputer
+Citations:85
+Authors: G Almási, C Archer, JG Castanos, JA Gunnels, CC Erway, P Heidelberger, ...
+Publication: IBM Journal of Research and Development 49 (2.3), 393-406
+
+75. High performance file I/O for the Blue Gene/L supercomputer
+Citations:74
+Authors: H Yu, RK Sahoo, C Howson, G Almasi, JG Castanos, M Gupta, JE Moreira, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+78. Lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics): Preface
+Citations:73
+Authors: M Abe, K Aoki, G Ateniese, R Avanzi, Z Beerliová, O Billet, A Biryukov, ...
+Publication: Lecture Notes in Computer Science (including subseries Lecture Notes in …
+
+105. Domain decomposition methods for partial differential equations
+Citations:59
+Authors: BF Smith
+Publication: Parallel Numerical Algorithms, 225-243
+
+106. Electron injection by a nanowire in the bubble regime
+Citations:56
+Authors: B Shen, Y Li, K Nemeth, H Shang, Y Chae, R Soliday, R Crowell, E Frank, ...
+Publication: Physics of plasmas 14 (5), 053115
+
+116. Amphotericin B, its production, and its salts
+Citations:49
+Authors: JD Dutcher, G William, JF Pagano, V John
+Publication: US Patent 2,908,611
+
+137. Leveraging MPI’s one-sided communication interface for shared-memory programming
+Citations:41
+Authors: T Hoefler, J Dinan, D Buntinas, P Balaji, BW Barrett, R Brightwell, ...
+Publication: European MPI Users' Group Meeting, 132-141
+
+155. MPI on BlueGene/L: Designing an efficient general purpose messaging solution for a large cellular system
+Citations:36
+Authors: G Almási, C Archer, JG Castaños, M Gupta, X Martorell, JE Moreira, ...
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+162. Implementing MPI on the BlueGene/L supercomputer
+Citations:34
+Authors: G Almási, C Archer, JG Castanos, CC Erway, P Heidelberger, X Martorell, ...
+Publication: European Conference on Parallel Processing, 833-845
+
+185. A formal approach to detect functionally irrelevant barriers in MPI programs
+Citations:26
+Authors: S Sharma, S Vakkalanka, G Gopalakrishnan, RM Kirby, R Thakur, ...
+Publication: European Parallel Virtual Machine/Message Passing Interface Users’ Group …
+
+189. Résistance génétique des petits ruminants aux helminthes en Afrique
+Citations:26
+Authors: RL Baker
+Publication: Productions Animales 1 (10), 99-100.(1997)
+
+217. A Viewpoint on the Quantity" Plane Angle"
+Citations:21
+Authors: WE Eder
+Publication: Metrologia 18 (1), 1
+
+218. Big data and extreme-scale computing: Pathways to convergence-toward a shaping strategy for a future software and data ecosystem for scientific inquiry
+Citations:20
+Authors: M Asch, T Moore, R Badia, M Beck, P Beckman, T Bidot, F Bodin, ...
+Publication: The International Journal of High Performance Computing Applications 32 (4 …
+
+245. Performing Arts: the Economic Dilemma; a Study of Problems Common to Theater, Opera, Music, and Dance
+Citations:16
+Authors: WG Bowen
+Publication: New York: Twentieth Century Fund
+
+282. Runtime support for object-based message-driven parallel applications on heterogeneous clusters
+Citations:11
+Authors: D Kunzman
+Publication: University of Illinois at Urbana-Champaign
+
+297. Toward asynchronous and MPI-interoperable active messages
+Citations:10
+Authors: X Zhao, D Buntinas, J Zounmevo, J Dinan, D Goodell, P Balaji, R Thakur, ...
+Publication: 2013 13th IEEE/ACM International Symposium on Cluster, Cloud, and Grid …
+
+298. A case for optimistic coordination in hpc storage systems
+Citations:10
+Authors: P Carns, K Harms, D Kimpe, R Ross, J Wozniak, L Ward, M Curry, ...
+Publication: 2012 SC Companion: High Performance Computing, Networking Storage and …
+
+311. Amphotericin A and its salts
+Citations:10
+Authors: JD Dutcher, G William, JF Pagano, V John
+Publication: US Patent 2,908,612
+
+344. Process of recovering nystatin
+Citations:8
+Authors: V John, G William
+Publication: US Patent 2,786,781
+
+352. Beowulf cluster computing with Linux
+Citations:7
+Authors: G William, L Ewing, S Thomas
+Publication: The MIT Press, Cambridge, Massachusetts London, England
+
+354. Using MPI-2: advanced features of the message-passing interface
+Citations:7
+Authors: G William, L Ewing, T Rajeev
+Publication: MIT Press
+
+379. The Scalable I/O Initiative
+Citations:6
+Authors: B Bershad, A Chien, A Choudhary, T Cormen, E DeBenedictis, D DeWitt, ...
+Publication: white paper, available through the Concurrent Supercomputing Consortium …
+
+394. Fault tolerance in message passing interface programs
+Citations:5
+Authors: G William, L Ewing
+Publication: International Journal of High Performance Computing Applications, Fall, 363-372
+
+407. The MPI message-passing interface standard: overview and status
+Citations:5
+Authors: JJ Dongarra, L Grandinetti, GR Joubert, J Kowalik
+Publication: High Performance Computing: Technology, Methods and Applications 10, 265
+
+455. Stable numerical methods for hyperbolic partial differential equations using overlapping domain decomposition
+Citations:3
+Authors: AH Reichert
+Publication: University of Illinois at Urbana-Champaign
+
+470. Domain decomposition with local mesh refinement
+Citations:3
+Authors: DE Keyes
+Publication: ICASE, NASA Langley Research Center
+
+475. PETSc Web page [online](2015)
+Citations:3
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: URL http://www. mcs. anl. gov/petsc
+
+494. PETSc developers manual
+Citations:2
+Authors: S Balay, S Abhyankar, MF Adams, J Brown, P Brune, K Buschelman, ...
+Publication: Technical report, Argonne National Laboratory
+
+496. Generalizing smoothed aggregation-based algebraic multigrid
+Citations:2
+Authors: JB Schroder
+Publication: University of Illinois at Urbana-Champaign

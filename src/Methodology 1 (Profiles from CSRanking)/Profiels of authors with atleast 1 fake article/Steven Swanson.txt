@@ -1,0 +1,180 @@
+
+1. NV-Heaps: making persistent objects fast and safe with next-generation, non-volatile memories
+Citations:583
+Authors: J Coburn, AM Caulfield, A Akel, LM Grupp, RK Gupta, R Jhala, ...
+Publication: ACM Sigplan Notices 47 (4), 105-118
+
+2. Conservation cores: reducing the energy of mature computations
+Citations:515
+Authors: G Venkatesh, J Sampson, N Goulding, S Garcia, V Bryksin, ...
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 205-218
+
+12. The greendroid mobile application processor: An architecture for silicon's dark future
+Citations:175
+Authors: N Goulding-Hotta, J Sampson, G Venkatesh, S Garcia, J Auricchio, ...
+Publication: IEEE Micro 31 (2), 86-95
+
+13. ProtectMyPrivacy: detecting and mitigating privacy leaks on iOS devices using crowdsourcing
+Citations:170
+Authors: Y Agarwal, M Hall
+Publication: Proceeding of the 11th annual international conference on Mobile systems …
+
+14. Near-data processing: Insights from a MICRO-46 workshop
+Citations:155
+Authors: R Balasubramonian, J Chang, T Manning, JH Moreno, R Murphy, R Nair, ...
+Publication: IEEE Micro 34 (4), 36-42
+
+16. Understanding the impact of emerging non-volatile memories on high-performance, io-intensive computing
+Citations:142
+Authors: AM Caulfield, J Coburn, T Mollov, A De, A Akel, J He, A Jagatheesan, ...
+Publication: Proceedings of the 2010 ACM/IEEE International Conference for High …
+
+18. QsCores: Trading dark silicon for scalable energy efficiency with quasi-specific cores
+Citations:133
+Authors: G Venkatesh, J Sampson, N Goulding-Hotta, SK Venkata, MB Taylor, ...
+Publication: 2011 44th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+20. Underdesigned and opportunistic computing in presence of hardware variability
+Citations:125
+Authors: P Gupta, Y Agarwal, L Dolecek, N Dutt, RK Gupta, R Kumar, S Mitra, ...
+Publication: IEEE Transactions on Computer-Aided Design of integrated circuits and …
+
+24. Building a wavecache
+Citations:97
+Authors: SJ Eggers, MA Mercaldi, KA Michelson, MH Oskin, AK Petersen, ...
+Publication: US Patent 7,490,218
+
+27. Willow: A User-Programmable {SSD}
+Citations:85
+Authors: S Seshadri, M Gahagan, S Bhaskaran, T Bunker, A De, Y Jin, Y Liu, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+42. {DC} Express: Shortest Latency Protocol for Reading Phase Change Memory over {PCI} Express
+Citations:38
+Authors: D Vučinić, Q Wang, C Guyot, R Mateescu, F Blagojević, L Franca-Neto, ...
+Publication: Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …
+
+43. GreenDroid: A mobile application processor for a future of dark silicon
+Citations:37
+Authors: N Goulding, J Sampson, G Venkatesh, S Garcia, J Auricchio, J Babb, ...
+Publication: 2010 IEEE Hot Chips 22 Symposium (HCS), 1-39
+
+46. NOVA-Fortis: A fault-tolerant non-volatile main memory file system
+Citations:35
+Authors: J Xu, L Zhang, A Memaripour, A Gangadharaiah, A Borase, TB Da Silva, ...
+Publication: Proceedings of the 26th Symposium on Operating Systems Principles, 478-496
+
+49. Atomic in-place updates for non-volatile main memories with kamino-tx
+Citations:33
+Authors: A Memaripour, A Badam, A Phanishayee, Y Zhou, R Alagappan, ...
+Publication: Proceedings of the Twelfth European Conference on Computer Systems, 499-512
+
+52. AutoTiering: automatic data placement manager in multi-tier all-flash datacenter
+Citations:28
+Authors: Z Yang, M Hoseinzadeh, A Andrews, C Mayers, DT Evans, RT Bolt, ...
+Publication: 2017 IEEE 36th International Performance Computing and Communications …
+
+63. Basic performance measurements of the intel optane DC persistent memory module
+Citations:20
+Authors: J Izraelevitz, J Yang, L Zhang, J Kim, X Liu, A Memaripour, YJ Soh, ...
+Publication: arXiv preprint arXiv:1903.05714
+
+71. vCorfu: A cloud-scale object store on a shared log
+Citations:16
+Authors: M Wei, A Tai, CJ Rossbach, I Abraham, M Munshed, M Dhawan, J Stabile, ...
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+72. NSF expedition on variability-aware software: Recent results and contributions
+Citations:16
+Authors: L Wanner, L Lai, A Rahimi, M Gottscho, P Mercati, CH Huang, F Sala, ...
+Publication: it-Information Technology 57 (3), 181-198
+
+78. H-NVMe: a hybrid framework of NVMe-based storage system in cloud computing environment
+Citations:14
+Authors: Z Yang, M Hoseinzadeh, P Wong, J Artoux, C Mayers, DT Evans, RT Bolt, ...
+Publication: 2017 IEEE 36th International Performance Computing and Communications …
+
+85. Hyperloop: group-based NIC-offloading to accelerate replicated transactions in multi-tenant storage systems
+Citations:10
+Authors: D Kim, A Memaripour, A Badam, Y Zhu, HH Liu, J Padhye, S Raindel, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+87. Building a wavecache
+Citations:10
+Authors: S Eggers, M Mercaldi, K Michelson, M Oskin, A Petersen, A Putnam, ...
+Publication: US Patent App. 11/830,446
+
+94. An evaluation of selective depipelining for FPGA-based energy-reducing irregular code coprocessors
+Citations:7
+Authors: J Sampson, M Arora, N Goulding-Hotta, G Venkatesh, J Babb, V Bhatt, ...
+Publication: 2011 21st International Conference on Field Programmable Logic and …
+
+104. Density tradeoffs of non-volatile memory as a replacement for SRAM based last level cache
+Citations:5
+Authors: K Korgaonkar, I Bhati, H Liu, J Gaur, S Manipatruni, S Subramoney, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+106. Reducing the energy cost of irregular code bases in soft processor systems
+Citations:5
+Authors: M Arora, J Sampson, N Goulding-Hotta, J Babb, G Venkatesh, MB Taylor, ...
+Publication: 2011 IEEE 19th Annual International Symposium on Field-Programmable Custom …
+
+125. AAV
+Citations:1
+Authors: D Grimm
+Publication: Encyclopedic Reference of Cancer, 1-6
+
+134. Hardening the NOVA File System
+Citations:
+Authors: J Xu, L Zhang, A Memaripour, A Gangadharaiah, A Borase, TB Da Silva, ...
+Publication: Department of Computer Science and Engineering, University of California …
+
+135. Adonis: Large-Scale Data Stores over a Shared Log
+Citations:
+Authors: M Wei, A Tai, CJ Rossbach, S Fritchie, I Abraham, U Wieder, M Munshed, ...
+Publication: 
+
+136. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+137. 4 Guest Editors’ Introduction: Big Data
+Citations:
+Authors: B Falsafi, B Grot, R Polig, K Atasu, L Chiticariu, C Hagleitner, HP Hofstee, ...
+Publication: 
+
+143. 68 Awards
+Citations:
+Authors: DI August, S Campanoni, TM Jones, G Holloway, GY Wei, D Brooks, F Li, ...
+Publication: 
+
+147. Coding for flash memories
+Citations:
+Authors: E Yaakobi
+Publication: UC San Diego
+
+148. 81 AnySP: Anytime Anywhere Anyway Signal Processing Mark Woh, Sangwon Seo, Scott Mahlke, Trevor Mudge
+Citations:
+Authors: C Chakrabarti, K Flautner, M Tiwari, X Li, HMG Wassel, B Mazloom, ...
+Publication: 
+
+160. usenix conference policies
+Citations:
+Authors: S Bhaskaran, T Bunker, A De, M Gahagan, Y Jin, R Liu, S Seshadri, ...
+Publication: 
+
+164. Analog, Mixed-Signal, and RF Circuits Simulation-Assisted Formal Verification of Nonlinear Mixed-Signal Circuits With Bayesian Inference Guidance................
+Citations:
+Authors: L Yin, Y Deng, P Li, MPH Lin, YT He, VWH Hsiao, RG Chang, SY Lee, ...
+Publication: 
+
+169. Christos Kozyrakis, Aman Kansal, Sriram Sankar, and Kushagra Vaid 20 Challenges and Opportunities for Extremely Energy-Efficient Processors
+Citations:
+Authors: T Mudge, U Hölzle, AADD Strategy, JE Moreira, JP Karidis, A Vahdat, ...
+Publication: 
+
+170. Hans Zima (University of Vienna and JPL)
+Citations:
+Authors: G Almasi, B Mendelson, D Callahan, A Cohen, J Cownie, J Dehnert, ...
+Publication: 

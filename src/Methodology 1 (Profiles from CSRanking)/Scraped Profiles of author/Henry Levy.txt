@@ -1,0 +1,1068 @@
+https://scholar.google.com/citations?hl=en&user=ymwKqZsAAAAJ
+Total Citations = 26089
+
+1. Simultaneous multithreading: Maximizing on-chip parallelism
+Citations:2052
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: ACM SIGARCH computer architecture news 23 (2), 392-403
+
+2. Measurement, modeling, and analysis of a peer-to-peer file-sharing workload
+Citations:1241
+Authors: KP Gummadi, RJ Dunn, S Saroiu, SD Gribble, HM Levy, J Zahorjan
+Publication: ACM SIGOPS Operating Systems Review 37 (5), 314-329
+
+3. Fine-grained mobility in the Emerald system
+Citations:1125
+Authors: E Jul, H Levy, N Hutchinson, A Black
+Publication: ACM Transactions on Computer Systems (TOCS) 6 (1), 109-133
+
+4. Exploiting choice: Instruction fetch and issue on an implementable simultaneous multithreading processor
+Citations:1073
+Authors: DM Tullsen, SJ Eggers, JS Emer, HM Levy, JL Lo, RL Stamm
+Publication: ACM SIGARCH Computer Architecture News 24 (2), 191-202
+
+5. On the scale and performance of cooperative web proxy caching
+Citations:867
+Authors: A Wolman, M Voelker, N Sharma, N Cardwell, A Karlin, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 33 (5), 16-31
+
+6. An analysis of internet content delivery systems
+Citations:828
+Authors: S Saroiu, KP Gummadi, RJ Dunn, SD Gribble, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 315-327
+
+7. Capability-based computer systems
+Citations:663
+Authors: HM Levy
+Publication: Digital Press
+
+8. Distrbution and abstract types in emerald
+Citations:630
+Authors: A Black, N Hutchinson, E Jul, H Levy, L Carter
+Publication: IEEE Transactions on Software Engineering, 65-76
+
+9. Simultaneous multithreading: A platform for next generation processors
+Citations:606
+Authors: DLT SJ Eggers, JS Emer, HM Levy, JL Lo, RL Stamm
+Publication: IEEE Micro 17 (5), 12 - 19
+
+10. Lightweight remote procedure call
+Citations:594
+Authors: B Bershad, T Anderson, E Lazowska, H Levy
+Publication: ACM SIGOPS Operating Systems Review 23 (5), 102-113
+
+11. Scheduler activations: Effective kernel support for the user-level management of parallelism
+Citations:579
+Authors: TE Anderson, BN Bershad, ED Lazowska, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 10 (1), 53-79
+
+12. Implementing global memory management in a workstation cluster
+Citations:544
+Authors: MJ Feeley, WE Morgan, EP Pighin, AR Karlin, HM Levy, CA Thekkath
+Publication: ACM SIGOPS Operating Systems Review 29 (5), 201-212
+
+13. Improving the reliability of commodity operating systems
+Citations:483
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: ACM SIGOPS operating systems review 37 (5), 207-222
+
+14. Object structure in the Emerald system
+Citations:429
+Authors: A Black, N Hutchinson, E Jul, H Levy
+Publication: ACM SIGPLAN Notices 21 (11), 78-86
+
+15. Vanish: Increasing Data Privacy with Self-Destructing Data.
+Citations:419
+Authors: R Geambasu, T Kohno, AA Levy, HM Levy
+Publication: USENIX Security Symposium 316
+
+16. Measurement and analysis of a streaming media workload.
+Citations:404
+Authors: M Chesire, A Wolman, GM Voelker, HM Levy
+Publication: USITS 1, 1-1
+
+17. Sharing and protection in a single-address-space operating system
+Citations:395
+Authors: JS Chase, HM Levy, MJ Feeley, ED Lazowska
+Publication: ACM Transactions on Computer Systems (TOCS) 12 (4), 271-307
+
+18. Improving the Reliability of Internet Paths with One-hop Source Routing.
+Citations:389
+Authors: PK Gummadi, HV Madhyastha, SD Gribble, HM Levy, D Wetherall
+Publication: OSDI 4, 13-13
+
+19. The Amber system: Parallel programming on a network of multiprocessors
+Citations:388
+Authors: J Chase, F Amador, E Lazowska, H Levy, R Littlefield
+Publication: ACM SIGOPS Operating Systems Review 23 (5), 147-158
+
+20. Scheduler activations: Effective kernel support for the user-level management of parallelism
+Citations:377
+Authors: TE Anderson, BN Bershad, ED Lazowska, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 25 (5), 95-109
+
+21. Detection of spyware threats within virtual machine
+Citations:359
+Authors: S Gribble, H Levy, A Moshchuk, T Bragin
+Publication: US Patent 8,196,205
+
+22. Recovering device drivers
+Citations:351
+Authors: MM Swift, M Annamalai, BN Bershad, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 24 (4), 333-360
+
+23. PRESTO: A system for object‐oriented parallel programming
+Citations:345
+Authors: BN Bershad, ED Lazowska, HM Levy
+Publication: Software: Practice and Experience 18 (8), 713-732
+
+24. Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading
+Citations:343
+Authors: JL Lo, JS Emer, HM Levy, RL Stamm, DM Tullsen, SJ Eggers
+Publication: ACM Transactions on Computer Systems (TOCS) 15 (3), 322-354
+
+25. VAXcluster: a closely-coupled distributed system
+Citations:331
+Authors: NP Kronenberg, HM Levy, WD Strecker
+Publication: ACM Transactions on Computer Systems (TOCS) 4 (2), 130-146
+
+26. A Crawler-based Study of Spyware in the Web.
+Citations:326
+Authors: A Moshchuk, T Bragin, SD Gribble, HM Levy
+Publication: NDSS 1, 2
+
+27. An architecture for software-controlled data prefetching
+Citations:323
+Authors: AC Klaiber, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 19 (3), 43-53
+
+28. Improving the reliability of commodity operating systems
+Citations:314
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 23 (1), 77-110
+
+29. The interaction of architecture and operating system design
+Citations:296
+Authors: TE Anderson, HM Levy, BN Bershad, ED Lazowska
+Publication: ACM SIGARCH Computer Architecture News 19 (2), 108-120
+
+30. The performance implications of thread management alternatives for shared-memory multiprocessors
+Citations:291
+Authors: TE Anderson, ED Lazowska, HM Levy
+Publication: IEEE Transactions on Computers 38 (12), 1631-1644
+
+31. An analysis of database workload performance on simultaneous multithreaded processors
+Citations:287
+Authors: JL Lo, LA Barroso, SJ Eggers, K Gharachorloo, HM Levy, SS Parekh
+Publication: ACM SIGARCH Computer Architecture News 26 (3), 39-50
+
+32. Hastily formed networks
+Citations:271
+Authors: PJ Denning
+Publication: Communications of the ACM 49 (4), 15-20
+
+33. Web browser operating system
+Citations:259
+Authors: HM Levy, S Gribble, JG Hansen, RS Cox
+Publication: US Patent 7,836,303
+
+34. Manageability, availability and performance in Porcupine: a highly scalable, cluster-based mail service
+Citations:235
+Authors: Y Saito, BN Bershad, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 33 (5), 1-15
+
+35. Detection of spyware threats within virtual machine
+Citations:210
+Authors: 
+Publication: US Patent 20,130,014,259
+
+36. Limits to low-latency communication on high-speed networks
+Citations:206
+Authors: CA Thekkath, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 11 (2), 179-203
+
+37. A safety-oriented platform for web applications
+Citations:198
+Authors: RS Cox, JG Hansen, SD Gribble, HM Levy
+Publication: 2006 IEEE Symposium on Security and Privacy (S&P'06), 15 pp.-364
+
+38. Using global memory information to manage memory in a computer network
+Citations:192
+Authors: HM Levy, MJ Feeley, AR Karlin, WE Morgan, CA Thekkath
+Publication: US Patent 6,167,490
+
+39. Trace based method for the analysis, benchmarking and tuning of object oriented databases and applications
+Citations:188
+Authors: HM Levy, A Tiwary, VR Narasayya
+Publication: US Patent 6,145,121
+
+40. Techniques for efficient inline tracing on a shared-memory multiprocessor
+Citations:182
+Authors: SJ Eggers, DR Keppel, EJ Koldinger, HM Levy
+Publication: ACM SIGMETRICS Performance Evaluation Review 18 (1), 37-47
+
+41. SpyProxy: Execution-based Detection of Malicious Web Content.
+Citations:171
+Authors: A Moshchuk, T Bragin, D Deville, SD Gribble, HM Levy
+Publication: USENIX Security Symposium, 1-16
+
+42. Supporting fine-grained synchronization on a simultaneous multithreading processor
+Citations:168
+Authors: DM Tullsen, JL Lo, SJ Eggers, HM Levy
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+43. Emerald: A general‐purpose programming language
+Citations:168
+Authors: RK Raj, E Tempero, HM Levy, AP Black, NC Hutchinson, E Jul
+Publication: Software: Practice and Experience 21 (1), 91-118
+
+44. User-level interprocess communication for shared memory multiprocessors
+Citations:166
+Authors: BN Bershad, TE Anderson, ED Lazowska, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 9 (2), 175-198
+
+45. Shared register storage mechanisms for multithreaded computer systems with out-of-order execution
+Citations:165
+Authors: HM Levy, SJ Eggers, J Lo, DM Tullsen
+Publication: US Patent 6,092,175
+
+46. Web browser architecture for virtual machine access
+Citations:158
+Authors: D Richardson, B Bershad, S Gribble, H Levy
+Publication: US Patent App. 11/532,419
+
+47. Operating System Implications of Fast, Cheap, Non-Volatile Memory.
+Citations:147
+Authors: K Bailey, L Ceze, SD Gribble, HM Levy
+Publication: HotOS 13, 2-2
+
+48. ORGANIZ AT ION-BASEDANALYSISOF WEB-OBJECTSHARINGANDCACHI NG
+Citations:143
+Authors: A Wolman, G Voelker, N Sharma, N Cardwell, M Brown, T Landray, ...
+Publication: 
+
+49. Computer science handbook
+Citations:138
+Authors: AB Tucker
+Publication: CRC press
+
+50. Measurement and Analysis of Spyware in a University Environment.
+Citations:136
+Authors: S Saroiu, SD Gribble, HM Levy
+Publication: NSDI, 141-153
+
+51. Implementing cooperative prefetching and caching in a globally-managed memory system
+Citations:129
+Authors: GM Voelker, EJ Anderson, T Kimbrel, MJ Feeley, JS Chase, AR Karlin, ...
+Publication: ACM SIGMETRICS Performance Evaluation Review 26 (1), 33-43
+
+52. Thread-sensitive scheduling for SMT processors
+Citations:126
+Authors: S Parekh, S Eggers, H Levy, J Lo
+Publication: Technical report, Department of Computer Science and Engineering, University …
+
+53. Computer security and the modern home
+Citations:122
+Authors: T Denning, T Kohno, HM Levy
+Publication: Communications of the ACM 56 (1), 94-103
+
+54. The architecture of the EDEN system
+Citations:120
+Authors: ED Lazowska, HM Levy, GT Almes, MJ Fischer, RJ Fowler, SC Vestal
+Publication: ACM SIGOPS Operating Systems Review 15 (5), 148-159
+
+55. Computer programming and architecture: The VAX
+Citations:118
+Authors: H Levy, R Eckhouse
+Publication: Digital Press
+
+56. The structure and performance of interpreters
+Citations:118
+Authors: TH Romer, D Lee, GM Voelker, A Wolman, WA Wong, JL Baer, ...
+Publication: ACM SIGPLAN Notices 31 (9), 150-159
+
+57. Separating data and control transfer in distributed operating systems
+Citations:113
+Authors: CA Thekkath, HM Levy, ED Lazowska
+Publication: ACM SIGPLAN Notices 29 (11), 2-11
+
+58. An analysis of operating system behavior on a simultaneous multithreaded architecture
+Citations:111
+Authors: JA Redstone, SJ Eggers, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 34 (5), 245-256
+
+59. Organization and performance of a two-level virtual-real cache hierarchy
+Citations:111
+Authors: WH Wang, JL Baer, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 17 (3), 140-148
+
+60. Hardware and software support for efficient exception handling
+Citations:107
+Authors: CA Thekkath, HM Levy
+Publication: ACM SIGPLAN Notices 29 (11), 110-119
+
+61. Interconnecting heterogeneous computer systems
+Citations:106
+Authors: D Notkin, AP Black, ED Lazowska, HM Levy, J Sanislo, J Zahorjan
+Publication: Communications of the ACM 31 (3), 258-273
+
+62. Lightweight shared objects in a 64-bit operating system
+Citations:105
+Authors: JS Chase, HM Levy, ED Lazowska, M Baker-Harvey
+Publication: ACM SIGPLAN Notices 27 (10), 397-413
+
+63. Virtual memory management in the VAX/VMS operating system
+Citations:102
+Authors: B OFFSET
+Publication: Computer 50 (5), 36
+
+64. Mechanism for freeing registers on processors that perform dynamic out-of-order execution of instructions using renaming registers
+Citations:101
+Authors: HM Levy, SJ Eggers, J Lo, DM Tullsen
+Publication: US Patent 6,314,511
+
+65. Nooks: An architecture for reliable device drivers
+Citations:100
+Authors: MM Swift, S Martin, HM Levy, SJ Eggers
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 102-107
+
+66. Thread properties attribute vector based thread selection in multithreading processor
+Citations:95
+Authors: JS Emer, R Stamm, T Fossum, RH Halstead Jr, GZ Chrysos, D Tullsen, ...
+Publication: US Patent 6,073,159
+
+67. Comet: An active distributed key-value store.
+Citations:88
+Authors: R Geambasu, AA Levy, T Kohno, A Krishnamurthy, HM Levy
+Publication: OSDI, 323-336
+
+68. An open enviornment for building parallel programming systems
+Citations:86
+Authors: BN Bershad, ED Lazowska, HM Levy, DB Wagner
+Publication: ACM SIGPLAN Notices 23 (9), 1-9
+
+69. Tuning compiler optimizations for simultaneous multithreading
+Citations:85
+Authors: JL Lo, SJ Eggers, HM Levy, SS Parekh, DM Tullsen
+Publication: International Journal of Parallel Programming 27 (6), 477-503
+
+70. Homeviews: peer-to-peer middleware for personal data sharing applications
+Citations:84
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+71. Software-directed register deallocation for simultaneous multithreaded processors
+Citations:83
+Authors: JL Lo, SS Parekh, SJ Eggers, HM Levy, DM Tullsen
+Publication: IEEE Transactions on Parallel and Distributed Systems 10 (9), 922-933
+
+72. Measurement and analysis of instruction use in the VAX-11/780
+Citations:80
+Authors: DW Clark, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 10 (3), 9-17
+
+73. Teaching operating systems using android
+Citations:79
+Authors: J Andrus, J Nieh
+Publication: Proceedings of the 43rd ACM technical symposium on Computer Science …
+
+74. Environment manipulation for executing modified executable and dynamically-loaded library files
+Citations:76
+Authors: TH Romer, A Wolman, DC Lee, GM Voelker, BN Bershad, JB Chen, ...
+Publication: US Patent 5,953,534
+
+75. A comparison of message passing and shared memory architectures for data parallel programs
+Citations:75
+Authors: AC Klaiber, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 22 (2), 94-105
+
+76. Simultaneous multithreading: maximizing on-chip parallelism
+Citations:74
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE 25, 115-116
+
+77. A simulation study of two-level caches
+Citations:73
+Authors: RT Short, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 16 (2), 81-88
+
+78. A compositional model for software reuse
+Citations:71
+Authors: RK Raj, HM Levy
+Publication: The Computer Journal 32 (4), 312-322
+
+79. Mangrove: Enticing ordinary people onto the semantic web via instant gratification
+Citations:68
+Authors: L McDowell, O Etzioni, SD Gribble, A Halevy, H Levy, W Pentney, ...
+Publication: International Semantic Web Conference, 754-770
+
+80. Efficient support for multicomputing on ATM networks
+Citations:68
+Authors: CA Thekkath, HM Levy, ED Lazowska
+Publication: UW-CSE
+
+81. An evaluation of branch architectures
+Citations:66
+Authors: JA DeRosa, HM Levy
+Publication: Proceedings of the 14th annual international symposium on Computer …
+
+82. Semantic email
+Citations:64
+Authors: L McDowell, O Etzioni, A Halevy, H Levy
+Publication: Proceedings of the 13th international conference on World Wide Web, 244-254
+
+83. On the validity of trace-driven simulation for multiprocessors
+Citations:63
+Authors: EJ Koldinger, SJ Eggers, HM Levy
+Publication: ACM SIGARCH Computer Architecture News 19 (3), 244-253
+
+84. Customizable and extensible deployment for mobile/cloud applications
+Citations:61
+Authors: I Zhang, A Szekeres, D Van Aken, I Ackerman, SD Gribble, ...
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+85. How to use a 64-bit virtual address space
+Citations:61
+Authors: JS Chase, HM Levy, M Baker-Harvey, ED Lazowska
+Publication: Department of Computer Science and Engineering, University of Washington
+
+86. Keypad: An auditing file system for theft-prone devices
+Citations:60
+Authors: R Geambasu, JP John, SD Gribble, T Kohno, HM Levy
+Publication: Proceedings of the sixth conference on Computer systems, 1-16
+
+87. Pipelined multi-thread processor selecting thread instruction in inter-stage buffer based on count information
+Citations:59
+Authors: JS Emer, R Stamm, T Fossum, RH Halstead Jr, GZ Chrysos, D Tullsen, ...
+Publication: US Patent 6,470,443
+
+88. Organizing and sharing distributed personal web-service data
+Citations:58
+Authors: R Geambasu, C Cheung, A Moshchuk, SD Gribble, HM Levy
+Publication: Proceedings of the 17th international conference on World Wide Web, 755-764
+
+89. Managing server load in global memory systems
+Citations:58
+Authors: GM Voelker, HA Jamrozik, MK Vernon, HM Levy, ED Lazowska
+Publication: ACM SIGMETRICS Performance Evaluation Review 25 (1), 127-138
+
+90. Distributed shared memory with versioned objects
+Citations:58
+Authors: MJ Feeley, HM Levy
+Publication: OOPSLA 92, 247-262
+
+91. Modules, objects and distributed programming: Issues in RPC and remote object invocation
+Citations:57
+Authors: HM Levy, ED Tempero
+Publication: Software: Practice and Experience 21 (1), 77-90
+
+92. The development of the Emerald programming language
+Citations:51
+Authors: AP Black, NC Hutchinson, E Jul, HM Levy
+Publication: Proceedings of the third ACM SIGPLAN conference on History of programming …
+
+93. CloudViews: Communal Data Sharing in Public Clouds.
+Citations:49
+Authors: R Geambasu, SD Gribble, HM Levy
+Publication: HotCloud
+
+94. Optimistic replication for internet data services
+Citations:48
+Authors: Y Saito, HM Levy
+Publication: International Symposium on Distributed Computing, 297-314
+
+95. Reducing network latency using subpages in a global memory environment
+Citations:47
+Authors: HA Jamrozik, MJ Feeley, GM Voelker, J Evans II, AR Karlin, HM Levy, ...
+Publication: ACM SIGOPS Operating Systems Review 30 (5), 258-267
+
+96. Netstation Architecture Multi-Gigabit Workstation Network Fabric
+Citations:46
+Authors: GG Finn, P Mockapetris, R Sloan, T Anderson, D Culler, D Patterson, ...
+Publication: Proceedings of InterOp 94, 1-9
+
+97. Mini-threads: Increasing TLP on small-scale SMT processors
+Citations:43
+Authors: J Redstone, S Eggers, H Levy
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+98. The EMERALD Programming Language: Report
+Citations:43
+Authors: NC Hutchinson, RK Raj, AP Black
+Publication: University of Arizona. Department of Computer Science
+
+99. Flashproxy: transparently enabling rich web content via remote execution
+Citations:41
+Authors: A Moshchuk, SD Gribble, HM Levy
+Publication: Proceedings of the 6th international conference on Mobile systems …
+
+100. Fine-grained mobility in the emerald system
+Citations:40
+Authors: E Jul, H Levy, N Hutchinson, A Black
+Publication: ACM SIGOPS Operating Systems Review 21 (5), 105-106
+
+101. Exploring storage class memory with key value stores
+Citations:39
+Authors: KA Bailey, P Hornyack, L Ceze, SD Gribble, HM Levy
+Publication: Proceedings of the 1st Workshop on Interactions of NVM/FLASH with Operating …
+
+102. Integrating coherency and recoverability in distributed systems
+Citations:38
+Authors: MJ Feeley, JS Chase, VR Narasayya, HM Levy
+Publication: Proceedings of the 1st USENIX conference on Operating Systems Design and …
+
+103. Sound and precise analysis of parallel programs through schedule specialization
+Citations:37
+Authors: J Wu, Y Tang, G Hu, H Cui, J Yang
+Publication: ACM SIGPLAN Notices 47 (6), 205-216
+
+104. The performance of an object-oriented threads package
+Citations:35
+Authors: JE Faust, HM Levy
+Publication: ACM SIGPLAN Notices 25 (10), 278-288
+
+105. Architectural Principles for Safe Web Programs.
+Citations:34
+Authors: C Reis, SD Gribble, HM Levy
+Publication: HotNets
+
+106. On the use of benchmarks for measuring system performance
+Citations:34
+Authors: HM Levy, DW Clark
+Publication: ACM SIGARCH Computer Architecture News 10 (6), 5-8
+
+107. Segmented FIFO page replacement
+Citations:31
+Authors: R Turner, H Levy
+Publication: ACM SIGMETRICS Performance Evaluation Review 10 (3), 48-51
+
+108. Presence-based availability and p2p systems
+Citations:30
+Authors: RJ Dunn, J Zahorjan, SD Gribble, HM Levy
+Publication: Fifth IEEE International Conference on Peer-to-Peer Computing (P2P'05), 209-216
+
+109. Os agents: Using ai techniques in the operating system environment
+Citations:30
+Authors: O Etzioni, HM Levy, RB Segal, CA Thekkath
+Publication: Seattle, Washington, Tech. Rep. UW-CSE-93-04-04, University of Washington
+
+110. The VAXcluster concept: An overview of a distributed system
+Citations:29
+Authors: N Kronenberg, HM Levy, WD Strecker, RJ Merewood
+Publication: Digital Technical Journal 1 (3), 7-21
+
+111. Evolving the Semantic Web with Mangrove.
+Citations:28
+Authors: LK McDowell, O Etzioni, SD Gribble, AY Halevy, HM Levy, W Pentney, ...
+Publication: WWW (Posters)
+
+112. I/O forwarding in a cache coherent shared disk computer system
+Citations:27
+Authors: RJ Bamford, B Klots
+Publication: US Patent 6,112,281
+
+113. The softbot approach to OS interfaces
+Citations:27
+Authors: O Etzioni, HM Levy, RB Segal, CA Thekkath
+Publication: IEEE Software 12 (4), 42-51
+
+114. An evaluation of speculative instruction execution on simultaneous multithreaded processors
+Citations:26
+Authors: S Swanson, LK McDowell, MM Swift, SJ Eggers, HM Levy
+Publication: ACM Transactions on Computer Systems (TOCS) 21 (3), 314-340
+
+115. Encapsulation and decapsulation for data disintegration
+Citations:25
+Authors: T Kohno, R Geambasu, HM Levy
+Publication: US Patent 8,520,855
+
+116. Recovering device drivers
+Citations:25
+Authors: M Swift, B Bershad, H Levy
+Publication: US Patent 7,673,174
+
+117. Discovering code and data in a binary executable program
+Citations:25
+Authors: GM Voelker, TH Romer, A Wolman, DC Lee, BN Bershad, JB Chen, ...
+Publication: US Patent 6,014,513
+
+118. OS support for virtualizing hardware transactional memory
+Citations:24
+Authors: MM Swift, H Volos, N Goyal, L Yen, MD Hill, DA Wood
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+119. Dynamic node reconfiguration in a parallel-distributed environment
+Citations:23
+Authors: MJ Feeley, BN Bershad, JS Chase, HM Levy
+Publication: ACM SIGPLAN Notices 26 (7), 114-121
+
+120. Using processes to improve the reliability of browser-based applications
+Citations:22
+Authors: C Reis, B Bershad, SD Gribble, HM Levy
+Publication: Under submission
+
+121. The Architecture and Implementation of an Extensible Web Crawler.
+Citations:21
+Authors: JM Hsieh, SD Gribble, HM Levy
+Publication: NSDI, 329-344
+
+122. Exploiting thread-level parallelism on simultaneous multithreaded processors
+Citations:21
+Authors: JL Lo, SJ Eggers, HM Levy
+Publication: University of Washington
+
+123. Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat.
+Citations:20
+Authors: O Etzioni, AY Halevy, HM Levy, LK McDowell
+Publication: WebDB, 13-18
+
+124. Evaluation of OO7 as a system and an application benchmark
+Citations:20
+Authors: A Tiwary, VR Narasayya, HM Levy
+Publication: OOPSLA Workshop on Object Database Behavior, Benchmarks and Performance
+
+125. The Emerald programming language
+Citations:20
+Authors: NC Hutchinson, RK Raj, AP Black, HM Levy, E Jul
+Publication: 
+
+126. A remote computation facility for a heterogeneous environment
+Citations:20
+Authors: BN Bershad, HM Levy
+Publication: Computer 21 (5), 50-60
+
+127. Interconnecting heterogeneous computer systems
+Citations:18
+Authors: AP Black, ED Lazowska, HM Levy, D Notkin, J Sanislo, J Zahorjan
+Publication: Communications of the ACM, University of Washington, Dept. of Computer …
+
+128. Potentials and limitations of fault-based markov prefetching for virtual memory pages
+Citations:15
+Authors: G Bartels, A Karlin, H Levy, G Voelker, D Anderson, J Chase
+Publication: SIGMETRICS 99, 206-207
+
+129. Measurement and analysis of internet content delivery systems
+Citations:14
+Authors: S Saroiu, SD Gribble, HM Levy
+Publication: University of Washington
+
+130. Revisiting structured storage: A transactional record store
+Citations:13
+Authors: R Grimm, MM Swift, HM Levy
+Publication: University of Washington
+
+131. Diamond: Automating data management and storage for wide-area, reactive applications
+Citations:12
+Authors: I Zhang, N Lebeck, P Fonseca, B Holt, R Cheng, A Norberg, ...
+Publication: 12th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+132. New directions for self-destructing data systems
+Citations:12
+Authors: R Geambasu, T Kohno, A Krishnamurthy, A Levy, H Levy, P Gardner, ...
+Publication: University of Washington, Tech. Rep
+
+133. Live update for device drivers
+Citations:12
+Authors: MM Swift, D Martin-Guillerez, M Annamalai, BN Bershad, HM Levy
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+134. Experiences building security applications on DHTs
+Citations:11
+Authors: R Geambasu, J Falkner, P Gardner, T Kohno, A Krishnamurthy, HM Levy
+Publication: technical report, UW-CSE-09–09–01
+
+135. An evolutionary approach to the semantic web
+Citations:11
+Authors: O Etzioni, S Gribble, A Halevy, H Levy, L McDowell
+Publication: Poster presentation at the First International Semantic Web Conference 770
+
+136. Operating systems
+Citations:11
+Authors: RA Finkel
+Publication: ACM Computing Surveys (CSUR) 28 (1), 201-203
+
+137. Compilation issues for a simultaneous multithreading processor
+Citations:11
+Authors: J Lo, S Eggers, H Levy, D Tullsen
+Publication: Proceedings of the first SUIF compiler workshop, 146-147
+
+138. ¿ Es necesario un acuerdo internacional en torno al diagnóstico genético preimplantacional (DGP)?
+Citations:10
+Authors: JJ González
+Publication: Bioderecho. es, 14 pág.-14 pág.
+
+139. VAXstation: A general-purpose raster graphics architecture
+Citations:10
+Authors: H Levy
+Publication: CUMINCAD
+
+140. Simultaneous multithreading
+Citations:9
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: University of Washington
+
+141. An approach to accommodating heterogeneity
+Citations:9
+Authors: University of Washington. Department of Computer Science, AP Black, ...
+Publication: 
+
+142. The porcupine scalable mail server
+Citations:8
+Authors: Y Saito, E Hoffman, B Bershad, H Levy, D Becker, B Folliot
+Publication: ACM SIGOPS European Workshop: Proceedings of the 8 th ACM SIGOPS European …
+
+143. Remote computation in a heterogeneous environment
+Citations:8
+Authors: BN Bershad, HM Levy
+Publication: Department of Computer Science, University of Washington
+
+144. Using shared memory for read-mostly rpc services
+Citations:7
+Authors: RW Schmidt, HM Levy, JS Chase
+Publication: Proceedings of HICSS-29: 29th Hawaii International Conference on System …
+
+145. Limits to low-latency RPC
+Citations:7
+Authors: CA Thekkath, HM Levy
+Publication: Department of Computer Science and Engineering, University of Washington
+
+146. The Emerald Approach to Programming
+Citations:7
+Authors: University of Washington. Department of Computer Science, RK Raj, ...
+Publication: 
+
+147. Thread Management for Shared-Memory Multiprocessors.
+Citations:6
+Authors: TE Anderson, BN Bershad, ED Lazowska, HM Levy
+Publication: Computing Handbook, 3rd ed.(1), 53:1-12
+
+148. The Importance of History in a Media Delivery System.
+Citations:6
+Authors: RJ Dunn, SD Gribble, HM Levy, J Zahorjan
+Publication: IPTPS
+
+149. The lived experience of nurses who encounter the unexpected death of a patient
+Citations:5
+Authors: TL Mumbrue
+Publication: 
+
+150. On the non-duality of modules and objects for distributed programming
+Citations:5
+Authors: HM Levy, ED Tempero
+Publication: University of Washington, Department of Computer Science
+
+151. The organization and sharing of web-service objects with menagerie
+Citations:4
+Authors: R Geambasu, C Cheung, A Moshchuk, SD Gribble, HM Levy
+Publication: Proceedings of the World Wide Web Conference (WWW)
+
+152. Simultaneous multithreading: Maximizing on-chip parallelism
+Citations:4
+Authors: S Eggers, HM Levy
+Publication: Proceedings of the 22nd Annual International Symposium on Computer …
+
+153. Towards secure web browsing
+Citations:3
+Authors: S Tang
+Publication: University of Illinois at Urbana-Champaign
+
+154. Abstract architectural principles for safe web programs
+Citations:3
+Authors: C Reis, SD Gribble, HM Levy
+Publication: 
+
+155. Capability-based access control for peer-to-peer data sharing
+Citations:3
+Authors: R Geambasu, M Balazinska, SD Gribble, HM Levy
+Publication: Tech report 2006-07-02. University of Washington
+
+156. Implementing Cooperative Prefetching and Caching in a Globally-Managed Memory System
+Citations:3
+Authors: H Levy
+Publication: Proceedings of the ACM SIGMETRICS'98 Conference
+
+157. Virtual memory alternatives for transaction buffer management in a single-level store
+Citations:3
+Authors: DJ McNamee
+Publication: 
+
+158. Emerald user's guide
+Citations:3
+Authors: E Jul, A Black, N Hutchinson, H Levy
+Publication: Dept. Computer Science, Univ. Washington
+
+159. Deterministic execution for arbitrary multithreaded programs
+Citations:2
+Authors: J Devietti
+Publication: University of Washington
+
+160. Retrospective: simultaneous multithreading: maximizing on-chip parallelism
+Citations:2
+Authors: DM Tullsen, SJ Eggers, HM Levy
+Publication: International Symposium on Computer Architecture: 25 years of the …
+
+161. Distributed shared memory: A survey of issues and algorithms
+Citations:2
+Authors: B Nitzberg, V Lo, K Li, P Hudak, U Ramachandran, M Ahamad, YA Khalidi, ...
+Publication: IEEE Computer 24 (4)
+
+162. A comparative study of capability-based computer architectures
+Citations:2
+Authors: HM Levy
+Publication: University of Washington
+
+163. Architectural Features
+Citations:2
+Authors: A Key
+Publication: 
+
+164. Efﬁcient Support for Multicomputing on ATM Networks
+Citations:2
+Authors: CA Thekkath, HM Levy, ED Lazowska
+Publication: Dept. of Computer Science and Engineering, University of Washington …
+
+165. Security and Privacy for Untrusted Applications in Modern and Emerging Client Platforms
+Citations:1
+Authors: F Roesner
+Publication: 
+
+166. Supporting Cooperation on Wide-Address Computers
+Citations:1
+Authors: JS Chase, HM Levy
+Publication: Department of Computer Science and Engineering, University of Washington
+
+167. Accommodating heterogeneity
+Citations:1
+Authors: J Zahorjan, ED Lazowska, HM Levy, D Notkin, J Sanislo
+Publication: Experiences with Distributed Systems, 89-103
+
+168. Towards a Flexible, High-Performance Operating System for Mobile/Cloud Applications
+Citations:
+Authors: IY Zhang
+Publication: 
+
+169. Detection of spyware threats within virtual machines
+Citations:
+Authors: S Gribble, H Levy, A Moshchuk, T Bragin
+Publication: US Patent 9,531,752
+
+170. Systems and methods for file access auditing
+Citations:
+Authors: T Kohno, R Geambasu, H Levy, S Gribble
+Publication: US Patent 9,489,523
+
+171. Continuous Integration and Collaboration in Managed Environments
+Citations:
+Authors: J Netzel
+Publication: 
+
+172. The Lived Experience of Smokers Working in Smoking Regulated Environments
+Citations:
+Authors: SL Konen
+Publication: 
+
+173. The lived experience of young adults with chronic illness
+Citations:
+Authors: S Gilson
+Publication: 
+
+174. Lived experiences of women prior to the diagnosis of acute coronary syndrome
+Citations:
+Authors: T Zollar
+Publication: 
+
+175. The Lived Experience of Home Hospice Nurses Managing Patients with Terminal Restlessness
+Citations:
+Authors: M Smith
+Publication: 
+
+176. The Lived Experience of Mothers of Soldiers Deployed to a War Zone
+Citations:
+Authors: K Kraus
+Publication: 
+
+177. The development of the Emerald programming language
+Citations:
+Authors: E Jul, AP Black, NC Hutchinson, HM Levy
+Publication: ACM SIGPLAN History of Programming Languages Conference
+
+178. Operating System Services for Networked Clusters
+Citations:
+Authors: BN Bershad, HM Levy
+Publication: WASHINGTON UNIV SEATTLE
+
+179. Call for Nominations--SIGOPS Mark Weiser Award
+Citations:
+Authors: H Levy
+Publication: SIGOPS Operating Systems Review 36 (3), 6-7
+
+180. Call for Nominations ACM SIGOPS Mark Weiser Award
+Citations:
+Authors: H Levy
+Publication: SIGOPS Operating Systems Review 35 (3), 1-1
+
+181. Manageability, availability and performance in Porcupine: a highly scalable, cluster-based mail service (summary only)
+Citations:
+Authors: Y Saito, BN Bershad, HM Levy
+Publication: ACM SIGOPS Operating Systems Review 34 (2), 9-11
+
+182. Anurag Acharya 35 Mustaque Ahamad 210 Darrell Anderson 206 Farooq Anjum 155
+Citations:
+Authors: JL Baer, R Baraniuk, P Barford, G Bartels, R Barve, T Barzilai, B Beninger, ...
+Publication: Proceedings ACM SIGMETRICS'99: International Conference on Measurement and …
+
+183. 30th Annual ACM/IEEE International Symposium on Microarchitecture, Part II-Tuning Compiler Optimizations for Simultaneous Multithreading
+Citations:
+Authors: JL Lo, SJ Eggers, HM Levy, SS Parekh, DM Tullsen
+Publication: International Journal of Parallel Programming 27 (6), 477
+
+184. Special issue on operating systems principles
+Citations:
+Authors: HM Levy
+Publication: ACM TRANSACTIONS ON COMPUTER SYSTEMS 15 (4), 355-355
+
+185. Volume 14 q 1996
+Citations:
+Authors: M Lam, H Levy, LL Peterson
+Publication: 
+
+186. A Performance Analysis of Network I/O in Shared-Memory
+Citations:
+Authors: CA Thekkath, DL E-agerl, ED Lazowska, HM Levy
+Publication: 
+
+187. Message Logging and Data-parallel Languages
+Citations:
+Authors: AC Klaiber, HM Levy
+Publication: University of Washington, Department of Computer Science and Engineering
+
+188. High Performance Parallel/distributed Computing: A Proposal to the CISE Institutional Infrastructure Program
+Citations:
+Authors: HM Levy
+Publication: University of Washington, Department of Computer Science and Engineering
+
+189. I Object-Oriented Threads Package
+Citations:
+Authors: JE Faust, HM Levy
+Publication: 
+
+190. Techniques for Efﬁcient Inline Tracing on a Shared-Memory
+Citations:
+Authors: SJ Eggers, DR Keppel, EJ Koldinger, HM Levy
+Publication: Proceedings of the Conference on Measurement and Modeling of Computer …
+
+191. ACM SIGOPS Operating Systems Review Volume 22 Issue 3
+Citations:
+Authors: R Levin
+Publication: ACM 22 (3)
+
+192. J. Nehmer Fachbereich Informatik, University of Kaiserslautern, FRG SK Shrivastava, LV Mancini, B. Randell Computing Laboratory, The University of Newcastle upon Tyne, United …
+Citations:
+Authors: SJ Mullender, U Hollberg, B Mattes, A Schill, H Schmutz, B Schoner, ...
+Publication: Experiences with Distributed Systems: International Workshop, Kaiserslautern …
+
+193. Computer Programming and Architecture--the VAX-11: The VAX-11
+Citations:
+Authors: HM Levy, RH Eckhouse
+Publication: Butterworth-Heinemann Ltd
+
+194. Readings for CSci555
+Citations:
+Authors: BN Bershad, TE Anderson, ED Lazowska, HM Levy
+Publication: system 21 (7), 558-565
+
+195. End the Senseless Killing: Improving Memory Management for Mobile Operating Systems
+Citations:
+Authors: N Lebeck, A Krishnamurthy, HM Levy, I Zhang
+Publication: 
+
+196. Orcia: Replication for Large-Ëcale Clusters
+Citations:
+Authors: MM Ëwift, HM Levy
+Publication: 
+
+197. Operating System Support for User-Controlled Privacy
+Citations:
+Authors: A Szekeres, I Zhang, K Bailey, I Ackerman, H Shen, F Roesner, DRK Ports, ...
+Publication: 
+
+198. Persistent Process Containers: an OS model for large-memory applications
+Citations:
+Authors: K Bailey, DRK Ports, L Ceze, HM Levy
+Publication: 
+
+199. 5th Symposium on Operating Systems Design and Implementation &# 151; Technical Paper
+Citations:
+Authors: S Saroiu, KP Gummadi, RJ Dunn, SD Gribble, HM Levy
+Publication: 
+
+200. Academic history
+Citations:
+Authors: ID Number, C Province, CP Code
+Publication: 
+
+201. Presented by Akbar Saidov
+Citations:
+Authors: M Multiprocessors, BN Bershad, TE Anderson, ED Lazowska, HM Levy
+Publication: 
+
+202. Chair: Kai Li, Princeton University David Culler, University of California at Berkeley Jose Duato, Universidad Politecnica de Valencia Michel Dubois, University of Southern …
+Citations:
+Authors: H Eberle, GR Gao, G Gibson, A Gottlieb, D Grunwald, W Hwu, NP Jouppi, ...
+Publication: 
+
+203. JE Smith Michael D. Smith Guri Sohi Vijayalakshmi Srinivasan
+Citations:
+Authors: C Staelin, P Lopez, G Lowney, SL Lu, S Ludwig, CK Luk, SS Lumetta, ...
+Publication: 
+
+204. SPECIAL ISSUE ON COMPUTER SYSTEM PERFORMANCE
+Citations:
+Authors: TE Anderson, ED Lazowska, HM Levy, NP Jouppi, RH Saavedra-Barrera, ...
+Publication: 
+
+205. Implementing Cooperative Prefetching and Caching
+Citations:
+Authors: GM Voelker, EJ Anderson, T Kimbrel, MJ Feeley, JS Chase, AR Karlin, ...
+Publication: 
+
+206. IEEE Fellows Lead the Engineering Profession
+Citations:
+Authors: GA Agha, HI Babic, S Basu, WF Beausoleil, E Bertino, P Bhattacharya, ...
+Publication: 
+
+207. From the Program Chair
+Citations:
+Authors: HM Levy
+Publication: 
+
+208. WRL Technical Note TN-52
+Citations:
+Authors: SJ Eggers, J Emer, HM Levy, JL Lo, R Stamm, DM Tullsen
+Publication: 
+
+209. L'Universit e de Rennes 1 Institut de Formation Sup erieure en Informatique et en Communication
+Citations:
+Authors: V erie Issarny, MMR Balter, H Levy, B Randell
+Publication: 
+
+210. RAJENDRA K. RAJ
+Citations:
+Authors: HM LEVY
+Publication: 
+
+211. Permissão para trazer cópias digitais ou duras de tudo ou parte deste trabalho pessoal ou uso de sala de aula é concedido sem taxa contanto que cópias sejam não feito ou …
+Citations:
+Authors: MM Swift, BN Bershad, HM Levy
+Publication: 
+
+212. Related US Applications
+Citations:
+Authors: S Gribble, H Levy, A Moshchuk, T Bragin
+Publication: 
+
+213. Slave Memories and Dynamic Storage Allocation 371 MV Wilkes Structural Aspects of the System/360 Model 85, Part П: The Cache 373 JS Liptay Lockup-Free Instruction Fetch …
+Citations:
+Authors: D Krvft, JR Goodman, NP Jouppi, T Kilburn, DBG Edwards, MJ Lanigan, ...
+Publication: 
+

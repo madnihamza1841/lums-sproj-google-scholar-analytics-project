@@ -1,0 +1,185 @@
+
+1. A view of cloud computing
+Citations:16950
+Authors: AD JoSEP, RAD KAtz, AD KonWinSKi, LEE Gunho, D PAttERSon, ...
+Publication: Communications of the ACM 53 (4)
+
+7. Mllib: Machine learning in apache spark
+Citations:1028
+Authors: X Meng, J Bradley, B Yavuz, E Sparks, S Venkataraman, D Liu, ...
+Publication: The Journal of Machine Learning Research 17 (1), 1235-1241
+
+9. Spark sql: Relational data processing in spark
+Citations:837
+Authors: M Armbrust, RS Xin, C Lian, Y Huai, D Liu, JK Bradley, X Meng, T Kaftan, ...
+Publication: Proceedings of the 2015 ACM SIGMOD international conference on management of …
+
+26. Constitutional constructions and constitutional decision rules: thoughts on the Carving of Implementation Space
+Citations:113
+Authors: MN Berman
+Publication: Const. Comment. 27, 39
+
+32. Scaling spark in the real world: performance and usability
+Citations:82
+Authors: M Armbrust, T Das, A Davidson, A Ghodsi, A Or, J Rosen, I Stoica, ...
+Publication: Proceedings of the VLDB Endowment 8 (12), 1840-1843
+
+33. Design and implementation of the KioskNet system
+Citations:71
+Authors: S Guo, M Derakhshani, MH Falaki, U Ismail, R Luk, EA Oliver, ...
+Publication: Computer Networks 55 (1), 264-281
+
+35. Weld: A common runtime for high performance data analytics
+Citations:64
+Authors: S Palkar, JJ Thomas, A Shanbhag, D Narayanan, H Pirk, M Schwarzkopf, ...
+Publication: Conference on Innovative Data Systems Research (CIDR)
+
+36. Matrix computations and optimization in apache spark
+Citations:64
+Authors: R Bosagh Zadeh, X Meng, A Ulanov, B Yavuz, L Pu, S Venkataraman, ...
+Publication: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge …
+
+37. Above the clouds: A Berkeley view of cloud computing (Technical Report No. UCB/EECS-2009-28)
+Citations:60
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, ...
+Publication: Berkeley, CA: University of California
+
+38. Griffith
+Citations:54
+Authors: M Armbrust, A Fox
+Publication: R., Joseph, AD, Katz, RH, Konwinski, A., Lee, G., Patterson, DA, Rabkin, A …
+
+40. Above the clouds: a Berkeley view of cloud computing
+Citations:53
+Authors: M Ambrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: University of California at Berkeley, February
+
+41. M odel DB: a system for machine learning model management
+Citations:52
+Authors: M Vartak, H Subramanyam, WE Lee, S Viswanathan, S Husnoo, ...
+Publication: Proceedings of the Workshop on Human-In-the-Loop Data Analytics, 14
+
+45. Dawnbench: An end-to-end deep learning benchmark and competition
+Citations:47
+Authors: C Coleman, D Narayanan, D Kang, T Zhao, J Zhang, L Nardi, P Bailis, ...
+Publication: Training 100 (101), 102
+
+47. Sparkr: Scaling r programs with spark
+Citations:44
+Authors: S Venkataraman, Z Yang, D Liu, E Liang, H Falaki, X Meng, R Xin, ...
+Publication: Proceedings of the 2016 International Conference on Management of Data, 1099 …
+
+57. Achieving the KS threshold in the general stochastic block model with linearized acyclic belief propagation
+Citations:32
+Authors: E Abbe, C Sandon
+Publication: Advances in Neural Information Processing Systems, 1334-1342
+
+61. Structured streaming: A declarative API for real-time applications in apache spark
+Citations:23
+Authors: M Armbrust, T Das, J Torres, B Yavuz, S Zhu, R Xin, A Ghodsi, I Stoica, ...
+Publication: Proceedings of the 2018 International Conference on Management of Data, 601-613
+
+67. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+73. A view of cloud computing
+Citations:13
+Authors: J Lee
+Publication: International Journal of Networked and Distributed Computing 1 (1), 2-8
+
+76. Analysis of dawnbench, a time-to-accuracy machine learning performance benchmark
+Citations:11
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 14-25
+
+79. On Challenges in Machine Learning Model Management.
+Citations:11
+Authors: S Schelter, F Biessmann, T Januschowski, D Salinas, S Seufert, ...
+Publication: IEEE Data Eng. Bull. 41 (4), 5-15
+
+87. linalg: Matrix computations in apache spark
+Citations:9
+Authors: RB Zadeh, X Meng, B Yavuz, A Staple, L Pu, S Venkataraman, E Sparks, ...
+Publication: arXiv preprint arXiv:1509.02256, 13
+
+88. Above the clouds: A Berkeley view of cloud computing (February 2009)
+Citations:9
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, RH Katz, A Konwinski, G Lee, ...
+Publication: URL https://www. eecs. berkeley. edu/Pubs/TechRpts/2009/EECS-2009-28. pdf
+
+89. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+91. Above the Clouds: A View of Cloud Computing
+Citations:8
+Authors: M Armbrust, A Fox, R Griffith, AD Joseph, R Katz, A Konwinski, G Lee, ...
+Publication: Berkeley Reliable Adaptive Distributed systems Laboratory (RADLab)
+
+104. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+120. Select Via Proxy: Efficient Data Selection For Training Deep Networks
+Citations:1
+Authors: C Coleman, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, J Leskovec, ...
+Publication: 
+
+125. High capacity web winding apparatus for use in conjunction with a rotating circular knitting machine
+Citations:1
+Authors: K Reester
+Publication: US Patent 6,557,381
+
+126. Selection Via Proxy: Efficient Data Selection For Deep Learning
+Citations:
+Authors: C Coleman, C Yeh, S Mussmann, B Mirzasoleiman, P Bailis, P Liang, ...
+Publication: arXiv preprint arXiv:1906.11829
+
+130. Demonstration of MLflow: A System to Accelerate the Machine Learning Lifecycle
+Citations:
+Authors: C Zumar, A Chen, A Davidson, A Ghodsi, SA Hong, A Konwinski, ...
+Publication: 
+
+131. DIFF: a relational interface for large-scale data explanation
+Citations:
+Authors: F Abuzaid, P Kraft, S Suri, E Gan, E Xu, A Shenoy, A Ananthanarayan, ...
+Publication: Proceedings of the VLDB Endowment 12 (4), 419-432
+
+132. Machine Learning Reveals That Drivers for Persistent Atrial Fibrillation at Termination Sites Show Irregular Rotational Cycles and Domain Size
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, P Clopton, GL Meckler, NM Maniar, ...
+Publication: Circulation 138 (Suppl_1), A14493-A14493
+
+133. Sites Where Ablation Terminated Atrial Fibrillation Identified by Machine Learning Models
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, G Meckler, P Clopton, A Rogers, ...
+Publication: Circulation 138 (Suppl_1), A13161-A13161
+
+134. Abstract 14493
+Citations:
+Authors: M Alhusseini, F Abuzaid, M Swerdlow, P Clopton, G Meckler, N Maniar, ...
+Publication: Circulation 138 (Suppl_1)
+
+143. selected publications
+Citations:
+Authors: J Kosuth, W Freud, F Market
+Publication: Order, 80-111
+
+144. The global aerosol-climate model echam-ham, version 2: sensitivity to improvements in process representations
+Citations:
+Authors: J Kepner, W Arcand, N Bliss, D Bestor, C Byun, M Hubbell, P Michaleas, ...
+Publication: Contemporary High Performance Computing: From Petascale toward Exascale 2 (6 …
+
+153. Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark
+Citations:
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: 
+
+154. D it R F i (DRF) Dominant Resource Fairness (DRF)
+Citations:
+Authors: A Ghodsi
+Publication: 

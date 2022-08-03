@@ -1,0 +1,323 @@
+https://scholar.google.com/citations?hl=en&user=SWqd2rgAAAAJ
+Total Citations = 1919
+
+1. A simple, combinatorial algorithm for solving SDD systems in nearly-linear time
+Citations:172
+Authors: JA Kelner, L Orecchia, A Sidford, ZA Zhu
+Publication: Proceedings of the forty-fifth annual ACM symposium on Theory of computing …
+
+2. Efficient accelerated coordinate descent methods and faster algorithms for solving linear systems
+Citations:164
+Authors: YT Lee, A Sidford
+Publication: 2013 IEEE 54th Annual Symposium on Foundations of Computer Science, 147-156
+
+3. Path finding methods for linear programming: Solving linear programs in O (vrank) iterations and faster algorithms for maximum flow
+Citations:151
+Authors: YT Lee, A Sidford
+Publication: 2014 IEEE 55th Annual Symposium on Foundations of Computer Science, 424-433
+
+4. An almost-linear-time algorithm for approximate max flow in undirected graphs, and its multicommodity generalizations
+Citations:146
+Authors: JA Kelner, YT Lee, L Orecchia, A Sidford
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+5. Accelerated methods for nonconvex optimization
+Citations:135
+Authors: Y Carmon, JC Duchi, O Hinder, A Sidford
+Publication: SIAM Journal on Optimization 28 (2), 1751-1772
+
+6. A faster cutting plane method and its implications for combinatorial and convex optimization
+Citations:119
+Authors: YT Lee, A Sidford, SC Wong
+Publication: 2015 IEEE 56th Annual Symposium on Foundations of Computer Science, 1049-1065
+
+7. Uniform sampling for matrix approximation
+Citations:100
+Authors: MB Cohen, YT Lee, C Musco, C Musco, R Peng, A Sidford
+Publication: Proceedings of the 2015 Conference on Innovations in Theoretical Computer …
+
+8. Un-regularizing: approximate proximal point and faster stochastic algorithms for empirical risk minimization
+Citations:98
+Authors: R Frostig, R Ge, S Kakade, A Sidford
+Publication: International Conference on Machine Learning, 2540-2548
+
+9. Single pass spectral sparsification in dynamic streams
+Citations:82
+Authors: M Kapralov, YT Lee, CN Musco, CP Musco, A Sidford
+Publication: SIAM Journal on Computing 46 (1), 456-477
+
+10. Robust shift-and-invert preconditioning: Faster and more sample efficient algorithms for eigenvector computation
+Citations:77
+Authors: D Garber, E Hazan, C Jin, SM Kakade, C Musco, P Netrapalli, A Sidford
+Publication: ICML
+
+11. Streaming PCA: Matching matrix Bernstein and near-optimal finite sample guarantees for Oja’s algorithm
+Citations:73
+Authors: P Jain, C Jin, SM Kakade, P Netrapalli, A Sidford
+Publication: Conference on learning theory, 1147-1164
+
+12. Competing with the empirical risk minimizer in a single pass
+Citations:65
+Authors: R Frostig, R Ge, SM Kakade, A Sidford
+Publication: Conference on learning theory, 728-763
+
+13. Geometric median in nearly linear time
+Citations:54
+Authors: MB Cohen, YT Lee, G Miller, J Pachocki, A Sidford
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+14. Parallelizing stochastic gradient descent for least squares regression: mini-batching, averaging, and model misspecification
+Citations:46
+Authors: P Jain, S Kakade, R Kidambi, P Netrapalli, A Sidford
+Publication: Journal of Machine Learning Research 18
+
+15. Convex until proven guilty: Dimension-free acceleration of gradient descent on non-convex functions
+Citations:46
+Authors: Y Carmon, JC Duchi, O Hinder, A Sidford
+Publication: Proceedings of the 34th International Conference on Machine Learning-Volume …
+
+16. Lower bounds for finding stationary points i
+Citations:44
+Authors: Y Carmon, JC Duchi, O Hinder, A Sidford
+Publication: Mathematical Programming, 1-50
+
+17. Efficient inverse maintenance and faster algorithms for linear programming
+Citations:42
+Authors: YT Lee, A Sidford
+Publication: 2015 IEEE 56th Annual Symposium on Foundations of Computer Science, 230-249
+
+18. Accelerating stochastic gradient descent for least squares regression
+Citations:40
+Authors: P Jain, SM Kakade, R Kidambi, P Netrapalli, A Sidford
+Publication: arXiv preprint arXiv:1704.08227
+
+19. Almost-linear-time algorithms for markov chains and new spectral primitives for directed graphs
+Citations:35
+Authors: MB Cohen, J Kelner, J Peebles, R Peng, AB Rao, A Sidford, A Vladu
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+20. Efficient algorithms for large-scale generalized eigenvector computation and canonical correlation analysis
+Citations:31
+Authors: R Ge, C Jin, P Netrapalli, A Sidford
+Publication: International Conference on Machine Learning, 2741-2750
+
+21. Variance reduced value iteration and faster algorithms for solving markov decision processes
+Citations:20
+Authors: A Sidford, M Wang, X Wu, Y Ye
+Publication: Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …
+
+22. Lower bounds for finding stationary points ii: First-order methods
+Citations:19
+Authors: Y Carmon, JC Duchi, O Hinder, A Sidford
+Publication: arXiv preprint arXiv:1711.00841
+
+23. Principal component projection without principal component analysis
+Citations:17
+Authors: R Frostig, C Musco, C Musco, A Sidford
+Publication: International Conference on Machine Learning, 2349-2357
+
+24. Near-optimal time and sample complexities for solving Markov decision processes with a generative model
+Citations:16
+Authors: A Sidford, M Wang, X Wu, L Yang, Y Ye
+Publication: Advances in Neural Information Processing Systems, 5186-5196
+
+25. Subquadratic submodular function minimization
+Citations:16
+Authors: D Chakrabarty, YT Lee, A Sidford, SC Wong
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+26. Faster algorithms for computing the stationary distribution, simulating random walks, and more
+Citations:13
+Authors: MB Cohen, J Kelner, J Peebles, R Peng, A Sidford, A Vladu
+Publication: 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS …
+
+27. Spectrum approximation beyond fast matrix multiplication: Algorithms and hardness
+Citations:11
+Authors: C Musco, P Netrapalli, A Sidford, S Ubaru, DP Woodruff
+Publication: arXiv preprint arXiv:1704.04163
+
+28. Efficient convex optimization with membership oracles
+Citations:10
+Authors: YT Lee, A Sidford, SS Vempala
+Publication: arXiv preprint arXiv:1706.07357
+
+29. Towards optimal running times for optimal transport
+Citations:9
+Authors: J Blanchet, A Jambulapati, C Kent, A Sidford
+Publication: arXiv preprint arXiv:1810.07717
+
+30. Stability of the Lanczos method for matrix function approximation
+Citations:9
+Authors: C Musco, C Musco, A Sidford
+Publication: Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …
+
+31. Efficient Õ(n/∊) Spectral Sketches for the Laplacian and its Pseudoinverse
+Citations:9
+Authors: A Jambulapati, A Sidford
+Publication: Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …
+
+32. Approximating cycles in directed graphs: Fast algorithms for girth and roundtrip spanners
+Citations:8
+Authors: J Pachocki, L Roditty, A Sidford, R Tov, VV Williams
+Publication: Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …
+
+33. Near-optimal method for highly smooth convex optimization
+Citations:7
+Authors: S Bubeck, Q Jiang, YT Lee, Y Li, A Sidford
+Publication: arXiv preprint arXiv:1812.08026
+
+34. A markov chain theory approach to characterizing the minimax optimality of stochastic gradient descent (for least squares)
+Citations:7
+Authors: P Jain, SM Kakade, R Kidambi, P Netrapalli, VK Pillutla, A Sidford
+Publication: arXiv preprint arXiv:1710.09430
+
+35. Leverage score sampling for faster accelerated regression and erm
+Citations:5
+Authors: N Agarwal, S Kakade, R Kidambi, YT Lee, P Netrapalli, A Sidford
+Publication: arXiv preprint arXiv:1711.08426
+
+36. Derandomization beyond connectivity: Undirected Laplacian systems in nearly logarithmic space
+Citations:4
+Authors: J Murtagh, O Reingold, A Sidford, S Vadhan
+Publication: 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …
+
+37. Routing under balance
+Citations:4
+Authors: A Ene, G Miller, J Pachocki, A Sidford
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+38. Coordinate methods for accelerating ℓ∞ regression and faster approximate maximum flow
+Citations:3
+Authors: A Sidford, K Tian
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+39. Efficient profile maximum likelihood for universal symmetric property estimation
+Citations:2
+Authors: M Charikar, K Shiragur, A Sidford
+Publication: arXiv preprint arXiv:1905.08448
+
+40. Solving directed laplacian systems in nearly-linear time through sparse lu factorizations
+Citations:2
+Authors: MB Cohen, J Kelner, R Kyng, J Peebles, R Peng, AB Rao, A Sidford
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+41. Near-Optimal Methods for Minimizing Star-Convex Functions and Beyond
+Citations:1
+Authors: O Hinder, A Sidford, NS Sohoni
+Publication: arXiv preprint arXiv:1906.11985
+
+42. Near Optimal Methods for Minimizing Convex Functions with Lipschitz -th Derivatives
+Citations:1
+Authors: A Gasnikov, P Dvurechensky, E Gorbunov, E Vorontsova, ...
+Publication: Conference on Learning Theory, 1392-1393
+
+43. Parallel Reachability in Almost Linear Work and Square Root Depth
+Citations:1
+Authors: A Jambulapati, YP Liu, A Sidford
+Publication: arXiv preprint arXiv:1905.08841
+
+44. Memory-sample tradeoffs for linear regression with small error
+Citations:1
+Authors: V Sharan, A Sidford, G Valiant
+Publication: arXiv preprint arXiv:1904.08544
+
+45. A Rank-1 Sketch for Matrix Multiplicative Weights
+Citations:1
+Authors: Y Carmon, JC Duchi, A Sidford, K Tian
+Publication: arXiv preprint arXiv:1903.02675
+
+46. Perron-frobenius theory in nearly linear time: positive eigenvectors, M-matrices, graph kernels, and other applications
+Citations:1
+Authors: AM Ahmadinejad, A Jambulapati, A Saberi, A Sidford
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+47. Efficient Structured Matrix Recovery and Nearly-Linear Time Algorithms for Solving Inverse Symmetric -Matrices
+Citations:1
+Authors: A Jambulapati, K Shiragur, A Sidford
+Publication: arXiv preprint arXiv:1812.06295
+
+48. Polylogarithmic fully retroactive priority queues via hierarchical checkpointing
+Citations:1
+Authors: ED Demaine, T Kaler, Q Liu, A Sidford, A Yedidia
+Publication: Workshop on Algorithms and Data Structures, 263-275
+
+49. Near-optimal Approximate Discrete and Continuous Submodular Function Minimization
+Citations:
+Authors: B Axelrod, YP Liu, A Sidford
+Publication: arXiv preprint arXiv:1909.00171
+
+50. Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity
+Citations:
+Authors: A Sidford, M Wang, LF Yang, Y Ye
+Publication: arXiv preprint arXiv:1908.11071
+
+51. Improved Girth Approximation and Roundtrip Spanners
+Citations:
+Authors: S Chechik, YP Liu, O Rotem, A Sidford
+Publication: arXiv preprint arXiv:1907.10779
+
+52. Variance Reduction for Matrix Games
+Citations:
+Authors: Y Carmon, Y Jin, A Sidford, K Tian
+Publication: arXiv preprint arXiv:1907.02056
+
+53. Complexity of Highly Parallel Non-Smooth Convex Optimization
+Citations:
+Authors: S Bubeck, Q Jiang, YT Lee, Y Li, A Sidford
+Publication: arXiv preprint arXiv:1906.10655
+
+54. A Direct Iteration Parallel Algorithm for Optimal Transport
+Citations:
+Authors: A Jambulapati, A Sidford, K Tian
+Publication: arXiv preprint arXiv:1906.00618
+
+55. Dynamic Streaming Spectral Sparsification in Nearly Linear Time and Space
+Citations:
+Authors: M Kapralov, N Nouri, A Sidford, J Tardos
+Publication: arXiv preprint arXiv:1903.12150
+
+56. Deterministic Approximation of Random Walks in Small Space
+Citations:
+Authors: J Murtagh, O Reingold, A Sidford, S Vadhan
+Publication: arXiv preprint arXiv:1903.06361
+
+57. Exploiting numerical sparsity for efficient learning: faster eigenvector computation and regression
+Citations:
+Authors: N Gupta, A Sidford
+Publication: Advances in Neural Information Processing Systems, 5269-5278
+
+58. Arboral satisfaction: Recognition and LP approximation
+Citations:
+Authors: ED Demaine, V Ganesan, V Kontsevoi, Q Liu, Q Liu, F Ma, O Nachum, ...
+Publication: Information Processing Letters 127, 1-5
+
+59. Iterative methods, combinatorial optimization, and linear programming beyond the universal barrier
+Citations:
+Authors: AD Sidford
+Publication: Massachusetts Institute of Technology
+
+60. Smaller steps for faster algorithms: a new approach to solving linear systems
+Citations:
+Authors: AD Sidford
+Publication: Massachusetts Institute of Technology
+
+61. Lower Bounds for Finding Stationary Points of Non-Convex, Smooth High-Dimensional Functions
+Citations:
+Authors: Y Carmon, JC Duchi, O Hinder, A Sidford
+Publication: 
+
+62. THE MACHTEY AWARD FOR BEST STUDENT PAPER
+Citations:
+Authors: M G๖๖s, YT Lee, A Sidford, SC Wong, B Rossman, RA Servedio, LY Tan
+Publication: 
+
+63. Following the Path of Least Resistance: An O (m
+Citations:
+Authors: YT Lee, A Sidford
+Publication: 
+
+64. THE MACHTEY AWARD FOR BEST STUDENT PAPER
+Citations:
+Authors: M Göös, YT Lee, A Sidford, SC Wong, B Rossman, RA Servedio, LY Tan
+Publication: 
+

@@ -1,0 +1,2163 @@
+https://scholar.google.com/citations?hl=en&user=XjeIqxYAAAAJ
+Total Citations = 16506
+
+1. X10: an object-oriented approach to non-uniform cluster computing
+Citations:1661
+Authors: P Charles, C Grothoff, V Saraswat, C Donawa, A Kielstra, K Ebcioglu, ...
+Publication: Acm Sigplan Notices 40 (10), 519-538
+
+2. Partitioning and scheduling parallel programs for execution on multiprocessors.
+Citations:1064
+Authors: V Sarkar
+Publication: 
+
+3. Baring it all to software: The raw machine
+Citations:904
+Authors: E Waingold, M Taylor, V Sarkar, V Lee, W Lee, J Kim, M Frank, P Finch, ...
+Publication: Massachusetts Institute of Technology
+
+4. The Jalapeno virtual machine
+Citations:754
+Authors: B Alpern, CR Attanasio, JJ Barton, MG Burke, P Cheng, JD Choi, ...
+Publication: IBM Systems Journal 39 (1), 211-238
+
+5. Efficient and precise datarace detection for multithreaded object-oriented programs
+Citations:452
+Authors: JD Choi, K Lee, A Loginov, R O'Callahan, V Sarkar, M Sridharan
+Publication: ACM Sigplan Notices 37 (5), 258-269
+
+6. Linear scan register allocation
+Citations:429
+Authors: M Poletto, V Sarkar
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (5), 895-913
+
+7. The Jalapeno dynamic optimizing compiler for Java
+Citations:379
+Authors: MG Burke, JD Choi, S Fink, D Grove, M Hind, V Sarkar, MJ Serrano, ...
+Publication: Proceedings of the ACM 1999 conference on Java Grande, 129-141
+
+8. Space-time scheduling of instruction-level parallelism on a raw machine
+Citations:356
+Authors: W Lee, R Barua, M Frank, D Srikrishna, J Babb, V Sarkar, S Amarasinghe
+Publication: ACM SIGPLAN Notices 33 (11), 46-57
+
+9. ABCD: eliminating array bounds checks on demand
+Citations:295
+Authors: R Bodík, R Gupta, V Sarkar
+Publication: ACM SIGPLAN Notices 35 (5), 321-333
+
+10. The Jikes research virtual machine project: building an open-source research community
+Citations:292
+Authors: B Alpern, S Augart, SM Blackburn, M Butrico, A Cocchi, P Cheng, J Dolby, ...
+Publication: IBM Systems Journal 44 (2), 399-417
+
+11. Decentralizing execution of composite web services
+Citations:250
+Authors: MG Nanda, S Chandra, V Sarkar
+Publication: ACM Sigplan Notices 39 (10), 170-187
+
+12. Determining average program execution times and their variance
+Citations:243
+Authors: V Sarkar
+Publication: PLDI, 298-312
+
+13. Habanero-Java: the new adventures of old X10
+Citations:241
+Authors: V Cavé, J Zhao, J Shirako, V Sarkar
+Publication: Proceedings of the 9th International Conference on Principles and Practice …
+
+14. On estimating and enhancing cache effectiveness
+Citations:220
+Authors: J Ferrante, V Sarkar, W Thrash
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+15. Compile-time partitioning and scheduling of parallel programs
+Citations:208
+Authors: V Sarkar, J Hennessy
+Publication: STANFORD UNIV CA COMPUTER SYSTEMS LAB
+
+16. Concurrent collections
+Citations:187
+Authors: Z Budimlić, M Burke, V Cavé, K Knobe, G Lowney, R Newton, J Palsberg, ...
+Publication: Scientific Programming 18 (3-4), 203-217
+
+17. Array SSA form and its use in parallelization
+Citations:186
+Authors: K Knobe, V Sarkar
+Publication: Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+18. SLAW: A scalable locality-aware adaptive work-stealing scheduler
+Citations:184
+Authors: Y Guo, J Zhao, V Cave, V Sarkar
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+19. JCUDA: A programmer-friendly interface for accelerating Java programs with CUDA
+Citations:184
+Authors: Y Yan, M Grossman, V Sarkar
+Publication: European Conference on Parallel Processing, 887-899
+
+20. Work-first and help-first scheduling policies for async-finish task parallelism
+Citations:174
+Authors: Y Guo, R Barik, R Raman, V Sarkar
+Publication: 2009 IEEE International Symposium on Parallel & Distributed Processing, 1-12
+
+21. Phasers: a unified deadlock-free construct for collective and point-to-point synchronization
+Citations:165
+Authors: J Shirako, DM Peixotto, V Sarkar, WN Scherer
+Publication: Proceedings of the 22nd annual international conference on Supercomputing …
+
+22. Efficient and precise modeling of exceptions for the analysis of Java programs
+Citations:159
+Authors: JD Choi, D Grove, M Hind, V Sarkar
+Publication: ACM SIGSOFT Software Engineering Notes 24 (5), 21-31
+
+23. Collective loop fusion for array contraction
+Citations:159
+Authors: G Gao, R Olsen, V Sarkar, R Thekkath
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+24. The opportunities and challenges of exascale computing
+Citations:157
+Authors: S Ashby, P Beckman, J Chen, P Colella, B Collins, D Crawford, ...
+Publication: Summary Report of the Advanced Scientific Computing Advisory Committee …
+
+25. Partitioning parallel programs for macro-dataflow
+Citations:137
+Authors: V Sarkar, J Hennessy
+Publication: STANFORD UNIV CA COMPUTER SYSTEMS LAB
+
+26. Retargeting optimized code by matching tree patterns in directed acyclic graphs
+Citations:132
+Authors: V Sarkar, MJ Serrano, BB Simons
+Publication: US Patent 6,292,938
+
+27. Location consistency-a new memory model and cache consistency protocol
+Citations:125
+Authors: GR Gao, V Sarkar
+Publication: IEEE Transactions on Computers 49 (8), 798-813
+
+28. Customizable domain-specific computing
+Citations:120
+Authors: J Cong, V Sarkar, G Reinman, A Bui
+Publication: IEEE Design & Test of Computers 28 (2), 6-15
+
+29. Automatic partitioning of a program dependence graph into parallel tasks
+Citations:120
+Authors: V Sarkar
+Publication: IBM Journal of Research and Development 35 (5.6), 779-804
+
+30. Exascale software study: Software challenges in extreme scale systems
+Citations:112
+Authors: S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, E Elnohazy, ...
+Publication: DARPA IPTO, Air Force Research Labs, Tech. Rep, 1-153
+
+31. A comparative study of static and profile-based heuristics for inlining
+Citations:108
+Authors: M Arnold, S Fink, V Sarkar, PF Sweeney
+Publication: ACM SIGPLAN Notices 35 (7), 52-64
+
+32. The RAW compiler project
+Citations:107
+Authors: A Agarwal, S Amarasinghe, R Barua, M Frank, W Lee, V Sarkar, ...
+Publication: Proceedings of the Second SUIF Compiler Workshop, Stanford, CA
+
+33. Optimized unrolling of nested loops
+Citations:105
+Authors: V Sarkar
+Publication: Proceedings of the 14th international conference on Supercomputing, 153-166
+
+34. Hierarchical place trees: A portable abstraction for task parallelism and data movement
+Citations:104
+Authors: Y Yan, J Zhao, Y Guo, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+35. Automatic selection of high-order transformations in the IBM XL FORTRAN compilers
+Citations:103
+Authors: V Sarkar
+Publication: IBM Journal of Research and Development 41 (3), 233-264
+
+36. Method and apparatus for efficient and precise datarace detection for multithreaded object-oriented programs
+Citations:101
+Authors: JD Choi, K Lee, RW O'callahan, V Sarkar, M Sridharan
+Publication: US Patent 7,516,446
+
+37. May-happen-in-parallel analysis of X10 programs
+Citations:101
+Authors: S Agarwal, R Barik, V Sarkar, RK Shyamasundar
+Publication: Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of …
+
+38. Combining register allocation and instruction scheduling
+Citations:91
+Authors: R Motwani, KV Palem, V Sarkar, S Reyen
+Publication: Courant Institute, New York University
+
+39. X10: concurrent programming for modern architectures
+Citations:90
+Authors: V Saraswat
+Publication: Asian Symposium on Programming Languages and Systems, 1-1
+
+40. A general framework for iteration-reordering loop transformations (technical summary)
+Citations:88
+Authors: V Sarkar, R Thekkath
+Publication: Proceedings of the ACM SIGPLAN 92, 175-187
+
+41. System, method, and program product for instruction scheduling in the presence of hardware lookahead accomplished by the rescheduling of idle slots
+Citations:87
+Authors: BB Simons, V Sarkar
+Publication: US Patent 5,887,174
+
+42. Scalable and precise dynamic datarace detection for structured parallelism
+Citations:86
+Authors: R Raman, J Zhao, V Sarkar, M Vechev, E Yahav
+Publication: 
+
+43. Method of, system for, and computer program product for performing weighted loop fusion by an optimizing compiler
+Citations:84
+Authors: N Megiddo, V Sarkar
+Publication: US Patent 6,058,266
+
+44. Exascale software study: Software challenges in extreme scale systems
+Citations:82
+Authors: V Sarkar, S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, ...
+Publication: ExaScale Computing Study, DARPA IPTO 1
+
+45. Integrating asynchronous task parallelism with MPI
+Citations:81
+Authors: S Chatterjee, S Tasirlar, Z Budimlic, V Cave, M Chabbi, M Grossman, ...
+Publication: 2013 IEEE 27th International Symposium on Parallel and Distributed …
+
+46. Top ten exascale research challenges
+Citations:79
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: DOE ASCAC subcommittee report, 1-86
+
+47. Software challenges in extreme scale systems
+Citations:79
+Authors: V Sarkar, W Harrod, AE Snavely
+Publication: Journal of Physics: Conference Series 180 (1), 012045
+
+48. Reducing the overhead of dynamic compilation
+Citations:79
+Authors: CJ Krintz, D Grove, V Sarkar, B Calder
+Publication: Software: Practice and Experience 31 (8), 717-738
+
+49. Unified analysis of array and object references in strongly typed languages
+Citations:77
+Authors: S Fink, K Knobe, V Sarkar
+Publication: International Static Analysis Symposium, 155-174
+
+50. Automatic detection of inter-application permission leaks in Android applications
+Citations:73
+Authors: D Sbîrlea, MG Burke, S Guarnieri, M Pistoia, V Sarkar
+Publication: IBM Journal of Research and Development 57 (6), 10: 1-10: 12
+
+51. Optimization of array accesses by collective loop transformations
+Citations:73
+Authors: V Sarkar, GR Gao
+Publication: Proceedings of the 5th international conference on Supercomputing, 194-205
+
+52. XJ: facilitating XML processing in Java
+Citations:71
+Authors: M Harren, M Raghavachari, O Shmueli, MG Burke, R Bordawekar, ...
+Publication: Proceedings of the 14th international conference on World Wide Web, 278-287
+
+53. S-cave: Effective ssd caching to improve virtual machine storage performance
+Citations:70
+Authors: T Luo, S Ma, R Lee, X Zhang, D Liu, L Zhou
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+54. Multi-core implementations of the concurrent collections programming model
+Citations:69
+Authors: Z Budimlic, A Chandramowlishwaran, K Knobe, G Lowney, V Sarkar, ...
+Publication: CPC’09: 14th International Workshop on Compilers for Parallel Computers
+
+55. Optimal weighted loop fusion for parallel programs
+Citations:69
+Authors: N Megiddo, V Sarkar
+Publication: SPAA 97, 282-291
+
+56. Habanero-Java library: a Java 8 framework for multicore programming
+Citations:68
+Authors: S Imam, V Sarkar
+Publication: Proceedings of the 2014 International Conference on Principles and Practices …
+
+57. Efficient data race detection for async-finish parallelism
+Citations:67
+Authors: R Raman, J Zhao, V Sarkar, M Vechev, E Yahav
+Publication: International Conference on Runtime Verification, 368-383
+
+58. The habanero multicore software research project
+Citations:66
+Authors: R Barik, Z Budimlic, V Cavè, S Chatterjee, Y Guo, D Peixotto, R Raman, ...
+Publication: Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented …
+
+59. Data-driven tasks and their implementation
+Citations:65
+Authors: S Tasirlar, V Sarkar
+Publication: 2011 International Conference on Parallel Processing, 652-661
+
+60. A compiler framework for restructuring data declarations to enhance cache and TLB effectiveness
+Citations:65
+Authors: DF Bacon, JH Chow, DR Ju, K Muthukumar, V Sarkar
+Publication: CASCON First Decade High Impact Papers, 146-158
+
+61. Hadoopcl: Mapreduce on distributed heterogeneous platforms through seamless integration of hadoop and opencl
+Citations:64
+Authors: M Grossman, M Breternitz, V Sarkar
+Publication: 2013 IEEE International Symposium on Parallel & Distributed Processing …
+
+62. Parallel program graphs and their classification
+Citations:64
+Authors: V Sarkar, B Simons
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+63. Immutability specification and its applications
+Citations:62
+Authors: I Pechtchanski, V Sarkar
+Publication: Concurrency and Computation: Practice and Experience 17 (5‐6), 639-662
+
+64. Compact representations for control dependence
+Citations:62
+Authors: R Cytron, J Ferrante, V Sarkar
+Publication: ACM SIGPLAN Notices 25 (6), 337-351
+
+65. Efficient selection of vector instructions using dynamic programming
+Citations:61
+Authors: R Barik, J Zhao, V Sarkar
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+66. X10: Programming for hierarchical parallelism and non-uniform data access
+Citations:61
+Authors: K Ebcioglu, V Saraswat, V Sarkar
+Publication: Proceedings of the International Workshop on Language Runtimes, OOPSLA 30
+
+67. Dependence analysis for Java
+Citations:61
+Authors: C Chambers, I Pechtchanski, V Sarkar, MJ Serrano, H Srinivasan
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 35-52
+
+68. Savina-an actor benchmark suite: Enabling empirical evaluation of actor libraries
+Citations:60
+Authors: SM Imam, V Sarkar
+Publication: Proceedings of the 4th International Workshop on Programming based on Actors …
+
+69. Deadlock-free scheduling of X10 computations with bounded resources
+Citations:55
+Authors: S Agarwal, R Barik, D Bonachea, V Sarkar, RK Shyamasundar, K Yelick
+Publication: Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …
+
+70. Experiences using control dependence in PTRAN
+Citations:54
+Authors: R Cytron, J Ferrante, V Sarkar
+Publication: Selected papers of the second workshop on Languages and compilers for …
+
+71. Phaser accumulators: A new reduction construct for dynamic parallelism
+Citations:53
+Authors: J Shirako, DM Peixotto, V Sarkar, WN Scherer
+Publication: 2009 IEEE International Symposium on Parallel & Distributed Processing, 1-12
+
+72. Analysis and optimization of explicity parallel programs using the parallel program graph representation
+Citations:52
+Authors: V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 94-113
+
+73. Integrating task parallelism with actors
+Citations:51
+Authors: SM Imam, V Sarkar
+Publication: ACM SIGPLAN Notices 47 (10), 753-772
+
+74. Compilation techniques for parallel systems
+Citations:51
+Authors: R Gupta, S Pande, K Psarris, V Sarkar
+Publication: Parallel Computing 25 (13-14), 1741-1783
+
+75. Concurrent collections programming model
+Citations:50
+Authors: MG Burke, K Knobe, R Newton, V Sarkar
+Publication: Encyclopedia of Parallel Computing, 364-371
+
+76. Extended linear scan: An alternate foundation for global register allocation
+Citations:50
+Authors: V Sarkar, R Barik
+Publication: International Conference on Compiler Construction, 141-155
+
+77. System, method, and program product for loop instruction scheduling hardware lookahead
+Citations:50
+Authors: BB Simons, V Sarkar
+Publication: US Patent 6,044,222
+
+78. Mapping a data-flow programming model onto heterogeneous platforms
+Citations:49
+Authors: A Sbîrlea, Y Zou, Z Budimlíc, J Cong, V Sarkar
+Publication: ACM SIGPLAN Notices 47 (5), 61-70
+
+79. Dynamic optimistic interprocedural analysis: a framework and an application
+Citations:49
+Authors: I Pechtchanski, V Sarkar
+Publication: ACM SIGPLAN Notices 36 (11), 195-210
+
+80. Static datarace analysis for multithreaded object-oriented programs
+Citations:47
+Authors: JD Choi, A Loginov, V Sarkar
+Publication: Technical Report RC22146, IBM Research
+
+81. An analytical model for loop tiling and its solution
+Citations:46
+Authors: V Sarkar, N Megiddo
+Publication: 2000 IEEE International Symposium on Performance Analysis of Systems and …
+
+82. An experiment in measuring the productivity of three parallel programming languages
+Citations:45
+Authors: K Ebcioglu, V Sarkar, T El-Ghazawi, J Urbanic, PS Center
+Publication: Proceedings of the Third Workshop on Productivity and Performance in High …
+
+83. X10: an experimental language for high productivity programming of scalable systems
+Citations:45
+Authors: K Ebcioglu, V Saraswat, V Sarkar
+Publication: Proceedings of the Second Workshop on Productivity and Performance in High …
+
+84. Jalapeño-a compiler-supported Java virtual machine for servers
+Citations:45
+Authors: B Alpern, A Cocchi, D Lieber, M Mergen, V Sarkar
+Publication: 
+
+85. PTRAN—the IBM parallel translation system
+Citations:44
+Authors: V Sarkar
+Publication: Parallel Functional Languages and Compilers, 309-391
+
+86. POSC—a partitioning and optimizing SISAL compiler
+Citations:44
+Authors: V Sarkar, D Cann
+Publication: ACM SIGARCH Computer Architecture News 18 (3b), 148-164
+
+87. Analytical bounds for optimal tile size selection
+Citations:43
+Authors: J Shirako, K Sharma, N Fauzia, LN Pouchet, J Ramanujam, ...
+Publication: International Conference on Compiler Construction, 101-121
+
+88. Synergistic challenges in data-intensive science and exascale computing: DOE ASCAC data subcommittee report
+Citations:40
+Authors: J Chen, A Choudhary, S Feldman, B Hendrickson, CR Johnson, R Mount, ...
+Publication: Department of Energy Office of Science
+
+89. Communication optimizations for distributed-memory X10 programs
+Citations:40
+Authors: R Barik, J Zhao, D Grove, I Peshansky, Z Budimlic, V Sarkar
+Publication: 2011 IEEE International Parallel & Distributed Processing Symposium, 1101-1113
+
+90. Habaneroupc++: A compiler-free pgas library
+Citations:39
+Authors: V Kumar, Y Zheng, V Cavé, Z Budimlić, V Sarkar
+Publication: Proceedings of the 8th International Conference on Partitioned Global …
+
+91. Chunking parallel loops in the presence of synchronization
+Citations:39
+Authors: J Shirako, JM Zhao, VK Nandivada, VN Sarkar
+Publication: Proceedings of the 23rd international conference on Supercomputing, 181-192
+
+92. Automatic verification of determinism for structured parallel programs
+Citations:38
+Authors: M Vechev, E Yahav, R Raman, V Sarkar
+Publication: International Static Analysis Symposium, 455-471
+
+93. The Open Community Runtime: A runtime system for extreme scale computing
+Citations:37
+Authors: TG Mattson, R Cledat, V Cavé, V Sarkar, Z Budimlić, S Chatterjee, ...
+Publication: 2016 IEEE High Performance Extreme Computing Conference (HPEC), 1-7
+
+94. Intermediate language extensions for parallelism
+Citations:37
+Authors: J Zhao, V Sarkar
+Publication: Proceedings of the compilation of the co-located workshops on DSM'11, TMC'11 …
+
+95. Type inference for locality analysis of distributed data structures
+Citations:37
+Authors: S Chandra, V Saraswat, V Sarkar, R Bodik
+Publication: Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of …
+
+96. Delegated isolation
+Citations:36
+Authors: R Lublinerman, J Zhao, Z Budimlić, S Chaudhuri, V Sarkar
+Publication: ACM SIGPLAN Notices 46 (10), 885-902
+
+97. XJ: Integration of XML processing into Java
+Citations:36
+Authors: M Harren, M Raghavachari, O Shmueli, MG Burke, V Sarkar, ...
+Publication: Proceedings of the 13th International World Wide Web conference on Alternate …
+
+98. Interprocedural load elimination for dynamic optimization of parallel programs
+Citations:35
+Authors: R Barik, V Sarkar
+Publication: 2009 18th International Conference on Parallel Architectures and Compilation …
+
+99. A concurrent execution semantics for parallel program graphs and program dependence graphs
+Citations:35
+Authors: V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 16-30
+
+100. Practical permissions for race-free parallelism
+Citations:34
+Authors: E Westbrook, J Zhao, Z Budimlić, V Sarkar
+Publication: European Conference on Object-Oriented Programming, 614-639
+
+101. Mining hot calling contexts in small space
+Citations:34
+Authors: DC D'Elia, C Demetrescu, I Finocchi
+Publication: ACM SIGPLAN Notices 46 (6), 516-527
+
+102. CnC-CUDA: declarative programming for GPUs
+Citations:34
+Authors: M Grossman, AS Sbîrlea, Z Budimlić, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+103. Location consistency: Stepping beyond the barriers of memory coherence and serializability
+Citations:34
+Authors: GR Gao, V Sarkar
+Publication: McGill University, School of Computer
+
+104. Compiling and optimizing java 8 programs for gpu execution
+Citations:33
+Authors: K Ishizaki, A Hayashi, G Koblents, V Sarkar
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+105. Automatic parallelization for symmetric shared-memory multiprocessors
+Citations:33
+Authors: JH Chow, LE Lyon, V Sarkar
+Publication: Proceedings of the 1996 conference of the Centre for Advanced Studies on …
+
+106. Dynamic task parallelism with a GPU work-stealing runtime system
+Citations:32
+Authors: S Chatterjee, M Grossman, A Sbîrlea, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+107. Method of, system for, and computer program product for minimizing loop execution time by optimizing block/tile sizes
+Citations:32
+Authors: N Megiddo, V Sarkar
+Publication: US Patent 5,953,531
+
+108. A transformation framework for optimizing task-parallel programs
+Citations:31
+Authors: VK Nandivada, J Shirako, J Zhao, V Sarkar
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 35 (1), 3
+
+109. Declarative aspects of memory management in the concurrent collections parallel programming model
+Citations:30
+Authors: Z Budimlic, AM Chandramowlishwaran, K Knobe, GN Lowney, V Sarkar, ...
+Publication: Proceedings of the 4th workshop on Declarative aspects of multicore …
+
+110. Synchronization using counting semaphores
+Citations:30
+Authors: V Sarkar
+Publication: Proceedings of the 2nd international conference on Supercomputing, 627-637
+
+111. Reducing task creation and termination overhead in explicitly parallel programs
+Citations:29
+Authors: J Zhao, J Shirako, V Sarkar, VK Nandivada
+Publication: 2010 19th International Conference on Parallel Architectures and Compilation …
+
+112. Automatic discovery of parallelism: a tool and an experiment
+Citations:28
+Authors: M Burke, R Cytron, J Ferrante, W Hsieh, V Sarkar, D Shields
+Publication: ACM SIGPLAN Notices 23 (9), 77-84
+
+113. Incremental computation of static single assignment form
+Citations:27
+Authors: JD Choi, V Sarkar, E Schonberg
+Publication: International Conference on Compiler Construction, 223-237
+
+114. False sharing elimination by selection of runtime scheduling parameters
+Citations:26
+Authors: JH Chow, V Sarkar
+Publication: Proceedings of the 1997 International Conference on Parallel Processing (Cat …
+
+115. Cooperative scheduling of parallel tasks with general synchronization patterns
+Citations:25
+Authors: S Imam, V Sarkar
+Publication: European Conference on Object-Oriented Programming, 618-643
+
+116. Compiler-driven data layout transformation for heterogeneous platforms
+Citations:25
+Authors: D Majeti, R Barik, J Zhao, M Grossman, V Sarkar
+Publication: European Conference on Parallel Processing, 188-197
+
+117. Minimum lock assignment: A method for exploiting concurrency among critical sections
+Citations:25
+Authors: Y Zhang, VC Sreedhar, W Zhu, V Sarkar, GR Gao
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+118. Language extensions in support of compiler parallelization
+Citations:25
+Authors: J Shirako, H Kasahara, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 78-94
+
+119. Method of, system for, and computer program product for providing quick fusion in WHERE constructs
+Citations:25
+Authors: DC Ju, JSL Ng, V Sarkar
+Publication: US Patent 6,041,181
+
+120. Enabling sparse constant propagation of array elements via array SSA form
+Citations:24
+Authors: V Sarkar, K Knobe
+Publication: International Static Analysis Symposium, 33-56
+
+121. Instruction reordering for fork-join parallelism
+Citations:24
+Authors: V Sarkar
+Publication: ACM SIGPLAN Notices 25 (6), 322-336
+
+122. Experiences with an smp implementation for x10 based on the java concurrency utilities
+Citations:23
+Authors: R Barik, V Cave, C Donawa, A Kielstra, I Peshansky, V Sarkar
+Publication: Workshop on Programming Models for Ubiquitous Parallelism (PMUP), held in …
+
+123. Method of, system for, and computer program product for efficient identification of private variables in program loops by an optimizing compiler
+Citations:23
+Authors: V Sarkar
+Publication: US Patent 5,790,859
+
+124. Mapping iterative task graphs on distributed memory machines
+Citations:23
+Authors: T Yang, C Fu, A Gerasoulis, V Sarkar
+Publication: Proc. 24th International Conference on Parallel Processing
+
+125. Oil and water can mix: an integration of polyhedral and AST-based transformations
+Citations:22
+Authors: J Shirako, LN Pouchet, V Sarkar
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+126. Accelerating habanero-java programs with opencl generation
+Citations:22
+Authors: A Hayashi, M Grossman, J Zhao, J Shirako, V Sarkar
+Publication: Proceedings of the 2013 International Conference on Principles and Practices …
+
+127. ASCR programming challenges for exascale computing
+Citations:22
+Authors: S Amarasinghe, M Hall, R Lethin, K Pingali, D Quinlan, V Sarkar, J Shalf, ...
+Publication: Report of the 2011 Workshop on Exascale Programming Challenges
+
+128. Comparing the usability of library vs. language approaches to task parallelism
+Citations:22
+Authors: V Cavé, Z Budimlić, V Sarkar
+Publication: Evaluation and Usability of Programming Languages and Tools, 9
+
+129. Folding of tagged single assignment values for memory-efficient parallelism
+Citations:21
+Authors: D Sbîrlea, K Knobe, V Sarkar
+Publication: European Conference on Parallel Processing, 601-613
+
+130. Hierarchical phasers for scalable synchronization and reductions in dynamic parallelism
+Citations:21
+Authors: J Shirako, V Sarkar
+Publication: 2010 IEEE International Symposium on Parallel & Distributed Processing …
+
+131. Machine-learning-based performance heuristics for runtime cpu/gpu selection
+Citations:20
+Authors: A Hayashi, K Ishizaki, G Koblents, V Sarkar
+Publication: Proceedings of the principles and practices of programming on the Java …
+
+132. Method and system for generating compact code for the loop unrolling transformation
+Citations:20
+Authors: K Nguyen, V Sarkar
+Publication: US Patent 6,035,125
+
+133. Polyhedral optimizations of explicitly parallel programs
+Citations:19
+Authors: P Chatarasi, J Shirako, V Sarkar
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+134. A simple and efficient implmentation approach for single assignment languages
+Citations:19
+Authors: K Gharachorloo, V Sarkar, JL Hennessy
+Publication: Proceedings of the 1988 ACM conference on LISP and functional programming …
+
+135. Location consistency: Stepping beyond the memory coherence barrier
+Citations:18
+Authors: GR Gao, V Sarkar
+Publication: ICPP (2), 73-76
+
+136. Data merging for shared-memory multiprocessors
+Citations:18
+Authors: AH Karp, V Sarkar
+Publication: [1993] Proceedings of the Twenty-sixth Hawaii International Conference on …
+
+137. Bounded memory scheduling of dynamic task graphs
+Citations:17
+Authors: D Sbîrlea, Z Budimlić, V Sarkar
+Publication: 2014 23rd International Conference on Parallel Architecture and Compilation …
+
+138. A study of a software cache implementation of the openmp memory model for multicore and manycore architectures
+Citations:17
+Authors: C Chen, JB Manzano, G Gan, GR Gao, V Sarkar
+Publication: European Conference on Parallel Processing, 341-352
+
+139. Static detection of a datarace condition for multithreaded object-oriented applications
+Citations:17
+Authors: JD Choi, A Loginov, V Sarkar
+Publication: US Patent 7,469,403
+
+140. Regmutex: Inter-warp gpu register time-sharing
+Citations:16
+Authors: F Khorasani, HA Esfeden, A Farmahini-Farahani, N Jayasena, V Sarkar
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+141. Efficient data race detection for async-finish parallelism
+Citations:16
+Authors: R Raman, J Zhao, V Sarkar, M Vechev, E Yahav
+Publication: Formal Methods in System Design 41 (3), 321-347
+
+142. Register-sensitive selection, duplication, and sequencing of instructions
+Citations:16
+Authors: V Sarkar, MJ Serrano, BB Simons
+Publication: Proceedings of the 15th international conference on Supercomputing, 277-288
+
+143. Swat: A programmable, in-memory, distributed, high-performance computing platform
+Citations:15
+Authors: M Grossman, V Sarkar
+Publication: Proceedings of the 25th ACM International Symposium on High-Performance …
+
+144. Selectors: Actors with multiple guarded mailboxes
+Citations:15
+Authors: SM Imam, V Sarkar
+Publication: Proceedings of the 4th International Workshop on Programming based on Actors …
+
+145. Test-driven repair of data races in structured parallel programs
+Citations:15
+Authors: R Surendran, R Raman, S Chaudhuri, J Mellor-Crummey, V Sarkar
+Publication: ACM SIGPLAN Notices 49 (6), 15-25
+
+146. A practical approach to DOACROSS parallelization
+Citations:15
+Authors: P Unnikrishnan, J Shirako, K Barton, S Chatterjee, R Silvera, V Sarkar
+Publication: European Conference on Parallel Processing, 219-231
+
+147. Permission regions for race-free parallelism
+Citations:15
+Authors: E Westbrook, J Zhao, Z Budimlić, V Sarkar
+Publication: International Conference on Runtime Verification, 94-109
+
+148. Application development productivity challenges for high-end computing
+Citations:15
+Authors: V Sarkar, C Williams, K Ebcioglu
+Publication: Proc. 1st Workshop Productivity and Performance High-End Computing, 14-18
+
+149. Locality analysis for distributed shared-memory multiprocessors
+Citations:15
+Authors: V Sarkar, GR Gao, S Han
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 20-40
+
+150. Race detection in two dimensions
+Citations:14
+Authors: D Dimitrov, M Vechev, V Sarkar
+Publication: ACM Transactions on Parallel Computing (TOPC) 4 (4), 19
+
+151. An extended polyhedral model for SPMD programs and its use in static data race detection
+Citations:14
+Authors: P Chatarasi, J Shirako, M Kong, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+152. Optimization of lattice Boltzmann simulation with graphics-processing-unit parallel computing and the application in reservoir characterization
+Citations:14
+Authors: C Chen, Z Wang, D Majeti, N Vrvilo, T Warburton, V Sarkar, G Li
+Publication: SPE Journal 21 (04), 1,425-1,435
+
+153. Hadoopcl2: Motivating the design of a distributed, heterogeneous programming system with machine-learning applications
+Citations:14
+Authors: M Grossman, M Breternitz, V Sarkar
+Publication: IEEE Transactions on Parallel and Distributed Systems 27 (3), 762-775
+
+154. The design and implementation of the habanero-java parallel programming language
+Citations:14
+Authors: Z Budimlić, V Cavé, R Raman, J Shirako, S Taşırlar, J Zhao, V Sarkar
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+155. Unifying barrier and point-to-point synchronization in OpenMP with phasers
+Citations:14
+Authors: J Shirako, K Sharma, V Sarkar
+Publication: International Workshop on OpenMP, 122-137
+
+156. Optimized lock assignment and allocation: A method for exploiting concurrency among critical sections
+Citations:14
+Authors: Y Zhang, VC Sreedhar, W Zhu, V Sarkar, GR Gao
+Publication: Principles and Practice of Parallel Programming: Proceedings of the 12 th …
+
+157. Combining Register Allocation and Instruction Scheduling (Technical Summary)
+Citations:14
+Authors: R Motwani, KV Palem, V Sarkar, S Reyen
+Publication: Tech. rep., Courant Institute, New York University. July. TR 698
+
+158. An automatically partitioning compiler for sisal
+Citations:14
+Authors: V Sarkar, S Skedzielewski, P Miller
+Publication: Lawrence Livermore National Lab., CA (USA)
+
+159. Dynamic determinacy race detection for task parallelism with futures
+Citations:13
+Authors: R Surendran, V Sarkar
+Publication: International Conference on Runtime Verification, 368-385
+
+160. Automatic data layout generation and kernel mapping for CPU+ GPU architectures
+Citations:13
+Authors: D Majeti, KS Meel, R Barik, V Sarkar
+Publication: Proceedings of the 25th International Conference on Compiler Construction …
+
+161. On the importance of an end-to-end view of memory consistency in future computer systems
+Citations:13
+Authors: GR Gao, V Sarkar
+Publication: International Symposium on High Performance Computing, 30-41
+
+162. Data layout optimization for portable performance
+Citations:12
+Authors: K Sharma, I Karlin, J Keasler, JR McGraw, V Sarkar
+Publication: European Conference on Parallel Processing, 250-262
+
+163. Automatic verification of determinism for parallel programs
+Citations:12
+Authors: M Vechev, E Yahav, R Raman, V Sarkar
+Publication: US Patent 9,069,893
+
+164. Inter-iteration scalar replacement using array ssa form
+Citations:12
+Authors: R Surendran, R Barik, J Zhao, V Sarkar
+Publication: International Conference on Compiler Construction, 40-60
+
+165. Expressing doacross loop dependences in OpenMP
+Citations:12
+Authors: J Shirako, P Unnikrishnan, S Chatterjee, K Li, V Sarkar
+Publication: International Workshop on OpenMP, 30-44
+
+166. Habanero-Scala: Async-Finish Programming in Scala
+Citations:12
+Authors: S Imam, V Sarkar
+Publication: The Third Scala Workshop (Scala Days 2012)
+
+167. Declarative tuning for locality in parallel programs
+Citations:11
+Authors: S Chatterjee, N Vrvilo, Z Budimlic, K Knobe, V Sarkar
+Publication: 2016 45th International Conference on Parallel Processing (ICPP), 452-457
+
+168. Load balancing prioritized tasks via work-stealing
+Citations:11
+Authors: S Imam, V Sarkar
+Publication: European Conference on Parallel Processing, 222-234
+
+169. The Eureka programming model for speculative task parallelism
+Citations:11
+Authors: S Imam, V Sarkar
+Publication: 29th European Conference on Object-Oriented Programming (ECOOP 2015)
+
+170. Dfgr an intermediate graph representation for macro-dataflow programs
+Citations:11
+Authors: A Sbirlea, LN Pouchet, V Sarkar
+Publication: 2014 Fourth Workshop on Data-Flow Execution Models for Extreme Scale …
+
+171. DOE advanced scientific computing advisory subcommittee (ASCAC) report: top ten exascale research challenges
+Citations:11
+Authors: R Lucas, J Ang, K Bergman, S Borkar, W Carlson, L Carrington, G Chiu, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+172. Reactive power constrained OPF scheduling with 2-D locational marginal pricing
+Citations:11
+Authors: V Sarkar, SA Khaparde
+Publication: IEEE Transactions on Power Systems 28 (1), 503-512
+
+173. Compiler support for work-stealing parallel runtime systems
+Citations:11
+Authors: R Raman
+Publication: 
+
+174. In-register parameter caching for dynamic neural nets with virtual persistent processor specialization
+Citations:10
+Authors: F Khorasani, HA Esfeden, N Abu-Ghazaleh, V Sarkar
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+175. Pedagogy and tools for teaching parallel computing at the sophomore undergraduate level
+Citations:10
+Authors: M Grossman, M Aziz, H Chi, A Tibrewal, S Imam, V Sarkar
+Publication: Journal of Parallel and Distributed Computing 105, 18-30
+
+176. Exploring compiler optimization opportunities for the OpenMP 4.× accelerator model on a POWER8+ GPU platform
+Citations:10
+Authors: A Hayashi, J Shirako, E Tiotto, R Ho, V Sarkar
+Publication: 2016 Third Workshop on Accelerator Programming Using Directives (WACCPD), 68-78
+
+177. PIPES: a language and compiler for task-based programming on distributed-memory clusters
+Citations:10
+Authors: M Kong, LN Pouchet, P Sadayappan, V Sarkar
+Publication: SC'16: Proceedings of the International Conference for High Performance …
+
+178. Polyhedral optimizations for a data-flow graph language
+Citations:10
+Authors: A Sbîrlea, J Shirako, LN Pouchet, V Sarkar
+Publication: Languages and Compilers for Parallel Computing, 57-72
+
+179. Isolation for nested task parallelism
+Citations:10
+Authors: J Zhao, R Lublinerman, Z Budimlić, S Chaudhuri, V Sarkar
+Publication: ACM SIGPLAN Notices 48 (10), 571-588
+
+180. User-specified and automatic data layout selection for portable performance
+Citations:10
+Authors: K Sharma, I Karlin, J Keasler, J McGraw, V Sarkar
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+181. Improving demand response and bid-consistency of price outcome in the security-constrained dispatch scheduling
+Citations:10
+Authors: V Sarkar, SA Khaparde
+Publication: IEEE Transactions on Power Systems 28 (3), 2433-2445
+
+182. Hardware and software tradeoffs for task synchronization on manycore architectures
+Citations:10
+Authors: Y Yan, S Chatterjee, DA Orozco, E Garcia, Z Budimlić, J Shirako, ...
+Publication: European Conference on Parallel Processing, 112-123
+
+183. Decentralizing composite web services
+Citations:10
+Authors: MG Nanda, S Chandra, V Sarkar
+Publication: Proceedings of Workshop on Compilers for Parallel Computing
+
+184. Heterogeneous work-stealing across CPU and DSP cores
+Citations:9
+Authors: V Kumar, A Sbîrlea, A Jayaraj, Z Budimlić, D Majeti, V Sarkar
+Publication: 2015 IEEE High Performance Extreme Computing Conference (HPEC), 1-6
+
+185. Speculative execution of parallel programs with precise exception semantics on gpus
+Citations:9
+Authors: A Hayashi, M Grossman, J Zhao, J Shirako, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+186. The flexible preconditions model for macro-dataflow execution
+Citations:9
+Authors: D Sbîrlea, A Sbîrlea, KB Wheeler, V Sarkar
+Publication: 2013 Data-Flow Execution Models for Extreme Scale Computing, 51-58
+
+187. Determinacy and repeatability of parallel program schemata
+Citations:9
+Authors: JB Dennis, GR Gao, V Sarkar
+Publication: 2012 Data-Flow Execution Models for Extreme Scale Computing, 1-9
+
+188. An optimal asynchronous scheduling algorithm for software cache consistency
+Citations:9
+Authors: B Simons, V Sarkar, M Breternitz Jr, M Lai
+Publication: 1994 Proceedings of the Twenty-Seventh Hawaii International Conference on …
+
+189. Modeling the conflicting demands of parallelism and temporal/spatial locality in affine scheduling
+Citations:8
+Authors: O Zinenko, S Verdoolaege, C Reddy, J Shirako, T Grosser, V Sarkar, ...
+Publication: Proceedings of the 27th International Conference on Compiler Construction, 3-13
+
+190. Implementation and evaluation of OpenSHMEM contexts using OFI libfabric
+Citations:8
+Authors: M Grossman, J Doyle, J Dinan, H Pritchard, K Seager, V Sarkar
+Publication: Workshop on OpenSHMEM and Related Technologies, 19-34
+
+191. Optimized two-level parallelization for GPU accelerators using the polyhedral model
+Citations:8
+Authors: J Shirako, A Hayashi, V Sarkar
+Publication: Proceedings of the 26th International Conference on Compiler Construction, 22-33
+
+192. Optimized distributed work-stealing
+Citations:8
+Authors: V Kumar, K Murthy, V Sarkar, Y Zheng
+Publication: Proceedings of the Sixth Workshop on Irregular Applications: Architectures …
+
+193. Automatic parallelization of pure method calls via conditional future synthesis
+Citations:8
+Authors: R Surendran, V Sarkar
+Publication: ACM SIGPLAN Notices 51 (10), 20-38
+
+194. Integrating asynchronous task parallelism with openshmem
+Citations:8
+Authors: M Grossman, V Kumar, Z Budimlić, V Sarkar
+Publication: Workshop on OpenSHMEM and Related Technologies, 3-17
+
+195. Elastic tasks: Unifying task parallelism and SPMD parallelism with an adaptive runtime
+Citations:8
+Authors: A Sbirlea, K Agrawal, V Sarkar
+Publication: European Conference on Parallel Processing, 491-503
+
+196. Heterogeneous Habanero-C (H2C): a portable programming model for heterogeneous processors
+Citations:8
+Authors: D Majeti, V Sarkar
+Publication: 2015 IEEE International Parallel and Distributed Processing Symposium …
+
+197. Interprocedural strength reduction of critical sections in explicitly-parallel programs
+Citations:8
+Authors: R Barik, J Zhao, V Sarkar
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+198. HJ-Hadoop: an optimized mapreduce runtime for multi-core systems.
+Citations:8
+Authors: Y Zhang, A Cox, V Sarkar
+Publication: SPLASH (Companion Volume), 111-112
+
+199. Deterministic reductions in an asynchronous parallel language
+Citations:8
+Authors: Z Budimlic, M Burke, K Knobe, R Newton, D Peixotto, V Sarkar, ...
+Publication: 2nd WoDet
+
+200. Challenges in code optimization of parallel programs
+Citations:8
+Authors: V Sarkar
+Publication: International Conference on Compiler Construction, 1-1
+
+201. Analyzable atomic sections: Integrating fine-grained synchronization and weak consistency models for scalable parallelism
+Citations:8
+Authors: V Sarkar, GR Gao
+Publication: Technical report, CAPSL Technical Memo 52
+
+202. Partitioning and Scheduling Parallel Programs for Multiprocessors. Research monographs in parallel and distributed computing
+Citations:8
+Authors: V Sarkar
+Publication: MIT P ress, Cambridge, MA 19 (8), 9
+
+203. Maestro: An open-source infrastructure for modeling dataflows within deep learning accelerators
+Citations:7
+Authors: H Kwon, M Pellauer, T Krishna
+Publication: arXiv preprint arXiv:1805.02566
+
+204. A survey of sparse matrix-vector multiplication performance on large matrices
+Citations:7
+Authors: M Grossman, C Thiele, M Araya-Polo, F Frank, FO Alpak, V Sarkar
+Publication: arXiv preprint arXiv:1608.00636
+
+205. LLVM-based communication optimizations for PGAS programs
+Citations:7
+Authors: A Hayashi, J Zhao, M Ferguson, V Sarkar
+Publication: Proceedings of the Second Workshop on the LLVM Compiler Infrastructure in HPC, 1
+
+206. Characterizing application execution using the open community runtime
+Citations:7
+Authors: Z Budimlic, V Cavé, S Chatterjee, R Cledat, V Sarkar, B Seshasayee, ...
+Publication: International Workshop on Runtime Systems for Extreme Scale Programming …
+
+207. A decoupled non-SSA global register allocation using bipartite liveness graphs
+Citations:7
+Authors: R Barik, J Zhao, V Sarkar
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 10 (4), 63
+
+208. Interfacing Chapel with traditional HPC programming languages
+Citations:7
+Authors: A Prantl, T Epperly, S Imam, V Sarkar
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+209. Work-first and help-first scheduling policies for terminally strict parallel programs
+Citations:7
+Authors: Y Guo, R Barik, R Raman, V Sarkar
+Publication: Proc. 23rd Intl. Parallel and Distributed Processing Symposium (IPDPS)
+
+210. Improving access to shared data in a partitioned global address space programming model
+Citations:7
+Authors: CM Barton, JN Amaral, V Sarkar, R Sydora, J Schaeffer, P Lu
+Publication: 
+
+211. Enhanced bitwidth-aware register allocation
+Citations:7
+Authors: R Barik, V Sarkar
+Publication: International Conference on Compiler Construction, 263-276
+
+212. Lightweight object-oriented shared variables for distributed applications on the Internet
+Citations:7
+Authors: J Harris, V Sarkar
+Publication: ACM SIGPLAN Notices 33 (10), 296-309
+
+213. Baring it all to software: The raw machine
+Citations:7
+Authors: EW Michael, M Taylor, V Sarkar, W Lee, V Lee, J Kim, M Frank, P Finch, ...
+Publication: IEEE Computer
+
+214. Processor Scheduling Algorithms for Constraint-Satisfaction Search Problems
+Citations:7
+Authors: KS Natarajan, V Sarkar
+Publication: ICPP (2), 140-149
+
+215. A pluggable framework for composable hpc scheduling libraries
+Citations:6
+Authors: M Grossman, V Kumar, N Vrvilo, Z Budimlic, V Sarkar
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+216. A distributed selectors runtime system for java applications
+Citations:6
+Authors: A Chatterjee, B Gvoka, B Xue, Z Budimlic, S Imam, V Sarkar
+Publication: Proceedings of the 13th International Conference on Principles and Practices …
+
+217. Hj-opencl: Reducing the gap between the jvm and accelerators
+Citations:6
+Authors: M Grossman, S Imam, V Sarkar
+Publication: Proceedings of the Principles and Practices of Programming on The Java …
+
+218. A composable deadlock-free approach to object-based isolation
+Citations:6
+Authors: S Imam, J Zhao, V Sarkar
+Publication: European Conference on Parallel Processing, 426-437
+
+219. Finding tizen security bugs through whole-system static analysis
+Citations:6
+Authors: D Song, J Zhao, M Burke, D Sbîrlea, D Wallach, V Sarkar
+Publication: arXiv preprint arXiv:1504.05967
+
+220. Adha: Automatic data layout framework for heterogeneous architectures
+Citations:6
+Authors: D Majeti, KS Meel, R Barik, V Sarkar
+Publication: 2014 23rd International Conference on Parallel Architecture and Compilation …
+
+221. Integrating mpi with asynchronous task parallelism
+Citations:6
+Authors: Y Yan, S Chatterjee, Z Budimlic, V Sarkar
+Publication: European MPI Users' Group Meeting, 333-336
+
+222. DrHJ: a lightweight pedagogic IDE for Habanero Java
+Citations:6
+Authors: J Payne, V Cavé, R Raman, M Ricken, R Cartwright, V Sarkar
+Publication: Proceedings of the 9th International Conference on Principles and Practice …
+
+223. Code optimization of parallel programs: evolutionary vs. revolutionary approaches
+Citations:6
+Authors: V Sarkar
+Publication: Proceedings of the 6th annual IEEE/ACM international symposium on Code …
+
+224. Mechanics of Machines
+Citations:6
+Authors: V Sarkar
+Publication: Tata McGraw-Hill
+
+225. Graph500 on OpenSHMEM: using a practical survey of past work to motivate novel algorithmic developments
+Citations:5
+Authors: M Grossman, H Pritchard, Z Budimlić, V Sarkar
+Publication: Proceedings of the Second Annual PGAS Applications Workshop, 2
+
+226. Unified polyhedral modeling of temporal and spatial locality
+Citations:5
+Authors: O Zinenko, S Verdoolaege, C Reddy, J Shirako, T Grosser, V Sarkar, ...
+Publication: 
+
+227. Deadlock avoidance in parallel programs with futures: Why parallel tasks should not wait for strangers
+Citations:5
+Authors: T Cogumbreiro, R Surendran, F Martins, V Sarkar, VT Vasconcelos, ...
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 103
+
+228. Static Data Race Detection for SPMD Programs via an Extended Polyhedral Representation
+Citations:5
+Authors: P Chatarasi, J Shirako, V Sarkar
+Publication: Proceedings of the Sixth International Workshop on Polyhedral Compilation …
+
+229. Phaser beams: Integrating stream parallelism with task parallelism
+Citations:5
+Authors: J Shirako, D Peixotto, D Sbirlea, V Sarkar
+Publication: X10 Workshop
+
+230. Subregion analysis and bounds check elimination for high level arrays
+Citations:5
+Authors: M Joyner, Z Budimlić, V Sarkar
+Publication: International Conference on Compiler Construction, 246-265
+
+231. Automatic vector instruction selection for dynamic compilation
+Citations:5
+Authors: R Barik, J Zhao, V Sarkar
+Publication: Proceedings of the 19th international conference on Parallel architectures …
+
+232. Array optimizations for parallel implementations of high productivity languages
+Citations:5
+Authors: M Joyner, Z Budimlic, V Sarkar, R Zhang
+Publication: 2008 IEEE International Symposium on Parallel and Distributed Processing, 1-8
+
+233. Programming challenges for petascale and multicore parallel systems
+Citations:5
+Authors: V Sarkar
+Publication: International Conference on High Performance Computing and Communications, 1-1
+
+234. Optimizing array accesses in high productivity languages
+Citations:5
+Authors: M Joyner, Z Budimlić, V Sarkar
+Publication: International Conference on High Performance Computing and Communications …
+
+235. Optimized lock assignment and allocation for productivity: A method for exploiting concurrency among critical sections
+Citations:5
+Authors: Y Zhang, VC Sreedhar, W Zhu, V Sarkar, GR Gao
+Publication: Technical Report CAPSL-TM-065, CAPSL
+
+236. X10: An object oriented aproach to non-uniform cluster computing
+Citations:5
+Authors: V Sarkar
+Publication: Companion to the 20th annual ACM SIGPLAN conference on Object-oriented …
+
+237. Efficient dependence analysis for Java arrays
+Citations:5
+Authors: V Sarkar, S Fink
+Publication: European Conference on Parallel Processing, 273-277
+
+238. Lightweight object-oriented shared variables for cluster computing in Java
+Citations:5
+Authors: J Harris, V Sarkar
+Publication: Journal of Parallel and Distributed Computing 60 (10), 1238-1259
+
+239. Porting DMRG++ scientific application to openpower
+Citations:4
+Authors: A Chatterjee, G Alvarez, E D’Azevedo, W Elwasif, O Hernandez, V Sarkar
+Publication: International Conference on High Performance Computing, 418-431
+
+240. Formalization of Habanero phasers using Coq
+Citations:4
+Authors: T Cogumbreiro, J Shirako, V Sarkar
+Publication: Journal of logical and algebraic methods in programming 90, 50-60
+
+241. Auto-grading for parallel programs
+Citations:4
+Authors: M Aziz, H Chi, A Tibrewal, M Grossman, V Sarkar
+Publication: Proceedings of the Workshop on Education for High-Performance Computing, 3
+
+242. DOE Advanced Scientific Computing Advisory Committee (ASCAC) Report: Exascale Computing Initiative Review
+Citations:4
+Authors: D Reed, M Berzins, R Pennington, V Sarkar, V Taylor
+Publication: USDOE Office of Science (SC)(United States)
+
+243. Polyhedral transformations of explicitly parallel programs
+Citations:4
+Authors: P Chatarasi, J Shirako, V Sarkar
+Publication: 5th International Workshop on Polyhedral Compilation Techniques (IMPACT)
+
+244. A comparative study on LQR and H∞control for damping oscillations in power system network considering different operating points
+Citations:4
+Authors: NR Naguru, GVNY Babu, V Sarkar
+Publication: 2014 International Conference on Smart Electric Grid (ISEG), 1-6
+
+245. A Case for Cooperative Scheduling in X10’s Managed Runtime
+Citations:4
+Authors: S Imam, V Sarkar
+Publication: The 2014 X10 Workshop X 10, 2014
+
+246. Compositional dataflow via abstract transition systems
+Citations:4
+Authors: G Bronevetsky, M Burke, S Aananthakrishnan, J Zhao, V Sarkar
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+247. Finish Accumulators: a Deterministic Reduction Construct for Dynamic Task Parallelism
+Citations:4
+Authors: J Shirako, V Cavé, J Zhao, V Sarkar
+Publication: The 4th Workshop on Determinism and Correctness in Parallel Programming …
+
+248. Finish Accumulators: An Efficient Reduction Construct for Dynamic Task Parallelism
+Citations:4
+Authors: J Shirako, V Cavé, J Zhao, V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+249. Design, verification and applications of a new read-write lock algorithm
+Citations:4
+Authors: J Shirako, N Vrvilo, EG Mercer, V Sarkar
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+250. COMP 322: Principles of Parallel Programming
+Citations:4
+Authors: V Sarkar
+Publication: 
+
+251. X10: an Experimental Language for High Productivity Programming of Scalable Systems
+Citations:4
+Authors: V Saraswat, V Sarkar
+Publication: 
+
+252. Program analysis for safety guarantees in a Java virtual machine written in Java
+Citations:4
+Authors: JW Maessen, V Sarkar, D Grove
+Publication: Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+253. Optimized execution of fortran 90 array language on symmetric shared-memory multiprocessors
+Citations:4
+Authors: V Sarkar
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+254. Loop transformations for hierarchical parallelism and locality
+Citations:4
+Authors: V Sarkar
+Publication: International Workshop on Languages, Compilers, and Run-Time Systems for …
+
+255. Anticipatory instruction scheduling
+Citations:4
+Authors: V Sarkar, B Simons
+Publication: Proceedings of the eighth annual ACM symposium on Parallel algorithms and …
+
+256. Combined instruction scheduling and register allocation
+Citations:4
+Authors: R Motwani, K Palem, V Sarkar, S Reyen
+Publication: New York University
+
+257. PTRAN methodologies for the automatic detection of parallelism in FORTRAN programs: Some experimental results
+Citations:4
+Authors: F Allen, M Burke, P Charles, R Cytron, J Ferrante, V Sarkar, D Shields
+Publication: Proceedings of the Fourth International Conference on Supercomputing
+
+258. Chapel-on-x: Exploring tasking runtimes for pgas languages
+Citations:3
+Authors: A Hayashi, SR Paul, M Grossman, J Shirako, V Sarkar
+Publication: Proceedings of the Third International Workshop on Extreme Scale Programming …
+
+259. OpenMP as a high-level specification language for parallelism
+Citations:3
+Authors: M Grossman, J Shirako, V Sarkar
+Publication: International Workshop on OpenMP, 141-155
+
+260. Analysis of sparse matrix-vector multiply for large sparse linear systems
+Citations:3
+Authors: M Grossman, M Araya-Polo, FO Alpak, F Frank, J Limbeck, V Sarkar
+Publication: ECMOR XV-15th European Conference on the Mathematics of Oil Recovery
+
+261. Brief announcement: dynamic determinacy race detection for task parallelism with futures
+Citations:3
+Authors: R Surendran, V Sarkar
+Publication: Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …
+
+262. Dynamic determinism checking for structured parallelism
+Citations:3
+Authors: E Westbrook, R Raman, J Zhao, Z Budlilic, V Sarkar
+Publication: Workshop on Determinism and Correctness in Parallel Programming (WoDet) 15
+
+263. Programmability issues
+Citations:3
+Authors: B Chapman, J Labarta, V Sarkar, M Sato
+Publication: The International Journal of High Performance Computing Applications 23 (4 …
+
+264. X10—new opportunities for compilerdriven performance via a new programming model
+Citations:3
+Authors: K Ebcioglu, V Saraswat, V Sarkar
+Publication: 3rd Workshop on Compiler-Driven Performance
+
+265. Enhanced parallelization via analyses and transformations on Array SSA form
+Citations:3
+Authors: K Knobe, V Sarkar
+Publication: Proceedings of the 8th International Workshop on Compilers for Parallel …
+
+266. Is there a future for functional languages in parallel programming?
+Citations:3
+Authors: BK Szymanski, R Jagannathan, DB Skillicorn, J Hicks, V Sarkar, RK Yates
+Publication: Proceedings of 1994 IEEE International Conference on Computer Languages …
+
+267. A Preliminary Study of Compiler Transformations for Graph Applications on the Emu System
+Citations:2
+Authors: P Chatarasi, V Sarkar
+Publication: Proceedings of the Workshop on Memory Centric High Performance Computing, 37-44
+
+268. Using Dynamic Compilation to Achieve Ninja Performance for CNN Training on Many-Core Processors
+Citations:2
+Authors: A Mandal, R Barik, V Sarkar
+Publication: European Conference on Parallel Processing, 265-278
+
+269. Parallel sparse flow-sensitive points-to analysis
+Citations:2
+Authors: J Zhao, MG Burke, V Sarkar
+Publication: Proceedings of the 27th International Conference on Compiler Construction, 59-70
+
+270. Using CAASCADE and CrayPAT for analysis of HPC applications
+Citations:2
+Authors: RD Budiardja, MG Lopez, J Zhao, O Hernandez, V Sarkar, J Wells
+Publication: Proceedings of Cray User Group
+
+271. Topkapi: parallel and fast sketches for finding top-K frequent elements
+Citations:2
+Authors: A Mandal, H Jiang, A Shrivastava, V Sarkar
+Publication: Advances in Neural Information Processing Systems, 10898-10908
+
+272. DAMMP: A Distributed Actor Model for Mobile Platforms
+Citations:2
+Authors: A Chatterjee, S Milaković, B Xue, Z Budimlić, V Sarkar
+Publication: Proceedings of the 14th International Conference on Managed Languages and …
+
+273. Static cost estimation for data layout selection on GPUs
+Citations:2
+Authors: Y Peng, M Grossman, V Sarkar
+Publication: 2016 7th International Workshop on Performance Modeling, Benchmarking and …
+
+274. Formalization of phase ordering
+Citations:2
+Authors: T Cogumbreiro, J Shirako, V Sarkar
+Publication: arXiv preprint arXiv:1606.05937
+
+275. Model Checking Task Parallel Programs Using Gradual Permissions (N)
+Citations:2
+Authors: EG Mercer, P Anderson, N Vrvilo, V Sarkar
+Publication: 2015 30th IEEE/ACM International Conference on Automated Software …
+
+276. Extending Polyhedral Model for Analysis and Transformation of OpenMP Programs
+Citations:2
+Authors: P Chatarasi, V Sarkar
+Publication: 2015 International Conference on Parallel Architecture and Compilation (PACT …
+
+277. JPF verification of Habanero Java programs using gradual type permission regions
+Citations:2
+Authors: P Anderson, N Vrvilo, E Mercer, V Sarkar
+Publication: ACM SIGSOFT Software Engineering Notes 40 (1), 1-5
+
+278. HJ-Viz: a new tool for visualizing, debugging and optimizing parallel programs
+Citations:2
+Authors: P Elmers, H Li, S Imam, V Sarkar
+Publication: Proceedings of the companion publication of the 2014 ACM SIGPLAN conference …
+
+279. DOE Advanced Scientific Advisory Committee (ASCAC): Workforce Subcommittee Letter
+Citations:2
+Authors: B Chapman, H Calandra, S Crivelli, J Dongarra, J Hittinger, SA Lathrop, ...
+Publication: USDOE Office of Science (SC)(United States)
+
+280. Degas: Dynamic exascale global address space
+Citations:2
+Authors: K Yelick, V Sarkar, J Demmel, M Erez, D Quinlan, S Byna, P Hargrove, ...
+Publication: Technical report, DEGAS Summer Retreat, LBNL
+
+281. Scnc: Efficient unification of streaming with dynamic task parallelism
+Citations:2
+Authors: D Sbirlea, J Shirako, R Newton, V Sarkar
+Publication: 2011 First Workshop on Data-Flow Execution Models for Extreme Scale …
+
+282. Languages and Compilers for Parallel Computing: 23rd International Workshop, LCPC 2010, Houston, TX, USA, October 7-9, 2010. Revised Selected Papers
+Citations:2
+Authors: K Cooper, J Mellor-Crummey, V Sarkar
+Publication: Springer
+
+283. The Platform-Aware Compilation Environment: Preliminary Design Document
+Citations:2
+Authors: KD Cooper, J Mellor-Crummey, E Merényi, P Sadayappan, V Sarkar, ...
+Publication: 
+
+284. Eliminating array bounds checks on demand
+Citations:2
+Authors: R Bodik, R Gupta, V Sarkar
+Publication: ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+285. High-performance scalable java virtual machines
+Citations:2
+Authors: V Sarkar, J Dolby
+Publication: International Conference on High-Performance Computing, 151-163
+
+286. Automatic localization for distributed-memory multiprocessors using a shared-memory compilation framework
+Citations:2
+Authors: V Sarkar, LA Vazquez
+Publication: HICSS (2), 4-13
+
+287. Optimization of array accesses by collective loop transformations
+Citations:2
+Authors: GR Gao, V Sarkar
+Publication: Technical Report 22, McGill University, School of Computer Science
+
+288. Reverse synthesis compilation for architectural research
+Citations:2
+Authors: M Ganapathi, J Hennessy, V Sarkar
+Publication: Computer Systems Laboratory, Departments of Electrical Engineering and …
+
+289. A Unified Runtime for PGAS and Event-Driven Programming
+Citations:1
+Authors: SR Paul, K Chen, A Hayashi, M Grossman, V Sarkar, J DeVinney, ...
+Publication: 2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models …
+
+290. GT-Race: graph traversal based data race detection for asynchronous many-task parallelism
+Citations:1
+Authors: L Yu, V Sarkar
+Publication: European Conference on Parallel Processing, 59-73
+
+291. SHCOLL-A Standalone Implementation of OpenSHMEM-Style Collectives API
+Citations:1
+Authors: S Milaković, Z Budimlić, H Pritchard, A Curtis, B Chapman, V Sarkar
+Publication: Workshop on OpenSHMEM and Related Technologies, 90-106
+
+292. Compile-Time Library Call Detection Using CAASCADE and XALT
+Citations:1
+Authors: J Zhao, OR Hernandez, RD Budiardja, MG Lopez, V Sarkar, JC Wells
+Publication: International Conference on High Performance Computing, 440-447
+
+293. A marshalled data format for pointers in relocatable data blocks
+Citations:1
+Authors: N Vrvilo, L Yu, V Sarkar
+Publication: ACM SIGPLAN Notices 52 (9), 25-35
+
+294. Preparing an Online Java Parallel Computing Course
+Citations:1
+Authors: V Sarkar, M Grossman, Z Budimlić, S Imam
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium …
+
+295. Fine-grained parallelism in probabilistic parsing with Habanero Java
+Citations:1
+Authors: M Francis-Landau, B Xue, J Eisner, V Sarkar
+Publication: 2016 6th Workshop on Irregular Applications: Architecture and Algorithms …
+
+296. Efficient Checkpointing of Multi-Threaded Applications as a Tool for Debugging, Performance Tuning, and Resiliency
+Citations:1
+Authors: M Grossman, V Sarkar
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+297. Exploiting Implicit Parallelism in Dynamic Array Programming Languages
+Citations:1
+Authors: S Imam, V Sarkar, D Leibs, PB Kessler
+Publication: Proceedings of ACM SIGPLAN International Workshop on Libraries, Languages …
+
+298. BMS-CnC: Bounded memory scheduling of dynamic task graphs
+Citations:1
+Authors: Z Budimlić, V Sarkar, D Sbîrlea
+Publication: 
+
+299. Oil and Water can mix! Experiences with integrating Polyhedral and AST-based Transformations
+Citations:1
+Authors: J Shirako, V Sarkar
+Publication: 
+
+300. CnC-Python: multicore programming with high productivity.
+Citations:1
+Authors: SM Imam, V Sarkar
+Publication: SPLASH, 111-112
+
+301. The Platform-Aware Compilation Environment: Status and Future Directions
+Citations:1
+Authors: KD Cooper, R Khan, S Lele, J Mellor-Crummey, E Merényi, K Palem, ...
+Publication: 
+
+302. Habanero-java extensions for scientific computing
+Citations:1
+Authors: V Cavé, J Zhao, Z Budimlić, V Sarkar, J Gunning, M Glinsky
+Publication: Proceedings of the 9th Workshop on Parallel/High-Performance Object-Oriented …
+
+303. The Concurrent Collections Programming Model
+Citations:1
+Authors: Z Budimlić, MG Burke, V Cave, K Knobe, G Lowney, J Palsberg, ...
+Publication: 
+
+304. Establishing causality as a desideratum for memory models and transformations of parallel programs
+Citations:1
+Authors: C Chen, W Chen, V Sreedhar, R Barik, V Sarkar, G Gao
+Publication: Tech. rep., University of Delaware
+
+305. Customizable domain-specific computing.
+Citations:1
+Authors: J Cong, V Sarkar, G Reinman, A Bui
+Publication: FPL, 1
+
+306. The Jikes RVM Project: Building an Open Source Research Community
+Citations:1
+Authors: B Alpern, S Augart, SM Blackburn, M Butrico, A Cocchi, P Cheng, J Dolby, ...
+Publication: 
+
+307. Integrating database and programming language constraints
+Citations:1
+Authors: O Shmueli, M Raghavachari, V Sarkar, R Bordawekar, MG Burke
+Publication: International Workshop on Database Programming Languages, 90-109
+
+308. Unconstrained static scheduling with communication weights
+Citations:1
+Authors: V Sarkar
+Publication: Journal of Scheduling 5 (5), 359-377
+
+309. Reducing the Overhead of Compilation Delay
+Citations:1
+Authors: C Krintz, D Grove, D Lieber, V Sarkar, B Calder
+Publication: University of California at San Diego
+
+310. Programming, compilation, and resource management issues for multithreading (panel session II)
+Citations:1
+Authors: B Halstead, D Callahan, J Dennis, RS Nikhil, V Sarkar
+Publication: ACM SIGARCH Computer Architecture News 22 (1), 19-33
+
+311. Don't Waste Those Cycles: An In-Depth Look at Scheduling Instructions in Basic Blocks and Loops
+Citations:1
+Authors: V Sarkar, B Simons
+Publication: University Video Communications
+
+312. Beyond the data parallel paradigm: issues and options
+Citations:1
+Authors: GR Gao, V Sarkar, LA Vazquez
+Publication: Proceedings of Workshop on Programming Models for Massively Parallel …
+
+313. Compile-Time Partitioning and Scheduling of Parallel Programs. Extended Summary
+Citations:1
+Authors: V Sarkar, J Hennessy
+Publication: STANFORD UNIV CA COMPUTER SYSTEMS LAB
+
+314. OMPSan: Static Verification of OpenMP’s Data Mapping Constructs
+Citations:
+Authors: P Barua, J Shirako, W Tsang, J Paudel, W Chen, V Sarkar
+Publication: International Workshop on OpenMP, 3-18
+
+315. Enabling Resilience in Asynchronous Many-Task Programming Models
+Citations:
+Authors: SR Paul, A Hayashi, N Slattengren, H Kolla, M Whitlock, S Bak, ...
+Publication: European Conference on Parallel Processing, 346-360
+
+316. Optimized Execution of Parallel Loops via User-Defined Scheduling Policies
+Citations:
+Authors: S Bak, Y Guo, P Balaji, V Sarkar
+Publication: Proceedings of the 48th International Conference on Parallel Processing, 38
+
+317. GPUIterator: bridging the gap between Chapel and GPU platforms
+Citations:
+Authors: A Hayashi, SR Paul, V Sarkar
+Publication: Proceedings of the ACM SIGPLAN 6th on Chapel Implementers and Users Workshop …
+
+318. T2S-Tensor: Productively Generating High-Performance Spatial Hardware for Dense Tensor Computations
+Citations:
+Authors: N Srivastava, H Rong, P Barua, G Feng, H Cao, Z Zhang, D Albonesi, ...
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+319. Transitive joins: a sound and efficient online deadlock-avoidance policy.
+Citations:
+Authors: C Voss, T Cogumbreiro, V Sarkar
+Publication: PPoPP, 378-390
+
+320. Valence: variable length calling context encoding.
+Citations:
+Authors: T Zhou, MR Jantz, PA Kulkarni, KA Doshi, V Sarkar
+Publication: CC, 147-158
+
+321. Integrating Data Layout Transformations with the Polyhedral Model
+Citations:
+Authors: J Shirako, V Sarkar
+Publication: 
+
+322. Performance evaluation of OpenMP's target construct on GPUs-exploring compiler optimisations.
+Citations:
+Authors: A Hayashi, J Shirako, E Tiotto, R Ho, V Sarkar
+Publication: IJHPCN 13 (1), 54-69
+
+323. A One Year Retrospective on a MOOC in Parallel, Concurrent, and Distributed Programming in Java
+Citations:
+Authors: V Sarkar, M Grossman, Z Budimlic, S Imam
+Publication: 2018 IEEE/ACM Workshop on Education for High-Performance Computing (EduHPC …
+
+324. Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free
+Citations:
+Authors: F Ye, M Schordan, C Liao, PH Lin, I Karlin, V Sarkar
+Publication: 2018 IEEE/ACM 2nd International Workshop on Software Correctness for HPC …
+
+325. Detecting MPI usage anomalies via partial program symbolic execution
+Citations:
+Authors: F Ye, J Zhao, V Sarkar
+Publication: SC18: International Conference for High Performance Computing, Networking …
+
+326. Cost-driven thread coarsening for GPU kernels
+Citations:
+Authors: P Barua, J Shirako, V Sarkar
+Publication: Proceedings of the 27th International Conference on Parallel Architectures …
+
+327. MiniApp for Density Matrix Renormalization Group Hamiltonian Application Kernel
+Citations:
+Authors: W Elwasif, E D'azevedo, A Chatterjee, G Alvarez, O Hernandez, V Sarkar
+Publication: 2018 IEEE International Conference on Cluster Computing (CLUSTER), 590-597
+
+328. FY18 ASC P&EM L2 Milestone 6362: Local Failure Local Recovery (LFLR) Resiliency for Asynchronous Many Task (AMT) Programming and Execution Models: Executive Summary.
+Citations:
+Authors: K Teranishi, K Teranishi, RL Clay
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States)
+
+329. HOOVER: Distributed, Flexible, and Scalable Streaming Graph Processing on OpenSHMEM
+Citations:
+Authors: M Grossman, H Pritchard, T Curtis, V Sarkar
+Publication: Workshop on OpenSHMEM and Related Technologies, 109-124
+
+330. Fault Tolerance in Asynchronous Many-Task Programming Models & Runtimes.
+Citations:
+Authors: H Kolla, K Teranishi, N Slattengren, M Whitlock, J Mayo, RC Armstrong, ...
+Publication: Sandia National Lab.(SNL-CA), Livermore, CA (United States)
+
+331. Hoover
+Citations:
+Authors: HP Pritchard Jr, JM Grossman, T Curtis, V Sarkar
+Publication: Los Alamos National Lab.(LANL), Los Alamos, NM (United States)
+
+332. Final Report from The University of Texas at Austin for DEGAS: Dynamic Global Address Space programming environments
+Citations:
+Authors: M Erez, K Yelick, V Sarkar, J Demmel
+Publication: Univ. of Texas, Austin, TX (United States)
+
+333. Implementation and Evaluation of OpenSHMEM Contexts Using OFI Libfabric
+Citations:
+Authors: K Seager, V Sarkar
+Publication: OpenSHMEM and Related Technologies. Big Compute and Big Data Convergence …
+
+334. Compile-Time Library Call Detection Using CAASCADE and XALT
+Citations:
+Authors: MG Lopez, V Sarkar, JC Wells
+Publication: High Performance Computing: ISC High Performance 2018 International …
+
+335. Exploration of Supervised Machine Learning Techniques for Runtime Selection of CPU vs. GPU Execution in Java Programs
+Citations:
+Authors: GYK Kim, A Hayashi, V Sarkar
+Publication: International Workshop on Accelerator Programming Using Directives, 125-144
+
+336. Parallel Flow-Sensitive Points-to Analysis
+Citations:
+Authors: J Zhao, MG Burke, V Sarkar
+Publication: 
+
+337. 2014 Runtime Systems Summit. Runtime Systems Report
+Citations:
+Authors: V Sarkar, Z Budimlic, M Kulkani
+Publication: USDOE, Washington, DC (United States). Office of Science
+
+338. Tree-based Read-only Data Chunks for NVRAM Programming
+Citations:
+Authors: K Bhandari, V Sarkar
+Publication: Proceedings of the Sixth Workshop on Data-Flow Execution Models for Extreme …
+
+339. SCnC: Efficient Unification of Streaming with Dynamic Task Parallelism
+Citations:
+Authors: D Sbîrlea, J Shirako, R Newton, V Sarkar
+Publication: International Journal of Parallel Programming 44 (2), 233-256
+
+340. Exploiting parallelism in mobile devices
+Citations:
+Authors: A Chatterjee, T Newton, T Roush, H Tidwell, V Sarkar
+Publication: Companion Proceedings of the 2015 ACM SIGPLAN International Conference on …
+
+341. Polyhedral Optimizations of Explicitly Parallel Programs (PoPP)
+Citations:
+Authors: P Chatarasi, J Shirako, V Sarkar
+Publication: 
+
+342. Scaling HabaneroUPC++ on Heterogeneous Supercomputers
+Citations:
+Authors: V Kumar, M Grossman, H Shan, V Sarkar
+Publication: 2015 9th International Conference on Partitioned Global Address Space …
+
+343. Elastic Tasks: Unifying Task Parallelism and SPMD Parallelism with an Adaptive Runtime
+Citations:
+Authors: K Agrawal, V Sarkar, A Sbîrlea
+Publication: 
+
+344. Parallelizing a discrete event simulation application using the Habanero-Java multicore library
+Citations:
+Authors: WC Xiao, J Zhao, V Sarkar
+Publication: Proceedings of the Sixth International Workshop on Programming Models and …
+
+345. The Eureka Programming Model for Speculative Task Parallelism (Artifact)
+Citations:
+Authors: S Imam, V Sarkar
+Publication: DARTS-Dagstuhl Artifacts Series 1
+
+346. Version 0.95, April, 2015
+Citations:
+Authors: BS Cledat, V Sarkar
+Publication: 
+
+347. Speculative Execution of Parallel Programs with Precise Exception Semantics on GPUs
+Citations:
+Authors: V Sarkar
+Publication: Languages and Compilers for Parallel Computing: 26th International Workshop …
+
+348. Version 0.9, September, 2014
+Citations:
+Authors: BS Cledat, V Sarkar
+Publication: 
+
+349. Analysis and Transformation of Programs with Explicit Parallelism
+Citations:
+Authors: V Sarkar
+Publication: 
+
+350. IEEE IPDPS HPDIC 2013 Program Details
+Citations:
+Authors: M Rahman, N Islam, X Lu, J Jose, H Subramoni, H Wang, D Panda, ...
+Publication: 
+
+351. User-Specified and Automatic Data Layout Selection for Portable Performance
+Citations:
+Authors: I Karlin, J Keasler, JR McGraw, V Sarkar, K Sharma
+Publication: 
+
+352. Tutorial on Linux and SUGAR access
+Citations:
+Authors: Y Zhang, V Sarkar
+Publication: 
+
+353. Rice ROSE Compositional Analysis and Transformation Framework (R2CAT)
+Citations:
+Authors: J Zhao, MG Burke, V Sarkar
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+354. Mapping a Dataflow Programming Model onto Heterogeneous Architectures
+Citations:
+Authors: A Sbirlea
+Publication: Rice University
+
+355. The Platform-Aware Compilation Environment (PACE)
+Citations:
+Authors: KD Cooper, J Mellor-Crummey, E Merenyi, K Palem, P Sadayappan, ...
+Publication: RICE UNIV HOUSTON TX OFFICE OF SPONSORED RESEARCH
+
+356. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: MD Catonsville, B Adolf, S Borkar, N DeBardeleben, M Heroux, D Rogers, ...
+Publication: 
+
+357. Inter-Agency Workshop on HPC Resilience at Extreme Scale
+Citations:
+Authors: JD DOD, B Harrod, T Hoang, L Nowell, B Adolf, S Borkar, ...
+Publication: 
+
+358. Integrating stream parallelism and task parallelism in a dataflow programming model
+Citations:
+Authors: DD Sbirlea
+Publication: Rice University
+
+359. DrHJ: the cure to your multicore programming woes
+Citations:
+Authors: V Cavé, J Payne, R Raman, M Ricken, C Cartwright, V Sarkar
+Publication: Proceedings of the ACM international conference companion on Object oriented …
+
+360. CnC-Hadoop: a graphical coordination language for distributed multiscale parallelism
+Citations:
+Authors: R Haque, DM Peixotto, V Sarkar
+Publication: Proceedings of the 8th ACM International Conference on Computing Frontiers, 18
+
+361. Languages and Compilers for Parallel Computing: 23rd International Workshop; Revised Selected Papers
+Citations:
+Authors: K Cooper, J Mellor-Crummey, V Sarkar
+Publication: Springer
+
+362. Register Allocation using Bipartite Liveness Graphs
+Citations:
+Authors: R Barik, V Sarkar, J Zhao
+Publication: 
+
+363. COMP 322: Fundamentals of Parallel Programming
+Citations:
+Authors: V Sarkar
+Publication: 
+
+364. Building confidence in multicore software
+Citations:
+Authors: V Sarkar
+Publication: Communications of the ACM 53 (6), 96-96
+
+365. Synchronization for Dynamic Task Parallelism on Manycore Architectures
+Citations:
+Authors: Y Yan, S Chatterjee, D Orozco, E Garcia, J Shirako, Z Budimlic, V Sarkar, ...
+Publication: 
+
+366. Extreme scale computing: Challenges and opportunities
+Citations:
+Authors: J Torrellas, B Gropp, V Sarkar, J Moreno, K Olukotun
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+367. Modeling and Mapping for Customizable Domain-Specific Computing
+Citations:
+Authors: Z Budimlic, A Bui, J Cong, G Reinman, V Sarkar
+Publication: Workshop on Concurrency for the Application Programmer (CAP), co-located …
+
+368. A Hierarchical Region-Based Static Single Assignment Form
+Citations:
+Authors: V Sarkar, J Zhao
+Publication: 
+
+369. Formalizing Causality as a Desideratum for Memory Models and Transformations of Parallel Programs
+Citations:
+Authors: C Chen, W Chen, V Sreedhar, R Barik, V Sarkar, G Gao
+Publication: 
+
+370. Support for Complex Numbers in Habanero
+Citations:
+Authors: J Zhao, V Cavé, Y Yan, Z Budimlić, V Sarkar
+Publication: 
+
+371. Collaborative Research: Programming Models and Storage System for High Performance Computation with Many-Core Processors
+Citations:
+Authors: JB Dennis, GR Gao, V Sarkar
+Publication: 
+
+372. Compiler Construction: 18th International Conference, CC 2009, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, York, UK, March 22 …
+Citations:
+Authors: O de Moor, MI Schwartzbach
+Publication: Springer
+
+373. Work-First and Help-First Scheduling Policies for Async-Finish Task Parallelism
+Citations:
+Authors: YGRBR Raman, V Sarkar
+Publication: IPDPS Conference
+
+374. Editorial Board for this Special Issue
+Citations:
+Authors: D Bader, S Benkner, P Bientinesi, D Brokenshire, J Dongarra, I Gutheil, ...
+Publication: Scientific Programming 17 (209), 209
+
+375. A Study of Different Instantiations of the OpenMP Memory Model and Their Software Cache Implementations
+Citations:
+Authors: C Chen, JB Manzano, G Gan, GR Gao, V Sarkar
+Publication: 
+
+376. Work-First and Help-First Scheduling Policies for Terminally Strict Parallel Programs
+Citations:
+Authors: R Barik, Y Guo, R Raman, V Sarkar
+Publication: 
+
+377. A New Cache Protocol Based On The Order Free Consistency Memory Model
+Citations:
+Authors: C Chen, JB Manzano, G Gan, GR Gao, V Sarkar
+Publication: 
+
+378. Thread-level speculation
+Citations:
+Authors: V Sarkar
+Publication: Principles and Practice of Parallel Programming: Proceedings of the 12 th …
+
+379. The role of programming languages in future data-centric and net-centric applications
+Citations:
+Authors: M Raghavachari, V Sarkar
+Publication: International Conference on Distributed Computing and Internet Technology, 1-13
+
+380. Proceedings of the 2005 ACM SIGPLAN conference on programming language design and implementation-Foreword
+Citations:
+Authors: M Hall, V Sarkar
+Publication: ACM SIGPLAN NOTICES 40 (6), III-III
+
+381. 1 BTJ Watson» esearc¿ Center
+Citations:
+Authors: I Pechtchanski, V Sarkar
+Publication: 
+
+382. PPPJ 2003: invited talk
+Citations:
+Authors: V Sarkar
+Publication: Proceedings of the 2nd international conference on Principles and practice …
+
+383. Dynamic compilation in Jalapeno(Panel Session)
+Citations:
+Authors: R Cytron, V Sarkar
+Publication: Proceedings of the Workshop on Dynamic and Adaptive Compilation and …
+
+384. Dynamic compilation in Jalapeño (Panel Session)
+Citations:
+Authors: V Sarkar, R Chairman-Cytron
+Publication: ACM SIGPLAN Notices 35 (7), 78
+
+385. Has Exploitable ILP Reached a Point of Diminishing Returns?
+Citations:
+Authors: R Govindarajan
+Publication: Proceedings of the Fourth International Conference on High-Performance …
+
+386. CSAIL
+Citations:
+Authors: V Sarkar
+Publication: 
+
+387. 2 On the Importance of an End-To-End View of Memory Consistency in Future Computer Sysmtems
+Citations:
+Authors: GR Gao, V Sarkar
+Publication: Lecture Notes in Computer Science 1336, 30-41
+
+388. Optimized code restructuring of OS/2 executables
+Citations:
+Authors: JH Chow, Y Lee, K Muthukumar, V Sarkar, M Serrano, I Garcia, J Hsu, ...
+Publication: Proceedings of the 1995 conference of the Centre for Advanced Studies on …
+
+389. Data Consistency in Distributed Memory Systems
+Citations:
+Authors: V Sarkar
+Publication: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON PARALLEL PROCESSING, 124-132
+
+390. Compile-time Partitioning and Scheduling
+Citations:
+Authors: V Sarkar, J Hennessy
+Publication: Scheduling and Load Balancing in Parallel and Distributed Systems 12, 61
+
+391. 21 On Estimating and Enhancing Cache Effectiveness J. Ferrante IBM TJ. Watson Research Center
+Citations:
+Authors: V Sarkar, W Thrash
+Publication: Languages and Compilers for Parallel Computing: Fourth International …
+
+392. 21 On Estimating and Enhancing Cache Effectiveness
+Citations:
+Authors: V Sarkar, W Thrash
+Publication: Rewriting Techniques and Applications: 4th International Conference, RTA-91 …
+
+393. PTRAN Methodologies for the Automatic Detection of Parallelism in Fortran Programs: An Experiment
+Citations:
+Authors: F Allen, M Burke, P Charles, R Cytron, J Ferrante, V Sarkar, D Shields
+Publication: Proceedings, Fourth International Conference on Supercomputing and Third …
+
+394. OMPSan: Static Verification of OpenMP’s Data Mapping Constructs
+Citations:
+Authors: W Chen, V Sarkar
+Publication: OpenMP: Conquering the Full Hardware Spectrum: 15th International Workshop …
+
+395. A Unified Approach to Variable Renaming for Enhanced Vectorization
+Citations:
+Authors: P Chatarasi, J Shirako, A Cohen, V Sarkar
+Publication: 
+
+396. XJ: Integrating XML Processing into JavaTM
+Citations:
+Authors: M Harren, M Raghavachari, O Shmueli, M Burke, V Sarkar, R Bordawekar
+Publication: 
+
+397. Supplementary Material for “Topkapi: Parallel and Fast Sketches for Finding Top-K Frequent Elements”
+Citations:
+Authors: A Mandal, H Jiang, A Shrivastava, V Sarkar
+Publication: 
+
+398. On Improving the Execution of Distributed CnC Programs
+Citations:
+Authors: Y Peng, M Kong, LN Pouchet, V Sarkar
+Publication: 
+
+399. X10: An Object-Oriented Approach to Non-Uniform Cluster Computing www. research. ibm. com/x10
+Citations:
+Authors: V Sarkar
+Publication: 
+
+400. The Jalapefio Dynamic Optimizing Compiler for JavaTM
+Citations:
+Authors: MG Burke, V Sarkar, JD Choi, S Fink, D Grove, M Hind, MJ Serrano, ...
+Publication: 
+
+401. Ayal Zaks (Intel/Technion) Bilha Mendelson (Optitura) Costin Iancu (Lawrence Berkeley National Laboratory) Erik Altman (IBM)
+Citations:
+Authors: G Silberman, G Gao, JL Gaudiot, K Yelick, K Ebcioglu, L Rauchweger, ...
+Publication: 
+
+402. Compiler Optimizations for generating bounded Schedules on Task-based Runtimes
+Citations:
+Authors: Y Peng, M Kong, V Sarkar
+Publication: 
+
+403. Programmability Issues
+Citations:
+Authors: V Sarkar, M Sato, B Chapman
+Publication: 
+
+404. Enabling a Data-Centric Model on the Open Community Runtime
+Citations:
+Authors: SR Paul, V Sarkar, B Seshasayee, R Cledat, V Cave
+Publication: 
+
+405. A Distributed Selectors Runtime System for Java Applications
+Citations:
+Authors: B Xue, Z Budimlic, V Sarkar
+Publication: 
+
+406. Faculty! Some words of encouragement needed!
+Citations:
+Authors: V Sarkar
+Publication: 
+
+407. Mini-Panel Has Exploitable ILP Reached a Point of Diminishing Returns?
+Citations:
+Authors: R Govindarajan, M Franklin, K Gopinath, V Kathail, V Sarkar, M Valero
+Publication: 
+
+408. Implicit Parallelism in a Functional Subset of Scala
+Citations:
+Authors: S Imam, R Cartwright, V Sarkar
+Publication: 
+
+409. LLVM Optimizations for PGAS Programs
+Citations:
+Authors: A Hayashi, R Surendran, J Zhao, M Ferguson, V Sarkar
+Publication: 
+
+410. DrHabanero—a Platform for Parallel Software Education in Java
+Citations:
+Authors: R Cartwright, V Sarkar
+Publication: 
+
+411. PACT 2013 organization
+Citations:
+Authors: F Bodin, J Pennie, T Wenisch, S McKee, W Wang, M Bielby, M Cosnard, ...
+Publication: 
+
+412. DFM 2012
+Citations:
+Authors: JB Dennis, GR Gao, V Sarkar
+Publication: 
+
+413. DFM 2012
+Citations:
+Authors: S Evripidou, G Gao, JL Gaudiot, V Sarkar, I Watson, K Hiraki, D Abramson, ...
+Publication: 
+
+414. Languages and Compilers for Parallel Computing
+Citations:
+Authors: KCJ Mellor-Crummey, V Sarkar
+Publication: 
+
+415. Space-time scheduling of instruction level parallelism
+Citations:
+Authors: W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+416. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+417. PACT 2011 Program Chair
+Citations:
+Authors: V Sarkar
+Publication: 
+
+418. Message from the PC Chairs
+Citations:
+Authors: M Hall, V Sarkar
+Publication: 
+
+419. Mary Hall, USC/ISI (Co-Chair)
+Citations:
+Authors: V Sarkar, E Altman, S Amarasinghe, S Carr, J Carter, M Cosnard, ...
+Publication: 
+
+420. P2S2-09 Committees
+Citations:
+Authors: P Balaji, A Vishnu, Y Chen, WD Gropp, DK Panda, V Saraswat, T Boku, ...
+Publication: 
+
+421. ot a program dependence
+Citations:
+Authors: V Sarkar
+Publication: 
+
+422. Runtime Register Allocation
+Citations:
+Authors: K Ebcioglu, V Sarkar, K Agaram
+Publication: 
+
+423. Optimal Weighted Loop Fusion
+Citations:
+Authors: N Megiddo, V Sarkar
+Publication: 
+
+424. Jalapeño| a Compiler-Supported Java
+Citations:
+Authors: B Alpern, A Cocchi, D Lieber, M Mergen, V Sarkar
+Publication: 
+
+425. P2S2-09 Reviewers
+Citations:
+Authors: P Balaji, A Vishnu, T Boku, R Brightwell, N Desai, R Graham, Z Huang, ...
+Publication: 
+
+426. MASSIMILIANO POLETTO
+Citations:
+Authors: V SARKAR
+Publication: 
+
+427. Mapping Iterative Task Graphs on Distributed Memory Machines
+Citations:
+Authors: TYC Fu, A Gerasoulis, V Sarkar
+Publication: 
+
+428. Hans Zima (University of Vienna and JPL)
+Citations:
+Authors: G Almasi, B Mendelson, D Callahan, A Cohen, J Cownie, J Dehnert, ...
+Publication: 
+
+429. Compiler Analysis and Optimization Challenges for Atomic Sections
+Citations:
+Authors: V Sarkar
+Publication: 
+
+430. 2009 18th International Conference on Parallel Architectures and Compilation Techniques
+Citations:
+Authors: T Usui, R Behrends, J Evans, Y Smaragdakis, C Madriles, P López, ...
+Publication: 
+
+431. DFM 2014
+Citations:
+Authors: S Evripidou, G Gao, JL Gaudiot, V Sarkar, I Watson, K Hiraki, D Abramson, ...
+Publication: 
+
+432. The Jalapeño Dynamic Optimizing Compiler for JavaTM
+Citations:
+Authors: MGBJD Choi, S Fink, DGM Hind, V Sarkar, MJSVC Sreedhar, ...
+Publication: 
+

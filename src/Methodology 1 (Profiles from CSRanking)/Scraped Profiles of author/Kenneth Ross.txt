@@ -1,0 +1,1063 @@
+https://scholar.google.com/citations?hl=en&user=gv2S7xYAAAAJ
+Total Citations = 11480
+
+1. The well-founded semantics for general logic programs
+Citations:2226
+Authors: A Van Gelder, KA Ross, JS Schlipf
+Publication: Journal of the ACM (JACM) 38 (3), 619-649
+
+2. Filtering algorithms and implementation for very fast publish/subscribe systems
+Citations:676
+Authors: F Fabret, HA Jacobsen, F Llirbat, J Pereira, KA Ross, D Shasha
+Publication: ACM Sigmod Record 30 (2), 115-126
+
+3. Making B+-trees cache conscious in main memory
+Citations:530
+Authors: J Rao, KA Ross
+Publication: Acm Sigmod Record 29 (2), 475-486
+
+4. Unfounded sets and well-founded semantics for general logic programs
+Citations:499
+Authors: A Van Gelder, K Ross, JS Schlipf
+Publication: Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles …
+
+5. Cache conscious indexing for decision-support in main memory
+Citations:365
+Authors: J Rao, KA Ross
+Publication: 
+
+6. Fast computation of sparse datacubes
+Citations:344
+Authors: KA Ross, D Srivastava
+Publication: VLDB 97, 25-29
+
+7. The New Jersey data reduction report
+Citations:341
+Authors: D Barbar'a, W DuMouchel, C Faloutsos, PJ Haas, JM Hellerstein, ...
+Publication: IEEE Data Engineering Bulletin
+
+8. Materialized view maintenance and integrity constraint checking: Trading space for time
+Citations:311
+Authors: KA Ross, D Srivastava, S Sudarshan
+Publication: ACM SIGMOD Record 25 (2), 447-458
+
+9. Implementing database operations using SIMD instructions
+Citations:250
+Authors: J Zhou, KA Ross
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+10. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+11. SSD bufferpool extensions for database systems
+Citations:160
+Authors: M Canim, GA Mihaila, B Bhattacharjee, KA Ross, CA Lang
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1435-1446
+
+12. A procedural semantics for well-founded negation in logic programs
+Citations:156
+Authors: KA Ross
+Publication: The Journal of Logic Programming 13 (1), 1-22
+
+13. Adapting materialized views after redefinitions
+Citations:154
+Authors: A Gupta, IS Mumick, KA Ross
+Publication: ACM SIGMOD Record 24 (2), 211-222
+
+14. Supporting multiple view maintenance policies
+Citations:152
+Authors: LS Colby, A Kawaguchi, DF Lieuwen, IS Mumick, KA Ross
+Publication: ACM SIGMOD Record 26 (2), 405-416
+
+15. Q100: The architecture and design of a database processing unit
+Citations:135
+Authors: L Wu, A Lottarini, TK Paine, MA Kim, KA Ross
+Publication: ACM SIGPLAN Notices 49 (4), 255-268
+
+16. Inferring negative information from disjunctive databases
+Citations:134
+Authors: KA Ross, RW Topor
+Publication: Journal of automated reasoning 4 (4), 397-424
+
+17. Adaptive aggregation on chip multiprocessors
+Citations:130
+Authors: J Cieslewicz, KA Ross
+Publication: Proceedings of the 33rd international conference on Very large data bases …
+
+18. Modular stratification and magic sets for DATALOG programs with negation
+Citations:130
+Authors: KA Ross
+Publication: Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of …
+
+19. Querying multiple features of groups in relational databases
+Citations:127
+Authors: D Chatziantoniou, KA Ross
+Publication: VLDB 96, 295-306
+
+20. Rethinking SIMD vectorization for in-memory databases
+Citations:122
+Authors: O Polychroniou, A Raghavan, KA Ross
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+21. Glue-NAIL!: A deductive database system
+Citations:122
+Authors: G rey Phipps, MA Derr, KA Ross
+Publication: Proceedings of the ACM SIGMOD Conf. on Management of Data, 308-317
+
+22. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+23. Improving database performance on simultaneous multithreading processors
+Citations:110
+Authors: J Zhou, J Cieslewicz, KA Ross, M Shah
+Publication: Proceedings of the 31st international conference on Very large data bases, 49-60
+
+24. Modular stratification and magic sets for Datalog programs with negation
+Citations:103
+Authors: KA Ross
+Publication: Journal of the ACM (JACM) 41 (6), 1216-1266
+
+25. Navigating big data with high-throughput, energy-efficient data partitioning
+Citations:99
+Authors: L Wu, RJ Barker, MA Kim, KA Ross
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 249-260
+
+26. Monotonic aggregation in deductive databases
+Citations:96
+Authors: KA Ross, Y Sagiv
+Publication: Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles …
+
+27. The well founded semantics for disjunctive logic programs
+Citations:95
+Authors: KA Ross
+Publication: Deductive and Object-Oriented Databases, 385-402
+
+28. Efficient Hash Probes on Modern Processors.
+Citations:90
+Authors: KA Ross
+Publication: ICDE, 1297-1301
+
+29. Method of calculating tuples for data cubes
+Citations:89
+Authors: KA Ross, D Srivastava
+Publication: US Patent 5,987,467
+
+30. Buffering databse operations for enhanced instruction cache performance
+Citations:87
+Authors: J Zhou, KA Ross
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+31. Buffering accesses to memory-resident index structures
+Citations:87
+Authors: J Zhou, KA Ross
+Publication: Proceedings of the 29th international conference on Very large data bases …
+
+32. Publish/subscribe on the web at extreme speed
+Citations:83
+Authors: J Pereira, F Fabret, F Llirbat, R Preotiuc-Pietro, KA Ross, D Shasha
+Publication: VLDB, 627-630
+
+33. Cost-based maintenance of materialized views
+Citations:82
+Authors: KA Ross, D Srivastava, S Sudarshan
+Publication: US Patent 6,026,390
+
+34. Fast joins using join indices
+Citations:79
+Authors: Z Li, KA Ross
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 8 (1), 1-24
+
+35. Concurrency control theory for deferred materialized views
+Citations:79
+Authors: A Kawaguchi, D Lieuwen, IS Mumick, D Quass, KA Ross
+Publication: International Conference on Database Theory, 306-320
+
+36. An object placement advisor for DB2 using solid state storage
+Citations:78
+Authors: M Canim, GA Mihaila, B Bhattacharjee, KA Ross, CA Lang
+Publication: Proceedings of the VLDB Endowment 2 (2), 1318-1329
+
+37. Scalable aggregation on multicore processors
+Citations:77
+Authors: Y Ye, KA Ross, N Vesdapunt
+Publication: Proceedings of the Seventh International Workshop on Data Management on New …
+
+38. Perf join: An alternative to two-way semijoin and bloomjoin
+Citations:73
+Authors: Z Li, KA Ross
+Publication: In Proceedings of the International Conference on Information and Knowledge …
+
+39. System and method for performing joins and self-joins in a database system
+Citations:69
+Authors: KA Ross, H Lei
+Publication: US Patent 5,983,215
+
+40. Track join: distributed joins with minimal network traffic
+Citations:68
+Authors: O Polychroniou, R Sen, KA Ross
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+41. Conjunctive selection conditions in main memory
+Citations:67
+Authors: KA Ross
+Publication: Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on …
+
+42. Complex aggregation at multiple granularities
+Citations:62
+Authors: KA Ross, D Srivastava, D Chatziantoniou
+Publication: International Conference on Extending Database Technology, 261-277
+
+43. Monotonic aggregation in deductive databases
+Citations:62
+Authors: KA Ross, Y Sagiv
+Publication: Journal of Computer and System Sciences 54 (1), 79-97
+
+44. Groupwise processing of relational queries
+Citations:61
+Authors: D Chatziantoniou, KA Ross
+Publication: VLDB 97, 476-485
+
+45. A comprehensive study of main-memory partitioning and its application to large-scale comparison-and radix-sort
+Citations:60
+Authors: O Polychroniou, KA Ross
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+46. Adapting materialized views after redefinitions: Techniques and a performance study
+Citations:57
+Authors: A Gupta, IS Mumick, J Rao, KA Ross
+Publication: Information systems 26 (5), 323-362
+
+47. Implementing incremental view maintenance in nested data models
+Citations:57
+Authors: A Kawaguchi, D Lieuwen, I Mumick, K Ross
+Publication: International Workshop on Database Programming Languages, 202-221
+
+48. Cache sensitive search (CSS) tree indexing system and method
+Citations:55
+Authors: KA Ross, J Rao
+Publication: US Patent 6,711,562
+
+49. Foundations of aggregation constraints
+Citations:54
+Authors: KA Ross, D Srivastava, PJ Stuckey, S Sudarshan
+Publication: Theoretical Computer Science 193 (1-2), 149-179
+
+50. Relations with relation names as arguments: Algebra and calculus
+Citations:54
+Authors: KA Ross
+Publication: Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles …
+
+51. Data partitioning on chip multiprocessors
+Citations:50
+Authors: J Cieslewicz, KA Ross
+Publication: Proceedings of the 4th international workshop on Data management on new …
+
+52. Reusing invariants: A new strategy for correlated queries
+Citations:48
+Authors: J Rao, KA Ross
+Publication: ACM SIGMOD Record 27 (2), 37-48
+
+53. Noodle: A language for declarative querying in an object-oriented database
+Citations:46
+Authors: IS Mumick, KA Ross
+Publication: International Conference on Deductive and Object-Oriented Databases, 360-378
+
+54. Selection conditions in main memory
+Citations:45
+Authors: KA Ross
+Publication: ACM Transactions on Database Systems (TODS) 29 (1), 132-161
+
+55. Modular acyclicity and tail recursion in logic programs
+Citations:43
+Authors: KA Ross
+Publication: Proceedings of the tenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of …
+
+56. Data integration and access
+Citations:41
+Authors: JÚL Ambite, Y Arens, W Bourne, S Feiner, L Gravano, V Hatzivassiloglou, ...
+Publication: Advances in Digital Government, 85-106
+
+57. E cient incremental evaluation of queries with aggregation
+Citations:40
+Authors: R Ramakrishnan, KA Ross, D Srivastava, S Sudarshan
+Publication: Proceedings of the International Logic Programming Symposium, 204-218
+
+58. Evidence for somatic gene conversion and deletion in bipolar disorder, Crohn's disease, coronary artery disease, hypertension, rheumatoid arthritis, type-1 diabetes, and type-2 …
+Citations:39
+Authors: KA Ross
+Publication: BMC medicine 9 (1), 12
+
+59. Thread-level parallel indexing of update intensive moving-object workloads
+Citations:39
+Authors: D Šidlauskas, KA Ross, CS Jensen, S Šaltenis
+Publication: International Symposium on Spatial and Temporal Databases, 186-204
+
+60. Independence Diagrams: A Technique for Visual Data Mining.
+Citations:39
+Authors: S Berchtold, HV Jagadish, KA Ross
+Publication: KDD, 139-143
+
+61. Refreshing materialized views of a database to maintain consistency with underlying data
+Citations:38
+Authors: DF Lieuwen, A Kawaguchi, LS Colby, KA Ross
+Publication: US Patent 6,272,502
+
+62. Foundations of aggregation constraints
+Citations:38
+Authors: KA Ross, D Srivastava, PJ Stuckey, S Sudarshan
+Publication: International Workshop on Principles and Practice of Constraint Programming …
+
+63. Vectorized Bloom filters for advanced SIMD processors
+Citations:37
+Authors: O Polychroniou, KA Ross
+Publication: Proceedings of the Tenth International Workshop on Data Management on New …
+
+64. Parallel buffers for chip multiprocessors
+Citations:37
+Authors: J Cieslewicz, KA Ross, I Giannakakis
+Publication: Proceedings of the 3rd international workshop on Data management on new …
+
+65. System and method for performing an efficient join operation on large tables with a small main memory
+Citations:37
+Authors: KA Ross
+Publication: US Patent 5,666,525
+
+66. System and method for performing an efficient join operation
+Citations:36
+Authors: Z Li, KA Ross
+Publication: US Patent 5,802,357
+
+67. Temperature-aware buffered caching for solid state storage
+Citations:35
+Authors: B Bhattacharjee, M Canim, CA Lang, GA Mihaila, KA Ross
+Publication: US Patent 8,161,241
+
+68. Automatic contention detection and amelioration for data-intensive operations
+Citations:35
+Authors: J Cieslewicz, KA Ross, K Satsumi, Y Ye
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+69. A multi-resolution block storage model for database design
+Citations:34
+Authors: J Zhou, KA Ross
+Publication: Seventh International Database Engineering and Applications Symposium, 2003 …
+
+70. Ameliorating memory contention of OLAP operators on GPU processors
+Citations:33
+Authors: EA Sitaridi, KA Ross
+Publication: Proceedings of the Eighth International Workshop on Data Management on New …
+
+71. Efficient index compression in DB2 LUW
+Citations:33
+Authors: B Bhattacharjee, L Lim, T Malkemus, G Mihaila, K Ross, S Lau, ...
+Publication: Proceedings of the VLDB Endowment 2 (2), 1462-1473
+
+72. Academic dishonesty and the Internet
+Citations:33
+Authors: KA Ross
+Publication: Communications of the ACM 48 (10), 29-31
+
+73. Realizing parallelism in database operations: insights from a massively multithreaded architecture
+Citations:32
+Authors: J Cieslewicz, J Berry, B Hendrickson, KA Ross
+Publication: Proceedings of the 2nd international workshop on Data management on new …
+
+74. Buffered Bloom Filters on Solid State Storage.
+Citations:31
+Authors: M Canim, GA Mihaila, B Bhattacharjee, CA Lang, KA Ross
+Publication: ADMS@ VLDB, 1-8
+
+75. Modeling the performance of algorithms on flash memory devices
+Citations:31
+Authors: KA Ross
+Publication: Proceedings of the 4th international workshop on Data management on new …
+
+76. Querying faceted databases
+Citations:29
+Authors: KA Ross, A Janevski
+Publication: International Workshop on Semantic Web and Databases, 199-218
+
+77. High throughput heavy hitter aggregation for modern SIMD processors
+Citations:28
+Authors: O Polychroniou, KA Ross
+Publication: Proceedings of the Ninth International Workshop on Data Management on New …
+
+78. On negation in HiLog
+Citations:28
+Authors: KA Ross
+Publication: The Journal of Logic Programming 18 (1), 27-53
+
+79. Massively-parallel lossless data decompression
+Citations:27
+Authors: E Sitaridi, R Mueller, T Kaldewey, G Lohman, KA Ross
+Publication: 2016 45th International Conference on Parallel Processing (ICPP), 242-247
+
+80. Making updates disk-I/O friendly using SSDs
+Citations:25
+Authors: M Sadoghi, KA Ross, M Canim, B Bhattacharjee
+Publication: Proceedings of the VLDB Endowment 6 (11), 997-1008
+
+81. Cache-conscious buffering for database operators with state
+Citations:25
+Authors: J Cieslewicz, W Mee, KA Ross
+Publication: Proceedings of the Fifth International Workshop on Data Management on New …
+
+82. Database optimizations for modern hardware
+Citations:25
+Authors: J Cieslewicz, KA Ross
+Publication: Proceedings of the IEEE 96 (5), 863-878
+
+83. Using associative memory to perform database operations
+Citations:25
+Authors: R Zarom, K Ross, K Yip
+Publication: US Patent App. 10/483,409
+
+84. GPU-accelerated string matching for database applications
+Citations:24
+Authors: EA Sitaridi, KA Ross
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 25 (5 …
+
+85. Using asymmetric memory
+Citations:24
+Authors: KA Ross
+Publication: US Patent 8,065,304
+
+86. Optimal splitters for database partitioning with size bounds
+Citations:24
+Authors: KA Ross, J Cieslewicz
+Publication: Proceedings of the 12th International Conference on Database Theory, 98-110
+
+87. Compressing a multi-version database
+Citations:23
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,275,095
+
+88. Optimizing select conditions on GPUs
+Citations:23
+Authors: EA Sitaridi, KA Ross
+Publication: Proceedings of the Ninth International Workshop on Data Management on New …
+
+89. Reducing database locking contention through multi-version concurrency
+Citations:22
+Authors: M Sadoghi, M Canim, B Bhattacharjee, F Nagel, KA Ross
+Publication: Proceedings of the VLDB Endowment 7 (13), 1331-1342
+
+90. Partitioned optimization of complex queries
+Citations:22
+Authors: D Chatziantoniou, KA Ross
+Publication: Information systems 32 (2), 248-282
+
+91. Serving datacube tuples from main memory
+Citations:22
+Authors: KA Ross, KA Zaman
+Publication: Proceedings. 12th International Conference on Scientific and Statistica …
+
+92. Supporting transient snapshot with coordinated/uncoordinated commit protocol
+Citations:20
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross, AJ Storm
+Publication: US Patent App. 14/509,683
+
+93. Reducing database locking contention using multi-version data record concurrency control
+Citations:19
+Authors: B Bhattacharjee, M Canim, MS Hamedani, F Nagel, KA Ross
+Publication: US Patent 9,336,258
+
+94. Enhancing recovery using an SSD buffer pool extension
+Citations:19
+Authors: B Bhattacharjee, KA Ross, C Lang, GA Mihaila, M Banikazemi
+Publication: Proceedings of the Seventh International Workshop on Data Management on New …
+
+95. Optimizing selections over datacubes
+Citations:19
+Authors: KA Ross, KA Zaman
+Publication: Proceedings. 12th International Conference on Scientific and Statistica …
+
+96. Efficient lightweight compression alongside fast scans
+Citations:18
+Authors: O Polychroniou, KA Ross
+Publication: Proceedings of the 11th International Workshop on Data Management on New …
+
+97. Path processing using solid state storage
+Citations:18
+Authors: M Athanassoulis, B Bhattacharjee, M Canim, KA Ross
+Publication: Proceedings of the 3rd International Workshop on Accelerating Data …
+
+98. Splash tables: an efficient hash scheme for processors
+Citations:18
+Authors: KA Ross
+Publication: US Patent 7,424,591
+
+99. Faster joins, self-joins and multi-way joins using join indices
+Citations:18
+Authors: H Lei, KA Ross
+Publication: Data & knowledge engineering 28 (3), 277-298
+
+100. Compressing a multi-version database
+Citations:17
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,305,046
+
+101. Storage Class Memory Aware Data Management.
+Citations:17
+Authors: B Bhattacharjee, M Canim, CA Lang, GA Mihaila, KA Ross
+Publication: IEEE Data Eng. Bull. 33 (4), 35-40
+
+102. Cost-based unbalanced R-trees
+Citations:17
+Authors: KA Ross, I Sitzmann, PJ Stuckey
+Publication: Proceedings Thirteenth International Conference on Scientific and …
+
+103. The semantics of deductive databases
+Citations:17
+Authors: KA Ross
+Publication: stanford university
+
+104. Coherent somatic mutation in autoimmune disease
+Citations:16
+Authors: KA Ross
+Publication: PloS one 9 (7), e101093
+
+105. A faceted query engine applied to archaeology
+Citations:16
+Authors: KA Ross, A Janevski, J Stoyanovich
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+106. Symmetric relations and cardinality-bounded multisets in database systems
+Citations:16
+Authors: KA Ross, J Stoyanovich
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+107. Managing a multi-version database
+Citations:15
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,171,027
+
+108. Column-oriented query processing for row stores
+Citations:15
+Authors: A El-Helw, KA Ross, B Bhattacharjee, CA Lang, GA Mihaila
+Publication: Proceedings of the ACM 14th international workshop on Data Warehousing and …
+
+109. Digital media indexing on the Cell processor
+Citations:15
+Authors: LK Liu, Q Liu, A Natsev, KA Ross, JR Smith, AL Varbanescu
+Publication: 2007 IEEE International Conference on Multimedia and Expo, 1866-1869
+
+110. QueryScope: visualizing queries for repeatable database tuning
+Citations:14
+Authors: L Hu, KA Ross, YC Chang, CA Lang, D Zhang
+Publication: Proceedings of the VLDB Endowment 1 (2), 1488-1491
+
+111. A Syntactic Stratification Condition Using Constraints.
+Citations:14
+Authors: KA Ross
+Publication: ILPS, 76-90
+
+112. Better semijoins using tuple bit-vectors
+Citations:14
+Authors: Z Li, KA Ross
+Publication: 
+
+113. Implementing latency-insensitive dataflow blocks
+Citations:13
+Authors: B Cao, KA Ross, MA Kim, SA Edwards
+Publication: 2015 ACM/IEEE International Conference on Formal Methods and Models for …
+
+114. Semantic ranking and result visualization for life sciences publications
+Citations:13
+Authors: J Stoyanovich, W Mee, KA Ross
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 860-871
+
+115. An effective strategy for porting c++ applications on cell
+Citations:13
+Authors: AL Varbanescu, H Sips, KA Ross, Q Liu, LK Liu, A Natsev, JR Smith
+Publication: 2007 International Conference on Parallel Processing (ICPP 2007), 59-59
+
+116. Exploiting SSDs in operational multiversion databases
+Citations:10
+Authors: M Sadoghi, KA Ross, M Canim, B Bhattacharjee
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 25 (5 …
+
+117. Hardware partitioning for big data analytics
+Citations:10
+Authors: L Wu, RJ Barker, MA Kim, KA Ross
+Publication: IEEE Micro 34 (3), 109-119
+
+118. The Q100 database processing unit
+Citations:9
+Authors: L Wu, A Lottarini, TK Paine, MA Kim, KA Ross
+Publication: IEEE Micro 35 (3), 34-46
+
+119. Tail recursion elimination in deductive databases
+Citations:9
+Authors: KA Ross
+Publication: ACM Transactions on Database Systems (TODS) 21 (2), 208-237
+
+120. SIMD-accelerated regular expression matching
+Citations:8
+Authors: E Sitaridi, O Polychroniou, KA Ross
+Publication: Proceedings of the 12th International Workshop on Data Management on New …
+
+121. Glue-Nail: A Deductive Database System
+Citations:8
+Authors: MA Derr, G Phipps, KA Ross
+Publication: Proc. Int'l Conf. ACM on Management of Data, 308-317
+
+122. Energy analysis of hardware and software range partitioning
+Citations:7
+Authors: L Wu, O Polychroniou, RJ Barker, MA Kim, KA Ross
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (3), 8
+
+123. Optimizing read convoys in main-memory query processing
+Citations:7
+Authors: KA Ross
+Publication: Proceedings of the Sixth International Workshop on Data Management on New …
+
+124. Adapting materialized views after redefinitions: Techniques and a performance study
+Citations:7
+Authors: A Gupta, IS Mumick, J Rao, KA Ross
+Publication: 
+
+125. Deferring data record changes using query rewriting
+Citations:6
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,910,891
+
+126. A course on programming and problem solving
+Citations:6
+Authors: S Sheth, C Murphy, KA Ross, D Shasha
+Publication: Proceedings of the 47th ACM Technical Symposium on Computing Science …
+
+127. Splash tables: an efficient hash scheme for processors
+Citations:6
+Authors: KA Ross
+Publication: US Patent 7,752,414
+
+128. Cache-conscious query processing
+Citations:6
+Authors: KA Ross
+Publication: Encyclopedia of Database Systems, 301-304
+
+129. Architecture Sensitive Database Design: Examples from the Columbia Group.
+Citations:6
+Authors: KA Ross, J Cieslewicz, J Rao, J Zhou
+Publication: IEEE Data Eng. Bull. 28 (2), 5-10
+
+130. Concurrency control in materialized views of a database
+Citations:6
+Authors: DF Lieuwen, A Kawaguchi, IS Mumick, DW Quass, KA Ross
+Publication: US Patent 6,889,358
+
+131. Evaluating application mapping scenarios on the Cell/BE
+Citations:5
+Authors: AL Varbanescu, H Sips, KA Ross, Q Liu, A Natsev, JR Smith, LK Liu
+Publication: Concurrency and Computation: Practice and Experience 21 (1), 85-100
+
+132. The New Jersey data reduction report
+Citations:5
+Authors: W Dumouchel, C Faloutsos, PJ Haas, JM Hellerstein, Y Ioannidis, ...
+Publication: Data Engineering Bulletin
+
+133. Partitioned blockmap indexes for multidimensional data access
+Citations:4
+Authors: KA Ross, E Sitaridi
+Publication: 
+
+134. Hardware-accelerated range partitioning
+Citations:4
+Authors: LK Wu, RJ Barker, MA Kim, KA Ross
+Publication: 
+
+135. Splash tables: an efficient hash scheme for processors
+Citations:4
+Authors: KA Ross
+Publication: US Patent 7,752,418
+
+136. Practical preference relations for large data sets
+Citations:4
+Authors: KA Ross, PJ Stuckey, A Marian
+Publication: 2007 IEEE 23rd International Conference on Data Engineering Workshop, 229-236
+
+137. On the adequacy of partial orders for preference composition
+Citations:4
+Authors: KA Ross
+Publication: DBRank Workshop
+
+138. Efficiently following object references for large object collections and small main memory
+Citations:4
+Authors: KA Ross
+Publication: International Conference on Deductive and Object-Oriented Databases, 73-90
+
+139. On the Cost of Transitive Closures in Relational Databases
+Citations:4
+Authors: Z Li, KA Ross
+Publication: 
+
+140. Network synthesis for database processing units
+Citations:3
+Authors: A Lottarini, SA Edwards, KA Ross, MA Kim
+Publication: Proceedings of the 54th Annual Design Automation Conference 2017, 90
+
+141. Managing a multi-version database
+Citations:3
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,268,804
+
+142. SkylineSearch: semantic ranking and result visualization for pubmed
+Citations:3
+Authors: J Stoyanovich, M Lodha, W Mee, KA Ross
+Publication: Proceedings of the 2011 ACM SIGMOD International Conference on Management of …
+
+143. ReoptSMART: A Learning Query Plan Cache
+Citations:3
+Authors: J Stoyanovich, KA Ross, J Rao, W Fan, V Markl, G Lohman
+Publication: 
+
+144. Alpha radiation is a major germ-line mutagen over evolutionary timescales
+Citations:3
+Authors: KA Ross
+Publication: Evolutionary Ecology Research 8 (6), 1013-1028
+
+145. Independence diagrams: A technique for data visualization
+Citations:3
+Authors: S Berchtold, HV Jagadish, KA Ross
+Publication: Journal of Electronic Imaging 9 (4), 375-385
+
+146. The New Jersey Data Reduction Report
+Citations:3
+Authors: JM Hellerstein, Y Ioannidis, HV Jagadish, T Johnson, R Ng, V Poosala, ...
+Publication: Bulletin of the IEEE Computer Society Technical Committee on Data …
+
+147. Structural totality and constraint stratification
+Citations:3
+Authors: KA Ross
+Publication: PODS, 184-195
+
+148. Adaptive concurrency control using hardware transactional memory and locking mechanism
+Citations:2
+Authors: B Bhattacharjee, M Canim, YC Chang, MS Hamedani, B Makni, KA Ross
+Publication: US Patent 9,652,169
+
+149. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+150. View adaptation
+Citations:2
+Authors: KA Ross
+Publication: Encyclopedia of Database Systems, 3324-3325
+
+151. Cache conscious indexing for decision-support in
+Citations:2
+Authors: MM Jun, J Rao, KA Ross
+Publication: 
+
+152. Constraint Stratification in Deductive Databases.
+Citations:2
+Authors: KA Ross
+Publication: Workshop on Deductive Databases and Logic Programming, 101-115
+
+153. Sword: A declarative object-oriented database architecture
+Citations:2
+Authors: IS Mumick, KA Ross
+Publication: Technical report, AT&T
+
+154. A programming and problem solving seminar
+Citations:2
+Authors: KA Ross, DE Knuth
+Publication: Department of Computer Science, Stanford University
+
+155. Deadlock-free joins in DB-mesh, an asynchronous systolic array accelerator
+Citations:1
+Authors: B Cao, KA Ross, SA Edwards, MA Kim
+Publication: Proceedings of the 13th International Workshop on Data Management on New …
+
+156. Architecture-conscious database system
+Citations:1
+Authors: J Cieslewicz, KA Ross
+Publication: Encyclopedia of Database Systems, 127-132
+
+157. FlowPuter: A Cluster Architecture Unifying Switch, Server and Storage Processing
+Citations:1
+Authors: AV Aho, AD Keromytis, V Misra, J Nieh, KA Ross, Y Yemini
+Publication: 
+
+158. Reminiscences on influential papers
+Citations:1
+Authors: KA Ross
+Publication: ACM SIGMOD Record 30 (3), 101-104
+
+159. Power-Pipelining for Enhanced Query Performance
+Citations:1
+Authors: J Rao, KA Ross
+Publication: 
+
+160. Faster joins, self-joins and multi-way joins using join indices
+Citations:1
+Authors: H Lei, KA Ross
+Publication: Data & knowledge engineering 29 (2), 179-200
+
+161. Programming and Problem Solving: A Transcript of the Spring 1999 Class
+Citations:1
+Authors: KA Ross, SR Shamoun
+Publication: 
+
+162. A new client-server architecture for distributed query processing
+Citations:1
+Authors: Z Li, KA Ross
+Publication: 
+
+163. Design and implementation of the sword declarative object-oriented database system
+Citations:1
+Authors: IS Mumick, K Ross, S Sudershan
+Publication: Technical report, AT&T Bell Laboratories
+
+164. Data Engineering
+Citations:1
+Authors: G Graefe, S Harizopoulos, H Kuno, MA Shah, D Tsirogiannis, JL Wiener, ...
+Publication: 
+
+165. Towards Practical Vectorized Analytical Query Engines
+Citations:
+Authors: O Polychroniou, KA Ross
+Publication: Proceedings of the 15th International Workshop on Data Management on New …
+
+166. Master of none acceleration: a comparison of accelerator architectures for analytical query processing
+Citations:
+Authors: A Lottarini, JP Cerqueira, TJ Repetti, SA Edwards, KA Ross, M Seok, ...
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+167. Kenneth Ross Speaks Out on Making Contributions that Span Technology and Science
+Citations:
+Authors: M Winslett, V Braganholo
+Publication: ACM SIGMOD Record 47 (2), 41-47
+
+168. Distributed Joins and Data Placement for Minimal Network Traffic
+Citations:
+Authors: O Polychroniou, W Zhang, KA Ross
+Publication: ACM Transactions on Database Systems (TODS) 43 (3), 14
+
+169. Supporting transient snapshot with coordinated/uncoordinated commit protocol
+Citations:
+Authors: B Bhattacharjee, M CANIM, MS Hamedani, KA Ross, AJ Storm
+Publication: US Patent App. 10/042,870
+
+170. Access frequency approximation for remote direct memory access
+Citations:
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,959,245
+
+171. Deferring data record changes using query rewriting
+Citations:
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent 9,904,706
+
+172. Adaptive concurrency control using hardware transactional memory and locking mechanism
+Citations:
+Authors: B Bhattacharjee, M Canim, YC Chang, MS Hamedani, B Makni, KA Ross
+Publication: US Patent 9,652,168
+
+173. Supporting transient snapshot with coordinated/uncoordinated commit protocol
+Citations:
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross, AJ Storm
+Publication: US Patent App. 14/748,438
+
+174. Method and system for automatic space organization in tier2 solid state drive (SSD) cache in databases for multi page support
+Citations:
+Authors: B Bhattacharjee, M Canim, KA Ross
+Publication: US Patent 9,286,201
+
+175. Preplaying transactions that mix hot and cold data
+Citations:
+Authors: B Bhattacharjee, M Canim, MS Hamedani, KA Ross
+Publication: US Patent App. 14/304,600
+
+176. Multicore Processors and Database Systems: The multicore transformation (Ubiquity symposium)
+Citations:
+Authors: KA Ross
+Publication: Ubiquity 2014 (August), 4
+
+177. Querying Persistent Graphs using Solid State Storage
+Citations:
+Authors: M Athanassoulis, B Bhattacharjee, M Canim, KA Ross
+Publication: 4th Annual Non-Volatile Memories Workshop 2013
+
+178. High Throughput Heavy Hitter Aggregation
+Citations:
+Authors: O Polychroniou, KA Ross
+Publication: 
+
+179. best papers of VLDB 2008
+Citations:
+Authors: P Buneman, V Markl, BC Ooi, K Ross
+Publication: The VLDB Journal 19 (1), 1-2
+
+180. Fifth International ACM/SIGMOD Workshop on Data Management on New Hardware
+Citations:
+Authors: PA Boncz, KA Ross
+Publication: 
+
+181. Proceedings of the VLDB Endowment Volume 1 Issue 1
+Citations:
+Authors: P Buneman, BC Ooi, K Ross, G Weber
+Publication: VLDB Endowment 1 (1)
+
+182. Fourth International Workshop on Data Management on New Hardware (DaMoN 2008)
+Citations:
+Authors: Q Luo, KA Ross
+Publication: 
+
+183. Schema polynomials and applications
+Citations:
+Authors: KA Ross, J Stoyanovich
+Publication: Proceedings of the 11th international conference on Extending database …
+
+184. Finding shapes in a set of points
+Citations:
+Authors: KA Ross, D Vespe, D Hessing, P Jain
+Publication: ACM SIGMOD Record 36 (1), 7-12
+
+185. Reminiscences on influential papers.
+Citations:
+Authors: KA Ross, JR Hamilton, LVS Lakshmanan, L Wong
+Publication: SIGMOD Record 34 (3), 111-113
+
+186. Reminiscences on influential papers
+Citations:
+Authors: KA Ross
+Publication: ACM SIGMOD Record 33 (4), 91-92
+
+187. Reminiscences on influential papers
+Citations:
+Authors: KA Ross
+Publication: ACM SIGMOD Record 31 (1), 107-108
+
+188. Condensed cube: An effective approach to reducing data cube size.
+Citations:
+Authors: MK Ajaja, F Yu, W Shan, S Acharaya, PB Gibbons, V Poosla, D Barbara, ...
+Publication: Information Technology Journal 5 (3), 625-635
+
+189. Reminiscences on Influential Papers
+Citations:
+Authors: S Ceri, L Gravano, P Larson, L Libkin, T Milo, K Ross
+Publication: 
+
+190. Efficient matching algorithms for publish and subscribe systems
+Citations:
+Authors: F Fabret, F Llirbat, A Jacobsen, J Pereira, K Ross, D Shasha
+Publication: 
+
+191. Database Research at Columbia University
+Citations:
+Authors: SF Chang, L Gravano, GE Kaiser, KA Ross, SJ Stolfo
+Publication: SIGMOD Record 27 (3), 75-80
+
+192. Attribute-oriented view definitions in relational and deductive databases
+Citations:
+Authors: IS Mumick, KA Ross
+Publication: International Conference on Deductive and Object-Oriented Databases, 122-139
+
+193. Reminiscences on influential papers
+Citations:
+Authors: KA Ross
+Publication: ACM TODS 17 (1), 94-162
+
+194. On negation in HiLog(extended abstract)
+Citations:
+Authors: KA Ross
+Publication: Symposium on Principles of Database Systems: Proceedings of the tenth ACM …
+
+195. Modular Acyclicity and Tail Recursion in Logic Programs Extended Abstract
+Citations:
+Authors: KA Ross
+Publication: Proceedings of the Tenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of …
+
+196. Characterization of some semantics for logic programs with negation and application to program validation.
+Citations:
+Authors: V Felea, A Van Gelder, KA Ross, JS Schlipf, T Przymusinski, M Gelfond, ...
+Publication: Journal of Applied Sciences 5 (1), 620-650
+
+197. Global parallel indexing for multi-processors database systems.
+Citations:
+Authors: KMA Hasan, R Bayer, EM McCreight, R Bayer, K Unterauer, E Bertino, ...
+Publication: Information Technology Journal 7 (7), 173-189
+
+198. ICDE 2019 Program Committees
+Citations:
+Authors: W Fan, X Lin, D Srivastava, A Poulovassilis, E Ferrari, F Geerts, ...
+Publication: 
+
+199. Data Engineering
+Citations:
+Authors: RL Cole, MJ Anderson, RJ Bestgen, A Chen, YF Kao, M Pong, D Shak, ...
+Publication: 
+
+200. Incorporating DATABASE TECHNOLOGY
+Citations:
+Authors: N Bidoit-Tollu, F Carino Jr, S Christodoulakis, KR Dittrich, UÌ Zˇrich, ...
+Publication: 
+
+201. ACM SIGMOD Conference, June 1996, pp. 447-458
+Citations:
+Authors: KA Ross, D Srivastava, S Sudarshan
+Publication: 
+
+202. Data Engineering
+Citations:
+Authors: R Barber, P Bendel, M Czech, O Draese, F Ho, N Hrle, S Idreos, MS Kim, ...
+Publication: 
+
+203. Data Engineering
+Citations:
+Authors: KA Ross, J Cieslewicz, J Rao, J Zhou
+Publication: Ann Arbor 1001, 48109
+
+204. Minker, J. 1982. On indefinite data bases and the closed world assumption. In Proc. 6-th Conference on Automated Deduction, 292 308. New York: Springer
+Citations:
+Authors: A Van Gelder, KA Ross, JS Schlipf
+Publication: 
+
+205. Department of Computer Science, Columbia University, New York, NY 10027 fli, karg@ cs. columbia. edu
+Citations:
+Authors: Z Li, KA Ross
+Publication: 
+
+206. Conference Organisers
+Citations:
+Authors: A Biliris, IS Mumick, A Council, S Christodoulakis, R Sacks-Davis, ...
+Publication: 
+
+207. Main Memory Performance for Database Systems
+Citations:
+Authors: KA Ross
+Publication: 
+
+208. Incorporating DATABASE TECHNOLOGY
+Citations:
+Authors: R Baeza-Yates, P de Circumvalacio, J Van den Bussche, F Carino Jr, ...
+Publication: 
+
+209. Incorporating DATABASE TECHNOLOGY
+Citations:
+Authors: R Baeza-Yates, P de Circumvalacio, N Bidoit-Tollu, J Van den Bussche, ...
+Publication: 
+
+210. Programme Committee Members
+Citations:
+Authors: M Adiba, D Agrawal, P Apers, R Baeza-Yates, DB UK, JA Blakeley, ...
+Publication: 
+
+211. On te Adequacy of Partial Orders for Preference omposition
+Citations:
+Authors: KA Ross
+Publication: 
+
+212. Bulletin of the Technical Committee on
+Citations:
+Authors: WDM Barbará, C Faloutsos, PJ Haas, JM Hellerstein, Y Ioannidis, ...
+Publication: 
+

@@ -1,0 +1,110 @@
+
+1. The wavescalar architecture
+Citations:138
+Authors: S Swanson, A Schwerin, M Mercaldi, A Petersen, A Putnam, K Michelson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (2), 4
+
+4. Building a wavecache
+Citations:97
+Authors: SJ Eggers, MA Mercaldi, KA Michelson, MH Oskin, AK Petersen, ...
+Publication: US Patent 7,490,218
+
+5. XML screamer: an integrated approach to high performance XML parsing, validation and deserialization
+Citations:97
+Authors: MG Kostoulas, M Matsa, N Mendelsohn, E Perkins, A Heifets, M Mercaldi
+Publication: Proceedings of the 15th international conference on World Wide Web, 93-102
+
+8. Area-performance trade-offs in tiled dataflow architectures
+Citations:45
+Authors: S Swanson, A Putnam, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 314-326
+
+9. Instruction scheduling for a tiled dataflow architecture
+Citations:42
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: ACM Sigplan Notices 41 (11), 141-150
+
+12. Modeling instruction placement on a spatial architecture
+Citations:19
+Authors: M Mercaldi, S Swanson, A Petersen, A Putnam, A Schwerin, M Oskin, ...
+Publication: Proceedings of the eighteenth annual ACM symposium on Parallelism in …
+
+13. Data reporting application programming interfaces in an xml parser generator for xml validation and deserialization
+Citations:15
+Authors: MG Kostoulas, ME Matsa, MA Mercaldi, E Perkins
+Publication: US Patent App. 11/465,818
+
+20. Building a wavecache
+Citations:10
+Authors: S Eggers, M Mercaldi, K Michelson, M Oskin, A Petersen, A Putnam, ...
+Publication: US Patent App. 11/830,446
+
+25. Reducing control overhead in dataflow architectures
+Citations:9
+Authors: A Petersen, A Putnam, M Mercaldi, A Schwerin, S Eggers, S Swanson, ...
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+31. The microarchitecture of a pipelined wavescalar processor: An RTL-based study
+Citations:6
+Authors: A Putnam, S Swanson, M Mercaldi, K Michelson, A Petersen, A Schwerin, ...
+Publication: Tech. Rep. TR-2005–11–02
+
+41. Making software more reliable by uncovering hidden dependencies
+Citations:2
+Authors: JS Bell
+Publication: Columbia University
+
+43. Collection, analysis, and uses of parallel block vectors
+Citations:2
+Authors: M Kambadur, K Tang
+Publication: IEEE Micro 99 (1), 1
+
+44. Development of a WaveScalar Performance Model
+Citations:2
+Authors: M Mercaldi
+Publication: UW CSE Master’s Thesis
+
+47. Benchmarking methodology for embedded scalable platforms
+Citations:1
+Authors: P Mantovani, EG Cota, S Kim, K Tien, J Chan, G Di Guglielmo, C Pilato, ...
+Publication: Energy 10 (15), 20
+
+50. Master of none acceleration: a comparison of accelerator architectures for analytical query processing
+Citations:
+Authors: A Lottarini, JP Cerqueira, TJ Repetti, SA Edwards, KA Ross, M Seok, ...
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+57. Data reporting application programming interfaces in an XML parser generator for XML validation and deserialization
+Citations:
+Authors: MG Kostoulas, ME Matsa, MA Mercaldi, E Perkins
+Publication: US Patent 8,171,395
+
+58. Selected Regression Algorithms Applied to Spatial Computation
+Citations:
+Authors: A Cavender, M Mercaldi
+Publication: 
+
+59. General Heuristic for Tic-Tac-Toe-Like Games
+Citations:
+Authors: M Mercaldi, K Wilamowska
+Publication: 
+
+60. Protein Structure Prediction Using Neural Networks
+Citations:
+Authors: M Mercaldi, K Wilamowska
+Publication: 
+
+63. ISCA 2018 Program Committee
+Citations:
+Authors: T Aamodt, D Albonesi, R Balasubramonian, Y Bao, B Beckmann, ...
+Publication: 
+
+67. ISCA 2014 program committee
+Citations:
+Authors: DI August, T Austin, D Brooks, D Carmean, J Carter, F Chong, AI Davis, ...
+Publication: 
+
+68. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 

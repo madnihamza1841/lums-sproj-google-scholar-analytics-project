@@ -1,0 +1,1273 @@
+https://scholar.google.com/citations?hl=en&user=M441iZ8AAAAJ
+Total Citations = 9662
+
+1. GRASP: A search algorithm for propositional satisfiability
+Citations:2688
+Authors: JP Marques-Silva, KA Sakallah
+Publication: IEEE Transactions on Computers 48 (5), 506-521
+
+2. Algorithms for computing minimal unsatisfiable subsets of constraints
+Citations:308
+Authors: MH Liffiton, KA Sakallah
+Publication: Journal of Automated Reasoning 40 (1), 1-33
+
+3. SATIRE: A new incremental satisfiability engine
+Citations:230
+Authors: J Whittemore, J Kim, K Sakallah
+Publication: Proceedings of the 38th annual Design Automation Conference, 542-545
+
+4. Generic ILP versus specialized 0-1 ILP: An update
+Citations:223
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+5. Exploiting structure in symmetry detection for CNF
+Citations:169
+Authors: PT Darga, MH Liffiton, KA Sakallah, IL Markov
+Publication: Proceedings of the 41st annual Design Automation Conference, 530-534
+
+6. check Tc and min Tc: Timing Verification and Optimal Clocking of Synchronous Digtal Circuits.
+Citations:164
+Authors: KA Sakallah, TN Mudge, K Olukotun
+Publication: ICCAD, 552-555
+
+7. A comparative study of two Boolean formulations of FPGA detailed routing constraints
+Citations:160
+Authors: GJ Nam, F Aloul, KA Sakallah, RA Rutenbar
+Publication: IEEE Transactions on Computers 53 (6), 688-696
+
+8. Congestion driven quadratic placement
+Citations:159
+Authors: PN Parakh, RB Brown, KA Sakallah
+Publication: Proceedings 1998 Design and Automation Conference. 35th DAC.(Cat. No …
+
+9. Boolean satisfiability in electronic design automation
+Citations:155
+Authors: JP Marques-Silva, KA Sakallah
+Publication: Proceedings of the 37th Annual Design Automation Conference, 675-680
+
+10. PBS: a backtrack-search pseudo-boolean solver and optimizer
+Citations:154
+Authors: FA Aloul, A Ramani, I Markov, K Sakallah
+Publication: Proceedings of the 5th International Symposium on Theory and Applications of …
+
+11. Efficient symmetry breaking for boolean satisfiability
+Citations:147
+Authors: FA Aloul, KA Sakallah, IL Markov
+Publication: IEEE Transactions on Computers 55 (5), 549-558
+
+12. Solving difficult SAT instances in the presence of symmetry
+Citations:147
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Proceedings of the 39th annual Design Automation Conference, 731-736
+
+13. Analysis and design of latch-controlled synchronous digital circuits
+Citations:146
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+14. Solving difficult instances of Boolean satisfiability in the presence of symmetry
+Citations:142
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+15. AMUSE: a minimally-unsatisfiable subformula extractor
+Citations:140
+Authors: Y Oh, MN Mneimneh, ZS Andraus, KA Sakallah, IL Markov
+Publication: Proceedings of the 41st annual Design Automation Conference, 518-523
+
+16. On finding all minimally unsatisfiable subformulas
+Citations:139
+Authors: MH Liffiton, KA Sakallah
+Publication: International conference on theory and applications of satisfiability …
+
+17. Robust search algorithms for test pattern generation
+Citations:130
+Authors: JOM Silva, KA Sakallah
+Publication: Proceedings of IEEE 27th International Symposium on Fault Tolerant Computing …
+
+18. Pueblo: A hybrid pseudo-boolean SAT solver
+Citations:121
+Authors: HM Sheini, KA Sakallah
+Publication: Journal on Satisfiability, Boolean Modeling and Computation 2, 165-189
+
+19. Faster symmetry discovery using sparsity of symmetries
+Citations:118
+Authors: PT Darga, KA Sakallah, IL Markov
+Publication: 2008 45th ACM/IEEE Design Automation Conference, 149-154
+
+20. Improved design debugging using maximum satisfiability
+Citations:115
+Authors: S Safarpour, H Mangassarian, A Veneris, MH Liffiton, KA Sakallah
+Publication: Formal Methods in Computer Aided Design (FMCAD'07), 13-19
+
+21. Conflict analysis in search algorithms for satisfiability
+Citations:115
+Authors: JPM Silva, KA Sakallah
+Publication: Proceedings Eighth IEEE International Conference on Tools with Artificial …
+
+22. Satisfiability-based layout revisited: detailed routing of complex FPGAs via search-based Boolean SAT
+Citations:105
+Authors: GJ Nam, KA Sakallah, RA Rutenbar
+Publication: FPGA 99, 167-175
+
+23. FORCE: a fast and easy-to-implement variable-ordering heuristic
+Citations:97
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: Proceedings of the 13th ACM Great Lakes symposium on VLSI, 116-119
+
+24. Robust SAT-based search algorithm for leakage power reduction
+Citations:94
+Authors: FA Aloul, S Hassoun, KA Sakallah, D Blaauw
+Publication: International Workshop on Power and Timing Modeling, Optimization and …
+
+25. Analytical transient response of CMOS inverters
+Citations:93
+Authors: AI Kayssi, KA Sakallah, TM Burks
+Publication: IEEE Transactions on Circuits and Systems I: Fundamental Theory and …
+
+26. SAMSON2: An event driven VLSI circuit simulator
+Citations:82
+Authors: KA Sakallah, SW Director
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+27. Faster SAT and smaller BDDs via common function structure
+Citations:75
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: Proceedings of the 2001 IEEE/ACM international conference on Computer-aided …
+
+28. Generating data race witnesses by an SMT-based analysis
+Citations:74
+Authors: M Said, C Wang, Z Yang, K Sakallah
+Publication: NASA Formal Methods Symposium, 313-327
+
+29. Generalized symmetries in Boolean functions
+Citations:74
+Authors: VN Kravets, KA Sakallah
+Publication: Proceedings of the 2000 IEEE/ACM international conference on Computer-aided …
+
+30. Modeling the effects of temporal proximity of input transitions on gate propagation delay and transition time
+Citations:70
+Authors: V Chandramouli, KA Sakallah
+Publication: 33rd Design Automation Conference Proceedings, 1996, 617-622
+
+31. Pueblo: A modern pseudo-boolean sat solver
+Citations:68
+Authors: HM Sheini, KA Sakallah
+Publication: Design, Automation and Test in Europe, 684-685
+
+32. Constructive library-aware synthesis using symmetries
+Citations:68
+Authors: VN Kravet, KA Sakallah
+Publication: Proceedings Design, Automation and Test in Europe Conference and Exhibition …
+
+33. sub-SAT: a formulation for relaxed boolean satisfiability with applications in routing
+Citations:66
+Authors: H Xu, RA Rutenbar, K Sakallah
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+34. Shatter: efficient symmetry-breaking for boolean satisfiability
+Citations:65
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: Proceedings of the 40th annual Design Automation Conference, 836-839
+
+35. Empirical study of the anatomy of modern sat solvers
+Citations:64
+Authors: H Katebi, KA Sakallah, JP Marques-Silva
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+36. Automatic abstraction and verification of Verilog models
+Citations:63
+Authors: ZS Andraus, KA Sakallah
+Publication: Proceedings of the 41st annual Design Automation Conference, 218-223
+
+37. A branch-and-bound algorithm for extracting smallest minimal unsatisfiable formulas
+Citations:62
+Authors: M Mneimneh, I Lynce, Z Andraus, J Marques-Silva, K Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+38. Computing vertex eccentricity in exponentially large graphs: QBF formulation and solution
+Citations:62
+Authors: M Mneimneh, K Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+39. Dynamic search-space pruning techniques in path sensitization
+Citations:61
+Authors: JPM Silva, KA Sakallah
+Publication: 31st Design Automation Conference, 705-711
+
+40. Distilling critical attack graph surface iteratively through minimum-cost sat solving
+Citations:60
+Authors: H Huang, S Zhang, X Ou, A Prakash, K Sakallah
+Publication: Proceedings of the 27th Annual Computer Security Applications Conference, 31-40
+
+41. The impact of signal transition time on path delay computation
+Citations:59
+Authors: AI Kayssi, KA Sakallah, TN Mudge
+Publication: IEEE Transactions on Circuits and Systems II: Analog and Digital Signal …
+
+42. Breaking instance-independent symmetries in exact graph coloring
+Citations:56
+Authors: A Ramani, IL Markov, KA Sakallah, FA Aloul
+Publication: Journal of Artificial Intelligence Research 26, 289-322
+
+43. A new FPGA detailed routing approach via search-based Boolean satisfiability
+Citations:53
+Authors: GJ Nam, KA Sakallah, RA Rutenbar
+Publication: IEEE Transactions on computer-aided design of integrated circuits and …
+
+44. Critical paths in circuits with level-sensitive latches
+Citations:50
+Authors: TM Burks, KA Sakallah, TN Mudge
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 3 (2), 273-291
+
+45. Application of system-level EM modeling to high-speed digital IC packages and PCBs
+Citations:48
+Authors: JG Yook, LPB Katehi, KA Sakallah, RS Martin, L Huang, TA Schreyer
+Publication: IEEE transactions on microwave theory and techniques 45 (10), 1847-1856
+
+46. Refinement strategies for verification methods based on datapath abstraction
+Citations:47
+Authors: ZS Andraus, MH Liffiton, KA Sakallah
+Publication: Proceedings of the 2006 Asia and South Pacific Design Automation Conference …
+
+47. Min-max linear programming and the timing analysis of digital circuits
+Citations:47
+Authors: TM Burks, K Sakallah
+Publication: Proceedings of 1993 International Conference on Computer Aided Design (ICCAD …
+
+48. Symmetry-breaking for pseudo-boolean formulas
+Citations:46
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Asia-Pacific Design Automation Conference, 884-887
+
+49. MINCE: A Static Global Variable-Ordering Heuristic for SAT Search and BDD Manipulation.
+Citations:45
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: J. UCS 10 (12), 1562-1596
+
+50. ZBDD-Based Backtrack Search SAT Solver.
+Citations:45
+Authors: FA Aloul, MN Mneimneh, KA Sakallah
+Publication: IWLS, 131-136
+
+51. Reveal: A formal verification tool for verilog designs
+Citations:44
+Authors: ZS Andraus, MH Liffiton, KA Sakallah
+Publication: International Conference on Logic for Programming Artificial Intelligence …
+
+52. Computation of switching noise in printed circuit boards
+Citations:44
+Authors: JG Yook, V Chandramouli, LPB Katehi, KA Sakallah, TR Arabi, ...
+Publication: IEEE Transactions on Components, Packaging, and Manufacturing Technology …
+
+53. Symmetry and Satisfiability.
+Citations:42
+Authors: KA Sakallah
+Publication: Handbook of Satisfiability 185, 289-338
+
+54. On applying incremental satisfiability to delay fault testing
+Citations:41
+Authors: J Kim, J Whittemore, JP Marques-Silva, K Sakallah
+Publication: Proceedings Design, Automation and Test in Europe Conference and Exhibition …
+
+55. Synchronization of pipelines
+Citations:41
+Authors: KA Sakallah, TN Mudge, TM Burks, ES Davidson
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+56. Symmetry and satisfiability: An update
+Citations:39
+Authors: H Katebi, KA Sakallah, IL Markov
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+57. Satisfiability models and algorithms for circuit delay computation
+Citations:37
+Authors: LG e Silva, J Marques-Silva, LM Silveira, KA Sakallah
+Publication: ACM Transactions on Design Automation of Electronic Systems 7 (1), 137-158
+
+58. Efficient and robust test generation-based timing analysis
+Citations:36
+Authors: JPM Silva, KA Sakallah
+Publication: Proceedings of IEEE International Symposium on Circuits and Systems-ISCAS'94 …
+
+59. An approximate timing analysis method for datapath circuits
+Citations:34
+Authors: H Yalcin, JP Hayes, KA Sakallah
+Publication: Proceedings of the 1996 IEEE/ACM international conference on Computer-aided …
+
+60. From propositional satisfiability to satisfiability modulo theories
+Citations:33
+Authors: HM Sheini, KA Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+61. Mince: A static global variable-ordering for sat and bdd
+Citations:33
+Authors: F Aloul, I Markov, K Sakallah
+Publication: International Workshop on Logic and Synthesis, 1167-1172
+
+62. Timing abstraction of intellectual property blocks
+Citations:33
+Authors: SV Venkatesh, R Palermo, M Mortazavi, KA Sakallah
+Publication: Proceedings of CICC 97-Custom Integrated Circuits Conference, 99-102
+
+63. RAVEL: assigned-delay compiled-code logic simulation
+Citations:33
+Authors: EJ Shriver, KA Sakallah
+Publication: ICCAD 92, 364-368
+
+64. Graph symmetry detection and canonical labeling: Differences and synergies
+Citations:32
+Authors: H Katebi, KA Sakallah, IL Markov
+Publication: arXiv preprint arXiv:1208.6271
+
+65. A scalable method for solving satisfiability of integer linear arithmetic logic
+Citations:32
+Authors: HM Sheini, KA Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+66. SAT-based sequential depth computation
+Citations:32
+Authors: M Mneimneh, K Sakallah
+Publication: Proceedings of the 2003 Asia and South Pacific Design Automation Conference …
+
+67. A branch and bound algorithm for extracting smallest minimal unsatisfiable subformulas
+Citations:31
+Authors: M Liffiton, M Mneimneh, I Lynce, Z Andraus, J Marques-Silva, K Sakallah
+Publication: Constraints 14 (4), 415
+
+68. Identifying conflicts in overconstrained temporal problems
+Citations:29
+Authors: MH Liffiton, MD Moffitt, ME Pollack, KA Sakallah
+Publication: IJCAI, 205-211
+
+69. The design of a microsupercomputer
+Citations:29
+Authors: TN Mudge, RB Brown, WP Birmingham, JA Dykstra, AI Kayssi, RJ Lomax, ...
+Publication: Computer 24 (1), 56-64
+
+70. System and method for timing abstraction of digital logic circuits
+Citations:28
+Authors: RJ Palermo, KA Sakallah, SV Venkatesh, M Mortazavi
+Publication: US Patent 6,442,739
+
+71. A first-order charge conserving MOS capacitance model
+Citations:28
+Authors: KA Sakallah, YT Yen, SS Greenberg
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+72. Generalizing core-guided Max-SAT
+Citations:27
+Authors: MH Liffiton, KA Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+73. Scalable hybrid verification of complex microprocessors
+Citations:27
+Authors: M Mneimneh, F Aloul, C Weaver, S Chatterjee, K Sakallah, T Austin
+Publication: Proceedings of the 38th Design Automation Conference (IEEE Cat. No …
+
+74. Transistor level micro placement and routing for two-dimensional digital VLSI cell synthesis
+Citations:27
+Authors: MA Riepe
+Publication: MICHIGAN UNIV ANN ARBOR DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+75. Realistic delay modeling in satisfiability-based timing analysis
+Citations:25
+Authors: LG e Silva, JPM Silva, LM Silveira, KA Sakallah
+Publication: ISCAS'98. Proceedings of the 1998 IEEE International Symposium on Circuits …
+
+76. An analysis of path sensitization criteria
+Citations:25
+Authors: JPM Silva, KA Sakallah
+Publication: Proceedings of 1993 IEEE International Conference on Computer Design ICCD'93 …
+
+77. Satometer: How much have we searched?
+Citations:24
+Authors: FA Aloul, BD Sierawski, KA Sakallah
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+78. Conflict anticipation in the search for graph automorphisms
+Citations:23
+Authors: H Katebi, KA Sakallah, IL Markov
+Publication: International Conference on Logic for Programming Artificial Intelligence …
+
+79. Principles of sequential-equivalence verification
+Citations:23
+Authors: MN Mneimneh, KA Sakallah
+Publication: IEEE design & test of computers 22 (3), 248-257
+
+80. Functional timing analysis for characterization of virtual component blocks
+Citations:22
+Authors: H Yalcin, RJ Palmero, KA Sakallah, MS Mortazavi, C Bamji
+Publication: US Patent 6,457,159
+
+81. Backtrack search using ZBDDs
+Citations:22
+Authors: F Aloul, M Mneimneh, K Sakallah
+Publication: International Workshop on Logic Synthesis (IWLS), 293-297
+
+82. Overview of complementary GaAs technology for high-speed VLSI circuits
+Citations:22
+Authors: RB Brown, B Bernhardt, M LaMacchia, J Abrokwah, PN Parakh, TD Basso, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 6 (1), 47-51
+
+83. Timing verification of sequential domino circuits
+Citations:22
+Authors: D Van Campenhout, T Mudge, KA Sakallah
+Publication: Proceedings of the 1996 IEEE/ACM international conference on Computer-aided …
+
+84. Searching for autarkies to trim unsatisfiable clause sets
+Citations:21
+Authors: M Liffiton, K Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+85. CEGAR-based formal hardware verification: A case study
+Citations:20
+Authors: ZS Andraus, MH Liffiton, KA Sakallah
+Publication: Ann Arbor 1001, 48
+
+86. A 160000 transistor GaAs microprocessor
+Citations:20
+Authors: M Upton, T Huff, P Sherhart, P Barker, R McVay, T Stanley, R Brown, ...
+Publication: 1993 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+87. Solution and optimization of systems of pseudo-boolean constraints
+Citations:19
+Authors: FA Aloul, A Ramani, KA Sakallah, IL Markov
+Publication: IEEE Transactions on Computers 56 (10), 1415-1424
+
+88. Transistor placement for noncomplementary digital VLSI cell synthesis
+Citations:19
+Authors: MA Riepe, KA Sakallah
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 8 (1 …
+
+89. On solving soft temporal constraints using SAT techniques
+Citations:18
+Authors: HM Sheini, B Peintner, KA Sakallah, ME Pollack
+Publication: International Conference on Principles and Practice of Constraint …
+
+90. A boolean satisfiability-based incremental rerouting approach with application to FPGAs
+Citations:18
+Authors: GJ Nam, K Sakallah, R Rutenbar
+Publication: Proceedings Design, Automation and Test in Europe. Conference and Exhibition …
+
+91. Functional timing analysis for IP characterization
+Citations:18
+Authors: H Yalcin, M Mortazavi, R Palermo, C Bamji, K Sakallah
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 731-736
+
+92. FPD-an environment for exact timing analysis
+Citations:18
+Authors: JP Silva, KA Sakallah, LM Vidigal
+Publication: 1991 IEEE International Conference on Computer-Aided Design Digest of …
+
+93. Mixed simulation of electronic integrated circuits
+Citations:18
+Authors: KA Sakallah
+Publication: Design Research Center, Carnegie-Mellon University
+
+94. Resynthesis of multi-level circuits under tight constraints using symbolic optimization
+Citations:17
+Authors: VN Kravets, KA Sakallah
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+95. On solving stack-based incremental satisfiability problems
+Citations:17
+Authors: J Kim, J Whittemore, K Sakallah
+Publication: Proceedings 2000 International Conference on Computer Design, 379-382
+
+96. Multilevel optimization in the design of a high-performance GaAs microcomputer
+Citations:17
+Authors: OA Olukotun, RB Brown, RJ Lomax, TN Mudge, KA Sakallah
+Publication: IEEE journal of solid-state circuits 26 (5), 763-767
+
+97. Anatomy and empirical evaluation of modern SAT solvers
+Citations:16
+Authors: KA Sakallah
+Publication: Bulletin of the EATCS, 96-121
+
+98. A SAT-based decision procedure for mixed logical/integer linear problems
+Citations:16
+Authors: HM Sheini, KA Sakallah
+Publication: International Conference on Integration of Artificial Intelligence (AI) and …
+
+99. Satisfiability-based detailed FPGA routing
+Citations:16
+Authors: GJ Nam, KA Sakallah, RA Rutenbar
+Publication: Proceedings Twelfth International Conference on VLSI Design.(Cat. No …
+
+100. Unbounded scalable verification based on approximate property-directed reachability and datapath abstraction
+Citations:15
+Authors: S Lee, KA Sakallah
+Publication: International Conference on Computer Aided Verification, 849-865
+
+101. REVERSE: Efficient sequential verification for retiming
+Citations:15
+Authors: M Mneimneh, K Sakallah
+Publication: Proc. IWLS’03, 133-139
+
+102. M32: A constructive multilevel logic synthesis system
+Citations:15
+Authors: VN Kravets, KA Sakallah
+Publication: Proceedings of the 35th annual Design Automation Conference, 336-341
+
+103. Automated scalable verification for hardware designs at the register transfer level
+Citations:14
+Authors: Z Andraus, KA Sakallah, M Liffiton
+Publication: US Patent 8,601,414
+
+104. Grasp—A New Search Algorithm for Satisfiability
+Citations:14
+Authors: JPM Silva, KA Sakallah
+Publication: The Best of ICCAD, 73-89
+
+105. Efficient verification of the PCI local bus using boolean satisfiability
+Citations:14
+Authors: F Aloul, K Sakallah
+Publication: International Workshop on Logic Synthesis (IWLS), 131-136
+
+106. GaAs RISC processors
+Citations:14
+Authors: RB Brown, P Barker, A Chandna, TR Huff, AI Kayssi, RJ Lomax, ...
+Publication: GaAs IC Symposium Technical Digest 1992, 81-84
+
+107. RID-GRASP: Redundancy identification and removal using GRASP
+Citations:14
+Authors: J Kim, JPM Silva, H Savoj, KA Sakallah
+Publication: International Workshop on Logic Synthesis
+
+108. Identification of critical paths in circuits with level-sensitive latches
+Citations:14
+Authors: TM Burks, KA Sakallah, TN Mudge
+Publication: Proceedings of the 1992 IEEE/ACM international conference on Computer-aided …
+
+109. Fast and accurate timing characterization using functional information
+Citations:13
+Authors: H Yalcin, M Mortazavi, R Palermo, C Bamji, KA Sakallah, JP Hayes
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+110. Optimal clocking of synchronous systems
+Citations:13
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+111. Theory and Applications of Satisfiability Testing
+Citations:12
+Authors: F Bacchus, T Walsh
+Publication: Springer Berlin/Heidelberg.
+
+112. Optimization of critical paths in circuits with level-sensitive latches
+Citations:12
+Authors: TM Burks, KA Sakallah
+Publication: Proceedings of the 1994 IEEE/ACM international conference on Computer-aided …
+
+113. An event driven approach for mixed gate and circuit level simulation
+Citations:12
+Authors: KA Sakallah, SW Director
+Publication: 
+
+114. Dynamic path reduction for software model checking
+Citations:11
+Authors: Z Yang, B Al-Rawi, K Sakallah, X Huang, S Smolka, R Grosu
+Publication: International Conference on Integrated Formal Methods, 322-336
+
+115. Theory and Applications of Satisfiability Testing
+Citations:11
+Authors: J Marques-Silva, KA Sakallah
+Publication: Sat 4501
+
+116. Improving the efficiency of Circuit-to-BDD conversion by gate and input ordering
+Citations:11
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: Proceedings. IEEE International Conference on Computer Design: VLSI in …
+
+117. Ravel-XL: a hardware accelerator for assigned-delay compiled-code logic gate simulation
+Citations:11
+Authors: MA Riepe, JPM Silva, KA Sakallah, RB Brown
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 4 (1), 113-129
+
+118. Impact of MCMs on system performance optimization
+Citations:11
+Authors: AI Kayssi, KA Sakallah, RB Brown, RJ Lomax, TN Mudge, TR Huff
+Publication: [Proceedings] 1992 IEEE International Symposium on Circuits and Systems 2 …
+
+119. Optimal clocking of circular pipelines
+Citations:11
+Authors: KA Sakallah, TN Mudge, TM Burks, ES Davidson
+Publication: [1991 Proceedings] IEEE International Conference on Computer Design: VLSI in …
+
+120. Conflict analysis and branching heuristics in the search for graph automorphisms
+Citations:10
+Authors: P Codenotti, H Katebi, KA Sakallah, IL Markov
+Publication: 2013 IEEE 25th International Conference on Tools with Artificial …
+
+121. The edge-based design rule model revisited
+Citations:10
+Authors: MA Riepe, KA Sakallah
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 3 (3 …
+
+122. Branch and bound algorithms for highly constrained integer programs
+Citations:10
+Authors: VM Manquinho, JPM Silva, AL Oliveira, KA Sakallah
+Publication: Technical Report, Cadence European Laboratories, Portugal
+
+123. The Meyer model revisited: Explaining and correcting the charge non-conservation problem
+Citations:10
+Authors: KA Sakallah, YT Yen, SS Greenberg
+Publication: Proc. ICCAD 87, 204-207
+
+124. Trace-Driven Verification of Multithreaded Programs Using SMT-Based Analysis
+Citations:9
+Authors: Z Yang, K Sakallah, S Mahmoud
+Publication: US Patent App. 13/864,804
+
+125. Symmetry breaking for pseudo-Boolean formulas
+Citations:9
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Journal of Experimental Algorithmics (JEA) 12, 1.3
+
+126. From max-sat to min-unsat: Insights and applications
+Citations:9
+Authors: MH Liffiton, Z Andraus, K Sakallah
+Publication: Ann Arbor 1001, 48109-2122
+
+127. Using constraint geometry to determine maximum rate pipeline clocking
+Citations:9
+Authors: CH Chang, ES Davidson, KA Sakallah
+Publication: International Conference on Computer Aided Design: Proceedings of the 1992 …
+
+128. Detecting traditional packers, decisively
+Citations:8
+Authors: D Bueno, KJ Compton, KA Sakallah, M Bailey
+Publication: International Workshop on Recent Advances in Intrusion Detection, 184-203
+
+129. An advanced timing characterization method using mode dependecy
+Citations:8
+Authors: H Yalcin, R Palermo, M Mortazavi, C Bamji, K Sakallah, J Hayes
+Publication: Proceedings of the 38th annual Design Automation Conference, 657-660
+
+130. Delay macromodels for point-to-point MCM interconnections
+Citations:8
+Authors: AI Kayssi, KA Sakallah
+Publication: IEEE Transactions on Components, Packaging, and Manufacturing Technology …
+
+131. SAMSON: a mixed circuit-logic level simulator
+Citations:8
+Authors: KA Sakallah, SW Director
+Publication: Advances in Computer-Aided Engineering Design 1, 149-223
+
+132. Seeking Practical CDCL Insights from Theoretical SAT Benchmarks.
+Citations:7
+Authors: J Elffers, J Giráldez-Cru, S Gocht, J Nordström, L Simon
+Publication: IJCAI, 1300-1308
+
+133. Static timing analysis
+Citations:7
+Authors: Y Kukimoto, M Berkelaar, K Sakallah
+Publication: Logic Synthesis and Verification, 373-401
+
+134. An experimental evaluation of conflict diagnosis and recursive learning in boolean satisfiability
+Citations:7
+Authors: F Aloul, K Sakallah
+Publication: Proceedings of the International Workshop on Logic Synthesis (IWLS), 117-122
+
+135. Functional abstraction and partial specification of Boolean functions
+Citations:7
+Authors: KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+136. Functional timing analysis for characterization of virtual component blocks
+Citations:6
+Authors: H Yalcin, RJ Palmero, KA Sakallah, MS Mortazavi, C Bamji
+Publication: US Patent 7,346,872
+
+137. A progressive simplifier for satisfiability modulo theories
+Citations:6
+Authors: HM Sheini, KA Sakallah
+Publication: International Conference on Theory and Applications of Satisfiability …
+
+138. Dynamic symmetry-breaking for improved boolean optimization
+Citations:6
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Proceedings of the 2005 Asia and South Pacific Design Automation Conference …
+
+139. Preserving synchronizing sequences of sequential circuits after retiming
+Citations:6
+Authors: MN Mneimneh, KA Sakallah, J Moondanos
+Publication: Proceedings of the 2004 Asia and South Pacific Design Automation Conference …
+
+140. Solving difficult instances of boolean satisfiability in the presence of symmetry
+Citations:6
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: MICHIGAN UNIV ANN ARBOR DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+141. Hybrid routing for fpgas by integrating boolean satisfiability with geometric search
+Citations:6
+Authors: GJ Nam, K Sakallah, R Rutenbar
+Publication: International Conference on Field Programmable Logic and Applications, 360-369
+
+142. Efficient Gate and Input Ordering for Circuit-to-BDD Conversion.
+Citations:6
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: IWLS, 137-142
+
+143. Satisfiability-based algorithms for 0-1 integer programming
+Citations:6
+Authors: VM Manquinho, JPM Silva, AL Oliveira, KA Sakallah
+Publication: Proceedings of the IEEE/ACM International Workshop on Logic Synthesis (IWLS)
+
+144. Test Pattern Generation for Circuits Using Power Management Techniques
+Citations:6
+Authors: J Silva, J Monteiro, KA Sakallah
+Publication: Proc. IEEE European Test Workshop
+
+145. Multi-phase retiming using minTc
+Citations:6
+Authors: TM Burks, KA Sakallah, TN Mudge
+Publication: ACM/SIGDA Workshop on Timing Issues in the Specification and Synthesis of …
+
+146. Theory and Application of Satisfiability Testing: 14th International Conference, SAT 2011, Ann Arbor, MI, USA, June 19-22, 2011, Proceedings
+Citations:5
+Authors: KA Sakallah, L Simon
+Publication: Springer
+
+147. Incorporating user control in automated interactive scheduling systems
+Citations:5
+Authors: J Huh, M Pollack, H Katebi, K Sakallah, N Kirsch
+Publication: Proceedings of the 8th ACM Conference on Designing Interactive Systems, 306-309
+
+148. System and method for timing abstraction of digital logic circuits
+Citations:5
+Authors: RJ Palermo, KA Sakallah, SV Venkatesh, M Mortazavi
+Publication: US Patent 6,877,143
+
+149. Search-based SAT using zero-suppressed BDDs
+Citations:5
+Authors: FA Aloul, MN Mneimneh, KA Sakallah
+Publication: Proceedings 2002 Design, Automation and Test in Europe Conference and …
+
+150. An experimental study of satisfiability search heuristics
+Citations:5
+Authors: FA Aloul, JP Marques-Silva, KA Sakallah
+Publication: Proceedings Design, Automation and Test in Europe Conference and Exhibition …
+
+151. False path analysis in sequential circuits
+Citations:5
+Authors: JL Bell, K Sakallah, J Whittemore
+Publication: Proceedings of 8th International Workshop on Power and Timing Modeling …
+
+152. Dynamic modeling of logic gate circuits
+Citations:5
+Authors: KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+153. Concurrent path sensitization in timing analysis
+Citations:5
+Authors: JM Silva, KA Sakallah
+Publication: Proceedings of EURO-DAC 93 and EURO-VHDL 93-European Design Automation …
+
+154. Trace-driven verification of multithreaded programs
+Citations:4
+Authors: Z Yang, K Sakallah
+Publication: International Conference on Formal Engineering Methods, 404-419
+
+155. Dynamic symmetry-breaking for Boolean satisfiability
+Citations:4
+Authors: FA Aloul, A Ramani, IL Markov, KA Sakallah
+Publication: Annals of Mathematics and Artificial Intelligence 57 (1), 59-73
+
+156. Satisfiability models and algorithms for circuit delay computation
+Citations:4
+Authors: L Guerra e Silva, J Marques-Silva, LM Silveira, KA Sakallah
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 7 (1 …
+
+157. Selection of voltage thresholds for delay measurement
+Citations:4
+Authors: V Chandramouli, KA Sakallah
+Publication: Analog Design Issues in Digital VLSI Circuits and Systems, 9-28
+
+158. Computation of switching noise in PCBs for digital packages
+Citations:4
+Authors: JG Yook, V Chandramouli, LP Katehi, KA Sakallah
+Publication: Proceedings of Electrical Performance of Electronic Packaging, 37-39
+
+159. Macromodel simplification using dimensional analysis
+Citations:4
+Authors: AI Kayssi, KA Sakallah
+Publication: Proceedings of IEEE International Symposium on Circuits and Systems-ISCAS'94 …
+
+160. Delay modeling for GaAs DCFL circuits
+Citations:4
+Authors: AI Kayssi, KA Sakallah
+Publication: 15th Annual GaAs IC Symposium, 67-70
+
+161. Delay macromodels for the timing analysis of GaAs DCFL
+Citations:4
+Authors: AI Kayssi, KA Sakallah
+Publication: Proceedings EURO-DAC'92: European Design Automation Conference, 142-145
+
+162. SMT-based symbolic model checking for multi-threaded programs
+Citations:3
+Authors: Z Yang, K Sakallah
+Publication: Exploiting Concurrency Efficiently and Correctly Workshop
+
+163. Generic ILP versus specialized 0-1 ILP
+Citations:3
+Authors: IL Markov, KA Sakallah, A Ramani, FA Aloul
+Publication: Proc. IEEE Int. Conf. on Computer-Aided Design (ICCAD'02), San Jose …
+
+164. A tool for measuring progress of backtrack-search solvers
+Citations:3
+Authors: FA Aloul, BD Sierawski, KA Sakallah
+Publication: Theory and Applications of Satisfiability Testing-SAT
+
+165. Symmetry Breaking for Boolean Satisfiability: The Mysteries of Logic Minimization
+Citations:3
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: International Workshop on Symmetry on Constraint Satisfaction Problems …
+
+166. System level EM modeling of digital IC packages and PC Boards
+Citations:3
+Authors: JG Yook, T Arabi, T Schreyer, LP Katehi, KA Sakallah
+Publication: Proceedings of the 1996 5th Topical Meeting on Electrical Performance of …
+
+167. Maximum rate single-phase clocking of a closed pipeline including wave pipelining, stoppability, and startability
+Citations:3
+Authors: CH Chang, ES Davidson, KA Sakallah
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+168. The Aurora RAM Compiler
+Citations:3
+Authors: A Chandna
+Publication: 32nd Design Automation Conference, 261-266
+
+169. Polynomial terminal equivalent circuits as dormant models in event driven circuit simulation
+Citations:3
+Authors: KA Sakallah
+Publication: Digest of Technical Papers of the IEEE International Conference on Computer …
+
+170. Graph-based algorithms for boolean functions
+Citations:3
+Authors: RE Bryant, KS Brace, RL Rudell, RE Bryant, S Minato, N Ishiura, S Yajima, ...
+Publication: IEEE Transactions on Computers, 1035-1044
+
+171. Empirical evaluation of ic3-based model checking techniques on verilog rtl designs
+Citations:2
+Authors: A Goel, K Sakallah
+Publication: 2019 Design, Automation & Test in Europe Conference & Exhibition (DATE), 618-621
+
+172. Ario: a linear integer arithmetic logic solver
+Citations:2
+Authors: HM Sheini, KA Sakallah
+Publication: 2006 Formal Methods in Computer Aided Design, 47-48
+
+173. Dynamic symmetry-breaking for improved boolean optimization
+Citations:2
+Authors: A Ramani, FA Aloul, IL Markov, KA Sakallah
+Publication: Asia and South Pacific Design Automation Conference (ASP-DAC)(Januray 2005)
+
+174. Invited tutorial: Boolean satisfiability algorithms and applications in electronic design automation
+Citations:2
+Authors: J Marques-Silva, K Sakallah
+Publication: International Conference on Computer Aided Verification, 3-3
+
+175. Search-Space Pruning Heuristics for Path Sensitization in Test Pattern Generation
+Citations:2
+Authors: JP Silva, KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+176. Delay accurate compiled-code synchronous gate-level Verilog simulation
+Citations:2
+Authors: MA Riepe, KA Sakallah
+Publication: Proc. 2nd International Verilog HDL Conference, 121-127
+
+177. Min-Max Linear Programming
+Citations:2
+Authors: TM Burks, KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+178. The design of a GaAs micro-supercomputer
+Citations:2
+Authors: TN Mudge, RB Brown, WP Birmingham, JA Dykstra, AI Kayssi, RJ Lomax, ...
+Publication: Proceedings of the Twenty-Fourth Annual Hawaii International Conference on …
+
+179. Complementary GaAs Technology for High-Speed VLSI Circuits
+Citations:2
+Authors: RB Brown, B Bernhardt, M LaMacchia, J Abrokwah, PN Parakh, TD Basso, ...
+Publication: Electrical Engineering and Computer Science Dept., University of Michigan, 8
+
+180. Model checking of verilog rtl using ic3 with syntax-guided abstraction
+Citations:1
+Authors: A Goel, K Sakallah
+Publication: NASA Formal Methods Symposium, 166-185
+
+181. Generalized Boolean symmetries through nested partition refinement
+Citations:1
+Authors: H Katebi, KA Sakallah, IL Markov
+Publication: 2013 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 763-770
+
+182. Breaking instance-independent symmetries in exact graph coloring
+Citations:1
+Authors: FA Aloul, IL Markov, A Ramani, KA Sakallah
+Publication: arXiv preprint arXiv:1109.2347
+
+183. Theory and Applications of Satisfiability Testing-SAT 2007: 10th International Conference, SAT 2007, Lisbon, Portugal, May 28-31, 2007, Proceedings
+Citations:1
+Authors: J Marques-Silva, KA Sakallah
+Publication: Springer
+
+184. SMT (CLU): a step toward scalability in system verification
+Citations:1
+Authors: HM Sheini, KA Sakallah
+Publication: 2006 IEEE/ACM International Conference on Computer Aided Design, 844-851
+
+185. Timing, Test and Manufacturing Overview
+Citations:1
+Authors: KA Sakallah, DM Walker, SR Nassif
+Publication: The Best of ICCAD, 551-562
+
+186. Majority-Based Decomposition of Carry Logic in Binary Adders.
+Citations:1
+Authors: L Nazhandali, KA Sakallah
+Publication: IWLS, 179-184
+
+187. Invited Tutorial: Boolean Satisfiability Algorithms and Applications in Electronic Design Automation
+Citations:1
+Authors: JPM Silva, KA Sakallah
+Publication: Proceedings of the 12th International Conference on Computer Aided …
+
+188. Satisfiability-Based Functional Delay Fault Testing
+Citations:1
+Authors: J Kim, JM Silva, KA Sakallah
+Publication: VLSI: Systems on a Chip, 362-372
+
+189. Constructive multilevel logic synthesis under properties of boolean algebra
+Citations:1
+Authors: VN Kravets, KA Sakallah
+Publication: Ann Arbor 1001, 48104
+
+190. Signal delay in coupled, distributed RC lines in the presence of temporal proximity
+Citations:1
+Authors: V Chandramouli, AI Kayssi, KA Sakallah
+Publication: Proceedings Seventeenth Conference on Advanced Research in VLSI, 32-46
+
+191. Timing Analysis of Domino Logic
+Citations:1
+Authors: D Van Campenhout, TN Mudge, KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+192. Timing models for gallium arsenide direct-coupled FET logic circuits
+Citations:1
+Authors: AI Kayssi, KA Sakallah
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+193. Simultaneous Switching Noise in Printed Circuit Boards: Electromagnetic Modeling/Simulation
+Citations:1
+Authors: JG Yook, V Chandramouli, LP Katehi, KA Sakallah
+Publication: University of Michigan. Radiation Laboratory
+
+194. Clock qualification algorithm for timing analysis of custom CMOS VLSI circuits with overlapped clocking disciplines and on-section clock derivation
+Citations:1
+Authors: SC Menon, KA Sakallah
+Publication: Systems Integration'90. Proceedings of the First International Conference on …
+
+195. Towards Automatic Inference of Inductive Invariants
+Citations:
+Authors: H Ma, A Goel, JB Jeannin, M Kapritsos, B Kasikci, KA Sakallah
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 30-36
+
+196. euforia: Complete Software Model Checking with Uninterpreted Functions
+Citations:
+Authors: D Bueno, KA Sakallah
+Publication: International Conference on Verification, Model Checking, and Abstract …
+
+197. EUForia: Uninterpreted Functions Abstraction with Incremental Induction
+Citations:
+Authors: D Bueno, KA Sakallah
+Publication: 
+
+198. Verification of complex systems that can be described by a finite state transition system
+Citations:
+Authors: KA Sakallah, LEE Suho
+Publication: US Patent 9,389,983
+
+199. Saucy3: Fast Symmetry Discovery in Graphs
+Citations:
+Authors: K Sakallah
+Publication: Banff International Research Station for Mathematical Innovation and Discovery
+
+200. Program Analysis Techniques for Efficient Software Model Checking
+Citations:
+Authors: C Boyapati, K Sakallah
+Publication: MICHIGAN UNIV ANN ARBOR DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+201. Report on the SAT 2007 Conference on Theory and Applications of Satisfiability Testing
+Citations:
+Authors: J Marques-Silva, K Sakallah, I Lynce
+Publication: AI Magazine 28 (4), 135-135
+
+202. Efficient Symmetry Breaking for Boolean Satisfiability
+Citations:
+Authors: K Sakallah
+Publication: IEEE Transactions on Computers 55 (5), 549-558
+
+203. Formal verification: theory and practice
+Citations:
+Authors: KA Sakallah, Y Lu
+Publication: with EDA Technofair Design Automation Conference Asia and South Pacific …
+
+204. CSE-TR
+Citations:
+Authors: HM Sheini, KA Sakallah
+Publication: 
+
+205. Abstraction techniques for functional verification
+Citations:
+Authors: KA Sakallah, R Ranjan, V Singhal
+Publication: Annual ACM IEEE Design Automation Conference: Proceedings of the 41 st …
+
+206. Sur la Vérification de la Satisfaction pour la Logique des Différences
+Citations:
+Authors: J FOURIER
+Publication: UNIVERSITÉ JOSEPH FOURIER
+
+207. Satometer: How Much Have We Searched?(Preprint)
+Citations:
+Authors: FA Aloul, BD Sierawski, KA Sakallah
+Publication: MICHIGAN UNIV ANN ARBOR DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+208. An Advanced Timing Characterization Method using Mode Dependecy
+Citations:
+Authors: K Sakallah, M Mortazavi, R Palermo, J Hayes, C Bamji, H Yalcin
+Publication: dac, 657-660
+
+209. Boolean Satisfiability Algorithms and Applications in Electronic Design Automation
+Citations:
+Authors: J Marques-Silva, K Sakallah
+Publication: Computer Aided Verification, 3
+
+210. Invited Talks and Tutorials-Invited Tutorial: Boolean Satisfiability Algorithms and Applications in Electronic Design Automation
+Citations:
+Authors: J Marques-Silva, K Sakallah
+Publication: Lecture Notes in Computer Science 1855, 3-3
+
+211. AFTA: a formal delay model for functional thinking analysis
+Citations:
+Authors: V Chandramouli, JP Whittemore, KA Sakallah
+Publication: Proceedings of the conference on Design, automation and test in Europe, 350-355
+
+212. The Design and Optimization of CGaAs Cache Memory
+Citations:
+Authors: SM Gold, RB Brown, CDRJ Lomax, TN Mudge, KA Sakallah
+Publication: 
+
+213. Satisfiability Models and Algorithms for Circuit Delay
+Citations:
+Authors: LGE Silva, JPM Silva, LM Silveira, KA Sakallah
+Publication: Computation,” in Workshop on Timing Issues in the Specification and …
+
+214. CSE-TR-295-96 June 1996
+Citations:
+Authors: D Van Campenhout, T Mudge, K Sakallah
+Publication: 
+
+215. THE UNIVERSITY OF l\/HCHIGAN
+Citations:
+Authors: KA Sakallah
+Publication: 
+
+216. GRASP—A New Search Algorithm for Satisﬁability
+Citations:
+Authors: KA Sakallah
+Publication: 
+
+217. COMPUTATION OF SWITCHING NOISE IN PRINTED CIRCUIT BOARDS
+Citations:
+Authors: V Chandrarnouli, LPB Katehi, KA Sakallah
+Publication: 
+
+218. Modeling Domino Logic for Static Timing Analysis
+Citations:
+Authors: D Van Campenhout, TN Mudge, KA Sakallah
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+219. University of Michigan, Department of Electrical Engineering & Computer Science, Ann Arbor, MI 48109-2122+ Hewlett Packard Company, 3404 East Harmony Rd., Ft. Collins, CO 8052
+Citations:
+Authors: A Chandna, CD Kibler, RB Brown, M Roberts, KA Sakallah
+Publication: Proceedings of the... Design Automation Conference, 261
+
+220. Session 43 New Techniques in Test Generation Chair: Sandip Kundu 43.1 Sequential Circuit Test Generation in a Genetic Algorithm Framework
+Citations:
+Authors: EM Rudnick, JH Patel, GS Greenstein, TM Niermann, JPM Silva, ...
+Publication: 31st ACM/IEEE Design Automation Conference: June 6-10, 1994, San Diego, CA …
+
+221. Simultaneous switching noise in printed circuit boards
+Citations:
+Authors: LPB Katehi, KA Sakallah
+Publication: 
+
+222. Identification of critical paths in circuits with level-sensitive switches
+Citations:
+Authors: TM Burks, KA Sakallah
+Publication: 
+
+223. Synchronization of Pipelines
+Citations:
+Authors: KASTN Mudge, TMBES Davidson
+Publication: Computer Science 1001, 48109-2122
+
+224. Exact Timing Analysis of Combinational Circuits
+Citations:
+Authors: JP Silva, KA Sakallah, LM Vidigal
+Publication: University of Michigan, Computer Science and Engineering Division …
+
+225. Clock Qualification Algorithm for Timing Analysis of Custom CMOS VLSI Circuits with Overlapped Clocking Disciplines and Oil-section Clock Derivation
+Citations:
+Authors: SC Menon, KA Sakallah
+Publication: ICSI'90, the First International Conference on Systems Integration: April 23 …
+
+226. A First-Order Charge Conserving MOS Capacitance Model KAREM A. SAKALLAH, YAO-TSUNG YEN, and
+Citations:
+Authors: SS GREENBERG
+Publication: IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN 9 (1)
+
+227. Analysis and Design of Latch-Controlled
+Citations:
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+228. THE UNIVERSITY OF MICHIGAN COMPUTER SCIENCE AND ENGINEERING DIVISION
+Citations:
+Authors: KA Sakallah, CA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+229. SAMO: An Automatic MOS Circuit Partitioner
+Citations:
+Authors: YT Yen, KA Sakallah
+Publication: Proceedings of the IEEE 1987 Custom Integrated Circuits Conference: the …
+
+230. Algorithms for Timing Veriﬁcation and Optimal Clocking of Synchronous Digital Circuits
+Citations:
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+231. Experimental Evaluation
+Citations:
+Authors: S Lee, K Sakallah
+Publication: 
+
+232. " oepartment of Computer Engineering
+Citations:
+Authors: FA Alou, A Ramani, IL Markov, KA Sakallah
+Publication: 
+
+233. UNIVERSIT OF MICHIGAN
+Citations:
+Authors: D Van Campenhout, T Mudge, K Sakallah
+Publication: 
+
+234. Scalable Hardware Verification based on Datapath Abstraction, Counterexample-Guided Refinement, and Satisfiability Modulo Theories
+Citations:
+Authors: ZS Andraus, KA Sakallah
+Publication: Ann Arbor 1001, 48109-2122
+
+235. Structure-Driven Equivalence Verification for Circuits Optimized by Retiming and Combinational Synthesis
+Citations:
+Authors: M Mneimneh, K Sakallah
+Publication: 
+
+236. Dear Editor and Reviewers
+Citations:
+Authors: A Ramani, F Aloul, I Markov, K Sakallah
+Publication: 
+
+237. Microprocessor Verification Based on Datapath Abstraction and Refinement
+Citations:
+Authors: ZS Andraus, MH Liffiton, KA Sakallah
+Publication: Ann Arbor 1001, 48109-2122
+
+238. Design, Automation and Test in Europe Conference and Exhibition DATE 2005
+Citations:
+Authors: V Manquinho, J Marques-Silva, G Parthasarathy, M Iyer, KT Cheng, ...
+Publication: 
+
+239. Program Vice-Chair
+Citations:
+Authors: T Baba, R Lomax, R Brown, X Wen, K Sakallah, M Papaefthymiou, ...
+Publication: 
+
+240. sub-SAT: A Formulation for Relaxed Boolean Satisfiabilty withApplications in Routing
+Citations:
+Authors: H Xu, RA Rutenbar, K Sakallah
+Publication: 
+
+241. ARVLSI’97 Committees
+Citations:
+Authors: RB Brown, AT Ishii, MC Papaefthymiou, TN Mudge, CS June, B Ackland, ...
+Publication: 
+
+242. Members-at-Large
+Citations:
+Authors: JN AMARAL, M ATALLAH, N BAGHERZADEH, S BARUAH, J BECKER, ...
+Publication: 
+
+243. PostScript error
+Citations:
+Authors: JPM Silva, KA Sakallah
+Publication: 
+
+244. Technical Program Committee (cont.)
+Citations:
+Authors: JH Patel, M Pedram, TP Pennino, JA Rowson, RD Automation, ...
+Publication: 
+
+245. I NTE RCON N ECT SI MU LATl ON
+Citations:
+Authors: K Sakallah
+Publication: 
+
+246. Symmetry-breaking for SAT: The Mysteries of Logic Minimization
+Citations:
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: 
+
+247. Library Design for Symmetric Decomposition
+Citations:
+Authors: VN Kravets, KA Sakallah
+Publication: Ann Arbor 1001, 48109
+
+248. Comments of Reviewer
+Citations:
+Authors: F Aloul, A Ramani, I Markov, K Sakallah
+Publication: 
+
+249. Structure-Aware Functional Decomposition in Logic Synthesis
+Citations:
+Authors: VN Kravets, KA Sakallah
+Publication: 
+
+250. PANEL SUB-COMMITTEE
+Citations:
+Authors: M Perkowski, L Pileggi, R Ranjan, K Roy, KA Sakallah, MISS Sapatnekar, ...
+Publication: 
+
+251. Theoretical Foundations of Applied SAT Solving (14w5101)
+Citations:
+Authors: A Atserias, A Biere, S Buss, A Kolokolova, J Nordström, K Sakallah
+Publication: 
+
+252. 38th Design Automation Conference honors Deirdre Hanford
+Citations:
+Authors: K Sakallah, K Roy, D Marculescu, S Sapatnekar
+Publication: 
+
+253. SWITCH AND LOGIC SIMULATION
+Citations:
+Authors: K Sakallah
+Publication: 
+
+254. Shatter v0. 3
+Citations:
+Authors: FA Aloul, IL Markov, KA Sakallah
+Publication: 
+

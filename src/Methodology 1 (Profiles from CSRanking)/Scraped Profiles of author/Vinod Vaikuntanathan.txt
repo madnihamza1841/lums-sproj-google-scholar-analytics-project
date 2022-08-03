@@ -1,0 +1,773 @@
+https://scholar.google.com/citations?hl=en&user=a8jIPIkAAAAJ
+Total Citations = 15352
+
+1. Fully homomorphic encryption over the integers
+Citations:1599
+Authors: M Van Dijk, C Gentry, S Halevi, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+2. Trapdoors for hard lattices and new cryptographic constructions
+Citations:1490
+Authors: C Gentry, C Peikert, V Vaikuntanathan
+Publication: Proceedings of the fortieth annual ACM symposium on Theory of computing, 197-206
+
+3. Efficient fully homomorphic encryption from (standard) LWE
+Citations:1313
+Authors: Z Brakerski, V Vaikuntanathan
+Publication: SIAM Journal on Computing 43 (2), 831-871
+
+4. Can homomorphic encryption be practical?
+Citations:882
+Authors: M Naehrig, K Lauter, V Vaikuntanathan
+Publication: Proceedings of the 3rd ACM workshop on Cloud computing security workshop …
+
+5. Fully homomorphic encryption from ring-LWE and security for key dependent messages
+Citations:831
+Authors: Z Brakerski, V Vaikuntanathan
+Publication: Annual cryptology conference, 505-524
+
+6. (Leveled) fully homomorphic encryption without bootstrapping
+Citations:737
+Authors: Z Brakerski, C Gentry, V Vaikuntanathan
+Publication: ACM Transactions on Computation Theory (TOCT) 6 (3), 13
+
+7. On-the-fly multiparty computation on the cloud via multikey fully homomorphic encryption
+Citations:575
+Authors: A López-Alt, E Tromer, V Vaikuntanathan
+Publication: Proceedings of the forty-fourth annual ACM symposium on Theory of computing …
+
+8. A framework for efficient and composable oblivious transfer
+Citations:549
+Authors: C Peikert, V Vaikuntanathan, B Waters
+Publication: Annual international cryptology conference, 554-571
+
+9. Simultaneous hardcore bits and cryptography against memory attacks
+Citations:456
+Authors: A Akavia, S Goldwasser, V Vaikuntanathan
+Publication: Theory of cryptography conference, 474-495
+
+10. Reusable garbled circuits and succinct functional encryption
+Citations:331
+Authors: S Goldwasser, Y Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: Proceedings of the forty-fifth annual ACM symposium on Theory of computing …
+
+11. Attribute-based encryption for circuits
+Citations:329
+Authors: S Gorbunov, V Vaikuntanathan, H Wee
+Publication: Journal of the ACM (JACM) 62 (6), 45
+
+12. How to delegate and verify in public: Verifiable computation from attribute-based encryption
+Citations:315
+Authors: B Parno, M Raykova, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 422-439
+
+13. Fully key-homomorphic encryption, arithmetic circuit ABE and compact garbled circuits
+Citations:234
+Authors: D Boneh, C Gentry, S Gorbunov, S Halevi, V Nikolaenko, G Segev, ...
+Publication: Annual International Conference on the Theory and Applications of …
+
+14. Signature schemes with bounded leakage resilience
+Citations:234
+Authors: J Katz, V Vaikuntanathan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+15. Multiparty computation with low communication, computation and interaction via threshold FHE
+Citations:225
+Authors: G Asharov, A Jain, A López-Alt, E Tromer, V Vaikuntanathan, D Wichs
+Publication: Annual International Conference on the Theory and Applications of …
+
+16. Overcoming the hole in the bucket: Public-key cryptography resilient to continual memory leakage
+Citations:222
+Authors: Z Brakerski, YT Kalai, J Katz, V Vaikuntanathan
+Publication: 2010 IEEE 51st Annual Symposium on Foundations of Computer Science, 501-510
+
+17. Lattice-based FHE as secure as PKE
+Citations:203
+Authors: Z Brakerski, V Vaikuntanathan
+Publication: Proceedings of the 5th conference on Innovations in theoretical computer …
+
+18. Public-key encryption schemes with auxiliary inputs
+Citations:201
+Authors: Y Dodis, S Goldwasser, YT Kalai, C Peikert, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 361-381
+
+19. Functional encryption with bounded collusions via multi-party computation
+Citations:191
+Authors: S Gorbunov, V Vaikuntanathan, H Wee
+Publication: Annual Cryptology Conference, 162-179
+
+20. Securely obfuscating re-encryption
+Citations:180
+Authors: S Hohenberger, GN Rothblum, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 233-252
+
+21. Functional encryption for inner product predicates from learning with errors
+Citations:172
+Authors: S Agrawal, DM Freeman, V Vaikuntanathan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+22. A simple BGN-type cryptosystem from LWE
+Citations:170
+Authors: C Gentry, S Halevi, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+23. A group signature scheme from lattice assumptions
+Citations:164
+Authors: SD Gordon, J Katz, V Vaikuntanathan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+24. Protecting circuits from leakage: the computationally-bounded and noisy cases
+Citations:141
+Authors: S Faust, T Rabin, L Reyzin, E Tromer, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+25. Robustness of the learning with errors assumption
+Citations:139
+Authors: S Goldwasser, YT Kalai, C Peikert, V Vaikuntanathan
+Publication: Tsinghua University Press
+
+26. How to run turing machines on encrypted data
+Citations:137
+Authors: S Goldwasser, YT Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: Annual Cryptology Conference, 536-553
+
+27. Functional encryption: New perspectives and lower bounds
+Citations:137
+Authors: S Agrawal, S Gorbunov, V Vaikuntanathan, H Wee
+Publication: Annual Cryptology Conference, 500-518
+
+28. Computing blindfolded: New developments in fully homomorphic encryption
+Citations:127
+Authors: V Vaikuntanathan
+Publication: 2011 IEEE 52nd Annual Symposium on Foundations of Computer Science, 5-16
+
+29. Indistinguishability obfuscation from functional encryption
+Citations:124
+Authors: N Bitansky, V Vaikuntanathan
+Publication: Journal of the ACM (JACM) 65 (6), 39
+
+30. Predicate encryption for circuits from LWE
+Citations:120
+Authors: S Gorbunov, V Vaikuntanathan, H Wee
+Publication: Annual Cryptology Conference, 503-523
+
+31. Leveled fully homomorphic signatures from standard lattices
+Citations:113
+Authors: S Gorbunov, V Vaikuntanathan, D Wichs
+Publication: Proceedings of the forty-seventh annual ACM symposium on Theory of computing …
+
+32. Secure computation from random error correcting codes
+Citations:112
+Authors: H Chen, R Cramer, S Goldwasser, R De Haan, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+33. Round-optimal password-based authenticated key exchange
+Citations:99
+Authors: J Katz, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 293-310
+
+34. Functional encryption for threshold functions (or fuzzy IBE) from lattices
+Citations:96
+Authors: S Agrawal, X Boyen, V Vaikuntanathan, P Voulgaris, H Wee
+Publication: International Workshop on Public Key Cryptography, 280-297
+
+35. Succinct garbling and indistinguishability obfuscation for RAM programs
+Citations:88
+Authors: R Canetti, J Holmgren, A Jain, V Vaikuntanathan
+Publication: Proceedings of the forty-seventh annual ACM symposium on Theory of computing …
+
+36. Smooth projective hashing and password-based authenticated key exchange from lattices
+Citations:83
+Authors: J Katz, V Vaikuntanathan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+37. From selective to adaptive security in functional encryption
+Citations:82
+Authors: P Ananth, Z Brakerski, G Segev, V Vaikuntanathan
+Publication: Annual Cryptology Conference, 657-677
+
+38. Obfuscation of probabilistic circuits and applications
+Citations:82
+Authors: R Canetti, H Lin, S Tessaro, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 468-497
+
+39. i-Hop Homomorphic Encryption and Rerandomizable Yao Circuits
+Citations:81
+Authors: C Gentry, S Halevi, V Vaikuntanathan
+Publication: Annual Cryptology Conference, 155-172
+
+40. Bounded CCA2-secure encryption
+Citations:80
+Authors: R Cramer, G Hanaoka, D Hofheinz, H Imai, E Kiltz, R Pass, A Shelat, ...
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+41. Adaptive one-way functions and applications
+Citations:77
+Authors: O Pandey, R Pass, V Vaikuntanathan
+Publication: Annual International Cryptology Conference, 57-74
+
+42. {GAZELLE}: A Low Latency Framework for Secure Neural Network Inference
+Citations:70
+Authors: C Juvekar, V Vaikuntanathan, A Chandrakasan
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 1651-1669
+
+43. SHIELD: scalable homomorphic implementation of encrypted data-classifiers
+Citations:69
+Authors: A Khedr, G Gulak, V Vaikuntanathan
+Publication: IEEE Transactions on Computers 65 (9), 2848-2858
+
+44. Indistinguishability obfuscation from DDH-like assumptions on constant-degree graded encodings
+Citations:67
+Authors: H Lin, V Vaikuntanathan
+Publication: 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS), 11-20
+
+45. Construction of a non-malleable encryption scheme from any semantically secure one
+Citations:64
+Authors: R Pass, V Vaikuntanathan
+Publication: Annual International Cryptology Conference, 271-289
+
+46. A tight bound for set disjointness in the message-passing model
+Citations:57
+Authors: M Braverman, F Ellen, R Oshman, T Pitassi, V Vaikuntanathan
+Publication: 2013 IEEE 54th Annual Symposium on Foundations of Computer Science, 668-677
+
+47. Noninteractive statistical zero-knowledge proofs for lattice problems
+Citations:55
+Authors: C Peikert, V Vaikuntanathan
+Publication: Annual International Cryptology Conference, 536-553
+
+48. Time-lock puzzles from randomized encodings
+Citations:52
+Authors: N Bitansky, S Goldwasser, A Jain, O Paneth, V Vaikuntanathan, B Waters
+Publication: Association for Computing Machinery
+
+49. Constrained key-homomorphic PRFs from standard lattice assumptions
+Citations:48
+Authors: Z Brakerski, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 1-30
+
+50. User-controlled data encryption with obfuscated policy
+Citations:46
+Authors: N Chandran, ME Chase, KE Lauter, V Vaikuntanathan
+Publication: US Patent 9,077,525
+
+51. Watermarking cryptographic capabilities
+Citations:45
+Authors: A Cohen, J Holmgren, R Nishimaki, V Vaikuntanathan, D Wichs
+Publication: SIAM Journal on Computing 47 (6), 2157-2202
+
+52. Functional re-encryption and collusion-resistant obfuscation
+Citations:44
+Authors: N Chandran, M Chase, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 404-421
+
+53. How efficient can memory checking be?
+Citations:44
+Authors: C Dwork, M Naor, GN Rothblum, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 503-520
+
+54. On the power of computational secret sharing
+Citations:42
+Authors: V Vinod, A Narayanan, K Srinathan, CP Rangan, K Kim
+Publication: International Conference on Cryptology in India, 162-176
+
+55. Byzantine agreement in the full-information model in O (log n) rounds
+Citations:41
+Authors: M Ben-Or, E Pavlov, V Vaikuntanathan
+Publication: Proceedings of the thirty-eighth annual ACM symposium on Theory of computing …
+
+56. Sieve: Cryptographically enforced access control for user data in untrusted clouds
+Citations:39
+Authors: F Wang, J Mickens, N Zeldovich, V Vaikuntanathan
+Publication: 13th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+57. Efficient homomorphic encryption scheme for bilinear forms
+Citations:37
+Authors: S Halevi, CB Gentry, V Vaikuntanathan
+Publication: US Patent 8,861,716
+
+58. Securely obfuscating re-encryption
+Citations:37
+Authors: S Hohenberger, GN Rothblum, A Shelat, V Vaikuntanathan
+Publication: Journal of cryptology 24 (4), 694-719
+
+59. Circuit-ABE from LWE: unbounded attributes and semi-adaptive security
+Citations:36
+Authors: Z Brakerski, V Vaikuntanathan
+Publication: Annual International Cryptology Conference, 363-384
+
+60. Obfuscating conjunctions under entropic ring LWE
+Citations:36
+Authors: Z Brakerski, V Vaikuntanathan, H Wee, D Wichs
+Publication: Proceedings of the 2016 ACM Conference on Innovations in Theoretical …
+
+61. Anonymous IBE, leakage resilience and circular security from new assumptions
+Citations:33
+Authors: Z Brakerski, A Lombardi, G Segev, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+62. On continual leakage of discrete log representations
+Citations:33
+Authors: S Agrawal, Y Dodis, V Vaikuntanathan, D Wichs
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+63. Information leak in the Chord lookup protocol
+Citations:32
+Authors: CW O'donnell, V Vaikuntanathan
+Publication: Proceedings. Fourth International Conference on Peer-to-Peer Computing, 2004 …
+
+64. Obfuscating Branching Programs Using Black-Box Pseudo-Free Groups.
+Citations:31
+Authors: R Canetti, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2013, 500
+
+65. Relations among notions of non-malleability for encryption
+Citations:31
+Authors: R Pass, A Shelat, V Vaikuntanathan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+66. Efficient password authenticated key exchange via oblivious transfer
+Citations:30
+Authors: R Canetti, D Dachman-Soled, V Vaikuntanathan, H Wee
+Publication: International Workshop on Public Key Cryptography, 449-466
+
+67. Round-optimal password-based authenticated key exchange
+Citations:29
+Authors: J Katz, V Vaikuntanathan
+Publication: Journal of cryptology 26 (4), 714-743
+
+68. Fault-tolerant distributed computing in full-information networks
+Citations:29
+Authors: S Goldwasser, E Pavlov, V Vaikuntanathan
+Publication: 2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06 …
+
+69. Secure private computation services
+Citations:28
+Authors: KE Lauter, M Naehrig, V Vaikuntanathan
+Publication: US Patent App. 13/272,447
+
+70. Private constrained PRFs (and more) from LWE
+Citations:27
+Authors: Z Brakerski, R Tsabary, V Vaikuntanathan, H Wee
+Publication: Theory of Cryptography Conference, 264-302
+
+71. Splinter: Practical private queries on public data
+Citations:27
+Authors: F Wang, C Yun, S Goldwasser, V Vaikuntanathan, M Zaharia
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+72. Inspection resistant memory: architectural support for security from physical examination
+Citations:27
+Authors: J Valamehr, M Chase, S Kamara, A Putnam, D Shumow, ...
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 130-141
+
+73. Improvements to secure computation with penalties
+Citations:26
+Authors: R Kumaresan, V Vaikuntanathan, PN Vasudevan
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+74. Weak verifiable random functions
+Citations:25
+Authors: Z Brakerski, S Goldwasser, GN Rothblum, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 558-576
+
+75. Fuzzy Identity Based Encryption from Lattices.
+Citations:24
+Authors: S Agrawal, X Boyen, V Vaikuntanathan, P Voulgaris, H Wee
+Publication: IACR Cryptology ePrint Archive 2011, 414
+
+76. Chosen-ciphertext secure fully homomorphic encryption
+Citations:23
+Authors: R Canetti, S Raghuraman, S Richelson, V Vaikuntanathan
+Publication: IACR International Workshop on Public Key Cryptography, 213-240
+
+77. Cloud-Assisted Multiparty Computation from Fully Homomorphic Encryption.
+Citations:23
+Authors: A Lopez-Alt, E Tromer, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2011, 663
+
+78. Conditional disclosure of secrets via non-linear reconstruction
+Citations:21
+Authors: T Liu, V Vaikuntanathan, H Wee
+Publication: Annual International Cryptology Conference, 758-790
+
+79. Data processing system
+Citations:21
+Authors: M Hiraki, T Ito
+Publication: US Patent 6,662,084
+
+80. GGH15 beyond permutation branching programs: Proofs, attacks, and candidates
+Citations:20
+Authors: Y Chen, V Vaikuntanathan, H Wee
+Publication: Annual International Cryptology Conference, 577-607
+
+81. Indistinguishability obfuscation: from approximate to exact
+Citations:20
+Authors: N Bitansky, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 67-95
+
+82. Low-complexity cryptographic hash functions
+Citations:19
+Authors: B Applebaum, N Haramaty-Krasne, Y Ishai, E Kushilevitz, ...
+Publication: 8th Innovations in Theoretical Computer Science Conference (ITCS 2017)
+
+83. Security of homomorphic encryption
+Citations:18
+Authors: M Chase, H Chen, J Ding, S Goldwasser, S Gorbunov, J Hoffstein, ...
+Publication: HomomorphicEncryption. org, Redmond WA, Tech. Rep
+
+84. Distributed computing with imperfect randomness
+Citations:18
+Authors: S Goldwasser, M Sudan, V Vaikuntanathan
+Publication: International Symposium on Distributed Computing, 288-302
+
+85. Structure vs. hardness through the obfuscation lens
+Citations:17
+Authors: N Bitansky, A Degwekar, V Vaikuntanathan
+Publication: Annual International Cryptology Conference, 696-723
+
+86. Fast proxy re-encryption for publish/subscribe systems
+Citations:15
+Authors: Y Polyakov, K Rohloff, G Sahu, V Vaikuntanathan
+Publication: ACM Transactions on Privacy and Security (TOPS) 20 (4), 14
+
+87. Computing on the Edge of Chaos: Structure and Randomness in Encrypted Computation.
+Citations:14
+Authors: C Gentry
+Publication: Electronic Colloquium on Computational Complexity (ECCC) 21, 106
+
+88. Breaking the circuit-size barrier in secret sharing
+Citations:13
+Authors: T Liu, V Vaikuntanathan
+Publication: Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …
+
+89. Towards breaking the exponential barrier for general secret sharing
+Citations:12
+Authors: T Liu, V Vaikuntanathan, H Wee
+Publication: Annual International Conference on the Theory and Applications of …
+
+90. On basing private information retrieval on NP-hardness
+Citations:12
+Authors: T Liu, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 372-386
+
+91. 3-message zero knowledge against human ignorance
+Citations:11
+Authors: N Bitansky, Z Brakerski, Y Kalai, O Paneth, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 57-83
+
+92. Secret sharing and statistical zero knowledge
+Citations:11
+Authors: V Vaikuntanathan, PN Vasudevan
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+93. Aggregate pseudorandom functions and connections to learning
+Citations:11
+Authors: A Cohen, S Goldwasser, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 61-89
+
+94. Brief announcement: broadcast in radio networks in the presence of byzantine adversaries
+Citations:11
+Authors: V Vaikuntanathan
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Principles of …
+
+95. Distributed consensus in the presence of sectional faults
+Citations:11
+Authors: S Amitanand, I Sanketh, K Srinathant, V Vinod, CP Rangan
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+96. How to compute on encrypted data
+Citations:10
+Authors: V Vaikuntanathan
+Publication: International Conference on Cryptology in India, 1-15
+
+97. A note on perfect correctness by derandomization
+Citations:9
+Authors: N Bitansky, V Vaikuntanathan
+Publication: Annual International Conference on the Theory and Applications of …
+
+98. Limits on the locality of pseudorandom generators and applications to indistinguishability obfuscation
+Citations:8
+Authors: A Lombardi, V Vaikuntanathan
+Publication: Theory of Cryptography Conference, 119-137
+
+99. Attribute based encryption using lattices
+Citations:8
+Authors: V Vaikuntanathan, P Voulgaris
+Publication: US Patent 8,634,563
+
+100. The Trojan Method in Functional Encryption: From Selective to Adaptive Security, Generically.
+Citations:8
+Authors: P Ananth, Z Brakerski, G Segev, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2014, 917
+
+101. Optimal and player-replaceable consensus with an honest majority
+Citations:7
+Authors: S Micali, V Vaikuntanathan
+Publication: 
+
+102. Fine-grained cryptography
+Citations:7
+Authors: A Degwekar, V Vaikuntanathan, PN Vasudevan
+Publication: Annual International Cryptology Conference, 533-562
+
+103. Brief announcement: Efficient perfectly secure communication over synchronous networks
+Citations:7
+Authors: K Srinathan, V Vinod, CP Rangan
+Publication: Proceedings of the twenty-second annual symposium on Principles of …
+
+104. Device, system and method for fast and secure proxy re-encryption
+Citations:6
+Authors: K Rohloff, V Vaikuntanathan
+Publication: US Patent App. 15/366,850
+
+105. On the non-existence of blockwise 2-local PRGs with applications to indistinguishability obfuscation
+Citations:6
+Authors: A Lombardi, V Vaikuntanathan
+Publication: 
+
+106. Reusable non-interactive secure computation
+Citations:5
+Authors: M Chase, Y Dodis, Y Ishai, D Kraschewski, T Liu, R Ostrovsky, ...
+Publication: Annual International Cryptology Conference, 462-488
+
+107. Computational limitations in robust classification and win-win results
+Citations:5
+Authors: A Degwekar, V Vaikuntanathan
+Publication: arXiv preprint arXiv:1902.01086
+
+108. Zero-knowledge proofs of proximity
+Citations:5
+Authors: I Berman, RD Rothblum, V Vaikuntanathan
+Publication: 9th Innovations in Theoretical Computer Science Conference (ITCS 2018)
+
+109. Protecting circuits from computationally bounded and noisy leakage
+Citations:5
+Authors: S Faust, T Rabin, L Reyzin, E Tromer, V Vaikuntanathan
+Publication: SIAM Journal on Computing 43 (5), 1564-1614
+
+110. Traitor-tracing from LWE made simple and attribute-based
+Citations:4
+Authors: Y Chen, V Vaikuntanathan, B Waters, H Wee, D Wichs
+Publication: Theory of Cryptography Conference, 341-369
+
+111. Indistinguishability obfuscation for RAM programs and succinct randomized encodings
+Citations:4
+Authors: N Bitansky, R Canetti, S Garg, J Holmgren, A Jain, H Lin, R Pass, ...
+Publication: SIAM Journal on Computing 47 (3), 1123-1210
+
+112. Homomorphic Encryption Standard
+Citations:4
+Authors: M Albrecht, M Chase, H Chen, J Ding, S Goldwasser, S Gorbunov, ...
+Publication: 
+
+113. Multikey Fully Homomorphic Encryption and Applications
+Citations:4
+Authors: A López-Alt, E Tromer, V Vaikuntanathan
+Publication: SIAM Journal on Computing 46 (6), 1827-1892
+
+114. Brief announcement: Private channel models in multi-party communication complexity
+Citations:4
+Authors: F Ellen, R Oshman, T Pitassi, V Vaikuntanathan
+Publication: Proc. DISC, 575
+
+115. Non-interactive verifiable, delegated computation
+Citations:4
+Authors: V Vaikuntanathan, P Voulgaris
+Publication: US Patent 8,594,329
+
+116. Overcoming the Worst-Case Curse for Cryptographic Constructions.
+Citations:4
+Authors: S Goldwasser, YT Kalai, RA Popa, V Vaikuntanathan, N Zeldovich
+Publication: IACR Cryptology ePrint Archive 2013, 229
+
+117. Worst-case hardness for LPN and cryptographic hashing via code smoothing
+Citations:3
+Authors: Z Brakerski, V Lyubashevsky, V Vaikuntanathan, D Wichs
+Publication: Annual International Conference on the Theory and Applications of …
+
+118. Attribute based encryption using lattices
+Citations:3
+Authors: V Vaikuntanathan, P Voulgaris
+Publication: US Patent 9,281,944
+
+119. Minimizing the Complexity of Goldreich's Pseudorandom Generator.
+Citations:2
+Authors: A Lombardi, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2017, 277
+
+120. Efficient homomorphic encryption scheme for bilinear forms
+Citations:2
+Authors: S Halevi, CB Gentry, V Vaikuntanathan
+Publication: US Patent 9,252,954
+
+121. From Statistical Zero Knowledge to Secret Sharing.
+Citations:2
+Authors: V Vaikuntanathan, PN Vasudevan
+Publication: IACR Cryptology ePrint Archive 2015, 281
+
+122. One-Round Password-Based Authenticated Key Exchange.
+Citations:2
+Authors: J Katz, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2010, 368
+
+123. Randomized algorithms for reliable broadcast
+Citations:2
+Authors: V Vaikuntanathan
+Publication: Massachusetts Institute of Technology
+
+124. Cryptography resilient to continual memory leakage (2010)
+Citations:2
+Authors: Z Brakerski, Y Kalai, J Katz, V Vaikuntanathan
+Publication: manuscript
+
+125. 3SUM with Preprocessing: Algorithms, Lower Bounds and Cryptographic Applications
+Citations:1
+Authors: A Golovnev, S Guo, T Horel, S Park, V Vaikuntanathan
+Publication: arXiv preprint arXiv:1907.08355
+
+126. Optimized Homomorphic Encryption Solution for Secure Genome-Wide Association Studies.
+Citations:1
+Authors: M Blatt, A Gusev, Y Polyakov, K Rohloff, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2019, 223
+
+127. How to subvert backdoored encryption: security against adversaries that decrypt all ciphertexts
+Citations:1
+Authors: T Horel, S Park, S Richelson, V Vaikuntanathan
+Publication: arXiv preprint arXiv:1802.07381
+
+128. Adversarially Robust Property-Preserving Hash Functions
+Citations:1
+Authors: E Boyle, R LaVigne, V Vaikuntanathan
+Publication: 10th Innovations in Theoretical Computer Science Conference (ITCS 2019)
+
+129. Digital signatures with error polynomials
+Citations:1
+Authors: KE Lauter, E Malmskog, M Naehrig, V Vaikuntanathan
+Publication: US Patent 8,677,135
+
+130. New-Age Cryptography
+Citations:1
+Authors: R Pass, V Vaikuntanathan
+Publication: 
+
+131. Bounded CCA2-Secure Non-Malleable Encryption
+Citations:1
+Authors: R Pass, A Shelat, V Vaikuntanathan
+Publication: 
+
+132. 2-Message Publicly Verifiable WI from (Subexponential) LWE
+Citations:
+Authors: A Lombardi, V Vaikuntanathan, D Wichs
+Publication: 
+
+133. Device, system and method for token based outsourcing of computer programs
+Citations:
+Authors: S Goldwasser, V Vaikuntanathan
+Publication: US Patent App. 15/996,862
+
+134. Systems, devices, and processes for homomorphic encryption
+Citations:
+Authors: A Khedr, G Gulak, V Vaikuntanathan
+Publication: US Patent App. 14/634,787
+
+135. Some Open Problems in Information-Theoretic Cryptography
+Citations:
+Authors: V Vaikuntanathan
+Publication: 37th IARCS Annual Conference on Foundations of Software Technology and …
+
+136. Attribute based encryption using lattices
+Citations:
+Authors: V Vaikuntanathan, P Voulgaris
+Publication: US Patent 9,503,264
+
+137. Computing on Encrypted Data: Theory and Application
+Citations:
+Authors: S Goldwasser, V Vaikuntanathan
+Publication: Massachusetts Institute of Technology Cambridge United States
+
+138. Aggregatable Pseudorandom Functions and Connections to Learning.
+Citations:
+Authors: A Cohen, S Goldwasser, V Vaikuntanathan
+Publication: IACR Cryptology ePrint Archive 2015, 38
+
+139. (Leveled) Fully Homomorphic Signatures from Lattices
+Citations:
+Authors: S Gorbunov, V Vaikuntanathan
+Publication: 
+
+140. Inspection-Resistant Memory Architectures
+Citations:
+Authors: JK Valamehr, M Chase, S Kamara, A Putnam, D Shumow, ...
+Publication: IEEE Micro 33 (3), 48-56
+
+141. New developments in leakage-resilient cryptography
+Citations:
+Authors: V Vaikuntanathan
+Publication: International Workshop on Public Key Cryptography, 283-283
+
+142. i-Hop Homomorphic Encryption Schemes
+Citations:
+Authors: C Gentry, S Halevi, V Vaikuntanathan
+Publication: 
+
+143. Distributed computing with imperfect randomness
+Citations:
+Authors: V Vaikuntanathan
+Publication: Massachusetts Institute of Technology
+
+144. Efficient Perfect Communication over Synchronous Networks (Brief Announcement)
+Citations:
+Authors: K Srinathan, V Vinod, CP Rangan
+Publication: PROCEEDINGS OF THE ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED …
+
+145. INSPECTION-RESISTANT MEMORY ARCHITECTURES
+Citations:
+Authors: T Sherwood, M Chase, S Kamara, A Putnam, D Shumow, ...
+Publication: 
+
+146. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+147. CSAIL Digital Archive Research and Teaching Output of the MIT Community
+Citations:
+Authors: MF Cusumano-Towner, FA Saad, A Lew, VK Mansinghka, K Kawaguchi, ...
+Publication: 
+
+148. DIMACS/Columbia Data Science Institute Workshop on Cryptography for Big Data
+Citations:
+Authors: V Vaikuntanathan, S Kamara, S Garg, A Lysyanskaya, K McKeown, ...
+Publication: 
+
+149. Computer Science and Artificial Intelligence Lab (CSAIL) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+150. Relations Among Notions of Non-malleability for Encryption
+Citations:
+Authors: V Vaikuntanathan
+Publication: 
+
+151. Marks
+Citations:
+Authors: V Vaikuntanathan
+Publication: 
+
+152. Identity-Based Encryption Schemes and Applications
+Citations:
+Authors: S Goldwasser, V Vaikuntanathan
+Publication: 
+
+153. Broadcast in Radio Networks in the presence of Byzantine Adversaries
+Citations:
+Authors: V Vaikuntanathan
+Publication: 
+
+154. Simultaneous Hardcore Bits and Cryptography Against Freezing Attacks
+Citations:
+Authors: A Akavia, S Goldwasser, V Vaikuntanathan
+Publication: 
+

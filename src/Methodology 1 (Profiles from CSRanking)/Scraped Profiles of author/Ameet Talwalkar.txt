@@ -1,0 +1,398 @@
+https://scholar.google.com/citations?hl=en&user=TW7U1W0AAAAJ
+Total Citations = 6665
+
+1. Foundations of Machine Learning
+Citations:1660
+Authors: M Mohri, A Rostamizadeh, A Talwalkar
+Publication: Cambridge, MA: MIT Press
+
+2. Mllib: Machine learning in apache spark
+Citations:1024
+Authors: X Meng, J Bradley, B Yavuz, E Sparks, S Venkataraman, D Liu, ...
+Publication: The Journal of Machine Learning Research 17 (1), 1235-1241
+
+3. A large-scale evaluation of computational protein function prediction
+Citations:592
+Authors: P Radivojac, WT Clark, TR Oron, AM Schnoes, T Wittkop, A Sokolov, ...
+Publication: Nature methods 10 (3), 221
+
+4. MLbase: A Distributed Machine-learning System.
+Citations:274
+Authors: T Kraska, A Talwalkar, JC Duchi, R Griffith, MJ Franklin, MI Jordan
+Publication: Cidr 1, 2.1
+
+5. Hyperband: A novel bandit-based approach to hyperparameter optimization
+Citations:250
+Authors: L Li, K Jamieson, G DeSalvo, A Rostamizadeh, A Talwalkar
+Publication: arXiv preprint arXiv:1603.06560
+
+6. Sampling methods for the Nyström method
+Citations:245
+Authors: S Kumar, M Mohri, A Talwalkar
+Publication: Journal of Machine Learning Research 13 (Apr), 981-1006
+
+7. A scalable bootstrap for massive data
+Citations:237
+Authors: A Kleiner, A Talwalkar, P Sarkar, MI Jordan
+Publication: Journal of the Royal Statistical Society, Series B
+
+8. Large-scale manifold learning
+Citations:195
+Authors: A Talwalkar, S Kumar, H Rowley
+Publication: 2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8
+
+9. Divide-and-Conquer Matrix Factorization
+Citations:174
+Authors: LW Mackey, A Talwalkar, MI Jordan
+Publication: NIPS, 1134-1142
+
+10. MLI: An API for distributed machine learning
+Citations:148
+Authors: ER Sparks, A Talwalkar, V Smith, J Kottalam, X Pan, J Gonzalez, ...
+Publication: 2013 IEEE 13th International Conference on Data Mining, 1187-1192
+
+11. Knowing when you're wrong: building fast and reliable approximate query processing systems
+Citations:141
+Authors: S Agarwal, H Milner, A Kleiner, A Talwalkar, M Jordan, S Madden, ...
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+12. Ensemble nystrom method
+Citations:132
+Authors: S Kumar, M Mohri, A Talwalkar
+Publication: Neural Information Processing Systems
+
+13. The big data bootstrap
+Citations:128
+Authors: A Kleiner, A Talwalkar, P Sarkar, M Jordan
+Publication: International Conference on Machine Learning (ICML)
+
+14. On the impact of kernel approximation on learning accuracy
+Citations:126
+Authors: C Cortes, M Mohri, A Talwalkar
+Publication: Proceedings of the Thirteenth International Conference on Artificial …
+
+15. Joint link prediction and attribute inference using a social-attribute network
+Citations:119
+Authors: NZ Gong, A Talwalkar, L Mackey, L Huang, ECR Shin, E Stefanov, ER Shi, ...
+Publication: ACM Transactions on Intelligent Systems and Technology (TIST) 5 (2), 27
+
+16. Sampling techniques for the Nyström method
+Citations:111
+Authors: S Kumar, M Mohri, A Talwalkar
+Publication: Conference on Artificial Intelligence and Statistics, 304-311
+
+17. Federated multi-task learning
+Citations:96
+Authors: V Smith, CK Chiang, M Sanjabi, AS Talwalkar
+Publication: Advances in Neural Information Processing Systems, 4424-4434
+
+18. Non-stochastic best arm identification and hyperparameter optimization
+Citations:86
+Authors: K Jamieson, A Talwalkar
+Publication: Artificial Intelligence and Statistics, 240-248
+
+19. On sampling-based approximate spectral decomposition
+Citations:83
+Authors: S Kumar, M Mohri, A Talwalkar
+Publication: Proceedings of the 26th annual international conference on machine learning …
+
+20. Automating model search for large scale machine learning
+Citations:81
+Authors: ER Sparks, A Talwalkar, D Haas, MJ Franklin, MI Jordan, T Kraska
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 368-380
+
+21. Automating model search for large scale machine learning
+Citations:81
+Authors: ER Sparks, A Talwalkar, D Haas, MJ Franklin, MI Jordan, T Kraska
+Publication: Proceedings of the Sixth ACM Symposium on Cloud Computing, 368-380
+
+22. Matrix Coherence and the Nystrom Method
+Citations:79
+Authors: A Talwalkar, A Rostamizadeh
+Publication: Conference on Uncertainty in Artificial Intelligence
+
+23. Efficient hyperparameter optimization and infinitely many armed bandits
+Citations:66
+Authors: L Li, KG Jamieson, G DeSalvo, A Rostamizadeh, A Talwalkar
+Publication: arXiv preprint arXiv:1603.06560 8
+
+24. Jointly predicting links and inferring attributes using a social-attribute network (san)
+Citations:62
+Authors: NZ Gong, A Talwalkar, L Mackey, L Huang, ECR Shin, E Stefanov, ...
+Publication: arXiv preprint arXiv:1112.3265
+
+25. Jointly predicting links and inferring attributes using a social-attribute network (san)
+Citations:62
+Authors: NZ Gong, A Talwalkar, L Mackey, L Huang, ECR Shin, E Stefanov, ...
+Publication: arXiv preprint arXiv:1112.3265
+
+26. Large-scale SVD and manifold learning
+Citations:52
+Authors: A Talwalkar, S Kumar, M Mohri, H Rowley
+Publication: The Journal of Machine Learning Research 14 (1), 3129-3152
+
+27. SM a SH: a benchmarking toolkit for human genome variant calling
+Citations:46
+Authors: A Talwalkar, J Liptrap, J Newcomb, C Hartl, J Terhorst, K Curtis, M Bresler, ...
+Publication: Bioinformatics 30 (19), 2787-2795
+
+28. Foundations of machine learning
+Citations:30
+Authors: M Mehryar, R Afshin, T Ameet
+Publication: Lecture Notes in Computer Science (including subseries Lecture Notes in …
+
+29. Paleo: A performance model for deep neural networks
+Citations:29
+Authors: H Qi, ER Sparks, A Talwalkar
+Publication: 
+
+30. Distributed low-rank subspace segmentation
+Citations:29
+Authors: A Talwalkar, L Mackey, Y Mu, SF Chang, MI Jordan
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 3543-3550
+
+31. Distributed matrix completion and robust factorization
+Citations:26
+Authors: L Mackey, A Talwalkar, MI Jordan
+Publication: The Journal of Machine Learning Research 16 (1), 913-960
+
+32. Foundations of Machine Learning. Adaptive computation and machine learning
+Citations:25
+Authors: M Mohri, A Rostamizadeh, A Talwalkar
+Publication: MIT Press 31, 32
+
+33. Can matrix coherence be efficiently and accurately estimated?
+Citations:22
+Authors: M Mohri, A Talwalkar
+Publication: Conference on Artificial Intelligence and Statistics
+
+34. Random search and reproducibility for neural architecture search
+Citations:21
+Authors: L Li, A Talwalkar
+Publication: arXiv preprint arXiv:1902.07638
+
+35. Matrix approximation for large-scale learning
+Citations:21
+Authors: A Talwalkar
+Publication: New York University
+
+36. Predicting links and inferring attributes using a social-attribute network (san)
+Citations:20
+Authors: NZ Gong, L Mackey, A Talwalkar, L Huang, D Song, ECR Shin, ...
+Publication: 
+
+37. Variable importance using decision trees
+Citations:19
+Authors: J Kazemitabar, A Amini, A Bloniarz, AS Talwalkar
+Publication: Advances in Neural Information Processing Systems, 426-435
+
+38. Foundations of Machine Learning (2012)
+Citations:16
+Authors: M Mohri, A Rostamizadeh, A Talwalkar
+Publication: Google Scholar, 63-88
+
+39. Bootstrapping big data
+Citations:16
+Authors: A Kleiner, A Talwalkar, P Sarkar, MI Jordan
+Publication: Advances in neural information processing systems, workshop: Big learning …
+
+40. Sequence kernels for predicting protein essentiality
+Citations:16
+Authors: C Allauzen, M Mohri, A Talwalkar
+Publication: Proceedings of the 25th international conference on Machine learning, 9-16
+
+41. Tupaq: An efficient planner for large-scale predictive analytic queries
+Citations:15
+Authors: ER Sparks, A Talwalkar, MJ Franklin, MI Jordan, T Kraska
+Publication: arXiv preprint arXiv:1502.00068
+
+42. A general bootstrap performance diagnostic
+Citations:15
+Authors: A Kleiner, A Talwalkar, S Agarwal, I Stoica, MI Jordan
+Publication: Proceedings of the 19th ACM SIGKDD international conference on Knowledge …
+
+43. Mlbase: A distributed machine learning wrapper
+Citations:14
+Authors: A Talwalkar, T Kraska, R Griffith, J Duchi, J Gonzalez, D Britz, X Pan, ...
+Publication: NIPS Big Learning Workshop
+
+44. Parle: parallelizing stochastic gradient descent
+Citations:13
+Authors: P Chaudhari, C Baldassi, R Zecchina, S Soatto, A Talwalkar, A Oberman
+Publication: arXiv preprint arXiv:1707.00424
+
+45. Leaf: A benchmark for federated settings
+Citations:11
+Authors: S Caldas, P Wu, T Li, J Konečný, HB McMahan, V Smith, A Talwalkar
+Publication: arXiv preprint arXiv:1812.01097
+
+46. Yggdrasil: An optimized system for training deep decision trees at scale
+Citations:11
+Authors: F Abuzaid, JK Bradley, FT Liang, A Feng, L Yang, M Zaharia, ...
+Publication: Advances in Neural Information Processing Systems, 3817-3825
+
+47. On the convergence of federated optimization in heterogeneous networks
+Citations:8
+Authors: AK Sahu, T Li, M Sanjabi, M Zaheer, A Talwalkar, V Smith
+Publication: arXiv preprint arXiv:1812.06127
+
+48. Changepoint analysis for efficient variant calling
+Citations:7
+Authors: A Bloniarz, A Talwalkar, J Terhorst, MI Jordan, D Patterson, B Yu, ...
+Publication: International Conference on Research in Computational Molecular Biology, 20-34
+
+49. Supervised neighborhoods for distributed nonparametric regression
+Citations:6
+Authors: A Bloniarz, A Talwalkar, B Yu, C Wu
+Publication: Artificial Intelligence and Statistics, 1450-1459
+
+50. Spark meetup: MLbase, distributed machine learning with Spark
+Citations:6
+Authors: E Sparks, A Talwalkar
+Publication: slideshare. net. Spark User Meetup, San Francisco, California. Retrieved 10
+
+51. Expanding the Reach of Federated Learning by Reducing Client Resource Requirements
+Citations:5
+Authors: S Caldas, J Konečny, HB McMahan, A Talwalkar
+Publication: arXiv preprint arXiv:1812.07210
+
+52. WWW 2018
+Citations:5
+Authors: L Li, K Jamieson, G DeSalvo, A Rostamizadeh, A Talwalkar
+Publication: Journal of Machine Learning Research 18 (185), 1-52
+
+53. Model agnostic supervised local explanations
+Citations:5
+Authors: G Plumb, D Molitor, AS Talwalkar
+Publication: Advances in Neural Information Processing Systems, 2515-2524
+
+54. Affinity weighted embedding
+Citations:5
+Authors: J Weston, R Weiss, H Yee
+Publication: arXiv preprint arXiv:1301.4171
+
+55. A scalable bootstrap for massive data. 2011
+Citations:5
+Authors: A Kleiner, A Talwalkar, P Sarkar, MI Jordan
+Publication: arXiv preprint arXiv:1112.5016
+
+56. Provable guarantees for gradient-based meta-learning
+Citations:4
+Authors: M Khodak, MF Balcan, A Talwalkar
+Publication: arXiv preprint arXiv:1902.10644
+
+57. Massively parallel hyperparameter tuning
+Citations:4
+Authors: L Li, K Jamieson, A Rostamizadeh, E Gonina, M Hardt, B Recht, ...
+Publication: arXiv preprint arXiv:1810.05934
+
+58. Spectral embedding methods for manifold learning
+Citations:4
+Authors: AJ Izenman
+Publication: Y. Ma and Y. Fu, Maniforld Learning: Theory and Applications, CRC Press …
+
+59. SysML: The New Frontier of Machine Learning Systems
+Citations:3
+Authors: A Ratner, D Alistarh, G Alonso, P Bailis, S Bird, N Carlini, B Catanzaro, ...
+Publication: arXiv preprint arXiv:1904.03257
+
+60. One-Shot Federated Learning
+Citations:3
+Authors: N Guha, A Talwlkar, V Smith
+Publication: arXiv preprint arXiv:1902.11175
+
+61. SiRen: Leveraging Similar Regions for Efficient and Accurate Variant Calling
+Citations:3
+Authors: K Curtis, A Talwalkar, M Zaharia, A Fox, DA Patterson
+Publication: University of California at Berkeley Berkeley United States
+
+62. Adaptive Gradient-Based Meta-Learning Methods
+Citations:2
+Authors: M Khodak, M Florina-Balcan, A Talwalkar
+Publication: arXiv preprint arXiv:1906.02717
+
+63. Regularizing Black-box Models for Improved Interpretability
+Citations:2
+Authors: G Plumb, M Al-Shedivat, E Xing, A Talwalkar
+Publication: arXiv preprint arXiv:1902.06787
+
+64. Collaborative Filtering as a Case-Study for Model Parallelism on Bulk Synchronous Systems
+Citations:2
+Authors: A Das, I Upadhyaya, X Meng, A Talwalkar
+Publication: Proceedings of the 2017 ACM on Conference on Information and Knowledge …
+
+65. Efficient Hyperparameter Optimization and Infinitely Many Armed Bandits
+Citations:2
+Authors: A Rostamizadeh, A Talwalkar, G DeSalvo, K Jamieson, L Li
+Publication: 
+
+66. Large-scale manifold learning
+Citations:2
+Authors: T Ameet, S Kumar, H Rowley
+Publication: Proc. IEEE Conference on Computer Vision and Pattern Recognition
+
+67. NIPS 2016
+Citations:2
+Authors: L Li, K Jamieson, G DeSalvo, A Rostamizadeh, A Talwalkar, CMCB Trees
+Publication: 
+
+68. Exploiting Reuse in Pipeline-Aware Hyperparameter Tuning
+Citations:1
+Authors: L Li, E Sparks, K Jamieson, A Talwalkar
+Publication: arXiv preprint arXiv:1903.05176
+
+69. Federated Kernelized Multi-Task Learning
+Citations:1
+Authors: S Caldas, V Smith, A Talwalkar
+Publication: SYSML
+
+70. Distributed Pipeline for Genomic Variant Calling
+Citations:1
+Authors: R Xia, S Sheehan, Y Zhang, A Talwalkar, M Zaharia, J Terhorst, M Jordan, ...
+Publication: NIPS Workshop on BIG Learning
+
+71. Very Large-scale Low-rank Approximation
+Citations:1
+Authors: C Cortes, S Kumar, M Mohri, A Talwalkar
+Publication: 
+
+72. Federated Learning: Challenges, Methods, and Future Directions
+Citations:
+Authors: T Li, AK Sahu, A Talwalkar, V Smith
+Publication: arXiv preprint arXiv:1908.07873
+
+73. Learning Fair Representations for Kernel Models
+Citations:
+Authors: Z Tan, S Yeom, M Fredrikson, A Talwalkar
+Publication: arXiv preprint arXiv:1906.11813
+
+74. On the support recovery of marginal regression
+Citations:
+Authors: SJ Kazemitabar, AA Amini, A Talwalkar
+Publication: arXiv preprint arXiv:1903.09488
+
+75. Supervised Local Modeling for Interpretability
+Citations:
+Authors: G Plumb, D Molitor, A Talwalkar
+Publication: arXiv preprint arXiv:1807.02910
+
+76. Reuse in Pipeline-Aware Hyperparameter Tuning
+Citations:
+Authors: L Li, E Sparks, K Jamieson, A Talwalkar
+Publication: 
+
+77. Parallelizing Hyperband for Large-Scale Tuning
+Citations:
+Authors: L Li, K Jamieson, A Rostamizadeh, A Talwalkar
+Publication: 
+
+78. Variable Importance using Decision Trees, Supplementary Material for NIPS 2017 paper
+Citations:
+Authors: J Kazemitabar, AA Amini, A Bloniarz, A Talwalkar
+Publication: 
+
+79. Self-Assessment for BerkeleyX CS190. 1x
+Citations:
+Authors: A Talwalkar
+Publication: Algorithms 2, x1
+

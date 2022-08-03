@@ -1,0 +1,1518 @@
+https://scholar.google.com/citations?hl=en&user=cF6i_goAAAAJ
+Total Citations = 20106
+
+1. StreamIt: A language for streaming applications
+Citations:1359
+Authors: W Thies, M Karczmarek, S Amarasinghe
+Publication: International Conference on Compiler Construction, 179-196
+
+2. The raw microprocessor: A computational fabric for software circuits and general-purpose programs
+Citations:1161
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: IEEE micro 22 (2), 25-35
+
+3. Baring it all to software: The raw machine
+Citations:902
+Authors: E Waingold, M Taylor, V Sarkar, V Lee, W Lee, J Kim, M Frank, P Finch, ...
+Publication: Massachusetts Institute of Technology
+
+4. Maximizing multiprocessor performance with the SUIF compiler
+Citations:733
+Authors: MW Hall, JM Anderson, SP Amarasinghe, BR Murphy, SW Liao, ...
+Publication: Computer 29 (12), 84-89
+
+5. Secure Execution via Program Shepherding.
+Citations:701
+Authors: V Kiriansky, D Bruening, SP Amarasinghe
+Publication: USENIX Security Symposium 92, 84
+
+6. SUIF: An infrastructure for research on parallelizing and optimizing compilers
+Citations:696
+Authors: RP Wilson, RS French, CS Wilson, SP Amarasinghe, JM Anderson, ...
+Publication: ACM Sigplan Notices 29 (12), 31-37
+
+7. Exploiting coarse-grained task, data, and pipeline parallelism in stream programs
+Citations:637
+Authors: MI Gordon, W Thies, S Amarasinghe
+Publication: ACM SIGARCH Computer Architecture News 34 (5), 151-162
+
+8. An infrastructure for adaptive dynamic optimization
+Citations:595
+Authors: D Bruening, T Garnett, S Amarasinghe
+Publication: International Symposium on Code Generation and Optimization, 2003. CGO 2003 …
+
+9. Evaluation of the Raw microprocessor: An exposed-wire-delay architecture for ILP and streams
+Citations:575
+Authors: MB Taylor, W Lee, J Miller, D Wentzlaff, I Bratt, B Greenwald, H Hoffmann, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 2
+
+10. Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
+Citations:537
+Authors: J Ragan-Kelley, C Barnes, A Adams, S Paris, F Durand, S Amarasinghe
+Publication: Acm Sigplan Notices 48 (6), 519-530
+
+11. Exploiting superword level parallelism with multimedia instruction sets
+Citations:476
+Authors: S Larsen, S Amarasinghe
+Publication: Acm Sigplan Notices 35 (5), 145-156
+
+12. Kendo: efficient deterministic multithreading in software
+Citations:413
+Authors: M Olszewski, J Ansel, S Amarasinghe
+Publication: ACM Sigplan Notices 44 (3), 97-108
+
+13. Efficient, transparent, and comprehensive runtime code manipulation
+Citations:405
+Authors: D Bruening, S Amarasinghe
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+14. PetaBricks: a language and compiler for algorithmic choice
+Citations:397
+Authors: J Ansel, C Chan, YL Wong, M Olszewski, Q Zhao, A Edelman, ...
+Publication: ACM Sigplan Notices 44 (6), 38-49
+
+15. A stream compiler for communication-exposed architectures
+Citations:397
+Authors: MI Gordon, W Thies, M Karczmarek, J Lin, AS Meli, AA Lamb, C Leger, ...
+Publication: ACM SIGOPS Operating Systems Review 36 (5), 291-303
+
+16. An Overview of the SUIF Compiler for Scalable Parallel Machines.
+Citations:382
+Authors: SP Amarasinghe, JAM Anderson, MS Lam, CW Tseng
+Publication: PPSC, 662-667
+
+17. An Overview of the SUIF Compiler for Scalable Parallel Machines.
+Citations:382
+Authors: SP Amarasinghe, JAM Anderson, MS Lam, CW Tseng
+Publication: PPSC, 662-667
+
+18. Automatically patching errors in deployed software
+Citations:372
+Authors: JH Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …
+
+19. Space-time scheduling of instruction-level parallelism on a raw machine
+Citations:356
+Authors: W Lee, R Barua, M Frank, D Srikrishna, J Babb, V Sarkar, S Amarasinghe
+Publication: ACM SIGPLAN Notices 33 (11), 46-57
+
+20. Communication optimization and code generation for distributed memory machines
+Citations:346
+Authors: SP Amarasinghe, MS Lam
+Publication: ACM SIGPLAN Notices 28 (6), 126-138
+
+21. Data and computation transformations for multiprocessors
+Citations:338
+Authors: JM Anderson, SP Amarasinghe, MS Lam
+Publication: ACM SIGPLAN Notices 30 (8), 166-178
+
+22. Bidwidth analysis with application to silicon compilation
+Citations:311
+Authors: M Stephenson, J Babb, S Amarasinghe
+Publication: ACM SIGPLAN Notices 35 (5), 108-120
+
+23. Meta optimization: improving compiler heuristics with machine learning
+Citations:283
+Authors: M Stephenson, S Amarasinghe, M Martin, UM O'Reilly
+Publication: ACM SIGPLAN Notices 38 (5), 77-90
+
+24. Opentuner: An extensible framework for program autotuning
+Citations:258
+Authors: J Ansel, S Kamil, K Veeramachaneni, J Ragan-Kelley, J Bosboom, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+25. Array-data flow analysis and its use in array privatization
+Citations:252
+Authors: DE Maydan, SP Amarasinghe, MS Lam
+Publication: Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of …
+
+26. Scalar operand networks: On-chip interconnect for ILP in partitioned architectures
+Citations:249
+Authors: MB Taylor, W Lee, S Amarasinghe, A Agarwal
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+27. Secure execution of a computer program
+Citations:238
+Authors: VL Kiriansky, DL Bruening, SP Amarasinghe
+Publication: US Patent 7,594,111
+
+28. A practical approach to exploiting coarse-grained pipeline parallelism in C programs
+Citations:229
+Authors: W Thies, V Chandrasekhar, S Amarasinghe
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+29. Detecting coarse-grain parallelism using an interprocedural parallelizing compiler
+Citations:201
+Authors: MW Hall, SP Amarasinghe, BR Murphy, SW Liao, MS Lam
+Publication: Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …
+
+30. Decoupling algorithms from schedules for easy optimization of image processing pipelines
+Citations:181
+Authors: J Ragan-Kelley, A Adams, S Paris, M Levoy, S Amarasinghe, F Durand
+Publication: Association for Computing Machinery (ACM)
+
+31. Predicting unroll factors using supervised classification
+Citations:180
+Authors: M Stephenson, S Amarasinghe
+Publication: Proceedings of the international symposium on Code generation and …
+
+32. Digital microfluidics using soft lithography
+Citations:179
+Authors: JP Urbanski, W Thies, C Rhodes, S Amarasinghe, T Thorsen
+Publication: Lab on a Chip 6 (1), 96-104
+
+33. Maps: a compiler-managed memory system for raw machines
+Citations:179
+Authors: R Barua, W Lee, S Amarasinghe, A Agarwal
+Publication: ACM SIGARCH Computer Architecture News 27 (2), 4-15
+
+34. An empirical characterization of stream programs and its implications for language and compiler design
+Citations:169
+Authors: W Thies, S Amarasinghe
+Publication: 2010 19th International Conference on Parallel Architectures and Compilation …
+
+35. Increasing and detecting memory address congruence
+Citations:152
+Authors: S Larsen, E Witchel, S Amarasinghe
+Publication: Proceedings. International Conference on Parallel Architectures and …
+
+36. Design and implementation of a dynamic optimization framework for Windows
+Citations:149
+Authors: D Bruening, E Duesterwald, S Amarasinghe
+Publication: 4th ACM Workshop on Feedback-Directed and Dynamic Optimization (FDDO-4)
+
+37. Parallelizing applications into silicon
+Citations:146
+Authors: J Babb, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: Seventh Annual IEEE Symposium on Field-Programmable Custom Computing …
+
+38. Scalar operand networks
+Citations:141
+Authors: MD Taylor, W Lee, SP Amarasinghe, A Agarwal
+Publication: IEEE Transactions on Parallel and Distributed Systems 16 (2), 145-162
+
+39. A 16-issue multiple-program-counter microprocessor with point-to-point scalar operand network
+Citations:134
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: 2003 IEEE International Solid-State Circuits Conference, 2003. Digest of …
+
+40. Abstraction layers for scalable microfluidic biocomputing
+Citations:127
+Authors: W Thies, JP Urbanski, T Thorsen, S Amarasinghe
+Publication: Natural Computing 7 (2), 255-275
+
+41. Convergent scheduling
+Citations:127
+Authors: W Lee, D Puppin, S Swenson, S Amarasinghe
+Publication: 35th Annual IEEE/ACM International Symposium on Microarchitecture, 2002 …
+
+42. Language and compiler support for stream programs
+Citations:124
+Authors: WF Thies
+Publication: Massachusetts Institute of Technology
+
+43. Hot pages: Software caching for raw microprocessors
+Citations:114
+Authors: CA Moritz, M Frank, MM Frank, W Lee, S Amarasinghe
+Publication: 
+
+44. Constraint injection system for immunizing software programs against vulnerabilities and attacks
+Citations:112
+Authors: SP Amarasinghe, B Chandramohan, C Renert, DL Bruening, VL Kiriansky, ...
+Publication: US Patent 7,945,958
+
+45. Exascale software study: Software challenges in extreme scale systems
+Citations:110
+Authors: S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, E Elnohazy, ...
+Publication: DARPA IPTO, Air Force Research Labs, Tech. Rep, 1-153
+
+46. Compiler support for scalable and efficient memory systems
+Citations:109
+Authors: R Barua, W Lee, S Arnarasinghe, A Agarwal
+Publication: IEEE Transactions on Computers 50 (11), 1234-1247
+
+47. Secure execution of a computer program using a code cache
+Citations:108
+Authors: DL Bruening, VL Kiriansky, SP Amarasinghe
+Publication: US Patent 7,603,704
+
+48. The RAW compiler project
+Citations:107
+Authors: A Agarwal, S Amarasinghe, R Barua, M Frank, W Lee, V Sarkar, ...
+Publication: Proceedings of the Second SUIF Compiler Workshop, Stanford, CA
+
+49. Transparent dynamic instrumentation
+Citations:101
+Authors: D Bruening, Q Zhao, S Amarasinghe
+Publication: ACM SIGPLAN Notices 47 (7), 133-144
+
+50. Language and compiler support for auto-tuning variable-accuracy algorithms
+Citations:101
+Authors: J Ansel, YL Wong, C Chan, M Olszewski, A Edelman, S Amarasinghe
+Publication: International Symposium on Code Generation and Optimization (CGO 2011), 85-96
+
+51. Interprocedural analysis for parallelization
+Citations:98
+Authors: MW Hall, BR Murphy, SP Amarasinghe, SW Liao, MS Lam
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 61-80
+
+52. Cache aware optimization of stream programs
+Citations:94
+Authors: J Sermulins, W Thies, R Rabbah, S Amarasinghe
+Publication: ACM SIGPLAN Notices 40 (7), 115-126
+
+53. Memory bank disambiguation using modulo unrolling for Raw machines
+Citations:94
+Authors: R Barua, W Lee, S Amarasinghe, A Agarwal
+Publication: Proceedings. Fifth International Conference on High Performance Computing …
+
+54. Portable performance on heterogeneous architectures
+Citations:86
+Authors: PM Phothilimthana, J Ansel, J Ragan-Kelley, S Amarasinghe
+Publication: ACM SIGPLAN Notices 48 (4), 431-444
+
+55. A unified framework for schedule and storage optimization
+Citations:85
+Authors: W Thies, F Vivien, J Sheldon, S Amarasinghe
+Publication: ACM SIGPLAN Notices 36 (5), 232-242
+
+56. Exascale software study: Software challenges in extreme scale systems
+Citations:82
+Authors: V Sarkar, S Amarasinghe, D Campbell, W Carlson, A Chien, W Dally, ...
+Publication: ExaScale Computing Study, DARPA IPTO 1
+
+57. The suif compiler system: a parallelizing and optimizing research compiler
+Citations:79
+Authors: R Wilson, R French, C Wilson, S Amarasinghe, J Anderson, S Tjiang, ...
+Publication: Stanford University Technical Report No. CSL-TR-94-620
+
+58. Interprocedural parallelization analysis in SUIF
+Citations:78
+Authors: MW Hall, SP Amarasinghe, BR Murphy, SW Liao, MS Lam
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (4), 662-731
+
+59. Phased scheduling of stream programs
+Citations:77
+Authors: M Karczmarek, W Thies, S Amarasinghe
+Publication: ACM SIGPLAN Notices 38 (7), 103-112
+
+60. Parallelizing compiler techniques based on linear inequalities
+Citations:72
+Authors: SP Amarasinghe
+Publication: Stanford University
+
+61. Dynamic native optimization of interpreters
+Citations:70
+Authors: GT Sullivan, DL Bruening, I Baron, T Garnett, S Amarasinghe
+Publication: Proceedings of the 2003 workshop on Interpreters, virtual machines and …
+
+62. Autotuning algorithmic choice for input sensitivity
+Citations:69
+Authors: Y Ding, J Ansel, K Veeramachaneni, X Shen, UM O’Reilly, ...
+Publication: ACM SIGPLAN Notices 50 (6), 379-390
+
+63. StreamIt: A Compiler for Streaming ApplicationsЃ
+Citations:69
+Authors: W Thies, M Karczmarek, M Gordon, D Maze, J Wong, H Hoffmann, ...
+Publication: 
+
+64. Umbra: Efficient and scalable memory shadowing
+Citations:65
+Authors: Q Zhao, D Bruening, S Amarasinghe
+Publication: Proceedings of the 8th annual IEEE/ACM international symposium on Code …
+
+65. Weld: A common runtime for high performance data analytics
+Citations:64
+Authors: S Palkar, JJ Thomas, A Shanbhag, D Narayanan, H Pirk, M Schwarzkopf, ...
+Publication: Conference on Innovative Data Systems Research (CIDR)
+
+66. A lightweight streaming layer for multicore execution
+Citations:62
+Authors: D Zhang, QJ Li, R Rabbah, S Amarasinghe
+Publication: ACM SIGARCH Computer Architecture News 36 (2), 18-27
+
+67. Teleport messaging for distributed stream programs
+Citations:62
+Authors: W Thies, M Karczmarek, J Sermulins, R Rabbah, S Amarasinghe
+Publication: Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of …
+
+68. Flexcache: A framework for flexible compiler generated data caching
+Citations:61
+Authors: CA Moritz, MI Frank, S Amarasinghe
+Publication: International Workshop on Intelligent Memory Systems, 135-146
+
+69. Multiprocessors from a software perspective
+Citations:61
+Authors: SP Amarasinghe, JM Anderson, CS Wilson, SW Liao, BR Murphy, ...
+Publication: IEEE micro 16 (3), 52-61
+
+70. Dynamic cache contention detection in multi-threaded applications
+Citations:60
+Authors: Q Zhao, D Koh, S Raza, D Bruening, WF Wong, S Amarasinghe
+Publication: ACM SIGPLAN Notices 46 (7), 27-38
+
+71. The tensor algebra compiler
+Citations:57
+Authors: F Kjolstad, S Kamil, S Chou, D Lugato, S Amarasinghe
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 77
+
+72. Linear analysis and optimization of stream programs
+Citations:57
+Authors: AA Lamb, W Thies, S Amarasinghe
+Publication: ACM SIGPLAN Notices 38 (5), 12-25
+
+73. Secure execution of a computer program
+Citations:56
+Authors: VL Kiriansky, DL Bruening, SP Amarasinghe
+Publication: US Patent 7,886,148
+
+74. 0-touch and 1-touch techniques for improving the availability of computer programs under protection without compromising security
+Citations:56
+Authors: S Mantripragada, T Garnett, D Bruening, V Kiriansky, B Chandramohan, ...
+Publication: US Patent 7,735,136
+
+75. Compiler techniques for scalable performance of stream programs on multicore architectures
+Citations:51
+Authors: MI Gordon, S Amarasinghe
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+76. Computer-aided design for microfluidic chips based on multilayer soft lithography
+Citations:50
+Authors: N Amin, W Thies, S Amarasinghe
+Publication: 2009 IEEE International Conference on Computer Design, 2-9
+
+77. How to do a million watchpoints: Efficient debugging using dynamic instrumentation
+Citations:50
+Authors: Q Zhao, R Rabbah, S Amarasinghe, L Rudolph, WF Wong
+Publication: International Conference on Compiler Construction, 147-162
+
+78. Language and compiler design for streaming applications
+Citations:50
+Authors: S Amarasinghe, M Karczmarek, J Lin, D Maze, RM Rabbah, W Thies
+Publication: International Journal of Parallel Programming 33 (2-3), 261-278
+
+79. MPEG-2 decoding in a stream programming language
+Citations:47
+Authors: M Drake, H Hoffmann, R Rabbah, S Amarasinghe
+Publication: Proceedings 20th IEEE International Parallel & Distributed Processing …
+
+80. Maintaining consistency and bounding capacity of software code caches
+Citations:47
+Authors: D Bruening, S Amarasinghe
+Publication: Proceedings of the international symposium on Code generation and …
+
+81. Softspec: Software-based speculative parallelism
+Citations:45
+Authors: D Bruening, S Devabhaktuni, S Amarasinghe
+Publication: In 3rd ACM Workshop on Feedback-Directed and Dynamic Optimization (FDDO-3
+
+82. Evaluation of IVR data collection UIs for untrained rural users
+Citations:43
+Authors: A Lerer, M Ward, S Amarasinghe
+Publication: Proceedings of the first ACM symposium on computing for development, 2
+
+83. Searching the world wide web in low-connectivity communities
+Citations:40
+Authors: W Thies, J Prevost, T Mahtab, G Cuevas, S Shakhshir, A Artola, B Vo, ...
+Publication: Proceedings of WWW 2
+
+84. Dynamic expressivity with static optimization for streaming languages
+Citations:38
+Authors: R Soulé, MI Gordon, S Amarasinghe, R Grimm, M Hirzel
+Publication: Proceedings of the 7th ACM international conference on Distributed event …
+
+85. Siblingrivalry: online autotuning through local competitions
+Citations:38
+Authors: J Ansel, M Pacula, YL Wong, C Chan, M Olszewski, UM O'Reilly, ...
+Publication: Proceedings of the 2012 international conference on Compilers, architectures …
+
+86. Adaptive cache sizing based on monitoring of regenerated and replaced cache entries
+Citations:36
+Authors: DL Bruening, SP Amarasinghe
+Publication: US Patent 7,478,218
+
+87. Optimizing stream programs using linear state space analysis
+Citations:35
+Authors: S Agrawal, W Thies, S Amarasinghe
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+88. Genetic programming applied to compiler heuristic optimization
+Citations:35
+Authors: M Stephenson, UM O’Reilly, MC Martin, S Amarasinghe
+Publication: European conference on genetic programming, 238-253
+
+89. Autotuning multigrid with petabricks
+Citations:34
+Authors: C Chan, J Ansel, YL Wong, S Amarasinghe, A Edelman
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+90. Efficient pipelining of nested loops: unroll-and-squash
+Citations:32
+Authors: D Petkov, R Harr, S Amarasinghe
+Publication: Proceedings 16th International Parallel and Distributed Processing Symposium …
+
+91. Simit: A language for physical simulation
+Citations:31
+Authors: F Kjolstad, S Kamil, J Ragan-Kelley, DIW Levin, S Sueda, D Chen, ...
+Publication: ACM Transactions on Graphics (TOG) 35 (2), 20
+
+92. Detection of false sharing using machine learning
+Citations:30
+Authors: S Jayasena, S Amarasinghe, A Abeyweera, G Amarasinghe, H De Silva, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+93. Ubiquitous memory introspection
+Citations:30
+Authors: Q Zhao, R Rabbah, S Amarasinghe, L Rudolph, WF Wong
+Publication: Proceedings of the International Symposium on Code Generation and …
+
+94. DAWG: A defense against cache timing attacks in speculative execution processors
+Citations:29
+Authors: V Kiriansky, I Lebedev, S Amarasinghe, S Devadas, J Emer
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+95. Exploiting vector parallelism in software pipelined loops
+Citations:29
+Authors: S Larsen, R Rabbah, S Amarasinghe
+Publication: 38th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'05 …
+
+96. An overview of the SUIF compiler system
+Citations:29
+Authors: R Wilson, R French, C Wilson, S Amarasinghe, J Anderson, S Tjiang, ...
+Publication: Unpublished manuscript, Stanford University
+
+97. Unified compilation techniques for shared and distributed address space machines
+Citations:28
+Authors: CW Tseng, JM Anderson, SP Amarasinghe, MS Lam
+Publication: International Conference on Supercomputing, 67-76
+
+98. An audio wiki for publishing user-generated content in the developing world
+Citations:26
+Authors: P Kotkar, W Thies, S Amarasinghe
+Publication: HCI for Community and International Development (Workshop at CHI 2008 …
+
+99. Adaptive cache sizing by utilizing regenerative entries
+Citations:22
+Authors: DL Bruening, SP Amarasinghe
+Publication: US Patent 7,856,531
+
+100. Strength reduction of integer division and modulo operations
+Citations:22
+Authors: J Sheldon, W Lee, B Greenwald, S Amarasinghe
+Publication: International Workshop on Languages and Compilers for Parallel Computing …
+
+101. Efficient memory shadowing for 64-bit architectures
+Citations:21
+Authors: Q Zhao, D Bruening, S Amarasinghe
+Publication: ACM Sigplan Notices 45 (8), 93-102
+
+102. Techniques for increasing and detecting memory alignment
+Citations:21
+Authors: S Larsen, E Witchel, S Amarasinghe
+Publication: 
+
+103. Making caches work for graph analytics
+Citations:20
+Authors: Y Zhang, V Kiriansky, C Mendis, S Amarasinghe, M Zaharia
+Publication: 2017 IEEE International Conference on Big Data (Big Data), 293-302
+
+104. Automating the construction of a complier heuristics using machine learning
+Citations:20
+Authors: MW Stephenson
+Publication: Massachusetts Institute of Technology
+
+105. Architectures, Languages and Compilers for the Streaming Domain
+Citations:20
+Authors: S Amarasinghe, B Thies
+Publication: Tutorial at the 12th Annual International Conference on Parallel …
+
+106. Decoupling algorithms from the organization of computation for high performance image processing
+Citations:19
+Authors: JM Ragan-Kelley
+Publication: Massachusetts Institute of Technology
+
+107. A productive programming environment for stream computing
+Citations:19
+Authors: K Kuo, R Rabbah, S Amarasinghe
+Publication: Second Workshop on Productivity and Performance in High-End Computing, 35-44
+
+108. Aikido: accelerating shared data dynamic analyses
+Citations:18
+Authors: M Olszewski, Q Zhao, D Koh, J Ansel, S Amarasinghe
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 173-184
+
+109. StreamJIT: a commensal compiler for high-performance stream programming
+Citations:17
+Authors: J Bosboom, S Rajadurai, WF Wong, S Amarasinghe
+Publication: ACM SIGPLAN Notices 49 (10), 177-195
+
+110. Distributed halide
+Citations:16
+Authors: T Denniston, S Kamil, S Amarasinghe
+Publication: ACM SIGPLAN Notices 51 (8), 5
+
+111. Weld: Rethinking the interface between data-intensive applications
+Citations:15
+Authors: S Palkar, J Thomas, D Narayanan, A Shanbhag, R Palamuttam, H Pirk, ...
+Publication: arXiv preprint arXiv:1709.06416
+
+112. Optimizing indirect memory references with milk
+Citations:15
+Authors: V Kiriansky, Y Zhang, S Amarasinghe
+Publication: 2016 International Conference on Parallel Architecture and Compilation …
+
+113. Programmable microfluidics
+Citations:15
+Authors: WB Thies, JP Urbanski, M Cooper, D Wentzlaff, T Thorsen, ...
+Publication: presented at Stanford University
+
+114. Secure execution environment via program shepherding
+Citations:15
+Authors: VL Kiriansky
+Publication: Massachusetts Institute of Technology
+
+115. Halide: decoupling algorithms from schedules for high-performance image processing
+Citations:14
+Authors: J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...
+Publication: Communications of the ACM 61 (1), 106-115
+
+116. Constraint injection system for immunizing software programs against vulnerabilities and attacks
+Citations:14
+Authors: SP Amarasinghe, B Chandramohan, C Renert, DL Bruening, V Kiriansky, ...
+Publication: US Patent 8,656,497
+
+117. Multicore Performance Optimization Using Partner Cores.
+Citations:14
+Authors: E Lau, JE Miller, I Choi, D Yeung, SP Amarasinghe, A Agarwal
+Publication: HotPar
+
+118. Scaling deterministic multithreading
+Citations:14
+Authors: M Olszewski, J Ansel, S Amarasinghe
+Publication: 2nd WoDet
+
+119. Multicores from the compiler's perspective: A blessing or a curse?
+Citations:14
+Authors: S Amarasinghe
+Publication: International Symposium on Code Generation and Optimization, 137
+
+120. Suds: Primitive mechanisms for memory dependence speculation
+Citations:14
+Authors: M Frank, CA Moritz, B Greenwald, S Amarasinghe, A Agarwal
+Publication: MIT/LCS Technical Memo MIT-LCS-TM-591
+
+121. A step towards unifying schedule and storage optimization
+Citations:13
+Authors: W Thies, F Vivien, S Amarasinghe
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 29 (6), 34
+
+122. A Software Framework for Supporting General Purpose Applications on Raw Computation Fabrics
+Citations:13
+Authors: M Frank, W Lee, S Amarasinghe
+Publication: 
+
+123. Maps: a compiler-managed memory system for software-exposed architectures
+Citations:13
+Authors: RK Barua
+Publication: Massachusetts Institute of Technology
+
+124. Helium: lifting high-performance stencil kernels from stripped x86 binaries to halide DSL code
+Citations:12
+Authors: C Mendis, J Bosboom, K Wu, S Kamil, J Ragan-Kelley, S Paris, Q Zhao, ...
+Publication: ACM SIGPLAN Notices 50 (6), 391-402
+
+125. A common machine language for grid-based architectures
+Citations:12
+Authors: W Thies, M Karczmarek, M Gordon, D Maze, J Wong, H Hoffmann, ...
+Publication: ACM SIGARCH Computer Architecture News 30 (3), 13
+
+126. 0-touch and 1-touch techniques for improving the availability of computer programs under protection without compromising security
+Citations:11
+Authors: S Mantripragada, T Garnett, DL Bruening, V Kiriansky, B Chandramohan, ...
+Publication: US Patent 8,171,548
+
+127. Petabricks: a language and compiler based on autotuning
+Citations:11
+Authors: S Amarasinghe
+Publication: Proceedings of the 6th International Conference on High Performance and …
+
+128. Abstraction layers for scalable microfluidic biocomputers
+Citations:11
+Authors: W Thies, JP Urbanski, T Thorsen, S Amarasinghe
+Publication: International Workshop on DNA-Based Computers, 308-323
+
+129. GraphIt: A High-Performance DSL for Graph Analytics
+Citations:10
+Authors: Y Zhang, M Yang, R Baghdadi, S Kamil, J Shun, S Amarasinghe
+Publication: arXiv preprint arXiv:1805.00923
+
+130. A common backend for hardware acceleration on FPGA
+Citations:10
+Authors: E Del Sozzo, R Baghdadi, S Amarasinghe, MD Santambrogio
+Publication: 2017 IEEE International Conference on Computer Design (ICCD), 427-430
+
+131. Hyperparameter tuning in bandit-based adaptive operator selection
+Citations:10
+Authors: M Pacula, J Ansel, S Amarasinghe, UM O’Reilly
+Publication: European Conference on the Applications of Evolutionary Computation, 73-82
+
+132. Language and compiler design for streaming applications
+Citations:10
+Authors: W Thies, MI Gordon, M Karczmarek, J Lin, D Maze, RM Rabbah, ...
+Publication: 18th International Parallel and Distributed Processing Symposium, 2004 …
+
+133. Adapting convergent scheduling using machine-learning
+Citations:10
+Authors: D Puppin, M Stephenson, S Amarasinghe, M Martin, UM O’Reilly
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 17-31
+
+134. Execution model enforcement via program shepherding
+Citations:10
+Authors: V Kiriansky, D Bruening, S Amarasinghe
+Publication: LCS Technical Memos
+
+135. SUDS: Automatic parallelization for Raw processors
+Citations:10
+Authors: MI Frank
+Publication: Massachusetts Institute of Technology
+
+136. Phased computation graphs in the polyhedral model
+Citations:10
+Authors: W Thies, J Lin, S Amarasinghe
+Publication: Rapport technique LCS-TM-630, MIT Laboratory for Computer Science, Cambridge …
+
+137. Gigabit ip routing on raw
+Citations:10
+Authors: G Chuvpilo, D Wentzlaff, S Amarasinghe
+Publication: Proceedings of the 8th International Symposium on High-Performance Computer …
+
+138. The Raw processor: A composeable 32-bit fabric for embedded and general purpose computing
+Citations:10
+Authors: M Taylor, J Kim, J Miller, F Ghodrat, B Greenwald, P Johnson, W Lee, ...
+Publication: Proceedings of HotChips 13
+
+139. File transfer using standard blocks and standard-block identifiers
+Citations:9
+Authors: M Aasted, S Meera, SP Amarasinghe, T Garnett
+Publication: US Patent 9,235,577
+
+140. Tiled multicore processors
+Citations:9
+Authors: MB Taylor, W Lee, JE Miller, D Wentzlaff, I Bratt, B Greenwald, ...
+Publication: Multicore Processors and Systems, 1-33
+
+141. Providing Web search capability for low-connectivity communities
+Citations:9
+Authors: L Levison, W Thies, S Amarasinghe
+Publication: IEEE 2002 International Symposium on Technology and Society (ISTAS'02 …
+
+142. Evaluating end-to-end optimization for data analytics applications in weld
+Citations:8
+Authors: S Palkar, J Thomas, D Narayanan, P Thaker, R Palamuttam, P Negi, ...
+Publication: Proceedings of the VLDB Endowment 11 (9), 1002-1015
+
+143. Optimizing cache performance for graph analytics
+Citations:8
+Authors: Y Zhang, V Kiriansky, C Mendis, M Zaharia, S Amarasinghe
+Publication: arXiv preprint arXiv:1608.01362
+
+144. Compilation techniques for short-vector instructions
+Citations:8
+Authors: S Larsen
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+145. A theoretical and practical approach to instruction scheduling on spatial architectures
+Citations:8
+Authors: S Amarasinghe, DR Karger, W Lee, VS Mirrokni
+Publication: Technical Report MIT-LCS-TM-635, MIT
+
+146. Tiramisu: A polyhedral compiler for expressing fast and portable code
+Citations:7
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, A Akkas, Y Zhang, ...
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+147. LQCD SciDAC-4 Project
+Citations:7
+Authors: PE Shanahan, D Trewartha, W Detmold, S Chou, F Kjolstad, ...
+Publication: Phys. Rev. D 97 (054513), 094506
+
+148. Baring it all to software: The raw machine
+Citations:7
+Authors: EW Michael, M Taylor, V Sarkar, W Lee, V Lee, J Kim, M Frank, P Finch, ...
+Publication: IEEE Computer
+
+149. Graphit: A high-performance graph dsl
+Citations:6
+Authors: Y Zhang, M Yang, R Baghdadi, S Kamil, J Shun, S Amarasinghe
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 121
+
+150. An efficient evolutionary algorithm for solving incrementally structured problems
+Citations:6
+Authors: J Ansel, M Pacula, S Amarasinghe, UM O'Reilly
+Publication: Proceedings of the 13th annual conference on Genetic and evolutionary …
+
+151. Getting Performance out of Multiprocessors with the SUIF Compiler
+Citations:6
+Authors: MW Hall, JM Anderson, SP Amarasinghe, BR Murphy, SW Liao, ...
+Publication: IEEE Computer
+
+152. Interprocedural parallelization analysis: Preliminary results
+Citations:6
+Authors: MW Hall, SP Amarasinghe, BR Murphy, SW Liao, MS Lam
+Publication: Computer
+
+153. The three pillars of machine programming
+Citations:5
+Authors: J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...
+Publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …
+
+154. Distributed functional programming in Scheme
+Citations:5
+Authors: A Schwendner
+Publication: Massachusetts Institute of Technology
+
+155. Mapping stream programs into the compressed domain
+Citations:5
+Authors: W Thies, S Hall, S Amarasinghe
+Publication: 
+
+156. Scalar Operand Networks: Design, Implementation, and Analysis
+Citations:5
+Authors: MB Taylor, W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+157. A graph editing framework for the StreamIt language
+Citations:5
+Authors: JC Reyes
+Publication: Massachusetts Institute of Technology
+
+158. The StreamIt development tool: A programming environment for StreamIt
+Citations:5
+Authors: KS Kuo
+Publication: Massachusetts Institute of Technology
+
+159. The multiprocessor as a general-purpose processor: a software perspective
+Citations:5
+Authors: SP Amarasinghe, JM Anderson, CS Wilson, SW Liao, RS French, ...
+Publication: IEEE Micro 16 (3)
+
+160. Gloss: Seamless live reconfiguration and reoptimization of stream programs
+Citations:4
+Authors: S Rajadurai, J Bosboom, WF Wong, S Amarasinghe
+Publication: ACM SIGPLAN Notices 53 (2), 98-112
+
+161. Format abstraction for sparse tensor algebra compilers
+Citations:4
+Authors: S Chou, F Kjolstad, S Amarasinghe
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 123
+
+162. Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks
+Citations:4
+Authors: C Mendis, A Renda, S Amarasinghe, M Carbin
+Publication: arXiv preprint arXiv:1808.07412
+
+163. Tiramisu: A code optimization framework for high performance systems
+Citations:4
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, S Kamil, ...
+Publication: arXiv preprint arXiv:1804.10694
+
+164. (How) can programmers conquer the multicore menace?
+Citations:4
+Authors: S Amarasinghe
+Publication: Proceedings of the 17th international conference on Parallel architectures …
+
+165. The looming software crisis due to the multicore menace
+Citations:4
+Authors: S Amarasinghe
+Publication: lecture, Nati’l Science Foundation
+
+166. Stream programming for image and video compression
+Citations:4
+Authors: MH Drake
+Publication: Massachusetts Institute of Technology
+
+167. Method and apparatus for copying/moving data on optical recording medium
+Citations:4
+Authors: SJ Cho
+Publication: US Patent 6,975,567
+
+168. High-Productivity Stream Programming For High-Performance Systems
+Citations:4
+Authors: R Rabbah, B Thies, M Gordon, J Sermulins, S Amarasinghe
+Publication: Proceedings of the 9th Annual High Performance Embedded Computing Workshop …
+
+169. The TEK Search Engine
+Citations:4
+Authors: L Levison, B Thies, S Amarasinghe
+Publication: Position paper at the Development by design workshop
+
+170. Overview of an interprocedural automatic parallelization system
+Citations:4
+Authors: M Hall, B Murphy, S Amarasinghe, SW Liao, M Lam
+Publication: Fifth International Workshop on Compilers for Parallel Computers, 570-579
+
+171. A unified backend for targeting fpgas from dsls
+Citations:3
+Authors: E Del Sozzo, R Baghdadi, S Amarasinghe, MD Santambrogio
+Publication: 2018 IEEE 29th International Conference on Application-specific Systems …
+
+172. Cimple: instruction and memory level parallelism
+Citations:3
+Authors: V Kiriansky, H Xu, M Rinard, S Amarasinghe
+Publication: arXiv preprint arXiv:1807.01624
+
+173. taco: A tool to generate tensor algebra kernels
+Citations:3
+Authors: F Kjolstad, S Chou, D Lugato, S Kamil, S Amarasinghe
+Publication: Proceedings of the 32nd IEEE/ACM International Conference on Automated …
+
+174. Zettabricks: A language compiler and runtime system for anyscale computing
+Citations:3
+Authors: S Amarasinghe
+Publication: Massachusetts Inst. of Technology (MIT), Cambridge, MA (United States)
+
+175. Manipulating lossless video in the compressed domain
+Citations:3
+Authors: W Thies, S Hall, S Amarasinghe
+Publication: Proceedings of the 17th ACM international conference on Multimedia, 331-340
+
+176. A hybrid static/dynamic approach to scheduling stream programs
+Citations:3
+Authors: C Tan
+Publication: Massachusetts Institute of Technology
+
+177. Abstraction layers for scalable microfluidic biocomputers (Extended version)
+Citations:3
+Authors: W Thies, JP Urbanski, T Thorsen, S Amarasinghe
+Publication: 
+
+178. Ubiquitous stream programming to facilitate the migration to multicore architectures
+Citations:3
+Authors: M Drake, D Zhang, M Gordon, J Sermulins, W Thies, A Dimock, R Rabbah, ...
+Publication: Proc. STMCS First Workshop on Software Tools for Multi-Core Systems
+
+179. Collaborative compilation
+Citations:3
+Authors: BR Wagner
+Publication: Massachusetts Institute of Technology
+
+180. Convergent scheduling
+Citations:3
+Authors: D Puppin, M Stephenson, W Lee, S Amarasinghe
+Publication: The Journal of Instruction Level Parallelism 6 (1), 1-23
+
+181. An API for dynamic partial evaluation under DynamoRIO
+Citations:3
+Authors: C Leger
+Publication: Massachusetts Institute of Technology
+
+182. Searching the world wide web in low-connectivity communities
+Citations:3
+Authors: WL Levison, W Thies, S Amarasinghe
+Publication: 2002 International Symposium on Technology and Society
+
+183. The raw microprocessor
+Citations:3
+Authors: M Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: IEEE Micro, Apr
+
+184. Spatial instruction scheduling for raw machines
+Citations:3
+Authors: SM Swenson
+Publication: Massachusetts Institute of Technology
+
+185. Maximizing Multiprocessor Performance with the SUIF Compiler
+Citations:3
+Authors: MWHJM Anderson, SP Amarasinghe, BR Murphy, SW Liao, E Bugnion, ...
+Publication: IEEE Computer, December
+
+186. Cimple: instruction and memory level parallelism: a DSL for uncovering ILP and MLP
+Citations:2
+Authors: V Kiriansky, H Xu, M Rinard, S Amarasinghe
+Publication: Proceedings of the 27th International Conference on Parallel Architectures …
+
+187. goSLP: globally optimized superword level parallelism framework
+Citations:2
+Authors: C Mendis, S Amarasinghe
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 110
+
+188. Sparse Tensor Algebra Optimizations with Workspaces
+Citations:2
+Authors: F Kjolstad, P Ahrens, S Kamil, S Amarasinghe
+Publication: arXiv preprint arXiv:1802.10574
+
+189. Self-defending software: Automatically patching security vulnerabilities
+Citations:2
+Authors: J Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...
+Publication: Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)
+
+190. Computer-aided design for multilayer microfluidic chips
+Citations:2
+Authors: N Amin
+Publication: Massachusetts Institute of Technology
+
+191. An Audio Wiki for Building Local Repositories of Knowledge in the Developing World
+Citations:2
+Authors: P Kotkar, W Thies, S Amarasinghe
+Publication: Wireless Systems: Advanced Research and Development (Poster Session)
+
+192. Image-based motion estimation in a stream programming language
+Citations:2
+Authors: A Aziz
+Publication: Massachusetts Institute of Technology
+
+193. Modeling the scalability of acrylic stream programs
+Citations:2
+Authors: JN Wong
+Publication: Massachusetts Institute of Technology
+
+194. Linear state-space analysis and optimization of StreamIt programs
+Citations:2
+Authors: S Agrawal
+Publication: Massachusetts Institute of Technology
+
+195. High-bandwidth packet switching on the raw general-purpose architecture
+Citations:2
+Authors: GA Chuvpilo, S Amarasinghe
+Publication: 2003 International Conference on Parallel Processing, 2003. Proceedings., 3-10
+
+196. Perspectives on the Use of the Internet in Sri Lanka
+Citations:2
+Authors: G Shrestha, S Amarasinghe
+Publication: LCS Technical Report TR-815
+
+197. How to build scalable on-chip ILP networks for a decentralized architecture
+Citations:2
+Authors: M Taylor, W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+198. Tensor algebra compilation with workspaces
+Citations:1
+Authors: F Kjolstad, P Ahrens, S Kamil, S Amarasinghe
+Publication: Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation …
+
+199. Taco: Compilation et génération de code dexpressions tensorielles
+Citations:1
+Authors: D Lugato, F Kjolstad, S Chou, S Amarasinghe, S Kamil
+Publication: AVANCÉES, 52
+
+200. Reliable computation on unreliable hardware: Can we have our digital cake and eat it?
+Citations:1
+Authors: V Kiriansky, S Amarasinghe
+Publication: WACAS: Workshop on Approximate Computing Across the System Stack
+
+201. A programming language for precision--cost tradeoffs
+Citations:1
+Authors: MD Steele
+Publication: Massachusetts Institute of Technology
+
+202. Compiling and optimizing spreadsheets for FPGA and multicore execution
+Citations:1
+Authors: A Hirsch
+Publication: Massachusetts Institute of Technology
+
+203. MPEG-2 in a stream programming language
+Citations:1
+Authors: M Drake, H Hoffmann, R Rabbah, S Amarasinghe
+Publication: 
+
+204. Cache optimizations for stream programs
+Citations:1
+Authors: Å SermuliÅ
+Publication: Massachusetts Institute of Technology
+
+205. Software orchestration of instruction level parallelism on tiled processor architectures
+Citations:1
+Authors: W Lee
+Publication: Massachusetts Institute of Technology
+
+206. Predicting unroll factors using nearest neighbors
+Citations:1
+Authors: M Stephenson, S Amarasinghe
+Publication: 
+
+207. Defying the speed of light:: a spatially-aware compiler for wire-exposed architectures
+Citations:1
+Authors: S Amarasinghe
+Publication: Proceedings of the ASIAN symposium on Partial evaluation and semantics-based …
+
+208. RawNet: Network Processing on the Raw Processor
+Citations:1
+Authors: D Wentzlaff, GA Chuvpilo, A Saraf, S Amarasinghe, A Agarwal
+Publication: Research Abstracts of the MIT Laboratory for Computer Science
+
+209. Strength Reduction of Integer Division and Modulo Operations
+Citations:1
+Authors: S Amarasinghe, W Lee, B Greenwald
+Publication: MI Tl aboratory for Computer Science T echnical Memo, MI T-L CS-Tm-600
+
+210. Tseng. The suif compiler for scalable parallel machines
+Citations:1
+Authors: S AMARASINGHE
+Publication: Proc. of the 7th SIAM conference on parallel processing for scientific computing
+
+211. The sparse tensor algebra compiler (keynote)
+Citations:
+Authors: S Amarasinghe
+Publication: Proceedings of the 28th International Conference on Compiler Construction, 1-1
+
+212. Revec: program rejuvenation through revectorization
+Citations:
+Authors: C Mendis, A Jain, P Jain, S Amarasinghe
+Publication: Proceedings of the 28th International Conference on Compiler Construction, 29-41
+
+213. File Transfer Using Standard Blocks and Standard-Block Identifiers
+Citations:
+Authors: M Aasted, S Meera, SP Amarasinghe, T Garnett
+Publication: US Patent App. 16/022,242
+
+214. Domain Specific Language for Exascale
+Citations:
+Authors: S Amarasinghe
+Publication: Massachusetts Inst. of Technology (MIT), Cambridge, MA (United States)
+
+215. Technical Report about Tiramisu: a Three-Layered Abstraction for Hiding Hardware Complexity from DSL Compilers
+Citations:
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, S Kamil, ...
+Publication: arXiv preprint arXiv:1803.00419
+
+216. Unfield sparse formats for tensor algebra compilers
+Citations:
+Authors: S Chou
+Publication: Massachusetts Institute of Technology
+
+217. File Transfer Using Standard Blocks and Standard-Block Identifiers
+Citations:
+Authors: M Aasted, S Meera, SP Amarasinghe, T Garnett
+Publication: US Patent App. 14/981,611
+
+218. WOSC 2014: second workshop on optimizing stencil computations
+Citations:
+Authors: S Kamil, S Amarasinghe, P Sadayappan
+Publication: Proceedings of the companion publication of the 2014 ACM SIGPLAN conference …
+
+219. NSF Annual Report CPA-CSA-T: ATAC: Enhancing Multicore Programmability through All-to-All Computing
+Citations:
+Authors: A Agarwal, L Kimerling, S Amarasinghe
+Publication: 
+
+220. Implementation and evaluation of an IVR rendering platform for data collection in the developing world
+Citations:
+Authors: A Lerer
+Publication: Massachusetts Institute of Technology
+
+221. Selective Vectorization for Short-Vector Instructions
+Citations:
+Authors: S Amarasinghe, R Rabbah, S Larsen
+Publication: 
+
+222. 6.172 Performance Engineering of Software Systems, Fall 2009
+Citations:
+Authors: C Leiserson, S Amarasinghe
+Publication: 
+
+223. Nada Amin
+Citations:
+Authors: SP Amarasinghe
+Publication: Massachusetts Institute of Technology
+
+224. General-purpose operating systems, such as Linux
+Citations:
+Authors: Q Zhao, R Rabbah, S Amarasinghe, L Rudolph, WF Wong
+Publication: International Symposium on Code Generation and Optimization (CGO'07), 299-311
+
+225. PCA RAW FABRIC: Architectural Prototyping, Demonstration and Evaluation
+Citations:
+Authors: S Amarasinghe, A Agarwal
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+226. Stream multicore processors
+Citations:
+Authors: MB Taylor, W Lee, JE Miller, D Wentzlaff, I Bratt, B Greenwald, ...
+Publication: Processor Design, 309-338
+
+227. Ubiquitous Memory Introspection (Preliminary Manuscript)
+Citations:
+Authors: Q Zhao, R Rabbah, S Amarasinghe, L Rudolph, WF Wong
+Publication: 
+
+228. Abstraction Layers for Scalable Microfluidic Biocomputers (Extended Version)
+Citations:
+Authors: S Amarasinghe, W Thies, JP Urbanski, T Thorsen, S Amarasinghe
+Publication: Massachusetts Institute of Technology Computer Science and Artificial …
+
+229. Software Issues for Multicore Systems
+Citations:
+Authors: J Larus, RB AMD, L Harrison, D Kuck, M Scott, B Smith
+Publication: Principles and Practice of Parallel Programming: Proceedings of the eleventh …
+
+230. Wild and Crazy Ideas Session-Session 4-Scheduling and Spatial Programming-Exploiting Coarse-Grained Task, Data, and Pipeline Parallelism in Stream Programs
+Citations:
+Authors: MI Gordon, W Thies, S Amarasinghe
+Publication: ACM SIGARCH-Computer Architecture News 34 (5), 151
+
+231. Understanding program structure and behavior
+Citations:
+Authors: SH Dharmawan
+Publication: Massachusetts Institute of Technology
+
+232. Still Image and Motion Picture Compression Using Stream Programming
+Citations:
+Authors: M Drake, R Rabbah, S Amarasinghe
+Publication: 
+
+233. MONICA S. LAM
+Citations:
+Authors: MW HALL, SP AMARASINGHE, BR MURPHY, SWEI LIAO
+Publication: ACM Transactions on Programming Languages and Systems 27 (4-6), 662-731
+
+234. The Raw Fabric: A Technology for Rapid Embedded System Customization
+Citations:
+Authors: A Agarwal, S Amarasinghe
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE
+
+235. Convergent Scheduling Diego Puppin diego. puppin@ alum. mit. edu Institute for Information Science and Technologies via Moruzzi 1, 56100, Pisa, Italy
+Citations:
+Authors: M Stephenson, W Lee, S Amarasinghe
+Publication: Journal of Instruction-Level Parallelism 1, 1-23
+
+236. Compiler and simulator construction
+Citations:
+Authors: S Amarasinghe
+Publication: Conference on Programming Language Design and Implementation: Proceedings of …
+
+237. Characterizing function inlining with genetic programming
+Citations:
+Authors: C Yu
+Publication: Massachusetts Institute of Technology
+
+238. Meta Optimization: Improving Compiler Heuristics with Machine Learning
+Citations:
+Authors: S Amarasinghe
+Publication: ACM SIGPLAN 2003 Conference, 77
+
+239. Scalar Queue Conversion: Dynamic Single Assignment for Concurrent Scheduling
+Citations:
+Authors: MI Frank, S Amarasinghe
+Publication: Coordinated Science Laboratory Report no. UILU-ENG-03-2215, CRHC-03-07
+
+240. Bit-Packing Optimization for StreamIt
+Citations:
+Authors: K Agrawal, SP Amarasinghe, WF Wong
+Publication: 
+
+241. StreamIt: A Language and Compiler for Communication-Exposed Architectures
+Citations:
+Authors: W Thies, MI Gordon, M Karczmarek, D Maze, SP Amarasinghe
+Publication: 
+
+242. STS. 310 History of Science, Fall 2003
+Citations:
+Authors: D Kaiser
+Publication: 
+
+243. 6.035 Computer Language Engineering (SMA 5502), Fall 2002
+Citations:
+Authors: SP Amarasinghe, MC Rinard
+Publication: 
+
+244. 8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002
+Citations:
+Authors: JW Belcher, P Dourmashkin
+Publication: 
+
+245. Parallelizing Applications into Silicon
+Citations:
+Authors: JB Martin, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: In Proceedings of the IEEE Workshop on FPGAs for Custom Computing Machines
+
+246. Achieving High Performance on Digital AlphaServers with the SUIF Compiler
+Citations:
+Authors: JM Andersony, MW Hallz, SP Amarasinghe, BR Murphy, SW Liao, ...
+Publication: 
+
+247. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+248. Parallelizing compilers for multiprocessors face many hurdles. However, SUIF’s robust analysis and memory optimization techniques enabled speedups on three fourths of the NAS …
+Citations:
+Authors: MW Hall, JM Anderson, SP Amarasinghe, BR Murphy, SW Liao, ...
+Publication: Digital Technical Journal 10 (1), 71
+
+249. Michael Taylor
+Citations:
+Authors: M Taylor, MR Beaumont
+Publication: Beaux Arts
+
+250. Cache Aware Optimization of Stream Programs
+Citations:
+Authors: JSWTR Rabbah, S Amarasinghe
+Publication: ACM SIGPLAN Notices: A Monthly Publication of the Special Interest Group on …
+
+251. Learning automatic schedulers with projective reparameterization
+Citations:
+Authors: A Jain, S Amarasinghe
+Publication: 
+
+252. AE ii lCh ti ti f An Empirical Characterization of Stream Programs and its Implications g p for Language and Compiler Design
+Citations:
+Authors: B Thies, S Amarasinghe
+Publication: 
+
+253. Abstraction Layers for Scalable Microfluidic Biocomputers
+Citations:
+Authors: T Thorsen, S Amarasinghe
+Publication: 
+
+254. Ыг изд Ыг ил ж Й з Ыд йа и к Ш ж аа а зб
+Citations:
+Authors: D Bruening, S Devabhaktuni, S Amarasinghe
+Publication: 
+
+255. ĖÓ Ų× Ō ĖÓ ŲŪ Ö ¹× ĖŌ ŁŠ Ų Ś Č Ö ŠŠ Š× Ń
+Citations:
+Authors: D Bruening, S Devabhaktuni, S Amarasinghe
+Publication: 
+
+256. Abstract Secure Execution Via Program Shepherding
+Citations:
+Authors: V Kiriansky, D Bruening, S Amarasinghe
+Publication: 
+
+257. Tiramisu: A Polyhedral Compiler with A Scheduling Language for Targeting High Performance Systems
+Citations:
+Authors: R Baghdadi, J Ray, MB Romdhane, E Del Sozzo, P Suriana, A Akkas, ...
+Publication: 
+
+258. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+259. SoFTwARE PERSPECTI
+Citations:
+Authors: SP Amarasinghe, BR Murphy, MW Hall
+Publication: 
+
+260. FlexCache: A Framework for Flexible Compiler Generated Data Caching Csaba Andras Moritz1, Matthew I. Frank2, and Saman Amarasinghe2 1 University of Massachusetts, Electrical …
+Citations:
+Authors: CA Moritz, MI Frank, S Amarasinghe
+Publication: 
+
+261. Introspective and Adaptive Runtime Systems with Transactions
+Citations:
+Authors: R Rabbah, S Amarasinghe
+Publication: 
+
+262. Multicores from the Compiler's Perspective
+Citations:
+Authors: S Amarasinghe
+Publication: 
+
+263. Yufei Ding
+Citations:
+Authors: KV Ansel, X Shen, UM O’Reilly, S Amarasinghe, Z Zhao, S Eisenstat
+Publication: 
+
+264. Keynote 2
+Citations:
+Authors: S Amarasinghe
+Publication: 
+
+265. Perceptual Interfaces
+Citations:
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris, NB Priyantha, ...
+Publication: 
+
+266. TEK Team
+Citations:
+Authors: S Amarasinghe, M Cheng, B Thies
+Publication: 
+
+267. 1.0 Technology Trends
+Citations:
+Authors: MB Taylor, J Kim, J Miller, D Wentzlaff, F Ghodrat, B Greenwald, ...
+Publication: 
+
+268. Helium
+Citations:
+Authors: C Mendis, J Bosboom, K Wu, S Kamil, J Ragan-Kelley, S Paris, Q Zhao, ...
+Publication: 
+
+269. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+270. ISCA 2014 external reviewers
+Citations:
+Authors: TM Aamodt, J Cong, P Ienne, D Abts, B Coppens, E Ipek, S Adve, CR Das, ...
+Publication: 
+
+271. Building Dynamic Instrumentation Tools with DynamoRIO
+Citations:
+Authors: S Amarasinghe, D Bruening, Q Zhao
+Publication: 
+
+272. Abdelzaher, TF, see He, T., T-PDS Oct 05 995-1006 Acacio, ME, J. Gonzalez, JM Garcia, and J. Duato. A two-level directory architecture for highly scalable cc-NUMA …
+Citations:
+Authors: A Agarwal, A Aggarwal, G Agrawal, AS Alfa, L Alvisi, H Amano, ...
+Publication: 
+
+273. Mary Hall, USC/ISI (Co-Chair)
+Citations:
+Authors: V Sarkar, E Altman, S Amarasinghe, S Carr, J Carter, M Cosnard, ...
+Publication: 
+
+274. Alban Douillet Evelyn Duesterwald Sandhya Dwarkadas Erik Eidt Dan Ernst
+Citations:
+Authors: J Abella, S Abraham, S Adve, T Afzal, D Albonesi, B Alpern, E Altman, ...
+Publication: 
+
+275. RIO: Runtime Introspection and Optimization
+Citations:
+Authors: D Bruening, J Jacobs, V Kiriansky, T Garnett, S Amarasinghe
+Publication: 
+
+276. StreamIt: A Language and Compiler for Streaming Applications
+Citations:
+Authors: W Thies, M Karczmarek, M Gordon, D Maze, S Amarasinghe
+Publication: 
+
+277. Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community
+Citations:
+Authors: YS Lee, MB Nardelli, N Marzari, SC Graves, HV Jagadish, BC Ooi, ...
+Publication: 
+
+278. Reviewers Reviewers
+Citations:
+Authors: S Adve, P Ahuja, H Al-Sukhni, C Alvarez, S Amarasinghe, J Anderson, ...
+Publication: 
+
+279. Compiler Support for Independently Addressable Memory Banks
+Citations:
+Authors: S Larsen, S Amarasinghe
+Publication: 
+
+280. Defying the Speed of Light: Wire-Exposed Architectures and Spatially-Aware Compilers
+Citations:
+Authors: S Amarasinghe
+Publication: 
+
+281. Outfoxing the Mammoths
+Citations:
+Authors: M Olszewski, S Amarasinghe
+Publication: 
+
+282. Dynamic Optimization of Interpreters–“JIT’s for Free!”
+Citations:
+Authors: GT Sullivan, S Amarasinghe, I Baron
+Publication: 
+
+283. Domain-Specific Optimization of Stream Programs
+Citations:
+Authors: A Lamb, W Thies, S Amarasinghe
+Publication: 
+
+284. with the SUIF Compiler
+Citations:
+Authors: MW Hall, JM Anderson, SP Amarasinghe, BR Murphy, SW Liao, ...
+Publication: 
+
+285. Space-time scheduling of instruction level parallelism
+Citations:
+Authors: W Lee, S Amarasinghe, A Agarwal
+Publication: 
+
+286. 31st Annual International Symposium on Computer Architecture ISCA 2004
+Citations:
+Authors: T Agerwala, M Taylor, W Lee, J Miller, D Wentzlaff, B Greenwald, ...
+Publication: 
+
+287. SUDS: Software Managed Speculation for Raw Microprocessors
+Citations:
+Authors: M Frank, S Amarasinghe, A Agarwal
+Publication: 
+
+288. This page provides an index into the SC'95 Proceedings technical papers by
+Citations:
+Authors: D Abramson, VS Adve, G Agha, G Agrawal, V Allis, B Alpern, ...
+Publication: 
+
+289. TEK: A Low Connectivity Search Engine
+Citations:
+Authors: L Levison, W Thies, S Amarasinghe
+Publication: 
+
+290. IEEE MICRO 2002 ANNUAL INDEX, VOL. 22
+Citations:
+Authors: A Agarwal, L Almeida, A Al-Rabadi, S Amarasinghe
+Publication: 
+
+291. Matthew Frank, Rajeev Barua, and Saman Amarasinghe Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139
+Citations:
+Authors: J Babb, M Rinard, CA Moritz, W Lee
+Publication: 
+
+292. TEK: An Information Delivery Tool for Low-Connectivity Communities
+Citations:
+Authors: L Levison, W Thies, S Amarasinghe
+Publication: 
+
+293. TEK: An Information Delivery Tool for Low-Connectivity Communities
+Citations:
+Authors: W Thies, H Tian, L Levison, S Amarasinghe
+Publication: 
+
+294. An Audio Wiki for Sharing Spoken Content in the Developing World
+Citations:
+Authors: P Kotkar, W Thies, S Amarasinghe
+Publication: 
+
+295. Hybrid Space-Time Partitioning of Stream Programs
+Citations:
+Authors: M Gordon, J Lin, W Thies, S Amarasinghe
+Publication: 
+
+296. Session I.
+Citations:
+Authors: N Patil, S Mitra, N Amin, W Thies, S Amarasinghe
+Publication: 
+
+297. Interprocedural Analysis in SUIF
+Citations:
+Authors: S Amarasinghe, J Anderson, M Hall, M Lam, D Leroy, SW Liao, B Murphy, ...
+Publication: 
+
+298. Parallelizing Applications into Smart Memories
+Citations:
+Authors: J Babb, M Rinard, A Moritz, W Lee, M Frank, R Barua, S Amarasinghe
+Publication: 
+
+299. Optimizing Compiler Heuristics with Machine Learning
+Citations:
+Authors: M Stephenson, M Martin, UM O’Reilly, S Amarasinghe
+Publication: 
+
+300. Universität Karlsruhe (TH)
+Citations:
+Authors: M Stephenson, J Babb, S Amarasinghe
+Publication: 
+
+301. AU THOR IN DEX
+Citations:
+Authors: B Aball, A Agarwal, CC Aggarwal, E Altman, S Amarasinghe, A Antola, ...
+Publication: 
+
+302. DynamoRIO: An Infrastructure for Runtime Code Manipulation
+Citations:
+Authors: D Bruening, V Kiriansky, T Garnett, S Amarasinghe
+Publication: 
+
+303. Mary W. Hall
+Citations:
+Authors: BR Murphy, SP Amarasinghe, SW Liao, MS Lam
+Publication: 
+

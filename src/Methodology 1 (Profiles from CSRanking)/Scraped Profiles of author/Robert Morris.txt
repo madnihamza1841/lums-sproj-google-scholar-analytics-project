@@ -1,0 +1,1413 @@
+https://scholar.google.com/citations?hl=en&user=in6eBIwAAAAJ
+Total Citations = 64302
+
+1. Chord: A scalable peer-to-peer lookup service for internet applications
+Citations:13735
+Authors: I Stoica, R Morris, D Karger, MF Kaashoek, H Balakrishnan
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 149-160
+
+2. A high-throughput path metric for multi-hop wireless routing
+Citations:4550
+Authors: DSJ De Couto, D Aguayo, J Bicket, R Morris
+Publication: Wireless networks 11 (4), 419-434
+
+3. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3935
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+4. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3923
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+5. Chord: a scalable peer-to-peer lookup protocol for internet applications
+Citations:3923
+Authors: I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 11 (1), 17-32
+
+6. Span: An energy-efficient coordination algorithm for topology maintenance in ad hoc wireless networks
+Citations:3270
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris
+Publication: Wireless networks 8 (5), 481-494
+
+7. The Click modular router
+Citations:3031
+Authors: E Kohler, R Morris, B Chen, J Jannotti, MF Kaashoek
+Publication: ACM Transactions on Computer Systems (TOCS) 18 (3), 263-297
+
+8. Resilient overlay networks
+Citations:2769
+Authors: D Andersen, H Balakrishnan, F Kaashoek, R Morris
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 131-145
+
+9. Resilient overlay networks
+Citations:2709
+Authors: D Andersen, H Balakrishnan, F Kaashoek, R Morris
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 131-145
+
+10. Wide-area cooperative storage with CFS
+Citations:2301
+Authors: F Dabek, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 202-215
+
+11. Capacity of ad hoc wireless networks
+Citations:2236
+Authors: J Li, C Blake, DSJ De Couto, HI Lee, R Morris
+Publication: Proceedings of the 7th annual international conference on Mobile computing …
+
+12. A scalable location service for geographic ad hoc routing
+Citations:2186
+Authors: J Li, J Jannotti, DSJ De Couto, DR Karger, R Morris
+Publication: Proceedings of the 6th annual international conference on Mobile computing …
+
+13. ExOR: opportunistic multi-hop routing for wireless networks
+Citations:1772
+Authors: S Biswas, R Morris
+Publication: ACM SIGCOMM computer communication review 35 (4), 133-144
+
+14. Vivaldi: A decentralized network coordinate system
+Citations:1603
+Authors: F Dabek, R Cox, F Kaashoek, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 15-26
+
+15. Link-level measurements from an 802.11 b mesh network
+Citations:1383
+Authors: D Aguayo, J Bicket, S Biswas, G Judd, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 121-132
+
+16. Dynamics of random early detection
+Citations:1355
+Authors: D Lin, R Morris
+Publication: ACM SIGCOMM computer communication review 27 (4), 127-137
+
+17. Architecture and evaluation of an unplanned 802.11 b mesh network
+Citations:1057
+Authors: J Bicket, D Aguayo, S Biswas, R Morris
+Publication: Proceedings of the 11th annual international conference on Mobile computing …
+
+18. Architecture and evaluation of an unplanned 802.11 b mesh network
+Citations:1057
+Authors: J Bicket, D Aguayo, S Biswas, R Morris
+Publication: Proceedings of the 11th annual international conference on Mobile computing …
+
+19. Looking up data in P2P systems
+Citations:994
+Authors: H Balakrishnan, MF Kaashoek, D Karger, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM 46 (2), 43-48
+
+20. Tarzan: A peer-to-peer anonymizing network layer
+Citations:898
+Authors: MJ Freedman, R Morris
+Publication: Proceedings of the 9th ACM conference on Computer and communications …
+
+21. Opportunistic routing in multi-hop wireless networks
+Citations:805
+Authors: S Biswas, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 69-74
+
+22. DNS performance and the effectiveness of caching
+Citations:634
+Authors: J Jung, E Sit, H Balakrishnan, R Morris
+Publication: IEEE/ACM Transactions on networking 10 (5), 589-603
+
+23. Ivy: A read/write peer-to-peer file system
+Citations:630
+Authors: A Muthitacharoen, R Morris, TM Gil, B Chen
+Publication: ACM SIGOPS Operating Systems Review 36 (SI), 31-44
+
+24. Performance of multihop wireless networks: Shortest path is not enough
+Citations:612
+Authors: DSJ De Couto, D Aguayo, BA Chambers, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 83-88
+
+25. Security considerations for peer-to-peer distributed hash tables
+Citations:603
+Authors: E Sit, R Morris
+Publication: International Workshop on Peer-to-Peer Systems, 261-269
+
+26. The Click modular router
+Citations:518
+Authors: R Morris, E Kohler, J Jannotti, MF Kaashoek
+Publication: ACM SIGOPS Operating Systems Review 33 (5), 217-231
+
+27. The Click modular router
+Citations:518
+Authors: R Morris, E Kohler, J Jannotti, MF Kaashoek
+Publication: ACM SIGOPS Operating Systems Review 33 (5), 217-231
+
+28. Information flow control for standard OS abstractions
+Citations:501
+Authors: M Krohn, A Yip, M Brodsky, N Cliffer, MF Kaashoek, E Kohler, R Morris
+Publication: ACM SIGOPS Operating Systems Review 41 (6), 321-334
+
+29. Designing a DHT for Low Latency and High Throughput.
+Citations:477
+Authors: F Dabek, J Li, E Sit, J Robertson, MF Kaashoek, RT Morris
+Publication: NSDI 4, 85-98
+
+30. Performance of multihop wireless networks: Shortest path is not enough
+Citations:466
+Authors: DSJ De Couto, D Aguayo, BA Chambers, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 33 (1), 83-88
+
+31. Corey: An Operating System for Many Cores.
+Citations:455
+Authors: S Boyd-Wickizer, H Chen, R Chen, Y Mao, MF Kaashoek, RT Morris, ...
+Publication: OSDI 8, 43-57
+
+32. Corey: An Operating System for Many Cores.
+Citations:455
+Authors: S Boyd-Wickizer, H Chen, R Chen, Y Mao, MF Kaashoek, RT Morris, ...
+Publication: OSDI 8, 43-57
+
+33. An Analysis of Linux Scalability to Many Cores.
+Citations:424
+Authors: S Boyd-Wickizer, AT Clements, Y Mao, A Pesterev, MF Kaashoek, ...
+Publication: OSDI 10 (13), 86-93
+
+34. Labels and event processes in the Asbestos operating system
+Citations:411
+Authors: P Efstathopoulos, M Krohn, S VanDeBogart, C Frey, D Ziegler, E Kohler, ...
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 17-30
+
+35. On the feasibility of peer-to-peer web indexing and search
+Citations:411
+Authors: J Li, BT Loo, JM Hellerstein, MF Kaashoek, DR Karger, R Morris
+Publication: International Workshop on Peer-to-Peer Systems, 207-215
+
+36. CarNet: A scalable ad hoc wireless network system
+Citations:362
+Authors: R Morris, J Jannotti, F Kaashoek, J Li, D Decouto
+Publication: Proceedings of the 9th workshop on ACM SIGOPS European workshop: beyond the …
+
+37. Building peer-to-peer systems with Chord, a distributed lookup service
+Citations:353
+Authors: F Dabek, E Brunskill, MF Kaashoek, D Karger, R Morris, I Stoica, ...
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 81-86
+
+38. Credit-based flow control for ATM networks
+Citations:345
+Authors: NT Kung, R Morris
+Publication: IEEE network 9 (2), 40-48
+
+39. Efficient Replica Maintenance for Distributed Storage Systems.
+Citations:328
+Authors: BG Chun, F Dabek, A Haeberlen, E Sit, H Weatherspoon, MF Kaashoek, ...
+Publication: NSDI 6, 4-4
+
+40. Serving DNS using a peer-to-peer lookup service
+Citations:315
+Authors: R Cox, A Muthitacharoen, RT Morris
+Publication: International Workshop on Peer-To-Peer Systems, 155-165
+
+41. A performance vs. cost framework for evaluating DHT design tradeoffs under churn
+Citations:280
+Authors: J Li, J Stribling, R Morris, MF Kaashoek, TM Gil
+Publication: Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …
+
+42. Cache craftiness for fast multicore key-value storage
+Citations:261
+Authors: Y Mao, E Kohler, RT Morris
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 183-196
+
+43. Comparing the performance of distributed hash tables under churn
+Citations:258
+Authors: J Li, J Stribling, TM Gil, R Morris, MF Kaashoek
+Publication: International Workshop on Peer-to-Peer Systems, 87-99
+
+44. TCP behavior with many flows
+Citations:246
+Authors: R Morris
+Publication: Proceedings 1997 International Conference on Network Protocols, 205-211
+
+45. Middleboxes No Longer Considered Harmful.
+Citations:244
+Authors: M Walfish, J Stribling, MN Krohn, H Balakrishnan, RT Morris, S Shenker
+Publication: OSDI 4, 15-15
+
+46. Bandwidth-efficient management of DHT routing tables
+Citations:229
+Authors: J Li, J Stribling, R Morris, MF Kaashoek
+Publication: Proceedings of the 2nd conference on Symposium on Networked Systems Design …
+
+47. Geographic Routing Without Planarization.
+Citations:228
+Authors: B Leong, B Liskov, RT Morris
+Publication: NSDI 6, 25
+
+48. A weakness in the 4.2 BSD Unix TCP/IP software
+Citations:200
+Authors: RT Morris
+Publication: AT&T Bell Labs, Tech. Rep. Comput. Sci. 117
+
+49. The UNIX System: UNIX Operating System Security
+Citations:200
+Authors: FT Grampp, RH Morris
+Publication: AT&T Bell Laboratories Technical Journal 63 (8), 1649-1672
+
+50. Chord: A scalable peer-to-peer look-up protocol for internet applications
+Citations:197
+Authors: R Morris, MF Kaashoek, D Karger, H Balakrishnan, I Stoica, ...
+Publication: IEEE/ACM Transactions On Networking 11 (1), 17-32
+
+51. Chord: A scalable peer-to-peer look-up protocol for internet applications
+Citations:197
+Authors: R Morris, MF Kaashoek, D Karger, H Balakrishnan, I Stoica, ...
+Publication: IEEE/ACM Transactions On Networking 11 (1), 17-32
+
+52. Independent sets in hypergraphs
+Citations:196
+Authors: J Balogh, R Morris, W Samotij
+Publication: Journal of the American Mathematical Society 28 (3), 669-709
+
+53. Scalable TCP congestion control
+Citations:190
+Authors: R Morris
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+54. Scalable TCP congestion control
+Citations:190
+Authors: R Morris
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+55. The case for resilient overlay networks
+Citations:176
+Authors: DG Andersen, H Balakrishnan, MF Kaashoek, R Morris
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 152-157
+
+56. Practical, distributed network coordinates
+Citations:173
+Authors: R Cox, F Dabek, F Kaashoek, J Li, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 113-118
+
+57. Flexible Control of Parallelism in a Multiprocessor PC Router.
+Citations:169
+Authors: B Chen, RT Morris
+Publication: USENIX Annual Technical Conference, General Track, 333-346
+
+58. Location proxies and intermediate node forwarding for practical geographic forwarding
+Citations:168
+Authors: DSJ De Couto, R Morris
+Publication: MIT Laboratory for Computer Science Technical Report MIT-LCS-TR-824
+
+59. Event-driven programming for robust software
+Citations:158
+Authors: F Dabek, N Zeldovich, F Kaashoek, D Mazières, R Morris
+Publication: Proceedings of the 10th workshop on ACM SIGOPS European workshop, 186-189
+
+60. The scalable commutativity rule: Designing scalable software for multicore processors
+Citations:157
+Authors: AT Clements, MF Kaashoek, N Zeldovich, RT Morris, E Kohler
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (4), 10
+
+61. The sharp threshold for bootstrap percolation in all dimensions
+Citations:146
+Authors: J Balogh, B Bollobás, H Duminil-Copin, R Morris
+Publication: Transactions of the American Mathematical Society 364 (5), 2667-2701
+
+62. Flexible, Wide-Area Storage for Distributed Systems with WheelFS.
+Citations:143
+Authors: J Stribling, Y Sovran, I Zhang, X Pretzer, J Li, MF Kaashoek, RT Morris
+Publication: NSDI 9, 43-58
+
+63. Persistent personal names for globally connected mobile devices
+Citations:143
+Authors: B Ford, J Strauss, C Lesniewski-Laas, S Rhea, F Kaashoek, R Morris
+Publication: Proceedings of the 7th symposium on Operating systems design and …
+
+64. Introducing tarzan, a peer-to-peer anonymizing network layer
+Citations:137
+Authors: MJ Freedman, E Sit, J Cates, R Morris
+Publication: International Workshop on Peer-to-Peer Systems, 121-129
+
+65. Variance of aggregated web traffic
+Citations:130
+Authors: R Morris, D Lin
+Publication: Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …
+
+66. Improving network connection locality on multicore systems
+Citations:124
+Authors: A Pesterev, J Strauss, N Zeldovich, RT Morris
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 337-350
+
+67. Labels and event processes in the Asbestos operating system
+Citations:123
+Authors: S Vandebogart, P Efstathopoulos, E Kohler, M Krohn, C Frey, D Ziegler, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 25 (4), 11
+
+68. Optimizing MapReduce for multicore architectures
+Citations:122
+Authors: Y Mao, R Morris, F Kaashoek
+Publication: Technical Report MIT-CSAIL-TR-2010-020, MIT
+
+69. Proactive Replication for Data Durability.
+Citations:112
+Authors: E Sit, A Haeberlen, F Dabek, BG Chun, H Weatherspoon, RT Morris, ...
+Publication: IPTPS
+
+70. Multiprocessor Support for Event-Driven Programs.
+Citations:110
+Authors: N Zeldovich, A Yip, F Dabek, RT Morris, D Mazieres, MF Kaashoek
+Publication: USENIX Annual Technical Conference, General Track, 239-252
+
+71. Non-scalable locks are dangerous
+Citations:105
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: Proceedings of the Linux Symposium, 119-130
+
+72. Certifying Program Execution with Secure Processors.
+Citations:101
+Authors: B Chen, RT Morris
+Publication: HotOS, 133-138
+
+73. Coordinated thwarting of denial of service attacks
+Citations:99
+Authors: MF Kaashoek, EW Kohler Jr, MA Poletto, RT Morris
+Publication: US Patent 7,278,159
+
+74. Computer detection of typographical errors
+Citations:97
+Authors: R Morris, LL Cherry
+Publication: IEEE Transactions on Professional Communication, 54-56
+
+75. Bootstrap percolation in three dimensions
+Citations:93
+Authors: J Balogh, B Bollobás, R Morris
+Publication: The Annals of Probability 37 (4), 1329-1380
+
+76. Greedy virtual coordinates for geographic routing
+Citations:93
+Authors: B Leong, B Liskov, R Morris
+Publication: 2007 IEEE International Conference on Network Protocols, 71-80
+
+77. L: Scalable Landmark Routing and Address Lookup for Multi-hop Wireless Networks
+Citations:91
+Authors: B Chen, R Morris
+Publication: Tech. Rep. MIT-LCS-TR-837, MIT
+
+78. A weakness in the 4.2 BSD Unix TCP
+Citations:91
+Authors: RT Morris
+Publication: IP Software. Technical Report Computer Science
+
+79. The IGF2 intronic miR-483 selectively enhances transcription from IGF2 fetal promoters and enhances tumorigenesis
+Citations:90
+Authors: M Liu, A Roth, M Yu, R Morris, F Bersani, MN Rivera, J Lu, T Shioda, ...
+Publication: Genes & development 27 (23), 2543-2548
+
+80. Locating cache performance bottlenecks using data profiling
+Citations:90
+Authors: A Pesterev, N Zeldovich, RT Morris
+Publication: Proceedings of the 5th European conference on Computer systems, 335-348
+
+81. OverCite: A cooperative digital research library
+Citations:77
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, DR Karger, R Morris, ...
+Publication: International Workshop on Peer-to-Peer Systems, 69-79
+
+82. Reinventing scheduling for multicore systems.
+Citations:73
+Authors: S Boyd-Wickizer, RT Morris, MF Kaashoek
+Publication: HotOS
+
+83. In defense of wireless carrier sense
+Citations:68
+Authors: MZ Brodsky, RT Morris
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 147-158
+
+84. Phase reconciliation for contended in-memory transactions
+Citations:66
+Authors: N Narula, C Cutler, E Kohler, R Morris
+Publication: 11th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+85. Bootstrap percolation in high dimensions
+Citations:66
+Authors: J Balogh, B Bollobás, R Morris
+Publication: Combinatorics, Probability and Computing 19 (5-6), 643-692
+
+86. Serving dns using chord
+Citations:65
+Authors: R Cox, A Muthitacharoen, R Morris
+Publication: First International Workshop on Peer-to-Peer Systems
+
+87. The triangle-free process and the Ramsey number
+Citations:63
+Authors: GF Pontiveros, S Griffiths, R Morris
+Publication: arXiv preprint arXiv:1302.6279
+
+88. SrcRR: A high throughput routing protocol for 802.11 mesh networks (DRAFT)
+Citations:63
+Authors: D Aguayo, J Bicket, R Morris
+Publication: MIT, Tech. Rep
+
+89. The structure of almost all graphs in a hereditary property
+Citations:62
+Authors: N Alon, J Balogh, B Bollobás, R Morris
+Publication: Journal of Combinatorial Theory, Series B 101 (2), 85-110
+
+90. Make Least Privilege a Right (Not a Privilege).
+Citations:62
+Authors: MN Krohn, P Efstathopoulos, C Frey, MF Kaashoek, E Kohler, D Mazieres, ...
+Publication: HotOS
+
+91. MIT roofnet implementation
+Citations:62
+Authors: D Aguayo, J Bicket, S Biswas, DSJ De Couto, R Morris
+Publication: 
+
+92. Etna: A fault-tolerant algorithm for atomic mutable DHT data
+Citations:60
+Authors: A Muthitacharoen, S Gilbert, R Morris
+Publication: 
+
+93. Majority bootstrap percolation on the hypercube
+Citations:59
+Authors: J Balogh, B Bollobás, R Morris
+Publication: Combinatorics, Probability and Computing 18 (1-2), 17-51
+
+94. ATR inhibition disrupts rewired homologous recombination and fork protection pathways in PARP inhibitor-resistant BRCA-deficient cancer cells
+Citations:58
+Authors: SA Yazinski, V Comaills, R Buisson, MM Genois, HD Nguyen, CK Ho, ...
+Publication: Genes & development 31 (3), 318-332
+
+95. A sharper threshold for bootstrap percolation in two dimensions
+Citations:55
+Authors: J Gravner, AE Holroyd, R Morris
+Publication: Probability Theory and Related Fields 153 (1-2), 1-23
+
+96. A trusted third-party computation service
+Citations:55
+Authors: S Ajmani, R Morris, B Liskov
+Publication: Technical Report MIT-LCS-TR-847, MIT
+
+97. Use of link-by-link flow control in maximizing ATM network performance: Simulation results
+Citations:55
+Authors: HT Kung, R Morris, T Charuhas, D Lin
+Publication: Proc. IEEE Hot Interconnects Symposium 93
+
+98. Privacy-preserving browser-side scripting with BFlow
+Citations:53
+Authors: A Yip, N Narula, M Krohn, R Morris
+Publication: Proceedings of the 4th ACM European conference on Computer systems, 233-246
+
+99. ‘UNIX Password Security
+Citations:53
+Authors: R Morris, K Thompson
+Publication: Communications of the ACM 22 (11), 594
+
+100. Alpaca: extensible authorization for distributed services
+Citations:51
+Authors: C Lesniewski-Laas, B Ford, J Strauss, R Morris, MF Kaashoek
+Publication: Proceedings of the 14th ACM conference on Computer and communications …
+
+101. p2psim, a simulator for peer-to-peer protocols
+Citations:50
+Authors: T Gil, F Kaashoek, J Li, R Morris, J Stribling
+Publication: 
+
+102. Zero-temperature Glauber dynamics on
+Citations:48
+Authors: R Morris
+Publication: Probability theory and related fields 149 (3-4), 417-434
+
+103. Secure Short-Cut Routing for Mobile IP.
+Citations:48
+Authors: T Blackwell, K Chan, K Chang, T Charuhas, J Gwertzman, B Karp, ...
+Publication: USENIX Summer, 305-316
+
+104. Programming language optimizations for modular router configurations
+Citations:45
+Authors: E Kohler, R Morris, B Chen
+Publication: ACM SIGOPS Operating Systems Review 36 (5), 251-263
+
+105. The number of C2ℓ-free graphs
+Citations:39
+Authors: R Morris, D Saxton
+Publication: Advances in Mathematics 298, 534-580
+
+106. Proteomic analysis of pRb loss highlights a signature of decreased mitochondrial oxidative phosphorylation
+Citations:38
+Authors: BN Nicolay, PS Danielian, F Kottakis, JD Lapek, I Sanidas, WO Miles, ...
+Publication: Genes & development 29 (17), 1875-1889
+
+107. Learning about learning agility
+Citations:37
+Authors: A Mitchinson, R Morris
+Publication: A White Paper
+
+108. Detection of dysregulated protein-association networks by high-throughput proteomics predicts cancer vulnerabilities
+Citations:36
+Authors: JD Lapek Jr, P Greninger, R Morris, A Amzallag, I Pruteanu-Malinici, ...
+Publication: Nature biotechnology 35 (10), 983
+
+109. Graph bootstrap percolation
+Citations:36
+Authors: J Balogh, B Bollobás, R Morris
+Publication: Random Structures & Algorithms 41 (4), 413-440
+
+110. Minimal percolating sets in bootstrap percolation
+Citations:36
+Authors: R Morris
+Publication: the electronic journal of combinatorics 16 (1), R2
+
+111. OverCite: A Distributed, Cooperative CiteSeer.
+Citations:36
+Authors: J Stribling, J Li, IG Councill, MF Kaashoek, RT Morris
+Publication: NSDI 6, 11-11
+
+112. Linear algebra and bootstrap percolation
+Citations:35
+Authors: J Balogh, B Bollobás, R Morris, O Riordan
+Publication: Journal of Combinatorial Theory, Series A 119 (6), 1328-1335
+
+113. A world wide web without walls
+Citations:35
+Authors: M Krohn, A Yip, M Brodsky, R Morris, M Walfish
+Publication: 6th ACM Workshop on Hot Topics in Networking (Hotnets)
+
+114. Hereditary properties of ordered graphs
+Citations:34
+Authors: J Balogh, B Bollobás, R Morris
+Publication: Topics in discrete mathematics, 179-213
+
+115. Effects of loss rate on ad hoc wireless routing
+Citations:34
+Authors: DSJ De Couto, D Aguayo, BA Chambers, R Morris
+Publication: 
+
+116. Bit-rate selection in wireless networks
+Citations:33
+Authors: RT Morris, JC Bicket
+Publication: Master’s thesis, MIT
+
+117. Genomic instability is induced by persistent proliferation of cells undergoing epithelial-to-mesenchymal transition
+Citations:32
+Authors: V Comaills, L Kabeche, R Morris, R Buisson, M Yu, MW Madden, ...
+Publication: Cell reports 17 (10), 2632-2647
+
+118. Bioengineered implantable scaffolds as a tool to study stromal-derived factors in metastatic cancer models
+Citations:32
+Authors: F Bersani, J Lee, M Yu, R Morris, R Desai, S Ramaswamy, M Toner, ...
+Publication: Cancer research 74 (24), 7229-7238
+
+119. Counting sum-free sets in Abelian groups
+Citations:32
+Authors: N Alon, J Balogh, R Morris, W Samotij
+Publication: Israel Journal of mathematics 199 (1), 309-344
+
+120. Eyo: Device-Transparent Personal Storage.
+Citations:31
+Authors: J Strauss, JM Paluska, C Lesniewski-Laas, B Ford, RT Morris, ...
+Publication: USENIX Annual Technical Conference
+
+121. Highly connected monochromatic subgraphs of multicolored graphs
+Citations:31
+Authors: H Liu, R Morris, N Prince
+Publication: Journal of Graph Theory 61 (1), 22-44
+
+122. Pastwatch: A Distributed Version Control System.
+Citations:31
+Authors: A Yip, B Chen, RT Morris
+Publication: NSDI
+
+123. FC-families and improved bounds for Frankl’s conjecture
+Citations:31
+Authors: R Morris
+Publication: European Journal of Combinatorics 27 (2), 269-282
+
+124. Universality of two-dimensional critical cellular automata
+Citations:30
+Authors: B Bollobás, H Duminil-Copin, R Morris, P Smith
+Publication: arXiv preprint arXiv:1406.6680
+
+125. Hereditary properties of partitions, ordered graphs and ordered hypergraphs
+Citations:30
+Authors: J Balogh, B Bollobás, R Morris
+Publication: European Journal of combinatorics 27 (8), 1263-1281
+
+126. The data encryption standard--Retrospective and prospects
+Citations:29
+Authors: R Morris
+Publication: IEEE Communications Society Magazine 16 (6), 11-14
+
+127. MIT roofnet
+Citations:26
+Authors: D Aguayo, J Bicket, S Biswas, R Morris, B Chambers, D De Couto
+Publication: Proceedings of the International Conference on Mobile Computing and Networking
+
+128. Modular components for network address translation
+Citations:26
+Authors: E Kohler, R Morris, M Poletto
+Publication: 2002 IEEE Open Architectures and Network Programming Proceedings. OPENARCH …
+
+129. The chromatic thresholds of graphs
+Citations:24
+Authors: P Allen, J Böttcher, S Griffiths, Y Kohayakawa, R Morris
+Publication: Advances in Mathematics 235, 261-295
+
+130. Recurrent, robust and scalable patterns underlie human approach and avoidance
+Citations:24
+Authors: BW Kim, DN Kennedy, J Lehár, MJ Lee, AJ Blood, S Lee, RH Perlis, ...
+Publication: PLoS One 5 (5), e10613
+
+131. Impact of ATM switching and flow control on TCP performance: Measurements on an experimental switch
+Citations:24
+Authors: R Morris, HT Kung
+Publication: proceedings of Globecom'95 2, 888-892
+
+132. SETD1A modulates cell cycle progression through a miRNA network that regulates p53 target genes
+Citations:23
+Authors: K Tajima, T Yae, S Javaid, O Tam, V Comaills, R Morris, BS Wittner, M Liu, ...
+Publication: Nature communications 6, 8257
+
+133. UFlood: High-throughput flooding over wireless mesh networks
+Citations:23
+Authors: J Subramanian, R Morris, H Balakrishnan
+Publication: 2012 Proceedings IEEE INFOCOM, 82-90
+
+134. Noise sensitivity in continuum percolation
+Citations:22
+Authors: D Ahlberg, E Broman, S Griffiths, R Morris
+Publication: Israel Journal of Mathematics 201 (2), 847-899
+
+135. Device transparency: a new model for mobile storage
+Citations:22
+Authors: J Strauss, C Lesniewski-Laas, JM Paluska, B Ford, R Morris, F Kaashoek
+Publication: Association for Computing Machinery
+
+136. User-relative names for globally connected personal devices
+Citations:21
+Authors: B Ford, J Strauss, C Lesniewski-Laas, S Rhea, F Kaashoek, R Morris
+Publication: arXiv preprint cs/0603076
+
+137. Experience with an evolving overlay network testbed
+Citations:21
+Authors: DG Andersen, H Balakrishnan, MF Kaashoek, R Morris
+Publication: ACM SIGCOMM Computer Communication Review 33 (3), 13-19
+
+138. The typical structure of sparse 𝐾ᵣ₊ ₁-free graphs
+Citations:20
+Authors: J Balogh, R Morris, W Samotij, L Warnke
+Publication: Transactions of the American Mathematical Society 368 (9), 6439-6485
+
+139. Adaptive dynamic radio open-source intelligent team (ADROIT): Cognitively-controlled collaboration among SDR nodes
+Citations:20
+Authors: GD Troxel, E Blossom, S Boswell, A Caro, I Castineyra, A Colvin, T Dreier, ...
+Publication: 2006 1st IEEE Workshop on Networking Technologies for Software Defined Radio …
+
+140. OpLog: a library for scaling update-heavy data structures
+Citations:19
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+141. Hereditary properties of combinatorial structures: posets and oriented graphs
+Citations:19
+Authors: J Balogh, B Bollobás, R Morris
+Publication: Journal of Graph Theory 56 (4), 311-332
+
+142. Programming language techniques for modular router configurations
+Citations:19
+Authors: E Kohler, B Chen, MF Kaashoek, R Morris, M Poletto
+Publication: Technical Report MIT-LCS-TR-812, MIT Laboratory for Computer Science
+
+143. Hereditary properties of tournaments
+Citations:18
+Authors: J Balogh, B Bollobás, R Morris
+Publication: the electronic journal of combinatorics 14 (1), 60
+
+144. Don't Give Up on Distributed File Systems.
+Citations:18
+Authors: J Stribling, E Sit, MF Kaashoek, RT Morris
+Publication: IPTPS
+
+145. Dynamic physical layers for wireless networks using software radio
+Citations:18
+Authors: V Bose, R Hu, R Morris
+Publication: 2001 IEEE International Conference on Acoustics, Speech, and Signal …
+
+146. Bulk multicast transport protocol
+Citations:18
+Authors: R Morris
+Publication: Proceedings of INFOCOM'97 2, 455-462
+
+147. Bootstrap percolation, and other automata
+Citations:17
+Authors: R Morris
+Publication: European Journal of Combinatorics 66, 250-263
+
+148. Expression of β-globin by cancer cells promotes cell survival during blood-borne dissemination
+Citations:17
+Authors: Y Zheng, DT Miyamoto, BS Wittner, JP Sullivan, N Aceto, NV Jordan, ...
+Publication: Nature communications 8, 14344
+
+149. A refinement of the Cameron–Erdős conjecture
+Citations:16
+Authors: N Alon, J Balogh, R Morris, W Samotij
+Publication: Proceedings of the London Mathematical Society 108 (1), 44-72
+
+150. A model for analyzing the roles of network and user behavior in congestion control
+Citations:16
+Authors: R Morris, Y Tay
+Publication: Tech. Rep. MIT-LCS-TR898
+
+151. Quenched Voronoi percolation
+Citations:15
+Authors: D Ahlberg, S Griffiths, R Morris, V Tassion
+Publication: Advances in Mathematics 286, 889-911
+
+152. The secretary problem on an unknown poset
+Citations:15
+Authors: B Garrod, R Morris
+Publication: Random Structures & Algorithms 43 (4), 429-451
+
+153. The sharp threshold for the Duarte model
+Citations:14
+Authors: B Bollobás, H Duminil-Copin, R Morris, P Smith
+Publication: The Annals of Probability 45 (6B), 4222-4272
+
+154. UsenetDHT: A Low-Overhead Design for Usenet.
+Citations:14
+Authors: E Sit, RT Morris, MF Kaashoek
+Publication: NSDI 8, 133-146
+
+155. Document clustering for distributed fulltext search
+Citations:14
+Authors: J Li, R Morris
+Publication: 2nd MIT Student Oxygen Workshop, Cambridge, MA
+
+156. The Hagelin cipher machine (M-209) reconstruction of the internal settings
+Citations:14
+Authors: R Morris
+Publication: Cryptologia 2 (3), 267-289
+
+157. dREAM co-operates with insulator-binding proteins and regulates expression at divergently paired genes
+Citations:13
+Authors: M Korenjak, E Kwon, RT Morris, E Anderssen, A Amzallag, ...
+Publication: Nucleic acids research 42 (14), 8939-8953
+
+158. Highly connected multicoloured subgraphs of multicoloured graphs
+Citations:13
+Authors: H Liu, R Morris, N Prince
+Publication: Discrete Mathematics 308 (22), 5096-5121
+
+159. The typical structure of graphs with no large cliques
+Citations:12
+Authors: J Balogh, N Bushaw, M Collares, H Liu, R Morris, M Sharifzadeh
+Publication: Combinatorica 37 (4), 617-632
+
+160. Counting sets with small sumset and applications
+Citations:12
+Authors: B Green, R Morris
+Publication: Combinatorica 36 (2), 129-159
+
+161. Amber: Decoupling user data from web applications
+Citations:12
+Authors: T Chajed, J Gjengset, J Van Den Hooff, MF Kaashoek, J Mickens, ...
+Publication: 15th Workshop on Hot Topics in Operating Systems (HotOS {XV})
+
+162. Credit-based flow control for ATM networks
+Citations:11
+Authors: HT Kung, R Morris
+Publication: IEEE Network
+
+163. The Ramsey number of the clique and the hypercube
+Citations:10
+Authors: G Fiz Pontiveros, S Griffiths, R Morris, D Saxton, J Skokan
+Publication: Journal of the London Mathematical Society 89 (3), 680-702
+
+164. Random sum-free subsets of Abelian groups
+Citations:10
+Authors: J Balogh, R Morris, W Samotij
+Publication: Israel Journal of Mathematics 199 (2), 651-685
+
+165. Optimizing MapReduce for multicore architectures
+Citations:10
+Authors: F Kaashoek, R Morris, Y Mao
+Publication: 
+
+166. Maximum-size antichains in random sets
+Citations:9
+Authors: MC Neto, R Morris
+Publication: ArXiv eprints 1404
+
+167. Architecture and evaluation of the mit roofnet mesh network
+Citations:9
+Authors: J Bicket, S Biswas, D Aguayo, R Morris
+Publication: 
+
+168. Maximum‐size antichains in random set‐systems
+Citations:8
+Authors: M Collares, R Morris
+Publication: Random Structures & Algorithms 49 (2), 308-321
+
+169. Noria: dynamic, partially-stateful data-flow for high-performance web applications
+Citations:7
+Authors: J Gjengset, M Schwarzkopf, J Behrens, LT Araújo, M Ek, E Kohler, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+170. Easy freshness with Pequod cache joins
+Citations:7
+Authors: B Kate, E Kohler, MS Kester, N Narula, Y Mao, R Morris
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+171. Optimizing RAM-latency dominated applications.
+Citations:7
+Authors: Y Mao, C Cutler, RT Morris
+Publication: APSys, 12:1-12:5
+
+172. Equilibrium analysis through separation of user and network behavior
+Citations:7
+Authors: YC Tay, DN Tran, EY Liu, WT Ooi, R Morris
+Publication: Computer Networks 52 (18), 3405-3420
+
+173. Enabling open-source cognitively-controlled collaboration among software-defined radio nodes
+Citations:7
+Authors: GD Troxel, E Blossom, S Boswell, A Caro, I Castineyra, A Colvin, T Dreier, ...
+Publication: Computer Networks 52 (4), 898-911
+
+174. NFS dynamics over flow-controlled wide area networks
+Citations:7
+Authors: K Chang, R Morris, HT Kung
+Publication: Proceedings of INFOCOM'97 2, 619-625
+
+175. Stromal Microenvironment Shapes the Intratumoral Architecture of Pancreatic Cancer
+Citations:6
+Authors: M Ligorio, S Sil, J Malagon-Lopez, LT Nieman, S Misale, M Di Pilato, ...
+Publication: Cell
+
+176. The benefits and costs of writing a {POSIX} kernel in a high-level language
+Citations:6
+Authors: C Cutler, MF Kaashoek, RT Morris
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+177. Chromatic thresholds in sparse random graphs
+Citations:6
+Authors: P Allen, J Böttcher, S Griffiths, Y Kohayakawa, R Morris
+Publication: Random Structures & Algorithms 51 (2), 215-236
+
+178. A software approach to unifying multicore caches
+Citations:6
+Authors: S Boyd-Wickizer, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+179. Extremal and probabilistic combinatorics
+Citations:6
+Authors: R Morris, RI Oliveira
+Publication: Publicaçoes Matemáticas. Instituto de Matemática Pura e Aplicada
+
+180. The grid ad hoc networking project
+Citations:6
+Authors: R Morris, F Kaashoek, D Karger, D Aguayo, J Bicket, S Biswas, ...
+Publication: 
+
+181. Looking up data in P2P systems
+Citations:6
+Authors: I Stoica, R Morris, D Karger, F Kaashoek, H Balakrishnan
+Publication: Communications of the ACM 46 (2)
+
+182. An Experimental Flow-Controlled Multicast ATM Switch
+Citations:6
+Authors: T Blackwell, K Chan, K Chang, T Charuhas, B Karp, HT Kung, D Lin, ...
+Publication: Proceedings of the First Annual Conference on Telecommunications in …
+
+183. E2F/DP prevents cell-cycle progression in endocycling fat body cells by suppressing dATM expression
+Citations:5
+Authors: A Guarner, R Morris, M Korenjak, M Boukhali, MP Zappia, C Van Rechem, ...
+Publication: Developmental cell 43 (6), 689-703. e5
+
+184. The scalable commutativity rule: designing scalable software for multicore processors
+Citations:5
+Authors: AT Clements, MF Kaashoek, E Kohler, RT Morris, N Zeldovich
+Publication: Communications of the ACM 60 (8), 83-90
+
+185. Reducing pause times with clustered collection
+Citations:5
+Authors: C Cutler, R Morris
+Publication: ACM SIGPLAN Notices 50 (11), 131-142
+
+186. The second term for bootstrap percolation in two dimensions
+Citations:5
+Authors: R Morris
+Publication: preparation, http://w3. impa. br/~ rob/boot2d_sharp. pdf
+
+187. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:5
+Authors: D Lindley
+Publication: Communications of the ACM 52 (10), 11-13
+
+188. Simplifying wide-area application development with WheelFS
+Citations:5
+Authors: J Stribling, Y Sovran, I Zhang, X Pretzer, J Li, F Kaashoek, R Morris
+Publication: Symposium on Networked Systems Design and Implementation, 43-58
+
+189. Toward secure services from untrusted developers
+Citations:5
+Authors: M Brodsky, P Efstathopoulos, F Kaashoek, E Kohier, M Krohn, D Mazieres, ...
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+190. Password security
+Citations:5
+Authors: R Morris, K Thompson
+Publication: Bell Laboratories
+
+191. On the Ramsey number of the triangle and the cube
+Citations:4
+Authors: GF Pontiveros, S Griffiths, R Morris, D Saxton, J Skokan
+Publication: Combinatorica 36 (1), 71-89
+
+192. Connected greedy colourings
+Citations:4
+Authors: F Benevides, V Campos, M Dourado, S Griffiths, R Morris, L Sampaio, ...
+Publication: Latin American Symposium on Theoretical Informatics, 433-441
+
+193. Exploring the design of multi-site Web servies using the OverCite digital library [to appear]
+Citations:4
+Authors: J Stribling, J Li, IG Council, MF Kaashoek, R Morris, F Dabek, IG Councill, ...
+Publication: Proceedings of the 3rd Symposium on Networked System Design and …
+
+194. DHT routing tradeoffs in networks with churn
+Citations:4
+Authors: J Li, J Stribling, R Morris, MF Kaashoek, TM Gil
+Publication: Proceedings of the 3rd International Workshop on Peer-to-Peer Systems (IPTPS’04)
+
+195. DC− An Interactive Desk Calculator
+Citations:4
+Authors: R Morris, L Cherry
+Publication: Unix Programmer’s Manual [Uni79]
+
+196. Detailed behavior of TCP over ATM
+Citations:4
+Authors: R Morris
+Publication: 
+
+197. The sharp threshold for maximum-size sum-free subsets in even-order abelian groups
+Citations:3
+Authors: N Bushaw, MC Neto, R Morris, P Smith
+Publication: Combinatorics, Probability and Computing 24 (4), 609-640
+
+198. Glauber dynamics in high dimensions
+Citations:3
+Authors: R Morris
+Publication: arXiv preprint arXiv:0809.0353
+
+199. Distributed data storage for P2P and ad hoc networks
+Citations:3
+Authors: R Morris
+Publication: NTT Tech. Rev. 1 (6), 29-36
+
+200. Building Data Structures on Untrusted Peer-to-Peer Storage with Per-participant Logs
+Citations:3
+Authors: B Chen, TM Gil, A Muthitacharoen, R Morris
+Publication: 
+
+201. CarNet: A scalable hoc wireless network system
+Citations:3
+Authors: R Morris
+Publication: Proceedings of the 9th ACM SIGOPS European workshop: Beyond the PC: New …
+
+202. Competition in growth and urns
+Citations:2
+Authors: D Ahlberg, S Griffiths, S Janson, R Morris
+Publication: Random Structures & Algorithms 54 (2), 211-227
+
+203. Executing web application queries on a partitioned database
+Citations:2
+Authors: N Narula, R Morris
+Publication: Presented as part of the 3rd {USENIX} Conference on Web Application …
+
+204. Shadows of ordered graphs
+Citations:2
+Authors: B Bollobás, G Brightwell, R Morris
+Publication: Journal of combinatorial theory, series A 118 (3), 729-747
+
+205. Corey: An operating system for many cores
+Citations:2
+Authors: H Chen, R Chen, Y Mao, F Kaashoek, R Morris, A Pesterev, L Stein, M Wu, ...
+Publication: Proceedings of the 8th USENIX Conference on Operating Systems Design and …
+
+206. World Wide Web Without Walls
+Citations:2
+Authors: MZ Brodsky, M Krohn, R Morris, M Walfish, A Yip
+Publication: 
+
+207. Link-level Measurements from an 802.11 b Mesh Network
+Citations:2
+Authors: DAJBS Biswas, G Judd, R Morris
+Publication: SIGCOMM
+
+208. Brief announcement: building data structures on untrusted peer-to-peer storage with per-participant logs
+Citations:2
+Authors: B Chen, TM Gil, A Muthitacharoen, R Morris
+Publication: Annual ACM Symposium on Principles of Distributed Computing: Proceedings of …
+
+209. Technical and Social Components of Peer-to-Peer Computing-Looking Up Data in P2P Systems
+Citations:2
+Authors: H Balakrishnan, MF Kaashoek, D Karger, R Morris, I Stoica
+Publication: Communications of the ACM-Association for Computing Machinery-CACM 46 (2), 43-48
+
+210. Building Peer-to-Peer Systems with Chord: a Distributed Lookup Service
+Citations:2
+Authors: R Morris, H Balakrishnan
+Publication: Schloss Elmau, Germany
+
+211. DNS Performance and the Effectiveness of Caching
+Citations:2
+Authors: JJ Emil, E Sit, H Balakrishnan, R Morris
+Publication: IEEE/ACM Transactions on Networking
+
+212. Span: Topology Maintenance for Energy Efficiency in Ad Hoc Wireless Networks
+Citations:2
+Authors: K Jamieson, B Chen, H Balakrishnan, R Morris
+Publication: Proc. ACM MobiCom 2001 conference
+
+213. ACM
+Citations:2
+Authors: R Morris
+Publication: 
+
+214. DNS and Distributed Hash Tables Not Quite Perfect Together
+Citations:2
+Authors: R Cox, A Muthitacharoen, R Morris
+Publication: 
+
+215. A scalable location service for geographic ad-hoc routing
+Citations:2
+Authors: R Monis
+Publication: Pmr. of ACM Mobile Communications Conference
+
+216. A Code of Mono-phosphorylation Modulates the Function of RB
+Citations:1
+Authors: I Sanidas, R Morris, KA Fella, PH Rumde, M Boukhali, EC Tai, DT Ting, ...
+Publication: Molecular cell 73 (5), 985-1000. e6
+
+217. Proteogenomic analysis of surgically resected lung adenocarcinoma
+Citations:1
+Authors: MF Sharpnack, N Ranbaduge, A Srivastava, F Cerciello, SG Codreanu, ...
+Publication: Journal of Thoracic Oncology 13 (10), 1519-1529
+
+218. The sharp threshold for making squares
+Citations:1
+Authors: P Balister, B Bollobás, R Morris
+Publication: Annals of Mathematics 188 (1), 49-143
+
+219. Monotone cellular automata
+Citations:1
+Authors: R Morris
+Publication: Surveys in Combinatorics 2017 440, 312
+
+220. Nucleation and growth in two dimensions
+Citations:1
+Authors: B Bollobás, S Griffiths, R Morris, L Rolla, P Smith
+Publication: arXiv preprint arXiv:1508.06267
+
+221. Device-transparent personal storage.
+Citations:1
+Authors: JA Strauss, JM Paluska, C Lesniewski-Laas, B Ford, R Morris, ...
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+222. MIT Laboratory for Computer Science,“
+Citations:1
+Authors: B Chen, R Morris
+Publication: Certifying Program Execution with Secure Processors,” in USENIX HotOS Workshop
+
+223. Discrete-space lagrangian optimization for multi-objective temporal planning
+Citations:1
+Authors: BW Wah, Y Chen, R Morris
+Publication: Fourth Int’l Workshop on Distributed Constraint Reasoning, 115-121
+
+224. Chord: Scalable, Robust Peer-to-Peer Services
+Citations:1
+Authors: H Balakrishnan, J Cates, F Dabek, F Kaashoek, D Karger, D Liben-Nowell, ...
+Publication: MIT Laboratory for Computer Science
+
+225. Grid: Scalable Wireless Mobile Networks
+Citations:1
+Authors: B Chen, D DeCouto, J Jannotti, HI Lee, J Li, C Blake, D Aguayo, R Morris
+Publication: MIT Laboratory for Computer Science, March
+
+226. Click: Modular, Flexible, and Efficient PC Routers [Z]
+Citations:1
+Authors: B Chen, E Kohler, M Poletto, R Morris
+Publication: MIT Laboratory for Computer Science
+
+227. CarNet: Abscalable ad hoc wireless network system
+Citations:1
+Authors: R Morris
+Publication: Proc. 9th AGM SIGOPS European workshop: Beyond the PC: New Challenges for …
+
+228. Implementation of an Activity Coordination System.
+Citations:1
+Authors: R Morris
+Publication: KBSE, 208-214
+
+229. UNIX system security
+Citations:1
+Authors: FT Grampp, RH Morris
+Publication: UNIX Vol. II, 543-555
+
+230. Another Try at Uucp
+Citations:1
+Authors: RT Morris
+Publication: AT and T Bell Laboratories. Computing Science
+
+231. SETD1A protects from senescence through regulation of the mitotic gene expression program
+Citations:
+Authors: K Tajima, S Matsuda, T Yae, BJ Drapkin, R Morris, M Boukhali, ...
+Publication: Nature communications 10 (1), 2854
+
+232. The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language
+Citations:
+Authors: C Cutler, MF Kaashoek, RT Morris
+Publication: ; login: 44 (1)
+
+233. Towards Multiverse Databases
+Citations:
+Authors: A Marzoev, LT Araújo, M Schwarzkopf, S Yagati, E Kohler, R Morris, ...
+Publication: Proceedings of the Workshop on Hot Topics in Operating Systems, 88-95
+
+234. Digital Art as “Monetised Graphics”: Enforcing Intellectual Property on the Blockchain
+Citations:
+Authors: A Dekker, J Abbate, H Abbing, H Abelson, GJSJ Sussman, PD Adamczyk, ...
+Publication: Collecting and Conserving Net Art: Moving beyond Conventional Methods 1 (1 …
+
+235. Proliferation during epithelial-to-mesenchymal transition induces genomic instability
+Citations:
+Authors: V Comaills, L Kabeche, R Morris, M Yu, MW Madden, JA LiCausi, N Aceto, ...
+Publication: Cancer Research 77 (13 Supplement), 1410-1410
+
+236. Oort: User-Centric Cloud Storage with Global Queries
+Citations:
+Authors: T Chajed, J Gjengset, MF Kaashoek, J Mickens, R Morris, N Zeldovich
+Publication: 
+
+237. Abstract IA15: The consequences of pRb inactivation: insights from a proteomic analysis of Rb loss
+Citations:
+Authors: BN Nicolay, PS Danielian, F Kottakis, JD Lapek, I Sanidas, WO Miles, ...
+Publication: Molecular Cancer Research 14 (11 Supplement), IA15-IA15
+
+238. Induction of β-globin protects circulating tumor cells from oxidative stress during dissemination
+Citations:
+Authors: Y Zheng, DT Miyamoto, BS Wittner, JP Sullivan, N Aceto, NV Jordan, ...
+Publication: Cancer Research 76 (14 Supplement), 2679-2679
+
+239. HONG LIU Curriculum Vitae
+Citations:
+Authors: J Balogh, H Liu, S Petrıcková, M Sharifzadeh, N Bushaw, MC Neto, ...
+Publication: Journal of Combinatorial Theory Series A 132, 224-245
+
+240. 6.033 Computer System Engineering, Spring 2009
+Citations:
+Authors: R Morris, S Madden
+Publication: 
+
+241. US Evidence on Bank Takeover Motives: A Note
+Citations:
+Authors: E Kudisch, J Ahlroth, J Alkio, R Altman, R Altman, R Ascott, AS Edward, ...
+Publication: From Pac-Man to Pop Music: Interactive Audio in Games and New Media 80 (4 …
+
+242. Session 1-Integrity and Isolation-Labels and Event Processes in the Asbestos Operating System
+Citations:
+Authors: PKM Efstathopoulos, SFC VanDeBogart, DKE Ziegler, DKF Mazieres, ...
+Publication: SIGOPS Operating Systems Review 40 (5), 17-30
+
+243. MR2260120 (2007f: 05126) 05C65 (05A05)
+Citations:
+Authors: J Balogh, B Bollobás, R Morris
+Publication: European J. Combin 27 (8), 1263-1281
+
+244. UIA: a user information architecture for personal devices
+Citations:
+Authors: B Ford, J Strauss, C Lesniewski-Laas, F Kaashoek, R Morris, S Rhea
+Publication: Proceedings of the twentieth ACM symposium on Operating systems principles, 1-2
+
+245. Asbestos: Securing Untrusted Software with Interposition
+Citations:
+Authors: D Mazieres, E Kohler, F Kaashoek, R Morris
+Publication: NEW YORK UNIV NY DEPT OF COMPUTER SCIENCE
+
+246. A Random Walk Based Anonymous Peer-to-Peer Protocol Design.
+Citations:
+Authors: X Wang, L Yang, X Sun, J Han, W Liang, L Huang, S Akleylek, ...
+Publication: Information Technology Journal 9 (6), pp: 258-264
+
+247. CSMA/CA performance under high traffic conditions: Throughput and delay analysis.
+Citations:
+Authors: G Xiaohu, Z Yaoting, D Aguayo, J Bicket, S Biswas, G Judd, R Morris, ...
+Publication: Information Technology Journal 6 (4), pp: 121-132
+
+248. High-Throughput Routing For Multi-Hop Wireless Networks
+Citations:
+Authors: RT Morris, AC Smith, DSJ De Couto
+Publication: 
+
+249. Building Data Structures on Untrusted Peer-to-Peer Storage (Brief Announcement)
+Citations:
+Authors: B Chen, R Morris
+Publication: PROCEEDINGS OF THE ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED …
+
+250. A high-throughput path metric for multi-hop wireless routing
+Citations:
+Authors: S DIEGO
+Publication: SESSION: Routing optimizations, 2003
+
+251. Session details: Peer-to-peer infrastructure
+Citations:
+Authors: R Morris
+Publication: ACM SIGOPS Operating Systems Review 36 (SI)
+
+252. RON: Choosing Resiliency
+Citations:
+Authors: DG Andersen, H Balakrishnan, MF Kaashoek, R Morris, A Snoeren
+Publication: 
+
+253. 6.824 Distributed Computer Systems, Fall 2002
+Citations:
+Authors: RT Morris
+Publication: 
+
+254. It is easy to run a secure computer system. You merely have to disconnect all dial-up connections and permit only direct-wired terminals, put the machine and its terminals in a …
+Citations:
+Authors: FT Grampp, RH Morris
+Publication: 
+
+255. Papers from the second symposium on symbolic and algebraic manipulation
+Citations:
+Authors: R Morris
+Publication: Communications of the ACM 14 (8), 509-510
+
+256. Some Administrative Problems in Adaptation of Houses for Home Dialysis
+Citations:
+Authors: BW Douglas, L Thomas, M Carr, NM Cullen, R Morris
+Publication: Surgery 113, 414
+
+257. йCopyright 1994 AT&T and Lumeta Corporation. All Rights Reserved. Notice: For personal use only. These materials may not be reproduced or distributed in any form or by any …
+Citations:
+Authors: FT GRAMPP, RH MORRIS
+Publication: 
+
+258. A New Take on Fast Web Application Backends
+Citations:
+Authors: J Gjengset, M Schwarzkopf, J Behrens, LT Araújo, M Ek, E Kohler, ...
+Publication: 
+
+259. OverCite
+Citations:
+Authors: J Stribling, IG Councill, J Li, MF Kaashoek, D Karger, R Morris, S Shenker
+Publication: 
+
+260. A Scalable Location Service for Geographic Ad Hoc Routing (2000)
+Citations:
+Authors: J Li, J Jannotti, DSJ De Couto, DR Karger, R Morris
+Publication: 
+
+261. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+262. THE METHOD OF HYPERGRAPH CONTAINERS
+Citations:
+Authors: R MORRIS
+Publication: 
+
+263. MR2336337 (2008d: 05063) 05C20 (05C35)
+Citations:
+Authors: J Balogh, B Bollobás, R Morris
+Publication: 
+
+264. Research Abstracts-2006
+Citations:
+Authors: MF Kaashoek, D Karger, R Morris, E Sit, J Stribling
+Publication: 
+
+265. Perceptual Interfaces
+Citations:
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris, NB Priyantha, ...
+Publication: 
+
+266. a simple, Unix-like teaching operating system
+Citations:
+Authors: R Cox, F Kaashoek, R Morris
+Publication: 
+
+267. 1985 IEEE Symposium on Computer Security and Privacy
+Citations:
+Authors: G Chairman, R Morris, JK Millen, VD Gligor, S Kent, C BBN, R Platek, ...
+Publication: 
+
+268. Research Abstracts-2006
+Citations:
+Authors: DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...
+Publication: 
+
+269. Flattening the Internet: A Proposal for Global Device-to-Device Connectivity
+Citations:
+Authors: H Balakrishnan, J Guttag, MF Kaashoek, D Katabi, S Madden, R Morris, ...
+Publication: 
+
+270. A Demand and Supply Model for Analyzing How Link Congestion Affects Traffic Equilibrium
+Citations:
+Authors: R Morris, WT Ooi, YC Tay, EY Liu, DN Tran
+Publication: 
+
+271. Data Management in an Connected World
+Citations:
+Authors: H Balakrishnan, J Guttag, F Kaashoek, BC Kuszmaul, CE Leiserson, ...
+Publication: 
+
+272. Grid: Scalable Wireless Mobile Networks
+Citations:
+Authors: DSJ De Couto, J Bicket, D Aguayo, R Morris
+Publication: 
+
+273. Extracting parallelism in OS kernels using type-safe languages
+Citations:
+Authors: C Cutler, MF Kaashoek, R Morris, N Zeldovich
+Publication: 
+
+274. Atomic Mutable Data in a Distributed Hash Table
+Citations:
+Authors: A Muthitacharoen, R Morris
+Publication: 
+
+275. Re-engineering Usenet to Provide Censorship Resistant Publishing
+Citations:
+Authors: R Clayton, G Danezis, E Sit, CT Lesniewski-Laas, MF Kaashoek, R Morris
+Publication: 
+
+276. Architecture and Evaluation of the MIT Roofnet Mesh Network (DRAFT)
+Citations:
+Authors: JBSBD Aguayo, R Morris
+Publication: 
+
+277. Chord and the Iris Project: Scalable, Robust Peer-to-Peer Services
+Citations:
+Authors: H Balakrishnan, J Cates, B Chen, F Dabek, T Gil, F Kaashoek, D Karger, ...
+Publication: 
+
+278. The Limits of Transmit Power Control in Wireless Networks
+Citations:
+Authors: S Jayashree, R Morris
+Publication: 
+
+279. 操作系统技术报告
+Citations:
+Authors: S Boyd-Wickizer, H Chen, R Chen, Y Mao, F Kaashoek, R Morris, ...
+Publication: 
+
+280. The IRIS Project: Scalable, Robust, Peer-to-Peer Storage
+Citations:
+Authors: J Cates, B Chen, F Dabek, T Gil, MF Kaashoek, D Karger, J Li, ...
+Publication: 
+
+281. High Performance Server Architectures
+Citations:
+Authors: A Yip, S Biswas, T Gil, F Dabek, R Morris, F Kaashoek
+Publication: 
+
+282. Span: An Energy-Effi cient Coordination Algorithm for
+Citations:
+Authors: B Chen, K Jamieson, H Balakrishnan, R Morris
+Publication: 
+

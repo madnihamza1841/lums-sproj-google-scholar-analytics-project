@@ -1,0 +1,190 @@
+
+17. Accurate and fast proximity queries between polyhedra using convex surface decomposition
+Citations:364
+Authors: SA Ehmann, MC Lin
+Publication: Computer Graphics Forum 20 (3), 500-511
+
+27. MMR: An interactive massive model rendering system using geometric and image-based acceleration
+Citations:247
+Authors: D Aliaga, J Cohen, A Wilson, E Baker, H Zhang, C Erikson, K Hoff, ...
+Publication: Proceedings of the 1999 symposium on Interactive 3D graphics, 199-206
+
+54. Interactive collision detection between deformable models using chromatic decomposition
+Citations:154
+Authors: NK Govindaraju, D Knott, N Jain, I Kabul, R Tamstorf, R Gayle, MC Lin, ...
+Publication: ACM Transactions on graphics (TOG) 24 (3), 991-999
+
+66. 3D Visibility: analytical study and applications
+Citations:140
+Authors: F Durand
+Publication: Proceedings of PhD Dissertation published 1999
+
+68. Fast collision detection for deformable models using representative· triangles
+Citations:139
+Authors: S Curtis, R Tamstorf, D Manocha.
+Publication: Symposium on Interactive 3D Graphics
+
+73. Accelerated proximity queries between convex polyhedra by multi-level voronoi marching
+Citations:131
+Authors: SA Ehmann, MC Lin
+Publication: Proceedings. 2000 IEEE/RSJ International Conference on Intelligent Robots …
+
+123. Algorithmic issues in modeling motion
+Citations:86
+Authors: PK Agarwal, LJ Guibas, H Edelsbrunner, J Erickson, M Isard, S Har-Peled, ...
+Publication: ACM Computing Surveys (CSUR) 34 (4), 550-572
+
+132. Ilknur Kabul, Rasmus Tamstorf, Russell Gayle, Ming C. Lin, Dinesh Manocha, Interactive collision detection between deformable models using chromatic decomposition
+Citations:77
+Authors: NK Govindaraju, D Knott, N Jain
+Publication: ACM Transactions on Graphics (TOG) 24 (3)
+
+142. GPUQP: query co-processing using graphics processors
+Citations:71
+Authors: R Fang, B He, M Lu, K Yang, NK Govindaraju, Q Luo, PV Sander
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+148. Optimizing cuda
+Citations:68
+Authors: M Harris
+Publication: SC07: High Performance Computing With CUDA 60
+
+162. Proceedings of the 28th annual conference on Computer graphics and interactive techniques
+Citations:60
+Authors: L Pocock, SIGGRAPH (Conference)
+Publication: ACM
+
+180. A framework for the real-time walkthrough of massive models
+Citations:51
+Authors: D Aliaga, J Cohen, A Wilson, H Zhang, C Erikson, K Hoff, T Hudson, ...
+Publication: 
+
+224. The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
+Citations:34
+Authors: PJ Denning
+Publication: Communications of the ACM 56 (5), 35-38
+
+257. General-purpose computation on graphics hardware
+Citations:26
+Authors: D Luebke, M Harris
+Publication: Workshop, SIGGRAPH
+
+261. Autonomous robotic sensing experiments at san joaquin river
+Citations:25
+Authors: A Singh, MA Batalin, V Chen, M Stealey, B Jordan, JC Fisher, TC Harmon, ...
+Publication: Proceedings 2007 IEEE International Conference on Robotics and Automation …
+
+271. Curves and surfaces
+Citations:22
+Authors: PJ Laurent, A Le Méhauté, LL Schumaker
+Publication: Academic Press
+
+279. Acoustic pulse propagation in an urban environment using a three-dimensional numerical simulation
+Citations:20
+Authors: R Mehra, N Raghuvanshi, A Chandak, DG Albert, D Keith Wilson, ...
+Publication: The Journal of the Acoustical Society of America 135 (6), 3231-3242
+
+306. Towards a digital makkah–using immersive 3d environments to train and prepare pilgrims
+Citations:16
+Authors: J Schneider, D Garatly, M Srinivasan, SJ Guy, S Curtis, S Cutchin, ...
+Publication: International Conference on Digital Media and its Applications in Cultural …
+
+308. Development of a new dynamic NURBS-based cardiac-torso (NCAT) phantom Phd dissertation The University of North Carolina
+Citations:16
+Authors: WP Segars
+Publication: Chapel Hill, NC
+
+323. Spoke-darts for high-dimensional blue-noise sampling
+Citations:13
+Authors: SA Mitchell, MS Ebeida, MA Awad, C Park, A Patney, AA Rushdi, ...
+Publication: ACM Transactions on Graphics (TOG) 37 (2), 22
+
+331. Real-time path planning and navigation for multi-agent and crowd simulations
+Citations:13
+Authors: MC Lin, A Sud, J Van den Berg, R Gayle, S Curtis, H Yeh, S Guy, ...
+Publication: International Workshop on Motion in Games, 23-32
+
+367. Exact Delaunay graph of smooth convex pseudo-circles: general predicates, and implementation for ellipses, 2009 SIAM
+Citations:9
+Authors: IZ Emiris, EP Tsigaridas, MT George
+Publication: ACM Joint Conference on Geometric and Physical Modeling
+
+368. 基于 SIMD 指令的柔性物体并行碰撞检测
+Citations:9
+Authors: 唐敏， 童若锋
+Publication: 计算机学报, 2042-2051
+
+371. Touch in Virtual Environments: Haptics and the Design of Interactive Systems
+Citations:9
+Authors: A Ortega, Y Liu
+Publication: Prentice Hall
+
+377. Independent navigation of multiple robots and virtual agents
+Citations:8
+Authors: J Snape, SJ Guy, J Van Den Berg
+Publication: Proceedings of the 9th International Conference on Autonomous Agents and …
+
+378. Interactive modeling, simulation and control of large-scale crowds and traffic
+Citations:8
+Authors: MC Lin, S Guy, R Narain, J Sewall, S Patil, J Chhugani, A Golas, ...
+Publication: International Workshop on Motion in Games, 94-103
+
+396. Ming Lin. Dinesh Manocha. Madhav Ponamgi.“I-COLLIDE: An Interactive and Exact Collision Detection System for Largescale Environments,”
+Citations:7
+Authors: J Cohen
+Publication: Proceedings of the 1995 Symposium on Interactive 3D Graphics, 189-196
+
+408. Recent advances in real-time collision and proximity computations for games and simulations
+Citations:6
+Authors: S Yoon, YJ Kim, T Harada, YJ Kim, S Yoon
+Publication: ACM SIGGRAPH ASIA 2010 Courses, 22
+
+411. State of the art in interactive ray tracing
+Citations:6
+Authors: P Shirley, S Boulos, G Stoll, DM UNC, CL UNC, I Wald, A Stephens
+Publication: ACM SIGGRAPH 2006 Courses 9
+
+418. AADS: Augmented autonomous driving simulation using data-driven algorithms
+Citations:5
+Authors: W Li, C Pan, R Zhang, J Ren, Y Ma, J Fang, F Yan, Q Geng, X Huang, ...
+Publication: arXiv preprint arXiv:1901.07849
+
+427. Efficient and Reliable Self-Collision Culling using Unprojected Normal Cones
+Citations:5
+Authors: DM Tongtong Wang, Zhihua Liu, Min Tang, Ruofeng Tong
+Publication: Computer Graphics Forum
+
+444. Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation
+Citations:5
+Authors: R Parent, K Singh, DE Breen, MC Lin
+Publication: Eurographics Association Aire-la-Ville
+
+470. Algorithms in Bioinformatics: 4th International Workshop, WABI 2004, Bergen, Norway, September 17-21, 2004, Proceedings
+Citations:4
+Authors: I Jonassen, J Kim
+Publication: Springer Science & Business Media
+
+471. MC Lin et D. Manocha. Fast Penetration Depth Computation for Physically-Based Animation
+Citations:4
+Authors: YJ Kim, MA Otaduy
+Publication: Proceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium on Computer …
+
+480. E cient and Accurate Boundary Evaluation Algorithms for Sculptured Solids
+Citations:4
+Authors: S Krishnan
+Publication: PhD thesis, Department of Computer Science, University of N. Carolina at …
+
+486. M, LIN, D. MANOCHA
+Citations:4
+Authors: K Hoff, T Culver, J Keyser
+Publication: Fast Computation of Generalized Voronoi Diagrams Using Graphics Hardware …
+
+488. Pinxin Long, Wenxi Liu, Ruigang Yang, and Dinesh Manocha. Getting robots unfrozen and unlost in dense pedestrian crowds
+Citations:3
+Authors: T Fan, X Cheng, J Pan
+Publication: IEEE RAL
+
+499. et alRobotics Research: The 14th International Symposium ISRR
+Citations:3
+Authors: J Van den Berg, S Guy, M Lin
+Publication: Springer Tracts in Advanced Robotics). Pradalier CSiegwart RHirzinger G, ed …

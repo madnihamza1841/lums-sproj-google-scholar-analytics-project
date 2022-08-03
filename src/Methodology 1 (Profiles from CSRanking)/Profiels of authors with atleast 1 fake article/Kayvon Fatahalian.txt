@@ -1,0 +1,60 @@
+
+4. Green-Marl: a DSL for easy and efficient graph analysis
+Citations:273
+Authors: S Hong, H Chafi, E Sedlar, K Olukotun
+Publication: ACM SIGARCH Computer Architecture News 40 (1), 349-362
+
+10. Optimizing data structures in high-level programs: new directions for extensible compilers based on staging
+Citations:106
+Authors: T Rompf, AK Sujeeth, N Amin, KJ Brown, V Jovanovic, HJ Lee, ...
+Publication: Acm Sigplan Notices 48 (1), 497-510
+
+13. GPUBench: Evaluating GPU performance for numerical and scientific application
+Citations:69
+Authors: I Buck
+Publication: Proc. 1st ACM Workshop General-Purpose Computing on Graphics Processors (GP …
+
+14. Composition and reuse with compiled domain-specific languages
+Citations:68
+Authors: AK Sujeeth, T Rompf, KJ Brown, HJ Lee, H Chafi, V Popic, M Wu, ...
+Publication: European Conference on Object-Oriented Programming, 52-78
+
+20. System, method, and computer program product for performing object-space shading
+Citations:52
+Authors: A Patney, EB Enderton, EB Lum, M Salvi, CR Wyman, Y Zhang, Y He, ...
+Publication: US Patent 9,747,718
+
+25. System, method, and computer program product for shading using a dynamic object-space grid
+Citations:44
+Authors: A Patney, EB Enderton, EB Lum, M Salvi, CR Wyman, Y Zhang, Y He, ...
+Publication: US Patent 9,754,407
+
+33. Brook for gpus
+Citations:21
+Authors: I Buck, T Foley, D Horn, J Sugerman, P Hanrahan, M Houston, ...
+Publication: 
+
+48. A case of system-level hardware/software co-design and co-verification of a commodity multi-processor system with custom hardware
+Citations:6
+Authors: S Hong, T Oguntebi, J Casper, N Bronson, C Kozyrakis, K Olukotun
+Publication: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware …
+
+50. Design and novel uses of higher-dimensional rasterization
+Citations:5
+Authors: J Nilsson, P Clarberg, B Johnsson, J Munkberg, J Hasselgren, R Toth, ...
+Publication: Proceedings of the Fourth ACM SIGGRAPH/Eurographics conference on High …
+
+52. Design and process for a dual gate structure
+Citations:4
+Authors: JJ Liaw
+Publication: US Patent 6,614,067
+
+56. An embedded image processing platform.
+Citations:2
+Authors: Z Duan, T Lei, H Fan, XB Shen, B Serebrin, JD Owens, CH Chen, ...
+Publication: Information Technology Journal 11 (3), pp: 250-251-pp: 250-251
+
+60. Learning to optimize halide with tree search and random programs
+Citations:
+Authors: A Adams, K Ma, L Anderson, R Baghdadi, TM Li, M Gharbi, B Steiner, ...
+Publication: ACM Transactions on Graphics (TOG) 38 (4), 121

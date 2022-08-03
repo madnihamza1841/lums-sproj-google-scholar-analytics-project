@@ -1,0 +1,823 @@
+https://scholar.google.com/citations?hl=en&user=lBzZU1IAAAAJ
+Total Citations = 10535
+
+1. Hash-based IP traceback
+Citations:1110
+Authors: AC Snoeren, C Partridge, LA Sanchez, CE Jones, F Tchakountio, ST Kent, ...
+Publication: ACM SIGCOMM Computer Communication Review 31 (4), 3-14
+
+2. An end-to-end approach to host mobility
+Citations:864
+Authors: AC Snoeren, H Balakrishnan
+Publication: Proceedings of the 6th annual international conference on Mobile computing …
+
+3. Single-packet IP traceback
+Citations:622
+Authors: AC Snoeren, C Partridge, LA Sanchez, CE Jones, F Tchakountio, ...
+Publication: IEEE/ACM Transactions on Networking (ToN) 10 (6), 721-734
+
+4. Difference engine: Harnessing memory redundancy in virtual machines
+Citations:464
+Authors: D Gupta, S Lee, M Vrable, S Savage, AC Snoeren, G Varghese, ...
+Publication: Communications of the ACM 53 (10), 85-93
+
+5. Difference engine: Harnessing memory redundancy in virtual machines
+Citations:464
+Authors: D Gupta, S Lee, M Vrable, S Savage, AC Snoeren, G Varghese, ...
+Publication: USENIX Conference on Operating Systems Design and Implementation (OSDI), 309-322
+
+6. Scalability, fidelity, and containment in the potemkin virtual honeyfarm
+Citations:445
+Authors: M Vrable, J Ma, J Chen, D Moore, E Vandekieft, AC Snoeren, GM Voelker, ...
+Publication: ACM SIGOPS Operating Systems Review 39 (5), 148-162
+
+7. Jigsaw: Solving the puzzle of enterprise 802.11 analysis
+Citations:391
+Authors: YC Cheng, J Bellardo, P Benkö, AC Snoeren, GM Voelker, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 36 (4), 39-50
+
+8. Inside the social network's (datacenter) network
+Citations:372
+Authors: A Roy, H Zeng, J Bagga, G Porter, AC Snoeren
+Publication: ACM SIGCOMM Computer Communication Review 45 (4), 123-137
+
+9. Mesh-based content routing using XML
+Citations:270
+Authors: AC Snoeren, K Conley, DK Gifford
+Publication: ACM SIGOPS Operating Systems Review 35 (5), 160-173
+
+10. Fault localization via risk modeling
+Citations:250
+Authors: RR Kompella, J Yates, A Greenberg, AC Snoeren
+Publication: IEEE Transactions on Dependable and Secure Computing 7 (4), 396-409
+
+11. Cloud control with distributed rate limiting
+Citations:243
+Authors: B Raghavan, K Vishwanath, S Ramabhadran, K Yocum, AC Snoeren
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 337-348
+
+12. Evaluating the effectiveness of model-based power characterization
+Citations:221
+Authors: JC McCullough, Y Agarwal, J Chandrashekar, S Kuppuswamy, ...
+Publication: USENIX Annual Technical Conf 20
+
+13. Resource allocation in federated distributed computing infrastructures
+Citations:216
+Authors: A AuYoung, B Chun, A Snoeren, A Vahdat
+Publication: Proceedings of the 1st Workshop on Operating System and Architectural …
+
+14. Best-path vs. multi-path overlay routing
+Citations:216
+Authors: DG Andersen, AC Snoeren, H Balakrishnan
+Publication: Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, 91-100
+
+15. Mirage: A microeconomic resource allocation system for sensornet testbeds
+Citations:214
+Authors: BN Chun, P Buonadonna, A AuYoung, C Ng, DC Parkes, J Shneidman, ...
+Publication: Institute of Electrical and Electronics Engineers
+
+16. Fine-Grained Failover Using Connection Migration.
+Citations:200
+Authors: AC Snoeren, DG Andersen, H Balakrishnan
+Publication: USITS 1, 19-19
+
+17. Detection and localization of network black holes
+Citations:165
+Authors: RR Kompella, J Yates, A Greenberg, AC Snoeren
+Publication: IEEE INFOCOM 2007-26th IEEE International Conference on Computer …
+
+18. Reconsidering internet mobility
+Citations:163
+Authors: AC Snoeren, H Balakrishnan, MF Kaashoek
+Publication: Proceedings Eighth Workshop on Hot Topics in Operating Systems, 41-46
+
+19. To infinity and beyond: time warped network emulation
+Citations:152
+Authors: D Gupta, K Yocum, M McNett, AC Snoeren, A Vahdat, GM Voelker
+Publication: Proceedings of the twentieth ACM symposium on Operating systems principles, 1-2
+
+20. California fault lines: understanding the causes and impact of network failures
+Citations:151
+Authors: D Turner, K Levchenko, AC Snoeren, S Savage
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 315-326
+
+21. DieCast: Testing distributed systems with an accurate scale model
+Citations:149
+Authors: D Gupta, KV Vishwanath, M McNett, A Vahdat, K Yocum, A Snoeren, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 29 (2), 4
+
+22. Adaptive inverse multiplexing for wide-area wireless networks
+Citations:132
+Authors: AC Snoeren
+Publication: Seamless Interconnection for Universal Services. Global Telecommunications …
+
+23. High-fidelity switch models for software-defined network emulation
+Citations:131
+Authors: DY Huang, K Yocum, AC Snoeren
+Publication: Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …
+
+24. Automating cross-layer diagnosis of enterprise wireless networks
+Citations:130
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benkö, J Chiang, AC Snoeren, ...
+Publication: ACM SIGCOMM Computer Communication Review 37 (4), 25-36
+
+25. Usage patterns in an urban WiFi network
+Citations:124
+Authors: M Afanasyev, T Chen, GM Voelker, AC Snoeren
+Publication: IEEE/ACM Transactions on Networking (TON) 18 (5), 1359-1372
+
+26. Why Markets Could (But Don't Currently) Solve Resource Allocation Problems in Systems.
+Citations:121
+Authors: J Shneidman, C Ng, DC Parkes, A AuYoung, AC Snoeren, A Vahdat, ...
+Publication: HotOS
+
+27. Analysis of a mixed-use urban wifi network: when metropolitan becomes neapolitan
+Citations:114
+Authors: M Afanasyev, T Chen, GM Voelker, AC Snoeren
+Publication: Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, 85-98
+
+28. A system for authenticated policy-compliant routing
+Citations:113
+Authors: B Raghavan, AC Snoeren
+Publication: ACM SIGCOMM Computer Communication Review 34 (4), 167-178
+
+29. Maintaining high bandwidth under dynamic network conditions
+Citations:105
+Authors: D Kostic, R Braud, C Killian, E Vandekieft, JW Anderson, AC Snoeren, ...
+Publication: Proceedings of the USENIX Annual Technical Conference
+
+30. Circuit switching under the radar with REACToR
+Citations:96
+Authors: H Liu, F Lu, A Forencich, R Kapoor, M Tewari, GM Voelker, G Papen, ...
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+31. Every microsecond counts: tracking fine-grain latencies with a lossy difference aggregator
+Citations:96
+Authors: RR Kompella, K Levchenko, AC Snoeren, G Varghese
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 255-266
+
+32. Service Placement in a Shared Wide-Area Platform.
+Citations:91
+Authors: D Oppenheimer, B Chun, D Patterson, AC Snoeren, A Vahdat
+Publication: USENIX Annual Technical Conference, General Track, 273-288
+
+33. Planetlab application management using plush
+Citations:85
+Authors: J Albrecht, C Tuttle, AC Snoeren, A Vahdat
+Publication: ACM SIGOPS Operating Systems Review 40 (1), 33-40
+
+34. A session-based architecture for internet mobility
+Citations:81
+Authors: MAC Snoeren
+Publication: Massachusetts Institute of Technology
+
+35. Remote Control: Distributed Application Configuration, Management, and Visualization with Plush.
+Citations:70
+Authors: JR Albrecht, R Braud, D Dao, N Topilski, C Tuttle, AC Snoeren, A Vahdat
+Publication: LISA 7, 1-19
+
+36. Priority forwarding in ad hoc networks with self-interested parties
+Citations:70
+Authors: B Raghavan, AC Snoeren
+Publication: Workshop on Economics of Peer-to-Peer Systems
+
+37. CQIC: Revisiting cross-layer congestion control for cellular networks
+Citations:68
+Authors: F Lu, H Du, A Jain, GM Voelker, AC Snoeren, A Terzis
+Publication: Proceedings of the 16th International Workshop on Mobile Computing Systems …
+
+38. Botcoin: Monetizing Stolen Cycles.
+Citations:65
+Authors: DY Huang, H Dharmdasani, S Meiklejohn, V Dave, C Grier, D McCoy, ...
+Publication: NDSS
+
+39. Hardware support for a hash-based IP traceback
+Citations:64
+Authors: LA Sanchez, WC Milliken, AC Snoeren, F Tchakountio, CE Jones, ...
+Publication: Proceedings DARPA Information Survivability Conference and Exposition II …
+
+40. On the empirical performance of self-calibrating wifi location systems
+Citations:56
+Authors: D Turner, S Savage, AC Snoeren
+Publication: 2011 IEEE 36th Conference on Local Computer Networks, 76-84
+
+41. Scheduling techniques for hybrid circuit/packet networks
+Citations:55
+Authors: H Liu, MK Mukerjee, C Li, N Feltman, G Papen, S Savage, S Seshan, ...
+Publication: Proceedings of the 11th ACM Conference on Emerging Networking Experiments …
+
+42. Practical TDMA for datacenter ethernet
+Citations:53
+Authors: BC Vattikonda, G Porter, A Vahdat, AC Snoeren
+Publication: Proceedings of the 7th ACM european conference on Computer Systems, 225-238
+
+43. Topology Switching for Data Center Networks.
+Citations:52
+Authors: KC Webb, AC Snoeren, K Yocum
+Publication: Hot-ICE 11
+
+44. Addressing strategic behavior in a deployed microeconomic resource allocator
+Citations:52
+Authors: C Ng, P Buonadonna, BN Chun, AC Snoeren, A Vahdat
+Publication: Proceedings of the 2005 ACM SIGCOMM workshop on Economics of peer-to-peer …
+
+45. TESLA: A Transparent, Extensible Session-Layer Architecture for End-to-end Network Services.
+Citations:52
+Authors: J Salz, H Balakrishnan, AC Snoeren
+Publication: USENIX Symposium on Internet Technologies and Systems
+
+46. Softspeak: Making VoIP Play Well in Existing 802.11 Deployments.
+Citations:50
+Authors: P Verkaik, Y Agarwal, R Gupta, AC Snoeren
+Publication: NSDI 9, 409-422
+
+47. Wresting Control from BGP: Scalable Fine-Grained Route Control.
+Citations:49
+Authors: P Verkaik, D Pei, T Scholl, A Shaikh, AC Snoeren, JE Van Der Merwe
+Publication: USENIX Annual Technical Conference, 295-308
+
+48. Practical lazy scheduling in sensor networks
+Citations:49
+Authors: RR Kompella, AC Snoeren
+Publication: Proceedings of the 1st international conference on Embedded networked sensor …
+
+49. Loose Synchronization for Large-Scale Networked Systems.
+Citations:48
+Authors: JR Albrecht, C Tuttle, AC Snoeren, A Vahdat
+Publication: USENIX Annual Technical Conference, General Track, 301-314
+
+50. Bullet trains: a study of NIC burst behavior at microsecond timescales
+Citations:46
+Authors: R Kapoor, AC Snoeren, GM Voelker, G Porter
+Publication: Proceedings of the ninth ACM conference on Emerging networking experiments …
+
+51. Neon: system support for derived data management
+Citations:46
+Authors: Q Zhang, J McCullough, J Ma, N Schear, M Vrable, A Vahdat, ...
+Publication: ACM Sigplan Notices 45 (7), 63-74
+
+52. Decongestion control
+Citations:45
+Authors: B Raghavan, AC Snoeren
+Publication: Proceedings of the Fifth Workshop on Hot Topics in Networks (HotNets-V), 61-66
+
+53. Rotornet: A scalable, low-complexity, optical datacenter network
+Citations:43
+Authors: WM Mellette, R McGuinness, A Roy, A Forencich, G Papen, AC Snoeren, ...
+Publication: Proceedings of the Conference of the ACM Special Interest Group on Data …
+
+54. Exposing inconsistent web search results with bobble
+Citations:43
+Authors: X Xing, W Meng, D Doozan, N Feamster, W Lee, AC Snoeren
+Publication: International Conference on Passive and Active Network Measurement, 131-140
+
+55. Stout: An adaptive interface to scalable cloud storage
+Citations:39
+Authors: JC McCullough, J Dunagan, A Wolman, AC Snoeren
+Publication: Proc. of the USENIX Annual Technical Conference–ATC, 47-60
+
+56. Cross-layer Visibility as a Service
+Citations:39
+Authors: RR Kompella, A Greenberg, J Rexford, AC Snoeren, J Yates
+Publication: Proc. of fourth workshop on Hot Topics in Networks (HotNet-IV)
+
+57. Security by any other name: On the effectiveness of provider based email security
+Citations:37
+Authors: ID Foster, J Larson, M Masich, AC Snoeren, S Savage, K Levchenko
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+58. Routing in an Internet-scale network emulator
+Citations:36
+Authors: J Chen, D Gupta, KV Vishwanath, AC Snoeren, A Vahdat
+Publication: The IEEE Computer Society's 12th Annual International Symposium on Modeling …
+
+59. Privacy-preserving network forensics.
+Citations:35
+Authors: M Afanasyev, T Kohno, J Ma, N Murphy, S Savage, AC Snoeren, ...
+Publication: Commun. ACM 54 (5), 78-87
+
+60. Decoupling policy from mechanism in Internet routing
+Citations:35
+Authors: AC Snoeren, B Raghavan
+Publication: ACM SIGCOMM Computer Communication Review 34 (1), 81-86
+
+61. Enlisting ISPs to improve online privacy: IP address mixing by default
+Citations:32
+Authors: B Raghavan, T Kohno, AC Snoeren, D Wetherall
+Publication: International Symposium on Privacy Enhancing Technologies Symposium, 143-163
+
+62. TCP connection migration
+Citations:32
+Authors: AC Snoeren, H Balakrishnan
+Publication: Internet Draft, IETF, Nov. 2000. draft-snoeren-tcp-migrate-00. txt (work in …
+
+63. Primed: community-of-interest-based ddos mitigation
+Citations:31
+Authors: P Verkaik, O Spatscheck, J Van der Merwe, AC Snoeren
+Publication: Proceedings of the 2006 SIGCOMM workshop on Large-scale attack defense, 147-154
+
+64. Passive realtime datacenter fault detection and localization
+Citations:30
+Authors: A Roy, H Zeng, J Bagga, AC Snoeren
+Publication: 14th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+65. Slomo: Downclocking wifi communication
+Citations:30
+Authors: F Lu, GM Voelker, AC Snoeren
+Publication: Presented as part of the 10th {USENIX} Symposium on Networked Systems Design …
+
+66. Tracking ransomware end-to-end
+Citations:29
+Authors: DY Huang, MM Aliapoulios, VG Li, L Invernizzi, E Bursztein, K McRoberts, ...
+Publication: 2018 IEEE Symposium on Security and Privacy (SP), 618-631
+
+67. scc: cluster storage provisioning informed by application characteristics and SLAs.
+Citations:29
+Authors: HV Madhyastha, J McCullough, G Porter, R Kapoor, S Savage, ...
+Publication: FAST, 23
+
+68. Quantifying the benefits of joint content and network routing
+Citations:27
+Authors: V Valancius, B Ravi, N Feamster, AC Snoeren
+Publication: ACM SIGMETRICS Performance Evaluation Review 41 (1), 243-254
+
+69. High-bandwidth data dissemination for large-scale distributed systems
+Citations:27
+Authors: D Kostić, AC Snoeren, A Vahdat, R Braud, C Killian, JW Anderson, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 26 (1), 3
+
+70. The case for service provider deployment of super-peers in peer-to-peer networks
+Citations:26
+Authors: S Singh, S Ramabhadran, F Baboescu, AC Snoeren
+Publication: Proc. of International Workshop of Economics of Peer-To-Peer Systems 6
+
+71. FIRE: Flexible intra-AS routing environment
+Citations:25
+Authors: C Partridge, AC Snoeren, WT Strayer, B Schwartz, M Condell, ...
+Publication: ACM SIGCOMM Computer Communication Review 30 (4), 191-203
+
+72. Secure and policy-compliant source routing
+Citations:22
+Authors: B Raghavan, P Verkaik, AC Snoeren
+Publication: IEEE/ACM Transactions on Networking (TON) 17 (3), 764-777
+
+73. Efficiency Through Eavesdropping: Link-layer Packet Caching.
+Citations:22
+Authors: M Afanasyev, DG Andersen, AC Snoeren
+Publication: NSDI, 105-118
+
+74. Two auction-based resource allocation environments: Design and experience
+Citations:21
+Authors: A AuYoung, P Buonadonna, BN Chun, C Ng, DC Parkes, J Shneidman, ...
+Publication: Market oriented grid and utility computing, 19-19
+
+75. The migrate approach to internet mobility
+Citations:21
+Authors: AC Snoeren, H Balakrishnan, MF Kaashoek
+Publication: Proc. of the Oxygen Student Workshop
+
+76. Challenges in the emulation of large scale software defined networks
+Citations:19
+Authors: A Roy, K Yocum, AC Snoeren
+Publication: Proceedings of the 4th Asia-Pacific Workshop on Systems, 10
+
+77. Take this personally: Pollution attacks on personalized services
+Citations:19
+Authors: X Xing, W Meng, D Doozan, AC Snoeren, N Feamster, W Lee
+Publication: Presented as part of the 22nd {USENIX} Security Symposium ({USENIX} Security …
+
+78. Fire: Flexible intra-as routing environment
+Citations:18
+Authors: C Partridge, AC Snoeren, WT Strayer, B Schwartz, M Condell, ...
+Publication: IEEE Journal on Selected Areas in Communications 19 (3), 410-425
+
+79. FIRE state message protocol specification
+Citations:18
+Authors: C Partridge, I Castineyra, WT Strayer, AC Snoeren, B Schwartz
+Publication: BBN Technologies, 1-19
+
+80. Weighted fair queuing with differential dropping
+Citations:17
+Authors: F Lu, GM Voelker, AC Snoeren
+Publication: 2012 Proceedings IEEE INFOCOM, 2981-2985
+
+81. The importance of being overheard: throughput gains in wireless mesh networks
+Citations:17
+Authors: M Afanasyev, AC Snoeren
+Publication: Proceedings of the 9th ACM SIGCOMM conference on Internet measurement, 384-396
+
+82. Cooperative packet scheduling via pipelining in 802.11 wireless networks
+Citations:17
+Authors: RR Kompella, S Ramabhadran, I Ramani, AC Snoeren
+Publication: Proceedings of the 2005 ACM SIGCOMM workshop on Experimental approaches to …
+
+83. Lost in space: improving inference of IPv4 address space utilization
+Citations:16
+Authors: A Dainotti, K Benson, A King, B Huffaker, E Glatz, X Dimitropoulos, ...
+Publication: IEEE Journal on Selected Areas in Communications 34 (6), 1862-1876
+
+84. Enfold: downclocking ofdm in wifi
+Citations:16
+Authors: F Lu, P Ling, GM Voelker, AC Snoeren
+Publication: Proceedings of the 20th annual international conference on Mobile computing …
+
+85. Intelligent computer network routing using logically centralized, physically distributed servers distinct from network routers
+Citations:16
+Authors: J Van Der Merwe, D Pei, TB Scholl, A Shaikh, A Snoeren, P Verkaik
+Publication: US Patent 7,904,589
+
+86. Systems and methods for point of ingress traceback of a network attack
+Citations:16
+Authors: WC Milliken, LA Sanchez, AC Snoeren
+Publication: US Patent 7,200,105
+
+87. On failure in managed enterprise networks
+Citations:15
+Authors: D Turner, K Levchenko, JC Mogul, S Savage, AC Snoeren, D Turner, ...
+Publication: HP Labs HPL-2012-101
+
+88. Method and apparatus for fault localization in a network
+Citations:15
+Authors: AG Greenberg, RR Kompella, AC Snoeren, J Yates
+Publication: US Patent 7,577,099
+
+89. Tripwire: inferring internet site compromise
+Citations:14
+Authors: J DeBlasio, S Savage, GM Voelker, AC Snoeren
+Publication: Proceedings of the 2017 Internet Measurement Conference, 341-354
+
+90. Traceback of single IP packets using SPIE
+Citations:14
+Authors: WT Strayer, CE Jones, F Tchakountio, AC Snoeren, B Schwartz, ...
+Publication: Proceedings DARPA Information Survivability Conference and Exposition 2, 266-270
+
+91. Automated end-to-end system diagnosis of networked printing services using model-based reasoning
+Citations:14
+Authors: G Forman, M Jain, M Mansouri-Samani, J Martinka, A Snoeren
+Publication: Hewlett-Packard Laboratories
+
+92. A comparison of syslog and IS-IS for network failure analysis
+Citations:13
+Authors: D Turner, K Levchenko, S Savage, AC Snoeren
+Publication: Proceedings of the 2013 conference on Internet measurement conference, 433-440
+
+93. Distributed application configuration, management, and visualization with plush
+Citations:13
+Authors: J Albrecht, C Tuttle, R Braud, D Dao, N Topilski, AC Snoeren, A Vahdat
+Publication: ACM Transactions on Internet Technology (TOIT) 11 (2), 6
+
+94. Practical market-based resource allocation
+Citations:12
+Authors: A AuYoung, BN Chun, C Ng, D Parkes, A Vahdat, A Snoeren
+Publication: University of California, San Diego, Tech. Rep
+
+95. Leveraging internet background radiation for opportunistic network analysis
+Citations:11
+Authors: K Benson, A Dainotti, AC Snoeren, M Kallitsis
+Publication: Proceedings of the 2015 Internet Measurement Conference, 423-436
+
+96. Evaluating the impact of inaccurate information in utility-based scheduling
+Citations:11
+Authors: A AuYoung, A Vahdat, AC Snoeren
+Publication: Proceedings of the Conference on High Performance Computing Networking …
+
+97. The overlay network content distribution problem
+Citations:11
+Authors: C Killian, M Vrable, AC Snoeren, A Vahdat, J Pasquale
+Publication: [Department of Computer Science and Engineering], University of California …
+
+98. TRANSCLOUD: Design Considerations for
+Citations:11
+Authors: AC Bavier, M Yuen, J Blaine, R McGeer, AA Young, Y Coady, C Matthews, ...
+Publication: 
+
+99. GENICloud and transcloud
+Citations:10
+Authors: A Bavier, Y Coady, T Mack, C Matthews, J Mambretti, R McGeer, ...
+Publication: Proceedings of the 2012 workshop on Cloud services, federation, and the 8th …
+
+100. Achieving congestion diversity in wireless ad-hoc networks
+Citations:10
+Authors: AA Bhorkar, T Javidi, AC Snoereny
+Publication: 2011 Proceedings IEEE INFOCOM, 521-525
+
+101. REACToR: A reconfigurable packet and circuit ToR switch
+Citations:9
+Authors: H Liu, F Lu, R Kapoor, A Forencich, GM Voelker, G Papen, AC Snoeren, ...
+Publication: 2013 IEEE Photonics Society Summer Topical Meeting Series, 235-236
+
+102. An empirical analysis of the commercial vpn ecosystem
+Citations:8
+Authors: MT Khan, J DeBlasio, GM Voelker, AC Snoeren, C Kanich, ...
+Publication: Proceedings of the Internet Measurement Conference 2018, 443-456
+
+103. Inferring persistent interdomain congestion
+Citations:8
+Authors: A Dhamdhere, DD Clark, A Gamero-Garrido, M Luckie, RKP Mok, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+104. Empirical analysis of search advertising strategies
+Citations:8
+Authors: BC Vattikonda, V Dave, S Guha, AC Snoeren
+Publication: Proceedings of the 2015 Internet Measurement Conference, 79-91
+
+105. Deniable liaisons
+Citations:8
+Authors: A Narain, N Feamster, AC Snoeren
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+106. mPlane: an architecture for scalable fault localization
+Citations:8
+Authors: RR Kompella, AC Snoeren, G Varghese
+Publication: Proceedings of the 2009 workshop on Re-architecting the internet, 31-36
+
+107. A performance analysis of indirect routing
+Citations:8
+Authors: JM Opos, S Ramabhadran, A Terry, J Pasquale, AC Snoeren, A Vahdat
+Publication: 2007 IEEE International Parallel and Distributed Processing Symposium, 1-10
+
+108. Brief announcement: The overlay network content distribution problem
+Citations:8
+Authors: C Killian, M Vrable, AC Snoeren, A Vahdat, J Pasquale
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Principles of …
+
+109. Using indirect routing to recover from network traffic scheduling estimation error
+Citations:7
+Authors: C Li, MK Mukerjee, DG Andersen, S Seshan, M Kaminsky, G Porter, ...
+Publication: 2017 ACM/IEEE Symposium on Architectures for Networking and Communications …
+
+110. On the security of mobile cockpit information systems
+Citations:7
+Authors: D Lundberg, B Farinholt, E Sullivan, R Mast, S Checkoway, S Savage, ...
+Publication: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …
+
+111. Managing contention with Medley
+Citations:6
+Authors: F Lu, GM Voelker, AC Snoeren
+Publication: IEEE Transactions on Mobile Computing 14 (3), 579-591
+
+112. P-fattree: A multi-channel datacenter network topology
+Citations:5
+Authors: WM Mellette, AC Snoeren, G Porter
+Publication: Proceedings of the 15th ACM Workshop on Hot Topics in Networks, 78-84
+
+113. Interpreting advertiser intent in sponsored search
+Citations:5
+Authors: BC Vattikonda, S Kodipaka, H Zhou, V Dave, S Guha, AC Snoeren
+Publication: Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …
+
+114. Blender: Upgrading tenant-based data center networking
+Citations:5
+Authors: KC Webb, A Roy, K Yocum, AC Snoeren
+Publication: Proceedings of the tenth ACM/IEEE symposium on Architectures for networking …
+
+115. Covenant: an architecture for cooperative scheduling in 802.11 wireless networks
+Citations:5
+Authors: I Ramani, RR Kompella, S Ramabhadran, AC Snoeren
+Publication: IEEE Transactions on Wireless Communications 9 (1), 175-185
+
+116. FIRE peering protocol specification
+Citations:5
+Authors: AC Snoeren, C Partridge, WT Strayer, I Castineyra
+Publication: Technical memo BBN-TM-1244, BBN Technologies
+
+117. Cloud Datacenter SDN Monitoring: Experiences and Challenges
+Citations:4
+Authors: A Roy, D Bansal, D Brumley, HK Chandrappa, P Sharma, R Tewari, ...
+Publication: Proceedings of the Internet Measurement Conference 2018, 464-470
+
+118. Pinning down abuse on google maps
+Citations:4
+Authors: DY Huang, D Grundman, K Thomas, A Kumar, E Bursztein, K Levchenko, ...
+Publication: Proceedings of the 26th International Conference on World Wide Web, 1471-1479
+
+119. Achieving Congestion Diversity in Multi-Hop Wireless Mesh Networks
+Citations:4
+Authors: AA Bhorkar, T Javidi, AC Snoeren
+Publication: IEEE Transactions on Mobile Computing 14 (3), 473-483
+
+120. Router support for fine-grained latency measurements
+Citations:4
+Authors: RR Kompella, K Levchenko, AC Snoeren, G Varghese
+Publication: IEEE/ACM Transactions on Networking 20 (3), 811-824
+
+121. NeTS—FIND: Enabling Defense and Deterrence through Private Attribution
+Citations:4
+Authors: AC Snoeren, Y Kohno, S Savage, A Vahdat
+Publication: FIND-Funded pro ect
+
+122. Universal Honeyfarm Containment
+Citations:4
+Authors: J Chen, J McCullough, AC Snoeren
+Publication: [Department of Computer Science and Engineering], University of California …
+
+123. Distributed application management using Plush
+Citations:4
+Authors: J Albrecht, C Tuttle, A Snoeren, A Vahdat
+Publication: HPDC-14. Proceedings. 14th IEEE International Symposium on High Performance …
+
+124. Network support for privacy-preserving forensic attribution
+Citations:3
+Authors: M Afanasyev, T Kohno, J Ma, N Murphy, S Savage, AC Snoeren, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+125. Source Path Isolation Engine Architecture
+Citations:3
+Authors: T Strayer, C Jones, F Tchakountio, A Snoeren, C Partridge
+Publication: February
+
+126. Enabling internet suspend/resume with session continuations
+Citations:3
+Authors: AC Snoeren
+Publication: Memory 500, 1000
+
+127. FIRE Security Model and Basic Mechanisms
+Citations:3
+Authors: C Partridge, M Condell, I Castineyra, T Strayer, A Snoeren, B Schwartz, ...
+Publication: August
+
+128. FIRE Architecture
+Citations:3
+Authors: C Partridge, I Castineyra, T Strayer, B Schwartz, F Tchakountio, ...
+Publication: August
+
+129. Expanding across time to deliver bandwidth efficiency and low latency
+Citations:2
+Authors: WM Mellette, R Das, Y Guo, R McGuinness, AC Snoeren, G Porter
+Publication: arXiv preprint arXiv:1903.12307
+
+130. Toward optical switching in the data center
+Citations:2
+Authors: WM Mellette, AC Snoeren, G Porter
+Publication: HPSR
+
+131. Exploring the dynamics of search advertiser fraud
+Citations:2
+Authors: J DeBlasio, S Guha, GM Voelker, AC Snoeren
+Publication: Proceedings of the 2017 Internet Measurement Conference, 157-170
+
+132. Scalable coordination of a tightly-coupled service in the wide area
+Citations:2
+Authors: KC Webb, BC Vattikonda, K Yocum, AC Snoeren
+Publication: Proceedings of the First ACM SIGOPS Conference on Timely Results in …
+
+133. Intelligent computer network routing using logically centralized, physically distributed servers distinct from network routers
+Citations:2
+Authors: J Van Der Merwe, D Pei, TB Scholl, A Shaikh, A Snoeren, P Verkaik
+Publication: US Patent 8,166,195
+
+134. On the Practicality of Low-Density Parity-Check Codes
+Citations:2
+Authors: AC Snoeren
+Publication: MIT Lab for Computer Science Cambridge
+
+135. FLINT Protocol Specification
+Citations:2
+Authors: C Partridge, I Castineyra, T Strayer, A Snoeren, B Schwartz
+Publication: August
+
+136. Short Paper: Estimating Profitability of Alternative Cryptocurrencies
+Citations:1
+Authors: DY Huang, K Levchenko, AC Snoeren
+Publication: International Conference on Financial Cryptography and Data Security
+
+137. TransCloud: a distributed environment based on dynamic networking
+Citations:1
+Authors: R McGeer, J Mambretti, P Mueller, C Matthews, C Pearson, Y Coady, ...
+Publication: Tenth GENI Engineering Conference
+
+138. Enfold: Downclocking OFDM in Wi-Fi
+Citations:1
+Authors: P Ling, F Lu, AC Snoeren, GM Voelker
+Publication: GetMobile: Mobile Computing and Communications 19 (2), 10-13
+
+139. The Role of End-to-End Congestion Control in Networks with Fairness-Enforcing Routers
+Citations:1
+Authors: JC McCullough, B Raghavan, AC Snoeren
+Publication: [Department of Computer Science and Engineering], University of California …
+
+140. Embracing Packet Loss in Congestion Control
+Citations:1
+Authors: B Raghavan, J McCullough, AC Snoeren
+Publication: 
+
+141. SPIE demonstration: single packet traceback
+Citations:1
+Authors: WT Strayer, CE Jones, F Tchakountio, AC Snoeren
+Publication: Proceedings DARPA Information Survivability Conference and Exposition 2, 106-107
+
+142. Source Path Isolation Engine Protocol
+Citations:1
+Authors: B Schwartz, C Jones, A Snoeren, C Partridge, F Tchakountio, T Strayer, ...
+Publication: February
+
+143. " All Your Clicks Belong to Me: Investigating Click Interception on the Web".
+Citations:
+Authors: M Zhang, W Meng, S Lee, B Lee, X Xing, G Chen, J Copeland, C Qian, ...
+Publication: To appear in Proceedings of The 28th USENIX Security Symposium
+
+144. SparSDR: Sparsity-proportional Backhaul and Compute for SDRs
+Citations:
+Authors: M Khazraee, Y Guddeti, S Crow, AC Snoeren, K Levchenko, D Bharadia, ...
+Publication: Proceedings of the 17th Annual International Conference on Mobile Systems …
+
+145. LEED: A Lightwave Energy-Efficient Datacenter
+Citations:
+Authors: YS Fainman, J Ford, WM Mellette, S Mookherjea, G Porter, AC Snoeren, ...
+Publication: Optical Fiber Communication Conference, M4D. 4
+
+146. Triton: a software-reconfigurable federated avionics testbed
+Citations:
+Authors: S Crow, B Farinholt, B Johannesmeyer, K Koscher, S Checkoway, ...
+Publication: 12th {USENIX} Workshop on Cyber Security Experimentation and Test ({CSET} 19)
+
+147. Estimating Profitability of Alternative Cryptocurrencies (Short Paper)
+Citations:
+Authors: DY Huang, K Levchenko, AC Snoeren
+Publication: International Conference on Financial Cryptography and Data Security, 409-419
+
+148. Estimating Profitability of Alternative Crypto-currencies
+Citations:
+Authors: DY Huang, K Levchenko, AC Snoeren
+Publication: Department of Computer Science and Engineering, University of California …
+
+149. Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research
+Citations:
+Authors: A Gamero-Garrido, S Savage, K Levchenko, AC Snoeren
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+150. Musings: Theory of Mind
+Citations:
+Authors: R Farrow, D Firestone, R Priedhorsky, T Randles, X Dou, PM Chen, ...
+Publication: ; login: 42 (3)
+
+151. High-Speed Datacenter Interconnects
+Citations:
+Authors: G Porter, AC Snoeren, G Papen
+Publication: IEEE MICRO 34 (5), 6-7
+
+152. ACM MobiCom 2012 general co-chairs' welcome
+Citations:
+Authors: L Qiu, AC Snoeren
+Publication: Proceedings of the Annual International Conference on Mobile Computing and …
+
+153. Wide-Area Group Membership for Tightly-Coupled Services
+Citations:
+Authors: KC Webb, BC Vattikonda, K Yocum, AC Snoeren
+Publication: [Department of Computer Science and Engineering], University of California …
+
+154. Shaman Automatic 802.11 Wireless Diagnosis System
+Citations:
+Authors: YC Cheng, M Afanasyev, P Verkaik, P Benko, J Chiang, AC Snoeren, ...
+Publication: [Department of Computer Science and Engineering], University of California …
+
+155. Difference Engine
+Citations:
+Authors: D Gupta, S Lee, M Vrable, S Savage, AC Snoeren, G Varghese, ...
+Publication: ; login:: the magazine of USENIX & SAGE 34 (2), 24-31
+
+156. managing distrib-uted applications with Plush
+Citations:
+Authors: J Albrecht, R Braud, D DAO, N Topilski, C Tuttle, AC Snoeren, A Vahdat
+Publication: ; login: 33 (1)
+
+157. Suspending and Resuming Network Applications using Session Continuations
+Citations:
+Authors: AC Snoeren, D Panigrahi, S Mukhopadhyay, H Balakrishnan, ...
+Publication: Department of Computer Science and Engineering, University of California …
+
+158. RON: Choosing Resiliency
+Citations:
+Authors: DG Andersen, H Balakrishnan, MF Kaashoek, R Morris, A Snoeren
+Publication: 
+
+159. Local Group Keying Protocol
+Citations:
+Authors: M Condell, T Strayer, M Fredette, A Snoeren, C Partridge, I Castineyra
+Publication: 
+
+160. IVCam: Rendering with Real-Lens Optics
+Citations:
+Authors: DM Sirkin, AC Snoeren, DC Zhang
+Publication: 
+
+161. 3rd USENIX Symposium on Internet Technologies and Systems (USITS’01) SAN FRANCISCO, CALIFORNIA MARCH 26-28, 2001
+Citations:
+Authors: S Anastasiadis, A Miu, A Rastogi, AC Snoeren, M Wahlén, O Goh
+Publication: 
+
+162. TWC: Frontier: Collaborative: Beyond Technical Security: Developing an Empirical Basis for Socio-Economic Perspectives
+Citations:
+Authors: S Savage, GM Voelker, J Fowler, A Snoeren, L Saul, K Levchenko, ...
+Publication: 
+
+163. Informed Provisioning of Storage for Cluster Applications
+Citations:
+Authors: HV Madhyastha, JC Mccullough, G Porter, R Kapoor, S Savage, ...
+Publication: 
+
+164. A Practical Approach for Achieving Congestion Diversity in Wireless Ad-hoc Networks
+Citations:
+Authors: AA Bhorkar, T Javidi, A Snoeren
+Publication: 
+

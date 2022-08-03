@@ -1,0 +1,95 @@
+
+7. Sirius: An open end-to-end voice and vision personal assistant and its implications for future warehouse scale computers
+Citations:156
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: Proceedings of the Twentieth International Conference on Architectural …
+
+10. DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers
+Citations:108
+Authors: J Hauswald, Y Kang, MA Laurenzano, Q Chen, C Li, T Mudge, ...
+Publication: Proceedings of the 42nd Annual International Symposium on Computer …
+
+14. Adrenaline: Pinpointing and reigning in tail queries with quick voltage boosting
+Citations:80
+Authors: CH Hsu, Y Zhang, MA Laurenzano, D Meisner, T Wenisch, J Mars, L Tang, ...
+Publication: Proceedings of the 2015 IEEE 21st International Symposium on High …
+
+22. An energy efficient parallel architecture using near threshold operation
+Citations:55
+Authors: RG Dreslinkski, B Zhai, T Mudge, D Blaauw, D Sylvester
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+26. 14.7 a 288µw programmable deep-learning processor with 270kb on-chip weight storage using non-uniform memory hierarchy for mobile intelligence
+Citations:42
+Authors: S Bang, J Wang, Z Li, C Gao, Y Kim, Q Dong, YP Chen, L Fick, X Sun, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 250-251
+
+32. Heterogeneous microarchitectures trump voltage scaling for low-power cores
+Citations:37
+Authors: A Lukefahr, S Padmanabha, R Das, R Dreslinski Jr, TF Wenisch, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+46. Near Threshold Computing: From Single Core to Many-Core Energy Efficient Architectures.
+Citations:16
+Authors: R Dreslinski Jr
+Publication: 
+
+50. Crossbar circuitry and method of operation of such crossbar circuitry
+Citations:15
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester, RG Dreslinski Jr
+Publication: US Patent 8,108,585
+
+51. The Celerity Open-Source 511-Core RISC-V Tiered Accelerator Fabric: Fast Architectures and Design Methodologies for Fast Chips
+Citations:14
+Authors: S Davidson, S Xie, C Torng, K Al-Hawai, A Rovinski, T Ajayi, L Vega, ...
+Publication: IEEE Micro 38 (2), 30-41
+
+52. Celerity: An Open Source RISC-V Tiered Accelerator Fabric
+Citations:14
+Authors: T Ajayi, K Al-Hawaj, A Amarnath, S Dai, S Davidson, P Gao, G Liu, A Lotfi, ...
+Publication: Symp. on High Performance Chips (Hot Chips)
+
+69. Using the m5 simulator
+Citations:8
+Authors: SK Reinhardt, N Binkert, A Saidi, RDK Lim
+Publication: ISCA tutorials and workshops, Jun
+
+70. A Programmable Galois Field Processor for the Internet of Things
+Citations:7
+Authors: Y Chen, S Lu, C Fu, D Blaauw, R Dreslinski Jr, T Mudge, HS Kim
+Publication: Proceedings of the 44th Annual International Symposium on Computer …
+
+78. Designing Future Warehouse-Scale Computers for Sirius, an End-to-End Voice and Vision Personal Assistant
+Citations:6
+Authors: J Hauswald, MA Laurenzano, Y Zhang, H Yang, Y Kang, C Li, A Rovinski, ...
+Publication: ACM Transactions on Computer Systems (TOCS) 34 (1), 2
+
+80. OuterSPACE: An Outer Product Based Sparse Matrix Multiplication Accelerator
+Citations:4
+Authors: S Pal, J Beaumont, DH Park, A Amarnath, S Feng, C Chakrabarti, HS Kim, ...
+Publication: High Performance Computer Architecture (HPCA), 2018 IEEE International …
+
+87. Sirius Implications for Future Warehouse-Scale Computers
+Citations:3
+Authors: J Hauswald, MA Laurenzano, Y Zhang, C Li, A Rovinski, A Khurana, ...
+Publication: IEEE Micro 36 (3), 42-53
+
+91. The M5 Simulator: Modeling Networked Systems
+Citations:3
+Authors: NLBRG Dreslinski, LR Hsu, KT Lim, AGSSK Reinhardt
+Publication: Ann Arbor 1001, 48109-2121
+
+94. Enhanced Memory Device
+Citations:2
+Authors: B Oh, S Abeyratne, RG Dreslinski Jr, T Mudge
+Publication: US Patent 20,170,278,561
+
+100. A 1.4 GHz 695 Giga Risc-V Inst/s 496-Core Manycore Processor With Mesh On-Chip Network and an All-Digital Synthesized PLL in 16nm CMOS
+Citations:
+Authors: A Rovinski, C Zhao, K Al-Hawaj, P Gao, S Xie, C Torng, S Davidson, ...
+Publication: 2019 Symposium on VLSI Circuits, C30-C31
+
+101. A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfiguration in 40 nm
+Citations:
+Authors: S Pal, D Park, S Feng, P Gao, J Tan, A Rovinski, S Xie, C Zhao, ...
+Publication: 2019 Symposium on VLSI Technology, C150-C151

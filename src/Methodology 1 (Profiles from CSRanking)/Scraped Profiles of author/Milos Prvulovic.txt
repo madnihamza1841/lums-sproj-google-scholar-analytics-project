@@ -1,0 +1,538 @@
+https://scholar.google.com/citations?hl=en&user=A_j_baAAAAAJ
+Total Citations = 3775
+
+1. SESC simulator
+Citations:483
+Authors: J Renau
+Publication: http://sesc. sourceforge. net
+
+2. ReVive: cost-effective architectural support for rollback recovery in shared-memory multiprocessors
+Citations:311
+Authors: M Prvulovic, Z Zhang, J Torrellas
+Publication: Proceedings 29th Annual International Symposium on Computer Architecture …
+
+3. Cherry: Checkpointed early resource recycling in out-of-order microprocessors
+Citations:272
+Authors: JF Martínez, J Renau, MC Huang, M Prvulovic
+Publication: 35th Annual IEEE/ACM International Symposium on Microarchitecture, 2002 …
+
+4. Proving program termination
+Citations:243
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+5. Improving cost, performance, and security of memory encryption and authentication
+Citations:204
+Authors: C Yan, D Englender, M Prvulovic, B Rogers, Y Solihin
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 179-190
+
+6. ReEnact: Using thread-level speculation mechanisms to debug data races in multithreaded codes
+Citations:181
+Authors: M Prvulovic, J Torrellas
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+7. Flexitaint: A programmable accelerator for dynamic taint propagation
+Citations:177
+Authors: G Venkataramani, I Doudalis, Y Solihin, M Prvulovic
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+8. Using address independent seed encryption and bonsai merkle trees to make secure processors os-and performance-friendly
+Citations:159
+Authors: B Rogers, S Chhabra, M Prvulovic, Y Solihin
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+9. Memtracker: Efficient and programmable support for memory access monitoring and debugging
+Citations:122
+Authors: G Venkataramani, B Roemer, Y Solihin, M Prvulovic
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+10. CORD: Cost-effective (and nearly overhead-free) order-recording and data race detection
+Citations:97
+Authors: M Prvulovic
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+11. SecureME: a hardware-software approach to full system security
+Citations:91
+Authors: S Chhabra, B Rogers, Y Solihin, M Prvulovic
+Publication: Proceedings of the international conference on Supercomputing, 108-119
+
+12. A practical methodology for measuring the side-channel signal available to the attacker for instruction-level events
+Citations:83
+Authors: R Callan, A Zajić, M Prvulovic
+Publication: Proceedings of the 47th Annual IEEE/ACM International Symposium on …
+
+13. Removing architectural bottlenecks to the scalability of speculative parallelization
+Citations:78
+Authors: M Prvulovic, MJ Garzarán, L Rauchwerger, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 29 (2), 204-215
+
+14. Experimental demonstration of electromagnetic information leakage from modern processor-memory systems
+Citations:69
+Authors: A Zajić, M Prvulovic
+Publication: IEEE Transactions on Electromagnetic Compatibility 56 (4), 885-893
+
+15. Effective memory protection using dynamic tainting
+Citations:59
+Authors: J Clause, I Doudalis, A Orso, M Prvulovic
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+16. Efficient data protection for distributed shared memory multiprocessors
+Citations:58
+Authors: B Rogers, M Prvulovic, Y Solihin
+Publication: Proceedings of the 15th international conference on Parallel architectures …
+
+17. Heapmon: A helper-thread approach to programmable, automatic, and low-overhead memory bug detection
+Citations:58
+Authors: R Shetty, M Kharbutli, Y Solihin, M Prvulovic
+Publication: IBM Journal of Research and Development 50 (2.3), 261-275
+
+18. Sesc
+Citations:58
+Authors: J Renau, B Fraguela, J Tuck, W Liu, M Prvulovic, L Ceze, S Sarangi, ...
+Publication: 
+
+19. Improving system performance with compressed memory
+Citations:57
+Authors: S Roy, R Kumar, M Prvulovic
+Publication: Proceedings 15th International Parallel and Distributed Processing Symposium …
+
+20. Comprehensively and efficiently protecting the heap
+Citations:55
+Authors: M Kharbutli, X Jiang, Y Solihin, G Venkataramani, M Prvulovic
+Publication: ACM SIGOPS Operating Systems Review 40 (5), 207-218
+
+21. Virtual memory system utilizing data compression implemented through a device
+Citations:52
+Authors: S Roy, R Kumar, M Prvulovic, KM Wilson
+Publication: US Patent 6,516,397
+
+22. Tradeoffs in buffering speculative memory state for thread-level speculation in multiprocessors
+Citations:51
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 2 (3), 247-279
+
+23. Tradeoffs in buffering memory state for thread-level speculation in multiprocessors
+Citations:48
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+24. TLSync: support for multiple fast barriers using on-chip transmission lines
+Citations:42
+Authors: J Oh, M Prvulovic, A Zajic
+Publication: 2011 38th Annual International Symposium on Computer Architecture (ISCA …
+
+25. Eddie: Em-based detection of deviations in program execution
+Citations:38
+Authors: A Nazari, N Sehatbakhsh, M Alam, A Zajic, M Prvulovic
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+26. HARE++: Hardware Assisted Reverse Execution Revisited
+Citations:36
+Authors: I Doudalis, M Prvulovic
+Publication: Georgia Institute of Technology, 1-8
+
+27. Single-level integrity and confidentiality protection for distributed shared memory multiprocessors
+Citations:34
+Authors: B Rogers, C Yan, S Chhabra, M Prvulovic, Y Solihin
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+28. Spectral profiling: Observer-effect-free profiling by monitoring EM emanations
+Citations:31
+Authors: N Sehatbakhsh, A Nazari, A Zajic, M Prvulovic
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 59
+
+29. FASE: finding amplitude-modulated side-channel emanations
+Citations:30
+Authors: R Callan, A Zajić, M Prvulovic
+Publication: 2015 ACM/IEEE 42nd Annual International Symposium on Computer Architecture …
+
+30. The Bulk Multicore architecture for improved programmability
+Citations:30
+Authors: J Torrellas, L Ceze, J Tuck, C Cascaval, P Montesinos, W Ahn, ...
+Publication: ILLINOIS UNIV AT URBANA-CHAMPAIGN DEPT OF COMPUTER SCIENCE
+
+31. Automatic OpenCL work-group size selection for multicore CPUs
+Citations:29
+Authors: S Seo, J Lee, G Jo, J Lee
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+32. Architectural support for parallel reductions in scalable shared-memory multiprocessors
+Citations:27
+Authors: MJ Garzarán, M Prvulovic, Y Zhang, A Jula, H Yu, L Rauchwerger, ...
+Publication: Proceedings 2001 International Conference on Parallel Architectures and …
+
+33. Clear adhesive sheet
+Citations:26
+Authors: KA Alahapperuma, PA Stark
+Publication: US Patent 6,759,121
+
+34. MemTracker: An accelerator for memory debugging and monitoring
+Citations:25
+Authors: G Venkataramani, I Doudalis, Y Solihin, M Prvulovic
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 6 (2), 5
+
+35. Memory predecryption: hiding the latency overhead of memory encryption
+Citations:24
+Authors: B Rogers, Y Solihin, M Prvulovic
+Publication: ACM SIGARCH Computer Architecture News 33 (1), 27-33
+
+36. Effective and efficient memory protection using dynamic tainting
+Citations:23
+Authors: I Doudalis, J Clause, G Venkataramani, M Prvulovic, A Orso
+Publication: IEEE Transactions on Computers 61 (1), 87-100
+
+37. Zero-overhead profiling via EM emanations
+Citations:22
+Authors: R Callan, F Behrang, A Zajic, M Prvulovic, A Orso
+Publication: Proceedings of the 25th International Symposium on Software Testing and …
+
+38. Tradeoffs in fine-grained heap memory protection
+Citations:22
+Authors: J Shen, G Venkataramani, M Prvulovic
+Publication: Proceedings of the 1st workshop on Architectural and system support for …
+
+39. LIME: A framework for debugging load imbalance in multi-threaded execution
+Citations:20
+Authors: J Oh, CJ Hughes, G Venkataramani, M Prvulovic
+Publication: Proceedings of the 33rd International Conference on Software Engineering …
+
+40. A method for finding frequency-modulated and amplitude-modulated electromagnetic emanations in computer systems
+Citations:18
+Authors: M Prvulovic, A Zajić, RL Callan, CJ Wang
+Publication: IEEE Transactions on Electromagnetic Compatibility 59 (1), 34-42
+
+41. Making secure processors os-and performance-friendly
+Citations:17
+Authors: S Chhabra, B Rogers, Y Solihin, M Prvulovic
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 5 (4), 16
+
+42. PEEP: Exploiting predictability of memory dependences in SMT processors
+Citations:17
+Authors: S Subramaniam, M Prvulovic, GH Loh
+Publication: 2008 IEEE 14th International Symposium on High Performance Computer …
+
+43. Comparison of electromagnetic side-channel energy available to the attacker from different computer systems
+Citations:16
+Authors: R Callan, N Popovic, A Daruna, E Pollmann, A Zajic, M Prvulovic
+Publication: 2015 IEEE International Symposium on Electromagnetic Compatibility (EMC …
+
+44. Split temporal/spatial cache: A survey and reevaluation of performance
+Citations:15
+Authors: M Prvulović, D Marinov, Z Dimitrijević, V Milutinović
+Publication: IEEE TCCA Newsletter
+
+45. Deft: Design space exploration for on-the-fly detection of coherence misses
+Citations:12
+Authors: G Venkataramani, CJ Hughes, S Kumar, M Prvulovic
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 8 (2), 8
+
+46. Using software logging to support multiversion buffering in thread-level speculation
+Citations:11
+Authors: MJ Garzarán, M Prvulovic, V Viñals, JM Llabería, L Rauchwerger, ...
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+47. Euripus: A flexible unified hardware memory checkpointing accelerator for bidirectional-debugging and reliability
+Citations:10
+Authors: I Doudalis, M Prvulovic
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 261-272
+
+48. Synonymous address compaction for energy reduction in data TLB
+Citations:10
+Authors: CS Ballapuram, HHS Lee, M Prvulovic
+Publication: ISLPED'05. Proceedings of the 2005 International Symposium on Low Power …
+
+49. Capacity of the em covert/side-channel created by the execution of instructions in a processor
+Citations:9
+Authors: BB Yilmaz, RL Callan, M Prvulovic, A Zajić
+Publication: IEEE Transactions on Information Forensics and Security 13 (3), 605-620
+
+50. Traffic steering between a low-latency unswitched TL ring and a high-throughput switched on-chip interconnect
+Citations:9
+Authors: J Oh, A Zajic, M Prvulovic
+Publication: Proceedings of the 22nd international conference on Parallel architectures …
+
+51. Detailed tracking of program control flow using analog side-channel signals: a promise for iot malware detection and a threat for many cryptographic implementations
+Citations:7
+Authors: HA Khan, M Alam, A Zajic, M Prvulovic
+Publication: Cyber Sensing 2018 10630, 1063005
+
+52. One&Done: A Single-Decryption EM-Based Attack on OpenSSL’s Constant-Time Blinded {RSA}
+Citations:7
+Authors: M Alam, HA Khan, M Dey, N Sinha, R Callan, A Zajic, M Prvulovic
+Publication: 27th {USENIX} Security Symposium ({USENIX} Security 18), 585-602
+
+53. An algorithm for finding carriers of amplitude-modulated electromagnetic emanations in computer systems
+Citations:7
+Authors: C Wang, R Callan, A Zajic, M Prvulovic
+Publication: 2016 10th European Conference on Antennas and Propagation (EuCAP), 1-5
+
+54. MiSAR: Minimalistic synchronization accelerator with resource overflow management
+Citations:7
+Authors: CK Liang, M Prvulovic
+Publication: ACM SIGARCH Computer Architecture News 43 (3), 414-426
+
+55. Path loss prediction for electromagnetic side-channel signals
+Citations:6
+Authors: A Zajic, M Prvulovic, D Chu
+Publication: 2017 11th European Conference on Antennas and Propagation (EUCAP), 3877-3881
+
+56. A new approach for measuring electromagnetic side-channel energy available to the attacker in modern processor-memory systems
+Citations:6
+Authors: R Callan, N Popovic, A Zajić, M Prvulovic
+Publication: 2015 9th European Conference on Antennas and Propagation (EuCAP), 1-5
+
+57. HARE: Hardware assisted reverse execution
+Citations:6
+Authors: I Doudalis, M Prvulovic
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+58. Towards optimal power management: Estimation of performance degradation due to DVFS on modern processors
+Citations:6
+Authors: H Amur, M Prvulovic, K Schwan
+Publication: Georgia Institute of Technology
+
+59. Coherence miss classification for performance debugging in multi-core processors
+Citations:6
+Authors: G Venkataramani, CJ Hughes, S Kumar, M Prvulovic
+Publication: Thirteenth Workshop on Interaction between Compilers and Computer …
+
+60. A method for efficient localization of magnetic field sources excited by execution of instructions in a processor
+Citations:5
+Authors: F Werner, DA Chu, AR Djordjević, DI Olćan, M Prvulovic, A Zajić
+Publication: IEEE Transactions on Electromagnetic Compatibility 60 (3), 613-622
+
+61. Smartapps, an application centric approach to high performance computing: compiler-assisted software and hardware support for reduction operations
+Citations:5
+Authors: F Dang, MJ Garzaran, M Prvulovic, Y Zhang, A Jula, H Yu, N Amato, ...
+Publication: Proceedings 16th International Parallel and Distributed Processing Symposium …
+
+62. Emprof: Memory profiling via em-emanation in iot and hand-held devices
+Citations:4
+Authors: M Dey, A Nazari, A Zajic, M Prvulovic
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+63. Syndrome: Spectral analysis for anomaly detection on medical iot and embedded devices
+Citations:4
+Authors: N Sehatbakhsh, M Alam, A Nazari, A Zajic, M Prvulovic
+Publication: 2018 IEEE International Symposium on Hardware Oriented Security and Trust …
+
+64. KIMA: hybrid checkpointing for recovery from a wide range of errors and detection latencies
+Citations:4
+Authors: I Doudalis, M Prvulovic
+Publication: Georgia Institute of Technology
+
+65. Capacity of deliberate side-channels created by software activities
+Citations:3
+Authors: BB Yilmaz, M Prvulovic, A Zajić
+Publication: MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM), 237-242
+
+66. Quantifying information leakage in a processor caused by the execution of instructions
+Citations:3
+Authors: BB Yilmaz, R Callan, M Prvulovic, A Zajić
+Publication: MILCOM 2017-2017 IEEE Military Communications Conference (MILCOM), 255-260
+
+67. Leveraging electromagnetic emanations for iot security
+Citations:3
+Authors: N Sehatbakhsh, R Callan, M Alam, M Prvulovic, A Zajic
+Publication: Proc. IEEE Int. Symp. Hardw. Oriented Secur. Trust (HOST), 1
+
+68. Performance evaluation of split temporal/spatial caches: Paving the way to new solutions
+Citations:3
+Authors: M Prvulovic, D Marinov, V Milutinovic
+Publication: Workshop Digest of ISCA/PAID-98, Barcelona, Spain
+
+69. Exploiting switching of transistors in digital electronics for RFID tag design
+Citations:2
+Authors: CL Cheng, LN Nguyen, M Prvulovic, A Zajić
+Publication: IEEE Journal of Radio Frequency Identification 3 (2), 67-76
+
+70. Experimental validation of localization method for finding magnetic sources on iot devices
+Citations:2
+Authors: FT Werner, AR Djordjević, DI Olćan, M Prvulovic, A Zajić
+Publication: 2018 International Symposium on Electromagnetic Compatibility (EMC EUROPE …
+
+71. Modelling jitter in wireless channel created by processor-memory activity
+Citations:2
+Authors: BB Yilmaz, A Zajić, M Prvulovic
+Publication: 2018 IEEE International Conference on Acoustics, Speech and Signal …
+
+72. Syndrome: Spectral analysis for anomaly detection on medical iot and embedded devicesexperimental demonstration
+Citations:2
+Authors: N Sehatbakhsh, H Hong, B Lazar, B Johnson-Smith, O Yilmaz, M Alam, ...
+Publication: Hardware Demo at IEEE International Symposium on Hardware Oriented Security …
+
+73. PleaseTM: Enabling transaction conflict management in requester-wins hardware transactional memory
+Citations:2
+Authors: S Park, M Prvulovic, CJ Hughes
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+74. Software Logging under Speculative Parallelization
+Citations:2
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181-195
+
+75. Zero-overhead path prediction with progressive symbolic execution
+Citations:1
+Authors: R Rutledge, S Park, H Khan, A Orso, M Prvulovic, A Zajic
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+76. The Split Spatial/Non-Spatial Cache: A Performance and Complexity Evaluation
+Citations:1
+Authors: M Prvulović, D Marinov, Z Dimitrijević, V Milutinović
+Publication: TCCA Newsletters, Inst. of Electrical and Electronics Engineers, Inc, 1-8
+
+77. IDEA: Intrusion Detection through Electromagnetic-Signal Analysis for Critical Embedded and Cyber-Physical Systems
+Citations:
+Authors: HA Khan, N Sehatbakhsh, LN Nguyen, RL Callan, A Yeredor, M Prvulovic, ...
+Publication: IEEE Transactions on Dependable and Secure Computing
+
+78. Electromagnetic Side Channel Information Leakage Created by Execution of Series of Instructions in a Computer Processor
+Citations:
+Authors: BB Yilmaz, M Prvulovic, A Zajić
+Publication: IEEE Transactions on Information Forensics and Security
+
+79. Hyperdimensional Bayesian Time-Mapping (HyperBaT): A Probabilistic Approach to Time Series Mapping of Non-Identical Sequences
+Citations:
+Authors: M Ruble, E Hayes, A Pitruzzello, M Welborn, A Zajic, M Prvulovic
+Publication: IEEE Transactions on Signal Processing
+
+80. Instruction level program tracking using electromagnetic emanations
+Citations:
+Authors: BB Yilamz, EM Ugurlu, A Zajic, M Prvulovic
+Publication: Cyber Sensing 2019 11011, 110110H
+
+81. Creating a Backscattering Side Channel to Enable Detection of Dormant Hardware Trojans
+Citations:
+Authors: LN Nguyen, CL Cheng, M Prvulovic, A Zajić
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+
+82. Malware Detection in Embedded Systems Using Neural Network Model for Electromagnetic Side-Channel Signals
+Citations:
+Authors: HA Khan, N Sehatbakhsh, LN Nguyen, M Prvulovic, A Zajić
+Publication: Journal of Hardware and Systems Security, 1-14
+
+83. Systems and methods for measuring side-channel signals for instruction-level events
+Citations:
+Authors: M Prvulovic, N Basta, R Callan, A Zajic
+Publication: US Patent App. 16/023,838
+
+84. Transactional pre-abort handlers in hardware transactional memory
+Citations:
+Authors: S Park, CJ Hughes, M Prvulovic
+Publication: Proceedings of the 27th International Conference on Parallel Architectures …
+
+85. Systems and methods for runtime program monitoring through analysis of side channel signals
+Citations:
+Authors: M Prvulovic, A Zajic
+Publication: US Patent App. 15/406,267
+
+86. Understanding, Alleviating and Exploiting Electro-Magnetic Side-Channel Signals
+Citations:
+Authors: M Prvulovic
+Publication: Georgia Institute of Technology
+
+87. Systems and methods for measuring side-channel signals for instruction-level events
+Citations:
+Authors: M Prvulovic, N Basta, R Callan, A Zajic
+Publication: US Patent App. 14/934,121
+
+88. Performance debugging support for many-core processors project
+Citations:
+Authors: M Prvulovic, J Oh, S Park
+Publication: Georgia Institute of Technology
+
+89. Software Logging under Speculative
+Citations:
+Authors: MJ Garzarán, M Prvulovic, JM Llaberia, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181
+
+90. CAREER: Architectural Support for Parallel Execution as a Continuum of Transactions (ASPECT)
+Citations:
+Authors: M Prvulovic
+Publication: Georgia Institute of Technology
+
+91. Architectural support for reliable parallel computing.
+Citations:
+Authors: M Prvulovic
+Publication: 
+
+92. The effects of user behavior and Internet provider policy on the accessibility of SezamPro on-line system
+Citations:
+Authors: J Protic, M Prvulovic, D Ristanovic
+Publication: Proceedings 23rd Euromicro Conference New Frontiers of Information …
+
+93. MICRO 2018
+Citations:
+Authors: EG Suh, F Chong, M Martonosi, M Hicks, M Prvulovic, M Qureshi, ...
+Publication: 
+
+94. One&Done: A Single-Decryption EM-Based Attack on OpenSSL’s Constant-Time Blinded RSA
+Citations:
+Authors: A Zajic, M Prvulovic
+Publication: 
+
+95. Hardware Security Capacity of the EM Covert/Side-Channel Created by the Execution of Instructions in a Processor......................
+Citations:
+Authors: BB Yilmaz, RL Callan, M Prvulovic, A Zajic, C Wang, TTN Miu, X Luo, ...
+Publication: 
+
+96. MICRO-49 steering committee
+Citations:
+Authors: DA Cornell, T Conte, K Ebcioglu, M Farrens, Y Patt, M Prvulovic
+Publication: 
+
+97. CHERRY: CHECKPOINTED EARLY RESOURCE RECYCLING
+Citations:
+Authors: JF Martınez, J Renau, MC Huang, M Prvulovic, J Torrellas
+Publication: 
+
+98. Abhishek Bhattacharjee, Rutgers Ali Saidi, ARM Andrew Hilton, Duke University Avi Mendelson, Technion
+Citations:
+Authors: BD de Dinechin, B Grot, CJ Wu, C Wilkerson, D Sanchez, D Brooks, ...
+Publication: 
+
+99. Program Co-Chairs
+Citations:
+Authors: TF Wenisch, E Ozer, J Mars, R Dreslinski, T Jones, B Jansen, M Ferdman, ...
+Publication: 
+
+100. INDUSTRIAL SESSION
+Citations:
+Authors: V Salapura, M Blumrich, A Gara, K Leigh, P Ranganathan, J Subhlok, ...
+Publication: 
+
+101. Finance Chair
+Citations:
+Authors: T Aamodt, B Columbia, D Chiou, B Lee, A Shriraman, C Fallin, J Meza, ...
+Publication: 
+
+102. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+103. Computer Systems Design and Applications Track Greg Byrd–Chair Michael Gschwind–Chair
+Citations:
+Authors: M Breternitz, D Brooks, J Chang, A Cristal, B de Supinski, J Holt, ...
+Publication: 
+
+104. Ashwini Nanda Vijay Narayanan Mario Nemirovsky Dimitris Nikolopoulos
+Citations:
+Authors: K Magoutis, R Manohar, P Marcuello, JF Martínez, M Martonosi, S McKee, ...
+Publication: 
+
+105. Rachel Tzoref Osman Unsal Ishaq Unwalla
+Citations:
+Authors: JM Parcerisa, V Pavlidis, M Pelgrom, L Pike, A Pinto, B Pisupati, ...
+Publication: 
+
+106. Local Arrangements Chair: Kshitij Doshi, Intel Corp.
+Citations:
+Authors: M Annavaram, I Bahar, D Brooks, D Burger, B Calder, C Chakrabarti, ...
+Publication: 
+
+107. ISPASS 2009 reviewers
+Citations:
+Authors: T Aamodt, M Adler, K Asanovic, N Binkert, S Blackburn, M Bond, C Boneti, ...
+Publication: 
+

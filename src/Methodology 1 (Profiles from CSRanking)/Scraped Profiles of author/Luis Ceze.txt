@@ -1,0 +1,1318 @@
+https://scholar.google.com/citations?hl=en&user=KzESVKwAAAAJ
+Total Citations = 9477
+
+1. EnerJ: Approximate data types for safe and general low-power computation
+Citations:656
+Authors: A Sampson, W Dietl, E Fortuna, D Gnanapragasam, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 46 (6), 164-174
+
+2. An overview of the BlueGene/L supercomputer
+Citations:603
+Authors: NR Adiga, G Almási, GS Almasi, Y Aridor, R Barik, D Beece, R Bellofatto, ...
+Publication: SC'02: Proceedings of the 2002 ACM/IEEE Conference on Supercomputing, 60-60
+
+3. SESC simulator
+Citations:541
+Authors: J Renau
+Publication: http://sesc. sourceforge. net
+
+4. Neural acceleration for general-purpose approximate programs
+Citations:523
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: Proceedings of the 2012 45th Annual IEEE/ACM International Symposium on …
+
+5. Architecture support for disciplined approximate programming
+Citations:409
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: ACM SIGPLAN Notices 47 (4), 301-312
+
+6. Bulk disambiguation of speculative threads in multiprocessors
+Citations:351
+Authors: L Ceze, J Tuck, J Torrellas, C Cascaval
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 227-238
+
+7. DMP: deterministic shared memory multiprocessing
+Citations:343
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 85-96
+
+8. CoreDet: a compiler and runtime system for deterministic multithreaded execution
+Citations:319
+Authors: T Bergan, O Anderson, J Devietti, L Ceze, D Grossman
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 53-64
+
+9. POSH: a TLS compiler that exploits program structure
+Citations:277
+Authors: W Liu, J Tuck, L Ceze, W Ahn, K Strauss, J Renau, J Torrellas
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+10. BulkSC: bulk enforcement of sequential consistency
+Citations:259
+Authors: L Ceze, J Tuck, P Montesinos, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 278-289
+
+11. Approximate storage in solid-state memories
+Citations:242
+Authors: A Sampson, J Nelson, K Strauss, L Ceze
+Publication: ACM Transactions on Computer Systems (TOCS) 32 (3), 9
+
+12. Delorean: Recording and deterministically replaying shared-memory multiprocessor execution ef? ciently
+Citations:241
+Authors: P Montesinos, L Ceze, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 289-300
+
+13. Volumetric preload measurement by thermodilution: a comparison with transoesophageal echocardiography
+Citations:184
+Authors: CK Hofer, L Furrer, S Matter-Ensner, M Maloigne, R Klaghofer, M Genoni, ...
+Publication: British journal of anaesthesia 94 (6), 748-755
+
+14. Deterministic Process Groups in dOS.
+Citations:167
+Authors: T Bergan, N Hunt, L Ceze, SD Gribble
+Publication: OSDI 10, 177-192
+
+15. General-purpose code acceleration with limited-precision analog computation
+Citations:152
+Authors: R St Amant, A Yazdanbakhsh, J Park, B Thwaites, H Esmaeilzadeh, ...
+Publication: ACM SIGARCH Computer Architecture News 42 (3), 505-516
+
+16. Operating System Implications of Fast, Cheap, Non-Volatile Memory.
+Citations:147
+Authors: K Bailey, L Ceze, SD Gribble, HM Levy
+Publication: HotOS 13, 2-2
+
+17. A DNA-based archival storage system
+Citations:135
+Authors: J Bornholt, R Lopez, DM Carmean, L Ceze, G Seelig, K Strauss
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 637-649
+
+18. Atom-aid: Detecting and surviving atomicity violations
+Citations:135
+Authors: B Lucia, J Devietti, K Strauss, L Ceze
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 277-288
+
+19. Latency-tolerant software distributed shared memory
+Citations:123
+Authors: J Nelson, B Holt, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: 2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 291-305
+
+20. Implicit parallelism with ordered transactions
+Citations:111
+Authors: C Von Praun, L Ceze, C Caşcaval
+Publication: Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of …
+
+21. Conflict exceptions: simplifying concurrent language semantics with precise hardware exceptions for data-races
+Citations:105
+Authors: B Lucia, L Ceze, K Strauss, S Qadeer, HJ Boehm
+Publication: ACM SIGARCH Computer Architecture News 38 (3), 210-221
+
+22. SNNAP: Approximate computing on programmable socs via neural acceleration
+Citations:104
+Authors: T Moreau, M Wyse, J Nelson, A Sampson, H Esmaeilzadeh, L Ceze, ...
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+23. Tasking with out-of-order spawn in TLS chip multiprocessors: microarchitecture and compilation
+Citations:104
+Authors: J Renau, J Tuck, W Liu, L Ceze, K Strauss, J Torrellas
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+24. RCDC: a relaxed consistency deterministic computer
+Citations:97
+Authors: J Devietti, J Nelson, T Bergan, L Ceze, D Grossman
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 67-78
+
+25. Finding concurrency bugs with context-aware communication graphs
+Citations:96
+Authors: B Lucia, L Ceze
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+26. IFRit: interference-free regions for dynamic data-race detection
+Citations:84
+Authors: L Effinger-Dean, B Lucia, L Ceze, D Grossman, HJ Boehm
+Publication: Acm Sigplan Notices 47 (10), 467-484
+
+27. Expressing and verifying probabilistic assertions
+Citations:81
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: ACM SIGPLAN Notices 49 (6), 112-122
+
+28. ColorSafe: architectural support for debugging and dynamically avoiding multi-variable atomicity violations
+Citations:78
+Authors: B Lucia, L Ceze, K Strauss
+Publication: ACM SIGARCH computer architecture news 38 (3), 222-233
+
+29. An overview of the BlueGene/L system software organization
+Citations:77
+Authors: G Almási, R Bellofatto, J Brunheroto, C Caşcaval, JG Castanos, ...
+Publication: Parallel processing letters 13 (04), 561-574
+
+30. Critical path deterministic execution of multithreaded applications in a transactional memory system
+Citations:76
+Authors: L Ceze, MH Oskin, JL Devietti, BM Lucia
+Publication: US Patent 8,739,163
+
+31. Random access in large-scale DNA data storage
+Citations:72
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: Nature biotechnology 36 (3), 242
+
+32. Digital libraries and mobility
+Citations:67
+Authors: CC Marshall, G Golovchinsky, MN Price
+Publication: Communications of the ACM 44 (5), 55-56
+
+33. Accept: A programmer-guided compiler framework for practical approximate computing
+Citations:65
+Authors: A Sampson, A Baixo, B Ransford, T Moreau, J Yip, L Ceze, M Oskin
+Publication: University of Washington Technical Report UW-CSE-15-01 1 (2)
+
+34. Scalable cache miss handling for high memory-level parallelism
+Citations:65
+Authors: J Tuck, L Ceze, J Torrellas
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+35. {TVM}: An automated end-to-end optimizing compiler for deep learning
+Citations:64
+Authors: T Chen, T Moreau, Z Jiang, L Zheng, E Yan, H Shen, M Cowan, L Wang, ...
+Publication: 13th {USENIX} Symposium on Operating Systems Design and Implementation …
+
+36. Evaluation of a multithreaded architecture for cellular computing
+Citations:64
+Authors: C Cascaval, JG Castanos, L Ceze, M Denneau, M Gupta, D Lieber, ...
+Publication: Proceedings Eighth International Symposium on High Performance Computer …
+
+37. TVM: end-to-end optimization stack for deep learning
+Citations:63
+Authors: T Chen, T Moreau, Z Jiang, H Shen, EQ Yan, L Wang, Y Hu, L Ceze, ...
+Publication: arXiv preprint arXiv:1802.04799, 1-15
+
+38. Memoizing web-browsing computation with DOM-based isomorphism
+Citations:61
+Authors: L Ceze, GC Cascaval, B Wang, MP Mahan, CS Dhillon, W Ruotsi, ...
+Publication: US Patent 9,171,097
+
+39. RADISH: always-on sound and complete Ra D etection in S oftware and H ardware
+Citations:58
+Authors: J Devietti, BP Wood, K Strauss, L Ceze, D Grossman, S Qadeer
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 201-212
+
+40. Monitoring and debugging the quality of results in approximate programs
+Citations:53
+Authors: M Ringenburg, A Sampson, I Ackerman, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 50 (4), 399-411
+
+41. The deterministic execution hammer: How well does it actually pound nails
+Citations:49
+Authors: T Bergan, J Devietti, N Hunt, L Ceze
+Publication: The 2nd Workshop on Determinism and Correctness in Parallel Programming …
+
+42. Deterministic serialization in a transactional memory system based on thread creation order
+Citations:48
+Authors: LH Ceze, MH Oskin
+Publication: US Patent 8,694,997
+
+43. CAVA: Using checkpoint-assisted value prediction to hide L2 misses
+Citations:46
+Authors: L Ceze, K Strauss, J Tuck, J Torrellas, J Renau
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 3 (2), 182-208
+
+44. A limit study of JavaScript parallelism
+Citations:45
+Authors: E Fortuna, O Anderson, L Ceze, S Eggers
+Publication: IEEE International Symposium on Workload Characterization (IISWC'10), 1-10
+
+45. Colorama: Architectural support for data-centric synchronization
+Citations:45
+Authors: L Ceze, P Montesinos, C Von Praun, J Torrellas
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+46. Optimizing synthesis with metasketches
+Citations:44
+Authors: J Bornholt, E Torlak, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 51 (1), 775-788
+
+47. Crunching Large Graphs with Commodity Processors.
+Citations:44
+Authors: J Nelson, B Myers, AH Hunter, P Briggs, L Ceze, C Ebeling, D Grossman, ...
+Publication: HotPar 11, 10-10
+
+48. Grappa: A latency-tolerant runtime for large-scale irregular applications
+Citations:42
+Authors: J Nelson, B Holt, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: International Workshop on Rack-Scale Computing (WRSC w/EuroSys)
+
+49. DNA-based molecular architecture with spatially localized components
+Citations:41
+Authors: RA Muscat, K Strauss, L Ceze, G Seelig
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 177-188
+
+50. Cooperative empirical failure avoidance for multithreaded programs
+Citations:41
+Authors: B Lucia, L Ceze
+Publication: ACM SIGPLAN Notices 48 (4), 39-50
+
+51. Characterizing the performance and energy efficiency of lock-free data structures
+Citations:41
+Authors: N Hunt, PS Sandhu, L Ceze
+Publication: 2011 15th Workshop on Interaction between Compilers and Computer …
+
+52. SoftSig: software-exposed hardware signatures for code analysis and optimization
+Citations:41
+Authors: J Tuck, W Ahn, L Ceze, J Torrellas
+Publication: ACM Sigplan Notices 43 (3), 145-156
+
+53. Thread-level speculation on a CMP can be energy efficient
+Citations:41
+Authors: J Renau, K Strauss, L Ceze, W Liu, S Sarangi, J Tuck, J Torrellas
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+54. Integrated 3D-stacked server designs for increasing physical density of key-value stores
+Citations:40
+Authors: A Gutierrez, M Cieslak, B Giridhar, RG Dreslinski, L Ceze, T Mudge
+Publication: ACM SIGPLAN Notices 49 (4), 485-498
+
+55. Exploring storage class memory with key value stores
+Citations:39
+Authors: KA Bailey, P Hornyack, L Ceze, SD Gribble, HM Levy
+Publication: Proceedings of the 1st Workshop on Interactions of NVM/FLASH with Operating …
+
+56. DDOS: taming nondeterminism in distributed systems
+Citations:38
+Authors: N Hunt, T Bergan, L Ceze, SD Gribble
+Publication: ACM SIGPLAN Notices 48 (4), 499-508
+
+57. Isolating and understanding concurrency errors using reconstructed execution fragments
+Citations:38
+Authors: B Lucia, BP Wood, L Ceze
+Publication: ACM Sigplan Notices 46 (6), 378-388
+
+58. Energy-efficient thread-level speculation
+Citations:37
+Authors: J Renau, K Strauss, L Ceze, W Liu, SR Sarangi, J Tuck, J Torrellas
+Publication: IEEE Micro 26 (1), 80-91
+
+59. Cellular supercomputing with system-on-a-chip
+Citations:37
+Authors: G Almasi, GS Almasi, D Beece, R Bellofatto, G Bhanot, R Bickford, ...
+Publication: 2002 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+60. Incbricks: Toward in-network computation with an in-network cache
+Citations:36
+Authors: M Liu, L Luo, J Nelson, L Ceze, A Krishnamurthy, K Atreya
+Publication: ACM SIGOPS Operating Systems Review 51 (2), 795-809
+
+61. Energy-efficient hybrid stochastic-binary neural networks for near-sensor computing
+Citations:36
+Authors: VT Lee, A Alaghi, JP Hayes, V Sathe, L Ceze
+Publication: Proceedings of the Conference on Design, Automation & Test in Europe, 13-18
+
+62. Probability type inference for flexible approximate programming
+Citations:32
+Authors: B Boston, A Sampson, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 50 (10), 470-487
+
+63. Two hardware-based approaches for deterministic multiprocessor replay
+Citations:32
+Authors: DR Hower, P Montesinos, L Ceze, MD Hill, J Torrellas
+Publication: Communications of the ACM 52 (6), 93-100
+
+64. High-density image storage using approximate memory cells
+Citations:30
+Authors: Q Guo, K Strauss, L Ceze, HS Malvar
+Publication: ACM SIGPLAN Notices 51 (4), 413-426
+
+65. The Bulk Multicore architecture for improved programmability
+Citations:30
+Authors: J Torrellas, L Ceze, J Tuck, C Cascaval, P Montesinos, W Ahn, ...
+Publication: ILLINOIS UNIV AT URBANA-CHAMPAIGN DEPT OF COMPUTER SCIENCE
+
+66. System and method for handling overflow in hardware transactional memory with locks
+Citations:30
+Authors: LH Ceze, C Von Praun
+Publication: US Patent App. 11/971,511
+
+67. A case for system support for concurrency exceptions
+Citations:29
+Authors: L Ceze, J Devietti, B Lucia, S Qadeer
+Publication: USENIX HotPar 17
+
+68. CAVA: Hiding L2 misses with checkpoint-assisted value prediction
+Citations:29
+Authors: L Ceze, K Strauss, J Tuck, J Renau, J Torrellas
+Publication: IEEE Computer Architecture Letters 3 (1), 7-7
+
+69. Checked load: Architectural support for javascript type-checking on mobile processors
+Citations:28
+Authors: O Anderson, E Fortuna, L Ceze, S Eggers
+Publication: 2011 IEEE 17th International Symposium on High Performance Computer …
+
+70. Method and apparatus for implementing efficient data dependence tracking for multiprocessor architectures
+Citations:28
+Authors: GC Cascaval, LH Ceze
+Publication: US Patent App. 11/619,355
+
+71. Enhanced reliability using deterministic multiprocessing-based synchronized replication
+Citations:26
+Authors: L Ceze, PJ Godman, MH Oskin
+Publication: US Patent 8,453,120
+
+72. DMP: Deterministic shared-memory multiprocessing
+Citations:25
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: IEEE micro 30 (1), 40-49
+
+73. Full circle: Simulating Linux clusters on Linux clusters
+Citations:25
+Authors: L Ceze, K Strauss, G Almasi, PJ Bohrer, JR Brunheroto, C Cascaval, ...
+Publication: Proceedings of the Fourth LCI International Conference on Linux Clusters …
+
+74. Neural acceleration for general-purpose approximate programs
+Citations:24
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: Communications of the ACM 58 (1), 105-115
+
+75. Symbolic execution of multithreaded programs from arbitrary program contexts
+Citations:23
+Authors: T Bergan, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 49 (10), 491-506
+
+76. Handling permanent and transient errors using a SIMD unit
+Citations:23
+Authors: E Altman, G Cascaval, L Ceze, V Srinivasan
+Publication: US Patent App. 11/063,122
+
+77. Input-covering schedules for multithreaded programs
+Citations:22
+Authors: T Bergan, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 48 (10), 677-692
+
+78. Back to the futures: Incremental parallelization of existing sequential runtime systems
+Citations:22
+Authors: J Swaine, K Tew, P Dinda, RB Findler, M Flatt
+Publication: ACM Sigplan Notices 45 (10), 583-597
+
+79. Flat combining synchronized global data structures
+Citations:21
+Authors: B Holt, J Nelson, B Myers, P Briggs, L Ceze, S Kahan, M Oskin
+Publication: 7th International Conference on PGAS Programming Models, 76
+
+80. Augmenting low-latency HPC network with free-space optical links
+Citations:19
+Authors: I Fujiwara, M Koibuchi, T Ozaki, H Matsutani, H Casanova
+Publication: 2015 IEEE 21st International Symposium on High Performance Computer …
+
+81. Low-level detection of language-level data races with LARD
+Citations:19
+Authors: BP Wood, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 49 (4), 671-686
+
+82. Atom-Aid: Detecting and surviving atomicity violations
+Citations:19
+Authors: B Lucia, J Devietti, L Ceze, K Strauss
+Publication: IEEE micro 29 (1), 73-83
+
+83. Learning to optimize tensor programs
+Citations:18
+Authors: T Chen, L Zheng, E Yan, Z Jiang, T Moreau, L Ceze, C Guestrin, ...
+Publication: Advances in Neural Information Processing Systems, 3389-3400
+
+84. Multiprocessor system with multiple concurrent modes of execution
+Citations:18
+Authors: D Ahn, LH Ceze, D Chen, A Gara, P Heidelberger, M Ohmacht
+Publication: US Patent 8,621,478
+
+85. Concurrency control with data coloring
+Citations:18
+Authors: L Ceze, C Von Praun, C Caşcaval, P Montesinos, J Torrellas
+Publication: Proceedings of the 2008 ACM SIGPLAN workshop on Memory systems performance …
+
+86. Hardware and software for approximate computing
+Citations:16
+Authors: A Sampson
+Publication: 
+
+87. Approximate storage of compressed and encrypted videos
+Citations:15
+Authors: D Jevdjic, K Strauss, L Ceze, HS Malvar
+Publication: ACM SIGARCH Computer Architecture News 45 (1), 361-373
+
+88. Arch2030: A vision of computer architecture research over the next 15 years
+Citations:15
+Authors: L Ceze, MD Hill, TF Wenisch
+Publication: arXiv preprint arXiv:1612.03182
+
+89. Hardware-software co-design: not just a cliché
+Citations:15
+Authors: A Sampson, J Bornholt, L Ceze
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+90. Systems and methods for finding concurrency errors
+Citations:15
+Authors: L Ceze, B Lucia
+Publication: US Patent 8,832,659
+
+91. Addressing dark silicon challenges with disciplined approximate computing
+Citations:15
+Authors: H Esmaeilzadeh, A Sampson, M Ringenburg, L Ceze, D Grossman, ...
+Publication: Proc. 4th Workshop on Energy-Efficient Design, 1-2
+
+92. Parameter hub: a rack-scale parameter server for distributed deep neural network training
+Citations:14
+Authors: L Luo, J Nelson, L Ceze, A Phanishayee, A Krishnamurthy
+Publication: Proceedings of the ACM Symposium on Cloud Computing, 41-54
+
+93. Cache as point of coherence in multiprocessor system
+Citations:14
+Authors: MA Blumrich, LH Ceze, D Chen, A Gara, P Heidelberger, M Ohmacht, ...
+Publication: US Patent 9,507,647
+
+94. Dense approximate storage in phase-change memory
+Citations:14
+Authors: J Nelson, A Sampson, L Ceze
+Publication: ASPLOS Ideas & Perspectives
+
+95. Computer Security, Privacy, and {DNA} Sequencing: Compromising Computers with Synthesized {DNA}, Privacy Leaks, and More
+Citations:13
+Authors: P Ney, K Koscher, L Organick, L Ceze, T Kohno
+Publication: 26th {USENIX} Security Symposium ({USENIX} Security 17), 765-779
+
+96. Disciplined inconsistency with consistency types
+Citations:13
+Authors: B Holt, J Bornholt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: Proceedings of the Seventh ACM Symposium on Cloud Computing, 279-293
+
+97. Systems and methods for hardware-assisted type checking
+Citations:13
+Authors: SJ Eggers, L Ceze, E Fortuna, O Anderson
+Publication: US Patent 9,336,125
+
+98. Towards neural acceleration for general-purpose approximate computing
+Citations:13
+Authors: H Esmaeilzadeh, A Sampson, L Ceze, D Burger
+Publication: WEED, Jun
+
+99. Composable specifications for structured shared-memory communication
+Citations:12
+Authors: BP Wood, A Sampson, L Ceze, D Grossman
+Publication: ACM Sigplan Notices 45 (10), 140-159
+
+100. Correlation manipulating circuits for stochastic computing
+Citations:11
+Authors: VT Lee, A Alaghi, L Ceze
+Publication: 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE …
+
+101. A taxonomy of general purpose approximate computing techniques
+Citations:11
+Authors: T Moreau, J San Miguel, M Wyse, J Bornholt, A Alaghi, L Ceze, NE Jerger, ...
+Publication: IEEE Embedded Systems Letters 10 (1), 2-5
+
+102. Scaling up DNA data storage and random access retrieval
+Citations:11
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: BioRxiv, 114553
+
+103. Data provenance tracking for concurrent programs
+Citations:11
+Authors: B Lucia, L Ceze
+Publication: Proceedings of the 13th Annual IEEE/ACM International Symposium on Code …
+
+104. Automatic discovery of performance and energy pitfalls in HTML and CSS
+Citations:10
+Authors: A Sampson, C Caşcaval, L Ceze, P Montesinos, DS Gracia
+Publication: 2012 IEEE International Symposium on Workload Characterization (IISWC), 82-83
+
+105. Are we ready for high memory-level parallelism
+Citations:10
+Authors: L Ceze, J Tuck, J Torrellas
+Publication: 4th Workshop on Memory Performance Issues
+
+106. A Hardware-Software Blueprint for Flexible Deep Learning Specialization
+Citations:8
+Authors: T Moreau, T Chen, L Vega, J Roesch, E Yan, L Zheng, J Fromm, Z Jiang, ...
+Publication: arXiv preprint arXiv:1807.04188
+
+107. MATIC: Learning around errors for efficient low-voltage neural network accelerators
+Citations:8
+Authors: S Kim, P Howe, T Moreau, A Alaghi, L Ceze, V Sathe
+Publication: 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6
+
+108. Clustering billions of reads for DNA data storage
+Citations:8
+Authors: C Rashtchian, K Makarychev, M Rácz, S Ang, D Jevdjic, S Yekhanin, ...
+Publication: Advances in Neural Information Processing Systems, 3360-3371
+
+109. Ncam: Near-data processing for nearest neighbor search
+Citations:8
+Authors: CC Del Mundo, VT Lee, L Ceze, M Oskin
+Publication: Proceedings of the 2015 International Symposium on Memory Systems, 274-275
+
+110. Approximate computing: Making mobile systems more efficient
+Citations:8
+Authors: T Moreau, A Sampson, L Ceze
+Publication: IEEE Pervasive Computing 14 (2), 9-13
+
+111. Profiling and autotuning for energy-aware approximate programming
+Citations:8
+Authors: MF Ringenburg, A Sampson, L Ceze, D Grossman
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+112. A content-addressable DNA database with learned sequence encodings
+Citations:7
+Authors: K Stewart, YJ Chen, D Ward, X Liu, G Seelig, K Strauss, L Ceze
+Publication: International Conference on DNA Computing and Molecular Programming, 55-70
+
+113. A hardware-friendly bilateral solver for real-time virtual reality video
+Citations:7
+Authors: A Mazumdar, A Alaghi, JT Barron, D Gallup, L Ceze, M Oskin, SM Seitz
+Publication: Proceedings of High Performance Graphics, 13
+
+114. Error correction for nucleotide data stores
+Citations:7
+Authors: K Strauss, SD Ang, LH Ceze, J Bornholt
+Publication: US Patent App. 15/004,827
+
+115. Nanoelectronic neurocomputing: Status and prospects
+Citations:7
+Authors: L Ceze, J Hasler, KK Likharev, J Seo, T Sherwood, D Strukov, Y Xie, S Yu
+Publication: 2016 74th Annual Device Research Conference (DRC), 1-2
+
+116. Hardware support for hashtables in dynamic languages
+Citations:7
+Authors: L Ceze, MH Reshadi, T Sartorius
+Publication: US Patent 9,063,749
+
+117. Priority-assignment interface to enhance approximate computing
+Citations:7
+Authors: K Strauss, A Sampson, LH Ceze
+Publication: US Patent 9,021,313
+
+118. Claret: using data types for highly concurrent distributed transactions
+Citations:7
+Authors: B Holt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: Proceedings of the First Workshop on Principles and Practice of Consistency …
+
+119. Dynamic analysis of approximate program quality
+Citations:7
+Authors: MF Ringenburg, A Sampson, I Ackerman, L Ceze, D Grossman
+Publication: University of Washington, Tech. Rep. UW-CSE-14-03-01
+
+120. High density DNA data storage library via dehydration with digital microfluidic retrieval
+Citations:6
+Authors: S Newman, AP Stephenson, M Willsey, BH Nguyen, CN Takahashi, ...
+Publication: Nature communications 10 (1), 1706
+
+121. Demonstration of end-to-end automation of DNA data storage
+Citations:6
+Authors: CN Takahashi, BH Nguyen, K Strauss, L Ceze
+Publication: Scientific reports 9 (1), 4998
+
+122. Toward a DNA-based archival storage system
+Citations:6
+Authors: J Bornholt, R Lopez, DM Carmean, L Ceze, G Seelig, K Strauss
+Publication: IEEE Micro 37 (3), 98-104
+
+123. Similarity search on automata processors
+Citations:6
+Authors: VT Lee, J Kotalik, CC Del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+124. Visualcloud demonstration: A dbms for virtual reality
+Citations:6
+Authors: B Haynes, A Minyaylov, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the 2017 ACM International Conference on Management of Data …
+
+125. 21st century computer architecture
+Citations:6
+Authors: MD Hill, S Adve, L Ceze, MJ Irwin, D Kaeli, M Martonosi, J Torrellas, ...
+Publication: arXiv preprint arXiv:1609.06756
+
+126. Approximating to the last bit
+Citations:6
+Authors: T Moreau, A Sampson, L Ceze, M Oskin
+Publication: Ratio 20 (40dB), 60dB
+
+127. Alembic: automatic locality extraction via migration
+Citations:6
+Authors: B Holt, P Briggs, L Ceze, M Oskin
+Publication: ACM SIGPLAN Notices 49 (10), 879-894
+
+128. POSH: A profiler-enhanced TLS compiler that leverages program structure
+Citations:6
+Authors: W Liu, J Tuck, L Ceze, K Strauss, J Renau, J Torrellas
+Publication: IBM Watson P= AC2 Conference
+
+129. Blue Gene/L, a system-on-a-chip
+Citations:6
+Authors: G Almási, GS Almasi, D Beece, R Bellofatto, G Bhanot, R Bickford, ...
+Publication: Proceedings. IEEE International Conference on Cluster Computing, 349-350
+
+130. DNA data storage and hybrid molecular–electronic computing
+Citations:5
+Authors: D Carmean, L Ceze, G Seelig, K Stewart, K Strauss, M Willsey
+Publication: Proceedings of the IEEE 107 (1), 63-72
+
+131. React: A framework for rapid exploration of approximate computing techniques
+Citations:5
+Authors: M Wyse, A Baixo, T Moreau, B Zorn, J Bornholt, A Sampson, L Ceze, ...
+Publication: Workshop on Approximate Computing Across the Stack (WAX w/PLDI)
+
+132. Toward general-purpose code acceleration with analog computation
+Citations:5
+Authors: A Yazdanbakhsh, RS Amant, B Thwaites, J Park, H Esmaeilzadeh, ...
+Publication: Workshop on approximate computing across the system stack (WACAS) in …
+
+133. EnerJ: Approximate Data Types for Safe and General Low-Power Computation—Full Proofs
+Citations:5
+Authors: A Sampson, W Dietl, E Fortuna, D Gnanapragasam, L Ceze, D Grossman
+Publication: Technical Report UW-CSE-10-12-01, University of Washington
+
+134. LightDB: a DBMS for virtual reality video
+Citations:4
+Authors: B Haynes, A Mazumdar, A Alaghi, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the VLDB Endowment 11 (10), 1192-1205
+
+135. Exploring computation-communication tradeoffs in camera systems
+Citations:4
+Authors: A Mazumdar, T Moreau, S Kim, M Cowan, A Alaghi, L Ceze, M Oskin, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 177-186
+
+136. QAPPA: A framework for navigating quality-energy tradeoffs with arbitrary quantization
+Citations:4
+Authors: T Moreau, F Augusto, P Howe, A Alaghi, L Ceze
+Publication: Technical Report UW-CSE-17-03-02
+
+137. NCAM: near-data processing for nearest neighbor search
+Citations:4
+Authors: VT Lee, CC del Mundo, A Alaghi, L Ceze, M Oskin, A Farhadi
+Publication: arXiv preprint arXiv:1606.03742
+
+138. Approximate multi-level cell memory operations
+Citations:4
+Authors: K Strauss, A Sampson, LH Ceze, DC Burger
+Publication: US Patent 8,861,270
+
+139. Methods and Systems for Scalable Computing on Commodity Hardware for Irregular Applications
+Citations:4
+Authors: L Ceze, JE Nelson, H Brandon, B Myers, S Kahan, MH Oskin
+Publication: US Patent App. 13/834,560
+
+140. Good-enough computing
+Citations:4
+Authors: A Sampson, L Ceze, D Grossman
+Publication: IEEE Spectrum 50 (10), 54-59
+
+141. Method and apparatus to trigger synchronization and validation actions upon memory access
+Citations:4
+Authors: C Von Praun, L Ceze
+Publication: US Patent 8,327,084
+
+142. The Case For Merging Execution-and Language-level Determinism with MELD
+Citations:4
+Authors: J Devietti, D Grossman, L Ceze
+Publication: Workshop on Determinism and Correctness in Parallel Programming (WoDet)
+
+143. Accelerating data race detection with minimal hardware support
+Citations:4
+Authors: R Gonzalez-Alberquilla, K Strauss, L Ceze, L Piñuel
+Publication: European Conference on Parallel Processing, 27-38
+
+144. Data-race exceptions have benefits beyond the memory model
+Citations:4
+Authors: BP Wood, L Ceze, D Grossman
+Publication: Proceedings of the 2011 ACM SIGPLAN Workshop on Memory Systems Performance …
+
+145. Lock prediction
+Citations:4
+Authors: B Lucia, J Devietti, T Bergan, L Ceze, D Grossman
+Publication: Proceedings of the 2nd USENIX Workshop on Hot Topics in Parallelism, 101-101
+
+146. An environment for easy cross synchronization of multimedia Web based material
+Citations:4
+Authors: I Stiubiener, LH Ceze, K Strauss, CB Margi, RM Silveira, WV Ruggiero
+Publication: 30th Annual Frontiers in Education Conference. Building on A Century of …
+
+147. Computer security risks of distant relative matching in consumer genetic databases
+Citations:3
+Authors: PM Ney, L Ceze, T Kohno
+Publication: arXiv preprint arXiv:1810.02895
+
+148. Energy-efficient neural network acceleration in the presence of bit-level memory errors
+Citations:3
+Authors: S Kim, P Howe, T Moreau, A Alaghi, L Ceze, VS Sathe
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 65 (12), 4285-4298
+
+149. Troubleshooting Transiently-Recurring Errors in Production Systems with Blame-Proportional Logging
+Citations:3
+Authors: L Luo, S Nath, LR Sivalingam, M Musuvathi, L Ceze
+Publication: 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 321-334
+
+150. Exploiting quality-energy tradeoffs with arbitrary quantization: special session paper
+Citations:3
+Authors: T Moreau, F Augusto, P Howe, A Alaghi, L Ceze
+Publication: Proceedings of the Twelfth IEEE/ACM/IFIP International Conference on …
+
+151. Motivating in-network aggregation for distributed deep neural network training
+Citations:3
+Authors: L Luo, M Liu, J Nelson, L Ceze, A Phanishayee, A Krishnamurthy
+Publication: Workshop on Approximate Computing Across the Stack
+
+152. A taxonomy of approximate computing techniques
+Citations:3
+Authors: T Moreau, J San Miguel, M Wyse, J Bornholt, L Ceze, NE Jerger, ...
+Publication: UW CSE Technical Report, 1-5
+
+153. SAP: an architecture for selectively approximate wireless communication
+Citations:3
+Authors: B Ransford, L Ceze
+Publication: arXiv preprint arXiv:1510.03955
+
+154. Tuning approximate computations with constraint-based type inference
+Citations:3
+Authors: B Boston, A Sampson, D Grossman, L Ceze
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+155. Code-centric communication graphs for shared-memory multithreaded programs
+Citations:3
+Authors: BP Wood, J Devietti, L Ceze, D Grossman
+Publication: Technical Report UW-CSE-09–05–02
+
+156. Puddle: A dynamic, error-correcting, full-stack microfluidics platform
+Citations:2
+Authors: M Willsey, AP Stephenson, C Takahashi, P Vaid, BH Nguyen, M Piszczek, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+157. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+158. Application Codesign of Near-Data Processing for Similarity Search
+Citations:2
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+159. Dynamic approximate storage for custom applications
+Citations:2
+Authors: K Strauss, LH Ceze, HS Malvar, Q Guo
+Publication: US Patent 9,786,386
+
+160. Data encoding on single-level and variable multi-level cell storage
+Citations:2
+Authors: K Strauss, LH Ceze, HS Malvar, Q Guo
+Publication: US Patent 9,690,656
+
+161. Democratizing design for future computing platforms
+Citations:2
+Authors: L Ceze, MD Hill, K Sankaralingam, TF Wenisch
+Publication: arXiv preprint arXiv:1706.08597
+
+162. Augmenting Interpersonal Communication through Connected Lighting
+Citations:2
+Authors: ME Morris, DM Carmean, A Minyaylov, L Ceze
+Publication: Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors …
+
+163. Customizing Progressive {JPEG} for Efficient Image Storage
+Citations:2
+Authors: E Yan, K Zhang, X Wang, K Strauss, L Ceze
+Publication: 9th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 17)
+
+164. Reader set encoding for directory of shared cache memory in multiprocessor system
+Citations:2
+Authors: D Ahn, LH Ceze, A Gara, M Ohmacht, Z Xiaotong
+Publication: US Patent 8,751,748
+
+165. Radish: Compiling efficient query plans for distributed shared memory
+Citations:2
+Authors: B Myers, D Halperin, J Nelson, M Oskin, L Ceze, B Howe
+Publication: Technical Report
+
+166. Approximate computing on programmable socs via neural acceleration
+Citations:2
+Authors: T Moreau, J Nelson, A Sampson, H Esmaeilzadeh, L Ceze
+Publication: Technical report
+
+167. Quality of service profiling and autotuning for energy-aware approximate programming
+Citations:2
+Authors: MF Ringenburg, A Sampson, L Ceze, D Grossman
+Publication: Tech. Rep. UW-CSE-12-07-02, University of Washington
+
+168. Molecular digital data storage using DNA
+Citations:1
+Authors: L Ceze, J Nivala, K Strauss
+Publication: Nature Reviews Genetics, 1
+
+169. Synthesizing number generators for stochastic computing using mixed integer programming
+Citations:1
+Authors: VT Lee, SA Elliot, A Alaghi, L Ceze
+Publication: arXiv preprint arXiv:1902.05971
+
+170. Experimental Assessment of PCR Specificity and Copy Number for Reliable Data Retrieval in DNA Storage
+Citations:1
+Authors: L Organick, YJ Chen, SD Ang, R Lopez, K Strauss, L Ceze
+Publication: bioRxiv, 565150
+
+171. Architecture Considerations for Stochastic Computing Accelerators
+Citations:1
+Authors: VT Lee, A Alaghi, R Pamula, VS Sathe, L Ceze, M Oskin
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+172. Stochastic synthesis for stochastic computing
+Citations:1
+Authors: VT Lee, A Alaghi, L Ceze, M Oskin
+Publication: arXiv preprint arXiv:1810.04756
+
+173. Trace reconstruction from noisy polynucleotide sequencer reads
+Citations:1
+Authors: PS Gopalan, S Yekhanin, SD Ang, N Jojic, M Racz, K Strauss, L Ceze
+Publication: US Patent App. 15/536,115
+
+174. Leveraging the vta-tvm hardware-software stack for fpga acceleration of 8-bit resnet-18 inference
+Citations:1
+Authors: T Moreau, T Chen, L Ceze
+Publication: Proceedings of the 1st on Reproducible Quality-Efficient Systems Tournament …
+
+175. Parameter Hub: High Performance Parameter Servers for Efficient Distributed Deep Neural Network Training
+Citations:1
+Authors: L Luo, J Nelson, L Ceze, A Phanishayee, A Krishnamurthy
+Publication: arXiv preprint arXiv:1801.09805
+
+176. POSTER: Application-Driven Near-Data Processing for Similarity Search
+Citations:1
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+177. APPROXIMATE COMPUTING: Unlocking Efficiency with Hardware-Software Co-Design
+Citations:1
+Authors: L Ceze, A Sampson
+Publication: GetMobile: Mobile Computing and Communications 20 (3), 12-16
+
+178. A 10G NetFPGA Prototype for In-Network Aggregation
+Citations:1
+Authors: VT Lee, J Nelson, M Oskin, L Ceze
+Publication: Workshop on Architectural Research Prototyping (WARP w/ISCA)
+
+179. Approximate Semantics for Wirelessly Networked Applications
+Citations:1
+Authors: B Ransford, A Sampson, L Ceze
+Publication: arxiv, October
+
+180. Data race detection with minimal hardware support
+Citations:1
+Authors: R González-Alberquilla, FE Frati, L Piñuel, K Strauss, L Ceze
+Publication: The Computer Journal 57 (5), 675-692
+
+181. Shared-Memory Multiprocessors
+Citations:1
+Authors: LH Ceze
+Publication: Encyclopedia of Parallel Computing, 1810-1812
+
+182. Softsig: Software-exposed hardware signatures for code analysis and optimization
+Citations:1
+Authors: J Tuck, W Ahn, J Torrellas, L Ceze
+Publication: IEEE micro 29 (1), 84-95
+
+183. Programming and Debugging Shared Memory Programs with Data Coloring
+Citations:1
+Authors: L Ceze, C Von Praun, C Cascaval, P Montesinos, J Torrellas
+Publication: Workshop on Compilers for Parallel Computing (CPC)
+
+184. Explicitly parallel programming with shared-memory is insane: At least make it deterministic
+Citations:1
+Authors: J Devietti, B Lucia, L Ceze, M Oskin
+Publication: proceedings of SHCMP
+
+185. Probabilistic assertions: Extended semantics and proof
+Citations:1
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: 
+
+186. DNA assembly for nanopore data storage readout
+Citations:
+Authors: R Lopez, YJ Chen, SD Ang, S Yekhanin, K Makarychev, MZ Racz, ...
+Publication: Nature communications 10 (1), 2933
+
+187. Visual Road: A Video Data Management Benchmark
+Citations:
+Authors: B Haynes, A Mazumdar, M Balazinska, L Ceze, A Cheung
+Publication: Proceedings of the 2019 International Conference on Management of Data, 972-987
+
+188. Vignette: Perceptual Compression for Video Storage and Processing Systems
+Citations:
+Authors: A Mazumdar, B Haynes, M Balazinska, L Ceze, A Cheung, M Oskin
+Publication: arXiv preprint arXiv:1902.01372
+
+189. Combining Data Longevity with High Storage Capacity—Layer‐by‐Layer DNA Encapsulated in Magnetic Nanoparticles
+Citations:
+Authors: WD Chen, AX Kohll, BH Nguyen, J Koch, R Heckel, WJ Stark, L Ceze, ...
+Publication: Advanced Functional Materials, 1901672
+
+190. Quantifying Molecular Bias in DNA Data Storage
+Citations:
+Authors: YJ Chen, CN Takahashi, L Organick, K Stewart, SD Ang, P Weiss, B Peck, ...
+Publication: BioRxiv, 566554
+
+191. Iterative Search for Reconfigurable Accelerator Blocks With a Compiler in the Loop
+Citations:
+Authors: M Willsey, VT Lee, A Cheung, R Bodík, L Ceze
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+192. Automating Generation of Low Precision Deep Learning Operators
+Citations:
+Authors: M Cowan, T Moreau, T Chen, L Ceze
+Publication: arXiv preprint arXiv:1810.11066
+
+193. Random access of data encoded by polynucleotides
+Citations:
+Authors: YJ Chen, K Strauss, LH Ceze, L Organick
+Publication: US Patent App. 15/459,268
+
+194. Polynucleotide sequencer tuned to artificial polynucleotides
+Citations:
+Authors: K Strauss, SD Ang, L Ceze, YJ Chen, HY Parker, B Nguyen, R Carlson
+Publication: US Patent App. 15/607,364
+
+195. Modifications to polynucleotides for sequencing
+Citations:
+Authors: YJ Chen, K Strauss, LH Ceze, L Organick, R Lopez, G Seelig
+Publication: US Patent App. 15/431,897
+
+196. Primer design for retrieval of stored polynucleotides
+Citations:
+Authors: YJ Chen, LH Ceze, S Yekhanin, SD Ang, K Strauss
+Publication: US Patent App. 15/427,344
+
+197. Primer Design for Retrieval of Stored Nucleotides
+Citations:
+Authors: YJ Chen, K Strauss, LH Ceze, SD Ang, S Yekhanin
+Publication: US Patent App. 15/427,808
+
+198. INTEGRATED SYSTEM FOR NUCLEIC ACID-BASED STORAGE OF DIGITAL DATA
+Citations:
+Authors: LH Ceze, G Seelig
+Publication: US Patent App. 15/565,372
+
+199. Exploiting Index Cross-Talk to Modify Variant Calls
+Citations:
+Authors: PM Ney, L Organick, K Koscher, T Kohno, L Ceze
+Publication: bioRxiv, 332346
+
+200. Reducing web browsing overheads with external code certification
+Citations:
+Authors: L Ceze, GC Cascaval, MH Reshadi
+Publication: US Patent 9,819,687
+
+201. Special session paper: exploiting quality-energy tradeoffs with arbitrary quantization
+Citations:
+Authors: T Moreau, F Augusto, P Howe, A Alaghi, L Ceze
+Publication: 2017 International Conference on Hardware/Software Codesign and System …
+
+202. End-to-end DNA archival storage system
+Citations:
+Authors: L Organick, SD Ang, YJ Chen, R Lopez, S Yekhanin, K Makarychev, ...
+Publication: ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254
+
+203. Making data center computations fast, but not so furious
+Citations:
+Authors: D Porto, J Loff, R Duarte, L Ceze, R Rodrigues
+Publication: arXiv preprint arXiv:1704.05112
+
+204. Scaling up DNA data storage
+Citations:
+Authors: C Takahashi, SD Ang, L Organick, YJ Chen, R Lopez, S Yekhanin, ...
+Publication: Synthetic Biology Conference: Engineering, Evolution, and Design, SEED 2017 …
+
+205. A Visual Cloud for Virtual Reality Applications.
+Citations:
+Authors: M Balazinska, L Ceze, A Cheung, B Curless, SM Seitz
+Publication: CIDR
+
+206. Special Session Paper: Exploiting ality-Energy Tradeoff s with Arbitrary antization
+Citations:
+Authors: T Moreau, F Augusto, P Howe, A Alaghi, L Ceze
+Publication: 
+
+207. Cache as point of coherence in multiprocessor system
+Citations:
+Authors: MA Blumrich, LH Ceze, D Chen, A Gara, P Heidelberger, M Ohmacht, ...
+Publication: GLOBALFOUNDRIES INC., Grand Cayman, KY (Cayman Islands)
+
+208. Approximate multi-level cell memory operations
+Citations:
+Authors: K Strauss, DC Burger, LH Ceze, A Sampson
+Publication: US Patent 9,412,466
+
+209. Application-Driven Near-Data Processing for Similarity Search
+Citations:
+Authors: VT Lee, A Mazumdar, CC del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: arXiv preprint arXiv:1606.03742
+
+210. A DNA-Based Archival Storage System
+Citations:
+Authors: L Ceze, K Strauss
+Publication: ASPLOS 16, 2-6
+
+211. Near Memory Similarity Search on Automata Processors.
+Citations:
+Authors: VT Lee, J Kotalik, CC Del Mundo, A Alaghi, L Ceze, M Oskin
+Publication: CoRR
+
+212. Trading Latency for Performance in Data-Intensive Applications
+Citations:
+Authors: J Nelson, B Holt, B Myers, P Briggs, S Kahan, L Ceze, M Oskin
+Publication: Operating Systems and Sysadmin, 10
+
+213. Systems and methods for finding concurrency errors
+Citations:
+Authors: L Ceze, B Lucia
+Publication: US Patent 9,146,737
+
+214. Systems and methods for providing deterministic execution
+Citations:
+Authors: LH Ceze, T Bergan, J Devietti, DJ Grossman, JE Nelson
+Publication: US Patent 9,146,746
+
+215. Alternative Computing Designs and Technologies
+Citations:
+Authors: O Temam, L Ceze
+Publication: IEEE Micro, 4-5
+
+216. Approximate Program Synthesis
+Citations:
+Authors: J Bornholt, E Torlak, L Ceze, D Grossman
+Publication: Workshop on Approximate Computing Across the Stack (WAX w/PLDI)
+
+217. The 2014 Top Picks in Computer Architecture
+Citations:
+Authors: L Ceze, K Strauss
+Publication: IEEE Micro, 5-9
+
+218. Vincent Lee
+Citations:
+Authors: V Lee
+Publication: 
+
+219. Computer-implemented system and method for providing software fault tolerance
+Citations:
+Authors: L Ceze, P Godman, M Oskin
+Publication: US Patent 8,745,440
+
+220. Voltaire once wrote," The best is the enemy of the good."
+Citations:
+Authors: A Sampson, L Ceze, D Grossman
+Publication: IEEE SPECTRUM 50 (10), 56-59
+
+221. Disciplined Approximate Computing: From Language to Hardware
+Citations:
+Authors: L Ceze
+Publication: NANOENERGY Letters
+
+222. Joseph L. Devietti
+Citations:
+Authors: BF Scholar
+Publication: Symposium on Computer Architecture (to appear at ISCA’12)
+
+223. Automatic Empirical Failure Avoidance for Concurrent Software
+Citations:
+Authors: B Lucia, L Ceze
+Publication: Workshop on Determinism and Correctness in Parallel Programming w …
+
+224. The impact of memory models on software reliability in multiprocessors
+Citations:
+Authors: A Jaffe, T Moscibroda, L Effinger-Dean, L Ceze, K Strauss
+Publication: Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of …
+
+225. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+226. Greedy Coherence
+Citations:
+Authors: E Fortuna, B Lucia, A Sampson, BP Wood, L Ceze
+Publication: Workshop on Hardware Support for Parallel Program Correctness
+
+227. System Introspection with Hardware Watchmachines
+Citations:
+Authors: N Hunt, B Lucia, L Ceze
+Publication: Fun Ideas and Thoughts w/Conference on Programming Language Design and …
+
+228. Sequential Execution of Parallel Programs:). Threads Should not Play Dice.(Keynote Talk)
+Citations:
+Authors: L Ceze
+Publication: 
+
+229. Encyclopedia of Parallel Computing, Editor: David Padua, chapter Shared-Memory Multiprocessors
+Citations:
+Authors: L Ceze
+Publication: Springer, January
+
+230. Dynamic Concurrency Discovery for Very Large Windows of Execution
+Citations:
+Authors: J Nelson, L Ceze
+Publication: PESPMA 2009, 20
+
+231. Self-Powered Processors
+Citations:
+Authors: A Putnam, L Ceze, B Hazelton
+Publication: Wild and Crazy Ideas w/International Conference on Architectural Support for …
+
+232. Bulk operation and data coloring for multiprocessor programmability
+Citations:
+Authors: LH Ceze
+Publication: 
+
+233. LogTM-SE: Decoupling hardware transactional memory from caches.
+Citations:
+Authors: C Fu, Z Wu, X Wang, X Yang, CS Ananian, M Rinard, L Ceze, J Tuck, ...
+Publication: Information Technology Journal 8 (8), pp: 1-10
+
+234. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+235. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+236. BGLsim: simulador de sistema completo para blue gene/L
+Citations:
+Authors: LHB Ceze, WV Ruggiero
+Publication: 
+
+237. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+238. A Full-Stack Microfluidics Platform with Multi-Level Feedback Control
+Citations:
+Authors: M Willsey, AP Stephenson, C Takahashi, P Vaid, BH Nguyen, C Betts, ...
+Publication: 
+
+239. Mega-Microfluidcs
+Citations:
+Authors: M Willsey, L Ceze
+Publication: 
+
+240. SPECIAL SECTION ON EMBEDDED SYSTEMS WEEK (ESWEEK) 2018
+Citations:
+Authors: S Wang, G Ananthanarayanan, T Mitra, M Willsey, VT Lee, A Cheung, ...
+Publication: 
+
+241. Grappa: Scalable Computing on Commodity Hardware for Irregular Applications
+Citations:
+Authors: J Nelson, B Holt, B Myers, S Kahan, P Briggs, M Oskin, L Ceze
+Publication: 
+
+242. Persistent Process Containers: an OS model for large-memory applications
+Citations:
+Authors: K Bailey, DRK Ports, L Ceze, HM Levy
+Publication: 
+
+243. Choi, Jong 348
+Citations:
+Authors: A Abdelfattah, S Aga, K Agrawal, M Ahmad, DH Ahn, P Ahrens, A Alaghi, ...
+Publication: 
+
+244. cGCopyright 2012 Laura Effinger-Dean
+Citations:
+Authors: L Effinger-Dean
+Publication: 
+
+245. SECTION A COMPUTER SCIENCE THEORY, METHODS AND TOOLS
+Citations:
+Authors: J Amavi, B Bouchou, A Savary, R González-Alberquilla, FE Frati, L Piñuel, ...
+Publication: 
+
+246. THE COMPUTE
+Citations:
+Authors: J Amavi, B Bouchou, A Savary, R González-Alberquilla, FE Frati, L Piñuel, ...
+Publication: 
+
+247. Solver Aided Reverse Engineering of Architectural
+Citations:
+Authors: B Zorn, D Grossman, L Ceze
+Publication: 
+
+248. Tor M. Aamodt 99, 408 Mohamad Abdel-Majeed 111 Jaume Abella 160 Jorge Albericio 310
+Citations:
+Authors: H Ando, M Annavaram, R Ausavarungnirun, R Balasubramanian, ...
+Publication: 
+
+249. Paperscope: Chronicling the History of Computer Architecture Research
+Citations:
+Authors: VT Lee, L Ceze, M Oskin
+Publication: 
+
+250. ISCA 2016 Program Committee
+Citations:
+Authors: A Seznec, IA Jaleel, NVA Bhattacharjee, A Louri, A Buyuktosunoglu, ...
+Publication: 
+
+251. An evaluation of contemporary heterogeneous computing platforms for data intensive applications
+Citations:
+Authors: VT Lee, CC del Mundo, E Yan, A Alaghi, M Oskin, L Ceze
+Publication: 
+
+252. Claret: Avoiding contention in distributed transactions with abstract data types
+Citations:
+Authors: B Holt, I Zhang, D Ports, M Oskin, L Ceze
+Publication: 
+
+253. External Review Committee
+Citations:
+Authors: JH Ahn, A Alameldeen, A Buyuktosunoglu, J Carter, L Ceze, WJ Chang, ...
+Publication: 
+
+254. Abhishek Bhattacharjee, Rutgers Ali Saidi, ARM Andrew Hilton, Duke University Avi Mendelson, Technion
+Citations:
+Authors: BD de Dinechin, B Grot, CJ Wu, C Wilkerson, D Sanchez, D Brooks, ...
+Publication: 
+
+255. ISCA 2014 external reviewers
+Citations:
+Authors: TM Aamodt, J Cong, P Ienne, D Abts, B Coppens, E Ipek, S Adve, CR Das, ...
+Publication: 
+
+256. IISWC-2008 reviewers
+Citations:
+Authors: K Banerjee, L Barnes, B Beckmann, JG Beu, R Bordewaker, P Bose, ...
+Publication: 
+
+257. Input-Covering Schedules for Multithreaded Programs
+Citations:
+Authors: TBLCD Grossman
+Publication: 
+
+258. to the Rescue
+Citations:
+Authors: A Seabaugh, B Gross, J Villasenor, A Sampson, L Ceze, D Grossman
+Publication: 
+
+259. Das, Chita R. 527 Denzel, Wolfgang E. 156 Draper, Stark C. 38 Dreslinski, Ronald G. 75 Dudnik, Polina 333
+Citations:
+Authors: TM Aamodt, J Abella, E Acar, M Adler, V Akella, O Anderson, ...
+Publication: 
+
+260. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 
+
+261. Thread-Level Speculation on a CMP Can Be Energy Efficient
+Citations:
+Authors: JRK Strauss, L Ceze, W Liu, S Sarangi, J Tuck, J Torrellas
+Publication: 
+
+262. Columns and Departments
+Citations:
+Authors: J Renau, K Strauss, L Ceze, W Liu, SR Sarangi, J Tuck, J Torrellas, ...
+Publication: 
+
+263. Tasking with Out-of-Order Spawn in TLS Chip Multiprocessors: Microarchitecture and Compilation
+Citations:
+Authors: JRJ Tuck, W Liu, L Ceze, K Strauss, J Torrellas
+Publication: 
+

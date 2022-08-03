@@ -1,0 +1,483 @@
+https://scholar.google.com/citations?hl=en&user=8rjreLIAAAAJ
+Total Citations = 10343
+
+1. Multicast security: A taxonomy and some efficient constructions
+Citations:1029
+Authors: R Canetti, J Garay, G Itkis, D Micciancio, M Naor, B Pinkas
+Publication: IEEE INFOCOM'99. Conference on Computer Communications. Proceedings …
+
+2. Worst-case to average-case reductions based on Gaussian measures
+Citations:764
+Authors: D Micciancio, O Regev
+Publication: SIAM Journal on Computing 37 (1), 267-302
+
+3. Foundations of group signatures: Formal definitions, simplified requirements, and a construction based on general assumptions
+Citations:723
+Authors: M Bellare, D Micciancio, B Warinschi
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+4. Complexity of lattice problems: a cryptographic perspective
+Citations:716
+Authors: D Micciancio, S Goldwasser
+Publication: Springer Science & Business Media
+
+5. Trapdoors for lattices: Simpler, tighter, faster, smaller
+Citations:598
+Authors: D Micciancio, C Peikert
+Publication: Annual International Conference on the Theory and Applications of …
+
+6. Lattice-based cryptography
+Citations:574
+Authors: D Micciancio
+Publication: Encyclopedia of Cryptography and Security, 713-715
+
+7. The shortest vector in a lattice is hard to approximate to within some constant
+Citations:371
+Authors: D Micciancio
+Publication: SIAM journal on Computing 30 (6), 2008-2035
+
+8. Generalized compact knapsacks, cyclic lattices, and efficient one-way functions
+Citations:293
+Authors: D Micciancio
+Publication: computational complexity 16 (4), 365-411
+
+9. A new paradigm for collision-free hashing: Incrementality at reduced cost
+Citations:268
+Authors: M Bellare, D Micciancio
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+10. Generalized compact knapsacks are collision resistant
+Citations:260
+Authors: V Lyubashevsky, D Micciancio
+Publication: International Colloquium on Automata, Languages, and Programming, 144-155
+
+11. A deterministic single exponential time algorithm for most lattice problems based on Voronoi cell computations
+Citations:257
+Authors: D Micciancio, P Voulgaris
+Publication: SIAM Journal on Computing 42 (3), 1364-1391
+
+12. Soundness of formal encryption in the presence of active adversaries
+Citations:251
+Authors: D Micciancio, B Warinschi
+Publication: Theory of Cryptography Conference, 133-151
+
+13. FHEW: bootstrapping homomorphic encryption in less than a second
+Citations:239
+Authors: L Ducas, D Micciancio
+Publication: Annual International Conference on the Theory and Applications of …
+
+14. SWIFFT: A modest proposal for FFT hashing
+Citations:234
+Authors: V Lyubashevsky, D Micciancio, C Peikert, A Rosen
+Publication: International Workshop on Fast Software Encryption, 54-72
+
+15. Improving lattice based cryptosystems using the Hermite normal form
+Citations:199
+Authors: D Micciancio
+Publication: International Cryptography and Lattices Conference, 126-145
+
+16. Efficient generic forward-secure signatures with an unbounded number of time periods
+Citations:187
+Authors: T Malkin, D Micciancio, S Miner
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+17. Hardness of SIS and LWE with small parameters
+Citations:184
+Authors: D Micciancio, C Peikert
+Publication: Annual Cryptology Conference, 21-39
+
+18. Perfectly one-way probabilistic hash functions
+Citations:181
+Authors: R Canetti, D Micciancio, O Reingold
+Publication: STOC 98, 131-140
+
+19. Asymptotically efficient lattice-based digital signatures
+Citations:169
+Authors: V Lyubashevsky, D Micciancio
+Publication: Journal of Cryptology 31 (3), 774-797
+
+20. Hardness of approximating the minimum distance of a linear code
+Citations:168
+Authors: I Dumer, D Micciancio, M Sudan
+Publication: IEEE Transactions on Information Theory 49 (1), 22-37
+
+21. Faster exponential time algorithms for the shortest vector problem
+Citations:158
+Authors: D Micciancio, P Voulgaris
+Publication: Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …
+
+22. The hardness of the closest vector problem with preprocessing
+Citations:158
+Authors: D Micciancio
+Publication: IEEE Transactions on Information Theory 47 (3), 1212-1215
+
+23. Approximating shortest lattice vectors is not harder than approximating closest lattice vectors
+Citations:152
+Authors: O Goldreich, D Micciancio, S Safra, JP Seifert
+Publication: Information Processing Letters 71 (2), 55-61
+
+24. Statistical zero-knowledge proofs with efficient provers: Lattice problems and more
+Citations:139
+Authors: D Micciancio, SP Vadhan
+Publication: Annual International Cryptology Conference, 282-298
+
+25. Completeness theorems for the Abadi–Rogaway language of encrypted expressions 1
+Citations:138
+Authors: D Micciancio, B Warinschi
+Publication: Journal of Computer Security 12 (1), 99-129
+
+26. On bounded distance decoding, unique shortest vectors, and the minimum distance problem
+Citations:123
+Authors: V Lyubashevsky, D Micciancio
+Publication: Annual International Cryptology Conference, 577-594
+
+27. Pseudorandom knapsacks and the sample complexity of LWE search-to-decision reductions
+Citations:113
+Authors: D Micciancio, P Mol
+Publication: Annual Cryptology Conference, 465-484
+
+28. Almost perfect lattices, the covering radius problem, and applications to Ajtai's connection factor
+Citations:112
+Authors: D Micciancio
+Publication: SIAM Journal on Computing 34 (1), 118-169
+
+29. “Pseudo-random” number generation within cryptographic algorithms: The DDS case
+Citations:111
+Authors: M Bellare, S Goldwasser, D Micciancio
+Publication: Annual International Cryptology Conference, 277-291
+
+30. An oblivious data structure and its applications to cryptography
+Citations:97
+Authors: D Micciancio
+Publication: In Proceedings of ACM Symposium on the Theory of Computing, 456-464
+
+31. A first glimpse of cryptography's Holy Grail
+Citations:93
+Authors: D Micciancio
+Publication: Communications of the ACM 53 (3), 96-96
+
+32. A linear space algorithm for computing the Hermite normal form
+Citations:70
+Authors: D Micciancio, B Warinschi
+Publication: Proceedings of the 2001 international symposium on Symbolic and algebraic …
+
+33. An efficient non-interactive statistical zero-knowledge proof system for quasi-safe prime products
+Citations:69
+Authors: R Gennaro, D Micciancio, T Rabin
+Publication: In Proc. of the 5th ACM Conference on Computer and Communications Security …
+
+34. The inapproximability of lattice and coding problems with preprocessing
+Citations:62
+Authors: U Feige, D Micciancio
+Publication: Journal of Computer and System Sciences 69 (1), 45-67
+
+35. The complexity of the covering radius problem
+Citations:60
+Authors: V Guruswami, D Micciancio, O Regev
+Publication: Computational Complexity 14 (2), 90-121
+
+36. Improved short lattice signatures in the standard model
+Citations:58
+Authors: L Ducas, D Micciancio
+Publication: Annual Cryptology Conference, 335-352
+
+37. Optimal communication complexity of generic multicast key distribution
+Citations:58
+Authors: D Micciancio, S Panjwani
+Publication: IEEE/ACM Transactions on Networking 16 (4), 803-813
+
+38. Efficient reductions among lattice problems
+Citations:56
+Authors: D Micciancio
+Publication: Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …
+
+39. Adaptive security of symbolic encryption
+Citations:53
+Authors: D Micciancio, S Panjwani
+Publication: Theory of Cryptography Conference, 169-187
+
+40. An indistinguishability-based characterization of anonymous channels
+Citations:52
+Authors: A Hevia, D Micciancio
+Publication: International Symposium on Privacy Enhancing Technologies Symposium, 24-43
+
+41. Gaussian sampling over the integers: Efficient, generic, constant-time
+Citations:51
+Authors: D Micciancio, M Walter
+Publication: Annual International Cryptology Conference, 455-485
+
+42. SWIFFT: A Modest Proposal for FFT Hashing, Fast Software Encryption: 15th International Workshop, FSE 2008, Lausanne, Switzerland, February 10-13, 2008, Revised Selected Papers
+Citations:51
+Authors: V Lyubashevsky, D Micciancio, C Peikert, A Rosen
+Publication: Springer-Verlag, Berlin, Heidelberg
+
+43. Simulatable commitments and efficient concurrent zero-knowledge
+Citations:50
+Authors: D Micciancio, E Petrank
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+44. Practical, predictable lattice basis reduction
+Citations:49
+Authors: D Micciancio, M Walter
+Publication: Annual International Conference on the Theory and Applications of …
+
+45. On bounded distance decoding for general lattices
+Citations:49
+Authors: YK Liu, V Lyubashevsky, D Micciancio
+Publication: Approximation, Randomization, and Combinatorial Optimization. Algorithms and …
+
+46. Fast lattice point enumeration with minimal overhead
+Citations:43
+Authors: D Micciancio, M Walter
+Publication: Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …
+
+47. Concurrent zero knowledge without complexity assumptions
+Citations:38
+Authors: D Micciancio, SJ Ong, A Sahai, S Vadhan
+Publication: Theory of Cryptography Conference, 1-20
+
+48. The provable security of graph-based one-time signatures and extensions to algebraic signature schemes
+Citations:34
+Authors: A Hevia, D Micciancio
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+49. The RSA group is pseudo-free
+Citations:32
+Authors: D Micciancio
+Publication: Journal of cryptology 23 (2), 169-186
+
+50. Inapproximability of the shortest vector problem: Toward a deterministic reduction
+Citations:31
+Authors: D Micciancio
+Publication: Theory of Computing 8 (1), 487-512
+
+51. SWIFFTX: A proposal for the SHA-3 standard
+Citations:26
+Authors: Y Arbitman, G Dogon, V Lyubashevsky, D Micciancio, C Peikert, A Rosen
+Publication: Submission to NIST
+
+52. Corrupting one vs. corrupting many: the case of broadcast and multicast encryption
+Citations:23
+Authors: D Micciancio, S Panjwani
+Publication: International Colloquium on Automata, Languages, and Programming, 70-82
+
+53. Faster gaussian sampling for trapdoor lattices with arbitrary modulus
+Citations:20
+Authors: N Genise, D Micciancio
+Publication: Annual International Conference on the Theory and Applications of …
+
+54. The geometry of lattice cryptography
+Citations:19
+Authors: D Micciancio
+Publication: International School on Foundations of Security Analysis and Design, 185-210
+
+55. Compactness vs collusion resistance in functional encryption
+Citations:17
+Authors: B Li, D Micciancio
+Publication: Theory of Cryptography Conference, 443-468
+
+56. Theory of Cryptography: 7th Theory of Cryptography Conference, TCC 2010, Zurich, Switzerland, February 9-11, 2010, Proceedings
+Citations:17
+Authors: D Micciancio
+Publication: Springer
+
+57. Cryptographic functions from worst-case complexity assumptions
+Citations:17
+Authors: D Micciancio
+Publication: The LLL algorithm, 427-452
+
+58. Creating cryptographic challenges using multi-party computation: The LWE challenge
+Citations:16
+Authors: J Buchmann, N Büscher, F Göpfert, S Katzenbeisser, J Krämer, ...
+Publication: Proceedings of the 3rd ACM International Workshop on ASIA Public-Key …
+
+59. Shortest vector problem
+Citations:13
+Authors: D Micciancio
+Publication: Encyclopedia of Cryptography and Security, 1196-1197
+
+60. Analysis of Pure PROLOG Programs.
+Citations:13
+Authors: G Levi, D Micciancio
+Publication: GULP-PRODE, 521-532
+
+61. Efficient bounded distance decoders for Barnes-Wall lattices
+Citations:12
+Authors: D Micciancio, A Nicolosi
+Publication: 2008 IEEE International Symposium on Information Theory, 2484-2488
+
+62. Algorithms for the densest sub-lattice problem
+Citations:11
+Authors: D Dadush, D Micciancio
+Publication: Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …
+
+63. Simultaneous broadcast revisited
+Citations:11
+Authors: A Hevia, D Micciancio
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Principles of …
+
+64. An equational approach to secure multi-party computation
+Citations:10
+Authors: D Micciancio, S Tessaro
+Publication: Proceedings of the 4th conference on Innovations in Theoretical Computer …
+
+65. Cryptanalysis of a pseudorandom generator based on braid groups
+Citations:10
+Authors: R Gennaro, D Micciancio
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+66. Locally dense codes
+Citations:9
+Authors: D Micciancio
+Publication: 2014 IEEE 29th Conference on Computational Complexity (CCC), 90-97
+
+67. Equational security proofs of oblivious transfer protocols
+Citations:7
+Authors: B Li, D Micciancio
+Publication: IACR International Workshop on Public Key Cryptography, 527-553
+
+68. Computational soundness, co-induction, and encryption cycles
+Citations:7
+Authors: D Micciancio
+Publication: Annual International Conference on the Theory and Applications of …
+
+69. On the bit security of cryptographic primitives
+Citations:6
+Authors: D Micciancio, M Walter
+Publication: Annual International Conference on the Theory and Applications of …
+
+70. Symbolic encryption with pseudorandom keys
+Citations:5
+Authors: D Micciancio
+Publication: Annual International Conference on the Theory and Applications of …
+
+71. The round-complexity of black-box zero-knowledge: A combinatorial characterization
+Citations:5
+Authors: D Micciancio, S Yilek
+Publication: Theory of Cryptography Conference, 535-552
+
+72. The validity problem for extended regular expressions
+Citations:5
+Authors: D Micciancio
+Publication: Massachusetts Institute of Technology
+
+73. On the hardness of learning with errors with binary secrets
+Citations:4
+Authors: D Micciancio
+Publication: Theory of Computing 14 (1), 1-17
+
+74. Homomorphic Encryption Standard
+Citations:4
+Authors: M Albrecht, M Chase, H Chen, J Ding, S Goldwasser, S Gorbunov, ...
+Publication: 
+
+75. Using hypergraph homomorphisms to guess three secrets
+Citations:4
+Authors: D Micciancio, N Segerlind
+Publication: manuscript
+
+76. Guessing two secrets with small queries
+Citations:4
+Authors: D Micciancio, N Segerlind
+Publication: Department of Computer Science and Engineering, University of California …
+
+77. An algorithm for the solution of tree equations
+Citations:4
+Authors: S Mantaci, D Micciancio
+Publication: Colloquium on Trees in Algebra and Programming, 417-428
+
+78. Semi-parallel Logistic Regression for GWAS on Encrypted Data.
+Citations:3
+Authors: M Kim, Y Song, B Li, D Micciancio
+Publication: IACR Cryptology ePrint Archive 2019, 294
+
+79. Closest vector problem
+Citations:3
+Authors: D Micciancio
+Publication: Encyclopedia of Cryptography and Security, 212-214
+
+80. A note on the minimal volume of almost cubic parallelepipeds
+Citations:3
+Authors: D Micciancio
+Publication: Discrete and Computational Geometry 29 (1), 133-138
+
+81. Building an efficient lattice gadget toolkit: Subgaussian sampling and more
+Citations:2
+Authors: N Genise, D Micciancio, Y Polyakov
+Publication: Annual International Conference on the Theory and Applications of …
+
+82. Implementing Token-Based Obfuscation under (Ring) LWE.
+Citations:2
+Authors: C Chen, N Genise, D Micciancio, Y Polyakov, K Rohloff
+Publication: IACR Cryptology ePrint Archive 2018, 1222
+
+83. Ring packing and amortized FHEW bootstrapping
+Citations:2
+Authors: D Miccianco, J Sorrell
+Publication: 45th International Colloquium on Automata, Languages, and Programming (ICALP …
+
+84. Homomorphic Encryption for Finite Automata.
+Citations:1
+Authors: N Genise, C Gentry, S Halevi, B Li, D Micciancio
+Publication: IACR Cryptology ePrint Archive 2019, 176
+
+85. Symbolic security of garbled circuits
+Citations:1
+Authors: B Li, D Micciancio
+Publication: 2018 IEEE 31st Computer Security Foundations Symposium (CSF), 147-161
+
+86. Shortest Vector Problem: 1982; Lenstra, Lenstra, Lovasz
+Citations:1
+Authors: D Micciancio
+Publication: Encyclopedia of Algorithms, 841-843
+
+87. Logic and mathematical programming
+Citations:1
+Authors: SK Mitter, V Borkar, V Chandru, D Micciancio
+Publication: Control Using Logic-Based Switching, 79-91
+
+88. Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD)
+Citations:
+Authors: T Rabin, N Smart, D Wichs, C Gentry, Z Brakerski, S Tessaro, S Halevi, ...
+Publication: IBM THOMAS J WATSON RESEARCH CENTER YORKTOWN HEIGHTS NY
+
+89. Efficient cryptography based on lattices
+Citations:
+Authors: C Peikert, A Rosen, O Regev, D Micciancio
+Publication: Georgia Institute of Technology
+
+90. FOCS 2003
+Citations:
+Authors: C Chekuri, D Micciancio
+Publication: Journal of Computer and System Sciences 72 (2), 205-205
+
+91. Special Issue on FOCS 2003
+Citations:
+Authors: C Chekuri, D Micciancio, S Khot, A Ambainis, M Mihail, C Papadimitriou, ...
+Publication: Journal of Computer and System Sciences 72, 2
+
+92. Advances in Cryptology–CRYPTO 2019: 39th Annual International Cryptology Conference, Santa Barbara, CA, USA, August 18–22, 2019, Proceedings, Part I
+Citations:
+Authors: A Boldyreva
+Publication: Springer
+
+93. CRYPTO 2019
+Citations:
+Authors: A Boldyreva, D Micciancio
+Publication: 
+
+94. Ideal Lattices: cryptographic applications and open problems
+Citations:
+Authors: D Micciancio
+Publication: 
+
+95. FOCS 2016 Program Committee
+Citations:
+Authors: E Blais, M Braverman, SO Chan, M Charikar, M Cygan, I Dinur, A Drucker, ...
+Publication: 
+
+96. University of California, San Diego
+Citations:
+Authors: D Micciancio
+Publication: Codes and Lattices in Cryptography, 15
+

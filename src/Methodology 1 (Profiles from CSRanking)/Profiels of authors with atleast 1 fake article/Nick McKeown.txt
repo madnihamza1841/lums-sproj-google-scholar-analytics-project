@@ -1,0 +1,220 @@
+
+7. Elastictree: Saving energy in data center networks.
+Citations:1010
+Authors: B Heller, S Seetharaman, P Mahadevan, Y Yiakoumis, P Sharma, ...
+Publication: Nsdi 10, 249-264
+
+15. Automated vehicle control developments in the PATH program
+Citations:737
+Authors: SE Shladover, CA Desoer, JK Hedrick, M Tomizuka, J Walrand, ...
+Publication: IEEE Transactions on vehicular technology 40 (1), 114-130
+
+30. Carving research slices out of your production networks with OpenFlow
+Citations:388
+Authors: R Sherwood, M Chan, A Covington, G Gibb, M Flajslik, N Handigol, ...
+Publication: ACM SIGCOMM Computer Communication Review 40 (1), 129-130
+
+34. Scaling internet routers using optics
+Citations:322
+Authors: I Keslassy, ST Chuang, K Yu, D Miller, M Horowitz, O Solgaard, ...
+Publication: Proceedings of the 2003 conference on Applications, technologies …
+
+37. OpenRoads: Empowering research in mobile networks
+Citations:308
+Authors: KK Yap, M Kobayashi, R Sherwood, TY Huang, M Chan, N Handigol, ...
+Publication: ACM SIGCOMM Computer Communication Review 40 (1), 125-126
+
+51. Blueprint for introducing innovation into wireless mobile networks
+Citations:202
+Authors: KK Yap, R Sherwood, M Kobayashi, TY Huang, M Chan, N Handigol, ...
+Publication: Proceedings of the second ACM SIGCOMM workshop on Virtualized infrastructure …
+
+57. OpenFlow switch specification
+Citations:176
+Authors: B Pfaff, B Heller, D Talayco, D Erickson, G Gibb, G Appenzeller, ...
+Publication: Sep 6, 128
+
+58. {GRASS}: Trimming Stragglers in Approximation Analytics
+Citations:170
+Authors: G Ananthanarayanan, MCC Hung, X Ren, I Stoica, A Wierman, M Yu
+Publication: 11th {USENIX} Symposium on Networked Systems Design and Implementation …
+
+67. Maturing of OpenFlow and software-defined networking through deployments
+Citations:152
+Authors: M Kobayashi, S Seetharaman, G Parulkar, G Appenzeller, J Little, ...
+Publication: Computer Networks 61, 151-175
+
+81. The stanford openroads deployment
+Citations:111
+Authors: KK Yap, M Kobayashi, D Underhill, S Seetharaman, P Kazemian, ...
+Publication: Proceedings of the 4th ACM international workshop on Experimental evaluation …
+
+85. Packet transactions: High-level programming for line-rate switches
+Citations:100
+Authors: A Sivaraman, A Cheung, M Budiu, C Kim, M Alizadeh, H Balakrishnan, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 15-28
+
+86. Architecting for innovation
+Citations:95
+Authors: T Koponen, S Shenker, H Balakrishnan, N Feamster, I Ganichev, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (3), 24-36
+
+98. Programmable packet scheduling at line rate
+Citations:82
+Authors: A Sivaraman, S Subramanian, M Alizadeh, S Chole, ST Chuang, ...
+Publication: Proceedings of the 2016 ACM SIGCOMM Conference, 44-57
+
+115. OSNT: Open source network tester
+Citations:55
+Authors: G Antichi, M Shahbaz, Y Geng, N Zilberman, A Covington, M Bruyere, ...
+Publication: 
+
+121. BeHop: A testbed for dense WiFi networks
+Citations:52
+Authors: Y Yiakoumis, M Bansal, A Covington, J van Reijendam, S Katti, ...
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 18 (3), 71-80
+
+126. Integrated photonics for low-power packet networking
+Citations:49
+Authors: DJ Blumenthal, J Barton, N Beheshti, JE Bowers, E Burmeister, ...
+Publication: IEEE Journal of Selected Topics in Quantum Electronics 17 (2), 458-471
+
+127. Optical packet buffers for backbone internet routers
+Citations:49
+Authors: N Beheshti, E Burmeister, Y Ganjali, JE Bowers, DJ Blumenthal, ...
+Publication: IEEE/ACM Transactions on Networking (TON) 18 (5), 1599-1609
+
+136. A 2 Gb/s asymmetric serial link for high-bandwidth packet switches
+Citations:37
+Authors: KKY Chang, W Ellersick, ST Chuang, S Sidiropoulos, M Izzard, D Center
+Publication: Hot Interconnects V, Stanford University, 1-9
+
+137. Lossless Handover with n-casting between WiFi-WiMAX on OpenRoads
+Citations:36
+Authors: KK Yap, TY Huang, M Kobayashi, M Chan, R Sherwood, G Parulkar, ...
+Publication: ACM Mobicom (Demo) 12 (3), 40-52
+
+141. A demonstration of virtual machine mobility in an OpenFlow network
+Citations:32
+Authors: D Erickson, G Gibb, B Heller, D Underhill, J Naous, G Appenzeller, ...
+Publication: Aug
+
+151. Optimizing a virtualized data center
+Citations:26
+Authors: D Erickson, B Heller, S Yang, J Chu, J Ellithorpe, S Whyte, S Stuart, ...
+Publication: ACM SIGCOMM Computer Communication Review 41 (4), 478-479
+
+159. Towards programmable packet scheduling
+Citations:23
+Authors: A Sivaraman, S Subramanian, A Agrawal, S Chole, ST Chuang, T Edsall, ...
+Publication: Proceedings of the 14th ACM workshop on hot topics in networks, 23
+
+162. P4v: Practical verification for programmable data planes
+Citations:22
+Authors: J Liu, W Hallahan, C Schlesinger, M Sharif, J Lee, R Soulé, H Wang, ...
+Publication: Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …
+
+184. Blueprint for Introducing Innovation into the Wireless Networks we use every day
+Citations:12
+Authors: KK Yap, R Sherwood, M Kobayashi, N Handigol, TY Huang, M Chan, ...
+Publication: Technical Report, OPENFLOW-TR-2009–3
+
+189. Using all networks around us
+Citations:10
+Authors: KK Yap
+Publication: Stanford University
+
+191. Scaling internet routers using optics (extended version)
+Citations:10
+Authors: I Keslassy, ST Chuang, K Yu, D Miller, M Horowitz, O Solgaard, ...
+Publication: Stanford Technical Report TR03-HPNG-080101
+
+192. The P416 Programming Language.
+Citations:9
+Authors: M Budiu, C Dodd
+Publication: Operating Systems Review 51 (1), 5-14
+
+193. Packet transactions: A programming model for data-plane algorithms at hardware speed
+Citations:9
+Authors: A Sivaraman, M Budiu, A Cheung, C Kim, S Licking, G Varghese, ...
+Publication: CoRR, vol. abs/1512.05023
+
+204. Architecture for an open source network tester
+Citations:7
+Authors: M Shahbaz, G Antichi, Y Geng, N Zilberman, A Covington, M Bruyere, ...
+Publication: 
+
+216. Buffer sizing in internet routers
+Citations:5
+Authors: YG Gavgani
+Publication: Dissertation Abstracts International 68 (02)
+
+235. Path-policy Compliant Networking and a Platform for Heterogeneous IAAS management
+Citations:3
+Authors: J Naous
+Publication: Stanford University
+
+255. Providing guaranteed deterministic performance service to multimedia applications on WDM optical networks
+Citations:2
+Authors: M Ma, M Hamdi
+Publication: Globecom'00-IEEE. Global Telecommunications Conference. Conference Record …
+
+264. Towards Rapid Innovation in Mobile Networks
+Citations:1
+Authors: KK Yap, M Kobayashi, R Sherwood, N Handigol, TY Huang, M Chan, ...
+Publication: OpenFlow Switching, June
+
+270. Hillview: A trillion-cell spreadsheet for big data
+Citations:
+Authors: M Budiu, P Gopalan, L Suresh, U Wieder, H Kruiger, MK Aguilera
+Publication: arXiv preprint arXiv:1907.04827
+
+271. Frequency Stabilized Lasers for Coherent Fiber Interconnects in the Datacenter (Invited Talk)
+Citations:
+Authors: DJ Blumenthal, H Ballani, R Behunin, JE Bowers, P Costa, D Lenoski, ...
+Publication: 2019 IEEE Optical Interconnects Conference (OI), 1-2
+
+273. Try before you buy: SDN emulation with (real) interdomain routing.
+Citations:
+Authors: A Malik, M Malook Rind, M Y. Koondhar, A Shah, S Katukam, SQ Hu, ...
+Publication: Information Technology Journal 15 (4), 1418-1423
+
+278. Support-vector networks.
+Citations:
+Authors: L Xiuhai, A Greenberg, G Hjalmtysson, DA Maltz, A Myers, J Rexford, ...
+Publication: Journal of Software Engineering 8 (4), 41-54
+
+285. High-speed multi-Input FIFO queues with applications.
+Citations:
+Authors: J Zhang, Z Fang, G Qu, X Zhao, SQ Zheng, JE Hopcroft, RM Karp, ...
+Publication: Information Technology Journal 10 (12), 225-231
+
+286. Ponencia
+Citations:
+Authors: BR Hernández
+Publication: Anales de la Universidad de Chile
+
+287. ElasticTree
+Citations:
+Authors: B Heller, S Seetharaman, P Mahadevan, Y Yiakoumis, P Sharma, ...
+Publication: 
+
+297. help promote
+Citations:
+Authors: J Yuan
+Publication: 
+
+304. 1st IEEE Workshop on Below IP Networking Challenges and Opportunities in the Design of TRILL: A Routed Layer 2 Technology
+Citations:
+Authors: R Perlman, R Kantola, M Luoma, OP Lamminen, S Jain, Y Chen, ...
+Publication: 
+
+306. ANCS 2010 symposium organization
+Citations:
+Authors: J Mogul, R Iyer, T Wolf, M Becchi, C Estan, M Franklin, A Baumann, ...
+Publication: 
+
+310. Project Summary: Programmable Open Mobile Internet 2020
+Citations:
+Authors: D Boneh, A Goldsmith, R Johari, P Kim, S Klemmer, C Kozyrakis, M Lam, ...
+Publication: 

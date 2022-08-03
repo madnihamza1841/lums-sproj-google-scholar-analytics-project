@@ -1,0 +1,1243 @@
+https://scholar.google.com/citations?hl=en&user=I9Vzs-4AAAAJ
+Total Citations = 9215
+
+1. Cyclone: A Safe Dialect of C.
+Citations:863
+Authors: T Jim, JG Morrisett, D Grossman, MW Hicks, J Cheney, Y Wang
+Publication: USENIX Annual Technical Conference, General Track, 275-288
+
+2. The SwitchWare active network architecture
+Citations:491
+Authors: DS Alexander, WA Arbaugh, MW Hicks, P Kakkar, AD Keromytis, ...
+Publication: 
+
+3. Region-based memory management in Cyclone
+Citations:442
+Authors: D Grossman, G Morrisett, T Jim, M Hicks, Y Wang, J Cheney
+Publication: ACM Sigplan Notices 37 (5), 282-293
+
+4. PLAN: A packet language for active networks
+Citations:433
+Authors: M Hicks, P Kakkar, JT Moore, CA Gunter, S Nettles
+Publication: ACM SIGPLAN Notices 34 (1), 86-93
+
+5. Defeating script injection attacks with browser-enforced embedded policies
+Citations:421
+Authors: T Jim, N Swamy, M Hicks
+Publication: Proceedings of the 16th international conference on World Wide Web, 601-610
+
+6. Automated detection of persistent kernel control-flow attacks
+Citations:363
+Authors: NL Petroni Jr, M Hicks
+Publication: Proceedings of the 14th ACM conference on Computer and communications …
+
+7. Dynamic software updating
+Citations:341
+Authors: M Hicks, JT Moore, S Nettles
+Publication: ACM SIGPLAN Notices 36 (5), 13-23
+
+8. Practical dynamic software updating for C
+Citations:289
+Authors: I Neamtiu, M Hicks, G Stoyle, M Oriol
+Publication: ACM SIGPLAN Notices 41 (6), 72-83
+
+9. LOCKSMITH: context-sensitive correlation analysis for race detection
+Citations:264
+Authors: P Pratikakis, JS Foster, M Hicks
+Publication: Acm Sigplan Notices 41 (6), 320-331
+
+10. Dynamic software updating
+Citations:239
+Authors: M Hicks, S Nettles
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (6), 1049-1096
+
+11. Understanding source code evolution using abstract syntax tree matching
+Citations:223
+Authors: I Neamtiu, JS Foster, M Hicks
+Publication: ACM SIGSOFT Software Engineering Notes 30 (4), 1-5
+
+12. Dynamic software updates: a VM-centric approach
+Citations:190
+Authors: S Subramanian, M Hicks, KS McKinley
+Publication: ACM Sigplan Notices 44 (6), 1-12
+
+13. Static type inference for Ruby
+Citations:175
+Authors: M Furr, JD An, JS Foster, M Hicks
+Publication: Proceedings of the 2009 ACM symposium on Applied Computing, 1859-1866
+
+14. Directed symbolic execution
+Citations:163
+Authors: KK Ma, KY Phang, JS Foster, M Hicks
+Publication: International Static Analysis Symposium, 95-111
+
+15. Practical programmable packets
+Citations:162
+Authors: JT Moore, M Hicks, S Nettles
+Publication: Proceedings IEEE INFOCOM 2001. Conference on Computer Communications …
+
+16. PLANet: An active internetwork
+Citations:157
+Authors: M Hicks, JT Moore, DS Alexander, CA Gunter, SM Nettles
+Publication: IEEE INFOCOM'99. Conference on Computer Communications. Proceedings …
+
+17. Mutatis mutandis: safe and predictable dynamic software updating
+Citations:154
+Authors: G Stoyle, M Hicks, G Bierman, P Sewell, I Neamtiu
+Publication: ACM SIGPLAN Notices 40 (1), 183-194
+
+18. Fable: A language for enforcing user-defined security policies
+Citations:135
+Authors: N Swamy, BJ Corcoran, M Hicks
+Publication: 2008 IEEE Symposium on Security and Privacy (sp 2008), 369-383
+
+19. Safe and timely updates to multi-threaded programs
+Citations:130
+Authors: I Neamtiu, M Hicks
+Publication: ACM Sigplan Notices 44 (6), 13-24
+
+20. Formalizing dynamic software updating
+Citations:110
+Authors: G Bierman, M Hicks, P Sewell, G Stoyle
+Publication: Proceedings of the Second International Workshop on Unanticipated Software …
+
+21. Ghostrider: A hardware-software system for memory trace oblivious computation
+Citations:101
+Authors: C Liu, A Harris, M Maas, M Hicks, M Tiwari, E Shi
+Publication: ACM SIGPLAN Notices 50 (4), 87-101
+
+22. Contextual effects for version-consistent dynamic software updating and safe concurrent programming
+Citations:101
+Authors: I Neamtiu, M Hicks, JS Foster, P Pratikakis
+Publication: ACM SIGPLAN Notices 43 (1), 37-49
+
+23. Mutatis mutandis: Safe and predictable dynamic software updating
+Citations:97
+Authors: G Stoyle, M Hicks, G Bierman, P Sewell, I Neamtiu
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 29 (4), 22
+
+24. Lock inference for atomic sections
+Citations:96
+Authors: M Hicks, JS Foster, P Pratikakis
+Publication: Proceedings of the First ACM SIGPLAN Workshop on Languages, Compilers, and …
+
+25. Automating efficient RAM-model secure computation
+Citations:92
+Authors: C Liu, Y Huang, E Shi, J Katz, M Hicks
+Publication: 2014 IEEE Symposium on Security and Privacy, 623-638
+
+26. Wysteria: A programming language for generic, mixed-mode multiparty computations
+Citations:90
+Authors: A Rastogi, MA Hammer, M Hicks
+Publication: 2014 IEEE Symposium on Security and Privacy, 655-670
+
+27. Kitsune: Efficient, general-purpose dynamic software updating for C
+Citations:90
+Authors: CM Hayden, EK Smith, M Denchev, M Hicks, JS Foster
+Publication: ACM SIGPLAN Notices 47 (10), 249-264
+
+28. Implicit flows: Can’t live with ‘em, can’t live without ‘em
+Citations:89
+Authors: D King, B Hicks, M Hicks, T Jaeger
+Publication: International Conference on Information Systems Security, 56-70
+
+29. LOCKSMITH: Practical static race detection for C
+Citations:86
+Authors: P Pratikakis, JS Foster, M Hicks
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 33 (1), 3
+
+30. Experience with safe manual memory-management in cyclone
+Citations:81
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: Proceedings of the 4th international symposium on Memory management, 73-84
+
+31. Transparent proxies for java futures
+Citations:74
+Authors: P Pratikakis, J Spacco, M Hicks
+Publication: ACM SIGPLAN Notices 39 (10), 206-223
+
+32. A secure plan
+Citations:72
+Authors: M Hicks, AD Keromytis
+Publication: IFIP International Working Conference on Active Networks, 307-314
+
+33. Specifying and verifying the correctness of dynamic software updates
+Citations:66
+Authors: CM Hayden, S Magill, M Hicks, N Foster, JS Foster
+Publication: International Conference on Verified Software: Tools, Theories, Experiments …
+
+34. Cross-tier, label-based security enforcement for web applications
+Citations:65
+Authors: BJ Corcoran, N Swamy, M Hicks
+Publication: Proceedings of the 2009 ACM SIGMOD International Conference on Management of …
+
+35. Adapton: Composable, demand-driven incremental computation
+Citations:64
+Authors: MA Hammer, KY Phang, M Hicks, JS Foster
+Publication: ACM SIGPLAN Notices 49 (6), 156-166
+
+36. Authenticated data structures, generically
+Citations:60
+Authors: A Miller, M Hicks, J Katz, E Shi
+Publication: ACM SIGPLAN Notices 49 (1), 411-423
+
+37. Dynamic rebinding for marshalling and update, with destruct-time?
+Citations:60
+Authors: G Bierman, M Hicks, P Sewell, G Stoyle, K Wansbrough
+Publication: ACM SIGPLAN Notices 38 (9), 99-110
+
+38. Managing policy updates in security-typed languages
+Citations:59
+Authors: N Swamy, M Hicks, S Tse, S Zdancewic
+Publication: 19th IEEE Computer Security Foundations Workshop (CSFW'06), 13 pp.-216
+
+39. Safe manual memory management in Cyclone
+Citations:56
+Authors: N Swamy, M Hicks, G Morrisett, D Grossman, T Jim
+Publication: Science of Computer Programming 62 (2), 122-144
+
+40. Trusted declassification:: high-level policy for a security-typed language
+Citations:55
+Authors: B Hicks, D King, P McDaniel, M Hicks
+Publication: Proceedings of the 2006 workshop on Programming languages and analysis for …
+
+41. Dynamic updating of information-flow policies
+Citations:54
+Authors: M Hicks, S Tse, B Hicks, S Zdancewic
+Publication: Proc. of Foundations of Computer Security Workshop 20
+
+42. Safe and flexible dynamic linking of native code
+Citations:53
+Authors: M Hicks, S Weirich, K Crary
+Publication: International Workshop on Types in Compilation, 147-176
+
+43. Lightweight monadic programming in ML
+Citations:49
+Authors: N Swamy, N Guts, D Leijen, M Hicks
+Publication: ACM SIGPLAN Notices 46 (9), 15-27
+
+44. Decomposition instead of self-composition for proving the absence of timing channels
+Citations:46
+Authors: T Antonopoulos, P Gazzillo, M Hicks, E Koskinen, T Terauchi, S Wei
+Publication: ACM SIGPLAN Notices 52 (6), 362-375
+
+45. State transfer for clear and efficient runtime updates
+Citations:44
+Authors: CM Hayden, EK Smith, M Hicks, JS Foster
+Publication: 2011 IEEE 27th International Conference on Data Engineering Workshops, 179-184
+
+46. Rubah: DSU for Java on a stock JVM
+Citations:43
+Authors: L Pina, L Veiga, M Hicks
+Publication: ACM SIGPLAN Notices 49 (10), 103-119
+
+47. Memory trace oblivious program execution
+Citations:43
+Authors: C Liu, M Hicks, E Shi
+Publication: 2013 IEEE 26th Computer Security Foundations Symposium, 51-65
+
+48. Dynamic enforcement of knowledge-based security policies
+Citations:43
+Authors: P Mardziel, S Magill, M Hicks, M Srivatsa
+Publication: 2011 IEEE 24th Computer Security Foundations Symposium, 114-128
+
+49. Dynamic inference of static types for Ruby
+Citations:43
+Authors: JD An, A Chaudhuri, JS Foster, M Hicks
+Publication: ACM SIGPLAN Notices 46 (1), 459-472
+
+50. Evaluating fuzz testing
+Citations:42
+Authors: G Klees, A Ruef, B Cooper, S Wei, M Hicks
+Publication: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications …
+
+51. Evaluating dynamic software update safety using systematic testing
+Citations:41
+Authors: CM Hayden, EK Smith, EA Hardisty, M Hicks, JS Foster
+Publication: IEEE Transactions on Software Engineering 38 (6), 1340-1354
+
+52. Network programming using PLAN
+Citations:41
+Authors: M Hicks, P Kakkar, JT Moore, CA Gunter, S Nettles
+Publication: International Conference on Computer Languages, 127-143
+
+53. Cyclone: A type-safe dialect of C
+Citations:40
+Authors: D Grossman, M Hicks, T Jim, G Morrisett
+Publication: C/C++ Users Journal 23 (1), 112-139
+
+54. Incremental computation with names
+Citations:39
+Authors: MA Hammer, J Dunfield, K Headley, N Labich, JS Foster, M Hicks, ...
+Publication: ACM SIGPLAN Notices 50 (10), 748-766
+
+55. Quantifying information flow for dynamic secrets
+Citations:39
+Authors: P Mardziel, MS Alvim, M Hicks, MR Clarkson
+Publication: 2014 IEEE Symposium on Security and Privacy, 540-555
+
+56. Expositor: scriptable time-travel debugging with first-class traces
+Citations:36
+Authors: YP Khoo, JS Foster, M Hicks
+Publication: Proceedings of the 2013 International Conference on Software Engineering …
+
+57. Passive aggressive measurement with MGRP
+Citations:36
+Authors: P Papageorge, J McCann, M Hicks
+Publication: ACM SIGCOMM Computer Communication Review 39 (4), 279-290
+
+58. Path projection for user-centered static analysis tools
+Citations:35
+Authors: YP Khoo, JS Foster, M Hicks, V Sazawal
+Publication: Proceedings of the 8th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+59. The measured cost of copying garbage collection mechanisms
+Citations:33
+Authors: MW Hicks, JT Moore, SM Nettles
+Publication: ACM SIGPLAN Notices 32 (8), 292-305
+
+60. Dynamic enforcement of knowledge-based security policies using probabilistic abstract interpretation
+Citations:32
+Authors: P Mardziel, S Magill, M Hicks, M Srivatsa
+Publication: Journal of Computer Security 21 (4), 463-532
+
+61. Transparent communication for distributed objects in Java
+Citations:31
+Authors: M Hicks, S Jagannathan, R Kelsey, JT Moore, C Ungureanu
+Publication: Java Grande Conference: Proceedings of the ACM 1999 conference on Java …
+
+62. Efficient systematic testing for dynamically updatable software
+Citations:30
+Authors: CM Hayden, EA Hardisty, M Hicks, JS Foster
+Publication: Proceedings of the 2nd International Workshop on Hot Topics in Software …
+
+63. A theory of typed coercions and its applications
+Citations:30
+Authors: N Swamy, M Hicks, GM Bierman
+Publication: ACM Sigplan Notices 44 (9), 329-340
+
+64. Existential label flow inference via CFL reachability
+Citations:30
+Authors: P Pratikakis, JS Foster, M Hicks
+Publication: International Static Analysis Symposium, 88-106
+
+65. A study of large object spaces
+Citations:30
+Authors: M Hicks, L Hornof, JT Moore, SM Nettles
+Publication: ACM SIGPLAN Notices 34 (3), 138-145
+
+66. Active networking means evolution (or enhanced extensibility required)
+Citations:29
+Authors: M Hicks, S Nettles
+Publication: IFIP International Working Conference on Active Networks, 16-32
+
+67. The switchware active network implementation
+Citations:28
+Authors: DS Alexander, MW Hicks, P Kakkar, AD Keromytis, M Shaw, JT Moore, ...
+Publication: Proceedings of the 1998 ACM SIGPLAN Workshop on ML 114
+
+68. Automating object transformations for dynamic software updating
+Citations:26
+Authors: S Magill, M Hicks, S Subramanian, KS McKinley
+Publication: ACM SIGPLAN Notices 47 (10), 265-280
+
+69. Chunks in PLAN: Language support for programs as packets
+Citations:26
+Authors: JT Moore, M Hicks, S Nettles
+Publication: Technical Reports (CIS), 98
+
+70. The ruby intermediate language
+Citations:25
+Authors: M Furr, JD An, JS Foster, M Hicks
+Publication: ACM Sigplan Notices 44 (12), 89-98
+
+71. Improving software quality with static analysis
+Citations:23
+Authors: JS Foster, MW Hicks, W Pugh
+Publication: Proceedings of the 7th ACM SIGPLAN-SIGSOFT workshop on Program analysis for …
+
+72. A study of dynamic software update quiescence for multithreaded programs
+Citations:22
+Authors: CM Hayden, K Saur, M Hicks, JS Foster
+Publication: 2012 4th International Workshop on Hot Topics in Software Upgrades (HotSWUp …
+
+73. Directing JavaScript with arrows
+Citations:22
+Authors: YP Khoo, M Hicks, JS Foster, V Sazawal
+Publication: ACM Sigplan Notices 44 (12), 49-58
+
+74. User-specified adaptive scheduling in a streaming media network
+Citations:22
+Authors: M Hicks, A Nagarajan, R van Renesse
+Publication: 2003 IEEE Conference onOpen Architectures and Network Programming., 87-96
+
+75. Build it, break it, fix it: Contesting secure development
+Citations:21
+Authors: A Ruef, M Hicks, J Parker, D Levin, ML Mazurek, P Mardziel
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+76. SCORE: agile research group management.
+Citations:21
+Authors: MW Hicks, JS Foster
+Publication: Commun. ACM 53 (10), 30-31
+
+77. Verified enforcement of stateful information release policies
+Citations:21
+Authors: N Swamy, M Hicks
+Publication: ACM Sigplan Notices 43 (12), 21-31
+
+78. Enhancing pipes
+Citations:21
+Authors: J Taylor, M Hicks, R Lamb, RN Bennett, K Nixon, I Ashcroft, AS Parkes, ...
+Publication: US Patent 5,482,076
+
+79. Dynamically checking ownership policies in concurrent C/C++ programs
+Citations:20
+Authors: JP Martin, M Hicks, M Costa, P Akritidis, M Castro
+Publication: ACM Sigplan Notices 45 (1), 457-470
+
+80. Compiling plan to snap
+Citations:20
+Authors: M Hicks, JT Moore, S Nettles
+Publication: IFIP International Working Conference on Active Networks, 134-151
+
+81. PLAN system security
+Citations:20
+Authors: M Hicks
+Publication: Technical Report MS-CIS-98-25, Department of Computer and Information …
+
+82. Knowledge inference for optimizing secure multi-party computation
+Citations:19
+Authors: A Rastogi, P Mardziel, M Hicks, MA Hammer
+Publication: Proceedings of the Eighth ACM SIGPLAN workshop on Programming languages and …
+
+83. Rubah: Efficient, General-purpose Dynamic Software Updating for Java.
+Citations:19
+Authors: L Pina, M Hicks
+Publication: HotSWUp
+
+84. Experiences with capsule-based active networking
+Citations:18
+Authors: M Hicks, JT Moore, D Wetherall, S Nettles
+Publication: Proceedings DARPA Active Networks Conference and Exposition, 16-24
+
+85. PLAN: A programming language for active networks
+Citations:18
+Authors: M Hicks, P Kakkar, JT Moore, CA Gunter, S Nettles
+Publication: Submitted, November
+
+86. Knowledge-oriented secure multiparty computation
+Citations:17
+Authors: P Mardziel, M Hicks, J Katz, M Srivatsa
+Publication: Proceedings of the 7th Workshop on Programming Languages and Analysis for …
+
+87. A secure plan
+Citations:17
+Authors: M Hicks, AD Keromytis, JM Smith
+Publication: IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and …
+
+88. Evolving nosql databases without downtime
+Citations:16
+Authors: K Saur, T Dumitraş, M Hicks
+Publication: 2016 IEEE International Conference on Software Maintenance and Evolution …
+
+89. Safe and flexible memory management in Cyclone
+Citations:16
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: 
+
+90. Scalable resource control in active networks
+Citations:16
+Authors: KG Anagnostakis, MW Hicks, S Ioannidis, AD Keromytis, JM Smith
+Publication: IFIP International Working Conference on Active Networks, 343-357
+
+91. Polymonadic programming
+Citations:15
+Authors: M Hicks, G Bierman, N Guts, D Leijen, N Swamy
+Publication: arXiv preprint arXiv:1406.2060
+
+92. Verified enforcement of security policies for cross-domain information flows
+Citations:14
+Authors: N Swamy, M Hicks, S Tsang
+Publication: MILCOM 2007-IEEE Military Communications Conference, 1-7
+
+93. Dynamic inference of polymorphic lock types
+Citations:14
+Authors: J Rose, N Swamy, M Hicks
+Publication: Science of Computer Programming 58 (3), 366-383
+
+94. Planet: An active network testbed
+Citations:14
+Authors: M Hicks, JT Moore, DS Alexander, CA Gunter, S Nettles
+Publication: 
+
+95. Tedsuto: A general framework for testing dynamic software updates
+Citations:13
+Authors: L Pina, M Hicks
+Publication: 2016 IEEE International Conference on Software Testing, Verification and …
+
+96. Combining provenance and security policies in a web-based document management system
+Citations:13
+Authors: BJ Corcoran, N Swamy, M Hicks
+Publication: On-line Proceedings of the Workshop on Principles of Provenance (PrOPr), 40
+
+97. A calculus for dynamic loading
+Citations:13
+Authors: M Hicks, SC Weirich
+Publication: Technical Reports (CIS), 169
+
+98. A secure plan (extended version)
+Citations:12
+Authors: M Hicks, AD Keromytis, JM Smith
+Publication: Proceedings DARPA Active Networks Conference and Exposition, 224-237
+
+99. PLAN Programmer's Guide
+Citations:12
+Authors: JT Moore, MW Hicks, P Kakkar
+Publication: PLAN documentation
+
+100. Counterexample-guided approach to finding numerical invariants
+Citations:11
+Authors: TV Nguyen, T Antonopoulos, A Ruef, M Hicks
+Publication: Proceedings of the 2017 11th Joint Meeting on Foundations of Software …
+
+101. Triaging checklists: a substitute for a phd in static analysis
+Citations:11
+Authors: KY Phang, JS Foster, M Hicks, V Sazawal
+Publication: Evaluation and Usability of Programming Languages and Tools (PLATEAU …
+
+102. Evolution in action: Using active networking to evolve network support for mobility
+Citations:11
+Authors: S Seong-Kyu, S Shannon, M Hicks, S Nettles
+Publication: IFIP International Working Conference on Active Networks, 146-161
+
+103. Specifying the PLAN Network Programming Langauge
+Citations:10
+Authors: P Kakkar, M Hicks, J Moore, CA Gunter
+Publication: Electronic Notes in Theoretical Computer Science 26, 87-104
+
+104. Decomposition instead of self-composition for k-safety
+Citations:9
+Authors: T Antopoulos, P Gazzillo, M Hicks, E Koskinen, T Terauchi, S Wei
+Publication: 
+
+105. Safe and flexible controller upgrades for SDNs
+Citations:9
+Authors: K Saur, J Collard, N Foster, A Guha, L Vanbever, M Hicks
+Publication: Proceedings of the Symposium on SDN Research, 8
+
+106. Toward on-line schema evolution for non-stop systems
+Citations:9
+Authors: A Deshpande, M Hicks
+Publication: 11th High Performance Transaction Systems Workshop
+
+107. Tagged sets: a secure and transparent coordination medium
+Citations:9
+Authors: M Oriol, M Hicks
+Publication: International Conference on Coordination Languages and Models, 252-267
+
+108. Safe and flexible dynamic linking of native code
+Citations:9
+Authors: K Crary, M Hicks, SC Weirich
+Publication: Technical Reports (CIS), 137
+
+109. Checked C: Making C safe by extension
+Citations:8
+Authors: AS Elliott, A Ruef, M Hicks, D Tarditi
+Publication: 2018 IEEE Cybersecurity Development (SecDev), 53-60
+
+110. C‐strider: type‐aware heap traversal for C
+Citations:8
+Authors: K Saur, M Hicks, JS Foster
+Publication: Software: Practice and Experience 46 (6), 767-788
+
+111. Modular information hiding and type-safe linking for C
+Citations:8
+Authors: S Srivastava, M Hicks, JS Foster, P Jenkins
+Publication: IEEE Transactions on Software Engineering 34 (3), 357-376
+
+112. PLAN Service Programmer's Guide
+Citations:8
+Authors: MW Hicks
+Publication: University of Pennsylvania
+
+113. A Service Layer Routing Protocol for PLAN
+Citations:8
+Authors: JT Moore, M Hicks
+Publication: PLAN documentation, September
+
+114. Summoning demons: The pursuit of exploitable bugs in machine learning
+Citations:7
+Authors: R Stevens, O Suciu, A Ruef, S Hong, M Hicks, T Dumitraş
+Publication: arXiv preprint arXiv:1701.04739
+
+115. Dynamic rebinding for marshalling and update, via redex-time and destruct-time reduction
+Citations:7
+Authors: P Sewell, G Stoyle, M Hicks, G Bierman, K Wansbrough
+Publication: Journal of Functional Programming 18 (4), 437-502
+
+116. What’s the over/under? probabilistic bounds on information leakage
+Citations:6
+Authors: I Sweet, JMC Trilla, C Scherrer, M Hicks, S Magill
+Publication: International Conference on Principles of Security and Trust, 3-27
+
+117. Multiotter: Multiprocess symbolic execution
+Citations:6
+Authors: J Turpie, E Reisner, JS Foster, M Hicks
+Publication: 
+
+118. A testing based empirical study of dynamic software update safety restrictions
+Citations:6
+Authors: CM Hayden, EA Hardisty, M Hicks, JS Foster
+Publication: 
+
+119. Merging network measurement with data transport
+Citations:6
+Authors: P Papageorgiou, M Hicks
+Publication: International Workshop on Passive and Active Network Measurement, 368-371
+
+120. Plan programmers guide for plan version 3.2
+Citations:6
+Authors: M Hicks, JT Moore, P Kakkar
+Publication: PLAN documentation, http: L Lwww. cis. upenn. edu LR switchware L PLAN L …
+
+121. PLAN security guide
+Citations:6
+Authors: MW Hicks
+Publication: PLAN documentation
+
+122. Quantitative robustness analysis of quantum programs
+Citations:5
+Authors: SH Hung, K Hietala, S Zhu, M Ying, M Hicks, X Wu
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 31
+
+123. Evaluating design tradeoffs in numeric static analysis for Java
+Citations:5
+Authors: S Wei, P Mardziel, A Ruef, JS Foster, M Hicks
+Publication: European Symposium on Programming, 653-682
+
+124. Wys*: A verified language extension for secure multi-party computations
+Citations:5
+Authors: A Rastogi, N Swamy, M Hicks
+Publication: arXiv preprint arXiv:1711.06467
+
+125. Build it break it: Measuring and comparing development security
+Citations:5
+Authors: A Ruef, M Hicks, J Parker, D Levin, A Memon, J Plane, P Mardziel
+Publication: 8th Workshop on Cyber Security Experimentation and Test ({CSET} 15)
+
+126. Adversary gain vs defender loss in quantified information flow
+Citations:5
+Authors: P Mardziel, MS Alvim, M Hicks
+Publication: Workshop on Foundations of Computer Security (FCS)
+
+127. Towards standardized benchmarks for dynamic software updating systems
+Citations:5
+Authors: EK Smith, M Hicks, JS Foster
+Publication: 2012 4th International Workshop on Hot Topics in Software Upgrades (HotSWUp …
+
+128. Serializing C intermediate representations for efficient and portable parsing
+Citations:5
+Authors: JA Meister, JS Foster, M Hicks
+Publication: Software: Practice and Experience 40 (3), 225-238
+
+129. LWeb: information flow security for multi-tier web applications
+Citations:4
+Authors: J Parker, N Vazou, M Hicks
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 75
+
+130. A language for probabilistically oblivious computation
+Citations:4
+Authors: D Darais, C Liu, I Sweet, M Hicks
+Publication: arXiv preprint arXiv:1711.09305
+
+131. A taxonomy of active code
+Citations:4
+Authors: DS Alexander, M Hicks, AD Keromytis, JT Moore, SM Nettles, JM Smith
+Publication: IWAN
+
+132. Knowledge inference for optimizing and enforcing secure computations
+Citations:3
+Authors: P Mardziel, M Hicks, J Katz, M Hammer, A Rastogi, M Srivatsa
+Publication: Proceedings of the Annual Meeting of the US/UK International Technology Alliance
+
+133. Adapting Scrum to Managing a Research Group
+Citations:3
+Authors: M Hicks, JS Foster
+Publication: 
+
+134. Formalizing soundness of contextual effects
+Citations:3
+Authors: P Pratikakis, JS Foster, M Hicks, I Neamtiu
+Publication: International Conference on Theorem Proving in Higher Order Logics, 262-277
+
+135. The PLAN system for building Active Networks
+Citations:3
+Authors: M Hicks, JT Moore, DS Alexander, P Kakkar, CA Gunter, SM Nettles
+Publication: University of Pennsylvania (February 27, 1998)
+
+136. The PLAN Active Router,"
+Citations:3
+Authors: MW Hicks
+Publication: PLAN documentation, October
+
+137. General-purpose persistence using flash memory
+Citations:3
+Authors: JT Moore, M Hicks, S Nettles
+Publication: Unpublished manuscript, April
+
+138. Mvedsua: Higher availability dynamic software updates via multi-version execution
+Citations:2
+Authors: L Pina, A Andronidis, M Hicks, C Cadar
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+139. Formal Verification vs. Quantum Uncertainty
+Citations:2
+Authors: R Rand, K Hietala, M Hicks
+Publication: Summit on Advances in Programming Languages, SNAPL
+
+140. Quantitative Robustness Analysis of Quantum Programs (Extended Version)
+Citations:2
+Authors: SH Hung, K Hietala, S Zhu, M Ying, M Hicks, X Wu
+Publication: arXiv preprint arXiv:1811.03585
+
+141. IEEE SecDev 2016: Prioritizing Secure Development
+Citations:2
+Authors: R Cunningham, P Gupta, U Lindqvist, S Sidiroglou-Douskos, M Hicks
+Publication: IEEE Security & Privacy 14 (4), 82-84
+
+142. POPL'12 program chair's report:(or, how to run a medium-sized conference)
+Citations:2
+Authors: M Hicks
+Publication: ACM SIGPLAN Notices 47 (4a), 19-27
+
+143. Specifying and verifying the correctness of dynamic software updates (extended version
+Citations:2
+Authors: CM Hayden, S Magill, M Hicks, N Foster, JS Foster
+Publication: 
+
+144. Secure sharing in distributed information management applications: problems and directions
+Citations:2
+Authors: P Mardziel, A Bender, M Hicks, D Levin, M Srivatsa, J Katz
+Publication: Proceedings of the Annual Conference of the International Technology …
+
+145. Defeating Script Injection Attacks with Browser Enforced Embedded Policies
+Citations:2
+Authors: J Trevor, N Swamy, M Hicks
+Publication: 
+
+146. Lock inference for atomic sections
+Citations:2
+Authors: P Pratikakis, J Foster, M Hicks
+Publication: 
+
+147. PLAN Programmer's Guide
+Citations:2
+Authors: M Hicks, JT Moore, P Kakkar
+Publication: University of Pennsylvania
+
+148. Agents in network management
+Citations:2
+Authors: O Ertugay, M Hicks, JM Smith, J Kornblum
+Publication: 
+
+149. Enhancing pipes
+Citations:2
+Authors: J Taylor, M Hicks, R Lamb, RN Bennett, K Nixon, I Ashcroft, AS Parkes, ...
+Publication: US Patent 5,845,668
+
+150. Seal for enhancing pipes
+Citations:2
+Authors: J Taylor, M Hicks, R Lamb, RN Bennett, K Nixon, I Ashcroft, AS Parkes, ...
+Publication: US Patent 5,738,357
+
+151. Types and intermediate representations
+Citations:2
+Authors: M Hicks
+Publication: Technical Reports (CIS), 796
+
+152. ``PLAN Tutorial,''
+Citations:2
+Authors: P Kakkar, M Hicks
+Publication: PLAN documentation
+
+153. PLAN Service Programmer's Guide for PLAN version 3.2
+Citations:2
+Authors: M Hicks
+Publication: University of Pennsylvania (August 12, 1999)
+
+154. Verified Optimization in a Quantum Intermediate Representation
+Citations:1
+Authors: K Hietala, R Rand, SH Hung, X Wu, M Hicks
+Publication: arXiv preprint arXiv:1904.06319
+
+155. : A DSL for Verified Secure Multi-party Computations
+Citations:1
+Authors: A Rastogi, N Swamy, M Hicks
+Publication: International Conference on Principles of Security and Trust, 99-122
+
+156. Evaluating design tradeoffs in numeric static analysis for java (extended version)
+Citations:1
+Authors: S Wei, P Mardziel, A Ruef, JS Foster, M Hicks
+Publication: Technical report
+
+157. Quantifying vulnerability of secret generation using hyper-distributions
+Citations:1
+Authors: MS Alvim, P Mardziel, M Hicks
+Publication: International Conference on Principles of Security and Trust, 26-48
+
+158. Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution
+Citations:1
+Authors: M Furr, JD An, JS Foster, M Hicks
+Publication: Proceedings for the 1st workshop on Script to Program Evolution, 14-16
+
+159. Directing javascript with arrows (functional pearl)
+Citations:1
+Authors: YP Khoo, M Hicks, JS Foster, V Sazawal
+Publication: 
+
+160. Appendix to CMod: Modular information hiding and type-safe linking for C
+Citations:1
+Authors: S Srivastava, M Hicks, JS Foster
+Publication: 
+
+161. Toward specifying and validating cross-domain policies
+Citations:1
+Authors: M Hicks, N Swamy, S Tsang
+Publication: MARYLAND UNIV COLLEGE PARK DEPT OF COMPUTER SCIENCE
+
+162. Dynamic software updating for the Linux kernel
+Citations:1
+Authors: I Neamtiu, M Hicks
+Publication: OSDI, Work-in-Progress Session
+
+163. Toward Practical Dynamic Software Updating
+Citations:1
+Authors: I Neamtiu, G Stoyle, M Oriol, M Hicks
+Publication: 
+
+164. pland: The PLAN Active Router
+Citations:1
+Authors: M Hicks
+Publication: PLAN documentation
+
+165. The PLAN Tutorial
+Citations:1
+Authors: M Hicks, P Kakkar
+Publication: 
+
+166. Context-Sensitive Correlation Analysis for Race Detection
+Citations:1
+Authors: P Pratikakis, J Foster, M Hicks
+Publication: The 2006 Conference on Programming Language Design and Implementation …
+
+167. PLAN Security Guide for PLAN version 3.2
+Citations:1
+Authors: MW Hicks
+Publication: 
+
+168. The PLAN Tutorial for PLAN version 3.2
+Citations:1
+Authors: M Hicks, P Kakkar
+Publication: 
+
+169. Build It, Break It, Fix It: Contesting Secure Development
+Citations:
+Authors: J Parker, M Hicks, A Ruef, ML Mazurek, D Levin, D Votipka, P Mardziel, ...
+Publication: arXiv preprint arXiv:1907.01679
+
+170. Achieving Safety Incrementally with Checked C
+Citations:
+Authors: A Ruef, L Lampropoulos, I Sweet, D Tarditi, M Hicks
+Publication: International Conference on Principles of Security and Trust, 76-98
+
+171. Symbolic Input Unification and Minimization
+Citations:
+Authors: M Hicks, A Ruef
+Publication: University of Maryland College Park United States
+
+172. Sound Over-and Under-Approximations of Complexity and Information Security (SOUCIS)
+Citations:
+Authors: M Hicks, D Van Horn, J Foster, E Koskinen, D Song, T Antopoulos
+Publication: The University of Maryland College Park United States
+
+173. Languages for Oblivious Computation
+Citations:
+Authors: M Hicks
+Publication: Proceedings of the 2017 Workshop on Programming Languages and Analysis for …
+
+174. Quantifying vulnerability of secret generation using hyper-distributions (extended version)
+Citations:
+Authors: MS Alvim, P Mardziel, M Hicks
+Publication: arXiv preprint arXiv:1701.04174
+
+175. 87 Last Word
+Citations:
+Authors: O Cybersecurity, S Khou, JM Pecarina, R Cunningham, P Gupta, ...
+Publication: 
+
+176. A Counterexample-guided Approach to Finding Numerical Invariants
+Citations:
+Authors: T Antopoulos, A Ruef, M Hicks
+Publication: 
+
+177. Morpheus: Safe and Flexible Dynamic Updates for SDNs
+Citations:
+Authors: K Saur, J Collard, N Foster, A Guha, L Vanbever, M Hicks
+Publication: arXiv preprint arXiv:1509.03614
+
+178. Dagstuhl Reports, Vol. 4, Issue 12 ISSN 2192-5283
+Citations:
+Authors: D Gollmann, C Herley, V Koenig, W Pieters, MA Sasse, G Barthe, M Hicks, ...
+Publication: 
+
+179. The Synergy Between Programming Languages and Cryptography (Dagstuhl Seminar 14492)
+Citations:
+Authors: G Barthe, M Hicks, F Kerschbaum, D Unruh
+Publication: Dagstuhl Reports 4 (12)
+
+180. How to Authenticate any Data Structure
+Citations:
+Authors: A Miller, M Hicks, J Katz, E Shi
+Publication: TinyToCS 3
+
+181. Principles of POPL.
+Citations:
+Authors: D Dreyer, J Field, R Giacobazzi, M Hicks, S Jagannathan, M Sagiv, ...
+Publication: SIGPLAN Notices 48 (4S), 12-16
+
+182. Rubah: Efﬁcient, General-purpose Dynamic Software Updating for Java
+Citations:
+Authors: L Pina, M Hicks
+Publication: Presented as part of the 5th Workshop on Hot Topics in Software Upgrades
+
+183. A demo of Coco: a compiler for monadic coercions in ML
+Citations:
+Authors: N Guts, M Hicks, N Swamy, D Leijen
+Publication: Informal proceedings of the ML Workshop
+
+184. Proceedings-International Conference on Data Engineering: Foreword
+Citations:
+Authors: M Hicks, R Bazzi, C Zaniolo
+Publication: 2011 IEEE 27th International Conference on Data Engineering Workshops, ICDE …
+
+185. Specifying and Verifying the Correctness of Dynamic Software Updates
+Citations:
+Authors: S Magill, CM Hayden, M Hicks, N Foster, JS Foster
+Publication: 
+
+186. A Testing Based Empirical Study of Dynamic Software Update Safety Restrictions
+Citations:
+Authors: M Christopher, EA Hardisty, M Hicks, JS Foster
+Publication: 
+
+187. Cyclone: A Type-Safe Dialect of C-Cyclone is a dialect of C that retains its transparency and control but adds the benefits of safety.
+Citations:
+Authors: D Grossman, M Hicks, T Jim, G Morrissett
+Publication: C/C++ Users Journal, 6-13
+
+188. Dynamic updating of information-flow policies
+Citations:
+Authors: SA Zdancewic, M Hicks, S Tse, B Hicks
+Publication: 
+
+189. Active Networking Means Evolution
+Citations:
+Authors: M Hicks, S Nettles
+Publication: Active Networks: Second International Working Conference, IWAN 2000 Tokyo …
+
+190. Implementing On-line Software Upgrades in Java
+Citations:
+Authors: M Gebremichael, M Hicks
+Publication: 
+
+191. CMSC433, Fall 2002 Programming Language Technology and Paradigms Basic Java
+Citations:
+Authors: M Hicks
+Publication: 
+
+192. Dynamic Rebinding for Distributed Programming
+Citations:
+Authors: G Bierman, M Hicks, P Sewell, G Stoyle, K Wansbrough
+Publication: 
+
+193. Cyclone User's Manual, Version 0.1. 3
+Citations:
+Authors: D Grossman, G Morrisett, T Jim, M Hicks, Y Wang, J Cheney
+Publication: Cornell University
+
+194. Dynamic software updating
+Citations:
+Authors: G Bierman, M Hicks, P Sewell, G Stoyle
+Publication: 
+
+195. A Review of Current Routing Protocols for Ad Hoc
+Citations:
+Authors: EM Royer, CK Toh, M Hicks, P Kakkar, JT Moore, M Hicks, JT Moore, ...
+Publication: IEEE} Personal Communications 29, 156-71
+
+196. Dynamic Software Updating Ѓ
+Citations:
+Authors: M Hicks, JT Moore, S Nettles
+Publication: 
+
+197. PLAN Security System
+Citations:
+Authors: M Hicks
+Publication: Technical Reports (CIS), 108
+
+198. Jonathan T. Moore, Carl A. Gunter, Scott M. Nettles, and Jonathan M. Smith University of Pennsylvania July 7, 1998
+Citations:
+Authors: DS Alexander, WA Arbaugh, MW Hicks, P Kakkar, AD Keromytis
+Publication: 
+
+199. PLAN 2.0 Programmer's Guide
+Citations:
+Authors: JT Moore, MW Hicks
+Publication: 
+
+200. Seal for enhancing pipes
+Citations:
+Authors: J Taylor, M Hicks, R Lamb, RN Bennett, K Nixon, I Ashcroft, AS Parkes, ...
+Publication: US Patent 5,551,704
+
+201. Method for enhanced pipes
+Citations:
+Authors: J Taylor, M Hicks, R Lamb, R Bennet, K Nixon, I Ashcroft, AS Parkes, ...
+Publication: 
+
+202. A FOREWORD
+Citations:
+Authors: R Hocks
+Publication: Carolina Quarterly 13 (1), 9
+
+203. A Verified Optimizer for Quantum Circuits
+Citations:
+Authors: K HIETALA, R RAND, SHAN HUNG, X WU, M HICKS
+Publication: 
+
+204. Coverage Guided, Property Based Testing
+Citations:
+Authors: L LAMPROPOULOS, M HICKS, BC PIERCE
+Publication: 
+
+205. Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It
+Citations:
+Authors: D Votipka, K Fulton, J Parker, M Hou, ML Mazurek, M Hicks
+Publication: 
+
+206. Achieving Safety Incrementally with Checked C
+Citations:
+Authors: M Hicks
+Publication: Principles of Security and Trust: 8th International Conference, POST 2019 …
+
+207. POPL’12 Program Chair’s Report
+Citations:
+Authors: M Hicks
+Publication: 
+
+208. Cmod: Modular Information Hiding and Type-Safe Linking for C∗ Contents
+Citations:
+Authors: S Srivastava, M Hicks, JS Foster
+Publication: 
+
+209. 2018 SecDev Program Committee
+Citations:
+Authors: Y Acar, G Baah, N Bielova, IH Cai, S Chmielewski, H Duan, M Emmi, ...
+Publication: 
+
+210. Associate Chairs
+Citations:
+Authors: L Bauer, S Capkun, D Evans, M Hicks, M Antonakakis, M Backes, ...
+Publication: 
+
+211. Non-stop Systems
+Citations:
+Authors: M Hicks
+Publication: 
+
+212. Bücher und Buch-Herausgaben
+Citations:
+Authors: M Matteo, M Ryan, P Ah-Fat, M Alabbad, M Alvim, Z Aslanyan, N Atzei, ...
+Publication: 
+
+213. Practical Secure Two-Party Computation: Techniques, Tools, and Applications
+Citations:
+Authors: M Hicks, J Katz, S Myers
+Publication: 
+
+214. SecDev 2017 Conference Committees
+Citations:
+Authors: S Chong, MD Ernst, M Franz, J Guttman, MW Harris, M Hicks, T Kim, ...
+Publication: 
+
+215. Checked C for Safety, Gradually
+Citations:
+Authors: A Ruef, AS Elliott, I Sweet, M Hicks, D Tarditi
+Publication: 
+
+216. Úlfar Erlingsson Google
+Citations:
+Authors: B Parno, M Backes, D Balzarotti, G Barthe, L Bauer, K Bhargavan, ...
+Publication: 
+
+217. Student Travel Grant Committee
+Citations:
+Authors: M Hicks, S Sidiroglou-Douskos, J Andronick, I Arce, S Chong, A Chou, ...
+Publication: 
+
+218. Summoning Demons
+Citations:
+Authors: R Stevens, O Suciu, A Ruef, S Hong, M Hicks, T Dumitras
+Publication: 
+
+219. Poster: Quantifying Information Flow for Dynamic Secrets
+Citations:
+Authors: P Mardziel, MS Alvim, M Hicks, MR Clarkson
+Publication: 
+
+220. Towards the Quantification of Strategy Leakage
+Citations:
+Authors: MS Alvim, P Mardziel, M Hicks
+Publication: 
+
+221. CSF 2016
+Citations:
+Authors: M Hicks, B Köpf, P Adão, D Garg, J Andronick, A Askarov, M Barbosa, ...
+Publication: 
+
+222. Dynamically Checking Ownership Policies in Concurrent C/C++ Programs (full version)
+Citations:
+Authors: JP Martin, M Hicks, M Costa, P Akritidis, M Castro
+Publication: 
+
+223. Carl A. Gunter, and Scott Nettles Department of Computer and Information Science University of Pennsylvania
+Citations:
+Authors: M Hicks, P Kakkar, JT Moore
+Publication: 
+
+224. Composable, Demand-Driven Incremental Computation
+Citations:
+Authors: M Hammer, KY Phang, M Hicks, JS Foster
+Publication: 
+
+225. Managing Policy Updates in Security-Typed Languages Technical Report
+Citations:
+Authors: N Swamy, M Hicks, S Tse, S Zdancewic
+Publication: 
+
+226. Position Paper: Dynamically Inferred Types for Dynamic Languages
+Citations:
+Authors: JD An, A Chaudhuri, JS Foster, M Hicks
+Publication: 
+
+227. Unique Pointers and Reference Counting in Cyclone
+Citations:
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: 
+
+228. ADAPTON: Composable, Demand-Driven Incremental Computation (Extended version)
+Citations:
+Authors: MA Hammer, KY Phang, M Hicks, JS Foster
+Publication: 
+
+229. Nominal Adapton: Incremental Computation with First-Class Names
+Citations:
+Authors: MA Hammer, J Dunfield, K Headley, JS Foster, M Hicks
+Publication: 
+
+230. Tests to the Left of Me, Types to the Right
+Citations:
+Authors: M Furr, JD An, JS Foster, M Hicks
+Publication: 
+
+231. The Network Stack Trace: Performance diagnosis for networked systems
+Citations:
+Authors: J McCann, M Hicks
+Publication: 
+
+232. Trusted Declassification
+Citations:
+Authors: BHD King, P McDaniel, M Hicks
+Publication: 
+
+233. ICFP 2008: The 13th ACM SIGPLAN International Conference on Functional Programming Victoria, British Columbia, Canada
+Citations:
+Authors: J Aldrich, RJ Simmons, K Shin, T Chevalier, A Tolmach, J Heard, X Guan, ...
+Publication: 
+
+234. Short Presentation: Combining Garbage Collection and Safe Manual Memory Management
+Citations:
+Authors: M Hicks, D Grossman, T Jim
+Publication: 
+
+235. Knowledge-based Sensor Security
+Citations:
+Authors: P Mardziel, M Hicks, MR Clarkson
+Publication: 
+
+236. Computer and Information Science Department University of Pennsylvania Philadelphia, PA 19103
+Citations:
+Authors: MW Hicks, L Hornof, JT Moore, SM Nettles
+Publication: 
+
+237. pland: The PLAN Active Router for PLAN version 3.1
+Citations:
+Authors: M Hicks
+Publication: 
+
+238. CMOD: Enforcing Modularity in C Code
+Citations:
+Authors: S Srivastava, M Hicks
+Publication: 
+
+239. David Basin, ETH Zurich
+Citations:
+Authors: L Bauer, K Beznosov, J Bonneau, H Bos, S Capkun, H Chen, S Chen, ...
+Publication: 
+
+240. CSF 2014
+Citations:
+Authors: A Datta, C Fournet, L Viganò, D Garg, M Maffei, M Abadi, M Backes, ...
+Publication: 
+
+241. Implicit Flows: Can’t Live With ‘Em, Can’t Live Without ‘Em
+Citations:
+Authors: DKT Jaeger, B Hicks, M Hicks
+Publication: 
+
+242. Directing JavaScript with Arrows (Functional Pearl)
+Citations:
+Authors: KY Phang, M Hicks, JS Foster, V Sazawal
+Publication: 
+
+243. Secure information sharing in distributed information management applications: problems and directions
+Citations:
+Authors: P Mardziel, A Bender, M Hicks, D Levin, M Srivatsa, J Katz
+Publication: 
+
+244. A Core Calculus for Mixed-mode Secure Multi-party Computations
+Citations:
+Authors: A Rastogi, MA Hammer, M Hicks
+Publication: 
+
+245. Trusted Declassification: Policy Infrastructure for a Security-Typed Language
+Citations:
+Authors: B Hicks, D King, P McDaniel, M Hicks
+Publication: 
+
+246. Dynamic Software Updates: A VM-Centric Approach
+Citations:
+Authors: M Hicks, C Lin
+Publication: 
+
+247. Boombox: A Dynamically-Updateable Network OS
+Citations:
+Authors: K Saur, J Collard, N Foster, A Guha, L Vanbever, M Hicks
+Publication: 
+
+248. Open and Survivable Embedded Systems
+Citations:
+Authors: AD Keromytis, SA Edwards, V Prevelakis, MW Hicks
+Publication: 
+

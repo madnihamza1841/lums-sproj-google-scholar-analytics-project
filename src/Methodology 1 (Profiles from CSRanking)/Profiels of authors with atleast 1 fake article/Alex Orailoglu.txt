@@ -1,0 +1,320 @@
+
+3. Architectures for silicon nanoelectronics and beyond
+Citations:96
+Authors: RI Bahar, D Hammerstrom, J Harlow, WH Joyner, C Lau, D Marculescu, ...
+Publication: Computer 40 (1), 25-33
+
+15. Performance analysis and optimization of asynchronous circuits
+Citations:51
+Authors: P Kudva, G Gopalakrishnan, E Brunvand, V Akella
+Publication: Proceedings 1994 IEEE International Conference on Computer Design: VLSI in …
+
+23. Towards effective embedded processors in codesigns: customizable partitioned caches
+Citations:40
+Authors: P Petrov, A Orailğlu
+Publication: Proceedings of the ninth international symposium on Hardware/software …
+
+27. Topology aware mapping of logic functions onto nanowire-based crossbar architectures
+Citations:36
+Authors: W Rao, A Orailoq, R Karri
+Publication: 2006 43rd ACM/IEEE Design Automation Conference, 723-726
+
+77. A design methodology for the high-level synthesis of fault-tolerant ASICs
+Citations:17
+Authors: A Orailoǧlu, R Karri
+Publication: 6th IEEE Workshop on VLSI Signal Processing, 417-426
+
+100. Test synthesis for mixed-signal SOC paths
+Citations:12
+Authors: S Ozev, I Bayraktaroglu, A Orailogiu
+Publication: Proceedings Design, Automation and Test in Europe Conference and Exhibition …
+
+139. Profit maximization through process variation aware high level synthesis with speed binning
+Citations:7
+Authors: Z Mengying, O Alex, XC Jason
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 176-181
+
+146. Fast hierarchical test path construction for circuits with DFT-free controller-datapath interface
+Citations:7
+Authors: Y Makris, J Collins, A Orailoğlu
+Publication: Journal of Electronic Testing 18 (1), 29-42
+
+174. 𝒟ℰℱect 𝒯olerant layout synthesis
+Citations:5
+Authors: A ORAILOGˇLU, R Karri
+Publication: International journal of electronics 76 (6), 1121-1133
+
+183. Energy optimization for a two-device data flow chain
+Citations:4
+Authors: R Rao, S Vrudhula
+Publication: Proceedings of the 2004 IEEE/ACM International conference on Computer-aided …
+
+186. Microarchitectural synthesis of performance-constrained, low-power VLSI designs
+Citations:4
+Authors: L Goodby, A Orailoğlu, PM Chau
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 7 (1 …
+
+193. Frequency-domain compatibility in digital filter BIST
+Citations:4
+Authors: L Goodby, A Orailoğlu
+Publication: Proceedings of the 34th annual Design Automation Conference, 540-545
+
+194. Synthesis of fault-tolerant and real-time microarchitectures
+Citations:4
+Authors: A Orailoǧlu, R Karri
+Publication: Journal of Systems and Software 25 (1), 73-84
+
+218. Making DNA self-assembly error-proof: attaining small growth error rates through embedded information redundancy
+Citations:2
+Authors: S Garcia, A Orailoǧlu
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 898-901
+
+228. The UCSD active web
+Citations:2
+Authors: J Pasquale, R Belew, J Ferrante, R Impagliazzo, V Rangan, S Baden, ...
+Publication: 
+
+243. Integration and evaluation of Multi-Instance-Precommit schemes within PostgreSQL
+Citations:1
+Authors: P Romano, F Quaglia
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+246. Searching for global test costs optimization in core-based systems
+Citations:1
+Authors: É Cota, L Carro, M Lubaszewski, A Orailoğlu
+Publication: Journal of Electronic Testing 20 (4), 357-373
+
+253. Propagation Analysis”
+Citations:1
+Authors: Y Makris, A Orailoğlu, D Justification
+Publication: ITC
+
+254. On-line fault resilience through gracefully degradable ASICs
+Citations:1
+Authors: A Orailoğlu
+Publication: On-line testing for VLSI, 145-151
+
+273. Special issue on nano-electronic circuits and nano-architectures-Guest editorial
+Citations:
+Authors: K Roy
+Publication: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS 54 (11), 2342-2344
+
+284. Energy-efficient trace reuse cache for embedded processors.
+Citations:
+Authors: C Xiangrong, Z Xiaolin, A Efthymiou, JD Garside, A Hossain, DJ Pease, ...
+Publication: Information Technology Journal 12 (8), 325-329
+
+295. Journal of VLSI Signal Processing, 11, 7 (1995) 9 1995 Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.
+Citations:
+Authors: TP Barnwell III, JB Brockman, B Broderson, P Cappello, F Cathoor, ...
+Publication: Journal of VLSI Signal Processing 11, 7
+
+301. PRDC 2018
+Citations:
+Authors: É André, R Chen, YS Chen, T Dohi, S Fukumoto, M Hashimoto, ...
+Publication: 
+
+302. Selected papers in ATS 20th Anniversary Compendium of Papers
+Citations:
+Authors: E Larsson, K Arvidsson, H Fujiwara, Z Peng, Y Shao, I Pomeranz, ...
+Publication: 
+
+303. Huawei Li Jin-Fu Li Katherine Shu-Min Li Zipeng Li
+Citations:
+Authors: B Lin, X Gu, S Hamdioui, M Hashizume, K Hatayama, S Hellebrand, ...
+Publication: 
+
+304. DFT GUIDANCE THROUGH RTL TEST JUSTIFICATIONAND
+Citations:
+Authors: Y Makris, A Orailoğlu
+Publication: 
+
+305. TRANSPARENT: A System for RTL Testability Analysis, DFT Guidance
+Citations:
+Authors: Y Makris, J Collins, A Orailoğlu
+Publication: 
+
+306. CODES+ ISSS 2016 STEERING COMMITTEE
+Citations:
+Authors: R Bergamaschi, F Catthoor, K Choi, P Chou, G DeMicheli, N Dutt, P Eles, ...
+Publication: 
+
+310. Earl Swartzlander, University of Texas at Austin Jürgen Teich, Friedrich‐Alexander‐Universität Erlangen‐Nürnberg David Thomas, Imperial College, London Lingli Wang, State Key …
+Citations:
+Authors: D Koch, K Kuchcinski, P Leong, W Luk, T Mak, A Mokhov, D Novo, ...
+Publication: 
+
+311. Reliability, Resiliency, and Error-Aware Design Dynamic Statistical-Timing-Analysis-Based VLSI Path Delay Test Pattern Generation........... B. Liu and L. Wang 1577 High …
+Citations:
+Authors: IC Lin, YM Yang, CC Lin, A Tang, Y Yang, CY Lee, NK Jha, HM Chou, ...
+Publication: 
+
+312. The Aspect-Aware Design and Implementation of the {CiAO} Operating-System Family
+Citations:
+Authors: H Schirmeier, J Neuhalfen, I Korb, O Spinczyk, M Engel, H Schirmeier, ...
+Publication: Transactions 200, 69-80
+
+313. PRDC 2013 Referees and Reviewers
+Citations:
+Authors: J Alonso, M Arai, S Bagchi, J Cao, D Cotroneo, T Dohi, S Fukumoto, ...
+Publication: 
+
+314. ATS 2014 Program Committee
+Citations:
+Authors: EJ Marinissen, D Xiang, Y Hu, S Xu, P Girard, HJ Wunderlich, V Singh, ...
+Publication: 
+
+315. EUROMICRO DSD 2013 Program Committee
+Citations:
+Authors: P Athanas, T Basten, M Berekovic, N Bergman, H Basson, L Benini, ...
+Publication: 
+
+318. General Chair: Robert Jones, Intel Corp. Program Chair: Michael Hsiao, Virginia Tech. Past Chair
+Citations:
+Authors: Y Hoskote, I Bayraktaroglu, S Davidson, E McCluskey, N Narasimhan, ...
+Publication: 
+
+319. Past Chair
+Citations:
+Authors: T Dillinger, D Timmermann, KS Kim, PM Seidel, K Rudd, S Varadarajan, ...
+Publication: 
+
+321. Deputy Program Chair
+Citations:
+Authors: L Jozwiak, A Akkas, U Koc, G Danese, UO Pavia, P Eles, M Fernandez, ...
+Publication: 
+
+322. Pauline C. Haddow, Norwegian University of Science and Technology, Norway Alister Hamilton, University of Edinburgh, UK Ilker Hamzaoglu, Sabanci University, Turkey Randy Haupt …
+Citations:
+Authors: A Amira, P Athanas, J Becker, K Benkrid, N Bergmann, A Bouridane, ...
+Publication: 
+
+324. Shiyi Xu Takahiro J. Yamaguchi Feng Yuan
+Citations:
+Authors: V Agrawal, K Chakrabarty, K Chakravadhanula, HM Chang, YS Chang, ...
+Publication: 
+
+326. Program Vice Chair
+Citations:
+Authors: S Ohtake, T Aikyo, K Anzo, D Appello, K Arabi, K Chakrabarty, CT Chao, ...
+Publication: 
+
+327. The Sixteenth Asian Test Symposium
+Citations:
+Authors: KTT Cheng, H Li, X Wen, H Liang, Y Han, Y Hu, J Sun, R Zhang, T Lv, ...
+Publication: 
+
+329. DSD 2011
+Citations:
+Authors: L Jóźwiak, K Kuchcinski, A Nunez, P Kitsos, S Nair, P Abrahamsson, ...
+Publication: 
+
+331. JA Abraham
+Citations:
+Authors: M Abramovici, RC Aitken, K Arabi, F Azais, S Bhawmik, RD Blanton, ...
+Publication: 
+
+332. ICQNM 2007 Committees
+Citations:
+Authors: SD Cotofana, WC Fang, V Berger, R Blatt, SL Braunstein, D Bruss, ...
+Publication: 
+
+335. General Co-chairs
+Citations:
+Authors: SY Huang, MD Shieh, SJ Wang, JJ Liou, KSM Li, TC Huang, DC Huang, ...
+Publication: 
+
+337. ELEC 7770 Advanced VLSI Design HW-4
+Citations:
+Authors: RI Bahar, D Hammerstrom, J Harlow, WH Joyner Jr, C Lau, D Marculescu, ...
+Publication: 
+
+339. Cecilia Metra Neil Harrison
+Citations:
+Authors: R Collica, E Fujiwara, H Ito, B Kaminska, JH Kim, I Koren, R Leveugle, ...
+Publication: 
+
+341. Xiaowei Li, Chinese Academy of Sciences, China
+Citations:
+Authors: M Hashizume, J Abraham, PP Chaudhuri, G Chen, H Chen, KT Cheng, ...
+Publication: 
+
+342. 17’h IEEE VLSI Test Symposium Program Committee
+Citations:
+Authors: M Abadir-Motorola, JA Abraham, M Abramovici, VD Agrawal, J Aylor, ...
+Publication: 
+
+344. J. Arlat, LAAS
+Citations:
+Authors: R Baumann, E Boehl, C Bolchini, S Chakravarty, M Cherif, A Dandache, ...
+Publication: 
+
+345. Workshop Committees
+Citations:
+Authors: J Abraham, T Ambler, D Bhavsar, S Blanton, M Breuer, S Dey, F Fummi, ...
+Publication: 
+
+347. International Test Conference 2000 Technical Program Committee
+Citations:
+Authors: TC Nadeau-Dostie, D Wheater, S Dey, K Panetta, C Metra, R Rajsuman, ...
+Publication: 
+
+348. 14th IEEE VLSI Test Symposium Program Committee
+Citations:
+Authors: JA Abraham, CL Barrio, ID Telefonica, M Breuer, A Chatterjee, J Ferguson, ...
+Publication: 
+
+349. S. Chakravarty, Intel
+Citations:
+Authors: A Dandache, P Girard, M Goessel, T Haniotakis, J Hayes, A Ivanov, R Iyer, ...
+Publication: 
+
+351. VLSI Design A 0.64 mm Real-Time Cascade Face Detection Design Based on Reduced Two-Field Extraction.........................
+Citations:
+Authors: A Taparia, B Banerjee, TR Viswanathan, TW Tseng, JF Li, C Yang, ...
+Publication: 
+
+355. J. Abraham, U. Texas at Austin M. Abramovici, Lucent Bell Labs SP Athan, U. South Florida E. Boehl, Robert Bosch GmbH
+Citations:
+Authors: TJ Chakraborty, C Dufaza, J Figueras, WK Fuchs, D Gizopoulos, ...
+Publication: 
+
+359. Joan Figueras, UPC, Spain
+Citations:
+Authors: L Patrick Girard, V Groza, X Gui, L Huang, J Huertas, U Ingelsson, ...
+Publication: 
+
+360. Pauline C. Haddow, Norwegian University of Science and Technology, Norway Alister Hamilton, University of Edinburgh, UK Ilker Hamzaoglu, Sabanci University, Turkey Nakul …
+Citations:
+Authors: B Ahmad, A Ahmadinia, A Amira, T Arslan, P Athanas, N Aydin, A Bahari, ...
+Publication: 
+
+362. Hideo Tamamoto, Akita University, Japan
+Citations:
+Authors: S Kajihara, H Takahashi, T Hosokawa, T Inoue, Y Iguchi, S Ohtake, ...
+Publication: 
+
+365. Christian Landrault Chung-Len Lee
+Citations:
+Authors: KJ Lee, JE Chen, CH Cheng, KT Cheng, WT Cheng, S Demidenko, ...
+Publication: 
+
+367. IDT 2007 Committees
+Citations:
+Authors: H ElTahawy, Y Zorian, R Makki, M Abadir, M Bayoumi, A Salem, A Ivanov, ...
+Publication: 
+
+369. Past Chair
+Citations:
+Authors: M Nicolaidis, S Dey, HJ Wunderlich, S Chakravarty, A Raghunathan, ...
+Publication: 
+
+372. J. Abraham, U. Texas at Austin R. Baumann, Texas Instruments E. Boehl, Robert Bosch GmbH C. Bolchini, Politec. di Milano
+Citations:
+Authors: D Bradley, N Buard, S Chakravarty, Y Crouzet, A Dandache, P Fouillat, ...
+Publication: 
+
+379. Yalçýn Çekiç, Bahçeşehir University, Turkey
+Citations:
+Authors: CAC Coello, A Di Nola, E Dirkx, AT Erdogan, L Eren, WC Fang, ...
+Publication: 

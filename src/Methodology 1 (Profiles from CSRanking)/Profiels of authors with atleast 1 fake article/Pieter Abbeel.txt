@@ -1,0 +1,215 @@
+
+2. Introduction to statistical relational learning
+Citations:1488
+Authors: D Koller, N Friedman, S Džeroski, C Sutton, A McCallum, A Pfeffer, ...
+Publication: MIT press
+
+17. Multi-agent actor-critic for mixed cooperative-competitive environments
+Citations:338
+Authors: R Lowe, Y Wu, A Tamar, J Harb, OAIP Abbeel, I Mordatch
+Publication: Advances in Neural Information Processing Systems, 6379-6390
+
+19. Hindsight experience replay
+Citations:291
+Authors: M Andrychowicz, F Wolski, A Ray, J Schneider, R Fong, P Welinder, ...
+Publication: Advances in Neural Information Processing Systems, 5048-5058
+
+21. Motion planning with sequential convex optimization and convex collision checking
+Citations:253
+Authors: J Schulman, Y Duan, J Ho, A Lee, I Awwal, H Bradlow, J Pan, S Patil, ...
+Publication: The International Journal of Robotics Research 33 (9), 1251-1270
+
+29. Variational lossy autoencoder
+Citations:216
+Authors: X Chen, DP Kingma, T Salimans, Y Duan, P Dhariwal, J Schulman, ...
+Publication: arXiv preprint arXiv:1611.02731
+
+36. One-shot imitation learning
+Citations:194
+Authors: Y Duan, M Andrychowicz, B Stadie, OAIJ Ho, J Schneider, I Sutskever, ...
+Publication: Advances in neural information processing systems, 1087-1098
+
+44. Parameter space noise for exploration
+Citations:153
+Authors: M Plappert, R Houthooft, P Dhariwal, S Sidor, RY Chen, X Chen, T Asfour, ...
+Publication: arXiv preprint arXiv:1706.01905
+
+46. Superhuman performance of surgical tasks by robots using iterative learning from human-guided demonstrations
+Citations:152
+Authors: J Van Den Berg, S Miller, D Duckworth, H Hu, A Wan, XY Fu, K Goldberg, ...
+Publication: 2010 IEEE International Conference on Robotics and Automation, 2074-2081
+
+58. # Exploration: A study of count-based exploration for deep reinforcement learning
+Citations:123
+Authors: H Tang, R Houthooft, D Foote, A Stooke, OAIX Chen, Y Duan, J Schulman, ...
+Publication: Advances in neural information processing systems, 2753-2762
+
+81. Learning by observation for surgical subtasks: Multilateral cutting of 3d viscoelastic and 2d orthotropic tissue phantoms
+Citations:82
+Authors: A Murali, S Sen, B Kehoe, A Garg, S McFarland, S Patil, WD Boyd, S Lim, ...
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 1202-1209
+
+89. A berkeley view of systems challenges for ai
+Citations:69
+Authors: I Stoica, D Song, RA Popa, D Patterson, MW Mahoney, R Katz, ...
+Publication: arXiv preprint arXiv:1712.05855
+
+91. Transfer from simulation to real world through learning deep inverse dynamics model
+Citations:68
+Authors: P Christiano, Z Shah, I Mordatch, J Schneider, T Blackwell, J Tobin, ...
+Publication: arXiv preprint arXiv:1610.03518
+
+95. Autonomous multilateral debridement with the raven surgical robot
+Citations:67
+Authors: B Kehoe, G Kahn, J Mahler, J Kim, A Lee, A Lee, K Nakagawa, S Patil, ...
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 1432-1439
+
+104. Physical properties of the liver and the development of an intelligent manipulator for needle insertion
+Citations:59
+Authors: Y Kobayashi, J Okamoto, MG Fujie
+Publication: Proceedings of the 2005 IEEE International Conference on Robotics and …
+
+111. The limits and potentials of deep learning for robotics
+Citations:54
+Authors: N Sünderhauf, O Brock, W Scheirer, R Hadsell, D Fox, J Leitner, B Upcroft, ...
+Publication: The International Journal of Robotics Research 37 (4-5), 405-420
+
+117. A single-use haptic palpation probe for locating subcutaneous blood vessels in robot-assisted minimally invasive surgery
+Citations:48
+Authors: S McKinley, A Garg, S Sen, R Kapadia, A Murali, K Nichols, S Lim, S Patil, ...
+Publication: 2015 IEEE International Conference on Automation Science and Engineering …
+
+120. Learning accurate kinematic control of cable-driven surgical robots using data cleaning and gaussian process regression
+Citations:47
+Authors: J Mahler, S Krishnan, M Laskey, S Sen, A Murali, B Kehoe, S Patil, ...
+Publication: 2014 IEEE International Conference on Automation Science and Engineering …
+
+122. scalable SQL
+Citations:43
+Authors: M Rys
+Publication: Communications of the ACM 54 (6), 48-53
+
+132. Variance reduction for policy gradient with action-dependent factorized baselines
+Citations:35
+Authors: C Wu, A Rajeswaran, Y Duan, V Kumar, AM Bayen, S Kakade, I Mordatch, ...
+Publication: arXiv preprint arXiv:1803.07246
+
+133. Domain randomization and generative models for robotic grasping
+Citations:34
+Authors: J Tobin, L Biewald, R Duan, M Andrychowicz, A Handa, V Kumar, ...
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+141. Deep reinforcement learning for tensegrity robot locomotion
+Citations:32
+Authors: M Zhang, X Geng, J Bruce, K Caluwaerts, M Vespignani, V SunSpiral, ...
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 634-641
+
+144. Soft actor-critic algorithms and applications
+Citations:31
+Authors: T Haarnoja, A Zhou, K Hartikainen, G Tucker, S Ha, J Tan, V Kumar, ...
+Publication: arXiv preprint arXiv:1812.05905
+
+150. Learning predictive models of a depth camera & manipulator from raw execution traces
+Citations:30
+Authors: B Boots, A Byravan, D Fox
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 4021-4028
+
+164. Multi-armed bandit models for 2d grasp planning with uncertainty
+Citations:26
+Authors: M Laskey, J Mahler, Z McCarthy, FT Pokorny, S Patil, J Van Den Berg, ...
+Publication: 2015 IEEE International Conference on Automation Science and Engineering …
+
+166. Sigma hulls for gaussian belief space planning for imprecise articulated robots amid obstacles
+Citations:25
+Authors: A Lee, Y Duan, S Patil, J Schulman, Z McCarthy, J Van Den Berg, ...
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+175. Bilateral teleoperation of groups of UAVs with decentralized connectivity maintenance
+Citations:24
+Authors: PR Giordano, A Franchi, C Secchi, HH Bülthoff
+Publication: MIT Press
+
+181. Deciphering the role of a coleopteran steering muscle via free flight stimulation
+Citations:21
+Authors: H Sato, TTV Doan, S Kolev, NA Huynh, C Zhang, TL Massey, J Van Kleef, ...
+Publication: Current Biology 25 (6), 798-803
+
+190. A biological micro actuator: graded and closed-loop control of insect leg motion by electrical stimulation of muscles
+Citations:18
+Authors: F Cao, C Zhang, TTV Doan, Y Li, DH Sangi, JS Koh, NA Huynh, MFB Aziz, ...
+Publication: PloS one 9 (8), e105389
+
+202. Negative differential thermal conductance and heat amplification in a nonequilibrium triangle-coupled spin-boson system at strong coupling
+Citations:15
+Authors: C Wang, XM Chen, KW Sun, J Ren
+Publication: arXiv preprint arXiv:1711.00204
+
+211. Guided search for task and motion plans using learned heuristics
+Citations:12
+Authors: R Chitnis, D Hadfield-Menell, A Gupta, S Srivastava, E Groshev, C Lin, ...
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 447-454
+
+214. Optimizing expectations: From deep reinforcement learning to stochastic computation graphs
+Citations:11
+Authors: J Schulman
+Publication: UC Berkeley
+
+246. Quasi-direct drive for low-cost compliant robotic manipulation
+Citations:3
+Authors: DV Gealy, S McKinley, B Yi, P Wu, PR Downey, G Balke, A Zhao, M Guo, ...
+Publication: arXiv preprint arXiv:1904.03815
+
+253. Patient-specific temporary implants for accurately guiding local means of tumor control along patient-specific internal channels to treat cancer
+Citations:3
+Authors: J Pouliot, K Goldberg, IC Hsu, JAM CHNHA, G Animesh, S Patel, ...
+Publication: US Patent App. 14/907,679
+
+262. Budgeted multi-armed bandit models for sample-based grasp planning in the presence of uncertainty
+Citations:2
+Authors: M Laskey, Z McCarthy, J Mahler, FT Pokorny, S Patil, J Van Den Berg, ...
+Publication: IEEE ICRA
+
+283. Real-time estimation of distributed parameters systems: Applicaton to traffic monitoring
+Citations:1
+Authors: DB Work
+Publication: UC Berkeley
+
+302. CSIndexbr: Exploring the Brazilian Scientific Production in Computer Science
+Citations:
+Authors: MT Valente, K Paixão
+Publication: arXiv preprint arXiv:1807.09266
+
+305. YCB Benchmarking Project: Object Set, Data Set and Their Applications
+Citations:
+Authors: B CALLI, A SINGH, J BRUCE, A WALSMAN, K KONOLIGE, ...
+Publication: Journal of The Society of Instrument and Control Engineers 56 (10), 792-797
+
+307. Sequential Quadratic Programming for Task Plan Optimization
+Citations:
+Authors: C Lin
+Publication: ICAPS Workshop on Planning and Robotics (PlanRob)
+
+319. Robotics: Science and Systems VI
+Citations:
+Authors: R Maladen, Y Ding, P Umbanhowar, A Kamor, D Goldman, P Sreetharan, ...
+Publication: MIT Press
+
+335. ROBOTICS
+Citations:
+Authors: C Belta, M Bennewitz, J Buchli, T Drummond, D Goldman, K Hauser, ...
+Publication: 
+
+341. OPTIMIZATION-BASED COOPERATIVE MULTI-ROBOT TARGET TRACKING WITH REASONING ABOUT OCCLUSIONS
+Citations:
+Authors: K HAUSMAN, G KAHN, S PATIL, J MÜLLER, KEN GOLDBERG, ...
+Publication: 
+
+342. Multi-Arm Bandit Models for 2D Sample Based Grasp Planning with Uncertainty [v 16]
+Citations:
+Authors: M Laskey, J Mahler, Z McCarthy, FT Pokorny, S Patil, J van den Berg, ...
+Publication: 
+
+352. Gaussian Belief Space Planning for Articulated Robots
+Citations:
+Authors: ALSPJ Schulman, ZMCJ van den Berg, KGP Abbeel
+Publication: 

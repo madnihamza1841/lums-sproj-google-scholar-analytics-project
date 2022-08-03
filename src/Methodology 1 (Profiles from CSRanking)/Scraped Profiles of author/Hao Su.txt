@@ -1,0 +1,363 @@
+https://scholar.google.com/citations?hl=en&user=1P8Zu04AAAAJ
+Total Citations = 19186
+
+1. ImageNet Large Scale Visual Recognition Challenge
+Citations:11843
+Authors: O Russakovsky, J Deng, H Su, J Krause, S Satheesh, S Ma, Z Huang, ...
+Publication: IJCV
+
+2. Pointnet: Deep learning on point sets for 3d classification and segmentation
+Citations:1208
+Authors: CR Qi, H Su, K Mo, LJ Guibas
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+3. Object bank: A high-level image representation for scene classification & semantic feature sparsification
+Citations:1075
+Authors: H Su, LJ Li, L Fei-Fei, EP Xing
+Publication: Advances in neural information processing systems, 1378-1386
+
+4. Shapenet: An information-rich 3d model repository
+Citations:809
+Authors: AX Chang, T Funkhouser, L Guibas, P Hanrahan, Q Huang, Z Li, ...
+Publication: arXiv preprint arXiv:1512.03012
+
+5. Pointnet++: Deep hierarchical feature learning on point sets in a metric space
+Citations:668
+Authors: CR Qi, L Yi, H Su, LJ Guibas
+Publication: Advances in neural information processing systems, 5099-5108
+
+6. Volumetric and multi-view cnns for object classification on 3d data
+Citations:491
+Authors: H Su, CR Qi, M Nießner, A Dai, M Yan, LJ Guibas
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+7. Render for cnn: Viewpoint estimation in images using cnns trained with rendered 3d model views
+Citations:384
+Authors: H Su, CR Qi, Y Li, LJ Guibas
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 2686-2694
+
+8. A point set generation network for 3d object reconstruction from a single image
+Citations:300
+Authors: H Fan, H Su, LJ Guibas
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+9. Frustum pointnets for 3d object detection from rgb-d data
+Citations:211
+Authors: CR Qi, W Liu, C Wu, H Su, LJ Guibas
+Publication: CVPR
+
+10. Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories
+Citations:191
+Authors: H Su, M Sun, L Fei-Fei, S Savarese
+Publication: 2009 IEEE 12th International Conference on Computer Vision, 213-220
+
+11. Objects as attributes for scene classification
+Citations:160
+Authors: H Su, LJ Li, Y Lim, L Fei-Fei
+Publication: Trends and Topics in Computer Vision, 57-69
+
+12. A scalable active framework for region annotation in 3d shape collections
+Citations:146
+Authors: L Yi, VG Kim, D Ceylan, I Shen, M Yan, H Su, C Lu, Q Huang, A Sheffer, ...
+Publication: ACM Transactions on Graphics (TOG) 35 (6), 210
+
+13. Syncspeccnn: Synchronized spectral cnn for 3d shape segmentation
+Citations:142
+Authors: L Yi, H Su, X Guo, LJ Guibas
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+14. Crowdsourcing annotations for visual object detection
+Citations:137
+Authors: H Su, J Deng, L Fei-Fei
+Publication: Workshops at the Twenty-Sixth AAAI Conference on Artificial Intelligence
+
+15. A multi-view probabilistic model for 3d object classes
+Citations:135
+Authors: H Su, M Sun, S Savarese, L Fei-Fei
+Publication: Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on …
+
+16. Synthesizing training images for boosting human 3d pose estimation
+Citations:127
+Authors: W Chen, H Wang, Y Li, H Su, Z Wang, C Tu, D Lischinski, D Cohen-Or, ...
+Publication: 2016 Fourth International Conference on 3D Vision (3DV), 479-488
+
+17. Fpnn: Field probing neural networks for 3d data
+Citations:125
+Authors: Y Li, S Pirk, H Su, CR Qi, LJ Guibas
+Publication: Advances in Neural Information Processing Systems, 307-315
+
+18. Joint embeddings of shapes and images via cnn image purification
+Citations:112
+Authors: H Su, Y Li, CR Qi, N Fish, D Cohen-Or, LJ Guibas
+Publication: ACM Transactions on Graphics (TOG) 34 (6), 234
+
+19. Objectnet3d: A large scale database for 3d object recognition
+Citations:106
+Authors: Y Xiang, W Kim, W Chen, J Ji, C Choy, H Su, R Mottaghi, L Guibas, ...
+Publication: European Conference on Computer Vision, 160-176
+
+20. Estimating Image Depth using Shape Collection
+Citations:83
+Authors: H Su, Q Huang, N Mitra, Y Li, L Guibas
+Publication: Transaction of Graphics
+
+21. Shrec16 track: largescale 3d shape retrieval from shapenet core55
+Citations:74
+Authors: M Savva, F Yu, H Su, M Aono, B Chen, D Cohen-Or, W Deng, H Su, S Bai, ...
+Publication: Proceedings of the eurographics workshop on 3D object retrieval, 89-98
+
+22. Learning shape abstractions by assembling volumetric primitives
+Citations:63
+Authors: S Tulsiani, H Su, LJ Guibas, AA Efros, J Malik
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+23. Fine-Grained Semi-Supervised Labeling of Large Shape Collections
+Citations:53
+Authors: QX Huang, H Su, L Guibas
+Publication: SIGGRAPH ASIA 2013
+
+24. Imagenet large scale visual recognition competition 2012 (ILSVRC2012)
+Citations:52
+Authors: J Deng, A Berg, S Satheesh, H Su, A Khosla, L Fei-Fei
+Publication: Google Scholar
+
+25. Learning non-lambertian object intrinsics across shapenet categories
+Citations:48
+Authors: J Shi, Y Dong, H Su, SX Yu
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+26. 3D-assisted feature synthesis for novel views of an object
+Citations:36
+Authors: H Su, F Wang, E Yi, LJ Guibas
+Publication: Proceedings of the IEEE International Conference on Computer Vision, 2677-2685
+
+27. Multilinear hyperplane hashing
+Citations:32
+Authors: X Liu, X Fan, C Deng, Z Li, H Su, D Tao
+Publication: Proceedings of the IEEE conference on computer vision and pattern …
+
+28. Construction and analysis of a large scale image ontology
+Citations:32
+Authors: J Deng, K Li, M Do, H Su, L Fei-Fei
+Publication: Vision Sciences Society 186 (2)
+
+29. Reverse Top-k Search using Random Walk with Restart
+Citations:29
+Authors: AW Yu, N Mamoulis, H Su
+Publication: VLDB 2014
+
+30. Complementme: Weakly-supervised component suggestions for 3d modeling
+Citations:24
+Authors: M Sung, H Su, VG Kim, S Chaudhuri, L Guibas
+Publication: ACM Transactions on Graphics (TOG) 36 (6), 226
+
+31. 3d attention-driven depth acquisition for object identification
+Citations:22
+Authors: K Xu, Y Shi, L Zheng, J Zhang, M Liu, H Huang, H Su, D Cohen-Or, ...
+Publication: ACM Transactions on Graphics (TOG) 35 (6), 238
+
+32. Pathlet Learning for Compressing and Planning Trajectories
+Citations:20
+Authors: C Chen, H Su, Q Huang, L Zhang, L Guibas
+Publication: SIGSPATIAL 2013
+
+33. Large scale visual recognition challenge
+Citations:20
+Authors: J Deng, A Berg, S Satheesh, H Su, A Khosla, FF Li
+Publication: www. image-net. org/challenges/LSVRC/2012 1
+
+34. Learning hierarchical shape segmentation and labeling from online repositories
+Citations:19
+Authors: L Yi, L Guibas, A Hertzmann, VG Kim, H Su, E Yumer
+Publication: Transaction of Graphics
+
+35. Geometry guided convolutional neural networks for self-supervised video representation learning
+Citations:18
+Authors: C Gan, B Gong, K Liu, H Su, LJ Guibas
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+36. Adaptive Binary Quantization for Fast Nearest Neighbor Search
+Citations:18
+Authors: Z Li, X Liu, J Wu, H Su
+Publication: ECAI
+
+37. Large-scale 3d shape reconstruction and segmentation from shapenet core55
+Citations:17
+Authors: L Yi, L Shao, M Savva, H Huang, Y Zhou, Q Wang, B Graham, M Engelcke, ...
+Publication: arXiv preprint arXiv:1710.06104
+
+38. Efficient Euclidean Projections onto the Intersection of Norm Balls
+Citations:17
+Authors: H Su, WY Adams, L Fei-Fei
+Publication: Proceedings of the 29th International Conference on Machine Learning (ICML …
+
+39. A kernel based structure matching for web services search
+Citations:17
+Authors: Y Jianjun, G Shengmin, S Hao, Z Hui, X Ke
+Publication: Proceedings of the 16th international conference on World Wide Web, 1249-1250
+
+40. Unsupervised texture transfer from images to model collections.
+Citations:13
+Authors: TY Wang, H Su, Q Huang, J Huang, LJ Guibas, NJ Mitra
+Publication: ACM Trans. Graph. 35 (6), 177:1-177:13
+
+41. SNet: skip graph based semantic web services discovery
+Citations:13
+Authors: J Yu, H Su, G Zhou, K Xu
+Publication: Proceedings of the 2007 ACM symposium on Applied computing, 1393-1397
+
+42. Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?
+Citations:10
+Authors: S Zhu, X Dong, H Su
+Publication: CVPR 2019
+
+43. Catalytic mechanism of acetolactate decarboxylase from Brevibacillus brevis towards both enantiomers of α-acetolactate
+Citations:9
+Authors: C Zhao, H Su, Y Liu
+Publication: RSC Advances 6 (84), 80621-80629
+
+44. View extrapolation of human body from a single image
+Citations:8
+Authors: H Zhu, H Su, P Wang, X Cao, R Yang
+Publication: Proceedings of the IEEE Conference on Computer Vision and Pattern …
+
+45. PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding
+Citations:7
+Authors: K Mo, S Zhu, AX Chang, L Yi, S Tripathi, LJ Guibas, H Su
+Publication: CVPR 2019
+
+46. Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions
+Citations:7
+Authors: M Sung, H Su, R Yu, L Guibas
+Publication: NIPS
+
+47. Multi-level structured image coding on high-dimensional image representation
+Citations:7
+Authors: LJ Li, J Zhu, H Su, EP Xing, L Fei-Fei
+Publication: Asian Conference on Computer Vision, 147-161
+
+48. Robust watertight manifold surface generation method for shapenet models
+Citations:6
+Authors: J Huang, H Su, L Guibas
+Publication: arXiv preprint arXiv:1802.01698
+
+49. Beyond Holistic Object Recognition: Enriching Image Understanding with Part States
+Citations:6
+Authors: C Lu, H Su, Y Li, Y Lu, L Yi, CK Tang, LJ Guibas
+Publication: CVPR
+
+50. Large-scale 3D shape retrieval from ShapeNet Core55: SHREC'17 track
+Citations:5
+Authors: M Savva, F Yu, H Su, A Kanezaki, T Furuya, R Ohbuchi, Z Zhou, R Yu, ...
+Publication: Proceedings of the Workshop on 3D Object Retrieval, 39-50
+
+51. Deep Part Induction from Articulated Object Pairs
+Citations:4
+Authors: L Yi, H Huang, D Liu, E Kalogerakis, H Su, L Guibas
+Publication: SIGGRAPH Asia
+
+52. Cross-modal attribute transfer for rescaling 3D models
+Citations:4
+Authors: L Shao, AX Chang, H Su, M Savva, L Guibas
+Publication: 2017 International Conference on 3D Vision (3DV), 640-648
+
+53. Web services publishing and discovery on peer-to-peer overlay
+Citations:4
+Authors: JJ Yu, R Chen, H Su, S Guo
+Publication: 2006 IEEE Asia-Pacific Conference on Services Computing (APSCC'06), 329-334
+
+54. ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving
+Citations:3
+Authors: X Song, P Wang, D Zhou, R Zhu, C Guan, Y Dai, H Su, H Li, R Yang
+Publication: CVPR 2019
+
+55. Method for Implementing a High-Level Image Representation for Image Analysis
+Citations:3
+Authors: L Fei-Fei, LJ Li, H Su
+Publication: US Patent App. 12/960,467
+
+56. Deepspline: Data-driven reconstruction of parametric curves and surfaces
+Citations:2
+Authors: J Gao, C Tang, V Ganapathi-Subramanian, J Huang, H Su, LJ Guibas
+Publication: arXiv preprint arXiv:1901.03781
+
+57. Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers
+Citations:2
+Authors: D Liu, R Yu, H Su
+Publication: arXiv preprint arXiv:1901.03006
+
+58. Towards Fast and Energy-Efficient Binarized Neural Network Inference on FPGA
+Citations:2
+Authors: C Fu, S Zhu, H Su, CE Lee, J Zhao
+Publication: FPGA
+
+59. Density estimation via discrepancy
+Citations:2
+Authors: K Yang, H Su, WH Wang
+Publication: arXiv preprint arXiv:1509.06831
+
+60. co-BPM: a Bayesian Model for Estimating Divergence and Distance of Distributions
+Citations:2
+Authors: K Yang, H Su, WH Wong
+Publication: arXiv:1410.0726
+
+61. Adversarial Defense by Stratified Convolutional Sparse Coding
+Citations:1
+Authors: B Sun, N Tsai, F Liu, R Yu, H Su
+Publication: CVPR 2019
+
+62. Probabilistic modeling of scenes using object frames
+Citations:1
+Authors: H Su, AW Yu
+Publication: Science China Information Sciences 58 (3), 1-13
+
+63. Construction and Analysis of a Large Scale Image Ontology
+Citations:1
+Authors: L Fei-Fei, H Su, M Do, K Li, J Deng
+Publication: 
+
+64. Mapping State Space using Landmarks for Universal Goal Reaching
+Citations:
+Authors: Z Huang, F Liu, H Su
+Publication: arXiv preprint arXiv:1908.05451
+
+65. Point-Based Multi-View Stereo Network
+Citations:
+Authors: R Chen, S Han, J Xu, H Su
+Publication: arXiv preprint arXiv:1908.04422
+
+66. StructureNet: Hierarchical Graph Networks for 3D Shape Generation
+Citations:
+Authors: K Mo, P Guerrero, L Yi, H Su, P Wonka, N Mitra, LJ Guibas
+Publication: arXiv preprint arXiv:1908.00575
+
+67. Deep view synthesis from sparse photometric images
+Citations:
+Authors: Z Xu, S Bi, K Sunkavalli, S Hadap, H Su, R Ramamoorthi
+Publication: ACM Transactions on Graphics (TOG) 38 (4), 76
+
+68. SimBNN: A Similarity-Aware Binarized Neural Network Acceleration Framework
+Citations:
+Authors: C Fu, S Zhu, H Chen, F Koushanfar, H Su, J Zhao
+Publication: 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …
+
+69. A Main/Subsidiary Network Framework for Simplifying Binary Neural Network
+Citations:
+Authors: Y Xu, X Dong, Y Li, H Su
+Publication: CVPR 2019
+
+70. DeepPrimitive: Image decomposition by layered primitive detection
+Citations:
+Authors: J Huang, J Gao, V Ganapathi-Subramanian, H Su, Y Liu, C Tang, ...
+Publication: Computational Visual Media 4 (4), 385-397
+
+71. Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning
+Citations:
+Authors: X Liu, T Mu, H Su
+Publication: 
+
+72. Generating Chinese language banners
+Citations:
+Authors: L Jiang, M Zhou, S Hao
+Publication: US Patent 8,000,955
+

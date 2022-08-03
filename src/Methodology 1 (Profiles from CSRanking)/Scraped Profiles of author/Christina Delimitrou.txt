@@ -1,0 +1,288 @@
+https://scholar.google.com/citations?hl=en&user=OziQjUsAAAAJ
+Total Citations = 1666
+
+1. Quasar: Resource-Efficient and QoS-Aware Cluster Management
+Citations:571
+Authors: C Delimitrou, C Kozyrakis
+Publication: International Conference on Architectural Support for Programming Languages …
+
+2. Paragon: QoS-aware scheduling for heterogeneous datacenters
+Citations:488
+Authors: C Delimitrou, C Kozyrakis
+Publication: ACM SIGPLAN Notices 48 (4), 77-88
+
+3. Tarcil: High Quality and Low Latency Scheduling in Large, Shared Clusters
+Citations:89
+Authors: C Delimitrou, D Sanchez, C Kozyrakis
+Publication: Stanford Computer Science Technical Report
+
+4. Tarcil: Reconciling Scheduling Speed and Quality in Large, Shared Clusters
+Citations:87
+Authors: C Delimitrou, D Sanchez, C Kozyrakis
+Publication: ACM Symposium on Cloud Computing (SOCC)
+
+5. QoS-Aware Scheduling in Heterogeneous Datacenters with Paragon
+Citations:71
+Authors: C Delimitrou, C Kozyrakis
+Publication: ACM Transactions on Computer Systems (TOCS) 31 (4), 248-259
+
+6. iBench: Quantifying Interference for Datacenter Applications
+Citations:65
+Authors: C Delimitrou, C Kozyrakis
+Publication: IEEE International Symposium on Workload Characterization (IISWC)
+
+7. Automatic Generation of Efficient Accelerators for Reconfigurable Hardware
+Citations:60
+Authors: D Koeplinger, R Prabhakar, C Delimitrou, C Kozyrakis, Y Zhang, ...
+Publication: International Symposium in Computer Architecture (ISCA)
+
+8. HCloud: Resource-Efficient Provisioning in Shared Cloud Systems
+Citations:60
+Authors: C Delimitrou, C Kozyrakis
+Publication: Twenty First International Conference on Architectural Support for …
+
+9. ECHO: Recreating network traffic maps for datacenters with tens of thousands of servers
+Citations:28
+Authors: C Delimitrou, S Sankar, A Kansal, C Kozyrakis
+Publication: 2012 IEEE International Symposium on Workload Characterization (IISWC), 14-24
+
+10. Quality-of-service-aware scheduling in heterogeneous data centers with paragon
+Citations:26
+Authors: C Delimitrou, C Kozyrakis
+Publication: IEEE Micro 34 (3), 17-30
+
+11. Decoupling datacenter studies from access to large-scale applications: A modeling approach for storage workloads
+Citations:26
+Authors: C Delimitrou, S Sankar, K Vaid, C Kozyrakis
+Publication: IEEE Computer Architecture Letters (CAL), 1-1
+
+12. Decoupling Datacenter Studies from Access to Large-Scale Applications: A Modeling Approach for Storage Workloads
+Citations:20
+Authors: C Delimitrou, S Sankar, K Vaid, C Kozyrakis
+Publication: 2011 IEEE International Symposium on Workload Characterization (IISWC)
+
+13. Bolt: I know what you did last summer... in the cloud
+Citations:19
+Authors: C Delimitrou, C Kozyrakis
+Publication: Proceedings of the Twenty-Second International Conference on Architectural …
+
+14. DRAF: A Low-Power DRAM-based Reconfigurable Acceleration Fabric
+Citations:15
+Authors: M Gao, C Delimitrou, D Niu, KT Malladi, H Zheng, B Brennan, C Kozyrakis
+Publication: International Symposium in Computer Architecture (ISCA)
+
+15. Accurate Modeling and Generation of Storage I/O for Datacenter Workloads
+Citations:15
+Authors: C Delimitrou, S Sankar, K Vaid, C Kozyrakis
+Publication: Proceedings of the 2nd Workshop on Exascale Evaluation and Research …
+
+16. The Netflix Challenge: Datacenter Edition
+Citations:15
+Authors: C Delimitrou, C Kozyrakis
+Publication: IEEE Computer Society
+
+17. Amdahl's law for tail latency
+Citations:14
+Authors: C Delimitrou, C Kozyrakis
+Publication: Communications of the ACM 61 (8), 65-72
+
+18. The Architectural Implications of Cloud Microservices
+Citations:14
+Authors: Y Gan, C Delimitrou
+Publication: IEEE Computer Architecture Letters 17 (2), 155-158
+
+19. QoS-Aware Admission Control in Heterogeneous Datacenters
+Citations:14
+Authors: C Delimitrou, N Bambos, C Kozyrakis
+Publication: International Conference on Autonomic Computing (ICAC)
+
+20. An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems
+Citations:13
+Authors: Y Gan, Y Zhang, D Cheng, A Shetty, P Rathi, N Katarki, A Bruno, J Hu, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+21. Workload Characterization of Interactive Cloud Services on Big and Small Server Platforms
+Citations:11
+Authors: S Chen, S GalOn, C Delimitrou, S Manne, JF Martınez
+Publication: IISWC
+
+22. Optimizing Resource Provisioning in Shared Cloud Systems
+Citations:9
+Authors: C Delimitrou, C Kozyrakis
+Publication: 
+
+23. Time and Cost-Efficient Modeling and Generation of Large-Scale TPCC/TPCE/TPCH Workloads
+Citations:9
+Authors: C Delimitrou, S Sankar, B Khessib, K Vaid, C Kozyrakis
+Publication: 
+
+24. Cross-examination of datacenter workload modeling techniques
+Citations:6
+Authors: C Delimitrou, C Kozyrakis
+Publication: 2011 31st International Conference on Distributed Computing Systems …
+
+25. Seer: leveraging big data to navigate the complexity of cloud debugging
+Citations:5
+Authors: Y Gan, M Pancholi, D Cheng, S Hu, Y He, C Delimitrou
+Publication: Proceedings of the 10th USENIX Conference on Hot Topics in Cloud Computing …
+
+26. Storage I/O generation and replay for datacenter applications
+Citations:5
+Authors: C Delimitrou, S Sankar, K Vaid, C Kozyrakis
+Publication: (IEEE ISPASS) IEEE International Symposium on Performance Analysis of …
+
+27. Improving Resource Efficiency in Cloud Computing
+Citations:4
+Authors: C Delimitrou
+Publication: Stanford University
+
+28. Improving Resource Efficiency in Cluster Management
+Citations:4
+Authors: C Delimitrou, C Kozyrakis
+Publication: Computer Forum Poster
+
+29. X-containers: Breaking down barriers to improve performance and isolation of cloud-native containers
+Citations:3
+Authors: Z Shen, Z Sun, GE Sela, E Bagdasaryan, C Delimitrou, R Van Renesse, ...
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+30. Security Implications of Data Mining in Cloud Scheduling
+Citations:3
+Authors: C Delimitrou, C Kozyrakis
+Publication: Computer Architecture Letters (CAL)
+
+31. The Netflix Challenge: Datacenter Edition. Los Alamitos, CA, USA, July 2012
+Citations:3
+Authors: C Delimitrou, C Kozyrakis
+Publication: IEEE Computer Society
+
+32. Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices
+Citations:2
+Authors: Y Gan, Y Zhang, K Hu, D Cheng, Y He, M Pancholi, C Delimitrou
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+33. Mage: Online Interference-Aware Scheduling in Multi-Scale Heterogeneous Systems
+Citations:2
+Authors: F Romero, C Delimitrou
+Publication: arXiv preprint arXiv:1804.06462
+
+34. DRAF: A low-power DRAM-based reconfigurable acceleration fabric
+Citations:2
+Authors: M Gao, C Delimitrou, D Niu, KT Malladi, H Zheng, B Brennan, C Kozyrakis
+Publication: IEEE Micro 37 (3), 70-78
+
+35. PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services
+Citations:1
+Authors: S Chen, C Delimitrou, JF Martínez
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+36. The tears of Donald Knuth.
+Citations:1
+Authors: T Haigh
+Publication: Commun. ACM 58 (1), 40-44
+
+37. Leveraging Deep Learning to Improve Performance Predictability in Cloud Microservices with Seer
+Citations:
+Authors: Y Gan, Y Zhang, K Hu, D Cheng, Y He, M Pancholi, C Delimitrou
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 34-39
+
+38. An Open-Source Benchmark Suite for Cloud and IoT Microservices
+Citations:
+Authors: Y Gan, Y Zhang, D Cheng, A Shetty, P Rathi, N Katarki, A Bruno, J Hu, ...
+Publication: arXiv preprint arXiv:1905.11055
+
+39. Leveraging Deep Learning to Improve the Performance Predictability of Cloud Microservices
+Citations:
+Authors: Y Gan, Y Zhang, K Hu, D Cheng, Y He, M Pancholi, C Delimitrou
+Publication: arXiv preprint arXiv:1905.00968
+
+40. µqSim: Enabling Accurate and Scalable Simulation for Interactive Microservices
+Citations:
+Authors: Y Zhang, Y Gan, C Delimitrou
+Publication: 2019 IEEE International Symposium on Performance Analysis of Systems and …
+
+41. Pliant: Leveraging Approximation to Improve Datacenter Resource Efficiency
+Citations:
+Authors: N Kulkarni, F Qi, C Delimitrou
+Publication: HPCA
+
+42. Leveraging Approximation to Improve Datacenter Resource Efficiency
+Citations:
+Authors: N Kulkarni, F Qi, C Delimitrou
+Publication: IEEE Computer Architecture Letters 17 (2), 171-174
+
+43. The Architectural Implications of Microservices in the Cloud
+Citations:
+Authors: Y Gan, C Delimitrou
+Publication: arXiv preprint arXiv:1805.10351
+
+44. Uncovering the Security Implications of Cloud Multi-Tenancy with Bolt
+Citations:
+Authors: C Delimitrou, C Kozyrakis
+Publication: IEEE Micro 38 (3), 86-97
+
+45. To Centralize or Not to Centralize: A Tale of Swarm Coordination
+Citations:
+Authors: J Hu, A Bruno, D Zagieboylo, M Zhao, B Ritchken, B Jackson, JY Chae, ...
+Publication: arXiv preprint arXiv:1805.01786
+
+46. Seer: Leveraging Big Data to Navigate the Increasing Complexity of Cloud Debugging
+Citations:
+Authors: Y Gan, M Pancholi, D Cheng, S Hu, Y He, C Delimitrou
+Publication: USENIX HotCloud'18
+
+47. Pliant: Leveraging Approximation to Improve Cloud Resource Utilization
+Citations:
+Authors: N Kulkarni, F Qi, C Delimitrou
+Publication: arXiv preprint arXiv:1804.05671
+
+48. Leveraging Approximation to Improve Resource Efficiency in the Cloud
+Citations:
+Authors: N Kulkarni, F Qi, G Fernando, C Delimitrou
+Publication: WAX
+
+49. COMPUTER ARCHITECTURE LETTERS
+Citations:
+Authors: S Liang, S Yin, L Liu, Y Guo, S Wei, BCC Lai, LG Platero, HK Kuo, ...
+Publication: 
+
+50. Bolt: Uncovering and Reducing the Security Vulnerabilities of Shared Clouds
+Citations:
+Authors: C DELIMITROU, C KOZYRAKIS
+Publication: 
+
+51. ARQ: A Multi-Class Admission Control Protocol for Heterogeneous Datacenters
+Citations:
+Authors: C Delimitrou, N Bambos, C Kozyrakis
+Publication: Stanford Technical Report, 2013-002
+
+52. External Review Committee
+Citations:
+Authors: T Adegbija, S Aga, JH Ahn, I Akturk, DH Albonesi, E Altman, ...
+Publication: 
+
+53. IEEE Computer Architecture Letters
+Citations:
+Authors: Y Gan, C Delimitrou
+Publication: 
+
+54. MICRO 2018
+Citations:
+Authors: A Sampson, A Moshovos, A Lukefahr, A Zhai, A Coskun, C Lin, ...
+Publication: 
+
+55. ISCA 2018 Program Committee
+Citations:
+Authors: T Aamodt, D Albonesi, R Balasubramonian, Y Bao, B Beckmann, ...
+Publication: 
+
+56. 2012 Index IEEE Computer Architecture Letters Vol. 11
+Citations:
+Authors: EK Ardestani, J Chang, H Chen, J Chen, S Chen, X Chen, JM Codina, ...
+Publication: Energy 21, 24
+
+57. 2011 IEEE International Symposium on Performance Analysis of Systems and Software ISPASS 2011
+Citations:
+Authors: I Keynote
+Publication: 
+

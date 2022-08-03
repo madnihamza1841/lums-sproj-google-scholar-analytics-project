@@ -1,0 +1,1918 @@
+https://scholar.google.com/citations?hl=en&user=zdnAkgsAAAAJ
+Total Citations = 13312
+
+1. VARIUS: A model of process variation and resulting timing errors for microarchitects
+Citations:420
+Authors: SR Sarangi, B Greskamp, R Teodorescu, J Nakano, A Tiwari, J Torrellas
+Publication: IEEE Transactions on Semiconductor Manufacturing 21 (1), 3-13
+
+2. A chip-multiprocessor architecture with speculative multithreading
+Citations:394
+Authors: V Krishnan, J Torrellas
+Publication: IEEE Transactions on Computers 48 (9), 866-880
+
+3. Variation-aware application scheduling and power management for chip multiprocessors
+Citations:352
+Authors: R Teodorescu, J Torrellas
+Publication: ACM SIGARCH computer architecture news 36 (3), 363-374
+
+4. Bulk disambiguation of speculative threads in multiprocessors
+Citations:351
+Authors: L Ceze, J Tuck, J Torrellas, C Cascaval
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 227-238
+
+5. ReVive: cost-effective architectural support for rollback recovery in shared-memory multiprocessors
+Citations:311
+Authors: M Prvulovic, Z Zhang, J Torrellas
+Publication: Proceedings 29th Annual International Symposium on Computer Architecture …
+
+6. False sharing and spatial locality in multiprocessor caches
+Citations:281
+Authors: J Torrellas, HS Lam, JL Hennessy
+Publication: IEEE Transactions on Computers 43 (6), 651-663
+
+7. POSH: a TLS compiler that exploits program structure
+Citations:277
+Authors: W Liu, J Tuck, L Ceze, W Ahn, K Strauss, J Renau, J Torrellas
+Publication: Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …
+
+8. Cherry: Checkpointed early resource recycling in out-of-order microprocessors
+Citations:272
+Authors: J Martínez, J Renau, M Huang, M Prvulovic, J Torrellas
+Publication: Intl. Symp. on Microarchitecture (MICRO)
+
+9. Characterizing and predicting program behavior and its variability
+Citations:264
+Authors: E Duesterwald, C Cascaval, S Dwarkadas
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+10. Architectural support for scalable speculative parallelization in shared-memory multiprocessors
+Citations:264
+Authors: M Cintra, JF Martínez, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 28 (2), 13-24
+
+11. FlexRAM: Toward an advanced intelligent memory system
+Citations:261
+Authors: Y Kang, W Huang, SM Yoo, D Keen, Z Ge, V Lam, P Pattnaik, J Torrellas
+Publication: Proceedings 1999 IEEE International Conference on Computer Design: VLSI in …
+
+12. FlexRAM: Toward an advanced intelligent memory system
+Citations:261
+Authors: Y Kang, W Huang, SM Yoo, D Keen, Z Ge, V Lam, P Pattnaik, J Torrellas
+Publication: Computer Design (ICCD), 1999 IEEE International Conference on, 5-14
+
+13. BulkSC: bulk enforcement of sequential consistency
+Citations:259
+Authors: L Ceze, J Tuck, P Montesinos, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 278-289
+
+14. Speculative synchronization: applying thread-level speculation to explicitly parallel applications
+Citations:247
+Authors: JF Martínez, J Torrellas
+Publication: ACM SIGOPS Operating Systems Review 36 (5), 18-29
+
+15. Proving program termination
+Citations:243
+Authors: B Cook, A Podelski, A Rybalchenko
+Publication: Communications of the ACM 54 (5), 88-98
+
+16. Delorean: Recording and deterministically replaying shared-memory multiprocessor execution ef? ciently
+Citations:241
+Authors: P Montesinos, L Ceze, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 36 (3), 289-300
+
+17. Facelift: Hiding and slowing down aging in multicores
+Citations:239
+Authors: A Tiwari, J Torrellas
+Publication: Proceedings of the 41st annual IEEE/ACM International Symposium on …
+
+18. Positional adaptation of processors: application to energy reduction
+Citations:232
+Authors: MC Huang, J Renau, J Torrellas
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+19. A framework for dynamic energy efficiency and temperature management
+Citations:204
+Authors: M Huang, J Renau, SM Yoo, J Torrellas
+Publication: Proceedings 33rd Annual IEEE/ACM International Symposium on …
+
+20. Volumetric preload measurement by thermodilution: a comparison with transoesophageal echocardiography
+Citations:183
+Authors: CK Hofer, L Furrer, S Matter-Ensner, M Maloigne, R Klaghofer, M Genoni, ...
+Publication: British journal of anaesthesia 94 (6), 748-755
+
+21. ReEnact: Using thread-level speculation mechanisms to debug data races in multithreaded codes
+Citations:181
+Authors: M Prvulovic, J Torrellas
+Publication: 30th Annual International Symposium on Computer Architecture, 2003 …
+
+22. iWatcher: Efficient architectural support for software debugging
+Citations:180
+Authors: P Zhou, F Qin, W Liu, Y Zhou, J Torrellas
+Publication: Proceedings. 31st Annual International Symposium on Computer Architecture …
+
+23. Using a user-level memory thread for correlation prefetching
+Citations:173
+Authors: Y Solihin, J Lee, J Torrellas
+Publication: Proceedings 29th Annual International Symposium on Computer Architecture …
+
+24. ReCycle:: pipeline adaptation to tolerate process variation
+Citations:170
+Authors: A Tiwari, SR Sarangi, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 323-334
+
+25. AccMon: Automatically detecting memory-related bugs via program counter-based invariants
+Citations:162
+Authors: P Zhou, W Liu, L Fei, S Lu, F Qin, Y Zhou, S Midkiff, J Torrellas
+Publication: Proceedings of the 37th annual IEEE/ACM International Symposium on …
+
+26. Capo: a software-hardware interface for practical deterministic multiprocessor replay
+Citations:145
+Authors: P Montesinos, M Hicks, ST King, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 37 (1), 73-84
+
+27. An efficient algorithm for the run-time parallelization of doacross loops
+Citations:128
+Authors: DK Chen, J Torrellas, PC Yew
+Publication: Proceedings of the 1994 ACM/IEEE conference on Supercomputing, 518-527
+
+28. Characterizing the caching and synchronization performance of a multiprocessor operating system
+Citations:126
+Authors: J Torrellas, A Gupta, J Hennessy
+Publication: ACM SIGPLAN Notices 27 (9), 162-174
+
+29. Mitigating parameter variation with dynamic fine-grain body biasing
+Citations:121
+Authors: R Teodorescu, J Nakano, A Tiwari, J Torrellas
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+30. The Augmint multiprocessor simulation toolkit for Intel x86 architectures
+Citations:121
+Authors: AT Nguyen, M Michael, A Sharma, J Torrellas
+Publication: Proceedings International Conference on Computer Design. VLSI in Computers …
+
+31. The memory performance of DSS commercial workloads in shared-memory multiprocessors
+Citations:120
+Authors: P Trancoso, JL Larriba-Pey, Z Zhang, J Torrellas
+Publication: Proceedings Third International Symposium on High-Performance Computer …
+
+32. Hardware and software support for speculative execution of sequential binaries on a chip-multiprocessor
+Citations:119
+Authors: V Krishnan, J Torrellas
+Publication: International Conference on Supercomputing, 85-92
+
+33. Shared data placement optimizations to reduce multiprocessor cache miss rates
+Citations:118
+Authors: J Torrellas
+Publication: Proceedings of the 1990 International Conference on Parallel Processing, II …
+
+34. SigRace: signature-based data race detection
+Citations:110
+Authors: A Muzahid, D Suárez, S Qi, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 37 (3), 337-348
+
+35. Data Forwarding in Scalable Shared-Memory Multiprocessors
+Citations:109
+Authors: D Koufaty, X Chen, D Poulsen, J Torrellas
+Publication: International Conference on Supercomputing (ICS)
+
+36. Blueshift: Designing processors for timing speculation from the ground up.
+Citations:108
+Authors: B Greskamp, L Wan, UR Karpuzcu, JJ Cook, J Torrellas, D Chen, C Zilles
+Publication: 2009 IEEE 15th International Symposium on High Performance Computer …
+
+37. Hardware for speculative run-time parallelization in distributed shared-memory multiprocessors
+Citations:108
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+38. Tasking with out-of-order spawn in TLS chip multiprocessors: microarchitecture and compilation
+Citations:104
+Authors: J Renau, J Tuck, W Liu, L Ceze, K Strauss, J Torrellas
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+39. An efficient implementation of tree-based multicast routing for distributed shared-memory multiprocessors
+Citations:104
+Authors: MP Malumbres, J Duato, J Torrellas
+Publication: Proceedings of SPDP'96: 8th IEEE Symposium on Parallel and Distributed …
+
+40. Evaluating the performance of cache-affinity scheduling in shared-memory multiprocessors
+Citations:103
+Authors: J Torrellas, A Tucker, A Gupta
+Publication: Journal of Parallel and Distributed Computing 24 (2), 139-151
+
+41. Runnemede: An architecture for ubiquitous high-performance computing
+Citations:102
+Authors: NP Carter, A Agrawal, S Borkar, R Cledat, H David, D Dunning, J Fryman, ...
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+42. Paceline: Improving single-thread performance in nanoscale CMPs through core overclocking
+Citations:101
+Authors: B Greskamp, J Torrellas
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+43. Eliminating squashes through learning cross-thread violations in speculative parallelization for multiprocessors
+Citations:100
+Authors: M Cintra, J Torrellas
+Publication: Proceedings Eighth International Symposium on High Performance Computer …
+
+44. EVAL: Utilizing processors with variation-induced timing errors
+Citations:98
+Authors: S Sarangi, B Greskamp, A Tiwari, J Torrellas
+Publication: 2008 41st IEEE/ACM International Symposium on Microarchitecture, 423-434
+
+45. L1 data cache decomposition for energy efficiency
+Citations:96
+Authors: M Huang, J Renau, SM Yoo, J Torrellas
+Publication: ISLPED'01: Proceedings of the 2001 International Symposium on Low Power …
+
+46. The BubbleWrap many-core: popping cores for sequential acceleration
+Citations:95
+Authors: UR Karpuzcu, B Greskamp, J Torrellas
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+47. Speeding up irregular applications in shared-memory multiprocessors: Memory binding and group prefetching
+Citations:92
+Authors: Z Zhang, J Torrellas
+Publication: Proceedings 22nd Annual International Symposium on Computer Architecture …
+
+48. ReViveI/O: Efficient handling of I/O in highly-available rollback-recovery servers
+Citations:91
+Authors: J Nakano, P Montesinos, K Gharachorloo, J Torrellas
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+49. VARIUS-NTV: A microarchitectural model to capture the increased sensitivity of manycores to process variations at near-threshold voltages
+Citations:86
+Authors: UR Karpuzcu, KB Kolluru, NS Kim, J Torrellas
+Publication: IEEE/IFIP International Conference on Dependable Systems and Networks (DSN …
+
+50. Software trace cache
+Citations:85
+Authors: A Ramirez, JL Larriba-Pey, C Navarro, J Torrellas, M Valero
+Publication: Proceedings of the 13th international conference on Supercomputing, 119-126
+
+51. Optimizing instruction cache performance for operating system intensive workloads
+Citations:85
+Authors: J Torrellas, C Xia, R Daigle
+Publication: Proceedings of 1995 1st IEEE Symposium on High Performance Computer …
+
+52. Using register lifetime predictions to protect register files against soft errors
+Citations:84
+Authors: P Montesinos, W Liu, J Torrellas
+Publication: 37th Annual IEEE/IFIP International Conference on Dependable Systems and …
+
+53. Removing architectural bottlenecks to the scalability of speculative parallelization
+Citations:78
+Authors: M Prvulovic, MJ Garzarán, L Rauchwerger, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 29 (2), 204-215
+
+54. Reducing remote conflict misses: NUMA with remote cache versus COMA
+Citations:78
+Authors: Z Zhang, J Torrellas
+Publication: Proceedings Third International Symposium on High-Performance Computer …
+
+55. Multiple page size modeling and optimization
+Citations:71
+Authors: C Cascaval, E Duesterwald, PF Sweeney, RW Wisniewski
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+56. A direct-execution framework for fast and accurate simulation of superscalar processors
+Citations:71
+Authors: V Krishnan, J Torrellas
+Publication: Proceedings. 1998 International Conference on Parallel Architectures and …
+
+57. Energysmart: Toward energy-efficient manycores for near-threshold computing
+Citations:70
+Authors: UR Karpuzcu, A Sinkar, NS Kim, J Torrellas
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+58. Architectures for Extreme-Scale Computing
+Citations:70
+Authors: J Torrellas
+Publication: Computer 42 (11), 28-35
+
+59. Accurate and efficient filtering for the intel thread checker race detector
+Citations:68
+Authors: P Sack, BE Bliss, Z Ma, P Petersen, J Torrellas
+Publication: Proceedings of the 1st workshop on Architectural and system support for …
+
+60. Scalable cache miss handling for high memory-level parallelism
+Citations:65
+Authors: J Tuck, L Ceze, J Torrellas
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+61. Cadre: Cycle-accurate deterministic replay for hardware debugging
+Citations:64
+Authors: SR Sarangi, B Greskamp, J Torrellas
+Publication: International Conference on Dependable Systems and Networks (DSN'06), 301-312
+
+62. Flexible snooping: Adaptive forwarding and filtering of snoops in embedded-ring multiprocessors
+Citations:63
+Authors: K Strauss, X Shen, J Torrellas
+Publication: 33rd International Symposium on Computer Architecture (ISCA'06), 327-338
+
+63. Energy-efficient hybrid wakeup logic
+Citations:63
+Authors: M Huang, J Renau, J Torrellas
+Publication: Proceedings of the international symposium on low power electronics and …
+
+64. The Need for Fast Communication in Hardware-Based Speculative Chip Multiprocessors
+Citations:60
+Authors: V Krishnan, J Torrellas
+Publication: International Conference on Parallel Architectures and Compilation …
+
+65. BulkCompiler: high-performance sequential consistency through cooperative compiler and hardware support
+Citations:59
+Authors: W Ahn, S Qi, M Nicolaides, J Torrellas, JW Lee, X Fang, S Midkiff, D Wong
+Publication: Proceedings of the 42nd Annual IEEE/ACM International Symposium on …
+
+66. Mosaic: Exploiting the spatial locality of process variation to reduce refresh energy in on-chip eDRAM modules
+Citations:56
+Authors: A Agrawal, A Ansari, J Torrellas
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+67. Patching processor design errors with programmable hardware
+Citations:56
+Authors: S Sarangi, S Narayanasamy, B Carneal, A Tiwari, B Calder, J Torrellas
+Publication: IEEE micro 27 (1), 12-25
+
+68. Cache-only memory architectures
+Citations:56
+Authors: F Dahlgren, J Torrellas
+Publication: Computer 32 (6), 72-79
+
+69. Hardware for speculative parallelization of partially-parallel loops in DSM multiprocessors
+Citations:56
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: Proceedings Fifth International Symposium on High-Performance Computer …
+
+70. Tradeoffs in buffering speculative memory state for thread-level speculation in multiprocessors
+Citations:51
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 2 (3), 247-279
+
+71. Comparing the power and performance of Intel's SCC to state-of-the-art CPUs and GPUs
+Citations:50
+Authors: E Totoni, B Behzad, S Ghike, J Torrellas
+Publication: 2012 IEEE International Symposium on Performance Analysis of Systems …
+
+72. Improving JavaScript performance by deconstructing the type system
+Citations:49
+Authors: W Ahn, J Choi, T Shull, MJ Garzarán, J Torrellas
+Publication: ACM SIGPLAN Notices 49 (6), 496-507
+
+73. Phoenix: Detecting and recovering from permanent processor design bugs with programmable hardware
+Citations:49
+Authors: SR Sarangi, A Tiwari, J Torrellas
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+74. ReSlice: Selective Re-Execution of Long-Retired Misspeculated Instructions Using Forward Slicing
+Citations:49
+Authors: S Sarangi, W Liu, J Torrellas, Y Zhou
+Publication: Intl. Symp. on Microarchitecture (MICRO)
+
+75. Benefits of cache-affinity scheduling in shared-memory multiprocessors: A summary
+Citations:49
+Authors: J Torrellas, A Tucker, A Gupta
+Publication: ACM SIGMETRICS Performance Evaluation Review 21 (1), 272-274
+
+76. Tradeoffs in buffering memory state for thread-level speculation in multiprocessors
+Citations:48
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: The Ninth International Symposium on High-Performance Computer Architecture …
+
+77. Automatically Mapping Code on an Intelligent Memory Architecture
+Citations:48
+Authors: JL Lee, Y Solihin, J Torrellas
+Publication: Intl. Symp. on High Performance Computer Architecture (HPCA)
+
+78. Detailed characterization of a quad Pentium Pro server running TPC-D
+Citations:48
+Authors: Q Cao, P Trancoso, JL Larriba-Pey, J Torrellas, R Knighten, Y Won
+Publication: Proceedings 1999 IEEE International Conference on Computer Design: VLSI in …
+
+79. Coping with parametric variation at near-threshold voltages
+Citations:47
+Authors: UR Karpuzcu, NS Kim, J Torrellas
+Publication: IEEE Micro 33 (4), 6-14
+
+80. Programming the FlexRAM parallel intelligent memory system
+Citations:47
+Authors: BB Fraguela, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: ACM Sigplan Notices 38 (10), 49-60
+
+81. CAVA: Using checkpoint-assisted value prediction to hide L2 misses
+Citations:46
+Authors: L Ceze, K Strauss, J Tuck, J Torrellas, J Renau
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 3 (2), 182-208
+
+82. Refrint: Intelligent refresh to minimize power in on-chip multiprocessor cache hierarchies
+Citations:45
+Authors: A Agrawal, P Jain, A Ansari, J Torrellas
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+83. Atomtracker: A comprehensive approach to atomic region inference and violation detection
+Citations:45
+Authors: A Muzahid, N Otsuki, J Torrellas
+Publication: 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, 287-297
+
+84. Colorama: Architectural support for data-centric synchronization
+Citations:45
+Authors: L Ceze, P Montesinos, C Von Praun, J Torrellas
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+85. Uncorq: Unconstrained snoop request delivery in embedded-ring multiprocessors
+Citations:44
+Authors: K Strauss, X Shen, J Torrellas
+Publication: Proceedings of the 40th Annual IEEE/ACM International Symposium on …
+
+86. An efficient implementation of tree-based multicast routing for distributed shared-memory multiprocessors
+Citations:42
+Authors: MP Malumbres, J Duato, J Torrellas
+Publication: Journal of systems architecture 46 (11), 1019-1032
+
+87. SoftSig: software-exposed hardware signatures for code analysis and optimization
+Citations:41
+Authors: J Tuck, W Ahn, L Ceze, J Torrellas
+Publication: ACM Sigplan Notices 43 (3), 145-156
+
+88. Thread-level speculation on a CMP can be energy efficient
+Citations:41
+Authors: J Renau, K Strauss, L Ceze, W Liu, S Sarangi, J Tuck, J Torrellas
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+89. The impact of speeding up critical sections with data prefetching and forwarding
+Citations:40
+Authors: P Trancoso, J Torrellas
+Publication: Proceedings of the 1996 ICPP Workshop on Challenges for Parallel Processing …
+
+90. Augmint: a multiprocessor simulation environment for Intel x86 architectures
+Citations:40
+Authors: A Sharma, AT Nguyen, J Torellas, M Michael, J Carbajal
+Publication: Center for Supercomputing Research and Development (CSRD) Technical Report 1463
+
+91. Instruction prefetching of systems codes with layout optimized for reduced cache misses
+Citations:39
+Authors: C Xia, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 24 (2), 271-282
+
+92. Speculative Locks: Concurrent Execution of Critical Sections in Shared-Memory Multiprocessors
+Citations:38
+Authors: JF Martinez, J Torrellas
+Publication: High Performance Memory Systems, 11-24
+
+93. Energy-efficient thread-level speculation
+Citations:37
+Authors: J Renau, K Strauss, L Ceze, W Liu, SR Sarangi, J Tuck, J Torrellas
+Publication: IEEE Micro 26 (1), 80-91
+
+94. Efficient and flexible architectural support for dynamic monitoring
+Citations:37
+Authors: Y Zhou, P Zhou, F Qin, W Liu, J Torrellas
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 2 (1), 3-33
+
+95. QuickRec: prototyping an intel architecture extension for record and replay of multithreaded programs
+Citations:36
+Authors: G Pokam, K Danne, C Pereira, R Kassa, T Kranich, S Hu, J Gottschlich, ...
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 643-654
+
+96. Vulcan: Hardware support for detecting sequential consistency violations dynamically
+Citations:36
+Authors: A Muzahid, S Qi, J Torrellas
+Publication: 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, 363-375
+
+97. Using multiple input, multiple output formal control to maximize resource efficiency in architectures
+Citations:35
+Authors: RP Pothukuchi, A Ansari, P Voulgaris, J Torrellas
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+98. The Performance of the Cedar Multistage Switching Network
+Citations:35
+Authors: J Torrellas, Z Zheng
+Publication: Supercomputing
+
+99. Scal-tool: Pinpointing and quantifying scalability bottlenecks in dsm multiprocessors
+Citations:34
+Authors: J Torrellas, Y Solihin, V Lam
+Publication: SC'99: Proceedings of the 1999 ACM/IEEE Conference on Supercomputing, 17-17
+
+100. Light64: Lightweight hardware support for data race detection during systematic testing of parallel programs
+Citations:33
+Authors: A Nistor, D Marinov, J Torrellas
+Publication: 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture …
+
+101. OpenSPARC: An open platform for hardware reliability experimentation
+Citations:33
+Authors: I Parulkar, A Wood, JC Hoe, B Falsafi, SV Adve, J Torrellas, S Mitra
+Publication: Fourth Workshop on Silicon Errors in Logic-System Effects (SELSE), 1-6
+
+102. Two hardware-based approaches for deterministic multiprocessor replay
+Citations:32
+Authors: DR Hower, P Montesinos, L Ceze, MD Hill, J Torrellas
+Publication: Communications of the ACM 52 (6), 93-100
+
+103. Optimizing the instruction cache performance of the operating system
+Citations:32
+Authors: J Torrellas, C Xia, RL Daigle
+Publication: IEEE Transactions on Computers 47 (12), 1363-1381
+
+104. Tangle: Route-oriented dynamic voltage minimization for variation-afflicted, energy-efficient on-chip networks
+Citations:31
+Authors: A Ansari, A Mishra, J Xu, J Torrellas
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+105. Pathexpander: Architectural support for increasing the path coverage of dynamic bug detection
+Citations:31
+Authors: S Lu, P Zhou, W Liu, Y Zhou, J Torrellas
+Publication: Proceedings of the 39th Annual IEEE/ACM International Symposium on …
+
+106. Correlation prefetching with a user-level memory thread
+Citations:31
+Authors: Y Solihin, J Lee, J Torrellas
+Publication: IEEE Transactions on Parallel and Distributed Systems 14 (6), 563-580
+
+107. A clustered approach to multithreaded processors
+Citations:31
+Authors: V Krishnan, J Torrellas
+Publication: Proceedings of the First Merged International Parallel Processing Symposium …
+
+108. Secure hierarchy-aware cache replacement policy (SHARP): Defending against cache-based side channel attacks
+Citations:30
+Authors: M Yan, B Gopireddy, T Shull, J Torrellas
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+109. Architecture support system and method for memory monitoring
+Citations:30
+Authors: Y Zhou, J Torrellas, P Zhou
+Publication: US Patent 7,711,988
+
+110. The Bulk Multicore architecture for improved programmability
+Citations:30
+Authors: J Torrellas, L Ceze, J Tuck, C Cascaval, P Montesinos, W Ahn, ...
+Publication: ILLINOIS UNIV AT URBANA-CHAMPAIGN DEPT OF COMPUTER SCIENCE
+
+111. SWICH: A prototype for efficient cache-level checkpointing and rollback
+Citations:29
+Authors: R Teodorescu, J Nakano, J Torrellas
+Publication: IEEE Micro 26 (5), 28-40
+
+112. CAVA: Hiding L2 misses with checkpoint-assisted value prediction
+Citations:29
+Authors: L Ceze, K Strauss, J Tuck, J Renau, J Torrellas
+Publication: IEEE Computer Architecture Letters 3 (1), 7-7
+
+113. The Illinois aggressive coma multiprocessor project (I-ACOMA)
+Citations:29
+Authors: J Torrellas, D Padua
+Publication: Proceedings of 6th Symposium on the Frontiers of Massively Parallel …
+
+114. Rebound: scalable checkpointing for coherent shared memory
+Citations:28
+Authors: R Agarwal, P Garg, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 153-164
+
+115. Cyrus: unintrusive application-level record-replay for replay parallelism
+Citations:27
+Authors: N Honarmand, N Dautenhahn, J Torrellas, ST King, G Pokam, C Pereira
+Publication: ACM SIGPLAN Notices 48 (4), 193-206
+
+116. iwatcher: Simple, general architectural support for software debugging
+Citations:27
+Authors: P Zhou, F Uin, W Liu, Y Zhou, J Torrellas
+Publication: IEEE Micro 24 (6), 50-56
+
+117. Architectural support for parallel reductions in scalable shared-memory multiprocessors
+Citations:27
+Authors: MJ Garzarán, M Prvulovic, Y Zhang, A Jula, H Yu, L Rauchwerger, ...
+Publication: Proceedings 2001 International Conference on Parallel Architectures and …
+
+118. Exposing control of power and clock gating for software
+Citations:26
+Authors: NP Carter, JB Fryman, RC Knauerhase, AB Agrawal, J Torrellas
+Publication: US Patent App. 13/630,738
+
+119. Scalablebulk: Scalable cache coherence for atomic blocks in a lazy environment
+Citations:26
+Authors: X Qian, W Ahn, J Torrellas
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+120. Profile-based energy reduction in high-performance processors
+Citations:26
+Authors: M Huang, J Renau, J Torrellas
+Publication: 4th ACM Workshop on Feedback-Directed and Dynamic Optimization
+
+121. WeeFence: toward making fences free in TSO
+Citations:25
+Authors: Y Duan, A Muzahid, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 41 (3), 213-224
+
+122. Threshold voltage variation effects on aging-related hard failure rates
+Citations:25
+Authors: B Greskamp, SR Sarangi, J Torrellas
+Publication: 2007 IEEE International Symposium on Circuits and Systems, 1261-1264
+
+123. Estimating the Performance Advantages of Relaxing Consistency in a Shared-Memory Multiprocessor
+Citations:25
+Authors: J Torrellas, J Hennessy
+Publication: International Conference on Parallel Processing (ICPP)
+
+124. Analysis of Critical Architectural and Program Parameters in a Hierarchical Shared-Memory Multiprocessor
+Citations:25
+Authors: J Torrellas, J Hennessy, T Weil
+Publication: Sigmetrics
+
+125. Invisispec: Making speculative execution invisible in the cache hierarchy
+Citations:24
+Authors: M Yan, J Choi, D Skarlatos, A Morrison, C Fletcher, J Torrellas
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+126. Volition: scalable and precise sequential consistency violation detection
+Citations:24
+Authors: X Qian, J Torrellas, B Sahelices, D Qian
+Publication: ACM SIGARCH Computer Architecture News 41 (1), 535-548
+
+127. FlexRAM: Toward an advanced Intelligent Memory system: A retrospective paper
+Citations:24
+Authors: J Torrellas
+Publication: 2012 IEEE 30th International Conference on Computer Design (ICCD), 3-4
+
+128. Automatic code mapping on an intelligent memory architecture
+Citations:24
+Authors: Y Solihin, J Lee, J Torrellas
+Publication: IEEE Transactions on Computers 50 (11), 1248-1266
+
+129. Comparing data forwarding and prefetching for communication-induced misses in shared-memory mps
+Citations:24
+Authors: D Koufaty, J Torrellas
+Publication: International Conference on Supercomputing, 53-60
+
+130. Distance-adaptive update protocols for scalable shared-memory multiprocessors
+Citations:24
+Authors: A Raynaud, Z Zhang, J Torrellas
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+131. ReplayConfusion: detecting cache-based covert channel attacks using record and replay
+Citations:23
+Authors: M Yan, Y Shalabi, J Torrellas
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 39
+
+132. RelaxReplay: record and replay for relaxed-consistency multiprocessors
+Citations:21
+Authors: N Honarmand, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 42 (1), 223-238
+
+133. Pacman: Tolerating asymmetric data races with unintrusive hardware
+Citations:21
+Authors: S Qi, N Otsuki, LO Nogueira, A Muzahid, J Torrellas
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+134. HARDWARE AND SOFTWARE APPROACHES FOR DETERMINISTIC MULTI-PROCESSOR REPLAY OF CONCURRENT PROGRAMS.
+Citations:21
+Authors: G Pokam, C Pereira, K Danne, L Yang, S King, J Torrellas
+Publication: Intel Technology Journal 13 (4)
+
+135. Improving the performance of bristled CC-NUMA systems using virtual channels and adaptivity
+Citations:21
+Authors: JF Martínez, J Torrellas, J Duato
+Publication: International Conference on Supercomputing: Proceedings of the 13 th …
+
+136. On the multiplexing degree required to embed permutations in a class of networks with direct interconnects
+Citations:20
+Authors: C Qiao, Y Mei
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+137. WiSync: an architecture for fast synchronization through on-chip wireless communication
+Citations:19
+Authors: S Abadal, A Cabellos-Aparicio, E Alarcon, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 3-17
+
+138. Using an adaptive hpc runtime system to reconfigure the cache hierarchy
+Citations:19
+Authors: E Totoni, J Torrellas, LV Kale
+Publication: Proceedings of the International Conference for High Performance Computing …
+
+139. Measurement, analysis, and improvement of the cache behavior of shared data in cache coherent multiprocessors
+Citations:19
+Authors: J Torrellas, MS Lam, JL Hennessy
+Publication: Computer Systems Laboratory, Stanford University
+
+140. Concurrency control with data coloring
+Citations:18
+Authors: L Ceze, C Von Praun, C Caşcaval, P Montesinos, J Torrellas
+Publication: Proceedings of the 2008 ACM SIGPLAN workshop on Memory systems performance …
+
+141. Toward a cost-effective DSM organization that exploits processor-memory integration
+Citations:18
+Authors: J Torrellas, L Yang, AT Nguyen
+Publication: Proceedings Sixth International Symposium on High-Performance Computer …
+
+142. Optimization of instruction fetch for decision support workloads
+Citations:18
+Authors: A Ramirez, JL Larriba-Pey, C Navarro, X Serrano, M Valero, J Torrellas
+Publication: Proceedings of the 1999 International Conference on Parallel Processing, 238-245
+
+143. OrthoNoC: a broadcast-oriented dual-plane wireless network-on-chip architecture
+Citations:17
+Authors: S Abadal, J Torrellas, E Alarcón, A Cabellos-Aparicio
+Publication: IEEE Transactions on Parallel and Distributed Systems 29 (3), 628-641
+
+144. Replay debugging: leveraging record and replay for program debugging
+Citations:17
+Authors: N Honarmand, J Torrellas
+Publication: 2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA …
+
+145. Dynamically detecting and tolerating if-condition data races
+Citations:17
+Authors: S Qi, AA Muzahid, W Ahn, J Torrellas
+Publication: 2014 IEEE 20th International Symposium on High Performance Computer …
+
+146. A near-memory processor for vector, streaming and bit manipulation workloads
+Citations:17
+Authors: M Wei, M Snir, J Torrellas, RB Tremaine
+Publication: 
+
+147. Speculative synchronization: Programmability and performance for parallel codes
+Citations:17
+Authors: JF Martínez, J Torrellas
+Publication: IEEE Micro 23 (6), 126-134
+
+148. Instantcheck: Checking the determinism of parallel programs using on-the-fly incremental hashing
+Citations:16
+Authors: A Nistor, D Marinov, J Torrellas
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+149. A model for timing errors in processors with parameter variation
+Citations:16
+Authors: SR Sarangi, B Greskamp, J Torrellas
+Publication: 8th International Symposium on Quality Electronic Design (ISQED'07), 647-654
+
+150. Prototyping architectural support for program rollback using FPGAs
+Citations:16
+Authors: R Teodorescu, J Torrellas
+Publication: 13th Annual IEEE Symposium on Field-Programmable Custom Computing Machines …
+
+151. Flexram architecture design parameters
+Citations:16
+Authors: SM Yoo, J Renau, M Huang, J Torrellas
+Publication: Technical Report CSRD-1584, Department of Computer Science, University of …
+
+152. Cache optimization for memory-resident decision support commercial workloads
+Citations:16
+Authors: P Trancoso, J Torrellas
+Publication: Proceedings 1999 IEEE International Conference on Computer Design: VLSI in …
+
+153. Extreme-scale computer architecture: Energy efficiency from the ground up
+Citations:15
+Authors: J Torrellas
+Publication: Proceedings of the conference on Design, Automation & Test in Europe, 200
+
+154. Illusionist: Transforming lightweight cores into aggressive cores on demand
+Citations:15
+Authors: A Ansari, S Feng, S Gupta, J Torrellas, S Mahlke
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+155. Enhancing memory use in simple coma: Multiplexed simple coma
+Citations:15
+Authors: S Basu, J Torrellas
+Publication: Proceedings 1998 Fourth International Symposium on High-Performance Computer …
+
+156. Attack directories, not caches: Side channel attacks in a non-inclusive world
+Citations:14
+Authors: M Yan, R Sprabery, B Gopireddy, C Fletcher, R Campbell, J Torrellas
+Publication: Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World, 0
+
+157. Speeding up the memory hierarchy in flat COMA multiprocessors
+Citations:14
+Authors: L Yang, J Torrellas
+Publication: Proceedings Third International Symposium on High-Performance Computer …
+
+158. Xylem: Enhancing vertical thermal conduction in 3D processor-memory stacks
+Citations:13
+Authors: A Agrawal, J Torrellas, S Idgunji
+Publication: 2017 50th Annual IEEE/ACM International Symposium on Microarchitecture …
+
+159. ScalCore: Designing a core for voltage scalability
+Citations:13
+Authors: B Gopireddy, C Song, J Torrellas, NS Kim, A Agrawal, A Mishra
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+160. OmniOrder: Directory-based conflict serialization of transactions
+Citations:13
+Authors: X Qian, B Sahelices, J Torrellas
+Publication: 2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA …
+
+161. FlexRAM: Toward an advanced intelligent memory system
+Citations:13
+Authors: D Keen
+Publication: Proceedings of the 2012 IEEE 30th International Conference on Computer …
+
+162. The design of DEETM: a framework for dynamic energy efficiency and temperature management
+Citations:13
+Authors: M Huang, J Renau, SM Yoo, J Torrellas
+Publication: Journal of Instruction-Level Parallelism 3, 1-31
+
+163. Executing sequential binaries on a clustered multithreaded architecture with speculation support
+Citations:13
+Authors: V Krishnan, J Torrellas
+Publication: Proc. Int’l Symposium on High Performance Computer Architecture (HPCA) 611
+
+164. Cache telepathy: Leveraging shared resource attacks to learn DNN architectures
+Citations:12
+Authors: M Yan, C Fletcher, J Torrellas
+Publication: arXiv preprint arXiv:1808.04761
+
+165. Medium access control in wireless network-on-chip: a context analysis
+Citations:12
+Authors: S Abadal, A Mestres, J Torrellas, E Alarcón, A Cabellos-Aparicio
+Publication: IEEE Communications Magazine 56 (6), 172-178
+
+166. Scheduling for hpc systems with process variation heterogeneity
+Citations:12
+Authors: E Totoni, A Langer, J Torrellas, L Kale
+Publication: January
+
+167. Shield: Cost-effective soft-error protection for register files
+Citations:12
+Authors: P Montesinos, W Liu, J Torrellas
+Publication: Third IBM TJ Watson Conference on Interaction between Architecture, Circuits …
+
+168. Evaluating the benefits of cache-affinity scheduling in shared-memory multiprocessors
+Citations:12
+Authors: J Torrellas, A Tucker, A Gupta
+Publication: Computer Systems Laboratory, Stanford University
+
+169. Using software logging to support multiversion buffering in thread-level speculation
+Citations:11
+Authors: MJ Garzarán, M Prvulovic, V Viñals, JM Llabería, L Rauchwerger, ...
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+170. Improving the data cache performance of multiprocessor operating systems
+Citations:11
+Authors: C Xia, J Torrellas
+Publication: Proceedings. Second International Symposium on High-Performance Computer …
+
+171. BulkSMT: Designing SMT processors for atomic-block execution
+Citations:10
+Authors: X Qian, B Sahelices, J Torrellas
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+172. CAP: Criticality analysis for power-efficient speculative multithreading
+Citations:10
+Authors: J Tuck, W Liu, J Torrellas
+Publication: 2007 25th International Conference on Computer Design, 409-416
+
+173. Are we ready for high memory-level parallelism
+Citations:10
+Authors: L Ceze, J Tuck, J Torrellas
+Publication: 4th Workshop on Memory Performance Issues
+
+174. SmartApps: An application centric approach to high performance computing
+Citations:10
+Authors: L Rauchwerger, NM Amato, J Torrellas
+Publication: International Workshop on Languages and Compilers for Parallel Computing, 82-96
+
+175. Code reordering of decision support systems for optimized instruction fetch
+Citations:10
+Authors: A Ramirez, CN Josep-l Larriba-pey, X Serrano, J Torrellas, M Valero
+Publication: Proc. of the Intl. Conference on Parallel Processing
+
+176. Report for the NSF workshop on cross-layer power optimization and management
+Citations:9
+Authors: M Pedram, D Brooks, T Pinkston
+Publication: NSF Workshop on Cross-Layer Power Optimization and Management
+
+177. Compiler support for data forwarding in scalable shared-memory multiprocessors
+Citations:9
+Authors: D Koufaty, J Torrellas
+Publication: Proceedings of the 1999 International Conference on Parallel Processing, 181-190
+
+178. Reducing Cache Misses in Numerical Applications Using Data Relocation and Prefetching.
+Citations:9
+Authors: Y Yamada, TL Johnson, GE Haab, JC Gyllenhaal, WW Hwu
+Publication: ILLINOIS UNIV AT URBANA COORDINATED SCIENCE LAB
+
+179. Pageforge: a near-memory content-aware page-merging architecture
+Citations:8
+Authors: D Skarlatos, NS Kim, J Torrellas
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+180. Survive: Pointer-based in-DRAM incremental checkpointing for low-cost data persistence and rollback-recovery
+Citations:8
+Authors: A Mirhosseini, A Agrawal, J Torrellas
+Publication: IEEE Computer Architecture Letters 16 (2), 153-157
+
+181. Sphinx parallelization
+Citations:8
+Authors: L Baugh, J Renau, J Tuck, J Torrellas
+Publication: Dept. of Computer Science, University of Illinois, Tech. Rep. UIUCDCS
+
+182. An IRAM architecture for image analysis and pattern recognition
+Citations:8
+Authors: Y Kang, J Torrellas, TS Huang
+Publication: Proceedings. Fourteenth International Conference on Pattern Recognition (Cat …
+
+183. Optimizing Primary Data Caches for Parallel Scientific Applications: The Pool Bu er Approach1
+Citations:8
+Authors: L Yang, J Torrellas
+Publication: Proceedings of the 10th international conference on Supercomputing
+
+184. Shortcut: Architectural support for fast object access in scripting languages
+Citations:7
+Authors: J Choi, T Shull, MJ Garzaran, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 494-506
+
+185. FlexBulk: intelligently forming atomic blocks in blocked-execution multiprocessors to minimize squashes
+Citations:7
+Authors: R Agarwal, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 39 (3), 33-44
+
+186. High Performance Memory Systems
+Citations:7
+Authors: H Hadimioglu, D Kaeli, J Kuskin, A Nanda, J Torrellas
+Publication: Springer Science & Business Media
+
+187. Speculative Parallel Execution of Loops with Cross-Iteration Dependences in DSM Multiprocessors
+Citations:7
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: Proc. of HPCA 5
+
+188. Low Perturbation Address Trace Collection for Operating System, Multiprogrammed, and Parallel Workloads in Multiprocessors
+Citations:7
+Authors: R Daigle, C Xia, J Torrellas
+Publication: Technical report
+
+189. Multiprocessor cache memory performance: characterization and optimization
+Citations:7
+Authors: J Torrellas
+Publication: Stanford University
+
+190. Millimeter-wave propagation within a computer chip package
+Citations:6
+Authors: X Timoneda, S Abadal, A Cabellos-Aparicio, D Manessis, J Zhou, ...
+Publication: 2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5
+
+191. A MAC protocol for reliable broadcast communications in wireless network-on-chip
+Citations:6
+Authors: A Mestres, S Abadal, J Torrellas, E Alarcón, A Cabellos-Aparicio
+Publication: Proceedings of the 9th International Workshop on Network on Chip …
+
+192. 21st century computer architecture
+Citations:6
+Authors: MD Hill, S Adve, L Ceze, MJ Irwin, D Kaeli, M Martonosi, J Torrellas, ...
+Publication: arXiv preprint arXiv:1609.06756
+
+193. SCsafe: Logging sequential consistency violations continuously and precisely
+Citations:6
+Authors: Y Duan, D Koufaty, J Torrellas
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+194. POSH: A profiler-enhanced TLS compiler that leverages program structure
+Citations:6
+Authors: W Liu, J Tuck, L Ceze, K Strauss, J Renau, J Torrellas
+Publication: IBM Watson P= AC2 Conference
+
+195. Design trade-offs in high-throughput coherence controllers
+Citations:6
+Authors: AT Nguyen, J Torrellas
+Publication: 2003 12th International Conference on Parallel Architectures and Compilation …
+
+196. Energy/Performance Design of Memory Hierarchies for Processor-in-Memory Chips⋆
+Citations:6
+Authors: M Huang, J Renau, SM Yoo, J Torrellas
+Publication: International Workshop on Intelligent Memory Systems, 152-159
+
+197. Unified fine-granularity buffering of index and data: Approach and implementation
+Citations:6
+Authors: Q Cao, J Torrellas, HV Jagadish
+Publication: Proceedings 2000 International Conference on Computer Design, 175-186
+
+198. Comprehensive hardware and software support for operating systems to exploit MP memory hierarchies
+Citations:6
+Authors: C Xia, J Torrellas
+Publication: IEEE Transactions on Computers 48 (5), 494-505
+
+199. E cient use of processing transistors for larger on-chip storage: Multithreading
+Citations:6
+Authors: V Krishnan, J Torrellas
+Publication: Workshop on Mixing Logic and DRAM: Chips that Compute and Remember
+
+200. How Processor-Memory Integration Affects the Design of DSMs
+Citations:6
+Authors: L Yang, AT Nguyen, J Torrellas
+Publication: Workshop on Mixing Logic and DRAM: Chips that Compute and Remember
+
+201. Comparing the Performance of the DASH and Cedar Multiprocessors for Scientific Applications
+Citations:6
+Authors: J Torrellas, D Koufaty, D Padua
+Publication: 1994 Internatonal Conference on Parallel Processing Vol. 2 2, 304-308
+
+202. DeAliaser: alias speculation using atomic region support
+Citations:5
+Authors: W Ahn, Y Duan, J Torrellas
+Publication: ACM SIGARCH Computer Architecture News 41 (1), 167-180
+
+203. BulkCompactor: Optimized deterministic execution via conflict-aware commit of atomic blocks
+Citations:5
+Authors: Y Duan, X Zhou, W Ahn, J Torrellas
+Publication: IEEE International Symposium on High-Performance Comp Architecture, 1-12
+
+204. LeadOut: Composing low-overhead frequency-enhancing techniques for single-thread performance in configurable multicores
+Citations:5
+Authors: B Greskamp, UR Karpuzcu, J Torrellas
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+205. Software Trace Cache for commercial applications
+Citations:5
+Authors: A Ramirez, JL Larriba-Pey, C Navarro, M Valero, J Torrellas
+Publication: International Journal of Parallel Programming 30 (5), 373-395
+
+206. Smartapps, an application centric approach to high performance computing: compiler-assisted software and hardware support for reduction operations
+Citations:5
+Authors: F Dang, MJ Garzaran, M Prvulovic, Y Zhang, A Jula, H Yu, N Amato, ...
+Publication: Proceedings 16th International Parallel and Distributed Processing Symposium …
+
+207. Excel-NUMA: toward programmability, simplicity, and high performance
+Citations:5
+Authors: Z Zhang, M Cintra, J Torrellas
+Publication: IEEE transactions on computers 48 (2), 256-264
+
+208. A Unified Approach to Speculative Parallelization of Loops in DSM Multiprocessors
+Citations:5
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: Technical Report 1542
+
+209. An empirical study of the effect of source-level loop transformations on compiler stability
+Citations:4
+Authors: Z Gong, Z Chen, J Szaday, D Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the ACM on Programming Languages 2 (OOPSLA), 126
+
+210. Defining a high-level programming model for emerging NVRAM technologies.
+Citations:4
+Authors: T Shull, J Huang, J Torrellas
+Publication: ManLang, 11:1-11:7
+
+211. LORE: A loop repository for the evaluation of compilers
+Citations:4
+Authors: Z Chen, Z Gong, JJ Szaday, DC Wong, D Padua, A Nicolau, ...
+Publication: 2017 IEEE International Symposium on Workload Characterization (IISWC), 219-228
+
+212. A guide to design mimo controllers for architectures
+Citations:4
+Authors: RP Pothukuchi, J Torrellas
+Publication: 
+
+213. CASPAR: breaking serialization in lock-free multicore synchronization
+Citations:4
+Authors: T Gangwani, A Morrison, J Torrellas
+Publication: ACM SIGPLAN Notices 51 (4), 789-804
+
+214. Asymmetric memory fences: Optimizing both performance and implementability
+Citations:4
+Authors: Y Duan, N Honarmand, J Torrellas
+Publication: ACM SIGPLAN Notices 50 (4), 531-543
+
+215. Speculation, thread-level
+Citations:4
+Authors: J Torrellas
+Publication: Encyclopedia of Parallel Computing, 1894-1900
+
+216. Use IRAM for rasterization
+Citations:4
+Authors: Y Kang, J Torrellas, TS Huang
+Publication: Proceedings 1998 International Conference on Image Processing. ICIP98 (Cat …
+
+217. Replica: A Wireless Manycore for Communication-Intensive and Approximate Data
+Citations:3
+Authors: V Fernando, A Franques, S Abadal, S Misailovic, J Torrellas
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+218. PageSeer: Using page walks to trigger page swaps in hybrid memory systems
+Citations:3
+Authors: A Kokolis, D Skarlatos, J Torrellas
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+219. Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication
+Citations:3
+Authors: X Timoneda, S Abadal, A Franques, D Manessis, J Zhou, J Torrellas, ...
+Publication: arXiv preprint arXiv:1901.04291
+
+220. Yukta: multilayer resource controllers to maximize efficiency
+Citations:3
+Authors: RP Pothukuchi, SY Pothukuchi, P Voulgaris, J Torrellas
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+221. Power efficient sharing-aware GPU data management
+Citations:3
+Authors: A Tabbakh, M Annavaram, X Qian
+Publication: 2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+222. Compiler support for software cache coherence
+Citations:3
+Authors: S Tavarageri, W Kim, J Torrellas, P Sadayappan
+Publication: 2016 IEEE 23rd International Conference on High Performance Computing (HiPC …
+
+223. Snatch: Opportunistically reassigning power allocation between processor and memory in 3D stacks
+Citations:3
+Authors: D Skarlatos, R Thomas, A Agrawal, S Qin, R Pilawa-Podgurski, ...
+Publication: The 49th Annual IEEE/ACM International Symposium on Microarchitecture, 54
+
+224. Thrifty: An Exascale Architecture for Energy Proportional Computing
+Citations:3
+Authors: J Torrellas
+Publication: Univ. of Illinois at Urbana-Champaign, IL (United States)
+
+225. BulkCommit: scalable and fast commit of atomic blocks in a lazy multiprocessor environment
+Citations:3
+Authors: X Qian, J Torrellas, B Sahelices, D Qian
+Publication: Proceedings of the 46th Annual IEEE/ACM International Symposium on …
+
+226. Parameter variation at near threshold voltage: The power efficiency versus resilience tradeoff
+Citations:3
+Authors: J Torrellas, NS Kim, R Teodorescu
+Publication: University of Illinois, Tech. Rep
+
+227. An updated evaluation of ReCycle
+Citations:3
+Authors: A Tiwari, J Torrellas
+Publication: Workshop on Duplicating, Deconstructing, and Debunking
+
+228. Morphable multithreaded memory tiles (M3T) architecture
+Citations:3
+Authors: J Renau, J Tuck, W Liu, J Torrellas
+Publication: University of Illinois UIUC-CS Technical Report
+
+229. Hardware for speculative reduction parallelization and optimization in DSM multiprocessors
+Citations:3
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: Proceedings of the 1st Workshop on Parallel Computing for Irregular …
+
+230. A Methodology for Modeling Interprocessor Traffic in Shared Memory Multiprocessors
+Citations:3
+Authors: Stanford University. Computer Systems Laboratory, J Torrellas, T Weil, ...
+Publication: 
+
+231. Opportunistic Beamforming in Wireless Network-on-Chip
+Citations:2
+Authors: S Abadal, A Marruedo, A Franques, H Taghvaee, A Cabellos-Aparicio, ...
+Publication: 2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5
+
+232. Inter-Disciplinary Research Challenges in Computer Systems for the 2020s
+Citations:2
+Authors: A Cohen, X Shen, J Torrellas, J Tuck, Y Zhou
+Publication: National Science Foundation
+
+233. HetCore: TFET-CMOS hetero-device architecture for CPUs and GPUs
+Citations:2
+Authors: B Gopireddy, D Skarlatos, W Zhu, J Torrellas
+Publication: 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …
+
+234. Record-Replay Architecture as a General Security Framework
+Citations:2
+Authors: Y Shalabi, M Yan, N Honarmand, RB Lee, J Torrellas
+Publication: 2018 IEEE International Symposium on High Performance Computer Architecture …
+
+235. Sthira: A Formal Approach to Minimize Voltage Guardbands under Variation in Networks-on-Chip for Energy Efficiency
+Citations:2
+Authors: RP Pothukuchi, A Ansari, B Gopireddy, J Torrellas
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+236. Low-power technologies in high-performance computer: trends and perspectives
+Citations:2
+Authors: X Xie
+Publication: National Science Review 3 (1), 23-25
+
+237. How to build a useful thousand-core manycore system?
+Citations:2
+Authors: J Torrellas
+Publication: 2009 IEEE International Symposium on Parallel & Distributed Processing, 1-1
+
+238. Memory System Performance of a Database in a Shared-Memory Multiprocessor
+Citations:2
+Authors: Z Zhang, P Trancoso, J Torrellas
+Publication: 
+
+239. Designing Hardware that Supports Cycle-Accurate Deterministic Replay
+Citations:2
+Authors: B Greskamp, SR Sarangi, J Torrellas
+Publication: Proceedings of 2006 Workshop on Complexity-Effective Design, 22-25
+
+240. A Brief Description of the NMP ISA and Benchmarks
+Citations:2
+Authors: M Wei, M Snir, J Torrellas, RB Tremaine
+Publication: 
+
+241. Deploying architectural support for software defect detection in future processors
+Citations:2
+Authors: Y Zhou, J Torrellas
+Publication: Workshop on the Evaluation of Software Defect Detection Tools
+
+242. Software Logging under Speculative Parallelization
+Citations:2
+Authors: MJ Garzarán, M Prvulovic, JM Llabería, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181-195
+
+243. Prefetching in an Intelligent Memory Architecture Using a Helper Thread
+Citations:2
+Authors: Y Solihin, J Lee, J Torrellas
+Publication: 5th Workshop on Multithreaded Execution, Architecture, and Compilation
+
+244. Cache-Only Memory Architecture
+Citations:2
+Authors: J Torrellas
+Publication: IEEE Computer Magazine
+
+245. Hardware for speculative parallelization in high-end multiprocessors
+Citations:2
+Authors: Y Zhang, L Rauchwerger, J Torrellas
+Publication: 
+
+246. Architectural and compiler support to hide coherence misses in distributed shared-memory multiprocessors
+Citations:2
+Authors: D Koufaty, J Torrellas
+Publication: University of Illinois at Urbana-Champaign
+
+247. Low Perturbation Address Trace Collection with Simple Hardware Performance Monitors1
+Citations:2
+Authors: R Daigle, C Xia, J Torrellas
+Publication: Center for Supercomputing Research and Development, University of Illinois …
+
+248. AutoPersist: an easy-to-use Java NVM framework based on reachability
+Citations:1
+Authors: T Shull, J Huang, J Torrellas
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+249. QuickCheck: using speculation to reduce the overhead of checks in NVM frameworks.
+Citations:1
+Authors: T Shull, J Huang, J Torrellas
+Publication: VEE, 137-151
+
+250. NoMap: Speeding-Up JavaScript Using Hardware Transactional Memory
+Citations:1
+Authors: T Shull, J Choi, MJ Garzaran, J Torrellas
+Publication: 2019 IEEE International Symposium on High Performance Computer Architecture …
+
+251. Biased reference counting: minimizing atomic operations in garbage collection.
+Citations:1
+Authors: J Choi, T Shull, J Torrellas
+Publication: PACT, 35:1-35:12
+
+252. An empirical study of the effect of source-level transformations on compiler stability
+Citations:1
+Authors: Z Gong, Z Chen, JJ Szaday, DC Wong, Z Sura, N Watkinson, S Maleki, ...
+Publication: Proceedings of the Workshop on Compilers for Parallel Computing (CPC’18)
+
+253. WearCore: A core for wearable workloads?
+Citations:1
+Authors: S Mehta, J Torrellas
+Publication: 2016 International Conference on Parallel Architecture and Compilation …
+
+254. Architecting and programming a hardware-incoherent multiprocessor cache hierarchy
+Citations:1
+Authors: W Kim, S Tavarageri, P Sadayappan, J Torrellas
+Publication: 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …
+
+255. Making Parallel Programming Easy: Research Contributions from Illinois
+Citations:1
+Authors: J Torrellas, SV Adve, VS Adve, D Dig, MN Do, MJ Garzaran, JC Hart, ...
+Publication: 
+
+256. Exascale Hardware Architectures Working Group
+Citations:1
+Authors: S Hemmert, J Ang, P Chiang, B Carnes, D Doerfler, M Leininger, ...
+Publication: Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States)
+
+257. Thread-Level Speculation
+Citations:1
+Authors: J Torrellas
+Publication: Encyclopedia of Parallel Computing
+
+258. Lessons Learned During the Development of the CapoOne Deterministic Multiprocessor Replay System
+Citations:1
+Authors: P Montesinos, M Hicks, W Ahn, ST King, J Torrellas
+Publication: Workshop on the Interaction between Operating Systems and Computer …
+
+259. Softsig: Software-exposed hardware signatures for code analysis and optimization
+Citations:1
+Authors: J Tuck, W Ahn, J Torrellas, L Ceze
+Publication: IEEE micro 29 (1), 84-95
+
+260. Programming and Debugging Shared Memory Programs with Data Coloring
+Citations:1
+Authors: L Ceze, C Von Praun, C Cascaval, P Montesinos, J Torrellas
+Publication: Workshop on Compilers for Parallel Computing (CPC)
+
+261. Parallel Computing Research at Illinois The UPCRC Agenda
+Citations:1
+Authors: R Kumar, D Marinov, D Padua, M Parthasarathy, S Patel, D Roth, M Snir, ...
+Publication: 
+
+262. Empowering Software Debugging Through Architectural Support for Program Rollback
+Citations:1
+Authors: R Teodorescu, J Torrellas
+Publication: Workshop on the Evaluation of Software Defect Detection Tools
+
+263. Spancoverage: Architectural support for increasing the path coverage of dynamic bug detection
+Citations:1
+Authors: S Lu, P Zhou, W Liu, Y Zhou, J Torrellas
+Publication: 
+
+264. Exploiting Intelligent Memory for Database Workloads
+Citations:1
+Authors: P Trancoso, J Torrellas
+Publication: High Performance Memory Systems, 279-292
+
+265. Managing Multiple Low-Power Adaptation Techniques: The Positional Approach
+Citations:1
+Authors: MC Huang, J Renau, J Torrellas
+Publication: IEEE Computer 36 (12)
+
+266. How Processor-Memory Integration A ects the Design of DSMs1
+Citations:1
+Authors: L Yang, AT Nguyen, J Torrellas
+Publication: Workshop on Mixing Logic and DRAM: Chips that Compute and Remember, ISCA 97
+
+267. Instruction Prefetching of Systems Codes with Layout Optimized for Reduced Cache Misses
+Citations:1
+Authors: J Torrellas, C Xia
+Publication: 23rd Annual International Symposium on Computer Architecture (ISCA'96), 271-271
+
+268. Computer architecture education at the University of Illinois: current status and some thoughts
+Citations:1
+Authors: J Torrellas
+Publication: Proceedings of the 1996 workshop on Computer architecture education, 2
+
+269. Scalable Shared-Memory Architectures
+Citations:1
+Authors: J Torrellas
+Publication: 28th Hawaii International Conference on System Sciences (HICSS) 10
+
+270. Evaluating the Performance of Cache-A nity Scheduling in Shared-Memory Multiprocessors
+Citations:1
+Authors: J Torrellas, A Tucker, A Gupta
+Publication: IEEE Transactions on Parallel and Distributed Systems. To appear
+
+271. Mesurement, Analysis and Improvement of the Cache Behavior of Shared Data in Coherent Multiprocessors
+Citations:1
+Authors: J Torrellas
+Publication: Technical Report
+
+272. Automatic Generation of Coherence Instructions for Software-Managed Multiprocessor Caches
+Citations:1
+Authors: S Tavarageri, W Kim, J Torrellas, P Sadayappan
+Publication: submission
+
+273. Maya: Falsifying Power Sidechannels with Operating System Support
+Citations:
+Authors: RP Pothukuchi, SY Pothukuchi, P Voulgaris, J Torrellas
+Publication: arXiv preprint arXiv:1907.09440
+
+274. MicroScope: enabling microarchitectural replay attacks
+Citations:
+Authors: D Skarlatos, M Yan, B Gopireddy, R Sprabery, J Torrellas, CW Fletcher
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+275. SecDir: a secure directory to defeat directory side-channel attacks
+Citations:
+Authors: M Yan, JY Wen, CW Fletcher, J Torrellas
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+276. Designing vertical processors in monolithic 3D
+Citations:
+Authors: B Gopireddy, J Torrellas
+Publication: Proceedings of the 46th International Symposium on Computer Architecture …
+
+277. Reusable inline caching for JavaScript performance
+Citations:
+Authors: J Choi, T Shull, J Torrellas
+Publication: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …
+
+278. Designing a User-Friendly Java NVM Framework
+Citations:
+Authors: T Shull, J Huang, J Torrellas
+Publication: 
+
+279. MicroScope: Enabling Microarchitectural Replay A acks
+Citations:
+Authors: D Skarlatos, M Yan, B Gopireddy, R Sprabery, J Torrellas, CW Fletcher
+Publication: 
+
+280. Attack directories, not caches: Side channel attacks in a non-inclusive world
+Citations:
+Authors: R Campbell, M Yan, R Sprabery, B Gopireddy, CW Fletcher, J Torrellas
+Publication: Proceedings of the IEEE Symposium on Security & Privacy: HASP
+
+281. Structured Singular Value Control for Modular Resource Management in Multilayer Computers
+Citations:
+Authors: RP Pothukuchi, SY Pothukuchi, PG Voulgaris, J Torrellas
+Publication: 2018 IEEE Conference on Decision and Control (CDC), 5121-5127
+
+282. Multilayer Compute Resource Management with Robust Control Theory
+Citations:
+Authors: RP Pothukuchi, SY Pothukuchi, P Voulgaris, J Torrellas
+Publication: 2017 26th International Conference on Parallel Architectures and Compilation …
+
+283. Opportunistic power reassignment between processor and memory in 3D stacks
+Citations:
+Authors: J Torrellas
+Publication: 
+
+284. Toward Extreme-Scale Processor Chips.
+Citations:
+Authors: J Torrellas
+Publication: HiPC, 290
+
+285. Extreme-scale computer architecture
+Citations:
+Authors: J Torrellas
+Publication: National Science Review 3 (1), 19-23
+
+286. Many-Core Architecture for NTC: Energy Efficiency from the Ground Up
+Citations:
+Authors: J Torrellas
+Publication: Near Threshold Computing, 21-33
+
+287. Extreme scale computer architecture: Energy efficiency from the ground up [Keynote address]
+Citations:
+Authors: J Torrellas
+Publication: 2013 IEEE 24th International Conference on Application-Specific Systems …
+
+288. 2012 International Symposium on Computer Architecture Influential Paper Award.
+Citations:
+Authors: J Torrellas
+Publication: IEEE Micro 32 (5), 4-5
+
+289. A Microarchitectural Model of Process Variation for Near-threshold Computing
+Citations:
+Authors: UR Karpuzcu, K Kolluru, NS Kim, J Torrellas
+Publication: 
+
+290. Multiprocessors”
+Citations:
+Authors: JF Martínez, J Torrellas
+Publication: High Performance Memory Systems, 11
+
+291. Exploiting Intelligent Memory for Database
+Citations:
+Authors: P Trancoso, J Torrellas
+Publication: High Performance Memory Systems, 279
+
+292. Software Logging under Speculative
+Citations:
+Authors: MJ Garzarán, M Prvulovic, JM Llaberia, V Viñals, L Rauchwerger, ...
+Publication: High Performance Memory Systems, 181
+
+293. Publications & Talks
+Citations:
+Authors: N Binkert, B Beckmann, G Black, SK Reinhardt, A Saidi, A Basu, ...
+Publication: Computer Architecture News (CAN)
+
+294. REBOUND: SCALABLE CHECKPOINTING FOR COHERENT SHARED MEMORY
+Citations:
+Authors: J Torrellas
+Publication: 
+
+295. ACM Fellows honored
+Citations:
+Authors: C Staff
+Publication: Communications of the ACM 54 (2), 25-25
+
+296. Session 2: Parallel Architectures I-FlexBulk: Intelligently Forming Atomic Blocks in Blocked-Execution Multiprocessors to Minimize Squashes
+Citations:
+Authors: R Agarwal, J Torrellas
+Publication: Computer Architecture News 39 (3), 33
+
+297. Cache-Only Memory Architecture (COMA)
+Citations:
+Authors: J Torrellas
+Publication: Encyclopedia of Parallel Computing, 216-220
+
+298. Extreme scale computing: Challenges and opportunities
+Citations:
+Authors: J Torrellas, B Gropp, V Sarkar, J Moreno, K Olukotun
+Publication: HPCA-16 2010 The Sixteenth International Symposium on High-Performance …
+
+299. BubbleWrap: Popping CMP Cores for Sequential Acceleration
+Citations:
+Authors: B Greskamp, UR Karpuzcu, J Torrellas
+Publication: Wild and Crazy Ideas Session, at International Conference on Architectural …
+
+300. 73 Atom-Aid: Detecting and Surviving Atomicity Violations Brandon Lucia, Joseph Devietti, Luis Ceze, and Karin Strauss 84 SoftSig: Software-Exposed Hardware
+Citations:
+Authors: J Tuck, W Ahn, J Torrellas
+Publication: 
+
+301. Estimating design time for system circuits
+Citations:
+Authors: C Bazeghi, FJ Mesa-Martinez, B Greskamp, J Torrellas, J Renau
+Publication: 2007 IFIP International Conference on Very Large Scale Integration, 60-65
+
+302. Guest Editor's Introduction: Micro's Top Picks from Microarchitecture Conferences
+Citations:
+Authors: J Torrellas
+Publication: IEEE Micro 26 (1), 8-9
+
+303. µComplexity: Estimating Processor Design Effort
+Citations:
+Authors: CBFJMM BrianGreskamp, J Torrellas, J Renau
+Publication: 
+
+304. LogTM-SE: Decoupling hardware transactional memory from caches.
+Citations:
+Authors: C Fu, Z Wu, X Wang, X Yang, CS Ananian, M Rinard, L Ceze, J Tuck, ...
+Publication: Information Technology Journal 8 (8), pp: 1-10
+
+305. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+306. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+307. Thread-Level Speculation on a CMP Can Be Energy Efficient
+Citations:
+Authors: JRKSL Ceze, WLSSJ Tuck, J Torrellas
+Publication: Conference Proceedings, 219
+
+308. iWatcher: Simple, general architectural support for software debugging (vol 24, pg 50, 2004)
+Citations:
+Authors: P Zhou, F Qin, W Liu, HY Zhou, J Torrellas
+Publication: IEEE MICRO 25 (1), 103-103
+
+309. M3T: Morphable Multithreaded Memory Tiles
+Citations:
+Authors: J Torrellas, B Abbott, T Bapty, B Bassett, H Franke
+Publication: ILLINOIS UNIV AT URBANA
+
+310. Introduction to High-Performance Memory Systems
+Citations:
+Authors: H Hadimioglu, D Kaeli, J Kuskin, A Nanda, J Torrellas
+Publication: High Performance Memory Systems, 1-8
+
+311. 1 Department of Computer Science, University of Cyprus, Cyprus pedro@ ucy. ac. cy 2 Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA …
+Citations:
+Authors: P Trancoso, J Torrellas
+Publication: High Performance Memory Systems, 279
+
+312. Maria Jesus Garzaran1, Milos Prvulovic2, Jose Maria Llaberfa3, Victor Vinals1, Lawrence Rauchwerger4, and Josep Torrellas2 i Universidad de Zaragoza, Spain
+Citations:
+Authors: LR Vinals, J Torrellas
+Publication: High Performance Memory Systems, 181
+
+313. Multiprocessor Synchronization and Speculation-Speculative Synchronization: Applying Thread-Level Speculation to Explicitly Parallel Applications
+Citations:
+Authors: JF Martinez, J Torrellas
+Publication: SIGOPS Operating Systems Review 36 (5), 18-29
+
+314. Sphinx Parallelization
+Citations:
+Authors: JM Tuck, LW Baugh, J Renau, J Torrellas
+Publication: 
+
+315. Speculative Synchronization in Shared-Memory Multiprocessors
+Citations:
+Authors: JF Martınez, J Torrellas
+Publication: 
+
+316. Upcoming Architectural Advances in DSM Machines and Their Impact on Programmability
+Citations:
+Authors: J Torrellas
+Publication: 
+
+317. Second Workshop on Computer Architecture Evaluation Using Commercial Workloads
+Citations:
+Authors: O Clapp, A Nanda, J Torrellas
+Publication: Proceedings of the 5th International Symposium on High Performance Computer …
+
+318. Memory Hierarchies for Shared-Memory Multiprocessors-Comprehensive Hardware and Software Support for Operating Systems to Exploit MP Memory Hierarchies
+Citations:
+Authors: C Xia, J Torrellas
+Publication: IEEE Transactions on Computers 48 (5), 494-505
+
+319. SEVENTH WORKSHOP ON SCALABLE SHARED-MEMORY MULTIPROCESSORS
+Citations:
+Authors: J Kuskin, SGIA Nanda, J Torrellas, SS Thakkar
+Publication: 
+
+320. Computer architecture education at the University of Illinois.
+Citations:
+Authors: J Torrellas
+Publication: WCAE@ ISCA, 1
+
+321. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+322. Multiprocessor Project (I-ACOMA)
+Citations:
+Authors: J Torrellas, D Padua
+Publication: Frontiers' 96, the Sixth Symposium on the Frontiers of Massively Parallel …
+
+323. Parallel Processing: You Ain't Seen Nothing Yet! Speaker: HT Kung SESSION 1A. Task Scheduling I (R): Mapping and Scheduling in a Shared Parallel Environment Using Distributed …
+Citations:
+Authors: DG Feitelson, L Rudolph, GC Sih, EA Lee, J Ji, M Jeng, R Venkatesh, ...
+Publication: Parallel Processing 1
+
+324. Synchronization
+Citations:
+Authors: S Yesil, J Torrellas
+Publication: 
+
+325. Шжг ж бб в и а мЪ Х Сви аа ви Х бгжн ж и ийж
+Citations:
+Authors: BB Fraguelai, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: 
+
+326. Estimating Design Time for System Circuits
+Citations:
+Authors: CBFJ Mesa-Martınez, B Greskamp, J Torrellas, J Renau
+Publication: 
+
+327. Comparing the Performance and Programmability of the DASH and Cedar Multiprocessors for Scientific Loads
+Citations:
+Authors: J Torrellas, D Koufaty
+Publication: 
+
+328. External Review Committee
+Citations:
+Authors: JN Amaral, D Barthou, M Bond, W Ahn, J Cavazos, A Darte, B Demsky, ...
+Publication: 
+
+329. Reducing Remote Con ict Misses: NUMA with Remote Cache versus COMA1
+Citations:
+Authors: Z Zhang, J Torrellas
+Publication: 
+
+330. Eliminating Squashes Through Learning gq g g Cross-Thread Violations in Speculative P ll li ti f M lti Parallelization for Multiprocessors
+Citations:
+Authors: M Cintra, J Torrellas
+Publication: 
+
+331. FCCM archive
+Citations:
+Authors: ZK Baker, VK Prasanna, CS Bouganis, GA Constantinides, PYK Cheung, ...
+Publication: 
+
+332. Tasking with out-of-order spawn in TLS chip multiprocessors
+Citations:
+Authors: J Tuck, J Torrellas
+Publication: 
+
+333. Adaptive power efficiency: Runtime system approach with hardware support
+Citations:
+Authors: E Totoni, J Torrellas, LV Kale
+Publication: SC
+
+334. Architectures for Extreme-Scale Computing Architectures for Extreme Scale Computing
+Citations:
+Authors: J Torrellas
+Publication: 
+
+335. CHERRY: CHECKPOINTED EARLY RESOURCE RECYCLING
+Citations:
+Authors: JF Martınez, J Renau, MC Huang, M Prvulovic, J Torrellas
+Publication: 
+
+336. Flexible Snooping
+Citations:
+Authors: KSX Shen, JTK Strauss, X Shen, J Torrellas
+Publication: 
+
+337. A µ− architectural Model of Process Variation for Near-Threshold Computing
+Citations:
+Authors: UR Karpuzcu, K Kolluru, NS Kim, J Torrellas
+Publication: 
+
+338. Rebound: Scalable Checkpointing for Coherent Shared Memor for Coherent Shared Memory
+Citations:
+Authors: R Agarwal, P Garg, J Torrellas
+Publication: 
+
+339. KEYNOTE Session I (Joint HPCA/PPoP)
+Citations:
+Authors: P Bose, MU Farooq, L Chen, LK John, T Li, P Brett, R Knauerhase, ...
+Publication: 
+
+340. Session 2A: GPU Architectures
+Citations:
+Authors: J Liu, B Jaiyen, RM Veras, O Mutlu, MN Bojnordi, E Ipek, DH Yoon, ...
+Publication: 
+
+341. ISCA Advisory Committee
+Citations:
+Authors: S Eggers, JE Compaq, M Franklin, J Hennessy, Y Patt, D Patterson, ...
+Publication: 
+
+342. Todd Austin, University of Michigan Pradip Bose, IBM David Brooks, Harvard University Doug Burger, University of Texas at Austin
+Citations:
+Authors: B Calder, D Connors, T Conte, D Cronquist, C Das, S Dwarkadas, ...
+Publication: 
+
+343. General chairmen
+Citations:
+Authors: J Torrellas, K Li, L Rauchwerger, A Louri
+Publication: 
+
+344. Vice General Chair
+Citations:
+Authors: WH Sanders, K Trivedi, G Balbo, J Abraham, A Avizienis, G Balbo, ...
+Publication: 
+
+345. Program Committee Chair
+Citations:
+Authors: GR Gao, J Torrellas, V Kathail, M Valero, K Hwang, S Yalamanchili, ...
+Publication: 
+
+346. Hardware and Software Approaches for Deterministic Multi-processor Replay of Concurrent Programs
+Citations:
+Authors: L Yang, S King, J Torrellas
+Publication: 
+
+347. 40th IEEE/ACM International Symposium on Microarchitecture (MICRO 2007)
+Citations:
+Authors: N Muralimanohar, R Balasubramonian, N Jouppi, X Liang, R Canal, ...
+Publication: 
+
+348. Estimating Design Time for System Circuits
+Citations:
+Authors: CBFJMM BrianGreskamp, J Torrellas, J Renau
+Publication: 
+
+349. TLS Chip Multiprocessors: Micro-Architectural Mechanisms for Fast Tasking with Out-of-Order Spawn Draft paper submitted for publication. November 6, 2003. Please keep confidential
+Citations:
+Authors: J Renau, J Tuck, W Liu, L Ceze, K Strauss, J Torrellas
+Publication: 
+
+350. Local Arrangements Chair
+Citations:
+Authors: M Valero, T Mowry, J Shen, J Torrellas
+Publication: 
+
+351. HPCA-14 Organizing Committee
+Citations:
+Authors: R Balasubramonian, R Bianchini, A Bilas, P Bose, T Conte, S Dwarkadas, ...
+Publication: 
+
+352. SPECIAL SECTION ON THE INTERNATIONAL SYMPOSIUM FOR QUALITY ELECTRONIC DESIGN 2007
+Citations:
+Authors: SR Sarangi, B Greskamp, R Teodorescu, J Nakano, A Tiwari, J Torrellas, ...
+Publication: 
+
+353. Prototyping Architectural Support for Program Rollback: An Application to Software Debugging
+Citations:
+Authors: R Teodorescu, J Torrellas
+Publication: 
+
+354. Speculative Multithreading Does not (Necessarily) Waste Energy Draft paper submitted for publication. November 6, 2003. Please keep confidential
+Citations:
+Authors: J Renau, S Sarangi, J Tuck, K Strauss, L Ceze, W Liu, J Torrellas
+Publication: 
+
+355. Ashwini Nanda Vijay Narayanan Mario Nemirovsky Dimitris Nikolopoulos
+Citations:
+Authors: K Magoutis, R Manohar, P Marcuello, JF Martínez, M Martonosi, S McKee, ...
+Publication: 
+
+356. Chairs and Committees
+Citations:
+Authors: JL Baer, S Abraham, S Adve, T Anderson, P Chen, F Dahlgren, P Dubey, ...
+Publication: 
+
+357. Эд гб в ж и ийж а к в з в ЫХ Х в з в Ь ж Сбд и гв Шжг ж бб а ин
+Citations:
+Authors: J Torrellas
+Publication: 
+
+358. A. Summary of the Work
+Citations:
+Authors: P Zhou, F Qin, W Liu, Y Zhou, J Torrellas
+Publication: 
+
+359. 39th Annual International Symposium on Microarchitecture
+Citations:
+Authors: F Mohamood, M Healy, SK Lim, HHS Lee, S Ozdemir, D Sinha, G Memik, ...
+Publication: 
+
+360. Conference Officers
+Citations:
+Authors: D Kaeli, M Valero, D Christie, G Sohi, JL Gaudiot, J Emer, LA Barroso, ...
+Publication: 
+
+361. The Design Complexity of Program Undo Support in a General-Purpose Processor
+Citations:
+Authors: R Teodorescu, J Torrellas
+Publication: 
+
+362. Message from the General Co-Chairs
+Citations:
+Authors: D Litaize, J Torrellas
+Publication: 
+
+363. Interact-V: Workshop on Interaction between Compilers and Computer Architectures
+Citations:
+Authors: G Lee, PC Yew, J Torrellas, A Nanda, R Clapp
+Publication: 
+
+364. Mateo Valero, Universitat Politecnica de Catalunya Gurindar S. Sohi, University of Wisconsin-Madison
+Citations:
+Authors: J Torrellas, T Conte, M Huguet
+Publication: 
+
+365. Thread-Level Speculation on a CMP Can Be Energy Efficient
+Citations:
+Authors: JRK Strauss, L Ceze, W Liu, S Sarangi, J Tuck, J Torrellas
+Publication: 
+
+366. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+367. Onur Mutlu Hrishikesh Murukkathampoondi Ramadass Nagarajan Ravi Nair
+Citations:
+Authors: J Nakano, N Nakka, V Narayanan, S Narayanasamy, N Navarro, K Nesbit, ...
+Publication: 
+
+368. External Review Committee
+Citations:
+Authors: JH Ahn, A Alameldeen, A Buyuktosunoglu, J Carter, L Ceze, WJ Chang, ...
+Publication: 
+
+369. C~~ PUTER SOCIETY
+Citations:
+Authors: C Gong, R Melhem, X Gupta, DA Koufaty, X Chen, DK Poulsen, ...
+Publication: 
+
+370. Rapid Prototyping in Architecture Research using Hardware Hooks in COTS Systems
+Citations:
+Authors: SR Sarangi, B Greskamp, J Torrellas
+Publication: 
+
+371. Programming the FlexRAM Intelligent Memory Architecture
+Citations:
+Authors: BB Fraguela, J Renau, P Feautrier, D Padua, J Torrellas
+Publication: 
+
+372. Code Reordering of Decision Support Systems for optimized Instruction Fetch
+Citations:
+Authors: J Torrellas, M Valero, J Girona
+Publication: 
+
+373. Keynote Papers
+Citations:
+Authors: V Salapura, J Torrellas, Y Kang, W Huang, SM Yoo, D Keen, Z Ge, V Lam, ...
+Publication: 
+
+374. Jim Dehnert, SGI Evelyn Duesterwald, Hewlett Packard Labs Kemal Ebcioglu, IBM TJ Watson Research Center Paraskevas Evripidou, University of Cyprus
+Citations:
+Authors: J Fang, J Ferrante, A Fukuda, G Gao, JL Gaudiot, M Hall, A Hurson, ...
+Publication: 
+
+375. FIRST WORKSHOP ON COMPUTER ARCHITECTURE EVALUATION USING COMMERCIAL WORKLOADS
+Citations:
+Authors: Z Zhang, S Sarukkai, K Keeton, DA Patterson, LA Barroso, ...
+Publication: 
+
+376. Running Parallel Applications on an MP With Multithreaded Superscalar Processors
+Citations:
+Authors: V Krishnan, Z Zhang, J Torrellas
+Publication: 
+
+377. Columns and Departments
+Citations:
+Authors: J Renau, K Strauss, L Ceze, W Liu, SR Sarangi, J Tuck, J Torrellas, ...
+Publication: 
+
+378. Algorithms & Applications
+Citations:
+Authors: G Bilardi, J Cuny, S Das, F Dehne, I Glendinning, A Grama, J Reif, ...
+Publication: 
+
+379. Workshop on Near-threshold Computing (WNTC)
+Citations:
+Authors: HK Cho, S Mahlke, F Hijaz, Q Shi, O Khan, M Farahani, A Baniasadi, ...
+Publication: 
+
+380. Data Forwarding in Scalable Shared-Memory
+Citations:
+Authors: DA Koufaty, X Chen, DK Poulsen, J Torrellas
+Publication: 
+
+381. Tasking with Out-of-Order Spawn in TLS Chip Multiprocessors: Microarchitecture and Compilation
+Citations:
+Authors: JRJ Tuck, W Liu, L Ceze, K Strauss, J Torrellas
+Publication: 
+
+382. Huiyang Zhou Craig Zilles Willy Zwaenepoel
+Citations:
+Authors: SL Lu, SS Lumetta, A Ma, K Mackenzie, S Mahlke, T Malzbender, ...
+Publication: 
+
+383. ributed Systems Architecture
+Citations:
+Authors: J Torrellas
+Publication: 
+

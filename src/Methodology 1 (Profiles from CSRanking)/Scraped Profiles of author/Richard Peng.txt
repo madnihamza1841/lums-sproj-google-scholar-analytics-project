@@ -1,0 +1,293 @@
+https://scholar.google.com/citations?hl=en&user=loh7ivYAAAAJ
+Total Citations = 1791
+
+1. Approaching optimality for solving SDD linear systems
+Citations:230
+Authors: I Koutis, GL Miller, R Peng
+Publication: SIAM Journal on Computing 43 (1), 337-354
+
+2. A nearly-m log n time solver for SDD linear systems
+Citations:189
+Authors: I Koutis, GL Miller, R Peng
+Publication: Foundations of Computer Science (FOCS), 2011 IEEE 52nd Annual Symposium on …
+
+3. Efficient triangle counting in large graphs via degree-based vertex partitioning
+Citations:112
+Authors: MN Kolountzakis, GL Miller, R Peng, CE Tsourakakis
+Publication: Internet Mathematics 8 (1-2), 161-185
+
+4. Solving sdd linear systems in nearly m log 1/2 n time
+Citations:105
+Authors: MB Cohen, R Kyng, GL Miller, JW Pachocki, R Peng, AB Rao, SC Xu
+Publication: Proceedings of the forty-sixth annual ACM symposium on Theory of computing …
+
+5. Uniform sampling for matrix approximation
+Citations:100
+Authors: MB Cohen, YT Lee, C Musco, C Musco, R Peng, A Sidford
+Publication: Proceedings of the 2015 Conference on Innovations in Theoretical Computer …
+
+6. An efficient parallel solver for SDD linear systems
+Citations:83
+Authors: R Peng, DA Spielman
+Publication: Proceedings of the forty-sixth annual ACM symposium on Theory of computing …
+
+7. Fully dynamic (1+ e)-approximate matchings
+Citations:79
+Authors: M Gupta, R Peng
+Publication: 2013 IEEE 54th Annual Symposium on Foundations of Computer Science, 548-557
+
+8. Sparsified cholesky and multigrid solvers for connection laplacians
+Citations:61
+Authors: R Kyng, YT Lee, R Peng, S Sachdeva, DA Spielman
+Publication: Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …
+
+9. Iterative row sampling
+Citations:60
+Authors: M Li, GL Miller, R Peng
+Publication: 2013 IEEE 54th Annual Symposium on Foundations of Computer Science, 127-136
+
+10. Faster spectral sparsification and numerical algorithms for SDD matrices
+Citations:58
+Authors: I Koutis, A Levin, R Peng
+Publication: arXiv preprint arXiv:1209.5821
+
+11. Linear-work greedy parallel approximate set cover and variants
+Citations:48
+Authors: GE Blelloch, R Peng, K Tangwongsan
+Publication: Proceedings of the twenty-third annual ACM symposium on Parallelism in …
+
+12. Parallel graph decompositions using random shifts
+Citations:47
+Authors: GL Miller, R Peng, SC Xu
+Publication: Proceedings of the twenty-fifth annual ACM symposium on Parallelism in …
+
+13. Nearly-linear work parallel SDD solvers, low-diameter decomposition, and low-stretch subgraphs
+Citations:43
+Authors: GE Blelloch, A Gupta, I Koutis, GL Miller, R Peng, K Tangwongsan
+Publication: Theory of Computing Systems 55 (3), 521-554
+
+14. Approximate Undirected Maximum Flows in O(mpolylog(n)) Time
+Citations:41
+Authors: R Peng
+Publication: Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …
+
+15. Scalable large near-clique detection in large-scale networks via sampling
+Citations:38
+Authors: M Mitzenmacher, J Pachocki, R Peng, C Tsourakakis, SC Xu
+Publication: Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …
+
+16. Partitioning well-clustered graphs: Spectral clustering works!
+Citations:38
+Authors: R Peng, H Sun, L Zanetti
+Publication: Conference on Learning Theory, 1423-1455
+
+17. Runtime Guarantees for Regression Problems
+Citations:38
+Authors: HH Chin, A Madry, G Miller, R Peng
+Publication: 
+
+18. A fast solver for a class of linear systems
+Citations:36
+Authors: I Koutis, GL Miller, R Peng
+Publication: Communications of the ACM 55 (10), 99-107
+
+19. Almost-linear-time algorithms for markov chains and new spectral primitives for directed graphs
+Citations:35
+Authors: MB Cohen, J Kelner, J Peebles, R Peng, AB Rao, A Sidford, A Vladu
+Publication: Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing …
+
+20. On fully dynamic graph sparsifiers
+Citations:33
+Authors: I Abraham, D Durfee, I Koutis, S Krinninger, R Peng
+Publication: 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS …
+
+21. Efficient sampling for Gaussian graphical models via spectral sparsification
+Citations:31
+Authors: D Cheng, Y Cheng, Y Liu, R Peng, SH Teng
+Publication: Conference on Learning Theory, 364-390
+
+22. Faster approximate multicommodity flow using quadratically coupled flows
+Citations:31
+Authors: JA Kelner, GL Miller, R Peng
+Publication: Proceedings of the 44th symposium on Theory of Computing, 1-18
+
+23. Improved parallel algorithms for spanners and hopsets
+Citations:29
+Authors: GL Miller, R Peng, A Vladu, SC Xu
+Publication: arXiv preprint arXiv:1309.3545
+
+24. L p row sampling by lewis weights
+Citations:25
+Authors: MB Cohen, R Peng
+Publication: Proceedings of the forty-seventh annual ACM symposium on Theory of computing …
+
+25. Faster and simpler width-independent parallel algorithms for positive semidefinite programming
+Citations:24
+Authors: R Peng, K Tangwongsan
+Publication: Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …
+
+26. Simple and scalable constrained clustering: a generalized spectral method
+Citations:22
+Authors: M Cucuringu, I Koutis, S Chawla, G Miller, R Peng
+Publication: Artificial Intelligence and Statistics, 445-454
+
+27. Algorithm Design Using Spectral Graph Theory
+Citations:19
+Authors: R Peng
+Publication: Carnegie Mellon University
+
+28. A nearly-mlog n solver for SDD linear systems
+Citations:16
+Authors: I Koutis, GL Miller, R Peng
+Publication: FOCS’11: Proceedings of the 52nd Annual IEEE Symposium on Foundations of …
+
+29. Determinant-preserving sparsification of SDDM matrices with applications to counting and sampling spanning trees
+Citations:15
+Authors: D Durfee, J Peebles, R Peng, AB Rao
+Publication: 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …
+
+30. Approximate maximum flow on separable undirected graphs
+Citations:15
+Authors: GL Miller, R Peng
+Publication: Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …
+
+31. A framework for analyzing resparsification algorithms
+Citations:14
+Authors: R Kyng, J Pachocki, R Peng, S Sachdeva
+Publication: Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …
+
+32. Faster algorithms for computing the stationary distribution, simulating random walks, and more
+Citations:13
+Authors: MB Cohen, J Kelner, J Peebles, R Peng, A Sidford, A Vladu
+Publication: 2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS …
+
+33. Graph sparsification, spectral sketches, and faster resistance computation, via short cycle decompositions
+Citations:12
+Authors: T Chu, Y Gao, R Peng, S Sachdeva, S Sawlani, J Wang
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+34. SPALS: Fast alternating least squares via implicit leverage scores sampling
+Citations:9
+Authors: D Cheng, R Peng, Y Liu, I Perros
+Publication: Advances In Neural Information Processing Systems, 721-729
+
+35. Density Independent Algorithms for Sparsifying -Step Random Walks
+Citations:8
+Authors: G Jindal, P Kolev, R Peng, S Sawlani
+Publication: arXiv preprint arXiv:1702.06110
+
+36. Approximation algorithms for speeding up dynamic programming and denoising aCGH data
+Citations:6
+Authors: CE Tsourakakis, R Peng, MA Tsiarli, GL Miller, R Schwartz
+Publication: Journal of Experimental Algorithmics (JEA) 16, 1.8
+
+37. An empirical study of cycle toggling based laplacian solvers
+Citations:5
+Authors: K Deweese, JR Gilbert, G Miller, R Peng, HR Xu, SC Xu
+Publication: 2016 Proceedings of the Seventh SIAM Workshop on Combinatorial Scientific …
+
+38. Solving 1-laplacians in nearly linear time: Collapsing and expanding a topological ball
+Citations:5
+Authors: MB Cohen, BT Fasy, GL Miller, A Nayyeri, R Peng, N Walkington
+Publication: Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …
+
+39. Iterative Refinement for ℓp-norm Regression
+Citations:4
+Authors: D Adil, R Kyng, R Peng, S Sachdeva
+Publication: Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …
+
+40. Fully dynamic effective resistances
+Citations:4
+Authors: D Durfee, Y Gao, G Goranci, R Peng
+Publication: arXiv preprint arXiv:1804.04038
+
+41. Current Flow Group Closeness Centrality for Complex Networks?
+Citations:2
+Authors: H Li, R Peng, L Shan, Y Yi, Z Zhang
+Publication: The World Wide Web Conference, 961-971
+
+42. Solving directed laplacian systems in nearly-linear time through sparse lu factorizations
+Citations:2
+Authors: MB Cohen, J Kelner, R Kyng, J Peebles, R Peng, AB Rao, A Sidford
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+43. Incomplete nested dissection
+Citations:2
+Authors: R Kyng, R Peng, R Schwieterman, P Zhang
+Publication: Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing …
+
+44. Flows in almost linear time via adaptive preconditioning
+Citations:1
+Authors: R Kyng, R Peng, S Sachdeva, D Wang
+Publication: arXiv preprint arXiv:1906.10340
+
+45. Fully dynamic spectral vertex sparsifiers and applications
+Citations:1
+Authors: D Durfee, Y Gao, G Goranci, R Peng
+Publication: arXiv preprint arXiv:1906.10530
+
+46. Graph sketching against adaptive adversaries applied to the minimum degree algorithm
+Citations:1
+Authors: M Fahrbach, GL Miller, R Peng, S Sawlani, J Wang, SC Xu
+Publication: 2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …
+
+47. Constant arboricity spectral sparsifiers
+Citations:1
+Authors: T Chu, MB Cohen, JW Pachocki, R Peng
+Publication: arXiv preprint arXiv:1808.05662
+
+48. Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds
+Citations:
+Authors: D Durfee, L Dhulipala, J Kulkarni, R Peng, S Sawlani, X Sun
+Publication: arXiv preprint arXiv:1908.01956
+
+49. Optimal Offline Dynamic 2, 3-Edge/Vertex Connectivity
+Citations:
+Authors: R Peng, B Sandlund, DD Sleator
+Publication: Workshop on Algorithms and Data Structures, 553-565
+
+50. Dynamic Optimality Refuted--For Tournament Heaps
+Citations:
+Authors: JI Munro, R Peng, S Wild, L Zhang
+Publication: arXiv preprint arXiv:1908.00563
+
+51. Fast, Provably convergent IRLS Algorithm for p-norm Linear Regression
+Citations:
+Authors: D Adil, R Peng, S Sachdeva
+Publication: arXiv preprint arXiv:1907.07167
+
+52. Higher-Order Accelerated Methods for Faster Non-Smooth Optimization
+Citations:
+Authors: B Bullins, R Peng
+Publication: arXiv preprint arXiv:1906.01621
+
+53. Iterative Refinement for -norm Regression
+Citations:
+Authors: D Adil, R Kyng, R Peng, S Sachdeva
+Publication: arXiv preprint arXiv:1901.06764
+
+54. Dagstuhl Reports, Vol. 8, Issue 6 ISSN 2192-5283
+Citations:
+Authors: M Grohe, V Guruswami, S Zivny, H Meyerhenke, R Peng, I Safro, P Gill, ...
+Publication: 
+
+55. High-Performance Graph Algorithms (Dagstuhl Seminar 18241)
+Citations:
+Authors: H Meyerhenke, R Peng, I Safro
+Publication: Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik
+
+56. Parameterizing the Hardness of Binary Search Tree Access Sequences by Inversion Counts
+Citations:
+Authors: M He, R Peng, Y Xu
+Publication: 2018 Proceedings of the Fifteenth Workshop on Analytic Algorithmics and …
+
+57. Concave Flow on Small Depth Directed Networks
+Citations:
+Authors: T Mai, R Peng, AB Rao, VV Vazirani
+Publication: arXiv preprint arXiv:1704.07791
+
+58. Almost-linear-time algorithms for Markov chains and new spectral primitives for directed graphs
+Citations:
+Authors: R Peng, AB Rao, A Sidford, MB Cohen, JA Kelner, JLT Peebles, AV Vladu
+Publication: Association for Computing Machinery (ACM)
+

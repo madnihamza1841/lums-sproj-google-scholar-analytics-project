@@ -1,0 +1,1423 @@
+https://scholar.google.com/citations?hl=en&user=2pW1g5IAAAAJ
+Total Citations = 51973
+
+1. Random oracles are practical: A paradigm for designing efficient protocols
+Citations:5008
+Authors: M Bellare, P Rogaway
+Publication: Proceedings of the 1st ACM conference on Computer and communications …
+
+2. HMAC: Keyed-hashing for message authentication
+Citations:2978
+Authors: M Bellare
+Publication: Network Working Group RFC 2104
+
+3. Keying hash functions for message authentication
+Citations:1995
+Authors: M Bellare, R Canetti, H Krawczyk
+Publication: Annual international cryptology conference, 1-15
+
+4. Entity authentication and key distribution
+Citations:1879
+Authors: M Bellare, P Rogaway
+Publication: Annual international cryptology conference, 232-249
+
+5. Authenticated key exchange secure against dictionary attacks
+Citations:1535
+Authors: M Bellare, D Pointcheval, P Rogaway
+Publication: International conference on the theory and applications of cryptographic …
+
+6. Optimal asymmetric encryption
+Citations:1526
+Authors: M Bellare, P Rogaway
+Publication: Workshop on the Theory and Application of of Cryptographic Techniques, 92-111
+
+7. Relations among notions of security for public-key encryption schemes
+Citations:1295
+Authors: M Bellare, A Desai, D Pointcheval, P Rogaway
+Publication: Annual International Cryptology Conference, 26-45
+
+8. A concrete security treatment of symmetric encryption
+Citations:1177
+Authors: M Bellare, A Desai, E Jokipii, P Rogaway
+Publication: Proceedings 38th Annual Symposium on Foundations of Computer Science, 394-403
+
+9. The exact security of digital signatures-How to sign with RSA and Rabin
+Citations:1140
+Authors: M Bellare, P Rogaway
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+10. Authenticated encryption: Relations among notions and analysis of the generic composition paradigm
+Citations:942
+Authors: M Bellare, C Namprempre
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+11. OCB: A block-cipher mode of operation for efficient authenticated encryption
+Citations:788
+Authors: P Rogaway, M Bellare, J Black
+Publication: ACM Transactions on Information and System Security (TISSEC) 6 (3), 365-403
+
+12. Deterministic and efficiently searchable encryption
+Citations:785
+Authors: M Bellare, A Boldyreva, A O’Neill
+Publication: Annual International Cryptology Conference, 535-552
+
+13. A forward-secure digital signature scheme
+Citations:764
+Authors: M Bellare, SK Miner
+Publication: Annual International Cryptology Conference, 431-448
+
+14. Provably secure session key distribution: the three party case
+Citations:759
+Authors: M Bellare, P Rogaway
+Publication: STOC 95, 57-66
+
+15. Foundations of group signatures: Formal definitions, simplified requirements, and a construction based on general assumptions
+Citations:723
+Authors: M Bellare, D Micciancio, B Warinschi
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+16. A modular approach to the design and analysis of authentication and key exchange protocols
+Citations:658
+Authors: M Bellare, R Canetti, H Krawczyk
+Publication: STOC 98 (50), 419-428
+
+17. On defining proofs of knowledge
+Citations:624
+Authors: M Bellare, O Goldreich
+Publication: Annual International Cryptology Conference, 390-420
+
+18. The security of triple encryption and a framework for code-based game-playing proofs
+Citations:606
+Authors: M Bellare, P Rogaway
+Publication: Annual International Conference on the Theory and Applications of …
+
+19. Security proofs for identity-based identification and signature schemes
+Citations:560
+Authors: M Bellare, C Namprempre, G Neven
+Publication: Journal of Cryptology 22 (1), 1-61
+
+20. Searchable encryption revisited: Consistency properties, relation to anonymous IBE, and extensions
+Citations:554
+Authors: M Abdalla, M Bellare, D Catalano, E Kiltz, T Kohno, T Lange, ...
+Publication: Annual International Cryptology Conference, 205-222
+
+21. The security of the cipher block chaining message authentication code
+Citations:548
+Authors: M Bellare, J Kilian, P Rogaway
+Publication: Journal of Computer and System Sciences 61 (3), 362-399
+
+22. Foundations of group signatures: The case of dynamic groups
+Citations:517
+Authors: M Bellare, H Shi, C Zhang
+Publication: Cryptographers’ Track at the RSA Conference, 136-153
+
+23. The security of cipher block chaining
+Citations:499
+Authors: M Bellare, J Kilian, P Rogaway
+Publication: Annual International Cryptology Conference, 341-358
+
+24. Free Bits, PCPs, and Nonapproximability---Towards Tight Results
+Citations:497
+Authors: M Bellare, O Goldreich, M Sudan
+Publication: SIAM Journal on Computing 27 (3), 804-915
+
+25. Public-key encryption in a multi-user setting: Security proofs and improvements
+Citations:478
+Authors: M Bellare, A Boldyreva, S Micali
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+26. Message-locked encryption and secure deduplication
+Citations:470
+Authors: M Bellare, S Keelveedhi, T Ristenpart
+Publication: Annual international conference on the theory and applications of …
+
+27. Fast batch verification for modular exponentiation and digital signatures
+Citations:466
+Authors: M Bellare, JA Garay, T Rabin
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+28. Key-privacy in public-key encryption
+Citations:449
+Authors: M Bellare, A Boldyreva, A Desai, D Pointcheval
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+29. DupLESS: server-aided encryption for deduplicated storage
+Citations:439
+Authors: S Keelveedhi, M Bellare, T Ristenpart
+Publication: Presented as part of the 22nd {USENIX} Security Symposium ({USENIX} Security …
+
+30. The oracle Diffie-Hellman assumptions and an analysis of DHIES
+Citations:418
+Authors: M Abdalla, M Bellare, P Rogaway
+Publication: Cryptographers’ Track at the RSA Conference, 143-158
+
+31. E cient probabilistically checkable proofs and applications to approximation
+Citations:409
+Authors: M Bellare, S Goldwasser, C Lund, A Russell
+Publication: Proceedings of the 25th Annual ACM Symposium on Theory of Computing, 294-304
+
+32. Multi-signatures in the plain public-key model and a general forking lemma
+Citations:403
+Authors: M Bellare, G Neven
+Publication: Proceedings of the 13th ACM conference on Computer and communications …
+
+33. Non-interactive oblivious transfer and applications
+Citations:369
+Authors: M Bellare, S Micali
+Publication: Conference on the Theory and Application of Cryptology, 547-557
+
+34. XOR MACs: New methods for message authentication using finite pseudorandom functions
+Citations:367
+Authors: M Bellare, R Guérin, P Rogaway
+Publication: Annual International Cryptology Conference, 15-28
+
+35. Foundations of garbled circuits
+Citations:354
+Authors: M Bellare, VT Hoang, P Rogaway
+Publication: Proceedings of the 2012 ACM conference on Computer and communications …
+
+36. New proofs for NMAC and HMAC: Security without collision-resistance
+Citations:352
+Authors: M Bellare
+Publication: Annual International Cryptology Conference, 602-619
+
+37. Incremental cryptography: The case of hashing and signing
+Citations:344
+Authors: M Bellare, O Goldreich, S Goldwasser
+Publication: Annual International Cryptology Conference, 216-233
+
+38. Searchable encryption revisited: Consistency properties, relation to anonymous IBE, and extensions
+Citations:340
+Authors: M Abdalla, M Bellare, D Catalano, E Kiltz, T Kohno, T Lange, ...
+Publication: Journal of Cryptology 21 (3), 350-391
+
+39. GQ and Schnorr identification schemes: Proofs of security against impersonation under active and concurrent attacks
+Citations:337
+Authors: M Bellare, A Palacio
+Publication: Annual International Cryptology Conference, 162-177
+
+40. The One-More-RSA-Inversion Problems and the Security of Chaum's Blind Signature Scheme.
+Citations:330
+Authors: M Bellare, C Namprempre, D Pointcheval, M Semanko
+Publication: Journal of Cryptology 16 (3)
+
+41. The EAX mode of operation
+Citations:316
+Authors: M Bellare, P Rogaway, D Wagner
+Publication: International Workshop on Fast Software Encryption, 389-407
+
+42. An uninstantiable random-oracle-model scheme for a hybrid-encryption problem
+Citations:311
+Authors: M Bellare, A Boldyreva, A Palacio
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+43. The Skein Hash Function Family
+Citations:301
+Authors: N Ferguson, S Lucks, B Schneier, D Whiting, M Bellare, T Kohno, J Callas, ...
+Publication: 
+
+44. Forward-security in private-key cryptography
+Citations:293
+Authors: M Bellare, B Yee
+Publication: Cryptographers’ Track at the RSA Conference, 1-18
+
+45. Authenticated encryption: Relations among notions and analysis of the generic composition paradigm
+Citations:276
+Authors: M Bellare, C Namprempre
+Publication: Journal of Cryptology 21 (4), 469-491
+
+46. iKP-A Family of Secure Electronic Payment Protocols.
+Citations:269
+Authors: M Bellare, A Herzberg, M Steiner, G Tsudik, M Waidner, RC Hauser, ...
+Publication: USENIX Workshop on Electronic Commerce, 89-106
+
+47. A new paradigm for collision-free hashing: Incrementality at reduced cost
+Citations:268
+Authors: M Bellare, D Micciancio
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+48. A theoretical treatment of related-key attacks: RKA-PRPs, RKA-PRFs, and applications
+Citations:266
+Authors: M Bellare, T Kohno
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+49. Lecture notes on cryptography
+Citations:257
+Authors: S Goldwasser, M Bellare
+Publication: Summer course “Cryptography and computer security” at MIT 1999, 1999
+
+50. Forward integrity for secure audit logs
+Citations:256
+Authors: M Bellare, B Yee
+Publication: Technical report, Computer Science and Engineering Department, University of …
+
+51. Efficient garbling from a fixed-key blockcipher
+Citations:255
+Authors: M Bellare, VT Hoang, S Keelveedhi, P Rogaway
+Publication: 2013 IEEE Symposium on Security and Privacy, 478-492
+
+52. RFC 2104: HMAC: Keyed-hashing for message authentication
+Citations:254
+Authors: H Krawczyk, M Bellare, R Canetti
+Publication: Internet Engineering Task Force 252
+
+53. The knowledge-of-exponent assumptions and 3-round zero-knowledge protocols
+Citations:252
+Authors: M Bellare, A Palacio
+Publication: Annual International Cryptology Conference, 273-289
+
+54. Collision-resistant hashing: Towards making UOWHFs practical
+Citations:251
+Authors: M Bellare, P Rogaway
+Publication: Annual International Cryptology Conference, 470-484
+
+55. Hotp: An hmac-based one-time password algorithm
+Citations:247
+Authors: D M’Raihi, M Bellare, F Hoornaert, D Naccache, O Ranen
+Publication: The Internet Society, Network Working Group. RFC4226
+
+56. Free bits, PCPs and non-approximability-towards tight results
+Citations:246
+Authors: M Bellare, O Goldreich, M Sudan
+Publication: Proceedings of IEEE 36th Annual Foundations of Computer Science, 422-431
+
+57. Pseudorandom functions revisited: The cascade construction and its concrete security
+Citations:233
+Authors: M Bellare, R Canetti, H Krawczyk
+Publication: Proceedings of 37th Conference on Foundations of Computer Science, 514-523
+
+58. Practice-oriented provable-security
+Citations:232
+Authors: M Bellare
+Publication: International Workshop on Information Security, 221-231
+
+59. Improved non-approximability results
+Citations:231
+Authors: M Bellare, M Sudan
+Publication: STOC 94, 184-193
+
+60. Authenticated encryption in SSH: provably fixing the SSH binary packet protocol
+Citations:230
+Authors: M Bellare, T Kohno, C Namprempre
+Publication: Proceedings of the 9th ACM conference on Computer and communications …
+
+61. Message authentication using hash functions: The HMAC construction
+Citations:226
+Authors: M Bellare, R Canetti, H Krawczyk
+Publication: RSA Laboratories’ CryptoBytes 2 (1), 12-15
+
+62. Design, implementation, and deployment of the iKP secure electronic payment system
+Citations:219
+Authors: M Bellare, JA Garay, R Hauser, A Herzberg, H Krawczyk, M Steiner, ...
+Publication: IEEE Journal on selected areas in communications 18 (4), 611-627
+
+63. Linearity testing in characteristic two
+Citations:212
+Authors: M Bellare, D Coppersmith, J Hastad, M Kiwi, M Sudan
+Publication: IEEE Transactions on Information Theory 42 (6), 1781-1795
+
+64. Format-preserving encryption
+Citations:206
+Authors: M Bellare, T Ristenpart, P Rogaway, T Stegers
+Publication: International Workshop on Selected Areas in Cryptography, 295-312
+
+65. Multi-property-preserving hash domain extension and the EMD transform
+Citations:195
+Authors: M Bellare, T Ristenpart
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+66. Non-malleable encryption: Equivalence between two notions, and an indistinguishability-based characterization
+Citations:195
+Authors: M Bellare, A Sahai
+Publication: Annual International Cryptology Conference, 519-536
+
+67. Introduction to modern cryptography
+Citations:184
+Authors: M Bellare, P Rogaway
+Publication: Ucsd Cse 207, 207
+
+68. Code-Based Game-Playing Proofs and the Security of Triple Encryption.
+Citations:183
+Authors: M Bellare, P Rogaway
+Publication: IACR Cryptology ePrint Archive 2004 (331)
+
+69. Possibility and impossibility results for encryption and commitment secure under selective opening
+Citations:179
+Authors: M Bellare, D Hofheinz, S Yilek
+Publication: Annual International Conference on the Theory and Applications of …
+
+70. Encode-then-encipher encryption: How to exploit nonces or redundancy in plaintexts for efficient cryptography
+Citations:179
+Authors: M Bellare, P Rogaway
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+71. On chromatic sums and distributed resource allocation
+Citations:177
+Authors: A Bar-Noy, M Bellare, MM Halldórsson, H Shachnai, T Tamir
+Publication: Information and Computation 140 (2), 183-202
+
+72. DHAES: An Encryption Scheme Based on the Diffie-Hellman Problem.
+Citations:167
+Authors: M Abdalla, M Bellare, P Rogaway
+Publication: IACR Cryptology ePrint Archive 1999, 7
+
+73. Randomness-efficient oblivious sampling
+Citations:166
+Authors: M Bellare, J Rompel
+Publication: Proceedings 35th Annual Symposium on Foundations of Computer Science, 276-287
+
+74. Deterministic encryption: Definitional equivalences and constructions without random oracles
+Citations:165
+Authors: M Bellare, M Fischlin, A O’Neill, T Ristenpart
+Publication: Annual International Cryptology Conference, 360-378
+
+75. Semantic security for the wiretap channel
+Citations:161
+Authors: M Bellare, S Tessaro, A Vardy
+Publication: Annual Cryptology Conference, 294-311
+
+76. Method and apparatus for three-party entity authentication and key distribution using message authentication codes
+Citations:160
+Authors: MM Bellare, PW Rogaway
+Publication: US Patent 5,491,750
+
+77. Incremental cryptography and application to virus protection
+Citations:158
+Authors: M Bellare, O Goldreich, S Goldwasser
+Publication: STOC 95, 45-56
+
+78. Randomness re-use in multi-recipient encryption schemeas
+Citations:154
+Authors: M Bellare, A Boldyreva, J Staddon
+Publication: International Workshop on Public Key Cryptography, 85-99
+
+79. Verifiable Partial Key Escrow.
+Citations:152
+Authors: M Bellare, S Goldwasser
+Publication: ACM Conference on Computer and Communications Security 1997, 78-91
+
+80. From identification to signatures via the Fiat-Shamir transform: Minimizing assumptions for security and forward-security
+Citations:150
+Authors: M Abdalla, JH An, M Bellare, C Namprempre
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+81. Hash function balance and its impact on birthday attacks
+Citations:147
+Authors: M Bellare, T Kohno
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+82. The complexity of approximating a nonlinear program
+Citations:144
+Authors: M Bellare, P Rogaway
+Publication: Complexity in numerical optimization, 16-32
+
+83. New paradigms for digital signatures and message authentication based on non-interactive zero knowledge proofs
+Citations:141
+Authors: M Bellare, S Goldwasser
+Publication: Conference on the Theory and Application of Cryptology, 194-211
+
+84. Hedged public-key encryption: How to protect against bad randomness
+Citations:135
+Authors: M Bellare, Z Brakerski, M Naor, T Ristenpart, G Segev, H Shacham, ...
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+85. Does parallel repetition lower the error in computationally sound protocols?
+Citations:129
+Authors: M Bellare, R Impagliazzo, M Naor
+Publication: Proceedings 38th Annual Symposium on Foundations of Computer Science, 374-383
+
+86. Two-tier signatures, strongly unforgeable signatures, and Fiat-Shamir without random oracles
+Citations:128
+Authors: M Bellare, S Shoup
+Publication: International Workshop on Public Key Cryptography, 201-216
+
+87. Towards plaintext-aware public-key encryption without random oracles
+Citations:126
+Authors: M Bellare, A Palacio
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+88. Block cipher mode of operation for secure, length-preserving encryption
+Citations:126
+Authors: M Bellare, PW Rogaway
+Publication: US Patent 5,673,319
+
+89. Perfect zero-knowledge in constant rounds
+Citations:123
+Authors: M Bellare, S Micali, R Ostrovsky
+Publication: STOC 90, 482-493
+
+90. Increasing the lifetime of a key: a comparative analysis of the security of re-keying techniques
+Citations:117
+Authors: M Abdalla, M Bellare
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+91. Systems and methods for securing data using multi-factor or keyed dispersal
+Citations:116
+Authors: RL Orsini, MS O'hare, M Bellare, P Rogaway
+Publication: US Patent 8,473,756
+
+92. Robust encryption
+Citations:115
+Authors: M Abdalla, M Bellare, G Neven
+Publication: Theory of Cryptography Conference, 480-497
+
+93. The AuthA protocol for password-based authenticated key exchange
+Citations:114
+Authors: M Bellare, P Rogaway
+Publication: Contributions to IEEE P 1363, 2000
+
+94. Simulation without the artificial abort: Simplified proof and improved concrete security for Waters’ IBE scheme
+Citations:112
+Authors: M Bellare, T Ristenpart
+Publication: Annual International Conference on the Theory and Applications of …
+
+95. The Power of Verification Queries in Message Authentication and Authenticated Encryption.
+Citations:111
+Authors: M Bellare, O Goldreich, A Mityagin
+Publication: IACR Cryptology ePrint Archive 2004, 309
+
+96. “Pseudo-random” number generation within cryptographic algorithms: The DSS case
+Citations:111
+Authors: M Bellare, S Goldwasser, D Micciancio
+Publication: Advances in Cryptology—CRYPTO'97, 277-291
+
+97. Unrestricted aggregate signatures
+Citations:109
+Authors: M Bellare, C Namprempre, G Neven
+Publication: International Colloquium on Automata, Languages, and Programming, 411-422
+
+98. The FFX mode of operation for format-preserving encryption
+Citations:107
+Authors: M Bellare, P Rogaway, T Spies
+Publication: NIST submission 20
+
+99. How to sign given any trapdoor permutation
+Citations:107
+Authors: M Bellare, S Micali
+Publication: Journal of the ACM 39 (1), 214-233
+
+100. Pseudorandom functions and permutations provably secure against related-key attacks
+Citations:105
+Authors: M Bellare, D Cash
+Publication: Annual Cryptology Conference, 666-684
+
+101. Improved security analyses for CBC MACs
+Citations:105
+Authors: M Bellare, K Pietrzak, P Rogaway
+Publication: Annual International Cryptology Conference, 527-545
+
+102. Transitive signatures: new schemes and proofs
+Citations:103
+Authors: M Bellare, G Neven
+Publication: IEEE Transactions on Information Theory 51 (6), 2133-2151
+
+103. Randomness in interactive proofs
+Citations:100
+Authors: M Bellare, O Goldreich, S Goldwasser
+Publication: Computational Complexity 3 (4), 319-354
+
+104. On-line ciphers and the hash-cbc constructions
+Citations:99
+Authors: M Bellare, A Boldyreva, L Knudsen, C Namprempre
+Publication: Journal of Cryptology 25 (4), 640-679
+
+105. Identity-based multi-signatures from RSA
+Citations:99
+Authors: M Bellare, G Neven
+Publication: Cryptographers’ Track at the RSA Conference, 145-162
+
+106. Identification protocols secure against reset attacks
+Citations:98
+Authors: M Bellare, M Fischlin, S Goldwasser, S Micali
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+107. The security of the cipher block chaining message authentication code
+Citations:97
+Authors: M Bellare, J Kilian, P Rogaway
+Publication: Advances in Cryptology–CRYPTO 94, 341-358
+
+108. Cryptography secure against related-key attacks and tampering
+Citations:93
+Authors: M Bellare, D Cash, R Miller
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+109. The (true) complexity of statistical zero knowledge
+Citations:93
+Authors: M Bellare, S Micali, R Ostrovsky
+Publication: STOC 90, 494-502
+
+110. Robust computational secret sharing and a unified account of classical secret-sharing goals
+Citations:92
+Authors: M Bellare, P Rogaway
+Publication: Proceedings of the 14th ACM conference on Computer and communications …
+
+111. Method for electronic payment system with issuer control
+Citations:92
+Authors: M Bellare, JA Garay, CS Jutla, MM Yung
+Publication: US Patent 5,999,625
+
+112. Certifying permutations: Noninteractive zero-knowledge based on any trapdoor permutation
+Citations:92
+Authors: M Bellare, M Yung
+Publication: Journal of Cryptology 9 (3), 149-166
+
+113. Security of symmetric encryption against mass surveillance
+Citations:90
+Authors: M Bellare, KG Paterson, P Rogaway
+Publication: Annual Cryptology Conference, 1-19
+
+114. Protecting one-time-passwords against man-in-the-middle attacks
+Citations:89
+Authors: R Ganesan, RS Sandhu, AP Cottrell, BJ Schoppert, M Bellare
+Publication: US Patent 7,840,993
+
+115. Adaptively secure garbling with applications to one-time programs and secure outsourcing
+Citations:88
+Authors: M Bellare, VT Hoang, P Rogaway
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+116. Identity-based encryption secure against selective opening attack
+Citations:86
+Authors: M Bellare, B Waters, S Yilek
+Publication: Theory of Cryptography Conference, 235-252
+
+117. Constructing VIL-MACs from FIL-MACs: Message authentication under weakened assumptions
+Citations:86
+Authors: JH An, M Bellare
+Publication: Annual International Cryptology Conference, 252-269
+
+118. The complexity of decision versus search
+Citations:86
+Authors: M Bellare, S Goldwasser
+Publication: SIAM Journal on Computing 23 (1), 97-119
+
+119. Protecting against key-exposure: strongly key-insulated encryption with optimal threshold
+Citations:85
+Authors: M Bellare, A Palacio
+Publication: Applicable Algebra in Engineering, Communication and Computing 16 (6), 379-396
+
+120. How to sign given any trapdoor function
+Citations:84
+Authors: M Bellare, S Micali
+Publication: Conference on the Theory and Application of Cryptography, 200-215
+
+121. Instantiating random oracles via UCEs
+Citations:83
+Authors: M Bellare, VT Hoang, S Keelveedhi
+Publication: Annual Cryptology Conference, 398-415
+
+122. Luby-Rackoff backwards: Increasing security by making block ciphers non-invertible
+Citations:83
+Authors: M Bellare, T Krovetz, P Rogaway
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+123. Many-to-one trapdoor functions and their relation to public-key cryptosystems
+Citations:82
+Authors: M Bellare, S Halevi, A Sahai, S Vadhan
+Publication: Annual International Cryptology Conference, 283-298
+
+124. A Note on Negligible Functions.
+Citations:81
+Authors: M Bellare
+Publication: Journal of Cryptology 15 (4)
+
+125. Systems and methods for distributing and securing data
+Citations:80
+Authors: M Bellare, P Rogaway
+Publication: US Patent 8,155,322
+
+126. Method and apparatus for data authentication in a data communication environment
+Citations:79
+Authors: M Bellare, RA Guerin, PW Rogaway
+Publication: US Patent 5,757,913
+
+127. The power of RSA inversion oracles and the security of Chaum’s RSA-based blind signature scheme
+Citations:77
+Authors: M Bellare, C Namprempre, D Pointcheval, M Semanko
+Publication: International Conference on Financial Cryptography, 319-338
+
+128. On the construction of variable-input-length ciphers
+Citations:77
+Authors: M Bellare, P Rogaway
+Publication: International Workshop on Fast Software Encryption, 231-244
+
+129. Minimizing the use of random oracles in authenticated encryption schemes
+Citations:77
+Authors: M Bellare, P Rogaway
+Publication: International Conference on Information and Communications Security, 1-16
+
+130. System and method for variable length encryption
+Citations:75
+Authors: C Von Mueller, M Bellare, SR Yale, PK Hazel, PE Catinella
+Publication: US Patent 8,769,279
+
+131. Secure login using a multifactor split asymmetric crypto-key with persistent key security
+Citations:75
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,571,471
+
+132. RKA security beyond the linear barrier: IBE, encryption and signatures
+Citations:73
+Authors: M Bellare, KG Paterson, S Thomson
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+133. Round-optimal zero-knowledge arguments based on any one-way function
+Citations:70
+Authors: M Bellare, M Jakobsson, M Yung
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+134. Encapsulated key escrow
+Citations:70
+Authors: M Bellare, S Goldwasser
+Publication: MIT Laboratory for Computer Science Technical Report
+
+135. Interactive message-locked encryption and secure deduplication
+Citations:68
+Authors: M Bellare, S Keelveedhi
+Publication: IACR International Workshop on Public Key Cryptography, 516-538
+
+136. Securing multifactor split key asymmetric crypto keys
+Citations:68
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 8,340,287
+
+137. Cryptographic agility and its relation to circular encryption
+Citations:68
+Authors: T Acar, M Belenkiy, M Bellare, D Cash
+Publication: Annual International Conference on the Theory and Applications of …
+
+138. Uniform generation of NP-witnesses using an NP-oracle
+Citations:68
+Authors: M Bellare, O Goldreich, E Petrank
+Publication: Information and Computation 163 (2), 510-526
+
+139. Hash functions in the dedicated-key setting: Design choices and MPP transforms
+Citations:67
+Authors: M Bellare, T Ristenpart
+Publication: International Colloquium on Automata, Languages, and Programming, 399-410
+
+140. Time delayed key escrow
+Citations:65
+Authors: S Goldwasser, M Bellare
+Publication: US Patent 5,768,388
+
+141. Policy-based signatures
+Citations:64
+Authors: M Bellare, G Fuchsbauer
+Publication: International Workshop on Public Key Cryptography, 520-537
+
+142. Multiple factor private portion of an asymmetric key
+Citations:64
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,630,493
+
+143. Method and apparatus for data authentication in a data communication environment
+Citations:62
+Authors: M Bellare, RA Guerin, PW Rogaway
+Publication: US Patent 5,673,318
+
+144. Stateful public-key cryptosystems: how to encrypt with one 160-bit exponentiation
+Citations:60
+Authors: M Bellare, T Kohno, V Shoup
+Publication: Proceedings of the 13th ACM conference on Computer and communications …
+
+145. Semantically-secure functional encryption: Possibility results, impossibility results and the quest for a general definition
+Citations:59
+Authors: M Bellare, A O’Neill
+Publication: International Conference on Cryptology and Network Security, 218-234
+
+146. Multi-instance security and its application to password-based cryptography
+Citations:59
+Authors: M Bellare, T Ristenpart, S Tessaro
+Publication: Annual Cryptology Conference, 312-329
+
+147. Stateless evaluation of pseudorandom functions: Security beyond the birthday barrier
+Citations:57
+Authors: M Bellare, O Goldreich, H Krawczyk
+Publication: Annual International Cryptology Conference, 270-287
+
+148. Asymmetric key pair having a kiosk mode
+Citations:56
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,599,493
+
+149. Interactive proofs and approximation: reductions from two provers in one round
+Citations:56
+Authors: M Bellare
+Publication: [1993] The 2nd Israel Symposium on Theory and Computing Systems, 266-274
+
+150. Does encryption with redundancy provide authenticity?
+Citations:55
+Authors: JH An, M Bellare
+Publication: International Conference on the Theory and Applications of Cryptographic …
+
+151. Security amplification by composition: The case of doubly-iterated, ideal ciphers
+Citations:55
+Authors: W Aiello, M Bellare, G Di Crescenzo, R Venkatesan
+Publication: Annual International Cryptology Conference, 390-407
+
+152. Multifactor split asymmetric crypto-key with persistent key security
+Citations:54
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,734,045
+
+153. Multirecipient encryption schemes: How to save on bandwidth and computation without sacrificing security
+Citations:52
+Authors: M Bellare, A Boldyreva, K Kurosawa, J Staddon
+Publication: IEEE Transactions on Information Theory 53 (11), 3927-3943
+
+154. VarietyCash: A Multi-Purpose Electronic Payment System.
+Citations:51
+Authors: M Bellare, JA Garay, CS Jutla, M Yung
+Publication: Usenix Workshop on Electronic Commerce
+
+155. Standard security does not imply security against selective-opening
+Citations:49
+Authors: M Bellare, R Dowsley, B Waters, S Yilek
+Publication: Annual International Conference on the Theory and Applications of …
+
+156. A tool for obtaining tighter security analyses of pseudorandom function based constructions, with applications to PRP to PRF conversion.
+Citations:49
+Authors: M Bellare, R Impagliazzo
+Publication: IACR Cryptology ePrint Archive 1999, 24
+
+157. Password-enabled PKI: Virtual smartcards versus virtual soft tokens
+Citations:48
+Authors: R Sandhu, M Bellare, R Ganesan
+Publication: Proceedings of the 1st annual PKI Research Workshop, 89-96
+
+158. Identity-based (lossy) trapdoor functions and applications
+Citations:47
+Authors: M Bellare, E Kiltz, C Peikert, B Waters
+Publication: Annual International Conference on the Theory and Applications of …
+
+159. Probabilistic signature scheme
+Citations:47
+Authors: M Bellare, P Rogaway
+Publication: US Patent 6,266,771
+
+160. Resisting randomness subversion: fast deterministic and hedged public-key encryption in the standard model
+Citations:45
+Authors: M Bellare, VT Hoang
+Publication: Annual International Conference on the Theory and Applications of …
+
+161. Authentication protocol using a multi-factor asymmetric key pair
+Citations:44
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,386,720
+
+162. User-specified sharing of data via policy and/or inference from a hierarchical cryptographic store
+Citations:43
+Authors: KE Lauter, M Bellare, J Benaloh, ME Chase, EJ Horvitz, CD Karkanias
+Publication: US Patent 8,837,718
+
+163. The Security of Practical Two-Party RSA Signature Schemes.
+Citations:43
+Authors: M Bellare, RS Sandhu
+Publication: IACR Cryptology ePrint Archive 2001, 60
+
+164. Subtleties in the definition of IND-CCA: When and how should challenge decryption be disallowed?
+Citations:42
+Authors: M Bellare, D Hofheinz, E Kiltz
+Publication: Journal of Cryptology 28 (1), 29-48
+
+165. The game-playing technique
+Citations:42
+Authors: M Bellare, P Rogaway
+Publication: International Association for Cryptographic Research (IACR) ePrint Archive …
+
+166. Poly-many hardcore bits for any one-way function and a framework for differing-inputs obfuscation
+Citations:41
+Authors: M Bellare, I Stepanovs, S Tessaro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+167. Certifying cryptographic tools: The case of trapdoor permutations
+Citations:41
+Authors: M Bellare, M Yung
+Publication: Annual International Cryptology Conference, 442-460
+
+168. The multi-user security of authenticated encryption: AES-GCM in TLS 1.3
+Citations:40
+Authors: M Bellare, B Tackmann
+Publication: Annual International Cryptology Conference, 247-276
+
+169. The security of chaffing and winnowing
+Citations:39
+Authors: M Bellare, A Boldyreva
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+170. Making Zero-Knowledge Provers E cient
+Citations:37
+Authors: M Bellare, E Petrank
+Publication: Proceedings of the 24th Annual Symposium on the Theory of Computing, ACM
+
+171. Mass-surveillance without the state: Strongly undetectable algorithm-substitution attacks
+Citations:36
+Authors: M Bellare, J Jaeger, D Kane
+Publication: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …
+
+172. A technique for upper bounding the spectral norm with applications to learning
+Citations:36
+Authors: M Bellare
+Publication: Proceedings of the fifth annual workshop on Computational learning theory, 62-70
+
+173. Languages that are easier than their proofs
+Citations:36
+Authors: R Beigel, M Bellare, J Feigenbaum, S Goldwasser
+Publication: [1991] Proceedings 32nd Annual Symposium of Foundations of Computer Science …
+
+174. The secure shell (SSH) transport layer encryption modes
+Citations:34
+Authors: M Bellare, T Kohno, C Namprempre
+Publication: Request for Comments 4344
+
+175. Batch verification with applications to cryptography and checking
+Citations:34
+Authors: M Bellare, JA Garay, T Rabin
+Publication: Latin American Symposium on Theoretical Informatics, 170-191
+
+176. NIZKs with an untrusted CRS: Security in the face of parameter subversion
+Citations:33
+Authors: M Bellare, G Fuchsbauer, A Scafuro
+Publication: International Conference on the Theory and Application of Cryptology and …
+
+177. EAX: A Conventional Authenticated-Encryption Mode.
+Citations:31
+Authors: M Bellare, P Rogaway, DA Wagner
+Publication: IACR Cryptology ePrint Archive 2003, 69
+
+178. Advances in Cryptology-CRYPTO 2000: 20th Annual International Cryptology Conference, Santa Barbara, California, USA, August 20-24, 2000. Proceedings
+Citations:31
+Authors: M Bellare
+Publication: Springer Science & Business Media
+
+179. A characterization of chameleon hash functions and new, efficient designs
+Citations:30
+Authors: M Bellare, T Ristov
+Publication: Journal of cryptology 27 (4), 799-823
+
+180. Encryption Schemes Secure under Selective Opening Attack.
+Citations:30
+Authors: M Bellare, S Yilek
+Publication: IACR Cryptology ePrint Archive 2009, 101
+
+181. Variable-length cipher system and method
+Citations:29
+Authors: C Von Mueller, M Bellare
+Publication: US Patent 9,361,617
+
+182. Asymmetric crypto-graphy with rolling key security
+Citations:29
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 8,099,607
+
+183. Adaptive witness encryption and asymmetric password-based cryptography
+Citations:28
+Authors: M Bellare, VT Hoang
+Publication: IACR International Workshop on Public Key Cryptography, 308-331
+
+184. Hash-function based PRFs: AMAC and its multi-user security
+Citations:27
+Authors: M Bellare, DJ Bernstein, S Tessaro
+Publication: Annual International Conference on the Theory and Applications of …
+
+185. Point-function obfuscation: a framework and generic constructions
+Citations:27
+Authors: M Bellare, I Stepanovs
+Publication: Theory of Cryptography Conference, 565-594
+
+186. From Identification to Signatures Via the Fiat–Shamir Transform: Necessary and Sufficient Conditions for Security and Forward-Security
+Citations:27
+Authors: M Abdalla, JH An, M Bellare, C Namprempre
+Publication: IEEE Transactions on Information Theory 54 (8), 3631-3646
+
+187. Proof checking and approximation: Towards tight results
+Citations:27
+Authors: M Bellare
+Publication: SIGACT news 27 (1)
+
+188. Ratcheted encryption and key exchange: The security of messaging
+Citations:26
+Authors: M Bellare, AC Singh, J Jaeger, M Nyayapati, I Stepanovs
+Publication: Annual International Cryptology Conference, 619-650
+
+189. Polynomial-time, semantically-secure encryption achieving the secrecy capacity
+Citations:25
+Authors: M Bellare, S Tessaro
+Publication: arXiv preprint arXiv:1201.3160
+
+190. Technique for providing multiple levels of security
+Citations:25
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,596,697
+
+191. PSS: Provably secure encoding method for digital signatures
+Citations:25
+Authors: M Bellare, P Rogaway
+Publication: IEEE P1363a: Provably secure signatures
+
+192. Contention in cryptoland: obfuscation, leakage and UCE
+Citations:24
+Authors: M Bellare, I Stepanovs, S Tessaro
+Publication: Theory of Cryptography Conference, 542-564
+
+193. New proofs for NMAC and HMAC: security without collision resistance
+Citations:24
+Authors: M Bellare
+Publication: Journal of Cryptology 28 (4), 844-878
+
+194. Authenticated and misuse-resistant encryption of key-dependent data
+Citations:22
+Authors: M Bellare, S Keelveedhi
+Publication: Annual Cryptology Conference, 610-629
+
+195. On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge.
+Citations:20
+Authors: M Bellare, O Goldreich
+Publication: IACR Cryptology ePrint Archive 2006, 359
+
+196. Distributed pseudo-random bit generators-a new way to speed-up shared coin tossing
+Citations:20
+Authors: M Bellare, JA Garay, T Rabin
+Publication: PODC, 191-200
+
+197. Message-recovery attacks on Feistel-based format preserving encryption
+Citations:19
+Authors: M Bellare, VT Hoang, S Tessaro
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+198. From Identification to Signatures, Tightly: A Framework and Generic Transforms
+Citations:19
+Authors: M Bellare, B Poettering, D Stebila
+Publication: 
+
+199. Knowledge on the average-Perfect, Statistical and Logarithmic
+Citations:19
+Authors: W Aiello, M Bellare, R Venkatesan
+Publication: STOC 95, 469-478
+
+200. Provable security support for the Skein hash family
+Citations:18
+Authors: M Bellare, T Kohno, S Lucks, N Ferguson, B Schneier, D Whiting, J Callas, ...
+Publication: Online–http://skein-hash. info
+
+201. Translucent cryptography—an alternative to key escrow, and its implementation via fractional oblivious transfer
+Citations:18
+Authors: M Bellare, RL Rivest
+Publication: Journal of cryptology 12 (2), 117-139
+
+202. New negative results on differing-inputs obfuscation
+Citations:16
+Authors: M Bellare, I Stepanovs, B Waters
+Publication: Annual International Conference on the Theory and Applications of …
+
+203. Partial Signatures and their Applications.
+Citations:16
+Authors: M Bellare, S Duan
+Publication: IACR Cryptology ePrint Archive 2009, 336
+
+204. Proving computational ability
+Citations:16
+Authors: M Bellare, O Goldreich
+Publication: Unpublished draft
+
+205. Big-key symmetric encryption: Resisting key exfiltration
+Citations:14
+Authors: M Bellare, D Kane, P Rogaway
+Publication: Annual International Cryptology Conference, 373-402
+
+206. OCB Mode.
+Citations:14
+Authors: P Rogaway, M Bellare, J Black, T Krovetz
+Publication: IACR Cryptology ePrint Archive 2001, 26
+
+207. Key-versatile signatures and applications: RKA, KDM and joint enc/sig
+Citations:13
+Authors: M Bellare, S Meiklejohn, S Thomson
+Publication: Annual International Conference on the Theory and Applications of …
+
+208. Architecture for asymmetric crypto-key storage
+Citations:13
+Authors: R Sandhu, B Schoppert, R Ganesan, M Bellare, C deSa
+Publication: US Patent App. 11/055,987
+
+209. Free bits, PCPs and non-approximability-Towards tight results. version 3
+Citations:13
+Authors: M Bellare
+Publication: Electronic Colloquium on Computational Complexity, Jan 1996
+
+210. Nonce-based cryptography: retaining security when randomness fails
+Citations:12
+Authors: M Bellare, B Tackmann
+Publication: Annual International Conference on the Theory and Applications of …
+
+211. On the structure of secret key exchange protocols
+Citations:12
+Authors: M Bellare, L Cowen, S Goldwasser
+Publication: Conference on the Theory and Application of Cryptology, 604-605
+
+212. Symmetric and Dual PRFs from Standard Assumptions: A Generic Validation of an HMAC Assumption.
+Citations:11
+Authors: M Bellare, A Lysyanskaya
+Publication: IACR Cryptology ePrint Archive 2015, 1198
+
+213. Cryptography from compression functions: The UCE bridge to the ROM
+Citations:11
+Authors: M Bellare, VT Hoang, S Keelveedhi
+Publication: Annual Cryptology Conference, 169-187
+
+214. Roaming utilizing an asymmetric key pair
+Citations:11
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 8,213,608
+
+215. Key insulation and intrusion resilience over a public channel
+Citations:11
+Authors: M Bellare, S Duan, A Palacio
+Publication: Cryptographers’ Track at the RSA Conference, 84-99
+
+216. Identity-based format-preserving encryption
+Citations:10
+Authors: M Bellare, VT Hoang
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+217. Deterring certificate subversion: efficient double-authentication-preventing signatures
+Citations:10
+Authors: M Bellare, B Poettering, D Stebila
+Publication: IACR International Workshop on Public Key Cryptography, 121-151
+
+218. Ciphers that Securely Encipher their own Keys.
+Citations:10
+Authors: M Bellare, D Cash, S Keelveedhi
+Publication: ACM Conference on Computer and Communications Security, 423-432
+
+219. On the role of shared randomness in two prover proof systems
+Citations:10
+Authors: M Bellare, U Feige, J Kilian
+Publication: Proceedings Third Israel Symposium on the Theory of Computing and Systems …
+
+220. Systems and methods for securing data using multi-factor or keyed dispersal
+Citations:8
+Authors: MS O'hare, RL Orsini, M Bellare, P Rogaway
+Publication: US Patent App. 15/789,623
+
+221. On probabilistic versus deterministic provers in the definition of proofs of knowledge
+Citations:8
+Authors: M Bellare, O Goldreich
+Publication: Studies in Complexity and Cryptography. Miscellanea on the Interplay between …
+
+222. O. G oldreich. O n de fi ning proofs of knowledge
+Citations:8
+Authors: M Bellare
+Publication: Advances in Cryptology—CRYPTO 92, 390-4
+
+223. Roaming utilizing an asymmetric key pair
+Citations:7
+Authors: R Sandhu, B Schoppert, R Ganesan, M Bellare, C deSa
+Publication: US Patent App. 11/056,116
+
+224. Proposal for P1363 study group on password-based authenticated-key-exchange methods
+Citations:7
+Authors: M Bellare
+Publication: IEEE P1363. 2
+
+225. How secure is deterministic encryption?
+Citations:6
+Authors: M Bellare, R Dowsley, S Keelveedhi
+Publication: IACR International Workshop on Public Key Cryptography, 52-73
+
+226. Systems and methods for distributing and securing data
+Citations:6
+Authors: M Bellare, P Rogaway
+Publication: US Patent 8,787,583
+
+227. Evaluation of Security Level of Cryptography ECDHS (from SEC 1)
+Citations:6
+Authors: P Rogaway, M Bellare, D Boneh
+Publication: 
+
+228. Proposal to NIST for a block-cipher mode of operation which simultaneously provides privacy and authenticity
+Citations:6
+Authors: P Rogaway, M Bellare, J Black, T Krovetz
+Publication: 
+
+229. Systems and methods for distributing and securing data
+Citations:5
+Authors: M Bellare, P Rogaway
+Publication: US Patent 9,407,431
+
+230. System and method for variable length encryption
+Citations:5
+Authors: C Von Mueller, M Bellare, SR Yale, PK Hazel, PE Catinella
+Publication: US Patent 9,294,268
+
+231. Randomness-efficient sampling of arbitrary functions
+Citations:5
+Authors: M Bellare, J Rompel
+Publication: Massachusetts Institute of Technology, Laboratory for Computer Science
+
+232. Better than advertised: improved collision-resistance guarantees for MD-based hash functions
+Citations:4
+Authors: M Bellare, J Jaeger, J Len
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+233. System and method for generating and managing product authentication codes
+Citations:4
+Authors: JS Kunin, M Bellare, N Pasricha
+Publication: US Patent 9,432,337
+
+234. System and method for variable length encryption
+Citations:4
+Authors: C Von Mueller, M Bellare, S Yale, PK Hazel, PE Catinella
+Publication: US Patent App. 15/012,739
+
+235. Block ciphers
+Citations:4
+Authors: M Bellare, P Rogaway
+Publication: Lecture Notes, March
+
+236. Public-key encryption resistant to parameter subversion and its realization from efficiently-embeddable groups
+Citations:3
+Authors: B Auerbach, M Bellare, E Kiltz
+Publication: IACR International Workshop on Public Key Cryptography, 348-377
+
+237. Systems and methods for securing data using multi-factor or keyed dispersal
+Citations:3
+Authors: MS O'hare, RL Orsini, M Bellare, P Rogaway
+Publication: US Patent 9,825,927
+
+238. New multi-signature schemes and a general forking lemma
+Citations:3
+Authors: M Bellare, G Neven
+Publication: Proceedings of the 13th Conference on Computer and Communications Security …
+
+239. Languages that are Easier than their Proofs
+Citations:3
+Authors: M Bellare, S Goldwasser
+Publication: SIAM J. on Computing 60, 63-66
+
+240. The HMAC papers
+Citations:3
+Authors: M Bellare, R Canetti, H Krawczyk
+Publication: 
+
+241. The Fiat-Shamir zoo: relating the security of different signature variants
+Citations:2
+Authors: M Backendal, M Bellare, J Sorrell, J Sun
+Publication: Nordic Conference on Secure IT Systems, 154-170
+
+242. Forward-security under continual leakage
+Citations:2
+Authors: M Bellare, A O’Neill, I Stepanovs
+Publication: International Conference on Cryptology and Network Security, 3-26
+
+243. Defending against key exfiltration: efficiency improvements for big-key cryptography via large-alphabet subkey prediction
+Citations:2
+Authors: M Bellare, W Dai
+Publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+
+244. Systems and methods for distributing and securing data
+Citations:2
+Authors: M Bellare, P Rogaway
+Publication: US Patent 9,774,449
+
+245. An extension of the FF2 FPE Scheme
+Citations:2
+Authors: J Vance, M Bellare
+Publication: Submission to NIST
+
+246. An open letter from US researchers in cryptography and information security
+Citations:2
+Authors: M Abadi, H Abelson, A Acquisti, B Barak, M Bellare, S Bellovin
+Publication: 
+
+247. Technique for asymmetric crypto-key generation
+Citations:2
+Authors: RS Sandhu, BJ Schoppert, R Ganesan, M Bellare, CJ Desa
+Publication: US Patent 7,565,527
+
+248. Information Security and Cryptography
+Citations:2
+Authors: U Maurer, M Abadi, R Anderson, M Bellare, O Goldreich, T Okamoto, ...
+Publication: Springer Press
+
+249. Internet X. 509 public key infrastructure certificate and CRL profile.
+Citations:2
+Authors: K Rabah, DE Comer, R Rivest, J Gavin, K McCloghrie, M Bellare, K Joe, ...
+Publication: Information Technology Journal 4 (3), pp: 341-358-pp: 341-358
+
+250. The UCSD active web
+Citations:2
+Authors: J Pasquale, R Belew, J Ferrante, R Impagliazzo, V Rangan, S Baden, ...
+Publication: 
+
+251. Message Authentication
+Citations:2
+Authors: M Bellare, S Goldwasserſ
+Publication: Advances in Cryptology-CRYPTO'89: Proceedings 435, 194
+
+252. Secure transport protocols for high-speed networks
+Citations:2
+Authors: E Basturk, M Bellare, CS Chow, R Guérin, RG Erin
+Publication: IBM Research Report Report RC 19981 IBM TJ Watson Research Center Yorktown …
+
+253. Foundations of group signatures
+Citations:2
+Authors: M Bellare, D Micciancio, B Warinschi
+Publication: Eurocrypt 2003, 614-629
+
+254. Nonces are Noticed: AEAD Revisited
+Citations:1
+Authors: M Bellare, R Ng, B Tackmann
+Publication: 
+
+255. Introduction to Pairing-Based Cryptography
+Citations:1
+Authors: M Bellare
+Publication: University of California at San Diego
+
+256. Rekeyed Digital Signature Schemes: Damage-containment in the face of key exposure
+Citations:1
+Authors: M Abdalla, M Bellare
+Publication: Manuscript. July 132, 134
+
+257. The security of cha ng and winnowing
+Citations:1
+Authors: M Bellare, A Boldyrevay
+Publication: Available from IACR ePrint archive (report 2000/010)
+
+258. On Defining Proofs of Knowledge
+Citations:1
+Authors: O Goldreich, M Bellare
+Publication: Technion-Israel Institute of Technology. Department of Computer Science
+
+259. Minimizing the use of random oracles in P1363 encryption schemes
+Citations:1
+Authors: M Bellare, P Rogaway
+Publication: Contribution on IEEE P 1364
+
+260. Systems and methods for distributing and securing data
+Citations:
+Authors: M Bellare, P Rogaway
+Publication: US Patent App. 15/714,877
+
+261. Keying hash functions for message authentication.
+Citations:
+Authors: B Wang, X Sun, Z Ruan, H Ren, M Li, Y Liu, Z Yang, Y Liu, Z Ruan, X Sun, ...
+Publication: Information Technology Journal 10 (4), pp: 1-9
+
+262. Analystical Characteristics of the Data Encryption Standard Advances in Cryptology.
+Citations:
+Authors: K Rabah, K Rabah, KVO Rabah, K Rabah, AJ Menezes, PC van Oorschot, ...
+Publication: Information Technology Journal 4 (4), 604-633
+
+263. Evaluation of Security Level of Cryptography
+Citations:
+Authors: D Boneh, M Bellare, P Rogaway
+Publication: 
+
+264. ECDHS (from SEC 1)
+Citations:
+Authors: P Rogaway, M Bellare, D Boneh
+Publication: 
+
+265. ECMQVS (from SEC 1)
+Citations:
+Authors: P Rogaway, M Bellare, D Boneh
+Publication: 
+
+266. The AuthA protocol for password-based authenticated key exchange, Password-Based Public-Key Cryptography, Submissions to IEEE P1363. 2
+Citations:
+Authors: M BELLARE
+Publication: IEEE P1363. 2
+
+267. On the Security of Some Password Based Key Agreement Schemes.
+Citations:
+Authors: YK Ibrahim, M Bellare, P Rogaway, SM Bellovin, M Merritt, CS Laih, ...
+Publication: Trends in Applied Sciences Research 2 (5), pp: 72-84
+
+268. " The AuthA Protocol for Password-Based Authenticated Key Exchange", IEEE P1363. 2: Password-Based Public-Key Cryptography
+Citations:
+Authors: M BELLARE
+Publication: http://grouper. ieee. org/groups/1363/passwdPK/submissions. html
+
+269. " Proposal for P1363 Study Group on Password-Based Authenticated-Key-Exchange Methods", IEEE P1363. 2: Password-Based Public-Key Cryptography
+Citations:
+Authors: M BELLARE
+Publication: http://grouper. ieee. org/groups/1363/passwdPK/submissions. html
+
+270. Identity-based deniable authentication protocol.
+Citations:
+Authors: B Meng, F Shao, Y Aumann, M Rabin, M Bellare, R Canetti, H Krawczyk, ...
+Publication: Information Technology Journal 10 (3), pp: 419-428
+
+271. Addendum to the paper\Randomness in Interactive Proofs
+Citations:
+Authors: M Bellare, O Goldreichy, S Goldwasser
+Publication: 
+
+272. Non-Repudiation in set: Open issues.
+Citations:
+Authors: B Meng, M Abadi, AD Gordon, M Abadi, P Rogaway, M Abadi, C Fournet, ...
+Publication: Information Technology Journal 10 (6), pp: 36-47
+
+273. Security, ACM, 1997. Earlier version was Technical Report CS95-447, Department of Computer Science and Engineering, University of California at San Diego, October 1995.
+Citations:
+Authors: VPK Escrow, M Bellare, S Goldwasser
+Publication: 
+
+274. An abridged version of this paper appears in Advances in Cryptology-hurocrypt 97 Proceedings, Lecture Notes in Computer Science Vol.??, W. Fumy ed., Springer-Verlag, 1997.
+Citations:
+Authors: MR BEllARE, D MicciANcio
+Publication: 
+
+275. Security, ACM, 1997. Earlier version was Technical Report CS95-447, Department of Computer Science and Engineering, University of California at San Diego, October 1995.
+Citations:
+Authors: M Bellare, S Goldwasser
+Publication: 
+
+276. Appears in Advances in 2ryptology-Purocrypt 96 Yroceedings, Lecture Notes in Computer Science Vol. 1070, U. Maurer ed., Springer-Verlag, 1996.
+Citations:
+Authors: M Bellare, PH ROgAWA
+Publication: 
+
+277. Deterministic authenticated-encryption: A provable-security treatment of the keywrap problem.
+Citations:
+Authors: M Abbadi, M Bellare, R Canetti, H Krawczyk, M Bellare, P Rogaway, ...
+Publication: Journal of Applied Sciences 8 (21), pp: 1-15
+
+278. MAKING ZERO-KNOWLEDGE PROVERS
+Citations:
+Authors: M Bellare, E Petrank
+Publication: Computer Science Department, Technion
+
+279. Rump session: Impromptu talks
+Citations:
+Authors: M BELLARE, L COWEN, SG WASSER, A SHAMIR
+Publication: Advances in Cryptology-CRYPTO'89: Proceedings 435, 1
+
+280. Appears in omputational ompleAity Vol. 3, 319-354, 1993. Preliminary version in FOCS 90.
+Citations:
+Authors: MHR BEllARE, OE GOldREiCH, S GOldWAssER
+Publication: 
+
+281. A signature scheme based on trapdoor permutations
+Citations:
+Authors: M Bellare
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+282. Bibliography
+Citations:
+Authors: M Abdalla, M Bellare, P Rogaway, LM Adleman, GL Miller, MF Atiyah, ...
+Publication: 
+
+283. Two-Tier Signatures, Strongly Unforgeable Signatures, and Fiat-Shamir without Random
+Citations:
+Authors: M Bellare, S Shoup
+Publication: 
+
+284. Multi-Property-Preserving Hash Domain Extension and the EMD Transform (Enveloped Merkle-Damgard)
+Citations:
+Authors: M Bellare, T Ristenpart
+Publication: 
+

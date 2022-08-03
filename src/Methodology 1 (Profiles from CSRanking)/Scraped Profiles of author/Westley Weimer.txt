@@ -1,0 +1,626 @@
+https://scholar.google.com/citations?hl=en&user=Tj-vav8AAAAJ
+Total Citations = 12668
+
+1. Oceanstore: An architecture for global-scale persistent storage
+Citations:3209
+Authors: J Kubiatowicz, D Bindel, Y Chen, S Czerwinski, P Eaton, D Geels, ...
+Publication: ACM SIGARCH Computer Architecture News 28 (5), 190-201
+
+2. CIL: Intermediate language and tools for analysis and transformation of C programs
+Citations:1162
+Authors: GC Necula, S McPeak, SP Rahul, W Weimer
+Publication: International Conference on Compiler Construction, 213-228
+
+3. CCured: Type-safe retrofitting of legacy code
+Citations:801
+Authors: GC Necula, S McPeak, W Weimer
+Publication: ACM SIGPLAN Notices 37 (1), 128-139
+
+4. CCured: Type-safe retrofitting of legacy code
+Citations:798
+Authors: GC Necula, S McPeak, W Weimer
+Publication: ACM SIGPLAN Notices 37 (1), 128-139
+
+5. Automatically finding patches using genetic programming
+Citations:595
+Authors: W Weimer, TV Nguyen, C Le Goues, S Forrest
+Publication: Proceedings of the 31st International Conference on Software Engineering …
+
+6. Genprog: A generic method for automatic software repair
+Citations:547
+Authors: C Le Goues, TV Nguyen, S Forrest, W Weimer
+Publication: Ieee transactions on software engineering 38 (1), 54-72
+
+7. A systematic study of automated program repair: Fixing 55 out of 105 bugs for $8 each
+Citations:417
+Authors: C Le Goues, M Dewey-Vogt, S Forrest, W Weimer
+Publication: 2012 34th International Conference on Software Engineering (ICSE), 3-13
+
+8. CCured: type-safe retrofitting of legacy software
+Citations:361
+Authors: GC Necula, J Condit, M Harren, S McPeak, W Weimer
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (3), 477-526
+
+9. Modeling bug report quality
+Citations:280
+Authors: P Hooimeijer, W Weimer
+Publication: Proceedings of the twenty-second IEEE/ACM international conference on …
+
+10. Automated duplicate detection for bug tracking systems
+Citations:256
+Authors: N Jalbert, W Weimer
+Publication: 2008 IEEE International Conference on Dependable Systems and Networks With …
+
+11. Mining temporal specifications for error detection
+Citations:252
+Authors: W Weimer, GC Necula
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+12. A genetic programming approach to automated software repair
+Citations:217
+Authors: S Forrest, TV Nguyen, W Weimer, C Le Goues
+Publication: Proceedings of the 11th Annual conference on Genetic and evolutionary …
+
+13. CCured in the real world
+Citations:214
+Authors: J Condit, M Harren, S McPeak, GC Necula, W Weimer
+Publication: ACM SIGPLAN Notices 38 (5), 232-244
+
+14. Temporal-safety proofs for systems code
+Citations:211
+Authors: TA Henzinger, GC Necula, R Jhala, G Sutre, R Majumdar, W Weimer
+Publication: International Conference on Computer Aided Verification, 526-538
+
+15. Learning a metric for code readability
+Citations:198
+Authors: RPL Buse, WR Weimer
+Publication: IEEE Transactions on Software Engineering 36 (4), 546-558
+
+16. Automatic program repair with evolutionary computation
+Citations:177
+Authors: W Weimer, S Forrest, C Le Goues, TV Nguyen
+Publication: Communications of the ACM 53 (5), 109-116
+
+17. Leveraging program equivalence for adaptive program repair: Models and first results
+Citations:173
+Authors: W Weimer, ZP Fry, S Forrest
+Publication: 2013 28th IEEE/ACM International Conference on Automated Software …
+
+18. Finding and preventing run-time error handling mistakes
+Citations:143
+Authors: W Weimer, GC Necula
+Publication: ACM SIGPLAN Notices 39 (10), 419-431
+
+19. Synthesizing API usage examples
+Citations:141
+Authors: RPL Buse, W Weimer
+Publication: Proceedings of the 34th International Conference on Software Engineering …
+
+20. A metric for software readability
+Citations:141
+Authors: RPL Buse, WR Weimer
+Publication: Proceedings of the 2008 international symposium on Software testing and …
+
+21. Current challenges in automatic software repair
+Citations:129
+Authors: C Le Goues, S Forrest, W Weimer
+Publication: Software quality journal 21 (3), 421-443
+
+22. The ManyBugs and IntroClass benchmarks for automated repair of C programs
+Citations:128
+Authors: C Le Goues, N Holtschulte, EK Smith, Y Brun, P Devanbu, S Forrest, ...
+Publication: IEEE Transactions on Software Engineering 41 (12), 1236-1256
+
+23. Using genetic improvement and code transplants to specialise a C++ program to a problem class
+Citations:118
+Authors: J Petke, M Harman, WB Langdon, W Weimer
+Publication: European Conference on Genetic Programming, 137-149
+
+24. Automatically documenting program changes.
+Citations:117
+Authors: RPL Buse, W Weimer
+Publication: ASE 10, 33-42
+
+25. Automatic documentation inference for exceptions
+Citations:114
+Authors: RPL Buse, WR Weimer
+Publication: Proceedings of the 2008 international symposium on Software testing and …
+
+26. Automated dynamic analysis of CUDA programs
+Citations:108
+Authors: M Boyer, K Skadron, W Weimer
+Publication: Third Workshop on Software Tools for MultiCore Systems, 33
+
+27. Patches as better bug reports
+Citations:105
+Authors: W Weimer
+Publication: Proceedings of the 5th international conference on Generative programming …
+
+28. A decision procedure for subset constraints over regular languages
+Citations:98
+Authors: P Hooimeijer, W Weimer
+Publication: ACM Sigplan Notices 44 (6), 188-198
+
+29. Macrolab: a vector-based macroprogramming framework for cyber-physical systems
+Citations:89
+Authors: TW Hnat, TI Sookoor, P Hooimeijer, W Weimer, K Whitehouse
+Publication: Proceedings of the 6th ACM conference on Embedded network sensor systems …
+
+30. Competitor analysis and its defenses in the e-marketplace
+Citations:85
+Authors: YP Sheng, PP Mykytyn Jr, CR Litecky
+Publication: Communications of the ACM 48 (8), 107-112
+
+31. Post-compiler software optimization for reducing energy
+Citations:78
+Authors: E Schulte, J Dorn, S Harding, S Forrest, W Weimer
+Publication: ACM SIGARCH Computer Architecture News 42 (1), 639-652
+
+32. Genetic programming for shader simplification
+Citations:72
+Authors: P Sitthi-Amorn, N Modly, W Weimer, J Lawrence
+Publication: ACM Transactions on Graphics (TOG) 30 (6), 152
+
+33. A human study of patch maintainability
+Citations:71
+Authors: ZP Fry, B Landau, W Weimer
+Publication: Proceedings of the 2012 International Symposium on Software Testing and …
+
+34. Specification mining with few false positives
+Citations:71
+Authors: C Le Goues, W Weimer
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+35. Do the fix ingredients already exist? an empirical inquiry into the redundancy assumptions of program repair approaches
+Citations:69
+Authors: M Martinez, W Weimer, M Monperrus
+Publication: Companion Proceedings of the 36th International Conference on Software …
+
+36. Software mutational robustness
+Citations:67
+Authors: E Schulte, ZP Fry, E Fast, W Weimer, S Forrest
+Publication: Genetic Programming and Evolvable Machines 15 (3), 281-312
+
+37. Using dynamic analysis to discover polynomial and array invariants
+Citations:66
+Authors: TV Nguyen, D Kapur, W Weimer, S Forrest
+Publication: Proceedings of the 34th International Conference on Software Engineering …
+
+38. Automated program repair through the evolution of assembly code
+Citations:66
+Authors: E Schulte, S Forrest, W Weimer
+Publication: Proceedings of the IEEE/ACM international conference on Automated software …
+
+39. Representations and operators for improving evolutionary software repair
+Citations:64
+Authors: C Le Goues, W Weimer, S Forrest
+Publication: Proceedings of the 14th annual conference on Genetic and evolutionary …
+
+40. Exceptional situations and program reliability
+Citations:62
+Authors: W Weimer, GC Necula
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 30 (2), 8
+
+41. Oceanstore: An extremely wide-area storage system
+Citations:62
+Authors: D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proceedings of the 9th International Conference on Architectural Support for …
+
+42. Deep parameter optimisation
+Citations:61
+Authors: F Wu, W Weimer, M Harman, Y Jia, J Krinke
+Publication: Proceedings of the 2015 Annual Conference on Genetic and Evolutionary …
+
+43. The surprising creativity of digital evolution: A collection of anecdotes from the evolutionary computation and artificial life research communities
+Citations:56
+Authors: J Lehman, J Clune, D Misevic, C Adami, L Altenberg, J Beaulieu, ...
+Publication: arXiv preprint arXiv:1803.03453
+
+44. Macrodebugging: global views of distributed program execution
+Citations:56
+Authors: T Sookoor, T Hnat, P Hooimeijer, W Weimer, K Whitehouse
+Publication: Proceedings of the 7th ACM Conference on Embedded Networked Sensor Systems …
+
+45. Solving string constraints lazily
+Citations:55
+Authors: P Hooimeijer, W Weimer
+Publication: Proceedings of the IEEE/ACM international conference on Automated software …
+
+46. Designing better fitness functions for automated program repair
+Citations:53
+Authors: E Fast, C Le Goues, S Forrest, W Weimer
+Publication: Proceedings of the 12th annual conference on Genetic and evolutionary …
+
+47. Cil: An infrastructure for C program analysis and transformation
+Citations:52
+Authors: GC Necula, S McPeak, SP Rahul, W Weimer
+Publication: International Conference on Compiler Construction, 213-228
+
+48. Modeling readability to improve unit tests
+Citations:49
+Authors: E Daka, J Campos, G Fraser, J Dorn, W Weimer
+Publication: Proceedings of the 2015 10th Joint Meeting on Foundations of Software …
+
+49. The road not taken: Estimating path execution frequency statically
+Citations:47
+Authors: RPL Buse, W Weimer
+Publication: 2009 IEEE 31st International Conference on Software Engineering, 144-154
+
+50. A human study of fault localization accuracy
+Citations:46
+Authors: ZP Fry, W Weimer
+Publication: 2010 IEEE International Conference on Software Maintenance, 1-10
+
+51. Automated repair of binary and assembly programs for cooperating embedded devices
+Citations:43
+Authors: E Schulte, J DiLorenzo, W Weimer, S Forrest
+Publication: ACM SIGPLAN Notices 48 (4), 317-328
+
+52. Talking to strangers without taking their candy: isolating proxied content
+Citations:42
+Authors: A Felt, P Hooimeijer, D Evans, W Weimer
+Publication: Proceedings of the 1st Workshop on Social Network Systems, 25-30
+
+53. genBRDF: discovering new analytic BRDFs with genetic programming
+Citations:40
+Authors: A Brady, J Lawrence, P Peers, W Weimer
+Publication: ACM Transactions on Graphics (TOG) 33 (4), 114
+
+54. Measuring code quality to improve specification mining
+Citations:39
+Authors: C Le Goues, W Weimer
+Publication: IEEE Transactions on Software Engineering 38 (1), 175-190
+
+55. Genetic programming for reverse engineering
+Citations:37
+Authors: M Harman, WB Langdon, W Weimer
+Publication: 2013 20th Working Conference on Reverse Engineering (WCRE), 1-10
+
+56. Benefits and barriers of user evaluation in software engineering research
+Citations:36
+Authors: RPL Buse, C Sadowski, W Weimer
+Publication: ACM SIGPLAN Notices 46 (10), 643-656
+
+57. Speeding up dataflow analysis using flow-insensitive pointer analysis
+Citations:35
+Authors: S Adams, T Ball, M Das, S Lerner, SK Rajamani, M Seigle, W Weimer
+Publication: International Static Analysis Symposium, 230-246
+
+58. Changing java's semantics for handling null pointer exceptions
+Citations:31
+Authors: K Dobolyi, W Weimer
+Publication: 2008 19th International Symposium on Software Reliability Engineering (ISSRE …
+
+59. StrSolve: solving string constraints lazily
+Citations:29
+Authors: P Hooimeijer, W Weimer
+Publication: Automated Software Engineering 19 (4), 531-559
+
+60. Decoding the representation of code in the brain: an fMRI study of code review and expertise
+Citations:28
+Authors: B Floyd, T Santander, W Weimer
+Publication: 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE …
+
+61. Formal verification by reverse synthesis
+Citations:28
+Authors: X Yin, JC Knight, EA Nguyen, W Weimer
+Publication: International Conference on Computer Safety, Reliability, and Security, 305-319
+
+62. Exploiting refactoring in formal verification
+Citations:27
+Authors: X Yin, J Knight, W Weimer
+Publication: 2009 IEEE/IFIP International Conference on Dependable Systems & Networks, 53-62
+
+63. Using execution paths to evolve software patches
+Citations:26
+Authors: TV Nguyen, W Weimer, C Le Goues, S Forrest
+Publication: 2009 International Conference on Software Testing, Verification, and …
+
+64. Using dynamic analysis to generate disjunctive invariants
+Citations:23
+Authors: TV Nguyen, D Kapur, W Weimer, S Forrest
+Publication: Proceedings of the 36th International Conference on Software Engineering …
+
+65. Harnessing web-based application similarities to aid in regression testing
+Citations:22
+Authors: K Dobolyi, W Weimer
+Publication: 2009 20th International Symposium on Software Reliability Engineering, 71-80
+
+66. DIG: a dynamic invariant generator for polynomial and array invariants
+Citations:21
+Authors: T Nguyen, D Kapur, W Weimer, S Forrest
+Publication: ACM Transactions on Software Engineering and Methodology (TOSEM) 23 (4), 30
+
+67. RAPID programming of pattern-recognition processors
+Citations:19
+Authors: K Angstadt, W Weimer, K Skadron
+Publication: ACM SIGOPS Operating Systems Review 50 (2), 593-605
+
+68. Repairing COTS router firmware without access to source code or test suites: A case study in evolutionary software repair
+Citations:19
+Authors: EM Schulte, W Weimer, S Forrest
+Publication: Proceedings of the Companion Publication of the 2015 Annual Conference on …
+
+69. Oceanstore: An extremely wide-area storage system
+Citations:18
+Authors: J Kubiatowicz, D Bindel, Y Chen, P Eaton, D Geels, R Gummadi, S Rhea, ...
+Publication: Proc. Nineth Int’l Conf. Architectural Support for Programming Languages and …
+
+70. Unit test generation during software development: Evosuite plugins for maven, intellij and jenkins
+Citations:17
+Authors: A Arcuri, J Campos, G Fraser
+Publication: 2016 IEEE International Conference on Software Testing, Verification and …
+
+71. Dynamic witnesses for static type errors (or, ill-typed programs usually go wrong)
+Citations:15
+Authors: EL Seidel, R Jhala, W Weimer
+Publication: Journal of Functional Programming 28
+
+72. Clustering static analysis defect reports to reduce maintenance costs
+Citations:13
+Authors: ZP Fry, W Weimer
+Publication: 2013 20th Working Conference on Reverse Engineering (WCRE), 282-291
+
+73. Specialising software for different downstream applications using genetic improvement and code transplantation
+Citations:12
+Authors: J Petke, M Harman, WB Langdon, W Weimer
+Publication: IEEE Transactions on Software Engineering 44 (6), 574-594
+
+74. Advances in automated program repair and a call to arms
+Citations:12
+Authors: W Weimer
+Publication: International Symposium on Search Based Software Engineering, 1-3
+
+75. Syntactic regression testing for tree-structured output
+Citations:12
+Authors: E Soechting, K Dobolyi, W Weimer
+Publication: 2009 11th IEEE International Symposium on Web Systems Evolution, 39-48
+
+76. Automating regression testing using web-based application similarities
+Citations:11
+Authors: K Dobolyi, E Soechting, W Weimer
+Publication: International journal on software tools for technology transfer 13 (2), 111-129
+
+77. Privately finding specifications
+Citations:11
+Authors: W Weimer, N Mishra
+Publication: IEEE Transactions on Software Engineering 34 (1), 21-32
+
+78. Modeling consumer-perceived web application fault severities for testing
+Citations:10
+Authors: K Dobolyi, W Weimer
+Publication: Proceedings of the 19th international symposium on Software testing and …
+
+79. Exception-handling bugs in java and a language extension to avoid them
+Citations:10
+Authors: W Weimer
+Publication: Advanced Topics in Exception Handling Techniques, 22-41
+
+80. Learning to blame: localizing novice type errors with data-driven diagnosis
+Citations:9
+Authors: EL Seidel, H Sibghat, K Chaudhuri, W Weimer, R Jhala
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 60
+
+81. Tools and Algorithms for the Construction and Analysis of Systems
+Citations:9
+Authors: N Halbwachs, L Zuck
+Publication: Springer Berlin/Heidelberg.
+
+82. MNCaRT: An open-source, multi-architecture automata-processing research and execution ecosystem
+Citations:8
+Authors: K Angstadt, J Wadden, V Dang, T Xie, D Kramp, W Weimer, M Stan, ...
+Publication: IEEE Computer Architecture Letters 17 (1), 84-87
+
+83. Towards transparent introspection
+Citations:8
+Authors: K Leach, C Spensky, W Weimer, F Zhang
+Publication: 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and …
+
+84. Generating readable unit tests for Guava
+Citations:8
+Authors: E Daka, J Campos, J Dorn, G Fraser, W Weimer
+Publication: International Symposium on Search Based Software Engineering, 235-241
+
+85. Connecting program synthesis and reachability: Automatic program repair using test-input generation
+Citations:7
+Authors: TV Nguyen, W Weimer, D Kapur, S Forrest
+Publication: International Conference on Tools and Algorithms for the Construction and …
+
+86. An uncrewed aerial vehicle attack scenario and trustworthy repair architecture
+Citations:7
+Authors: K Highnam, K Angstadt, K Leach, W Weimer, A Paulos, P Hurley
+Publication: 2016 46th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+87. The case for software evolution
+Citations:7
+Authors: C Le Goues, S Forrest, W Weimer
+Publication: Proceedings of the FSE/SDP workshop on Future of software engineering …
+
+88. A modular and extensible macroprogramming compiler
+Citations:7
+Authors: TW Hnat, TI Sookoor, P Hooimeijer, W Weimer, K Whitehouse
+Publication: Proceedings of the 2010 ICSE Workshop on Software Engineering for Sensor …
+
+89. Taming C pointers
+Citations:7
+Authors: G Necula, S McPeak, W Weimer
+Publication: 
+
+90. Vampyre: A Proof-generating Theorem Prover
+Citations:7
+Authors: D Blei, C Harrelson, R Jhala, R Majumdar, GC Necula, SP Rahul, ...
+Publication: 
+
+91. Neutrality and epistasis in program space
+Citations:6
+Authors: J Renzullo, W Weimer, M Moses, S Forrest
+Publication: Proceedings of the 4th International Workshop on Genetic Improvement …
+
+92. Automatically exploring tradeoffs between software output fidelity and energy costs
+Citations:6
+Authors: J Dorn, J Lacomis, W Weimer, S Forrest
+Publication: IEEE Transactions on Software Engineering 45 (3), 219-236
+
+93. Software mutational robustness: Bridging the gap between mutation testing and evolutionary biology
+Citations:6
+Authors: E Schulte, ZP Fry, S Forrest, W Weimer, E Fast
+Publication: 
+
+94. On mitigating covert channels in RFID-enabled supply chains
+Citations:6
+Authors: K Chawla, G Robins, W Weimer
+Publication: RFIDSec Asia, Singapore 1
+
+95. ASPEN: A scalable In-SRAM architecture for pushdown automata
+Citations:5
+Authors: K Angstadt, A Subramaniyan, E Sadredini, R Rahimi, K Skadron, ...
+Publication: 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture …
+
+96. Scotch: Combining Software Guard Extensions and system management mode to monitor cloud resource usage
+Citations:5
+Authors: K Leach, F Zhang, W Weimer
+Publication: International Symposium on Research in Attacks, Intrusions, and Defenses …
+
+97. Trusted software repair for system resiliency
+Citations:5
+Authors: W Weimer, S Forrest, M Kim, C Le Goues, P Hurley
+Publication: 2016 46th Annual IEEE/IFIP International Conference on Dependable Systems …
+
+98. Towards Automatic Band‐Limited Procedural Shaders
+Citations:5
+Authors: J Dorn, C Barnes, J Lawrence, W Weimer
+Publication: Computer Graphics Forum 34 (7), 77-87
+
+99. Fault localization using textual similarities
+Citations:5
+Authors: ZP Fry, W Weimer
+Publication: arXiv preprint arXiv:1211.2858
+
+100. Data location in the oceanstore
+Citations:5
+Authors: S Rhea, W Weimer
+Publication: unpublished, UC Berkeley. Journal of Nutrition Education & Behavior 44 (4), S25
+
+101. Type-Safe Retrofitting of Legacy Code
+Citations:5
+Authors: GC Necula, S McPeak, W Weimer
+Publication: Proceedings of the 29th Annual ACM Symposium on Principles of Programming …
+
+102. Double Helix and RAVEN: A system for cyber fault tolerance and recovery
+Citations:4
+Authors: M Co, JW Davidson, JD Hiser, JC Knight, A Nguyen-Tuong, W Weimer, ...
+Publication: Proceedings of the 11th Annual Cyber and Information Security Research …
+
+103. Self-repairing programs (dagstuhl seminar 11062)
+Citations:3
+Authors: M Pezzè, MC Rinard, W Weimer, A Zeller
+Publication: Dagstuhl Reports 1 (2)
+
+104. Software mutational robustness and proactive diversity
+Citations:3
+Authors: E Schulte, Z Fry, E Fast, W Weimer, S Forrest
+Publication: Technical Report. University of New Mexico. http://www. cs. unm. edu …
+
+105. Self-repairing programs (dagstuhl seminar 11062)
+Citations:3
+Authors: M Pezzè, MC Rinard, W Weimer, A Zeller
+Publication: Dagstuhl Reports 1 (2)
+
+106. The CCured type system and type inference
+Citations:3
+Authors: W Weimer
+Publication: Computer Science Division, University of California
+
+107. Debugging support for pattern-matching languages and accelerators
+Citations:2
+Authors: M Casias, K Angstadt, T Tracy II, K Skadron, W Weimer
+Publication: Proceedings of the Twenty-Fourth International Conference on Architectural …
+
+108. A MapReduce framework to improve template matching uncertainty
+Citations:2
+Authors: N Napoli, K Leach, L Barnes, W Weimer
+Publication: 2016 International Conference on Big Data and Smart Computing (BigComp), 77-84
+
+109. Generating readable unit tests for guava
+Citations:2
+Authors: W Weimer
+Publication: Search-Based Software Engineering: 7th International Symposium, SSBSE 2015 …
+
+110. Addressing high severity faults in web application testing
+Citations:2
+Authors: K Dobolyi, W Weimer
+Publication: The IASTED International Conference on Software Engineering
+
+111. Simulating dependent types with guarded algebraic datatypes
+Citations:2
+Authors: J Apple, W Weimer
+Publication: Online at http://www. cs. virginia. edu/~ jba5b/singleton/(accessed January …
+
+112. Formal verification by specification extraction
+Citations:2
+Authors: X Yin, J Knight, E Strunk, W Weimer
+Publication: Proceedings: IEEE International Conference on Dependable Systems and Networks
+
+113. Aspect-Oriented Programming
+Citations:2
+Authors: M Deiters
+Publication: Sep
+
+114. Clarifications on the Construction and Use of the ManyBugs Benchmark
+Citations:1
+Authors: C Le Goues, Y Brun, S Forrest, W Weimer
+Publication: IEEE Transactions on Software Engineering 43 (11), 1089-1090
+
+115. Genetic programming for shader simplification
+Citations:1
+Authors: N Modly, W Weimer, J Lawrence
+Publication: ACM Trans. Graph. 30 (6)
+
+116. Fixing Real Bugs in Real Programs using Evolutionary Computing
+Citations:1
+Authors: T Nguyen, W Weimer, C Le Goues, S Forrest
+Publication: Computer Science University of New Mexico Student Conference (CSUSC)
+
+117. The State and Future of Genetic Improvement
+Citations:
+Authors: WB Langdon, W Weimer, C Timperley, O Krauss, ZY Ding, Y Lyu, ...
+Publication: arXiv preprint arXiv:1907.03773
+
+118. Evolutionary computation for improving malware analysis
+Citations:
+Authors: K Leach, R Dougherty, C Spensky, S Forrest, W Weimer
+Publication: Proceedings of the 6th International Workshop on Genetic Improvement, 18-19
+
+119. What goes on in your brain when you read and understand code?
+Citations:
+Authors: W Weimer
+Publication: Proceedings of the 27th International Conference on Program Comprehension, 1-1
+
+120. Distilling neural representations of data structure manipulation using fMRI and fNIRS
+Citations:
+Authors: Y Huang, X Liu, R Krueger, T Santander, X Hu, K Leach, W Weimer
+Publication: Proceedings of the 41st International Conference on Software Engineering …
+
+121. Editor’s Note: Special Issue on Automatic Software Repair
+Citations:
+Authors: M Monperrus, W Weimer
+Publication: Journal of Empirical Software Engineering 23 (5), 2865-2865
+
+122. Portable programming with RAPID
+Citations:
+Authors: K Angstadt, J Wadden, W Weimer, K Skadron
+Publication: IEEE Transactions on Parallel and Distributed Systems 30 (4), 939-952
+
+123. Cooperative, Trusted Software Repair for Cyber Physical System Resiliency
+Citations:
+Authors: W Weimer, S Forrest, CL Goues, M Kim
+Publication: University of Virginia Charlottesville United States
+
+124. Proceedings of the 4th International Genetic Improvement Workshop, GI@ ICSE 2018, Gothenburg, Sweden, June 2, 2018
+Citations:
+Authors: J Petke, KT Stolee, WB Langdon, W Weimer
+Publication: ACM
+
+125. Learning to Blame
+Citations:
+Authors: EL SEIDEL, H SIBGHAT,

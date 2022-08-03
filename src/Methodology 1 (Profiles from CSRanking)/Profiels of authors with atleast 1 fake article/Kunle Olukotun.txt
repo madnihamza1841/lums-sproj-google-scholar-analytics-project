@@ -1,0 +1,455 @@
+
+5. Transactional memory coherence and consistency
+Citations:897
+Authors: L Hammond, V Wong, M Chen, BD Carlstrom, JD Davis, B Hertzberg, ...
+Publication: ACM SIGARCH Computer Architecture News 32 (2), 102
+
+7. The stanford hydra cmp
+Citations:491
+Authors: L Hammond, BA Hubbert, M Siu, MK Prabhu, M Chen, K Olukolun
+Publication: IEEE micro 20 (2), 71-84
+
+9. An effective hybrid transactional memory system with strong isolation guarantees
+Citations:402
+Authors: CC Minh, M Trautmann, JW Chung, A McDonald, N Bronson, J Casper, ...
+Publication: ACM SIGARCH Computer Architecture News 35 (2), 69-80
+
+14. Architectural semantics for practical transactional memory
+Citations:286
+Authors: A McDonald, JW Chung, BD Carlstrom, CC Minh, H Chafi, C Kozyrakis, ...
+Publication: ACM SIGARCH Computer Architecture News 34 (2), 53-65
+
+16. Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs
+Citations:268
+Authors: T Rompf, M Odersky
+Publication: Acm Sigplan Notices 46 (2), 127-136
+
+17. Liszt: a domain specific language for building portable mesh-based PDE solvers
+Citations:245
+Authors: Z DeVito, N Joubert, F Palacios, S Oakley, M Medina, M Barrientos, ...
+Publication: Proceedings of 2011 International Conference for High Performance Computing …
+
+18. In search of speculative thread-level parallelism
+Citations:239
+Authors: JT Oplinger, DL Heine, MS Lam
+Publication: 1999 International Conference on Parallel Architectures and Compilation …
+
+19. A quantitative analysis of reconfigurable coprocessors for multimedia applications
+Citations:218
+Authors: T Miyamori, U Olukotun
+Publication: Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No …
+
+20. The Atomos transactional programming language
+Citations:198
+Authors: BD Carlstrom, A McDonald, H Chafi, JW Chung, CC Minh, C Kozyrakis, ...
+Publication: ACM SIGPLAN Notices 41 (6), 1-13
+
+23. OptiML: an implicitly parallel domain-specific language for machine learning
+Citations:193
+Authors: A Sujeeth, HJ Lee, K Brown, T Rompf, H Chafi, M Wu, A Atreya, ...
+Publication: Proceedings of the 28th International Conference on Machine Learning (ICML …
+
+26. Programming with transactional coherence and consistency (TCC)
+Citations:165
+Authors: L Hammond, BD Carlstrom, V Wong, B Hertzberg, M Chen, C Kozyrakis, ...
+Publication: ACM SIGOPS Operating Systems Review 38 (5), 1-13
+
+27. checkTc and minTc: Timing verification and optimal clocking of synchronous digital circuits
+Citations:161
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Computer-Aided Design, 1990. ICCAD-90. Digest of Technical Papers., 1990 …
+
+28. A scalable, non-blocking approach to transactional memory
+Citations:160
+Authors: H Chafi, J Casper, BD Carlstrom, A McDonald, CC Minh, W Baek, ...
+Publication: 2007 IEEE 13th International Symposium on High Performance Computer …
+
+31. Analysis and design of latch-controlled synchronous digital circuits
+Citations:146
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+37. The common case transactional behavior of multithreaded programs
+Citations:130
+Authors: JW Chung, H Chafi, CC Minh, A McDonald, B Carlstrom, C Kozyrakis, ...
+Publication: The Twelfth International Symposium on High-Performance Computer …
+
+38. Language virtualization for heterogeneous parallel computing
+Citations:129
+Authors: H Chafi, Z DeVito, A Moors, T Rompf, AK Sujeeth, P Hanrahan, M Odersky, ...
+Publication: ACM Sigplan Notices 45 (10), 835-847
+
+43. Energy-efficient abundant-data computing: The N3XT 1,000 x
+Citations:107
+Authors: MMS Aly, M Gao, G Hills, CS Lee, G Pitner, MM Shulaker, TF Wu, ...
+Publication: Computer 48 (12), 24-33
+
+44. Optimizing data structures in high-level programs: new directions for extensible compilers based on staging
+Citations:106
+Authors: T Rompf, AK Sujeeth, N Amin, KJ Brown, V Jovanovic, HJ Lee, ...
+Publication: Acm Sigplan Notices 48 (1), 497-510
+
+49. Tradeoffs in transactional memory virtualization
+Citations:98
+Authors: JW Chung, CC Minh, A McDonald, T Skare, H Chafi, BD Carlstrom, ...
+Publication: ACM Sigplan Notices 41 (11), 371-381
+
+50. Characterization of TCC on chip-multiprocessors
+Citations:98
+Authors: A McDonald, JW Chung, H Chafi, CC Minh, BD Carlstrom, L Hammond, ...
+Publication: 14th International Conference on Parallel Architectures and Compilation …
+
+60. Analysis and design of latch-controlled synchronous digital circuits
+Citations:78
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+62. A general method for compiling event-driven simulations
+Citations:76
+Authors: RS French
+Publication: 32nd Design Automation Conference, 151-156
+
+64. A timing model of synchronous digital circuits,"
+Citations:75
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Computer
+
+71. Composition and reuse with compiled domain-specific languages
+Citations:68
+Authors: AK Sujeeth, T Rompf, KJ Brown, HJ Lee, H Chafi, V Popic, M Wu, ...
+Publication: European Conference on Object-Oriented Programming, 52-78
+
+73. Method and apparatus for cycle-based computation
+Citations:61
+Authors: TM Mcwilliams, JB Rubin, DE Pappas, OA Olukotun, JM Broughton, ...
+Publication: US Patent 7,036,114
+
+74. Automatic generation of efficient accelerators for reconfigurable hardware
+Citations:60
+Authors: D Koeplinger, R Prabhakar, Y Zhang, C Delimitrou, C Kozyrakis, ...
+Publication: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture …
+
+78. Hardware system synthesis from domain-specific languages
+Citations:53
+Authors: N George, HJ Lee, D Novo, T Rompf, KJ Brown, AK Sujeeth, M Odersky, ...
+Publication: 2014 24th International Conference on Field Programmable Logic and …
+
+83. Dawnbench: An end-to-end deep learning benchmark and competition
+Citations:47
+Authors: C Coleman, D Narayanan, D Kang, T Zhao, J Zhang, L Nardi, P Bailis, ...
+Publication: Training 100 (101), 102
+
+93. Transactional execution of Java programs
+Citations:39
+Authors: B Carlstrom, JW Chung, H Chafi, A McDonald, C Cao Minh, L Hammond, ...
+Publication: 
+
+95. Generating configurable hardware from parallel patterns
+Citations:38
+Authors: R Prabhakar, D Koeplinger, KJ Brown, HJ Lee, C De Sa, C Kozyrakis, ...
+Publication: ACM SIGARCH Computer Architecture News 44 (2), 651-665
+
+98. TAPE: A transactional application profiling environment
+Citations:36
+Authors: H Chafi, CC Minh, A McDonald, BD Carlstrom, JW Chung, L Hammond, ...
+Publication: Proceedings of the 19th annual international conference on Supercomputing …
+
+99. Plasticine: A reconfigurable architecture for parallel patterns
+Citations:35
+Authors: R Prabhakar, Y Zhang, D Koeplinger, M Feldman, T Zhao, S Hadjis, ...
+Publication: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture …
+
+101. A preliminary investigation into parallel routing on a hypercube computer
+Citations:34
+Authors: OA Olukotun, TN Mudge
+Publication: Proceedings of the 24th ACM/IEEE Design Automation Conference, 814-820
+
+103. Forge: generating a high performance DSL implementation from a declarative specification
+Citations:33
+Authors: AK Sujeeth, A Gibbons, KJ Brown, HJ Lee, T Rompf, M Odersky, ...
+Publication: Acm Sigplan Notices 49 (3), 145-154
+
+109. The design of a GaAs micro-supercomputer
+Citations:30
+Authors: TN Mudge, RB Brown, WP Birmingham, JA Dykstra, AI Kayssi, RJ Lomax, ...
+Publication: System Sciences, 1991. Proceedings of the Twenty-Fourth Annual Hawaii …
+
+112. Go meta! A case for generative programming and dsls in performance critical systems
+Citations:24
+Authors: T Rompf, KJ Brown, HJ Lee, AK Sujeeth, M Jonnalagedda, N Amin, ...
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+113. Transactional memory: The hardware-software interface
+Citations:24
+Authors: A McDonald, BD Carlstrom, JW Chung, CC Minh, H Chafi, C Kozyrakis, ...
+Publication: IEEE micro 27 (1), 67-76
+
+114. Executing Java programs with transactional memory
+Citations:24
+Authors: BD Carlstrom, JW Chung, H Chafi, A McDonald, CC Minh, L Hammond, ...
+Publication: Science of Computer Programming 63 (2), 111-129
+
+117. Method and apparatus for simulation processor
+Citations:23
+Authors: TM Mcwilliams, JB Rubin, MW Parkin, OA Olukotun, DE Pappas, ...
+Publication: US Patent 7,043,596
+
+120. Spatial: A language and compiler for application accelerators
+Citations:20
+Authors: D Koeplinger, M Feldman, R Prabhakar, Y Zhang, S Hadjis, R Fiszel, ...
+Publication: ACM Sigplan Notices 53 (4), 296-311
+
+127. Multilevel optimization in the design of a high-performance GaAs microcomputer
+Citations:17
+Authors: OA Olukotun, RB Brown, RJ Lomax, TN Mudge, KA Sakallah
+Publication: IEEE journal of solid-state circuits 26 (5), 763-767
+
+128. Building and using the atlas transactional memory system
+Citations:14
+Authors: N Njoroge, S Wee, J Casper, J Burdick, Y Teslyar, C Kozyrakis, ...
+Publication: Workshop on Architecture Research using FPGA Platforms, 12th International …
+
+130. A single chip multiprocessor integrated with high density DRAM
+Citations:13
+Authors: T Yamauchi, L Hammond, OA Olukotun, K Arimoto
+Publication: IEICE TRANSACTIONS ON ELECTRONICS E SERIES C 82, 1567-1577
+
+131. Implementing a cache for a high-performance GaAs microprocessor
+Citations:13
+Authors: OA Olukotun, TN Mudge, RB Brown
+Publication: ACM SIGARCH Computer Architecture News 19 (3), 138-147
+
+132. Algorithms for timing verification and optimal clocking of synchronous digital circuits
+Citations:13
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+138. Analysis of dawnbench, a time-to-accuracy machine learning performance benchmark
+Citations:11
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: ACM SIGOPS Operating Systems Review 53 (1), 14-25
+
+143. Characterizing adversarial examples based on spatial consistency information for semantic segmentation
+Citations:9
+Authors: C Xiao, R Deng, B Li, F Yu, M Liu, D Song
+Publication: Proceedings of the European Conference on Computer Vision (ECCV), 217-234
+
+145. Are single-chip multiprocessors in reach?
+Citations:9
+Authors: R Bergamaschi, I Bolsens, R Gupta, R Harr, A Jerraya, K Keutzer, ...
+Publication: IEEE Design & Test of Computers 18 (1), 82-89
+
+155. Testing memory consistency of shared-memory multiprocessors
+Citations:6
+Authors: C Manovit, OA Olukotun
+Publication: Stanford University
+
+156. Timing Verification and Optimal Clocking of Synchronous Digital Circuits
+Citations:6
+Authors: K Sakallah, TN Mudge, OA Olukotun
+Publication: Proceedings of the International Conference on Computer-Aided Design, 552-555
+
+158. Optimizing data structures in high-level programs: New directions for extensible compilers based on staging
+Citations:5
+Authors: T Rompf, A Sujeeth, N Amin, K Brown, V Jovanovic, H Lee, ...
+Publication: Proceedings of the 40th Symposium on Principles of Programming Languages …
+
+166. Improving software concurrency with hardware-assisted memory snapshot
+Citations:4
+Authors: JW Chung, J Seo, W Baek, C CaoMinh, A McDonald, C Kozyrakis, ...
+Publication: Proceedings of the twentieth annual symposium on Parallelism in algorithms …
+
+168. High performance cache architectures to support dynamic superscalar microprocessors
+Citations:4
+Authors: KM Wilson, OA Olukotun
+Publication: Computer Systems Laboratory, Stanford University
+
+170. Technology-organization tradeoffs in the architecture of a high-performance processor.
+Citations:3
+Authors: OA Olukotun
+Publication: 
+
+171. Hierarchical gate-array routing on a hypercube multiprocessor
+Citations:3
+Authors: OA Olukotun, TN Mudge
+Publication: Journal of Parallel and Distributed Computing 8 (4), 313-324
+
+173. Project lancet: Surgical precision JIT compilers
+Citations:2
+Authors: T Rompf, AK Sujeethy, KJ Browny, H Lee, H Chazy, K Olukotuny, ...
+Publication: International Conference on Programming Language Design and Implementation …
+
+177. Cache Architectures for a High-Performance GaAs Microprocessor,"
+Citations:2
+Authors: OA Olukotun, TN Mudge, RB Brown
+Publication: Proceedings of the 18th International Symposium on Computer Architecture …
+
+178. The atomoσ transactional programming language
+Citations:2
+Authors: BD Carlstrom, A Mcdonald, H Chafi, J Chung, CC Minh, C Kozyrakis, ...
+Publication: 
+
+184. The software stack for transactional memory
+Citations:1
+Authors: BD Carlstrom, JW Chung, CKK Olukotun
+Publication: First Workshop on Tools for Multicore Systems (STMCS)
+
+186. Smart memories: A configurable processor architecture for high productivity parallel programming
+Citations:1
+Authors: A Solomatnikov, A Firoozshahian, F Labonte, M Horowitz, C Kozyrakis, ...
+Publication: Proceedings of the 30th GOMACTech Conference
+
+189. Technology-organization Tradeoffs in the Architecture of a High Performance Processor (microprocessor).
+Citations:1
+Authors: OA OLUKOTUN
+Publication: THE UNIVERSITY OF MICHIGAN
+
+198. Plasticine: A Reconfigurable Accelerator for Parallel Patterns
+Citations:
+Authors: R Prabhakar, Y Zhang, D Koeplinger, M Feldman, T Zhao, S Hadjis, ...
+Publication: IEEE Micro 38 (3), 20-31
+
+208. Hardware Acceleration of Transactional Memory on Commodity Systems
+Citations:
+Authors: JCTOS Hong, NG Bronson, CKK Olukotun
+Publication: 
+
+209. 4 Guest Editor’s Introduction: CPUs, GPUs, and Hybrid Computing David Brooks 7 GPUs and the Future of Parallel Computing
+Citations:
+Authors: SW Keckler, WJ Dally, B Khailany, M Garland, D Glasco, D Rohr, M Bach, ...
+Publication: 
+
+213. 新世代マイクロプロセッサアーキテクチャ (後編): 3. 実例 1. Niagara: 32 ウェイマルチスレッド SPARC プロセッサ
+Citations:
+Authors: 五島正裕
+Publication: 情報処理 46 (11), 1236-1243
+
+214. 1. Niagara: 32 ウェイマルチスレッド SPARC プロセッサ (実例,< 特集> 新世代マイクロプロセッサアーキテクチャ (後編))
+Citations:
+Authors: 坂井修一， 五島正裕
+Publication: 情報処理 46 (11), 1236-1243
+
+216. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+217. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+221. Extending multicore architectures to exploit hybrid parallelism in single-thread applications.
+Citations:
+Authors: X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...
+Publication: Information Technology Journal 12 (9), pp: 226-236
+
+223. A single-chip multiprocessor.
+Citations:
+Authors: H Muneer, AB Brown, S Ratham, G Slavenburg, BD Theelen, ...
+Publication: Information Technology Journal 5 (1), pp: 319-326
+
+225. Measuring Process Migration Effects Using an MP Simulator
+Citations:
+Authors: A Ladd, T Mudge, O Olukotun
+Publication: Scalable Shared Memory Multiprocessors, 97-129
+
+226. Analysis and Design of Latch-Controlled
+Citations:
+Authors: KA Sakallah, TN Mudge, OA Olukotun
+Publication: Ann Arbor 1001, 48109-2122
+
+227. Interconnecting off-the-shelf microprocessors
+Citations:
+Authors: HB AI-Sadoun, OA OJukotun, TN Mudge
+Publication: afips, 175
+
+232. Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark
+Citations:
+Authors: C Coleman, D Kang, D Narayanan, L Nardi, T Zhao, J Zhang, P Bailis, ...
+Publication: 
+
+234. Avoiding Game Over: Bringing Design to the Next Level
+Citations:
+Authors: M HOROWITZ, D ENGLER, PAT HANRAHAN, P LEVIS, S MITRA, ...
+Publication: 
+
+235. Workshop on Advancing Computer Architecture Research (ACAR-II) Laying a New Foundation for IT: Computer Architecture for 2025 and Beyond
+Citations:
+Authors: LE Dwarkadas, B Feiereisen, D Jimenez, M Hill, M Kim, J Larus, ...
+Publication: 
+
+245. Technical Program Committee (cont.)
+Citations:
+Authors: T Inoue, AB Kahng, L Lavagno, S Malik, A Mantooth, T Meng, M Murray, ...
+Publication: 
+
+246. Chairs and Committees
+Citations:
+Authors: JL Baer, S Abraham, S Adve, T Anderson, P Chen, F Dahlgren, P Dubey, ...
+Publication: 
+
+247. HPCA 1997 Chairs and Committees
+Citations:
+Authors: MJ Flynn, LM Ni, DP Agrawal, A Cox, J Duato, J Fortes, G Gao, M Hill, ...
+Publication: 
+
+248. Conference Co-Chairs
+Citations:
+Authors: J Bondi, J Smith, S Adve, T Austin, R Belgard, CP Bose, T Conte, ...
+Publication: 
+
+249. ARVLSI’97 Committees
+Citations:
+Authors: RB Brown, AT Ishii, MC Papaefthymiou, TN Mudge, CS June, B Ackland, ...
+Publication: 
+
+250. INESC/IST
+Citations:
+Authors: S Minato, FN Najm, SR Nassif, M Rencz, C Su, JK Rho, ...
+Publication: 
+
+252. ICCAD-2007 AWARDS
+Citations:
+Authors: S Zhang, KS Chatha, T Yoshimura, A Iwata, G Amdahl, R Goering, ...
+Publication: 
+
+253. 31st Annual International Symposium on Computer Architecture ISCA 2004
+Citations:
+Authors: T Agerwala, M Taylor, W Lee, J Miller, D Wentzlaff, B Greenwald, ...
+Publication: 
+
+254. SBAC-PAD 2010
+Citations:
+Authors: IBM José Moreira, V Rebello, G Bilardi, N Amato, D Bader, A Coutinho, ...
+Publication: 
+
+255. Columns and Departments
+Citations:
+Authors: PH Wang, JD Collins, H Wang, D Kim, B Greene, KM Chan, AB Yunus, ...
+Publication: 
+
+256. General Co-Chairs
+Citations:
+Authors: M Dubois, A Bode, P Stenstrom, W Karl, SA McKee, T Pinkston, ...
+Publication: 
+
+257. Local Arrangements Chair: Kshitij Doshi, Intel Corp.
+Citations:
+Authors: M Annavaram, I Bahar, D Brooks, D Burger, B Calder, C Chakrabarti, ...
+Publication: 
+
+258. 5 Guest Editors’ Introduction: Hot Chips 21 Krste Asanovic and Ralph Wittig 7 Power7: IBM’s Next-Generation Server Processor
+Citations:
+Authors: R Kalla, B Sinharoy, WJ Starke, M Floyd, P Conway, ...
+Publication: 
+
+259. Session 1: Multicore Systems
+Citations:
+Authors: J Chen, LK John, H Feng, E Li, Y Chen, Y Zhang, P Apparao, R Iyer, ...
+Publication: 
+
+260. SBAC-PAD 2010
+Citations:
+Authors: G Almasi, J Almeida, N Amato, C Amorim, G Araujo, D Bader, P Balaji, ...
+Publication: 

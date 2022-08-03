@@ -1,0 +1,1748 @@
+https://scholar.google.com/citations?hl=en&user=zdKmnYwAAAAJ
+Total Citations = 62714
+
+1. Principles of database systems
+Citations:8480
+Authors: JD Ullman
+Publication: Galgotia publications
+
+2. Models and issues in data stream systems
+Citations:3601
+Authors: B Babcock, S Babu, M Datar, R Motwani, J Widom
+Publication: Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on …
+
+3. Database systems: the complete book
+Citations:2089
+Authors: H Garcia-Molina
+Publication: Pearson Education India
+
+4. Dataguides: Enabling query formulation and optimization in semistructured databases
+Citations:1885
+Authors: R Goldman, J Widom
+Publication: Stanford
+
+5. SimRank: a measure of structural-context similarity
+Citations:1856
+Authors: G Jeh, J Widom
+Publication: Proceedings of the eighth ACM SIGKDD international conference on Knowledge …
+
+6. The Lorel query language for semistructured data
+Citations:1838
+Authors: S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener
+Publication: International journal on digital libraries 1 (1), 68-88
+
+7. The TSIMMIS project: Integration of heterogenous information sources
+Citations:1578
+Authors: S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, ...
+Publication: 
+
+8. The CQL continuous query language: semantic foundations and query execution
+Citations:1477
+Authors: A Arasu, S Babu, J Widom
+Publication: The VLDB Journal 15 (2), 121-142
+
+9. Active database systems: Triggers and rules for advanced database processing
+Citations:1296
+Authors: J Widom, S Ceri
+Publication: Morgan Kaufmann
+
+10. Scaling personalized web search
+Citations:1295
+Authors: G Jeh, J Widom
+Publication: Proceedings of the 12th international conference on World Wide Web, 271-279
+
+11. Object exchange across heterogeneous information sources
+Citations:1264
+Authors: Y Papakonstantinou, H Garcia-Molina, J Widom
+Publication: Proceedings of the eleventh international conference on data engineering …
+
+12. The TSIMMIS approach to mediation: Data models and languages
+Citations:1156
+Authors: H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...
+Publication: Journal of intelligent information systems 8 (2), 117-132
+
+13. Stream: The stanford stream data manager
+Citations:1141
+Authors: A Arasu, B Babcock, S Babu, M Datar, K Ito, R Motwani, I Nishizawa, ...
+Publication: IEEE Data Eng. Bull. 26 (1), 19-26
+
+14. Data-Centric Systems and Applications
+Citations:1115
+Authors: MJ Carey, S Ceri, P Bernstein, U Dayal, C Faloutsos, JC Freytag, ...
+Publication: Italy: Springer
+
+15. Lore: A database management system for semistructured data
+Citations:1057
+Authors: J McHugh, S Abiteboul, R Goldman, D Quass, J Widom
+Publication: SIGMOD record 26 (3), 54-66
+
+16. Research problems in data warehousing
+Citations:1003
+Authors: J Widom
+Publication: 
+
+17. Query processing, resource management, and approximation in a data stream management system
+Citations:980
+Authors: R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, ...
+Publication: CIDR
+
+18. Continuous queries over data streams
+Citations:969
+Authors: S Babu, J Widom
+Publication: ACM Sigmod Record 30 (3), 109-120
+
+19. Database system implementation
+Citations:835
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: Prentice Hall
+
+20. A first course in database systems
+Citations:780
+Authors: JD Ullman
+Publication: Pearson Education India
+
+21. View maintenance in a warehousing environment
+Citations:780
+Authors: Y Zhuge, H Garcia-Molina, J Hammer, J Widom
+Publication: ACM SIGMOD Record 24 (2), 316-327
+
+22. Change detection in hierarchically structured information
+Citations:708
+Authors: SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom
+Publication: Acm Sigmod Record 25 (2), 493-504
+
+23. Trio: A system for integrated management of data, accuracy, and lineage
+Citations:658
+Authors: J Widom
+Publication: Technical Report
+
+24. ULDBs: Databases with uncertainty and lineage
+Citations:602
+Authors: O Benjelloun, AD Sarma, A Halevy, J Widom
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+25. Adaptive filters for continuous queries over distributed data streams
+Citations:587
+Authors: C Olston, J Jiang, J Widom
+Publication: Proceedings of the 2003 ACM SIGMOD international conference on Management of …
+
+26. Query optimization for XML
+Citations:578
+Authors: J McHugh, J Widom
+Publication: Stanford InfoLab
+
+27. Deriving production rules for incremental view maintenance
+Citations:548
+Authors: S Ceri, J Widom
+Publication: 
+
+28. Swoosh: a generic approach to entity resolution
+Citations:537
+Authors: O Benjelloun, H Garcia-Molina, D Menestrina, Q Su, SE Whang, J Widom
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 18 (1 …
+
+29. Clustering association rules
+Citations:518
+Authors: B Lent, A Swami, J Widom
+Publication: Proceedings 13th International Conference on Data Engineering, 220-231
+
+30. From semistructured data to XML: Migrating the Lore data model and query language
+Citations:516
+Authors: R Goldman, J McHugh, J Widom
+Publication: 
+
+31. Deriving production rules for constraint maintenance
+Citations:513
+Authors: S Ceri, J Widom
+Publication: 
+
+32. GPS: a graph processing system
+Citations:506
+Authors: S Salihoglu, J Widom
+Publication: Proceedings of the 25th International Conference on Scientific and …
+
+33. Tracing the lineage of view data in a warehousing environment
+Citations:501
+Authors: Y Cui, J Widom, JL Wiener
+Publication: ACM Transactions on Database Systems (TODS) 25 (2), 179-227
+
+34. Exploiting hierarchical domain structure to compute similarity
+Citations:483
+Authors: P Ganesan, H Garcia-Molina, J Widom
+Publication: ACM Transactions on Information Systems (TOIS) 21 (1), 64-93
+
+35. Trio: A system for data, uncertainty, and lineage
+Citations:464
+Authors: P Agrawal, O Benjelloun, AD Sarma, C Hayworth, S Nabar, T Sugihara, ...
+Publication: Proc. of VLDB 2006 (demonstration description)
+
+36. Lineage tracing for general data warehouse transformations
+Citations:454
+Authors: Y Cui, J Widom
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 12 (1 …
+
+37. Working models for uncertain data
+Citations:419
+Authors: AD Sarma, O Benjelloun, A Halevy, J Widom
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 7-7
+
+38. Set-oriented production rules in relational database systems
+Citations:393
+Authors: J Widom, SJ Finkelstein
+Publication: ACM SIGMOD Record 19 (2), 259-270
+
+39. Making views self-maintainable for data warehousing
+Citations:368
+Authors: D Quass, A Gupta, IS Mumick, J Widom
+Publication: Fourth International Conference on Parallel and Distributed Information …
+
+40. CQL: A language for continuous queries over streams and relations
+Citations:358
+Authors: A Arasu, S Babu, J Widom
+Publication: International Workshop on Database Programming Languages, 1-19
+
+41. Teletraffic modeling for personal communications services
+Citations:339
+Authors: D Lam, DC Cox, J Widom
+Publication: IEEE communications magazine 35 (2), 79-87
+
+42. Integrating and accessing heterogeneous information sources in TSIMMIS
+Citations:313
+Authors: H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: Proceedings of the AAAI Symposium on Information Gathering 3, 61-64
+
+43. Behavior of database production rules: Termination, confluence, and observable determinism
+Citations:308
+Authors: A Aiken, J Widom, JM Hellerstein
+Publication: ACM SIGMOD Record 21 (2), 59-68
+
+44. The Stanford data warehousing project
+Citations:300
+Authors: J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge
+Publication: Stanford InfoLab
+
+45. Flexible time management in data stream systems
+Citations:296
+Authors: U Srivastava, J Widom
+Publication: Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on …
+
+46. Declarative support for sensor data cleaning
+Citations:289
+Authors: SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom
+Publication: International Conference on Pervasive Computing, 83-100
+
+47. Active database management systems
+Citations:280
+Authors: U Dayal
+Publication: Proceedings of the Third International Conference on Data and Knowledge …
+
+48. Adaptive ordering of pipelined stream filters
+Citations:276
+Authors: S Babu, R Motwani, K Munagala, I Nishizawa, J Widom
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+49. Querying semistructured heterogeneous information
+Citations:273
+Authors: D Quass, A Rajaraman, Y Sagiv, J Ullman, J Widom
+Publication: International Conference on Deductive and Object-Oriented Databases, 319-344
+
+50. A pipelined framework for online cleaning of sensor data streams
+Citations:270
+Authors: SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom
+Publication: 22nd International Conference on Data Engineering (ICDE'06), 140-140
+
+51. Adaptive precision setting for cached approximate values
+Citations:261
+Authors: C Olston, BT Loo, J Widom
+Publication: ACM SIGMOD Record 30 (2), 355-366
+
+52. Data management for XML: Research directions
+Citations:260
+Authors: J Widom
+Publication: Stanford
+
+53. Operator placement for in-network stream query processing
+Citations:249
+Authors: U Srivastava, K Munagala, J Widom
+Publication: Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+54. Characterizing memory requirements for queries over continuous data streams
+Citations:247
+Authors: A Arasu, B Babcock, S Babu, J McAlister, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 29 (1), 162-194
+
+55. Implementing set-oriented production rules as an extension to Starburst
+Citations:247
+Authors: J Widom, BG Lindsay, RJ Cochrane
+Publication: 
+
+56. On-line warehouse view maintenance
+Citations:237
+Authors: D Quass, J Widom
+Publication: ACM SIGMOD Record 26 (2), 393-404
+
+57. Challenges and opportunities with big data
+Citations:233
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: A community white paper developed by leading researchers across the United …
+
+58. Memory-limited execution of windowed stream joins
+Citations:230
+Authors: U Srivastava, J Widom
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+59. Resource sharing in continuous sliding-window aggregates
+Citations:228
+Authors: A Arasu, J Widom
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+60. Crowdscreen: Algorithms for filtering data with humans
+Citations:222
+Authors: AG Parameswaran, H Garcia-Molina, H Park, N Polyzotis, A Ramesh, ...
+Publication: Proceedings of the 2012 ACM SIGMOD International Conference on Management of …
+
+61. Query optimization over web services
+Citations:222
+Authors: U Srivastava, K Munagala, J Widom, R Motwani
+Publication: Proceedings of the 32nd international conference on Very large data bases …
+
+62. Towards a streaming SQL standard
+Citations:219
+Authors: N Jain, S Mishra, A Srinivasan, J Gehrke, J Widom, H Balakrishnan, ...
+Publication: Proceedings of the VLDB Endowment 1 (2), 1379-1390
+
+63. Databases with uncertainty and lineage
+Citations:219
+Authors: O Benjelloun, A Das Sarma, A Halevy, M Theobald, J Widom
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 17 (2 …
+
+64. Static analysis techniques for predicting the behavior of active database rules
+Citations:215
+Authors: A Aiken, JM Hellerstein, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 20 (1), 3-41
+
+65. Active database systems
+Citations:213
+Authors: U Dayal, E Hanson, J Widom
+Publication: Stanford InfoLab
+
+66. The Lowell database research self-assessment
+Citations:208
+Authors: S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, ...
+Publication: Communications of the ACM 48 (5), 111-118
+
+67. Practical lineage tracing in data warehouses
+Citations:208
+Authors: Y Cui, J Widom
+Publication: Proceedings of 16th International Conference on Data Engineering (Cat. No …
+
+68. Indexing semistructured data
+Citations:205
+Authors: J McHugh, J Widom, S Abiteboul, Q Luo, A Rajaraman
+Publication: Stanford
+
+69. Offering a precision-performance tradeoff for aggregation queries over replicated data
+Citations:198
+Authors: C Olston, J Widom
+Publication: Stanford
+
+70. Representing and querying changes in semistructured data
+Citations:191
+Authors: SS Chawathe, S Abiteboul, J Widom
+Publication: Proceedings 14th International Conference on Data Engineering, 4-13
+
+71. Constraint checking with partial information
+Citations:184
+Authors: A Gupta, Y Sagiv, JD Ullman, J Widom
+Publication: Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on …
+
+72. An overview of production rules in database systems
+Citations:175
+Authors: EN Hanson, J Widom
+Publication: The Knowledge Engineering Review 8 (2), 121-143
+
+73. Stream: The stanford data stream management system
+Citations:173
+Authors: A Arasu, B Babcock, S Babu, J Cieslewicz, M Datar, K Ito, R Motwani, ...
+Publication: Data Stream Management, 317-336
+
+74. Best-effort cache synchronization with source cooperation
+Citations:171
+Authors: C Olston, J Widom
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+75. Managing semantic heterogeneity with production rules and persistent queues
+Citations:164
+Authors: S Ceri, J Widom
+Publication: 
+
+76. Exploiting k-constraints to reduce memory overhead in continuous queries over data streams
+Citations:163
+Authors: S Babu, U Srivastava, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 29 (3), 545-580
+
+77. Human-assisted graph search: it's okay to ask questions
+Citations:148
+Authors: A Parameswaran, AD Sarma, H Garcia-Molina, N Polyzotis, J Widom
+Publication: Proceedings of the VLDB Endowment 4 (5), 267-278
+
+78. The starburst active database rule system
+Citations:148
+Authors: J Widom
+Publication: IEEE Transactions on Knowledge and Data Engineering 8 (4), 583-595
+
+79. An algebraic approach to rule analysis in expert database systems
+Citations:148
+Authors: E Baralis, J Widom
+Publication: Stanford
+
+80. A system prototype for warehouse view maintenance
+Citations:143
+Authors: J Wiener, H Gupta, W Labio, Y Zhuge, H Garcia-Molina, J Widom
+Publication: 
+
+81. Exploiting lineage for confidence computation in uncertain and probabilistic databases
+Citations:140
+Authors: AD Sarma, M Theobald, J Widom
+Publication: 2008 IEEE 24th International Conference on Data Engineering, 1023-1032
+
+82. WSQ/DSQ: A practical approach for combined querying of databases and the web
+Citations:136
+Authors: R Goldman, J Widom
+Publication: ACM SIGMOD Record 29 (2), 285-296
+
+83. Efficient and flexible location management techniques for wireless communication systems
+Citations:136
+Authors: J Jannink, D Lam, N Shivakumar, J Widom, DC Cox
+Publication: Wireless Networks 3 (5), 361-374
+
+84. Incremental computation and maintenance of temporal aggregates
+Citations:135
+Authors: J Yang, J Widom
+Publication: Proceedings 17th International Conference on Data Engineering, 51-60
+
+85. Local verification of global integrity constraints in distributed databases
+Citations:133
+Authors: A Gupta, J Widom
+Publication: ACM SIGMOD Record 22 (2), 49-58
+
+86. STREAM: The stanford stream data manager
+Citations:128
+Authors: STREAM Group
+Publication: IEEE Data Engineering Bulletin, 26 (1)
+
+87. Information translation, mediation, and mosaic-based browsing in the TSIMMIS system
+Citations:128
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: 
+
+88. Practical applications of triggers and constraints: Success and lingering issues
+Citations:126
+Authors: S Ceri, R Cochrane, J Widom
+Publication: VLDB, 10-14
+
+89. Adaptive caching for continuous queries
+Citations:124
+Authors: S Babu, K Munagalat, J Widom, R Motwani
+Publication: 21st International Conference on Data Engineering (ICDE'05), 118-129
+
+90. Ozone: Integrating structured and semistructured data
+Citations:121
+Authors: T Lahiri, S Abiteboul, J Widom
+Publication: International Symposium on Database Programming Languages, 297-323
+
+91. Approximate dataguides
+Citations:120
+Authors: R Goldman, J Widom
+Publication: Proceedings of the Workshop on Query Processing for Semistructured Data and …
+
+92. Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States
+Citations:116
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: Accessed on September 21, 2017
+
+93. Deco: declarative crowdsourcing
+Citations:109
+Authors: AG Parameswaran, H Park, H Garcia-Molina, N Polyzotis, J Widom
+Publication: Proceedings of the 21st ACM international conference on Information and …
+
+94. User profile replication for faster location lookup in mobile environments
+Citations:109
+Authors: N Shivakumar, J Widom
+Publication: 
+
+95. Optimizing graph algorithms on pregel-like systems
+Citations:106
+Authors: S Salihoglu, J Widom
+Publication: Proceedings of the VLDB Endowment 7 (7), 577-588
+
+96. Special issue on materialized views and data warehousing
+Citations:105
+Authors: J Widom
+Publication: IEEE Bulletin on Data Engineering 18 (2)
+
+97. An algebraic approach to static analysis of active database rules
+Citations:104
+Authors: E Baralis, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 25 (3), 269-332
+
+98. Indexing relational database content offline for efficient keyword-based search
+Citations:101
+Authors: Q Su, J Widom
+Publication: 9th International Database Engineering & Application Symposium (IDEAS'05 …
+
+99. Performance issues in incremental warehouse maintenance
+Citations:101
+Authors: W Labio, J Yang, Y Cui, H Garcia-Molina, J Widom
+Publication: In Proceedings of the 26th International Conference on Very Large Data Bases …
+
+100. Managing historical semistructured data
+Citations:101
+Authors: SS Chawathe, S Abiteboul, J Widom
+Publication: Theory and practice of object systems 5 (3), 143-162
+
+101. Incremental computation and maintenance of temporal aggregates
+Citations:99
+Authors: J Yang, J Widom
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 12 (3 …
+
+102. An introduction to ULDBs and the Trio system
+Citations:98
+Authors: O Benjelloun, AD Sarma, C Hayworth, J Widom
+Publication: IEEE Data Engineering Bulletin, March 2006
+
+103. Per-user profile replication in mobile environments: algorithms, analysis, and simulation results
+Citations:97
+Authors: N Shivakumar, J Jannink, J Widom
+Publication: Mobile Networks and Applications 2 (2), 129-140
+
+104. Provenance for generalized map and reduce workflows
+Citations:93
+Authors: R Ikeda, H Park, J Widom
+Publication: Stanford InfoLab
+
+105. Maintaining temporal views over non-temporal information sources for data warehousing
+Citations:90
+Authors: J Yang, J Widom
+Publication: International Conference on Extending Database Technology, 389-403
+
+106. The WHIPS prototype for data warehouse creation and maintenance
+Citations:89
+Authors: WJ Labio, Y Zhuge, JL Wiener, H Gupta, H Garcia-Molina, J Widom
+Publication: ACM SIGMOD Record 26 (2), 557-559
+
+107. Trio-One: Layering uncertainty and lineage on a conventional DBMS
+Citations:88
+Authors: M Mutsuzaki, M Theobald, A De Keijzer, J Widom, P Agrawal, ...
+Publication: Third Biennial Conference on Innovative Data Systems Research, 269-274
+
+108. Content-based routing: Different plans for different data
+Citations:86
+Authors: P Bizarro, S Babu, D DeWitt, J Widom
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+109. StreaMon: an adaptive engine for stream query processing
+Citations:86
+Authors: S Babu, J Widom
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+110. The pipelined set cover problem
+Citations:85
+Authors: K Munagala, S Babu, R Motwani, J Widom
+Publication: International Conference on Database Theory, 83-98
+
+111. Deriving incremental production rules for deductive data
+Citations:85
+Authors: S Ceri, J Widom
+Publication: Information Systems 19 (6), 467-490
+
+112. Temporal view self-maintenance
+Citations:84
+Authors: J Yang, J Widom
+Publication: International Conference on Extending Database Technology, 395-412
+
+113. XML query languages: Experiences and exemplars
+Citations:83
+Authors: M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, ...
+Publication: 
+
+114. Interactive query and search in semistructured databases
+Citations:81
+Authors: R Goldman, J Widom
+Publication: International Workshop on the World Wide Web and Databases, 52-62
+
+115. Deco: A system for declarative crowdsourcing
+Citations:80
+Authors: H Park, H Garcia-Molina, R Pang, N Polyzotis, A Parameswaran, J Widom
+Publication: Proceedings of the VLDB Endowment 5 (12), 1990-1993
+
+116. Panda: A system for provenance and data
+Citations:79
+Authors: R Ikeda, J Widom
+Publication: Stanford InfoLab
+
+117. Optimization of continuous queries with shared expensive filters
+Citations:79
+Authors: K Munagala, U Srivastava, J Widom
+Publication: Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART symposium on …
+
+118. Synthesizing view definitions from data
+Citations:78
+Authors: A Das Sarma, A Parameswaran, H Garcia-Molina, J Widom
+Publication: Proceedings of the 13th International Conference on Database Theory, 89-103
+
+119. Atomicity versus anonymity: Distributed transactions for electronic commerce
+Citations:72
+Authors: JD Tygar, A Gupta, O Shmueli, J Widom
+Publication: VLDB 1998, 1-12
+
+120. A denotational semantics for the Starburst production rule language
+Citations:72
+Authors: J Widom
+Publication: ACM SIGMOD Record 21 (3), 4-9
+
+121. The Beckman report on database research
+Citations:71
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: Communications of the ACM 59 (2), 92-99
+
+122. Ramp: A system for capturing and tracing provenance in mapreduce workflows
+Citations:70
+Authors: H Park, R Ikeda, J Widom
+Publication: Stanford InfoLab
+
+123. Production rules in parallel and distributed database environments
+Citations:70
+Authors: S Ceri, J Widom
+Publication: 
+
+124. The STRIP rule system for efficiently maintaining derived data
+Citations:69
+Authors: B Adelberg, H Garcia-Molina, J Widom
+Publication: ACM SIGMOD Record 26 (2), 147-158
+
+125. Vision paper: enabling privacy for the paranoids
+Citations:68
+Authors: G Aggarwal, M Bawa, P Ganesan, H Garcia-Molina, K Kenthapadi, ...
+Publication: Proceedings of the Thirtieth international conference on Very large data …
+
+126. A denotational semantics for continuous queries over streams and relations
+Citations:64
+Authors: A Arasu, J Widom
+Publication: Stanford
+
+127. Better termination analysis for active databases
+Citations:64
+Authors: E Baralis, S Ceri, J Widom
+Publication: Rules in database Systems, 163-179
+
+128. Representing uncertain data: models, properties, and algorithms
+Citations:63
+Authors: AD Sarma, O Benjelloun, A Halevy, S Nabar, J Widom
+Publication: The VLDB Journal—The International Journal on Very Large Data Bases 18 (5 …
+
+129. The Starburst rule system: Language design, implementation, and applications
+Citations:63
+Authors: J Widom
+Publication: IEEE Data Engineering Bulletin
+
+130. A data stream management system for network traffic management
+Citations:61
+Authors: S Babu, L Subramanian, J Widom
+Publication: In Proceedings of Workshop on Network-Related Data Management (NRDM 2001)
+
+131. Crowdfill: collecting structured data from the crowd
+Citations:58
+Authors: H Park, J Widom
+Publication: Proceedings of the 2014 ACM SIGMOD international conference on Management of …
+
+132. Computing the median with uncertainty
+Citations:57
+Authors: T Feder, R Motwani, R Panigrahy, C Olston, J Widom
+Publication: SIAM Journal on Computing 32 (2), 538-547
+
+133. Introducción a los Sistemas de Bases de Datos
+Citations:57
+Authors: JD Ullman, J Widom, EA Miguel
+Publication: Prentice Hall
+
+134. Modeling location management in personal communications services
+Citations:57
+Authors: D Lam, J Jannink, DC Cox, J Widom
+Publication: Proceedings of ICUPC-5th International Conference on Universal Personal …
+
+135. The beckman report on database research
+Citations:55
+Authors: D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...
+Publication: ACM SIGMOD Record 43 (3), 61-70
+
+136. A syntax and semantics for set-oriented production rules in relational database systems
+Citations:55
+Authors: J Widom, SJ Finkelstein
+Publication: ACM Sigmod record 18 (3), 36-45
+
+137. Implementação de sistemas de banco de dados
+Citations:54
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: Campus
+
+138. Introduction to active database systems
+Citations:54
+Authors: J Widom
+Publication: Active Database Systems Triggers and Rules For Advanced Database Processing
+
+139. Integrating heterogeneous databases: lazy or eager?
+Citations:54
+Authors: J Widom
+Publication: Stanford InfoLab
+
+140. A temporal-logic based compositional proof system for real-time message passing
+Citations:54
+Authors: J Hooman, J Widom
+Publication: International Conference on Parallel Architectures and Languages Europe, 424-441
+
+141. Whiteboards: A graphical database tool
+Citations:52
+Authors: J Donahue, J Widom
+Publication: ACM Transactions on Information Systems (TOIS) 4 (1), 24-41
+
+142. Making aggregation work in uncertain and probabilistic databases
+Citations:51
+Authors: R Murthy, R Ikeda, J Widom
+Publication: IEEE Transactions on knowledge and data engineering 23 (8), 1261-1273
+
+143. Query optimization for semistructured data
+Citations:49
+Authors: J McHugh, J Widom
+Publication: Stanford InfoLab
+
+144. Simplifying scalable graph processing with a domain-specific language
+Citations:48
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: Proceedings of Annual IEEE/ACM International Symposium on Code Generation …
+
+145. 数据库系统实现
+Citations:48
+Authors: H Garcia-Molina
+Publication: 机械工业出版社
+
+146. Protocols for integrity constraint checking in federated databases
+Citations:48
+Authors: P Grefen, J Widom
+Publication: Distributed and Parallel Databases 5 (4), 327-355
+
+147. Deductive and active databases: Two paradigms or ends of a spectrum?
+Citations:48
+Authors: J Widom
+Publication: Rules in database systems, 306-315
+
+148. Foundations of uncertain-data integration
+Citations:47
+Authors: P Agrawal, AD Sarma, J Ullman, J Widom
+Publication: Proceedings of the VLDB Endowment 3 (1-2), 1080-1090
+
+149. Generic entity resolution in the serf project
+Citations:47
+Authors: O Benjelloun, H Garcia-Molina, H Kawai, TE Larson, D Menestrina, Q Su, ...
+Publication: IEEE Data Engineering Bulletin, June 2006 Issue
+
+150. Compile-time path expansion in Lore
+Citations:44
+Authors: J McHugh, J Widom
+Publication: Workshop on Query Processing for Semistructured Data and Non-Standard Data …
+
+151. Optimal crowd-powered rating and filtering algorithms
+Citations:43
+Authors: A Parameswaran, S Boyd, H Garcia-Molina, A Gupta, N Polyzotis, ...
+Publication: Proceedings of the VLDB Endowment 7 (9), 685-696
+
+152. A toolkit for constraint management in heterogeneous information systems
+Citations:43
+Authors: SS Chawathe, H Garcia-Molina, J Widom
+Publication: Proceedings of the Twelfth International Conference on Data Engineering, 56-65
+
+153. Podstawowy wykład z systemów baz danych
+Citations:42
+Authors: JD Ullman, J Widom
+Publication: Wydawnictwa Naukowo-Techniczne
+
+154. Query optimization over crowdsourced data
+Citations:41
+Authors: H Park, J Widom
+Publication: Proceedings of the VLDB Endowment 6 (10), 781-792
+
+155. Stream: The Stanford stream data manager
+Citations:38
+Authors: DP Arvind, A Arasu, B Babcock, S Babu, M Datar, K Ito, I Nishizawa, ...
+Publication: IEEE Data Engineering Bulletin
+
+156. Rule processing in active database systems
+Citations:37
+Authors: EN Hanson, J Widom
+Publication: International journal of expert systems 6 (1), 83-119
+
+157. An overview of the deco system: data model and query language; query processing and optimization
+Citations:36
+Authors: H Park, R Pang, A Parameswaran, H Garcia-Molina, N Polyzotis, J Widom
+Publication: ACM SIGMOD Record 41 (4), 22-27
+
+158. Systemy baz danych: Pełny wykład
+Citations:36
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: Wydawnictwa Naukowo-Techniczne
+
+159. Efficient Monitoring and Querying of Distributed, Dynamic Data via Approximate Replication.
+Citations:36
+Authors: C Olston, J Widom
+Publication: IEEE Data Eng. Bull. 28 (1), 11-18
+
+160. Lineage tracing in a data warehousing system
+Citations:33
+Authors: Y Cui, J Widom
+Publication: Proceedings of 16th International Conference on Data Engineering (Cat. No …
+
+161. Integrity constraint checking in federated databases
+Citations:33
+Authors: P Grefen, J Widorn
+Publication: Proceedings First IFCIS International Conference on Cooperative Information …
+
+162. Research issues in active database systems: Report from the closing panel at RIDE-ADS'94
+Citations:33
+Authors: J Widom
+Publication: ACM Sigmod Record 23 (3), 41-43
+
+163. Approximate replication
+Citations:32
+Authors: CAR Olston
+Publication: Stanford University
+
+164. Lore: A Database Management System for XML.
+Citations:32
+Authors: R Goldman, J McHugh, J Widom
+Publication: Dr. Dobb's Journal: Software Tools for the Professional Programmer 25 (4), 76-79
+
+165. Completeness and incompleteness of trace-based network proof systems
+Citations:31
+Authors: J Widom, D Gries, FB Schneider
+Publication: Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of …
+
+166. Understanding workers, developing effective tasks, and enhancing marketplace dynamics: a study of a large crowdsourcing marketplace
+Citations:30
+Authors: A Jain, AD Sarma, A Parameswaran, J Widom
+Publication: Proceedings of the VLDB Endowment 10 (7), 829-840
+
+167. Run-time translation of view tuple deletions using data lineage
+Citations:28
+Authors: Y Cui, J Widom
+Publication: Stanford
+
+168. TIP: a temporal extension to Informix
+Citations:28
+Authors: J Yang, HC Ying, J Widom
+Publication: ACM SIGMOD Record 29 (2), 596
+
+169. Better static rule analysis for active database systems
+Citations:28
+Authors: E Baralis, J Widom
+Publication: Stanford InfoLab
+
+170. Provenance-based refresh in data-oriented workflows
+Citations:27
+Authors: R Ikeda, S Salihoglu, J Widom
+Publication: Proceedings of the 20th ACM international conference on Information and …
+
+171. Data lineage: A survey
+Citations:27
+Authors: R Ikeda, J Widom
+Publication: Stanford InfoLab
+
+172. Implementacja systemów baz danych
+Citations:27
+Authors: H Garcia-Molina, J Widom, JD Ullman
+Publication: Wydawnictwa Naukowo-Techniczne
+
+173. Provenance-based debugging and drill-down in data-oriented workflows
+Citations:26
+Authors: R Ikeda, J Cho, C Fang, S Salihoglu, S Torikai, J Widom
+Publication: 2012 IEEE 28th International Conference on Data Engineering, 1249-1252
+
+174. Schema design for uncertain databases
+Citations:26
+Authors: AD Sarma, J Ullman, J Widom
+Publication: Stanford InfoLab
+
+175. LIVE: a lineage-supported versioned DBMS
+Citations:25
+Authors: AD Sarma, M Theobald, J Widom
+Publication: International Conference on Scientific and Statistical Database Management …
+
+176. Storing auxiliary data for efficient maintenance and lineage tracing of complex views
+Citations:25
+Authors: Y Cui, J Widom
+Publication: In the 2nd International Workshop on Design and Management of Data …
+
+177. Optimizing branching path expressions
+Citations:25
+Authors: J McHugh, J Widom
+Publication: Stanford InfoLab
+
+178. Using delta relations to optimize condition evaluation in active databases
+Citations:25
+Authors: E Baralis, J Widom
+Publication: International Workshop on Rules in Database Systems, 292-308
+
+179. Datasift: An expressive and accurate crowd-powered search toolkit
+Citations:24
+Authors: A Parameswaran, MH Teh, H Garcia-Molina, J Widom
+Publication: First AAAI Conference on Human Computation and Crowdsourcing
+
+180. Mining the space of graph properties
+Citations:24
+Authors: G Jeh, J Widom
+Publication: Proceedings of the tenth ACM SIGKDD international conference on Knowledge …
+
+181. Deduction in the Starburst production rule system
+Citations:24
+Authors: J Widom
+Publication: IBM Thomas J. Watson Research Division
+
+182. Confidence-aware join algorithms
+Citations:23
+Authors: P Agrawal, J Widom
+Publication: 2009 IEEE 25th International Conference on Data Engineering, 628-639
+
+183. A location management technique to support lifelong numbering in Personal Communications Services
+Citations:23
+Authors: D Lam, Y Cui, DC Cox, J Widom
+Publication: GLOBECOM 97. IEEE Global Telecommunications Conference. Conference Record 2 …
+
+184. HelP: High-level primitives for large-scale graph processing
+Citations:22
+Authors: S Salihoglu, J Widom
+Publication: Proceedings of Workshop on GRAph Data management Experiences and Systems, 1-6
+
+185. Origins of the Modern MOOC (xMOOC)
+Citations:22
+Authors: A Ng, J Widom
+Publication: Hrsg. Fiona M. Hollands, Devayani Tirthali: MOOCs: Expectations and Reality …
+
+186. Logical provenance in data-oriented workflows?
+Citations:21
+Authors: R Ikeda, AD Sarma, J Widom
+Publication: 2013 IEEE 29th International Conference on Data Engineering (ICDE), 877-888
+
+187. Integrating dynamically-fetched external information into a DBMS for semistructured data
+Citations:21
+Authors: J McHugh, J Widom
+Publication: ACM SIGMOD Record 26 (4), 24-31
+
+188. Continuous uncertainty in trio
+Citations:20
+Authors: P Agrawal, J Widom
+Publication: Stanford InfoLab
+
+189. Graft: A debugging tool for apache giraph
+Citations:19
+Authors: S Salihoglu, J Shin, V Khanna, BQ Truong, J Widom
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+190. Efficient PCS call setup protocols
+Citations:19
+Authors: Y Cui, D Lam, J Widom, DC Cox
+Publication: Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …
+
+191. Estimating data stream quality for object-detection applications
+Citations:18
+Authors: AD Sarma, SR Jeffery, MJ Franklin, J Widom
+Publication: Technical Report
+
+192. 数据库系统基础教程
+Citations:18
+Authors: JD Ullman, J Widom
+Publication: 北京: 清华大学出版社
+
+193. 数据库系统基础教程
+Citations:18
+Authors: 史嘉权
+Publication: 北京: 清华大学出版社
+
+194. Trace-based network proof systems: Expressiveness and completeness
+Citations:18
+Authors: J Widom, D Gries, FB Schneider
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 14 (3), 396-416
+
+195. Surpassing humans and computers with JELLYBEAN: Crowd-vision-hybrid counting algorithms
+Citations:17
+Authors: AD Sarma, A Jain, A Nandi, A Parameswaran, J Widom
+Publication: Third AAAI Conference on Human Computation and Crowdsourcing
+
+196. Constraint management in loosely coupled distributed databases
+Citations:17
+Authors: S Chawathe, H Garcia-Molina, J Widom
+Publication: Stanford InfoLab
+
+197. Towards globally optimal crowdsourcing quality management: The uniform worker setting
+Citations:16
+Authors: A Das Sarma, A Parameswaran, J Widom
+Publication: Proceedings of the 2016 International Conference on Management of Data, 47-62
+
+198. The stanford data stream management system
+Citations:16
+Authors: J Widom
+Publication: believed to be prior to, 24
+
+199. Where was your data yesterday, and where will it go tomorrow
+Citations:16
+Authors: P Buneman, D Maier, J Widom
+Publication: Data Annotation and Provenance for Scientific Applications. Position paper …
+
+200. A location management technique to support lifelong numbering in personal communications services
+Citations:16
+Authors: D Lam, Y Cui, DC Cox, J Widom
+Publication: ACM SIGMOBILE Mobile Computing and Communications Review 2 (1), 27-35
+
+201. Active database systems
+Citations:16
+Authors: S Ceri, J Widom, V Vianu, S Ceri, S Abiteboul
+Publication: Journal of the ACM 35, 70-120
+
+202. Flexible constraint management for autonomous distributed databases
+Citations:16
+Authors: S Chawathe, H Garcia-Molina, J Widom
+Publication: Data Engineering Bulletin 17 (2)
+
+203. Summarizing and searching sequential semistructured sources
+Citations:15
+Authors: R Goldman, J Widom
+Publication: Stanford
+
+204. Querying semistructured heterogeneous information
+Citations:15
+Authors: D Quass, A Rajaraman, J Ullman, J Widom, Y Sagiv
+Publication: Journal of Systems Integration 7 (3-4), 381-407
+
+205. Virtual devices: An extensible architecture for bridging the physical-digital divide
+Citations:14
+Authors: SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom
+Publication: Computer Science
+
+206. Query processing over crowdsourced data
+Citations:12
+Authors: H Park, A Parameswaran, J Widom
+Publication: Stanford InfoLab
+
+207. Datasift: a crowd-powered search toolkit
+Citations:11
+Authors: A Parameswaran, MH Teh, H Garcia-Molina, J Widom
+Publication: Proceedings of the 2014 ACM SIGMOD International Conference on Management of …
+
+208. Generalized uncertain databases: first steps
+Citations:11
+Authors: P Agrawal, J Widom
+Publication: Stanford InfoLab
+
+209. Database publication practices
+Citations:11
+Authors: PA Bernstein, D DeWitt, A Heuer, Z Ives, CS Jensen, H Meyer, MT Özsu, ...
+Publication: Proceedings of the 31st international conference on Very large data bases …
+
+210. 数据库系统全书
+Citations:11
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: 机械工业出版社
+
+211. Data Management and query processing for semistructured data
+Citations:11
+Authors: J McHugh, J Widom
+Publication: PhD thesis, Department of Computer Science, Stanford University
+
+212. Adatbázisrendszerek: alapvetés
+Citations:11
+Authors: JD Ullman, J Widom, E Cserges, B Csizmazia, P Gyenizse
+Publication: Panem
+
+213. A Unified Approach for Querying Structured Data and XML.
+Citations:10
+Authors: S Abiteboul, J Widom, T Lahiri
+Publication: QL
+
+214. From 100 Students to 100,000
+Citations:9
+Authors: J Widom
+Publication: Available: wp. sigmod. org
+
+215. Monitoring stream properties for continuous query processing
+Citations:9
+Authors: U Srivastava, S Babu, J Widom
+Publication: Stanford
+
+216. Efficient and complete tests for database integrity constraint checking
+Citations:9
+Authors: A Gupta, Y Sagiv, JD Ullman, J Widom
+Publication: International Workshop on Principles and Practice of Constraint Programming …
+
+217. Towards special-purpose indexes and statistics for uncertain data
+Citations:8
+Authors: AD Sarma, P Agrawal, S Nabar, J Widom
+Publication: Stanford InfoLab
+
+218. Data modifications and versioning in Trio
+Citations:7
+Authors: AD Sarma, M Theobald, J Widom
+Publication: Stanford InfoLab
+
+219. Rethinking the conference reviewing process
+Citations:7
+Authors: MJ Franklin, J Widom, A Ailamaki, PA Bernstein, D DeWitt, A Halevy, ...
+Publication: Proceedings of the 2004 ACM SIGMOD international conference on Management of …
+
+220. Data Management for User ProFILEs in Wireless Communication Systems
+Citations:7
+Authors: J Jannink, D Lam, N Shivakumar, J Widom, D Cox
+Publication: Stanford InfoLab
+
+221. Research issues in data warehousing
+Citations:7
+Authors: J Widom
+Publication: Stanford University
+
+222. Computing strongly connected components in pregel-like systems
+Citations:6
+Authors: S Salihoglu, J Widom
+Publication: Technical report, Stanford University
+
+223. A rewriting technique for using delta relations to improve condition evaluation in active databases
+Citations:6
+Authors: E Baralis, J Widom
+Publication: Technical Report Stan-CS-93-1495
+
+224. Trio-ER: The Trio system as a workbench for entity-resolution
+Citations:5
+Authors: P Agrawal, R Ikeda, H Park, J Widom
+Publication: Stanford InfoLab
+
+225. Tips for Writing Technical Papers
+Citations:5
+Authors: J Widom
+Publication: 
+
+226. SIGMOD 96: International Conference on Management of Data
+Citations:5
+Authors: J Widom
+Publication: Association for Computing Machinery
+
+227. Systemy baz danych. Kompletny podręcznik. Wydanie II
+Citations:5
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: 
+
+228. Expressiveness bounds for completeness in trace-based network proof systems
+Citations:5
+Authors: J Widom, P Panangaden
+Publication: Colloquium on Trees in Algebra and Programming, 200-214
+
+229. Tech Report: Compiling Green-Marl into GPS
+Citations:4
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: Technical report, Stanford University, October 2012. http://ppl. stanford …
+
+230. Representing Uncertain Data: Uniqueness, Equivalence, Minimization, and Approximation
+Citations:4
+Authors: AD Sarma, SU Nabar, J Widom
+Publication: Technical Report
+
+231. Practical Applications of Constraints and Triggers: Successes and Lingering Issues
+Citations:4
+Authors: S Ceri, RJ Cochrane, J Widom
+Publication: VLDB conference, Cairo Egypt, Sept. 2000 (invited paper)
+
+232. The whips prototype for data warehouse creation and maintenance
+Citations:4
+Authors: JL Wiener, H Gupta, WJ Labio, Y Zhuge, H Garcia-Molina, J Widom
+Publication: icde, 589
+
+233. Foreword: Special Issue on Active Database Systems
+Citations:4
+Authors: S Chakravarthy, J Widom
+Publication: J. Intell. Inf. Syst. 7 (2), 109-110
+
+234. Validating constraints with partial information: Research overview
+Citations:4
+Authors: J Widom, A Gupta, Y Sagiv, J Ullman
+Publication: Stanford InfoLab
+
+235. Jellybean: Crowd-powered image counting algorithms
+Citations:3
+Authors: AD Sarma, A Jain, A Nandi, A Parameswaran, J Widom
+Publication: HCOMP
+
+236. Crowdfill: A system for collecting structured data from the crowd
+Citations:3
+Authors: H Park, J Widom
+Publication: Proceedings of the 23rd International Conference on World Wide Web, 87-90
+
+237. COMM: sesigning a well-founded multimedia ontology for the web. The semantic web
+Citations:3
+Authors: R Arndt, R Troncy, S Staab, L Hardman, M Vacura
+Publication: Springer, Berlin
+
+238. XML: Some hyperlinks minus the hype
+Citations:3
+Authors: P Wadler, P Wadler, P Wadler, BC Pierce, J McHugh, S Abiteboul, ...
+Publication: 
+
+239. Content-based routing for continuous query-optimization
+Citations:3
+Authors: P Bizarro, S Babu, D DeWitt, J Widom
+Publication: University of Wisconsin-Madison Department of Computer Sciences
+
+240. Database Systems
+Citations:3
+Authors: HG Molina, J Ullman, J Widom
+Publication: The complete Book
+
+241. Per-user pro le replication in mobile environments: Algorithms, analysis, and simulation results
+Citations:3
+Authors: N Shivakumar, J Jannink, J Widom
+Publication: Submitted for publication
+
+242. Globally optimal crowdsourcing quality management
+Citations:2
+Authors: AD Sarma, A Parameswaran, J Widom
+Publication: arXiv preprint arXiv:1502.07710
+
+243. Optimal Worker Quality and Answer Estimates in Crowd-Powered Filtering and Rating
+Citations:2
+Authors: AD Sarma, A Parameswaran, J Widom
+Publication: Second AAAI Conference on Human Computation and Crowdsourcing
+
+244. Compiling GreenMarl into GPS
+Citations:2
+Authors: S Hong, S Salihoglu, J Widom, K Olukotun
+Publication: 
+
+245. Challenges and Opportunities with Big Data 2012-2
+Citations:2
+Authors: D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...
+Publication: 
+
+246. Outerjoins in uncertain databases
+Citations:2
+Authors: R Ikeda, J Widom
+Publication: Stanford InfoLab
+
+247. A First Course in Database Systemm (3rd).[M]
+Citations:2
+Authors: JD Ullman, J Widow
+Publication: Beijing: China Machine Press
+
+248. A system for integrated management of data, accuracy, and lineage
+Citations:2
+Authors: J Widom
+Publication: Proc. CIDR, 2005
+
+249. Approximate caching for continuous queries over distributed data sources
+Citations:2
+Authors: C Olston, J Widom
+Publication: Technical Report
+
+250. Information Integration
+Citations:2
+Authors: JD Ullman, J Widom, H Garcia-Molina
+Publication: Database System Implementation, Prentice Hall, 595-612
+
+251. Temporal view self-maintenance in a warehousing environment
+Citations:2
+Authors: J Yang, J Widom
+Publication: Stanford InfoLab
+
+252. Maintaining Temporal Views Over Non-Historical Information Sources for Data Warehousing
+Citations:2
+Authors: J Yang, J Widom
+Publication: Technical Report, Computer Science Department, Stanford University
+
+253. Proceedings of the ACM SIGMOD Conference on Management of Data
+Citations:2
+Authors: T Zhang, R Ramakrishnon, M Livny
+Publication: BIRCH: An efficient data clustering method for very large databases, 103-114
+
+254. A Warehousing Approach to Data and Knowledge Integration
+Citations:2
+Authors: H Garcia-Molina, J Widom, J Wiener, W Labio, B Lent, Y Zhuge
+Publication: Stanford University, Technical Report
+
+255. Logical Provenance in Data-Oriented Workflows (Long Version)
+Citations:2
+Authors: R Ikeda, AD Sarma, J Widom
+Publication: Stanford InfoLab
+
+256. A First Course in Database Systems: Pearson New International Edition
+Citations:1
+Authors: J Widom
+Publication: Pearson Education Limited
+
+257. Lav integration of uncertain data
+Citations:1
+Authors: P Agrawal, AD Sarma, J Ullman, J Widom
+Publication: Tech. rep. 2008-31, Stanford InfoLab
+
+258. Moshe Vardi speaks out on the proof, the whole proof, and nothing but the proof
+Citations:1
+Authors: M Winslett
+Publication: ACM SIGMOD Record 35 (1), 56-64
+
+259. Memory-Limited Execution of Windowed Stream Joins
+Citations:1
+Authors: J Widom
+Publication: Proc. Of VLDB
+
+260. Efficient and Extensible Keyword Search over Relational Databases
+Citations:1
+Authors: Q Su, J Widom
+Publication: Stanford University Technical Report
+
+261. E cient PCS Call Setup Protocols
+Citations:1
+Authors: Y Cui, D Lam, J Widom, DC Cox
+Publication: technical report, Stanford University
+
+262. An Algebraic Approach to Rule Analysis in Expert Database Systems
+Citations:1
+Authors: E Bar&s, J Widom
+Publication: Proc. Twentieth Int’J Conf. on Vet-g Large Data Bases, Santiago, Chile
+
+263. Managing Semantic Heterogeneity with Production Rules and Persistent Queues
+Citations:1
+Authors: J Widom, S Ceri
+Publication: Procs. 19th Int. Conference on Very Large Data Bases; Dublin, Ireland
+
+264. Active Database Rule Systems
+Citations:1
+Authors: J Widom
+Publication: 3rd Intn'l Conf. on Extending Database Technology, Tutorial 7, Vienna, Austria
+
+265. Starburst II: the extender strikes back!
+Citations:1
+Authors: GM Lohman, G Lapis, T Lehman, R Agrawal, R Cochrane, J McPherson, ...
+Publication: ACM SIGMOD Record 20 (2), 447
+
+266. Research in database systems: Challenges, principles, prototypes, and results
+Citations:
+Authors: J Widom
+Publication: 2016 Sixteenth International Conference on Advances in ICT for Emerging …
+
+267. The Beckman Report on Database Research
+Citations:
+Authors: JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...
+Publication: COMMUNICATIONS OF THE ACM 59 (2)
+
+268. Three Favorite Results
+Citations:
+Authors: J Widom
+Publication: Proceedings of the 2015 ACM SIGMOD International Conference on Management of …
+
+269. Globally Optimal Crowdsourcing Quality Management: Full technical report.
+Citations:
+Authors: AD Sarma, AG Parameswaran, J Widom
+Publication: CoRR
+
+270. Better Termination Analysis for Active
+Citations:
+Authors: EBS Ceri, J Widom
+Publication: Rules in Database Systems: Proceedings of the 1st International Workshop on …
+
+271. Two Paradigms or Ends of a Spectrum?
+Citations:
+Authors: J Widom
+Publication: Rules in Database Systems: Proceedings of the 1st International Workshop on …
+
+272. of (Report) Series: Technical Report/Stanford University
+Citations:
+Authors: A Das Sarma, M Theobald, J Widom
+Publication: Standford University
+
+273. Equal Opportunity Support for All
+Citations:
+Authors: JD Ullman, J Widom
+Publication: Communications of the ACM 52 (7)
+
+274. Data Modifications and Versioning in Trio
+Citations:
+Authors: A Das Sarma, M Theobald, J Widom
+Publication: Stanford University
+
+275. 2007 SIGMOD Edger F. Codd Innovations Award:“Research Principles Revealed”
+Citations:
+Authors: J Widom
+Publication: Proceedings of the 2007 ACM SIGMOD international conference on Management of …
+
+276. Goal Student Access Code Card for First Course in Database Systems
+Citations:
+Authors: JD Widom
+Publication: Prentice Hall
+
+277. Foreword to special section on SIGMOD/PODS 2005
+Citations:
+Authors: F Afrati, J Widom
+Publication: ACM Transactions on Database Systems (TODS) 31 (4), 1417-1417
+
+278. Uncertainty in Databases
+Citations:
+Authors: J Widom
+Publication: 
+
+279. Proceedings of the ACM SIGMOD International Conference on Management of Data: Foreword
+Citations:
+Authors: J Widom, Y Yesha, N Adam, F Özcan, R Chirkova
+Publication: Proceedings of the ACM SIGMOD International Conference on Management of Data
+
+280. This Presentation
+Citations:
+Authors: R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, ...
+Publication: 
+
+281. Content-Based Routing for Continuous
+Citations:
+Authors: P Bizarre, S Babu, D DeWitt, J Widom
+Publication: 
+
+282. mimm 4^ Cf tí í û Ô Üi© if
+Citations:
+Authors: P Bizarro, S Babu, D DeWitt, J Widom
+Publication: 
+
+283. MapReduce: Simplified data processing on large clusters.
+Citations:
+Authors: S Xiaoyan, C Junliang, M Xiangwu, Z Yujie, Y Asano, H Imai, M Toyoda, ...
+Publication: Information Technology Journal 8 (4), 2163-2170
+
+284. The Lowell Database Research Self Assessment
+Citations:
+Authors: S Zdonik, J Widom, G Weikum, J Ullman, R Snodgrass, M Stonebraker, ...
+Publication: 
+
+285. Data streams: fresh current or stagnant backwater?(panel)
+Citations:
+Authors: JM Hellerstein, J Widom
+Publication: Proceedings of the 2002 ACM SIGMOD international conference on Management of …
+
+286. Incremental Computation and Maintenance of Temporal Aggregates (Journal version)
+Citations:
+Authors: J Yang, J Widom
+Publication: VLDB Journal
+
+287. Processing Data Streams: Applications, Challenges and Approaches
+Citations:
+Authors: D Maier, M Franklin, J Gehrke, P Sheshadri, J Widom
+Publication: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING, 655-662
+
+288. Query Optimization for XML</Title
+Citations:
+Authors: J McHugh, J Widom, S Abiteboul, MF Fernandez, D Suciu
+Publication: Advances in Databases: 18th British National Conference on Databases, BNCOD …
+
+289. Of XML and databases (panel session): where's the beef?
+Citations:
+Authors: J Widom, A Bosworth, B Lindsay, M Stonebraker, D Suciu, ...
+Publication: ACM SIGMOD Record 29 (2), 576
+
+290. Foreword by the VLDB'98 PC Chairmen
+Citations:
+Authors: O Shmueli, J Widom
+Publication: The VLDB Journal 8 (3), 155-155
+
+291. Spatial & Temporal Information-Temporal View Self-Maintenance
+Citations:
+Authors: J Yang, J Widom
+Publication: Lecture Notes in Computer Science 1777, 395-412
+
+292. Implementing Parameterized Range Types in an Extensible DBMS
+Citations:
+Authors: J Yang, J Widom, P Brown
+Publication: Stanford
+
+293. Introducing New Advisory Board and Editorial Board Members
+Citations:
+Authors: FB Bastani
+Publication: IEEE Transactions on Knowledge & Data Engineering, 865-867
+
+294. for Data Warehousing
+Citations:
+Authors: J Yang, J Widom
+Publication: Advances in Database Technology-EDBT'98: 6th International Conference on …
+
+295. Efficient Management of Active Databases
+Citations:
+Authors: JD Ullman, J Widom
+Publication: STANFORD UNIV CA DEPT OF COMPUTER SCIENCE
+
+296. VLDB: Very Large Data Bases: International Conference: Proceedings, 24th, August 24-27, 1998, New York City
+Citations:
+Authors: A Gupta, O Shmueli, J Widom
+Publication: Morgan Kaufmann
+
+297. XML Query and transformation language.
+Citations:
+Authors: A Bosworth, A Layman, A Ardeleanu, D Schach
+Publication: QL
+
+298. Reminescences on Influential Papers-R Snodgrass, ed
+Citations:
+Authors: L Haas, A Mendelzohn, M Ozsoyoglu, J Paredaens, K Ramamntham, ...
+Publication: SIGMOD RECORD 27, 81-85
+
+299. Proceedings of the Twenty-fourth International Conference on Very Large Databases, New York, NY, USA, 24-27 August, 1998
+Citations:
+Authors: A Gupta, O Shmueli, J Widom
+Publication: Morgan Kaufmann Pub
+
+300. A Warehousing Approach to Data and Knowledge Integration
+Citations:
+Authors: J Widom
+Publication: STANFORD UNIV CA SPONSORED PROJECTS OFFICE
+
+301. Evaluating queries with generalized path expressions.
+Citations:
+Authors: U Kumar Deb Nath, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, ...
+Publication: Information Technology Journal 4 (4), 68-88
+
+302. Systems Analysis and Design.
+Citations:
+Authors: CF Wu, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, C Albrecht, ...
+Publication: Information Technology Journal 7 (4), 68-88
+
+303. Evolving materialized views in data warehouse.
+Citations:
+Authors: CA Dhote, MS Ali, E Baralis, S Paraboschi, E Tenientle, JA Blaiseley, ...
+Publication: Journal of Applied Sciences 9 (3), pp: 488-499
+
+304. Structural map: A new index for efficient XML path expression processing.
+Citations:
+Authors: SC Haw, CS Lee, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, ...
+Publication: Journal of Applied Sciences 7 (20), 68-88
+
+305. A Warehousing Approach to Data and Knowledge Integration(Final Report, Sep. 1994- Aug. 1996)
+Citations:
+Authors: J WIDOM
+Publication: 
+
+306. Change Management in Heterogeneous Semistructured Databases (Demonstration Description)
+Citations:
+Authors: S Chawathe, V Gossain, X Liu, J Widom, S Abiteboul
+Publication: Stanford InfoLab
+
+307. ACM SIGMOD Record Volume 25 Issue 1
+Citations:
+Authors: J Widom
+Publication: ACM 25 (1)
+
+308. A Toolkit for Constraint Management in Heterogeneous Information Systems
+Citations:
+Authors: SSCH Garcia-Molina, J Widom
+Publication: Proceedings of the Twelfth International Conference on Data Engineering …
+
+309. 1.3 Rule Language Design
+Citations:
+Authors: J WIDOM
+Publication: ACTIVE DATABASE SYSTEMS
+
+310. Database System Concepts.
+Citations:
+Authors: N Arman, A Aiken, J Hellerstein, J Widom, N Arman, N Arman, K Berman, ...
+Publication: Information Technology Journal 6 (2), 3-41
+
+311. Rule termination analysis based on petri nets.
+Citations:
+Authors: LB hamed, H Belbachir, A Aiken, JM Hellerstein, J Widom, M Atkinson, ...
+Publication: Journal of Applied Sciences 6 (8), 3-41
+
+312. Incremental View Updates in a Warehousing Architecture
+Citations:
+Authors: Y Zhuge, H Garcia-Molina, J Hammer, J Widom
+Publication: 
+
+313. Peer DB: A P2P-based system for distributed data sharing.
+Citations:
+Authors: NS Ougouti, H Belbachir, Y Amghar, NA Benharkat, S Chawathe, ...
+Publication: Journal of Applied Sciences 10 (22), pp: 7-18
+
+314. Improved methods for finding association rules.
+Citations:
+Authors: RS Thakur, R Agrawal, R Srikant, R Agrawal, R Srikant, RJ Bayardo, ...
+Publication: Trends in Applied Sciences Research 1 (4), pp: 478-499
+
+315. Fourth International Workshop on Research Issues in Data Engineering: Active Database Systems: Proceedings, February 14-15, 1994, Houston, Texas
+Citations:
+Authors: J Widom, S Chakravarthy
+Publication: IEEE Computer Society Press
+
+316. TRACE-BASED NETWORK PROOF SYSTEMS-EXPRESSIVENESS AND COMPLETENESS (VOL 14, PG 3, 1992)
+Citations:
+Authors: J WIDOM, D GRIES, FB SCHNEIDER
+Publication: ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS 15 (1), 208-208
+
+317. TriGS debugger a tool for debugging active database behavior.
+Citations:
+Authors: H Belbachir, NS Ougouti, A Aiken, J Widom, JM Hellerstein, ...
+Publication: Journal of Applied Sciences 6 (3), pp: 59-68
+
+318. Trace-based Network Proof Systems: Expressiveness and Completeness
+Citations:
+Authors: D Gries, FB Schneider, J Widom
+Publication: Cornell University, Department of Computer Science
+
+319. Resource Sharing in Continuous Sliding-Window Aggregation
+Citations:
+Authors: A Arasu, J Widom
+Publication: 
+
+320. Data Streams
+Citations:
+Authors: J Widom
+Publication: 
+
+321. Following the Formula
+Citations:
+Authors: J Widom
+Publication: 
+
+322. 2.1 Data Model
+Citations:
+Authors: S Abiteboul, J Widom, T Lahiri
+Publication: 
+
+323. View Maintenance in a Data Warehouse
+Citations:
+Authors: Y Zhuge, H Garcia-Molina, J Hammer, J Widom, JL Wiener, ...
+Publication: 
+
+324. 3X: A Data Management System for Computational Experiments (Demonstration Proposal)
+Citations:
+Authors: J Shin, A Paepcke, J Widom
+Publication: Stanford InfoLab
+
+325. Helal, A.
+Citations:
+Authors: K Aberer, G Alonso, B Arpinar, G Aslan, P Attie, T Berkel, E Bertino, ...
+Publication: 
+
+326. Logical Provenance in Data-Oriented Workflows (Short Version)
+Citations:
+Authors: R Ikeda, AD Sarma, J Widom
+Publication: 
+
+327. The underlying concepts may di er in subtle ways. A payroll database may not regard a retiree as an\employee," while the benefits department does. Conversely, the payroll …
+Citations:
+Authors: H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...
+Publication: 
+
+328. Data Engineering
+Citations:
+Authors: A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...
+Publication: 
+
+329. Data Engineering
+Citations:
+Authors: R Ramakrishnan, D Srivastava, G Alonso, A El Abbadi, SS Chawathe, ...
+Publication: 
+
+330. Data Engineering
+Citations:
+Authors: O Benjelloun, AD Sarma, C Hayworth, J Widom
+Publication: Ann Arbor 1001, 48109
+
+331. Computer Science Department Stanford University Stanford, CA 94305 E-mail: joachim@ cs. stanford. edu
+Citations:
+Authors: J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge
+Publication: 
+
+332. Data Engineering
+Citations:
+Authors: G Alonso, A El Abbadi, SS Chawathe, H Garcia-Molina, J Widom
+Publication: 
+
+333. Change Detection in
+Citations:
+Authors: SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom
+Publication: 
+
+334. Data Engineering
+Citations:
+Authors: H Kawai, TE Larson, D Menestrina, Q Su, S Thavisomboon, J Widom, ...
+Publication: 
+
+335. In: Won Kim, editor, Modern Database Systems: The Object Model, Interoperability, and Beyond, Addison-Wesley, Reading, Massachusetts, Sep. 1994
+Citations:
+Authors: U Dayal, EN Hanson, J Widom
+Publication: 
+
+336. Data Engineering
+Citations:
+Authors: JM Hellerstein, V Paxson, L Peterson, T Roscoe, S Shenker, D Wetherall, ...
+Publication: Ann Arbor 1001, 48109
+
+337. Dallan Quass
+Citations:
+Authors: J Widom
+Publication: 
+
+338. An Algebraic Approach to Rule Analysis in Expert Database Systems
+Citations:
+Authors: J Widom
+Publication: 
+
+339. The Capability Maturity Model [4] is an orderly way for organizations to determine the capabilities of their current processes for developing software and to establish …
+Citations:
+Authors: S Chaudhuri, D Kossmann, J Chomicki, H Mannila, L Gravano, ...
+Publication: 
+
+340. Welcome to VLDB ‘98! This volume contains the proceedings of the Twenty-Fourth International Conference on Very Large Databases being held in New York City, August 24-27 1998 …
+Citations:
+Authors: A Biliris, IS Mumick, O Shmueli, J Widom
+Publication: 
+
+341. Programme Committee Members
+Citations:
+Authors: M Adiba, D Agrawal, P Apers, R Baeza-Yates, DB UK, JA Blakeley, ...
+Publication: 
+
+342. ¡¢ stem rotot¢ e for'are1ouse 7ieB D aintenance
+Citations:
+Authors: JL Wiener, H Gupta, WJ Labio, Y Zhuge, H Garcia-Molina, J Widom
+Publication: 
+
+343. Bulletin of the Technical Committee on
+Citations:
+Authors: A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...
+Publication: 
+
+344. VLDB Endowment Board of Trustees
+Citations:
+Authors: J Mylopoulos, KG Jeffery, S Su, R Agrawal, ML Brodie, MJ Carey, ...
+Publication: 
+
+345. SimRank: A Measure of Structural-Context Similarity ฃ
+Citations:
+Authors: G Jeh, J Widom
+Publication: 
+
+346. TSIMMIS System
+Citations:
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J rey Ullman, ...
+Publication: 
+
+347. Wilburt J. Labio, Yue Zhuge, Janet L. Wiener, Himanshu Gupta
+Citations:
+Authors: H Garcia-Molina, J Widom
+Publication: 
+
+348. Department and Course Number
+Citations:
+Authors: H Garcia-Molina, JD Ullman, J Widom
+Publication: 
+
+349. Information Translation, Mediation, and Mosaic-Based Browsing in the
+Citations:
+Authors: J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...
+Publication: 
+

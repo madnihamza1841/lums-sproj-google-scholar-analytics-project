@@ -1,0 +1,2108 @@
+https://scholar.google.com/citations?hl=en&user=IcasIiwAAAAJ
+Total Citations = 26132
+
+1. Reinforcement learning: A survey
+Citations:6927
+Authors: LP Kaelbling, ML Littman, AW Moore
+Publication: Journal of artificial intelligence research 4, 237-285
+
+2. Planning and acting in partially observable stochastic domains
+Citations:3537
+Authors: LP Kaelbling, ML Littman, AR Cassandra
+Publication: Artificial intelligence 101 (1-2), 99-134
+
+3. Learning in embedded systems
+Citations:825
+Authors: LP Kaelbling
+Publication: MIT press
+
+4. Acting optimally in partially observable stochastic domains
+Citations:741
+Authors: AR Cassandra, LP Kaelbling, ML Littman
+Publication: Aaai 94, 1023-1028
+
+5. Learning policies for partially observable environments: Scaling up
+Citations:730
+Authors: ML Littman, AR Cassandra, LP Kaelbling
+Publication: Machine Learning Proceedings 1995, 362-370
+
+6. Acting under uncertainty: Discrete Bayesian models for mobile-robot navigation
+Citations:655
+Authors: AR Cassandra, LP Kaelbling, JA Kurien
+Publication: Proceedings of IEEE/RSJ International Conference on Intelligent Robots and …
+
+7. On the complexity of solving Markov decision problems
+Citations:530
+Authors: ML Littman, TL Dean, LP Kaelbling
+Publication: Proceedings of the Eleventh conference on Uncertainty in artificial …
+
+8. An architecture for intelligent reactive systems
+Citations:473
+Authors: LP Kaelbling
+Publication: Reasoning about actions and plans 1 (2), 395-410
+
+9. The synthesis of digital machines with provable epistemic properties
+Citations:467
+Authors: SJ Rosenschein, LP Kaelbling
+Publication: Theoretical aspects of reasoning about knowledge, 83-98
+
+10. Effective reinforcement learning for mobile robots
+Citations:421
+Authors: WD Smart, LP Kaelbling
+Publication: Proceedings 2002 IEEE International Conference on Robotics and Automation …
+
+11. Hierarchical planning in the now
+Citations:374
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: Workshops at the Twenty-Fourth AAAI Conference on Artificial Intelligence
+
+12. Input Generalization in Delayed Reinforcement Learning: An Algorithm and Performance Comparisons.
+Citations:344
+Authors: D Chapman, LP Kaelbling
+Publication: IJCAI 91, 726-731
+
+13. Action and planning in embedded agents
+Citations:342
+Authors: LP Kaelbling, SJ Rosenschein
+Publication: Robotics and autonomous systems 6 (1-2), 35-48
+
+14. Hierarchical solution of Markov decision processes using macro-actions
+Citations:336
+Authors: M Hauskrecht, N Meuleau, LP Kaelbling, T Dean, C Boutilier
+Publication: Proceedings of the Fourteenth conference on Uncertainty in artificial …
+
+15. Learning to cooperate via policy search
+Citations:316
+Authors: L Peshkin, KE Kim, N Meuleau, LP Kaelbling
+Publication: Proceedings of the Sixteenth conference on Uncertainty in artificial …
+
+16. Planning under time constraints in stochastic domains
+Citations:313
+Authors: T Dean, LP Kaelbling, J Kirman, A Nicholson
+Publication: Artificial Intelligence 76 (1-2), 35-74
+
+17. Practical reinforcement learning in continuous spaces
+Citations:291
+Authors: WD Smart, LP Kaelbling
+Publication: ICML, 903-910
+
+18. Learning topological maps with weak local odometric information
+Citations:278
+Authors: H Shatkay, LP Kaelbling
+Publication: IJCAI (2), 920-929
+
+19. Planning With Deadlines in Stochastic Domains.
+Citations:276
+Authors: TL Dean, LP Kaelbling, J Kirman, AE Nicholson
+Publication: AAAI 93, 574-579
+
+20. To transfer or not to transfer
+Citations:275
+Authors: MT Rosenstein, Z Marx, LP Kaelbling, TG Dietterich
+Publication: NIPS 2005 workshop on transfer learning 898, 3
+
+21. Belief space planning assuming maximum likelihood observations
+Citations:243
+Authors: R Platt Jr, R Tedrake, L Kaelbling, T Lozano-Perez
+Publication: 
+
+22. Solving very large weakly coupled Markov decision processes
+Citations:218
+Authors: N Meuleau, M Hauskrecht, KE Kim, L Peshkin, LP Kaelbling, TL Dean, ...
+Publication: AAAI/IAAI, 165-172
+
+23. Hierarchical learning in stochastic domains: Preliminary results
+Citations:215
+Authors: LP Kaelbling
+Publication: Proceedings of the tenth international conference on machine learning 951 …
+
+24. Learning finite-state controllers for partially observable environments
+Citations:211
+Authors: N Meuleau, L Peshkin, KE Kim, LP Kaelbling
+Publication: Proceedings of the Fifteenth conference on Uncertainty in artificial …
+
+25. Lifted Probabilistic Inference with Counting Formulas.
+Citations:210
+Authors: B Milch, LS Zettlemoyer, K Kersting, M Haimes, LP Kaelbling
+Publication: Aaai 8, 1062-1068
+
+26. Integrated task and motion planning in belief space
+Citations:209
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: The International Journal of Robotics Research 32 (9-10), 1194-1227
+
+27. A situated view of representation and control
+Citations:203
+Authors: SJ Rosenschein, LP Kaelbling
+Publication: Artificial Intelligence 73 (1-2), 149-173
+
+28. Goals as Parallel Program Specifications.
+Citations:198
+Authors: LP Kaelbling
+Publication: AAAI 88, 60-65
+
+29. Learning symbolic models of stochastic domains
+Citations:196
+Authors: HM Pasula, LS Zettlemoyer, LP Kaelbling
+Publication: Journal of Artificial Intelligence Research 29, 309-352
+
+30. Grasping pomdps
+Citations:177
+Authors: K Hsiao, LP Kaelbling, T Lozano-Perez
+Publication: Proceedings 2007 IEEE International Conference on Robotics and Automation …
+
+31. Solving POMDPs by searching the space of finite policies
+Citations:172
+Authors: N Meuleau, KE Kim, LP Kaelbling, AR Cassandra
+Publication: Proceedings of the Fifteenth conference on Uncertainty in artificial …
+
+32. LQR-RRT*: Optimal sampling-based motion planning with automatically derived extension heuristics
+Citations:152
+Authors: A Perez, R Platt, G Konidaris, L Kaelbling, T Lozano-Perez
+Publication: 2012 IEEE International Conference on Robotics and Automation, 2537-2542
+
+33. Ecological robotics
+Citations:132
+Authors: AP Duchon, LP Kaelbling, WH Warren
+Publication: Adaptive Behavior 6 (3-4), 473-507
+
+34. Learning forward models for robots
+Citations:128
+Authors: A Dearden, Y Demiris, LP Kaelbling, A Saffotti
+Publication: IJCAI-INT JOINT CONF ARTIF INTELL
+
+35. A dynamical model of visually-guided steering, obstacle avoidance, and route selection
+Citations:117
+Authors: BR Fajen, WH Warren, S Temizer, LP Kaelbling
+Publication: International Journal of Computer Vision 54 (1-3), 13-34
+
+36. Learning policies with external memory
+Citations:108
+Authors: L Peshkin, N Meuleau, L Kaelbling
+Publication: arXiv preprint cs/0103003
+
+37. Generalization in deep learning
+Citations:107
+Authors: K Kawaguchi, LP Kaelbling, Y Bengio
+Publication: arXiv preprint arXiv:1710.05468
+
+38. All learning is local: Multi-agent learning in global reward games
+Citations:104
+Authors: YH Chang, T Ho, LP Kaelbling
+Publication: Advances in neural information processing systems, 807-814
+
+39. Collision avoidance for unmanned aircraft using Markov decision processes
+Citations:103
+Authors: S Temizer, M Kochenderfer, L Kaelbling, T Lozano-Pérez, J Kuchar
+Publication: AIAA guidance, navigation, and control conference, 8040
+
+40. Inferring finite automata with stochastic output functions and an application to map learning
+Citations:101
+Authors: T Dean, D Angluin, K Basye, S Engelson, L Kaelbling, E Kokkevis, ...
+Publication: Machine Learning 18 (1), 81-108
+
+41. A constraint-based method for solving sequential manipulation planning problems
+Citations:96
+Authors: T Lozano-Pérez, LP Kaelbling
+Publication: 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+42. Mobilized ad-hoc networks: A reinforcement learning approach
+Citations:95
+Authors: YH Chang, T Ho, LP Kaelbling
+Publication: International Conference on Autonomic Computing, 2004. Proceedings., 240-247
+
+43. Task-driven tactile exploration
+Citations:93
+Authors: K Hsiao, L Kaelbling, T Lozano-Pérez
+Publication: Robotics: Science and Systems VI
+
+44. Ffrob: An efficient heuristic for task and motion planning
+Citations:89
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: Algorithmic Foundations of Robotics XI, 179-195
+
+45. Learning planning rules in noisy stochastic worlds
+Citations:85
+Authors: LS Zettlemoyer, H Pasula, LP Kaelbling
+Publication: AAAI, 911-918
+
+46. Learning to achieve goals
+Citations:84
+Authors: LP Kaelbling
+Publication: IJCAI, 1094-1099
+
+47. Efficient dynamic-programming updates in partially observable Markov decision processes
+Citations:81
+Authors: ML Littman, AR Cassandra, LP Kaelbling
+Publication: 
+
+48. Learning Probabilistic Relational Planning Rules.
+Citations:80
+Authors: H Pasula, LS Zettlemoyer, LP Kaelbling
+Publication: ICAPS, 73-82
+
+49. Representing hierarchical POMDPs as DBNs for multi-scale robot localization
+Citations:80
+Authors: G Theocharous, K Murphy, LP Kaelbling
+Publication: IEEE International Conference on Robotics and Automation, 2004. Proceedings …
+
+50. Approximate planning in POMDPs with macro-actions
+Citations:76
+Authors: G Theocharous, LP Kaelbling
+Publication: Advances in Neural Information Processing Systems, 775-782
+
+51. A situated-automata approach to the design of embedded agents
+Citations:66
+Authors: LP Kaelbling
+Publication: ACM SIGART Bulletin 2 (4), 85-88
+
+52. Learning from delayed reinforcement in a complex domain
+Citations:65
+Authors: D Chapman, LP Kaelbling
+Publication: Twelfth International Joint Conference on Artificial Intelligence 1 (99), 1
+
+53. Planning for decentralized control of multiple robots under uncertainty
+Citations:61
+Authors: C Amato, G Konidaris, G Cruz, CA Maynor, JP How, LP Kaelbling
+Publication: 2015 IEEE International Conference on Robotics and Automation (ICRA), 1241-1248
+
+54. Constructing symbolic representations for high-level planning
+Citations:61
+Authors: G Konidaris, L Kaelbling, T Lozano-Perez
+Publication: Twenty-Eighth AAAI Conference on Artificial Intelligence
+
+55. Transfer learning with an ensemble of background tasks
+Citations:61
+Authors: Z Marx, MT Rosenstein, LP Kaelbling, TG Dietterich
+Publication: Inductive Transfer 10
+
+56. Associative reinforcement learning: Functions ink-dnf
+Citations:61
+Authors: LP Kaelbling
+Publication: Machine Learning 15 (3), 279-298
+
+57. Robust grasping under object pose uncertainty
+Citations:60
+Authors: K Hsiao, LP Kaelbling, T Lozano-Pérez
+Publication: Autonomous Robots 31 (2-3), 253
+
+58. Playing is believing: The role of beliefs in multi-agent learning
+Citations:59
+Authors: YH Chang, LP Kaelbling
+Publication: Advances in Neural Information Processing Systems, 1483-1490
+
+59. Bayesian optimization with exponential convergence
+Citations:55
+Authors: K Kawaguchi, LP Kaelbling, T Lozano-Pérez
+Publication: Advances in neural information processing systems, 2809-2817
+
+60. Rex-A symbolic language for the design and parallel implementationof embedded systems
+Citations:52
+Authors: L Kaelbling
+Publication: 6th Computers in Aerospace VI Conference, 2822
+
+61. Policy search for multi-robot coordination under uncertainty
+Citations:51
+Authors: C Amato, G Konidaris, A Anders, G Cruz, JP How, LP Kaelbling
+Publication: The International Journal of Robotics Research 35 (14), 1760-1778
+
+62. An adaptable mobile robot
+Citations:51
+Authors: L Kaelbling
+Publication: 1992) Toward a Practice of Autonomous Systems. Proceedings of the First …
+
+63. Hierarchical reinforcement learning: Preliminary results
+Citations:50
+Authors: LP Kaelbling
+Publication: Proceedings of the Tenth International Conference on Machine Learning, 167-173
+
+64. Adaptive importance sampling for estimation in structured domains
+Citations:49
+Authors: LE Ortiz, LP Kaelbling
+Publication: Proceedings of the Sixteenth conference on Uncertainty in artificial …
+
+65. Envelope-based planning in relational MDPs
+Citations:48
+Authors: NH Gardiol, LP Kaelbling
+Publication: Advances in Neural Information Processing Systems, 783-790
+
+66. Manipulation with multiple action types
+Citations:46
+Authors: J Barry, K Hsiao, LP Kaelbling, T Lozano-Pérez
+Publication: Experimental Robotics, 531-545
+
+67. Automated design of adaptive controllers for modular robots using reinforcement learning
+Citations:46
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: The International Journal of Robotics Research 27 (3-4), 505-526
+
+68. A hierarchical approach to manipulation with diverse actions
+Citations:45
+Authors: J Barry, LP Kaelbling, T Lozano-Pérez
+Publication: 2013 IEEE International Conference on Robotics and Automation, 1799-1806
+
+69. Ecological robotics: Controlling behavior with optical flow
+Citations:45
+Authors: AP Duchon, WH Warren, LP Kaelbling
+Publication: Proceedings of the seventeenth annual conference of the Cognitive Science …
+
+70. Continuous-State POMDPs with Hybrid Dynamics.
+Citations:44
+Authors: E Brunskill, LP Kaelbling, T Lozano-Perez, N Roy
+Publication: ISAIM
+
+71. Virtual training for multi-view object class recognition
+Citations:44
+Authors: HP Chiu, LP Kaelbling, T Lozano-Pérez
+Publication: 2007 IEEE Conference on Computer Vision and Pattern Recognition, 1-8
+
+72. Efficient Bayesian Task-Level Transfer Learning.
+Citations:44
+Authors: DM Roy, LP Kaelbling
+Publication: IJCAI 7, 2599-2604
+
+73. Learning geometrically-constrained hidden markov models for robot navigation: Bridging the topological-geometrical gap
+Citations:44
+Authors: H Shatkay, LP Kaelbling
+Publication: Journal of Artificial Intelligence Research 16, 167-207
+
+74. Backward-forward search for manipulation planning
+Citations:43
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+75. Capir: Collaborative action planning with intention recognition
+Citations:43
+Authors: THD Nguyen, D Hsu, WS Lee, TY Leong, LP Kaelbling, T Lozano-Perez, ...
+Publication: Seventh Artificial Intelligence and Interactive Digital Entertainment Conference
+
+76. Planning with macro-actions in decentralized POMDPs
+Citations:42
+Authors: C Amato, GD Konidaris, LP Kaelbling
+Publication: Proceedings of the 2014 international conference on Autonomous agents and …
+
+77. Multi-value-functions: E cient automatic action hierarchies for multiple goal MDPs
+Citations:42
+Authors: AW Moore, L Baird, LP Kaelbling
+Publication: Proceedings of the international joint conference on artificial intelligence …
+
+78. Efficient planning in non-Gaussian belief spaces and its application to robot grasping
+Citations:41
+Authors: R Platt, L Kaelbling, T Lozano-Perez, R Tedrake
+Publication: Robotics Research, 253-269
+
+79. Tracking 3-D rotations with the quaternion Bingham filter
+Citations:41
+Authors: J Glover, LP Kaelbling
+Publication: 
+
+80. Learning in worlds with objects
+Citations:41
+Authors: LP Kaelbling, T Oates, N Hernandez, S Finney
+Publication: Working Notes of the AAAI Stanford Spring Symposium on Learning Grounded …
+
+81. From skills to symbols: Learning symbolic representations for abstract high-level planning
+Citations:39
+Authors: G Konidaris, LP Kaelbling, T Lozano-Perez
+Publication: Journal of Artificial Intelligence Research 61, 215-289
+
+82. Associative reinforcement learning: A generate and test algorithm
+Citations:38
+Authors: LP Kaelbling
+Publication: Machine Learning 15 (3), 299-319
+
+83. Unifying perception, estimation and action for mobile manipulation via belief space planning
+Citations:37
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: 2012 IEEE International Conference on Robotics and Automation, 2952-2959
+
+84. Shortest paths in a dynamic uncertain domain
+Citations:37
+Authors: DM Blei, LP Kaelbling
+Publication: IJCAI Workshop on Adaptive Spatial Representations of Dynamic Environments 4, 2
+
+85. The thing that we tried didn't work very well: deictic representation in reinforcement learning
+Citations:36
+Authors: S Finney, NH Gardiol, LP Kaelbling, T Oates
+Publication: Proceedings of the Eighteenth conference on Uncertainty in artificial …
+
+86. Nearly deterministic abstractions of markov decision processes
+Citations:36
+Authors: T Lane, LP Kaelbling
+Publication: AAAI/IAAI, 260-266
+
+87. Manipulation-based active search for occluded objects
+Citations:35
+Authors: LLS Wong, LP Kaelbling, T Lozano-Pérez
+Publication: 2013 IEEE International Conference on Robotics and Automation, 2814-2819
+
+88. DetH*: Approximate hierarchical solution of large markov decision processes
+Citations:35
+Authors: JL Barry, LP Kaelbling, T Lozano-Pérez
+Publication: Twenty-Second International Joint Conference on Artificial Intelligence
+
+89. Partially observable markov decision processes for artificial intelligence
+Citations:33
+Authors: LP Kaelbling, ML Littman, AR Cassandra
+Publication: International Workshop on Reasoning with Uncertainty in Robotics, 146-163
+
+90. Learning dynamics: System identification for perceptually challenged agents
+Citations:33
+Authors: K Basye, T Dean, LP Kaelbling
+Publication: Artificial Intelligence 72 (1-2), 139-171
+
+91. Pomcop: Belief space planning for sidekicks in cooperative games
+Citations:32
+Authors: O Macindoe, LP Kaelbling, T Lozano-Pérez
+Publication: Eighth Artificial Intelligence and Interactive Digital Entertainment Conference
+
+92. Toward hierarchical decomposition for planning in uncertain environments
+Citations:32
+Authors: T Lane, LP Kaelbling
+Publication: Proceedings of the 2001 IJCAI workshop on planning under uncertainty and …
+
+93. 部分観測マルコフ決定過程下での強化学習 (< 特集> 強化学習)
+Citations:32
+Authors: 木村元
+Publication: 人工知能学会誌 12 (6), 822-830
+
+94. Activity recognition from physiological data using conditional random fields
+Citations:31
+Authors: HL Chieu, WS Lee, LP Kaelbling
+Publication: 
+
+95. The NSF workshop on reinforcement learning: Summary and observations
+Citations:30
+Authors: S Mahadevan, LP Kaelbling
+Publication: AI Magazine
+
+96. Deliberation scheduling for time-critical sequential decision making
+Citations:29
+Authors: T Dean, LP Kaelbling, J Kirman, A Nicholson
+Publication: Uncertainty in Artificial Intelligence, 309-316
+
+97. Data association for semantic world modeling from partial views
+Citations:28
+Authors: LLS Wong, LP Kaelbling, T Lozano-Pérez
+Publication: The International Journal of Robotics Research 34 (7), 1064-1082
+
+98. Non-gaussian belief space planning: Correctness and complexity
+Citations:28
+Authors: R Platt, L Kaelbling, T Lozano-Perez, R Tedrake
+Publication: 2012 IEEE International Conference on Robotics and Automation, 4711-4717
+
+99. Sampling methods for action selection in influence diagrams
+Citations:28
+Authors: LE Ortiz, LP Kaelbling
+Publication: AAAI/IAAI, 378-385
+
+100. Robust belief-based execution of manipulation programs
+Citations:27
+Authors: K Hsiao, T Lozano-Pérez, LP Kaelbling
+Publication: Eighth Intl. Workshop on the Algorithmic Foundations of Robotics
+
+101. Accelerating EM: An empirical study
+Citations:27
+Authors: LE Ortiz, LP Kaelbling
+Publication: Proceedings of the Fifteenth conference on Uncertainty in artificial …
+
+102. FFRob: Leveraging symbolic planning for efficient task and motion planning
+Citations:26
+Authors: CR Garrett, T Lozano-Perez, LP Kaelbling
+Publication: The International Journal of Robotics Research 37 (1), 104-136
+
+103. Tracking the spin on a ping pong ball with the quaternion bingham filter
+Citations:26
+Authors: J Glover, LP Kaelbling
+Publication: 2014 IEEE international conference on robotics and automation (ICRA), 4133-4140
+
+104. Influence-based abstraction for multiagent systems
+Citations:26
+Authors: FA Oliehoek, SJ Witwicki, LP Kaelbling
+Publication: Twenty-Sixth AAAI Conference on Artificial Intelligence
+
+105. Multi-agent filtering with infinitely nested beliefs
+Citations:26
+Authors: L Zettlemoyer, B Milch, LP Kaelbling
+Publication: Advances in neural information processing systems, 1905-1912
+
+106. Rex programmer's manual
+Citations:26
+Authors: LP Kaelbling, NJ Wilson
+Publication: SRI International
+
+107. Symbol acquisition for probabilistic high-level planning
+Citations:25
+Authors: G Konidaris, L Kaelbling, T Lozano-Perez
+Publication: Twenty-Fourth International Joint Conference on Artificial Intelligence
+
+108. Bayesian policy search with policy priors
+Citations:25
+Authors: D Wingate, ND Goodman, DM Roy, LP Kaelbling, JB Tenenbaum
+Publication: Twenty-Second International Joint Conference on Artificial Intelligence
+
+109. Model-based optimization of airborne collision avoidance logic
+Citations:25
+Authors: MJ Kochenderfer, JP Chryssanthacopoulos, LP Kaelbling, ...
+Publication: MASSACHUSETTS INST OF TECH LEXINGTON LINCOLN LAB
+
+110. Reinforcement learning for robot control
+Citations:25
+Authors: WD Smart, LP Kaelbling
+Publication: Mobile Robots XVI 4573, 92-103
+
+111. State-based classification of finger gestures from electromyographic signals
+Citations:25
+Authors: P Ju, LP Kaelbling, Y Singer
+Publication: ICML 8, 439-446
+
+112. Uncertainty in graph-based map learning
+Citations:25
+Authors: T Dean, K Basye, L Kaelbling
+Publication: Robot Learning, 171-192
+
+113. Hierarchical planning for multi-contact non-prehensile manipulation
+Citations:24
+Authors: G Lee, T Lozano-Pérez, LP Kaelbling
+Publication: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+114. Foundations of learning in autonomous agents
+Citations:24
+Authors: LP Kaelbling
+Publication: Robotics and Autonomous Systems 8 (1-2), 131-144
+
+115. Simultaneous localization and grasping as a belief space control problem
+Citations:23
+Authors: R Platt, L Kaelbling, T Lozano-Perez, R Tedrake
+Publication: International Symposium on Robotics Research 2
+
+116. Foresight and reconsideration in hierarchical planning and execution
+Citations:20
+Authors: M Levihn, LP Kaelbling, T Lozano-Pérez, M Stilman
+Publication: 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+117. Compound effects of top-down and bottom-up influences on visual attention during action recognition
+Citations:20
+Authors: B Khadhouri, Y Demiris, LP Kaelbling, A Saffotti
+Publication: IJCAI-INT JOINT CONF ARTIF INTELL
+
+118. Interactive bayesian identification of kinematic mechanisms
+Citations:19
+Authors: PR Barragän, LP Kaelbling, T Lozano-Pérez
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 2013-2020
+
+119. Hierarchical solution of large Markov decision processes
+Citations:19
+Authors: J Barry, LP Kaelbling, T Lozano-Pérez
+Publication: Association for the Advancement of Artificial Intelligence
+
+120. Pre-image backchaining in belief space for mobile manipulation
+Citations:18
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: Robotics Research, 383-400
+
+121. Learning static object segmentation from motion segmentation
+Citations:18
+Authors: MG Ross, LP Kaelbling
+Publication: Massachusetts Institute of Technology, Department of Electrical Engineering …
+
+122. Hedged learning: regret-minimization with learning experts
+Citations:17
+Authors: YH Chang, LP Kaelbling
+Publication: Proceedings of the 22nd international conference on Machine learning, 121-128
+
+123. Learning distributed control for modular robots
+Citations:17
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+124. Heading in the Right Direction.
+Citations:17
+Authors: H Shatkay, LP Kaelbling
+Publication: ICML, 531-539
+
+125. E cient dynamic-programming updates in partially observable Markov decision processes
+Citations:17
+Authors: ML Littman, AR Cassandra, LP Kaelbling
+Publication: submitted to Operations Research
+
+126. An introduction to reinforcement learning
+Citations:17
+Authors: LP Kaelbling, ML Littman, AW Moore
+Publication: The Biology and Technology of Intelligent Autonomous Agents, 90-127
+
+127. Toward approximate planning in very large stochastic domains
+Citations:17
+Authors: AE Nicholson, LP Kaelbling
+Publication: Proceedings of the AAAI Spring Symposium on Decision Theoretic Planning …
+
+128. Sample-Based Methods for Factored Task and Motion Planning.
+Citations:16
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: Robotics: Science and Systems
+
+129. Learning probabilistic relational dynamics for multiple tasks
+Citations:16
+Authors: A Deshpande, B Milch, LS Zettlemoyer, LP Kaelbling
+Publication: arXiv preprint arXiv:1206.5249
+
+130. Learning with deictic representation
+Citations:16
+Authors: S Finney, NH Gardiol, LP Kaelbling, T Oates
+Publication: 
+
+131. Augmenting physical simulators with stochastic neural networks: Case study of planar pushing and bouncing
+Citations:15
+Authors: A Ajay, J Wu, N Fazeli, M Bauza, LP Kaelbling, JB Tenenbaum, ...
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+132. Not seeing is also believing: Combining object and metric spatial information
+Citations:15
+Authors: LLS Wong, LP Kaelbling, T Lozano-Pérez
+Publication: 2014 IEEE International Conference on Robotics and Automation (ICRA), 1253-1260
+
+133. Off-policy policy search
+Citations:15
+Authors: N Meuleau, L Peshkin, LP Kaelbling, KE Kim
+Publication: MIT Articical Intelligence Laboratory
+
+134. Recent advances in reinforcement learning
+Citations:15
+Authors: LP Kaelbling
+Publication: Kluwer Academic
+
+135. Integrating planning and reactive control
+Citations:15
+Authors: SJ Rosenschein, LP Kaelbling
+Publication: 
+
+136. Heuristic search of multiagent influence space
+Citations:14
+Authors: SJ Witwicki, FA Oliehoek, LP Kaelbling
+Publication: Proceedings of the 11th International Conference on Autonomous Agents and …
+
+137. Learning Functions in κ-DNF from Reinforcement
+Citations:14
+Authors: LP Kaelbling
+Publication: Machine Learning Proceedings 1990, 162-169
+
+138. Learning to guide task and motion planning using score-space representation
+Citations:13
+Authors: B Kim, LP Kaelbling, T Lozano-Pérez
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 2810-2817
+
+139. Collision-free state estimation
+Citations:13
+Authors: LLS Wong, LP Kaelbling, T Lozano-Perez
+Publication: 2012 IEEE International Conference on Robotics and Automation, 223-228
+
+140. Planning in partially-observable switching-mode continuous domains
+Citations:13
+Authors: E Brunskill, LP Kaelbling, T Lozano-Pérez, N Roy
+Publication: Annals of Mathematics and Artificial Intelligence 58 (3-4), 185-216
+
+141. Integrated robot task and motion planning in the now
+Citations:12
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+142. Action-space partitioning for planning
+Citations:12
+Authors: NH Gardiol, LP Kaelbling
+Publication: Proceedings of the National Conference on Artificial Intelligence 22 (2), 980
+
+143. A special issue on reinforcement learning
+Citations:12
+Authors: LP Kaelbling
+Publication: Machine Learning
+
+144. Provably safe robot navigation with obstacle uncertainty
+Citations:11
+Authors: B Axelrod, LP Kaelbling, T Lozano-Pérez
+Publication: The International Journal of Robotics Research 37 (13-14), 1760-1774
+
+145. Modular meta-learning
+Citations:11
+Authors: F Alet, T Lozano-Pérez, LP Kaelbling
+Publication: arXiv preprint arXiv:1806.10166
+
+146. Efficient distributed reinforcement learning through agreement
+Citations:11
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: Distributed Autonomous Robotic Systems 8, 367-378
+
+147. Integrated agent architectures: Benchmark tasks and evaluation metrics
+Citations:11
+Authors: ME Drummond, LP Kaelbling
+Publication: Proceedings DARPA Workshop on Innovative Approaches to Planning, Scheduling …
+
+148. A formal framework for learning in embedded systems
+Citations:11
+Authors: LP Kaelbling
+Publication: Proceedings of the sixth international workshop on Machine learning, 350-353
+
+149. A hypothesis-based algorithm for planning and control in non-gaussian belief spaces
+Citations:10
+Authors: R Platt Jr, L Kaelbling, T Lozano-Perez, R Tedrake
+Publication: 
+
+150. Unmanned Aircraft Collision Avoidance Using Partially Observable Markov Decision Processes
+Citations:10
+Authors: S Temizer, MJ Kochenderfer, LP Kaelbling, T Lozano-Perez, JK Kuchar
+Publication: 
+
+151. Segmentation according to natural examples: Learning static segmentation from motion segmentation
+Citations:10
+Authors: MG Ross, LP Kaelbling
+Publication: IEEE transactions on pattern analysis and machine intelligence 31 (4), 661-676
+
+152. Spatial and temporal abstractions in POMDPs applied to robot navigation
+Citations:10
+Authors: G Theocharous, S Mahadevan, LP Kaelbling
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …
+
+153. Learning hidden Markov models with geometric information
+Citations:10
+Authors: H Shatkay, LP Kaelbling
+Publication: Technical Report CS-97-04, Computer Science Department, Brown University …
+
+154. Specifying complex behavior for computer agents
+Citations:10
+Authors: LP Kaelbling
+Publication: AISB91, 94-105
+
+155. Learning composable models of parameterized skills
+Citations:9
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 886-893
+
+156. Class-specific grasping of 3d objects from a single 2d image
+Citations:9
+Authors: HP Chiu, H Liu, LP Kaelbling, T Lozano-Pérez
+Publication: 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+157. Learning hierarchical structure in policies
+Citations:9
+Authors: B Marthi, L Kaelbling, T Lozano-Perez
+Publication: NIPS Hierarchical Organization of Behavior Workshop
+
+158. Probabilistic geometric grammars for object recognition
+Citations:9
+Authors: MA Aycinena
+Publication: Massachusetts Institute of Technology
+
+159. The national science foundation workshop on reinforcement learning
+Citations:9
+Authors: S Mahadevan, LP Kaelbling
+Publication: AI Magazine 17 (4), 89-89
+
+160. Object placement as inverse motion planning
+Citations:8
+Authors: A Holladay, J Barry, LP Kaelbling, T Lozano-Perez
+Publication: 2013 IEEE International Conference on Robotics and Automation, 3715-3721
+
+161. Constructing semantic world models from partial views
+Citations:8
+Authors: LL Wong, LP Kaelbling, T Lozano-Pérez
+Publication: Robotics: Science and Systems (RSS) Workshop on Robots in Clutter
+
+162. Approaches to macro decompositions of large markov decision process planning problems
+Citations:8
+Authors: T Lane, LP Kaelbling
+Publication: Mobile Robots XVI 4573, 104-113
+
+163. Associative methods in reinforcement learning: an empirical study
+Citations:8
+Authors: LP Kaelbling
+Publication: Proceedings of the workshop on Computational learning theory and natural …
+
+164. Residual policy learning
+Citations:7
+Authors: T Silver, K Allen, J Tenenbaum, L Kaelbling
+Publication: arXiv preprint arXiv:1812.06298
+
+165. Sampling-based methods for factored task and motion planning
+Citations:7
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: The International Journal of Robotics Research 37 (13-14), 1796-1825
+
+166. Active model learning and diverse action sampling for task and motion planning
+Citations:7
+Authors: Z Wang, CR Garrett, LP Kaelbling, T Lozano-Pérez
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+167. Symbol acquisition for task-level planning
+Citations:7
+Authors: G Konidaris, LP Kaelbling, T Lozano-Perez
+Publication: Workshops at the Twenty-Seventh AAAI Conference on Artificial Intelligence
+
+168. Domain and plan representation for task and motion planning in uncertain domains
+Citations:7
+Authors: L Kaelbling, T Lozano-Perez
+Publication: IROS Workshop on Knowledge Representation for Autonomous Robots
+
+169. Simultaneous localization and grasping using belief space planning
+Citations:7
+Authors: R Platt, L Kaelbling, T Lozano-Perez, R Tedrake
+Publication: Robotics and Automation (ICRA), IEEE International Conference on, Workshop …
+
+170. Adaptive envelope MDPs for relational equivalence-based planning
+Citations:7
+Authors: NH Gardiol, LP Kaelbling
+Publication: 
+
+171. Two algorithms for transfer learning
+Citations:7
+Authors: Z Marx, MT Rosenstein, TG Dietterich, LP Kaelbling
+Publication: Inductive transfer 10
+
+172. Notes on methods based on maximum-likelihood estimation for learning the parameters of the mixture of Gaussians model
+Citations:7
+Authors: LE Ortiz, L Kaelbling
+Publication: 
+
+173. Oblivious PAC learning of concept hierarchies
+Citations:7
+Authors: T Dean, K Basye, L Kaelbling, E Kokkevis, O Maron, D Angluin, ...
+Publication: 
+
+174. Guiding search in continuous state-action spaces by learning an action sampler from off-target search experience
+Citations:6
+Authors: B Kim, LP Kaelbling, T Lozano-Pérez
+Publication: Thirty-Second AAAI Conference on Artificial Intelligence
+
+175. Selecting representative examples for program synthesis
+Citations:6
+Authors: Y Pu, Z Miranda, A Solar-Lezama, LP Kaelbling
+Publication: arXiv preprint arXiv:1711.03243
+
+176. Focused model-learning and planning for non-Gaussian continuous state-action systems
+Citations:6
+Authors: Z Wang, S Jegelka, LP Kaelbling, T Lozano-Pérez
+Publication: 2017 IEEE International Conference on Robotics and Automation (ICRA), 3754-3761
+
+177. Strips planning in infinite domains
+Citations:6
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: arXiv preprint arXiv:1701.00287
+
+178. Implicit belief-space pre-images for hierarchical planning and execution
+Citations:6
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 5455-5462
+
+179. Heuristic search for task and motion planning
+Citations:6
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: Proceedings of the Workshop on Planning and Robotics (PlanRob), 148-156
+
+180. Optimization in the now: Dynamic peephole optimization for hierarchical planning
+Citations:6
+Authors: D Hadfield-Menell, LP Kaelbling, T Lozano-Pérez
+Publication: 2013 IEEE International Conference on Robotics and Automation, 4560-4567
+
+181. Learning grammatical models for object recognition
+Citations:6
+Authors: M Aycinena, LP Kaelbling, T Lozano-Perez
+Publication: 
+
+182. Learning Grammatical Models for Object Recognition.
+Citations:6
+Authors: MA Lippow, LP Kaelbling, T Lozano-Pérez
+Publication: Logic and Probability for Scene Interpretation 24 (29.02), 2008
+
+183. On scalability issues in reinforcement learning for self-reconfiguring modular robots
+Citations:6
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: Digital Proceedings of RSS Workshop on Self-Reconfigurable Modular Robotics …
+
+184. A systematic approach to learning object segmentation from motion
+Citations:6
+Authors: MG Ross, LP Kaelbling
+Publication: NIPS 2003 Workshop on Open Challenges in Cognitive Vision
+
+185. Reinforcement learning for partially observable Markov decision processes
+Citations:6
+Authors: H Kimura, LP Kaelbling
+Publication: JOURNAL-JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE 12, 822-830
+
+186. Elimination of all bad local minima in deep learning
+Citations:5
+Authors: K Kawaguchi, LP Kaelbling
+Publication: arXiv preprint arXiv:1901.00279
+
+187. Generalization in machine learning via analytical learning theory
+Citations:5
+Authors: K Kawaguchi, Y Bengio, V Verma, LP Kaelbling
+Publication: arXiv preprint arXiv:1802.07426
+
+188. Generalizing over uncertain dynamics for online trajectory generation
+Citations:5
+Authors: B Kim, A Kim, H Dai, L Kaelbling, T Lozano-Perez
+Publication: Robotics Research, 39-55
+
+189. Learning to rank for synthesizing planning heuristics
+Citations:5
+Authors: CR Garrett, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1608.01302
+
+190. Searching for physical objects in partially known environments
+Citations:5
+Authors: X Nie, LLS Wong, LP Kaelbling
+Publication: 2016 IEEE International Conference on Robotics and Automation (ICRA), 5403-5410
+
+191. Decidability of semi-holonomic prehensile task and motion planning
+Citations:5
+Authors: A Deshpande, LP Kaelbling, T Lozano-Perez
+Publication: Workshop on the Algorithmic Foundations of Robotics
+
+192. Planning in the know: Hierarchical belief-space task and motion planning
+Citations:5
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: Workshop on Mobile Manipulation, IEEE Intl. Conf. on Robotics and Automation
+
+193. Finding aircraft collision-avoidance strategies using policy search methods
+Citations:5
+Authors: LP Kaelbling, T Lozano-Perez
+Publication: 
+
+194. Predicting Partial Paths from Planning Problem Parameters.
+Citations:5
+Authors: S Finney, LP Kaelbling, T Lozano-Pérez
+Publication: Robotics: Science and Systems
+
+195. Grasping POMDPs: Theory and experiments
+Citations:5
+Authors: R Glashan, K Hsiao, LP Kaelbling, T Lozano-Pérez
+Publication: RSS Workshop: manip. for human env
+
+196. Reasoning about large populations with lifted probabilistic inference
+Citations:5
+Authors: K Kersting, B Milch, LS Zettlemoyer, M Haimes, LP Kaelbling
+Publication: Working Notes of the NIPS-07 Workshop on Statistical Model of Networks
+
+197. Multi-agent learning in mobilized ad-hoc networks
+Citations:5
+Authors: YH Chang, T Ho, L Kaelbling
+Publication: Proceedings of Artificial Multiagent Learning. Papers from the 2004 AAAI …
+
+198. Holonomic planar motion from non-holonomic driving mechanisms: The front-point method
+Citations:5
+Authors: S Temizer, LP Kaelbling
+Publication: Mobile Robots XVI 4573, 56-67
+
+199. Concepts: Learning
+Citations:5
+Authors: MG Ross, LP Kaelbling
+Publication: In AE Kazdin (Ed.), Encyclopedia of psychology
+
+200. On reinforcement learning for robots
+Citations:5
+Authors: LP Kaelbling
+Publication: Proceedings of IEEE/RSJ International Conference on Intelligent Robots and …
+
+201. Acting Uncertainty: Discrete Bayesian Models for Mobile-Robot Navigation
+Citations:5
+Authors: A Cassandra, L Kaelbling, J Kurien
+Publication: Brown University
+
+202. Effect of depth and width on local minima in deep learning
+Citations:4
+Authors: K Kawaguchi, J Huang, LP Kaelbling
+Publication: Neural computation 31 (7), 1462-1498
+
+203. Integrating human-provided information into belief state representation using dynamic factorization
+Citations:4
+Authors: R Chitnis, LP Kaelbling, T Lozano-Pérez
+Publication: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+
+204. Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior
+Citations:4
+Authors: Z Wang, B Kim, LP Kaelbling
+Publication: Advances in Neural Information Processing Systems, 10477-10488
+
+205. Learning policies for partially observable environments: Scaling up
+Citations:4
+Authors: AR Cassandra, LP Kaelbling
+Publication: Machine Learning Proceedings 1995: Proceedings of the Twelfth International …
+
+206. Object-based world modeling in semi-static environments with dependent Dirichlet-process mixtures
+Citations:4
+Authors: LLS Wong, T Kurutach, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1512.00573
+
+207. Integrated robot task and motion planning in belief space
+Citations:4
+Authors: LP Kaelbling, T Lozano-Perez
+Publication: 
+
+208. Learning to generate novel views of objects for class recognition
+Citations:4
+Authors: HP Chiu, LP Kaelbling, T Lozano-Pérez
+Publication: Computer Vision and Image Understanding 113 (12), 1183-1197
+
+209. Combining dynamic abstractions in large MDPs
+Citations:4
+Authors: K Steinkraus, LP Kaelbling
+Publication: 
+
+210. Learning object segmentation from video data
+Citations:4
+Authors: MG Ross, LP Kaelbling
+Publication: 
+
+211. A framework for reinforcement learning on real robots
+Citations:4
+Authors: WD Smart, LP Kaelbling
+Publication: AAAI/IAAI, 1202
+
+212. Time-critical planning and scheduling research at brown university
+Citations:4
+Authors: TL Dean, L Greenwald, LP Kaelbling
+Publication: Tehnical Report CS, 94-41
+
+213. A bibliography of work related to reinforcement learning
+Citations:4
+Authors: LP Kaelbling, ML Littman
+Publication: Brown University, Providence, RI
+
+214. Collected notes from the benchmarks and metrics workshop
+Citations:4
+Authors: ME Drummond, LP Kaelbling, SJ Rosenschein
+Publication: 
+
+215. Value iteration
+Citations:4
+Authors: LP Kaelbling
+Publication: 
+
+216. Stripstream: Integrating symbolic planners and blackbox samplers
+Citations:3
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: arXiv preprint arXiv:1802.08705
+
+217. Planning and control under uncertainty for the pr2
+Citations:3
+Authors: J Barry, M Bollini, A Holladay, LP Kaelbling, T Lozano-Pérez
+Publication: IROS PR2 Workshop
+
+218. Efficient distributed reinforcement learning through agreement
+Citations:3
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: Proceedings of the 9th International Symposium on Distributed Autonomous …
+
+219. Logic and probability for scene interpretation
+Citations:3
+Authors: B Neumann, AC Cohn, DC Hogg, R Möller, M Schlemmer, M Vincze, ...
+Publication: Dagstuhl Workshop
+
+220. Why robbie can't learn: The difficulty of learning in autonomous agents
+Citations:3
+Authors: LP Kaelbling
+Publication: MIT Center for Advanced Education Services
+
+221. Getting reinforcement learning to work on real robots
+Citations:3
+Authors: WD Smart, LP Kaelbling
+Publication: Proceedings of the Conference on Automated Learning and Discovery (CONALD 98)
+
+222. Discrete Bayesian uncertainty models for mobile-robot navigation
+Citations:3
+Authors: AR Cassandra, LP Kaelbling, JA Kurien
+Publication: Department of Computer Science Brown University
+
+223. Learning sparse relational transition models
+Citations:2
+Authors: V Xia, Z Wang, LP Kaelbling
+Publication: arXiv preprint arXiv:1810.11177
+
+224. The importance of being adaptable
+Citations:2
+Authors: LP Kaelbling
+Publication: The Artificial Life Route To Artificial Intelligence, 265-275
+
+225. Bayesian optimization with exponential convergence
+Citations:2
+Authors: K Kawaguchi, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1604.01348
+
+226. Probabilistic planning for decentralized multi-robot systems
+Citations:2
+Authors: C Amato, G Konidaris, S Omidshafiei, A Agha-mohammadi, JP How, ...
+Publication: 2015 AAAI Fall Symposium Series
+
+227. Decentralized Decision-Making Under Uncertainty for Multi-Robot Teams
+Citations:2
+Authors: C Amato, G Konidaris, JP How, LP Kaelbling
+Publication: the Workshop on Future of Multiple Robot Research and its Multiple Identitie …
+
+228. Acquiring and Exploiting Rich Causal Models for Robust Decision Making
+Citations:2
+Authors: JB Tenenbaum, LP Kaelbling, ML Littman, D Wingate
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+229. Automatic class-specific 3D reconstruction from a single image
+Citations:2
+Authors: HP Chiu, LP Kaelbling, T Lozano-Pérez
+Publication: CSAIL, 1-9
+
+230. Probabilistic, Logical and Relational Learning-A Further Synthesis
+Citations:2
+Authors: L De Raedt, T Dietterich, L Getoor, K Kersting, SH Muggleton, B Hammer, ...
+Publication: 
+
+231. Computing action equivalences for planning
+Citations:2
+Authors: NH Gardiol, LP Kaelbling
+Publication: International Conference on Automated Planning and Scheduling, Doctoral …
+
+232. Learning three-dimensional shape models for sketch recognition
+Citations:2
+Authors: LP Kaelbling, T Lozano-Pérez
+Publication: 
+
+233. Learning Geometrically-Constrained Hidden Markov Models for Robot Navigation: Bridging the Topological-Geometrical Gap
+Citations:2
+Authors: LP Kaelbling, H Shatkay
+Publication: Journal of Artificial Intelligence Research
+
+234. Instructions for formatting JMLR articles: a Microsoft word template
+Citations:2
+Authors: LP Kaelbling, D Cohn
+Publication: Journal of Machine Learning Research 3, 16-30
+
+235. Gittins allocation indices
+Citations:2
+Authors: LP Kaelbling
+Publication: See http://www. cs. cmu. edu/afs/cs/project/jair/pub/volume4/kaelbling96a …
+
+236. Differentiable Algorithm Networks for Composable Robot Learning
+Citations:1
+Authors: P Karkus, X Ma, D Hsu, LP Kaelbling, WS Lee, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1905.11602
+
+237. Learning quickly to plan quickly using modular meta-learning
+Citations:1
+Authors: R Chitnis, LP Kaelbling, T Lozano-Pérez
+Publication: 2019 International Conference on Robotics and Automation (ICRA), 7865-7871
+
+238. Graph Element Networks: adaptive, structured computation and memory
+Citations:1
+Authors: F Alet, AK Jeewajee, M Bauza, A Rodriguez, T Lozano-Perez, ...
+Publication: arXiv preprint arXiv:1904.09019
+
+239. Look before you sweep: Visibility-aware motion planning
+Citations:1
+Authors: G Goretkin, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1901.06109
+
+240. Every local minimum value is the global minimum value of induced model in non-convex machine learning
+Citations:1
+Authors: K Kawaguchi, J Huang, LP Kaelbling
+Publication: Neural Computation, to appear
+
+241. Adversarial Actor-Critic Method for Task and Motion Planning Problems Using Planning Experience
+Citations:1
+Authors: B Kim, LP Kaelbling, T Lozano-Pérez
+Publication: 
+
+242. Specifying and achieving goals in open uncertain robot-manipulation domains
+Citations:1
+Authors: LP Kaelbling, A LaGrassa, T Lozano-Pérez
+Publication: Proceedings of the Robotics: Science and Systems 2018 Workshop on Models and …
+
+243. Reliably arranging objects in uncertain domains
+Citations:1
+Authors: AS Anders, LP Kaelbling, T Lozano-Perez
+Publication: 2018 IEEE International Conference on Robotics and Automation (ICRA), 1603-1610
+
+244. Finding frequent entities in continuous data
+Citations:1
+Authors: F Alet, R Chitnis, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1805.02874
+
+245. Learning to acquire information
+Citations:1
+Authors: Y Pu, LP Kaelbling, A Solar-Lezama
+Publication: arXiv preprint arXiv:1704.06131
+
+246. Planning robust strategies for constructing multi-object arrangements
+Citations:1
+Authors: A Anders, L Kaelbling, T Lozano-Perez
+Publication: 
+
+247. Algorithms for safe robot navigation
+Citations:1
+Authors: BM Axelrod
+Publication: Massachusetts Institute of Technology
+
+248. Optimizing a start-stop controller using policy search
+Citations:1
+Authors: N Hollingsworth, J Meyer, R McGee, J Doering, G Konidaris, L Kaelbling
+Publication: Twenty-Sixth IAAI Conference
+
+249. Using Knowledge of Related Objects to Drive Attention for Active Object Search and Large-Scale Estimation
+Citations:1
+Authors: LLS Wong, LP Kaelbling, TL Perez
+Publication: IEEE ICRA, Hong Kong, China
+
+250. Learning Symbolic Models of Stochastic Domains
+Citations:1
+Authors: LP Kaelbling, HM Pasula, LS Zettlemoyer
+Publication: arXiv preprint arXiv:1110.2211
+
+251. Learning Geometrically-Constrained Hidden Markov Models for Robot Navigation: Bridging the Topological-Geometrical Gap
+Citations:1
+Authors: LP Kaelbling, H Shatkay
+Publication: arXiv preprint arXiv:1106.0680
+
+252. Heuristic Search of Multiagent Influence Space
+Citations:1
+Authors: FA Oliehoek, S Witwicki, LP Kaelbling
+Publication: Proceedings of the 9th European Workshop on Multi-agent Systems (EUMAS 2011)
+
+253. Technical perspective New bar set for intelligent vehicles
+Citations:1
+Authors: LP Kaelbling
+Publication: Communications of the ACM 53 (4), 98-98
+
+254. Computing action equivalences for planning under time-constraints
+Citations:1
+Authors: NH Gardiol, LP Kaelbling
+Publication: 
+
+255. Distributed Learning for Controlling Modular Robots
+Citations:1
+Authors: P Varshavskaya, D Rus, L Kaelbling
+Publication: September
+
+256. Allocation of air resources against an intelligent adversary
+Citations:1
+Authors: E Zarybnisky, A Armacost, S Kolitz, C Barnhart, L Kaelbling
+Publication: AIAA Infotech@ Aerospace 2007 Conference and Exhibit, 2803
+
+257. Evaluating the dynamics of mobile robotic systems
+Citations:1
+Authors: D Goldberg, MJM c Chairperson, D Estrin, LP Kaelbling, S Schaal, ...
+Publication: Ph. D. Dissertation Proposal
+
+258. Report of the 1996 workshop on reinforcement learning
+Citations:1
+Authors: S Madadevan, LP Kaelbling
+Publication: Technical report
+
+259. Policy Iteration
+Citations:1
+Authors: LP Kaelbling
+Publication: 
+
+260. A Sufficient Statistic for Influence in Structured Multiagent Environments
+Citations:
+Authors: FA Oliehoek, S Witwicki, LP Kaelbling
+Publication: arXiv preprint arXiv:1907.09278
+
+261. Combining Physical Simulators and Object-Based Networks for Control
+Citations:
+Authors: A Ajay, M Bauza, J Wu, N Fazeli, JB Tenenbaum, A Rodriguez, ...
+Publication: arXiv preprint arXiv:1904.06580
+
+262. Few-Shot Bayesian Imitation Learning with Logic over Programs
+Citations:
+Authors: T Silver, KR Allen, AK Lew, LP Kaelbling, J Tenenbaum
+Publication: arXiv preprint arXiv:1904.06317
+
+263. Every Local Minimum is a Global Minimum of an Induced Model
+Citations:
+Authors: K Kawaguchi, LP Kaelbling
+Publication: arXiv preprint arXiv:1904.03673
+
+264. Doing for Our Robots What Nature Did for Us
+Citations:
+Authors: L Kaelbling
+Publication: Georgia Institute of Technology
+
+265. Modeling and planning with macro-actions in decentralized POMDPs
+Citations:
+Authors: C Amato, G Konidaris, LP Kaelbling, JP How
+Publication: Journal of Artificial Intelligence Research 64, 817-859
+
+266. Modular meta-learning in abstract graph networks for combinatorial generalization
+Citations:
+Authors: F Alet, M Bauza, A Rodriguez, T Lozano-Perez, LP Kaelbling
+Publication: arXiv preprint arXiv:1812.07768
+
+267. Adaptable replanning with compressed linear action models for learning from demonstrations
+Citations:
+Authors: C Gehring, LP Kaelbling, T Lozano-Perez
+Publication: Conference on Robot Learning, 432-442
+
+268. Learning What Information to Give in Partially Observed Domains
+Citations:
+Authors: R Chitnis, LP Kaelbling, T Lozano-Pérez
+Publication: arXiv preprint arXiv:1805.08263
+
+269. Learning to select examples for program synthesis
+Citations:
+Authors: Y Pu, Z Miranda, A Solar-Lezama, LP Kaelbling
+Publication: 
+
+270. Planning to Give Information in Partially Observed Domains with a Learned Weighted Entropy Model
+Citations:
+Authors: R Chitnis, LP Kaelbling, T Lozano-Pérez
+Publication: CoRR
+
+271. On the role of robot simulations in embodied cognitive science
+Citations:
+Authors: A Bhaumik, K Abney, P Lin, G Bekey, E Philip, M Albrecht, I Aleksander
+Publication: From AI to Robotics: Mobile, Social, and Sentient Robots 12 (3), 1-128
+
+272. Fuzzy Sets
+Citations:
+Authors: RE Neapolitan, X Jiang, J Allen, C Allison, S Amarel, D Michie, ...
+Publication: Artificial Intelligence: With an Introduction to Machine Learning 22 (10), 1-8
+
+273. A Belief-Space Approach to Integrated Intelligence-Research Area 10.3: Intelligent Networks
+Citations:
+Authors: LP Kaelbling
+Publication: Massachusetts Institute of Technology (MIT) Cambridge United States
+
+274. Guiding the search in continuous state-action spaces by learning an action sampling distribution from off-target samples
+Citations:
+Authors: B Kim, LP Kaelbling, T Lozano-Perez
+Publication: arXiv preprint arXiv:1711.01391
+
+275. Intelligence in the Now: Robust Intelligence in Complex Domains
+Citations:
+Authors: LP Kaelbling, T Lozano-Perez
+Publication: MASSACHUSETTS INST OF TECH CAMBRIDGE
+
+276. Awards and Distinguished Papers
+Citations:
+Authors: Q Yang
+Publication: Twenty-Fourth International Joint Conference on Artificial Intelligence
+
+277. Current Research II
+Citations:
+Authors: MF Kaashoek, L Kaelbling, F Durand, R Barzilay, S Madden
+Publication: MIT150 Symposia Series
+
+278. Robotics: Science and Systems VI
+Citations:
+Authors: R Maladen, Y Ding, P Umbanhowar, A Kamor, D Goldman, P Sreetharan, ...
+Publication: MIT Press
+
+279. Reports of the AAAI 2010 conference workshops
+Citations:
+Authors: DW Aha, M Boddy, V Bulitko, ASA Garcez, P Doshi, S Edelkamp, C Geib, ...
+Publication: Ai Magazine 31 (4), 95-108
+
+280. Intelligent interaction with the real world
+Citations:
+Authors: LP Kaelbling
+Publication: Joint European Conference on Machine Learning and Knowledge Discovery in …
+
+281. Effective Bayesian Transfer Learning
+Citations:
+Authors: T Lozano-Perez, L Kaelbling
+Publication: CALIFORNIA UNIV BERKELEY SPONSORED PROJECTS OFFICE
+
+282. Modeling users' powertrain preferences
+Citations:
+Authors: J Shin
+Publication: Massachusetts Institute of Technology
+
+283. Automatic Class-Specific 3D Reconstruction from a Single Image
+Citations:
+Authors: T Lozano-Perez, LP Kaelbling, HP Chiu
+Publication: 
+
+284. 6.01 Introduction to Electrical Engineering and Computer Science I, Fall 2009
+Citations:
+Authors: L Kaelbling, H Abelson, D Freeman, T Lozano-Pérez, J White
+Publication: 
+
+285. Adaptive Envelope MDPs for Relational Equivalence-based Planning
+Citations:
+Authors: L Kaelbling, NH Gardiol, LP Kaelbling
+Publication: 
+
+286. The International Journal of Robotics
+Citations:
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: The International Journal of Robotics Research 27 (3-4), 505-526
+
+287. Experiments in Complex Domains
+Citations:
+Authors: LP Kaelbling
+Publication: MIT Press
+
+288. Delayed Reinforcement
+Citations:
+Authors: LP Kaelbling
+Publication: MIT Press
+
+289. Learning Grammatical Models for Object Recognition
+Citations:
+Authors: M Aycinena Lippow, LP Kaelbling, T Lozano-Perez
+Publication: Dagstuhl Seminar Proceedings
+
+290. Design, synthesis and analysis of ligands for guanylyl cyclase C
+Citations:
+Authors: HR Wolfe
+Publication: Thomas Jefferson University
+
+291. Multi-Resolution Planning in Large Uncertain Domains
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+292. IJCAI-05: proceedings of the Nineteenth International Joint Conference on Artificial Intelligence: Edinburgh, Scotland, July 30-August 5, 2005
+Citations:
+Authors: M van Zaanen, T Oates, G Paliouras, C de la Higuera
+Publication: International Joint Conferences on Artificial Intelligence
+
+293. Learning object boundary detection from motion data
+Citations:
+Authors: MG Ross, LP Kaelbling
+Publication: 
+
+294. Combining dynamic abstractions in very large MDPs
+Citations:
+Authors: K Steinkraus, LP Kaelbling
+Publication: 
+
+295. Representing hierarchical POMDPs as DBNs for multi-scale map learning
+Citations:
+Authors: G Theocharous, K Murphy, LP Kaelbling
+Publication: 
+
+296. 6.034 Artificial Intelligence, Spring 2003
+Citations:
+Authors: T Lozano-Perez, LP Kaelbling, PH Winston
+Publication: 
+
+297. Cognitive Robotics
+Citations:
+Authors: C Boutilier, A Darwiche, V Gupta, L Kaelbling, H Kautz, P Nayak, J Pearl, ...
+Publication: International Journal of Robotics Research 21 (8), 735-758
+
+298. Learning in Worlds with Objects Leslie Pack Kaelbling, Tim Oates, Natalia Hernandez and Sarah Finney Artificial Intelligence Laboratory Massachusetts Institute of Technology …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+299. Learning Probabilistic Rules from Experience
+Citations:
+Authors: LP Kaelbling, K Steinkraus
+Publication: 
+
+300. A Framework for reinforcement-based scheduling in parallel processor systems.
+Citations:
+Authors: F Samreen, MS Hayat Khiyal, I Banicescu, Z Liu, I Banicescu, V Velusamy, ...
+Publication: Journal of Applied Sciences 7 (11), pp: 122-129
+
+301. Learning and Planning in Huge Uncertain Environ-ments
+Citations:
+Authors: T Lane, LP Kaelbling
+Publication: 
+
+302. Congratulations to the 2000 AAAI Fellows!
+Citations:
+Authors: K Ford, WEL Grimson, LP Kaelbling, D Poole, J Schaeffer, B Selman
+Publication: AI Magazine 21 (2)
+
+303. Solving Very Large Weakly Coupled Markov Decision Processes
+Citations:
+Authors: KE Kim, L Peshkin, LP Kaelbling, T Dean
+Publication: Proceedings, 165
+
+304. Book Review of The Metaphorical Brain 2: Neural Networks and
+Citations:
+Authors: H Blockeel, L De Raedt, A Bochman, FJ Corbacho, P Erdi, A Gelsey, ...
+Publication: Artificial Intelligence 101, 353-354
+
+305. A Framework for Reinforcement Learning on Real
+Citations:
+Authors: WD Smart, LP Kaelbling
+Publication: 
+
+306. Lidar scan-matching for mobile robot localization.
+Citations:
+Authors: Z Liang, X Ma, F Fang, S Zhu, W Burgard, D Fox, D Hennig, T Schmidt, ...
+Publication: Information Technology Journal 9 (8), pp: 896-901
+
+307. 10. The Importance of Being Adaptable
+Citations:
+Authors: LP KAELBLING
+Publication: The Artificial Life Route to Artificial Intelligence: Building Embodied …
+
+308. McDermott, D. and J. Hendler Planning: What it is, what it could be, An introduction to the Special Issue on Planning and Scheduling
+Citations:
+Authors: C Backstrom, T Dean, LP Kaelbling, J Kirman, A Nicholson, K Erol, ...
+Publication: Artificial Intelligence 76, 529-530
+
+309. A¡ ituated ie of Representation and Control Stanley J. Rosenschein* Leslie Pack Kaelblingt October 31, 1994
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+310. Acting to gain information
+Citations:
+Authors: SJ Rosenchein, JB Burns, D Chapman, LP Kaelbling, P Kahn, ...
+Publication: 
+
+311. The Synthesis of Intelligent Real-Time Systems
+Citations:
+Authors: SJ Rosenschein, LP Kaelbling
+Publication: TELEOS RESEARCH PALO ALTO CA
+
+312. Hmternatﬁonaﬂ
+Citations:
+Authors: LP Kaelbling, NJ Wilson
+Publication: 
+
+313. Artificial intelligence and robotics
+Citations:
+Authors: LP Kaelbling
+Publication: Digest of Papers. COMPCON Spring 88 Thirty-Third IEEE Computer Society …
+
+314. a DISTRIBUTION UNIIMITED
+Citations:
+Authors: SJ Rosenschein, LP Kaelbling
+Publication: 
+
+315. 3 P3 Hmtematﬁoimaﬂ
+Citations:
+Authors: SJ Rosenschein, LP Kaelbling, AI Center
+Publication: 
+
+316. SmmLSLmmmm SLLLS
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+317. Omnipush: accurate, diverse, real-world dataset of pushing dynamics with RGB-D video
+Citations:
+Authors: M Bauza, F Alet, YC Lin, T Lozano-Pérez, LP Kaelbling, P Isola, ...
+Publication: 
+
+318. Motion planning with visual and tactile sensing for safety in uncertain environments
+Citations:
+Authors: G Goretkin, LP Kaelbling, T Lozano-Pérez
+Publication: 
+
+319. Carlo Combi, Roberto Posenato, Luca Viganò, Matteo Zavatteri
+Citations:
+Authors: U Grandi, D Grossi, P Turrini, K Eggensperger, M Lindauer, F Hutter, ...
+Publication: 
+
+320. Learning to Plan Under Variable Assistance
+Citations:
+Authors: R Chitnis, J Yu, L Luong, LP Kaelbling, T Lozano-Pérez
+Publication: 
+
+321. Markov Decision Process Based Collision Avoidance Systems for Unmanned Aerial Vehicles
+Citations:
+Authors: S Temizer, MJ Kochenderfer, LP Kaelbling, T Lozano-Pérez, JK Kuchar
+Publication: 
+
+322. Learning structured transition models for multi-object manipulation
+Citations:
+Authors: V Xia, Z Wang, LP Kaelbling
+Publication: 
+
+323. Ecological Robotics Andrew P. Duchon Department of Cognitive and Linguistic Sciences Box 1978 Brown University
+Citations:
+Authors: WH Warren, LP Kaelbling
+Publication: 
+
+324. sagepub. co. uk/journalsPermissions. nav
+Citations:
+Authors: B Space, LP Kaelbling, T Lozano-pérez
+Publication: 
+
+325. Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community
+Citations:
+Authors: S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...
+Publication: 
+
+326. Approximate Optimal control with Markov Decision Processes for Autonomous artificial intelligence
+Citations:
+Authors: B Scherrer, LP Kaelbling
+Publication: 
+
+327. CSAIL Digital Archive Research and Teaching Output of the MIT Community
+Citations:
+Authors: MF Cusumano-Towner, FA Saad, A Lew, VK Mansinghka, K Kawaguchi, ...
+Publication: 
+
+328. Computer Science and Artificial Intelligence Lab (CSAIL) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+329. Decision-theoretic Planning with Temporally Abstract Actions
+Citations:
+Authors: M Hauskrecht, N Meuleau, LP Kaelbling, T Dean, C Boutilier
+Publication: 
+
+330. CSAIL Technical Reports (July 1, 2003-present) Research and Teaching Output of the MIT Community
+Citations:
+Authors: P Yu, AJ Wang, M Ono, S Dong
+Publication: 
+
+331. Exploitation versus Exploration: The Single-State Case
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+332. Geometric Transformations for Learning in Modular Robots
+Citations:
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: 
+
+333. Partially Observable Environments
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+334. Computing Optimal Policies by Learning Models
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+335. Compositional Q-learning
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+336. Backward-Forward Search for Manipulation Planning Completeness Argument
+Citations:
+Authors: CR Garrett, T Lozano-Pérez, LP Kaelbling
+Publication: 
+
+337. U [ﬁ]'iE@[F [ﬁ]@ iEﬁ©)[FU@] U
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+338. Finding a Policy Given a Model
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+339. Thanks to Marco Dorigo and three anonymous reviewers for comments that have helped to improve this paper. Also thanks to our many colleagues in the reinforcement-learning …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+340. Planning Under Time and Representation Constraints
+Citations:
+Authors: NH Gardiol, LP Kaelbling
+Publication: 
+
+341. Multi-Agent Learning: From Game Theory to ad-hoc Networks
+Citations:
+Authors: YH Chang, LP Kaelbling
+Publication: 
+
+342. Probabilistic Planning for Multi-Robot Systems
+Citations:
+Authors: C Amato, S Omidshafiei, A Agha-mohammadi, G Konidaris, JP How, ...
+Publication: Environment 1, o1
+
+343. Generalization over Actions
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+344. Adaptive Architectures for Modular Robots
+Citations:
+Authors: P Varshavskaya, LP Kaelbling, D Rus
+Publication: 
+
+345. Model-free Learning With Average Reward
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+346. IJCAI Organization
+Citations:
+Authors: RL de Mántaras, MM Veloso, H Kitano, C Boutilier, AG Cohn, H Levesque, ...
+Publication: 
+
+347. Learning Automata
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+348. Learning and Planning with Probabilistic Relational Rules
+Citations:
+Authors: H Pasula, L Zettlemoyer, LP Kaelbling
+Publication: 
+
+349. Research Abstracts-2006
+Citations:
+Authors: MT Rosenstein, Z Marx, LP Kaelbling, TG Dietterich
+Publication: 
+
+350. The large literature of generalization techniques from inductive concept learning can be applied to reinforcement learning. However, techniques often need to be tailored to …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+351. Dynamic-Programming Approach
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+352. Reinforcement-Learning Model
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+353. Markov Decision Processes
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+354. Models of Optimal Behavior
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+355. Learning Rich, Tractable Models of the Real World
+Citations:
+Authors: T Oates, LP Kaelbling
+Publication: 
+
+356. Generalization over Input
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+357. Greedy Strategies
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+358. Measuring Learning Performance
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+359. Instructions for Formatting JMLR Articles
+Citations:
+Authors: LP Kaelbling, D Cohn
+Publication: 
+
+360. The associative reinforcement comparison (ARC) algorithm [114] is an instance of the AHC architecture for the case of boolean actions, consisting of two feed-forward networks …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+361. Game Playing
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+362. Formally Justified Techniques
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+363. Adaptive Resolution Models
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+364. Reinforcement Learning and Adaptive Control
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+365. Sutton's Dyna architecture [116, 117] exploits a middle ground, yielding strategies that are both more effective than model-free learning and more computationally efficient …
+Citations:
+Authors: LP Kaelbling
+Publication: Dyna 62, 3,055,000
+
+366. Bayesian Optimization with Exponential Convergence: Supplementary Material
+Citations:
+Authors: K Kawaguchi, LP Kaelbling, T Lozano-Pérez
+Publication: 
+
+367. T10: Multi-agent Filtering with Infinitely Nested Beliefs
+Citations:
+Authors: L Zettlemoyer, B Milch, LP Kaelbling
+Publication: 
+
+368. Interval Programming: A Multiple Criteria Decision Making Model for Autonomous Vehicle Control
+Citations:
+Authors: MR Benjamin, LP Kaelbling
+Publication: 
+
+369. Learning Image Segmentations from Experience
+Citations:
+Authors: M Ross, LP Kaelbling
+Publication: 
+
+370. Certainty Equivalent Methods
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+371. Classifier Systems
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+372. Spatial and Temporal Abstractions in POMDPS: Learning and Planning
+Citations:
+Authors: G Theocharous, LP Kaelbling
+Publication: 
+
+373. Learning an Optimal Policy: Model-free Methods
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+374. Adaptive Heuristic Critic and tex2html_wrap_inline2034
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+375. JMLR Format
+Citations:
+Authors: LP Kaelbling, D Cohn
+Publication: 
+
+376. Recurrent Q-learning
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+377. Hierarchical Methods
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+378. Prioritized Sweeping/Queue-Dyna
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+379. Enhancement to Value Iteration and Policy Iteration
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+380. Ad-Hoc Techniques
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+381. Robotics and Control
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+382. Adapting Network Structure for Efficient Team Formation/1 Matthew E. Gaston, John Simmons, and Marie desJardins Analyzing the Effects of Tags on Promoting Cooperation in …
+Citations:
+Authors: HJ Blumenthal, GB Parker, J Moody, Y Liu, M Saffell, K Youn, S Airiau, ...
+Publication: 
+
+383. Andrew P. Duchon
+Citations:
+Authors: WH Warren, LP Kaelbling
+Publication: 
+
+384. Improving Automatic Prediction of Surgical Case Duration
+Citations:
+Authors: S Davies, LP Kaelbling
+Publication: 
+
+385. Research Abstracts-2007
+Citations:
+Authors: SI Davies, LP Kaelbling, T Lozano-Perez
+Publication: 
+
+386. Scaling Techniques for Large Markov Decision Process Plan-ning Problems
+Citations:
+Authors: T Lane, LP Kaelbling
+Publication: 
+
+387. Q-learning
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+388. Logic-Based Methods
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+389. Multi-Agent Learning Algorithms: Beliefs and Optimality
+Citations:
+Authors: YH Chang, LP Kaelbling
+Publication: 
+
+390. State-Free Deterministic Policies
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+391. Wed May 1 13: 19: 13 EDT 1996
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+392. Research Abstracts-2006
+Citations:
+Authors: Z Marx, MT Rosenstein, LP Kaelbling, TG Dietterich
+Publication: 
+
+393. Randomized Strategies
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+394. Finding Good Policies for Large Domains
+Citations:
+Authors: K Steinkraus, LP Kaelbling
+Publication: 
+
+395. Linear programming [105] is an extremely general problem, and MDPs can be solved by general-purpose linear-programming packages [35, 34, 46]. An advantage of this approach is …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+396. Other Model-Based Methods
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+397. Learning object segmentation from motion
+Citations:
+Authors: MG Ross, LP Kaelbling
+Publication: 
+
+398. State-Free Stochastic Policies
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+399. This is a very fast algorithm, learning policies in spaces of up to nine dimensions in less than a minute. The restriction of the current implementation to deterministic …
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+400. Time-Critical Planning and Scheduling in Stochastic Domains
+Citations:
+Authors: TL Dean, L Greenwald, LP Kaelbling, J Kirman, A Nicholson
+Publication: 
+
+401. Delayed Reward
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+402. REINFORCE Algorithms
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+403. Multi-Value-Functions: E cient Automatic Action Hierarchies for Multiple Goal MDPs (Draft of Nov 29)
+Citations:
+Authors: A Moore, L Baird, LP Kaelbling
+Publication: 
+
+404. Immediate Reward
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+405. Aberdeen, Douglas, 402 Aggoune, Riad, 253
+Citations:
+Authors: J Allen, F Bacchus, C Baral, L Barbulescu, A Barrett, R Bent, P Bertoli, ...
+Publication: 
+
+406. Honorable Mentions
+Citations:
+Authors: T Dean, LP Kaelbling, J Kirman, A Nicholson, HA Kautz, MJ Kearns, ...
+Publication: 
+
+407. Feudal Q-learning
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+408. Automatic Synthesis of Rules for Planning in Belief Space
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+409. Hierarchical Distance to Goal
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+410. Research Abstracts-2007
+Citations:
+Authors: J McLurkin, L Kaelbling
+Publication: 
+
+411. Policies with Internal State
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+412. Learning Object Boundary Detection from Tracking Data
+Citations:
+Authors: MG Ross, LP Kaelbling
+Publication: 
+
+413. Planning for Two-handed Nonprehensile Manipulation
+Citations:
+Authors: G Lee, LP Kaelbling, T Lozano-Perez
+Publication: 
+
+414. EFFICIENT APPROXIMATE POLICY ITERATION METHODS
+Citations:
+Authors: MG Lagoudakis, X Sun, LP Kaelbling
+Publication: 
+
+415. More General Problems
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+416. Learning with Deictic Representations
+Citations:
+Authors: LP Kaelbling, S Finney, N Gardiol, T Oates
+Publication: 
+
+417. Finite-history-window Approach
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+418. Instructions for Formatting IJAITI Articles: 2013 A Microsoft Word Template
+Citations:
+Authors: LP Kaelbling, D Cohn
+Publication: 
+
+419. POMDP Approach
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+420. Interval-based Techniques
+Citations:
+Authors: LP Kaelbling
+Publication: 
+
+421. Mobile Manipulation Object Search using Co-occurrences and Capacity
+Citations:
+Authors: LLS Wong, LP Kaelbling, T Lozano-Pérez
+Publication: Ascending Stairway Modeling Live Demo: Toward Autonomous Multi-Floor …
+

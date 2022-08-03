@@ -1,0 +1,2503 @@
+https://scholar.google.com/citations?hl=en&user=P3JdmqAAAAAJ
+Total Citations = 30719
+
+1. Razor: A low-power pipeline based on circuit-level timing speculation
+Citations:1401
+Authors: D Ernst, NS Kim, S Das, S Pant, R Rao, T Pham, C Ziesler, D Blaauw, ...
+Publication: Proceedings of the 36th annual IEEE/ACM International Symposium on …
+
+2. Leakage Current: Moore
+Citations:1315
+Authors: NS Kim, T Austin, D Blaauw, T Mudge, JS Hu, MJ Irwin, M Kandemir, ...
+Publication: computer, 68-75
+
+3. Drowsy caches: simple techniques for reducing leakage power
+Citations:1089
+Authors: K Flautner, NS Kim, S Martin, D Blaauw, T Mudge
+Publication: ACM SIGARCH Computer Architecture News 30 (2), 148-157
+
+4. Near-threshold computing: Reclaiming moore's law through energy efficient integrated circuits
+Citations:785
+Authors: RG Dreslinski, M Wieckowski, D Blaauw, D Sylvester, T Mudge
+Publication: Proceedings of the IEEE 98 (2), 253-266
+
+5. RazorII: In situ error detection and correction for PVT and SER tolerance
+Citations:598
+Authors: S Das, C Tokunaga, S Pant, WH Ma, S Kalaiselvan, K Lai, DM Bull, ...
+Publication: IEEE Journal of Solid-State Circuits 44 (1), 32-48
+
+6. Combined dynamic voltage scaling and adaptive body biasing for lower power microprocessors under dynamic workloads
+Citations:579
+Authors: SM Martin, K Flautner, T Mudge, D Blaauw
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+7. Statistical timing analysis for intra-die process variations with spatial correlations
+Citations:540
+Authors: A Agarwal, D Blaauw, V Zolotov
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+8. A self-tuning DVS processor using delay-error detection and correction
+Citations:483
+Authors: S Das, D Roberts, S Lee, S Pant, D Blaauw, T Austin, K Flautner, T Mudge
+Publication: IEEE Journal of Solid-State Circuits 41 (4), 792-804
+
+9. Theoretical and practical limits of dynamic voltage scaling
+Citations:465
+Authors: B Zhai, D Blaauw, D Sylvester, D Sylvester, K Flautner
+Publication: Proceedings of the 41st annual Design Automation Conference, 868-873
+
+10. Razor: circuit-level correction of timing errors for low-power operation
+Citations:415
+Authors: D Ernst, S Das, S Lee, D Blaauw, T Austin, T Mudge, NS Kim, K Flautner
+Publication: IEEE Micro 24 (6), 10-20
+
+11. Statistical timing analysis: From basic principles to state of the art
+Citations:394
+Authors: D Blaauw, K Chopra, A Srivastava, L Scheffer
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+12. Hierarchical analysis of power distribution networks
+Citations:384
+Authors: M Zhao, RV Panda, SS Sapatnekar, D Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+13. Statistical analysis and optimization for VLSI: Timing and power
+Citations:324
+Authors: A Srivastava, D Sylvester, D Blaauw
+Publication: Springer Science & Business Media
+
+14. Analysis and mitigation of variability in subthreshold design
+Citations:292
+Authors: B Zhai, S Hanson, D Blaauw, D Sylvester
+Publication: Proceedings of the 2005 international symposium on Low power electronics and …
+
+15. A highly resilient routing algorithm for fault-tolerant NoCs
+Citations:268
+Authors: D Fick, A DeOrio, G Chen, V Bertacco, D Sylvester, D Blaauw
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 21-26
+
+16. Ultralow-voltage, minimum-energy CMOS
+Citations:252
+Authors: S Hanson, B Zhai, K Bernstein, D Blaauw, A Bryant, L Chang, KK Das, ...
+Publication: IBM journal of research and development 50 (4.5), 469-490
+
+17. Circuit and microarchitectural techniques for reducing cache leakage power
+Citations:247
+Authors: NS Kim, K Flautner, D Blaauw, T Mudge
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 12 (2), 167-184
+
+18. Razor II: In situ error detection and correction for PVT and SER tolerance
+Citations:231
+Authors: D Blaauw, S Kalaiselvan, K Lai, WH Ma, S Pant, C Tokunaga, S Das, ...
+Publication: 2008 IEEE International Solid-State Circuits Conference-Digest of Technical …
+
+19. A 2.60 pJ/Inst subthreshold sensor processor for optimal energy efficiency
+Citations:230
+Authors: B Zhai, L Nazhandali, J Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers., 154-155
+
+20. Drowsy instruction caches. leakage power reduction using dynamic voltage scaling and cache sub-bank prediction
+Citations:226
+Authors: NS Kim, K Flautner, D Blaauw, T Mudge
+Publication: 35th Annual IEEE/ACM International Symposium on Microarchitecture, 2002 …
+
+21. Millimeter-scale nearly perpetual sensor system with stacked battery and solar cells
+Citations:217
+Authors: G Chen, M Fojtik, D Kim, D Fick, J Park, M Seok, MT Chen, Z Foo, ...
+Publication: 2010 IEEE International Solid-State Circuits Conference-(ISSCC), 288-289
+
+22. A cubic-millimeter energy-autonomous wireless intraocular pressure monitor
+Citations:216
+Authors: G Chen, H Ghaed, R Haque, M Wieckowski, Y Kim, G Kim, D Fick, D Kim, ...
+Publication: 2011 IEEE International Solid-State Circuits Conference, 310-312
+
+23. Design and analysis of power distribution networks in PowerPC/sup TM/microprocessors
+Citations:215
+Authors: A Dharchoudhury, R Panda, D Blaauw, R Vaidyanathan, B Tutuianu, ...
+Publication: Proceedings 1998 Design and Automation Conference. 35th DAC.(Cat. No …
+
+24. A power-efficient 32 bit ARM processor using timing-error detection and correction for transient-error tolerance and adaptation to PVT variation
+Citations:210
+Authors: D Bull, S Das, K Shivashankar, GS Dasika, K Flautner, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 46 (1), 18-31
+
+25. A portable 2-transistor picowatt temperature-compensated voltage reference operating at 0.5 V
+Citations:208
+Authors: M Seok, G Kim, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 47 (10), 2534-2545
+
+26. Statistical analysis of subthreshold leakage current for VLSI circuits
+Citations:208
+Authors: R Rao, A Srivastava, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 12 (2), 131-139
+
+27. Vicis: a reliable network for unreliable silicon
+Citations:200
+Authors: D Fick, A DeOrio, J Hu, V Bertacco, D Blaauw, D Sylvester
+Publication: Proceedings of the 46th Annual Design Automation Conference, 812-817
+
+28. Making typical silicon matter with razor
+Citations:195
+Authors: T Austin, D Blaauw, T Mudge, K Flautner
+Publication: Computer 37 (3), 57-65
+
+29. The Phoenix Processor: A 30pW platform for sensor applications
+Citations:191
+Authors: M Seok, S Hanson, YS Lin, Z Foo, D Kim, Y Lee, N Liu, D Sylvester, ...
+Publication: IEEE Symposium on VLSI Circuits, 188-189
+
+30. Statistical timing analysis using bounds and selective enumeration
+Citations:191
+Authors: A Agarwal, V Zolotov, DT Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+31. Statistical delay computation considering spatial correlations
+Citations:188
+Authors: A Agarwal, D Blaauw, V Zolotov, S Sundareswaran, M Zhao, K Gala, ...
+Publication: Proceedings of the 2003 Asia and South Pacific Design Automation Conference …
+
+32. Energy-efficient subthreshold processor design
+Citations:187
+Authors: B Zhai, S Pant, L Nazhandali, S Hanson, J Olson, A Reeves, M Minuth, ...
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 17 (8 …
+
+33. Stand-by power minimization through simultaneous threshold voltage selection and circuit sizing
+Citations:180
+Authors: S Sirichotiyakul, T Edwards, C Oh, J Zuo, A Dharchoudhury, R Panda, ...
+Publication: Proceedings 1999 Design Automation Conference (Cat. No. 99CH36361), 436-441
+
+34. Yield-driven near-threshold SRAM design
+Citations:176
+Authors: G Chen, D Sylvester, D Blaauw, T Mudge
+Publication: IEEE transactions on very large scale integration (VLSI) systems 18 (11 …
+
+35. Opportunities and challenges for better than worst-case design
+Citations:175
+Authors: T Austin, V Bertacco, D Blaauw, T Mudge
+Publication: Proceedings of the 2005 Asia and South Pacific Design Automation Conference, 2-7
+
+36. Gate oxide leakage current analysis and reduction for VLSI circuits
+Citations:173
+Authors: D Lee, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 12 (2), 155-166
+
+37. True random number generator with a metastability-based quality control
+Citations:172
+Authors: C Tokunaga, D Blaauw, T Mudge
+Publication: IEEE Journal of Solid-State Circuits 43 (1), 78-85
+
+38. Parametric yield estimation considering leakage variability
+Citations:169
+Authors: RR Rao, A Devgan, D Blaauw, D Sylvester, D Sylvester
+Publication: Proceedings of the 41st annual Design Automation Conference, 442-447
+
+39. Exploring variability and performance in a sub-200-mV processor
+Citations:163
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: IEEE Journal of Solid-State Circuits 43 (4), 881-891
+
+40. A low-voltage processor for sensing applications with picowatt standby mode
+Citations:161
+Authors: S Hanson, M Seok, YS Lin, ZY Foo, D Kim, Y Lee, N Liu, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 44 (4), 1145-1155
+
+41. A variation-tolerant sub-200 mV 6-T subthreshold SRAM
+Citations:161
+Authors: B Zhai, S Hanson, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 43 (10), 2338-2348
+
+42. Statistical optimization of leakage power considering process variations using dual-Vth and sizing
+Citations:159
+Authors: A Srivastava, D Sylvester, D Sylvester, D Blaauw
+Publication: Proceedings of the 41st annual Design Automation Conference, 773-778
+
+43. Modeling and analysis of leakage power considering within-die process variations
+Citations:158
+Authors: A Srivastava, R Bai, D Blaauw, D Sylvester
+Publication: Proceedings of the International Symposium on Low Power Electronics and …
+
+44. Modeling and analysis of crosstalk noise in coupled RLC interconnects
+Citations:154
+Authors: K Agarwal, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+45. Statistical estimation of leakage current considering inter-and intra-die process variation
+Citations:149
+Authors: R Rao, A Srivastava, D Blaauw, D Sylvester
+Publication: Proceedings of the 2003 international symposium on Low power electronics and …
+
+46. A Modular 1 mm Die-Stacked Sensing Platform With Low Power IC Inter-Die Communication and Multi-Modal Energy Harvesting
+Citations:148
+Authors: Y Lee, S Bang, I Lee, Y Kim, G Kim, MH Ghaed, P Pannuto, P Dutta, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 229-243
+
+47. Bubble razor: Eliminating timing margins in an ARM cortex-M3 processor in 45 nm CMOS using architecturally independent error detection and correction
+Citations:143
+Authors: M Fojtik, D Fick, Y Kim, N Pinckney, DM Harris, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 66-81
+
+48. Nanometer device scaling in subthreshold logic and SRAM
+Citations:140
+Authors: S Hanson, M Seok, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Electron Devices 55 (1), 175-185
+
+49. Compact in-situ sensors for monitoring negative-bias-temperature-instability effect and oxide degradation
+Citations:133
+Authors: E Karl, P Singh, D Blaauw, D Sylvester
+Publication: 2008 IEEE International Solid-State Circuits Conference-Digest of Technical …
+
+50. Elastic: An adaptive self-healing architecture for unpredictable silicon
+Citations:133
+Authors: D Sylvester, D Blaauw, E Karl
+Publication: IEEE Design & Test of Computers 23 (6), 484-490
+
+51. Analysis and minimization techniques for total leakage considering gate oxide leakage
+Citations:129
+Authors: D Lee, W Kwong, D Blaauw, D Sylvester
+Publication: Proceedings of the 40th annual Design Automation Conference, 175-180
+
+52. An ultra low power 1V, 220nW temperature sensor for passive wireless applications
+Citations:128
+Authors: YS Lin, D Sylvester, D Blaauw
+Publication: 2008 IEEE Custom Integrated Circuits Conference, 507-510
+
+53. A sub-200mV 6T SRAM in 0.13 μm CMOS
+Citations:125
+Authors: B Zhai, D Blaauw, D Sylvester, S Hanson
+Publication: 2007 IEEE International Solid-State Circuits Conference. Digest of Technical …
+
+54. The limit of dynamic voltage scaling and insomniac dynamic voltage scaling
+Citations:122
+Authors: B Zhai, D Blaauw, D Sylvester, K Flautner
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 13 (11 …
+
+55. Accurate and efficient gate-level parametric yield estimation considering correlated variations in leakage power and performance
+Citations:121
+Authors: A Srivastava, S Shah, K Agarwal, D Sylvester, D Blaauw, S Director
+Publication: Proceedings of the 42nd annual Design Automation Conference, 535-540
+
+56. Duet: an accurate leakage estimation and optimization tool for dual-V/sub t/circuits
+Citations:121
+Authors: S Sirichotiyakul, T Edwards, C Oh, R Panda, D Blaauw
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 10 (2), 79-90
+
+57. Clarinet: A noise analysis tool for deep submicron design
+Citations:121
+Authors: R Levy, D Blaauw, G Braca, A Dasgupta, A Grinshpon, C Oh, B Orshav, ...
+Publication: Proceedings of the 37th Annual Design Automation Conference, 233-238
+
+58. Low-power circuit analysis and design based on heterojunction tunneling transistors (HETTs)
+Citations:120
+Authors: Y Lee, D Kim, J Cai, I Lauer, L Chang, SJ Koester, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 21 (9 …
+
+59. Method and apparatus for designing an integrated circuit
+Citations:119
+Authors: LG Jones, DT Blaauw, RL Maziasz, M Guruswamy
+Publication: US Patent 5,666,288
+
+60. Energy efficient near-threshold chip multi-processing
+Citations:117
+Authors: B Zhai, RG Dreslinski, D Blaauw, T Mudge, D Sylvester
+Publication: Proceedings of the 2007 international symposium on Low power electronics and …
+
+61. Power minimization using simultaneous gate sizing, dual-Vdd and dual-Vth assignment
+Citations:115
+Authors: A Srivastava, D Sylvester, D Sylvester, D Blaauw
+Publication: Proceedings of the 41st annual Design Automation Conference, 783-787
+
+62. Computing the soft error rate of a combinational logic circuit using parameterized descriptors
+Citations:114
+Authors: RR Rao, K Chopra, DT Blaauw, DM Sylvester
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+63. Energy optimization of subthreshold-voltage sensor network processors
+Citations:113
+Authors: L Nazhandali, B Zhai, A Olson, A Reeves, M Minuth, R Helfand, S Pant, ...
+Publication: 32nd International Symposium on Computer Architecture (ISCA'05), 197-207
+
+64. Variational delay metrics for interconnect timing analysis
+Citations:112
+Authors: K Agarwal, D Sylvester, D Sylvester, D Blaauw, F Liu, S Nassif, ...
+Publication: Proceedings of the 41st annual Design Automation Conference, 381-384
+
+65. Centip3De: A 3930DMIPS/W configurable near-threshold 3D stacked system with 64 ARM Cortex-M3 cores
+Citations:107
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: 2012 IEEE International Solid-State Circuits Conference, 190-192
+
+66. Path-based statistical timing analysis considering inter-and intra-die correlations
+Citations:107
+Authors: A Agarwal, D Blaauw, V Zolotov, S Sundareswaran, M Zhao, K Gala, ...
+Publication: Proc. TAU, 16-21
+
+67. Bubble Razor: An architecture-independent approach to timing-error detection and correction
+Citations:106
+Authors: M Fojtik, D Fick, Y Kim, N Pinckney, D Harris, D Blaauw, D Sylvester
+Publication: 2012 IEEE International Solid-State Circuits Conference, 488-490
+
+68. Analysis and modeling of CD variation for statistical static timing
+Citations:102
+Authors: B Cline, K Chopra, D Blaauw, Y Cao
+Publication: 2006 IEEE/ACM International Conference on Computer Aided Design, 60-66
+
+69. A reliable routing architecture and algorithm for NoCs
+Citations:101
+Authors: A DeOrio, D Fick, V Bertacco, D Sylvester, D Blaauw, J Hu, G Chen
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+70. Circuit optimization using statistical static timing analysis
+Citations:101
+Authors: A Agarwal, K Chopra, D Blaauw, V Zolotov
+Publication: Proceedings of the 42nd annual Design Automation Conference, 321-324
+
+71. Computation and refinement of statistical bounds on circuit delay
+Citations:101
+Authors: A Agarwal, D Blaauw, V Zolotov, S Vrudhula
+Publication: Proceedings of the 40th annual Design Automation Conference, 348-353
+
+72. Model and analysis for combined package and on-chip power grid simulation
+Citations:98
+Authors: R Panda, D Blaauw, R Chaudhry, V Zolotov, B Young, R Ramaraju
+Publication: Proceedings of the 2000 international symposium on Low power electronics and …
+
+73. Soft error reduction in combinational logic using gate resizing and flipflop selection
+Citations:96
+Authors: RR Rao, D Blaauw, D Sylvester
+Publication: Proceedings of the 2006 IEEE/ACM international conference on Computer-aided …
+
+74. On-chip inductance modeling and analysis
+Citations:95
+Authors: K Gala, V Zolotov, R Panda, R Panda, B Young, J Wang, D Blaauw
+Publication: Proceedings of the 37th Annual Design Automation Conference, 63-68
+
+75. Parametric yield maximization using gate sizing based on efficient statistical power and delay gradient computation
+Citations:94
+Authors: K Chopra, S Shah, A Srivastava, D Blaauw, D Sylvester
+Publication: ICCAD-2005. IEEE/ACM International Conference on Computer-Aided Design, 2005 …
+
+76. Robust SAT-based search algorithm for leakage power reduction
+Citations:94
+Authors: FA Aloul, S Hassoun, KA Sakallah, D Blaauw
+Publication: International Workshop on Power and Timing Modeling, Optimization and …
+
+77. An ultra-low power fully integrated energy harvester based on self-oscillating switched-capacitor voltage doubler
+Citations:93
+Authors: W Jung, S Oh, S Bang, Y Lee, Z Foo, G Kim, Y Zhang, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 49 (12), 2800-2811
+
+78. A fully-integrated 71 nW CMOS temperature sensor for low power wireless sensor nodes
+Citations:92
+Authors: S Jeong, Z Foo, Y Lee, JY Sim, D Blaauw, D Sylvester
+Publication: IEEE Journal of solid-state circuits 49 (8), 1682-1693
+
+79. A modular 1mm3die-stacked sensing platform with optical communication and multi-modal energy harvesting
+Citations:88
+Authors: Y Lee, G Kim, S Bang, Y Kim, I Lee, P Dutta, D Sylvester, D Blaauw
+Publication: 2012 IEEE International Solid-State Circuits Conference, 402-404
+
+80. Error recovery within processing stages of an integrated circuit
+Citations:88
+Authors: DT Blaauw, DM Bull, S Das
+Publication: US Patent 7,320,091
+
+81. A sub-pW timer using gate leakage for ultra low-power sub-Hz monitoring systems
+Citations:88
+Authors: YS Lin, D Sylvester, D Blaauw
+Publication: 2007 IEEE Custom Integrated Circuits Conference, 397-400
+
+82. The swarm at the edge of the cloud
+Citations:87
+Authors: EA Lee, B Hartmann, J Kubiatowicz, TS Rosing, J Wawrzynek, D Wessel, ...
+Publication: IEEE Design & Test 31 (3), 8-20
+
+83. An efficient static algorithm for computing the soft error rates of combinational circuits
+Citations:86
+Authors: RR Rao, K Chopra, D Blaauw, D Sylvester, D Sylvester
+Publication: Proceedings of the conference on Design, automation and test in Europe …
+
+84. A millimeter-scale energy-autonomous sensor system with stacked battery and solar cells
+Citations:85
+Authors: M Fojtik, D Kim, G Chen, YS Lin, D Fick, J Park, M Seok, MT Chen, Z Foo, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (3), 801-813
+
+85. Driver modeling and alignment for worst-case delay noise
+Citations:83
+Authors: S Sirichotiyakul, D Blaauw, C Oh, R Levy, V Zolotov, J Zuo
+Publication: Proceedings of the 38th annual Design Automation Conference, 720-725
+
+86. Performance and variability optimization strategies in a sub-200mV, 3.5 pJ/inst, 11nW subthreshold processor
+Citations:82
+Authors: S Hanson, B Zhai, M Seok, B Cline, K Zhou, M Singhal, M Minuth, J Olson, ...
+Publication: 2007 IEEE Symposium on VLSI Circuits, 152-153
+
+87. 23.3 A 3nW fully integrated energy harvester based on self-oscillating switched-capacitor DC-DC converter
+Citations:80
+Authors: W Jung, S Oh, S Bang, Y Lee, D Sylvester, D Blaauw
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+88. Circuits for a cubic-millimeter energy-autonomous wireless intraocular pressure monitor
+Citations:80
+Authors: MH Ghaed, G Chen, R Haque, M Wieckowski, Y Kim, G Kim, Y Lee, I Lee, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 60 (12), 3152-3162
+
+89. Statistical clock skew analysis considering intra-die process variations
+Citations:80
+Authors: A Agarwal, D Blaauw, V Zolotov
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+90. Au: Timing analysis under uncertainty
+Citations:80
+Authors: S Bhardwaj, SBK Vrudhula, D Blaauw
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+91. An injectable 64 nW ECG mixed-signal SoC in 65 nm for arrhythmia monitoring
+Citations:79
+Authors: YP Chen, D Jeon, Y Lee, Y Kim, Z Foo, I Lee, NB Langhals, G Kruger, ...
+Publication: IEEE Journal of Solid-State Circuits 50 (1), 375-390
+
+92. Statistical gate delay model considering multiple input switching
+Citations:79
+Authors: A Agarwal, F Dartu, D Blaauw
+Publication: Proceedings of the 41st annual Design Automation Conference, 658-663
+
+93. A super-pipelined energy efficient subthreshold 240 MS/s FFT core in 65 nm CMOS
+Citations:78
+Authors: D Jeon, M Seok, C Chakrabarti, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 47 (1), 23-34
+
+94. A 0.27 V 30MHz 17.7 nJ/transform 1024-pt complex FFT core with super-pipelining
+Citations:78
+Authors: M Seok, D Jeon, C Chakrabarti, D Blaauw, D Sylvester
+Publication: 2011 IEEE International Solid-State Circuits Conference, 342-344
+
+95. Circuit design advances for wireless sensing applications
+Citations:77
+Authors: G Chen, S Hanson, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 98 (11), 1808-1827
+
+96. Statistical timing analysis using bounds [ic verification]
+Citations:77
+Authors: A Agarwal, D Blaauw, V Zolotov, S Vrudhula
+Publication: 2003 Design, Automation and Test in Europe Conference and Exhibition, 62-67
+
+97. Reliability modeling and management in dynamic microprocessor-based systems
+Citations:76
+Authors: E Karl, D Blaauw, D Sylvester, T Mudge
+Publication: Proceedings of the 43rd annual Design Automation Conference, 1057-1060
+
+98. A statistical framework for post-silicon tuning through body bias clustering
+Citations:75
+Authors: SH Kulkarni, D Sylvester, D Blaauw
+Publication: Proceedings of the 2006 IEEE/ACM international conference on Computer-aided …
+
+99. Securing encryption systems with a switched capacitor current equalizer
+Citations:74
+Authors: C Tokunaga, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 45 (1), 23-31
+
+100. Inductance 101: Analysis and design issues
+Citations:74
+Authors: K Gala, D Blaauw, J Wang, V Zolotov, M Zhao
+Publication: Proceedings of the 38th Design Automation Conference (IEEE Cat. No …
+
+101. Analysis of noise avoidance techniques in DSM interconnects using a complete crosstalk noise model
+Citations:73
+Authors: M Becer, V Zolotov, D Blaauw, R Panda, I Hajj
+Publication: Proceedings of the conference on Design, automation and test in Europe, 456
+
+102. IoT design space challenges: Circuits and systems
+Citations:72
+Authors: D Blaauw, D Sylvester, P Dutta, Y Lee, I Lee, S Bang, Y Kim, G Kim, ...
+Publication: 2014 Symposium on VLSI Technology (VLSI-Technology): Digest of Technical …
+
+103. Vectorless analysis of supply noise induced delay variation
+Citations:72
+Authors: S Pant, D Blaauw, V Zolotov, S Sundareswaran, R Panda, R Panda
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+104. A fully integrated successive-approximation switched-capacitor DC-DC converter with 31mV output voltage resolution
+Citations:71
+Authors: S Bang, A Wang, B Giridhar, D Blaauw, D Sylvester
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+105. Single-v DD and single-v T super-drowsy techniques for low-leakage high-performance instruction caches
+Citations:71
+Authors: NS Kim, NS Kim, NS Kim, K Flautner, D Blaauw, T Mudge
+Publication: Proceedings of the 2004 international symposium on Low power electronics and …
+
+106. Slope propagation in static timing analysis
+Citations:70
+Authors: D Blaauw, V Zolotov, S Sundareswaran
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+107. Secure AES engine with a local switched-capacitor current equalizer
+Citations:69
+Authors: C Tokunaga, D Blaauw
+Publication: 2009 IEEE International Solid-State Circuits Conference-Digest of Technical …
+
+108. 16.3 A 23Mb/s 23pJ/b fully synthesized true-random-number generator in 28nm and 65nm CMOS
+Citations:68
+Authors: K Yang, D Fick, MB Henry, Y Lee, D Blaauw, D Sylvester
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+109. Active shields: A new approach to shielding global wires
+Citations:68
+Authors: H Kaul, D Sylvester, D Blaauw
+Publication: Proceedings of the 12th ACM Great Lakes symposium on VLSI, 112-117
+
+110. Statistical interconnect metrics for physical-design optimization
+Citations:67
+Authors: K Agarwal, M Agarwal, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+111. 14.2 A physically unclonable function with BER <10−8for robust chip authentication using oscillator collapse in 40nm CMOS
+Citations:65
+Authors: K Yang, Q Dong, D Blaauw, D Sylvester
+Publication: 2015 IEEE International Solid-State Circuits Conference-(ISSCC) Digest of …
+
+112. A 0.5 V sub-microwatt CMOS image sensor with pulse-width modulation read-out
+Citations:65
+Authors: S Hanson, ZY Foo, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 45 (4), 759-767
+
+113. A hybrid DC-DC converter for sub-microwatt sub-1V implantable applications
+Citations:65
+Authors: M Wieckowski, GK Chen, M Seok, D Blaauw, D Sylvester
+Publication: 2009 Symposium on VLSI Circuits, 166-167
+
+114. Low-power high-throughput LDPC decoder using non-refresh embedded DRAM
+Citations:64
+Authors: YS Park, D Blaauw, D Sylvester, Z Zhang
+Publication: IEEE Journal of Solid-State Circuits 49 (3), 783-794
+
+115. A millimeter-scale wireless imaging system with continuous motion detection and energy harvesting
+Citations:63
+Authors: G Kim, Y Lee, Z Foo, P Pannuto, YS Kuo, B Kempke, MH Ghaed, S Bang, ...
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+116. False-noise analysis using logic implications
+Citations:63
+Authors: A Glebov, S Gavrilov, D Blaauw, S Sirichotiyakul, C Oh, V Zolotov
+Publication: Proceedings of the 2001 IEEE/ACM international conference on Computer-aided …
+
+117. Compute caches
+Citations:62
+Authors: S Aga, S Jeloka, A Subramaniyan, S Narayanasamy, D Blaauw, R Das
+Publication: 2017 IEEE International Symposium on High Performance Computer Architecture …
+
+118. 12.6 A 160nW 63.9 fJ/conversion-step capacitance-to-digital converter for ultra-low-power wireless sensor nodes
+Citations:62
+Authors: H Ha, D Sylvester, D Blaauw, JY Sim
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+119. Mobile supercomputers
+Citations:62
+Authors: T Austin, D Blaauw, S Mahlke, T Mudge, C Chakrabarti, W Wolf
+Publication: Computer 37 (5), 81-83
+
+120. A dual-slope capacitance-to-digital converter integrated in an implantable pressure-sensing system
+Citations:61
+Authors: S Oh, Y Lee, J Wang, Z Foo, Y Kim, W Jung, Z Li, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 50 (7), 1581-1591
+
+121. Exploring DRAM organizations for energy-efficient and resilient exascale memories
+Citations:61
+Authors: B Giridhar, M Cieslak, D Duggal, R Dreslinski, HM Chen, R Patti, B Hold, ...
+Publication: Proceedings of the International Conference on High Performance Computing …
+
+122. Reconfigurable energy efficient near threshold cache architectures
+Citations:61
+Authors: RG Dreslinski, GK Chen, T Mudge, D Blaauw, D Sylvester, K Flautner
+Publication: Proceedings of the 41st annual IEEE/ACM International Symposium on …
+
+123. Efficient Monte Carlo based incremental statistical timing analysis
+Citations:61
+Authors: V Veetil, D Sylvester, D Blaauw
+Publication: Proceedings of the 45th annual Design Automation Conference, 676-681
+
+124. Process variation and temperature-aware reliability management
+Citations:60
+Authors: C Zhuo, D Sylvester, D Blaauw
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 580-585
+
+125. Design-time optimization of post-silicon tuned circuits using adaptive body bias
+Citations:60
+Authors: SH Kulkarni, DM Sylvester, DT Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+126. International scientific collaboration of China: Collaborating countries, institutions and individuals
+Citations:59
+Authors: X Wang, S Xu, Z Wang, L Peng, C Wang
+Publication: Scientometrics 95 (3), 885-894
+
+127. Swizzle-switch networks for many-core systems
+Citations:58
+Authors: K Sewell, RG Dreslinski, T Manville, S Satpathy, N Pinckney, G Blake, ...
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (2 …
+
+128. Dynamic nbti management using a 45 nm multi-degradation sensor
+Citations:58
+Authors: P Singh, E Karl, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 58 (9), 2026-2037
+
+129. A fully integrated microbattery for an implantable microelectromechanical system
+Citations:58
+Authors: F Albano, YS Lin, D Blaauw, DM Sylvester, KD Wise, AM Sastry
+Publication: Journal of Power Sources 185 (2), 1524-1532
+
+130. Discrete Vt assignment and gate sizing using a self-snapping continuous formulation
+Citations:57
+Authors: S Shah, A Srivastava, D Sharma, D Sylvester, D Blaauw, V Zolotov
+Publication: ICCAD-2005. IEEE/ACM International Conference on Computer-Aided Design, 2005 …
+
+131. Statistical timing based optimization using gate sizing
+Citations:57
+Authors: A Agarwal, K Chopra, D Blaauw
+Publication: Design, Automation and Test in Europe, 400-405
+
+132. Static electromigration analysis for on-chip signal interconnects
+Citations:57
+Authors: DT Blaauw, C Oh, V Zolotov, A Dasgupta
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+133. 8.2 Batteryless Sub-nW Cortex-M0+ processor with dynamic leakage-suppression logic
+Citations:56
+Authors: W Lim, I Lee, D Sylvester, D Blaauw
+Publication: 2015 IEEE International Solid-State Circuits Conference-(ISSCC) Digest of …
+
+134. High-bandwidth and low-energy on-chip signaling with adaptive pre-emphasis in 90nm CMOS
+Citations:56
+Authors: J Seo, R Ho, J Lexau, M Dayringer, D Sylvester, D Blaauw
+Publication: 2010 IEEE International Solid-State Circuits Conference-(ISSCC), 182-183
+
+135. Multi-mechanism reliability modeling and management in dynamic systems
+Citations:56
+Authors: E Karl, D Blaauw, D Sylvester, T Mudge
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 16 (4), 476-487
+
+136. Logic SER reduction through flipflop redesign
+Citations:56
+Authors: V Joshi, RR Rao, D Blaauw, D Sylvester
+Publication: Proceedings of the 7th International Symposium on Quality Electronic Design …
+
+137. A simple metric for slew rate of RC circuits based on two circuit moments
+Citations:56
+Authors: K Agarwal, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+138. Accurate crosstalk noise modeling for early signal integrity analysis
+Citations:56
+Authors: L Ding, D Blaauw, P Mazumder
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+139. Noise propagation and failure criteria for VLSI designs
+Citations:56
+Authors: V Zolotov, D Blaauw, S Sirichotiyakul, M Becer, C Oh, R Panda, ...
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+140. An energy efficient parallel architecture using near threshold operation
+Citations:55
+Authors: RG Dreslinkski, B Zhai, T Mudge, D Blaauw, D Sylvester
+Publication: Proceedings of the 16th International Conference on Parallel Architecture …
+
+141. A stochastic approach to power grid analysis
+Citations:55
+Authors: S Pant, D Blaauw, V Zolotov, S Sundareswaran, R Panda, R Panda
+Publication: Proceedings of the 41st annual Design Automation Conference, 171-176
+
+142. Static leakage reduction through simultaneous threshold voltage and state assignment
+Citations:55
+Authors: D Lee, D Blaauw
+Publication: Proceedings of the 40th annual Design Automation Conference, 191-194
+
+143. Simultaneous subthreshold and gate-oxide tunneling leakage current analysis in nanometer CMOS design
+Citations:55
+Authors: D Lee, W Kwong, D Blaauw, D Sylvester
+Publication: Fourth International Symposium on Quality Electronic Design, 2003 …
+
+144. Library-less synthesis for static CMOS combinational logic circuits
+Citations:55
+Authors: S Gavrilov, A Glebov, S Pullela, SC Moore, A Dharchoudhury, R Panda, ...
+Publication: Proceedings of the 1997 IEEE/ACM international conference on Computer-aided …
+
+145. A 150pW program-and-hold timer for ultra-low-power sensor platforms
+Citations:54
+Authors: YS Lin, DM Sylvester, DT Blaauw
+Publication: 2009 IEEE International Solid-State Circuits Conference-Digest of Technical …
+
+146. Leakage issues in IC design: Trends, estimation and avoidance
+Citations:54
+Authors: S Narendra, D Blaauw, A Devgan, F Najm
+Publication: Tutorial, ICCAD
+
+147. A 28 nm configurable memory (tcam/bcam/sram) using push-rule 6t bit cell enabling logic-in-memory
+Citations:53
+Authors: S Jeloka, NB Akesh, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 1009-1021
+
+148. 24.3 An implantable 64nW ECG-monitoring mixed-signal SoC for arrhythmia diagnosis
+Citations:53
+Authors: D Jeon, YP Chen, Y Lee, Y Kim, Z Foo, G Kruger, H Oral, O Berenfeld, ...
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+149. 27.6 A 0.7 pF-to-10nF fully digital capacitance-to-digital converter using iterative delay-chain discharge
+Citations:52
+Authors: W Jung, S Jeong, S Oh, D Sylvester, D Blaauw
+Publication: 2015 IEEE International Solid-State Circuits Conference-(ISSCC) Digest of …
+
+150. A 660pW multi-stage temperature-compensated timer for ultra-low-power wireless sensor node synchronization
+Citations:52
+Authors: Y Lee, B Giridhar, Z Foo, D Sylvester, D Blaauw
+Publication: 2011 IEEE International Solid-State Circuits Conference, 46-48
+
+151. A 0.5 v 2.2 pw 2-transistor voltage reference
+Citations:52
+Authors: M Seok, G Kim, D Sylvester, D Blaauw
+Publication: 2009 IEEE Custom Integrated Circuits Conference, 577-580
+
+152. Postroute gate sizing for crosstalk noise reduction
+Citations:52
+Authors: MR Becer, D Blaauw, I Algor, R Panda, C Oh, V Zolotov, IN Hajj
+Publication: IEEE Transactions on computer-aided design of integrated circuits and …
+
+153. 15.4 b incremental sigma-delta capacitance-to-digital converter with zoom-in 9b asynchronous SAR
+Citations:51
+Authors: S Oh, W Jung, K Yang, D Blaauw, D Sylvester
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+154. Assessing the performance limits of parallelized near-threshold computing
+Citations:51
+Authors: N Pinckney, K Sewell, RG Dreslinski, D Fick, T Mudge, D Sylvester, ...
+Publication: DAC Design Automation Conference 2012, 1143-1148
+
+155. Energy optimality and variability in subthreshold design
+Citations:51
+Authors: S Hanson, B Zhai, D Blaauw, D Sylvester, A Bryant, X Wang
+Publication: ISLPED'06 Proceedings of the 2006 International Symposium on Low Power …
+
+156. A subthreshold voltage reference with scalable output voltage for low-power IoT systems
+Citations:50
+Authors: I Lee, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 52 (5), 1443-1449
+
+157. Optimal technology selection for minimizing energy and variability in low voltage applications
+Citations:50
+Authors: M Seok, D Sylvester, D Blaauw
+Publication: Proceedings of the 2008 international symposium on Low Power Electronics …
+
+158. Error detection and recovery within processing stages of an integrated circuit
+Citations:49
+Authors: K Flautner, TM Austin, DT Blaauw, TN Mudge
+Publication: US Patent 7,278,080
+
+159. Data processor memory circuit
+Citations:49
+Authors: K Flautner, DT Blaauw, TN Mudge, NS Kim, SM Martin
+Publication: US Patent 7,055,007
+
+160. CAS-FEST 2010: Mitigating variability in near-threshold computing
+Citations:48
+Authors: M Seok, G Chen, S Hanson, M Wieckowski, D Blaauw, D Sylvester
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 1 (1 …
+
+161. Systematic and random error detection and recovery within processing stages of an integrated circuit
+Citations:48
+Authors: TN Mudge, TM Austin, DT Blaauw, K Flautner
+Publication: US Patent 7,162,661
+
+162. Process variation in near-threshold wide SIMD architectures
+Citations:47
+Authors: S Seo, RG Dreslinski, M Woh, Y Park, C Charkrabari, S Mahlke, D Blaauw, ...
+Publication: DAC Design Automation Conference 2012, 980-987
+
+163. Soft-edge flip-flops for improved timing yield: design and optimization
+Citations:47
+Authors: V Joshi, D Blaauw, D Sylvester
+Publication: Proceedings of the 2007 IEEE/ACM international conference on Computer-aided …
+
+164. A 95fJ/b current-mode transceiver for 10mm on-chip interconnect
+Citations:46
+Authors: SK Lee, SH Lee, D Sylvester, D Blaauw, JY Sim
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+165. Compact degradation sensors for monitoring NBTI and oxide degradation
+Citations:46
+Authors: P Singh, E Karl, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 20 (9 …
+
+166. A second-generation sensor network processor with application-driven memory optimizations and out-of-order execution
+Citations:46
+Authors: L Nazhandali, M Minuth, B Zhai, J Olson, T Austin, D Blaauw
+Publication: Proceedings of the 2005 international conference on Compilers, architectures …
+
+167. Centip3De: A cluster-based NTC architecture with 64 ARM Cortex-M3 cores in 3D stacked 130 nm CMOS
+Citations:45
+Authors: D Fick, RG Dreslinski, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: IEEE Journal of Solid-State Circuits 48 (1), 104-117
+
+168. Analysis and optimization of sleep modes in subthreshold circuit design
+Citations:45
+Authors: M Seok, S Hanson, D Sylvester, D Blaauw
+Publication: Proceedings of the 44th annual Design Automation Conference, 694-699
+
+169. Reducing pipeline energy demands with local DVS and dynamic retiming
+Citations:45
+Authors: S Lee, S Das, T Pham, T Austin, D Blaauw, T Mudge
+Publication: Proceedings of the 2004 international symposium on Low power electronics and …
+
+170. Integrated circuit design and manufacturing method and an apparatus for designing an integrated circuit in accordance with the method
+Citations:44
+Authors: DT Blaauw, RL Maziasz, JW Norton, LG Jones, M Guruswamy
+Publication: US Patent 5,689,432
+
+171. 14.7 a 288µw programmable deep-learning processor with 270kb on-chip weight storage using non-uniform memory hierarchy for mobile intelligence
+Citations:42
+Authors: S Bang, J Wang, Z Li, C Gao, Y Kim, Q Dong, YP Chen, L Fick, X Sun, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 250-251
+
+172. SRAM for error-tolerant applications with dynamic energy-quality management in 28 nm CMOS
+Citations:42
+Authors: F Frustaci, M Khayatzadeh, D Blaauw, D Sylvester, M Alioto
+Publication: IEEE Journal of Solid-state circuits 50 (5), 1310-1323
+
+173. Scaling towards kilo-core processors with asymmetric high-radix topologies
+Citations:41
+Authors: N Abeyratne, R Das, Q Li, K Sewell, B Giridhar, RG Dreslinski, D Blaauw, ...
+Publication: 2013 IEEE 19th International Symposium on High Performance Computer …
+
+174. Clock network design for ultra-low power applications
+Citations:41
+Authors: M Seok, D Blaauw, D Sylvester
+Publication: Proceedings of the 16th ACM/IEEE international symposium on Low power …
+
+175. Nanometer device scaling in subthreshold circuits
+Citations:41
+Authors: S Hanson, M Seok, D Sylvester, D Blaauw
+Publication: Proceedings of the 44th annual Design Automation Conference, 700-705
+
+176. 8.8 iRazor: 3-transistor current-based error detection and correction in an ARM cortex-R4 processor
+Citations:40
+Authors: Y Zhang, M Khayatzadeh, K Yang, M Saligane, N Pinckney, M Alioto, ...
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 160-162
+
+177. Timing yield enhancement through soft edge flip-flop based design
+Citations:40
+Authors: M Wieckowski, YM Park, C Tokunaga, DW Kim, Z Foo, D Sylvester, ...
+Publication: 2008 IEEE Custom Integrated Circuits Conference, 543-546
+
+178. A 5.42 nW/kB retention power logic-compatible embedded DRAM with 2T dual-Vt gain cell for low power sensing applications
+Citations:39
+Authors: Y Lee, MT Chen, J Park, D Sylvester, D Blaauw
+Publication: 2010 IEEE Asian Solid-State Circuits Conference, 1-4
+
+179. A new statistical max operation for propagating skewness in statistical timing analysis
+Citations:39
+Authors: K Chopra, B Zhai, D Blaauw, D Sylvester
+Publication: Proceedings of the 2006 IEEE/ACM international conference on Computer-aided …
+
+180. A 23pW, 780ppm/° C resistor-less current reference using subthreshold MOSFETs
+Citations:38
+Authors: M Choi, I Lee, TK Jang, D Blaauw, D Sylvester
+Publication: ESSCIRC 2014-40th European Solid State Circuits Conference (ESSCIRC), 119-122
+
+181. Centip3de: A 64-core, 3d stacked near-threshold system
+Citations:38
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: IEEE Micro 33 (2), 8-16
+
+182. A 1.85 fW/bit ultra low leakage 10T SRAM with speed compensation scheme
+Citations:38
+Authors: D Kim, G Chen, M Fojtik, M Seok, D Blaauw, D Sylvester
+Publication: 2011 IEEE International Symposium of Circuits and Systems (ISCAS), 69-72
+
+183. In situ delay-slack monitor for high-performance processors using an all-digital self-calibrating 5ps resolution time-to-digital converter
+Citations:38
+Authors: D Fick, N Liu, Z Foo, M Fojtik, J Seo, D Sylvester, D Blaauw
+Publication: 2010 IEEE International Solid-State Circuits Conference-(ISSCC), 188-189
+
+184. Leakage power optimization techniques for ultra deep sub-micron multi-level caches
+Citations:38
+Authors: NS Kim, NS Kim, NS Kim, D Blaauw, T Mudge
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+185. Removing user specified false paths from timing graphs
+Citations:37
+Authors: D Blaauw, R Panda, A Das
+Publication: Proceedings of the 37th Annual Design Automation Conference, 270-273
+
+186. Transistor-level sizing and timing verification of domino circuits in the Power PC/sup TM/microprocessor
+Citations:37
+Authors: A Dharchoudhury, D Blaauw, J Norton, S Pullela, J Dunning
+Publication: Proceedings International Conference on Computer Design VLSI in Computers …
+
+187. Apparatus and method for the automatic determination of a standard library height within an integrated circuit design
+Citations:36
+Authors: R Maziasz, M Guruswamy, DW Dulitz, D Blaauw, L Jones
+Publication: US Patent 5,737,236
+
+188. A sub-nW multi-stage temperature compensated timer for ultra-low-power sensor nodes
+Citations:35
+Authors: Y Lee, B Giridhar, Z Foo, D Sylvester, DB Blaauw
+Publication: IEEE Journal of Solid-State Circuits 48 (10), 2511-2521
+
+189. A 5.58 nW 32.768 kHz DLL-assisted XO for real-time clocks in wireless sensing applications
+Citations:35
+Authors: D Yoon, D Sylvester, D Blaauw
+Publication: 2012 IEEE international solid-state circuits conference, 366-368
+
+190. Performance optimization of critical nets through active shielding
+Citations:35
+Authors: H Kaul, D Sylvester, D Blaauw
+Publication: IEEE Transactions on circuits and systems I: regular papers 51 (12), 2417-2435
+
+191. Updating hierarchical DAG representations through a bottom up method
+Citations:35
+Authors: JW Norton, DT Blaauw, LG Jones
+Publication: US Patent 5,790,416
+
+192. CHAMP: Concurrent hierarchical and multilevel program for simulation of VLSI circuits
+Citations:35
+Authors: DG Saab, RB Mueller-Thuns, D Blaauw, JA Abraham, JT Rahmeh
+Publication: 1988 IEEE International Conference on Computer-Aided Design, 246-249
+
+193. Design of an implantable power supply for an intraocular sensor, using POWER (power optimization for wireless energy requirements)
+Citations:34
+Authors: F Albano, MD Chung, D Blaauw, DM Sylvester, KD Wise, AM Sastry
+Publication: Journal of Power Sources 170 (1), 216-224
+
+194. Concurrent sizing, Vdd and V/sub th/assignment for low-power design
+Citations:34
+Authors: A Srivastava, D Sylvester, D Blaauw
+Publication: Proceedings Design, Automation and Test in Europe Conference and Exhibition …
+
+195. Cache memory system for a data processing apparatus
+Citations:33
+Authors: RG Dreslinski, GK Chen, TN Mudge, DT Blaauw, D Sylvester
+Publication: US Patent 8,335,122
+
+196. Pipeline strategy for improving optimal energy efficiency in ultra-low voltage design
+Citations:33
+Authors: M Seok, D Jeon, C Chakrabarti, D Blaauw, D Sylvester
+Publication: 2011 48th ACM/EDAC/IEEE Design Automation Conference (DAC), 990-995
+
+197. Stress aware layout optimization
+Citations:33
+Authors: V Joshi, B Cline, D Sylvester, D Blaauw, K Agarwal
+Publication: Proceedings of the 2008 international symposium on Physical design, 168-174
+
+198. Static timing analysis considering power supply variations
+Citations:33
+Authors: S Pant, D Blaauw
+Publication: Proceedings of the 2005 IEEE/ACM International conference on Computer-aided …
+
+199. A 110 nW resistive frequency locked on-chip oscillator with 34.3 ppm/° C temperature stability for system-on-chip designs
+Citations:32
+Authors: M Choi, T Jang, S Bang, Y Shi, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 51 (9), 2106-2118
+
+200. A 5.8 nW CMOS wake-up timer for ultra-low-power wireless applications
+Citations:32
+Authors: S Jeong, I Lee, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 50 (8), 1754-1763
+
+201. A 695 pW standby power optical wake-up receiver for wireless sensor nodes
+Citations:32
+Authors: G Kim, Y Lee, S Bang, I Lee, Y Kim, D Sylvester, D Blaauw
+Publication: Proceedings of the IEEE 2012 Custom Integrated Circuits Conference, 1-4
+
+202. A 4.5 Tb/s 3.4 Tb/s/W 64× 64 switch fabric with self-updating least-recently-granted priority and quality-of-service arbitration in 45nm CMOS
+Citations:32
+Authors: S Satpathy, K Sewell, T Manville, YP Chen, R Dreslinski, D Sylvester, ...
+Publication: 2012 IEEE International Solid-State Circuits Conference, 478-480
+
+203. Neural cache: Bit-serial in-cache acceleration of deep neural networks
+Citations:31
+Authors: C Eckert, X Wang, J Wang, A Subramaniyan, R Iyer, D Sylvester, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+204. An all-digital edge racing true random number generator robust against PVT variations
+Citations:31
+Authors: K Yang, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 1022-1031
+
+205. A true random number generator using time-dependent dielectric breakdown
+Citations:31
+Authors: N Liu, N Pinckney, S Hanson, D Sylvester, D Blaauw
+Publication: 2011 Symposium on VLSI Circuits-Digest of Technical Papers, 216-217
+
+206. Fast statistical static timing analysis using smart Monte Carlo techniques
+Citations:31
+Authors: V Veetil, K Chopra, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+207. Analytical yield prediction considering leakage/performance correlation
+Citations:31
+Authors: RR Rao, A Devgan, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+208. Modeling and analysis of parametric yield under power and performance constraints
+Citations:31
+Authors: RR Rao, D Blaauw, D Sylvester, A Devgan
+Publication: IEEE Design & Test of Computers 22 (4), 376-385
+
+209. 9.2 A 0.6 nJ− 0.22/+ 0.19° C inaccuracy temperature sensor using exponential subthreshold oscillation dependence
+Citations:30
+Authors: K Yang, Q Dong, W Jung, Y Zhang, M Choi, D Blaauw, D Sylvester
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 160-161
+
+210. Gate-level mitigation techniques for neutron-induced soft error rate
+Citations:30
+Authors: HS Deogun, D Sylvester, D Blaauw
+Publication: Sixth international symposium on quality electronic design (isqed'05), 175-180
+
+211. Logic gate size optimization process for an integrated circuit whereby circuit speed is improved while circuit area is optimized
+Citations:30
+Authors: DT Blaauw, JW Norton, LG Jones, S Misra, RI Bahar
+Publication: US Patent 5,619,418
+
+212. A 114-pW PMOS-only, trim-free voltage reference with 0.26% within-wafer inaccuracy for nW systems
+Citations:29
+Authors: Q Dong, K Yang, D Blaauw, D Sylvester
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+213. Low-power near-threshold design: Techniques to improve energy efficiency energy-efficient near-threshold design has been proposed to increase energy efficiency across a wid
+Citations:29
+Authors: N Pinckney, D Blaauw, D Sylvester
+Publication: IEEE Solid-State Circuits Magazine 7 (2), 49-57
+
+214. A statistical approach for full-chip gate-oxide reliability analysis
+Citations:29
+Authors: K Chopra, C Zhuo, D Blaauw, D Sylvester
+Publication: 2008 IEEE/ACM International Conference on Computer-Aided Design, 698-705
+
+215. An effective capacitance based driver output model for on-chip RLC interconnects
+Citations:29
+Authors: K Agarwal, D Sylvester, D Blaauw
+Publication: Proceedings of the 40th annual Design Automation Conference, 376-381
+
+216. Early probabilistic noise estimation for capacitively coupled interconnects
+Citations:29
+Authors: MR Becer, D Blaauw, IN Hajj, R Panda
+Publication: Proceedings of the 2002 international workshop on System-level interconnect …
+
+217. Accurate delay prediction based on multi-model analysis
+Citations:29
+Authors: S Pullela, A Dharchoudhury, DT Blaauw, TJ Edwards, JW Norton
+Publication: US Patent 5,751,593
+
+218. The terraswarm research center (TSRC)(a white paper)
+Citations:28
+Authors: EA Lee, JD Kubiatowicz, JM Rabaey, AL Sangiovanni-Vincentelli, ...
+Publication: EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS …
+
+219. Data retention latch provision within integrated circuits
+Citations:28
+Authors: TN Mudge, TM Austin, DT Blaauw, K Flautner
+Publication: US Patent 7,310,755
+
+220. Timing error correction techniques for voltage-scalable on-chip memories
+Citations:28
+Authors: E Karl, D Sylvester, D Blaauw
+Publication: 2005 IEEE International Symposium on Circuits and Systems, 3563-3566
+
+221. Leakage-and crosstalk-aware bus encoding for total power reduction
+Citations:28
+Authors: HS Deogun, RR Rao, D Sylvester, D Blaauw
+Publication: Proceedings of the 41st annual Design Automation Conference, 779-782
+
+222. Current signature compression for IR-drop analysis
+Citations:28
+Authors: R Chaudhry, D Blaauw, R Panda, T Edwards
+Publication: Proceedings of the 37th Annual Design Automation Conference, 162-167
+
+223. Complementary network reduction for load modeling
+Citations:28
+Authors: S Pullela, A Dharchoudhury, DT Blaauw, TJ Edwards, JW Norton
+Publication: US Patent 5,790,415
+
+224. Energy-autonomous wireless communication for millimeter-scale Internet-of-Things sensor nodes
+Citations:27
+Authors: Y Chen, N Chiotellis, LX Chuo, C Pfeiffer, Y Shi, RG Dreslinski, A Grbic, ...
+Publication: IEEE Journal on Selected Areas in Communications 34 (12), 3962-3977
+
+225. 5.8 A 4.7 nW 13.8 ppm/° C self-biased wakeup timer using a switched-resistor scheme
+Citations:27
+Authors: T Jang, M Choi, S Jeong, S Bang, D Sylvester, D Blaauw
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 102-103
+
+226. A Successive-Approximation Switched-Capacitor DC–DC Converter With Resolution of for a Wide Range of Input and Output Voltages
+Citations:27
+Authors: S Bang, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 51 (2), 543-556
+
+227. AlGaAs photovoltaics for indoor energy harvesting in mm-scale wireless sensor nodes
+Citations:27
+Authors: AS Teran, J Wong, W Lim, G Kim, Y Lee, D Blaauw, JD Phillips
+Publication: IEEE Transactions on Electron Devices 62 (7), 2170-2175
+
+228. A fully integrated switched-capacitor based PMU with adaptive energy harvesting technique for ultra-low power sensing applications
+Citations:27
+Authors: S Bang, Y Lee, I Lee, Y Kim, G Kim, D Blaauw, D Sylvester
+Publication: 2013 IEEE International Symposium on Circuits and Systems (ISCAS2013), 709-712
+
+229. SLC: Split-control level converter for dense and stable wide-range voltage conversion
+Citations:27
+Authors: Y Kim, Y Lee, D Sylvester, D Blaauw
+Publication: 2012 Proceedings of the ESSCIRC (ESSCIRC), 478-481
+
+230. Single event upset error detection within an integrated circuit
+Citations:27
+Authors: S Das, DT Blaauw, DM Bull
+Publication: US Patent 8,185,812
+
+231. Robust ultra-low voltage ROM design
+Citations:27
+Authors: M Seok, S Hanson, JS Seo, D Sylvester, D Blaauw
+Publication: 2008 IEEE Custom Integrated Circuits Conference, 423-426
+
+232. Leakage power reduction using stress-enhanced layouts
+Citations:27
+Authors: V Joshi, B Cline, D Sylvester, D Blaauw, K Agarwal
+Publication: 2008 45th ACM/IEEE Design Automation Conference, 912-917
+
+233. Optimization and control of V DD and V TH for low-power, high-speed CMOS design
+Citations:27
+Authors: T Kuroda
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+234. Ultralow power circuit design for wireless sensor nodes for structural health monitoring
+Citations:26
+Authors: Y Lee, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 104 (8), 1529-1546
+
+235. A 99nW 70.4 kHz resistive frequency locking on-chip oscillator with 27.4 ppm/ºC temperature stability
+Citations:26
+Authors: M Choi, S Bang, TK Jang, D Blaauw, D Sylvester
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C238-C239
+
+236. A 1.6-mm2 38-mW 1.5-Gb/s LDPC decoder enabled by refresh-free embedded DRAM
+Citations:26
+Authors: YS Park, D Blaauw, D Sylvester, Z Zhang
+Publication: 2012 Symposium on VLSI Circuits (VLSIC), 114-115
+
+237. Process variation and temperature-aware full chip oxide breakdown reliability analysis
+Citations:26
+Authors: C Zhuo, K Chopra, D Sylvester, D Blaauw
+Publication: IEEE Transactions on computer-aided design of integrated circuits and …
+
+238. LC2: Limited contention level converter for robust wide-range voltage conversion
+Citations:26
+Authors: Y Kim, D Sylvester, D Blaauw
+Publication: 2011 Symposium on VLSI Circuits-Digest of Technical Papers, 188-189
+
+239. A black box method for stability analysis of arbitrary SRAM cell structures
+Citations:26
+Authors: M Wieckowski, D Sylvester, D Blaauw, V Chandra, S Idgunji, C Pietrzyk, ...
+Publication: Proceedings of the Conference on Design, Automation and Test in Europe, 795-800
+
+240. A novel approach to perform gate-level yield analysis and optimization considering correlated variations in power and performance
+Citations:26
+Authors: A Srivastava, K Chopra, S Shah, D Sylvester, D Blaauw
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+241. Energy efficient design for subthreshold supply voltage operation
+Citations:26
+Authors: D Blaauw, B Zhai
+Publication: 2006 IEEE International Symposium on Circuits and Systems, 4 pp.-32
+
+242. Quantitative analysis and optimization techniques for on-chip cache leakage power
+Citations:26
+Authors: NS Kim, D Blaauw, T Mudge
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 13 (10 …
+
+243. Simultaneous state, Vt and Tox assignment for total standby power minimization
+Citations:26
+Authors: D Lee, H Deogun, D Blaauw, D Sylvester
+Publication: Proceedings of the conference on Design, automation and test in Europe …
+
+244. Driver modeling and alignment for worst-case delay noise
+Citations:26
+Authors: D Blaauw, S Sirichotiyakul, C Oh
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 11 (2), 157-166
+
+245. Inductance model and analysis methodology for high-speed on-chip interconnect
+Citations:26
+Authors: K Gala, D Blaauw, V Zolotov, PM Vaidya, A Joshi
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 10 (6), 730-745
+
+246. Design and analysis of power distribution networks with accurate RLC models
+Citations:26
+Authors: R Chaudhry, R Panda, T Edwards, D Blaauw
+Publication: VLSI Design 2000. Wireless and Digital Imaging in the Millennium …
+
+247. 8.3 A 553F22-transistor amplifier-based Physically Unclonable Function (PUF) with 1.67% native instability
+Citations:25
+Authors: K Yang, Q Dong, D Blaauw, D Sylvester
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 146-147
+
+248. A compact 446 Gbps/W AES accelerator for mobile SoC and IoT in 40nm
+Citations:25
+Authors: Y Zhang, K Yang, M Saligane, D Blaauw, D Sylvester
+Publication: 2016 IEEE symposium on VLSI circuits (VLSI-circuits), 1-2
+
+249. 8.5 A 60%-efficiency 20nW-500µW tri-output fully integrated power management unit with environmental adaptation and load-proportional biasing for IoT systems
+Citations:25
+Authors: W Jung, J Gu, PD Myers, M Shim, S Jeong, K Yang, M Choi, ZY Foo, ...
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 154-155
+
+250. A 266nW multi-chopper amplifier with 1.38 noise efficiency factor for neural signal recording
+Citations:25
+Authors: YP Chen, D Blaauw, D Sylvester
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+251. 13.8 A 32kb SRAM for error-free and error-tolerant applications with dynamic energy-quality management in 28nm CMOS
+Citations:25
+Authors: F Frustaci, M Khayatzadeh, D Blaauw, D Sylvester, M Alioto
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+252. 13.7 A reconfigurable sense amplifier with auto-zero calibration and pre-amplification in 28nm CMOS
+Citations:25
+Authors: B Giridhar, N Pinckney, D Sylvester, D Blaauw
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+253. Bus encoding for total power reduction using a leakage-aware buffer configuration
+Citations:25
+Authors: RR Rao, HS Deogun, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 13 (12 …
+
+254. Emerging power management tools for processor design
+Citations:25
+Authors: DT Blaauw, A Dharchoudhury, R Panda, S Sirichotiyakul, C Oh, ...
+Publication: Proceedings of the 1998 international symposium on Low power electronics and …
+
+255. Simulation corrected sensitivity
+Citations:25
+Authors: S Pullela, A Dharchoudhury, DT Blaauw, TJ Edwards, JW Norton, ...
+Publication: US Patent 5,787,008
+
+256. Approximate SRAMs with dynamic energy-quality management
+Citations:24
+Authors: F Frustaci, D Blaauw, D Sylvester, M Alioto
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 24 (6 …
+
+257. Randomized value generation
+Citations:24
+Authors: NCY Liu, SM Hanson, N Pinckney, DT Blaauw, DM Sylvester
+Publication: US Patent 9,075,675
+
+258. An energy efficient full-frame feature extraction accelerator with shift-latch FIFO in 28 nm CMOS
+Citations:24
+Authors: D Jeon, MB Henry, Y Kim, I Lee, Z Zhang, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 49 (5), 1271-1284
+
+259. Variation-aware static and dynamic writability analysis for voltage-scaled bit-interleaved 8-T SRAMs
+Citations:24
+Authors: D Kim, V Chandra, R Aitken, D Blaauw, D Sylvester
+Publication: Proceedings of the 17th IEEE/ACM international symposium on Low-power …
+
+260. OxID: On-chip one-time random ID generation using oxide breakdown
+Citations:24
+Authors: N Liu, S Hanson, D Sylvester, D Blaauw
+Publication: 2010 Symposium on VLSI Circuits, 231-232
+
+261. A 1.07 Tbit/s 128× 128 swizzle network for SIMD processors
+Citations:24
+Authors: S Satpathy, Z Foo, B Giridhar, R Dreslinski, D Sylvester, T Mudge, ...
+Publication: 2010 Symposium on VLSI Circuits, 81-82
+
+262. False-noise analysis using resolution method
+Citations:24
+Authors: A Glebov, S Gavrilov, D Blaauw, V Zolotov, R Panda, C Oh
+Publication: Proceedings International Symposium on Quality Electronic Design, 437-442
+
+263. Transistor reordering for low power CMOS gates using an SP-BDD representation
+Citations:24
+Authors: AL Glebov, D Blaauw, LG Jones
+Publication: Proceedings of the 1995 international symposium on Low power design, 161-166
+
+264. Functional abstraction of logic gates for switch-level simulation
+Citations:24
+Authors: DT Blaauw, DG Saab, P Banerjee, JA Abraham
+Publication: Proceedings of the conference on European design automation, 329-333
+
+265. System-on-mud: Ultra-low power oceanic sensing platform powered by small-scale benthic microbial fuel cells
+Citations:23
+Authors: I Lee, G Kim, S Bang, A Wolfe, R Bell, S Jeong, Y Kim, J Kagan, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 62 (4), 1126-1135
+
+266. A 467nW CMOS visual motion sensor with temporal averaging and pixel aggregation
+Citations:23
+Authors: G Kim, M Barangi, Z Foo, N Pinckney, S Bang, D Blaauw, D Sylvester
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+267. A 2.98 nW bandgap voltage reference using a self-tuning low leakage sample and hold
+Citations:23
+Authors: YP Chen, M Fojtik, D Blaauw, D Sylvester
+Publication: 2012 Symposium on VLSI Circuits (VLSIC), 200-201
+
+268. Standby power reduction techniques for ultra-low power processors
+Citations:23
+Authors: Y Lee, M Seok, S Hanson, D Blaauw, D Sylvester
+Publication: ESSCIRC 2008-34th European Solid-State Circuits Conference, 186-189
+
+269. Mesogens
+Citations:23
+Authors: ST Wellinghoff, DP Hanson
+Publication: US Patent 7,238,831
+
+270. Memory system having fast and slow data reading mechanisms
+Citations:23
+Authors: TN Mudge, TM Austin, DT Blaauw, DM Sylvester, K Flautner
+Publication: US Patent 6,944,067
+
+271. Estimation of the likelihood of capacitive coupling noise
+Citations:23
+Authors: SBK Vrudhula, D Blaauw, S Sirichotiyakul
+Publication: Proceedings of the 39th annual Design Automation Conference, 653-658
+
+272. Message sequence number control in a virtual time system
+Citations:23
+Authors: DT Blaauw, NS Radia, JF Skovira
+Publication: US Patent 5,617,561
+
+273. 21.4 A> 78%-efficient light harvester over 100-to-100klux with reconfigurable PV-cell network and MPPT circuit
+Citations:22
+Authors: I Lee, W Lim, A Teran, J Phillips, D Sylvester, D Blaauw
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 370-371
+
+274. A constant energy-per-cycle ring oscillator over a wide frequency range for wireless sensor nodes
+Citations:22
+Authors: I Lee, D Sylvester, D Blaauw
+Publication: IEEE journal of solid-state circuits 51 (3), 697-711
+
+275. 27.8 A static contention-free single-phase-clocked 24T flip-flop in 45nm for low-power applications
+Citations:22
+Authors: Y Kim, W Jung, I Lee, Q Dong, M Henry, D Sylvester, D Blaauw
+Publication: 2014 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+276. Design methodology for voltage-overscaled ultra-low-power systems
+Citations:22
+Authors: D Jeon, M Seok, Z Zhang, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Circuits and Systems II: Express Briefs 59 (12), 952-956
+
+277. Circuit techniques for suppression and measurement of on-chip inductive supply noise
+Citations:22
+Authors: S Pant, D Blaauw
+Publication: ESSCIRC 2008-34th European Solid-State Circuits Conference, 134-137
+
+278. Fast and accurate waveform analysis with current source models
+Citations:22
+Authors: V Veetil, D Sylvester, D Blaauw
+Publication: 9th International Symposium on Quality Electronic Design (isqed 2008), 53-56
+
+279. Analysis and reduction of on-chip inductance effects in power supply grids
+Citations:22
+Authors: WH Lee, S Pant, D Blaauw
+Publication: International Symposium on Signals, Circuits and Systems. Proceedings, SCS …
+
+280. Static Leakage Reduction through Simulteneous VTT/TOX and State Assignment
+Citations:22
+Authors: D Lee, B Zhai, D Blaauw, D Sylvester
+Publication: Ultra Low-Power Electronics and Design, 56-83
+
+281. Leakage current reduction in VLSI systems
+Citations:22
+Authors: D Blaauw, S Martin, T Mudge, K Flautner
+Publication: Journal of Circuits, Systems, and Computers 11 (06), 621-635
+
+282. Hierarchical multi-level fault simulation of large systems
+Citations:22
+Authors: DG Saab, RB Mueller-Thuns, D Blaauw, JT Rahmeh, JA Abraham
+Publication: Journal of Electronic Testing 1 (2), 139-149
+
+283. Gate Oxide and Subthreshold Leakage Characterization, Analysis and Optimization
+Citations:22
+Authors: D Blaauw, S Nassif
+Publication: date unknown
+
+284. Impact of lithography variability on statistical timing behavior
+Citations:21
+Authors: CJ Progler, A Borna, D Blaauw, P Sixt
+Publication: Design and Process Integration for Microelectronic Manufacturing II 5379 …
+
+285. irazor: Current-based error detection and correction scheme for pvt variation in 40-nm arm cortex-r4 processor
+Citations:20
+Authors: Y Zhang, M Khayatzadeh, K Yang, M Saligane, N Pinckney, M Alioto, ...
+Publication: IEEE Journal of Solid-State Circuits 53 (2), 619-631
+
+286. 12.1 A rational-conversion-ratio switched-capacitor DC-DC converter using negative-output feedback
+Citations:20
+Authors: W Jung, D Sylvester, D Blaauw
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 218-219
+
+287. A robust edge encoding technique for energy-efficient multi-cycle interconnect
+Citations:20
+Authors: J Seo, H Kaul, R Krishnamurthy, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 19 (2), 264-273
+
+288. Method and apparatus for controlling current demand in an integrated circuit
+Citations:20
+Authors: DT Blaauw, RV Panda, R Chaudhry, VP Zolotov, R Ramaraju
+Publication: US Patent 6,819,538
+
+289. On the interaction of power distribution network with substrate
+Citations:20
+Authors: R Panda, S Sundareswaran, D Blaauw
+Publication: ISLPED'01: Proceedings of the 2001 International Symposium on Low Power …
+
+290. SNEL: A switch-level simulator using multiple levels of functional abstraction
+Citations:20
+Authors: DT Blaauw, RB Mueller-Thuns, DG Saab, P Banerjee, JA Abraham
+Publication: 1990 IEEE International Conference on Computer-Aided Design, 66-69
+
+291. Automatic generation of behavioral models from switch-level descriptions
+Citations:20
+Authors: DT Blaauw, DG Saab, RB Mueller-Thuns, JA Abraham, JT Rahmeh
+Publication: Proceedings of the 26th ACM/IEEE Design Automation Conference, 179-184
+
+292. A 23-mw face recognition processor with mostly-read 5t memory in 40-nm cmos
+Citations:19
+Authors: D Jeon, Q Dong, Y Kim, X Wang, S Chen, H Yu, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 52 (6), 1628-1642
+
+293. A resonant current-mode wireless power receiver and battery charger with− 32 dBm sensitivity for implantable systems
+Citations:19
+Authors: M Choi, T Jang, J Jeong, S Jeong, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 51 (12), 2880-2892
+
+294. A low power software-defined-radio baseband processor for the Internet of Things
+Citations:19
+Authors: Y Chen, S Lu, HS Kim, D Blaauw, RG Dreslinski, T Mudge
+Publication: 2016 IEEE International Symposium on High Performance Computer Architecture …
+
+295. 26.7 A 10mm3 syringe-implantable near-field radio system on glass substrate
+Citations:19
+Authors: Y Shi, M Choi, Z Li, G Kim, Z Foo, HS Kim, D Wentzloff, D Blaauw
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 448-449
+
+296. A case study of the application of a blended learning approach to web-based college English teaching platform in a medical university in Eastern China.
+Citations:19
+Authors: W Zhang, C Han
+Publication: Theory & Practice in Language Studies 2 (9)
+
+297. Robust clock network design methodology for ultra-low voltage operations
+Citations:19
+Authors: M Seok, D Blaauw, D Sylvester
+Publication: IEEE Journal on Emerging and Selected Topics in Circuits and Systems 1 (2 …
+
+298. Sleep Mode Analysis and Optimization With Minimal-Sized Power Gating Switch for Ultra-LowOperation
+Citations:19
+Authors: M Seok, S Hanson, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 20 (4), 605-615
+
+299. Modeling crosstalk in statistical static timing analysis
+Citations:19
+Authors: R Gandikota, D Blaauw, D Sylvester
+Publication: 2008 45th ACM/IEEE Design Automation Conference, 974-979
+
+300. Impact of low-impedance substrate on power supply integrity
+Citations:19
+Authors: R Panda, S Sundareswaran, D Blaauw
+Publication: IEEE design & test of computers 20 (3), 16-22
+
+301. Subcutaneous photovoltaic infrared energy harvesting for bio-implantable devices
+Citations:18
+Authors: E Moon, D Blaauw, JD Phillips
+Publication: IEEE transactions on electron devices 64 (5), 2432-2437
+
+302. Edge-pursuit comparator: An energy-scalable oscillator collapse-based comparator with application in a 74.1 dB SNDR and 20 kS/s 15 b SAR ADC
+Citations:18
+Authors: M Shim, S Jeong, PD Myers, S Bang, J Shen, C Kim, D Sylvester, ...
+Publication: IEEE Journal of Solid-State Circuits 52 (4), 1077-1090
+
+303. A 10 mm3Inductive Coupling Radio for Syringe-Implantable Smart Sensor Nodes
+Citations:18
+Authors: Y Shi, M Choi, Z Li, Z Luo, G Kim, Z Foo, HS Kim, DD Wentzloff, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 51 (11), 2570-2583
+
+304. Near-threshold computing in FinFET technologies: opportunities for improved voltage scalability
+Citations:18
+Authors: N Pinckney, L Shifren, B Cline, S Sinha, S Jeloka, RG Dreslinski, T Mudge, ...
+Publication: Proceedings of the 53rd Annual Design Automation Conference, 76
+
+305. Energy harvesting for GaAs photovoltaics under low-flux indoor lighting conditions
+Citations:18
+Authors: AS Teran, E Moon, W Lim, G Kim, I Lee, D Blaauw, JD Phillips
+Publication: IEEE transactions on electron devices 63 (7), 2820-2825
+
+306. 21.5 A current-mode wireless power receiver with optimal resonant cycle tracking for implantable systems
+Citations:18
+Authors: M Choi, T Jang, J Jeong, S Jeong, D Blaauw, D Sylvester
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 372-373
+
+307. A 23mW face recognition accelerator in 40nm CMOS with mostly-read 5T memory
+Citations:18
+Authors: D Jeon, Q Dong, Y Kim, X Wang, S Chen, H Yu, D Blaauw, D Sylvester
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C48-C49
+
+308. MBus: A 17.5 pJ/bit/chip portable interconnect bus for millimeter-scale sensor systems with 8 nW standby power
+Citations:18
+Authors: Y Kuo, P Pannuto, G Kim, Z Foo, I Lee, B Kempke, P Dutta, D Blaauw, ...
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-4
+
+309. Reference voltage generator having a two transistor design
+Citations:18
+Authors: M Seok, D Sylvester, D Blaauw, S Hanson, G Chen
+Publication: US Patent 8,564,275
+
+310. Shortstop: An on-chip fast supply boosting technique
+Citations:18
+Authors: N Pinckney, M Fojtik, B Giridhar, D Sylvester, D Blaauw
+Publication: 2013 Symposium on VLSI Circuits, C290-C291
+
+311. Crossbar circuitry and method of operation of such crossbar circuitry
+Citations:18
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester, RG Dreslinski
+Publication: US Patent 8,108,585
+
+312. DVS for on-chip bus designs based on timing error correction
+Citations:18
+Authors: H Kaul, D Sylvester, D Blaauw, T Mudge, T Austin
+Publication: Proceedings of the conference on Design, Automation and Test in Europe …
+
+313. Fast on-chip inductance simulation using a precorrected-FFT method
+Citations:18
+Authors: H Hu, DT Blaauw, V Zolotov, K Gala, M Zhao, R Panda, SS Sapatnekar
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+314. Active shielding of RLC global interconnects
+Citations:18
+Authors: H Kaul, D Sylvester, D Blaauw
+Publication: Proceedings of the 8th ACM/IEEE international workshop on Timing issues in …
+
+315. A 1Mb 28nm STT-MRAM with 2.8 ns read access time at 1.2 V VDD using single-cap offset-cancelled sense amplifier and in-situ self-write-termination
+Citations:17
+Authors: Q Dong, Z Wang, J Lim, Y Zhang, YC Shih, YD Chih, J Chang, D Blaauw, ...
+Publication: 2018 IEEE International Solid-State Circuits Conference-(ISSCC), 480-482
+
+316. 7.4 A 915MHz asymmetric radio using Q-enhanced amplifier for a fully integrated 3×3×3mm3wireless sensor node with 20m non-line-of-sight communication
+Citations:17
+Authors: LX Chuo, Y Shi, Z Luo, N Chiotellis, Z Foo, G Kim, Y Kim, A Grbic, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 132-133
+
+317. A 470mV 2.7 mW feature extraction-accelerator for micro-autonomous vehicle navigation in 28nm CMOS
+Citations:17
+Authors: D Jeon, Y Kim, I Lee, Z Zhang, D Blaauw, D Sylvester
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+318. Ultra-low power circuit techniques for a new class of sub-mm3 sensor nodes
+Citations:17
+Authors: Y Lee, G Chen, S Hanson, D Sylvester, D Blaauw
+Publication: IEEE Custom Integrated Circuits Conference 2010, 1-8
+
+319. Efficient smart sampling based full-chip leakage analysis for intra-die variation considering state dependence
+Citations:17
+Authors: V Veetil, D Sylvester, D Blaauw, S Shah, S Rochel
+Publication: Proceedings of the 46th Annual Design Automation Conference, 154-159
+
+320. Variation-aware gate sizing and clustering for post-silicon optimized circuits
+Citations:17
+Authors: C Zhuo, D Blaauw, D Sylvester
+Publication: Proceedings of the 2008 international symposium on Low Power Electronics …
+
+321. Noise analysis for an integrated circuit model
+Citations:17
+Authors: MR Becer, I Algor, RV Panda, DT Blaauw
+Publication: US Patent 7,093,223
+
+322. SOI transistor model for fast transient simulation
+Citations:17
+Authors: D Nadezhin, S Gavrilov, A Glebov, Y Egorov, V Zolotov, D Blaauw, ...
+Publication: Proceedings of the 2003 IEEE/ACM international conference on Computer-aided …
+
+323. A sequence dependent challenge-response PUF using 28nm SRAM 6T bit cell
+Citations:16
+Authors: S Jeloka, K Yang, M Orshansky, D Sylvester, D Blaauw
+Publication: 2017 Symposium on VLSI Circuits, C270-C271
+
+324. True random number generator
+Citations:16
+Authors: K Yang, DM Sylvester, DT Blaauw, DA Fick, MB Henry, Y Lee
+Publication: US Patent 9,335,972
+
+325. A robust− 40 to 120° C all-digital true random number generator in 40nm CMOS
+Citations:16
+Authors: K Yang, D Blaauw, D Sylvester
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C248-C249
+
+326. Mixed-signal stochastic computation demonstrated in an image sensor with integrated 2D edge detection and noise filtering
+Citations:16
+Authors: D Fick, G Kim, A Wang, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-4
+
+327. Near threshold computing: Overcoming performance degradation from aggressive voltage scaling
+Citations:16
+Authors: R Dreslinski, M Wieckowski, DS Blaauw, T Mudge
+Publication: Proc. Workshop Energy-Efficient Design, 44-49
+
+328. A simplified transmission-line based crosstalk noise model for on-chip RLC wiring
+Citations:16
+Authors: K Agarwal, D Sylvester, D Blaauw
+Publication: Proceedings of the 2004 Asia and South Pacific Design Automation Conference …
+
+329. Non-iterative switching window computation for delay-noise
+Citations:16
+Authors: B Thudi, D Blaauw
+Publication: Proceedings of the 40th annual Design Automation Conference, 390-395
+
+330. Crosstalk noise estimation using effective coupling capacitance
+Citations:16
+Authors: L Ding, P Mazumder, D Blaauw
+Publication: 2002 IEEE International Symposium on Circuits and Systems. Proceedings (Cat …
+
+331. Level converter circuitry
+Citations:15
+Authors: J Lee, M Saligane, DT Blaauw, DMC Sylvester
+Publication: US Patent App. 10/326,449
+
+332. Hardware designs for security in ultra-low-power IoT systems: an overview and survey
+Citations:15
+Authors: K Yang, D Blaauw, D Sylvester
+Publication: IEEE Micro 37 (6), 72-89
+
+333. Cache automaton
+Citations:15
+Authors: A Subramaniyan, J Wang, ERM Balasubramanian, D Blaauw, D Sylvester, ...
+Publication: Proceedings of the 50th Annual IEEE/ACM International Symposium on …
+
+334. 65nW CMOS temperature sensor for ultra-low power microsystems
+Citations:15
+Authors: S Jeong, J Sim, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 2013 Custom Integrated Circuits Conference, 1-4
+
+335. Collaborative sensing management for cognitive radio networks with reporting overhead
+Citations:15
+Authors: WS Jeon, DH Lee, DG Jeong
+Publication: IEEE Transactions on Wireless Communications 12 (2), 595-605
+
+336. Circuit and system design guidelines for ultra-low power sensor nodes
+Citations:15
+Authors: Y Lee, D Yoon, Y Kim, D Blaauw, D Sylvester
+Publication: IPSJ Transactions on System LSI Design Methodology 6, 17-26
+
+337. Random number generator
+Citations:15
+Authors: TN Mudge, DT Blaauw, CA Tokunaga
+Publication: US Patent 8,346,832
+
+338. Crossbar circuitry for applying a pre-selection prior to arbitration between transmission requests and method of operation of such crossbar circuitry
+Citations:15
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester
+Publication: US Patent 8,255,610
+
+339. A 635pW battery voltage supervisory circuit for miniature sensor nodes
+Citations:15
+Authors: I Lee, S Bang, Y Lee, Y Kim, G Kim, D Sylvester, D Blaauw
+Publication: 2012 Symposium on VLSI Circuits (VLSIC), 202-203
+
+340. CPU, heal thyself
+Citations:15
+Authors: D Blaauw, S Das
+Publication: iEEE SpEctrum 46 (8), 40-56
+
+341. Analysis of system-level reliability factors and implications on real-time monitoring methods for oxide breakdown device failures
+Citations:15
+Authors: E Karl, D Sylvester, D Blaauw
+Publication: 9th International Symposium on Quality Electronic Design (isqed 2008), 391-395
+
+342. CAD tools for variation tolerance
+Citations:15
+Authors: D Blaauw, K Chopra
+Publication: Proceedings of the 42nd annual Design Automation Conference, 766-766
+
+343. An efficient surface-based low-power buffer insertion algorithm
+Citations:15
+Authors: RR Rao, D Blaauw, D Sylvester, CJ Alpert, S Nassif
+Publication: Proceedings of the 2005 international symposium on Physical design, 86-93
+
+344. Statistical modeling of cross-coupling effects in VLSI interconnects
+Citations:15
+Authors: M Agarwal, K Agarwal, D Sylvester, D Sylvester, D Blaauw
+Publication: Proceedings of the 2005 Asia and South Pacific Design Automation Conference …
+
+345. Design and analysis of power supply networks
+Citations:15
+Authors: D Blaauw, S Pant, R Chaudhry, R Panda
+Publication: Electronic Design Automation for Integrated Circuits Handbook 2
+
+346. Cross coupling delay characterization for integrated circuits
+Citations:15
+Authors: S Sirichotiyakul, DT Blaauw, C Oh, VP Zolotov, R Levy
+Publication: US Patent 6,799,153
+
+347. Static timing analysis using backward signal propagation
+Citations:15
+Authors: D Lee, V Zolotov, D Blaauw
+Publication: Proceedings of the 41st annual Design Automation Conference, 664-669
+
+348. Recryptor: A reconfigurable in-memory cryptographic Cortex-M0 processor for IoT
+Citations:14
+Authors: Y Zhang, L Xu, K Yang, Q Dong, S Jeloka, D Blaauw, D Sylvester
+Publication: 2017 Symposium on VLSI Circuits, C264-C265
+
+349. Analog in-memory subthreshold deep neural network accelerator
+Citations:14
+Authors: L Fick, D Blaauw, D Sylvester, S Skrzyniarz, M Parikh, D Fick
+Publication: 2017 IEEE Custom Integrated Circuits Conference (CICC), 1-4
+
+350. 21.6 A 12nW always-on acoustic sensing and object recognition microsystem using frequency-domain feature extraction and SVM classification
+Citations:14
+Authors: S Jeong, Y Chen, T Jang, J Tsai, D Blaauw, HS Kim, D Sylvester
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 362-363
+
+351. A fixed-point neural network for keyword detection on resource constrained hardware
+Citations:14
+Authors: M Shah, J Wang, D Blaauw, D Sylvester, HS Kim, C Chakrabarti
+Publication: 2015 IEEE Workshop on Signal Processing Systems (SiPS), 1-6
+
+352. A 5.8 nW, 45ppm/° C on-chip CMOS wake-up timer using a constant charge subtraction scheme
+Citations:14
+Authors: S Jeong, I Lee, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-4
+
+353. SWIFT: A 2.1 Tb/s 32× 32 self-arbitrating manycore interconnect fabric
+Citations:14
+Authors: S Satpathy, R Dreslinski, TC Ou, D Sylvester, T Mudge, D Blaauw
+Publication: 2011 Symposium on VLSI Circuits-Digest of Technical Papers, 138-139
+
+354. Active learning framework for post-silicon variation extraction and test cost reduction
+Citations:14
+Authors: C Zhuo, K Agarwal, D Blaauw, D Sylvester
+Publication: Proceedings of the International Conference on Computer-Aided Design, 508-515
+
+355. Data processor memory circuit
+Citations:14
+Authors: K Flautner, DT Blaauw, TN Mudge, NS Kim, SM Martin
+Publication: US Patent App. 12/382,450
+
+356. Low-voltage circuit design for widespread sensing applications
+Citations:14
+Authors: YS Lin, S Hanson, F Albano, C Tokunaga, RU Haque, K Wise, AM Sastry, ...
+Publication: 2008 IEEE International Symposium on Circuits and Systems, 2558-2561
+
+357. Criticality aware latin hypercube sampling for efficient statistical timing analysis
+Citations:14
+Authors: V Veetil, D Blaauw, D Sylvester
+Publication: ACM/IEEE TAU
+
+358. Methods for analyzing integrated circuits and apparatus therefor
+Citations:14
+Authors: S Sirichotiyakul, DT Blaauw, TJ Edwards, C Oh, RV Panda, JL Adelman, ...
+Publication: US Patent 7,149,674
+
+359. Slack borrowing in flip-flop based sequential circuits
+Citations:14
+Authors: A Jain, D Blaauw
+Publication: Proceedings of the 15th ACM Great Lakes symposium on VLSI, 96-101
+
+360. Recryptor: A reconfigurable cryptographic cortex-M0 processor with in-memory and near-memory computing for IoT security
+Citations:13
+Authors: Y Zhang, L Xu, Q Dong, J Wang, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 53 (4), 995-1005
+
+361. A 20-pW discontinuous switched-capacitor energy harvester for smart sensor applications
+Citations:13
+Authors: X Wu, Y Shi, S Jeloka, K Yang, I Lee, Y Lee, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 52 (4), 972-984
+
+362. A 5.58 nW crystal oscillator using pulsed driver for real-time clocks
+Citations:13
+Authors: D Yoon, T Jang, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 51 (2), 509-522
+
+363. MBus: an ultra-low power interconnect bus for next generation nanopower systems
+Citations:13
+Authors: P Pannuto, Y Lee, YS Kuo, ZY Foo, B Kempke, G Kim, RG Dreslinski, ...
+Publication: 2015 ACM/IEEE 42nd Annual International Symposium on Computer Architecture …
+
+364. Hi-Rise: a high-radix switch for 3D integration with single-cycle arbitration
+Citations:13
+Authors: S Jeloka, R Das, RG Dreslinski, T Mudge, D Blaauw
+Publication: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture, 471-483
+
+365. A 346 µm 2 VCO-Based, Reference-Free, Self-Timed Sensor Interface for Cubic-Millimeter Sensor Nodes in 28 nm CMOS
+Citations:13
+Authors: L Fick, D Fick, M Alioto, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 49 (11), 2462-2473
+
+366. Vix: Virtual input crossbar for efficient switch allocation
+Citations:13
+Authors: S Rao, S Jeloka, R Das, D Blaauw, R Dreslinski, T Mudge
+Publication: Proceedings of the 51st Annual Design Automation Conference, 1-6
+
+367. Early detection of oxide breakdown through in situ degradation sensing
+Citations:13
+Authors: P Singh, Z Foo, M Wieckowski, S Hanson, M Fojtik, D Blaauw, D Sylvester
+Publication: 2010 IEEE International Solid-State Circuits Conference-(ISSCC), 190-191
+
+368. Victim alignment in crosstalk-aware timing analysis
+Citations:13
+Authors: R Gandikota, K Chopra, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+369. Addressing design margins through error-tolerant circuits
+Citations:13
+Authors: S Das, D Blaauw, D Bull, K Flautner, R Aitken
+Publication: 2009 46th ACM/IEEE Design Automation Conference, 11-12
+
+370. Alignment-independent chip-to-chip communication for sensor applications using passive capacitive signaling
+Citations:13
+Authors: YS Lin, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 44 (4), 1156-1166
+
+371. On the decreasing significance of large standard cells in technology mapping
+Citations:13
+Authors: J Seo, IL Markov, D Sylvester, D Blaauw
+Publication: Proceedings of the 2008 IEEE/ACM International Conference on Computer-Aided …
+
+372. Timing-aware decoupling capacitance allocation in power distribution networks
+Citations:13
+Authors: S Pant, D Blaauw
+Publication: Proceedings of the 2007 Asia and South Pacific Design Automation Conference …
+
+373. Runtime leakage minimization through probability-aware dual-Vt or dual-tox assignment
+Citations:13
+Authors: D Lee, D Blaauw, D Sylvester, D Sylvester
+Publication: Proceedings of the 2005 Asia and South Pacific Design Automation Conference …
+
+374. In-transit message detection for global virtual time calculation in parrallel time warp simulation
+Citations:13
+Authors: DT Blaauw, NS Radia, JF Skovira
+Publication: US Patent 5,956,261
+
+375. Method for optimizing element sizes in a semiconductor device
+Citations:13
+Authors: S Pullela, TJ Edwards, J Norton, A Dharchoudhury, D Blaauw
+Publication: US Patent 5,903,471
+
+376. MinSim: Optimized, Compiled VHDL Simulation Using Networked & Parallel Computers
+Citations:13
+Authors: J Willis, R Newshutz, L Thompson, J Graves, T Dillinger, J Snyder, ...
+Publication: Proceedings of Fall, 137-144
+
+377. Always-on 12-nW acoustic sensing and object recognition microsystem for unattended ground sensor nodes
+Citations:12
+Authors: S Jeong, Y Chen, T Jang, JML Tsai, D Blaauw, HS Kim, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 53 (1), 261-274
+
+378. A 0.3 v vddmin 4+ 2t sram for searching and in-memory computing using 55nm ddc technology
+Citations:12
+Authors: Q Dong, S Jeloka, M Saligane, Y Kim, M Kawaminami, A Harada, ...
+Publication: 2017 Symposium on VLSI Circuits, C160-C161
+
+379. 8.4 A 2.5 ps 0.8-to-3.2 GHz bang-bang phase-and frequency-detector-based all-digital PLL with noise self-adjustment
+Citations:12
+Authors: T Jang, S Jeong, D Jeon, KD Choo, D Sylvester, D Blaauw
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 148-149
+
+380. A 120nW 8b sub-ranging SAR ADC with signal-dependent charge recycling for biomedical applications
+Citations:12
+Authors: S Jeong, W Jung, D Jeon, O Berenfeld, H Oral, G Kruger, D Blaauw, ...
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C60-C61
+
+381. Low power battery supervisory circuit with adaptive battery health monitor
+Citations:12
+Authors: I Lee, Y Lee, D Sylvester, D Blaauw
+Publication: 2014 Symposium on VLSI Circuits Digest of Technical Papers, 1-2
+
+382. Error recovery within integrated circuit
+Citations:12
+Authors: K Flautner, TM Austin, DT Blaauw, TN Mudge, D Bull
+Publication: US Patent 8,650,470
+
+383. Post-fabrication measurement-driven oxide breakdown reliability prediction and management
+Citations:12
+Authors: C Zhuo, D Blaauw, D Sylvester
+Publication: Proceedings of the 2009 International Conference on Computer-Aided Design …
+
+384. Self-timed regenerators for high-speed and low-power interconnect
+Citations:12
+Authors: J Seo, P Singh, D Sylvester, D Blaauw
+Publication: 8th International Symposium on Quality Electronic Design (ISQED'07), 621-626
+
+385. Accurate delay computation for noisy waveform shapes
+Citations:12
+Authors: A Jain, D Blaauw, V Zolotov
+Publication: Proceedings of the 2005 IEEE/ACM International conference on Computer-aided …
+
+386. Circuit and system designs of ultra-low power sensor nodes with illustration in a miniaturized GNSS logger for position tracking: Part II—Data communication, energy harvesting …
+Citations:11
+Authors: T Jang, G Kim, B Kempke, MB Henry, N Chiotellis, C Pfeiffer, D Kim, Y Kim, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 64 (9), 2250-2262
+
+387. A low ripple switched-capacitor voltage regulator using flying capacitance dithering
+Citations:11
+Authors: S Bang, J Seo, L Chang, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 51 (4), 919-929
+
+388. 17.3 a reconfigurable dual-port memory with error detection and correction in 28nm fdsoi
+Citations:11
+Authors: M Khayatzadeh, M Saligane, J Wang, M Alioto, D Blaauw, D Sylvester
+Publication: 2016 IEEE International Solid-State Circuits Conference (ISSCC), 310-312
+
+389. Digitally controlled leakage-based oscillator and fast relocking MDLL for ultra low power sensor platform
+Citations:11
+Authors: DW Jee, D Sylvester, D Blaauw, JY Sim
+Publication: IEEE Journal of Solid-State Circuits 50 (5), 1263-1274
+
+390. Limits of parallelism and boosting in dim silicon
+Citations:11
+Authors: N Pinckney, RG Dreslinski, K Sewell, D Fick, T Mudge, D Sylvester, ...
+Publication: IEEE Micro 33 (5), 30-37
+
+391. Crosstalk-aware PWM-based on-chip links with self-calibration in 65 nm CMOS
+Citations:11
+Authors: J Seo, D Blaauw, D Sylvester
+Publication: IEEE Journal of Solid-State Circuits 46 (9), 2041-2052
+
+392. Efficient smart Monte Carlo based SSTA on graphics processing units with improved resource utilization
+Citations:11
+Authors: V Veetil, YH Chang, D Sylvester, D Blaauw
+Publication: Design Automation Conference, 793-798
+
+393. Sensor-driven reliability and wearout management
+Citations:11
+Authors: P Singh, C Zhuo, E Karl, D Blaauw, D Sylvester
+Publication: IEEE Design & Test of Computers 26 (6), 40-49
+
+394. Investigating crosstalk in sub-threshold circuits
+Citations:11
+Authors: M Nanua, D Blaauw
+Publication: 8th International Symposium on Quality Electronic Design (ISQED'07), 639-646
+
+395. A new technique for jointly optimizing gate sizing and supply voltage in ultra-low energy circuits
+Citations:11
+Authors: S Hanson, D Sylvester, D Blaauw
+Publication: Proceedings of the 2006 international symposium on Low power electronics and …
+
+396. Iterative, noise-sensitive method of routing semiconductor nets using a delay noise threshold
+Citations:11
+Authors: P Mukherjee, A Dasgupta, DT Blaauw, DR Bearden
+Publication: US Patent 6,480,998
+
+397. Estimation of signal arrival times in the presence of delay noise
+Citations:11
+Authors: S Bhardwaj, SBK Vrudhula, D Blaauw
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+398. Migration: A new technique to improve synthesized designs through incremental customization
+Citations:11
+Authors: R Panda, A Dharchoudhury, T Edwards, J Norton, D Blaauw
+Publication: Proceedings 1998 Design and Automation Conference. 35th DAC.(Cat. No …
+
+399. Fast power loss calculation for digital static CMOS circuits
+Citations:11
+Authors: S Gavrilov, A Glebov, S Rusakov, D Blaauw, L Jones, G Vijayan
+Publication: Proceedings of the 1997 European conference on Design and Test, 411
+
+400. Derivation of signal flow for switch-Level simulation
+Citations:11
+Authors: DT Blaauw, DG Saab, J Long, J Abraham
+Publication: Proceedings of the conference on European design automation, 301-305
+
+401. A 4 + 2T SRAM for Searching and In-Memory Computing With 0.3-V
+Citations:10
+Authors: Q Dong, S Jeloka, M Saligane, Y Kim, M Kawaminami, A Harada, ...
+Publication: IEEE Journal of Solid-State Circuits 53 (4), 1006-1015
+
+402. Storage device supporting logical operations, methods and storage medium
+Citations:10
+Authors: S Jeloka, DT Blaauw
+Publication: US Patent 9,396,795
+
+403. Wide input range 1.7 μW 1.2 kS/s resistive sensor interface circuit with 1 cycle/sample logarithmic sub-ranging
+Citations:10
+Authors: M Choi, J Gu, D Blaauw, D Sylvester
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C330-C331
+
+404. A configurable TCAM/BCAM/SRAM using 28nm push-rule 6T bit cell
+Citations:10
+Authors: S Jeloka, N Akesh, D Sylvester, D Blaauw
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C272-C273
+
+405. A 10.6mm3fully-integrated, wireless sensor node with 8GHz UWB transmitter
+Citations:10
+Authors: H Kim, G Kim, Y Lee, Z Foo, D Sylvester, D Blaauw, D Wentzloff
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C202-C203
+
+406. Energy-efficient dot product computation using a switched analog circuit architecture
+Citations:10
+Authors: I Nahlus, EP Kim, NR Shanbhag, D Blaauw
+Publication: Proceedings of the 2014 international symposium on Low power electronics and …
+
+407. High radix self-arbitrating switch fabric with multiple arbitration schemes and quality of service
+Citations:10
+Authors: S Satpathy, R Das, R Dreslinski, T Mudge, D Sylvester, D Blaauw
+Publication: Proceedings of the 49th Annual Design Automation Conference, 406-411
+
+408. Low power interconnects for SIMD computers
+Citations:10
+Authors: M Woh, S Satpathy, RG Dreslinski, D Kershaw, D Sylvester, D Blaauw, ...
+Publication: 2011 Design, Automation & Test in Europe, 1-6
+
+409. Design time body bias selection for parametric yield improvement
+Citations:10
+Authors: C Zhuo, YH Chang, D Sylvester, D Blaauw
+Publication: Proceedings of the 2010 Asia and South Pacific Design Automation Conference …
+
+410. Near-field communication using phase-locking and pulse signaling for millimeter-scale systems
+Citations:10
+Authors: YS Lin, D Sylvester, D Blaauw
+Publication: 2009 IEEE Custom Integrated Circuits Conference, 563-566
+
+411. Adaptive design for nanometer technology
+Citations:10
+Authors: S Das, D Blaauw
+Publication: 2009 IEEE International Symposium on Circuits and Systems, 77-80
+
+412. Self-timed regenerators for high-speed and low-power on-chip global interconnect
+Citations:10
+Authors: P Singh, J Seo, D Blaauw, D Sylvester
+Publication: IEEE transactions on very large scale integration (VLSI) systems 16 (6), 673-677
+
+413. Transistor-specific delay modeling for SSTA
+Citations:10
+Authors: B Cline, K Chopra, D Blaauw, A Torres, S Sundareswaran
+Publication: Proceedings of the conference on Design, automation and test in Europe, 592-597
+
+414. Correlation analysis of CD-variation and circuit performance under multiple sources of variability
+Citations:10
+Authors: A Borna, C Progler, D Blaauw
+Publication: Design and Process Integration for Microelectronic Manufacturing III 5756 …
+
+415. Circuit-aware architectural simulation
+Citations:10
+Authors: S Lee, S Das, V Bertacco, T Austin, D Blaauw, T Mudge
+Publication: Proceedings of the 41st annual Design Automation Conference, 305-310
+
+416. Clock net optimization using active shielding
+Citations:10
+Authors: H Kaul, D Sylvester, D Blaauw
+Publication: ESSCIRC 2004-29th European Solid-State Circuits Conference (IEEE Cat. No …
+
+417. An implementation of a 32-bit ARM processor using dual power supplies and dual threshold voltages
+Citations:10
+Authors: R Bai, S Kulkarni, W Kwong, A Srivastava, D Sylvester, D Blaauw
+Publication: IEEE Computer Society Annual Symposium on VLSI, 2003. Proceedings., 149-154
+
+418. A 2.5nJ duty-cycled bridge-to-digital converter integrated in a 13mm3pressure-sensing system
+Citations:9
+Authors: S Oh, Y Shi, G Kim, Y Kim, T Kang, S Jeong, D Sylvester, D Blaauw
+Publication: 2018 IEEE International Solid-State Circuits Conference-(ISSCC), 328-330
+
+419. Circuit and system designs of ultra-low power sensor nodes with illustration in a miniaturized GNSS logger for position tracking: Part I—Analog circuit techniques
+Citations:9
+Authors: T Jang, G Kim, B Kempke, MB Henry, N Chiotellis, C Pfeiffer, D Kim, Y Kim, ...
+Publication: IEEE Transactions on Circuits and Systems I: Regular Papers 64 (9), 2237-2249
+
+420. 11.2 A 1Mb embedded NOR flash memory with 39µW program power for mm-scale high-temperature sensor nodes
+Citations:9
+Authors: Q Dong, Y Kim, I Lee, M Choi, Z Li, J Wang, K Yang, YP Chen, J Dong, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 198-199
+
+421. A reconfigurable sense amplifier with 3X offset reduction in 28nm FDSOI CMOS
+Citations:9
+Authors: M Khayatzadeh, F Frustaci, D Blaauw, D Sylvester, M Alioto
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C270-C271
+
+422. Crossbar circuitry for applying an adaptive priority scheme and method of operation of such crossbar circuitry
+Citations:9
+Authors: SK Satpathy, DT Blaauw, TN Mudge, DM Sylvester
+Publication: US Patent 8,549,207
+
+423. A 0.45 V 423nW 3.2 MHz multiplying DLL with leakage-based oscillator for ultra-low-power sensor platforms
+Citations:9
+Authors: DW Jee, D Sylvester, D Blaauw, JY Sim
+Publication: 2013 IEEE International Solid-State Circuits Conference Digest of Technical …
+
+424. Report for the NSF workshop on cross-layer power optimization and management
+Citations:9
+Authors: M Pedram, D Brooks, T Pinkston
+Publication: NSF Workshop on Cross-Layer Power Optimization and Management
+
+425. A dense 45nm half-differential SRAM with lower minimum operating voltage
+Citations:9
+Authors: G Chen, M Wieckowski, D Kim, D Blaauw, D Sylvester
+Publication: 2011 IEEE International Symposium of Circuits and Systems (ISCAS), 57-60
+
+426. A 128kb high density portless SRAM using hierarchical bitlines and thyristor sense amplifiers
+Citations:9
+Authors: M Wieckowski, GK Chen, D Kim, D Blaauw, D Sylvester
+Publication: 2011 12th International Symposium on Quality Electronic Design, 1-4
+
+427. Closed-form modeling of layout-dependent mechanical stress
+Citations:9
+Authors: V Joshi, V Sukharev, A Torres, K Agarwal, D Sylvester, D Blaauw
+Publication: Proceedings of the 47th Design Automation Conference, 673-678
+
+428. Mechanical stress aware optimization for leakage power reduction
+Citations:9
+Authors: V Joshi, B Cline, D Sylvester, D Blaauw, K Agarwal
+Publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and …
+
+429. Circuit optimization techniques to mitigate the effects of soft errors in combinational logic
+Citations:9
+Authors: RR Rao, V Joshi, D Blaauw, D Sylvester
+Publication: ACM Transactions on Design Automation of Electronic Systems (TODAES) 15 (1), 5
+
+430. A charge-injection-based active-decoupling technique for inductive-supply-noise suppression
+Citations:9
+Authors: S Pant, D Blaauw
+Publication: 2008 IEEE International Solid-State Circuits Conference-Digest of Technical …
+
+431. Optimizing combinational circuit layout through iterative restructuring
+Citations:9
+Authors: S Pullela, SC Moore, D Blaauw, R Panda, G Vijayan
+Publication: US Patent 6,074,429
+
+432. Genax: a genome sequencing accelerator
+Citations:8
+Authors: D Fujiki, A Subramaniyan, T Zhang, Y Zeng, R Das, D Blaauw, ...
+Publication: Proceedings of the 45th Annual International Symposium on Computer …
+
+433. Physically unclonable function design
+Citations:8
+Authors: K Yang, DT Blaauw, DMC Sylvester
+Publication: US Patent 9,966,954
+
+434. 3.7 A 1920× 1080 30fps 2.3 TOPS/W stereo-depth processor for robust autonomous navigation
+Citations:8
+Authors: Z Li, Q Dong, M Saligane, B Kempke, S Yang, Z Zhang, R Dreslinski, ...
+Publication: 2017 IEEE International Solid-State Circuits Conference (ISSCC), 62-63
+
+435. Low complexity optical flow using neighbor-guided semi-global matching
+Citations:8
+Authors: J Xiang, Z Li, D Blaauw, HS Kim, C Chakrabarti
+Publication: 2016 IEEE International Conference on Image Processing (ICIP), 4483-4487
+
+436. Battery voltage supervisors for miniature IoT systems
+Citations:8
+Authors: I Lee, Y Lee, D Sylvester, D Blaauw
+Publication: IEEE Journal of Solid-State Circuits 51 (11), 2743-2756
+
+437. A 380pW dual mode optical wake-up receiver with ambient noise cancellation
+Citations:8
+Authors: W Lim, T Jang, I Lee, HS Kim, D Sylvester, D Blaauw
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+438. An oscillator collapse-based comparator with application in a 74.1 dB SNDR, 20KS/s 15b SAR ADC
+Citations:8
+Authors: M Shim, S Jeong, P Myers, S Bang, C Kim, D Sylvester, D Blaauw, ...
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+439. Design and evaluation of confidence-driven error-resilient systems
+Citations:8
+Authors: CH Chen, D Blaauw, D Sylvester, Z Zhang
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 22 (8 …
+
+440. A ripple voltage sensing MPPT circuit for ultra-low power microsystems
+Citations:8
+Authors: I Lee, S Bang, D Yoon, M Choi, S Jeong, D Sylvester, D Blaauw
+Publication: 2013 Symposium on VLSI Circuits, C228-C229
+
+441. Reconfigurable sleep transistor for GIDL reduction in ultra-low standby power systems
+Citations:8
+Authors: S Bang, D Blaauw, D Sylvester, M Alioto
+Publication: Proceedings of the IEEE 2012 Custom Integrated Circuits Conference, 1-4
+
+442. Reevaluating fast dual-voltage power rail switching circuitry
+Citations:8
+Authors: RG Dreslinski, B Giridhar, N Pinckney, D Blaauw, D Sylvester, T Mudge
+Publication: 10th Ann. Workshop Duplicating, Deconstructing, and Debunking
+
+443. Extending energy-saving voltage scaling in ultra low voltage integrated circuit designs
+Citations:8
+Authors: M Seok, D Jeon, C Chakrabati, D Blaauw, D Sylvester
+Publication: 2012 IEEE International Conference on IC Design & Technology, 1-4
+
+444. A confidence-driven model for error-resilient computing
+Citations:8
+Authors: CH Chen, Y Kim, Z Zhang, D Blaauw, D Sylvester, H Naeimi, S Sandhu
+Publication: 2011 Design, Automation & Test in Europe, 1-6
+
+445. On-chip power supply voltage regulation
+Citations:8
+Authors: S Pant, DT Blaauw
+Publication: US Patent 7,839,129
+
+446. When Homogeneous becomes Heterogeneous--Wearout Aware Task Scheduling for Streaming Applications
+Citations:8
+Authors: D Roberts, RG Dreslinski, E Karl, T Mudge, D Sylvester, D Blaauw
+Publication: 
+
+447. When homogeneous becomes heterogeneous
+Citations:8
+Authors: D Roberts, RG Dreslinski, E Karl, T Mudge, D Sylvester, D Blaauw
+Publication: Third workshop on Operating Systems for Heterogeneous Multiprocessor …
+
+448. Current source driver model synthesis and worst-case alignment for accurate timing and noise analysis
+Citations:8
+Authors: K Chopra, C Kashyap, H Su, D Blaauw
+Publication: ACM/IEEE International Workshop on Timing Issues in the Specification and …
+
+449. On-chip inductance modeling
+Citations:8
+Authors: D Blaauw, K Gala, V Zolotov, R Panda, J Wang
+Publication: Proceedings of the 10th Great Lakes symposium on VLSI, 75-80
+
+450. Floating-gate transistor array for performing weighted sum computation
+Citations:7
+Authors: L Fick, DT Blaauw, D Sylvester, MB Henry, DA Fick
+Publication: US Patent 9,760,533
+
+451. A programmable Galois Field processor for the Internet of Things
+Citations:7
+Authors: Y Chen, S Lu, C Fu, D Blaauw, R Dreslinski Jr, T Mudge, HS Kim
+Publication: ACM SIGARCH Computer Architecture News 45 (2), 55-68
+
+452. A 6×5×4mm3general purpose audio sensor node with a 4.7μW audio processing IC
+Citations:7
+Authors: M Cho, S Oh, S Jeong, Y Zhang, I Lee, Y Kim, LX Chuo, D Kim, Q Dong, ...
+Publication: 2017 Symposium on VLSI Circuits, C312-C313
+
+453. Low-power and compact analog-to-digital converter using spintronic racetrack memory devices
+Citations:7
+Authors: Q Dong, K Yang, L Fick, D Fick, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 25 (3), 907-918
+
+454. Small-area Si photovoltaics for low-flux infrared energy harvesting
+Citations:7
+Authors: E Moon, D Blaauw, JD Phillips
+Publication: IEEE Transactions on Electron Devices 64 (1), 15-20
+
+455. Using low cost erasure and error correction schemes to improve reliability of commodity DRAM systems
+Citations:7
+Authors: HM Chen, S Jeloka, A Arunkumar, D Blaauw, CJ Wu, T Mudge, ...
+Publication: IEEE Transactions on Computers 65 (12), 3766-3779
+
+456. FOCUS: Key building blocks and integration strategy of a miniaturized wireless sensor node
+Citations:7
+Authors: T Jang, S Jeong, M Choi, W Jung, G Kim, YP Chen, Y Kim, W Lim, ...
+Publication: ESSCIRC Conference 2015-41st European Solid-State Circuits Conference …
+
+457. A fully-integrated 40-phase flying-capacitance-dithered switched-capacitor voltage regulator with 6mV output ripple
+Citations:7
+Authors: S Bang, J Seo, I Lee, S Jeong, N Pinckney, D Blaauw, D Sylvester, ...
+Publication: 2015 Symposium on VLSI Circuits (VLSI Circuits), C336-C337
+
+458. Circuit techniques for miniaturized biomedical sensors
+Citations:7
+Authors: I Lee, Y Kim, S Bang, G Kim, H Ha, YP Chen, D Jeon, S Jeong, W Jung, ...
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-7
+
+459. Centip3De: a many-core prototype exploring 3D integration and near-threshold computing
+Citations:7
+Authors: RG Dreslinski, D Fick, B Giridhar, G Kim, S Seo, M Fojtik, S Satpathy, ...
+Publication: Communications of the ACM 56 (11), 97-104
+
+460. Energy-optimized high performance FFT processor
+Citations:7
+Authors: D Jeon, M Seok, C Chakrabarti, D Blaauw, D Sylvester
+Publication: 2011 IEEE International Conference on Acoustics, Speech and Signal …
+
+461. Integrated circuit with error correction mechanisms to offset narrow tolerancing
+Citations:7
+Authors: K Flautner, DM Bull, TM Austin, DT Blaauw, TN Mudge
+Publication: US Patent 7,701,240
+
+462. Power optimization using multiple supply voltages
+Citations:7
+Authors: S Kulkarni, A Srivastava, D Sylvester, D Blaauw
+Publication: Closing the Power Gap Between ASIC & Custom, 189-217
+
+463. Leakage power: trends, analysis and avoidance
+Citations:7
+Authors: D Blaauw, A Devgan, F Najm
+Publication: Proceedings of the ASP-DAC 2005. Asia and South Pacific Design Automation …
+
+464. Efficient crosstalk noise modeling using aggressor and tree reductions
+Citations:7
+Authors: L Ding, D Blaauw, P Mazumder
+Publication: Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …
+
+465. A global driver sizing tool for functional crosstalk noise avoidance
+Citations:7
+Authors: MR Becer, D Blaauw, S Sirichotiyakul, R Levy, C Oh, V Zolotov, J Zuo, ...
+Publication: Proceedings of the IEEE 2001. 2nd International Symposium on Quality …
+
+466. Waveform manipulation in time warp simulation
+Citations:7
+Authors: DT Blaauw, NS Radia, JF Skovira
+Publication: US Patent 6,195,628
+
+467. A cache-based method for accelerating switch-level simulation
+Citations:7
+Authors: LG Jones, DT Blaauw
+Publication: IEEE transactions on computer-aided design of integrated circuits and …
+
+468. A 1-Mb 28-nm 1T1MTJ STT-MRAM With Single-Cap Offset-Cancelled Sense Amplifier and In Situ Self-Write-Termination
+Citations:6
+Authors: Q Dong, Z Wang, J Lim, Y Zhang, ME Sinangil, YC Shih, YD Chih, ...
+Publication: IEEE Journal of Solid-State Circuits 54 (1), 231-239
+
+469. A 0.04MM316NW Wireless and Batteryless Sensor System with Integrated Cortex-M0+ Processor and Optical Communication for Cellular Temperature Measurement
+Citations:6
+Authors: X Wu, I Lee, Q Dong, K Yang, D Kim, J Wang, Y Peng, Y Zhang, ...
+Publication: 2018 IEEE Symposium on VLSI Circuits, 191-192
+
+470. A 1.02 nW PMOS-only, trim-free current reference with 282ppm/° C from− 40° C to 120° C and 1.6% within-wafer inaccuracy
+Citations:6
+Authors: Q Dong, I Lee, K Yang, D Blaauw, D Sylvester
+Publication: ESSCIRC 2017-43rd IEEE European Solid State Circuits Conference, 19-22
+
+471. Impact of FinFET on near-threshold voltage scalability
+Citations:6
+Authors: N Pinckney, S Jeloka, R Dreslinski, T Mudge, D Sylvester, D Blaauw, ...
+Publication: IEEE Design & Test 34 (2), 31-38
+
+472. Achieving ultralow standby power with an efficient SCCMOS bias generator
+Citations:6
+Authors: Y Lee, M Seok, S Hanson, D Sylvester, D Blaauw
+Publication: IEEE Transactions on Circuits and Systems II: Express Briefs 60 (12), 842-846
+
+473. Memory cell structure, a memory device employing such a memory cell structure, and an integrated circuit having such a memory device
+Citations:6
+Authors: Y Lee, MJ Wieckowski, DT Blaauw, DMC Sylvester
+Publication: US Patent 8,107,290
+
+474. Synchronization of ultra-low power wireless sensor nodes
+Citations:6
+Authors: Y Lee, D Sylvester, D Blaauw
+Publication: 2011 IEEE 54th International Midwest Symposium on Circuits and Systems …
+
+475. Isolation circuitry and method for hiding a power consumption characteristic of an associated processing circuit
+Citations:6
+Authors: CA Tokunaga, DT Blaauw
+Publication: US Patent 7,880,339
+
+476. Worst-case aggressor-victim alignment with current-source driver models
+Citations:6
+Authors: R Gandikota, L Ding, P Tehrani, D Blaauw
+Publication: 2009 46th ACM/IEEE Design Automation Conference, 13-18
+
+477. STEEL: A technique for stress-enhanced standard cell library design
+Citations:6
+Authors: BT Cline, V Joshi, D Sylvester, D Blaauw
+Publication: 2008 IEEE/ACM International Conference on Computer-Aided Design, 691-697
+
+478. Runtime leakage minimization through probability-aware optimization
+Citations:6
+Authors: D Lee, D Blaauw, D Sylvester
+Publication: IEEE Transactions on Very Large Scale Integration (VLSI) Systems 14 (10 …
+
+479. Voltaire: Low-cost fault detection solutions for vliw microprocessors
+Citations:6
+Authors: S Shyam, S Phadke, B Lui, H Gupta, V Bertacco, D Blaauw
+Publication: Ann Arbor 1001, 48109-2122
+
+480. Extended dynamic voltage scaling for low power design
+Citations:6
+Authors: B Zhai, D Blaauw, D Sylvester, K Flautner
+Publication: IEEE International SOC Conference, 2004. Proceedings., 389-394
+
+481. Modeling flip flop delay dependencies in timing analysis
+Citations:6
+Authors: AM Jain, D Blaauw
+Publication: ACM/IEEE Timing Issues (TAU) Workshop, Austin, TX
+
+482. Static electromigration analysis for signal interconnects
+Citations:6
+Authors: C Oh, D Blaauw, M Becer, V Zolotov, R Panda, A Dasgupta
+Publication: Fourth International Symposium on Quality Electronic Design, 2003 …
+
+483. Statistical timing analysis for intra-die process variations
+Citations:6
+Authors: A Agawal, D Blauw, V Zolotov
+Publication: International Conference on Computer Aided Design (ICCAD)
+
+484. & Narayanan, V.(2003). Leakage current: Moore's law meets static power
+Citations:6
+Authors: A Kim, T Austin, D Baauw, T Mudge, K Flautner, JS Hu
+Publication: Computer 36 (12), 68-75
+
+485. Harmonium: Ultra wideband pulse generation with bandstitched recovery for fast, accurate, and robust indoor localization
+Citations:5
+Authors: P Pannuto, B Kempke, LX Chuo, D Blaauw, P Dutta
+Publication: ACM Transactions on Sensor Networks (TOSN) 14 (2), 11
+
+486. Rf-echo: A non-line-of-sight indoor localization system using a low-power active rf reflector asic tag
+Citations:5
+Authors: LX Chuo, Z Luo, D Sylvester, D Blaauw, HS Kim
+Publication: Proceedings of the 23rd Annual International Conference on Mobile Computing …
+
+487. Autonomous microsystems for downhole applications: design challenges, current state, and initial test results
+Citations:5
+Authors: M Choi, Y Sui, I Lee, R Meredith, Y Ma, G Kim, D Blaauw, Y Gianchandani, ...
+Publication: Sensors 17 (10), 2190
+
+488. A 260µW infrared gesture recognition system-on-chip for smart devices
+Citations:5
+Authors: S Oh, N Le Ba, S Bang, J Jeong, D Blaauw, TT Kim, D Sylvester
+Publication: 2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits), 1-2
+
+489. Millimeter-scale computing platform for next generation of Internet of Things
+Citations:5
+Authors: T Jang, M Choi, Y Shi, I Lee, D Sylvester, D Blaauw
+Publication: 2016 IEEE International Conference on RFID (RFID), 1-4
+
+490. Low power reference current generator with tunable temperature sensitivity
+Citations:5
+Authors: S Hanson, D Sylvester, D Blaauw
+Publication: US Patent 9,147,443
+
+491. All-digital SoC thermal sensor using on-chip high order temperature curvature correction
+Citations:5
+Authors: M Saligane, M Khayatzadeh, Y Zhang, S Jeong, D Blaauw, D Sylvester
+Publication: 2015 IEEE Custom Integrated Circuits Conference (CICC), 1-4
+
+492. Crossbar circuitry for applying an adaptive priority scheme and method of operation of such crossbar circuitry
+Citations:5
+Authors: SK Satpathy, DT Blaauw, DM Sylvester, TN Mudge
+Publication: US Patent 8,868,817
+
+493. A 1.6nJ/bit, 19.9μA peak current fully integrated 2.5mm2inductive transceiver for volume-constrained microsystems
+Citations:5
+Authors: MH Ghaed, S Skrzyniarz, D Blaauw, D Sylvester
+Publication: Proceedings of the IEEE 2014 Custom Integrated Circuits Conference, 1-4
+
+494. M3: a mm-scale wireless energy harvesting sensor platform
+Citations:5
+Authors: P Pannuto, Y Lee, Z Foo, D Blaauw, P Dutta
+Publication: Proceedings of the 1st International Workshop on Energy Neutral Sensing …
+
+495. Variability analysis of a digitally trimmable ultra-low power voltage reference
+Citations:5
+Authors: M Seok, G Kim, D Blaauw, D Sylvester
+Publication: 2010 Proceedings of ESSCIRC, 110-113
+
+496. Crosshairs SRAM—An adaptive memory for mitigating parametric failures
+Citations:5
+Authors: G Chen, M Wieckowski, D Blaauw, D Sylvester
+Publication: 2010 Proceedings of ESSCIRC, 366-369
+
+497. Circuit design advances to enable ubiquitous sensing environments
+Citations:5
+Authors: M Seok, S Hanson, M Wieckowski, GK Chen, YS Lin, D Blaauw, ...
+Publication: Proceedings of 2010 IEEE International Symposium on Circuits and Systems …
+
+498. Analyzing electrical effects of RTA-driven local anneal temperature variation
+Citations:5
+Authors: V Joshi, K Agarwal, D Sylvester, D Blaauw
+Publication: 2010 15th Asia and South Pacific Design Automation Conference (ASP-DAC), 739-744
+
+499. Sensor data retrieval using alignment independent capacitive signaling
+Citations:5
+Authors: YS Lin, D Sylvester, D Blaauw
+Publication: 2008 IEEE Symposium on VLSI Circuits, 66-67
+
+500. Memory system having fast and slow data reading mechanisms
+Citations:5
+Authors: TM Austin, DT Blaauw, TN Mudge, DM Sylvester, K Flautner
+Publication: US Patent 7,072,229
+

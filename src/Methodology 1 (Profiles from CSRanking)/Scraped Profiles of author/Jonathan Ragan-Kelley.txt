@@ -1,0 +1,178 @@
+https://scholar.google.com/citations?hl=en&user=nBcay4oAAAAJ
+Total Citations = 1830
+
+1. Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
+Citations:540
+Authors: J Ragan-Kelley, C Barnes, A Adams, S Paris, F Durand, S Amarasinghe
+Publication: Acm Sigplan Notices 48 (6), 519-530
+
+2. Opentuner: An extensible framework for program autotuning
+Citations:262
+Authors: J Ansel, S Kamil, K Veeramachaneni, J Ragan-Kelley, J Bosboom, ...
+Publication: Proceedings of the 23rd international conference on Parallel architectures …
+
+3. Decoupling algorithms from schedules for easy optimization of image processing pipelines
+Citations:182
+Authors: J Ragan-Kelley, A Adams, S Paris, M Levoy, S Amarasinghe, F Durand
+Publication: Association for Computing Machinery (ACM)
+
+4. OpenFab: a programmable pipeline for multi-material fabrication
+Citations:140
+Authors: K Vidimče, SP Wang, J Ragan-Kelley, W Matusik
+Publication: ACM Transactions on Graphics (TOG) 32 (4), 136
+
+5. Darkroom: compiling high-level image processing code into hardware pipelines.
+Citations:96
+Authors: J Hegarty, J Brunhaver, Z DeVito, J Ragan-Kelley, N Cohen, S Bell, ...
+Publication: ACM Trans. Graph. 33 (4), 144:1-144:11
+
+6. Decoupled sampling for graphics pipelines
+Citations:93
+Authors: J Ragan-Kelley, J Lehtinen, J Chen, M Doggett, F Durand
+Publication: ACM Transactions on Graphics (TOG) 30 (3), 17
+
+7. Portable performance on heterogeneous architectures
+Citations:86
+Authors: PM Phothilimthana, J Ansel, J Ragan-Kelley, S Amarasinghe
+Publication: ACM SIGPLAN Notices 48 (4), 431-444
+
+8. Automatically Scheduling Halide Image Processing Pipelines
+Citations:61
+Authors: RT Mullapudi, A Adams, D Sharlet, J Ragan-Kelley, K Fatahalian
+Publication: ACM Transactions on Graphics (TOG) 35 (4)
+
+9. The lightspeed automatic interactive lighting preview system
+Citations:52
+Authors: J Ragan-Kelley, C Kilpatrick, BW Smith, D Epps, P Green, C Hery, ...
+Publication: ACM Transactions on Graphics (TOG) 26 (3), 25
+
+10. A hierarchical volumetric shadow algorithm for single scattering
+Citations:38
+Authors: I Baran, J Chen, J Ragan-Kelley, F Durand, J Lehtinen
+Publication: ACM Transactions on Graphics (TOG) 29 (6), 178
+
+11. Programming heterogeneous systems from an image processing DSL
+Citations:35
+Authors: J Pu, S Bell, X Yang, J Setter, S Richardson, J Ragan-Kelley, M Horowitz
+Publication: ACM Transactions on Architecture and Code Optimization (TACO) 14 (3), 26
+
+12. Proximal: Efficient image optimization using proximal algorithms
+Citations:33
+Authors: F Heide, S Diamond, M Nießner, J Ragan-Kelley, W Heidrich, G Wetzstein
+Publication: ACM Transactions on Graphics (TOG) 35 (4), 84
+
+13. Simit: A language for physical simulation
+Citations:31
+Authors: F Kjolstad, S Kamil, J Ragan-Kelley, DIW Levin, S Sueda, D Chen, ...
+Publication: ACM Transactions on Graphics (TOG) 35 (2), 20
+
+14. Rigel: Flexible multi-rate image processing hardware
+Citations:29
+Authors: J Hegarty, R Daly, Z DeVito, J Ragan-Kelley, M Horowitz, P Hanrahan
+Publication: ACM Transactions on Graphics (TOG) 35 (4), 85
+
+15. A systematic approach to blocking convolutional neural networks
+Citations:25
+Authors: X Yang, J Pu, BB Rister, N Bhagdikar, S Richardson, S Kvatinsky, ...
+Publication: arXiv preprint arXiv:1606.04209
+
+16. Opt: A domain specific language for non-linear least squares optimization in graphics and imaging
+Citations:24
+Authors: Z DeVito, M Mara, M Zollhöfer, G Bernstein, J Ragan-Kelley, C Theobalt, ...
+Publication: ACM Transactions on Graphics (TOG) 36 (5), 171
+
+17. Differentiable programming for image processing and deep learning in Halide
+Citations:19
+Authors: TM Li, M Gharbi, A Adams, F Durand, J Ragan-Kelley
+Publication: ACM Transactions on Graphics (TOG) 37 (4), 139
+
+18. Decoupling algorithms from the organization of computation for high performance image processing
+Citations:19
+Authors: JM Ragan-Kelley
+Publication: Massachusetts Institute of Technology
+
+19. Halide: decoupling algorithms from schedules for high-performance image processing
+Citations:14
+Authors: J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...
+Publication: Communications of the ACM 61 (1), 106-115
+
+20. Practical interactive lighting design for RenderMan scenes
+Citations:13
+Authors: JM Ragan-Kelley
+Publication: Undergraduate thesis, Stanford University
+
+21. Helium: lifting high-performance stencil kernels from stripped x86 binaries to halide DSL code
+Citations:12
+Authors: C Mendis, J Bosboom, K Wu, S Kamil, J Ragan-Kelley, S Paris, Q Zhao, ...
+Publication: ACM SIGPLAN Notices 50 (6), 391-402
+
+22. Transform recipes for efficient cloud photo enhancement
+Citations:10
+Authors: M Gharbi, YC Shih, G Chaurasia, J Ragan-Kelley, S Paris, F Durand
+Publication: ACM Transactions on Graphics (TOG) 34 (6), 228
+
+23. Compiling high performance recursive filters
+Citations:9
+Authors: G Chaurasia, J Ragan-Kelley, S Paris, G Drettakis, F Durand
+Publication: Proceedings of the 7th Conference on High-Performance Graphics, 85-94
+
+24. numpywren: serverless linear algebra
+Citations:5
+Authors: V Shankar, K Krauth, Q Pu, E Jonas, S Venkataraman, I Stoica, B Recht, ...
+Publication: arXiv preprint arXiv:1810.09679
+
+25. An introduction to halide
+Citations:2
+Authors: J Ragan-Kelley, A Adams, D Sharlet
+Publication: ACM SIGGRAPH 2015 Courses, 3
+
+26. OpenFab: a programmable pipeline for multimaterial fabrication
+Citations:
+Authors: K Vidimče, SP Wang, J Ragan-Kelley, W Matusik
+Publication: Communications of the ACM 62 (9), 97-105
+
+27. Learning to optimize halide with tree search and random programs
+Citations:
+Authors: A Adams, K Ma, L Anderson, R Baghdadi, TM Li, M Gharbi, B Steiner, ...
+Publication: ACM Transactions on Graphics (TOG) 38 (4), 121
+
+28. Signature redacted
+Citations:
+Authors: J Ragan-Kelley
+Publication: Signature
+
+29. Implementing the Graphics Pipeline on a Heterogeneous Multicore
+Citations:
+Authors: J Chen, J Ragan-Kelley
+Publication: 
+
+30. A Hardware Accelerated Relighting Engine for RenderMan
+Citations:
+Authors: U Kapasi, J Ragan-Kelley
+Publication: 
+
+31. Automatically Scheduling Halide Image Processing Pipelines
+Citations:
+Authors: A Adams, D Sharlet, J Ragan-Kelley
+Publication: 
+
+32. Reduced Precision for Hardware Ray Tracing in GPUs
+Citations:
+Authors: J Ragan-Kelley, I Wald
+Publication: 
+
+33. High-Performance Rendering of Realistic Cumulus Clouds Using Pre-computed Lighting
+Citations:
+Authors: J Ragan-Kelley, I Wald
+Publication: 
+
+34. Fast ANN for High-Quality Collaborative Filtering
+Citations:
+Authors: J Ragan-Kelley, I Wald
+Publication: 
+
+35. Darkroom
+Citations:
+Authors: J Hegarty, J Brunhaver, Z DeVito, J Ragan-Kelley, N Cohen, S Bell, ...
+Publication: 
+

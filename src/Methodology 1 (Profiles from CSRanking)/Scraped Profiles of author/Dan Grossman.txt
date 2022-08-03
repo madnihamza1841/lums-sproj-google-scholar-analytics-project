@@ -1,0 +1,1018 @@
+https://scholar.google.com/citations?hl=en&user=t9wtobkAAAAJ
+Total Citations = 6812
+
+1. Cyclone: A Safe Dialect of C.
+Citations:863
+Authors: T Jim, JG Morrisett, D Grossman, MW Hicks, J Cheney, Y Wang
+Publication: USENIX Annual Technical Conference, General Track, 275-288
+
+2. EnerJ: Approximate data types for safe and general low-power computation
+Citations:656
+Authors: A Sampson, W Dietl, E Fortuna, D Gnanapragasam, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 46 (6), 164-174
+
+3. Hell's angels
+Citations:523
+Authors: HS Thompson
+Publication: Heyne Verlag
+
+4. Region-based memory management in Cyclone
+Citations:442
+Authors: D Grossman, G Morrisett, T Jim, M Hicks, Y Wang, J Cheney
+Publication: ACM Sigplan Notices 37 (5), 282-293
+
+5. CoreDet: a compiler and runtime system for deterministic multithreaded execution
+Citations:319
+Authors: T Bergan, O Anderson, J Devietti, L Ceze, D Grossman
+Publication: ACM SIGARCH Computer Architecture News 38 (1), 53-64
+
+6. TALx86: A realistic typed assembly language
+Citations:286
+Authors: K Crary, N Glew, D Grossman, R Samuels, F Smith, D Walker, S Weirich, ...
+Publication: 1999 ACM SIGPLAN Workshop on Compiler Support for System Software Atlanta …
+
+7. Enforcing isolation and ordering in STM
+Citations:214
+Authors: T Shpeisman, V Menon, AR Adl-Tabatabai, S Balensiefer, D Grossman, ...
+Publication: ACM SIGPLAN Notices 42 (6), 78-88
+
+8. ParaTimer: a progress indicator for MapReduce DAGs
+Citations:195
+Authors: K Morton, M Balazinska, D Grossman
+Publication: Proceedings of the 2010 ACM SIGMOD International Conference on Management of …
+
+9. Type-safe multithreading in Cyclone
+Citations:184
+Authors: D Grossman
+Publication: ACM Sigplan Notices 38 (3), 13-25
+
+10. Estimating the progress of MapReduce pipelines
+Citations:156
+Authors: K Morton, A Friesen, M Balazinska, D Grossman
+Publication: 2010 IEEE 26th International Conference on Data Engineering (ICDE 2010), 681-684
+
+11. Automatic inference of structural changes for matching across program versions
+Citations:147
+Authors: M Kim, D Notkin, D Grossman
+Publication: 29th International Conference on Software Engineering (ICSE'07), 333-343
+
+12. High-level small-step operational semantics for transactions
+Citations:137
+Authors: KF Moore, D Grossman
+Publication: ACM SIGPLAN Notices 43 (1), 51-62
+
+13. AtomCaml: first-class atomicity via rollback
+Citations:126
+Authors: MF Ringenburg, D Grossman
+Publication: ACM SIGPLAN Notices 40 (9), 92-104
+
+14. RCDC: a relaxed consistency deterministic computer
+Citations:97
+Authors: J Devietti, J Nelson, T Bergan, L Ceze, D Grossman
+Publication: ACM SIGARCH Computer Architecture News 39 (1), 67-78
+
+15. Searching for type-error messages
+Citations:90
+Authors: BS Lerner, M Flower, D Grossman, C Chambers
+Publication: ACM SIGPLAN Notices 42 (6), 425-434
+
+16. Atomicity via source-to-source translation
+Citations:89
+Authors: B Hindman, D Grossman
+Publication: Proceedings of the 2006 workshop on Memory system performance and …
+
+17. Type-directed completion of partial expressions
+Citations:87
+Authors: D Perelman, S Gulwani, T Ball, D Grossman
+Publication: ACM Sigplan Notices 47 (6), 275-286
+
+18. IFRit: interference-free regions for dynamic data-race detection
+Citations:84
+Authors: L Effinger-Dean, B Lucia, L Ceze, D Grossman, HJ Boehm
+Publication: Acm Sigplan Notices 47 (10), 467-484
+
+19. Expressing and verifying probabilistic assertions
+Citations:81
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: ACM SIGPLAN Notices 49 (6), 112-122
+
+20. Experience with safe manual memory-management in cyclone
+Citations:81
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: Proceedings of the 4th international symposium on Memory management, 73-84
+
+21. Test-driven synthesis
+Citations:76
+Authors: D Perelman, S Gulwani, D Grossman, P Provost
+Publication: ACM Sigplan Notices 49 (6), 408-418
+
+22. ASF: AMD64 extension for lock-free data structures and transactional memory
+Citations:76
+Authors: J Chung, L Yen, S Diestelhorst, M Pohlack, M Hohmuth, D Christie, ...
+Publication: Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on …
+
+23. What do high-level memory models mean for transactions?
+Citations:76
+Authors: D Grossman, J Manson, W Pugh
+Publication: Proceedings of the 2006 workshop on Memory system performance and …
+
+24. Syntactic type abstraction
+Citations:76
+Authors: D Grossman, G Morrisett, S Zdancewic
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 22 (6), 1037-1080
+
+25. The transactional memory/garbage collection analogy
+Citations:66
+Authors: D Grossman
+Publication: ACM SIGPLAN Notices 42 (10), 695-706
+
+26. RADISH: always-on sound and complete Ra D etection in S oftware and H ardware
+Citations:58
+Authors: J Devietti, BP Wood, K Strauss, L Ceze, D Grossman, S Qadeer
+Publication: ACM SIGARCH Computer Architecture News 40 (3), 201-212
+
+27. Safe manual memory management in Cyclone
+Citations:56
+Authors: N Swamy, M Hicks, G Morrisett, D Grossman, T Jim
+Publication: Science of Computer Programming 62 (2), 122-144
+
+28. Monitoring and debugging the quality of results in approximate programs
+Citations:53
+Authors: M Ringenburg, A Sampson, I Ackerman, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 50 (4), 399-411
+
+29. Identifying and summarizing systematic code changes via rule inference
+Citations:53
+Authors: M Kim, D Notkin, D Grossman, G Wilson
+Publication: IEEE Transactions on Software Engineering 39 (1), 45-62
+
+30. A probabilistic optimization framework for the empty-answer problem
+Citations:50
+Authors: D Mottin, A Marascu, SB Roy, G Das, T Palpanas, Y Velegrakis
+Publication: Proceedings of the VLDB Endowment 6 (14), 1762-1773
+
+31. Support the data enthusiast: Challenges for next-generation data-analysis systems
+Citations:49
+Authors: K Morton, M Balazinska, D Grossman, J Mackinlay
+Publication: Proceedings of the VLDB Endowment 7 (6), 453-456
+
+32. Preventing format-string attacks via automatic and efficient dynamic checking
+Citations:49
+Authors: MF Ringenburg, D Grossman
+Publication: Proceedings of the 12th ACM conference on Computer and communications …
+
+33. Optimizing synthesis with metasketches
+Citations:44
+Authors: J Bornholt, E Torlak, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 51 (1), 775-788
+
+34. Crunching Large Graphs with Commodity Processors.
+Citations:44
+Authors: J Nelson, B Myers, AH Hunter, P Briggs, L Ceze, C Ebeling, D Grossman, ...
+Publication: HotPar 11, 10-10
+
+35. Scalable certification for typed assembly language
+Citations:43
+Authors: D Grossman, G Morrisett
+Publication: International Workshop on Types in Compilation, 117-145
+
+36. Cyclone: A type-safe dialect of C
+Citations:40
+Authors: D Grossman, M Hicks, T Jim, G Morrisett
+Publication: C/C++ Users Journal 23 (1), 112-139
+
+37. Compiling for template-based run-time code generation
+Citations:39
+Authors: F Smith, D Grossman, G Morrisett, L Hornof, T Jim
+Publication: Journal of Functional Programming 13 (3), 677-708
+
+38. Principals in programming languages: A syntactic proof technique
+Citations:37
+Authors: S Zdancewic, D Grossman, G Morrisett
+Publication: ACM SIGPLAN Notices 34 (9), 197-207
+
+39. Mining hot calling contexts in small space
+Citations:34
+Authors: DC D'Elia, C Demetrescu, I Finocchi
+Publication: ACM SIGPLAN Notices 46 (6), 516-527
+
+40. Probability type inference for flexible approximate programming
+Citations:32
+Authors: B Boston, A Sampson, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 50 (10), 470-487
+
+41. Method and apparatus for operating a node in an ad-hoc communication system
+Citations:31
+Authors: M Hoang, D Grossman, G Harvey
+Publication: US Patent App. 11/073,894
+
+42. Seminal: searching for ML type-error messages
+Citations:30
+Authors: B Lerner, D Grossman, C Chambers
+Publication: Proceedings of the 2006 workshop on ML, 63-73
+
+43. Audacious: User-driven access control with unmodified operating systems
+Citations:27
+Authors: T Ringer, D Grossman, F Roesner
+Publication: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …
+
+44. Quantified types in an imperative language
+Citations:25
+Authors: D Grossman
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 28 (3), 429-475
+
+45. Verified peephole optimizations for CompCert
+Citations:24
+Authors: E Mullen, D Zuniga, Z Tatlock, D Grossman
+Publication: ACM SIGPLAN Notices 51 (6), 448-461
+
+46. Java UI : Effects for Controlling UI Object Access
+Citations:24
+Authors: CS Gordon, W Dietl, MD Ernst, D Grossman
+Publication: European Conference on Object-Oriented Programming, 179-204
+
+47. Transactional events for ML
+Citations:24
+Authors: L Effinger-Dean, M Kehrt, D Grossman
+Publication: ACM Sigplan Notices 43 (9), 103-114
+
+48. Symbolic execution of multithreaded programs from arbitrary program contexts
+Citations:23
+Authors: T Bergan, D Grossman, L Ceze
+Publication: ACM SIGPLAN Notices 49 (10), 491-506
+
+49. Static lock capabilities for deadlock freedom
+Citations:23
+Authors: CS Gordon, MD Ernst, D Grossman
+Publication: Proceedings of the 8th ACM SIGPLAN workshop on Types in language design and …
+
+50. Existential types for imperative languages
+Citations:23
+Authors: D Grossman
+Publication: European Symposium on Programming, 21-35
+
+51. Input-covering schedules for multithreaded programs
+Citations:22
+Authors: T Bergan, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 48 (10), 677-692
+
+52. Back to the futures: Incremental parallelization of existing sequential runtime systems
+Citations:22
+Authors: J Swaine, K Tew, P Dinda, RB Findler, M Flatt
+Publication: ACM Sigplan Notices 45 (10), 583-597
+
+53. Public Data and Visualizations: How are Many Eyes and Tableau Public Used for Collaborative Analytics?
+Citations:20
+Authors: K Morton, M Balazinska, D Grossman, R Kosara, J Mackinlay
+Publication: ACM SIGMOD Record 43 (2), 17-22
+
+54. A theory of platform-dependent low-level software
+Citations:20
+Authors: M Nita, D Grossman, C Chambers
+Publication: ACM SIGPLAN Notices 43 (1), 209-220
+
+55. Safe programming at the C level of abstraction
+Citations:20
+Authors: D Grossman, G Morrisett
+Publication: Cornell University
+
+56. Quake: An Example Multi-User Network Application–Problems and Solutions in Distributed Interactive Simulations
+Citations:20
+Authors: S Bonham, D Grossman, W Portnoy, K Tam
+Publication: CSE 561 Term Project Report
+
+57. Zahradní slavnost
+Citations:20
+Authors: V Havel, J Grossman
+Publication: Orbis
+
+58. Low-level detection of language-level data races with LARD
+Citations:19
+Authors: BP Wood, L Ceze, D Grossman
+Publication: ACM SIGPLAN Notices 49 (4), 671-686
+
+59. Log-based transactional memory
+Citations:18
+Authors: KE Moore, D Grossman
+Publication: University of Wisconsin--Madison
+
+60. Œuf: minimizing the Coq extraction TCB
+Citations:16
+Authors: E Mullen, S Pernsteiner, JR Wilcox, Z Tatlock, D Grossman
+Publication: Proceedings of the 7th ACM SIGPLAN International Conference on Certified …
+
+61. Supporting dynamic, third-party code customizations in JavaScript using aspects
+Citations:16
+Authors: BS Lerner, H Venter, D Grossman
+Publication: ACM Sigplan Notices 45 (10), 361-376
+
+62. Safe and flexible memory management in Cyclone
+Citations:16
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: 
+
+63. Method of making finger rings
+Citations:16
+Authors: SM Grossman
+Publication: US Patent 1,431,652
+
+64. Rely-guarantee references for refinement types over aliased mutable data
+Citations:15
+Authors: CS Gordon, MD Ernst, D Grossman
+Publication: ACM SIGPLAN Notices 48 (6), 73-84
+
+65. Addressing dark silicon challenges with disciplined approximate computing
+Citations:15
+Authors: H Esmaeilzadeh, A Sampson, M Ringenburg, L Ceze, D Grossman, ...
+Publication: Proc. 4th Workshop on Energy-Efficient Design, 1-2
+
+66. Introducing parallelism and concurrency in the data structures course
+Citations:15
+Authors: D Grossman, RE Anderson
+Publication: Proceedings of the 43rd ACM technical symposium on Computer Science …
+
+67. Strong atomicity for Java without virtual-machine support
+Citations:14
+Authors: B Hindman, D Grossman
+Publication: UW-CSE Technical Report 2006-05 1
+
+68. SPOCs: what, why, and how
+Citations:13
+Authors: J Burge, A Fox, D Grossman, G Roth, J Warren
+Publication: Proceedings of the 46th ACM Technical Symposium on Computer Science …
+
+69. How programming languages will co-evolve with software engineering: a bright decade ahead
+Citations:12
+Authors: E Murphy-Hill, D Grossman
+Publication: Proceedings of the on Future of Software Engineering, 145-154
+
+70. Test-driven synthesis for automated feedback for introductory computer science assignments
+Citations:12
+Authors: D Perelman, S Gulwani, D Grossman
+Publication: Proceedings of Data Mining for Educational Assessment and Feedback (ASSESS 2014)
+
+71. Composable specifications for structured shared-memory communication
+Citations:12
+Authors: BP Wood, A Sampson, L Ceze, D Grossman
+Publication: ACM Sigplan Notices 45 (10), 140-159
+
+72. Software transactions are to concurrency as garbage collection is to memory management
+Citations:11
+Authors: D Grossman
+Publication: Technical report, UW-CSE, 82-91
+
+73. O kombinaci divadla a filmu
+Citations:10
+Authors: J Grossman
+Publication: Laterna magika: Sborník statí. Praha: Filmový ústav, 31-97
+
+74. Formal type soundness for Cyclone's region system
+Citations:9
+Authors: D Grossman, G Morrisett, T Jim, M Hicks, Y Wang, J Cheney
+Publication: Cornell University
+
+75. Staccato: A bug finder for dynamic configuration updates
+Citations:8
+Authors: J Toman, D Grossman
+Publication: 30th European Conference on Object-Oriented Programming (ECOOP 2016)
+
+76. Profiling and autotuning for energy-aware approximate programming
+Citations:8
+Authors: MF Ringenburg, A Sampson, L Ceze, D Grossman
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+77. Stable models of formulas with generalized quantifiers (preliminary report)
+Citations:8
+Authors: J Lee, Y Meng
+Publication: Technical Communications of the 28th International Conference on Logic …
+
+78. Language support for extensible web browsers
+Citations:8
+Authors: BS Lerner, D Grossman
+Publication: Proceedings of the 2010 workshop on analysis and programming languages for …
+
+79. Divadelní hry
+Citations:8
+Authors: B Brecht, J Grossman, V Bláha, L Kundera, R Vápeník
+Publication: SNKLU
+
+80. Dynamic analysis of approximate program quality
+Citations:7
+Authors: MF Ringenburg, A Sampson, I Ackerman, L Ceze, D Grossman
+Publication: University of Washington, Tech. Rep. UW-CSE-14-03-01
+
+81. Automatic transformation of bit-level C code to support multiple equivalent data layouts
+Citations:7
+Authors: M Nita, D Grossman
+Publication: International Conference on Compiler Construction, 85-99
+
+82. Texty o divadle: Č. 1
+Citations:7
+Authors: J Grossman, M Klíma, J Dvořák, Z Jindrová
+Publication: Pražská scéna
+
+83. Analýzy
+Citations:7
+Authors: J Grossman
+Publication: Československý spisovatel
+
+84. Divadelní úlohy filmu
+Citations:7
+Authors: J Grossman
+Publication: Divadlo10, 417-440
+
+85. Taming the static analysis beast
+Citations:6
+Authors: J Toman, D Grossman
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+86. Designing for extensibility and planning for conflict: experiments in web-browser design
+Citations:6
+Authors: BS Lerner, D Grossman
+Publication: University of Washington
+
+87. Ready-for-use: 3 weeks of parallelism and concurrency in a required second-year data-structures course
+Citations:6
+Authors: D Grossman
+Publication: SPLASH 2010 Workshop on Curricula for Concurrency and Parallelism (Reno …
+
+88. Learning Bayesian maximizing conditional likelihood
+Citations:6
+Authors: D Grossman, P Dominigos
+Publication: Proceedings on machine learning, 46-57
+
+89. Scalable Certification of Native Code: Experience from Compiling toTALx86
+Citations:6
+Authors: D Grossman, G Morrisett
+Publication: Cornell University
+
+90. Adapting proof automation to adapt proofs
+Citations:5
+Authors: T Ringer, N Yazdani, J Leo, D Grossman
+Publication: Proceedings of the 7th ACM SIGPLAN International Conference on Certified …
+
+91. Verifying invariants of lock-free data structures with rely-guarantee and refinement types
+Citations:5
+Authors: CS Gordon, MD Ernst, D Grossman, MJ Parkinson
+Publication: ACM Transactions on Programming Languages and Systems (TOPLAS) 39 (3), 11
+
+92. Toward a dependability case language and workflow for a radiation therapy system
+Citations:5
+Authors: MD Ernst, D Grossman, J Jacky, C Loncaric, S Pernsteiner, Z Tatlock, ...
+Publication: 1st Summit on Advances in Programming Languages (SNAPL 2015)
+
+93. A Measurement Study of Two Web-based Collaborative Visual Analytics Systems
+Citations:5
+Authors: K Morton, M Balazinska, D Grossman, R Kosara, J Mackinlay, A Halevy
+Publication: Technical Report
+
+94. EnerJ: Approximate Data Types for Safe and General Low-Power Computation—Full Proofs
+Citations:5
+Authors: A Sampson, W Dietl, E Fortuna, D Gnanapragasam, L Ceze, D Grossman
+Publication: Technical Report UW-CSE-10-12-01, University of Washington
+
+95. Macah: A “C-level” language for programming kernels on coprocessor accelerators
+Citations:5
+Authors: B Ylvisaker, A Carroll, S Friedman, B Van Essen, C Ebeling, D Grossman, ...
+Publication: Technical report, University of Washington, Department of CSE
+
+96. Software transactions meet first-class continuations
+Citations:5
+Authors: A Kimball, D Grossman
+Publication: 8th Annual Workshop on Scheme and Functional Programming
+
+97. Types for describing coordinated data structures
+Citations:5
+Authors: MF Ringenburg, D Grossman
+Publication: Proceedings of the 2005 ACM SIGPLAN international workshop on Types in …
+
+98. Learning Bayesian network classifiers by maximizing conditional likelihood. ICML-2004
+Citations:5
+Authors: D Grossman, P Domingos
+Publication: ACM press, USA
+
+99. „Síla věcnosti
+Citations:5
+Authors: J Grossman
+Publication: Jan Grossman 5, 280-292
+
+100. O krizi v literatuře
+Citations:5
+Authors: J Grossman
+Publication: Nový život 8, 1294-1302
+
+101. Boot, shoe, and other footwear.
+Citations:5
+Authors: J Grossman
+Publication: US Patent 859,291
+
+102. Debugging probabilistic programs
+Citations:4
+Authors: C Nandi, D Grossman, A Sampson, T Mytkowicz, KS McKinley
+Publication: Proceedings of the 1st ACM SIGPLAN International Workshop on Machine …
+
+103. Programming language tools and techniques for 3D printing
+Citations:4
+Authors: C Nandi, A Caspi, D Grossman, Z Tatlock
+Publication: 2nd Summit on Advances in Programming Languages (SNAPL 2017)
+
+104. Good-enough computing
+Citations:4
+Authors: A Sampson, L Ceze, D Grossman
+Publication: IEEE Spectrum 50 (10), 54-59
+
+105. The Case For Merging Execution-and Language-level Determinism with MELD
+Citations:4
+Authors: J Devietti, D Grossman, L Ceze
+Publication: Workshop on Determinism and Correctness in Parallel Programming (WoDet)
+
+106. Data-race exceptions have benefits beyond the memory model
+Citations:4
+Authors: BP Wood, L Ceze, D Grossman
+Publication: Proceedings of the 2011 ACM SIGPLAN Workshop on Memory Systems Performance …
+
+107. A sophomoric introduction to shared-memory parallelism and concurrency
+Citations:4
+Authors: D Grossman
+Publication: Lecture notes, Department of Computer Science & Engineering, University of …
+
+108. Lock prediction
+Citations:4
+Authors: B Lucia, J Devietti, T Bergan, L Ceze, D Grossman
+Publication: Proceedings of the 2nd USENIX Workshop on Hot Topics in Parallelism, 101-101
+
+109. Compiling for runtime code generation
+Citations:4
+Authors: F Smith, D Grossman, G Morrisett, L Hornof, T Jim
+Publication: Submitted for publication to JFP SAIG
+
+110. Machine learning ensembles: An empirical study and novel approach
+Citations:4
+Authors: D Grossman, T Williams
+Publication: Unpublished manuscript
+
+111. JDuck: Building a software engineering tool in Java as a CS2 project
+Citations:4
+Authors: M Godfrey, D Grossman
+Publication: ACM SIGCSE Bulletin 31 (1), 48-52
+
+112. TALx86: A realistic typed assembly language
+Citations:4
+Authors: GMKCN Glew, D Grossman, R Samuels, FSDWS Weirich, S Zdancewic
+Publication: Second Workshop on Compiler Support for System Software Atlanta May
+
+113. Tuning approximate computations with constraint-based type inference
+Citations:3
+Authors: B Boston, A Sampson, D Grossman, L Ceze
+Publication: Workshop on Approximate Computing Across the System Stack (WACAS)
+
+114. Rely-Guarantee References for Refinement Types Over Aliased Mutable Data (Extended Version)
+Citations:3
+Authors: CS Gordon, MD Ernst, D Grossman
+Publication: Technical Report UW-CSE-13-03-02, University of Washington
+
+115. Fragmentation in mental health benefits and services: a preliminary examination into consumption and outcomes
+Citations:3
+Authors: BD Richman, FA Sloan, D Grossman
+Publication: OUR FRAGMENTED HEALTH SYSTEM: CAUSES AND SOLUTIONS, Barak Richman, Daniel …
+
+116. Programming Idioms for Transactional Events
+Citations:3
+Authors: M Kehrt, L Effinger-Dean, M Schmitz, D Grossman
+Publication: arXiv preprint arXiv:1002.0936
+
+117. Code-centric communication graphs for shared-memory multithreaded programs
+Citations:3
+Authors: BP Wood, J Devietti, L Ceze, D Grossman
+Publication: Technical Report UW-CSE-09–05–02
+
+118. „Kapitoly o Jaroslavu Haškovi
+Citations:3
+Authors: J Grossman
+Publication: Z dějin českého myšlení o literatuře 1, 475-482
+
+119. Compiling for runtime code generation (extended version)
+Citations:3
+Authors: F Smith, D Grossman, G Morrisett, L Hornof, T Jim
+Publication: Cornell University
+
+120. Automated feedback and recognition through data mining in code hunt
+Citations:2
+Authors: D Perelman, J Bishop, S Gulwani, D Grossman
+Publication: Microsoft, Tech. Rep
+
+121. Quality of service profiling and autotuning for energy-aware approximate programming
+Citations:2
+Authors: MF Ringenburg, A Sampson, L Ceze, D Grossman
+Publication: Tech. Rep. UW-CSE-12-07-02, University of Washington
+
+122. The case for being lazy: How to leverage lazy evaluation in MapReduce
+Citations:2
+Authors: K Morton, M Balazinska, D Grossman, C Olston
+Publication: Proceedings of the 2nd international workshop on Scientific cloud computing, 1-6
+
+123. Region-Based Dynamic Separation for STM Haskell
+Citations:2
+Authors: L Effinger-Dean, D Grossman
+Publication: TRANSACT’11: 6th ACM SIGPLAN Workshop on Transactional Computing
+
+124. Modular metatheory for memory consistency models
+Citations:2
+Authors: L Effinger-Dean, D Grossman
+Publication: Technical Report UW-CSE-11-02-01, University of Washington Department of …
+
+125. Type safety and erasure proofs for “A type system for coordinated data structures”
+Citations:2
+Authors: MF Ringenburg, D Grossman
+Publication: Technical Report 2004-07-03, University of Washington
+
+126. Existential types for imperative languages: Technical results
+Citations:2
+Authors: D Grossman
+Publication: Cornell University
+
+127. Quilt2Sql-An ML Storage Schema and Query Engine for the Quilt Query Language
+Citations:2
+Authors: J Campbell, D Grossman, AM Popescu
+Publication: University of Washington CSE
+
+128. Jan Grossman: Texty o divadle
+Citations:2
+Authors: J Grossman, M Klíma
+Publication: Pražská scéna
+
+129. Život s hvězdou
+Citations:2
+Authors: J Weil, J Grossman
+Publication: Odeon
+
+130. Deníky Jiřího Ortena
+Citations:2
+Authors: J Orten, J Grossman
+Publication: 
+
+131. Concerto: a framework for combined concrete and abstract interpretation
+Citations:1
+Authors: J Toman, D Grossman
+Publication: Proceedings of the ACM on Programming Languages 3 (POPL), 43
+
+132. Ornaments for Proof Reuse in Coq
+Citations:1
+Authors: T Ringer, N Yazdani, J Leo, D Grossman
+Publication: 10th International Conference on Interactive Theorem Proving (ITP 2019)
+
+133. Functional programming for compiling and decompiling computer-aided design
+Citations:1
+Authors: C Nandi, JR Wilcox, P Panchekha, T Blau, D Grossman, Z Tatlock
+Publication: Proceedings of the ACM on Programming Languages 2 (ICFP), 99
+
+134. Legato: An at-most-once analysis with applications to dynamic configuration updates
+Citations:1
+Authors: J Toman, D Grossman
+Publication: 32nd European Conference on Object-Oriented Programming (ECOOP 2018)
+
+135. A solver-aided language for test input generation
+Citations:1
+Authors: T Ringer, D Grossman, D Schwartz-Narbonne, S Tasiran
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 91
+
+136. View-Driven Deduplication with Active Learning
+Citations:1
+Authors: K Morton, H Hajishirzi, M Balazinska, D Grossman
+Publication: arXiv preprint arXiv:1606.05708
+
+137. Staccato: A bug finder for dynamic configuration updates (artifact)
+Citations:1
+Authors: J Toman, D Grossman
+Publication: DARTS-Dagstuhl Artifacts Series 2
+
+138. Program Synthesis Without Full Specifications for Novel Applications
+Citations:1
+Authors: D Perelman, D Grossman, S Gulwani, E Torlak
+Publication: University of Washington Libraries
+
+139. Peek: A formally verified peephole optimization framework for x86
+Citations:1
+Authors: E Mullen, Z Tatlock, D Grossman
+Publication: CoqPL Workshop
+
+140. Computer Science Curricula 2013 (CS2013)
+Citations:1
+Authors: M Sahami, S Roach, E Cuadros-Vargas, A Danyluk, R Dodge, K Fisher, ...
+Publication: ACM Press and IEEE Computer Society Press
+
+141. High-level small-step operational semantics for transactions (technical companion)
+Citations:1
+Authors: KF Moore, D Grossman
+Publication: Technical report, Univ. of Wash. Dept. of Computer Science & Engineering …
+
+142. A theory of implementation-dependent low-level software
+Citations:1
+Authors: M Nita, D Grossman, C Chambers
+Publication: Technical Report 2006-10-01, Univ. of Wash. Dept. of Computer Science …
+
+143. A type system for coordinated data structures
+Citations:1
+Authors: MF Ringenburg, D Grossman
+Publication: July
+
+144. Stair.
+Citations:1
+Authors: S Grossman
+Publication: US Patent 868,430
+
+145. Probabilistic assertions: Extended semantics and proof
+Citations:1
+Authors: A Sampson, P Panchekha, T Mytkowicz, KS McKinley, D Grossman, ...
+Publication: 
+
+146. Sinking Point: Dynamic Precision Tracking for Floating-Point
+Citations:
+Authors: B Zorn, D Grossman, Z Tatlock
+Publication: Proceedings of the Conference for Next Generation Arithmetic 2019, 4
+
+147. Learning to Adapt: Analyses for Configurable Software
+Citations:
+Authors: J Toman
+Publication: 
+
+148. Legato: An At-Most-Once Analysis with Applications to Dynamic Configuration Updates (Artifact)
+Citations:
+Authors: J Toman, D Grossman
+Publication: Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik
+
+149. Pushing the Limits of Compiler Verification
+Citations:
+Authors: EA Mullen
+Publication: 
+
+150. Instrumentation bias for dynamic data race detection
+Citations:
+Authors: BP Wood, M Cao, MD Bond, D Grossman
+Publication: Proceedings of the ACM on Programming Languages 1 (OOPSLA), 69
+
+151. Systems and methods for providing deterministic execution
+Citations:
+Authors: LH Ceze, T Bergan, J Devietti, DJ Grossman, JE Nelson
+Publication: US Patent 9,146,746
+
+152. Approximate Program Synthesis
+Citations:
+Authors: J Bornholt, E Torlak, L Ceze, D Grossman
+Publication: Workshop on Approximate Computing Across the Stack (WAX w/PLDI)
+
+153. Shared-memory concurrency control with a data-structures focus
+Citations:
+Authors: D Grossman
+Publication: Topics in Parallel and Distributed Computing, 213-259
+
+154. Fork-join parallelism with a data-structures focus
+Citations:
+Authors: D Grossman
+Publication: Topics in Parallel and Distributed Computing, 157-211
+
+155. Dean Grossman
+Citations:
+Authors: CM Grossman
+Publication: Am. UL Rev. 65, 531
+
+156. Voltaire once wrote," The best is the enemy of the good."
+Citations:
+Authors: A Sampson, L Ceze, D Grossman
+Publication: IEEE SPECTRUM 50 (10), 56-59
+
+157. The cytotoxic effects of titanium oxide and zinc oxide nanoparticles oh Human Cervical Adenocarcinoma cell membranes
+Citations:
+Authors: T Mironava, A Applebaum, E Applebaum, S Guterman, K Applebaum, ...
+Publication: APS Meeting Abstracts
+
+158. Detecting conflicts among declarative UI extensions
+Citations:
+Authors: BS Lerner, D Grossman
+Publication: ACM SIGPLAN Notices 48 (2), 95-106
+
+159. Report on the SIGPLAN education board and related activities
+Citations:
+Authors: D Grossman
+Publication: ACM SIGPLAN Notices 47 (4a), 9-10
+
+160. Joseph L. Devietti
+Citations:
+Authors: BF Scholar
+Publication: Symposium on Computer Architecture (to appear at ISCA’12)
+
+161. Honors and Awards
+Citations:
+Authors: D Scholar
+Publication: International Symposium on Computer Architecture (ISCA'12)
+
+162. SIGPLAN Education Board and Related Activities Report
+Citations:
+Authors: D Grossman
+Publication: SIGPLAN Notices 46 (4), 6
+
+163. Report on the Electronic Discussion of PL at NSF
+Citations:
+Authors: D Grossman, K Fisher
+Publication: SIGPLAN Notices 46 (4), 15
+
+164. CSE332: Data Abstractions Lecture 26: Minimum Spanning Trees
+Citations:
+Authors: D Grossman
+Publication: 
+
+165. An overview of the Oregon programming languages summer school
+Citations:
+Authors: J Allen, Z Ariola, PL Curien, M Fluet, J Foster, D Grossman, R Harper, ...
+Publication: ACM SIGPLAN Notices 44 (11), 1-3
+
+166. DAMP 2008: Workshop on Declarative Aspects of Multicore Programming
+Citations:
+Authors: M Hermenegildo, K De Bosschere, M Carro, C Grelck, D Grossman, ...
+Publication: 
+
+167. Purifying causal atomicity
+Citations:
+Authors: B Lerner, D Grossman
+Publication: Technical report, University of Washington Computer Science and Engineering
+
+168. CSE 303: Concepts and Tools for Software Development
+Citations:
+Authors: D Grossman
+Publication: 
+
+169. Language specification
+Citations:
+Authors: D Grossman
+Publication: Conference on Object Oriented Programming Systems Languages and Applications …
+
+170. Object-Oriented Programming
+Citations:
+Authors: D Grossman
+Publication: 
+
+171. CSE 505: Concepts of Programming Languages
+Citations:
+Authors: D Grossman
+Publication: 
+
+172. Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 9 (1), pp: 316-327
+
+173. Brief announcement: Transactional memory and the birthday paradox.
+Citations:
+Authors: X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...
+Publication: Information Technology Journal 8 (7), pp: 316-327
+
+174. Cyclone: A Type-Safe Dialect of C-Cyclone is a dialect of C that retains its transparency and control but adds the benefits of safety.
+Citations:
+Authors: D Grossman, M Hicks, T Jim, G Morrissett
+Publication: C/C++ Users Journal, 6-13
+
+175. CSE 341: Programming Languages
+Citations:
+Authors: D Grossman
+Publication: 
+
+176. Threads
+Citations:
+Authors: D Grossman
+Publication: Conference on Programming Language Design and Implementation: Proceedings of …
+
+177. CSE 590DG, Winter 2004, Some Relevant Papers
+Citations:
+Authors: D Grossman
+Publication: IEEE Software 19 (1), 42-51
+
+178. Cyclone User's Manual, Version 0.1. 3
+Citations:
+Authors: D Grossman, G Morrisett, T Jim, M Hicks, Y Wang, J Cheney
+Publication: Cornell University
+
+179. Scalable Certification for Typed Assembly
+Citations:
+Authors: D Grossman, G Morrisett
+Publication: Types in Compilation: Third International Workshop, TIC 2000, Montreal …
+
+180. Ad Hoc Routing for Mobile Packet Networks: An Overview
+Citations:
+Authors: D Grossman, W Portnoy
+Publication: 
+
+181. Building a Software Engineering Tool in Java as a CS2 Project
+Citations:
+Authors: M Godfrey, D Grossman
+Publication: The proceedings of the Thirtieth SIGCSE Technical Symposium on Computer …
+
+182. Principals in Programming Languages: Technical Results
+Citations:
+Authors: S Zdancewic, D Grossman
+Publication: Cornell University
+
+183. WARTIME SCENARIOS IN THE MIDDLE EAST: ISRAEL’S CHANCES FOR SURVIVAL
+Citations:
+Authors: DM Grossman, J Bracken
+Publication: 
+
+184. Téze o divadle-klubu
+Citations:
+Authors: PI Trensky, WE Harkins, J Císař, V Blažek, V Gabriel, V Gabriel, V Havel, ...
+Publication: Czech Drama Since World War II 3 (2), v-viii
+
+185. Design for a finger ring
+Citations:
+Authors: S Grossman
+Publication: 
+
+186. General Terms
+Citations:
+Authors: K Morton, M Balazinska, D Grossman, C Olston
+Publication: 
+
+187. Solver Aided Reverse Engineering of Architectural
+Citations:
+Authors: B Zorn, D Grossman, L Ceze
+Publication: 
+
+188. Reasoning about Inference in Probabilistic Programs
+Citations:
+Authors: C Nandi, A Sampson, D Grossman, T Mytkowicz, KS McKinley
+Publication: 
+
+189. Topics in Parallel and Distributed Computing: Introducing Concurrency in Undergraduate Courses1, 2
+Citations:
+Authors: D Grossman
+Publication: 
+
+190. Workshop Publications
+Citations:
+Authors: C Gordon, L Meyerovich, J Weinberger, S Krishnamurthi, CS Gordon, ...
+Publication: 
+
+191. An Empirical Study of Satisfiability Solvers and Refinements to DPLL
+Citations:
+Authors: D Grossman, T Williams
+Publication: 
+
+192. Ph. D. Qualifying Project--February, 2002
+Citations:
+Authors: D Grossman, WL Ruzzo
+Publication: 
+
+193. 21st International Conference on Machine Learning--2004
+Citations:
+Authors: D Grossman, P Domingos
+Publication: 
+
+194. The Hint Mechanism in Code Hunt
+Citations:
+Authors: D Perelman, J Bishop, S Gulwani, D Grossman
+Publication: 
+
+195. Input-Covering Schedules for Multithreaded Programs
+Citations:
+Authors: TBLCD Grossman
+Publication: 
+
+196. to the Rescue
+Citations:
+Authors: A Seabaugh, B Gross, J Villasenor, A Sampson, L Ceze, D Grossman
+Publication: 
+
+197. JavaUI: Effects for Controlling UI Object Access (Extended Version)⋆
+Citations:
+Authors: CS Gordon, W Dietl, MD Ernst, D Grossman
+Publication: 
+
+198. Toward Supporting the Data Enthusiast: Unlocking the Potential of Data for Analysis
+Citations:
+Authors: K Morton, M Balazinska, D Grossman, J Mackinlay
+Publication: 
+
+199. LETTERto editor
+Citations:
+Authors: M Sahami, A Danyluk, S Fincher, D Grossman, E Hawthorne, R Katz, ...
+Publication: See what you’re m, 86
+
+200. Toward A Progress Indicator for Parallel Queries
+Citations:
+Authors: K Morton, A Friesen, M Balazinska, D Grossman
+Publication: 
+
+201. Short Presentation: Combining Garbage Collection and Safe Manual Memory Management
+Citations:
+Authors: M Hicks, D Grossman, T Jim
+Publication: 
+
+202. University of Waterloo Cornell University
+Citations:
+Authors: M Godfrey, D Grossman
+Publication: 
+
+203. Unique Pointers and Reference Counting in Cyclone
+Citations:
+Authors: M Hicks, G Morrisett, D Grossman, T Jim
+Publication: 
+
